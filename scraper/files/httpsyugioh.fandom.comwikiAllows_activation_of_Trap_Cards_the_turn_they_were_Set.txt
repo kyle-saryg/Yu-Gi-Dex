@@ -1,0 +1,23 @@
+Link: https://yugioh.fandom.com/wiki/Allows_activation_of_Trap_Cards_the_turn_they_were_Set
+
+This Property entry details every card with an effect that allows the player to activate Trap Cards during the turn they were Set on the field.
+ 
+ Contents 
+ 
+ 1   All  OCG / TCG  cards that allow the player to activate Trap Cards during the turn they were Set 
+ 2   All anime cards that allow the player to activate Trap Cards during the turn they were Set 
+ 3   All manga cards that allow the player to activate Trap Cards during the turn they were Set 
+ 
+ 
+ All  OCG / TCG  cards that allow the player to activate Trap Cards during the turn they were Set 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Absolute King Back Jack 絶対王 バック・ジャック Effect Monster DARK Fiend 1 0 0 The Dark Magicians 超魔導師－ブラック・マジシャンズ Effect Monster Fusion Monster DARK Spellcaster 8 2800 2300 Legendary Knight Critias 伝説の騎士 クリティウス Effect Monster LIGHT Warrior 8 2800 1800 Night Wing Sorceress 黒翼の魔術師 Effect Monster WIND Spellcaster 3 1300 1200 Paleozoic Cambroraster バージェストマ・カンブロラスター Effect Monster Link Monster WATER Aqua 1200 Reactor Slime リアクター・スライム Effect Monster WATER Aqua 4 500 500 
+   Japanese name Card type Property Altergeist Haunted Rock オルターガイスト・ホーンデッドロック Trap Card Continuous Trap Card Continuous Trap Card Amazement Precious Park アメイズメント・プレシャスパーク Spell Card Field Spell Card Field Spell Card Amazing Time Ticket アメイジングタイムチケット Spell Card Quick-Play Spell Card Quick-Play Spell Card Assault Mode Zero バスター・モード・ゼロ Spell Card Quick-Play Spell Card Quick-Play Spell Card Booby Trap E ブービートラップＥ Trap Card Normal Trap Card Normal Trap Card Boogie Trap ブーギートラップ Spell Card Normal Spell Card Normal Spell Card Dimension Slice ディメンション・スライド Trap Card Normal Trap Card Normal Trap Card Infernity Suppression インフェルニティ・サプレッション Trap Card Normal Trap Card Normal Trap Card Magical Cylinders リローデッド・シリンダー Trap Card Normal Trap Card Normal Trap Card Mirror Force Launcher ミラーフォース・ランチャー Trap Card Continuous Trap Card Continuous Trap Card The Phantom Knights of Shade Brigandine 幻影騎士団シェード・ブリガンダイン Trap Card Normal Trap Card Normal Trap Card Sun God Unification 太陽神の合一 Trap Card Continuous Trap Card Continuous Trap Card Temple of the Kings 王家の神殿 Spell Card Continuous Spell Card Continuous Spell Card Trap Trick トラップトリック Trap Card Normal Trap Card Normal Trap Card 
+ All anime cards that allow the player to activate Trap Cards during the turn they were Set 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF D/D Savant Einstein ＤＤ魔導賢者アルベルト Pendulum Monster DARK Fiend 0 0 0 5 0 0 0 0 0 ??? 0 0 0 0 1900 
+   Japanese name Card type Property Temple of the Kings 王家の神殿 Spell Card Continuous Spell Card 
+ All manga cards that allow the player to activate Trap Cards during the turn they were Set 
+   Japanese name Card type Property Phantom Knights Shade Brigandine 幻影騎士団シェード・ブリガンダイン Trap Card Normal Trap Card 
+ 
+ 
+ 
+Categories: Cards by effect properties

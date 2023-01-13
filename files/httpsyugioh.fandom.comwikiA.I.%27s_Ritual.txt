@@ -1,0 +1,263 @@
+Link: https://yugioh.fandom.com/wiki/A.I.%27s_Ritual
+
+
+ 
+ 
+ A.I.'s Ritual Ａｉ の 儀 式 
+ 
+ English 
+A.I.'s Ritual 
+ French 
+ Rituel d'A.I. Check translation 
+ German 
+ A.I.-Ritual Check translation 
+ Italian 
+ Rituale delle A.I. Check translation 
+ Korean 
+ Ai 의 의식 Check translation 
+ Portuguese 
+ Ritual da I.A. Check translation 
+ Spanish 
+ Ritual de A.I. Check translation 
+ Japanese (kana) 
+ アイのぎしき Check translation 
+ Japanese (base) 
+ Ａｉの儀式 Check translation 
+ Japanese ( rōmaji ) 
+Ai no Gishiki 
+ Japanese (translated) 
+Ai's Ritual 
+ Card type 
+ Spell   
+ Property 
+ Ritual   
+ Passcode 
+ 85327820 
+ Card effect types 
+ 
+ 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+This card can be used to  Ritual Summon  any  Cyberse   Ritual Monster . You must also  Tribute  " @Ignister "  monsters  from your  hand  or  field  whose total  Levels  equal or exceed the Level of the Ritual Monster you Ritual Summon. If you  control  an "@Ignister" monster when this  effect  is  activated , you can also use "@Ignister" monster(s) in your  GY , by  banishing  them. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Cette carte peut être utilisée pour Invoquer Rituellement un Monstre Rituel Cyberse. Vous devez aussi Sacrifier des monstres "@Ignister" depuis votre main ou Terrain dont le Niveau total est supérieur ou égal au Niveau du Monstre Rituel que vous Invoquez Rituellement. Si vous contrôlez un monstre "@Ignister" lorsque cet effet est activé, vous pouvez aussi utiliser un ou plusieurs monstres "@Ignister" dans votre Cimetière, en les bannissant. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Diese Karte kann verwendet werdet, um ein beliebiges Cyberse-Ritualmonster als Ritualbeschwörung zu beschwören. Du musst zusätzlich „@Ignister“-Monster, deren gemeinsame Stufe größer oder gleich der Stufe des Ritualmonsters ist, das du als Ritualbeschwörung beschwörst, von deiner Hand oder Spielfeldseite als Tribut anbieten. Falls du ein „@Ignister“-Monster kontrollierst, wenn dieser Effekt aktiviert wird, kannst du auch ein oder mehr „@Ignister“-Monster in deinem Friedhof verwenden, indem du sie verbannst. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Questa carta può essere utilizzata per Evocare tramite Rituale qualsiasi Mostro Rituale Cyberso. Devi anche offrire come Tributo dalla tua mano o Terreno mostri "@Ignister" il cui Livello totale sia pari o superiore al Livello del Mostro Rituale che stai Evocando tramite Rituale. Se controlli un mostro "@Ignister" quando questo effetto viene attivato, puoi anche utilizzare uno o più mostri "@Ignister" nel tuo Cimitero, bandendoli. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Este card pode ser usado para Invocar qualquer Monstro de Ritual Ciberso por Invocação-Ritual. Você também deve oferecer como Tributo monstros "@Ignister" da sua mão ou do campo cuja soma dos Níveis seja igual ou exceda o Nível do Monstro de Ritual que você estiver Invocando por Invocação-Ritual. Se você controlar um monstro "@Ignister" quando este efeito for ativado, você também pode usar um ou mais monstros "@Ignister" no seu Cemitério, banindo-os. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Esta carta puede ser usada para Invocar por Ritual cualquier Monstruo de Ritual Ciberso. También debes Sacrificar monstruos "@Ignister" en tu mano o Campo cuyos Niveles totales igualen o superen el Nivel del Monstruo de Ritual que Invoques por Ritual. Si controlas un monstruo "@Ignister" cuando este efecto es activado, también puedes usar monstruos "@Ignister" en tu Cementerio, desterrándolos. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ サイバース族の儀式モンスターの降臨に必要。①：レベルの合計が儀式召喚するモンスターのレベル以上になるように、自分の手札・フィールドの「＠イグニスター」モンスターをリリースし、手札からサイバース族の儀式モンスター１体を儀式召喚する。発動時に自分フィールドに「＠イグニスター」モンスターが存在する場合、自分の墓地の「＠イグニスター」モンスターもリリースの代わりに除外する事ができる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 사이버스족 의식 몬스터의 의식 소환에 필요. ①: 레벨의 합계가 의식 소환할 몬스터의 레벨 이상이 되도록, 자신의 패 / 필드의 "＠(앳)이그니스터" 몬스터를 릴리스하고, 패에서 사이버스족 의식 몬스터 1장을 의식 소환한다. 발동시에 자신 필드에 "＠(앳)이그니스터" 몬스터가 존재할 경우, 자신 묘지의 "＠(앳)이그니스터" 몬스터도 릴리스 대신에 제외할 수 있다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2020-01-30 IGAS-EN054 Ignition Assault Common 2021-09-30 MP21-EN025 2021 Tin of Ancient Battles Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2020-01-30 IGAS-FR054 Ignition Assault l'Assaut de l'Ignition Common 2021-09-30 MP21-FR025 2021 Tin of Ancient Battles Boîte des Batailles Anciennes 2021 Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2020-01-30 IGAS-DE054 Ignition Assault Ignition Assault Common 2021-09-30 MP21-DE025 2021 Tin of Ancient Battles 2021 Tin of Ancient Battles Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2020-01-30 IGAS-IT054 Ignition Assault Assalto Accensione Common 2021-09-30 MP21-IT025 2021 Tin of Ancient Battles Tin delle Battaglie Antiche 2021 Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2020-01-30 IGAS-PT054 Ignition Assault Ataque de Ignição Common 2021-09-30 MP21-PT025 2021 Tin of Ancient Battles Lata das Batalhas Antigas 2021 Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2020-01-30 IGAS-SP054 Ignition Assault Asalto Ignición Common 2021-09-30 MP21-SP025 2021 Tin of Ancient Battles 2021 Lata de Antiguas Batallas Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2019-10-12 IGAS-JP054 Ignition Assault イグニッション・アサルト Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2020-01-10 IGAS-KR054 Ignition Assault 이그니션 어썰트 Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Cyberse 
+ Ritual Monster 
+ 
+ Archetypes  and  series   
+ A.I. 
+ 
+ Supports   archetypes   
+ @Ignister 
+ 
+ Actions  
+ Tributes as an effect 
+ 
+ Summoning  categories  
+ Special Summons from your hand 
+ 
+ Banished  categories  
+ Banishes from your Graveyard 
+ Banishes monsters from Graveyard for Ritual Summon 
+ 
+ Miscellaneous  
+ Nonspecific Ritual Spell Card 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14863 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " A.I.'s Ritual " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" @Ignister " 「 ＠ イグニスター」 Members 
+ Achichi @Ignister The Arrival Cyberse @Ignister Bururu @Ignister Danmari @Ignister Dark Infant @Ignister Dark Templar @Ignister Donyoribo @Ignister Doshin @Ignister Doyon @Ignister Earth Golem @Ignister Fire Phoenix @Ignister Gatchiri @Ignister Gussari @Ignister Hiyari @Ignister Light Dragon @Ignister Pikari @Ignister Water Leviathan @Ignister Wind Pegasus @Ignister 
+ Support 
+ Achichi @Ignister The Arrival Cyberse @Ignister Bururu @Ignister Danmari @Ignister Dark Infant @Ignister Dark Templar @Ignister Donyoribo @Ignister Doshin @Ignister Doyon @Ignister Fire Phoenix @Ignister Hiyari @Ignister Light Dragon @Ignister Linguriboh Pikari @Ignister Wind Pegasus @Ignister 
+ A.I. Challenge You A.I. Love Fusion A.I. Meet You A.I. Shadow A.I.'s Ritual A.I.'s Show A.I.Q A.I.dle Reborn FA.I.ghting Spirit Ignister A.I.Land TA.I. Strike 
+ Related 
+ Linkuriboh 
+ 
+   
+" A.I. " 「 Ａｉ 」 Members 
+ A.I. Challenge You A.I. Contact A.I. Love Fusion A.I. Meet You A.I. Shadow A.I.'s Ritual A.I.'s Show A.I.Q A.I.dle Reborn FA.I.ghting Spirit Ignister A.I.Land TA.I. Strike You and A.I. 
+ Support 
+ Donyoribo @Ignister Doyon @Ignister Pikari @Ignister 
+ A.I.dle Reborn 
+ Related 
+ Dark Infant @Ignister 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/8a/AIsRitual-MP21-EN-C-1E.png/revision/latest?cb=20211029213810', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/f/f5/Ritual.svg/revision/latest/scale-to-width-down/28?cb=20120920115233']
+Categories: Duel Monsters cards, TCG cards, OCG cards

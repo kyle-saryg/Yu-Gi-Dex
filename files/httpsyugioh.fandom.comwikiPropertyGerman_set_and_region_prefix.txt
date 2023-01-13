@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:German_set_and_region_prefix
+
+This indicates the set prefix for what a German  TCG  set has. It uses  string  values.
+ 
+ 
+ 
+ 
+Categories:

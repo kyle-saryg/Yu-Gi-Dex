@@ -1,0 +1,467 @@
+Link: https://yugioh.fandom.com/wiki/Amorphage_Goliath
+
+
+ 
+ 
+ Amorphage Goliath アモルファージ・イリテュム 
+ 
+ English 
+Amorphage Goliath 
+ French 
+ Goliath Amorphage Check translation 
+ German 
+ Amorphage Goliath Check translation 
+ Italian 
+ Amorfago Golia Check translation 
+ Korean 
+ 아모르파지 이리튬 Check translation 
+ Portuguese 
+ Amórfago Golias Check translation 
+ Spanish 
+ Amórfago Goliat Check translation 
+ Japanese 
+ アモルファージ・イリテュム Check translation 
+ Japanese ( rōmaji ) 
+Amorufāji Irityumu 
+ Japanese (translated) 
+Amorphage Irritum 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Dragon  /  Pendulum  /  Effect 
+ Level 
+ 8   
+ Pendulum Scale 
+   5 
+ ATK  /  DEF 
+ 2750  /  0 
+ Passcode 
+ 69072185 
+ Card effect types 
+ Pendulum Effect  
+ Continuous-like 
+ Maintenance cost 
+ Monster Effect 
+ Continuous Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Pendulum Effect : While you  control  an " Amorphage "  monster , any card  sent  to the  Graveyard  is  banished  instead, except "Amorphage" cards.  Once per turn , during your  Standby Phase ,  Tribute  1 monster or  destroy  this card. Monster Effect : Neither player can  Special Summon  monsters from the  Extra Deck , except "Amorphage" monsters. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Effet Pendule  
+ Tant que vous contrôlez un monstre "Amorphage", les cartes (cartes "Amorphage" exclues) envoyées au Cimetière sont bannies à la place. Une fois par tour, durant votre Standby Phase, Sacrifiez 1 monstre ou détruisez cette carte. 
+ Effet de Monstre  
+   Aucun joueur ne peut Invoquer Spécialement de monstres (monstres "Amorphage" exclus) depuis l'Extra Deck. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Pendeleffekt 
+ Solange du ein „Amorphage“-Monster kontrollierst, wird jede Karte, die auf den Friedhof gelegt wird, stattdessen verbannt, außer „Amorphage“-Karten. Einmal pro Spielzug, während deiner Standby Phase, biete 1 Monster als Tribut an oder zerstöre diese Karte. 
+ Monstereffekt 
+   Kein Spieler kann Monster als Spezialbeschwörung vom Extra Deck beschwören, außer „Amorphage“-Monstern. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Effetto Pendulum 
+ Mentre controlli un mostro "Amorfago", qualsiasi carta mandata al Cimitero viene invece bandita, eccetto le carte "Amorfago". Una volta per turno, durante la tua Standby Phase, offri come Tributo 1 mostro o distruggi questa carta. 
+ Effetto Mostro 
+   Nessun giocatore può Evocare Specialmente mostri dall'Extra Deck, eccetto mostri "Amorfago". 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Efeito de Pêndulo 
+ Enquanto você  controlar  um  monstro  " Amórfago ", qualquer card  enviado  para o  Cemitério , em vez disso, é  banido , exceto cards "Amórfago(a)".  Uma vez por turno , durante sua  Fase de Apoio , ofereça 1 monstro como  Tributo  ou  destrua  este card. 
+ Efeito de Monstro 
+   Nenhum duelista pode  Invocar   monstros  do  Deck Adicional  por  Invocação-Especial , exceto monstros " Amórfago ". 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Efecto de Péndulo 
+ Mientras controles un monstruo "Amórfago/a", cualquier carta mandada al Cementerio es en su lugar desterrada, excepto cartas "Amórfago/a". Una vez por turno, durante tu Standby Phase, Sacrifica 1 monstruo o destruye esta carta. 
+ Efecto de Monstruo 
+   Ningún jugador puede Invocar monstruos de Modo Especial desde el Deck Extra, excepto monstruos "Amórfago/a". 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Ｐ 効 果 
+ このカードのコントローラーは、自分スタンバイフェイズ毎に自分フィールドのモンスター１体をリリースする。またはリリースせずにこのカードを破壊する。①：自分フィールドに「アモルファージ」モンスターが存在する限り、「アモルファージ」カード以外のお互いの墓地へ送られるカードは墓地へは行かず除外される。 
+ モンスターの 効 果 
+   ①：このカードがモンスターゾーンに存在する限り、お互いに「アモルファージ」モンスターしかエクストラデッキから特殊召喚できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 이 카드가 몬스터 존에 존재하는 한, 서로 "아모르파지" 몬스터밖에 엑스트라 덱에서 특수 소환할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2016-05-05  
+ SHVI-EN031   
+ Shining Victories 
+ Super Rare 
+ 
+ 
+ 2019-08-22  
+ FIGA-EN057   
+ Fists of the Gadgets 
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2016-05-05  
+ SHVI-FR031   
+ Shining Victories 
+ Les Victoires Scintillantes  
+ Super Rare 
+ 
+ 
+ 2019-08-22  
+ FIGA-FR057   
+ Fists of the Gadgets 
+ Les Poings Des Gadgets  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2016-05-05  
+ SHVI-DE031   
+ Shining Victories 
+ Shining Victories  
+ Super Rare 
+ 
+ 
+ 2019-08-22  
+ FIGA-DE057   
+ Fists of the Gadgets 
+ Fists Of The Gadgets  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2016-05-05  
+ SHVI-IT031   
+ Shining Victories 
+ Vittorie Brillanti  
+ Super Rare 
+ 
+ 
+ 2019-08-22  
+ FIGA-IT057   
+ Fists of the Gadgets 
+ Pugni Dei Congegni  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2016-05-06  
+ SHVI-PT031   
+ Shining Victories 
+ Conquistas Brilhantes  
+ Super Rare 
+ 
+ 
+ 2019-08-22  
+ FIGA-PT057   
+ Fists of the Gadgets 
+ Punhos Mecânicos  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2016-05-05  
+ SHVI-SP031   
+ Shining Victories 
+ Victorias Brillantes  
+ Super Rare 
+ 
+ 
+ 2019-08-22  
+ FIGA-SP057   
+ Fists of the Gadgets 
+ Puños de los Artilugios  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2016-01-09  
+ SHVI-JP031   
+ Shining Victories 
+ シャイニング・ビクトリーズ  
+ Super Rare 
+ 
+ 
+ 2016-01-09  
+ SHVI-JP031   
+ Shining Victories 
+ シャイニング・ビクトリーズ  
+ Secret Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2016-05-17  
+ SHVI-KR031   
+ Shining Victories 
+ 샤이닝 빅토리즈  
+ Super Rare 
+ 
+ 
+ 2016-05-17  
+ SHVI-KR031   
+ Shining Victories 
+ 샤이닝 빅토리즈  
+ Secret Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Amorphage 
+ 
+ Supports   archetypes   
+ Amorphage 
+ 
+ Related to  archetypes  and  series   
+ Dracoverlord 
+ 
+ Actions  
+ Tributes for cost 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ Summoning  categories  
+ Restricts the player's Special Summons from the Extra Deck 
+ Restricts the player's Special Summons to archetype specific monsters 
+ Prevents your opponent's Special Summons 
+ 
+ Banished  categories  
+ Banishes from your field 
+ Banishes from your opponent's field 
+ Banishes from your hand 
+ Banishes from your opponent's hand 
+ Banishes from your Deck 
+ Banishes from your opponent's Deck 
+ Banishes from your Extra Deck 
+ Banishes from your opponent's Extra Deck 
+ Banishes Xyz Materials 
+ Banishes negated Summons 
+ Banishes cards that would be sent to the Graveyard 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12303 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Amorphage " 「アモルファージ」 Members 
+ Amorphage Envy Amorphage Gluttony Amorphage Goliath Amorphage Greed Amorphage Lechery Amorphage Pride Amorphage Sloth Amorphage Wrath 
+ Amorphage Infection Amorphage Lysis 
+ Support 
+ Amorphage Envy Amorphage Gluttony Amorphage Goliath Amorphage Greed Amorphage Lechery Amorphage Pride Amorphage Sloth Amorphage Wrath 
+ Amorphage Infection Amorphage Lysis Amorphous Persona 
+ Related 
+ Amorphactor Pain, the Imagination Dracoverlord Lector Pendulum, the Dracoverlord Vector Pendulum, the Dracoverlord 
+ 
+   
+" Dracoverlord " 「 竜 魔 王 」 Members 
+ Amorphactor Pain, the Imagination Dracoverlord Lector Pendulum, the Dracoverlord Vector Pendulum, the Dracoverlord 
+ Support 
+ Amorphactor Pain, the Imagination Dracoverlord Master Peace, the True Dracoslayer 
+ Draco Face-Off Dragonic Pendulum Forge of the True Dracos 
+ Related 
+ Amorphage Goliath Luster Pendulum, the Dracoslayer Master Pendulum, the Dracoslayer 
+ Amorphous Persona 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a7/AmorphageGoliath-SHVI-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20160506091838', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

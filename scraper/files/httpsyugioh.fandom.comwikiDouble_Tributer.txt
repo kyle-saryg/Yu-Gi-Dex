@@ -1,0 +1,483 @@
+Link: https://yugioh.fandom.com/wiki/Double_Tributer
+
+      An example of a Double Tributer     
+ This card can be treated as 2 Tributes for the Tribute Summon of a [...] monster. 
+ — The  TCG  text denoting a Double Tributer 
+ 
+ Double Tributers  (ダブルコストモンスター, Daburu Kosuto Monsutā "Double Cost Monster") are monsters that can be treated as two Tributes for a  Tribute Summon . This applies both while  face-up  and  face-down  on the  field . They usually work for monsters of a specific  Attribute ,  Type , or  archetype .
+ This is considered an  effect  and can be  negated  with cards like " Skill Drain ".
+ Double Tributers are only treated as one card being Tributed for card effects like " Advance Zone ". Double Tributers can be used as two of the Tributes for a  Normal Summon with 3 Tributes ; cards like " Gilford the Lightning " will get their effect if Tribute Summoned with a double Tributer and another monster.
+ The following cards have an effect that lets themselves or other cards be treated as two Tributes for a Tribute Summon.
+ 
+ 
+ List of TCG/OCG Double Tributers 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Arcana Force VI - The Lovers アルカナフォースⅥ－ＴＨＥ ＬＯＶＥＲＳ Effect Monster LIGHT Fairy 4 1600 1600 Bombheart バクハート Effect Monster LIGHT Winged Beast 3 800 1000 Chronomaly Mayan Machine 先史遺産 マヤン・マシーン Effect Monster EARTH Machine 3 1500 700 Dark Effigy ダークフレーム Effect Monster DARK Fiend 4 1500 0 Double Coston ダブルコストン Effect Monster DARK Zombie 4 1700 1650 Earth Effigy ガイアフレーム Effect Monster EARTH Rock 4 100 2000 Egyptian God Slime 神・スライム Effect Monster Fusion Monster WATER Aqua 10 3000 3000 Flame Ruler 炎を支配する者 Effect Monster FIRE Pyro 4 1500 1600 Gaia the Fierce Knight Origin 暗黒騎士ガイアオリジン Effect Monster EARTH Warrior 4 1600 1200 Gellenduo ジェルエンデュオ Effect Monster LIGHT Fairy 4 1700 0 Justice Dragon ジャスティス・ドラゴン Effect Monster LIGHT Dragon 5 1200 1200 Kaiser Sea Horse カイザー・シーホース Effect Monster LIGHT Sea Serpent 4 1700 1650 Keeper of the Shrine 霊廟の守護者 Effect Monster DARK Dragon 4 0 2100 Light Effigy ホーリーフレーム Effect Monster LIGHT Fairy 4 1500 0 Performapal Revue Dancer ＥＭレビュー・ダンサー Effect Monster LIGHT Spellcaster 3 800 1000 Performapal Whim Witch ＥＭウィム・ウィッチ Effect Monster Pendulum Monster DARK Spellcaster 3 800 800 Rose Witch ローズ・ウィッチ Effect Monster EARTH Plant 4 1600 1000 Samsara Dragon 輪廻竜サンサーラ Effect Monster LIGHT Dragon 1 0 0 Serenade the Melodious Diva 幻奏の音女セレナ Effect Monster LIGHT Fairy 4 400 1900 Steelswarm Genome インヴェルズ万能態 Effect Monster DARK Fiend 2 1000 0 Superheavy Samurai Big Waraji 超重武者ビッグワラ－Ｇ Effect Monster EARTH Machine 5 800 1800 Time Maiden 時械巫女 Effect Monster LIGHT Fairy 1 0 0 Totem Dragon ミンゲイドラゴン Effect Monster EARTH Dragon 2 400 200 The Trojan Horse トロイホース Effect Monster EARTH Beast 4 1600 1200 Unshaven Angler ヒゲアンコウ Effect Monster WATER Fish 4 1500 1600 Whirlwind Prodigy 暴風小僧 Effect Monster WIND Fairy 4 1500 1600 Wind Effigy ウィンドフレーム Effect Monster WIND Winged Beast 4 1800 200 World Legacy - "World Ark" 星遺物－『星櫃』 Effect Monster DARK Machine 7 2500 500 
+   Japanese name Card type Property Earthbound Geoglyph 地縛地上絵 Spell Card Field Spell Card Field Spell Card The First Monarch 始源の帝王 Trap Card Continuous Trap Card Continuous Trap Card Qlife's End 機殻の凍結 Trap Card Normal Trap Card Normal Trap Card Restoration of the Monarchs 再臨の帝王 Spell Card Equip Spell Card Equip Spell Card Saqlifice 機殻の生贄 Spell Card Equip Spell Card Equip Spell Card The Snow-Capped Summit of Spectral Shangri-La 透幻郷の銀嶺 Spell Card Field Spell Card Field Spell Card 
+ List of Anime Double Tributers 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Arcana Force VI - The Lovers アルカナフォースⅥ－ＴＨＥ ＬＯＶＥＲＳ Effect Monster LIGHT Fairy 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1600 Chronomaly Mayan Machine 先史遺産 マヤン・マシーン Effect Monster EARTH Machine 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 1500 D3 Ｄ３ Effect Monster DARK Machine 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 Double Coston ダブルコストン Effect Monster DARK Zombie 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1700 Gellenduo ジェルエンデュオ Effect Monster LIGHT Fairy 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1700 Icicle Token 氷柱トークン Token Monster WATER Aqua 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 Justice Dragon ジャスティス・ドラゴン Effect Monster LIGHT Dragon 0 0 0 5 0 0 0 0 0 ??? 0 0 0 0 1200 Kaiser Sea Horse カイザー・シーホース Effect Monster LIGHT Sea Serpent 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1700 Mystical Beast Serket 聖獣セルケト Ritual Monster EARTH Fairy 0 0 0 0 0 ??? 0 0 0 0 2500 Performapal Hip Hippo ＥＭディスカバー・ヒッポ Effect Monster EARTH Beast 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 800 Performapal Revue Dancer ＥＭレビュー・ダンサー Effect Monster LIGHT Spellcaster 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 800 Performapal Whim Witch ＥＭウィム・ウィッチ Pendulum Monster DARK Spellcaster 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 800 Serenade the Melodious Diva 幻奏の音女セレナ Effect Monster LIGHT Fairy 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 0 400 Superheavy Samurai Big Waraji 超重武者ビッグワラ－Ｇ Effect Monster EARTH Machine 0 0 0 5 0 0 0 0 0 ??? 0 0 0 0 0 800 Time Maiden 時械巫女 Effect Monster LIGHT Spellcaster 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 The Trojan Horse トロイホース Effect Monster EARTH Beast 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1600 Unshaven Angler ヒゲアンコウ Effect Monster WATER Fish 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1500 Whirlwind Prodigy 暴風小僧 Effect Monster WIND Fairy 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1500 
+   Japanese name Card type Property Great Sword グレード・ソード Spell Card Equip Spell Card Icicle Sacrifice 生け贄の氷柱 Spell Card Normal Spell Card Photon Spear フォトン・スピア Spell Card Equip Spell Card Tribute Ticket リリース・チケット Spell Card Continuous Spell Card 
+ List of Manga Double Tributers 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Rose Witch ローズ・ウィッチ Normal Monster EARTH Plant 0 0 0 4 0 0 0 0 1600 0 0 0 0 1000 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e3/DoubleCoston-GLD5-EN-C-LE.png/revision/latest/scale-to-width-down/180?cb=20120622090856']
+Categories: Gameplay

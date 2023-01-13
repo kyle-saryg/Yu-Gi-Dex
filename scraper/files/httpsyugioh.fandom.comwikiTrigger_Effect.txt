@@ -1,0 +1,570 @@
+Link: https://yugioh.fandom.com/wiki/Trigger_Effect
+
+
+ 
+ Trigger Effect
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 誘 発 効 果 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ ゆうはつこうか
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 誘発効果
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Yūhatsu Kōka
+ 
+ 
+ 
+ Japanese (translated)
+ 
+ 
+ Evoked Effect
+ 
+ 
+ 
+ English
+ 
+ 
+ Trigger Effect
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Effet Déclencheur 
+ German : Triggereffekt 
+ Italian : Effetto Innescato 
+ Portuguese : Efeito de Gatilho 
+ Spanish : Efecto Disparado 
+ Korean : 유발 효과 (誘發效果)  Yubal Hyogwa 
+ Traditional Chinese : 誘發效果  Yòufā Xiàoguǒ / Jau5 faat3 Haau6 gwo2 
+ Simplified Chinese : 诱发效果  Yòufā Xiàoguǒ 
+ 
+ 
+ Trigger Effects  (Japanese:  誘 発 効 果   Yūhatsu Kōka , Evoked Effect) are a type of  card effect  for  Monster Cards  that  activate  when a certain condition is met.  Trigger-like Effects  are the parallel type of card effect for  Spell / Trap Cards .
+ Trigger Effects are  Spell Speed 1  effects. In general, Trigger Effects can be activated during any  phase , although many individual Trigger Effects have restrictions on the phases in which they can be activated as part of their activation timing. Trigger Effects can be  mandatory  or  optional . Here is an example.  If you control "Starving Venom Fusion Dragon", its effect states: "If this card is Fusion Summoned, you can make this card gain ATK equal to 1 opponent's Special Summoned Monster." If this card IS successfully Fusion Summoned, then its controller can choose when to activate the effect. This is because "IF" effects cannot miss the timing. However, this effect only lasts until the end of the current turn.
+ Trigger Effects activate only once each time their condition is met. For example, if you control " Solemn Wishes " and draw 2 cards at once, you will only gain 500 LP (not 1000) because you performed only one act of drawing cards; and if you control " Aromage Jasmine " and gain 1000 LP, you will draw 1 card.
+ 
+ Contents 
+ 
+ 1   Identifying Trigger Effects 
+ 2   Mechanics 
+ 
+ 2.1   Missing the timing 
+ 2.2   Simultaneous Effects Go On Chain 
+ 
+ 
+ 3   Example 
+ 4   List of TCG and OCG Monsters with Trigger Effects 
+ 
+ 
+ Identifying Trigger Effects 
+ For cards with  Problem-Solving Card Text , Trigger Effects can be identified by looking for a timing or event-related condition, followed by a colon. For example, the text " During the Standby Phase: You can... " or " If this card is destroyed by battle: You can... " indicates that the effect is a Trigger Effect, as they identify a specific phase or event during which the effect activates.
+ Optional effects with the activation timing " Once per turn: You can... " or " During your Main Phase: You can... " are  Ignition Effects  rather than Trigger Effects. Trigger Effects may use the phrase "once per turn" in their activation timing, but not on its own.
+ Effects with the phrase " during either player's turn " in their activation timing are  Quick Effects  rather than Trigger Effects.
+ 
+ Mechanics 
+ Missing the timing 
+ Main article:  Missing the timing 
+ Optional  Trigger Effects that use the word "when" in their activation timing can miss the timing. This occurs when a optional Trigger Effect that uses "when" meets its activation timing, but another action is performed before it has a chance to activate.
+ If an optional Trigger Effect that does not miss the timing or a mandatory Trigger Effect meets its activation timing at an instant that Spell Speed 1 effects cannot be activated, such as when a  Chain  already exists, then it will start a  Chain  at the next possible opportunity. "If" and "during" are commonly used in place of "when" for effects that cannot miss the timing.
+ For example, " Peten the Dark Clown " has a "when" optional Trigger Effect. When a monster is  Tribute Summoned  using " Peten the Dark Clown " as  Tribute , first the Tribute "Peten the Dark Clown" is sent to the Graveyard, then a monster is Tribute Summoned. The effect of "Peten the Dark Clown" would have met its activation timing when it was sent to the Graveyard, but because a new monster was Summoned before its effect had a chance to activate, its effect cannot activate.
+ In contrast, " Mermail Abysshilde " has an "if" optional Trigger Effect and " Flowerbot " has a mandatory Trigger Effect. If "Mermail Abysshilde" or "Flowerbot" is Tributed for a Tribute Summon, its Trigger Effect can be activated.
+ 
+ Simultaneous Effects Go On Chain 
+ Main article:  Simultaneous Effects Go On Chain 
+ If multiple Trigger or Trigger-like Effects would activate at the same time, they are all be placed on the same  Chain  without any of them  missing the timing .
+ The order these effects are added to the Chain depends on whether the effect is  mandatory  or  optional , whether it is activated by the  turn player  or non-turn player.
+ 
+ Example 
+ The effect of "Zaborg the Thunder Monarch" is a  mandatory  Trigger Effect that activates when it is  Tribute Summoned . This effect  targets  1 monster on the  field , then  destroys  that target when it resolves.
+ 
+ 
+ List of TCG and OCG Monsters with Trigger Effects 
+   Japanese name Rank Level Attribute Type Card type ATK DEF 8-Claws Scorpion 八つ手サソリ 2 DARK Insect Effect Monster Monster Card 300 200 A-Assault Core Ａ－アサルト・コア 4 LIGHT Machine Effect Monster Monster Card 1,900 200 Abaki 暴鬼 4 FIRE Fiend Effect Monster Monster Card 1,700 1,100 Abominable Unchained Soul 雙極の破械神 8 DARK Fiend Effect Monster Monster Card 3,000 1,500 Absolute Crusader レアル・クルセイダー 4 EARTH Warrior Effect Monster Monster Card 1,800 1,200 Absolute King Back Jack 絶対王 バック・ジャック 1 DARK Fiend Effect Monster Monster Card 0 0 Absorbing Kid from the Sky 吸収天児 4 LIGHT Fairy Effect Monster Monster Card 1,300 1,000 Absorouter Dragon アブソルーター・ドラゴン 7 DARK Dragon Effect Monster Monster Card 1,200 2,800 Abyss Actor - Comic Relief 魔界劇団－コミック・リリーフ 3 DARK Fiend Effect Monster Monster Card Pendulum Monster 1,000 2,000 Abyss Actor - Evil Heel 魔界劇団－デビル・ヒール 8 DARK Fiend Effect Monster Monster Card Pendulum Monster 3,000 2,000 ... further results 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/fa/ZaborgtheThunderMonarch-BP01-EN-C-1E.png/revision/latest?cb=20120616114434']
+Categories: Gameplay

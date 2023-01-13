@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Chapter_summary
+
+This property stores brief summaries of chapters. It uses a Type  Text .
+ 
+ 
+ 
+ 
+Categories:

@@ -1,0 +1,117 @@
+Link: https://yugioh.fandom.com/wiki/Sevens_Road_Mage_(anime)
+
+The  English                        name given is not official.  
+ Main card page: " Sevens Road Mage " 
+ Sevens Road Mage 
+ 
+ Japanese:   セブンスロード・メイジ 
+ Romaji:   Sebunsu Rōdo Meiji 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   DARK 
+ 
+ Level 
+ 
+ 
+ 2   
+ 
+ [  Spellcaster  /  Effect  ] [Requirement] : You can  send  the top card of your  Deck  to the  GY . [Effect] : Choose 1  face-up   monster  ( Level  7 or higher) your opponent  controls . It loses 400  ATK  until the end of this  turn , then, if you control a face-up " Sevens Road Magician ", the chosen monster loses 100 ATK (for each monster ( Spellcaster ) in your GY) until the end of this turn.
+ ATK  /  800     DEF  /  800   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  SEVENS :  013 ,  023 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  SEVENS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ セブンスロード・メイジ 
+ 【条件】  デッキの一番上のカードを墓地へ送って発動できる。 【効果】 : 相手フィールドの表側表示モンスター（レベル７以上）１体を選び、その攻撃力をターン終了時まで４００ダウンする。自分フィールドに表側表示の「セブンスロード・マジシャン」がいる場合、さらに選んだモンスターの攻撃力をターン終了時まで［自分の墓地のモンスター（魔法使い族）の数］×１００ダウンする。 
+ 
+ 
+ Sebunsu Rōdo Meiji 
+ 
+ 
+ Images 
+ SevensRoadMage-JP-Anime-SV-NC.png Non-card 
+ Decks 
+ 
+ 
+ Yuga Ohdo 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Sevens Road Magician  
+ Spellcaster 
+ 
+ Archetypes  and  series   
+ Sevens Road 
+ 
+ Actions  
+ Sends from the top of your Deck to your Graveyard for cost 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ 
+ Miscellaneous  
+ Rush Duel 
+ Requires control of specific card 
+ 
+ 
+ 
+   " Sevens Road Mage " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+ Sevens Road  セブンスロード a   m   Members 
+ Sevens Road Mage Sevens Road Magician Sevens Road Witch 
+ Related 
+ Road Magic - Backflow Road Magic - Diastrophism Road Magic - Explosion Road Magic - Tempest 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/de/SevensRoadMage-JP-Anime-SV.png/revision/latest?cb=20200829092027', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

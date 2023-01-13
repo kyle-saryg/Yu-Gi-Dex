@@ -1,0 +1,114 @@
+Link: https://yugioh.fandom.com/wiki/Link_Atrocity
+
+
+ Link Atrocity 
+ 
+ Japanese:   リンク・アトロシティ 
+ Romaji:   Rinku Atoroshiti 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Cost 
+ Effect 
+ Tribute  1  Link Monster , then  target  1 Link Monster you control; it gains  ATK  equal to the ATK the Tributed monster had on the  field  until the end of this turn, also if it attacks an opponent's Link Monster this turn, that opponent's  monster  loses 400 ATK for each Link Monster in the  GYs  until the end of the  Damage Step .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  037 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ リンク・アトロシティ 
+ ①：自分フィールドのリンクモンスター１体をリリースし、自分フィールドのリンクモンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで、リリースしたモンスターの攻撃力分アップする。このターン、対象の自分のモンスターが攻撃する場合、その攻撃対象の相手リンクモンスターの攻撃力はダメージステップ終了時まで、自分・相手の墓地のリンクモンスターの数×４００ダウンする。 
+ 
+ 
+ Rinku Atoroshiti 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Link Monster 
+ 
+ Anti-supports   
+ Link Monster 
+ 
+ Archetypes  and  series   
+ Link  
+ 
+ Actions  
+ Tributes for cost 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ Your opponent's monsters lose ATK 
+ 
+ Miscellaneous  
+ Requires control of specific Monster card type 
+ Female 
+ 
+ v e 
+ Link  リンク a   m   Members 
+ Castle Link Dimension Link Link Atrocity Link Back Link Bound Link Bumper Link Burst Link Cancel Link Coin Link Devotee Link Disciple Link Drive Link Fire's Return Link Infra-Flier Link Pressure Link Processing Failure Link Protection Link Ration Link Recovery Link Restart Link Restart Link Rush Link Satellite Link Short Link Spider Link Surge Counter Link Token Link Turret Linkbelt Wall Dragon Linkross Linkslayer Linkuriboh Packet Link Urgent Link Zero Extra Link 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/0c/LinkAtrocity-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180131162521', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

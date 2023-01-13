@@ -1,0 +1,91 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Anteatereatingant
+
+
+ Anteatereatingant 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Contents 
+ 
+ 1   OCG Rulings 
+ 
+ 1.1   Mentions in Other Rulings 
+ 
+ 
+ 2   Previously Official Rulings 
+ 
+ 2.1   Mentions in Other Rulings 
+ 2.2   Out of Date 
+ 
+ 2.2.1   Mentions in Other Rulings 
+ 
+ 
+ 
+ 
+ 3   Notes 
+ 4   References 
+ 
+ 
+ OCG Rulings 
+ Mentions in Other Rulings 
+ Crystal Beast : If " Crystal Beast Ruby Carbuncle " is in your  Spell & Trap Card Zone  as a Continuous Spell Card, it can be sent to the Graveyard to Special Summon " Hamon, Lord of Striking Thunder "/" Anteatereatingant "/etc. [1] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [2]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [3] [4] [5] [6] [7] [8] [9] [10] [11] 
+ 
+ You can only activate this card’s effect once per turn. Even if “ Anteatereatingant ” can attack multiple times because it’s equipped with “ Twin Swords of Flashing Light – Tryce ”, it can only give up its potential to attack once. 
+ The effect of “ Anteatereatingant ”  targets  1 Spell or Trap Card. 
+ You can send a  Field Spell Card  to the Graveyard as part of the cost to  Special Summon  “ Anteatereatingant ”. You can also use a  Monster Card  treated as an  Equip Card , such as a  Union Monster  or a monster  equipped  to “ Relinquished  [ sic ] . 
+ If you attack with “ Anteatereatingant ” and the attack is  negated  with “ Negate Attack ”, or a  replay  happens and you decide not to attack again, “ Anteatereatingant ” is still considered to have  declared  an attack. So you cannot activate its effect during  Main Phase 2 . 
+ If you activate the effect of “ Anteatereatingant ”, then activate “ Skill Drain ”, “ Anteatereatingant ” still can’t attack that turn. (Even if “ Skill Drain ” was  chained  to the effect.) 
+ You CAN activate the effect of “ Anteatereatingant ”,  flip  it  face-down  with a card effect, then  Flip Summon  it, and either activate its effect again or attack. This is because flipping it  face-down  resets its effect. (Also, if it’s temporarily  removed from play , its effect will also reset.) 
+ If the  targeted  Spell or Trap Card is removed from the field in a  chain  to this card’s effect, you still cannot use its effect again or attack that turn. If a  targeted  Spell Card is not  destroyed  because of a counter from “ Magic Reflector ”, you still cannot use this card’s effect again or attack that turn. 
+ Mentions in Other Rulings 
+ Crystal Beast : You can use a " Crystal Beast " that is being treated as a  Continuous Spell Card  for the  cost  to Special Summon ... " Anteatereatingant ". 
+ Out of Date 
+ Mentions in Other Rulings 
+ Ancient Gear Drill : “You cannot use that  Spell Card  this turn” means that you cannot  activate  it, and you cannot use it to  pay  a  cost  for  Summoning  “ Anteatereatingant ” ... [Notes 1] 
+ 
+ 
+ 
+ Notes 
+ 
+ ↑   The latest errata of "Ancient Gear Drill" only states that the Spell Card cannot be activated, not that it cannot be used. 
+ 
+ 
+ References 
+ 
+ ↑   Konami FAQ : Can "Hamon, Lord of Striking Thunder" be Special Summoned by sending to the Graveyard a "Crystal Beast Ruby Carbuncle" being treated as a Continuous Spell Card? 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

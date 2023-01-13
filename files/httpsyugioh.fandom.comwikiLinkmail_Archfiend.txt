@@ -1,0 +1,281 @@
+Link: https://yugioh.fandom.com/wiki/Linkmail_Archfiend
+
+
+ 
+ 
+ Linkmail Archfiend リンクメイル・デーモン 
+ 
+ English 
+Linkmail Archfiend 
+ French 
+ Lienmail Archdémon Check translation 
+ German 
+ Link-Mail-Erzunterweltler Check translation 
+ Italian 
+ Arcidemone Linkmail Check translation 
+ Korean 
+ 링크메일 데몬 Check translation 
+ Portuguese 
+ Arquidemônio Linkmail Check translation 
+ Spanish 
+ Archidemonio Enlacemail Check translation 
+ Japanese 
+ リンクメイル・デーモン Check translation 
+ Japanese ( rōmaji ) 
+Rinku Meiru Dēmon 
+ Japanese (translated) 
+Link Mail Daemon 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Cyberse  /  Link  /  Effect 
+ Link Arrows 
+ Top-Left   ,  Left   ,  Bottom-Left   ,  Bottom-Right   
+ ATK  /  LINK 
+ 2800  /  4 
+ Passcode 
+ 68295149 
+ Materials 
+2+ monsters, including a Ritual, Fusion, Synchro, or Xyz Monster 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Continuous 
+ Unclassified Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+2+  monsters , including a  Ritual ,  Fusion ,  Synchro , or  Xyz Monster If this card is  Special Summoned : You can  target  1 Ritual, Fusion, Synchro, or Xyz Monster you  control  or in your  GY ; all monsters your opponent currently controls lose  ATK  equal to the targeted monster's ATK, until the end of this  turn . Your opponent cannot target monsters you control, that were Special Summoned from the  Extra Deck , with  monster effects . If this card would be  destroyed by battle  or  card effect , you can  banish  1 Ritual, Fusion, Synchro, or Xyz Monster from your GY instead. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 2+ monstres (un Monstre Rituel, Fusion, Synchro ou Xyz inclus) Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 Monstre Rituel, Fusion, Synchro ou Xyz que vous contrôlez ou dans votre Cimetière ; jusqu'à la fin de ce tour, tous les monstres actuellement contrôlés par votre adversaire perdent une ATK égale à l'ATK du monstre ciblé. Votre adversaire ne peut pas cibler avec des effets de monstre les monstres que vous contrôlez, qui ont été Invoqués Spécialement depuis l'Extra Deck. Si cette carte va être détruite au combat ou par un effet de carte, vous pouvez bannir 1 Monstre Rituel, Fusion, Synchro ou Xyz depuis votre Cimetière à la place. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 2+ Monster, darunter ein Ritual-, Fusions-, Synchro- oder Xyz-Monster Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Ritual-, Fusions-, Synchro- oder Xyz-Monster wählen, das du kontrollierst oder sich in deinem Friedhof befindet; alle Monster, die dein Gegner derzeit kontrolliert, verlieren bis zum Ende dieses Spielzugs ATK in Höhe der ATK des als Ziel gewählten Monsters. Dein Gegner kann Monster, die du kontrollierst und die als Spezialbeschwörung vom Extra Deck beschworen wurden, nicht als Ziel für Monstereffekte wählen. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört würde, kannst du stattdessen 1 Ritual-, Fusions-, Synchro- oder Xyz-Monster von deinem Friedhof verbannen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 2+ mostri, compreso un Mostro Rituale, Fusione, Synchro o Xyz Se questa carta viene Evocata Specialmente: puoi scegliere come bersaglio 1 Mostro Rituale, Fusione, Synchro o Xyz che controlli o nel tuo Cimitero; tutti i mostri attualmente controllati dal tuo avversario perdono ATK pari all'ATK del mostro scelto come bersaglio, fino alla fine di questo turno. Il tuo avversario non può scegliere come bersaglio i mostri che controlli che sono stati Evocati Specialmente dall'Extra Deck con gli effetti dei mostri. Se questa carta sta per essere distrutta in battaglia o dall'effetto di una carta, puoi invece bandire 1 Mostro Rituale, Fusione, Synchro o Xyz dal tuo Cimitero. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 2+ monstros, incluindo um Monstro de Ritual, de Fusão, Sincro ou Xyz Se este card for Invocado por Invocação-Especial: você pode escolher 1 Monstro de Ritual, de Fusão, Sincro ou Xyz que você controla ou no seu Cemitério; até o final deste turno, todos os monstros que seu oponente controla atualmente perdem ATK igual ao ATK do monstro alvo. Seu oponente não pode escolher monstros que você controla, que foram Invocados por Invocação-Especial do Deck Adicional, como alvo de efeitos de monstro. Se este card seria destruído em batalha ou por um efeito de card, em vez disso, você pode banir 1 Monstro de Ritual, de Fusão, Sincro ou Xyz do seu Cemitério. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 2+ monstruos, incluyendo un Monstruo de Ritual, Fusión, Sincronía o Xyz Si esta carta es Invocada de Modo Especial: puedes seleccionar 1 Monstruo de Ritual, Fusión, Sincronía o Xyz que controles o en tu Cementerio; hasta el final de este turno, todos los monstruos que controle tu adversario en este momento pierden ATK igual al ATK del monstruo seleccionado. Tu adversario no puede seleccionar con efectos de monstruos a monstruos que controles, que fueron Invocados de Modo Especial desde el Deck Extra. Si esta carta fuera a ser destruida en batalla o por efecto de una carta, puedes desterrar 1 Monstruo de Ritual, Fusión, Sincronía o Xyz en tu Cementerio en su lugar. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 儀式・融合・ Ｓ ・ Ｘ モンスターのいずれかを含むモンスター２体以上 ①：このカードが特殊召喚に成功した場合、自分のフィールド・墓地の儀式・融合・ Ｓ ・ Ｘ モンスター１体を対象として発動できる。相手フィールドの全てのモンスターの攻撃力はターン終了時まで対象のモンスターの攻撃力分ダウンする。②： ＥＸ デッキから特殊召喚された自分フィールドのモンスターは相手モンスターの効果の対象にならない。③：このカードが戦闘・効果で破壊される場合、代わりに自分の墓地の儀式・融合・ Ｓ ・ Ｘ モンスター１体を除外できる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 의식 / 융합 / 싱크로 / 엑시즈 몬스터 중 어느 것을 포함하는 몬스터 2장 이상 ①: 이 카드가 특수 소환에 성공했을 경우, 자신의 필드 / 묘지의 의식 / 융합 / 싱크로 / 엑시즈 몬스터 1장을 대상으로 하고 발동할 수 있다. 상대 필드의 모든 몬스터의 공격력은 턴 종료시까지 대상 몬스터의 공격력만큼 내린다. ②: 엑스트라 덱에서 특수 소환된 자신 필드의 몬스터는 상대 몬스터의 효과의 대상이 되지 않는다. ③: 이 카드가 전투 / 효과로 파괴될 경우, 대신에 자신 묘지의 의식 / 융합 / 싱크로 / 엑시즈 몬스터 1장을 제외할 수 있다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2019-07-25 RIRA-EN047 Rising Rampage Super Rare 2020-08-27 MP20-EN125 2020 Tin of Lost Memories Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2019-07-25 RIRA-FR047 Rising Rampage Le Soulèvement de la Fureur Super Rare 2020-08-27 MP20-FR125 2020 Tin of Lost Memories Boîte des Mémories Perdues 2020 Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2019-07-25 RIRA-DE047 Rising Rampage Rising Rampage Super Rare 2020-08-27 MP20-DE125 2020 Tin of Lost Memories 2020 Tin of Lost Memories Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2019-07-25 RIRA-IT047 Rising Rampage Furia Crescente Super Rare 2020-08-27 MP20-IT125 2020 Tin of Lost Memories Tin delle Memorie Perdute 2020 Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2019-07-25 RIRA-PT047 Rising Rampage Investida Crescente Super Rare 2020-08-27 MP20-PT125 2020 Tin of Lost Memories Lata das Memórias Perdidas 2020 Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2019-07-25 RIRA-SP047 Rising Rampage Alzamiento de la Devastación Super Rare 2020-08-27 MP20-SP125 2020 Tin of Lost Memories 2020 Lata de Memorias Perdidas Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2019-04-13 RIRA-JP047 Rising Rampage ライジング・ランペイジ Ultra Rare 2019-04-13 RIRA-JP047 Rising Rampage ライジング・ランペイジ Secret Rare 2019-04-13 RIRA-JP047 Rising Rampage ライジング・ランペイジ Ultimate Rare 2019-04-13 RIRA-JP047 Rising Rampage ライジング・ランペイジ 20th Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2019-07-09 RIRA-KR047 Rising Rampage 라이징 램페이지 Ultra Rare 2019-07-09 RIRA-KR047 Rising Rampage 라이징 램페이지 Secret Rare 2019-07-09 RIRA-KR047 Rising Rampage 라이징 램페이지 Ultimate Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Ritual Monster 
+ Fusion Monster 
+ Synchro Monster 
+ Xyz Monster 
+ 
+ Archetypes  and  series   
+ Archfiend 
+ Link  
+ 
+ Related to  archetypes  and  series   
+ Summoned Skull  
+ 
+ Actions  
+ Activates upon Special Summon 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Cannot be targeted by card effects 
+ Redirects destruction 
+ 
+ Summoning  categories  
+ 2+ Link Materials 
+ Requires Ritual Monsters as Link Materials 
+ Requires Fusion Monsters as Link Materials 
+ Requires Synchro Monsters as Link Materials 
+ Requires Xyz Monsters as Link Materials 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ Banished  categories  
+ Banishes from your Graveyard 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14495 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Archfiend " 「デーモン」 Members 
+ Annihilator Archfiend Archfiend Black Skull Dragon Archfiend Cavalry Archfiend Commander Archfiend Eccentrick Archfiend Emperor, the First Lord of Horror Archfiend Empress Archfiend General Archfiend Giant Archfiend Heiress Archfiend Interceptor Archfiend Marmot of Nefariousness Archfiend Mirror Archfiend Soldier Archfiend Zombie-Skull Archfiend of Gilfer Archfiend's Ascent Archfiend's Awakening Archfiend's Call Archfiend's Manifestation Awakening of the Possessed - Nefariouser Archfiend Beast of Talwar Black Skull Dragon Chaos Archfiend Chaos King Archfiend Cyber Archfiend Darkbishop Archfiend Desrook Archfiend Fiend Skull Dragon Hot Red Dragon Archfiend Hot Red Dragon Archfiend Abyss Hot Red Dragon Archfiend Bane Hot Red Dragon Archfiend King Calamity Imprisoned Queen Archfiend Infernalqueen Archfiend Infernity Archfiend Infernity Doom Archfiend Labrynth Archfiend Lancer Archfiend Lesser Fiend Linkmail Archfiend Mad Archfiend Masterking Archfiend Mist Archfiend Nefarious Archfiend Eater of Nefariousness Number C102: Archfiend Seraph Overmind Archfiend Red Dragon Archfiend Red Dragon Archfiend/Assault Mode Red-Eyes Archfiend of Lightning Scarlight Red Dragon Archfiend Scrap Archfiend Shadow Tamer Shadowknight Archfiend Skull Archfiend of Lightning Summoned Skull Terrorking Archfiend Thought Ruler Archfiend Toon Summoned Skull Trance Archfiend Tyrant Red Dragon Archfiend Vector Scare Archfiend Vilepawn Archfiend 
+ Archfiend Palabyrinth Archfiend's Ghastly Glitch Archfiend's Oath Archfiend's Roar Archfiend's Staff of Despair Axe of Despair Call of the Archfiend A Deal with Dark Ruler Gladiator Beast's Battle Archfiend Shield Nightmare Archfiends Simul Archfiends 
+ Support 
+ Archfiend Black Skull Dragon Archfiend Cavalry Archfiend Commander Archfiend Emperor, the First Lord of Horror Archfiend Giant Archfiend Heiress Darkbishop Archfiend Infernalqueen Archfiend Skilled Red Magician Terrorking Archfiend Vilepawn Archfiend 
+ Archfiend Palabyrinth Archfiend's Roar Battle-Scarred Checkmate Falling Down Pandemonium 
+ Related 
+ Beelze of the Diabolic Dragons Beelzeus of the Diabolic Dragons Berserk Dragon Cave Dragon Majestic Red Dragon Mazera DeVille Number 102: Star Seraph Sentry Pandemonium Watchbear Pegasus/Monster C Red-Eyes Black Dragon Red-Eyes Black Flare Dragon Warrior of Zera 
+ Contract with the Abyss Crimson Fire 
+ 
+   
+ Link  リンク Members 
+ Duel Link Dragon, the Duel Dragon Five-Headed Link Dragon LANphorhynchus Lancephorhynchus Link Apple Link Bumper Link Devotee Link Disciple Link Infra-Flier Link Spider Link Streamer Linkbelt Wall Dragon Linkerbell Linkmail Archfiend Linkross Linkslayer Linkuriboh Predaplant Heliamphorhynchus 
+ Castle Link Link Back Link Bound Link Burst Link Party Link Restart Link Turret Packet Link Zero Extra Link 
+ 
+   
+ Summoned Skull  デーモンの 召 喚 Members 
+ Archfiend's Ascent Archfiend's Awakening Archfiend's Call Archfiend's Manifestation Red-Eyes Archfiend of Lightning Skull Archfiend of Lightning Summoned Skull Toon Summoned Skull 
+ Related 
+ Archfiend Black Skull Dragon Archfiend Commander Archfiend Zombie-Skull Black Skull Dragon Linkmail Archfiend Plaguespreader Zombie Red-Eyes Black Flare Dragon 
+ Contract with the Abyss Makiu, the Magical Mist Toon World 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a1/LinkmailArchfiend-RIRA-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20190811072025', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/5/5e/LM-TopLeft.png/revision/latest?cb=20181006181906', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

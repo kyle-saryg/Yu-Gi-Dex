@@ -1,0 +1,99 @@
+Link: https://yugioh.fandom.com/wiki/Talk:Pendulum_Summon
+
+
+ 
+ 
+ This is the talk page for discussing the page, Pendulum Summon.
+ 
+ 
+ 
+ 
+ This page is for discussion about the article, not general talk about its subject.
+ See the  Forums  for general discussion. 
+ Please sign and date your posts  by typing four tildes ( ~~~~ ). 
+ Put new text under old text.  Click here to start a new topic . 
+ 
+ 
+ Please try to
+ 
+ Be polite 
+ Assume good faith 
+ Be welcoming 
+ 
+ Re-clarifying and questions of my own.
+ 
+ Contents 
+ 
+ 1   Understanding This 
+ 2   Futher Understanding 
+ 3   Thoughts... 
+ 4   Some things going back and forward 
+ 5   Blue -> Red only? Or also the other way around? 
+ 6   Clarification 
+ 7   Xyz Monsters 
+ 
+ 
+ Understanding This 
+ So, if I understand this right, once a turn, I can Pendulum Summon up to three monsters from my hand as long as there are two Pendulum Monsters in the Pendulum Zone and the monster's levels in my hand have to be within the level counts of the two Pendulums. For example, Magician of Astromancy is Pendulum 1 while Magician of Chronomancy is Pendulum 8, meaning I can Special Summon any number of monsters as long as each monster's level is between 1 and 8? Or do their combined levels have to NOT go over 8?
+ -- ReshiramArc1255  ( talk  •  contribs ) 21:56, February 17, 2014 (UTC)
+ 
+Actually, from what i can tell, you can summon up to 5, you do NOT go into the numbers (so its EVERY monster lvs2-7 in your hand). Further, the Pendulum monsters themselves seem to go on top of the extra deck when destroyed, and you can summon <1> of those as well.
+ From what i see anyway, could be wrong as they probably haven't released every detail yet DreadKaiser  ( talk  •  contribs ) 22:39, February 17, 2014 (UTC)
+ 
+ Futher Understanding 
+ Hypothetically if I had a blue pendulum scale of 1 and a red pendulum scale of 8, would I be able to summon Level 1 - 8 monsters of 2 - 7 monsters? -- StephenWalker97  ( talk  •  contribs ) 20:10, March 3, 2014 (UTC)
+ Wording on that question felt a little weird, but if your pendulum scales were 1 and 8 respectively, then you can summon any number of monsters whose levels were between 2 and 7 once per turn. You can summon monsters whose level is the same as the scale. A Wikia contirutor  ( talk  •  contribs ) 21:13, March 3, 2014 (UTC)
+ 
+ Thoughts... 
+ Am I alone here in thinking that this reads (right now) as a potentially really broken and game-breaking mechanic... like, spam special summons then XYZ (or even synchro) into broken stuff (number 11, dracossack, etc.) and OTK even harder. Also, sorry if I annoyed anyone with my (to me at least... damn it I did it again) use of parentheses.  —This unsigned comment was made by  FatMan2539  ( talk  •  contribs )   ~ F. ~ 12:16, March 10, 2014 (UTC)
+ 
+ From now on, please sign your comments with 4 tildes. Also, stuff like this belongs in a forum, not a Talk page.  NMBRHNTR64  ( talk  •  contribs ) 12:35, March 10, 2014 (UTC) 
+ Some things going back and forward 
+ Alright, so there's 2 things that I keep seeing this page go back and forward on:
+ 1) If it's 'hand AND extra deck' or 'hand OR extra deck'.
+ 2) If it's 'go to the extra deck when destroyed' or 'go to the extra deck when it would be sent to the graveyard'.
+ I think these two details are  very  important to sort out as the 'or' and 'destroyed' options balance Pendulum Monsters and Summoning out, while the other two options add to the angry voices from the vocal minorities. Everything I've read since the reveal has also said it's the 'or' and 'destroy' options, but everything the wiki links to says the opposite. I really hope we can get some clarification soon.  A Wikia contirutor  ( talk  •  contribs ) 18:21, March 28, 2014 (UTC)
+ 
+ Some may think it's broken or it may not be, just so you know you are limited by the fact that all of the summons either comes from the hand OR the extra deck. Think about how pendulum monsters can even get into the extra deck pile first:
+1. It has to be destroyed while it is in the pendulum zone (spell/trap destruction cards).
+2. It has to be destroyed while it is in monster zone (set or face up).
+ The second method means it'll take up your normal summon for the turn or use up your special summon cards.
+ Just to re-clarify on the summonable monsters mechanic. Once you have pendulum on both sides, let's say the one of the left is 3 and the one on the right is 7.
+That means you can only summon a monster IN BETWEEN those numbers, which means of level 4, 5, or 6. NOT 3, NOT 7, and not anything below 3 or above 7. It is made clear in the picture, the numbers give it away.
+ Lastly, the summon any amount of monster mechanic. I have a question of my own here but I can tell you that you are allowed to summon as much as you want but you can only do it once per turn and only on one go. What i mean by one go is that you must do it all at once. You can't say "oh i will summon a level 6, wait for your response, if nothing i play a spell, then i summon a level 4, wait, then play a spell, then summon a level 4, wait, then XYZ with those 2x level 4s." 
+Taking those same monsters, the way I look at it is this: You must summon the level 6, level 4, and level 4 all at once. The only thing I can compare this to is Ojama Red's effect. You choose the cards to summon and they all summon at once. Now your opponent can respond with stuff like Bottomless Trap Hole.
+ Now to my questions that I have. 
+1. Does anyone know if this summon any amount mechanic is an effect you must activate? Or is it like an open-state action just like Normal summoning, but with further action (if you choose to summon one monster you can choose to summon more but once you stop you take up your pendulum summon for the turn)?
+ 2. Pictures I've seen always show the left pendulum being the lower number and right pendulum being the higher. What happens if let's say you have an 8 on the left and a 5 on the right? Does that still count and you are still able to summon level 6 and 7s?
+ 
+ Aznxknight  ( talk  •  contribs ) 19:17, April 24, 2014 (UTC)
+ 
+ A Pendulum Summon can only be performed during an open game state and does not use a Chain; as such, it can also be negated by cards that negate Summons. It is not treated as the effect of the Pendulum Monster. Essentially, it works just like Normal, Flip, Synchro, or Xyz Summoning. 
+ You can only perform one Pendulum Summon per turn, but you can Summon multiple monsters at once. All Pendulum Summoned monsters are Summoned simultaneously. 
+ It does not matter which Pendulum Zone your Pendulum Monster is in. -- Snorlax Monster  19:27, April 24, 2014 (UTC) 
+ 1) If it's 'hand AND extra deck' or 'hand OR extra deck'. 
+ its AND 
+ 2) If it's 'go to the extra deck when destroyed' or 'go to the extra deck when it would be sent to the graveyard'. 
+ Neither, its FROM FIELD to Grave, so sending a pendulum as xyzs material goes to grave and stays their, Pendulum going as Synchro material goes to Extra deck DreadKaiser  ( talk  •  contribs ) 19:48, April 24, 2014 (UTC)
+ 
+ Blue -> Red only? Or also the other way around? 
+ Given by the examples, is the Blue Pendulum Zone always the lower end and the Red Pendulum Zone the higher end, or can this also be the other way around? For example, if the Pendulum Monsters with 1 and 8 from the example were switched, so Blue = 8 and Red = 1, would this still be valid for Pendulum Summoning monsters of Level 2-7, or does this count as none? So is it that the difference must be 2 or more between both, regardless of the color itself; or Red must always be at least 2 higher than Blue?  Quuador  ( talk  •  contribs ) 13:53, November 8, 2014 (UTC)
+ 
+ Yes, Blue = 8 and Red = 1 would enable a P-Summon of monsters with Levels from 2-7. I edited the page accordingly. -- UltimateKuriboh  ( talk  •  contribs ) 18:45, November 8, 2014 (UTC) 
+ Clarification 
+ By "1 apart", do the rules mean like a Pendulum Monster with a Scale of 4 on one end and a Pendulum Monster with a Scale of 5 on the other?  Chimera-gui  ( talk  •  contribs ) 01:02, May 2, 2016 (UTC)
+ 
+ Exactly. the scales are exclusive. the levels you can summon must be between the numbers, not equal to them. 
+ So scales of 4-5 may as well be 4-4 for the purposes of pendulum summoning, it should be worded like "a difference of atleast 2" or something 
+ Dread  ( talk  •  contribs ) 02:09, May 2, 2016 (UTC)
+ So you're saying that it would be possible to do Pendulum Summoning if for example you had a Pendulum Monster with a Scale of 4 on one end and a Pendulum Monster with a Scale of 6 on the other since you would be able to summon Level/Rank 5 monsters this way?  Chimera-gui  ( talk  •  contribs ) 02:38, May 2, 2016 (UTC) 
+ Correct, The scales only allow for levels inbetween, inclusive. Scales 3 and 8 would allow you to pendulum summon levels 4, 5, 6, and 7. but NOT 3 or 8 
+ Dread  ( talk  •  contribs ) 03:41, May 2, 2016 (UTC)
+ Okay that clears up my only concern with this, thanks.  Chimera-gui  ( talk  •  contribs ) 03:52, May 2, 2016 (UTC) 
+ Xyz Monsters 
+ So I looked around for this "Perfect Rulebook" that was mentioned in the references, and I found  this .  However, it makes no mention of using its Rank to determine if you can Pendulum Summon it or not, it simply states that if you do Pendulum Summon it, it's treated as Summoning a Monster of that Rank, which is not the same thing.  Instead, it says that whether you can Pendulum Summon it or not is based on what Level is listed in its text.  Which makes sense, 'cause literally every  Xyz Pendulum Monster  that currently exists either has a "If you can Pendulum Summon Level X, you can Pendulum Summon this face-up card in your Extra Deck" or "Cannot be Pendulum Summoned" in their Monster Effect text.   FlareKyn  ( talk  •  contribs ) 15:42, 25 October 2021 (UTC)
+ 
+ 
+ 
+ 
+Categories:

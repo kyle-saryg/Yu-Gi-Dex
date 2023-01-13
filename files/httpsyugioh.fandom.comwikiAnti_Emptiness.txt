@@ -1,0 +1,99 @@
+Link: https://yugioh.fandom.com/wiki/Anti_Emptiness
+
+
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Anti Emptiness 
+ 
+ Japanese:   虚無坑 
+ Kana:   きょむこう 
+ Romaji:   Kyomukō 
+ Translated:  Nihility Hole 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Activate  only when your opponent activates a  Spell  or  Trap Card  that would  destroy  a Spell or Trap Card on the  field .  Negate  the activation of that card, and destroy it. The  ATK  of 1  face-up   Attack Position  monster you  control  becomes 0 until the  End Phase .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  057 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 虚 無 坑 
+ 自分フィールド上に表側攻撃表示で存在するモンスター１体の攻撃力を、このターンのエンドフェイズ時まで０にする。相手がコントロールする「フィールド上の魔法・罠カードを破壊する」効果を持つ魔法・罠カードの発動と効果を無効にし破壊する。 
+ 
+ 
+ Kyomukō 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Roman Goodwin 
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ Reduces ATK to 0 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the activation of your opponent's Spell Cards 
+ Negates the activation of your opponent's Trap Cards 
+ Destroys your opponent's Spell Cards 
+ Destroys your opponent's Trap Cards 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/0/0a/AntiEmptiness-JP-Anime-5D.png/revision/latest/scale-to-width-down/200?cb=20160513175653', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/88/AntiEmptiness-OW.png/revision/latest/scale-to-width-down/185?cb=20150816033020', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

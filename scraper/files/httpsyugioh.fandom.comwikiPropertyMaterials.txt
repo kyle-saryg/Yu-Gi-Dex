@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Materials
+
+This property contains the  Fusion ,  Synchro , or  Xyz Material  requirements for summoning a  Fusion ,  Synchro , or  Xyz Monster , respectively, and is meant as a more general counterpart to  Property:Fusion Material  and  Property:Synchro Material . It has type  string .
+ 
+ 
+ 
+ 
+Categories:

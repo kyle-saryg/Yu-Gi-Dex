@@ -1,0 +1,14 @@
+Link: https://yugioh.fandom.com/wiki/Property:Blood_type
+
+This  text  property lists the blood type of a character.
+ Possible values:
+ 
+ O 
+ A 
+ B 
+ AB 
+ Unknown 
+ 
+ 
+ 
+Categories:

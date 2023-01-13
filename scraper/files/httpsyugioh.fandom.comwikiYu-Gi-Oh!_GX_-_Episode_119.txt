@@ -1,0 +1,225 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_GX_-_Episode_119
+
+
+ 
+ Yu-Gi-Oh! GX - Episode 119 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kanji 
+ トリプルコンタクト融合!マグマ・ネオス 
+ 
+ 
+ Rōmaji 
+ Toripuru Kontakuto Yūgō! Maguma Neosu 
+ 
+ 
+ Japanese translation 
+ Triple Contact Fusion! Magma Neos 
+ 
+ 
+ English 
+ A Snake in the Grass, Part 3 
+ 
+ 
+ Number 
+ 119 
+ 
+ 
+ Air date ( ja ) 
+ January 17, 2007 
+ 
+ 
+ Air date ( en ) 
+ September 15, 2007 
+ 
+ 
+ 
+ Music 
+ 
+ Opening ( ja ) 
+ " Teardrop " 
+ 
+ 
+ Ending ( ja ) 
+ " Sun " 
+ 
+ 
+ Opening ( en ) 
+ " Get Your Game On! " 
+ 
+ 
+ Ending ( en ) 
+ " Get Your Game On! " 
+ 
+ 
+ 
+ Cards 
+ 
+ Featured card 
+ [[Elemental Hero Magma Neos|]] 
+ 
+ 
+ Galleries 
+ Japanese 
+ 
+ 
+ 
+ Chronology 
+ 
+ Listing 
+ Yu-Gi-Oh! GX  episode listing  (season 3) 
+ 
+ 
+ 
+ Previous 
+ Next 
+ 
+ 
+ " A Snake in the Grass, Part 2 " 
+ " Inter-Dimension Detention " 
+ 
+ 
+ 
+ 
+ "A Snake in the Grass, Part 3" , known as  "Triple Contact Fusion! Magma Neos"  in the Japanese version, is one hundred and nineteenth episode of the  Yu-Gi-Oh! GX  anime. It first aired in Japan on January 17, 2007 and in the US on September 15, 2007.
+ Jaden  defeats  Viper , but the  entity  manipulating him transports  Duel Academy  to  another world .
+ 
+ Contents 
+ 
+ 1   Summary 
+ 2   Featured Duel: Jaden Yuki vs. Thelonious Viper 
+ 3   Errors 
+ 4   Trivia 
+ 5   Featured cards 
+ 6   Notes 
+ 
+ 
+ Summary 
+   This summary is currently incomplete. 
+ The  Duel  between  Jaden  and  Thelonious Viper  continues. After Jaden makes a comeback with a clever strategy that involves an infinite loop. Viper Summons " Vennominaga the Deity of Poisonous Snakes " and once again takes the lead. Forced to defeat "Venominaga" in three  turns , Jaden is once again in a jam. Adding insult to injury, Viper proclaims that Jaden cannot beat him because Jaden only Duels for his desire to best everyone else. However, after being reminded by  Jesse  that the  Duel Academy 's future depends on this Duel, Jaden regains his resolve and wins the Duel by Summoning " Elemental Hero Magma Neos ". Meanwhile,  Adrian  and the Gecko family wage a final assault on Viper's base, but  the demon that Viper was helping  transports the base and Duel Academy to an  alternate dimension , but not before presumably murdering Viper, who the demon now deems as useless to it. (In the sub, said demon tricks him making him see his son as alive and fall to his death).
+ 
+ Featured Duel: Jaden Yuki vs. Thelonious Viper 
+ Duel continues from  the previous episode .
+ Jaden has 1200 Life Points remaining and controls no cards.
+ Viper has 2100 Life Points and controls "Vennominon the King of Poisonous Snakes" (2500/0) in Attack Position. He also has "Venom Swamp" and "Damage = Reptile" active.
+ Turn 9: Jaden 
+Jaden draws " Card Trooper " and subsequently Normal Summons it (400/400) in Attack Position. Jaden then activates the effect of "Card Trooper" to send the top three cards of his  Deck  to the  Graveyard  (" Elemental Hero Avian ", " Necro Gardna " and " Elemental Hero Wildheart ") and increase the ATK of "Card Trooper" by 500 for each card sent this way ("Card Trooper": 400 → 1900/400). 
+ On Jaden's End Phase, the effect of "Card Trooper" expires ("Card Trooper": 1900 → 400/400). At the same time, " Venom Swamp " places a Venom Counter on "Card Trooper" ("Card Trooper": 400 → 0/400). The third effect of "Venom Swamp" activates, destroying "Card Trooper". Jaden then activates the last effect of "Card Trooper" to draw one card.
+ Turn 10: Viper 
+ Viper  draws. " Vennominon the King of Poisonous Snakes " attacks directly, but Jaden  removes from play  " Necro Gardna " from his Graveyard to negate the attack. Viper then sets a card.
+ Turn 11: Jaden 
+Jaden draws " Miracle Fusion " and subsequently activates it to remove from play "Elemental Hero Wildheart" and " Elemental Hero Bladedge " from his Graveyard in order to  Fusion Summon  " Elemental Hero Wildedge " (2600/2300) in Attack Position. "Wildedge" attacks and destroys "Vennominon the King of Poisonous Snakes" (Viper 2100 → 2000).
+ Jaden intends for Viper to revive "Vennominon" through its own effect (which would allow Jaden to create an  infinite loop  by using "Wildedge" to attack "Vennominon" every time the latter revives itself through its own effect), but Viper activates his face-down " Rise of the Sacred Deity " to  Special Summon  " Vennominaga the Deity of Poisonous Snakes " (0/0) in Attack Position  [Notes 1] . 
+ Due to the first effect of "Vennominaga", it gains 500 ATK for each  Reptile - Type   monster  in Viper's Graveyard. There are currently six ("Vennominaga": 0 → 3000/0). On Jaden's End Phase, "Venom Swamp" places a Venom Counter on "Wildedge" ("Wildedge": 2600 → 2100/2300).
+ Turn 12: Viper 
+Viper draws. "Vennominaga the Deity of Poisonous Snakes" attacks and destroys "Wildedge" (Jaden 1200 → 300). Since "Vennominaga" inflicted Battle Damage, Viper activates the third effect of "Vennominaga the Deity of Poisonous Snakes", which will give him an automatic win three turns after the activation of this effect [Notes 2] .
+ Turn 13: Jaden 
+Jaden draws " Fusion Recovery " and subsequently activates it to add " Polymerization " and " Elemental Hero Sparkman " from his Graveyard to his  hand . Jaden then activates "Polymerization" to fuse "Elemental Hero Sparkman" with " Elemental Hero Necroshade " and Fusion Summon " Elemental Hero Darkbright " (2000/1000) in Attack Position.
+ Jaden then activates " Necro Shot " and equips it to "Darkbright". Now Jaden, during his Main Phase, can select one monster in Viper's Graveyard and remove it from play, but "Necro Shot" will be destroyed after Jaden activates this effect three times. 
+ Jaden then activates the effect of "Necro Shot" three times to remove from play three monsters in Viper's Graveyard (two " Venom Serpents " and a " Venom Snake ") ("Vennominaga": 3000 → 1500/0). After that resolves, "Necro Shot" is destroyed. Since "Necro Shot" was destroyed through its own effect, Jaden sends " Neo-Spacian Dark Panther " from his Deck to the Graveyard.
+ "Darkbright" then attacks and destroys "Vennominaga the Deity of Poisonous Snakes" (Viper 2000 → 1500). Viper then activates the second effect of "Vennominaga the Deity of Poisonous Snakes" to remove from play "Venom Snake" from his Graveyard and revive "Vennominaga" ("Vennominaga": 0 → 1000/0) in Attack Position. Jaden then activates the second effect of "Darkbright" to switch it to Defense Position. On Jaden's End Phase, "Venom Swamp" places a Venom Counter on "Darkbright" ("Darkbright": 2000 → 1500/1000).
+ Turn 14: Viper 
+Viper draws " Snake Rain " and subsequently activates it to discard another "Snake Rain" and send four Reptile-Type monsters from his Deck to the Graveyard (two " Venom Boas ", "Venom Serpent", and " Serpentine Princess ") ("Vennominaga": 1000 → 3000/0). 
+ "Vennominaga" then attacks and destroys "Elemental Hero Darkbright". Jaden then activates the last effect of "Elemental Hero Darkbright" to destroy "Vennominaga the Deity of Poisonous Snakes", but it doesn't work as "Vennominaga the Deity of Poisonous Snakes" can't be targeted or affected by other card effects. 
+ Turn 15: Jaden 
+Jaden Near passes due to the impact of Viper's words though Jesse talks Jaden into making his move. Jaden draws " Fifth Hope " and subsequently activates it to return  Elemental Hero  " Clayman ", "Avian", "Wildedge", " Bubbleman ", and "Sparkman" from his Graveyard to his Deck and draw three cards (as Jaden had no cards on his field or in his hand when he activated "Fifth Hope"). Jaden's hand contains " Elemental Hero Neos ", " Contact ", and " Cocoon Party ".
+ Jaden then activates "Cocoon Party" to Special Summon a  Chrysalis  monster from his Deck for each Neo-Spacian in his Graveyard with a different name. There are two, so Jaden Special Summons " Chrysalis Mole " (700/100) and " Chrysalis Larva " (300/300) in Attack Position. 
+ Jaden then activates "Contact" to send "Chrysalis Mole" and "Chrysalis Larva" to the Graveyard and Special Summon " Neo-Spacian Grand Mole " (900/300) and " Neo-Spacian Flare Scarab " (500/500) in Attack Position. Jaden then uses the effect of "Elemental Hero Necroshade" to Normal Summon "Elemental Hero Neos" (2500/2000) in Attack Position without Tributing.
+ Jaden then  Contact Fuses  "Elemental Hero Neos" with "Neo-Spacian Grand Mole" and "Neo-Spacian Flare Scarab" in order to Special Summon " Elemental Hero Magma Neos " (3000/2500) in Attack Position. Due to the effect of "Magma Neos", it gains 400 ATK for each card on the field. There are four ("Magma Neos": 3000 → 4600/2500). "Magma Neos" then attacks and destroys "Vennominaga the Deity of Poisonous Snakes" (Viper 1500 → 0).
+ 
+ Errors 
+ In the dub, the cards Jaden is shown  discarding  with the  effect  of " Card Trooper " were " Elemental Hero Avian ", " Ojama Yellow ", and " Elemental Hero Wildheart ". In the Japanese version, the second card is " Necro Gardna ". No explanation is present in the dub for how "Necro Gardna" entered the  Graveyard  though it's implied to be an error. 
+ When Jaden plays " Fusion Recovery ", "Elemental Hero Avian" is shown returning with " Polymerization " when it was actually " Elemental Hero Sparkman ". 
+ In the dub, the moment the effect of "Vennominaga" "poisons" Jaden, Viper explains that he will win in three rounds. At the end of Viper's next turn, he states that two rounds have passed, when in reality only one round has passed. What he meant was clear though. 
+ In the original, when Jaden Summons "Neos" with the effect of "Necroshade", he says that it's a Special Summon while it actually is a Normal Summon. 
+ Trivia 
+ The dimension the academy is transported to is the same one Jaden saw in a vision during his duel with  Sartorius . 
+ During the end of the episode, in the dub Jaden says "we're not in Kansas anymore", this is, of course, a reference to The 1939 film 'The Wizard of Oz' which was itself based off of the book from 1900 of the same name. 
+ Featured cards 
+ The following cards appeared in this episode. Cards in italics debuted here.
+ 
+ 
+ Jaden Yuki Monsters   
+ Normal Monsters 
+ Elemental Hero Avian 
+ Elemental Hero Clayman 
+ Elemental Hero Neos 
+ Elemental Hero Sparkman 
+ Effect Monsters 
+ Card Trooper 
+ Chrysalis Larva 
+ Chrysalis Mole 
+ Elemental Hero Bladedge 
+ Elemental Hero Bubbleman 
+ Elemental Hero Necroshade 
+ Elemental Hero Wildheart 
+ Necro Gardna 
+ Neo-Spacian Dark Panther 
+ Neo-Spacian Flare Scarab 
+ Neo-Spacian Grand Mole Extra Deck   
+ Fusion Monsters 
+ Elemental Hero Darkbright 
+ Elemental Hero Magma Neos 
+ Elemental Hero Wildedge Spells   &  Traps   
+ Spells 
+ Cocoon Party 
+ Contact 
+ Fifth Hope 
+ Fusion Recovery 
+ Miracle Fusion 
+ Necro Shot 
+ Polymerization 
+ 
+ Thelonious Viper Monsters   
+ Effect Monsters 
+ Serpentine Princess 
+ Vennominaga the Deity of Poisonous Snakes 
+ Vennominon the King of Poisonous Snakes 
+ Venom Boa  x2 
+ Venom Serpent  x3 
+ Venom Snake  x2 Spells   &  Traps   
+ Spells 
+ Snake Rain  x2 
+ Venom Swamp 
+ Traps 
+ Damage = Reptile 
+ Rise of the Sacred Deity 
+ 
+ Adrian Gecko Spells   &  Traps   
+ Traps 
+ Short Circuit 
+ 
+ Jaden's thoughts Monsters   
+ Normal Monsters 
+ Elemental Hero Avian 
+ Elemental Hero Burstinatrix 
+ Elemental Hero Clayman 
+ Elemental Hero Sparkman 
+ Effect Monsters 
+ Elemental Hero Bubbleman 
+ Elemental Hero Wildheart 
+ Notes 
+ 
+ ↑    In the  TCG / OCG , " Rise of the Sacred Deity " cannot be activated during the  Damage Step . 
+ 
+ ↑    In the  TCG / OCG , " Vennominaga 's" Duel-winning  effect  activates only when she inflicts  Battle Damage  three times, not by waiting three  turns  after she inflicts damage. 
+ 
+ 
+ v e 
+ Yu-Gi-Oh! GX   season 3 episodes 
+ #105 " Third Time's A Charm " #106 " A Jewel of A Duel: Part 1 " #107 " A Jewel of A Duel: Part 2 " #108 " Hanging with Axel: Part 1 " #109 " Hanging with Axel: Part 2 " #110 " Primal Instinct " #111 " Head in the Clouds: Part 1 " #112 " Head in the Clouds: Part 2 " #113 " Win Mr. Stein's Duel, Part 1 " #114 " Win Mr. Stein's Duel, Part 2 " #115 " Trapper Keeper, Part 1 " #116 " Trapper Keeper, Part 2 " #117 " A Snake in the Grass, Part 1 " #118 " A Snake in the Grass, Part 2 " #119 " A Snake in the Grass, Part 3 " #120 " Inter-Dimension Detention " #121 " Sub-Desert Duel " #122 " Night of the Living Duelist " #123 " School Ghoul Duels " #124 " Triple Play, Part 1 " #125 " Triple Play, Part 2 " #126 " Return of the Sacred Beasts " #127 " Breaking of the Sacred Seal " #128 " A Dimensional Duel " #129 " Unleashing the Dragon, Part 1 " #130 " Unleashing the Dragon, Part 2 " #131 " All for One " #132 " A New World Order " #133 " Friend or Fiend " #134 " Dueling With the Dark Army " #135 " Turning the Page, Part 1 " #136 " Turning the Page, Part 2 " #137 " The State of Syrus " #138 " The Darkness Revealed " #139 " A Sight Unseen, Part 1 " #140 " A Sight Unseen, Part 2 " #141 " What Lies Beneath, Part 1 " #142 " What Lies Beneath, Part 2 " #143 " What Lies Beneath, Part 3 " #144 " The Forbidden Ritual, Part 1 " #145 " The Forbidden Ritual, Part 2 " #146 " Conquering the Past, Part 1 " #147 " Conquering the Past, Part 2 " #148 " Conquering the Past, Part 3 " #149 " The Ultimate Face-Off, Part 1 " #150 " The Ultimate Face-Off, Part 2 " #151 " The Power Within, Part 1 " #152 " The Power Within, Part 2 " #153 " Return of the Supreme King, Part 1 " #154 " Return of the Supreme King, Part 2 " #155 " Return of the Supreme King, Part 3 " #156 " Judai Revived!? A Brand New Journey " 
+ 
+ 
+ << S1  •   << S2 
+ S4 >> 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/b0/Series119.jpg/revision/latest/scale-to-width-down/350?cb=20120816153609', 'https://static.wikia.nocookie.net/yugioh/images/f/f4/Ambox_content.png/revision/latest/scale-to-width-down/20?cb=20101005173352']
+Categories: Yu-Gi-Oh! GX episodes

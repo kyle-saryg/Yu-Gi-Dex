@@ -1,0 +1,90 @@
+Link: https://yugioh.fandom.com/wiki/Attrition
+
+
+ Attrition 
+ 
+ Japanese:   消耗戦 
+ Kana:   しょうもうせん 
+ Romaji:   Shōmōsen 
+ Translated:  War of Attrition 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Activate  this  effect  if an opponent's  monster  is not  destroyed by battle . Reduce the monster's  ATK  by the damage received. This effect accumulates.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh! :  076 ,  077 ,  078 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  Yu-Gi-Oh! ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 消 耗 戦 
+ バトルで敵方が生き残った場合のみ効果発動。 受けたダメージがモンスターの攻撃力から引かれる。  この効果は集計する。 
+ 
+ 
+ Shōmōsen 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Joey Wheeler 
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/b4/Attrition-JP-Anime-DM.png/revision/latest/scale-to-width-down/200?cb=20140808180622', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d2/Attrition-OW.png/revision/latest/scale-to-width-down/185?cb=20140226190518', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

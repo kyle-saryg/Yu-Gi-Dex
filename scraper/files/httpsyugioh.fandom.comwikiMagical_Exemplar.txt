@@ -1,0 +1,563 @@
+Link: https://yugioh.fandom.com/wiki/Magical_Exemplar
+
+The  Croatian, Greek, Polish  and  Thai                     names given are not official.  ( card names ) 
+ 
+ This card's written lore in the  https://img.konami.com/yugioh/duel_links/zh-tw/box/cards/zh-tw/7799.jpg  has not yet been transcribed; if you are able to read Chinese, please help out by adding an accurate Chinese lore  to this page. The current  https://img.konami.com/yugioh/duel_links/zh-tw/box/cards/zh-tw/7799.jpg  lore listed here is only a reconstruction and may not be fully correct.     
+ 
+ 
+ 
+ 
+ 
+ Magical Exemplar マジカル・コンダクター 
+ 
+ English 
+Magical Exemplar 
+ Chinese 
+ 魔力典範師 Check translation 
+ French 
+ Canalisateur de Magie Check translation 
+ German 
+ Magisches Exemplar Check translation 
+ Italian 
+ Esemplare Magico Check translation 
+ Korean 
+ 매지컬 컨덕터 Check translation 
+ Portuguese 
+ Modelo Exemplar de Mago Check translation 
+ Spanish 
+ Modelo Ejemplar de Mago Check translation 
+ Japanese 
+ マジカル・コンダクター Check translation 
+ Japanese ( rōmaji ) 
+Majikaru Kondakutā 
+ Japanese (translated) 
+Magical Conductor 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Spellcaster  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1700  /  1400 
+ Passcode 
+ 06061630 
+ Card effect types 
+ 
+ 
+ Continuous 
+ Ignition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Each time a  Spell Card  is  activated , place 2  Spell Counters  on this card when that Spell  resolves . Once per  turn : You can remove any number of Spell Counters from this card;  Special Summon  1  Spellcaster   monster  from your  hand  or  GY  whose  Level  is equal to the number of Spell Counters you removed. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Chaque fois qu'une Carte Magie est activée, placez 2 Compteurs Magie sur cette carte lorsque la Magie est résolue. Une fois par tour : vous pouvez retirer un nombre de votre choix de Compteurs Magie de cette carte ; Invoquez Spécialement 1 monstre Magicien depuis votre main ou Cimetière dont le Niveau est égal au nombre de Compteurs Magie que vous avez retirés. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege 2 Zauberzählmarken auf diese Karte, wenn der Zauber aufgelöst wird. Einmal pro Spielzug: Du kannst eine beliebige Anzahl Zauberzählmarken von dieser Karte entfernen; beschwöre 1 Hexer-Monster als Spezialbeschwörung von deiner Hand oder deinem Friedhof, dessen Stufe der Anzahl der Zauberzählmarken entspricht, die du entfernt hast. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Ogni volta che viene attivata una Carta Magia, metti 2 Segnalini Magia su questa carta quando quella Magia si risolve. Una volta per turno: puoi rimuovere un qualsiasi numero di Segnalini Magia da questa carta; Evoca Specialmente dalla tua mano o Cimitero 1 mostro Incantatore con Livello pari al numero di Segnalini Magia che hai rimosso. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Sempre que um Card de Magia for ativado, coloque 2 Marcadores de Magia neste card quando essa Magia resolver. Uma vez por turno: você pode remover qualquer número de Marcadores de Magia deste card; Invoque por Invocação-Especial 1 monstro Mago da sua mão ou do Cemitério cujo Nível seja igual ao número de Marcadores de Magia que você removeu. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cada vez que es activada una Carta Mágica, pon 2 Contadores Mágicos en esta carta cuando se resuelva esa Mágica. Una vez por turno: puedes retirar cualquier cantidad de Contadores Mágicos de esta carta; Invoca de Modo Especial, desde tu mano o Cementerio, 1 monstruo Lanzador de Conjuros cuyo Nivel sea igual a la cantidad de Contadores Mágicos que retiraste. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：このカードがモンスターゾーンに存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを２つ置く。②：１ターンに１度、このカードの魔力カウンターを任意の数だけ取り除いて発動できる。取り除いた数と同じレベルを持つ魔法使い族モンスター１体を、自分の手札・墓地から選んで特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 이 카드가 몬스터 존에 존재하는 한, 자신 또는 상대가 마법 카드를 발동할 때마다, 이 카드에 마력 카운터를 2개 놓는다. ②: 1턴에 1번, 이 카드의 마력 카운터를 임의의 수만큼 제거하고 발동할 수 있다. 제거한 수와 같은 레벨을 가지는 마법사족 몬스터 1장을, 자신의 패 / 묘지에서 골라 특수 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2008-05-03  
+ LODT-EN084   
+ Light of Destruction 
+ Super Rare 
+ 
+ 
+ 2009-03-31  
+ SDSC-EN018   
+ Spellcaster's Command Structure Deck 
+ Common 
+ 
+ 
+ 2014-07-31  
+ BP03-EN044   
+ Battle Pack 3: Monster League 
+ Rare 
+ 
+ 
+ 2014-07-31  
+ BP03-EN044   
+ Battle Pack 3: Monster League 
+ Shatterfoil Rare 
+ 
+ 
+ 2017-10-05  
+ LEDD-ENA11   
+ Legendary Dragon Decks 
+ Common 
+ 
+ 
+ 2019-04-19  
+ SR08-EN011   
+ Structure Deck: Order of the Spellcasters 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2008-05-13  
+ LODT-FR084   
+ Light of Destruction 
+ Lumière de la Destruction  
+ Super Rare 
+ 
+ 
+ 2009-03-31  
+ SDSC-FR018   
+ Spellcaster's Command Structure Deck 
+ L'ordre du Magicien Deck de Structure  
+ Common 
+ 
+ 
+ 2014-07-31  
+ BP03-FR044   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: La Ligue des Monstres  
+ Rare 
+ 
+ 
+ 2014-07-31  
+ BP03-FR044   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: La Ligue des Monstres  
+ Shatterfoil Rare 
+ 
+ 
+ 2017-10-05  
+ LEDD-FRA11   
+ Legendary Dragon Decks 
+ Decks du Dragon Legendaire  
+ Common 
+ 
+ 
+ 2019-04-25  
+ SR08-FR011   
+ Structure Deck: Order of the Spellcasters 
+ Deck de Structure : La Confrérie des Magiciens  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2008-05-13  
+ LODT-DE084   
+ Light of Destruction 
+ Light of Destruction  
+ Super Rare 
+ 
+ 
+ 2009-03-31  
+ SDSC-DE018   
+ Spellcaster's Command Structure Deck 
+ Spellcaster's Command Structure Deck  
+ Common 
+ 
+ 
+ 2014-07-31  
+ BP03-DE044   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Monster League  
+ Rare 
+ 
+ 
+ 2014-07-31  
+ BP03-DE044   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Monster League  
+ Shatterfoil Rare 
+ 
+ 
+ 2017-10-05  
+ LEDD-DEA11   
+ Legendary Dragon Decks 
+ Legendary Dragon Decks  
+ Common 
+ 
+ 
+ 2019-04-25  
+ SR08-DE011   
+ Structure Deck: Order of the Spellcasters 
+ Structure Deck: Order of the Spellcasters  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2008-05-13  
+ LODT-IT084   
+ Light of Destruction 
+ Luce della Distruzione  
+ Super Rare 
+ 
+ 
+ 2009-03-31  
+ SDSC-IT018   
+ Spellcaster's Command Structure Deck 
+ Comando Dell'Incantore Structure Deck  
+ Common 
+ 
+ 
+ 2014-07-31  
+ BP03-IT044   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Lega dei Mostri  
+ Rare 
+ 
+ 
+ 2014-07-31  
+ BP03-IT044   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Lega dei Mostri  
+ Shatterfoil Rare 
+ 
+ 
+ 2017-10-05  
+ LEDD-ITA11   
+ Legendary Dragon Decks 
+ I Deck Drago Leggendario  
+ Common 
+ 
+ 
+ 2019-04-25  
+ SR08-IT011   
+ Structure Deck: Order of the Spellcasters 
+ Structure Deck: Ordine degli Incantatori  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2014-08-01  
+ BP03-PT044   
+ Battle Pack 3: Monster League 
+ Pacote de Batalha 3: Liga de Monstros  
+ Rare 
+ 
+ 
+ 2014-08-01  
+ BP03-PT044   
+ Battle Pack 3: Monster League 
+ Pacote de Batalha 3: Liga de Monstros  
+ Shatterfoil Rare 
+ 
+ 
+ 2017-10-05  
+ LEDD-PTA11   
+ Legendary Dragon Decks 
+ Decks de Dragões Lendários  
+ Common 
+ 
+ 
+ 2019-04-25  
+ SR08-PT011   
+ Structure Deck: Order of the Spellcasters 
+ Deck Estrutural: Ordem dos Magos  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2008-05-13  
+ LODT-SP084   
+ Light of Destruction 
+ Luz de la Destrucción  
+ Super Rare 
+ 
+ 
+ 2009-03-31  
+ SDSC-SP018   
+ Spellcaster's Command Structure Deck 
+ Orden del Conjurador Baraja de Estructura  
+ Common 
+ 
+ 
+ 2014-07-25, 2014-07-31  
+ BP03-SP044   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Liga de Monstruos  
+ Rare 
+ 
+ 
+ 2014-07-25, 2014-07-31  
+ BP03-SP044   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Liga de Monstruos  
+ Shatterfoil Rare 
+ 
+ 
+ 2017-10-05  
+ LEDD-SPA11   
+ Legendary Dragon Decks 
+ Barajas Dragón Legendario  
+ Common 
+ 
+ 
+ 2019-04-25  
+ SR08-SP011   
+ Structure Deck: Order of the Spellcasters 
+ Baraja de Estructura: Mandato de los Conjuradores  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2009-09-19  
+ EXP2-JP005   
+ Extra Pack Volume 2 
+ ＥＸＴＲＡ ＰＡＣＫ Ｖｏｌｕｍｅ ２  
+ Rare 
+ 
+ 
+ 2019-03-09  
+ SR08-JP011   
+ Structure Deck R: Lord of Magician 
+ ストラクチャーデッキＲ －ロード・オブ・マジシャン－  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2009-12-01  
+ EXP2-KR005   
+ Extra Pack Volume 2 
+ 엑스트라 팩 Volume 2  
+ Rare 
+ 
+ 
+ 2019-06-18  
+ SR08-KR011   
+ Structure Deck R: Lord of Magician 
+ STRUCTURE DECK  R － 로드 오브 매지션 －  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Spellcaster 
+ 
+ Counters   
+ Spell Counter 
+ Places counters on itself 
+ Removes counters from itself for cost 
+ 
+ Summoning  categories  
+ Special Summons from your hand 
+ Special Summons from your Graveyard 
+ 
+ Miscellaneous  
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 7799 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/6/61/MagicalExemplar-SR08-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20190502213121', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Card pages with a lore in need of transcription, Duel Monsters cards, TCG cards, OCG cards

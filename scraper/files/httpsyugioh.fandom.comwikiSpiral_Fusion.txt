@@ -1,0 +1,276 @@
+Link: https://yugioh.fandom.com/wiki/Spiral_Fusion
+
+
+ 
+ 
+ Spiral Fusion 螺旋融合 
+ 
+ English 
+Spiral Fusion 
+ French 
+ Fusion Spirale Check translation 
+ German 
+ Spiralfusion Check translation 
+ Italian 
+ Fusione Spirale Check translation 
+ Korean 
+ 스파이럴 퓨전 Check translation 
+ Portuguese 
+ Fusão Espiral Check translation 
+ Spanish 
+ Fusión Espiral Check translation 
+ Japanese (kana) 
+ スパイラル・フュージョン Check translation 
+ Japanese (base) 
+ 螺旋融合 Check translation 
+ Japanese ( rōmaji ) 
+Supairaru Fyūjon 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 38590361 
+ Card effect types 
+ 
+ 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Fusion Summon  1  Dragon   Fusion Monster  from your  Extra Deck , using  monsters  from your  hand  or  field  as  Fusion Material . If you  Special Summoned  " Gaia the Dragon Champion " by this  effect , it gains 2600  ATK , also it can make up to 2  attacks  on monsters during each  Battle Phase . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Invoquez par Fusion 1 Monstre Fusion Dragon depuis votre Extra Deck, en utilisant des monstres depuis votre main ou Terrain comme Matériel Fusion. Si vous Invoquez Spécialement "Gaïa le Dragon Champion" par cet effet, il gagne 2600 ATK, et aussi, il peut faire max. 2 attaques sur des monstres durant chaque Battle Phase. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Beschwöre 1 Drache-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck und verwende dafür Monster von deiner Hand oder Spielfeldseite als Fusionsmaterial. Falls du „Drachenmeister Gaia“ durch diesen Effekt als Spezialbeschwörung beschworen hast, erhält er 2600 ATK, zusätzlich kann er während jeder Battle Phase bis zu 2 Angriffe gegen Monster durchführen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Evoca tramite Fusione 1 Mostro Fusione Drago dal tuo Extra Deck, utilizzando mostri dalla tua mano o Terreno come Materiale da Fusione. Se hai Evocato Specialmente "Gaia il Dragone" con questo effetto, esso guadagna 2600 ATK, inoltre può effettuare fino a 2 attacchi su mostri durante ogni Battle Phase. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Invoque por Invocação-Fusão 1 Monstro de Fusão Dragão do seu Deck Adicional, usando monstros da sua mão ou do campo como Matéria de Fusão. Se você Invocou "Gaia, o Matador de Dragões" por Invocação-Especial com este efeito, ele ganha 2600 de ATK e, além disso, ele poder realizar até 2 ataques contra monstros durante cada Fase de Batalha. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Invoca por Fusión, desde tu Deck Extra, 1 Monstruo de Fusión Dragón, usando monstruos en tu mano o Campo como Material de Fusión. Si Invocaste de Modo Especial "Gaia el Campeón Dragón" por este efecto, éste gana 2600 ATK, y además éste puede hacer hasta 2 ataques a monstruos durante cada Battle Phase. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：自分の手札・フィールドから、ドラゴン族の融合モンスターカードによって決められた融合素材モンスターを墓地へ送り、その融合モンスター１体を ＥＸ デッキから融合召喚する。この効果で「竜騎士ガイア」を特殊召喚した場合、そのモンスターは、攻撃力が２６００アップし、１度のバトルフェイズ中に２回までモンスターに攻撃できる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 자신의 패 / 필드에서, 드래곤족 융합 몬스터 카드에 기재된 융합 소재 몬스터를 묘지로 보내고, 그 융합 몬스터 1장을 엑스트라 덱에서 융합 소환한다. 이 효과로 "용기사 가이아"를 특수 소환했을 경우, 그 몬스터는, 공격력을 2600 올리고, 1번의 배틀 페이즈 중에 2회까지 몬스터에 공격할 수 있다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2020-08-06 ROTD-EN050 Rise of the Duelist Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2020-08-06 ROTD-FR050 Rise of the Duelist l'Ascension du Duelliste Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2020-08-06 ROTD-DE050 Rise of the Duelist Rise of the Duelist Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2020-08-06 ROTD-IT050 Rise of the Duelist Ascesa del Duellante Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2020-08-06 ROTD-PT050 Rise of the Duelist Ascensão do Duelista Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2020-08-06 ROTD-SP050 Rise of the Duelist Alzamiento del Duelista Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2020-04-18 ROTD-JP050 Rise of the Duelist ライズ・オブ・ザ・デュエリスト Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2020-07-25 ROTD-KR050 Rise of the Duelist 라이즈 오브 더 듀얼리스트 Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Dragon 
+ Fusion Monster 
+ Gaia the Dragon Champion 
+ 
+ Archetypes  and  series   
+ Fusion  
+ 
+ Related to  archetypes  and  series   
+ Gaia Knight 
+ Gaia The Fierce Knight  
+ 
+ Actions  
+ Sends from your hand to your Graveyard 
+ Sends from your field to your Graveyard 
+ Uses cards on the player's field as Fusion Materials 
+ Uses cards in the hand as Fusion Materials 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ 
+ Summoning  categories  
+ Performs a Fusion Summon 
+ Special Summons from your Extra Deck 
+ 
+ Attack  categories  
+ Allows multiple attacks on monsters 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 15284 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Spiral Fusion " pages 
+ 
+ 
+ Manga 
+ 
+ 
+ 
+   
+" Fusion " 「フュージョン」 Members 
+ Greedy Venom Fusion Dragon Purple Poison Magician Starving Venom Fusion Dragon Starving Venom Predapower Fusion Dragon 
+ Absorb Fusion Ancient Gear Fusion Battle Fusion Brilliant Fusion Confusion Chaff Cyberload Fusion Cybernetic Fusion Support Cynet Fusion D-Fusion Dark Fusion Dowsing Fusion El Shaddoll Fusion Final Fusion Fossil Fusion Fragment Fusion Frightfur Fusion Fullmetalfoes Fusion Fusion Destiny Fusion Fright Waltz Fusion Gate Fusion Guard Fusion Recovery Fusion Reserve Fusion Tag Fusion Weapon Fusion of Fire Future Fusion Gem-Knight Fusion Ghost Fusion Instant Fusion Lunalight Fusion Magicalized Fusion Metalfoes Fusion Miracle Fusion Miracle Synchro Fusion Myutant Fusion Necro Fusion Neos Fusion Nephe Shaddoll Fusion Odd-Eyes Fusion Over Fusion Overload Fusion Paradox Fusion Parallel World Fusion Parametalfoes Fusion Particle Fusion Pendulum Fusion Predaprime Fusion Pyroxene Fusion Ready Fusion ... further results 
+ Support 
+ Alba-Lenatus the Abyss Dragon Fluffal Dolphin Gem-Knight Quartz Keeper of Dragon Magic Predaplant Chimerafflesia Predaplant Darlingtonia Cobra Predaplant Verte Anaconda Supreme King Gate Zero Synchro Fusionist Xtra HERO Wonder Driver 
+ Cyberdark Inferno Evil Mind Frightfur Factory Sabatiel - The Philosopher's Stone Wonders of Nature 
+ Related 
+ Fusion Devourer Odd-Eyes Venom Dragon Performapal Trump Witch Relinquished 
+ Dark Calling Evolution Result Burst Fusion Substitute Miracle Contact Polymerization Power Bond 
+ 
+   
+ Gaia Knight   騎 士 ガイア Members 
+ Gaia Dragon, the Thunder Charger Gaia Drake, the Universal Force Gaia Knight, the Force of Earth Gaia Saber, the Lightning Shadow Gaia the Dragon Champion Gaia the Magical Knight of Dragons Gaia, the Mid-Knight Sun Gaia, the Polar Knight Sky Galloping Gaia the Dragon Champion 
+ Related 
+ Charging Gaia the Fierce Knight Curse of Dragon Curse of Dragon, the Cursed Dragon Curse of Dragon, the Magical Knight Dragon Curse of Dragonfire Dark Magician the Magical Knight of Dragons Gaia The Fierce Knight 
+ Galloping Gaia Spiral Discharge Spiral Fusion Spiral Reborn Spiral Spear Strike 
+ 
+   
+" Gaia The Fierce Knight " 「 暗 黒 騎 士 ガイア」 Members 
+ Arisen Gaia the Fierce Knight Charging Gaia the Fierce Knight Gaia The Fierce Knight Gaia the Fierce Knight Origin Gaia the Magical Knight Lord Gaia the Fierce Knight Soldier Gaia The Fierce Knight Swift Gaia the Fierce Knight 
+ Support 
+ Artillery Catapult Turtle Black Luster Soldier - Super Soldier Envoy of Chaos Gaia the Magical Knight of Dragons Skilled Blue Magician Sky Galloping Gaia the Dragon Champion 
+ Beginning of Heaven and Earth Galloping Gaia Gateway to Chaos 
+ Related 
+ Curse of Dragon Curse of Dragon, the Cursed Dragon Curse of Dragon, the Magical Knight Dragon Curse of Dragonfire Dark Cavalry Dark Magician Dark Magician Dark Magician the Magical Knight of Dragons Gaia Dragon, the Thunder Charger Gaia Drake, the Universal Force Gaia Knight, the Force of Earth Gaia Saber, the Lightning Shadow Gaia the Dragon Champion Gaia, the Mid-Knight Sun Gaia, the Polar Knight 
+ Spiral Discharge Spiral Fusion Spiral Reborn Spiral Spear Strike 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a6/SpiralFusion-ROTD-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20200811162241', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

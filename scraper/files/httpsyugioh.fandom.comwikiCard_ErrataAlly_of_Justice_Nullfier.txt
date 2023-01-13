@@ -1,0 +1,46 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Ally_of_Justice_Nullfier
+
+
+ Ally of Justice Nullfier 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Effects of  LIGHT  monsters  that battled this card  are  negated. 
+ Any  LIGHT  monster  that  has  battled this card  has its effects  negated  (starting after damage calculation) . 
+ 
+ 
+       DT02-EN024 Duel Terminal 2     
+       HA02-EN018 Hidden Arsenal 2     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ Effects of  LIGHT  monsters  that battled this card  are  negated. 
+ If this card battles a LIGHT monster, after damage calculation: Negate the effects of that monster (including in the GY). 
+ 
+ 
+       Yu-Gi-Oh! Trading Card Game - Card Database     
+         HAC1-EN080 Hidden Arsenal: Chapter 1     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d1/AllyofJusticeNullfier-DT02-EN-DNPR-DT.jpg/revision/latest/scale-to-width-down/180?cb=20121205024932', 'https://static.wikia.nocookie.net/yugioh/images/8/8c/AllyofJusticeNullfier-HA02-EN-SR-1E.png/revision/latest/scale-to-width-down/180?cb=20100720143248', 'https://static.wikia.nocookie.net/yugioh/images/8/88/AllyofJusticeNullifier-EN-SAMPLE.png/revision/latest/scale-to-width-down/180?cb=20171224013443', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/ff/AllyofJusticeNullfier-HAC1-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20220402034752']
+Categories: Card Errata, Errata table transclusions with SAMPLE images, Cards with 3 errata

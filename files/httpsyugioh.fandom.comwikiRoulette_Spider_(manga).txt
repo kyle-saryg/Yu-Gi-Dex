@@ -1,0 +1,104 @@
+Link: https://yugioh.fandom.com/wiki/Roulette_Spider_(manga)
+
+Main card page: " Roulette Spider " 
+ Roulette Spider 
+ 
+ Japanese:   ルーレット・スパイダー 
+ Romaji:   Rūretto Supaidā 
+ 
+ 
+ 
+ 
+ en 
+ ja 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell 
+ 
+ 
+ 
+ Places the  monster  with the highest  ATK  in the center of the  field  and spins it around. When Roulette Spider's arrow stops, the monster  attacks  whatever the arrow is pointing at. 
+ 
+ Viz Media  lore<nomobile> ? :</nomobile> <mobile>(The English manga by Viz Media sometimes uses lores which are inconsistent with the Japanese lore or how the card worked.):</mobile>  Select  the  monster  on the  field  with the highest  ATK . Spin the wheel. The player who it points to takes  damage  equal to the selected monster's ATK.
+ 
+ 
+ Appearances
+ 
+ 
+ 
+ 
+   Duelist :  099 
+   R : Yu-Gi-Oh! R - Duel Round 005|005 Property "Yu-Gi-Oh R chapter appearances (linked)" (as page type) with input value "Yu-Gi-Oh! R - Duel Round 005|005" contains invalid characters or is incomplete and therefore can cause unexpected results during a query or annotation process. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Manga cards (Galleries:  Yu-Gi-Oh!  ·  R ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ルーレット・スパイダー 
+ フィールド上で最も攻撃力の高いモンスターを中心に置き回転させる。ルーレット・スパイダーの矢印の指す対象に攻撃する 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Katsuya Jonouchi's Battle City Deck    
+ Katsuya Jonouchi's Project R.A. Deck 
+ 
+ 
+ Search categories 
+ 
+ Attack  categories  
+ Manages attack targets 
+ Allows direct attacks 
+ Conducts battle between your opponent's monsters 
+ 
+ LP   
+ Pays Life Points for cost 
+ Halves the player's LP 
+ 
+ 
+ 
+   " Roulette Spider " pages 
+ 
+ 
+ Anime Manga 
+ 
+ 
+ 
+ Description 
+ While it is not mentioned in the Japanese lore, you must  pay  half your  Life Points  to  activate  this card.
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/9f/RouletteSpider-EN-Manga-R.png/revision/latest/scale-to-width-down/200?cb=20150225195701', 'https://static.wikia.nocookie.net/yugioh/images/3/32/RouletteSpider-JP-Manga-DM-CA.png/revision/latest?cb=20140706171633', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c4/RouletteSpider-JP-Manga-DM-NC.png/revision/latest/scale-to-width-down/185?cb=20140706172120', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Manga cards

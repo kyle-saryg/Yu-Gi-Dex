@@ -1,0 +1,101 @@
+Link: https://yugioh.fandom.com/wiki/Subspace_Battle
+
+
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Subspace Battle 
+ 
+ Japanese:   亜空間バトル 
+ Kana:   あくうかんバトル 
+ Romaji:   Akūkan Batoru 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Each player selects 3  Monster Cards  from their  Deck , then each player simultaneously reveals 1 of the cards among them. At that time, the player who reveals a monster with lower ATK than their opponent's takes 500  damage  and  sends  that card to the  Graveyard , while the player who reveals a monster with higher  ATK   adds  that card to their  hand . (If both of them have the same ATK, both cards are sent to the Graveyard.) After repeating this  effect  3 times,  destroy  this card.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  GX :  180 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  GX ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 亜 空 間 バトル 
+ お互いのプレイヤーは自分のデッキからモンスターカードを３枚選択し、選択したカードの中から１枚を選択し同時に相手に見せる。この時、相手プレイヤーより攻撃力の低いモンスターを出したプレイヤーは５００ポイントのダメージを受け、そのカードを墓地へ送る。攻撃力の高いモンスターを出したプレイヤーはそのカードを手札に加える。（攻撃力が同じ場合、どちらも墓地へ送られる）３回この効果を繰り返した後、このカードを破壊する。 
+ 
+ 
+ Akūkan Batoru 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Jaden Yuki 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Reveals cards from your Deck 
+ Adds from Deck to hand 
+ Sends from Deck to Graveyard 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ LP   
+ Damages you 
+ Damages your opponent 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/8/82/SubspaceBattle-JP-Anime-GX.png/revision/latest/scale-to-width-down/200?cb=20161217205808', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/38/SubspaceBattle-JP-Anime-GX-NC.png/revision/latest/scale-to-width-down/185?cb=20150314020407', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

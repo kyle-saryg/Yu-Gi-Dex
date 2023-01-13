@@ -1,0 +1,662 @@
+Link: https://yugioh.fandom.com/wiki/Swift_Scarecrow
+
+The  Arabic, Croatian  and  Greek                      names given are not official.  ( card names ) 
+ 
+ 
+ 
+ 
+ 
+ Swift Scarecrow 速 攻 のかかし 
+ 
+ English 
+Swift Scarecrow 
+ French 
+ Attaque de l'Épouvantail Check translation 
+ German 
+ Flinke Vogelscheuche Check translation 
+ Italian 
+ Spaventapasseri Veloce Check translation 
+ Korean 
+ 속공의 허수아비 Check translation 
+ Portuguese 
+ Espantalho Ligeiro Check translation 
+ Spanish 
+ Espantapájaros Veloz Check translation 
+ Japanese (kana) 
+ そっこうのかかし Check translation 
+ Japanese (base) 
+ 速攻のかかし Check translation 
+ Japanese ( rōmaji ) 
+Sokkō no Kakashi 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Machine  /  Effect 
+ Level 
+ 1   
+ ATK  /  DEF 
+ 0  /  0 
+ Passcode 
+ 18964575 
+ Card effect types 
+ 
+ 
+ Quick Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When an opponent's  monster   declares  a  direct attack  ( Quick Effect ): You can  discard  this card;  negate  the  attack , then end the  Battle Phase . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Lorsqu'un monstre de l'adversaire déclare une attaque directe (Effet Rapide) : vous pouvez défausser cette carte ; annulez l'attaque, puis terminez la Battle Phase. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ (Diese Karte wird nicht als „ Flink “-Karte behandelt.) Wenn ein Monster eines Gegners einen direkten Angriff deklariert (Schnelleffekt): Du kannst diese Karte abwerfen; annulliere den Angriff, dann beende die Battle Phase. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando un mostro dell'avversario dichiara un attacco diretto (Effetto Rapido): puoi scartare questa carta; annulla l'attacco, poi termina la Battle Phase. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Quando um monstro do oponente declarar um ataque direto (Efeito Rápido): você pode descartar este card; negue o ataque e, depois, encerre a Fase de Batalha. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando un monstruo del adversario declara un ataque directo (Efecto Rápido): puedes descartar esta carta; niega el ataque, y después termina la Battle Phase. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：相手モンスターの直接攻撃宣言時にこのカードを手札から捨てて発動できる。その攻撃を無効にし、その後バトルフェイズを終了する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 상대 몬스터의 직접 공격 선언 시, 이 카드를 패에서 버리고 발동할 수 있다. 그 공격을 무효로 하고, 배틀 페이즈를 종료한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2010-11-06  
+ STBL-EN001   
+ Starstrike Blast 
+ Common 
+ 
+ 
+ 2012-11-23  
+ AP01-EN017   
+ Astral Pack One 
+ Common 
+ 
+ 
+ 2014-02-07  
+ AP04-EN007   
+ Astral Pack Four 
+ Super Rare 
+ 
+ 
+ 2014-10-16  
+ SDGR-EN017   
+ Geargia Rampage Structure Deck 
+ Common 
+ 
+ 
+ 2015-08-27  
+ SDSE-EN016   
+ Synchron Extreme Structure Deck 
+ Common 
+ 
+ 
+ 2017-07-20  
+ YS17-EN019   
+ Starter Deck: Link Strike 
+ Common 
+ 
+ 
+ 2018-07-12  
+ YS18-EN020   
+ Starter Deck: Codebreaker 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2010-11-11  
+ STBL-FR001   
+ Starstrike Blast 
+ Explosion des Etoiles  
+ Common 
+ 
+ 
+ 2012-11-16  
+ AP01-FR017   
+ Astral Pack One 
+ Paquet Astral Un  
+ Common 
+ 
+ 
+ 2014-02-06  
+ AP04-FR007   
+ Astral Pack Four 
+ Paquet Astral Quatre  
+ Super Rare 
+ 
+ 
+ 2014-10-16  
+ SDGR-FR017   
+ Geargia Rampage Structure Deck 
+ Déchaînment Geargia Deck de Structure  
+ Common 
+ 
+ 
+ 2015-08-27  
+ SDSE-FR016   
+ Synchron Extreme Structure Deck 
+ Synchronique Extreme Deck de Structure  
+ Common 
+ 
+ 
+ 2017-07-20  
+ YS17-FR019   
+ Starter Deck: Link Strike 
+ Deck de Démarrage : L'Attaque du Lien  
+ Common 
+ 
+ 
+ 2018-07-12  
+ YS18-FR020   
+ Starter Deck: Codebreaker 
+ Deck de Démarrage : Le Briseur de Code  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2010-11-11  
+ STBL-DE001   
+ Starstrike Blast 
+ Starstrike Blast  
+ Common 
+ 
+ 
+ 2012-11-22  
+ AP01-DE017   
+ Astral Pack One 
+ Astral Pack Eins  
+ Common 
+ 
+ 
+ 2014-02-06  
+ AP04-DE007   
+ Astral Pack Four 
+ Astral Pack Vier  
+ Super Rare 
+ 
+ 
+ 2014-10-16  
+ SDGR-DE017   
+ Geargia Rampage Structure Deck 
+ Geargia Rampage Structure Deck  
+ Common 
+ 
+ 
+ 2015-08-27  
+ SDSE-DE016   
+ Synchron Extreme Structure Deck 
+ Synchron Extreme Structure Deck  
+ Common 
+ 
+ 
+ 2017-07-20  
+ YS17-DE019   
+ Starter Deck: Link Strike 
+ Starter Deck: Link Strike  
+ Common 
+ 
+ 
+ 2018-07-12  
+ YS18-DE020   
+ Starter Deck: Codebreaker 
+ Starter Deck: Codebreaker  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2010-11-11  
+ STBL-IT001   
+ Starstrike Blast 
+ Esplosione Astrale  
+ Common 
+ 
+ 
+ 2012-11-23  
+ AP01-IT017   
+ Astral Pack One 
+ Astral Pack Uno  
+ Common 
+ 
+ 
+ 2014-02-06  
+ AP04-IT007   
+ Astral Pack Four 
+ Astral Pack Quattro  
+ Super Rare 
+ 
+ 
+ 2014-10-16  
+ SDGR-IT017   
+ Geargia Rampage Structure Deck 
+ Furia Ingranaggian Structure Deck  
+ Common 
+ 
+ 
+ 2015-08-27  
+ SDSE-IT016   
+ Synchron Extreme Structure Deck 
+ Synchron Estremi Structure Deck  
+ Common 
+ 
+ 
+ 2017-07-20  
+ YS17-IT019   
+ Starter Deck: Link Strike 
+ Starter Deck: Attacco Link  
+ Common 
+ 
+ 
+ 2018-07-12  
+ YS18-IT020   
+ Starter Deck: Codebreaker 
+ Starter Deck: Decifratore di Codici  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+   
+ AP01-PT017   
+ Astral Pack One 
+ Pacote Astral Um  
+ Common 
+ 
+ 
+ 2014-02-01  
+ AP04-PT007   
+ Astral Pack Four 
+ Pacote Astral Quatro  
+ Super Rare 
+ 
+ 
+ 2014-10-17  
+ SDGR-PT017   
+ Geargia Rampage Structure Deck 
+ Ofensiva Engrenagi Deck Estrutural  
+ Common 
+ 
+ 
+ 2015-08-28  
+ SDSE-PT016   
+ Synchron Extreme Structure Deck 
+ Sincron Extremo Deck Estrutural  
+ Common 
+ 
+ 
+ 2017-08-22  
+ YS17-PT019   
+ Starter Deck: Link Strike 
+ Deck Inicial: Ataque Link  
+ Common 
+ 
+ 
+ 2018-07-12  
+ YS18-PT020   
+ Starter Deck: Codebreaker 
+ Deck Inicial: Decifrador de Códigos  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2010-11-11  
+ STBL-SP001   
+ Starstrike Blast 
+ La Explosión del Ataque Estelar  
+ Common 
+ 
+ 
+ 2012-11-16  
+ AP01-SP017   
+ Astral Pack One 
+ Sobre Astral Uno  
+ Common 
+ 
+ 
+ 2014-02-06  
+ AP04-SP007   
+ Astral Pack Four 
+ Sobre Astral Cuatro  
+ Super Rare 
+ 
+ 
+ 2014-10-16  
+ SDGR-SP017   
+ Geargia Rampage Structure Deck 
+ Engranaji-Furia Baraja de Estructura  
+ Common 
+ 
+ 
+ 2015-08-27  
+ SDSE-SP016   
+ Synchron Extreme Structure Deck 
+ Sincrón Extremo Baraja de Estructura  
+ Common 
+ 
+ 
+ 2017-07-20  
+ YS17-SP019   
+ Starter Deck: Link Strike 
+ Baraja de Principante: Golpe de Enlace  
+ Common 
+ 
+ 
+ 2018-07-12  
+ YS18-SP020   
+ Starter Deck: Codebreaker 
+ Baraja de Principiante: Descifrador de Códigos  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2010-07-17  
+ STBL-JP001   
+ Starstrike Blast 
+ ＳＴＡＲＳＴＲＩＫＥ ＢＬＡＳＴ  
+ Common 
+ 
+ 
+ 2010-08-26  
+ STBL-JP001   
+ Starstrike Blast 2-Pack Set 
+ ＳＴＡＲＳＴＲＩＫＥ　ＢＬＡＳＴ　２パックセット  
+ Normal Parallel Rare 
+ 
+ 
+ 2013-11-23  
+ DS14-JPM13   
+ Duelist Set: Version Machine-Gear Troopers 
+ デュエリストセット Ｖｅｒ．マシンギア・トルーパーズ  
+ Ultra Rare 
+ 
+ 
+ 2014-12-06  
+ SD28-JP016   
+ Structure Deck: Synchron Extreme 
+ ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ － シンクロン・エクストリーム －  
+ Common 
+ 
+ 
+ 2017-03-25  
+ ST17-JP019   
+ Starter Deck 2017 
+ ＳＴＡＲＴＥＲ ＤＥＣＫ ２０１７  
+ Common 
+ 
+ 
+ 2018-03-24  
+ ST18-JP019   
+ Starter Deck 2018 
+ ＳＴＡＲＴＥＲ ＤＥＣＫ ２０１８  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2010-10-20  
+ STBL-KR001   
+ Starstrike Blast 
+ 폭풍의 스타스트라이크  
+ Common 
+ 
+ 
+ 2013-10-20  
+ AE02-KR008   
+ Advanced Event Pack 2013 Vol.2 
+ 어드밴스드 이벤트 팩 2013 Vol.2  
+ Super Rare 
+ 
+ 
+ 2014-01-15  
+ DS14-KRM13   
+ Duelist Set: Version Machine-Gear Troopers 
+ 듀얼리스트 세트 Ver.머신기아 트루퍼즈  
+ Ultra Rare 
+ 
+ 
+ 2015-03-25  
+ SD28-KR016   
+ Structure Deck: Synchron Extreme 
+ ＳＴＲＵＣＴＵＲＥ   ＤＥＣＫ  싱크론 익스트림  
+ Common 
+ 
+ 
+ 2017-07-06  
+ ST17-KR019   
+ Starter Deck 2017 
+ ＳＴＡＲＴＥＲ ＤＥＣＫ  ２０１７  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Actions  
+ Activates from your hand 
+ Activates upon attack declaration 
+ Discards itself for cost 
+ Ends the Battle Phase 
+ 
+ Attack  categories  
+ Negates attacks 
+ 
+ Miscellaneous  
+ Archetype-exclusion condition 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 9078 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Swift Scarecrow " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/ce/SwiftScarecrow-YS18-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180712164843', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836']
+Categories: Duel Monsters cards, TCG cards, OCG cards

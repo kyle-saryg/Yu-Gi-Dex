@@ -1,0 +1,57 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Alien_Grey
+
+
+ Alien Grey 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ OCG Rulings 
+ The  Flip effect  of " Alien Grey "  targets  1 monster the opponent controls, also the effect can be activated during the  Damage Step . [1] 
+ The effect to draw a card when " Alien Grey " has been flipped face-up is a  Trigger Effect . It does not target. [1] 
+ The effect to draw a card when " Alien Grey " has been flipped face-up is activated even if it had been flipped face-up earlier in the Duel (including  Flip Summoned  or being changed face-up by a card effect). It does not have to be flipped face-up as a result of the battle that destroyed it. [1] 
+ The effect to reduce the  ATK  and  DEF  of a monster attacking an " Alien " monster is a  Continuous Effect . [1] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [2]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [3] [4] [5] [6] [7] [8] [9] [10] [11] 
+ 
+ The effect to reduce the ATK of monsters with  A-Counters  is an effect of this card. If this card (or another with the same effect) is not on the field, then a monster with an A-Counter will not lose ATK while battling an "Alien". 
+ If 2 " Alien Grey " (or other monsters with the A-Counter text) are on the field, then a monster with 1 A-Counter will lose 600 ATK while battling an " Alien ". 
+ 
+ 
+ 
+ References 
+ 
+ ↑  1.0   1.1   1.2   1.3   Konami OCG Card Database : Alien Grey 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

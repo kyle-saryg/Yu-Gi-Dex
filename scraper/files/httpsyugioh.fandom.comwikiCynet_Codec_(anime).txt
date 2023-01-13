@@ -1,0 +1,129 @@
+Link: https://yugioh.fandom.com/wiki/Cynet_Codec_(anime)
+
+Main card page: " Cynet Codec " 
+ Cynet Codec 
+ 
+ Japanese:   サイバネット・コーデック 
+ Romaji:   Saibanetto Kōdekku 
+ Translated:  Cybenet Codec 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ If a " Code Talker "  monster (s) is  Special Summoned  from the  Extra Deck  to your  field  (except during the  Damage Step ): You can  target  1 of those monsters;  add  1  Cyberse  monster with the same  Attribute  from your Deck to your hand, but for the rest of this turn, you cannot add other monsters with the same Attribute to your hand with the  effect  of "Cynet Codec", also you cannot Special Summon monsters from the Extra Deck, except Cyberse monsters (even if this card  leaves the field ). You can only  activate  this effect of "Cynet Codec" once per Chain.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  102 ,  104 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ サイバネット・コーデック 
+ このカード名の効果は同一チェーン上では１度しか発動できない。①：「コード・トーカー」モンスターがＥＸデッキから自分フィールドに特殊召喚された場合、そのモンスター１体を対象として発動できる。そのモンスターと同じ属性のサイバース族モンスター１体をデッキから手札に加える。このターン、同じ属性のモンスターを自分の「サイバネット・コーデック」の効果で手札に加える事はできない。この効果の発動後、ターン終了時まで自分はサイバース族モンスターしかＥＸデッキから特殊召喚できない。 
+ 
+ 
+ Saibanetto Kōdekku 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Cyberse 
+ 
+ Archetypes  and  series   
+ Cynet 
+ 
+ Supports   archetypes   
+ Code Talker  
+ 
+ Actions  
+ Activates upon Special Summon 
+ Adds from Deck to hand 
+ 
+ Summoning  categories  
+ Restricts the player's Special Summons from the Extra Deck 
+ Restricts the player's Special Summons to Type specific monsters 
+ 
+ Miscellaneous  
+ Limited activations in a Chain 
+ 
+ 
+ 
+   " Cynet Codec " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+" Code Talker " 「コード・トーカー」 a   +   Members 
+ Accesscode Talker Code Talker Decode Talker Decode Talker Extended Encode Talker Excode Talker Powercode Talker Shootingcode Talker Transcode Talker Transcode Talker 
+ Support 
+ Code Generator Code Hack Cynet Codec Cynet Optimization Limit Code Micro Coder Recoded Alive Talkback Lancer Transcode Talker 
+ Related 
+ Dark Templar @Ignister Decode Destruction 
+ 
+ v e 
+" Cynet " 「サイバネット」 a   m   Members 
+ Cynet Backdoor Cynet Closure Cynet Codec Cynet Defrag Cynet Fusion Cynet Mining Cynet Optimization Cynet Refresh Cynet Ritual Cynet Storm Cynet Token Cynet Universe 
+ Support 
+ Micro Coder 
+ Related 
+ Clock Spartoi Clock Spartoi Cyberse Magician Cyberse Witch 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/ac/CynetCodec-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20190515133558', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/18?cb=20120920115206']
+Categories: Anime cards

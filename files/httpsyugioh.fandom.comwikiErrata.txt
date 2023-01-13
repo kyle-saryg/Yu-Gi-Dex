@@ -1,0 +1,872 @@
+Link: https://yugioh.fandom.com/wiki/Errata
+
+Errata  (Japanese: エラッタ  Eratta ) are changes to any part of the text of a card (other than  Card Number ) that occur between  reprints . 
+ Errata can be made to a card for a variety of reasons, including to fix mistakes, to update a card's terminology, or to clarify the behavior of a card so that its rulings are easier to understand (such as  Problem-Solving Card Text ). Some errata specifically modify the card's functionality itself, usually as a way to make the card less powerful in order to remove it from the  Forbidden  list.
+ Players are not required to own the most recent erratum of a card, but they must always be played according to the latest erratum even if using an older copy of the card. Konami recommends using the most recent printing of a card, because that text is the most accurate. [1] 
+ Some examples of errata are listed below.
+ 
+ Contents 
+ 
+ 1   Lore 
+ 
+ 1.1   Including or excluding cards for an archetype 
+ 1.2   Correcting mistakes 
+ 1.3   Updating a card's flavor text 
+ 1.4   Simplified Effect Text 
+ 1.5   Problem-Solving Card Text 
+ 1.6   Major mechanical changes 
+ 
+ 
+ 2   Name 
+ 
+ 2.1   Including or excluding cards for archetypes 
+ 2.2   Correcting misspellings 
+ 2.3   Censorship 
+ 
+ 
+ 3   Other 
+ 
+ 3.1   Updating the terminology of a card 
+ 3.2   Correcting mistakes 
+ 
+ 
+ 4   References 
+ 
+ 
+ Lore 
+ Including or excluding cards for an  archetype 
+ This is done when changing the card's name is undesirable, for marketing purposes. [2] 
+ 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ A fiend with dark powers for confusing the enemy. Among the Fiend-Type monsters, this monster boasts considerable force. 
+ A fiend with dark powers for confusing the enemy. Among the Fiend-Type monsters, this monster boasts considerable force. (This card is always treated as an "Archfiend" card.) 
+ 
+ 
+       SDY-004 Starter Deck: Yugi     
+       LCJW-EN235 Legendary Collection 4: Joey's World Mega Pack     
+ 
+ 
+ Correcting mistakes 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ When this card is changed from  Defense  Position to  Attack  Position, you can place any number of cards from your hand at the bottom of your Deck in any order you desire. 
+ When this card is changed from  Attack  Position to  Defense  Position, you can place any number of cards from your hand at the bottom of your Deck in any order you desire. 
+ 
+ 
+       MRD-104 Metal Raiders     
+         MRD-EN104 Metal Raiders     
+ 
+ 
+ Updating a card's flavor text 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ A flame manipulator who  is the only woman among the Elemental Heroes . Her Burstfire burns away villainy. 
+ A flame manipulator who  was the first Elemental HERO woman.  Her Burstfire burns away villainy. 
+ 
+ 
+         TLM-EN002 The Lost Millennium     
+         LCGX-EN003 Legendary Collection 2     
+ 
+ 
+ Simplified Effect Text 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ At the time this card is selected as an attack target by  your  opponent's monster,  the controller of this card  can activate Trap Card(s) from  their  hand. 
+ At the time this card is selected as an attack target by  an  opponent's monster,  you  can activate Trap Card(s) from  your  hand. 
+ 
+ 
+         CRV-EN011 Cybernetic Revolution     
+         DR04-EN011 Dark Revelation Volume 4     
+ 
+ 
+ Problem-Solving Card Text 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ This card  cannot be Normal Summoned or Set.  This card cannot  be Special Summoned  except with its own effect or  with "Rise of the Snake Deity". This card gains 500 ATK for each Reptile-Type monster in your Graveyard. This card cannot be targeted and is unaffected by  the effects of other Monsters, Spells, and Traps . When this card is destroyed by battle and sent to the Graveyard ,  you can  remove from play  1 other Reptile-Type monster from your Graveyard  to  Special Summon this card. When this card inflicts Battle Damage to your opponent ,  place 1 Hyper-Venom Counter on it. When 3 Hyper-Venom Counters are on this card, you win the Duel. 
+ Cannot be Normal Summoned or Set.  Must first  be Special Summoned with "Rise of the Snake Deity"  and cannot be Special Summoned by other ways except by its own effect . This card gains 500 ATK for each Reptile-Type monster in your Graveyard. This card cannot be targeted  by,  and is unaffected by , Spell/Trap effects and other Effect Monsters' effects . When this card is destroyed by battle and sent to the Graveyard :  You can  banish  1 other Reptile-Type monster from your Graveyard ;  Special Summon this card. When this card inflicts Battle Damage to your opponent :  Place 1 Hyper-Venom Counter on it. When 3 Hyper-Venom Counters are on this card, you win the Duel. 
+ 
+ 
+         TAEV-EN013 Tactical Evolution     
+         LCGX-EN191 Legendary Collection 2     
+ 
+ 
+ Major mechanical changes 
+ Beginning in March 2014, cards can receive errata that make major mechanical changes to their effects, rather than simply having errors or consistency corrected. The vast majority of these are to cards that are  Forbidden  at the time of the erratum, weakening the cards enough so that they no longer need to be Forbidden. [3] [4] 
+ 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Tribute 1 DARK monster with 1000 or less ATK. Check all monsters on your opponent's side of the field, your opponent's hand,  and all cards they draw (until the end of your opponent's 3rd turn after this card's activation),  and destroy all monsters with 1500 or more ATK. 
+ Tribute 1 DARK monster with 1000 or less ATK;  your opponent takes no damage until the end of the next turn,  also you look at your opponent's hand and all monsters they control, and if you do, destroy the monsters among them with 1500 or more ATK,  then your opponent can destroy up to 3 monsters with 1500 or more ATK in their Deck . 
+ 
+ 
+         SJCS-EN004 Shonen Jump Championship 2007 Prize Card A     
+         PGL2-EN070 Premium Gold: Return of the Bling     
+ 
+ 
+ A complete list of cards that have been modified in this way [5]  is:
+ 
+ 
+ 
+ Card
+ 
+ OCG  update
+ 
+ TCG  update
+ 
+ 
+ " Catapult Turtle "
+ 
+ Memories of the Duel King: Duelist Kingdom Arc 
+ 
+ Duelist League 18 participation cards 
+ 
+ 
+ " Dark Strike Fighter "
+ 
+ Perfect Rulebook promotional card 
+ 
+ Legendary Collection 5D's Mega Pack 
+ 
+ 
+ " Twin-Headed Behemoth "
+ 
+ Deck Custom Pack 01 
+ 
+ Astral Pack Eight 
+ 
+ 
+ " Chaos Emperor Dragon - Envoy of the End "
+ 
+ V Jump March 2015 promotional card 
+ 
+ Not yet updated
+ 
+ 
+ " Crush Card Virus "
+ 
+ Duelist Road -Piece of Memory- Side: Yami Yugi 
+ 
+ Premium Gold 2 
+ 
+ 
+ " Ring of Destruction "
+ 
+ 
+ " Exchange of the Spirit "
+ 
+ Duelist Road -Piece of Memory- Side: Yugi Muto 
+ 
+ 
+ " Temple of the Kings "
+ 
+ 
+ " Sinister Serpent "
+ 
+ 
+ " Dark Magician of Chaos "
+ 
+ Perfect Rulebook 2015 promotional card 
+ 
+ Yugi's Legendary Decks 
+ 
+ 
+ " Sangan "
+ 
+ Perfect Rulebook 2016 promotional card 
+ 
+ Duelist Pack: Rivals of the Pharaoh 
+ 
+ 
+ " Future Fusion "
+ 
+ 20th Anniversary Pack 1st Wave 
+ 
+ Duelist Saga 
+ 
+ 
+ " Imperial Order "
+ 
+ 
+ " Brain Control "
+ 
+ 
+ " Goyo Guardian "
+ 
+ 20th Anniversary Pack 2nd Wave 
+ 
+ 
+ " Brionac, Dragon of the Ice Barrier "
+ 
+ 
+ " Rescue Cat "
+ 
+ 
+ " Witch of the Black Forest "
+ 
+ Perfect Rulebook 2017 promotional card 
+ 
+ Battles of Legend: Light's Revenge 
+ 
+ 
+ " Grandsoil the Elemental Lord "
+ 
+ Tournament Pack 2018 Vol.1 
+ 
+ Not yet updated
+ 
+ Players with the old text of these cards may still use them; however the rules require notifying the opponent about the erratum (such as by having a printout of the Card Database entry available). [6] 
+ 
+ Name 
+ Including or excluding cards for archetypes 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Elemental  Hero  Burstinatrix 
+ Elemental  HERO  Burstinatrix 
+ 
+ 
+         TLM-EN002 The Lost Millennium     
+   File:ElementalHEROBurstinatrix-LCGX-EN-C-1E.jpg     LCGX-EN003 Legendary Collection 2     
+ 
+ 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Oscillo Hero #2 
+ Wattkid 
+ 
+ 
+         TP1-016 Tournament Pack: 1st Season     
+         TU04-EN012 Turbo Pack: Booster Four     
+ 
+ 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Harpie's Brother 
+ Sky Scout 
+ 
+ 
+         PSV-049 Pharaoh's Servant     
+         AP02-EN014 Astral Pack Two     
+ 
+ 
+ Correcting misspellings 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Big Shield  Guardna 
+ Big Shield  Gardna 
+ 
+ 
+         DB1-EN097 Dark Beginning 1     
+         TP5-EN002 Tournament Pack 5     
+ 
+ 
+ Censorship 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Trial of  Hell 
+ Trial of  Nightmare 
+ 
+ 
+         LOB-012 Legend of Blue Eyes White Dragon ( 1st Edition )     
+         LOB-012 Legend of Blue Eyes White Dragon ( Unlimited Edition ) Reprint     
+ 
+ 
+ Other 
+ Updating the terminology of a card 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+  [  Magic  Card   ] 
+  [  Spell  Card   ] 
+ 
+ 
+         PGD-040 Pharaonic Guardian     
+         DB2-EN237 Dark Beginning 2     
+ 
+ 
+ Correcting mistakes 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         WC4-002 Yu-Gi-Oh! World Championship Tournament 2004 promotional cards     
+         CP04-EN010 Champion Pack: Game Four     
+         SDMM-EN010 Machina Mayhem Structure Deck     
+ 
+ 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+  [ Trap Card ] 
+  [ Trap Card   ] 
+  [ Trap Card ] 
+ 
+ 
+         FMR-003 Yu-Gi-Oh! Forbidden Memories promotional cards     
+         PP01-EN014 Premium Pack     
+         SDMM-EN033 Machina Mayhem Structure Deck     
+ 
+ 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ [Dragon] 
+ [Dinosaur] 
+ 
+ 
+         Legend of Blue Eyes White Dragon LOB-030     
+         Legend of Blue Eyes White Dragon LOB-EN030     
+ 
+ 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ ATK/1300 
+ ATK/1500 
+ 
+ 
+         MFC-060 Magician's Force     
+         DR1-EN115 Dark Revelation Volume 1     
+ 
+ 
+ References 
+ 
+ ↑   "Yu-Gi-Oh! TRADING CARD GAME: RECENT CARD ERRATA LIST" . Konami. 5 November 2010 .  http://www.yugioh-card.com/en/gameplay/errata/101105%20recent%20errata%20list%20-%20x.pdf . Retrieved 10 December 2017 . 
+ 
+ ↑   "Fusion Enforcers is Now Available!" . Yu-Gi-Oh! TRADING CARD GAME STRATEGY SITE!. 24 February 2017 .  https://yugiohblog.konami.com/articles/?p=8159 . Retrieved 10 December 2017 . 
+ 
+ ↑   "Updates: F&L Cards List, PGL2 Card Text, Rules for Winning During a Chain" . Yu-Gi-Oh! TRADING CARD GAME STRATEGY SITE!. 20 March 2015 .  https://yugiohblog.konami.com/articles/?p=7038 . Retrieved 10 December 2017 . 
+ 
+ ↑   "Duelist Saga: Celebrate 15 Years of Dueling Greatness!" . Yu-Gi-Oh! TRADING CARD GAME STRATEGY SITE!. 27 March 2017 .  https://yugiohblog.konami.com/articles/?p=8164 . Retrieved 10 December 2017 . 
+ 
+ ↑   "遊戯王OCG デュエルモンスターズ"  (in ja-JP) .  http://www.yugioh-card.com/japan/notice/revision/ . Retrieved 5 December 2017 . 
+ 
+ ↑   "Errata Cards" . 4 February 2016 .  http://www.yugioh-card.com/uk/gameplay/detail.php?id=415 . Retrieved 5 December 2017 . 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/04/SummonedSkull-SDY-NA-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20061130051125', 'https://static.wikia.nocookie.net/yugioh/images/1/1d/SummonedSkull-LCJW-EN-R-1E.png/revision/latest/scale-to-width-down/180?cb=20131011113444', 'https://static.wikia.nocookie.net/yugioh/images/e/e1/YadoKaru-MRD-NA-C-UE.png/revision/latest/scale-to-width-down/180?cb=20150111004014', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/80/YadoKaru-MRD-EU-C-UE.jpg/revision/latest/scale-to-width-down/180?cb=20080118174545', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/16/ElementalHEROBurstinatrix-TLM-EN-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20081014221146', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/05/ElementalHEROBurstinatrix-LCGX-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20210102222848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d4/Jetroid-CRV-EN-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20061009232746', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/95/Jetroid-DR04-NA-C-UE.png/revision/latest/scale-to-width-down/180?cb=20080207050132', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b5/VennominagatheDeityofPoisonousSnakes-TAEV-EN-ScR-1E.jpg/revision/latest/scale-to-width-down/180?cb=20070906022751', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/fb/VennominagatheDeityofPoisonousSnakes-LCGX-EN-UR-UE.png/revision/latest/scale-to-width-down/180?cb=20160106232321', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2c/CrushCardVirus-SJCS-EN-UR-LE.png/revision/latest/scale-to-width-down/180?cb=20080721034345', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/05/CrushCardVirus-PGL2-EN-GUR-1E.png/revision/latest/scale-to-width-down/180?cb=20150320144634', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/16/ElementalHEROBurstinatrix-TLM-EN-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20081014221146', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/37/Wattkid-TP1-NA-C-UE.jpg/revision/latest/scale-to-width-down/180?cb=20090220201003', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/Wattkid-TU04-EN-C-UE.jpg/revision/latest/scale-to-width-down/180?cb=20101211014547', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f5/SkyScout-PSV-NA-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20061118044332', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/84/SkyScout-AP02-EN-SP-UE.png/revision/latest/scale-to-width-down/180?cb=20141106201720', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/ed/BigShieldGardna-DB1-EN-UR-UE.jpg/revision/latest/scale-to-width-down/180?cb=20061204231241', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a9/BigShieldGardna-TP5-EN-SR-UE.jpg/revision/latest/scale-to-width-down/180?cb=20081030204251', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f7/TrialofNightmare-LOB-NA-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20090329045400', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/ad/TrialofNightmare-LOB-NA-C-UE-Reprint.png/revision/latest/scale-to-width-down/180?cb=20140614141631', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d4/PyramidEnergy-PGD-NA-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20061226060804', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1c/PyramidEnergy-DB2-EN-C-UE.jpg/revision/latest/scale-to-width-down/180?cb=20061204214116', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b4/CipherSoldier-WC4-NA-PScR-UE.png/revision/latest/scale-to-width-down/180?cb=20140413234818', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/0b/CipherSoldier-CP04-EN-R-UE.png/revision/latest/scale-to-width-down/180?cb=20080919182738', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/CipherSoldier-SDMM-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20170119163115', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/21/Metalmorph-FMR-NA-PScR-UE.png/revision/latest/scale-to-width-down/180?cb=20161231002302', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a4/Metalmorph-PP01-EN-SR-UE.png/revision/latest/scale-to-width-down/180?cb=20161231002354', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c1/Metalmorph-SDMM-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20161231002357', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/54/TwoMouthDarkruler-LOB-NA-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20090329050228', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b5/TwoMouthDarkruler-LOB-EN-C-UE.jpg/revision/latest/scale-to-width-down/180?cb=20070303231308', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e9/AmazonessFighter-MFC-NA-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20061113034129', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/87/AmazonessFighter-DR1-EN-C-UE.png/revision/latest/scale-to-width-down/180?cb=20140209221603']
+Categories: Cards with 1 erratum, Cards with name errata, Cards with card type errata, Cards with 2 errata, Card Errata, Gameplay

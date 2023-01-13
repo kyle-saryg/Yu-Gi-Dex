@@ -1,0 +1,102 @@
+Link: https://yugioh.fandom.com/wiki/Link_Ration
+
+
+ Link Ration 
+ 
+ Japanese:   リンク・レーション 
+ Romaji:   Rinku Rēshon 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ During  damage calculation , if your  Link Monster   battles  an opponent's Link Monster, and the combined  Link Ratings  of those 2 Link Monsters is 5 or more: Gain 1000  LP , also, if your Link Monster is  destroyed by that battle ,  Special Summon  1 " Ration Token " ( Cyberse / EARTH / Level  1/ ATK  0/ DEF  0) in  Defense Position  at the end of the  Damage Step .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  058 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ リンク・レーション 
+ ①：自分のリンクモンスターが相手のリンクモンスターと戦闘を行うダメージ計算時、その２体のリンクモンスターのリンクマーカーの数の合計が５以上の場合に発動できる。自分は１０００ＬＰ回復する。この戦闘で自分のリンクモンスターが破壊された場合、そのダメージステップ終了時に、自分フィールドに「レーショントークン」（サイバース族・地・星１・攻／守０）１体を守備表示で特殊召喚する。 
+ 
+ 
+ Rinku Rēshon 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Link Monster 
+ 
+ Anti-supports   
+ Link Monster 
+ 
+ Archetypes  and  series   
+ Link  
+ 
+ Summoning  categories  
+ Special Summons Tokens 
+ 
+ LP   
+ You gain Life Points 
+ 
+ v e 
+ Link  リンク a   m   Members 
+ Castle Link Dimension Link Link Atrocity Link Back Link Bound Link Bumper Link Burst Link Cancel Link Coin Link Devotee Link Disciple Link Drive Link Fire's Return Link Infra-Flier Link Pressure Link Processing Failure Link Protection Link Ration Link Recovery Link Restart Link Restart Link Rush Link Satellite Link Short Link Spider Link Surge Counter Link Token Link Turret Linkbelt Wall Dragon Linkross Linkslayer Linkuriboh Packet Link Urgent Link Zero Extra Link 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a5/LinkRation-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180704140642', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

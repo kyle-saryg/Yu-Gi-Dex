@@ -1,0 +1,596 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_Destiny_Board_Traveler
+
+
+ 
+ Yu-Gi-Oh! Destiny Board Traveler 
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh! Destiny Board Traveler 
+ 
+ 
+ English  
+ Yu-Gi-Oh! Destiny Board Traveler 
+ 
+ 
+ Rōmaji  
+ Yu-Gi-Oh! Sugoroku no Sugoroku 
+ 
+ 
+ Japanese translated  
+ Yu-Gi-Oh! Sugoroku of Sugoroku 
+ 
+ 
+ Developer(s) 
+ Konmai 
+ 
+ 
+ Publisher(s) 
+ Konami 
+ 
+ 
+ Platform(s) 
+ Game Boy Advance 
+ 
+ 
+ Release date(s) 
+  March 18, 2004  October 26, 2004  September 16, 2005 
+ 
+ 
+ Ratings 
+ Everyone 
+ 
+ 
+ Yu-Gi-Oh! Destiny Board Traveler , known as  Yu-Gi-Oh! Sugoroku no Sugoroku  in Japanese, is a game created by Konami for the Game Boy Advance, based on the  Yu-Gi-Oh!  manga . In this game, players can compete against computer-controlled opponents or their friends for control of the Destiny Board. 
+ The game combines the  Yu-Gi-Oh! Trading Card Game  and a 5x5 game board. Each game board has a different theme, determined to by the character it belongs to.
+ According to the instruction booklet for the game,  Solomon Muto  created Destiny Board and this is evident from him commentating throughout each game and being able to use his Super Power to alter the rules for the game.
+ 
+ Contents 
+ 
+ 1   Setting-up the game 
+ 2   Flow of the action 
+ 
+ 2.1   Player actions 
+ 2.2   Victory Stars 
+ 
+ 
+ 3   Characters 
+ 
+ 3.1   Non-player 
+ 
+ 
+ 4   Stages 
+ 
+ 4.1   Linkage maps 
+ 4.2   Level maps 
+ 
+ 
+ 5   Dice types 
+ 
+ 5.1   Summon Die 
+ 5.2   Duel Die 
+ 
+ 
+ 6   Duels 
+ 7   Reception 
+ 8   Anime only cards 
+ 9   Promotional cards 
+ 
+ 9.1   International 
+ 
+ 
+ 10   Trivia 
+ 11   See also 
+ 12   Gallery 
+ 13   References 
+ 14   External links 
+ 
+ 
+ Setting-up the game 
+ On the Title Screen, players choose whether the game will be single player (1 Player) or multiplayer using 1-3 Game Boy Advance Game Link cables (2 Players - 4 Players) and can access the  Options  screen to change various game setting. The number of players is selected by pressing the  SELECT  button on the Game Boy Advance system, and a game pack was required per person to play. In games where there is only 2 or 3 players, the computer will contol the other characters.
+ Pressing the  START  button allows the players to select characters and set-up the Destiny Board. In multiplayer games, each player choose his/her own character from those available, but Player 1 chooses the set-up of the Destiny Board from those available, as well as the win conditions. AI-controlled characters are chosen randomly. A full game can take anywhere from 15 minutes to six hours, depending on how many victory stars you set as the win conditions.
+ 
+ Flow of the action 
+ After setting up the game and confirming the win conditions, the action starts. The order of the players' turns are determined randomly at the start of the game and throughout the game Grandpa Trusdale gives a running commentary on each player's actions. Gameplay involves playing randomly given cards.
+ Each player is given an initial hand of monster cards (no magic or trap cards are used in this game) and from this hand players choose the cards they will set on the special  Summon Die  that is thrown at the end of each players turn. The card distributing system prevents players from receiving the same hand twice and will usually equalize the chances of them getting both good and bad cards. Fusion, Ritual and Effect Monsters are treated as Normal Monsters in this game. There’s a Graveyard, but you can’t see which monsters reside there or bring them back to the board.
+ 
+ Player actions 
+ At the start of each player's turn one card is drawn that respective player's Deck (There is no limit to the number of cards in each player's Deck) and a mini menu appears at the bottom of the screen. This menu enables players to set up to six of their available monsters on the Summon Die or view the destiny board from various perspectives. When a player rolls the Summon Die their character either moves or stays on their current square depending on the roll result.
+ 
+ Victory Stars 
+ To win a game, a player must get a certain amount of victory stars as set in the win conditions. The level of a monster you summon determines how many stars you get (eg. if you summon a Silver Fang, you’ll get 3). Whenever a player’s monster is destroyed or Tribute Summoned, he/she will lose the stars for that monster.
+ 
+ Characters 
+ Twelve characters from the Yu-Gi-Oh! series appear in Destiny Board; however, only eight are initially available. The other four must be unlocked by entering specific passwords on the title screen. 
+ Note1: The characters use  Cookie Cutter  Decks, most of which are loosely based on ones they used in the anime.
+ Note2: Pressing B in the main menu in the double pack version takes you back to the game select screen, so you can’t unlock the secret characters in that version unless you use a cheat device.
+ There are  Super Powers  players can occasionally use during a game to tip the odds in their favor for one turn. Super Powers do not have to be activated on the turn they are awarded but for most of the characters it is more beneficial to do so. Some of the characters abilities mimic and are renamed after  Spell  or  Trap Cards  from  Yu-Gi-Oh! TCG .
+ The original Japanese version names appear in parenthesis after English version names in the following table.
+ 
+ 
+ 
+ Characters
+ 
+ Image
+ 
+ 
+ Yugi  (Yugi Mutou)
+ 
+ 
+ 
+ Unlock:  Available
+ Super Power:   Change of Heart 
+ Effect:  Yugi can claim one random monster from anywhere on the Destiny Board. Successful changes award Yugi with Victory Stars. Stars for monsters belonging to another player are transferred from the original owner to Yugi.
+ 
+ 
+ 
+ 
+ 
+ Joey Wheeler  (Katsuya Jonouchi)
+ 
+ 
+ 
+ Unlock:  Available
+ Super Power:   Dice Re-Roll 
+ Effect:  Joey can decide whether or not to re-roll the dice after his initial roll.
+ 
+ 
+ 
+ 
+ 
+ Seto Kaiba 
+ 
+ 
+ 
+ Unlock:  Available
+ Super Power:  Destroy Cards ( Crush Card )
+ Effect:  Kaiba can destroy all monsters of 1500+ attack points in his opponents' hands.
+ 
+ 
+ 
+ 
+ 
+ Mai Valentine  (Mai Kujaku)
+ 
+ 
+ 
+ Unlock:  Available
+ Super Power:   Aroma Tactics 
+ Effect:  Mai can use her old card trick to identify all the monsters of the Level Map she is currently on.
+ 
+ 
+ 
+ 
+ 
+ Mokuba  (Mokuba Kaiba)
+ 
+ 
+ 
+ Unlock:  Available
+ Super Power:  Card Steal ( Pillager )
+ Effect:  Mokuba can take one monster from each of his opponents.
+ 
+ 
+ 
+ 
+ 
+ Yami Yugi  (Dark Yugi)
+ 
+ 
+ 
+ Unlock:  At the title screen press:-R, Left, B, Right, Up and R, Right, Down, A
+ Super Power:  Shadow Power
+ Effect:  Yami uses the Millenium Puzzle to increase his chances of rolling the Star face on the Summon Die.
+ 
+ 
+ 
+ 
+ 
+ Yami Bakura  (Dark Bakura)
+ 
+ 
+ 
+ Unlock:  At the title screen press:-L, Down, Right, Left and B, R, Down, Down, A
+ Super Power:   Soul Absorption 
+ Effect:  Bakura uses the Millenium Ring to take 1/8 of the Life Points from each opponent.
+ 
+ 
+ 
+ 
+ 
+ Kaibaman 
+ 
+ 
+ 
+ Unlock:  At the title screen press:-Down, B, Left, Right, Right, R, Up and R, A
+ Super Power:  Miss a Turn
+ Effect:  All opponents lose their next turn.
+ 
+ 
+ 
+ 
+ 
+ Dark Magician Girl  (Black Magician Girl)
+ 
+ 
+ 
+ Unlock:  Available 
+ Special Ability:  Master's Help ( Magicians Unite )
+ Effect:  D.M. Girl can call upon either " Dark Magician ", " Dark Magician Knight ", " Dark Flare Knight ", " Dark Paladin " or the " Magician of Black Chaos " to help her win spaces on the Destiny Board.
+ 
+ 
+ 
+ 
+ 
+ Grandpa  (Sugoroku Muto)
+ 
+ 
+ 
+ Unlock:  At the title screen press:-L, Right and B, Right, B, R, Left, Down and A
+ Special Ability:  Rule change
+ Effect:  As the creator of Destiny Board, Grandpa will randomly increase or decrease the number of Victory Stars needed to win.
+ 
+ 
+ 
+ 
+ 
+ Maximillion Pegasus  (Pegasus J. Crawford)
+ 
+ 
+ 
+ Unlock:  Available
+ Special Ability:  Damage Reversal ( Mirror Force )
+ Effect:  Pegasus can redirect Life Point damage back at his opponent.
+ 
+ 
+ 
+ 
+ 
+ Rebecca Hawkins  (Rebecca)
+ 
+ 
+ 
+ Unlock:  Available
+ Super Power:  Warp
+ Effect:  All players are warped to random spaces on the Destiny Board.
+ 
+ 
+ 
+ 
+ Non-player 
+ Among others, the following non-player characters appear in the background:
+ 
+ Yami Bakura 's "shadow": The portion of Yami Bakura's soul that he sealed inside the Millennium Puzzle. 
+ Gansley 
+ Crump 
+ Johnson 
+ Nezbitt 
+ Leichter 
+ Tomoya Hanasaki 
+ Téa Gardner 
+ Tristan Taylor 
+ Chopman 
+ Croquet 
+ Kemo 
+ Ventriloquist of the Dead 
+ PaniK 
+ Para 
+ Dox 
+ Stages 
+ The stages of Destiny Board Traveler are made of Level Maps and Linkage Maps. The game board itself is a 5x5 square walkway. The corners of the board are known as Special zones, because different events occur when they're landed on. They are also where the players begin the game.
+ 
+ Linkage maps 
+ These are the formations in which maps can be arranged. At first only a single board map is available; but up to six more map types can be unlocked as players win with different characters in 1 Player mode. When eight/nine maps are available, players can play with up to 8 fields at a time. Crystals will teleport players to another map if she/she lands on one of them.
+ 
+ Level maps 
+ These are the areas which make up the Destiny Board itself. Each one is based on different locations from the manga series or generally specific to their respective characters. With the exception of the initial stage, Domino Park, these maps must be unlocked by winning with specific characters.  Also only 8 new maps can be unlocked per game file, for a total of 9 fields.
+ 
+ 
+ 
+ Map
+ 
+ Image
+ 
+ 
+ Domino Park 
+ 
+ 
+ 
+ Unlock:  Available 
+ Special Zone:  Receive 1,000 Life Points
+ 
+ 
+ 
+ 
+ 
+ Domino Pier 
+ 
+ 
+ 
+ Unlock:  Joey Wheeler
+ Special Zone:   Doom Meteor  (Death Meteor) strikes a random player with random damage.
+ 
+ 
+ File:Domino Pier-DBT.png 
+ 
+ 
+ Outer Space 
+ 
+ 
+ 
+ Unlock:  Seto Kaiba
+ Special Zone:  Players receive oxygen for the next 5 turns
+ If a player's oxygen is not replenished within 5 turns, they will lose 1,000 Life Points per turn until they do.
+ 
+ 
+ File:Outer Space-DBT.png 
+ 
+ 
+ Desert 
+ 
+ 
+ 
+ Unlock:  Mai Valentine
+ Special Zone:  A random monster from the sandy side of the board may be sent to the Graveyard, causing the player lose all the stars for that monster.
+ 
+ 
+ 
+ 
+ 
+ Kaiba Land 
+ 
+ 
+ 
+ Unlock:  Mokuba Kaiba
+ Special Zone:  The player rolls two dice with the  B  button.  The outcome of the roll determines the effect of the zone.
+ 
+ 02  Opponents lose 3,000 Life Points 
+ 03  Gain three Victory Stars 
+ 04  Nothing happens! 
+ 05  May claim one wild monster from anywhere on the Destiny Board 
+ 06  Lose 100 Life Points for each Victory Star you possess 
+ 07  Nothing happens! 
+ 08  Lose 100 Life Points for each Victory Star you possess 
+ 09  Draw 2 cards 
+ 10  Lose 3/4 of your Life Points 
+ 11  Nothing happens! 
+ 12  Gain 10 Victory Stars 
+ This stage is  Death T -4 from the manga. Its name is changed to Doom T-4 in the English version.
+ 
+ 
+ 
+ 
+ 
+ Inside the Puzzle 
+ 
+ 
+ 
+ Unlock:  Yami Yugi
+ Special Zone:  Warp to a random space on the Destiny Board
+ 
+ 
+ File:Inside the Puzzle-DBT.png 
+ 
+ 
+ Graveyard 
+ 
+ 
+ 
+ Unlock:  Yami Bakura
+ Special Zone:  A defeated player is revived
+ 
+ 
+ 
+ 
+ 
+ KaibaCorp 
+ 
+ 
+ 
+ Unlock:  Kaibaman
+ Special Zone:  Character watches the Kaibaman show. Lose 1 turn.
+ 
+ 
+ File:KaibaCorp-DBT.png 
+ 
+ 
+ Chicago 
+ 
+ 
+ Unlock:  Dark Magician Girl
+ Special zone:  All cards on the Destiny Board field are shuffled and are randomly placed face-down.
+ 
+ 
+ 
+ 
+ 
+ Above Tibet 
+ 
+ 
+ 
+ Unlock:  Grandpa Trusdale
+ Special Zone:  The player loses all the cards in their hand and must draw 5 more.
+ It is unknown how may cards each player has in their initial Deck, as no one ever runs out of cards.
+ 
+ 
+ 
+ 
+ 
+ Toon World 
+ 
+ 
+ 
+ Unlock:  Pegasus
+ Special Zone:  All Victory Star totals are raised to match that of the leader.
+ 
+ 
+ 
+ 
+ 
+ Mayan Ruins 
+ 
+ 
+ 
+ ‘’’Unlock:’’’ Rebecca
+ ‘’’Special Zone:’’’ The player offers a tribute to break a curse.
+ 
+ 
+ [ [1] ]
+ 
+ 
+ Dice types 
+ In Destiny Board Traveler there are two types of die, a  Summon Die  and a  Duel Die .  
+ 
+ Summon Die 
+ The Summon die is the one players place their monster cards on.  The player can put from 0 to 6 monsters on the die, and the level of those monsters determine the number of spaces they move (e.g. if Blue-eyes White Dragon lands face up on the die, the player moves 8 spaces). If you get a face with no monster on it, you won’t be able to do anything.  
+ The die has one  Star  face and five  regular  faces. A monster  on a Star face is more likely to be face-up on the die than one with a regular face. If a player repeatedly taps the  A  button, the chances of rolling the Star face increase.
+ 
+ Duel Die 
+ The Duel Die is only used in the duels for control over a space.  It can tip the duel in a player's favor or prevent them summoning any monsters at all, depending on his/her own luck. The die has one  Attack/Defense reversal  face (reverses the position of a player’s monster), one  reduce Attack/Defense  face (reduces the Attack/Defense of a monster by 500 points) and four  miss  faces (no effect).
+ 
+ Duels 
+ To obtain control of a creep or opponent space, players must attack the currently occupying monster with their own one.  Players use the monster whose card was face-up when the Summon Die was rolled. Players can choose to Attack, Defend or pass during duels.  
+ Like in the  Yu-Gi-Oh! TCG , the monsters' Attack and Defense total determines the outcome of the duel over all.  But, the Duel Dice which is rolled by both players at the end of the duel can determine the outcome this the attack/defense match-up.
+ The victorious monster will either be summoned to the space or remain there, while the other monster is either returned to its owner's hand or sent to the graveyard.  
+ If the duel ends in a tie, both monsters are sent to the graveyard and the space becomes open to all takers.
+ Note: Card Game reference
+ Like in the  TCG , L5+ can only be used in a duel if the player can pay the required sacrifice cost.
+ L5 and L6:  1 monster
+ L7+:  2 monsters
+ Ultimate Dragon, F.G.D and God cards:  3 monsters
+ If a player tries to Tribute Summon a monster without any tributes, he/she can still move around the board but won’t be able to summon that monster and has to duel without it.
+ 
+ Reception 
+ IGN criticized Destiny Board Traveler for being “an awful, boring spinoff that combines the mechanics of an established card game with the maddeningly sluggish pace of a table-top board game.” [1] 
+ 
+ Anime only cards 
+ The following  anime  original cards from the  Waking the Dragons  arc appeared in this game. None of them appear in any official  Yu-Gi-Oh!  media other than the anime and this game. All but three of them are  Armor monsters .
+ 
+ Orichalcos Kyutora 
+ Backup Gardna 
+ Active Guard 
+ Advanced Shield 
+ Big Bang Blow 
+ Black Hole Shield 
+ Burning Knuckle 
+ Buster Knuckle 
+ Buster Pyle 
+ Double Cloth Armor 
+ Jet Blast Turret 
+ Over Boost 
+ Psychic Armor Head 
+ Pheromone Wasp 
+ Rifleman of Landstar  (named " Brigadier of Landstar " in the anime) 
+ Promotional cards 
+ The Japanese release does not include any promotional cards.
+ 
+ International 
+ Main article:  Yu-Gi-Oh! Destiny Board Traveler promotional cards 
+ Trivia 
+ Even though Yugi, Yami Yugi, and Yami Bakura appear, Bakura doesn't. 
+ When Yugi loses, his shout of defeat is not only Yami Yugi's voice, but Yami Yugi has the same cry used in this game. 
+ Fusion, Ritual and Effect Monsters have text similar to their real-life cards, even though they’re treated as Normal Monsters in this game. Also, monster abilities are briefly mentioned in the instruction manual  [2] , so maybe they just didn’t make it into the final version of the game. 
+ See also 
+ https://yugioh.wikia.com/wiki/List_of_Yu-Gi-Oh!_Destiny_Board_Traveler_cards 
+ 
+ Gallery 
+ North American English cover European English cover French cover Japanese cover 
+ References 
+ 
+ ↑   http://ie.ign.com/articles/2004/11/12/yu-gi-oh-destiny-board-traveler 
+ 
+ ↑   Konami, Yugioh Destiny Board Traveler EU Instruction Booklet, Page 34. 
+ 
+ 
+ External links 
+ The Spriters Resource page 
+ v e 
+ Video games Duel Monsters 
+ Duel Monsters 
+ II: Dark duel Stories 
+ Dark Duel Stories  ( III: Tri-Holy God Advent ) 
+ 4: Battle of Great Duelist 
+ The Eternal Duelist Soul  ( 5 Expert 1 ) 
+ 6 Expert 2 
+ The Sacred Cards  ( 7: The Duelcity Legend ) 
+ Reshef of Destruction  ( 8: Reshef of Destruction ) 
+ Worldwide Edition: Stairway to the Destined Duel  ( International ) 
+ Online 
+ Online 
+ Duel Evolution 
+ 3: Duel Accelerator 
+ Power of Chaos 
+ Yugi the Destiny 
+ Kaiba the Revenge 
+ Joey the Passion 
+ Tag Force 
+ GX 1 
+ GX 2 
+ GX Evolution  ( GX The Beginning of Destiny ) 
+ GX 3 
+ 5D's 4 
+ 5D's 5 
+ 5D's 6 
+ ARC-V Special 
+ True Duel Monsters 
+ Forbidden Memories  ( Sealed Memories ) 
+ The Duelists of the Roses  ( 2: Succeeded Memories ) 
+ World Championship 
+ Tournament 2004  ( Duel Monsters Expert 3 ) 
+ 7 Trials to Glory: Tournament 2005   ( Day of the Duelist: Tournament 2005  /   Duel Monsters International 2 ) 
+ Ultimate Masters: Tournament 2006  ( Duel Monsters Expert 2006 ) 
+ 2007 
+ 2008 
+ 5D's 2009: Stardust Accelerator 
+ 5D's 2010: Reverse of Arcadia 
+ 5D's 2011: Over the Nexus 
+ Browser, PC, or mobile 
+ 5D's Mobile 
+ BAM 
+ Pocket 
+ Duel Arena 
+ Duel Generation 
+ Duel Links 
+ Cross Duel 
+ Other handheld 
+ Monster Capsule GB 
+ Dungeon Dice Monsters 
+ Destiny Board Traveler  ( Sugoroku no Sugoroku ) 
+ Nightmare Troubadour 
+ GX Duel Academy  ( GX Mezase Duel King! ) 
+ Double Pack 
+ 2 
+ GX Spirit Caller  ( GX Spirit Summoner ) 
+ GX Card Almanac 
+ ZEXAL World Duel Carnival 
+ Saikyo Card Battle 
+ Other console 
+ Monster Capsule: Breed and Battle 
+ The Falsebound Kingdom 
+ The Dawn of Destiny 
+ Capsule Monster Coliseum 
+ 5D's Wheelie Breakers 
+ 5D's Decade Duels 
+ Plus 
+ 5D's Duel Transer  ( 5D's Master of the Cards ) 
+ Millennium Duels 
+ Rush Duel 
+ Multi-Platform games 
+ Legacy of the Duelist 
+ Legacy of the Duelist: Link Evolution 
+ Master Duel 
+ Other 
+ Multi-Master 
+ Duel Terminal 
+ Duel Dash 
+ 
+ {{ Game guides }} 
+ {{ Video game promotional cards }} 
+ {{ Game guide promotional cards }} 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e3/DBT-VideoGameEN.jpg/revision/latest/scale-to-width-down/350?cb=20150605131257', 'https://static.wikia.nocookie.net/yugioh/images/9/9e/Flag_of_Japan.svg/revision/latest/scale-to-width-down/20?cb=20081119225453', 'https://static.wikia.nocookie.net/yugioh/images/a/a4/Flag_of_the_United_States.svg/revision/latest/scale-to-width-down/20?cb=20081119225336', 'https://static.wikia.nocookie.net/yugioh/images/b/b7/Flag_of_Europe.svg/revision/latest/scale-to-width-down/20?cb=20081120211606', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/DBT-VideoGameEN.jpg/revision/latest/scale-to-width-down/185?cb=20150605131257', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/75/Yu-Gi-Oh_DBT_Eng.jpg/revision/latest/scale-to-width-down/185?cb=20120605214906', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b6/DBT-VideoGameFR.jpg/revision/latest/scale-to-width-down/185?cb=20150605131320', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/04/DBT-VideoGameJP.jpg/revision/latest/scale-to-width-down/185?cb=20150605145246', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Yu-Gi-Oh! Destiny Board Traveler, Video games

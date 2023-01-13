@@ -1,0 +1,242 @@
+Link: https://yugioh.fandom.com/wiki/Greed_Quasar
+
+The  Croatian, Greek, Portuguese  and  Thai                     names given are not official.  
+ The  Portuguese                        name given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Greed Quasar グリード・クエーサー 
+ 
+ English 
+Greed Quasar 
+ French 
+ Quasar de Cupidité Check translation 
+ German 
+ Quasar der Raffgier Check translation 
+ Italian 
+ Quasar dell'Avidità Check translation 
+ Korean 
+ 그리드 퀘이서 Check translation 
+ Portuguese 
+ Quasar da Ganância Check translation 
+ Spanish 
+ Quasar de la Avaricia Check translation 
+ Japanese 
+ グリード・クエーサー Check translation 
+ Japanese ( rōmaji ) 
+Gurīdo Kuēsā 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Fiend  /  Effect 
+ Level 
+ 7   
+ ATK  /  DEF 
+ ?  /  ? 
+ Passcode 
+ 50263751 
+ Card effect types 
+ 
+ 
+ Continuous 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+This card's  original ATK and DEF  are each equal to its  Level  x 300. This  monster 's Level is increased by the Level of monsters it  destroys by battle . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ L'ATK et la DEF d'origine de cette carte sont chacune égales à son Niveau x 300. Le Niveau de ce monstre augmente par le Niveau du monstre qu'il détruit au combat. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Die Grund-ATK und -DEF dieser Karte entsprechen jeweils ihrer Stufe x 300. Die Stufe dieses Monsters wird um die Stufen der Monster erhöht, die es durch Kampf zerstört. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ L'ATK e il DEF originali di questa carta sono ognuno uguale al suo Livello x 300. Il Livello di questo mostro aumenta del Livello dei mostri che distrugge in battaglia. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ O ATK e a DEF originais desta carta são iguais ao seu Nível x300. O Nível deste monstro é aumentado pelo Nível dos monstros que ele destrói em batalha. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ El ATK y la DEF original de esta carta son iguales a su Nivel x 300. El Nivel de este monstruo se incrementa tanto como Niveles tengan los monstruos que destruye en batalla. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：このカードの元々の攻撃力・守備力は、このカードのレベル×３００になる。②：このカードがモンスターゾーンに存在する限り、このカードのレベルはこのカードが戦闘で破壊したモンスターの元々のレベル分だけ上がる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 이 카드의 원래의 공격력 / 수비력은, 이 카드의 레벨 × 300 이 된다. ②: 이 카드가 몬스터 존에 존재하는 한, 이 카드의 레벨은 이 카드가 전투로 파괴한 몬스터의 원래 레벨만큼만 올라간다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2009-03-03 CRMS-EN098 Crimson Crisis Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2009-03-03 CRMS-FR098 Crimson Crisis La Crise Écarlate Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2009-03-03 CRMS-DE098 Crimson Crisis Crimson Crisis Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2009-03-03 CRMS-IT098 Crimson Crisis Crisi Scarlatta Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2009-03-03 CRMS-SP098 Crimson Crisis Crisis Carmesi Secret Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2006-08-19 VJMP-JP018 V Jump Fall 2006 subscription bonus Ｖジャンプ　定期購読特典　２００６年秋 Ultra Rare 2015-01-10 15AX-JPY26 Duelist Road -Piece of Memory- Side: Yami Yugi 決闘者の栄光 －記憶の断片－ ｓｉｄｅ：闇遊戯 Common 2015-01-10 15AX-JPY26 Duelist Road -Piece of Memory- Side: Yami Yugi 決闘者の栄光 －記憶の断片－ ｓｉｄｅ：闇遊戯 Millennium Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2008-12-05 ESP3-KR062 Expansion Pack Vol.3 익스팬션 팩 Vol.3 Secret Rare 2020-03-25 15AX-KRY26 Duelist Road -Piece of Memory- Side: Yami Yugi 듀얼리스트의 영광 -기억의 단편-  side : 어둠의 유희 Common 2020-03-25 15AX-KRY26 Duelist Road -Piece of Memory- Side: Yami Yugi 듀얼리스트의 영광 -기억의 단편-  side : 어둠의 유희 Normal Parallel Rare 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Online 
+ 
+ 
+ Gunslinger 66 
+ 
+ Gunslinger 67 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Stat changes  
+ Changes own ATK value 
+ Changes own DEF value 
+ Changes original ATK 
+ Changes original DEF 
+ This card gains Levels 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 6869 ( ja  ( rulings )   en   fr   de   it   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Online 2005-11-04 – – – – – Unlimited 
+ 
+ 
+ 
+   " Greed Quasar " pages 
+ 
+ 
+ Manga 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/b3/GreedQuasar-CRMS-EN-ScR-1E.png/revision/latest/scale-to-width-down/300?cb=20090625035002', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

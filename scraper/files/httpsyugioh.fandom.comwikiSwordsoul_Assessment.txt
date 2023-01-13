@@ -1,0 +1,230 @@
+Link: https://yugioh.fandom.com/wiki/Swordsoul_Assessment
+
+
+ 
+ 
+ Swordsoul Assessment 瑞 相 剣 究 
+ 
+ English 
+Swordsoul Assessment 
+ French 
+ Évaluation Âmépée Check translation 
+ German 
+ Bewertung der Schwertseele Check translation 
+ Italian 
+ Valutazione Spadanima Check translation 
+ Korean 
+ 서상검구 Check translation 
+ Portuguese 
+ Avaliação Espadalma Check translation 
+ Spanish 
+ Valoración Almaespada Check translation 
+ Japanese (kana) 
+ ずいそうけんきゅう Check translation 
+ Japanese (base) 
+ 瑞相剣究 Check translation 
+ Japanese ( rōmaji ) 
+Zuisōkenkyū 
+ Japanese (translated) 
+Researching the Illusory Blades 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 78836195 
+ Card effect types 
+ 
+ 
+ Effect 
+ Trigger-like 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Target  1  face-up   monster  you  control ;  banish  up to 5 " Swordsoul " cards and/or  Wyrm  monsters from your  GY , and if you do, that target gains 300  ATK  for each card banished this way. If this card is banished: You can  Special Summon  1 " Swordsoul Token " (Wyrm/ WATER / Tuner / Level  4/ ATK  0/ DEF  0). While this  Token  is in the  Monster Zone , the player who Sumonned it cannot Special Summon monsters from the  Extra Deck , except  Synchro Monsters . You can only use each  effect  of "Swordsoul Assessment"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Ciblez 1 monstre face recto que vous contrôlez ; bannissez max. 5 cartes "Âmépée" et/ou monstres Wyrm depuis votre Cimetière, et si vous le faites, le monstre gagne 300 ATK pour chaque carte qui a été bannie de cette façon. Si cette carte est bannie : vous pouvez Invoquer Spécialement 1 "Jeton Âmépée" (Wyrm/Syntoniseur/EAU/Niveau 4/ATK 0/DEF 0). Tant que le Jeton est dans la Zone Monstre, le joueur qui l'a Invoqué ne peut pas Invoquer Spécialement de monstres (Monstres Synchro exclus) depuis l'Extra Deck. Vous ne pouvez utiliser chaque effet de "Évaluation Âmépée" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wähle 1 offenes Monster, das du kontrollierst; verbanne bis zu 5 „Schwertseele“-Karten und/oder Wyrm-Monster von deinem Friedhof und falls du dies tust, erhält das Monster für jede auf diese Art verbannte Karte 300 ATK. Falls diese Karte verbannt wird: Du kannst 1 „Schwertseele-Spielmarke“ (Wyrm/Empfänger/WASSER/Stufe 4/ATK 0/DEF 0) als Spezialbeschwörung beschwören. Solange die Spielmarke in der Monsterzone liegt, kann der Spieler, der sie beschworen hat, keine Monster als Spezialbeschwörung vom Extra Deck beschwören, außer Synchromonstern. Du kannst jeden Effekt von „Bewertung der Schwertseele“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Scegli come bersaglio 1 mostro scoperto che controlli; bandisci fino a 5 carte "Spadanima" e/o mostri Wyrm dal tuo Cimitero e, se lo fai, quel mostro guadagna 300 ATK per ogni carta bandita in questo modo. Se questa carta viene bandita: puoi Evocare Specialmente 1 "Segna-Spadanima" (Wyrm/Tuner/ACQUA/Livello 4/ATK 0/DEF 0). Mentre quel Segna-Mostro è nella Zona Mostri, il giocatore che l'ha Evocato non può Evocare Specialmente mostri dall'Extra Deck, eccetto Mostri Synchro. Puoi utilizzare ogni effetto di "Valutazione Spadanima" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Escolha 1 monstro com a face para cima que você controla; bana até 5 cards "Espadalma" e/ou monstros Wyrm do seu Cemitério e, se isso acontecer, esse monstro ganha 300 de ATK para cada card banido desta forma. Se este card for banido: você pode Invocar por Invocação-Especial 1 "Ficha de Espadalma" (Wyrm/Regulador/ÁGUA/Nível 4/ATK 0/DEF 0). Enquanto essa Ficha estiver na Zona de Monstros, o duelista que a Invocou não pode Invocar monstros do Deck Adicional por Invocação-Especial, exceto Monstros Sincro. Você só pode usar cada efeito de "Avaliação Espadalma" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Selecciona 1 monstruo boca arriba que controles; destierra hasta 5 cartas "Almaespada" y/o monstruos Wyrm en tu Cementerio y, si lo haces, ese monstruo gana 300 ATK por cada carta desterrada de esta forma. Si esta carta es desterrada: puedes Invocar de Modo Especial 1 "Ficha Almaespada" (Wyrm/Cantante/AGUA/Nivel 4/ATK 0/DEF 0). Mientras esa Ficha está en la Zona de Monstruos, el jugador que la Invocó no puede Invocar monstruos de Modo Especial desde el Deck Extra, excepto Monstruos de Sincronía. Sólo puedes usar cada efecto de "Valoración Almaespada" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドの表側表示モンスター１体を対象として発動できる。自分の墓地から「相剣」カードまたは幻竜族モンスターを５枚まで除外し、対象のモンスターの攻撃力は除外した数×３００アップする。②：このカードが除外された場合に発動できる。自分フィールドに「相剣トークン」（幻竜族・チューナー・水・星４・攻／守０）１体を特殊召喚する。この効果で特殊召喚したトークンが存在する限り、自分は Ｓ モンスターしか ＥＸ デッキから特殊召喚できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 자신 묘지에서 "상검" 카드 또는 환룡족 몬스터를 5장까지 제외하고, 대상 몬스터의 공격력은 제외한 수 × 300 올린다. ②: 이 카드가 제외되었을 경우에 발동할 수 있다. 자신 필드에 "상검 토큰"(환룡족 / 튜너 / 물 / 레벨 4 / 공 0 / 수 0) 1장을 특수 소환한다. 이 효과로 특수 소환한 토큰이 존재하는 한, 자신은 싱크로 몬스터밖에 엑스트라 덱에서 특수 소환할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2021-11-04 BODE-EN072 Burst of Destiny Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2021-11-04 BODE-FR072 Burst of Destiny Explosion de la Destinée Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2021-11-04 BODE-DE072 Burst of Destiny Burst of Destiny Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2021-11-04 BODE-IT072 Burst of Destiny Esplosione de Destino Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2021-11-04 BODE-PT072 Burst of Destiny Explosão do Destino Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2021-11-04 BODE-SP072 Burst of Destiny Explosión del Destino Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2021-07-17 BODE-JP072 Burst of Destiny バースト・オブ・デスティニ－ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2021-10-26 BODE-KR072 Burst of Destiny 버스트 오브 데스티니 Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Swordsoul 
+ 
+ Supports   archetypes   
+ Swordsoul 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 16558 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Swordsoul " 「 相 剣 」 Members 
+ The Golden Swordsoul The Iris Swordsoul Swordsoul Auspice Chunjun Swordsoul Dragon of the Abyss Swordsoul Grandmaster - Chixiao Swordsoul Sinister Sovereign - Qixing Longyuan Swordsoul Strategist Longyuan Swordsoul Supreme Sovereign - Chengying Swordsoul of Mo Ye Swordsoul of Taia 
+ Swordsoul Assessment Swordsoul Blackout Swordsoul Emergence Swordsoul Sacred Summit Swordsoul Strife 
+ Support 
+ Incredible Ecclesia, the Virtuous Swordsoul Grandmaster - Chixiao Swordsoul Strategist Longyuan Swordsoul of Mo Ye Swordsoul of Taia 
+ Swordsoul Assessment Swordsoul Emergence Swordsoul Sacred Summit Swordsoul Strife 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/04/SwordsoulAssessment-BODE-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20220125125454', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

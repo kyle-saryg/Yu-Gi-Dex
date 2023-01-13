@@ -1,0 +1,496 @@
+Link: https://yugioh.fandom.com/wiki/Support
+
+Support  is an unofficial term for an interaction in which a card specifically affects cards with a particular property in some way beneficial to the player who  possesses  the supported card. For example, " The Warrior Returning Alive "  adds  1  Warrior - Type   monster  from its controller's  Graveyard  to their  hand , thus it supports Warrior-Type monsters.
+ The most obvious example of support is for  archetypes , but support cards may also provide support for  Attributes ,  Types , or monsters with a certain  Level ,  Rank ,  ATK , or  DEF , among other groups of cards.
+ Support is not just limited to  card effects ; support can also occur in  activation requirements ,  costs ,  Materials ,  conditions , and  Summoning procedures .
+ If a card instead affects the possessor of a card(s) with the specified property in a negative way, the interaction is referred to as  anti-support . For example, " Acid Rain " destroys all  Machine -Type monsters on the field, thus it anti-supports Machine-Type monsters.
+ 
+ Contents 
+ 
+ 1   Examples 
+ 2   All OCG/TCG support cards 
+ 3   All anime support cards 
+ 4   All manga support cards 
+ 
+ 
+ Examples 
+ " Harpie's Pet Baby Dragon " provides support for the " Harpie " archetype. 
+ " Barrier Statue of the Torrent " provides support for  WATER -Attribute monsters. 
+ " Magician's Circle " provides support for  Spellcaster -Type monsters. 
+ " Advanced Ritual Art " provides support for  Ritual Monsters . 
+ " Amplifier " provides support for " Jinzo ". 
+ All OCG/TCG support cards 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Supports card(s)/group(s) A-Assault Core Ａ－アサルト・コア Effect Monster Union monster LIGHT Machine 4 1900 200 Machine LIGHT Union monster A-to-Z-Dragon Buster Cannon ＡｔｏＺ－ドラゴン・バスターキャノン Effect Monster Fusion Monster LIGHT Machine 10 4000 4000 XYZ-Dragon Cannon ABC-Dragon Buster ABC-Dragon Buster ＡＢＣ－ドラゴン・バスター Effect Monster Fusion Monster LIGHT Machine 8 3000 2800 Machine LIGHT Union monster Absolute King Back Jack 絶対王 バック・ジャック Effect Monster DARK Fiend 1 0 0 Normal Trap Card Abyss Actor - Hyper Director 魔界劇団－ハイパー・ディレクター Effect Monster Link Monster DARK Fiend 800 Pendulum Monster Abyss Actor - Mellow Madonna 魔界劇団－メロー・マドンナ Effect Monster Pendulum Monster DARK Fiend 7 1800 2500 Pendulum Monster Abyss Actor - Super Producer 魔界劇団－スパー・プロデューサー Effect Monster Link Monster DARK Fiend 1600 Fiend Pendulum Monster Abyss Playhouse - Fantastic Theater Abyss Actor - Trendy Understudy 魔界劇団－ダンディ・バイプレイヤー Effect Monster Pendulum Monster DARK Fiend 2 700 700 Pendulum Monster Abyss Dweller 深淵に潜む者 Effect Monster Xyz Monster WATER Sea Serpent 4 1700 1400 WATER Abyss Keeper アビス・オーパー Effect Monster Link Monster WATER Fish 1500 WATER Fish ... further results (3678 more) 
+   Japanese name Card type Property Supports card(s)/group(s) "Infernoble Arms - Durendal" 『焔聖剣－デュランダル』 Spell Card Equip Spell Card Equip Spell Card Warrior FIRE "Infernoble Arms - Joyeuse" 「焔聖剣－ジョワユーズ」 Spell Card Equip Spell Card Equip Spell Card Warrior FIRE 1 Up １アップ Trap Card Normal Trap Card Normal Trap Card Normal Monster 2-Block ２ブロック Trap Card Normal Trap Card Normal Trap Card Normal Monster 3K Bolt ３Ｋボルト Spell Card Normal Spell Card Normal Spell Card Aqua 7 Completed ７カード Spell Card Equip Spell Card Equip Spell Card Machine The A. Forces 連合軍 Spell Card Continuous Spell Card Continuous Spell Card Spellcaster Warrior A.I. Challenge You 果たし－Ａｉ－ Trap Card Continuous Trap Card Continuous Trap Card Cyberse A.I. Contact Ａｉ－コンタクト Spell Card Normal Spell Card Normal Spell Card Ignister A.I.Land A.I. Love Fusion Ａｉラブ融合 Spell Card Normal Spell Card Normal Spell Card Fusion Monster Cyberse ... further results (2005 more) 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Supports archetype(s) Absorouter Dragon アブソルーター・ドラゴン Effect Monster DARK Dragon 7 1200 2800 Rokket Abyss Actor - Comic Relief 魔界劇団－コミック・リリーフ Effect Monster Pendulum Monster DARK Fiend 3 1000 2000 Abyss Script Abyss Actor Abyss Actor - Curtain Raiser 魔界劇団－カーテン・ライザー Effect Monster Pendulum Monster DARK Fiend 4 1100 1000 Abyss Script Abyss Actor Abyss Actor - Evil Heel 魔界劇団－デビル・ヒール Effect Monster Pendulum Monster DARK Fiend 8 3000 2000 Abyss Script Abyss Actor Abyss Actor - Extras 魔界劇団－エキストラ Effect Monster Pendulum Monster DARK Fiend 1 100 100 Abyss Actor Abyss Actor - Funky Comedian 魔界劇団－ファンキー・コメディアン Effect Monster Pendulum Monster DARK Fiend 1 300 200 Abyss Actor Abyss Actor - Hyper Director 魔界劇団－ハイパー・ディレクター Effect Monster Link Monster DARK Fiend 800 Abyss Actor Abyss Actor - Leading Lady 魔界劇団－プリティ・ヒロイン Effect Monster Pendulum Monster DARK Fiend 4 1500 1000 Abyss Script Abyss Actor Abyss Actor - Liberty Dramatist 魔界劇団－リバティ・ドラマチスト Effect Monster Pendulum Monster DARK Fiend 4 1500 1500 Abyss Script Abyss Actor - Mellow Madonna 魔界劇団－メロー・マドンナ Effect Monster Pendulum Monster DARK Fiend 7 1800 2500 Abyss Script Abyss Actor ... further results (2855 more) 
+   Japanese name Card type Property Supports archetype(s) "A" Cell Recombination Device 「Ａ」細胞組み換え装置 Spell Card Quick-Play Spell Card Quick-Play Spell Card Alien "A" Cell Scatter Burst 「Ａ」細胞散布爆弾 Spell Card Quick-Play Spell Card Quick-Play Spell Card Alien 1st Movement Solo 独奏の第１楽章 Spell Card Normal Spell Card Normal Spell Card Melodious A.I. Challenge You 果たし－Ａｉ－ Trap Card Continuous Trap Card Continuous Trap Card @Ignister A.I. Love Fusion Ａｉラブ融合 Spell Card Normal Spell Card Normal Spell Card @Ignister A.I. Meet You めぐり－Ａｉ－ Spell Card Normal Spell Card Normal Spell Card @Ignister A.I. Shadow Ａｉシャドー Trap Card Continuous Trap Card Continuous Trap Card @Ignister A.I.'s Ritual Ａｉの儀式 Spell Card Ritual Spell Card Ritual Spell Card @Ignister A.I.'s Show Ａｉ－ＳＨＯＷ Trap Card Normal Trap Card Normal Trap Card @Ignister A.I.Q Ａｉ－Ｑ Trap Card Continuous Trap Card Continuous Trap Card @Ignister ... further results (1657 more) 
+ All anime support cards 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Supports card(s)/group(s) Abyss Actor - Evil Heel 魔界劇団－デビル・ヒール Pendulum Monster DARK Fiend 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 3000 Pendulum Monster Abyss Actor - Funky Comedian 魔界劇団－ファンキー・コメディアン Pendulum Monster DARK Fiend 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 0 300 Pendulum Monster Abyss Actor - Superstar 魔界劇団－ビッグ・スター Pendulum Monster DARK Fiend 0 0 0 7 0 0 0 0 0 ??? 0 0 0 0 2500 Pendulum Monster Abyss Actor - Wild Hope 魔界劇団－ワイルド・ホープ Pendulum Monster DARK Fiend 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1600 Pendulum Monster Accesscode Talker アクセスコード・トーカー Link Monster DARK Cyberse 0 0 0 0 0 ??? 0 0 0 0 2300 Effect Monster Link Monster Active Guard アクティブガード・アーマー Effect Monster Armor monster EARTH Machine 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 Armor monster Advanced Crystal Beast Amber Mammoth Ａ宝玉獣 アンバー・マンモス Effect Monster EARTH Beast 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1700 Advanced Dark (anime) Advanced Crystal Beast Amethyst Cat Ａ宝玉獣 アメジスト・キャット Effect Monster EARTH Beast 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 1200 Advanced Dark (anime) Advanced Crystal Beast Cobalt Eagle Ａ宝玉獣 コバルト・イーグル Effect Monster WIND Winged Beast 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1400 Advanced Dark (anime) Advanced Crystal Beast Emerald Tortoise Ａ宝玉獣 エメラルド・タートル Effect Monster WATER Aqua 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 600 Advanced Dark (anime) ... further results (1158 more) 
+   Japanese name Card type Property Supports card(s)/group(s) 100-Year Awakening １００年の目覚め Spell Card Normal Spell Card Curse of Thorns Thorn Princess 1st Movement Solo 独奏の第１楽章 Spell Card Normal Spell Card Level 4 Monster Cards Level 1 Monster Cards Level 2 Monster Cards Level 3 Monster Cards 2-Block ２ブロック Trap Card Normal Trap Card Normal Monster 3K Bolt ３Ｋボルト Spell Card Normal Spell Card Aqua 7 Completed ７カード Spell Card Equip Spell Card Machine The A. Forces 連合軍 Spell Card Continuous Spell Card Spellcaster Warrior A.I. A.I. Wall ＡｉＡｉ ウォール Spell Card Continuous Spell Card FIRE Link Monster A.I. Contact — Ａｉ — コンタクト Spell Card Normal Spell Card Field Spell Card A.I. Love Fusion Ａｉラブ融合 Spell Card Normal Spell Card Fusion Monster A.I. Mine Ａｉ マイン Spell Card Normal Spell Card Link Monster ... further results (1328 more) 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Supports archetype(s) Absorouter Dragon アブソルーター・ドラゴン Effect Monster DARK Dragon 0 0 0 7 0 0 0 0 0 ??? 0 0 0 0 1200 Rokket Abyss Actor - Evil Heel 魔界劇団－デビル・ヒール Pendulum Monster DARK Fiend 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 3000 Abyss Actor Abyss Actor - Funky Comedian 魔界劇団－ファンキー・コメディアン Pendulum Monster DARK Fiend 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 0 300 Abyss Actor Abyss Actor - Leading Lady 魔界劇団－プリティ・ヒロイン Pendulum Monster DARK Fiend 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1500 Abyss Actor Abyss Actor - Superstar 魔界劇団－ビッグ・スター Pendulum Monster DARK Fiend 0 0 0 7 0 0 0 0 0 ??? 0 0 0 0 2500 Abyss Script Abyss Actor Abyss Actor - Wild Hope 魔界劇団－ワイルド・ホープ Pendulum Monster DARK Fiend 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1600 Abyss Actor Abyss Boat Watchman 黄泉の舟守 Effect Monster DARK Fiend 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 Yomi Abyss Ruler Mictlancoatl 黃泉の邪王 ミクトランコアトル Effect Monster DARK Fiend 0 0 10 0 0 0 0 0 ??? 0 0 0 0 3800 Yomi Advanced Crystal Beast Amber Mammoth Ａ宝玉獣 アンバー・マンモス Effect Monster EARTH Beast 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1700 Crystal Beast Advanced Crystal Beast Cobalt Eagle Ａ宝玉獣 コバルト・イーグル Effect Monster WIND Winged Beast 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1400 Crystal Beast ... further results (741 more) 
+   Japanese name Card type Property Supports archetype(s) 1st Movement Solo 独奏の第１楽章 Spell Card Normal Spell Card Melodious A.I. Love Fusion Ａｉラブ融合 Spell Card Normal Spell Card @Ignister A.I. Mine Ａｉ マイン Spell Card Normal Spell Card @Ignister A.I. Shadow Ａｉ シャドー Trap Card Continuous Trap Card @Ignister A.I.'s Hymn Ａｉ の 賛歌 Trap Card Normal Trap Card @Ignister A.I.'s Ritual Ａｉの儀式 Spell Card Ritual Spell Card @Ignister A.I.dle Reborn Ａｉ ドリング・ボーン Spell Card Quick-Play Spell Card @Ignister A.I. Abyss Actors' Costume Chest 魔界劇団の衣装箱 Spell Card Continuous Spell Card Abyss Costume Abyss Entertainment 魔界パフォーマンス Spell Card Quick-Play Spell Card Abyss Actor Abyss Improv 魔界即興劇－インプロ Trap Card Normal Trap Card Abyss Actor ... further results (832 more) 
+ All manga support cards 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Supports card(s)/group(s) Ananta the Snake Dragon 邪龍アナンタ Normal Monster DARK 0 0 0 8 0 0 0 0 0 0 0 ? 0 0 0 0 0 0 0 ? Snake Ancient Pixie Dragon 妖精竜 エンシェント Synchro Monster DARK Dragon 0 0 0 7 0 0 0 0 2100 0 0 0 0 3000 Field Spell Card Anti the Earth アンチ・ザ・アース Effect Monster 0 0 0 1 0 0 0 0 0 100 0 0 0 0 0 100 Anti-Hope, God of Despair (manga) Baby Spider ベビー・スパイダー Normal Monster 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 ??? Mother Spider (manga) Bahamut Shark バハムート・シャーク Xyz Monster WATER Sea Serpent 0 0 0 4 0 0 0 0 2600 0 0 0 0 2100 Xyz Monster Bat, The Forest Ninja 森の忍者バット Normal Monster Tuner monster ??? 0 0 0 3 0 0 0 0 0 800 0 0 0 0 0 800 Field Spell Card Baxia, Brightness of the Yang Zing 輝竜星－ショウフク Synchro Monster LIGHT Wyrm 0 0 0 8 0 0 0 0 2300 0 0 0 0 2600 Wyrm Black Potan ブラックポータン Effect Monster DARK Fiend 0 0 0 1 0 0 0 0 0 200 0 0 0 0 0 100 Tuner monster Cat Shark キャット・シャーク Xyz Monster WATER Beast 0 0 0 2 0 0 0 0 0 500 0 0 0 0 0 500 Xyz Monster Celestial Tuner 天輪の調律士 Synchro Monster ??? 0 0 0 2 0 0 0 0 0 900 0 0 0 0 0 600 Synchro Monster ... further results (136 more) 
+   Japanese name Card type Property Supports card(s)/group(s) Accel Synchro アクセル・シンクロ Spell Card Quick-Play Spell Card Synchro Monster Additional Mirror Level 7 アディショナル・ミラー・レベル７ Spell Card Quick-Play Spell Card Level 7 Monster Cards Advance 進軍 Spell Card Warrior Advent of the Goddess 女神の降臨 Trap Card Normal Trap Card Fairy Level 1 Monster Cards Aftershock アフターレフェクト・オブ・インパクト Spell Card Quick-Play Spell Card Machine Alchemical Experiment 錬金術の研究成果 Spell Card Normal Spell Card Winged Kuriboh (manga) Winged Kuriboh 9 Alternate Fusion アナザー・フュージョン Trap Card Normal Trap Card Fusion Monster Amplifier 電脳増幅器 Spell Card Jinzo (manga) Amuse World アミューズワールド Spell Card Field Spell Card Action Card Angel Bow エンジェル・ボー Spell Card Equip Spell Card Fairy ... further results (278 more) 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Supports archetype(s) Abyss Actor - Superstar 魔界劇団－ビッグ・スター Pendulum Monster DARK Fiend 0 0 0 7 0 0 0 0 2500 0 0 0 0 1800 Abyss Script Accel Synchron アクセル・シンクロン Synchro Monster Tuner monster DARK Machine 0 0 0 5 0 0 0 0 0 500 0 0 0 0 2100 Synchron Adamancipator Crystal - Dragite 魔救の奇石－ドラガイト Effect Monster WATER Rock 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 2200 Adamancipator Adamancipator Crystal - Leonite 魔救の奇石－レオナイト Effect Monster FIRE Rock 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 2200 Adamancipator Adamancipator Risen - Leonite 魔救の奇跡－レオナイト Synchro Monster FIRE Rock 0 0 0 6 0 0 0 0 2400 0 0 0 0 2200 Adamancipator Adamancipator Seeker 魔救の追求者 Normal Monster Tuner monster EARTH Rock 0 0 0 2 0 0 0 0 1200 0 0 0 0 1000 Adamancipator Air Sphere エアースフィア Effect Monster 0 0 0 2 0 0 0 0 0 400 0 0 0 0 0 300 Sphere Anti the Ray アンチ・ザ・レイ Effect Monster 0 0 0 1 0 0 0 0 0 100 0 0 0 0 0 100 Anti Armoroid アーマロイドガイデンゴー Normal Monster 0 0 0 8 0 0 0 0 2700 0 0 0 0 2000 roid Artillery Catapult Turtle 砲撃のカタパルト・タートル Effect Monster WATER Aqua 0 0 0 4 0 0 0 0 1000 0 0 0 0 2000 Gaia The Fierce Knight (archetype) ... further results (122 more) 
+   Japanese name Card type Property Supports archetype(s) Abyss Actors Back Stage 魔界劇団の楽屋入り Trap Card Normal Trap Card Abyss Actor Abyss Script - Opening Ceremony 魔界台本「オープニング・セレモニー」 Spell Card Continuous Spell Card Abyss Actor Adamancipator Laputite アダマシア・ラピュタイト Spell Card Field Spell Card Adamancipator Adamancipator Signs 魔救の息吹 Spell Card Normal Spell Card Adamancipator Air Barrier 大気障壁 Trap Card Normal Trap Card Sphere Album of Memories 思い出のアルバム Trap Card Continuous Trap Card Fluffal Apparition 出幻 Trap Card Normal Trap Card Vision HERO Atmospheric Regeneration 大気再生 Trap Card Normal Trap Card Sphere Atmospheric Transference 大気伝達 Trap Card Normal Trap Card Sphere Beast-Concealed Mantra 獣に隠された真言 Trap Card Normal Trap Card Forbidden Beast ... further results (157 more) 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Gameplay

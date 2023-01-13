@@ -1,0 +1,113 @@
+Link: https://yugioh.fandom.com/wiki/Dimension_Mirage_(anime)
+
+Main card page: " Dimension Mirage " 
+ Dimension Mirage 
+ 
+ Japanese:   ディメンション・ミラージュ 
+ Romaji:   Dimenshon Mirāju 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Activate  by  targeting  1  Attack Position   monster  your opponent  controls . When an Attack Position monster you control is not  destroyed by a battle  with that target, you can  banish  1 monster from your  Graveyard  to force that target to  attack  once more in a row. When the target  leaves the field ,  destroy  this card. [1] [2] 
+ 
+ 4K Media  lore<nomobile> ? :</nomobile> <mobile>(The English card uses the same lore as the OCG/TCG card. The Japanese card and reference sources state the effect differently.):</mobile>  Activate  this card by  targeting  1  face-up   Attack Position   monster  your opponent  controls . At the end of the  Damage Step , when it  attacks  a monster, but the  attack target  was not  destroyed by the battle : You can  banish  1 monster from your  Graveyard ; it must attack again in a row. If the targeted monster  leaves the field ,  destroy  this card. 
+ Appearances
+ 
+ 
+ 
+ 
+ ' 
+ 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  The Dark Side of Dimensions ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ディメンション・ミラージュ 
+ 相手フィールドの表側攻撃表示モンスター１体を対象としてこのカードを発動できる。①：対象のモンスターの攻撃で攻撃対象モンスターが破壊されなかったダメージステップ終了時、自分の墓地のモンスター１体を除外してこの効果を発動できる。対象のモンスターはもう１度攻撃可能になり、続けて攻撃しなければならない。②：対象のモンスターがフィールドから離れた場合にこのカードは破壊される。 
+ 
+ 
+ Dimenshon Mirāju 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yugi Mutou  
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Dimension  
+ 
+ Actions  
+ Banishes from your Graveyard 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ Attack  categories  
+ Must attack 
+ Allows multiple attacks 
+ 
+ 
+ 
+   " Dimension Mirage " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+ Dimension  ディメンション a   m   Members 
+ Dimension Guardian Dimension Mirage Dimension Reflector Dimension Sphinx 
+ 
+ References 
+ 
+ ↑   Yu-Gi-Oh! Duel Monsters Anime Complete Guide: Millennium Memory , page 196. 
+ 
+ ↑   "Dark Side of Dimensions Anime Card Effects, Japanese Card Text Translations" . YGOrganization.com .  https://ygorganization.com/kuwabaralikesstackingthings/ . 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/ef/DimensionMirage-JP-Anime-MOV3.png/revision/latest/scale-to-width-down/200?cb=20170314123937', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/29/DimensionMirage-JP-Anime-MOV3-NC.png/revision/latest/scale-to-width-down/185?cb=20170314123916', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Cards with notes

@@ -1,0 +1,559 @@
+Link: https://yugioh.fandom.com/wiki/Field
+
+This article is about the gameplay area. For the special fields used for the  WDC  tournament, see  Duel Field . For the  Spell Card   property , see  Field Spell Card .     
+ 
+ 
+ Field
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ フィールド
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ fīrudo
+ 
+ 
+ 
+ English
+ 
+ 
+ field [Notes 1] side of the field [Notes 2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Terrain 
+ German : Spielfeld Spielfeldseite (formerly Seite des Spielfelds) 
+ Italian : Terreno 
+ Portuguese : campo (formerly Campo) lado do campo (formerly Campo) 
+ Spanish : Campo lado del Campo 
+ Korean : 필드  pildeu 
+ Traditional Chinese : 場  chǎng / ceong4 
+ Simplified Chinese : 场  chǎng 
+ 
+ 
+ The  field  (フィールド  fīrudo ) is the area where  Duelists  place their cards.  Game Mats  (or playmats) are often used as field. 
+ The field is divided into two halves, one for each player, with each half having 5  Main Monster Zones , 5  Spell & Trap Zones  (including 2  Pendulum Zones ), a  Field Zone , a  Deck Zone , an  Extra Deck Zone , and a  Graveyard . In the middle of the field, there are 2  Extra Monster Zones , which do not belong to either player while unoccupied.
+ The "field" referenced by  card text  is the combination of each player's Monster Zones, Spell & Trap Zones, Pendulum Zones and Field Zones. Thus, the field is shared and each player controls only one side of it.
+ The field is also unofficially referred to as the  board .
+ 
+ Contents 
+ 
+ 1   Prior to Master Rule 3 
+ 2   Master Rule 3 
+ 3   New Master Rule 
+ 4   Notes 
+ 
+ 
+ Prior to Master Rule 3 
+ 
+ The top left Zone is the  Field Zone . 
+ The top right Zone is the  Graveyard . 
+ The top 5 Zones in the middle are the  Monster Zones . 
+ The bottom left Zone is the  Extra Deck Zone  (originally known as the Fusion Deck Zone). 
+ The bottom right Zone is the  Deck Zone . 
+ The bottom 5 Zones in the middle are the  Spell & Trap Zones  (originally known as the Magic & Trap Card Zones). 
+ Conceptually, there is an additional space sometimes referred to as the  Banished  Zone. However, it is never represented on official Game Mats, since it is not actually a Zone. Most video games place  banished  cards in a pile to the right of the Graveyard. 
+ Master Rule 3 
+ 
+ The top left Zone is the  Field Zone . 
+ The top right Zone is the  Graveyard . 
+ The top 5 Zones in the middle are the  Monster Zones . 
+ The bottom left Zone is the  Extra Deck Zone . 
+ The bottom right Zone is the  Deck Zone . 
+ The bottom 5 Zones in the middle are the  Spell & Trap Zones . 
+ The blue-colored Zone and the red-colored Zone are the  Pendulum Zones . The right Pendulum Zone is located between the Deck Zone and Graveyard Zone; the left Pendulum Zone is located between the Extra Deck Zone and the Field Zone. 
+ Conceptually, there is an additional space sometimes referred to as the  Banished  Zone. However, it is never represented on official Game Mats, since it is not actually a Zone. Most video games place  banished  cards in a pile to the right of the Graveyard. 
+ New Master Rule 
+ 
+ The top left Zone (3) is the  Field Zone . 
+ The top right Zone (4) is the  Graveyard . 
+ The top 2 half-Zones (7) are the  Extra Monster Zones . These are shared between both players; by putting together both players' Game Mats, they form complete Zones like the other Zones on the mat. 
+ The upper 5 Zones in the middle (1) are the  Main Monster Zones . 
+ The bottom left Zone (5) is the  Extra Deck Zone . 
+ The bottom right Zone (6) is the  Deck Zone . 
+ The bottom 5 Zones in the middle (2) are the  Spell & Trap Zones .
+ The far left (blue-colored) and far right (red-colored) Spell & Trap Zones are also  Pendulum Zones  while they are occupied by  Pendulum Monster(s ). 
+ Conceptually, there is an additional space sometimes referred to as the  Banished  Zone. However, it is never represented on official Game Mats, since it is not actually a Zone. Most video games place  banished  cards in a pile to the right of the Graveyard. 
+ Notes 
+ 
+ ↑   Not capitalized in the English and Portuguese versions 
+ 
+ ↑   In the English, German, Spanish and Portuguese versions, such expressions as "your side of the field" and "your opponent's side of the field" are used. In the  French  and Italian versions, the equivalents are "your Field" and "your opponent's Field", mirroring the Japanese ones which are 自分フィールド  jibun fīrudo  "one's own field" and 相手フィールド  aite fīrudo  "opponent's field". 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/fa/Mat-DemoDay-YuGiOh5Ds.png/revision/latest/scale-to-width-down/600?cb=20160304195646', 'https://static.wikia.nocookie.net/yugioh/images/0/0f/Newfield.png/revision/latest?cb=20140708023008', 'https://static.wikia.nocookie.net/yugioh/images/e/e6/Playing_area_New_Master_Rules.png/revision/latest?cb=20170406233740']
+Categories: Gameplay

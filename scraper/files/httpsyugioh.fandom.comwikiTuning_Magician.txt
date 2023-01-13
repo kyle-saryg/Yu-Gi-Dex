@@ -1,0 +1,264 @@
+Link: https://yugioh.fandom.com/wiki/Tuning_Magician
+
+
+ 
+ 
+ Tuning Magician 調 律 の 魔 術 師 
+ 
+ English 
+Tuning Magician 
+ French 
+ Magicienne du Réglage Check translation 
+ German 
+ Abstimm-Magier Check translation 
+ Italian 
+ Maga Sintonizzatrice Check translation 
+ Korean 
+ 조율의 마술사 Check translation 
+ Portuguese 
+ Mago Regulador Check translation 
+ Spanish 
+ Mago de la Afinación Check translation 
+ Japanese (kana) 
+ ちょうりつのまじゅつし Check translation 
+ Japanese (base) 
+ 調律の魔術師 Check translation 
+ Japanese ( rōmaji ) 
+Chōritsu no Majutsushi 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Spellcaster  /  Tuner  /  Effect 
+ Level 
+ 1   
+ ATK  /  DEF 
+ 0  /  0 
+ Passcode 
+ 54941203 
+ Card effect types 
+ 
+ 
+ Ignition 
+ Condition 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If you have 2 " Magician " cards in your  Pendulum Zones , while this card is in your  hand  or  Graveyard : You can  Special Summon  this card, but  banish  it when it  leaves the field . You can only use this  effect  of "Tuning Magician"  once per turn . If this card is  Normal  or Special Summoned: Your opponent gains 400  LP , then you take 400  damage . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si vous avez 2 cartes "Magicien" dans vos Zones Pendule, tant que cette carte est dans votre main ou Cimetière : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser cet effet de "Magicienne du Réglage" qu'une fois par tour. Si cette carte est Invoquée Normalement ou Spécialement : votre adversaire gagne 400 LP, puis vous recevez 400 points de dommages. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls du 2 „Magier“-Karten in deinen Pendelzonen hast, solange sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst diesen Effekt von „Abstimm-Magier“ nur einmal pro Spielzug verwenden. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Dein Gegner erhält 400 LP, dann erhältst du 400 Schaden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se hai 2 carte "Mago" nelle tue Zone Pendulum, mentre questa carta è nella tua mano o Cimitero: puoi Evocare Specialmente questa carta, ma bandiscila quando lascia il Terreno. Puoi utilizzare questo effetto di "Maga Sintonizzatrice" una sola volta per turno. Se questa carta viene Evocata Normalmente o Specialmente: il tuo avversario guadagna 400 LP, poi tu subisci 400 danni. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se você tiver 2 cards "Mago" nas suas Zonas de Pêndulo, enquanto este card estiver na sua mão ou no Cemitério: você pode Invocar este card por Invocação-Especial, mas bana-o quando ele deixar o campo. Você só pode usar este efeito de "Mago Regulador" uma vez por turno. Se este card for Invocado por Invocação-Normal ou Especial: seu oponente ganha 400 PV e, depois, você sofre 400 de dano. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si tienes 2 cartas "Mago/a" en tus Zonas de Péndulo, mientras esta carta está en tu mano o Cementerio: puedes Invocar esta carta de Modo Especial, pero destiérrala cuando deje el Campo. Sólo puedes usar este efecto de "Mago de la Afinación" una vez por turno. Si esta carta es Invocada de Modo Normal o Especial: tu adversario gana 400 LP, y después tú recibes 400 puntos de daño. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「調律の魔術師」の①の効果は１ターンに１度しか使用できない。①：このカードが手札・墓地に存在し、自分のＰゾーンに「魔術師」カードが２枚存在する場合に発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。②：このカードが召喚・特殊召喚に成功した場合に発動する。相手は４００ＬＰ回復し、その後自分は４００ダメージを受ける。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "조율의 마술사"의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 패 / 묘지에 존재하고, 자신의 펜듈럼 존에 "마술사" 카드가 2장 존재할 경우에 발동할 수 있다. 이 카드를 특수 소환한다. 이 효과로 특수 소환한 이 카드는, 필드에서 벗어났을 경우에 제외된다. ②: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동한다. 상대는 400 LP 회복하고, 그 후 자신은 400 데미지를 받는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2016-01-14 BOSH-EN001 Breakers of Shadow Super Rare 2017-06-22 PEVO-EN020 Pendulum Evolution Super Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2016-01-14 BOSH-FR001 Breakers of Shadow Les Destructeurs de L'ombre Super Rare 2017-06-22 PEVO-FR020 Pendulum Evolution Évolution des Pendules Super Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2016-01-14 BOSH-DE001 Breakers of Shadow Breakers of Shadow Super Rare 2017-06-22 PEVO-DE020 Pendulum Evolution Pendulum Evolution Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2016-01-14 BOSH-IT001 Breakers of Shadow Distruttori dell'Ombra Super Rare 2017-06-22 PEVO-IT020 Pendulum Evolution Evoluzione Pendulum Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2016-01-15 BOSH-PT001 Breakers of Shadow Destruidores das Sombras Super Rare 2017-06-22 PEVO-PT020 Pendulum Evolution Evolução Pêndulo Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2016-01-14 BOSH-SP001 Breakers of Shadow Destructores de las Sombras Super Rare 2017-06-22 PEVO-SP020 Pendulum Evolution Evolución del Péndulo Super Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2015-10-17 BOSH-JP001 Breakers of Shadow ブレイカーズ・オブ・シャドウ Super Rare 2015-10-17 BOSH-JP001 Breakers of Shadow ブレイカーズ・オブ・シャドウ Secret Rare 2016-12-23 SD31-JP016 Structure Deck: Pendulum Evolution ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －ペンデュラム・エボリューション－ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2016-02-16 BOSH-KR001 Breakers of Shadow 브레이커즈 오브 섀도우 Super Rare 2016-02-16 BOSH-KR001 Breakers of Shadow 브레이커즈 오브 섀도우 Secret Rare 2017-03-14 SD31-KR016 Structure Deck: Pendulum Evolution ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ  － 펜듈럼 에볼루션 － Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Magician  
+ 
+ Supports   archetypes   
+ Magician  
+ 
+ Actions  
+ Activates upon Normal Summon 
+ Activates upon Special Summon 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ Special Summons itself from your Graveyard 
+ 
+ Banished  categories  
+ Banishes itself when it leaves the field 
+ 
+ LP   
+ Your opponent gains Life Points 
+ Damages you 
+ 
+ Miscellaneous  
+ Only once per turn 
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12109 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Tuning Magician " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Magician " 「 魔 術 師 」 Members 
+ Acrobatic Magician Apprentice Magician Black Fang Magician Blast Magician Dark Magician of Chaos Dharma-Eye Magician Doomstar Magician Double Iris Magician Dragoncaller Magician Dragonpit Magician Dragonpulse Magician Eda the Sun Magician Harmonizing Magician Magician of Hope Milla the Temporal Magician Night Wing Sorceress Nobledragon Magician Oafdragon Magician Old Vindictive Magician Performapal Celestial Magician Performapal Five-Rainbow Magician Purple Poison Magician Rapid-Fire Magician Silent Magician Skilled Dark Magician Stargazer Magician The Stern Mystic Time Wizard Timebreaker Magician Timegazer Magician Timestar Magician Tuning Magician White Wing Magician Wisdom-Eye Magician Xiangke Magician Xiangsheng Magician 
+ Magician's Left Hand Magician's Restage Magician's Right Hand 
+ Support 
+ Dharma-Eye Magician Dragonpit Magician Dragonpulse Magician Enlightenment Paladin Harmonizing Magician Nobledragon Magician Oafdragon Magician Performapal Parrotrio Performapal Skullcrobat Joker Performapal Sky Magician Performapal Smile Sorcerer Performapal Springoose Performapal U Go Golem Stargazer Magician Timegazer Magician Timestar Magician Tuning Magician Wisdom-Eye Magician 
+ Amazing Pendulum Magician's Restage Pendulum Call Performapal Popperup Sky Iris Star Pendulumgraph Time Pendulumgraph 
+ Related 
+ Astrograph Sorcerer Baby Dragon Chronograph Sorcerer Dark Sage Thousand Dragon Time Magic Hammer Time Wizard of Tomorrow 
+ Assault Mode Activate The Claw of Hermos Dedication through Light and Darkness Magical Star Illusion 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c9/TuningMagician-PEVO-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20170621141329', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836']
+Categories: Duel Monsters cards, TCG cards, OCG cards

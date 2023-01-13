@@ -1,0 +1,132 @@
+Link: https://yugioh.fandom.com/wiki/Bllood_puzzle
+
+
+ 
+ Bllood puzzle 
+ 
+ 
+ 
+ 
+ The bllood clue and the guillotine in the manga version of the game. 
+ 
+ 
+ Game details 
+ 
+ Players 
+ Yugi Mutou Katsuya Jonouchi Anzu Mazaki Hiroto Honda Miho Nosaka [Note 1] 
+ 
+ 
+ Orchestrator(s) 
+ Seto Kaiba 
+ 
+ 
+ Event 
+ Death T-2 
+ 
+ 
+ Location 
+ Horror Zone 
+ 
+ 
+ 
+ Appearances 
+ 
+ Manga  
+ Yu-Gi-Oh! 
+ 
+ 
+ Anime  
+ Yu-Gi-Oh! (first series) 
+ 
+ 
+ Chapters 
+ 31: " " Murderer's Mansion " " 
+ 
+ 
+ Episodes 
+ 22: " " Tearing - Boarderline Shooting " " 
+ 
+ 
+ 
+ Notes 
+ ↑   Only in the anime 
+ 
+ 
+ The  bllood puzzle  was a riddle game in the  manga  and  first series anime , played during  Death-T .
+ 
+ Contents 
+ 
+ 1   Manga version 
+ 
+ 1.1   Rules 
+ 1.2   Solution 
+ 1.3   Events 
+ 
+ 
+ 2   Anime version 
+ 
+ 
+ Manga version 
+ Rules 
+ The game is played to find an exit to the  Murderer's Mansion . 
+ Four players have their hands inside locked in four holes labelled 00, 01, 10 and 11, in a large guillotine. 
+ At the opposite sides of the holes are four buttons. One of these will stop the guillotine and release the players hands. The others will cause the blade to fall. 
+ After five minutes the blade will fall itself. 
+ The players are given a clue to find the correct button. The clue is a slip of paper with "bllood" wrote on it. The second "l" is also an arrow pointing downwards. 
+ Solution 
+ The lines and circles making up the letters in "bllood" can be viewed as 1s and 0s, making it "10 11 00 01". These are also the numbers labelling the switches. The 11 contains an arrow pointing downwards, indicitating that the exit is in the basement. Since the eleven is used to find the exit, it is the solution to the riddle, so pressing its button stops the blade and releases the hands.
+ 
+ Events 
+ Yugi ,  Jonouchi ,  Anzu  and  Honda  had to play this during  Death-T . Yugi had previously found the sheet of paper with the bllood clue, while searching the  mansion  for an exit. A hologram of  Kaiba  appeared before Yugi and his friends, telling them that the murderer, the  Chopman , was in the mansion and in order to find the exit, they must put their hands inside the holes.
+ The group struggled to find the solution. After some encouragement, Yugi managed to find the answer last second, saving him and his friends and revealing a trapdoor exit.
+ 
+ Anime version 
+       The machine used in the game.     
+ The anime version of the bllood puzzle plays similarly to the one in the manga, set as a stage in the Death-T. This time, Yugi and his friends are all separated by the floor, with each of Yugi's friends holding down a lever that controls a slowly advancing machine. The machine is the one to have "bllood" written on it, and would crush Yugi and his friends if the answer was not found in time. Releasing the correct lever would stop it, while releasing the wrong one would speed it up.
+ Unlike the manga version, Kaiba also leaves Yugi and his friends with a hint, saying that the machine "doesn't like it when its name is spelt wrongly", hinting at the intentional misspelling of "bllood". Also, none of Yugi's friends were allowed to move - only Yugi was allowed to make the decision on which lever to release.
+ 
+ v e 
+ Death-T Players 
+ Dark Yugi  ( anime ) 
+ Johji 
+ Katsuya Jonouchi  ( anime ) 
+ Hiroto Honda  ( anime ) 
+ Anzu Mazaki  ( anime ) 
+ Yugi Mutou  ( anime ) 
+ Miho Nosaka 
+ Blue 
+ Chopman 
+ Daimon 
+ Johnny Gayle 
+ Mokuba Kaiba  ( anime ) 
+ Seto Kaiba  ( anime ) 
+ Bob McGuire 
+ " Name unknown " 
+ Games 
+ Death T-1 (Stardust Shootout) 
+ Death T-2 
+ Electric Chair Ride 
+ bllood puzzle 
+ Deathmatch 
+ Death T-3 (Rhythm Rock) 
+ Death T-4 (Virtual  Capsule Monster Chess ) 
+ Death T-5 (Virtual  Duel Monsters ) 
+ Locations 
+ Dome Duel Arena 
+ Horror Zone 
+ Kaiba Land 
+ Murderer's Mansion 
+ Room of falling cubes 
+ Second Arena 
+ Space Zone 
+ Other events 
+ Kaiba Land grand opening 
+ Sugoroku Mutou and Seto Kaiba's Duel 
+ 
+ Category 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/38/Death-T-2.2.jpg/revision/latest/scale-to-width-down/304?cb=20080929221718', 'https://static.wikia.nocookie.net/yugioh/images/9/9b/FSx022_bllood_machine.jpg/revision/latest/scale-to-width-down/180?cb=20110828210842']
+Categories: Death-T, Games, Games (events)

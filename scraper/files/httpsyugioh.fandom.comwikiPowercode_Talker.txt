@@ -1,0 +1,256 @@
+Link: https://yugioh.fandom.com/wiki/Powercode_Talker
+
+
+ 
+ 
+ Powercode Talker パワーコード・トーカー 
+ 
+ English 
+Powercode Talker 
+ French 
+ Pouvoircodeur Bavard Check translation 
+ German 
+ Kraftkodier-Sprecher Check translation 
+ Italian 
+ Potencodificatore Trasmittente Check translation 
+ Korean 
+ 파워코드 토커 Check translation 
+ Portuguese 
+ Podercodificar Transmissor Check translation 
+ Spanish 
+ Podercodificador Hablador Check translation 
+ Japanese 
+ パワーコード・トーカー Check translation 
+ Japanese ( rōmaji ) 
+Pawākōdo Tōkā 
+ Card type 
+ Monster   
+ Attribute 
+ FIRE   
+ Types 
+ Cyberse  /  Link  /  Effect 
+ Link Arrows 
+ Left   ,  Bottom-Left   ,  Right   
+ ATK  /  LINK 
+ 2300  /  3 
+ Passcode 
+ 15844566 
+ Materials 
+3 monsters 
+ Card effect types 
+ 
+ 
+ Ignition 
+ Quick Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+3  monsters Once per turn : You can  target  1  face-up  monster on the  field ;  negate  that target's  effects  until the end of this  turn . Once per turn, if this card  battles  an opponent's monster, during  damage calculation  ( Quick Effect ): You can  Tribute  1 monster this card  points to ; this card's  ATK  becomes double its  original ATK  during that damage calculation only. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 3 monstres Une fois par tour : vous pouvez cibler 1 monstre face recto sur le Terrain ; jusqu'à la fin de ce tour, annulez les effets de la cible. Une fois par tour, si cette carte combat un monstre de l'adversaire, durant le calcul des dommages (Effet Rapide) : vous pouvez Sacrifier 1 monstre pointé par cette carte ; l'ATK de cette carte devient le double de son ATK d'origine durant ce calcul des dommages uniquement. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 3 Monster Einmal pro Spielzug: Du kannst 1 offenes Monster auf dem Spielfeld wählen; annulliere bis zum Ende dieses Spielzugs die Effekte des gewählten Ziels. Einmal pro Spielzug, falls diese Karte gegen ein Monster eines Gegners kämpft, während der Schadensberechnung (Schnelleffekt): Du kannst 1 Monster, auf das diese Karte zeigt, als Tribut anbieten; die ATK dieser Karte werden nur während der Schadensberechnung gleich dem Doppelten ihrer Grund-ATK. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 3 mostri Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; annulla gli effetti di quel bersaglio fino alla fine di questo turno. Una volta per turno, se questa carta combatte con un mostro dell'avversario, durante il calcolo dei danni (Effetto Rapido): puoi offrire come Tributo 1 mostro puntato da questa carta; l'ATK di questa carta diventa il doppio del suo ATK originale solamente durante quel calcolo dei danni. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 3 monstros Uma vez por turno: você pode escolher 1 monstro com a face para cima no campo; até o final deste turno, negue os efeitos do alvo. Uma vez por turno, se este card batalhar um monstro do oponente, durante o cálculo de dano (Efeito Rápido): você pode oferecer como Tributo 1 monstro para o qual este card apontar; o ATK deste card se torna o dobro do seu ATK original apenas durante esse cálculo de dano. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 3 monstruos Una vez por turno: puedes seleccionar 1 monstruo boca arriba en el Campo; hasta el final de este turno, niega los efectos de ese objetivo. Una vez por turno, si esta carta batalla con un monstruo del adversario, durante el cálculo de daño (Efecto Rápido): puedes Sacrificar 1 monstruo al que apunte esta carta; el ATK de esta carta se convierte en el doble de su ATK original, sólo durante ese cálculo de daño. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ モンスター３体 ①：１ターンに１度、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの効果をターン終了時まで無効にする。②：１ターンに１度、このカードが相手モンスターと戦闘を行うダメージ計算時に、このカードのリンク先の自分のモンスター１体をリリースして発動できる。このカードの攻撃力はそのダメージ計算時のみ、元々の攻撃力の倍になる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 몬스터 3장 ①: 1턴에 1번, 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 효과를 턴 종료시까지 무효로 한다. ②: 1턴에 1번, 이 카드가 상대 몬스터와 전투를 실행하는 데미지 계산시에, 이 카드의 링크 앞의 자신 몬스터 1장을 릴리스하고 발동할 수 있다. 이 카드의 공격력은 그 데미지 계산시에만, 원래 공격력의 배가 된다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2018-08-09 SDPL-EN040 Structure Deck: Powercode Link Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2018-08-09 SDPL-FR040 Structure Deck: Powercode Link Deck de Structure : Lien Pouvoircodeur Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2018-08-09 SDPL-DE040 Structure Deck: Powercode Link Structure Deck: Powercode Link Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2018-08-09 SDPL-IT040 Structure Deck: Powercode Link Structure Deck: Link Potencodificatore Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2018-08-09 SDPL-PT040 Structure Deck: Powercode Link Deck Estrutural: Podercodificar Link Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2018-08-09 SDPL-SP040 Structure Deck: Powercode Link Baraja de Estructura: Enlace Podercodificador Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2017-12-09 SD33-JP040 Structure Deck: Powercode Link ストラクチャーデッキ －パワーコード・リンク－ Ultra Rare 2019-03-23 ST19-JP043 Starter Deck 2019 ＳＴＡＲＴＥＲ ＤＥＣＫ ２０１９ Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2018-03-14 SD33-KR040 Structure Deck: Powercode Link ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ  － 파워코드 링크 － Ultra Rare 2019-08-14 ST19-KR043 Starter Deck 2019 STARTER   DECK  2019 Super Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Code Talker  
+ 
+ Actions  
+ Tributes for cost 
+ 
+ Stat changes  
+ Changes own ATK value 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of Effect Monsters 
+ 
+ Summoning  categories  
+ 3 Link Materials 
+ Does not require specific Link Materials 
+ 
+ Miscellaneous  
+ Limited activations 
+ Cover card 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 13528 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Powercode Talker " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Code Talker " 「コード・トーカー」 Members 
+ Accesscode Talker Code Talker Code Talker Inverted Decode Talker Decode Talker Extended Decode Talker Heatsoul Encode Talker Excode Talker Powercode Talker Protectcode Talker Shootingcode Talker Transcode Talker 
+ Support 
+ Code Exporter Code Generator Code Radiator Micro Coder Talkback Lancer 
+ Cynet Codec Cynet Conflict Cynet Optimization Limit Code Recoded Alive 
+ Related 
+ Decode Destruction 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/07/PowercodeTalker-SDPL-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20180812162501', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/28?cb=20120918053839', 'https://static.wikia.nocookie.net/yugioh/images/2/25/LM-Left.png/revision/latest?cb=20170326055237', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

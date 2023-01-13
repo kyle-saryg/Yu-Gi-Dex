@@ -1,0 +1,117 @@
+Link: https://yugioh.fandom.com/wiki/Battle_Simulation
+
+
+ Battle Simulation 
+ 
+ Japanese:   模擬戦闘 
+ Kana:   バトル・シミュレーション 
+ Romaji:   Batoru Shimyurēshon 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ When a  monster   battles  another monster: During this  Battle Phase  only, halve the  ATK  of both those monsters, also they cannot be  destroyed by battle .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  043 ,  072 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ German 
+ Kampfsimulation 
+ 
+ 
+ 
+ Italian 
+ Simulazione della Battaglia 
+ 
+ 
+ 
+ Spanish 
+ Simulación de Batalla 
+ 
+ 
+ 
+ Japanese 
+ 模擬戦闘 
+ モンスター同士が戦闘を行う時に発動出来る。このバトルフェイズ中、お互いのモンスターの攻撃力は半分になる。また、この戦闘でモンスターは破壊されない。 
+ 
+ 
+ Batoru Shimyurēshon 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Kite Tenjo 
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ Your monsters lose ATK 
+ Your opponent's monsters lose ATK 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/9e/BattleSimulation-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20120213221818', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7f/BattleSimulation-OW.png/revision/latest/scale-to-width-down/185?cb=20140131110941', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

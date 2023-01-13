@@ -1,0 +1,9 @@
+Link: https://yugioh.fandom.com/wiki/Property:Card_type_(short)
+
+This property lists the  type  of cards, such as  Monster ,  Spell  and  Trap . It is similar to  Property:Card type , but presents the values in a shorter form, by omitting the word card, from the end of the value.
+ This uses  string  values.
+ 
+ 
+ 
+ 
+Categories:

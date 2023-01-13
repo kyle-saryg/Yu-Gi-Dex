@@ -1,0 +1,289 @@
+Link: https://yugioh.fandom.com/wiki/Shelled_Ground
+
+This article is about the real world game. For the in-series game, see  Dungeon Dice Monsters . For other uses, see  Dungeon Dice Monsters (disambiguation) .     
+ 
+ This article  may require  cleanup  to meet this wiki's standards.   You can help out by re-organizing or re-writing parts of it or checking grammar and spelling.   
+         Dungeon Dice Monsters     
+ 
+ 
+ 
+ Wikipedia  has an article about  Dungeon Dice Monsters . 
+ 
+ 
+ Dungeon Dice Monsters , or  DDM  for short, is a board game in the anime created by Duke Devlin from  Yu-Gi-Oh! . It is seen both in the manga and in the  anime .
+ 
+ Contents 
+ 
+ 1   Game stats 
+ 2   Terminology 
+ 3   Gameplay 
+ 
+ 3.1   Monsters 
+ 3.2   Crests 
+ 3.3   Gameplay 
+ 
+ 3.3.1   Summoning 
+ 3.3.2   Battle 
+ 3.3.3   Special abilities 
+ 
+ 
+ 3.4   Game progress 
+ 
+ 3.4.1   Advanced Gameplay 
+ 
+ 
+ 3.5   Public reaction 
+ 3.6   Version differences 
+ 
+ 3.6.1   Box contents 
+ 3.6.2   Dungeon tiles 
+ 3.6.3   Dice Pool & monster limits 
+ 3.6.4   Crest configuration 
+ 3.6.5   Die color 
+ 3.6.6   English version rule additions 
+ 3.6.7   Game Boy Advance exclusives 
+ 
+ 
+ 
+ 
+ 4   See also 
+ 
+ 
+ Game stats 
+ In Dungeon Dice monsters, there is a tiled board of 13 x 19 tiles (13 tiles wide) on which play is conducted. On either end of the board sits a "Monster Lord" (on the 7th tile from each side on the row closest to the players) representing either player. Each Monster Lord has 3  Life Points.  The first player to lose all their  Life Points  loses. In the Yu-Gi-Oh! Anime, these were referred to as "Heart Points".
+ 
+ Terminology 
+           Dungeon Dice monsters Field     
+ Monster Lord  - Also called the  Die Master , this is a representation of the player. Dungeon Masters cannot move or defend but may attack (for 10 damage). Each has 3  Heart Points . The Dungeon Master is not affected by items or abilities that affect monsters in the Dungeon. The only way to destroy the Dungeon Master is by attacking it.
+ Dice Pool  - The 15 Dice a player uses. When a die is used for a Summon, it cannot be used again. Players are only allowed 10 Summons in a game, so they will always have 5 Dice left over for Crest rolling.
+ Crest Pool  - The place where a player's Crests (Except Summon Crests) are stored. The Crests rolled are stored in the Crest Pool until a player uses them. A player cannot use Crests from the opponent's Pool.
+ Dungeon Piece  - Created when monsters are Summoned, it is needed so players can attack each other and move about the board. An appropriately rolled die is selected, placed down on the field, and is unfolded to create the path. This is called a Dimension.
+ Obstacles  - Also known as "Shelled Ground", these are squares placed on a board. Neither player can Summon a monster in such a way that their Dungeon Path would lie adjacent to the Obstacle. Strategic placing of Obstacles can cut off a player's main route of Summoning and make the game much more difficult. In the Game Boy version of  Dungeon Dice Monsters , later levels have Obstacles placed in such a way to only hinder the human player, giving them a large handicap.
+ 
+ Gameplay 
+ The central part of Dungeon Dice monsters is, obviously, the dice. There are 6 symbols on each die, called Crests. A player rolls 3 dice each turn, and from the Crests rolled, makes their move. Players alternate turns rolling dice until a player's Dungeon Master loses all its Life Points. To get into position to attack, monsters must move along Dungeon Path, which is created when a monster is summoned. Careful placement of dungeon path is key to victory, both to place monsters near the enemy, and to block the opponent from placing their path where they wish. Sloppy dimensioning could spell defeat for a player.
+ 
+ Monsters 
+           " Mighty Mage "     
+ The monsters in Dungeon Dice Monsters have 3 main stats: Attack, Defense, and Health (Health is sometimes referred to as 'Hit Points'). The Attack and Defense are in multiples of 10. All monsters have at least 10 Health Points to remain on the board. When a monster loses all of its Health points, it is destroyed. Damage to health points is determined by attacking and defending. (see  Attack Crest  and  Defense Crest  for more details). Some monsters are Tunnelers, meaning they can move past other monsters (normally, monsters cannot move over each other.). There are also Flyers, who can not only move over other monsters, but can only be attacked by other Flyers or by monsters with Special Abilities saying they can attack Flyers. Also, there are many monsters with Special Abilities, although many require Trap or Magic Crests to use. (See  Trap Crest  and  Magic Crest  for more details)
+ 
+ Crests 
+ Main article:  Crest (Dungeon Dice Monsters) 
+ Crests are a sort of currency in the game. These are obtained through dice rolls and can be saved in your crest pool. There are six different types of crests: Summon Crests, Movement Crests, Attack Crests, Defense Crests, Magic Crests, and Trap Crests. Each of them has a specific purpose in the game.
+ SUMMON CRESTS : The only type of crest that is found on every die. Like in the regular game, each die has a level that corresponds to its monster (or item)'s power. The levels go from 1 to 4, with 4 being the most powerful. As a result, the number of Summon Crests on the die decrease with each level; Level 1 dice have four Summon Crests, Level 2 dice have three, Level 3 dice have two, and Level 4 dice only have one. To successfully summon, or "dimension" as it is called in this game, a player must roll at least two summon crests of the same level. A player is allowed no more than ten dimensions per game.
+ MOVEMENT CRESTS : When a dimension is performed, the die folds out into one of ten shapes, and this becomes a path. The monsters can only move along these paths, and for each space they move, a Movement Crest is required. Flying monsters require two Movement Crests for each space they move.
+ ATTACK CRESTS : If a monster is within range of an opponent's monster, they are able to attack them. However, each attack requires one Attack Crest; if there are none, no attack can be executed. A monster can only attack once per turn.
+ DEFENSE CRESTS : When a monster attacks another monster, the attacking monster's power is dealt to the opponent's monster's health. Each monster has a certain number of hit points, dictated by its quantity of hearts. Each heart is 10 hit points; when all the hearts are broken, the monster is destroyed. The amount of damage can be reduced, however, by utilizing Defense Crests. When a monster is attacked, if its controller has any Defense Crests, they can make the monster guard against its attacker. In this case, the defense power of the monster that is attacked is subtracted from the attacking monster's attack power.
+ MAGIC CRESTS : Not usually a vital part of the game; certain monsters have special abilities that they can activate by sacrificing Magic Crests e.g: Thunder ball.
+ TRAP CRESTS : Like Magic Crests, not usually a vital part of the game; certain monsters have special abilities that they can activate when they are attacked by sacrificing Trap Crests.
+ 
+ Gameplay 
+ Similar to the anime and manga game, two players sit at either end of the field, which is 13 x 19 squares. Each player has a dice pool of 12 dice, 1 for each of the 4 levels of monsters and items available in the game. However, instead of using "Heart Points," the game incorporates a monster called the  Monster Lord  ( 3  LP /10  ATK /0  DEF ).
+ 
+ Summoning 
+ Summoning monsters works like in the show, where three dice are rolled and if any two have Summoning Crests, a monster of the lowest level crest can be summoned.  When a monster is summoned, the player picks a path piece to place on the board, leading from their  Monster Lord  to the game field. If a monster is  destroyed , it is removed from play.
+ 
+ Battle 
+ When monsters battle on the field, they can attack once, defend, or use a special ability. Normal Attacks require one  Attack Crest , while a Normal Defend uses one  Defense Crest . When a monster attacks another monster, the attacking monster's ATK is subtracted from the defending monster's HP. If a  Defense Crest  is used, the monster's DEF is subtracted from the attacking monster's  ATK . If a monster is  destroyed , it is removed from play.
+ An interesting note is the Monster Lord. Unlike on the show where the Die Master could not defend himself, the Monster Lord has 10 ATK and can strike back at an attacking monster. Regardless of the attacking monster's  ATK , the  Monster Lord  only loses 1  LP  for each attack. Since a  Monster Lord  cannot move, this can save a duelist whose monsters are on the other end of the field.
+ 
+ Special abilities 
+ Some monsters have Effects not unlike their Duel Monsters counterparts. Some special abilities require the use of crests while others don't. For example, a monster may spend a number of crests (regardless of this kind of crest) to attack or defend without using an attack crest. Others have effects specific to the type of crest that is used; Knight of Twin Swords can attack twice for every 2 attack crests used, but cannot perform a single normal attack if the effect is used.  Others still have more unique powers, like taking 0 damage from certain monster types.
+ Many also have the ability to "Tunnel" or "Fly" on the game board.  Tunneling monsters can pass through other monsters at the cost of two Progress Crests per space. Flying monsters can only be attacked by other Flying monsters or regular monsters with special abilities, and normal monsters can pass under them. Flying monsters require two Progress Crests per space even when not passing over enemies. However, neither of these types can occupy the same space as another monster, balancing out their advantages
+ 
+ Game progress 
+ Each player picks their monsters and sets a Monster Lord figurine (or token, if a figurine is unavailable) on white space. (Blue in the Advanced Gameplay; see below.) Players decide on who goes first, and that person then picks three dice from his or her dice pool and rolls.  While it is suggested they all be the same level, they can be mixed if desired.  The player then takes any crests available and uses them or puts them in the crest pool.  As more monsters are summoned, the players will begin to form a bridge between themselves and their opponent.  Once the two paths meet, the players must attempt to get at the Monster Lord to attack.  If two monsters meet on adjacent squares, they can battle. Once one player destroys all of his or her opponent's monsters or is able to defeat the Monster Lord, that player wins.
+ 
+ Advanced Gameplay 
+ While essentially the same, there is one key difference with the Advanced Gameplay rules.  Rather than setting a Monster Lord figure or token on the white starting squares, they are placed on the blue squares, which are farther apart.  Basically, this just gives more room for the players to work with, with a larger space to summon monsters and items.  This can severely change the length of a game, making it take considerably longer than a normal gameplay session.
+ 
+ Public reaction 
+ While quite a bit of hype surrounded the game before its release, sales were low and few expansions were released. In English, Seven Booster Pack sets were planned (as with the Japanese release), but the line was canceled after set 4 ( Iron Guardians ) due to lack of support and fans.
+ 
+ Version differences 
+ DDM has had a number of variants created, namely the Japanese board game, English board game, and the Gameboy Advance video game. They all have a number of differences.
+ 
+ Box contents 
+ In the Japanese version, one Starter Set contained 10 monster figures, 10 monster cards, a Monster Lord with its card, 15 dice that unfold to make the cross-shape Dimension path, 1 play field sheet, and 10 translucent red counters for tracking HP. Version 1.0 of the Japanese game came with 60 punch-out cardboard tokens to represent crests (as well as a box to store them), while version 2.0 used an abacus to track crest counts. Notably, the Japanese version was structured similarly to a starter deck - designed for a single player. 
+ The English version came with 6 monsters, a single Monster Lord figure, 2 abaci, 12 regular dice that do not unfold, a punch-out sheet of damage tokens (with 4 monster lord tokens to substitute as Monster Lord figures as needed), 1 play field sheet, and 10 dungeon pieces consisting of 2 of 5 of the legal dimension formations. This set contains rules for a "basic game", which allows 2 players to play using the provided 6 monsters. 
+ The Japanese version's included figures also feature hand-painted detailing that differs from the American version.
+ 
+ Dungeon tiles 
+ Instead of molded plastic six-sided die, the dice were snap-together and unfolded on hinges into the dungeon path tiles. This was to effect the dice going out of use when used; while good in theory, the dice tended to be hard to lay flat on the board and use as path. Most dice could only be unfolded in one pattern (the standard "cross" formation), but many dice from booster packs provided a second dimension layout. 
+ The English version did away with this by simply having ordinary dice, with pre-formed dungeon pieces to create the pathway. While the provided pieces formed more shapes than the Japanese version, only 10 total dungeon pieces are provided. Players must share the pieces, meaning only 10 total Dimensions are possible, and it is possible for one player to hoard all or most of the pieces. Two copies of 5 different shapes are provided, and are flipped depending on which player uses them (which has the side effect of inverting some of the shapes). 
+ The GBA version allows players to dimension in all of the shapes present in the anime and manga. 
+ 
+ Dice Pool & monster limits 
+ In the Japanese version, the dice pool is 15, and is customizable with dice obtained from the same booster packs as the miniatures and monster cards. Level 4 dice are limited to 3 per Dice Pool, and monsters and items are collectively limited to 10, with unlimited duplicates allowed. In the English version, you only have 12 dice (3 of each level), which are non-customizable. The maximum of monsters and items is still 10, but you can only have one copy of a given monster (items are unlimited however). In the Game Boy Advance game, dice and monsters are one and the same, with the limit at 15, and no limit to duplicates.
+ 
+ Crest configuration 
+ No matter what version is played, the amount of summon crests is the same for all dice across a given level. Level 1 dice have four summon crests per die, Level 2 have three, Level 3 have two, and Level 4 have one. They all have other crests on the remaining sides. The English and Japanese versions have 12 standardized die layouts (the Japanese level 2 die has a doubler on the magic crest, while the English version moves that to the level 4 die's magic crest). The Gameboy Advance game is similar to the Japanese board game, but has each individual die tied to the monster, so you must include specific monsters to include specific dice in your Dice Pool.
+ 
+ Die color 
+ The Japanese version die color indicates the type of monster it is capable of summoning (such as Warrior, Spellcaster, etc.). In the English version, the color merely indicates what level the die is. The colors of the dice in the GBA game indicate the type of monster inside; red are Dragons, yellow are Zombies, green are Beasts, blue are Warriors, and white are Spellcasters. Black dice contain items.
+ 
+ English version rule additions 
+ Some rules were added to the English version to streamline some problems with the Japanese version. The Double Dice rule has players rolling twice instead of once, keeping all the crests, but only making one summon. The Triple Summoning rule allows a roll of three Summoning Crests of the same level to summon a monster one level higher. There is also a "basic game" which has players use the inner square as the battlefield instead of the whole thing, as well as a reduced amount of rules and available game pieces.
+ 
+ Game Boy Advance exclusives 
+ The GBA game has many other differences from the physical games. If a monster's defense exceeds an attacker's attack after spending a defense crest, the difference is inflicted to the attacker's HP. Dungeon Masters also can't attack like they can in the physical games. There is also a 'type-advantage' system, giving an advantaged attacker or defender 10 extra attack or defense. In addition, there are many exclusive monsters that either didn't appear at all in the other versions, or appeared in a different form.
+ 
+ See also 
+ List for all Dungeon Dice Monsters cards 
+ Complete list of all Sets released for this game 
+ Yu-Gi-Oh!  Episodes  47 ,  48 ,  49 
+ v e 
+ Yu-Gi-Oh! Manga 
+ Series 
+ Yu-Gi-Oh! 
+ characters 
+ bunkōban 
+ volumes 
+ Subseries 
+ Yu-Gi-Oh! 
+ chapters 
+ volumes 
+ Duelist 
+ chapters 
+ volumes 
+ Millennium World 
+ chapters 
+ volumes 
+ Spin-offs 
+ R 
+ chapters 
+ volumes 
+ GX 
+ chapters 
+ 5D's 
+ chapters 
+ ZEXAL 
+ chapters 
+ D Team 
+ ARC-V 
+ chapters 
+ The Strongest Duelist Yuya!! 
+ Yu-Gi-Oh! OCG Structures 
+ chapters 
+ SEVENS 
+ chapters 
+ Luke! Legend of Exploding Military Rule!! 
+ 
+ Anime 
+ Series 
+ Yu-Gi-Oh!  (Toei) 
+ characters 
+ cards 
+ episodes 
+ VHS 
+ Yu-Gi-Oh!  ( Duel Monsters ) 
+ episodes
+ season 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ DVD 
+ Capsule Monsters 
+ episodes 
+ Films 
+ Yu-Gi-Oh! 
+ Pyramid of Light 
+ VS. GX   (canceled) 
+ Bonds Beyond Time 
+ The Dark Side of Dimensions 
+ Spin-offs 
+ GX 
+ characters 
+ episodes
+ season 1 
+ 2 
+ 3 
+ 4 
+ 5D's 
+ characters 
+ episodes
+ season 1 
+ 2 
+ ZEXAL 
+ characters 
+ episodes
+ season 1 
+ 2 
+ ARC-V 
+ characters 
+ episodes
+ season 1 
+ 2 
+ 3 
+ VRAINS 
+ characters 
+ episodes
+ season 1 
+ 2 
+ 3 
+ Yu-Gi-Oh! SEVENS 
+ characters 
+ episodes
+ season 1 
+ 2 
+ Yu-Gi-Oh! GO RUSH!! 
+ characters 
+ episodes
+ season 1 
+ 
+ Storylines 
+ Manga 
+ School 
+ Death-T 
+ Monster World 
+ Duelist Kingdom 
+ Dungeon Dice Monsters 
+ Battle City 
+ Tournament Finals 
+ King's Memories 
+ Ceremonial Battle 
+ TRANSCEND GAME 
+ Anime 
+ Duelist Kingdom 
+ Domino City Battles 
+ Battle City (part 1) 
+ Virtual World 
+ Battle City (part 2) 
+ Waking the Dragons 
+ Grand Championship 
+ Pharaoh's Memories 
+ Ceremonial Battle 
+ 
+ Plot elements 
+ Millennium Items 
+ Egyptian Gods 
+ Wicked Gods 
+ Orichalcos 
+ Legendary Dragons 
+ Games 
+ Bandai's Official Card Game 
+ Konami's  Yu-Gi-Oh! Duel Monsters 
+ Official Card Game 
+ Trading Card Game 
+ Capsule Monster Chess 
+ Digital Pets 
+ Dragon Cards 
+ Monster World 
+ Dungeon Dice Monsters 
+ Capsule Monsters Video games 
+ Others 
+ Earth 
+ Duel Monsters Spirit World 
+ Solid Vision 
+ Dueling Arena 
+ KaibaCorp 
+ King of Games (King of Duelists) 
+ 
+ Music 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/90/Broom_icon.png/revision/latest/scale-to-width-down/35?cb=20070612131135', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Yugioh_DungeonDice_Monsters.jpg/revision/latest/scale-to-width-down/300?cb=20110810003002', 'https://static.wikia.nocookie.net/yugioh/images/2/28/Wikipedia.svg/revision/latest/scale-to-width-down/40?cb=20100528192107', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/08/DDMFIELD.jpg/revision/latest/scale-to-width-down/180?cb=20100304094030', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/52/MightyMageB2-DDM-EN.jpg/revision/latest/scale-to-width-down/180?cb=20070905234606']
+Categories: Articles needing cleanup, Yu-Gi-Oh! Dungeon Dice Monsters, Games, Games (real world)

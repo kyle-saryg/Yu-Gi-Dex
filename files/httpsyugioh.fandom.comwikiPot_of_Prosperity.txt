@@ -1,0 +1,245 @@
+Link: https://yugioh.fandom.com/wiki/Pot_of_Prosperity
+
+
+ 
+ 
+ Pot of Prosperity 金 満 で 謙 虚 な 壺 
+ 
+ English 
+Pot of Prosperity 
+ French 
+ Pot de la Prospérité Check translation 
+ German 
+ Topf des Wohlstands Check translation 
+ Italian 
+ Giara della Prosperità Check translation 
+ Korean 
+ 졸부와 겸허의 항아리 Check translation 
+ Portuguese 
+ Pote da Prosperidade Check translation 
+ Spanish 
+ Olla de la Prosperidad Check translation 
+ Japanese (kana) 
+ きんまんでけんきょなつぼ Check translation 
+ Japanese (base) 
+ 金満で謙虚な壺 Check translation 
+ Japanese ( rōmaji ) 
+Kinman de Kenkyo na Tsubo 
+ Japanese (translated) 
+Pot of Riches and Humility 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 84211599 
+ Card effect types 
+ 
+ 
+ Effect 
+ Lingering 
+ Condition 
+ Condition Statuses Semi-Limited  ( OCG ) Unlimited  ( TCG   Advanced  and  Traditional ) 
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Banish  3 or 6 cards of your choice from your  Extra Deck ,  face-down ; for the rest of this  turn  after this card  resolves , any  damage  your opponent takes is halved, also  excavate  cards from the top of your  Deck  equal to the number of cards banished,  add  1 excavated card to your  hand , place the rest on the bottom of your Deck in any order. You can only  activate  1 "Pot of Prosperity" per turn. You cannot  draw  cards by  card effects  the turn you activate this card. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Bannissez face verso 3 ou 6 cartes de votre choix depuis votre Extra Deck ; le reste de ce tour après la résolution de cette carte, les dommages reçus par votre adversaire sont divisés par deux, et aussi, dévoilez un nombre de cartes du dessus de votre Deck égal au nombre de cartes bannies, ajoutez 1 carte dévoilée à votre main, placez les cartes restantes au-dessous de votre Deck dans l'ordre de votre choix. Vous ne pouvez activer qu'1 "Pot de la Prospérité" par tour. Vous ne pouvez pas piocher de cartes par des effets de carte le tour où vous activez cette carte. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Verbanne 3 oder 6 Karten, die du bestimmst, von deinem Extra Deck verdeckt; für den Rest dieses Spielzugs, nachdem diese Karte aufgelöst wurde, wird der Schaden halbiert, den dein Gegner erhält, zusätzlich grabe die obersten Karten deines Decks in Höhe der Anzahl der verbannten Karten aus, füge deiner Hand 1 ausgegrabene Karte hinzu, lege den Rest in beliebiger Reihenfolge unter dein Deck. Du kannst nur 1 „Topf des Wohlstands“ pro Spielzug aktivieren. Du kannst in dem Spielzug, in dem du diese Karte aktivierst, keine Karten durch Karteneffekte ziehen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Bandisci 3 o 6 carte a tua scelta dal tuo Extra Deck, coperte; per il resto di questo turno dopo che questa carta si è risolta, qualsiasi danno subito dal tuo avversario viene dimezzato, inoltre dissotterra carte dalla cima del tuo Deck pari al numero di carte bandite, aggiungi 1 carta dissotterrata alla tua mano, metti il resto in fondo al tuo Deck in qualsiasi ordine. Puoi attivare solo 1 "Giara della Prosperità" per turno. Non puoi pescare carte tramite gli effetti delle carte nel turno in cui attivi questa carta. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Selecione e bana 3 ou 6 cards do seu Deck Adicional, com a face para baixo; pelo resto deste turno depois que este card resolver, qualquer dano que seu oponente sofrer é diminuído pela metade e, além disso, escave cards do topo do seu Deck igual ao número de cards banidos, adicione 1 card escavado à sua mão e coloque o resto no fundo do seu Deck em qualquer ordem. Você só pode ativar 1 "Pote da Prosperidade" por turno. Você não pode comprar cards como resultado de efeitos de card no turno em que ativar este card. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Destierra 3 o 6 cartas a tu elección en tu Deck Extra, boca abajo; por el resto de este turno después de que esta carta se resuelva, cualquier daño que reciba tu adversario se divide a la mitad, y además excava cartas en la parte superir de tu Deck igual al número de cartas desterradas, añade 1 carta excavada a tu mano, pon el resto en el fondo de tu Deck en cualquier orden. Sólo puedes activar 1 "Olla de la Prosperidad" por turno. No puedes robar cartas por efectos de cartas el turno en el que activas esta carta. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名のカードは１ターンに１枚しか発動できず、このカードを発動するターン、自分はカードの効果でドローできない。①：自分のEXデッキのカード３枚または６枚を裏側表示で除外して発動できる。除外した数だけ自分のデッキの上からかーそをめくり、その中から1枚を選んで手札に加え、残りのカードを好きな順番でデッキの一番下に戻す。このカードの発動後、ターン終了時まで相手が受けるすべてのダメージは半分になる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없으며, 이 카드를 발동하는 턴에 자신은 카드의 효과로 드로우할 수 없다. ①: 자신의 엑스트라 덱의 카드 3장 또는 6장을 뒷면 표시로 제외하고 발동할 수 있다. 제외한 수만큼 자신의 덱 위에서 카드를 넘기고, 그 중에서 1장을 골라 패에 넣고, 남은 카드를 좋아하는 순서대로 덱 맨 아래로 되돌린다. 이 카드의 발동 후, 턴 종료시까지 상대가 받는 모든 데미지는 절반이 된다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2021-02-04 BLVO-EN065 Blazing Vortex Secret Rare 2021-02-04 BLVO-EN065 Blazing Vortex Starlight Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2021-02-04 BLVO-FR065 Blazing Vortex Vortex Embrasé Secret Rare 2021-02-04 BLVO-FR065 Blazing Vortex Vortex Embrasé Starlight Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2021-02-04 BLVO-DE065 Blazing Vortex Blazing Vortex Secret Rare 2021-02-04 BLVO-DE065 Blazing Vortex Blazing Vortex Starlight Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2021-02-04 BLVO-IT065 Blazing Vortex Vortice Fiammeggiante Secret Rare 2021-02-04 BLVO-IT065 Blazing Vortex Vortice Fiammeggiante Starlight Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2021-02-04 BLVO-PT065 Blazing Vortex Vórtice Ardente Secret Rare 2021-02-04 BLVO-PT065 Blazing Vortex Vórtice Ardente Starlight Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2021-02-04 BLVO-SP065 Blazing Vortex Vórtice Abrasador Secret Rare 2021-02-04 BLVO-SP065 Blazing Vortex Vórtice Abrasador Starlight Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2020-10-31 BLVO-JP065 Blazing Vortex ブレイジング・ボルテックス Super Rare 2020-10-31 BLVO-JP065 Blazing Vortex ブレイジング・ボルテックス Secret Rare 2020-10-31 BLVO-JP065 Blazing Vortex ブレイジング・ボルテックス Prismatic Secret Rare 2020-10-31 BLVO-JP065 Blazing Vortex +1 Bonus Pack ブレイジング ボルテックス＋１ボーナスパック Super Rare 2020-10-31 BLVO-JP065 Blazing Vortex +1 Bonus Pack ブレイジング ボルテックス＋１ボーナスパック Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2021-02-04 BLVO-KR065 Blazing Vortex 블레이징 보텍스 Super Rare 2021-02-04 BLVO-KR065 Blazing Vortex 블레이징 보텍스 Secret Rare 2021-02-04 BLVO-KR065 Blazing Vortex 블레이징 보텍스 Prismatic Secret Rare 2021-02-04 BLVO-KR065 Blazing Vortex +1 Bonus Pack 블레이징 보텍스 스페셜 팩 Super Rare 2021-02-04 BLVO-KR065 Blazing Vortex +1 Bonus Pack 블레이징 보텍스 스페셜 팩 Prismatic Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Greed  
+ 
+ Actions  
+ Excavates from the player's Deck 
+ Adds excavated cards to the hand 
+ Places excavated cards on the bottom of the Deck 
+ Prevents adding cards from Deck to hand 
+ 
+ Banished  categories  
+ Banishes from Extra Deck for cost 
+ Banishes face-down 
+ 
+ LP   
+ Reduces battle damage 
+ Reduces effect damage 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 15756 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Greed   強 欲 Members 
+ Avatar of The Pot Goblin of Greed Jar Turtle Pot of The Forbidden Spirit of the Pot of Greed 
+ Chaos Greed Dark Spirit Art - Greed The Gift of Greed Greed Grado Jar of Avarice Jar of Greed Moray of Avarice Moray of Greed Pot of Acquisitiveness Pot of Avarice Pot of Benevolence Pot of Desires Pot of Dichotomy Pot of Duality Pot of Extravagance Pot of Generosity Pot of Greed Pot of Prosperity Pot of Riches Reckless Greed Red Dragon Vase Shard of Greed 
+ Related 
+ Red Dragon Archfiend 
+ Jar Robber Jar of Generosity 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/af/PotofProsperity-BLVO-EN-ScR-1E.png/revision/latest/scale-to-width-down/300?cb=20210213204740', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

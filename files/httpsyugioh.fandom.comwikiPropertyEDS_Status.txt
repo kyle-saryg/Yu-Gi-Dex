@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:EDS_Status
+
+This is for listing the EDS Status of Cards. It has type  string .
+ 
+ 
+ 
+ 
+Categories:

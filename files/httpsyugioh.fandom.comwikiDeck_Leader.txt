@@ -1,0 +1,165 @@
+Link: https://yugioh.fandom.com/wiki/Deck_Leader
+
+Deck Leader is a position a monster card can hold in the Playstation 2 game  Yu-Gi-Oh! The Duelists of the Roses . The Deck Leader serves as your mobile base, representing your Life Points, summoning monsters from the hand, and setting magic and trap cards from the hand. When you are given your deck by  Simon McMooran  at the beginning of the game, you have chosen your Deck Leader.
+ 
+ Contents 
+ 
+ 1   Promotion 
+ 2   Demotion 
+ 3   Rank 
+ 4   Leader Ability 
+ 
+ 
+ Promotion 
+ As you duel, cards you use frequently, being summoned, attacking, defending, inflicting critical hits, etc. will earn that monster XP. This XP cannot be seen, but after enough duels, at the end of your duel, you will get a prompt telling you your card has been promoted. All monsters in your deck can be promoted, not just your current Deck Leader. This means you can theoretically have any card be your Deck Leader, eventually.
+ 
+ Demotion 
+ In a similar way to promotion, loosing duels can get your Deck Leader demoted. They will go down 1 Rank.
+ 
+ Rank 
+ All monster cards start with no Rank. When they get their first promotion, they are ranked Second Lieutenant (2LT in the game's shorthand).
+ 
+ 
+ 
+ Ranks 
+ 
+ 
+ 
+ Rank 
+ Shorthand 
+ Icon 
+ Icon description 
+ 
+ 
+ Non Commissioned Officer
+ 
+ NCO
+ 
+ 
+ 
+ None
+ 
+ 
+ Second Lieutenant
+ 
+ 2LT
+ 
+ 
+ 
+ 1 star
+ 
+ 
+ First Lieutenant
+ 
+ 1LT
+ 
+ 
+ 
+ 2 stars
+ 
+ 
+ Captain
+ 
+ CPT
+ 
+ 
+ 
+ 3 stars
+ 
+ 
+ Major
+ 
+ MAJ
+ 
+ 
+ 
+ 1 star and 1 bar
+ 
+ 
+ Lieutenant Colonel
+ 
+ LTC
+ 
+ 
+ 
+ 2 stars and 1 bar
+ 
+ 
+ Colonel
+ 
+ COL
+ 
+ 
+ 
+ 3 stars and 1 bar
+ 
+ 
+ Brigadier General
+ 
+ BG
+ 
+ 
+ 
+ 1 star and 3 bars
+ 
+ 
+ Rear Admiral
+ 
+ RADM
+ 
+ 
+ 
+ 2 stars and 3 bars
+ 
+ 
+ Vice Admiral
+ 
+ VADM
+ 
+ 
+ 
+ 3 stars and 3 bars
+ 
+ 
+ Admiral
+ 
+ ADM
+ 
+ 
+ 
+ 1 star and 3 Bars, red fimbriation
+ 
+ 
+ Senior Admiral
+ 
+ SADM
+ 
+ 
+ 
+ 2 stars and 3 bars, red fimbriation
+ 
+ 
+ Secretary of Defence
+ 
+ SD
+ 
+ 
+ 
+ 3 stars and 3 bars, red fimbriation
+ 
+ Leader Ability 
+ Deck Leaders have special effects called Leader Abilities. Your first Deck Leader has a Leader ability right away. Other monsters cards who become promoted can earn Leader Abilities, though when this happens and how is not explained in the game.
+ Various Leader Abilities include:
+ 
+ Increased Movement 
+ Level Cost Reduction for Summoning Same Type 
+ Movement Boost for Same Type Friendlies 
+ Extended Support Range 
+ Increased Strength for Same Type Friendlies 
+ Weaken Specific Enemy Type 
+ Hidden Find 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/4d/Second_lieutenant.png/revision/latest?cb=20160313220358', 'https://static.wikia.nocookie.net/yugioh/images/0/0f/First_lieutenant.png/revision/latest?cb=20160313220504', 'https://static.wikia.nocookie.net/yugioh/images/a/a9/Captain.png/revision/latest?cb=20160313220623', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Yu-Gi-Oh! The Duelists of the Roses

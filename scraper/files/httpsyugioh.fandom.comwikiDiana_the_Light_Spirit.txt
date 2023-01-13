@@ -1,0 +1,407 @@
+Link: https://yugioh.fandom.com/wiki/Diana_the_Light_Spirit
+
+
+ 
+ 
+ Diana the Light Spirit 光 の 精 霊  ディアーナ 
+ 
+ English 
+Diana the Light Spirit 
+ French 
+ Diana l'Esprit du Vent Check translation 
+ German 
+ Diana, der Lichtgeist Check translation 
+ Italian 
+ Diana lo Spirito della Luce Check translation 
+ Korean 
+ 빛의 정령 디아나 Check translation 
+ Portuguese 
+ Diana, o Espírito da Luz Check translation 
+ Spanish 
+ Diana el Espíritu de la Luz Check translation 
+ Japanese (kana) 
+ ひかりのせいれい ディアーナ Check translation 
+ Japanese (base) 
+ 光の精霊 ディアーナ Check translation 
+ Japanese ( rōmaji ) 
+Hikari no Seirei Diāna 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Thunder  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1700  /  1000 
+ Passcode 
+ 17257342 
+ Card effect types 
+ 
+ 
+ Summon 
+ Summon 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Cannot be  Normal Summoned / Set . Must first be  Special Summoned  (from your  hand ) by  banishing  1  LIGHT   monster  from your  GY . Once per turn, during your opponent's  End Phase : Gain 1000  LP . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main) en bannissant 1 monstre LUMIÈRE depuis votre Cimetière. Une fois par tour, durant la End Phase de votre adversaire : gagnez 1000 LP. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 LICHT Monster von deinem Friedhof verbannst. Einmal pro Spielzug, während der End Phase deines Gegners: Du erhältst 1000 LP. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Non può essere Evocato Normalmente/Posizionato. Deve prima essere Evocato Specialmente (dalla tua mano) bandendo 1 mostro LUCE dal tuo Cimitero. Una volta per turno, durante la End Phase del tuo avversario: guadagni 1000 LP. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Não pode ser Invocado por Invocação-Normal/Baixado. Primeiro deve ser Invocado por Invocação-Especial (da sua mão) ao banir 1 monstro de LUZ do seu Cemitério. Uma vez por turno, durante a Fase Final do seu oponente: ganhe 1000 PV. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) desterrando 1 monstruo de LUZ en tu Cementerio. Una vez por turno, durante la End Phase de tu adversario: gana 1000 LP. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードは通常召喚できない。自分の墓地から光属性モンスター１体を除外した場合に特殊召喚できる。①：相手エンドフェイズに発動する。自分は１０００LP回復する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드는 통상 소환할 수 없다. 자신 묘지에서 빛 속성 몬스터 1장을 제외했을 경우에 특수 소환할 수 있다. ①: 상대 엔드 페이즈에 발동한다. 자신은 1000 LP 회복한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2018-10-18  
+ SOFU-EN027   
+ Soul Fusion 
+ Common 
+ 
+ 
+ 2019-08-29  
+ MP19-EN174   
+ 2019 Gold Sarcophagus Tin Mega Pack 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2018-10-18  
+ SOFU-FR027   
+ Soul Fusion 
+ La Fusion de L'ame  
+ Common 
+ 
+ 
+ 2019-08-29  
+ MP19-FR174   
+ 2019 Gold Sarcophagus Tin Mega Pack 
+ Boîte Sarcophage Doré 2019 Méga Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2018-10-18  
+ SOFU-DE027   
+ Soul Fusion 
+ Soul Fusion  
+ Common 
+ 
+ 
+ 2019-08-29  
+ MP19-DE174   
+ 2019 Gold Sarcophagus Tin Mega Pack 
+ 2019 Gold Sarcophagus Tin Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2018-10-18  
+ SOFU-IT027   
+ Soul Fusion 
+ Fusione delle Anime  
+ Common 
+ 
+ 
+ 2019-08-29  
+ MP19-IT174   
+ 2019 Gold Sarcophagus Tin Mega Pack 
+ Tin Sarcofago d'Oro 2019 Mega-Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2018-10-18  
+ SOFU-PT027   
+ Soul Fusion 
+ Fusão de Alma  
+ Common 
+ 
+ 
+ 2019-08-30  
+ MP19-PT174   
+ 2019 Gold Sarcophagus Tin Mega Pack 
+ Mega-Pacote da Lata Sarcófago Dourado 2019  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2018-10-18  
+ SOFU-SP027   
+ Soul Fusion 
+ Fusión de Alma  
+ Common 
+ 
+ 
+ 2019-08-29  
+ MP19-SP174   
+ 2019 Gold Sarcophagus Tin Mega Pack 
+ Lata Cofre de Oro Sellado 2019 Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2018-07-14  
+ SOFU-JP027   
+ Soul Fusion 
+ ソウル・フュージョン  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2018-10-23  
+ SOFU-KR027   
+ Soul Fusion 
+ 소울 퓨전  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ LIGHT 
+ 
+ Archetypes  and  series   
+ Attribute Spirit 
+ 
+ Summoning  categories  
+ Cannot be Normal Summoned 
+ Cannot be Normal Set 
+ Semi-Nomi 
+ Special Summons itself from your hand 
+ 
+ Banished  categories  
+ Banishes from Graveyard for cost 
+ 
+ LP   
+ You gain Life Points 
+ 
+ Miscellaneous  
+ Special Summon Monster 
+ Limited activations 
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 13914 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Attribute Spirit   属 性 の 精 霊 Members 
+ Aqua Spirit Diana the Light Spirit Garuda the Wind Spirit Luna the Dark Spirit The Rock Spirit Spirit of Flames 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/fa/DianatheLightSpirit-SOFU-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20181018175011', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

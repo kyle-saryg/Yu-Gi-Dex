@@ -1,0 +1,60 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Ancient_Gear_Cannon
+
+
+ Ancient Gear Cannon 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Yu-Gi-Oh! BAM 
+ 
+ OCG Rulings 
+ The effect of " Ancient Gear Cannon " is an  Ignition Effect . (It does not target.) [1] 
+ Tributing " Ancient Gear Cannon " is a  cost  to activate this effect. [1] 
+ When the effect of " Ancient Gear Cannon " resolves, inflicting damage to your opponent is considered to be the last thing to happen. (" neither player can  activate   Trap Cards  during the  Battle Phase  of this  turn . " is also applied.) [1] 
+ After the effect of " Ancient Gear Cannon " is applied, neither player can activate  Trap Cards  during the Battle Phase of this turn. (The effects of face-up  Continuous Trap Cards  can be activated.) [1] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [2]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [3] [4] [5] [6] [7] [8] [9] [10] [11] 
+ 
+ While “ Ancient Gear Cannon ’s” effect is active, you can still activate the effect of a  Continuous Trap Card  that was already  face-up , such as “ Type Zero Magic Crusher ”. But you cannot activate (flip  face-up ) any more  Trap Cards . 
+ The restriction on  Trap Cards  is tied to “ Ancient Gear Cannon ” inflicting damage. If “ Barrel Behind the Door ” is  chained  to the effect of “ Ancient Gear Cannon ”, the rest of “ Ancient Gear Cannon ”’s effect is not applied and  Trap Cards  can still be activated. 
+ If “ Pikeru’s Circle of Enchantment ” is  chained  to “ Ancient Gear Cannon ’s” effect to prevent the damage, the rest of “ Ancient Gear Cannon ”’s effect is not applied and  Trap Cards  can still be activated. 
+ The effect of “ Ancient Gear Cannon ” is an  Ignition  Effect and can be  chained  to. 
+ 
+ 
+ 
+ References 
+ 
+ ↑  1.0   1.1   1.2   1.3   Konami OCG Card Database : Ancient Gear Cannon 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

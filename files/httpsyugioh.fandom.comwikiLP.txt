@@ -1,0 +1,609 @@
+Link: https://yugioh.fandom.com/wiki/LP
+
+
+ 
+ LP
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ ＬＰ 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ ライフ(ポイント) [Notes 1] 
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ ＬＰ
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Raifu(pointo)
+ 
+ 
+ 
+ Japanese (translated)
+ 
+ 
+ Life (Point)
+ 
+ 
+ 
+ English
+ 
+ 
+ LP (Life Points) [Notes 2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : LP (Life Points) 
+ German : LP (Life Points) 
+ Italian : LP (Life Point) 
+ Portuguese : PV (Pontos de Vida) Formerly: Life Points 
+ Spanish : LP (Life Points) 
+ Korean : 라이프 (포인트)  Raipeu (Pointeu)  (LP in  card text ) 
+ Traditional Chinese : 生命(點)  Shēngmìng(diǎn) / Sang1 ming6 (dim2) 
+ Simplified Chinese : 生命值  Shēngmìngzhí 
+ 
+ 
+ Life Points  (Japanese: ライフポイント  Raifupointo ), officially shortened to  LP  (Japanese:  ＬＰ ) since  Super Starter: Space-Time Showdown , are a numeric value in  Yu-Gi-Oh!   Duels  used to represent the  health  of a player. If a player loses all their LP, they lose the  Duel .
+ 
+ Contents 
+ 
+ 1   Rules 
+ 2   Other games 
+ 3   Trivia 
+ 4   Gauges 
+ 5   Notes 
+ 
+ 
+ Rules 
+ Each player begins with 8000 LP. 
+ LP can be gained through the effects of some cards, such as " Solemn Wishes ". 
+ LP can be lost by:
+ Damage : Whenever a player takes damage, they lose LP equal to the amount of damage dealt. There are two main forms of damage:
+ Battle damage : When monsters  battle , their stats are compared. If the monster is in  Attack Position , their  ATK  value is used; if the monster is in  Defense Position , their  DEF  value is used. If the defending monster is in Attack Position and its ATK is lower, the defending player takes damage equal to the difference. If the defending monster is in Defense Position, the defending player does not take any damage, unless the opponent's monster has an effect to inflict  piercing  battle damage. If the attacking monster's ATK is lower than the appropriate value of the defending monster, the attacking player loses LP equal to the difference instead. A monster can also attack a player  directly ; in that case, the attacking monster's full  ATK  value is inflicted as damage to the player. 
+ Effect damage : The effects of some cards, such as " Ookazi ", directly damage a player's LP. 
+ Cost : Cards such as " Seven Tools of the Bandit " require the player to pay LP in order to  activate  them. This is not considered to be damage, as the card text does not use the word "damage". 
+ Effects: A few cards, such as " Message in a Bottle " and " Soul Charge ", directly state that a player "loses LP". This is neither considered to be damage nor payment. Effects like these are usually  drawbacks  to otherwise powerful effects to prevent the player from using cards that mitigate costs (such as " Spell Economics ") or prevent damage (such as " Rainbow Life ") to avoid the drawback. 
+ If a player's LP reaches zero, they  lose  the  Duel . If a player's LP would drop below 0, they become 0 rather than negative. 
+ Other games 
+ In manga and anime, in the  Duel Monsters  Basic rules (prior to the  Battle City  tournament), players play with 2000 LP. In all other forms of  Duel Monsters  from Battle City onward, players start with 4000 LP in both the manga and anime. 
+ Some video games allow players to set the number of LP they begin with, in some cases up to 16000. 
+ In  Yu-Gi-Oh! BAM , players begin with a number of   LP equal to the combined Life Point score of the  Monster Cards  in their Deck. 
+ In the anime and  Yu-Gi-Oh! Tag Force  games, some effects allow players to  continue playing  while they have 0 LP, such as " Relay Soul ", " Infernity Zero ", and " Divine Serpent Geh ". 
+ In  Dungeon Dice Monsters , each player's Dungeon Master has 3 LP. Each time it gets attacked, it loses 1 Life Point. A player loses when their Dungeon Master loses all of its LP. These are renamed Heart Points in the anime. 
+ Trivia 
+ Charlie McCay , from the  Yu-Gi-Oh! ZEXAL  anime, was the first Duelist to ever have a 6-digit LP score in the anime or manga, at 100,000. 
+ Don Thousand , also from the  Yu-Gi-Oh! ZEXAL  anime, currently holds the record for the highest LP score seen in the anime or manga, at 102,900. 
+ Although Life Points was shortened to "LP", the English dub still has characters refer to them as Life Points. 
+ Gauges 
+ The following  gauges  are displayed to keep track of LP in the anime.
+ 
+ Yu-Gi-Oh!   episode 1: " The Heart of the Cards " Japanese  Yu-Gi-Oh! ,  Yu-Gi-Oh! The Movie: Pyramid of Light Dubbed  Yu-Gi-Oh! Japanese  Yu-Gi-Oh! GX Dubbed  Yu-Gi-Oh! GX Japanese  Yu-Gi-Oh! 5D's ,  Yu-Gi-Oh! 3D Bonds Beyond Time Dubbed  Yu-Gi-Oh! 5D's Yu-Gi-Oh! ZEXAL Yu-Gi-Oh! ZEXAL  ( Shadow Duel ) Yu-Gi-Oh! ARC-V Yu-Gi-Oh! The Dark Side of Dimensions Yu-Gi-Oh! The Dark Side of Dimensions  ( paying  LP) Yu-Gi-Oh! The Dark Side of Dimensions  (taking damage) Yu-Gi-Oh! VRAINS Yu-Gi-Oh! SEVENS 
+ Notes 
+ 
+ ↑   As in the  OCG , the parentheses here specify what part is sometimes dropped in card text. 
+ 
+ ↑   In the  TCG , the full form, as shown in parentheses, has become obsolete since  Super Starter: Space-Time Showdown 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ v e 
+ Dungeon Dice Monsters Pieces 
+ Dice and Cards 
+ Monsters and Items 
+ Lists
+ Manga 
+ Anime 
+ Video game 
+ Terminology 
+ Battle 
+ Dimension 
+ Dungeon 
+ Dungeon Path 
+ Dungeon Master Zone 
+ HP 
+ Crest Counter 
+ Crest Pool 
+ Damage Counter 
+ Life Points 
+ Monster Lord 
+ Movement 
+ Flying 
+ Tunnel 
+ Shelled Ground 
+ Crests 
+ Attack 
+ Defense 
+ Magic 
+ Progress 
+ Summon 
+ Trap 
+ 
+ Category 
+ {{ DDM card }} 
+ {{ Manga DDM card }} 
+ {{ Anime DDM card }} 
+ {{ VG DDM card }} 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/af/Episode_1_Life_Points.jpg/revision/latest/scale-to-width-down/160?cb=20100111043251', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/bc/LP_From_Second_Season.jpg/revision/latest?cb=20100111043611', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/44/Life_point_counter.jpg/revision/latest/scale-to-width-down/175?cb=20110617162117', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d0/LifePoints-JP-Anime-GX.png/revision/latest/scale-to-width-down/175?cb=20111217203111', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/7a/Life_point_counter_2.jpg/revision/latest/scale-to-width-down/175?cb=20110617163954', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/9b/Lp_bbt.png/revision/latest/scale-to-width-down/175?cb=20110727223407', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4a/Life_points.jpg/revision/latest/scale-to-width-down/175?cb=20110622182326', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/LifePoints-ZX.png/revision/latest/scale-to-width-down/175?cb=20130623141004', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/7f/LifePoints-ZX-2.png/revision/latest/scale-to-width-down/158?cb=20130909043352', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/ff/LifePoints-AV.png/revision/latest/scale-to-width-down/168?cb=20140412152403', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/05/LifePoints-DSOD.png/revision/latest/scale-to-width-down/175?cb=20170517174545', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/99/LifePoints-DSOD-Cost.png/revision/latest/scale-to-width-down/175?cb=20170517174641', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1e/LifePoints-DSOD-Attack.png/revision/latest/scale-to-width-down/175?cb=20170517174630', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/aa/VRAINS_LP.png/revision/latest/scale-to-width-down/175?cb=20170605224613', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/98/Lpsevens.png/revision/latest/scale-to-width-down/175?cb=20200602204148', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Gameplay, DDM Gameplay

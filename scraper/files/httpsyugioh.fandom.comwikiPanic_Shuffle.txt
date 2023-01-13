@@ -1,0 +1,108 @@
+Link: https://yugioh.fandom.com/wiki/Panic_Shuffle
+
+
+ Panic Shuffle 
+ 
+ Japanese:   パニック・シャッフル 
+ Romaji:   Panikku Shaffuru 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Condition 
+ When a  face-up   Xyz Monster  you  control  is  targeted  by an opponent's  card effect : Change all  Attack Position   monsters  on the  field  to face-up  Defense Position , then  shuffle  all  Spell / Trap Cards  in the  Graveyard (s) into the  Deck . Their  battle positions  cannot be changed until the  End Phase  of this  turn .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  125 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Italian 
+ Mescolata da Panico 
+ Quando un mostro Xyz scoperto che controlli viene scelto come bersaglio dall'effetto di una carta dell'avversario: Sposta tutti i mostri in Posizione di Attacco sul terreno scoperti in Posizione di Difesa, poi mischia tutte le carte Magia e Trappola dai Cimiteri nei rispettivi Deck.Le loro posizioni non possono essere cambiate fino alla fase finale di questo turno. 
+ 
+ 
+ Japanese 
+ パニック・シャッフル 
+ 自分フィールド上のモンスターエクシーズ１体が相手のカードの効果の対象になった時に発動できる。フィールド上に攻撃表示で存在する全てのモンスターの表示形式を変更表示にする。その後、お互いのプレイヤーはこのターンのエンドフェイズ時までモンスターの表示形式を変更できない。お互いのプレイヤーは墓地の魔法・罠カードを全て持ち主のデッキに戻す。 
+ 
+ 
+ Panikku Shaffuru 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Quattro 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Xyz Monster 
+ 
+ Actions  
+ Changes battle positions 
+ Prevents Battle Position changes 
+ Returns from Graveyard to Deck 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/52/PanicShuffle-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20131013141504', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/db/PanicShuffle-JP-Anime-ZX-NC.png/revision/latest/scale-to-width-down/185?cb=20160929175442', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b2/PanicShuffle-JP-Anime-ZX-NC-2.png/revision/latest/scale-to-width-down/185?cb=20140514025656', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

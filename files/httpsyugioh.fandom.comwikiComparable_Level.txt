@@ -1,0 +1,92 @@
+Link: https://yugioh.fandom.com/wiki/Comparable_Level
+
+
+ Comparable Level 
+ 
+ Japanese:   カンパラブル・レベル 
+ Romaji:   Kanparaburu Reberu 
+ 
+ 
+ 
+ 
+ en 
+ ja 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap 
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ 
+ 
+ Activate  only when your opponent successfully  Normal Summons  or  Special Summons  a  monster .  Pay  half your current  LP  and Special Summon monster(s) from your  hand  whose total  Level  Stars exactly equal the Level of your opponent's monster. 
+ 
+ Appearances
+ 
+ 
+ 
+ 
+   R : Yu-Gi-Oh! R - Duel Round 030|030 Property "Yu-Gi-Oh R chapter appearances (linked)" (as page type) with input value "Yu-Gi-Oh! R - Duel Round 030|030" contains invalid characters or is incomplete and therefore can cause unexpected results during a query or annotation process. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Manga cards (Galleries:  R ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ カンパラブル・レベル 
+ 相手がモンスターを召喚した時に発動 召喚されたモンスターの★の数と同数になるまでモンスターを召喚できる ライフを半分失う 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Yako Tenma 
+ 
+ 
+ Search categories 
+ 
+ Summoning  categories  
+ Special Summons from your hand 
+ 
+ LP   
+ Halves the player's LP 
+ Pays Life Points for cost 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/82/ComparableLevel-EN-Manga-R.png/revision/latest/scale-to-width-down/200?cb=20150412234534', 'https://static.wikia.nocookie.net/yugioh/images/f/f8/ComparableLevel-JP-Manga-R-CA.png/revision/latest?cb=20160423033205', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Manga cards, Manga cards with no OCG/TCG counterpart

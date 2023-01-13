@@ -1,0 +1,99 @@
+Link: https://yugioh.fandom.com/wiki/Hexenringe_Summoner_Faeri
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Hexenringe Summoner Faeri 円 喚 師 フェアリ 
+ 
+ English 
+Hexenringe Summoner Faeri 
+ Japanese (kana) 
+ えんかんしフェアリ Check translation 
+ Japanese (base) 
+ 円喚師フェアリ Check translation 
+ Japanese ( rōmaji ) 
+Enkanshi Feari 
+ Card type 
+ Monster   
+ Attribute 
+ WIND   
+ Types 
+ Fairy  /  Tuner  /  Effect 
+ Level 
+ 3   
+ ATK  /  DEF 
+ 800  /  1500 
+ Passcode 
+ 53416326 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If there is an  Insect  and/or  Plant   monster  in the  GY , you can  Special Summon  this card (from the  hand ). You can only Special Summon with this  effect  of "Hexenringe Summoner Faeri"  once per turn . If this card you  control  is used as  Synchro Material  for an Insect or Plant monster, you can treat it as a non- Tuner . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①の方法による特殊召喚は１ターンに１度しかできない。①：自分または相手の墓地に昆虫族・植物族モンスターのいずれかが存在する場合、このカードは手札から特殊召喚できる。②：自分フィールドのこのカードを昆虫族・植物族SモンスターのS素材とする場合、このカードをチューナー以外のモンスターとして扱う事ができる。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-10-15 PHHY-JP025 Photon Hypernova ＰＨＯＴＯＮ ＨＹＰＥＲＮＯＶＡ Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Insect 
+ Plant 
+ 
+ Actions  
+ Activates if used as Synchro Material 
+ 
+ Stat changes  
+ Treats itself as a non-Tuner monster 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ Special Summon by its own condition once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 18170 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/2f/HexenringeSummonerFaeri-PHHY-JP-R.png/revision/latest/scale-to-width-down/300?cb=20221107190509', 'https://static.wikia.nocookie.net/yugioh/images/0/01/WIND.svg/revision/latest/scale-to-width-down/28?cb=20170920205028', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

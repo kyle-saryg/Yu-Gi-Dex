@@ -1,0 +1,97 @@
+Link: https://yugioh.fandom.com/wiki/Assault_Wheel
+
+
+ Assault Wheel 
+ 
+ Japanese:   アサルト・ホイール 
+ Romaji:   Asaruto Hoīru 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   EARTH 
+ 
+ Level 
+ 
+ 
+ 4   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Continuous 
+ [  Machine  /  Effect  ] During battle between this attacking card and a  Defense Position   monster , whose DEF is less than this card's ATK, inflict the difference as  Battle Damage  to your opponent. If this card attacks, at the end of the  Battle Phase , its  ATK  becomes 0 until your next  Standby Phase .
+ ATK  /  2300     DEF  /  0   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  076 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ アサルト・ホイール 
+ このカードが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。このカードが攻撃したバトルフェイズ終了時から次の自分のターンのスタンバイフェイズ時まで、このカードの攻撃力を０にする。 
+ 
+ 
+ Asaruto Hoīru 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Syd Barlow 
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ Reduces ATK to 0 
+ 
+ Attack  categories  
+ Piercing 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/78/AssaultWheel-JP-Anime-5D.png/revision/latest/scale-to-width-down/200?cb=20090917043208', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/5f/AssaultWheel-OW.png/revision/latest/scale-to-width-down/185?cb=20140226190032', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/62/AssaultWheel-JP-Anime-5D-NC.png/revision/latest/scale-to-width-down/185?cb=20120716150637', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

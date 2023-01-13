@@ -1,0 +1,240 @@
+Link: https://yugioh.fandom.com/wiki/The_True_Name
+
+
+ 
+ 
+ The True Name 真 実 の 名 
+ 
+ English 
+The True Name 
+ French 
+ Le Vrai Nom Check translation 
+ German 
+ Der richtige Name Check translation 
+ Italian 
+ Il Vero Nome Check translation 
+ Korean 
+ 진실의 이름 Check translation 
+ Portuguese 
+ O Nome Verdadeiro Check translation 
+ Spanish 
+ El Nombre Verdadero Check translation 
+ Japanese (kana) 
+ しんじつのな Check translation 
+ Japanese (base) 
+ 真実の名 Check translation 
+ Japanese ( rōmaji ) 
+Shinjitsu no Na 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 39913299 
+ Card effect types 
+ 
+ 
+ Effect 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Declare  1 card name;  excavate  the top card of your  Deck , and if it is the declared card,  add  it to your  hand , then you can add to your hand, or  Special Summon , 1  DIVINE   monster  from your Deck. Otherwise,  send  it to the  GY . You can only  activate  1 "The True Name" per  turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Déclarez 1 nom de carte ; dévoilez la carte du dessus de votre Deck, et si c'est la carte déclarée, ajoutez-la à votre main, puis vous pouvez ajouter à votre main, ou Invoquer Spécialement, 1 monstre DIVIN depuis votre Deck. Sinon, envoyez-la au Cimetière. Vous ne pouvez activer qu'1 "Le Vrai Nom" par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Deklariere 1 Kartennamen; grabe die oberste Karte deines Decks aus und falls es die deklarierte Karte ist, füge sie deiner Hand hinzu, dann kannst du 1 GÖTTLICH Monster von deinem Deck deiner Hand hinzufügen oder als Spezialbeschwörung beschwören. Lege sie andernfalls auf den Friedhof. Du kannst nur 1 „Der richtige Name“ pro Spielzug aktivieren. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Dichiara il nome di 1 carta; dissotterra la prima carta del tuo Deck e, se è la carta dichiarata, aggiungila alla tua mano, poi puoi aggiungere alla tua mano, o Evocare Specialmente, 1 mostro DIVINO dal tuo Deck. Altrimenti, mandala al Cimitero. Puoi attivare solo 1 "Il Vero Nome" per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Declare 1 nome de card; escave o card do topo do seu Deck e, se for o card declarado, adicione-o à sua mão e, depois, você pode adicionar à sua mão, ou Invocar por Invocação-Especial, 1 monstro DIVINO do seu Deck. Caso contrário, envie-o para o Cemitério. Você só pode ativar 1 "O Nome Verdadeiro" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Declara 1 nombre de carta; excava la carta de la parte superior de tu Deck, y si es la carta declarada, añádela a tu mano, y después puedes añadir a tu mano, o Invocar de Modo Especial, 1 monstruo de DIVINIDAD en tu Deck. De otra forma, mándala al Cementerio. Sólo puedes activar 1 "El Nombre Verdadero" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名のカードは１ターンに１枚しか発動できない。①：カード名を１つ宣言して発動できる。自分のデッキの一番上のカードをめくり、宣言したカードだった場合、そのカードを手札に加える。さらに、デッキから神属性モンスター１体を手札に加えるか特殊召喚できる。違った場合、めくったカードを墓地へ送る。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 카드명을 1개 선언하고 발동할 수 있다. 자신의 덱 맨 위의 카드를 넘기고, 선언한 카드였을 경우, 그 카드를 패에 넣는다. 추가로, 덱에서 신 속성 몬스터 1장을 패에 넣거나 특수 소환할 수 있다. 다를 경우, 넘긴 카드를 묘지로 보낸다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2016-04-14 MIL1-EN016 Millennium Pack Super Rare 2020-09-24 LED7-EN014 Legendary Duelists: Rage of Ra Ultra Rare 2021-06-17 EGS1-EN030 Egyptian God Deck: Slifer the Sky Dragon Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2016-04-14 MIL1-DE016 Millennium Pack Pack du Millenium Super Rare 2020-09-24 LED7-FR014 Legendary Duelists: Rage of Ra Duellistes Légendaires : La Rage de Râ Ultra Rare 2021-06-17 EGS1-FR030 Egyptian God Deck: Slifer the Sky Dragon Deck des Dieux Égyptiens : Slifer, le Dragon Céleste Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2016-04-14 MIL1-DE016 Millennium Pack Millennium Pack Super Rare 2020-09-24 LED7-DE014 Legendary Duelists: Rage of Ra Legendary Duelists: Rage of Ra Ultra Rare 2021-06-17 EGS1-DE030 Egyptian God Deck: Slifer the Sky Dragon Egyptian God Deck: Slifer the Sky Dragon Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2016-04-14 MIL1-IT016 Millennium Pack Millennium Pack Super Rare 2020-09-24 LED7-IT014 Legendary Duelists: Rage of Ra Duellanti Leggendari: Rabbia di Ra Ultra Rare 2021-06-17 EGS1-IT030 Egyptian God Deck: Slifer the Sky Dragon Deck Divinità Egizie: Slifer il Drago del Cielo Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2016-04-14 MIL1-PT016 Millennium Pack Pacote do Milênio Super Rare 2020-09-24 LED7-PT014 Legendary Duelists: Rage of Ra Duelistas Lendários: Fúria de Rá Ultra Rare 2021-06-17 EGS1-PT030 Egyptian God Deck: Slifer the Sky Dragon Deck dos Deuses Egípcios: Slifer, o Dragão Celeste Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2016-04-14 MIL1-SP016 Millennium Pack Sobre Milenio Super Rare 2020-09-24 LED7-SP014 Legendary Duelists: Rage of Ra Duelistas Legendarios: Ira de Ra Ultra Rare 2021-06-17 EGS1-SP030 Egyptian God Deck: Slifer the Sky Dragon Baraja de Dioses Egipcios: Slifer el Dragón del Cielo Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2015-12-19 MP01-JP019 Millennium Pack (OCG) ＭＩＬＬＥＮＮＩＵＭ　ＰＡＣＫ Millennium Ultra Rare 2020-05-30 DP24-JP014 Duelist Pack: Duelists of Gloom デュエリストパック －冥闇のデュエリスト編－ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2016-09-06 MP01-KR019 Millennium Pack (OCG) MILLENNIUM PACK Millennium Ultra Rare 2020-08-21 DP24-KR014 Duelist Pack: Duelists of Gloom 듀얼리스트 팩 -명암의 듀얼리스트 편- Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ DIVINE 
+ 
+ Related to  archetypes  and  series   
+ Egyptian God 
+ 
+ Actions  
+ Declares a card name 
+ Excavates from the player's Deck 
+ Adds excavated cards to the hand 
+ Adds from Deck to hand 
+ Sends excavated cards to the Graveyard 
+ Sends from your Deck to your Graveyard 
+ 
+ Summoning  categories  
+ Special Summons from your Deck 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12239 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Egyptian God   三 幻 神 Members 
+ Holactie the Creator of Light Obelisk the Tormentor Obelisk the Tormentor Slifer the Sky Dragon Slifer the Sky Dragon The Winged Dragon of Ra The Winged Dragon of Ra The Winged Dragon of Ra - Immortal Phoenix The Winged Dragon of Ra - Sphere Mode 
+ Related 
+ Egyptian God Slime Gravekeeper's Oracle Guardian Slime Ra's Disciple Reactor Slime 
+ Ancient Chant Blaze Cannon The Breaking Ruin God Dark Spell Regeneration Divine Evolution Fist of Fate Magical Trick Mirror Millennium Revelation Monster Reborn Mound of the Bound Creator The Revived Sky God Soul Crossing Soul Energy MAX!!! Sun God Unification Thunderforce Attack Thunderspeed Summon The True Name The True Sun God Ultimate Divine-Beast 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e1/TheTrueName-EGS1-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20220707045417', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

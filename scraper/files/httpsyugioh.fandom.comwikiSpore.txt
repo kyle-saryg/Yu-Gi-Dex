@@ -1,0 +1,464 @@
+Link: https://yugioh.fandom.com/wiki/Spore
+
+The  Arabic, Chinese, Croatian, Greek  and  Thai                    names given are not official.  
+ 
+ 
+ 
+ 
+ 
+ Spore スポーア 
+ 
+ English 
+Spore 
+ Chinese 
+ 孢子 Check translation 
+ French 
+ Spore Check translation 
+ German 
+ Spore Check translation 
+ Italian 
+ Spora Check translation 
+ Korean 
+ 스포어 Check translation 
+ Portuguese 
+ Esporo Check translation 
+ Spanish 
+ Espora Check translation 
+ Japanese 
+ スポーア Check translation 
+ Japanese ( rōmaji ) 
+Supōa 
+ Card type 
+ Monster   
+ Attribute 
+ WIND   
+ Types 
+ Plant  /  Tuner  /  Effect 
+ Level 
+ 1   
+ ATK  /  DEF 
+ 400  /  800 
+ Passcode 
+ 11747708 
+ Card effect types 
+ 
+ 
+ Ignition 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If this card is in your  GY : You can  banish  1 other  Plant   monster  from your GY;  Special Summon  this card, and if you do, increase its  Level  by the Level of that banished monster. You can only use this  effect  of "Spore" once per  Duel . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si cette carte est dans votre Cimetière : vous pouvez bannir 1 autre monstre de Type Plante depuis votre Cimetière ; Invoquez Spécialement cette carte depuis votre Cimetière et augmentez son Niveau par le Niveau du monstre banni. Chaque joueur ne peut activer l'effet de "Spore" qu'une fois par Duel. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls sich diese Karte in deinem Friedhof befindet, kannst du 1 anderes Monster vom Typ Pflanze in deinem Friedhof aus dem Spiel entfernen, um diese Karte als Spezialbeschwörung von deinem Friedhof zu beschwören und ihre Stufe um die Stufe des Monsters zu erhöhen, das du aus dem Spiel entfernt hast, um diesen Effekt zu aktivieren. Jeder Spieler kann den Effekt von "Spore" nur einmal pro Duell benutzen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se questa carta è nel tuo Cimitero: puoi bandire 1 altro mostro di Tipo Pianta dal tuo Cimitero; Evoca Specialmente questa carta dal tuo Cimitero e aumenta il suo Livello del Livello di quel mostro bandito. Ogni giocatore può attivare l'effetto di "Spora" una sola volta per Duello. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se este card estiver no seu Cemitério: você pode banir 1 outro monstro Planta no seu Cemitério; Invoque este card por Invocação-Especial e, se isso acontecer, aumente o seu Nível pelo Nível do monstro banido. Você só pode usar este efeito de "Esporo" uma vez por Duelo. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si esta carta está en tu Cementerio: puedes desterrar otro monstruo de Tipo Planta en tu Cementerio; Invoca esta carta de Modo Especial, desde tu Cementerio, e incrementa su Nivel en el Nivel del monstruo desterrado. Cada jugador sólo puede activar el efecto de "Espora" una vez por Duelo. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードが墓地に存在する場合、このカード以外の自分の墓地の植物族モンスター１体をゲームから除外して発動できる。このカードを墓地から特殊召喚し、この効果を発動するために除外したモンスターのレベル分だけこのカードのレベルを上げる。「スポーア 」の効果はデュエル中に１度しか使用できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드가 묘지에 존재할 경우, 이 카드 이외의 자신의 묘지에 존재하는 식물족 몬스터 1장을 게임에서 제외하고 발동한다. 이 카드를 묘지에서 특수 소환하고, 이 효과를 발동하기 위해 제외한 몬스터의 레벨만큼만 이 카드의 레벨을 올린다. '스포어' 의 효과는 듀얼 중에 1번밖에 사용할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2010-05-07  
+ TSHD-EN019   
+ The Shining Darkness 
+ Common 
+ 
+ 
+ 2011-09-15  
+ GENF-ENSE2   
+ Generation Force: Special Edition 
+ Super Rare 
+ 
+ 
+ 2020-06-15  
+ OP13-EN016   
+ OTS Tournament Pack 13 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2010-05-06  
+ TSHD-FR019   
+ The Shining Darkness 
+ Les Ténèbres Scintillantes  
+ Common 
+ 
+ 
+ 2011-09-15  
+ GENF-FRSE2   
+ Generation Force: Special Edition 
+ La Force des Générations: Édition Spéciale  
+ Super Rare 
+ 
+ 
+ 2020-06-15  
+ OP13-FR016   
+ OTS Tournament Pack 13 
+ OTS Pack de Tournoi 13  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2010-05-06  
+ TSHD-DE019   
+ The Shining Darkness 
+ The Shining Darkness  
+ Common 
+ 
+ 
+ 2011-09-15  
+ GENF-DESE2   
+ Generation Force: Special Edition 
+ Generation Force: Special Edition  
+ Super Rare 
+ 
+ 
+ 2020-06-15  
+ OP13-DE016   
+ OTS Tournament Pack 13 
+ OTS Tournament Pack 13  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2010-05-06  
+ TSHD-IT019   
+ The Shining Darkness 
+ L'Oscurità Brillante  
+ Common 
+ 
+ 
+ 2011-09-15  
+ GENF-ITSE2   
+ Generation Force: Special Edition 
+ Forza Generatrice: Edizione Speciale  
+ Super Rare 
+ 
+ 
+ 2020-06-15  
+ OP13-IT016   
+ OTS Tournament Pack 13 
+ OTS Buste da Torneo 13  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2020-06-15  
+ OP13-PT016   
+ OTS Tournament Pack 13 
+ OTS Pacote de Torneio 13  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2010-05-06  
+ TSHD-SP019   
+ The Shining Darkness 
+ Oscuridad Brillante  
+ Common 
+ 
+ 
+ 2011-09-15  
+ GENF-SPSE2   
+ Generation Force: Special Edition 
+ Fuerza Generación: Edición Especial  
+ Super Rare 
+ 
+ 
+ 2020-06-15  
+ OP13-SP016   
+ OTS Tournament Pack 13 
+ OTS Sobre Torneo 13  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2010-02-20  
+ TSHD-JP019   
+ The Shining Darkness 
+ ＴＨＥ ＳＨＩＮＩＮＧ ＤＡＲＫＮＥＳＳ  
+ Common 
+ 
+ 
+ 2010-03-27  
+ TSHD-JP019   
+ The Shining Darkness 2-Pack Set 
+ ＴＨＥ　ＳＨＩＮＩＮＧ　ＤＡＲＫＮＥＳＳ　２パックセット  
+ Normal Parallel Rare 
+ 
+ 
+ 2012-08-11  
+ DE04-JP130   
+ Duelist Edition Volume 4 
+ デュエリストエディション　Ｖｏｌｕｍｅ　４  
+ Rare 
+ 
+ 
+ 2019-04-13  
+ 19SP-JP504   
+ Special Pack 20th Anniversary Edition Vol.5 
+ ＳＰＥＣＩＡＬ ＰＡＣＫ ２０ｔｈ ＡＮＮＩＶＥＲＳＡＲＹ ＥＤＩＴＩＯＮ Ｖｏｌ．５  
+ Common 
+ 
+ 
+ 2019-04-13  
+ 19SP-JP504   
+ Special Pack 20th Anniversary Edition Vol.5 
+ ＳＰＥＣＩＡＬ ＰＡＣＫ ２０ｔｈ ＡＮＮＩＶＥＲＳＡＲＹ ＥＤＩＴＩＯＮ Ｖｏｌ．５  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2010-04-19  
+ TSHD-KR019   
+ The Shining Darkness 
+ 빛나는 어둠  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Plant 
+ 
+ Actions  
+ Activates from your Graveyard 
+ 
+ Stat changes  
+ This card gains Levels 
+ 
+ Summoning  categories  
+ Special Summons itself from your Graveyard 
+ 
+ Banished  categories  
+ Banishes from Graveyard for cost 
+ Banishes from your Graveyard 
+ 
+ Miscellaneous  
+ Only once per Duel 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 8795 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Spore " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/11/Spore-GENF-EN-SR-LE.jpg/revision/latest/scale-to-width-down/300?cb=20110926134457', 'https://static.wikia.nocookie.net/yugioh/images/0/01/WIND.svg/revision/latest/scale-to-width-down/28?cb=20170920205028', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836']
+Categories: Duel Monsters cards, TCG cards, OCG cards

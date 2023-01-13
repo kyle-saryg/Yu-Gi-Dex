@@ -1,0 +1,34 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Ally_of_Justice_Reverse_Break
+
+
+ Ally of Justice Reverse Break 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ If there is a face-up LIGHT monster on the field, destroy this card. If this card attacks a face-down Defense Position monster, destroy the monster immediately with this card's effect without flipping it face-up or applying damage calculation. 
+ If a LIGHT monster is on the field, destroy this card. At the start of the Damage Step, if this card attacks a face-down Defense Position monster: Destroy that face-down monster. 
+ 
+ 
+       DT02-EN080 Duel Terminal 2     
+       HAC1-EN086 Hidden Arsenal: Chapter 1     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/7f/AllyofJusticeReverseBreak-DT02-EN-DRPR-DT.jpg/revision/latest/scale-to-width-down/180?cb=20111224072350', 'https://static.wikia.nocookie.net/yugioh/images/1/19/AllyofJusticeReverseBreak-HAC1-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20220402035040']
+Categories: Card Errata, Cards with 1 erratum

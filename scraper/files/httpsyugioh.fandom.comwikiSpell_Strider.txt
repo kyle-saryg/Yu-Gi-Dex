@@ -1,0 +1,341 @@
+Link: https://yugioh.fandom.com/wiki/Spell_Strider
+
+
+ 
+ 
+ Spell Strider マジック・ストライダー 
+ 
+ English 
+Spell Strider 
+ French 
+ Arpenteur Magique Check translation 
+ German 
+ Zauberläufer Check translation 
+ Italian 
+ Camminatore Magico Check translation 
+ Korean 
+ 매직 스트라이더 Check translation 
+ Portuguese 
+ Forasteiro Mágico Check translation 
+ Spanish 
+ Caminante Mágico Check translation 
+ Japanese 
+ マジック・ストライダー Check translation 
+ Japanese ( rōmaji ) 
+Majikku Sutoraidā 
+ Japanese (translated) 
+Magic Strider 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Warrior  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1800  /  600 
+ Passcode 
+ 93966624 
+ Card effect types 
+ 
+ 
+ Ignition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If this card is in your  hand : You can  target  2  face-up   Spell Cards  on the  field  (1 from each side of the field);  banish  them, and if you do,  Special Summon  this card. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si cette carte est dans votre main : vous pouvez cibler 2 Cartes Magie face recto sur le Terrain (1 sur chaque Terrain) ; bannissez-les, et si vous le faites, Invoquez Spécialement cette carte. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls sich diese Karte in deiner Hand befindet: Du kannst 2 offene Zauberkarten auf dem Spielfeld wählen (1 von jeder Spielfeldseite); verbanne sie und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se questa carta è nella tua mano: puoi scegliere come bersaglio 2 Carte Magia scoperte sul Terreno (1 da ogni Terreno); bandiscile e, se lo fai, Evoca Specialmente questa carta. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se este card estiver na sua mão: você pode escolher 2 Cards de Magia com a face para cima no campo (1 de cada lado do campo); bana-os e, se isso acontecer, Invoque este card por Invocação-Especial. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si esta carta está en tu mano: puedes seleccionar 2 Cartas Mágicas boca arriba en el Campo (1 de cada lado del Campo); destiérralas y, si lo haces, Invoca esta carta de Modo Especial. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：このカードが手札に存在する場合、自分及び相手フィールドの表側表示の魔法カードを１枚ずつ対象として発動できる。そのカードを除外し、このカードを手札から特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 이 카드가 패에 존재할 경우, 자신 및 상대 필드의 앞면 표시의 마법 카드를 1장씩 대상으로 하고 발동할 수 있다. 그 카드를 제외하고, 이 카드를 패에서 특수 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2016-08-04  
+ TDIL-EN037   
+ The Dark Illusion 
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2016-08-04  
+ TDIL-FR037   
+ The Dark Illusion 
+ L'Illusion des Ténèbres  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2016-08-04  
+ TDIL-DE037   
+ The Dark Illusion 
+ The Dark Illusion  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2016-08-04  
+ TDIL-IT037   
+ The Dark Illusion 
+ L'Illusione Oscura  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2016-08-05  
+ TDIL-PT037   
+ The Dark Illusion 
+ A Ilusão Negra  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2016-08-04  
+ TDIL-SP037   
+ The Dark Illusion 
+ La Ilusión Oscura  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2016-04-09  
+ TDIL-JP037   
+ The Dark Illusion 
+ ザ・ダーク・イリュージョン  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2016-07-21  
+ TDIL-KR037   
+ The Dark Illusion 
+ 더 다크 일루전  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ 
+ Banished  categories  
+ Banishes from field for cost 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12436 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/ae/SpellStrider-TDIL-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20160805082317', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

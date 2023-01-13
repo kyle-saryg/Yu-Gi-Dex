@@ -1,0 +1,262 @@
+Link: https://yugioh.fandom.com/wiki/Skydive_Scorcher
+
+
+ 
+ 
+ Skydive Scorcher スカイスクレイパー・シュート 
+ 
+ English 
+Skydive Scorcher 
+ French 
+ Attaque Météorite Check translation 
+ German 
+ Heißer Himmelssturm Check translation 
+ Italian 
+ Fuoco in Caduta Libera Check translation 
+ Korean 
+ 스카이스크레 이퍼 슛 Check translation 
+ Portuguese 
+ Mergulho Tórrido dos Céus Check translation 
+ Spanish 
+ Paracaidista Abrasador Check translation 
+ Japanese 
+ スカイスクレイパー・シュート Check translation 
+ Japanese ( rōmaji ) 
+Sukaisukureipā Shūto 
+ Japanese (translated) 
+Skyscraper Shoot 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 40522482 
+ Card effect types 
+ 
+ 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Target  1 " Elemental HERO "  Fusion Monster  you  control ;  destroy  as many  monsters  your opponent controls as possible, with  ATK  higher than that monster's, then inflict  damage  to your opponent equal to the highest  original ATK  among those destroyed monsters in the  Graveyard  (your choice, if tied). If a " Skyscraper "  Field Spell Card  is in your  Field Zone , inflict damage to your opponent equal to the combined original ATK of those destroyed monsters in the Graveyard, instead. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Ciblez 1 Monstre de Fusion "HÉROS Élémentaire" que vous contrôlez ; détruisez autant de monstres contrôlés par votre adversaire que possible, avec une ATK supérieure à celle du monstre, puis infligez des dommages à votre adversaire égaux à la plus haute ATK d'origine parmi ces monstres détruits dans le Cimetière (en cas d'égalité, vous choisissez). Si une Carte Magie de Terrain "Gratte-Ciel" est dans votre Zone Terrain, infligez des dommages à votre adversaire égaux à la somme des ATK d'origine de ces monstres dans le Cimetière à la place. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wähle 1 „Elementar-HELD“-Fusionsmonster, das du kontrollierst; zerstöre so viele Monster, die dein Gegner kontrolliert und deren ATK höher sind als die des Monsters, wie möglich, dann füge deinem Gegner Schaden in Höhe der höchsten Grund-ATK unter den zerstörten Monstern im Friedhof zu (bei Gleichstand bestimmst du eins). Falls eine „Wolkenkratzer“-Spielfeldzauberkarte in deiner Spielfeldzone liegt, füge deinem Gegner stattdessen Schaden in Höhe der Summe der Grund-ATK der zerstörten Monster im Friedhof zu. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Scegli come bersaglio 1 Mostro Fusione "EROE Elementale" che controlli; distruggi tanti mostri controllati dal tuo avversario quanti possibile con ATK superiore a quello di quel mostro, poi infliggi al tuo avversario danno pari all'ATK originale più alto tra quei mostri distrutti nel Cimitero (in caso di parità, scegli tu). Se nella tua Zona Terreno c'è una Carta Magia Terreno "Grattacielo", infliggi invece al tuo avversario danno pari alla somma degli ATK di quei mostri distrutti nel Cimitero. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Escolha 1 Monstro de Fusão "HERÓI do Elemento" que você controla; destrua tantos monstros que seu oponente controla quanto possível, com ATK maior que o desse monstro e, depois, cause dano ao seu oponente igual ao maior ATK original dentre esses monstros destruídos no Cemitério (em caso de empate, você seleciona). Se um Card de Magia de Campo "Arranha-Céu" estiver na sua Zona do Campo, em vez disso, cause dano ao seu oponente igual ao ATK original combinado desses monstros destruídos no Cemitério. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Selecciona 1 Monstruo de Fusión "HÉROE Elemental" que controles; destruye tantos monstruos que controle tu adversario como sea posible que tengan un ATK mayor que el de ese monstruo, y después inflige daño a tu adversario igual al mayor ATK original en el Cementerio de entre esos monstruos destruidos (si hay empate, eliges tú). Si hay una Carta Mágica de Campo "Rascacielos" en tu Zona del Campo, en su lugar inflige daño a tu adversario igual al ATK original en el Cementerio combinado de esos monstruos destruidos. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：自分フィールドの「Ｅ・ＨＥＲＯ」融合モンスター１体を対象として発動できる。そのモンスターより攻撃力が高い相手フィールドの表側表示モンスターを全て破壊する。その後、この効果で破壊され墓地へ送られたモンスターの内、元々の攻撃力が一番高いモンスターのその数値分のダメージを相手に与える。自分のフィールドゾーンに「摩天楼」フィールド魔法カードが存在する場合、相手に与えるダメージは、この効果で破壊され墓地へ送られたモンスター全ての元々の攻撃力の合計分となる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ① : 자신 필드의 "엘리멘틀 히어로" 융합 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터보다 공격력이 높은 상대 필드의 앞면 표시 몬스터를 전부 파괴한다. 그 후, 이 효과로 파괴되어 묘지로 보내진 몬스터 중에서, 원래 공격력이 가장 높은 몬스터의 그 수치만큼의 데미지를 상대에게 준다. 자신의 필드 존에 "마천루" 필드 마법 카드가 존재할 경우, 상대에게 주는 데미지는, 이 효과로 파괴되어 묘지로 보내진 몬스터 전부의 원래 공격력의 합계만큼이 된다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2017-03-30 DUSA-EN029 Duelist Saga Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2017-03-30 DUSA-FR029 Duelist Saga La Saga des Duellistes Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2017-03-30 DUSA-DE029 Duelist Saga Duelist Saga Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2017-03-30 DUSA-IT029 Duelist Saga Saga dei Duellanti Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2017-05-26 DUSA-PT029 Duelist Saga Saga dos Duelistas Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2017-03-30 DUSA-SP029 Duelist Saga La Saga del Duelista Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2016-12-17 20AP-JP006 20th Anniversary Pack 1st Wave ２０ｔｈ ＡＮＮＩＶＥＲＳＡＲＹ ＰＡＣＫ １ｓｔ ＷＡＶＥ Ultra Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2017-04-18 20AP-KR006 20th Anniversary Pack 1st Wave ＣＨＲＯＮＩＣＬＥ   ＰＡＣＫ   １ｓｔ   ＷＡＶＥ Ultra Parallel Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Fusion Monster 
+ Field Spell Card 
+ 
+ Archetypes  and  series   
+ Signature move 
+ 
+ Supports   archetypes   
+ Elemental HERO 
+ Skyscraper  
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your opponent's face-up Monster Cards 
+ 
+ LP   
+ Damages your opponent 
+ 
+ Miscellaneous  
+ Requires control of specific archetype 
+ Requires control of specific Monster type 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12902 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Elemental HERO " 「 Ｅ・ＨＥＲＯ 」 Members 
+ Contrast HERO Chaos Elemental HERO Absolute Zero Elemental HERO Air Neos Elemental HERO Aqua Neos Elemental HERO Avian Elemental HERO Bladedge Elemental HERO Blazeman Elemental HERO Brave Neos Elemental HERO Bubbleman Elemental HERO Burstinatrix Elemental HERO Captain Gold Elemental HERO Chaos Neos Elemental HERO Clayman Elemental HERO Core Elemental HERO Cosmo Neos Elemental HERO Dark Neos Elemental HERO Darkbright Elemental HERO Divine Neos Elemental HERO Electrum Elemental HERO Escuridao Elemental HERO Flame Wingman Elemental HERO Flare Neos Elemental HERO Flash Elemental HERO Gaia Elemental HERO Glow Neos Elemental HERO Grand Neos Elemental HERO Grandmerge Elemental HERO Great Tornado Elemental HERO Heat Elemental HERO Honest Neos Elemental HERO Ice Edge Elemental HERO Inferno Elemental HERO Knospe Elemental HERO Lady Heat Elemental HERO Liquid Soldier Elemental HERO Magma Neos Elemental HERO Marine Neos Elemental HERO Mariner Elemental HERO Mudballman Elemental HERO Nebula Neos Elemental HERO Necroid Shaman Elemental HERO Necroshade Elemental HERO Neo Bubbleman Elemental HERO Neos Elemental HERO Neos Alius Elemental HERO Neos Kluger Elemental HERO Neos Knight Elemental HERO Nova Master Elemental HERO Ocean Elemental HERO Phoenix Enforcer Elemental HERO Plasma Vice Elemental HERO Poison Rose Elemental HERO Prisma Elemental HERO Rampart Blaster Elemental HERO Shadow Mist Elemental HERO Shining Flare Wingman Elemental HERO Shining Neos Wingman Elemental HERO Shining Phoenix Enforcer Elemental HERO Solid Soldier Elemental HERO Sparkman Elemental HERO Spirit of Neos Elemental HERO Steam Healer Elemental HERO Storm Neos Elemental HERO Stratos Elemental HERO Sunrise Elemental HERO Tempest Elemental HERO Terra Firma Elemental HERO The Shining Elemental HERO Thunder Giant Elemental HERO Voltic Elemental HERO Wild Wingman Elemental HERO Wildedge Elemental HERO Wildheart Elemental HERO Woodsman Wake Up Your Elemental HERO 
+ Support 
+ Cross Keeper Elemental HERO Blazeman Elemental HERO Escuridao Elemental HERO Flash Elemental HERO Gaia Elemental HERO Grandmerge Elemental HERO Great Tornado Elemental HERO Heat Elemental HERO Knospe Elemental HERO Lady Heat Elemental HERO Necroshade Elemental HERO Nova Master Elemental HERO Shining Flare Wingman Elemental HERO Shining Phoenix Enforcer Elemental HERO Spirit of Neos Elemental HERO Terra Firma Elemental HERO The Shining Elemental HERO Voltic Wake Up Your Elemental HERO Wroughtweiler 
+ Bubble Shuffle Burst Return Change of Hero - Reflector Ray D - Time E - Emergency Call EN - Engage Neo Space EN Shuffle EN Wave Elemental Recharge Fake Hero Fifth Hope Generation Next Get Your Game On! HERO's Bond Hero Barrier Hero Blast Hero Counterattack Hero Flash!! Hero Heart A Hero Lives Hero Mask Hero Signal Hero Spirit Instant Contact Kid Guard Miracle Contact Miracle Fusion Mirror Gate O - Oversoul Over Fusion Parallel World Fusion R - Righteous Justice Skydive Scorcher Skyscraper Skyscraper 2 - Hero City 
+ Anti-support 
+ Burst Return 
+ Related 
+ Destiny HERO - Destroyer Phoenix Enforcer Hero Kid Honest Neo Space Connector Neo-Spacian Air Hummingbird Neo-Spacian Aqua Dolphin Neo-Spacian Dark Panther Neo-Spacian Flare Scarab Neo-Spacian Glow Moss Neo-Spacian Grand Mole Neo-Spacian Marine Dolphin Neos Wiseman Rainbow Dark Dragon Rainbow Dragon Rainbow Neos UFOroid Fighter Yubel 
+ Battle of Sleeping Spirits Bubble Blaster Bubble Illusion Clay Charge Cyclone Boomerang Edge Hammer Feather Shot Feather Wind H - Heated Heart Metamorphosis Miracle Kids NEXT Neos Force Neos Fusion Polymerization Reverse of Neos Rose Bud Spark Blaster Terra Firma Gravity Wrath of Neos 
+ 
+   
+ Signature move   必 殺 技 Members 
+ Ancient Gear Golem - Ultimate Pound Armityle the Chaos Phantasm - Phantom of Fury Cyber Slash Harpie Lady Firewall Dragon Darkfluid - Neo Tempest Terahertz Gandora Giga Rays the Dragon of Destruction Giltia the D. Knight - Soul Spear Harpie's Pet Dragon - Fearsome Fire Blast Kaiser Glider Golden Burst Meklord Emperor Wisel - Synchro Absorption Mystical Elf - White Lightning Number F0: Utopic Future Slash Raidraptor - Revolution Falcon - Air Raid Raviel, Lord of Phantasms - Shimmering Scraper 
+ Berserker Crush Blaze Cannon Burst Stream of Destruction Burst Stream of Destruction Cerulean Skyfire Chaos Scepter Blast Cosmic Flare Crimson Fire Cyber Energy Shock Dark Burning Attack Dark Burning Magic Dark Magic Attack Dark Magic Attack Decode Destruction Destruction Sword Flash Detonate Evolution Burst Evolution Result Burst Fist of Fate Fury of Kairyu-Shin Future Drive Hyper Blaze Inferno Fire Blast Inferno Fire Blast Light Wing Shield Magistery Alchemist Neutron Blast Obliterate!!! Photon Stream of Destruction Proton Blast Psychic Wave Rage of Kairyu-Shin Rainbow Refraction Rising Sun Slash Scrap Fist Silent Burning Silent Sword Slash Skydive Scorcher Soul Energy MAX!!! Spiral Flame Strike Spiral Spear Strike Super Strident Blaze Tachyon Transmigration Thunderforce Attack Torpedo Takedown Triangle Ecstasy Spark Vulcan Ignite Hyperdrive Wrath of Neos XYZ Hyper Cannon 
+ Related 
+ Ancient Gear Golem Armityle the Chaos Phantasm Barrel Dragon Blue-Eyes Ultimate Dragon Blue-Eyes White Dragon Blue-Eyes White Dragon Buster Blader Cyber Dragon Cyber End Dragon Cyber Harpie Lady Dark Magician Dark Magician Dark Magician Dark Magician Girl Dark Magician of Chaos Decode Talker Elemental HERO Electrum Elemental HERO Flame Wingman Elemental HERO Neos Exodia the Forbidden One Firewall Dragon Darkfluid Gaia The Fierce Knight Gaia the Dragon Champion Galaxy-Eyes Photon Dragon Gandora the Dragon of Destruction Giltia the D. Knight Hamon, Lord of Striking Thunder Harpie Lady Sisters Harpie's Pet Dragon Hyper Engine Vast Vulcan Jinzo Junk Warrior Kairyu-Shin Kaiser Glider Kuriboh Kuriboh Token Magician of Black Chaos Mystical Elf Number 39: Utopia Number F0: Utopic Future Number 107: Galaxy-Eyes Tachyon Dragon Odd-Eyes Pendulum Dragon Raidraptor - Revolution Falcon Rainbow Dark Dragon Rainbow Dragon Raviel, Lord of Phantasms Red Dragon Archfiend Red-Eyes Black Dragon Red-Eyes Black Dragon Silent Magician ... further results 
+ Magical Dimension Skyscraper 
+ 
+   
+" Skyscraper " 「 摩 天 楼 」 Members 
+ Skyscraper Skyscraper 2 - Hero City 
+ Support 
+ Skydive Scorcher 
+ Related 
+ Elemental HERO Captain Gold 
+ Dark City 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/95/SkydiveScorcher-DUSA-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20170330172358', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

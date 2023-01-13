@@ -1,0 +1,254 @@
+Link: https://yugioh.fandom.com/wiki/Domain_of_the_True_Monarchs
+
+
+ 
+ 
+ Domain of the True Monarchs 真 帝 王 領 域 
+ 
+ English 
+Domain of the True Monarchs 
+ French 
+ Le Domaine des Vrais Monarques Check translation 
+ German 
+ Domäne der wahren Monarchen Check translation 
+ Italian 
+ Dominio dei Veri Monarchi Check translation 
+ Korean 
+ 진제왕영역 Check translation 
+ Portuguese 
+ Domínio dos Verdadeiros Monarcas Check translation 
+ Spanish 
+ El Dominio de los Verdaderos Monarcas Check translation 
+ Japanese (kana) 
+ しんていおうりょういき Check translation 
+ Japanese (base) 
+ 真帝王領域 Check translation 
+ Japanese ( rōmaji ) 
+Shin Tei'ō Ryōiki 
+ Card type 
+ Spell   
+ Property 
+ Field   
+ Passcode 
+ 84171830 
+ Card effect types 
+ 
+ 
+ Continuous-like 
+ Continuous-like 
+ Ignition-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+While you have no cards in your  Extra Deck  and you are the only  player  that  controls  a  Tribute Summoned   monster , your opponent cannot  Special Summon  monsters from the Extra Deck. If a Tribute Summoned monster you control  attacks  an opponent's monster, it gains 800  ATK  during  damage calculation  only.  Once per turn : You can reduce the  Level  of 1 monster with 2800 ATK/1000  DEF  in your  hand  by 2 until the end of this  turn  (even after they are  Summoned / Set , and even if this card  leaves the field ). 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Tant que vous n'avez aucune carte dans votre Extra Deck et que vous êtes le seul joueur qui contrôle un monstre Invoqué par Sacrifice, votre adversaire ne peut pas Invoquer Spécialement de monstres depuis l'Extra Deck. Si un monstre Invoqué par Sacrifice que vous contrôlez attaque un monstre de l'adversaire, il gagne 800 ATK durant le calcul des dommages uniquement. Une fois par tour : jusqu'à la fin de ce tour (même après qu'il ait été Invoqué/Posé, et même si cette carte quitte le Terrain), vous pouvez réduire le Niveau d'1 monstre avec 2800 ATK/1000 DEF dans votre main de 2. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Solange du keine Karten in deinem Extra Deck hast und der einzige Spieler bist, der ein als Tributbeschwörung beschworenes Monster kontrolliert, kann dein Gegner keine Monster als Spezialbeschwörung vom Extra Deck beschwören. Falls ein als Tributbeschwörung beschworenes Monster, das du kontrollierst, ein Monster eines Gegners angreift, erhält es nur während der Schadensberechnung 800 ATK. Einmal pro Spielzug: Du kannst die Stufe von 1 Monster mit 2800 ATK / 1000 DEF in deiner Hand bis zum Ende dieses Spielzugs um 2 verringern (selbst nachdem es beschworen/gesetzt wurde und selbst, falls diese Karte das Spielfeld verlässt). 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Mentre non hai nessuna carta nel tuo Extra Deck e sei l'unico giocatore che controlla un mostro Evocato tramite Tributo, il tuo avversario non può Evocare Specialmente mostri dall'Extra Deck. Se un mostro Evocato tramite Tributo che controlli attacca un mostro dell'avversario, guadagna 800 ATK solamente durante il calcolo dei danni. Una volta per turno: puoi ridurre di 2 il Livello di 1 mostro con ATK 2800/DEF 1000 nella tua mano fino alla fine di questo turno (anche dopo che è stato Evocato/Posizionato, e anche se questa carta lascia il Terreno). 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Enquanto você não tiver cards no seu Deck Adicional e você for o único duelista que controla um monstro Invocado por Invocação-Tributo, seu oponente não pode Invocar monstros do Deck Adicional por Invocação-Especial. Se um monstro Invocado por Invocação-Tributo que você controla atacar um monstro do oponente, ele ganha 800 de ATK apenas durante o cálculo de dano. Uma vez por turno: até o final deste turno, você pode reduzir em 2 o Nível de 1 monstro com 2800 de ATK/1000 de DEF na sua mão (mesmo depois que ele for Invocado/Baixado e mesmo que este card deixe o campo). 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Mientras no tengas cartas en tu Deck Extra y seas el único jugador que controle un monstruo Invocado por Sacrificio, tu adversario no puede Invocar monstruos de Modo Especial desde el Deck Extra. Si un monstruo Invocado por Sacrificio que controlas ataca a un monstruo del adversario, éste gana 800 ATK sólo durante el cálculo de daño. Una vez por turno: hasta el final de este turno, puedes reducir en 2 el Nivel de 1 monstruo en tu mano con 2800 ATK/1000 DEF (aun después de que es Invocado/Colocado, y aun si esta carta deja el Campo). 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：自分のエクストラデッキにカードが存在せず、自分フィールドにのみアドバンス召喚したモンスターが存在する場合、相手はエクストラデッキからモンスターを特殊召喚できない。②：自分のアドバンス召喚したモンスターの攻撃力は、相手モンスターに攻撃するダメージ計算時のみ８００アップする。③：１ターンに１度、自分メインフェイズにこの効果を発動できる。自分の手札の攻撃力２８００／守備力１０００のモンスター１体を選び、そのモンスターのレベルをターン終了時まで２つ下げる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 자신의 엑스트라 덱에 카드가 존재하지 않으며, 자신 필드에만 어드밴스 소환한 몬스터가 존재할 경우, 상대는 엑스트라 덱에서 몬스터를 특수 소환할 수 없다. ②: 자신의 어드밴스 소환한 몬스터의 공격력은, 상대 몬스터에 공격하는 데미지 계산시에만 800 올린다. ③: 1턴에 1번, 자신 메인 페이즈에 이 효과를 발동할 수 있다. 자신 패의 공격력 2800 / 수비력 1000 인 몬스터 1장을 고르고, 그 몬스터의 레벨을 턴 종료시까지 2개 내린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2016-01-28 SR01-EN024 Emperor of Darkness Structure Deck Common 2016-11-17 OP03-EN010 OTS Tournament Pack 3 Super Rare 2020-11-12 MAGO-EN090 Maximum Gold Rare 2022-05-05 GFP2-EN161 Ghosts From the Past: The 2nd Haunting Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2016-01-28 SR01-FR024 Emperor of Darkness Structure Deck Empereur des Ombres Deck de Structure Common 2016-11-17 OP03-FR010 OTS Tournament Pack 3 OTS Pack de Tournoi 3 Super Rare 2020-11-12 MAGO-EN090 Maximum Gold Or Maximum Rare 2022-05-05 GFP2-FR161 Ghosts From the Past: The 2nd Haunting Fantômes du Passé : La 2e Incarnation Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2016-01-28 SR01-DE024 Emperor of Darkness Structure Deck Emperor of Darkness Structure Deck Common 2016-11-17 OP03-DE010 OTS Tournament Pack 3 OTS Tournament Pack 3 Super Rare 2020-11-12 MAGO-EN090 Maximum Gold Gold Series: Maximum Gold Rare 2022-05-05 GFP2-DE161 Ghosts From the Past: The 2nd Haunting Ghosts From the Past: The 2nd Haunting Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2016-01-28 SR01-IT024 Emperor of Darkness Structure Deck Imperatore dell'Oscurità Structure Deck Common 2016-11-17 OP03-IT010 OTS Tournament Pack 3 OTS Buste da Torneo 3 Super Rare 2020-11-12 MAGO-EN090 Maximum Gold Oro Massimo Rare 2022-05-05 GFP2-IT161 Ghosts From the Past: The 2nd Haunting Fantasmi Dal Passato : La Seconda Apparizione Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2016-01-29 SR01-PT024 Emperor of Darkness Structure Deck Imperador das Trevas Deck Estrutural Common 2016-11-18 OP03-PT010 OTS Tournament Pack 3 Pacote OTS de Torneio 3 Super Rare 2020-11-12 MAGO-PT090 Maximum Gold Ouro Máximo Rare 2022-05-05 GFP2-PT161 Ghosts From the Past: The 2nd Haunting Fantasmas Do Passado : A 2ª Assombração Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2016-01-28 SR01-SP024 Emperor of Darkness Structure Deck Emperador de la Oscuridad Baraja de Estructura Common 2016-11-17 OP03-SP010 OTS Tournament Pack 3 OTS Sobre Torneo 3 Super Rare 2020-11-12 MAGO-SP090 Maximum Gold Oro Máximo Rare 2022-05-05 GFP2-SP161 Ghosts From the Past: The 2nd Haunting Antasmas Del Pasado : La 2ª Aparición Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2015-02-14 CROS-JP086 Crossed Souls クロスオーバー・ソウルズ Common 2015-09-19 SR01-JP024 Structure Deck R: Advent of the True Monarch ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ Ｒ －真帝王降臨－ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2016-04-05 SR01-KR024 Structure Deck R: Advent of the True Monarch STRUCTURE   DECK  R － 진제왕강림 － Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Monarch  
+ 
+ Related to  archetypes  and  series   
+ Monarch 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ Your monsters lose Levels 
+ Modifies the Levels of monsters in the hand 
+ 
+ Summoning  categories  
+ Prevents your opponent's Special Summons 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11761 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Domain of the True Monarchs " pages 
+ 
+ 
+ Manga 
+ 
+ 
+ 
+   
+" Monarch " 「 帝 」 Members 
+ Angmarl the Fiendish Monarch Caius the Mega Monarch Caius the Shadow Monarch Delg the Dark Monarch Edea the Heavenly Squire Ehther the Heavenly Monarch Eidos the Underworld Squire Erebus the Underworld Monarch Granmarg the Mega Monarch Granmarg the Rock Monarch Kuraz the Light Monarch Mobius the Frost Monarch Mobius the Mega Monarch Raiza the Mega Monarch Raiza the Storm Monarch Tenmataitei Thestalos the Firestorm Monarch Thestalos the Mega Monarch Zaborg the Mega Monarch Zaborg the Thunder Monarch 
+ Related 
+ Berlineth the Firestorm Vassal Emperor of Lightning Escher the Frost Vassal Garum the Storm Vassal Ice Knight Illusory Snatcher Landrobe the Rock Vassal Lucius the Shadow Vassal Majesty's Fiend Mithra the Thunder Vassal Psychic Emperor Samsara Kaiser Tlakalel, His Malevolent Majesty 
+ By Order of the Emperor Dark Advance Domain of the True Monarchs Escalation of the Monarchs The First Monarch Frost Blast of the Monarchs March of the Monarchs The Monarchs Awaken The Monarchs Erupt The Monarchs Stormforth Pantheism of the Monarchs The Prime Monarch Restoration of the Monarchs Return of the Monarchs Strike of the Monarchs Tenacity of the Monarchs 
+ 
+   
+" Monarch " 「 帝 王 」 Members 
+ Emperor of the Land and Sea 
+ Domain of the True Monarchs Escalation of the Monarchs The First Monarch Frost Blast of the Monarchs March of the Monarchs The Monarchs Awaken The Monarchs Erupt The Monarchs Stormforth Pantheism of the Monarchs The Prime Monarch Restoration of the Monarchs Return of the Monarchs Strike of the Monarchs Tenacity of the Monarchs 
+ Support 
+ Edea the Heavenly Squire Ehther the Heavenly Monarch Erebus the Underworld Monarch 
+ Frost Blast of the Monarchs Pantheism of the Monarchs The Prime Monarch Tenacity of the Monarchs 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/1f/DomainoftheTrueMonarchs-GFP2-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20220609050122', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/1/14/Field.svg/revision/latest/scale-to-width-down/28?cb=20120920120155']
+Categories: Duel Monsters cards, TCG cards, OCG cards

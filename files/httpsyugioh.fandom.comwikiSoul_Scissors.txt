@@ -1,0 +1,102 @@
+Link: https://yugioh.fandom.com/wiki/Soul_Scissors
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Soul Scissors ソウル・シザー 
+ 
+ English 
+Soul Scissors 
+ Japanese 
+ ソウル・シザー Check translation 
+ Japanese ( rōmaji ) 
+Sōru Shizā 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Fiend  /  Effect 
+ Level 
+ 2   
+ ATK  /  DEF 
+ 550  /  350 
+ Passcode 
+ 12061457 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If a  monster(s)  on the field is  destroyed by battle  or  card effect  and  sent  to the  GY  while this card is in your GY: You can  Special Summon  this card, but  banish  it when it  leaves the field . If this card is Special Summoned from the GY: You can  target  1 monster your opponent  controls ;  destroy  it. You can only use the each effect of "Soul Scissors"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが墓地に存在する状態で、フィールドのモンスターが戦闘・効果で破壊され墓地へ送られた場合に発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。②：このカードが墓地からの特殊召喚に成功した場合、相手フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-07-16 DABL-JP029 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Summoning  categories  
+ Special Summons itself from your Graveyard 
+ 
+ Banished  categories  
+ Banishes itself when it leaves the field 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 5051 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Soul Scissors " pages 
+ 
+ 
+ Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/8e/SoulScissors-DABL-JP-C.png/revision/latest/scale-to-width-down/300?cb=20220718230230', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

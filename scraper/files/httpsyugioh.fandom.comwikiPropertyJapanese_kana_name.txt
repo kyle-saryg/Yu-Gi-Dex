@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Japanese_kana_name
+
+This is the name in Kana. It has type  string .
+ 
+ 
+ 
+ 
+Categories:

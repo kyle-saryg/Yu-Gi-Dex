@@ -1,0 +1,35 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Ally_of_Justice_Unlimiter
+
+
+ Ally of Justice Unlimiter 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ OCG Rulings 
+ The effect is an  Ignition Effect . [1] 
+ Tributing  this card is a  cost  to activate the effect.  The effect  targets  one face-up " Ally of Justice " monster you control. [1] 
+ When " Rush Recklessly " and " Ally of Justice Unlimiter " both affect " Ally of Justice Catastor ", [2] 
+ If " Rush Recklessly " is activated first and then the effect of " Ally of Justice Unlimiter " is activated, then the ATK of " Ally of Justice Catastor " will be 4400 - its  Original ATK , doubled. [2] 
+ If the effect of " Ally of Justice Unlimiter " is activated first and then " Rush Recklessly " is activated, then the ATK of " Ally of Justice Catastor " will be 5100. [2] 
+ If " Ally of Justice Catastor " is equipped with " Megamorph " and has its ATK halved to 1100, when the effect of " Ally of Justice Unlimiter " is applied, then " Ally of Justice Catastor " will have 4400 ATK.  If " Ally of Justice Catastor " has its ATK doubled to 4400, then the effect of " Ally of Justice Unlimiter " will not change the ATK of " Ally of Justice Catastor ". [3] 
+ If " Ally of Justice Catastor " is affected by " Ally of Justice Unlimiter " and then is equipped with " Megamorph ", then " Ally of Justice Catastor " will have 1100 ATK or 4400 ATK, as determined by " Megamorph ". [3] 
+ References 
+ 
+ ↑  1.0   1.1   Konami FAQ : Effect Monster > Ally of Justice Unlimiter 
+ 
+ ↑  2.0   2.1   2.2   Konami FAQ : When the effects of "Ally of Justice Unlimiter" and "Rush Recklessly" are applied, how does the monster's ATK change? 
+ 
+ ↑  3.0   3.1   Konami FAQ : When the effect of "Ally of Justice-Unlimiter" targets a monster which has been equipped with "Megamorph", what does its ATK become? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

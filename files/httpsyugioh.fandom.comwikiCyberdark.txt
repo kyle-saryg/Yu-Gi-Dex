@@ -1,0 +1,388 @@
+Link: https://yugioh.fandom.com/wiki/Cyberdark
+
+For the archetype of Spell/Trap Cards with the same name, see  Cyberdark (Spell/Trap archetype) .      
+ 
+ This article  may require  cleanup  to meet this wiki's standards.   You can help out by re-organizing or re-writing parts of it or checking grammar and spelling.   
+ 
+ 
+ Cyberdark 
+ サイバー・ダーク  ( Saibā Dāku ) 
+ 
+ 
+ 
+ 
+ " Cyberdark Dragon ", the Fusion of " Horn ", " Edge ", and " Keel " 
+ 
+ 
+ Translation 
+ Cyber Dark 
+ 
+ 
+ Other names 
+ 
+ French 
+ Cyberténébreu 
+ 
+ 
+ German 
+ Cyberfinsternis 
+ 
+ 
+ Italian 
+ Cyberoscur 
+ 
+ 
+ Korean 
+ 사이버 다크   Saibeo Dakeu   (romanized) Translation:  Cyber Dark 
+ 
+ 
+ Portuguese 
+ Cibersombrio(a) 
+ 
+ 
+ Spanish 
+ Ciberoscur 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Cyberdark Impact Duelist Pack: Zane Truesdale Tactical Evolution 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Duel Terminal 4 Duel Terminal 5a Duel Terminal 5b Legendary Duelists Speed Duel GX: Duel Academy Box 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Master Collection Volume 3 Duel Terminal - Charge of the Genex!! Duel Terminal - Pulse of the Trishula!! Duel Terminal - Raid of the Inverz!! Duelist Edition Volume 1 Duelist Edition Volume 2 Precious Pack Volume 1 Duelist Pack: Legend Duelist Structure Deck: Cyber Style's Successor Structure Deck: Cyber Style's Successor Secret Technique Inheritence Pack 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! GX 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Cyberdark ", spelled " Cyber Dark " (サイバー・ダーク  Saibā Dāku ) in Japanese, is an  archetype  of  DARK   Dragon  and  Machine   monsters , as well as a sub-archetype of the " Cyber " archetype. These cards were used by  Zane Truesdale  following his "rebirth" in the  Yu-Gi-Oh! GX  anime as a forbidden "Underworld Deck" (called "Cyber Art Reverse" in the original).
+ In the anime, the Deck's unquenchable thirst for battle and improvement forces its owner to go past his/her limit, slowly damaging the user's body over time. Because of this drawback, only Duelists with strong wills and dreams of progression can use this Deck for long periods of time. Depending on how strong-willed the Duelist is, the Duelist using this Deck will experience heart trauma, which may lead to death, as displayed by Zane Truesdale after using this Deck for so long. Even  Syrus Truesdale  experienced some cardiovascular pain when he decided to take over Zane's Duel against  Makoto Inotsume . However, Syrus was able to overcome this problem by respecting the Deck, something that Zane had not done.
+ 
+ Contents 
+ 
+ 1   Playing style 
+ 
+ 1.1   Equip options 
+ 
+ 1.1.1   For Level 4 "Cyberdark" monsters 
+ 1.1.2   For Fusion Monsters 
+ 
+ 
+ 
+ 
+ 2   Weakness 
+ 3   Official Decklist 
+ 4   References 
+ 
+ 
+ Playing style 
+ A "Cyberdark" Deck is a varied Deck primarily focusing on  Beatdown  and  Control . The Deck uses  Machine  monsters primarily and  Dragon  monsters secondarily as support, and they can be featured in Dragon-oriented Decks that use enough low-Level monsters.
+ The main draw of the "Cyberdark" archetype is its ability to quickly and constantly Normal Summon "Cyberdark" monsters with high  ATK . Each of the Level 4 "Cyberdark" monsters has a  Trigger Effect  to equip itself with a Level 3 or lower Dragon monster from the  Graveyard  when it is  Normal Summoned ; it gains  ATK  equal to the ATK of the monster equipped by this effect, and the monster equipped by this effect is destroyed instead if the equipped monster would be  destroyed by battle . They also have additional effects (piercing, direct attacking and minor burn) to punish defensive play on the opponent's part.
+ " Cyberdark Cannon " and " Cyberdark Claw " are Level 3 Dragon monsters, allowing them to be treated as Equip Cards by the Machine members. They both have 1600 ATK points, allowing the Level 4 "Cyberdark" monsters to increase their ATK to 2400. When sent to the  Graveyard  while equipped to a monster, its possessor can add a card to their hand (drawing in the case of "Cannon", adding a "Cyberdark" monster from the Graveyard in the case of "Claw"). Each can also be discarded from the hand to add a "Cyberdark" card from the Deck to the hand (a Machine monster in "Cannon"'s case, while "Claw" adds a Spell/Trap Card). When the equipped monster  battles , the player can  send  a monster to the Graveyard (from their  Main Deck  in the case of "Cannon", their  Extra Deck  in the case of "Claw") which helps perform further Graveyard setup and trigger certain effects. 
+ The "Cyberdark" Fusion Monsters, " Cyberdark Dragon " and " Cyberdarkness Dragon ", can equip themselves with a Dragon-Type monster upon their summon similarly to the Level 4 Machines, but with no restrictions beyond the target being Dragon-Type. "Cyberdarkness" is also able to equip itself with Machines. " Cyberdarkness Dragon " has 2000 original ATK, compared to " Cyberdark Dragon "'s 1000 ATK, and it can send Equip Cards to the Graveyard to negate the activation of any opponent's card or effect. However, " Cyberdark Impact! " being searchable by " Cyberdark Claw ", using only 3 monsters compared to " Cyberdarkness Dragon "'s 5, returning them to the Deck instead of banishing them, and gaining 100 ATK for each monster in its owner's Graveyard, keeps "Cyberdark Dragon" as a usable option on its own right. 
+ The  Field Spell Card  " Cyberdark Inferno " prevents "Cyberdark" monsters from being targeted or destroyed by opponents' card effects while equipped with a card, and also allows the player to return a "Cyberdark" monster to the hand and Normal Summon it again to change or restore the monster equipped to it. Additionally, if it is destroyed by the opponent, its owner can add a  Polymerization / Fusion  Spell Card to their hand, giving them access to " Future Fusion " and " Overload Fusion ".
+ Due to their focus on Normal Summons, Cyberdarks can use " Pot of Duality " and " Card of Demise ". Being DARK Machines, they can use " Black Salvo " and " Desperado Barrel Dragon " as backup as well.
+ "Cyberdark" monsters can also work very well with  Virus  cards: " Eradicator Epidemic Virus " and " Deck Devastation Virus " can be easily activated by using a "Cyberdark" equipped with " Hunter Dragon " or " Leng Ling ", while a Level 4 "Cyberdark" Machine that is not equipped with anything can be used for " Crush Card Virus " instead.
+ " Future Fusion " is a fast way to fill up the Graveyard with Dragon monsters. During the next turn after its activation, the player can reveal " Five-Headed Dragon " and send 5 Dragon monsters from their Deck to the Graveyard. If "Future Fusion" remains on the field until the following turn, the player will Fusion Summon "Five-Headed Dragon", which is a powerful monster on its own. It can also be used to summon "Cyberdark Dragon" or "Cyberdarkness Dragon". " Dragon Shrine " can be used for faster and more reliable dumping of Dragon monsters.
+ 
+ Equip options 
+ For Level 4 "Cyberdark" monsters 
+   Japanese name Primary type Attribute Level ATK DEF Monster type Hunter Dragon ハウンド・ドラゴン Normal Monster DARK 3 1700 100 Feedran, the Winds of Mischief いたずら風のフィードラン Effect Monster WIND 3 1700 0 Roxrose Dragon ロクスローズ・ドラゴン Effect Monster DARK 3 1600 1200 Tuner monster Autorokket Dragon オートヴァレット・ドラゴン Effect Monster DARK 3 1600 1000 Cyberdark Cannon サイバー・ダーク・カノン Effect Monster DARK 3 1600 800 Cyberdark Claw サイバー・ダーク・クロー Effect Monster DARK 3 1600 800 Guardragon Garmides 守護竜ガルミデス Effect Monster EARTH 3 1600 1000 Attachment Cybern アタッチメント・サイバーン Effect Monster LIGHT 3 1600 800 Leng Ling 比翼レンリン Effect Monster DARK 3 1500 0 Union monster Delta Flyer デルタフライ Effect Monster WIND 3 1500 900 Tuner monster ... further results 
+ " Hunter Dragon " has the highest original ATK of all Level 3 or lower  Dragon  monsters with 1700, resulting in 2500 ATK for the Level 4 "Cyberdark" monsters. " Leng Ling ", while having only 1500 ATK, will also set the ATK of any "Cyberdark" it is equipped to at 2500 ATK, and it can summon itself to the field while equipped. " Cyberdark Cannon ", " Cyberdark Claw " and " Autovarrett Dragon " are second to "Hunter Dragon" in terms of original ATK, with 1600 ATK each. " Masked Dragon " is both an eligible target for the Level 4 "Cyberdark" monsters and can search most other eligible targets. " Armed Dragon LV3 " can be Tributed for " Armed Dragon LV5 ", thus sending itself to the Graveyard to then be targeted by a "Cyberdark" monster. " Magna Drago " and " Delta Flyer " are  Tuner monsters  and can be used to perform  Synchro Summons . " Exploder Dragon " is useful for destroying opponents' monsters. " Dread Dragon " can search for other Level 3 or lower Dragon monsters when  destroyed by battle  and sent to the Graveyard, and is also a Tuner monster. " Red-Eyes Baby Dragon " can add a Level 1 Dragon monster from the Deck to the hand when sent to the Graveyard while equipped to a monster.
+ Despite their low ATK range, the " Dragunity "  archetype  can be a suitable complement for "Cyberdark" Decks as they have Tuner monsters with effects that only apply while equipped. The ideal monsters to equip would be " Dragunity Aklys " (destroys a card on the field if it is sent to the Graveyard while equipped to a monster) and " Dragunity Phalanx " (for Synchro Summoning).
+ Level 4 Dragon monsters (such as " Infernal Dragon ", " Blizzard Dragon ", and " Spear Dragon ") are usually kept at a minimum, if included at all.
+ 
+ For Fusion Monsters 
+   Japanese name Primary type Attribute Stars ATK DEF Malefic Truth Dragon Ｓｉｎ トゥルース・ドラゴン Effect Monster DARK 12 5000 5000 Blue-Eyes Chaos MAX Dragon ブルーアイズ・カオス・ＭＡＸ・ドラゴン Effect Monster Ritual Monster DARK 8 4000 0 Rainbow Dark Dragon 究極宝玉神 レインボー・ダーク・ドラゴン Effect Monster DARK 10 4000 0 Malefic Paradigm Dragon Ｓｉｎ パラダイム・ドラゴン Effect Monster DARK 10 4000 4000 Malefic Rainbow Dragon Ｓｉｎ レインボー・ドラゴン Effect Monster DARK 10 4000 0 ... further results 
+ High-Level Dragon monsters are usually kept to a minimum, as most of them do not contribute to the main strategy and can only be equipped to " Cyberdark Dragon " and " Cyberdarkness Dragon ". "Cyberdark" monsters are  DARK  monsters, so " Dark Armed Dragon " can be used effectively in a "Cyberdark" Deck.  Chaos Deck -themed strategies could be applied when using " Blue-Eyes White Dragon " and " The White Stone of Legend ", which could fuel the Special Summoning of cards like " Darkflare Dragon " and " Lightpulsar Dragon ". When paired with " Red-Eyes Darkness Metal Dragon ", the player can search for specific Dragon monsters and Special Summon them from the Graveyard. This recyclable strategy could be used to swarm the field with Dragon monsters for a  Synchro ,  Xyz  or  Link Summon , or a simple  beatdown . " Light and Darkness Dragon " can be sent to the Graveyard in a number of ways, and it will clear the player's field upon destruction to revive something else - however, in-theme, only "Cyberdarkness Dragon" benefits from being revived. "Cyberdark" monsters may mix well with " Armed Dragon " Decks because of the high  ATK   beatsticks  and because their  Tribute fodder  effects make them easy targets for the equip effect of the "Cyberdark" monsters. The monsters of the " Malefic " archetype are fairly easy to Summon, have high ATK, and they send themselves to the Graveyard unless there is a  Field Spell Card  such as " Dragon Ravine " on the field, easily setting them up to power-up "Cyberdark Dragon" or "Cyberdarkness Dragon".
+ 
+ 
+ Recommended Cards Monsters   
+ Normal Monsters 
+ Blue-Eyes White Dragon 
+ Hunter Dragon 
+ Effect Monsters 
+ Cyberdark Cannon 
+ Cyberdark Claw 
+ Cyberdark Edge 
+ Cyberdark Horn 
+ Cyberdark Keel 
+ Armageddon Knight  /  Dark Grepher 
+ Cracking Dragon 
+ Cyber Dragon 
+ Cyber Dragon Core 
+ Dark Armed Dragon 
+ Desperado Barrel Dragon 
+ Electromagnetic Turtle 
+ Exploder Dragon 
+ Malefic Blue-Eyes White Dragon 
+ Malefic Cyber End Dragon 
+ Malefic Stardust Dragon 
+ Malefic Truth Dragon 
+ Masked Dragon 
+ Peropero Cerperus 
+ Soul Drain Dragon 
+ Twin-Headed Behemoth 
+ Union monsters 
+ Leng Ling 
+ Tuner monsters 
+ Black Salvo 
+ Delta Flyer 
+ Dragunity Aklys 
+ Dragunity Phalanx 
+ Dragunity Corsesca 
+ The White Stone of Legend Extra Deck   
+ Fusion Monsters 
+ Cyberdark Dragon 
+ Cyberdarkness Dragon 
+ Chimeratech Fortress Dragon 
+ Chimeratech Overdragon 
+ Cyber End Dragon 
+ First of the Dragons 
+ Five-Headed Dragon 
+ Invoked Caliga 
+ Invoked Mechaba 
+ Panzer Dragon 
+ Starving Venom Fusion Dragon 
+ Elder Entity N'tss 
+ Synchro Monsters 
+ Black Rose Dragon 
+ Clear Wing Synchro Dragon 
+ Crystal Wing Synchro Dragon 
+ Dark End Dragon 
+ Dark Strike Fighter 
+ Samurai Destroyer 
+ Scrap Dragon 
+ PSY-Framelord Omega 
+ Xyz Monsters 
+ Dark Rebellion Xyz Dragon 
+ Gear Gigant X 
+ Queen Dragun Djinn 
+ Number 17: Leviathan Dragon 
+ Number 71: Rebarian Shark 
+ Link Monsters 
+ Topologic Bomber Dragon 
+ Triple Burst Dragon 
+ Twin Triangle Dragon 
+ Borreload Dragon 
+ Decode Talker Spells   &  Traps   
+ Spells 
+ Cyberdark Impact! 
+ Cyberdark Inferno 
+ Allure of Darkness 
+ Card of Demise 
+ Cards of Consonance 
+ Dark Eruption 
+ Draconnection 
+ Dragon Ravine 
+ Dragon Shrine 
+ Dragon's Mirror 
+ Extra-Foolish Burial 
+ Foolish Burial 
+ Fusion Conscription 
+ Fusion Substitute 
+ Future Fusion 
+ Gravity Blaster 
+ Instant Fusion 
+ Iron Call 
+ Limiter Removal 
+ Overload Fusion 
+ Polymerization 
+ Pot of Duality 
+ Terraforming 
+ Trade-In 
+ Traps 
+ Crush Card Virus 
+ Darklight 
+ Deck Devastation Virus 
+ Eradicator Epidemic Virus 
+ Fusion Reserve 
+ Magnet Force 
+ Weakness 
+ The Deck is very heavily reliant on Normal Summoning. 
+ The Deck can constantly summon high-ATK monsters with little investment, but due to the Cyberdarks powering themselves up via an equipped card, they are vulnerable to all forms of removal. Even under " Cyberdark Inferno "'s protection, the equipped cards are still vulnerable. 
+ Cards that lock access to the Graveyard, like " Necrovalley " or " Macro Cosmos ". 
+ Official Decklist 
+ 
+ "Cyberdark" Deck  [1] Monsters  (18) 
+ Effect Monsters 
+ Cyberdark Cannon  x3 
+ Cyberdark Claw  x3 
+ Cyberdark Edge  x3 
+ Cyberdark Horn  x3 
+ Cyberdark Keel  x3 
+ Electromagnetic Turtle 
+ Kuribandit 
+ Mathematician Extra Deck  (8) 
+ Fusion Monsters 
+ Cyberdarkness Dragon  x2 
+ Five-Headed Dragon 
+ Predaplant Chimerafflesia  x2 
+ Link Monsters 
+ Decode Talker  x3 Spells  (17) &  Traps  (5) 
+ Spells 
+ Allure of Darkness  x2 
+ Burden of the Mighty 
+ Cyberdark Inferno  x3 
+ Dark Hole 
+ Foolish Burial 
+ Future Fusion 
+ Harpie's Feather Duster 
+ Limiter Removal 
+ Overload Fusion 
+ Pot of Duality  x3 
+ Twin Twisters  x2 
+ Traps 
+ Lose 1 Turn 
+ Solemn Judgment 
+ Solemn Strike 
+ Solemn Warning 
+ Vanity's Emptiness 
+ References 
+ 
+ 
+ ↑   https://ygorganization.com/rememberonly8cards/ 
+ 
+ 
+ v e 
+ Cyber  cards 
+   
+" Cyber " 「サイバー」 Members 
+ Armored Cybern The Arrival Cyberse @Ignister Attachment Cybern Cyber Angel Benten Cyber Angel Dakini Cyber Angel Idaten Cyber Angel Izana Cyber Angel Natasha Cyber Angel Vrash Cyber Archfiend Cyber Barrier Dragon Cyber Blader Cyber Dinosaur Cyber Dragon Cyber Dragon Core Cyber Dragon Drei Cyber Dragon Herz Cyber Dragon Infinity Cyber Dragon Nachster Cyber Dragon Nova Cyber Dragon Sieger Cyber Dragon Vier Cyber Dragon Zwei Cyber Egg Angel Cyber Eltanin Cyber End Dragon Cyber Esper Cyber Eternity Dragon Cyber Gymnast Cyber Harpie Lady Cyber Jar Cyber Kirin Cyber Larva Cyber Laser Dragon Cyber Ogre Cyber Ogre 2 Cyber Ouroboros Cyber Petit Angel Cyber Pharos Cyber Phoenix Cyber Prima Cyber Raider Cyber Shark Cyber Tutu Cyber Tutubon Cyber Twin Dragon Cyber Valley Cyberdark Cannon Cyberdark Chimera Cyberdark Claw Cyberdark Dragon Cyberdark Edge Cyberdark End Dragon Cyberdark Horn Cyberdark Keel Cyberdarkness Dragon Cyberse Accelerator Cyberse Clock Dragon Cyberse Converter Cyberse Disabwurm Cyberse Enchanter Cyberse Gadget Cyberse Integrator Cyberse Magician Cyberse Quantum Dragon Cyberse Reminder Cyberse Sage Cyberse Synchron Cyberse White Hat Cyberse Wicckid Cyberse Witch Cyberse Wizard Etoile Cyber The Fiend Megacyber Malefic Cyber End Dragon Proto-Cyber Dragon Psychic Megacyber Stegocyber T.G. Cyber Magician Toon Cyber Dragon 
+ Cyber Emergency Cyber Energy Shock Cyber Eternal Cyber Network Cyber Repair Plant Cyber Revsystem Cyber Shadow Gardna Cyber Shield Cyber Summon Blaster Cyberdark Impact! Cyberdark Inferno Cyberdark Invasion Cyberdark Realm Cyberload Fusion Cybernetic Horizon Cybersal Cyclone Cyberse Beacon 
+ Support 
+ Attachment Cybern Cyber Dragon Core Cyberdark Chimera 
+ Cyber Eternal Cybernetic Horizon Cybernetic Overflow 
+ Related 
+ Blade Skater Chimeratech Fortress Dragon Chimeratech Megafleet Dragon Chimeratech Overdragon Clock Wyvern Gadget Token Petit Angel Wing Egg Elf 
+ Attack Reflector Unit Born from Draconis Byroad Sacrifice Cybernetic Hidden Technology Cybernetic Revolution Cynet Ritual Evolution Burst Photon Generator Unit Power Bond Ritual Sanctuary 
+ 
+   
+" Cyber Angel " 「サイバー・エンジェル」 Members 
+ Cyber Angel Benten Cyber Angel Dakini Cyber Angel Idaten Cyber Angel Izana Cyber Angel Natasha Cyber Angel Vrash 
+ Support 
+ Cyber Angel Izana Cyber Angel Natasha Cyber Petit Angel 
+ Incarnated Machine Angel Machine Angel Absolute Ritual Machine Angel Ritual Magnificent Machine Angel Merciful Machine Angel 
+ Related 
+ Cyber Egg Angel 
+ Ritual Sanctuary 
+ 
+   
+" Cyber Dragon " 「サイバー・ドラゴン」 Members 
+ Cyber Dragon Cyber Dragon Core Cyber Dragon Drei Cyber Dragon Herz Cyber Dragon Infinity Cyber Dragon Nachster Cyber Dragon Nova Cyber Dragon Sieger Cyber Dragon Vier Cyber Dragon Zwei Proto-Cyber Dragon Toon Cyber Dragon 
+ Support 
+ Chimeratech Megafleet Dragon Chimeratech Rampage Dragon Cyber Dragon Core Cyber Eternity Dragon 
+ Cyber Emergency Cyberload Fusion Cybernetic Revolution Super Strident Blaze 
+ Related 
+ Armored Cybern Chimeratech Fortress Dragon Chimeratech Overdragon Cyber Barrier Dragon Cyber Eltanin Cyber End Dragon Cyber Larva Cyber Laser Dragon Cyber Twin Dragon Malefic Cyber End Dragon 
+ Attack Reflector Unit Cyber Network Cyber Repair Plant Cyber Revsystem Cybernetic Hidden Technology Cybernetic Overflow Evolution Burst Photon Generator Unit Toon World 
+ 
+   
+ Cyber Girl  サイバー・ガール Members 
+ Blade Skater Cyber Angel Benten Cyber Angel Dakini Cyber Angel Idaten Cyber Angel Izana Cyber Angel Natasha Cyber Angel Vrash Cyber Blader Cyber Gymnast Cyber Prima Cyber Tutu Cyber Tutubon Etoile Cyber 
+ Related 
+ Doble Passe Machine Angel Absolute Ritual Machine Angel Ritual 
+ 
+   
+" Cyberdark " 「サイバー・ダーク」 Members 
+ Cyberdark Cannon Cyberdark Chimera Cyberdark Claw Cyberdark Dragon Cyberdark Edge Cyberdark End Dragon Cyberdark Horn Cyberdark Keel Cyberdarkness Dragon 
+ Support 
+ Cyberdark Cannon Cyberdark Chimera Cyberdark Claw Cyberdark End Dragon Cyberdarkness Dragon 
+ Cyberdark Inferno Cyberdark Invasion Cyberdark Realm 
+ Related 
+ Cyberdark Impact! 
+ 
+   
+" Cyberdark " 「サイバーダーク」 Members 
+ Cyberdark Impact! Cyberdark Inferno Cyberdark Invasion Cyberdark Realm Cybernetic Horizon 
+ Support 
+ Cyberdark Claw 
+ Related 
+ Cyberdark Dragon Cyberdark Edge Cyberdark Horn Cyberdark Keel 
+ 
+ v e 
+" Cyber " 「サイバー」 a   Members 
+ Armored Cybern The Arrival Cyberse @Ignister Cyber Angel Benten Cyber Angel Dakini Cyber Angel Idaten Cyber Angel Natasha Cyber Angel Vrash Cyber Barrier Dragon Cyber Blader Cyber Blader Cyber Dragon Cyber Dragon Nova Cyber End Dragon Cyber Esper Cyber Gymnast Cyber Harpie Cyber Jar Cyber Kirin Cyber Laser Dragon Cyber Ogre Cyber Ogre 2 Cyber Ouroboros Cyber Petit Angel Cyber Phoenix Cyber Prima Cyber Prima Cyber Raider Cyber Repairer Cyber Shadow Gardna Cyber Shield Cyber Summon Blaster Cyber Tutu Cyber Tutubon Cyber Twin Dragon Cyber Valley Cyberdark Dragon Cyberdark Dragon Cyberdark Edge Cyberdark Horn Cyberdark Impact! Cyberdark Keel Cybersal Cyclone Cyberse Annihilation Cyberse Beacon Cyberse Bridge Cyberse Cache Cyberse Clock Dragon Cyberse Gadget Cyberse Magician Cyberse Pride Cyberse Quantum Dragon Cyberse Shatter Cyberse Synchron Cyberse White Hat Cyberse Wicckid Cyberse Witch Cyberse Wizard Etoile Cyber Etoile Cyber The Fiend Megacyber ... further results 
+ Support 
+ Armored Cybern Cyber Angel Natasha Cybernetic Hidden Technology Machine Angel Absolute Ritual 
+ Related 
+ Attack Reflector Unit Blade Skater Cynet Ritual Machine Angel Ritual Photon Generator Unit Prima Light 
+ 
+ v e 
+" Cyber Angel " 「サイバー・エンジェル」 a   Members 
+ Cyber Angel Benten Cyber Angel Dakini Cyber Angel Idaten Cyber Angel Natasha Cyber Angel Vrash 
+ Support 
+ Cyber Angel Natasha Machine Angel Absolute Ritual Machine Angel Ritual 
+ Related 
+ Cyber Petit Angel 
+ 
+ v e 
+ Cyber Dragon  サイバー・ドラゴン a   Members 
+ Cyber Dragon Cyber Dragon Nova Proto-Cyber Dragon 
+ Related 
+ Attack Reflector Unit Chimeratech Fortress Dragon Chimeratech Overdragon Cyber Barrier Dragon Cyber End Dragon Cyber Laser Dragon Cyber Twin Dragon Malefic Cyber End Dragon Photon Generator Unit 
+ 
+ v e 
+ Cyber Girl  サイバー・ガール a   Members 
+ Blade Skater Cyber Angel Benten Cyber Angel Dakini Cyber Angel Idaten Cyber Angel Natasha Cyber Angel Vrash Cyber Blader Cyber Blader Cyber Gymnast Cyber Prima Cyber Prima Cyber Tutu Cyber Tutubon Etoile Cyber Etoile Cyber 
+ Related 
+ Allegro Toile Doble Passe Machine Angel Ritual Prima Light 
+ 
+ v e 
+ Cyberdark  サイバー・ダーク a   Members 
+ Cyberdark Dragon Cyberdark Dragon Cyberdark Edge Cyberdark Horn Cyberdark Impact! Cyberdark Keel 
+ 
+ v e 
+" Cyber " 「サイバー」 m   Members 
+ Cyber Alnair Cyber Alsafi Cyber Dinosaur Cyber Dragon Cyber Eltanin Cyber End Dragon Cyber Larva Cyber Petit Angel Cyber Roar Cyber Struve Cyber Thuban Cyber Valkyrie Emergency Cyber 
+ Support 
+ Born from Draconis Cyber Eltanin Cyber Roar Emergency Cyber 
+ 
+ v e 
+ Cyber Dragon  サイバー・ドラゴン m   Members 
+ Cyber Dragon 
+ Related 
+ Cyber End Dragon Cyber Roar 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/90/Broom_icon.png/revision/latest/scale-to-width-down/35?cb=20070612131135', 'https://static.wikia.nocookie.net/yugioh/images/3/3e/CyberdarkDragon-TF04-JP-VG.jpg/revision/latest/scale-to-width-down/350?cb=20120421115807']
+Categories: Articles needing cleanup, Archetypes, TCG and OCG archetypes, Archetypes with Fusion Monster(s)

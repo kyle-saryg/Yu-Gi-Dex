@@ -1,0 +1,698 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_The_Duelists_of_the_Roses_Gameplay
+
+Contents 
+ 
+ 1   Gameplay 
+ 
+ 1.1   Card Movement 
+ 1.2   Terrain 
+ 1.3   Deck Cost 
+ 1.4   Destiny Draw 
+ 
+ 
+ 2   3D Monsters 
+ 3   Passwords 
+ 4   See also 
+ 
+ 
+ Gameplay 
+ In the intro, Simon McMooran states that the dueling rules differ from the ones that are in the present time and that they are under the "Perfect Rule." 
+ The main focus of the Perfect Rule is the deck leader system. Any deck you build needs to be assigned a Deck Leader. Your deck leader is essentially the "avatar" of your deck - as it represents you playing the cards on the field. Like Monster cards, Deck Leaders are allowed one move each turn - allowing it to move one space (or two, if it has the Increased Movement bonus). However, unlike monsters, your deck leader can never order an attack. Each turn you are also allowed to play one card within a surrounding tile of your deck leader - provided there is no enemy units occupying the tile. Also, just like the Deck Leader representing you playing the cards, it also represents you when you take a direct hit - any hit on the deck leader will LP damage to you as if it was a direct hit. This also means it is possible to be hit directly even if you have monster cards out on the field.
+ Deck Leaders can be any monster card you have obtained, that has been levelled at least once with the ranking system. If you have ranked up a card that can not be obtained, it will retain its abilities, but can not be used as the deck leader. There are a total of 12 ranks for deck leaders - as they rank up, they gain leader abilities. Leader abilities change depending on the type of monster cards, and are often used to compliment the type of monster. Stronger monster types such as dragons gain the ability to reduce the summoning cost of their own high powered, high levelled monsters, whereas weaker decks such as the low powered fairy deck relies on a much stronger set of abilities that harm enemy creatures whilst buffing and protecting their own. In addition to these abilities, there are also hidden abilities which are important in the game such as the hidden card find, and extra slots in the slot machine, however these abilities are not listed and have no effect on duels themselves.
+ 
+ Card Movement 
+ This perfect rule involves several changes, the biggest being the addition of a 7x7 grid of tiles for each play field, as opposed to the standard 5 slots for monster cards and 5 slots for spells/traps - however the rule is carried over that only 5 of your monsters and up to 5  of your spell/trap cards can be present on the field at any given time. Each duelists' deck leaders start out on opposing sides, and as well as cards that are played themselves, are only allowed one move per turn. This move can either involve flipping the card face up (if not already flipped), changing its position to attack/defense, or physically moving to another tile - either a tile adjacent to its current space. Cards are unable to change position (atk/def) and move a tile in the same turn, however cards can be flipped face up manually prior to moving, as part of its move. If the monster (including deckleader) has a movespeed advantage (via terrain or effect), can move up to two units away from its current position. This allows movement to a diagonal tile in one turn, or simply moving two units horizontal/vertically. No monsters can ever move more than two tiles per turn.
+ 
+ Terrain 
+ Main article:  Terrain 
+ The terrain affects the game by giving an advantage to some and harming others as the ATK and DEF and the number of movements (when face up). The effect towards ATK and DEF is a difference of either +500 or -500 to both stats, directed by which card type favors which field type. The field types are:
+ Normal: no change occurs at all;
+ Meadow: advantage for  Warrior  and  Beast-Warrior  type monsters, disadvantage for  Spellcaster  and impairs type monsters;
+ Forest: advantage for  Plant ,  Beast , Beast-Warrior,  Insect  and  Pyro  type monsters, also affects  Demon  type monsters;
+ Wasteland: advantage for  Rock ,  Dinosaur ,  Zombie  and  Machine  type monsters, disadvantage for  Aqua , Plant,  Sea Serpent  and  Fish  type monster; 
+ Mountain: advantage for  Fairy ,  Dragon ,  Thunder , and  Winged Beast  type monsters, disadvantage for Zombie type monsters; 
+ Sea: advantage for Aqua, Thunder, Fish, and Sea Serpent type monster, disadvantage for Pyro and Machine type monsters; 
+ Dark: advantage for Spellcaster, Demon, and Zombie type monsters, disadvantage for Fairy type monsters; 
+ Toon: All the monsters are at a disadvantage except those that indicate its sole discretion to be privileged in this field; 
+ Crush: Only  Immortal  monsters have an advantage in this field, the non-immortal with 1500 or more ATK is destroyed when they pass through this land. 
+ Labyrinth: Units can not access this terrain unless it has an effect which permits and entry in this field (ie:  Labyrinth Tank ,  Wall Shadow ), nor can a card be played on Labyrinth terrain. You can, however, attack these cards on Labyrinth terrain - however if you destroy the monster on the Labyrinth terrain, your monster will be returned to the last tile it was on before attacking on the labyrinth
+ The  Reptile  type is the only one to not have an advantage or a disadvantage in any field (with the exception of Toon Terrain, which deficits any non-supported card)
+ 
+ Deck Cost 
+ Each card has a Deck Cost which can be used to indicate the overall power of the card. Your deck's Deck Cost (DC) is the total of all forty cards in your deck, not including the deck leader. During the Campaign Mode, you cannot duel someone if you have a higher total Deck Cost than your opponent. This was put into the game to prevent players from completely dominating their opponent, however Deck Cost can not accurately represent the power of a deck; only give a general indication of how many powerful or weaker cards it contains -  this is more apparent when fighting enemies that have deck costs of over a thousand.
+ Monsters follow a general rule of thumb when it comes to deck cost - Attack + Defense x 0.01. For instance;  Red-Eyes B. Dragon  has an attack of 2400 and a defense of 2000;  a total of 4400 points, which when multiplied by 0.01 give the card its deck cost. All monsters are intended to have this exact equation with the exception of a few cards (that were presumably mistakes). If the card has an effect, regardless of the effect; 5 deck cost is added on to the monster. This allows you to save deck cost points by adding weak monsters with strong effects to your deck.
+ Immortal-type monsters appear to be an exception to the normal formula, as they each have 10 added to what their DC would be with the standard equation. This is likely to balance their innate power compared to normal monsters.
+ Spells and traps are more arbitrary asthey do not follow any strict rules, but are generally tiered in terms of power. For instance; all basic equip cards are 10 deck cost (some such as  Megamorph  and  Invigoration  being 15 perhaps due to balance reasons), all terrain cards are 30 deck cost, and the most powerful spells are tiered at 40 deck cost ( Tremendous Fire ;  Solomon's Lawbook ), 50 deck cost ( Monster Reborn ,  Dragon Capture Jar ,  Copycat ), 60 deck cost ( Graverobber ,  Magic Drain ), and 80 deck cost ( Royal Decree ,  Mirror Force ,  Just Desserts ), with the two highest deck cost cards in the game ( Riryoku  and  Mirror Force ) capping at 99 deck cost.
+ On the contrary, cards with niche effects such as  Cursebreaker  (which can be used for either harm or good) or cards that are only situationally useful such as  Monster Recovery  or  Call Of The Haunted , usually have very low deck costs, as unlike more powerful cards, they are not useful in every situation. These cards (especially Cursebreaker; which is a very good counter to most enemies in the game) are a fantastic way to keep deck costs low to fight weaker opponents, or allow you to also add stronger monsters to your deck without inflating the deck cost too much. The quickest, most simple way to reduce deck cost is to omit your stronger monsters and replace them with copies of  Fake Trap  (due to them being common) - or any low deck cost card you have thats more useful - temporarily.
+ All Ritual cards are 5 deck cost.
+ 
+ Destiny Draw 
+ A Destiny Draw may occur while Dueling, when a player is in a poor situation regarding cards and  Life Points . They are then given a powerful card, that is not included in their  Deck . This includes, but is not limited to;  Raigeki , Mirror Force,  Dian Keto the Cure Master , as well as others including  Woodland Sprite  and  Arsenal Bug . Due to the nature of these cards effects, the Destiny Draw system will attempt to give you the most helpful card at the given time - ie; giving you an arsenal bug when your deck leader is an insect, or giving you Dian Keto The Cure Master when on critically low life points. Your deck leader's rank also effects the Destiny Draw system, as the higher your rank is, the more likely you are to be given a destiny draw at any time.
+ 
+ 3D Monsters 
+ The Duelists of the Roses shows the monster itself hovering above the card when it is face up on the field. When monster battles are set to "Display" in the options menu (which you can bring up at any time during a Duel) when two monsters come into contact the screen switches to a detailed arena representing the current field terrain with the two monsters on either side of the arena. After a few moments the two monsters battle and the winner then roars or dances its approval over the victory of the battle.
+ 
+ Passwords 
+ Players may obtain secret passwords through Kaiba's Chain Pieces found at the end of each story mode side. These passwords may be entered through the deck construction menu. The monsters/traps/spells unlocked by the passwords are usually very powerful and can be used strategically. Other passwords can be found when you clear the story of  Yu-Gi-Oh! Forbidden Memories  for the PS1.
+ 
+ 
+ 
+ Card Passwords
+ 
+ 
+ Card Name
+ 
+ Password
+ 
+ 
+ Ancient Tree of Enlightenment 
+ 
+ EKJHQ109 
+ 
+ 
+ Aqua Dragon 
+ 
+ JXCB6FU7 
+ 
+ 
+ Barrel Dragon 
+ 
+ GTJXSBJ7 
+ 
+ 
+ Beastking of the Swamps 
+ 
+ QXNTQPAX 
+ 
+ 
+ Birdface 
+ 
+ N54T4TY5 
+ 
+ 
+ Blast Sphere 
+ 
+ CZN5GD2X 
+ 
+ 
+ Change of Heart 
+ 
+ SBYDQM8B 
+ 
+ 
+ Crush Card 
+ 
+ SRA7L5YR 
+ 
+ 
+ Dark Hole 
+ 
+ UMJ10MQB 
+ 
+ 
+ Dragon Seeker 
+ 
+ 81EZCH8B 
+ 
+ 
+ Earthshaker 
+ 
+ Y34PN1SV 
+ 
+ 
+ Elf's Light 
+ 
+ E5G3NRAD 
+ 
+ 
+ Exodia the Forbidden One 
+ 
+ 37689434 
+ 
+ 
+ Fairy King Truesdale 
+ 
+ YF07QVEZ 
+ 
+ 
+ Fairy's Gift 
+ 
+ NVE7A3EZ 
+ 
+ 
+ Goblin Fan 
+ 
+ 92886423 
+ 
+ 
+ Gravity Bind 
+ 
+ 0HNFG9WX 
+ 
+ 
+ Greenkappa 
+ 
+ YBJMCD6Z 
+ 
+ 
+ Harpie's Feather Duster 
+ 
+ 8HJHQPNP 
+ 
+ 
+ Horn of the Unicorn 
+ 
+ S14FGKQ1 
+ 
+ 
+ Left Arm of the Forbidden One 
+ 
+ A5CF6HSH 
+ 
+ 
+ Magician of Faith 
+ 
+ GME1S3UM 
+ 
+ 
+ Meteor Dragon 
+ 
+ 86985631 
+ 
+ 
+ Mimicat 
+ 
+ 69YDQM85 
+ 
+ 
+ Mirror Wall 
+ 
+ 53297534 
+ 
+ 
+ Mystical Capture Chain 
+ 
+ N1NDJMQ3 
+ 
+ 
+ Robotic Knight 
+ 
+ S5S7NKNH 
+ 
+ 
+ Royal Decree 
+ 
+ 8TETQHE1 
+ 
+ 
+ Seiyaryu 
+ 
+ 2H4D85J7 
+ 
+ 
+ Serpentine Princess 
+ 
+ UMQ3WZUZ 
+ 
+ 
+ Slate Warrior 
+ 
+ 73153736 
+ 
+ 
+ Swordsman from a Foreign Land 
+ 
+ CZ81UVGR 
+ 
+ 
+ Swordstalker 
+ 
+ AH0PSHEB 
+ 
+ 
+ Tactical Warrior 
+ 
+ 054TC727 
+ 
+ See also 
+ List of  Yu-Gi-Oh! The Duelists of the Roses  cards 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Yu-Gi-Oh! The Duelists of the Roses

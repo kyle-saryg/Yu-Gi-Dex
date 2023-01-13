@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Has_type
+
+This  special property  is used to assign a  type  to other properties. If a property does not have a type specified, it defaults to  page . Commonly-used types on this wiki are  date ,  number ,  page , and  text . For more information, see  smw:Help:Special property Has type .
+ 
+ 
+ 
+ 
+Categories:

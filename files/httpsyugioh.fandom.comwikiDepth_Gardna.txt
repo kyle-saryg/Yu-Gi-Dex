@@ -1,0 +1,114 @@
+Link: https://yugioh.fandom.com/wiki/Depth_Gardna
+
+
+ Depth Gardna 
+ 
+ Japanese:   デプス・ガードナー 
+ Romaji:   Depusu Gādonā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Condition 
+ During  damage calculation , if you would take  battle damage  from a  direct attack : That  damage  becomes 0, then  Special Summon  this card as an  Effect Monster  ( Fish - Type / WATER / Level  5/ ATK  ?/ DEF  ?). (This card is also still a  Trap Card .) This card's ATK and DEF become equal to the amount of battle damage you would have taken at the  activation  of this card.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  137 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ デプス・ガードナー 
+ 直接攻撃によって自分が戦闘ダメージを受けた時に発動できる。その戦闘ダメージを０にする。このカードは発動後モンスターカード（魚族・水・星５・攻／守？）となり、自分のモンスターカードゾーンに特殊召喚できる。このカードの攻撃力・守備力はこのカードの発動時に受けた戦闘ダメージと同じ数値になる。このカードは罠カードとしても扱う。 
+ 
+ 
+ Depusu Gādonā 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Nash 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Trap Monster 
+ 
+ Stat changes  
+ Changes own ATK value 
+ Changes own DEF value 
+ 
+ Summoning  categories  
+ Special Summons itself from your Spell & Trap Card Zone 
+ 
+ LP   
+ Prevents battle damage 
+ 
+ v e 
+ Trap Monster   罠 モンスター a   m   Members 
+ Copy Knight Cyber Shadow Gardna Depth Gardna Dimension Reflector The Door of Destiny Embodiment of Apophis Gimmick Box Instant Shutter Jirai Gumo King Scarlet Krystal Avatar Metalhold the Moving Blockade Metamorphortress Stronghold the Moving Fortress Uluru the Guardian Spirit Zoma the Spirit 
+ Related 
+ Dragon Capture Jar 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/7b/DepthGardna-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20140119181321', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/6/60/DepthGardna-JP-Anime-ZX-NC.png/revision/latest/scale-to-width-down/185?cb=20140119181339', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

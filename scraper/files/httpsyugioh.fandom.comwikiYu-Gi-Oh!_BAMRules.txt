@@ -1,0 +1,118 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_BAM/Rules
+
+
+ This article is a stub. You can help the  Yu-Gi-Oh!  Wikia by  expanding it . 
+ Contrary to the original Yu-Gi-Oh! card games,  Yu-Gi-Oh! BAM  has its own special rules, which is somewhat similar to the effect of " Subspace Battle ":
+ 
+       The  Field  in  Yu-Gi-Oh! BAM .     
+ Each side of the field consists of 6 slots; 3 for  Monster Cards  and 3 for  Spell Cards . The slots are arranged in columns called "channels", and each player has 3 channels. 
+ During a Duel, each player starts with 3 cards in his/her hand, and each turn they draw until they have 3 cards in their hand. The cards left unused from the previous turn remain in the hand. Players can use the Shuffle option, at the cost 15  Energy , to shuffle 3 cards in his/her hand into the Deck and draw 3 new ones. 
+ The total Life Points of the player when starting the Duel is determined by the total Life Point stats of all Monster cards in the player's Deck. In order to win the Duel, a player must reduce the Life Points of their opponent to 0. 
+ Players start the duel with exactly 15 cards in their Decks. If a player's Deck runs out of cards, the Duel simply continues without that player drawing any cards during his/her  turn . 
+ Players cannot have more than 3 cards of the same name in their Deck. There is no Side Deck or Extra Deck. 
+ Currently, all available cards are  Unlimited . 
+ At the beginning of the turn, before the player hits the BAM button, the player is free to place and change the slot of his/her Monsters and Spells on the Field or return them back to the hand if he/she wants. After the BAM button is hit, Monsters and Spells placed on the field will be locked into their slots. Their effects will be triggered automatically if the conditions are met. 
+ Monsters on each side of the field will start battling automatically, and the one that has less Power will be destroyed. If the Monsters have equal Power, both of them will be destroyed. In both cases, cards under Immune effect will not be destroyed. The effects and battles of cards will be activated and resolved from the leftmost to the rightmost channels. The  BAM Machine  provides an in-depth mechanic and effect priority when the player hits the BAM button. 
+ If a monster's Power is reduced to 0 at any point of the duel, it is automatically destroyed and its effect (for example: Requiem) will be triggered. During battle, if a monster with lower Power is not destroyed by battle because it was immune, the controller does not lose any Life Points. 
+ There are no  Trap Cards  in Yu-Gi-Oh! BAM; some of them were adapted to spells, such as " Mirror Force ". There are also no  Synchro  or  Ritual Monsters  in game, and some have similarly been adapted to be Effect Monsters, such as " Thought Ruler Archfiend " or " Black Luster Soldier ". 
+ There are no limits to  Summoning  monsters in Yu-Gi-Oh! BAM. Monsters that have Levels higher than 4 can be played without the need of a  Tribute . The player can also Summon as many times as they like as long as there is a slot open. 
+ After the update on September 5, 2013, duels are now limited to 20 rounds. After 15 rounds, the round counter appears. Once all rounds are finished, the player with the highest Life Points wins the Duel. If both Duelists have the same Life Points, the advantage is given to the online Player. 
+ v e 
+ Yu-Gi-Oh! BAM Gameplay 
+ Rules 
+ BAM Machine 
+ Level 
+ Arena 
+ BAMgo 
+ Booster Battle 
+ Objectives 
+ Storyline Rewards 
+ Duel Stars Challenge 
+ Items 
+ Cards 
+ Card List 
+ Errata 
+ Image Gallery 
+ Series 1 
+ Series 2 
+ Side Series 
+ Common 
+ Rare 
+ Ultra Rare 
+ BAM Legend 
+ Crafting 
+ Friendship Card 
+ Currency 
+ Coins 
+ Card Pieces 
+ Duel Points 
+ Energy 
+ Other 
+ Power-Ups 
+ 
+ Booster Packs 
+ Series 1 
+ A Newcomer in Alba Litora 
+ Dark Destruction 
+ Legend of the Dragon 
+ Sky Storm 
+ Psychic Time Warp 
+ Alba Litora's Elite 
+ Series 2 
+ Tropica City Dark Forces 
+ Obscure Devastation 
+ Root of Evil 
+ Wings of Destiny 
+ Immemorial Cataclysm 
+ Live Duels 
+ Blazing Wind 
+ Test Packs 
+ Legendary Pack 
+ Novice Pack 
+ Time-Limited Packs 
+ Holiday Collection 
+ BAM Legend All-Stars 
+ 
+ Starter Decks 
+ Series 1 
+ Bestial Fury 
+ Cyber Assault 
+ Insect Swarm 
+ Enchanted Fairies 
+ Nightmarish Fiends 
+ Zombie Horde 
+ Dragon Master 
+ Series 2 
+ Gusto Tempest 
+ Arena Deck 
+ Competitive Arena Deck #1 
+ Time-Limited Theme Deck 
+ Eternal Zombies Deck 
+ Hieratic Dragons Deck 
+ Blackwing Deck 
+ Photon Deck 
+ Community Deck 
+ Laval Deck 
+ Lightray & Lightsworn Deck 
+ The Fabled Deck 
+ Naturia Bugs Deck 
+ Shark Deck 
+ Dinosaurs Deck 
+ Psychic Deck 
+ 
+ Maps 
+ Alba Litora 
+ Tropica City 
+ Miscellaneous 
+ Characters 
+ Music 
+ Story Transcript 
+ 2012 Events 
+ 2013 Events 
+ 2014 Events 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/48/BAM-Field.png/revision/latest/scale-to-width-down/350?cb=20121230080317', '/extensions-ucp/v2/ImageMap/resources/desc-20.png']
+Categories: Stubs

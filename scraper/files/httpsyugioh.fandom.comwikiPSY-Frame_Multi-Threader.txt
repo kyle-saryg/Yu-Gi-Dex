@@ -1,0 +1,428 @@
+Link: https://yugioh.fandom.com/wiki/PSY-Frame_Multi-Threader
+
+
+ 
+ 
+ PSY-Frame Multi-Threader ＰＳＹ フレーム・マルチスレッダー 
+ 
+ English 
+PSY-Frame Multi-Threader 
+ French 
+ Multitraiteur Structure-PSY Check translation 
+ German 
+ PSI-Hüllen-Multithreader Check translation 
+ Italian 
+ PSI-Struttura Multi-Processore Check translation 
+ Korean 
+ PSY 프레임 멀티스레더 Check translation 
+ Portuguese 
+ PSÍ-Armação Multiprocessadora Check translation 
+ Spanish 
+ Armazón-PSÍ Multihilo Check translation 
+ Japanese (kana) 
+ サイフレーム・マルチスレッダー Check translation 
+ Japanese (base) 
+ ＰＳＹフレーム・マルチスレッダー Check translation 
+ Japanese ( rōmaji ) 
+Saifurēmu Maruchisureddā 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Psychic  /  Effect 
+ Level 
+ 6   
+ ATK  /  DEF 
+ 0  /  2500 
+ Passcode 
+ 43266605 
+ Card effect types 
+ 
+ 
+ Unclassified 
+ Unclassified 
+ Trigger 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+This card's name becomes " PSY-Frame Driver " while it is in the  hand  or  Graveyard . If a " PSY-Frame " card(s) you  control  would be  destroyed by battle  or  card effect , you can  discard  this card instead. If a "PSY-Frame"  Tuner  is  Special Summoned  to your  field , while this card is in your Graveyard (except during the  Damage Step ): You can Special Summon this card, but  banish  it when it  leaves the field . You can only use this effect of "PSY-Frame Multi-Threader"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Le nom de cette carte devient "Pilote Structure-PSY" tant qu'elle est dans la main ou Cimetière. Si une ou plusieurs cartes "Structure-PSY" que vous contrôlez vont être détruites au combat ou par un effet de carte, vous pouvez défausser cette carte à la place. Si un Syntoniseur "Structure-PSY" est Invoqué Spécialement sur votre Terrain, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser cet effet de "Multitraiteur Structure-PSY" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Der Name dieser Karte wird zu „PSI-Hüllentreiber“, solange sie sich in der Hand oder im Friedhof befindet. Falls eine oder mehr „PSI-Hülle“-Karten, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört würden, kannst du stattdessen diese Karte abwerfen. Falls ein „PSI-Hülle“-Empfänger als Spezialbeschwörung auf deine Spielfeldseite beschworen wird, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst diesen Effekt von „PSI-Hüllen-Multithreader“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Il nome di questa carta diventa "PSI-Struttura Pilota" mentre è nella mano o nel Cimitero. Se una o più carte "PSI-Struttura" che controlli stanno per essere distrutte in battaglia o dall'effetto di una carta, puoi invece scartare questa carta. Se un Tuner "PSI-Struttura" viene Evocato Specialmente sul tuo Terreno, mentre questa carta è nel tuo Cimitero (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta, ma bandiscila quando lascia il Terreno. Puoi utilizzare questo effetto di "PSI-Struttura Multi-Processore" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ O nome deste card se torna "PSÍ-Armação Condutor" enquanto ele estiver na mão ou no Cemitério. Se um ou mais cards "PSÍ-Armação" que você controla seriam destruídos em batalha ou por um efeito de card, em vez disso, você pode descartar este card. Se um Regulador "PSÍ-Armação" for Invocado por Invocação-Especial no seu campo, enquanto este card estiver no seu Cemitério (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial, mas bana-o quando ele deixar o campo. Você só pode usar este efeito de "PSÍ-Armação Multiprocessadora" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ El nombre de esta carta se convierte en "Conductor de Armazón-PSÍ" mientras esté en la mano o el Cementerio. Si una o más cartas "Armazón-PSÍ" que controlas fueran a ser destruidas en batalla o por efecto de una carta, puedes descartar esta carta en su lugar. Si un Cantante "Armazón-PSÍ" es Invocado de Modo Especial a tu Campo, mientras esta carta está en tu Cementerio (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial, pero destiérrala cuando deje el Campo. Sólo puedes usar este efecto de "Armazón-PSÍ Multihilo" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「ＰＳＹフレーム・マルチスレッダー」の③の効果は１ターンに１度しか使用できない。①：このカードは手札・墓地に存在する限り、「ＰＳＹフレーム・ドライバー」として扱う。②：自分フィールドの「ＰＳＹフレーム」カードが戦闘・効果で破壊される場合、代わりに手札のこのカードを捨てる事ができる。③：このカードが墓地に存在し、自分フィールドに「ＰＳＹフレーム」チューナーが特殊召喚された場合に発動できる。このカードを墓地から特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "PSY(싸이)프레임 멀티스레더"의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드는 패 / 묘지에 존재하는 한, "PSY(싸이)프레임 드라이버"로 취급한다. ②: 자신 필드의 "PSY(싸이)프레임" 카드가 전투 / 효과로 파괴될 경우, 대신에 패의 이 카드를 버릴 수 있다. ③: 이 카드가 묘지에 존재하고, 자신 필드에 "PSY(싸이)프레임" 튜너가 특수 소환되었을 경우에 발동할 수 있다. 이 카드를 묘지에서 특수 소환한다. 이 효과로 특수 소환한 이 카드는, 필드에서 벗어났을 경우에 제외된다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2016-11-03  
+ INOV-EN029   
+ Invasion of Venom 
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-EN143   
+ 2017 Mega-Tin Mega Pack 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2016-11-03  
+ INOV-FR029   
+ Invasion of Venom 
+ Invasion : Vengeance  
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-FR143   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Méga-Boîte Méga-Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2016-11-03  
+ INOV-DE029   
+ Invasion of Venom 
+ Invasion: Vengeance  
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-DE143   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Mega-Tin Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2016-11-03  
+ INOV-IT029   
+ Invasion of Venom 
+ Invasione: Vendetta  
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-IT143   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Mega-Tin Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2016-11-04  
+ INOV-PT029   
+ Invasion of Venom 
+ Invasão: Vingança  
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-PT143   
+ 2017 Mega-Tin Mega Pack 
+ Mega-Pacote da Mega-Latas 2017  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2016-11-03  
+ INOV-SP029   
+ Invasion of Venom 
+ Invasión: Venganza  
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-SP143   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Mega-Lata Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2016-07-09  
+ INOV-JP029   
+ Invasion of Venom 
+ インベイジョン・オブ・ヴェノム  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2016-10-20  
+ INOV-KR029   
+ Invasion of Venom 
+ 인베이전 오브 베놈  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ PSY-Frame Driver 
+ Tuner monster 
+ 
+ Archetypes  and  series   
+ PSY-Frame 
+ 
+ Supports   archetypes   
+ PSY-Frame 
+ 
+ Actions  
+ Activates from your hand 
+ Discards itself 
+ Activates from your Graveyard 
+ Activates upon Special Summon 
+ 
+ Stat changes  
+ Changes own name while in the hand 
+ Changes own name while in the GY 
+ 
+ Monster / Spell / Trap  categories  
+ Redirects destruction 
+ Cannot be destroyed by card effects 
+ 
+ Summoning  categories  
+ Special Summons itself from your Graveyard 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ Banished  categories  
+ Banishes itself when it leaves the field 
+ 
+ Miscellaneous  
+ Only once per turn 
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12619 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" PSY-Frame " 「 ＰＳＹ フレーム」 Members 
+ PSY-Frame Driver PSY-Frame Multi-Threader PSY-Framegear Alpha PSY-Framegear Beta PSY-Framegear Delta PSY-Framegear Epsilon PSY-Framegear Gamma PSY-Framelord Lambda PSY-Framelord Omega PSY-Framelord Zeta 
+ PSY-Frame Accelerator PSY-Frame Circuit PSY-Frame Overload 
+ Support 
+ PSY-Frame Multi-Threader PSY-Framegear Alpha PSY-Framelord Lambda PSY-Framelord Zeta 
+ PSY-Frame Accelerator PSY-Frame Circuit PSY-Frame Overload 
+ Related 
+ Wattsychic Fighter 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d5/PSYFrameMultiThreader-MP17-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170823083544', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

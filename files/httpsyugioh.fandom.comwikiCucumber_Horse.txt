@@ -1,0 +1,100 @@
+Link: https://yugioh.fandom.com/wiki/Cucumber_Horse
+
+The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Cucumber Horse 精 霊 冥 騎 － 急 還 馬 
+ 
+ English 
+Cucumber Horse 
+ Japanese (kana) 
+ しょうりょうめい－きゅうかんば Check translation 
+ Japanese (base) 
+ 精霊冥騎－急還馬 Check translation 
+ Japanese ( rōmaji ) 
+Shōryō Meiki - Kyūkanba 
+ Japanese (translated) 
+Dark Steed of the Deceased - Sudden Return Horse 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Plant  /  Effect 
+ Level 
+ 8   
+ ATK  /  DEF 
+ 100  /  200 
+ Passcode 
+ 89552119 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Unless it is the  Battle Phase ,  send  this card to the  GY . At the start of the Battle Phase, if this card is in your GY: You can  send  1  Plant   monster  from your  hand  or  face-up   field  to the GY;  Special Summon  this card, then you can Special Summon 1 monster from either GY to your field, but send all monsters Special Summoned by this  effect  to the GY at the end of the Battle Phase. You can only use this effect of "Cucumber Horse"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の②の効果は１ターンに１度しか使用できない。①：バトルフェイズ以外では、モンスターゾーンのこのカードは墓地へ送られる。②：このカードが墓地に存在する場合、自分・相手のバトルフェイズ開始時に、手札及び自分フィールドの表側表示モンスターの中から、植物族モンスター１体を墓地へ送って発動できる。このカードを特殊召喚する。その後、自分または相手の墓地からモンスター１体を選んで自分フィールドに特殊召喚できる。この効果で特殊召喚したモンスターは全てバトルフェイズ終了時に墓地へ送られる。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-07-16 DABL-JP036 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Normal Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Plant 
+ 
+ Actions  
+ Sends itself from field to Graveyard 
+ Sends from hand to Graveyard for cost 
+ Sends from field to Graveyard for cost 
+ 
+ Summoning  categories  
+ Special Summons itself from your Graveyard 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17791 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/f0/CucumberHorse-DABL-JP-NR.png/revision/latest/scale-to-width-down/300?cb=20220718231241', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

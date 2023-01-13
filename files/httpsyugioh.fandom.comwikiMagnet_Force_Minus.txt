@@ -1,0 +1,115 @@
+Link: https://yugioh.fandom.com/wiki/Magnet_Force_Minus
+
+
+ The Japanese (OCG) version of this card is not a member of the " Magnet "  archetype , because its Japanese name does not contain  「 磁石 」 .   As its English name contains "Magnet", it  may  be treated a member of the "Magnet" archetype at a TCG event, subject to local rulings.     
+ Magnet Force Minus 
+ 
+ Japanese:   マグネット・フォース・マイナス 
+ Romaji:   Magunetto Fōsu Mainasu 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Continuous 
+ Continuous 
+ Equip  this card to a  monster . The equipped monster is treated as a  Minus monster . Battles between the equipped monster and other Minus monsters are  negated . If your opponent controls a  Plus monster , the equipped monster must battle a Plus monster, if able.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  GX :  036 ,  082 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  GX ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ マグネット・フォース・マイナス 
+ 発動 後、 表側表示 モンスター １体を対象とした装備カードとなる。このカードを装備したモンスターは【 マイナス・モンスター 】となる。マイナス・モンスターと戦闘する場合、そのバトルを 無効 として終了する。 プラス・モンスターが相手の場にいる時、攻撃表示となり、プラス・モンスターと戦闘しなければならない。・・・ 
+ 
+ 
+ Magunetto Fōsu Mainasu 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Bastion Misawa 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Minus monster 
+ Plus monster 
+ 
+ Anti-supports   
+ Minus monster 
+ Plus monster 
+ 
+ Actions  
+ Equips self from field 
+ 
+ Monster / Spell / Trap  categories  
+ Treated as Equip Card 
+ 
+ Attack  categories  
+ Must attack 
+ Manages attack targets 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/3f/MagnetForceMinus-OW.png/revision/latest/scale-to-width-down/185?cb=20131216165451', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/be/MagnetForceMinus-JP-Anime-GX-NC.png/revision/latest/scale-to-width-down/185?cb=20160525225333', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f7/MagnetForceMinus-JP-Anime-GX-NC-2.png/revision/latest/scale-to-width-down/126?cb=20160525205618', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

@@ -1,0 +1,39 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Abyss-sphere
+
+
+ Abyss-sphere 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ OCG Rulings 
+ Activating this card does not  target . However, after activation, this card continuously  targets  the monster that was  Special Summoned  from the  Deck . [1] 
+ Destroying this card during the opponent's next  End Phase  doesn't start a chain. [1] 
+ If " Abyss-sphere " is activated during the  Main Phase 2  of the opponent's turn, the destruction of " Abyss-sphere " that occurs during the opponent's next  End Phase  will occur during the  End Phase  in which that " Abyss-sphere " was activated. (The same happens if " Abyss-sphere " is activated during the  Draw Phase ,  Standby Phase ,  Main Phase 1  or  Battle Phase  of the opponent's turn) Also, if " Abyss-sphere " is activated during the  End Phase  of the opponent's turn, the destruction of " Abyss-sphere " that occurs during the opponent's next  End Phase  will occur during the  End Phase  of the opponent's next turn. (The activated " Abyss-sphere " is not destroyed during this  End Phase ). [2] 
+ You can chain  Quick-Play Spell Cards  to the activation of your own " Abyss-sphere ". Also, after the resolution of " Abyss-sphere ", as long as it remains  face-up , you cannot activate  Spell Cards , including  Quick-Play Spell Cards . [3] 
+ Even if " Abyss-sphere " is already active, you can activate the effects of  Spell Cards  that are already  face-up  on field. [4] 
+ Even if the effect of " Royal Decree " is being applied, during the opponent's next  End Phase , " Abyss-sphere " is destroyed. [5] 
+ References 
+ 
+ ↑  1.0   1.1   Konami OCG Card Database : Abyssphere 
+ 
+ ↑   Konami OCG Card Database : Regarding "Abyssphere" text which says that after its activation, it is destroyed during the opponent's next End Phase, if it is activated during the Main Phase 2 of the opponent's turn, when is it destroyed?
+Also, if "Abyssphere" is activated during the opponent's End Phase, is it destroyed during that End Phase? 
+ 
+ ↑   Konami OCG Card Database : Can you chain Quick-Play Spell Cards to the activation of your own "Abyss-sphere"? 
+ 
+ ↑   Konami OCG Card Database : Even if "Abyss-sphere" is already active, can you activate the effects of Spell Cards that are already active? 
+ 
+ ↑   Konami OCG Card Database : If the effect of "Royal Decree" is being applied, does "Abyss-sphere" destroy itself during the opponent's next End Phase? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

@@ -1,0 +1,105 @@
+Link: https://yugioh.fandom.com/wiki/Ground_Erosion
+
+
+ Ground Erosion 
+ 
+ Japanese:   大地の浸蝕 
+ Kana:   だいちのしんしょく 
+ Romaji:   Daichi no Shinshoku 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Select  1  Monster Card Zone  on your opponent's side of the  field  that is currently used by a  Monster Card . You can  send  this  face-up  card to the  Graveyard  to  negate  the  effect  of the monster in the selected Monster Card Zone and decrease its  ATK  by the number of your  Standby Phases  this card has been face-up on the field x 500.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh! :  221 
+ Yu-Gi-Oh!  GX :  016 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  Yu-Gi-Oh!  ·  GX ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 大 地 の 浸 蝕 
+ 自分のスタンバイフェイズ毎にターンカウンターを１つ乗せる。ターンカウンターの乗ったこのカードを生け贄に捧げる、相手モンスターゾーンを１つ選択する。このモンスターゾーンにいるモンスターは、ターンカウンター１つにつき攻撃力を５００ポイント下げ、特殊効果を封じられる。この効果は、そのモンスターゾーンにいる限り続く。 
+ 
+ 
+ Daichi no Shinshoku 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Yugi Muto 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Earth  
+ 
+ Actions  
+ Sends itself from field to Graveyard for cost 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your opponent's Effect Monsters 
+ 
+ Attack  categories  
+ Your opponent's monsters lose ATK 
+ 
+ v e 
+" Earth " 「地」 a   m   Members 
+ Barrel Behind the Door Burning Land Call of the Earthbound Canyon Card of Ascension Chthonian Soldier Contaminated Earth Crawling Dragon Dark Contract with the Gate Demise of the Land Earth Chant Earthbound Beginnings Earthbound Fusion Earthbound Immortal Aslla Piscu Earthbound Immortal Ccapac Apu Earthbound Immortal Ccarayhua Earthbound Immortal Chacu Challhua Earthbound Immortal Cusillu Earthbound Immortal Uru Earthbound Immortal Wiraqocha Rasca Earthbound Prison Earthbound Prisoner Ground Keeper Earthbound Prisoner Line Walker Earthbound Prisoner Stone Sweeper Earthbound Release Earthbound Rescue Earthbound Servant Geo Grasha Earthbound Servant Geo Gremlin Earthbound Servant Geo Gremlina Earthbound Servant Geo Gryphon Earthbound Servant Geo Kraken Earthbound Spell Sealer Earthbound Spirit Earthbound Tundra Earthbound Wave Earthbound Whirlwind Earthshaker Fissure Flaming Fist Frontline Base Gaia Knight, the Force of Earth Gaia Plate the Earth Giant Granmarg the Rock Monarch Ground Breaking Ground Erosion Hayate the Earth Star Heart of the Underdog Helpoemer Infernal Transaction Inferno Reckless Summon Jirai Gumo Jirai Gumo King of the Swamp Level Limit - Area B Localized Tornado Mefist the Infernal General Monster Tamer Narrow Tunnel Number 3: Cicada King Pandemonium Watchbear ... further results 
+ Support 
+ Fujin the Breakstorm Star Idaten the Conqueror Star Raijin the Breakbolt Star 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/74/GroundErosion-JP-Anime-DM.png/revision/latest/scale-to-width-down/200?cb=20141011022946', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e5/GroundErosion-OW.png/revision/latest/scale-to-width-down/185?cb=20131227193543', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f3/GroundErosion-JP-Anime-DM-NC.png/revision/latest/scale-to-width-down/185?cb=20141011033651', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

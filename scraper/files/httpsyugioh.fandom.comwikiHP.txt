@@ -1,0 +1,47 @@
+Link: https://yugioh.fandom.com/wiki/HP
+
+In Dungeon Dice Monsters,  HP , or Hit Points, are used to keep track of how much damage a monster has taken.  A monster may only remain on the field if it has HP, and once its HP is reduced to 0 it is destroyed and removed from the field. Unlike Duel Monsters, a monster need not have more  ATK  than the defending monster's HP. HP damage is tracked with  damage counters , which represent 10 HP each. As a monster accumulates Damage Counters, it loses HP. HP can only be restored by monster effects and special items.
+ HP can be reduced by monster attack, effects from monsters, or certain items. A monster may defend its HP by using Defense Crests, which reduce the damage taken by the monster's  DEF . A monster may defend as many times as it is attacked, but can only use one defense crest at a time to reduce damage. In other words, a monster with 30 HP and 10 DEF can only defend against 10 ATK. If a monster attacks it with 30 ATK, it will only be reduced to 20, and the defending player cannot simply use 3 defense crests to reduce the damage to 0 (excepting any special effects).
+ 
+ v e 
+ Dungeon Dice Monsters Pieces 
+ Dice and Cards 
+ Monsters and Items 
+ Lists
+ Manga 
+ Anime 
+ Video game 
+ Terminology 
+ Battle 
+ Dimension 
+ Dungeon 
+ Dungeon Path 
+ Dungeon Master Zone 
+ HP 
+ Crest Counter 
+ Crest Pool 
+ Damage Counter 
+ Life Points 
+ Monster Lord 
+ Movement 
+ Flying 
+ Tunnel 
+ Shelled Ground 
+ Crests 
+ Attack 
+ Defense 
+ Magic 
+ Progress 
+ Summon 
+ Trap 
+ 
+ Category 
+ {{ DDM card }} 
+ {{ Manga DDM card }} 
+ {{ Anime DDM card }} 
+ {{ VG DDM card }} 
+ 
+ 
+ 
+ 
+Categories: DDM Gameplay

@@ -1,0 +1,390 @@
+Link: https://yugioh.fandom.com/wiki/Spell_Reactor%E3%83%BBRE
+
+The  Arabic, Croatian, Greek  and  Portuguese                     names given are not official.  
+ The  Portuguese                lore given is not official.  
+ 
+ 
+ 
+ Spell Reactor・RE マジック・リアクター・ ＡＩＤ 
+ 
+ English 
+Spell Reactor・RE 
+ French 
+ Réacteur de Magie・CIEL Check translation 
+ German 
+ Zauberreaktor•RE Check translation 
+ Italian 
+ Respingi Magia ・CIELO Check translation 
+ Korean 
+ 매직 리액터 AID Check translation 
+ Portuguese 
+ Reator de Magia・CÉU Check translation 
+ Spanish 
+ Reactor de Hechizos ·NEO Check translation 
+ Japanese (kana) 
+ マジック・リアクター・エイド Check translation 
+ Japanese (base) 
+ マジック・リアクター・ＡＩＤ Check translation 
+ Japanese ( rōmaji ) 
+Majikku Riakutā Eido 
+ Japanese (translated) 
+Magic Reactor AID 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Machine  /  Effect 
+ Level 
+ 3   
+ ATK  /  DEF 
+ 1200  /  900 
+ Passcode 
+ 15175429 
+ Card effect types 
+ 
+ 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Once per  turn , when your opponent  activates  a  Spell Card , you can  destroy  the Spell Card and inflict 800  damage  to your opponent. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Une fois par tour, lorsque votre adversaire active une Carte Magie, vous pouvez détruire la Carte Magie et infliger 800 points de dommages à votre adversaire. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Einmal pro Spielzug, wenn dein Gegner eine Zauberkarte aktiviert, kannst du die Zauberkarte zerstören und deinem Gegner 800 Schaden zufügen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Una volta per turno , quando il tuo avversario  attiva  una  Carta Magia , puoi  distruggere  la Carta Magia e infliggere 800  danni  al tuo avversario. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Uma vez por turno, quando o seu oponente ativa um Spell Card, você pode destruir aquela carta e infligir 800 de dano ao seu oponente. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Una vez por turno, cuando tu adversario activa una Carta Mágica, puedes destruir esa Carta Mágica e infligir 800 puntos de daño a tu adversario. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ １ターンに１度、相手が 魔法カード を発動した時に発動できる。その魔法カードを破壊し、相手ライフに８００ポイント ダメージ を与える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 상대가 마법 카드를 발동했을 때 발동할 수 있다. 그 마법 카드를 파괴하고, 상대 라이프에 800 포인트 데미지를 준다. 이 효과는 1턴에 1번밖에 사용할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2009-02-28  
+ CRMS-EN014   
+ Crimson Crisis 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2009-03-03  
+ CRMS-FR014   
+ Crimson Crisis 
+ La Crise Écarlate  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2009-03-03  
+ CRMS-DE014   
+ Crimson Crisis 
+ Crimson Crisis  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2009-03-03  
+ CRMS-IT014   
+ Crimson Crisis 
+ Crisi Scarlatta  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2009-03-03  
+ CRMS-SP014   
+ Crimson Crisis 
+ Crisis Carmesi  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2008-11-15  
+ CRMS-JP014   
+ Crimson Crisis 
+ ＣＲＩＭＳＯＮ ＣＲＩＳＩＳ  
+ Common 
+ 
+ 
+ 2012-08-11  
+ DE03-JP077   
+ Duelist Edition Volume 3 
+ デュエリストエディション　Ｖｏｌｕｍｅ　３  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Asian-English 
+ 
+ 
+ 
+ Asian-English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2009-04-16  
+ CRMS-AE014   
+ Crimson Crisis 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2008-11-15  
+ CRMS-KR014   
+ Crimson Crisis 
+ 심홍의 위기  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   5D's Tag Force 4 
+ 
+ 
+ Fine and Dandy  ( Rare ) 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Reactor 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys Spell Cards 
+ 
+ LP   
+ Damages your opponent 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 8002 ( ja  ( rulings )   en   fr   de   it   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status 5D's Tag Force 4 2009-09-17 – – – – – Present 
+ 
+ 
+ 
+   " Spell Reactor・RE " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Reactor " 「リアクター」 Members 
+ Ancient Gear Reactor Dragon Reactor Slime Spell Reactor・RE Summon Reactor・SK Trap Reactor・Y FI 
+ Psychic Reactor 
+ Support 
+ Dark Flattop 
+ Related 
+ Dark Strike Fighter Flying Fortress SKY FIRE 
+ Fake Explosion 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/55/SpellReactorRE-CRMS-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20090625022750', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

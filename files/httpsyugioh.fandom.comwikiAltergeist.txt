@@ -1,0 +1,1026 @@
+Link: https://yugioh.fandom.com/wiki/Altergeist
+
+
+ 
+ Altergeist 
+ オルターガイスト  ( Orutāgaisuto ) 
+ 
+ 
+ 
+ 
+ Ghost Girl  with " Altergeist Meluseek ", " Altergeist Primebanshee " and " Altergeist Marionetter . 
+ 
+ 
+ Other names 
+ 
+ French 
+ Altergeist 
+ 
+ 
+ German 
+ Altergeist 
+ 
+ 
+ Italian 
+ Altergeist 
+ 
+ 
+ Korean 
+ 얼터가이스트   Eolteogaiseuteu   (romanized) 
+ 
+ 
+ Portuguese 
+ Altergeist 
+ 
+ 
+ Spanish 
+ Altergeist 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Circuit Break Extreme Force Flames of Destruction Dark Neostorm 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Star Pack VRAINS Battles of Legend: Relentless Revenge 2018 Mega-Tin Mega Pack OTS Tournament Pack 9 OTS Tournament Pack 11 2019 Gold Sarcophagus Tin Mega Pack Maximum Gold: El Dorado Brothers of Legend Ghosts From the Past: The 2nd Haunting 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ LINK VRAINS Duelist Set Premium Pack 2020 
+ 
+ 
+ 
+ 
+ Korea-Only Sets 
+ 
+ 
+ Advanced Event Pack 2018 Vol.1 Advanced Event Pack 2019 Vol.1 Premium Pack Vol.15 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! VRAINS 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Altergeist " is an  archetype  of  female   Spellcaster   monsters  with various  Attributes  used by  Emma Bessho (Ghost Gal)  in  Yu-Gi-Oh! VRAINS . It debuted in  Circuit Break .
+ 
+ Contents 
+ 
+ 1   Design 
+ 
+ 1.1   Appearance 
+ 1.2   Etymology 
+ 
+ 
+ 2   Members 
+ 3   Support 
+ 4   Playing style 
+ 5   Official Decklists 
+ 6   Weaknesses 
+ 
+ 
+ Design 
+ Appearance 
+ Each member of this archetype is based on a mythological, ghostly female creature, but with cybernetic features unlike traditional Spellcaster monsters. All of the monsters shown so far has a feminine appearance except  Altergeist Dragvirion . The "Altergeist" monsters also sport a head piece that project laterally from their heads and lacks facial features except a smiling mouth.
+ 
+ Etymology 
+ The name "Altergeist" is a play on the word  poltergeist , formed from the words  alter  and  geist . All members of the archetype are themed after a mythological character followed by a computing terminology.
+ 
+ Members 
+ 
+ 
+ Altergeist
+ 
+ Origin
+ 
+ 
+ Mythology
+ 
+ Computing
+ 
+ 
+ Dragvirion 
+ 
+ Dragon / Gwyllion 
+ 
+ Virus / Drag 
+ 
+ 
+ Fifinellag 
+ 
+ Fifinella 
+ 
+ Lag 
+ 
+ 
+ Fijialert 
+ 
+ Fiji mermaid 
+ 
+ Alert 
+ 
+ 
+ Hexstia 
+ 
+ Hestia 
+ 
+ Hexadecimal 
+ 
+ 
+ Kidolga 
+ 
+ Durga 
+ 
+ Kilobyte 
+ 
+ 
+ Kunquery 
+ 
+ Centaurides / Pontianak 
+ 
+ Query language 
+ 
+ 
+ Marionetter 
+ 
+ Marionette 
+ 
+ Data network 
+ 
+ 
+ Meluseek 
+ 
+ Melusine 
+ 
+ Zero seek 
+ 
+ 
+ Memorygant 
+ 
+ Morrígan / Nightgaunt 
+ 
+ Memory 
+ 
+ 
+ Multifaker 
+ 
+ Fairy 
+ 
+ Rogue security software 
+ 
+ 
+ Pixiel 
+ 
+ Pixie 
+ 
+ Pixel 
+ 
+ 
+ Pookuery 
+ 
+ Púca 
+ 
+ Query language 
+ 
+ 
+ Primebanshee 
+ 
+ Banshee 
+ 
+ Cisco Prime 
+ 
+ 
+ Silquitous 
+ 
+ Silkie 
+ 
+ Ubiquitous computing 
+ 
+ Support 
+ 
+ 
+ Card 
+ Origin
+ 
+ 
+ Altergeist Camouflage 
+ Camouflage 
+ 
+ 
+ Altergeist Emulatelf 
+ Emulation 
+ 
+ 
+ Altergeist Failover 
+ Failover 
+ 
+ 
+ Altergeist Haunted Rock 
+ Deadlock 
+ 
+ 
+ Altergeist Manifestation 
+ Manifestation 
+ 
+ 
+ Altergeist Protocol 
+ Protocol 
+ 
+ 
+ Personal Spoofing 
+ Spoofing attack 
+ 
+ Playing style 
+ The Main Deck monsters have slight disruptive capabilities,  negating  an opposing card's effects, stopping an attack,  returning  an opposing card to the hand or  sending  them to the Graveyard. Also, they have swarming capabilities that can be used to set up the Link Summon of their ace monsters, namely " Altergeist Primebanshee " and " Hexstia ", whose effects further reaffirms their swarming and disruptive abilities. Some of them also have an effect that triggers when they are used as Link Materials, searching for resources or retrieving cards from the Graveyard. The deck is supported by Trap Cards that either  revive  monsters,  protect  them from attacks or even  negate  and destroy opposing cards.
+ The key to many of their successful plays is the power of " Altergeist Multifaker " who can Special Summon itself from the hand and any "Altergeist" from the Deck when a Trap Card is activated. As a result, they tend to be a slower strategy than most modern Decks, relying heavily on  floodgates  to slow down an opponent's strategy to a crawl. "Altergeists" aim to reduce games down to slow wars of attrition that they can win through field control and their many  floating  effects. A typical first turn would involve using " Altergeist Marionetter " to Set an "Altergeist" Trap from Deck (most likely " Altergeist Protocol "), then using " Personal Spoofing " to search "Multifaker", which then Summons itself and " Altergeist Silquitous " to  bounce  any opposing cards that come into play. By recycling "Multifaker" over and over (as "Spoofing" can search the same card it returns to the Deck), you can have access to any of the more specialised "Altergeists" whenever you need them, ranging from " Meluseek " to remove troublesome cards to " Kunquery " to control the  Battle Phase .
+ If an opponent is unable to remove the field presence of the monsters, then " Altergeist Hexstia " can come into play, taking full advantage of their floating effects to negate most Spell/Trap cards, while also acting as the Deck's main offensive presence.
+ 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ Altergeist Kunquery 
+ Altergeist Marionetter 
+ Altergeist Meluseek 
+ Altergeist Multifaker 
+ Altergeist Pixiel 
+ Altergeist Silquitous 
+ Aleister the Invoker 
+ Blizzard Princess 
+ Ritual Monsters 
+ Litmus Doom Swordsman Extra Deck   
+ Fusion Monsters 
+ Invoked Cocytus 
+ Invoked Magellanica 
+ Invoked Mechaba 
+ Invoked Raidjin 
+ Quintet Magician 
+ Xyz Monsters 
+ Raidraptor - Ultimate Falcon 
+ Link Monsters 
+ Altergeist Hextia 
+ Altergeist Kidolga 
+ Altergeist Primebanshee 
+ Akashic Magician 
+ Firewall Dragon Spells   &  Traps   
+ Spells 
+ Arrivalrivals 
+ Future Fusion 
+ Invocation 
+ Litmus Doom Ritual 
+ Magic Planter 
+ Magical Dimension 
+ Magical Meltdown 
+ Magicalized Fusion 
+ Overdone Burial 
+ Pre-Preparation of Rites 
+ Spellbook of Knowledge 
+ Spellbook of Wisdom 
+ The Book of the Law 
+ Terraforming 
+ Wonder Wand 
+ World Legacy Succession 
+ Pot of Duality 
+ Secret Village of the Spellcasters 
+ Pot of Extravagance 
+ Traps 
+ Altergeist Camouflage 
+ Altergeist Emulatelf 
+ Altergeist Materialization 
+ Altergeist Protocol 
+ Personal Spoofing 
+ Back to the Front 
+ Link Restart 
+ Magician's Circle 
+ World Legacy Awakens 
+ Rivalry of Warlords 
+ Waking the Dragon 
+ Anti-Spell Fragrance 
+ Imperial Order 
+ Solemn   Counter Traps 
+ Official Decklists 
+ 
+ V Jump recommended Altergeist Deck Monsters   
+ Effect Monsters 
+ Altergeist Kunquery  x3 
+ Altergeist Marionetter  x3 
+ Altergeist Meluseek  x3 
+ Altergeist Silquitous  x3 
+ Tuner monsters 
+ Effect Veiler  x2 Extra Deck   
+ Xyz Monsters 
+ Castel, the Skyblaster Musketeer  x2 
+ Link Monsters 
+ Akashic Magician  x3 
+ Altergeist Primebanshee  x3 
+ Decode Talker 
+ Firewall Dragon  x2 
+ Gaiasaber, the Virtual Knight 
+ Proxy Dragon  x3 Spells   &  Traps   
+ Spells 
+ Dark Hole  x2 
+ Harpie's Feather Duster 
+ Magical Dimension  x2 
+ Monster Reborn 
+ Secret Village of the Spellcasters  x3 
+ Soul Charge 
+ Terraforming  x2 
+ Wonder Wand  x2 
+ Traps 
+ Altergeist Camouflage  x3 
+ Altergeist Protocol  x3 
+ Back to the Front  x2 
+ Personal Spoofing  x3 
+ Solemn Strike 
+ Weaknesses 
+ "Altergeists" are a Trap-based Deck. This gives them a lot of their slow, control-oriented playing style but also gives them some pronounced weaknesses. 
+ Obviously, playing second is a serious handicap for them. While not insurmountable with the help of  hand traps , they can struggle against a pronounced board. 
+ They struggle against monsters with targeting protection as their removal monsters do little good. 
+ Trap removal can massively hurt this Deck. While "Protocol" stops their Traps being negated, they are nearly all Continuous Traps, meaning " Twin Twisters " and similar removal cards can simply destroy them. This is particularly painful for "Spoofing", as it is not an "Altergeist" card, making searching replacements slow, but the player will also lose the monster they shuffled into the Deck.
+ On the other hand, destroying their backrow on-masse can be a far riskier proposition, as most players side " Waking the Dragon " to act as insurance against such tactics. 
+ They often have very low ATK, meaning that monsters with fairly high ATK can simply run them down. Even "Hexstia" can prove vulnerable in battle if incautiously used/isolated. With the popularity of Traps like  Mirror Force  at an all-time low, the only thing between the "Altergeists" and a solid thumping is usually the monsters themselves and their removal effects.
+ This also means they struggle to  OTK  decks/inflict serious damage in one turn. It is possible to weather the storm for a turn and probably still be in the game afterwards. 
+ Finally, " Red Reboot " can set back the Deck an entire turn if used correctly. While the player loses a lot of  LP  and the "Altergeist" player gets a free search, the player can play through their turn without further interruption and crush the Deck with their superior firepower. Their negations are no good if the Summon they are trying to prevent have already happened. 
+ Ideally, "Altergeists" play first, setting up a field with 1-2 monsters and plenty of cards as backrow. As such, " Evenly Matched " is one of the Deck's most dangerous enemies. If you play "Altergeists", it is advised to run a full set of " Imperial Iron Wall ", as not only will they prevent " Evenly Matched ", but will also block the opponent from using " Pot of Desires ", " Pot of Extravagance " and plenty of banish-based effects, while only blocking the GY effect of " Altergeist Manifestation " for you. (of course that means that you should probably avoid running banish-based cards yourself) 
+   
+" Altergeist " 「オルターガイスト」 Members 
+ Altergeist Dragvirion Altergeist Fifinellag Altergeist Fijialert Altergeist Hexstia Altergeist Kidolga Altergeist Kunquery Altergeist Marionetter Altergeist Meluseek Altergeist Memorygant Altergeist Multifaker Altergeist Pixiel Altergeist Pookuery Altergeist Primebanshee Altergeist Silquitous 
+ Altergeist Camouflage Altergeist Emulatelf Altergeist Failover Altergeist Haunted Rock Altergeist Manifestation Altergeist Protocol 
+ Support 
+ Altergeist Dragvirion Altergeist Fifinellag Altergeist Fijialert Altergeist Hexstia Altergeist Kidolga Altergeist Kunquery Altergeist Marionetter Altergeist Meluseek Altergeist Memorygant Altergeist Multifaker Altergeist Pixiel Altergeist Pookuery Altergeist Primebanshee Altergeist Silquitous 
+ Altergeist Camouflage Altergeist Emulatelf Altergeist Failover Altergeist Manifestation Altergeist Protocol Personal Spoofing 
+ 
+ v e 
+" Altergeist " 「オルターガイスト」 a   Members 
+ Altergeist Camouflage Altergeist Dragvirion Altergeist Fifinellag Altergeist Fijialert Altergeist Haunted Rock Altergeist Hexstia Altergeist Kidolga Altergeist Kunquery Altergeist Manifestation Altergeist Marionetter Altergeist Meluseek Altergeist Memorygant Altergeist Multifaker Altergeist Pookuery Altergeist Primebanshee Altergeist Protocol Altergeist Silquitous 
+ Support 
+ Altergeist Camouflage Altergeist Dragvirion Altergeist Fifinellag Altergeist Fijialert Altergeist Haunted Rock Altergeist Hexstia Altergeist Kidolga Altergeist Kunquery Altergeist Manifestation Altergeist Marionetter Altergeist Meluseek Altergeist Multifaker Altergeist Pookuery Altergeist Primebanshee Altergeist Protocol Altergeist Silquitous Personal Spoofing 
+ 
+ 
+ 
+ Six Attributes 
+ 
+ This box:  view edit 
+ DARK    
+ EARTH   
+ FIRE    
+ LIGHT   
+ WATER   
+ WIND    
+ 
+ 
+ /Assault Modes 
+ Red Dragon Archfiend  /  Colossal Fighter 
+ Hyper Psychic Blaster  /  T.G. Halberd Cannon 
+ Doomkaiser Dragon 
+ Arcanite Magician 
+ n/a 
+ Stardust Dragon 
+ 
+ 
+ @Ignisters    Base forms   Evolved forms 
+ Doyon     Dark Templar 
+ Doshin     Earth Golem 
+ Achichi     Fire Phoenix 
+ Pikari     Light Dragon 
+ Hiyari     Water Leviathan 
+ Bururu     Wind Pegasus 
+ 
+ 
+ Alchemy Beasts    Summoners     (Normal Spell Cards) 
+ Moonface the Silver     Silver Key 
+ Leon the Lead     Lead Compass 
+ Salamandra the Steel     Steel Lamp 
+ Ouroboros the Bronze     Bronze Scale 
+ Ekenas the Mercury     Mercury Hourglass 
+ Aretos the Tin     Tin Spell Circle 
+ 
+ 
+ Aliens 
+ Overlord  /  Mother  /  Psychic 
+ Shocktrooper  /  Infiltrator  /  Warrior 
+ Mars  /  Telepath 
+ Ammonite  /  Dog  /  Grey  /  Kid  /  Shocktrooper M-Frame 
+ Hunter  /  Hypno 
+ Skull 
+ 
+ 
+ Altergeists 
+ Primebanshee  /  Multifaker  /  Kidolga  /  Fifinellag  /  Dragvirion  /  Memorygant  /  Pookuery 
+ Kunquery 
+ Hexstia 
+ Marionetter 
+ Meluseek  /  Fijialert 
+ Silquitous  /  Pixiel 
+ 
+ 
+ Aromages 
+ Marjoram 
+ Cananga 
+ Bergamot 
+ Jasmine 
+ Rosemary 
+ Laurel 
+ 
+ 
+ Attribute Boosters   (500 ATK▲/400 DEF▼)    Link Monsters    (500 ATK▲/500 DEF▲)    Field Spells    (500 ATK▲/400 DEF▼)    Equip Spells    (400 ATK▲/200 DEF▼) 
+ Witch's Apprentice     Wee Witch's Apprentice     Mystic Plasma Zone     Sword of Dark Destruction 
+ Milus Radiant     Missus Radiant     Gaia Power     Invigoration 
+ Little Chimera     Duelittle Chimera     Molten Destruction     Burning Spear 
+ Hoshiningen     Hip Hoshiningen     Luminous Spark     Elf's Light 
+ Star Boy     Mistar Boy     Umiiruka     Steel Shell 
+ Bladefly     Greatfly     Rising Air Current     Gust Fan 
+ 
+ 
+ Attribute Knights 
+ Armageddon 
+ Dust 
+ Brushfire 
+ Dawn 
+ Shore 
+ Altitude 
+ 
+ 
+ Attribute Reptiles 
+ Umbral Soul 
+ Raging Earth 
+ Firestorm Prominence 
+ Radiant Spirit 
+ Silent Abyss 
+ Destruction Cyclone 
+ 
+ 
+ Attribute Sorcerers    (4/1500/0/Spellcasters) 
+ Dark 
+ n/a 
+ Fire 
+ Light 
+ Aqua 
+ n/a 
+ 
+ 
+ Attribute Spirits 
+ Luna the Dark Spirit 
+ The Rock Spirit 
+ Spirit of Flames 
+ Diana the Light Spirit 
+ Aqua Spirit 
+ Garuda the Wind Spirit 
+ 
+ 
+ Attribute Summoners 
+ Mystic Tomato 
+ Giant Rat 
+ UFO Turtle 
+ Shining Angel 
+ Mother Grizzly 
+ Flying Kamakiri #1 
+ 
+ 
+ B.E.S. 
+ Big Core 
+ Covered Core  /  Blaster Cannon Core 
+ Big Core MK-2 
+ Big Core MK-3 
+ Crystal Core 
+ Tetran 
+ 
+ 
+ Barrier Statues 
+ Abyss 
+ Drought 
+ Inferno 
+ Heavens 
+ Torrent 
+ Stormwinds 
+ 
+ 
+ Beast Gear World 
+ Catapult Devilkong 
+ Motor Wolf  /  Trike Fox  /  King Convoy Ligeon 
+ Buggy Dog 
+ n/a 
+ n/a 
+ Gyro Jackal 
+ 
+ 
+ Charmers     Familiar-Possessed     Cataclysmic Charmers     Spiritual Arts    Familiar   Possessed Familiars 
+ Dharc     Dharc     n/a     Greed     Meda Bat     n/a 
+ Aussa     Aussa     Avalanching Aussa     Kurogane     Marmot     Nefarious 
+ Hiita     Hiita     Blazing Hiita     Kurenai     Fox Fire     Inari Fire 
+ Lyna     Lyna     n/a     Hijiri     Happy Lover     n/a 
+ Eria     Eria     Raging Eria     Aoi     Gigobyte     Jigabyte 
+ Wynn     Wynn     Storming Wynn     Miyabi     Petit Dragon     Ranryu 
+ 
+ 
+ Chrysalis     Neo-Spacians    Evolved forms   Contact Fusions   Evolved forms   Advanced Contact Fusions 
+ Pantail     Dark Panther     n/a     Dark Neos     n/a     Chaos Neos 
+ Mole     Grand Mole     n/a     Grand Neos     n/a     Nebula Neos 
+ Larva     Flare Scarab     n/a     Flare Neos     n/a     Magma Neos 
+ Pinny     Glow Moss     Twinkle Moss     Glow Neos     n/a     Cosmo Neos 
+ Dolphin     Aqua Dolphin     Marine Dolphin     Aqua Neos     Marine Neos     n/a 
+ Chicky     Air Hummingbird     n/a     Air Neos     n/a     Storm Neos 
+ 
+ 
+ Code Talkers      (Link-3) 
+ Decode    ( Extended ) 
+ Transcode 
+ Powercode 
+ Encode 
+ Shootingcode 
+ Excode 
+ 
+ 
+ Color Ninjas    Dragon Ninjas 
+ Strike     Black 
+ Senior Silver     n/a 
+ n/a     Red 
+ White     White 
+ n/a     Blue 
+ Yellow     Yellow 
+ 
+ 
+ Cubic 
+ Vijam  /  Crimson Nova  ( Trinity ) 
+ Dark Garnex 
+ Blade Garoodia 
+ Duza  /  Buster Gundil  /  Indiora Doom Volt 
+ n/a 
+ Geira Guile 
+ 
+ 
+ CXyz 
+ Dark Fairy Cheer Girl  /  Mechquipped Djinn Angeneral 
+ Comics Hero Legend Arthur  /  Battleship Cherry Blossom  /  Zubaba Saikyo General 
+ Coach Lord Ultimatrainer 
+ Simon the Great Moral Leader  /  Barian Hope 
+ N.As.Ch. Knight 
+ Skypalace Babylon 
+ 
+ 
+ Dice Roll  Archfiends 
+ Terrorking  /  Masterking 
+ Vilepawn 
+ Infernalqueen 
+ Desrook 
+ Darkbishop 
+ Shadowknight 
+ 
+ 
+ Double Tributers     Effigies 
+ Double Coston     Dark 
+ The Trojan Horse     Earth 
+ Flame Ruler     n/a 
+ Kaiser Sea Horse     Light 
+ Unshaven Angler     n/a 
+ Whirlwind Prodigy     Wind 
+ 
+ 
+ Dragonmaids    Human forms   Dragon forms 
+ Chamber     n/a 
+ Nurse     Ernus 
+ Kitchen     Tinkhec 
+ House     Sheou 
+ Laundry     Nudyarl 
+ Parlor     Lorpar 
+ 
+ 
+ Dustons     (1/0/1000/Fiends) 
+ Star 
+ Yellow 
+ Red 
+ House  /  White 
+ Blue 
+ Green 
+ 
+ 
+ Elemental HERO    Fusion Monsters    (1 "HERO" + 1 matching Attribute) 
+ Escuridao 
+ Gaia 
+ Nova Master 
+ The Shining 
+ Absolute Zero 
+ Great Tornado 
+ 
+ 
+ Elemental Lords     Elementsabers 
+ Umbramirage     Molehu 
+ Grandsoil     Aina 
+ Pyrorex     Malo 
+ Phosphorage     Lapauila  ( Mana ) 
+ Moulinglacia     Nalu 
+ Windrose     Makani 
+ 
+ 
+ Empowered Warriors     Summoners 
+ Dragonox     n/a 
+ Terratiger     White Tiger 
+ Arnis     Red Sparrow 
+ Dragodies     Golden Dragon 
+ Hydrortoise      Green Turtle 
+ Ventdra     Blue Dragon 
+ 
+ 
+ Endymion 
+ Master Magician  /  Mighty Master of Magic 
+ Magister 
+ Rogue 
+ Crusader  /  Reflection 
+ Magistus of Mastery 
+ Servant 
+ 
+ 
+ Entities 
+ Azathot 
+ Nyarla 
+ Cthugua 
+ N'tss 
+ Norden 
+ Hastorr 
+ 
+ 
+ Fortune Fairies     Fortune Ladies 
+ Ann     Dark  /  Past 
+ Chee     Earth 
+ En     Fire 
+ Hikari     Light  /  Every 
+ Swee     Water 
+ Hu     Wind 
+ 
+ 
+ Fur Hire 
+ Seal  /  Folgo 
+ Beat  /  Dyna 
+ Bravo 
+ Rafale 
+ Helmer  /  Wiz 
+ Donpa  /  Recon  /  Sagitta 
+ 
+ 
+ Generaiders 
+ Hela  /  Harr 
+ Dovelgus  /  Jormungandr 
+ Naglfar  /  Loptr 
+ Mardel  /  Utgarda 
+ Nidhogg 
+ Frodi 
+ 
+ 
+ Gizmek 
+ Orochi 
+ Uka 
+ Kaku 
+ Yata 
+ Okami 
+ Mikoto 
+ 
+ 
+ Guardians    Weapons     (Equip Spell Cards) 
+ Baou  /  Dreadscythe     Wicked-Breaking Flamberge  /  Reaper Scythe 
+ Grarl     Gravity Axe 
+ Ceal     Shooting Star Bow 
+ Tryce     Twin Swords of Flashing Light 
+ Kay'est     Rod of Silence 
+ Elma  /  Eatos     Buttefly Dagger  /  Celestial Sword 
+ 
+ 
+ Invoked     (1 " Aleister the Invoker " + 1 matching Attribute) 
+ Caliga 
+ Magellanica 
+ Purgatrio 
+ Mechaba 
+ Cocytus 
+ Raidjin 
+ 
+ 
+ Kaiju 
+ Radian 
+ Kumongous 
+ Dogoran 
+ Jizukiru  /  Mecha-Dogoran  /  Thunder King  /  Mecha-Thunder-King 
+ Gameciel 
+ Gadarla 
+ 
+ 
+ Knightmare 
+ Iblee  /  Unicorn  /  Orcust  /  Idlee 
+ Cerberus 
+ Phoenix 
+ Gryphon 
+ Mermaid 
+ Goblin 
+ 
+ 
+ Legendary Planets 
+ Sun  /  Jupiter  /  Saturn  /  Pluto 
+ Terra Firma 
+ Mars 
+ Venus  /  Uranus 
+ Mercury  /  Neptune 
+ n/a 
+ 
+ 
+ Masked HEROes 
+ Dark Law  /  Anki 
+ Dian 
+ Goka 
+ Koga 
+ Vapor  /  Acid 
+ Divine Wind  /  Blast 
+ 
+ 
+ Magician Girls 
+ ( Toon )    Dark    ( Dragon Knight ) 
+ Berry 
+ Apple 
+ Lemon 
+ Chocolate 
+ Kiwi 
+ 
+ 
+ Magikey 
+ Clavkiys  /  Batosbuster  /  Ansyalabolas 
+ Garesglasser 
+ Transfurlmine 
+ Mafteal 
+ Vepartu 
+ Andrabime 
+ 
+ 
+ Magistus 
+ Grimoire Crowley 
+ Goddess Ninaruru 
+ Flame Zoroa  /  Dragon Vafram 
+ Verre Cendrillon  /  Maiden Artemis 
+ Master Endymion 
+ Saint Aiwass 
+ 
+ 
+ Mirror Force 
+ Dark 
+ Quaking 
+ Blazing 
+ Radiant 
+ Drowning 
+ Storming 
+ 
+ 
+ Monarchs    Mega Monarchs   Related  "Monarch"  Spell/Trap Cards    Vassals 
+ Caius  /  Erebus     Caius the Mega     Tenacity  /  The First     Lucius  /  Eidos 
+ Granmarg     Granmarg the Mega     Return     Landrobe  /  Samsara Kaiser 
+ Thestalos     Thestalos the Mega     Erupt     Berlineth 
+ Zaborg  /  Ehther     Zaborg the Mega     Strike  /  The Prime     Mithra  /  Edea 
+ Mobius     Mobius the Mega     Awaken     Escher 
+ Raiza     Raiza the Mega     Stormforth     Garum 
+ 
+ 
+ Musical  Djinns 
+ Maestroke 
+ Temtempo 
+ n/a 
+ Melomelody 
+ Humhumming 
+ Muzurhythm 
+ 
+ 
+ Mythyrian Numbers 
+ Djinn Buster 
+ Lion Heart  /  Ronin Raccoon Sandayu 
+ n/a 
+ Sky Pegasus  /  Dragluon 
+ Abyss Splash  /  Crystalzero 
+ n/a 
+ 
+ 
+ Nemeses 
+ Protos 
+ Keystone 
+ Flag 
+ Eschatos 
+ Umbrella 
+ Corridor 
+ 
+ 
+ Number 10X     Number C10X 
+ n/a     Umbral Horror Masquerade 
+ Giant Hand     Giant Red Hand 
+ Battlin' Boxer Star Cestus     Battlin' Boxer Comet Cestus 
+ Star Seraph Sentry  /  Masquerade  /  Galaxy-Eyes Tachyon Dragon     Archfiend Seraph  /  Neo Galaxy-Eyes Tachyon Dragon 
+ Silent Honor ARK  /  Ragnazero     Silent Honor DARK  /  Ragnafinity 
+ n/a     n/a 
+ 
+ 
+ Odd-Eyes Dragons 
+ Odd-Eyes  /  Pendulum  /  Rebellion  ( Overlord ) /  Persona  /  Phantom  /  Mirage  /  Performapal Metal Claw  /  Raging  /  Supreme King  /  Wing  /  Venom  /  Arc Pendulum  /  Advance  /  Wizard 
+ Gravity 
+ Meteorburst 
+ Saber  /  Lancer  /  Revolution  /  Pendulumgraph 
+ Absolute 
+ Vortex 
+ 
+ 
+ Pendulum  Magicians 
+ Stargazer  /  Timegazer  /  Xiangke  /  Timebreaker  /  Acrobatic  /  Dragoncaller  /  Harmonizing  /  Double Iris  /  Black Fang  /  Purple Poison  /  Performapal Celestial 
+ Dragonpulse 
+ Nobledragon 
+ Wisdom-Eye  /  Xiangsheng  /  Dharma-Eye  /  Performapal Five-Rainbow 
+ Dragonpit 
+ Oafdragon  /  White Wing 
+ 
+ 
+ Prediction Princesses 
+ Astromorrigan 
+ Coinorma  /  Petalelf 
+ n/a 
+ Tarotrei 
+ Crystaldine 
+ Arrowsylph 
+ 
+ 
+ Resonators 
+ Dark  /  Synkron  /  Crimson 
+ Clock 
+ Flare  /  Red  /  Double  /  Net 
+ Barrier  /  Chain  /  Mirror 
+ Force 
+ Creation 
+ 
+ 
+ Road Magic 
+ N/A 
+ Diastrophism 
+ Explosion 
+ Rays Alter 
+ Backflow 
+ Tempest 
+ 
+ 
+ El Shaddoll    Fusion Monsters    (1 "Shaddoll" + 1 matching Attribute) 
+ Winda 
+ Shekhinaga 
+ Grysta 
+ Construct 
+ Anoyatyllis 
+ Wendigo 
+ 
+ 
+ Signer Dragons 
+ Red Archfiend  /  Black-Winged 
+ Life Stream 
+ Black Rose 
+ Ancient Fairy 
+ n/a 
+ Stardust 
+ 
+ 
+ Six Samurai     Legendary Six Samurai     Secret Six Samurai 
+ Irou     Shi En     Doji 
+ Yariza     Kizan     Kizaru 
+ Kamon     Mizuho     Genba 
+ Zanji     Enishi     Rihan 
+ Yaichi     Shinai     Hatsume 
+ Nisashi     Kageki     Fuma 
+ 
+ 
+ Sky Striker Ace 
+ Raye  /  Zeke 
+ Kaina 
+ Kagari 
+ Roze 
+ Shizuku 
+ Hayate 
+ 
+ 
+ Sushi Angels 
+ Spider Roll 
+ Monkey Roll 
+ n/a 
+ Garibel  /  Agaribel 
+ Tiger Roll 
+ Dragon Roll 
+ 
+ 
+ Synchro  Warriors    Tuner  Synchrons 
+ Junk  /  Satellite     Junk  /  Satellite 
+ Drill     Drill 
+ Nitro  /  Jet     Nitro  /  Jet 
+ Road     Road 
+ n/a     Steam 
+ Turbo     Turbo 
+ 
+ 
+ Tenyi  Spirits 
+ Vishuda 
+ Adhara 
+ Mapura 
+ Ashuna  /  Sahasrara 
+ Sthana 
+ Nahata 
+ 
+ 
+ The Weathers    Canvas     (Continuous Spell/Trap Cards) 
+ Aurora     Auroral 
+ Snow     Snowy 
+ Sun     Sunny 
+ Thunder  /  Rainbow     Thundery  /  Rainbowed 
+ Rain     Rainy 
+ Cloud     Cloudy 
+ 
+ 
+ Timelords 
+ Vorpgate 
+ Kamion  /  Hailon 
+ Metaion  /  Lazion  /  Michion 
+ Sephylon  /  Sandaion 
+ Zaphion  /  Gabrion 
+ Sadion  /  Raphion 
+ 
+ 
+ True Draco and True King 
+ All Calamities 
+ Lithosazim  /  Dreiath III 
+ Agnimazud  /  Ignis Heat 
+ Master Peace  ( King ) /  Metaltron XII 
+ Bahrstos  /  Dinomight Knight 
+ Majesty Maiden  /  Mariamne 
+ 
+ 
+ Witchcrafters 
+ Haine 
+ Potterie 
+ Schmitta 
+ Edel  /  Madame Verre  /  Golem Aruru 
+ Pittore 
+ Genni 
+ 
+ 
+ World Chalice 
+ World Legacy 
+ Beckoned  /  Ningirsu 
+ Chosen  /  Auram 
+ Lee 
+ Crowned  / Ib ( Priestess / Justiciar ) 
+ Guardragon  /  Imduk  /  Almarduke 
+ 
+ 
+ Yang Zing 
+ Taotie  /  Jiaotu  /  Yazi 
+ Bi'an  /  Zefraxi  /  Zefraniu 
+ Suanni 
+ Chiwen  /  Baxia  /  Chaofeng  /  Denglong 
+ Bixi 
+ Pulao 
+ 
+ 
+ Yo-kai Girls 
+ Ghost Reaper & Winter Cherries 
+ Ghost Belle & Haunted Mansion 
+ Ash Blossom & Joyous Spring 
+ Ghost Ogre & Snow Rabbit 
+ Ghost Sister & Spooky Dogwood 
+ Ghost Mourner & Moonlit Chill 
+ 
+ 
+ ZW - 
+ Chimera Clad  /  Dragonic Halberd 
+ Ultimate Shield 
+ Phoenix Bow  /  Asura Strike 
+ Unicorn Spear  /  Lightning Blade  /  Leo Arms  /  Sleipnir Mail  /  Fenrir Sword  /  Pegasus Twin Saber  /  Sylphid Wing 
+ n/a 
+ Tornado Bringer  /  Eagle Claw 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/5a/Altergeist.png/revision/latest/scale-to-width-down/350?cb=20170824103757', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/24?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/24?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/24?cb=20120918053839', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Synchro Monster(s), Archetypes with Link Monster(s)

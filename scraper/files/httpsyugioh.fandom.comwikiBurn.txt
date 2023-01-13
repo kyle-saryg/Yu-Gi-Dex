@@ -1,0 +1,511 @@
+Link: https://yugioh.fandom.com/wiki/Burn
+
+"Burn" redirects here. For the  Yu-Gi-Oh! ARC-V  opening theme, see  Burn! .   
+ v e 
+Basic  Deck  types 
+ Aggro 
+ Beatdown 
+ Burn 
+ Mill 
+ Stall 
+ One Turn Kill 
+ First Turn Kill 
+ Zero Turn Kill 
+ Instant Win 
+ 
+ 
+ 
+ 
+ 
+ Complete Deck Lists by Type 
+ 
+ 
+ A-C  •  D-F  •  G-J  •  K-O  •  P-S  •  T-V  •  W-Z 
+ 
+ 
+ Burn Decks  are designed to inflict damage (or  burn ) to the opponent's  Life Points  to 0 with cards that use  effect damage , instead of relying on  battle damage  and in many cases, Burn Decks do not rely on the  Battle Phase  at all.
+ True to its name, many "burn" cards feature  FIRE   Attribute  or  Pyro - Type  monsters, or otherwise feature fire in general (such as " Hinotama ", " Tremendous Fire ", and " Meteor of Destruction "), though some cards instead feature wind or coldness as theme such as " Stealth Bird ", " Blizzard Falcon " and " Windwitch " monsters. The " Trickstar "  archetype  focuses on effect damage, while many other archetypes have some burn cards, usually to give the archetype on last push in damage, examples include; " Updraft ", " Venom Burn " and " Shadow Toon " for " Cloudian ", " Venom ", " Railway " and " Toon " Decks respectively.
+ 
+ Contents 
+ 
+ 1   Playing Style 
+ 
+ 1.1   Chain Strike 
+ 
+ 1.1.1   Chain Strike OTK 
+ 1.1.2   Chain Strike (non-OTK) 
+ 
+ 
+ 1.2   Stall Burn 
+ 1.3   Bubbleman Burn 
+ 1.4   Cure-Burn 
+ 1.5   Dark Snake Syndrome 
+ 1.6   Dark Stall Burn 
+ 1.7   Exxod Burn 
+ 1.8   FIRE Burn 
+ 1.9   Herald Cannon Burn 
+ 1.10   Reactive Burn Deck 
+ 1.11   Reactor Burn 
+ 1.12   Toon Burn 
+ 1.13   Volcanic Burn 
+ 
+ 
+ 2   Weaknesses 
+ 
+ 
+ Playing Style 
+ There are many different methods for building a Burn Deck. The most effective play style often changes depending on the  format . Burn Decks can generally be divided into two types:
+ 
+ Fast,  FTK / OTK  Burn Decks. These tend to focus on a few extremely powerful burn cards together, or using almost all of the user's deck in a single turn. 
+ Slower (perhaps 1000-2400 damage per turn) Burn Decks. These are usually combined with  Stall cards  to protect the user's Life Points (as Burn Decks do not usually run many powerful monsters to defend directly) while chipping away at the opponent. 
+ Some cards that can be run in most Burn Decks include; " Lava Golem "/" Volcanic Queen ", " Marshmallon ", " Dimension Wall "/" Magic Cylinder ", and " Just Desserts ".
+ 
+ See also: 
+ Anti-Cure 
+ Frog Burn FTK 
+ Magical Explosion FTK 
+ Trickstar 
+ Zombie Burn 
+ Chain Strike 
+ Chain Strike OTK 
+ Chain Strike  or  Chain Burn  is a Deck usually designed to win by the first to third turn. This is accomplished by starting a  chain  with and continuing until a well-timed " Chain Strike " can generate enough burn damage to win. " Dueltaining " can be added to these Decks as a draw engine, because they can more easily meet its third condition("Activate a card or effect as Chain Link 5 or higher"). In addition, "Dueltaining's" effect is  Continuous-like , which means the opponent cannot use cards like " Ash Blossom & Joyous Spring " or " Ghost Ogre & Snow Rabbit " to stop it. These Decks are generally built with very few monsters.
+ 
+ 
+ Deck Spells   &  Traps   
+ Spells 
+ Chain Strike 
+ Poison of the Old Man 
+ Card of Demise 
+ Dueltaining 
+ Terraforming 
+ Traps 
+ Accumulated Fortune 
+ Ceasefire 
+ Chain Detonation 
+ Fairy Wind 
+ Good Goblin Housekeeping 
+ Jar of Greed  /  Legacy of Yata-Garasu 
+ Ojama Trio 
+ Reckless Greed 
+ Secret Barrel 
+ Chain Strike (non-OTK) 
+ While " Chain Strike " is certainly part of the Deck's strategy it doesn't rely on it completely.  Chainable  stall cards such as " Threatening Roar " and " Swift Scarecrow " can be used in supplement to more reliable stall cards such as " Marshmallon ". Because Chain Burn Decks generally don't Special Summon from the Extra Deck, " Pot of Extravagance " can be splashed into them.
+ 
+ 
+ Deck Monsters   
+ Monsters 
+ Battle Fader  /  Speedroid Menko  /  Swift Scarecrow 
+ Cardcar D 
+ Cyber Valley 
+ Gorz the Emissary of Darkness 
+ Mask of Darkness 
+ Morphing Jar Spells   &  Traps   
+ Spells 
+ Chain Strike 
+ Dueltaining 
+ Mystical Space Typhoon 
+ Pot of Extravagance 
+ Terraforming 
+ Traps 
+ Accumulated Fortune 
+ Threatening Roar 
+ Fairy Wind 
+ Jar of Greed 
+ Ojama Trio 
+ Reckless Greed 
+ Waboku 
+ Stall Burn 
+ The main priorities of this Deck is to stall using cards such as " Waboku " and " Swords of Revealing Light " to prevent taking battle damage, while slowly inflict damage with cards such as " Solar Flare Dragon ", " Stealth Bird ", " Lava Golem " and " Wave-Motion Cannon ". One must also include defense against  Spell  and  Trap  destruction, due to the Deck's reliance on  Continuous Cards .
+ In past formats, cards such as " Burden of the Mighty ", " Gravity Bind " and " Level Limit - Area B " were popular choices for stalling, however with the advent of  Xyz Monsters  and  Link Monsters  they are largely redundant now.
+ 
+ 
+ Deck Monsters   
+ Effect Monsters 
+ Battle Fader  /  Speedroid Menko  /  Swift Scarecrow 
+ Bowganian 
+ Des Koala 
+ Fire Cracker 
+ Princess of Tsurugi 
+ Raging Flame Sprite  /  Drill Barnacle 
+ Self-Destruct Ant 
+ Solar Flare Dragon 
+ Spirit Reaper 
+ Stealth Bird 
+ Volcanic Slicer Spells   &  Traps   
+ Spells 
+ Chain Energy 
+ Dark Room of Nightmare 
+ Poison of the Old Man  /  Ookazi 
+ Pot of Duality 
+ Messenger of Peace 
+ Scapegoat 
+ Sebek's Blessing 
+ Stumbling 
+ Swords of Revealing Light  /  Nightmare's Steelcage 
+ Toll 
+ Wave-Motion Cannon 
+ Traps 
+ Ceasefire 
+ Mirror Force  cards 
+ Negate Attack 
+ Nightmare Wheel 
+ Secret Barrel 
+ Spiritual Swords of Revealing Light 
+ Threatening Roar 
+ Waboku 
+ Bubbleman Burn 
+ The  Bubbleman Burn Deck  is a very fast version of the Burn Deck, which uses cards like " Elemental HERO Bubbleman " and " Card of Sanctity " to draw  Normal  or  Quick-Play Spell Cards  which inflict damage. These Decks are made up mostly of one-time burn cards and self-milling cards that go to the  Graveyard  after they are used, making " Bubbleman " and " Card of Sanctity " easier to use.
+ Stall cards are not recommended, since the drawing effect of "Bubbleman" won't trigger if there are cards on the field. Some people do run  Normal Traps  like " Threatening Roar " or " Magic Cylinder " that can be set last, and can be used as back-ups when you are forced to discard. The only Trap card specifically recommended is " Magical Explosion ", which is often used as a finisher in this Deck.
+ 
+ 
+ Deck Monsters   
+ Monsters 
+ Elemental HERO Bubbleman 
+ Destiny HERO - Diamond Dude 
+ Fire Trooper 
+ Giant Germ 
+ Rapid-Fire Magician 
+ Mecha Bunny 
+ Morphing Jar  (Traditional Format only) Spells   &  Traps   
+ Spells 
+ Card of Sanctity 
+ Chain Strike 
+ Cup of Ace 
+ E - Emergency Call 
+ Goblin Thief 
+ Magical Mallet 
+ Meteor of Destruction 
+ Misfortune 
+ Poison of the Old Man  /  Ookazi 
+ Reinforcement of the Army 
+ Restructer Revolution 
+ The Warrior Returning Alive 
+ Tremendous Fire 
+ Traps 
+ Ceasefire 
+ Magical Explosion 
+ Reckless Greed 
+ Cure-Burn 
+ This deck uses the effect of " Fire Princess " along with Life Point gaining cards to deal constant effect damage. The Deck is sometimes called a  Big Bang Deck , after the Japanese name of "Fire Princess" - "Big Bang Girl". Despite being a burn deck itself, Cure-Burn tends to be quite strong against most other burn decks due to the constant LP gain.
+ This deck is not the same as  Anti-Cure  deck, where Life Point recovery is reverted into effect damage.
+ 
+ 
+ Deck Monsters   
+ Monsters 
+ Fire Princess 
+ Cure Mermaid 
+ Dancing Fairy 
+ Darklord Marie 
+ Golden Ladybug 
+ Healing Wave Generator 
+ Injection Fairy Lily 
+ Kiseitai 
+ Neo-Spacian Air Hummingbird 
+ Sangan 
+ Spirit of the Breeze 
+ UFO Turtle 
+ Witch of the Black Forest 
+ White Magician Pikeru Extra Deck   
+ Synchro Monsters 
+ Magical Android Spells   &  Traps   
+ Spells 
+ Dark Room of Nightmare 
+ Foolish Burial 
+ Goblin Thief 
+ Gold Sarcophagus 
+ Last Will  (Traditional Format only) 
+ Messenger of Peace 
+ Nightmare's Steelcage 
+ Poison of the Old Man 
+ Swords of Revealing Light 
+ Traps 
+ Draining Shield  /  Rainbow Life 
+ Mirror Force  Traps 
+ Mirror Wall 
+ Red Screen 
+ Solemn Wishes 
+ Torrential Tribute 
+ Wall of Revealing Light 
+ Dark Snake Syndrome 
+ This Deck uses " Dark Snake Syndrome " to constantly deal damage to the opponent, while protecting the user's own Life Points with " Des Wombat ". To make strategy safer and faster, it also uses other classic burn, along with Life Point gaining cards to increase the LP difference between each player.
+ 
+ 
+ Deck Monsters   
+ Monsters 
+ Des Wombat 
+ Giant Rat 
+ Prime Material Dragon 
+ Solar Flare Dragon Extra Deck   
+ Synchro Monsters 
+ Black-Winged Dragon Spells   &  Traps   
+ Spells 
+ Dark Snake Syndrome 
+ Chain Energy 
+ Dark Room of Nightmare 
+ Messenger of Peace 
+ Mist Body 
+ Toll 
+ Traps 
+ Astral Barrier 
+ Draining Shield  /  The Golden Apples 
+ Life Absorbing Machine 
+ Pikeru's Circle of Enchantment 
+ Spirit Barrier 
+ Dark Stall Burn 
+ This Deck focuses Special Summoning, and inflicting a large amount of damage using " Dark Room of Nightmare " and " Earthbound Immortal Chacu Challhua ".
+ For defense, use tokens (can also be used as  Synchro fodder ) along with cards, such as " Magic Cylinder ", " Black-Winged Dragon " and " Stardust Dragon " to disrupt the opponent's attacks, effect damage and destruction respectively.
+ 
+ 
+ Deck Monsters   
+ Effect Monsters 
+ Earthbound Immortal Chacu Challhua 
+ Earthbound Immortal Aslla piscu 
+ Armored Axon Kicker 
+ Needle Burrower 
+ Phantom Skyblaster 
+ Scrap Worm 
+ Spell Reactor・RE 
+ Stealth Bird 
+ Summon Reactor SK 
+ Trap Reactor・Y FI 
+ Turbo Booster 
+ Tuner monsters 
+ Creation Resonator 
+ Glow-Up Bulb 
+ Krebons Extra Deck   
+ Synchro Monsters 
+ Ally of Justice Decisive Armor 
+ Armory Arm 
+ Black-Winged Dragon 
+ Blood Mephist 
+ Formula Synchron 
+ Scrap Twin Dragon 
+ Stardust Dragon 
+ Shooting Star Dragon 
+ Tempest Magician 
+ Trishula, Dragon of the Ice Barrier Spells   &  Traps   
+ Spells 
+ Ante 
+ Cursed Bill 
+ Inferno Reckless Summon 
+ Mausoleum of the Emperor 
+ Misfortune 
+ Dark Room of Nightmare 
+ Darkworld Shackles 
+ Wave-Motion Cannon 
+ Traps 
+ Ceasefire 
+ Fatal Abacus 
+ Fire Darts 
+ Stardust Shimmer 
+ Ojama Trio 
+ Ominous Fortunetelling 
+ Exxod Burn 
+ Main article:  sphinx 
+ The main point of the  Exxod Burn Deck  is to quickly Summon " Exxod, Master of The Guard " and continually use its burn effect.
+ 
+ 
+ Deck Monsters   
+ Monsters 
+ Exxod, Master of The Guard 
+ Des Lacooda 
+ Giant Rat 
+ Golem Sentry  /  Guardian Statue 
+ Grave Ohja 
+ Great Spirit 
+ Guardian Sphinx 
+ Medusa Worm 
+ Moai Interceptor Cannons 
+ Sphinx  monsters 
+ Stealth Bird Spells   &  Traps   
+ Spells 
+ Book of Moon 
+ Raregold Armor 
+ Traps 
+ Compulsory Evacuation Device 
+ Dark Bribe 
+ FIRE Burn 
+ As the name implies  FIRE Burn , sometimes called  Molten Burn , is a Deck that focuses on dealing damage with FIRE- Attribute , mostly Pyro- Type  monsters. This Deck can be played either passively or aggressively.
+ The more passive variants of the Deck play similar to Stall Burn, using many protective cards and slowly, but consistently, dealing effect damage each turn. See Stall Burn's recommended Spells/Traps. If using only Pyro-Type monsters, " Soul of Fire " & " Firewall " could be considered as methods of effect damage and protection respectively.
+ The more aggressive variants tend to focus on a higher monster count and dealing damage through monster effects, often including the destruction of their own monsters, then dealing damage with the monster's on destruction effects in combination with the  Continuous Trap Cards  " Backfire " and " Kickfire ".
+ 
+ 
+ Deck Monsters   
+ Effect Monsters 
+ Fire Cracker 
+ Fire Trooper 
+ Fencing Fire Ferret 
+ Inferno 
+ Laval Magma Cannoneer 
+ Solar Flare Dragon 
+ The Thing in the Crater 
+ Thestalos the Firestorm Monarch 
+ Volcanic Slicer 
+ Volcanic Scattershot 
+ Volcanic Counter 
+ UFO Turtle 
+ Gemini monsters 
+ King Pyron Spells   &  Traps   
+ Spells 
+ Thunder Crash 
+ Dark Hole 
+ Traps 
+ Backfire 
+ Kickfire 
+ Ceasefire 
+ Spiritual Fire Art - Kurenai 
+ Meteor Flare 
+ Minor Goblin Official 
+ Nightmare Wheel 
+ Secret Barrel 
+ Spiritual Swords of Revealing Light 
+ Torrential Tribute 
+ Herald Cannon Burn 
+ This Deck focuses in restricting the opponent with " Herald of Perfection " and inflicting effect damage using " Wave-Motion Cannon ".
+ 
+ 
+ Deck Monsters   
+ Normal Monsters 
+ Gyakutenno Megami  (if using "Advanced Ritual Art") 
+ Effect Monsters 
+ Herald of Orange Light 
+ Herald of Purple Light 
+ Herald of Green Light 
+ Senju of the Thousand Hands 
+ Manju of the Ten Thousand Hands 
+ Fairy Archer 
+ Athena 
+ Nova Summoner 
+ Ritual Monsters 
+ Herald of Perfection Extra Deck   
+ Xyz Monsters 
+ Number 16: Shock Master  (Traditional Format only) Spells   &  Traps   
+ Spells 
+ Dawn of the Herald 
+ Advanced Ritual Art 
+ Dark Factory of Mass Production 
+ Pre-Preparation of Rites 
+ Preparation of Rites 
+ Wave-Motion Cannon 
+ Traps 
+ Royal Decree 
+ Reactive Burn Deck 
+ This deck works around making your opponent pay life points for every action. As your opponents life points start reaching zero, they stop making plays, which forces a few high damage cards to be used like " Ceasefire "and " Just Desserts ", or continuously damaging cards like " Minor Goblin Official ", " Nightmare Wheel ", or " Lava Golem ". This deck works best adding stalls cards, forcing your opponent to waste most of their efforts destroying either your stall cards or burn cards, hopefully not both. Cards that can stall without completely negating attacks like " Ordeal of a Traveler ", " Mirror Force ", or " Waboku " over those that completely stop attacks likes " Gravity Bind " or " Swords of Revealing Light " to add in the damage from " Toll ".
+ 
+ 
+ Deck Monsters   
+ Monsters 
+ Blast Sphere 
+ Karakuri Ninja mdl 339 "Sazank" 
+ Reflect Bounder 
+ Stealth Bird Spells   &  Traps   
+ Spells 
+ Chain Energy 
+ Toll 
+ Traps 
+ Ceasefire 
+ Minor Goblin Official 
+ Mirror Force  Traps 
+ Nightmare Wheel 
+ Secret Barrel 
+ Reactor Burn 
+ Main article:  Reactor 
+ This Deck revolves around the three " Reactor " monsters, working to  Special Summon  " Flying Fortress SKY FIRE " while dealing  damage  to your opponent until you can.
+ 
+ 
+ Deck Monsters   
+ Monsters 
+ Flying Fortress SKY FIRE 
+ Summon Reactor・SK 
+ Trap Reactor・Y FI 
+ Spell Reactor・RE 
+ Solar Flare Dragon 
+ Raging Flame Sprite 
+ Stealth Bird Extra Deck   
+ Synchro Monsters 
+ Blood Mefist 
+ Dark Flattop Spells   &  Traps   
+ Spells 
+ Dark Room of Nightmare 
+ Swords of Revealing Light  /  Nightmare's Steelcage 
+ Messenger of Peace 
+ Meteor of Destruction 
+ Poison of the Old Man  /  Ookazi 
+ Tremendous Fire 
+ Wave-Motion Cannon 
+ Traps 
+ Fake Explosion 
+ Call of the Haunted 
+ Hidden Soldiers 
+ Meteor Flare 
+ Scrap-Iron Scarecrow 
+ Secret Barrel 
+ Toon Burn 
+ This variant of a " Toon  " Deck focuses on weakening the opponent with burn cards before attacking directly to finish the Duel. One of its powerful plays involves giving the opponent " Lava Golem " or a " Kaiju " monster, then using " Shadow Toon " to deal large amounts of damage, before taking control of it with " Comic Hand " and using it to attack the opponent directly. Instead of attacking directly to finish the Duel the deck can use " Toon Cannon Soldier ", which can tribute  Tokens  and itself to deal 500 damage multiple times a turn.
+ 
+ 
+ Deck Monsters   
+ Monsters 
+ Toon Dark Magician Girl 
+ Toon Mermaid 
+ Toon Gemini Elf 
+ Toon Cannon Soldier 
+ Toon Masked Sorcerer 
+ Dandylion 
+ Lava Golem  / " Kaiju " monsters 
+ Spell Striker Spells   &  Traps   
+ Spells 
+ Toon World / Toon Kingdom 
+ Toon Table of Contents 
+ Shadow Toon 
+ Comic Hand 
+ Scapegoat  (can Tribute for "Toon Dark Magician Girl" or the effect of "Toon Cannon Soldier") 
+ Vengeful Bog Spirit 
+ Volcanic Burn 
+ The strategy of this " Volcanic " burn deck is to attack and burn your opponent with Pyro-Type monsters.
+ 
+ 
+ Deck Monsters   
+ Monsters 
+ Volcanic Doomfire 
+ Volcanic Hammerer 
+ Volcanic Rocket 
+ Volcanic Slicer 
+ Volcanic Scattershot 
+ Volcanic Counter 
+ Volcanic Shell 
+ Volcanic Blaster 
+ Flamvell Fiend 
+ Laval Magma Cannoneer 
+ Royal Firestorm Guards 
+ Solar Flare Dragon 
+ UFO Turtle Extra Deck   
+ Xyz Monsters 
+ Gagaga Cowboy 
+ Grenosaurus Spells   &  Traps   
+ Spells 
+ Blaze Accelerator 
+ Tri-Blaze Accelerator 
+ Wild Fire 
+ Molten Destruction 
+ Poison of the Old Man  /  Ookazi 
+ Soul of Fire 
+ Tremendous Fire 
+ Traps 
+ Volcanic Recharge 
+ Blaze Accelerator Reload 
+ Backfire 
+ Spiritual Fire Art - Kurenai 
+ Meteor Flare 
+ Weaknesses 
+ Burn Decks are infamous and generally disliked by many players as most Burn Decks play  solitaire  and can be rather difficult to play against and defeat when a player is not prepared for it. Despite this, in general, it is considered one of the easiest Decks to  Side  against. This results in Burn Decks having more success in single Duels, opposed to  Matches  and, by extension, tournaments.
+ 
+ One of the most effective methods for beating a Burn Deck is good access to Spell/Trap removal, such as " Twin Twisters " or " Galaxy Cyclone ". Many Burn Decks rely on a large number of  Continuous Effects , either to prevent taking battle damage and/or deal effect damage constantly. A Burn Deck must therefore contain plenty of  Counter Traps , such as; " Solemn Judgment " (OCG & Traditional Format only), " Dark Bribe ", " Judgment of Anubis " (stops destruction-based removed), and " Seven Tools of the Bandit ". 
+ Dragon  Decks can use " Prime Material Dragon " (ineffective against anti-cure Burn Decks) to change LP damage caused to increase their LP instead. To counter this card tribute it for a " Kaiju " monster, " Lava Golem " or " Volcanic Queen ", destroy it with " Divine Wrath ". 
+ Since many burn cards are  minus 1s , Burn Decks can quickly deplete the player of cards. If the player can defeat the opponent quickly this won't matter, but should the opponent manage to stall (either by regaining LP, negating effects or reducing effect damage) it can quickly leave the Burn player out of resources. 
+ There are some cards that punish a player for using effect damage, such as; " Barrel Behind the Door ", " Crimson Fire ", and " Shining Silver Force . 
+ See also:  Counter Burn Deck 
+ 
+ 
+ 
+Categories: Deck Type

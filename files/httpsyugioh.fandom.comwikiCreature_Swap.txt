@@ -1,0 +1,311 @@
+Link: https://yugioh.fandom.com/wiki/Creature_Swap
+
+The  Arabic, Croatian  and  Thai                      names given are not official.  
+ 
+ 
+ 
+ 
+ 
+ Creature Swap 強 制 転 移 
+ 
+ English 
+Creature Swap 
+ Chinese 
+ 强制轉移 Check translation 
+ French 
+ Permutation de Créature Check translation 
+ German 
+ Kreaturentausch Check translation 
+ Italian 
+ Scambio-Creature Check translation 
+ Korean 
+ 강제전이 Check translation 
+ Portuguese 
+ Troca de Criaturas Check translation 
+ Spanish 
+ Intercambio de Criatura Check translation 
+ Japanese (kana) 
+ きょうせいてんい Check translation 
+ Japanese (base) 
+ 強制転移 Check translation 
+ Japanese ( rōmaji ) 
+Kyōsei Ten'i 
+ Japanese (translated) 
+Forced Transition 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 31036355 
+ Card effect types 
+ 
+ 
+ Effect 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Each player chooses 1  monster  they  control  and switches control of those monsters with each other. Those monsters cannot change their  battle positions  for the rest of this  turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Chaque joueur choisit 1 monstre qu'il contrôle et échange son contrôle avec celui choisi par l'adversaire. Le reste de ce tour, ces monstres ne peuvent pas changer de position de combat. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Jeder Spieler bestimmt 1 Monster, das er kontrolliert, und ihr tauscht die Kontrolle über die Monster. Die Monster können für den Rest dieses Spielzugs ihre Kampfpositionen nicht ändern. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Ogni giocatore seleziona 1 mostro che controlla e scambia il controllo di quel mostro con quello selezionato dall'avversario. Quei mostri non possono cambiare posizione per il resto di questo turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Cada duelista escolhe 1 monstro que ele controla e troca o controle desse monstro com o outro. Esses monstros não podem mudar suas posições de batalha pelo restante do turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cada jugador elige 1 monstruo que controle e intercambia el control de ese monstruo con el otro jugador. Por el resto de este turno, esos monstruos no pueden cambiar sus posiciones de batalla. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：お互いのプレイヤーは、それぞれ自身のフィールドのモンスター１体を選ぶ。そのモンスター２体のコントロールを入れ替える。このターン、そのモンスターは表示形式を変更できない。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 双方各自挑选我方场上的1只怪兽，交换该怪兽的控制权。该怪兽在本回合不可更改表示形式。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 양쪽 플레이어는, 각각 자신 필드의 몬스터 1장을 고른다. 그 몬스터 2장의 컨트롤을 맞바꾼다. 이 턴에, 그 몬스터는 표시 형식을 변경할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ Release date Card code Set Rarity 2003-06-06 LOD-EN081 Legacy of Darkness Ultra Rare 2005-01-01 SD1-EN018 Structure Deck - Dragon's Roar Common 2005-01-01 SD2-EN020 Structure Deck - Zombie Madness Common 2005-05-09 SD4-EN021 Structure Deck - Fury from the Deep Common 2005-07-27 DB2-EN190 Dark Beginning 2 Super Rare 2006-08-01 HL03-EN002 Hobby League 3 participation card B Ultra Parallel Rare 2007-03-07 DP04-EN018 Duelist Pack: Zane Truesdale Common 2008-10-21 SDZW-EN022 Zombie World Structure Deck Common 2009-06-09 5DS2-EN027 Starter Deck: Yu-Gi-Oh! 5D's 2009 Common 2009-07-28 RP02-EN063 Retro Pack 2 Common 2010-10-15 SDMA-EN022 Structure Deck: Marik (TCG) Common 2011-03-04 SDDL-EN027 Dragunity Legion Structure Deck Common 2011-08-04 TU06-EN015 Turbo Pack: Booster Six Common 2012-05-24 BP01-EN044 Battle Pack: Epic Dawn Rare 2012-05-24 BP01-EN044 Battle Pack: Epic Dawn Starfoil Rare 2012-09-29 LCYW-EN269 Legendary Collection 3: Yugi's World Mega Pack Super Rare 2013-02-08 SDOK-EN029 Onslaught of the Fire Kings Structure Deck Common 2014-07-31 BP03-EN144 Battle Pack 3: Monster League Common 2014-07-31 BP03-EN144 Battle Pack 3: Monster League Shatterfoil Rare 2014-10-16 SDGR-EN027 Geargia Rampage Structure Deck Common 2020-11-26 SBCB-EN159 Speed Duel: Battle City Box Common 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ Release date Card code Set Rarity June 6, 2003 LOD-081 Legacy of Darkness Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2005-01-01 SD1-FR018 Structure Deck - Dragon's Roar Deck de Structure - Rugissement des Dragons Common 2005-01-01 SD2-FR020 Structure Deck - Zombie Madness Deck de Structure: Folie Zombie Common 2005-05-09 SD4-FR021 Structure Deck - Fury from the Deep Deck de Structure: Fureur des Profondeurs Common 2005-07-22 DB2-FR190 Dark Beginning 2 Genèse Ténébreuse 2 Super Rare 2007-03-14 DP04-FR018 Duelist Pack: Zane Truesdale Pack du Duelliste: Zane Truesdale Common 2008-10-21 SDZW-FR022 Zombie World Structure Deck Le Monde des Zombies Deck de Structure Common 2009-06-10 5DS2-FR027 Starter Deck: Yu-Gi-Oh! 5D's 2009 Deck de Démarrage: Yu-Gi-Oh! 5D's 2009 Common 2009-07-23 RP02-FR063 Retro Pack 2 Retro Pack 2 Common 2010-10-19 SDMA-FR022 Structure Deck: Marik (TCG) Deck de Structure: Marik Common 2011-03-03 SDDL-FR027 Dragunity Legion Structure Deck Légion Dragunité Deck de Structure Common 2011-08-11 TU06-FR015 Turbo Pack: Booster Six Paquet Turbo: Numéro Six Common 2012-05-24 BP01-FR044 Battle Pack: Epic Dawn Battle Pack: L’Aube Épique Rare 2012-05-24 BP01-FR044 Battle Pack: Epic Dawn Battle Pack: L’Aube Épique Starfoil Rare 2012-09-27 LCYW-FR269 Legendary Collection 3: Yugi's World Mega Pack Collection Légendaire 3: Le Monde de Yugi Méga Pack Super Rare 2013-02-08 SDOK-FR029 Onslaught of the Fire Kings Structure Deck Assaut des Rois du Feu Deck de Structure Common 2014-07-31 BP03-FR144 Battle Pack 3: Monster League Battle Pack 3: La Ligue des Monstres Common 2014-07-31 BP03-FR144 Battle Pack 3: Monster League Battle Pack 3: La Ligue des Monstres Shatterfoil Rare 2014-10-16 SDGR-FR027 Geargia Rampage Structure Deck Déchaînment Geargia Deck de Structure Common 2020-11-26 SBCB-FR159 Speed Duel: Battle City Box Speed Duel : Boîte Bataille-Ville Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2005-01-01 SD1-DE018 Structure Deck - Dragon's Roar Structure Deck - Dragon's Roar Common 2005-01-01 SD2-DE020 Structure Deck - Zombie Madness Structure Deck: Zombie Madness Common 2005-05-09 SD4-DE021 Structure Deck - Fury from the Deep Structure Deck: Fury from the Deep Common 2005-07-27 DB2-DE190 Dark Beginning 2 Dark Beginning 2 Super Rare 2007-04-17 DP04-DE018 Duelist Pack: Zane Truesdale Duelist Pack: Zane Truesdale Common 2008-10-21 SDZW-DE022 Zombie World Structure Deck Zombie World Structure Deck Common 2009-06-10 5DS2-DE027 Starter Deck: Yu-Gi-Oh! 5D's 2009 Starter Deck: Yu-Gi-Oh! 5D's 2009 Common 2009-07-24 RP02-DE063 Retro Pack 2 Retro Pack 2 Common 2010-10-14 SDMA-DE022 Structure Deck: Marik (TCG) Structure Deck: Marik Common 2011-03-03 SDDL-DE027 Dragunity Legion Structure Deck Dragunity Legion Structure Deck Common 2011-08-11 TU06-DE015 Turbo Pack: Booster Six Turbo Pack: Booster Six Common 2012-05-24 BP01-DE044 Battle Pack: Epic Dawn Battle Pack: Epic Dawn Rare 2012-05-24 BP01-DE044 Battle Pack: Epic Dawn Battle Pack: Epic Dawn Starfoil Rare 2012-09-27 LCYW-DE269 Legendary Collection 3: Yugi's World Mega Pack Legendary Collection 3: Mega Pack Super Rare 2013-02-07 SDOK-DE029 Onslaught of the Fire Kings Structure Deck Onslaught of the Fire Kings Structure Deck Common 2014-07-31 BP03-DE144 Battle Pack 3: Monster League Battle Pack 3: Monster League Common 2014-07-31 BP03-DE144 Battle Pack 3: Monster League Battle Pack 3: Monster League Shatterfoil Rare 2014-10-16 SDGR-DE027 Geargia Rampage Structure Deck Geargia Rampage Structure Deck Common 2020-11-26 SBCB-DE159 Speed Duel: Battle City Box Speed Duel: Battle City Box Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2005-01-01 SD1-IT018 Structure Deck - Dragon's Roar Structure Deck - Ruggito del Drago Common 2005-01-01 SD2-IT020 Structure Deck - Zombie Madness Structure Deck: Follia Zombie Common 2005-05-09 SD4-IT021 Structure Deck - Fury from the Deep Structure Deck: Furia degli Abissi Common 2005-07-22 DB2-IT190 Dark Beginning 2 Inizio Oscuro 2 Super Rare 2007-03-07 DP04-IT018 Duelist Pack: Zane Truesdale Duelist Pack: Zane Truesdale Common 2008-10-21 SDZW-IT022 Zombie World Structure Deck Mondo Zombie Structure Deck Common 2009-06-10 5DS2-IT027 Starter Deck: Yu-Gi-Oh! 5D's 2009 Starter Deck: Yu-Gi-Oh! 5D's 2009 Common 2009-07-23 RP02-IT063 Retro Pack 2 Retro Pack 2 Common 2010-10-14 SDMA-IT022 Structure Deck: Marik (TCG) Structure Deck: Marik Common 2011-03-03 SDDL-IT027 Dragunity Legion Structure Deck Legione Dragunità Structure Deck Common 2011-08-11 TU06-IT015 Turbo Pack: Booster Six Busta Turbo Numero Sei Common 2012-05-24 BP01-IT044 Battle Pack: Epic Dawn Battle Pack: Alba Epica Rare 2012-05-24 BP01-IT044 Battle Pack: Epic Dawn Battle Pack: Alba Epica Starfoil Rare 2012-09-27 LCYW-IT269 Legendary Collection 3: Yugi's World Mega Pack Collezione Leggendaria 3 Mega-Pack Super Rare 2013-02-08 SDOK-IT029 Onslaught of the Fire Kings Structure Deck Assalto dei Re del Fuoco Structure Deck Common 2014-07-31 BP03-IT144 Battle Pack 3: Monster League Battle Pack 3: Lega dei Mostri Common 2014-07-31 BP03-IT144 Battle Pack 3: Monster League Battle Pack 3: Lega dei Mostri Shatterfoil Rare 2014-10-16 SDGR-IT027 Geargia Rampage Structure Deck Furia Ingranaggian Structure Deck Common 2020-11-26 SBCB-IT159 Speed Duel: Battle City Box Speed Duel: Cofanetto la Città dei Duelli Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2005-02-01 SD1-PT018 Structure Deck - Dragon's Roar Deck Estrutura - Rugído do Dragão Common 2005-02-01 SD2-PT020 Structure Deck - Zombie Madness Deck Estrutura: Insanidade Zumbi Common 2005-05-01 SD4-PT021 Structure Deck - Fury from the Deep Deck Estrutura: Fúria das Profundezas Common 2013-02-08 SDOK-PT029 Onslaught of the Fire Kings Structure Deck Investida dos Reis de Fogo Deck Estrutural Common 2014-08-01 BP03-PT144 Battle Pack 3: Monster League Pacote de Batalha 3: Liga de Monstros Common 2014-08-01 BP03-PT144 Battle Pack 3: Monster League Pacote de Batalha 3: Liga de Monstros Shatterfoil Rare 2014-10-17 SDGR-PT027 Geargia Rampage Structure Deck Ofensiva Engrenagi Deck Estrutural Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2005-01-01 SD1-SP018 Structure Deck - Dragon's Roar Baraja de Estructura - Rugido de Dragón Common 2005-01-01 SD2-SP020 Structure Deck - Zombie Madness Baraja de Estructura: Locura de Zombi Common 2005-05-09 SD4-SP021 Structure Deck - Fury from the Deep Baraja de Estructura: Furia de las Profundidades Common 2005-07-22 DB2-SP190 Dark Beginning 2 Principio Oscuro 2 Super Rare 2007-03-14 DP04-SP018 Duelist Pack: Zane Truesdale Sobre de Duelista: Zane Truesdale Common 2008-10-21 SDZW-SP022 Zombie World Structure Deck Mundo Zombi Baraja de Estructura Common 2009-06-09, 2009-06-10 5DS2-SP027 Starter Deck: Yu-Gi-Oh! 5D's 2009 Baraja de Principiante: Yu-Gi-Oh! 5D's 2009 Common 2009-07-23 RP02-SP063 Retro Pack 2 Retro Pack 2 Common 2010-10-14 SDMA-SP022 Structure Deck: Marik (TCG) Baraja de Estructura: Marik Common 2011-03-03 SDDL-SP027 Dragunity Legion Structure Deck Legión Dracounidad Baraja de Estructura Common 2011-08-11 TU06-SP015 Turbo Pack: Booster Six Sobre Turbo: Número Seis Common 2012-05-24 BP01-SP044 Battle Pack: Epic Dawn Battle Pack: Amanecer Épico Rare 2012-05-24 BP01-SP044 Battle Pack: Epic Dawn Battle Pack: Amanecer Épico Starfoil Rare 2012-09-27 LCYW-SP269 Legendary Collection 3: Yugi's World Mega Pack Colección Legendaria 3: El Mundo de Yugi Mega Pack Super Rare 2013-02-08 SDOK-SP029 Onslaught of the Fire Kings Structure Deck Embestida de los Reyes de Fuego Baraja de Estructura Common 2014-07-25, 2014-07-31 BP03-SP144 Battle Pack 3: Monster League Battle Pack 3: Liga de Monstruos Common 2014-07-25, 2014-07-31 BP03-SP144 Battle Pack 3: Monster League Battle Pack 3: Liga de Monstruos Shatterfoil Rare 2014-10-16 SDGR-SP027 Geargia Rampage Structure Deck Engranaji-Furia Baraja de Estructura Common 2020-11-26 SBCB-SP159 Speed Duel: Battle City Box SPEED DUEL: Caja de Ciudad Batallas Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2001-11-29 MA-33 Mythological Age － 蘇りし魂 － Common 2003-04-24 DL5-072 Duelist Legacy Volume.5 ＤＵＥＬＩＳＴ　ＬＥＧＡＣＹ　Ｖｏｌｕｍｅ．５ Rare 2004-03-25 SDM-026 Structure Deck: Marik (OCG) ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ － マリク編 － Common PC5-JP003 World Ranking Promos: Series 5 Common PC5-JP003 World Ranking Promos: Series 5 Normal Parallel Rare 2004-12-09 SD1-JP018 Structure Deck - Dragon's Roar ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －ドラゴンの力－ Common 2004-12-09 SD2-JP020 Structure Deck - Zombie Madness ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ－アンデットの脅威－ Common 2004-12-09 BE2-JP190 Beginner's Edition 2 ＢＥＧＩＮＮＥＲ'Ｓ　ＥＤＩＴＩＯＮ　２ Super Rare 2005-01-20 SD4-JP021 Structure Deck - Fury from the Deep ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －海竜神の怒り－ Common 2006-10-26 DP04-JP018 Duelist Pack: Zane Truesdale デュエリストパック －ヘルカイザー編－ Common 2008-06-21 SD15-JP023 Structure Deck: Undead World ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －アンデットワールド－ Common 2009-03-14 YSD4-JP027 Starter Deck 2009 ＳＴＡＲＴＥＲ ＤＥＣＫ ２００９ Common 2010-06-19 SD19-JP025 Structure Deck: Dragunity Drive ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －ドラグニティ・ドライブ－ Common 2011-08-13 BE02-JP156 Beginner's Edition 2 (2011) ＢＥＧＩＮＮＥＲ＇Ｓ　ＥＤＩＴＩＯＮ　２　［　２０１１　］ [[]] 
+ 
+ 
+ 
+ 
+ 
+   Asian-English 
+ 
+ 
+ Release date Card code Set Rarity 2003-09-11 LOD-081 Legacy of Darkness Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Traditional Chinese 
+ 
+ 
+ Release date Card code Set Traditional Chinese name Rarity September 27, 2014 SP02-TC040 Starter Pack Volume 2 決鬥始動包 Volume 2 Common October 3, 2015 SD24-TC029 Structure Deck: Onslaught of the Fire Kings 基本組 炎王急襲 ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2004-10-18 LOD-KR081 Legacy of Darkness 어둠의 유산 Ultra Rare 2006-09-28 BP2-KR190 Beginner's Edition 2 비기너즈 팩 Vol.2 Super Rare 2005-12-15 SD1-KR018 Structure Deck - Dragon's Roar ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ  —드래곤의 힘— Common 2005-12-15 SD2-KR020 Structure Deck - Zombie Madness ＳＴＲＵＣＴＵＲＥ   ＤＥＣＫ  —언데드의 위협— Common 2006-04-29 SD4-KR021 Structure Deck - Fury from the Deep ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ  —해룡신의 분노— Common 2008-02-02 DP04-KR018 Duelist Pack: Zane Truesdale 듀얼리스트 팩 —헬카이저 편— Common 2008-10-21 ESP2-KR048 Expansion Pack Vol.2 익스팬션 팩 Vol.2 Super Rare 2009-04-18 SD15-KR023 Structure Deck: Undead World ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ  —언데드 월드— Common 2009-10-21 YSD4-KR027 Starter Deck 2009 STARTER   DECK  ２００９ Common 2010-09-07 SD19-KR025 Structure Deck: Dragunity Drive ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ  —드래그니티 드라이브— Common 2012-04-03 GS04-KR012 Gold Series 2012 골드 시리즈 ２０１２ Common 2012-04-03 GS04-KR012 Gold Series 2012 골드 시리즈 ２０１２ [[]] 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Nightmare Troubadour 
+ 
+ 
+ Dragon's Nest  ( Rare ) 
+ 
+ 
+ 
+ 
+ 
+   Online 
+ 
+ 
+ Pack 22 
+ 
+ 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+ Legacy of Darkness  ( Ultra Rare )
+ All Spells  ( Common )
+ 
+ All at Random  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   GX Tag Force 2 
+ 
+ 
+ Starter Deck: Main Deck  ( Common ) 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Actions  
+ Changes control 
+ Prevents Battle Position changes 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 5162 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Nightmare Troubadour 2005-07-21 – ??? – – – Unlimited Online 2005-11-04 – – – – – Unlimited Ultimate Masters: World Championship Tournament 2006 2006-02-23 – ??? – – – Unlimited GX Tag Force 2 2007-09-18 – ??? – – – Unlimited 
+ 
+ 
+ 
+   " Creature Swap " pages 
+ 
+ 
+ Anime Yu-Gi-Oh! The Duelists of the Roses 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/10/CreatureSwap-SBCB-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20201220203401', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

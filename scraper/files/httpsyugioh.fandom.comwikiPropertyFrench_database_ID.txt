@@ -1,0 +1,15 @@
+Link: https://yugioh.fandom.com/wiki/Property:French_database_ID
+
+This  number  property lists French sets' ID numbers in Konami's card database,  http://www.db.yugioh-card.com .
+ See also:
+ 
+ Property:Database ID 
+ Property:English database ID 
+ Property:German database ID 
+ Property:Italian database ID 
+ Property:Japanese database ID 
+ Property:Spanish database ID 
+ 
+ 
+ 
+Categories:

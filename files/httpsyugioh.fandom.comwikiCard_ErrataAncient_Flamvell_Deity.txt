@@ -1,0 +1,51 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Ancient_Flamvell_Deity
+
+
+ Ancient Flamvell Deity 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Yu-Gi-Oh! BAM 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ 1 FIRE Tuner + 1  or more  non-Tuner Pyro -Type  monsters When  this card is Synchro Summoned , remove from play  cards from your opponent's  Graveyard , up to the number of cards in their hand .   This  card gains 200 ATK for each card  removed from play  by this effect. 
+ 1 FIRE Tuner + 1 +  non-Tuner Pyro monsters If  this card is Synchro Summoned : Banish  cards from your opponent's  GY , up to the number of cards in their hand , and if you do,  this card gains 200 ATK for each card  banished  by this effect. 
+ 
+ 
+       DT04-EN088 Duel Terminal 4     
+       HAC1-EN075 Hidden Arsenal: Chapter 1     
+ 
+ 
+ Japanese 
+ 
+ Japanese 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ 炎属性チューナー＋チューナー以外の炎族モンスター１体以上 このカードがシンクロ召喚に成功した時、相手の手札の枚数分まで相手の墓地 に存在する カードを選択してゲームから除外する。このカードの攻撃力は、この効果で除外したカードの枚数×２００ポイントアップする。 
+ 炎属性チューナー＋チューナー以外の炎族モンスター１体以上 このカードがシンクロ召喚に成功した時、相手の手札の枚数分まで相手の墓地 の カードを選択してゲームから除外する。このカードの攻撃力は、この効果で除外したカードの数×２００ポイントアップする。 
+ 
+ 
+       DT08-JP038 Duel Terminal - Pulse of the Trishula!!     
+         DTC3-JP056 Duel Terminal Chronicle 3 - Chapter of Destruction     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/1b/AncientFlamvellDeity-DT04-EN-DUPR-DT.jpg/revision/latest/scale-to-width-down/180?cb=20111010023044', 'https://static.wikia.nocookie.net/yugioh/images/e/ef/AncientFlamvellDeity-HAC1-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20220402034416', 'https://static.wikia.nocookie.net/yugioh/images/5/5d/AncientFlamvellDeity-DT08-JP-DUPR-DT.jpg/revision/latest/scale-to-width-down/180?cb=20100119132525', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1a/AncientFlamvellDeity-DTC3-JP-DUPR-DT.png/revision/latest/scale-to-width-down/180?cb=20130328232217']
+Categories: Card Errata, Cards with 1 erratum, Cards with Japanese errata

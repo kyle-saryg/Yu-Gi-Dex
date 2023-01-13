@@ -1,0 +1,89 @@
+Link: https://yugioh.fandom.com/wiki/Excess_Lesser_Linker
+
+
+ Excess Lesser Linker 
+ 
+ Japanese:   エクセス・レッサーリンカー 
+ Romaji:   Ekusesu Ressā Rinkā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ When your  Link -2 or lower  Link Monster   battles , during  damage calculation : Your battling  monster 's  ATK  becomes equal to the ATK of the opponent's monster it is battling during that damage calculation only.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  054 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ エクセス・レッサーリンカー 
+ ①：自分のリンク２以下のリンクモンスターが戦闘を行うダメージ計算時に発動できる。その自分のモンスターの攻撃力はそのダメージ計算時のみ、戦闘を行う相手モンスターの攻撃力と同じになる。 
+ 
+ 
+ Ekusesu Ressā Rinkā 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Link Monster 
+ 
+ Stat changes  
+ Changes ATK value 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/94/ExcessLesserLinker-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180530211915', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

@@ -1,0 +1,39 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Ally_of_Justice_Nullfier
+
+
+ Ally of Justice Nullfier 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ OCG Rulings 
+ This is a  Trigger Effect  which activates after  Damage Calculation , at the same time that " When this card inflicts Battle Damage " effects activate. [1] 
+ This effect does not  target . [1] 
+ If " Ally of Justice Nullfier " negates a monster's effect and then the monster is flipped face-down by " Book of Moon ", then the monster's effect is no longer negated. [2] 
+ " Ally of Justice Nullfier " also negates effects which activate in the Graveyard.  " Shining Angel "'s effect will be negated when " Ally of Justice Nullfier " destroys it by battle. [3] 
+ If " Ally of Justice Nullfier "  battles  with " Sangan " while " DNA Transplant " is turning " Sangan " into a  LIGHT  monster, and later " Sangan " is destroyed by " Fissure ", then " Sangan "'s effect will be negated. [4] 
+ When " Ally of Justice Nullfier "  battles  with a face-down " Marshmallon ", first " Marshmallon " is not considered to be destroyed by battle.  Afterwards, " Ally of Justice Nullfier "'s effect and " Marshmallon "'s effect to inflict 1000 damage form a chain.  " Marshmallon " will be Chain Link 2, so it will resolve first and inflict damage, and then " Ally of Justice Nullfier "'s effect resolves and negates " Marshmallon "'s effects.  However, " Marshmallon " is still not destroyed by battle. [5] 
+ References 
+ 
+ ↑  1.0   1.1   Konami FAQ : Effect Monster > Ally of Justice Nullfier 
+ 
+ ↑   Konami FAQ : When a monster whose effect has been negated by "Ally of Justice Nullfier" is flipped face-down, is the monster's effect applied again? 
+ 
+ ↑   Konami FAQ : When "Ally of Justice Nullfier" destroys "Shining Angel" by battle, is its effect which activates in the Graveyard negated? 
+ 
+ ↑   Konami FAQ : When "Sangan" is a LIGHT monster and battles with "Ally of Justice Nullfier", when it is sent to the Graveyard by another card effect, is the effect negated? 
+ 
+ ↑   Konami FAQ : When "Ally of Justice Nullfier" battles with a LIGHT-Attribute "Marshmallon", is the effect of "Marshmallon" negated and is it destroyed by battle? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

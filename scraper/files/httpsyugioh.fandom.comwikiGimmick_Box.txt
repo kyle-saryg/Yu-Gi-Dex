@@ -1,0 +1,133 @@
+Link: https://yugioh.fandom.com/wiki/Gimmick_Box
+
+
+ Gimmick Box 
+ 
+ Japanese:   ギミック・ボックス 
+ Romaji:   Gimikku Bokkusu 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Condition 
+ Condition 
+ During  damage calculation , if either player would take  battle damage : Reduce that damage to 0, then  Special Summon  this card as a  Monster Card  ( Machine - Type / DARK / Level  8/ ATK  ?/ DEF  0). (This card is also still treated as a  Trap Card .) This card's ATK is equal to the amount of damage reduced to 0 by this  effect .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  033 ,  043 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Italian 
+ Scatola Truccata 
+ 
+ 
+ 
+ Japanese 
+ ギミック・ボックス 
+ プレイヤーへの戦闘ダメージが発生した時に発動する事ができる。そのダメージを無効にする。発動後、このカードはモンスターカード（機械族・闇・星８・攻？／守０）となり、自分のモンスターカードゾーンに特殊召喚する。このカードの攻撃力は無効にした戦闘ダメージの数値になる。このカードは罠カードとしても扱う。 
+ 
+ 
+ Gimikku Bokkusu 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Quattro 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Trap Monster 
+ 
+ Related to  archetypes  and  series   
+ Gimmick Puppet 
+ 
+ Stat changes  
+ Changes own ATK value 
+ 
+ Monster / Spell / Trap  categories  
+ Treats Trap Cards as monsters 
+ 
+ Summoning  categories  
+ Special Summons itself from your Spell & Trap Card Zone 
+ 
+ LP   
+ Prevents battle damage 
+ 
+ v e 
+" Gimmick Puppet " 「ギミック・パペット」 a   r Members 
+ Gimmick Puppet Des Troy Gimmick Puppet Dreary Doll Gimmick Puppet Egg Head Gimmick Puppet Gear Changer Gimmick Puppet Humpty Dumpty Gimmick Puppet Magnet Doll Gimmick Puppet Nightmare Gimmick Puppet Princess Gimmick Puppet Scarecrow Gimmick Puppet Scissor Arms Gimmick Puppet Shadow Feeler Gimmick Puppet Twilight Joker Number 15: Gimmick Puppet Giant Grinder Number 40: Gimmick Puppet of Strings Number 88: Gimmick Puppet of Leo Number C15: Gimmick Puppet Giant Hunter Number C40: Gimmick Puppet of Dark Strings Number C88: Gimmick Puppet Disaster Leo 
+ Support 
+ Attack Gimmick Card of Puppets Celestial Strings Gimmick Puppet Des Troy Gimmick Puppet Gear Changer Gimmick Puppet Humpty Dumpty Gimmick Puppet Ritual Gimmick Puppet Twilight Joker Gimmick Shield Gimmick Vengeance Junk Puppet String of Destiny 
+ Related 
+ Gimmick Box Triangle Gimmick Box 
+ 
+ v e 
+ Trap Monster   罠 モンスター a   m   Members 
+ Copy Knight Cyber Shadow Gardna Depth Gardna Dimension Reflector The Door of Destiny Embodiment of Apophis Gimmick Box Instant Shutter Jirai Gumo King Scarlet Krystal Avatar Metalhold the Moving Blockade Metamorphortress Stronghold the Moving Fortress Uluru the Guardian Spirit Zoma the Spirit 
+ Related 
+ Dragon Capture Jar 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/dd/GimmickBox-JP-Anime-ZX.png/revision/latest?cb=20111215151541', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b1/GimmickBox-OW.png/revision/latest/scale-to-width-down/185?cb=20131215211739', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/fd/GimmickBox-JP-Anime-ZX-NC.png/revision/latest/scale-to-width-down/185?cb=20111208012337', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

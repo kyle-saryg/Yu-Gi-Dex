@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Flip_Monster
+
+This Property describes is a Monster Card is a Flip Effect Monster. It has type  String .
+ 
+ 
+ 
+ 
+Categories:

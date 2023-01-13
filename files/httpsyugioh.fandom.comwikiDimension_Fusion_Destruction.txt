@@ -1,0 +1,287 @@
+Link: https://yugioh.fandom.com/wiki/Dimension_Fusion_Destruction
+
+
+ 
+ 
+ Dimension Fusion Destruction 次 元 融 合 殺 
+ 
+ English 
+Dimension Fusion Destruction 
+ French 
+ Destruction des Dimensions de Fusion Check translation 
+ German 
+ Dimensionsfusionenzerstörung Check translation 
+ Italian 
+ Distruzione Fusione Dimensionale Check translation 
+ Korean 
+ 차원 융합살 Check translation 
+ Portuguese 
+ Destruição da Dimensão Fusão Check translation 
+ Spanish 
+ Destrucción de Dimensiones de Fusión Check translation 
+ Japanese (kana) 
+ じげんゆうごうさつ Check translation 
+ Japanese (base) 
+ 次元融合殺 Check translation 
+ Japanese ( rōmaji ) 
+Jigen Yūgō Satsu 
+ Japanese (translated) 
+Dimension Fusion Murder 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 89190953 
+ Card effect types 
+ 
+ 
+ Effect 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Banish  from your  hand ,  field , and/or  GY , the  Fusion Materials  that are listed on a " Phantasm "  Fusion Monster , then  Special Summon  that Fusion Monster from your  Extra Deck , ignoring its  Summoning conditions . You take no  battle damage  from  attacks  involving the monster Special Summoned by this  effect . If you  control  " Uria, Lord of Searing Flames ", " Hamon, Lord of Striking Thunder ", or " Raviel, Lord of Phantasms ", your opponent cannot  activate  cards or effects in  response  to this card's activation. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Bannissez les Matériels Fusion listés sur un Monstre Fusion "Spectre" depuis votre main, Terrain et/ou Cimetière, puis Invoquez Spécialement le Monstre Fusion depuis votre Extra Deck, en ignorant ses conditions d'Invocation. Vous ne recevez aucun dommage de combat des attaques impliquant le monstre Invoqué Spécialement par cet effet. Si vous contrôlez "Uria, Seigneur des Flammes Aveuglantes", "Hamon, Seigneur du Tonnerre Fracassant" ou "Raviel, Empereur des Phantasmes", votre adversaire ne peut activer ni de cartes ni d'effets en réponse à l'activation de cette carte. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Verbanne das Fusionsmaterial, das auf einem „Phantasma“-Fusionsmonster aufgeführt ist, von deiner Hand, deiner Spielfeldseite und/oder deinem Friedhof, dann beschwöre das Fusionsmonster als Spezialbeschwörung von deinem Extra Deck, ungeachtet seiner Beschwörungsbedingungen. Du erhältst keinen Kampfschaden aus Angriffen, an denen das Monster beteiligt ist, das durch diesen Effekt als Spezialbeschwörung beschworen wurde. Falls du „Uria, Herr der reißenden Flammen“, „Hamon, Herr des tosenden Donners“ oder „Raviel, Herr der Phantome“ kontrollierst, kann dein Gegner als Reaktion auf die Aktivierung dieser Karte weder Karten noch Effekte aktivieren. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Bandisci dalla tua mano, Terreno e/o Cimitero i Materiali da Fusione che sono indicati su un Mostro Fusione "Fantasma", poi Evoca Specialmente quel Mostro Fusione dal tuo Extra Deck, ignorando le sue condizioni di Evocazione. Non subisci danno da combattimento da attacchi che coinvolgono il mostro Evocato Specialmente da questo effetto. Se controlli "Uria, Signore delle Fiamme Ardenti", "Hamon, Signore del Tuono Fragoroso" o "Raviel, il Signore dei Fantasmi", il tuo avversario non può attivare carte o effetti in risposta all'attivazione di questa carta. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Bana da sua mão, do campo e/ou do Cemitério, as Matérias de Fusão que estiverem listadas em um Monstro de Fusão "Fantasma" e, depois, Invoque por Invocação-Especial esse Monstro de Fusão do seu Deck Adicional, ignorando suas condições de Invocação. Você não sofre dano de batalha dos ataques envolvendo o monstro Invocado por Invocação-Especial por este efeito. Se você controlar "Uria, o Senhor das Chamas Cortantes", "Hamon, o Senhor do Trovão Impactante" ou "Raviel, o Senhor dos Fantasmas", seu oponente não pode ativar cards ou efeitos em resposta à ativação deste card. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Destierra los Materiales de Fusión en tu mano, Campo y/o Cementerio que estén listados en un Monstruo de Fusión "Fantasma", y después Invoca ese Monstruo de Fusión de Modo Especial desde tu Deck Extra, ignorando sus condiciones de Invocación. No recibes daño de batalla de ataques que involucren el monstruo Invocado de Modo Especial por este efecto. Si controlas "Uria, Señor de las Llamas Abrasadoras", "Hamon, Señor del Trueno Golpeador", o "Raviel, Señor de Fantasmas", tu adversario no puede activar cartas o efectos en respuesta a la activación de esta carta. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：自分の手札・フィールド・墓地から、「幻魔」融合モンスターカードによって決められた融合素材モンスターを除外し、その融合モンスター１体を ＥＸ デッキから召喚条件を無視して特殊召喚する。この効果で特殊召喚したモンスターの戦闘で発生する自分への戦闘ダメージは０になる。自分フィールドに「神炎皇ウリア」「降雷皇ハモン」「幻魔皇ラビエル」のいずれかが存在する場合、このカードの発動に対して相手は効果を発動できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 자신의 패 / 필드 / 묘지에서, "환마" 융합 몬스터 카드에 기재된 융합 소재 몬스터를 제외하고, 그 융합 몬스터 1장을 엑스트라 덱에서 소환 조건을 무시하여 특수 소환한다. 이 효과로 특수 소환한 몬스터의 전투로 발생하는 자신에게로의 전투 데미지는 0 이 된다. 자신 필드에 "신염황제 우리아" "번개황제 하몬" "환마황제 라비엘" 중 어느 것이 존재할 경우, 이 카드의 발동에 대하여 상대는 효과를 발동할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2020-07-09 SDSA-EN046 Structure Deck: Sacred Beasts Super Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2020-07-09 SDSA-FR046 Structure Deck: Sacred Beasts Deck de Structure : les Bêtes Sacrées Super Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2020-07-09 SDSA-DE046 Structure Deck: Sacred Beasts Structure Deck: Sacred Beasts Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2020-07-09 SDSA-IT046 Structure Deck: Sacred Beasts Structure Deck: Bestie Sacre Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2020-07-09 SDSA-PT046 Structure Deck: Sacred Beasts Deck Estrutural: Bestas Sagradas Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2020-07-09 SDSA-SP046 Structure Deck: Sacred Beasts Baraja de Estructura: Bestias Sagradas Super Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2020-03-20 SD38-JPP05 Structure Deck: Sacred Beasts of Chaos Sacred Beasts Unleashed Pack ＳＴＲＵＣＴＵＲＥ　ＤＥＣＫ－ 混沌の三幻魔－ 三幻魔解放パック Super Rare 2020-03-20 SD38-JPP05 Structure Deck: Sacred Beasts of Chaos Sacred Beasts Unleashed Pack ＳＴＲＵＣＴＵＲＥ　ＤＥＣＫ－ 混沌の三幻魔－ 三幻魔解放パック Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2020-06-25 SD38-KRP05 Structure Deck: Sacred Beasts of Chaos Sacred Beasts Unleashed Pack 스트럭처 덱 －혼돈의 삼환마 － 삼환마팡햬 퍡 Super Rare 2020-06-25 SD38-KRP05 Structure Deck: Sacred Beasts of Chaos Sacred Beasts Unleashed Pack 스트럭처 덱 －혼돈의 삼환마 － 삼환마팡햬 퍡 Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Uria, Lord of Searing Flames 
+ Hamon, Lord of Striking Thunder 
+ Raviel, Lord of Phantasms 
+ 
+ Archetypes  and  series   
+ Polymerization  
+ 
+ Supports   archetypes   
+ Phantasm 
+ 
+ Related to  archetypes  and  series   
+ Sacred Beast 
+ 
+ Actions  
+ Uses cards in the hand as Fusion Materials 
+ Uses cards on the player's field as Fusion Materials 
+ Uses cards in the player's Graveyard as Fusion Materials 
+ 
+ Monster / Spell / Trap  categories  
+ Prevents activation of your opponent's Effect Monsters 
+ Prevents activation of your opponent's Spell Cards 
+ Prevents activation of your opponent's Trap Cards 
+ Prevents responding to its activation 
+ 
+ Summoning  categories  
+ Special Summons from your Extra Deck 
+ Ignoring its Summoning conditions 
+ 
+ Banished  categories  
+ Banishes from your hand 
+ Banishes from your field 
+ Banishes from your Graveyard 
+ 
+ LP   
+ Prevents battle damage 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 15144 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Dimension Fusion Destruction " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Phantasm " 「 幻 魔 」 Members 
+ Armityle the Chaos Phantasm Armityle the Chaos Phantasm - Phantom of Fury Phantasm Emperor Trilojig Phantasm Token Phantasmal Martyr Token Raviel, Lord of Phantasms Raviel, Lord of Phantasms - Shimmering Scraper 
+ Awakening of the Sacred Beasts Phantasmal Martyrs 
+ Support 
+ Dimension Fusion Destruction 
+ Related 
+ Hamon, Lord of Striking Thunder Uria, Lord of Searing Flames 
+ 
+   
+" Polymerization " 「 融 合 」 Members 
+ The Dark - Hex-Sealed Fusion The Earth - Hex-Sealed Fusion The Light - Hex-Sealed Fusion 
+ A.I. Love Fusion Anti-Fusion Device Battle Fusion Branded Fusion De-Fusion Destruction Swordsman Fusion Dimension Fusion Dimension Fusion Destruction Face Card Fusion Final Fusion Flash Fusion Fossil Fusion Fusion Conscription Fusion Deployment Fusion Recycling Plant Fusion Sage Fusion Substitute Fusion Sword Murasame Blade Future Fusion Greater Polymerization Mispolymerization Non-Fusion Area Polymerization Polymerization Re-Fusion Revoke Fusion Super Polymerization Ultra Polymerization Vision Fusion 
+ Support 
+ Alba-Lenatus the Abyss Dragon Fluffal Dolphin Keeper of Dragon Magic Predaplant Chimerafflesia Predaplant Darlingtonia Cobra Predaplant Verte Anaconda Supreme King Gate Zero Synchro Fusionist Xtra HERO Wonder Driver 
+ Cyberdark Inferno Evil Mind Frightfur Factory Sabatiel - The Philosopher's Stone Wonders of Nature 
+ Related 
+ Amazoness Spiritualist Amazoness War Chief Ancient Gear Golem - Ultimate Pound Blue-Eyes Abyss Dragon Elemental HERO Blazeman Elemental HERO Spirit of Neos Elemental HERO Woodsman Fluffal Bear Fluffal Cat Fluffal Owl Guardian Chimera King of the Swamp Lunalight Black Sheep Lunalight Kaleido Chick Monster Eye Performapal Odd-Eyes Metal Claw Performapal Trump Witch Tamtam the Melodious Diva Vision HERO Vyon Wroughtweiler 
+ EN - Engage Neo Space Frightfur Patchwork Fusion Recovery Fusion Reserve Miracle Contact 
+ 
+   
+ Sacred Beast  三幻魔 Members 
+ Armityle the Chaos Phantasm Armityle the Chaos Phantasm - Phantom of Fury Hamon, Lord of Striking Thunder Raviel, Lord of Phantasms Raviel, Lord of Phantasms - Shimmering Scraper Uria, Lord of Searing Flames 
+ Related 
+ Chaos Core Chaos Summoning Beast Dark Beckoning Beast Dark Summoning Beast Phantasm Emperor Trilojig Phantasm Token Phantasmal Martyr Token Phantom of Chaos 
+ Awakening of the Sacred Beasts Cerulean Skyfire Dimension Fusion Destruction Fallen Paradise Hyper Blaze Opening of the Spirit Gates Phantasmal Martyrs 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d0/DimensionFusionDestruction-SDSA-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20200715181851', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,106 @@
+Link: https://yugioh.fandom.com/wiki/Cyberse_Pride
+
+
+ Cyberse Pride 
+ 
+ Japanese:   サイバース・プライド 
+ Romaji:   Saibāsu Puraido 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Quick-Play 
+ 
+ During  damage calculation , if your  Cyberse   monster   battles  an opponent's monster:  Target  that Cyberse monster you  control ; it cannot be  destroyed by battle  this  turn , also if it  battles  an opponent's monster with higher  ATK ,  pay   LP  equal to the difference in ATK, and if you do, it gains ATK equal the LP you paid, until the  End Phase .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  093 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ サイバース・プライド 
+ ①：自分のサイバース族モンスターが相手モンスターと戦闘を行うダメージ計算時、その自分のサイバース族モンスター１体を対象として発動できる。そのモンスターはこのターン戦闘では破壊されない。さらに、戦闘を行う相手モンスターの攻撃力が対象のモンスターの攻撃力よりも高い場合、自分はその攻撃力の差分のＬＰを払い、エンドフェイズまで、対象のモンスターの攻撃力を払ったＬＰの数値分アップする。 
+ 
+ 
+ Saibāsu Puraido 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Cyberse 
+ 
+ Archetypes  and  series   
+ Cyber 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ LP   
+ Pays Life Points for cost 
+ 
+ v e 
+" Cyber " 「サイバー」 a   m   Members 
+ Armored Cybern The Arrival Cyberse @Ignister Cyber Angel Benten Cyber Angel Dakini Cyber Angel Idaten Cyber Angel Natasha Cyber Angel Vrash Cyber Barrier Dragon Cyber Blader Cyber Blader Cyber Dragon Cyber Dragon Nova Cyber End Dragon Cyber Esper Cyber Gymnast Cyber Harpie Cyber Jar Cyber Kirin Cyber Laser Dragon Cyber Ogre Cyber Ogre 2 Cyber Ouroboros Cyber Petit Angel Cyber Phoenix Cyber Prima Cyber Prima Cyber Raider Cyber Repairer Cyber Shadow Gardna Cyber Shield Cyber Summon Blaster Cyber Tutu Cyber Tutubon Cyber Twin Dragon Cyber Valley Cyberdark Dragon Cyberdark Dragon Cyberdark Edge Cyberdark Horn Cyberdark Impact! Cyberdark Keel Cybersal Cyclone Cyberse Annihilation Cyberse Beacon Cyberse Bridge Cyberse Cache Cyberse Clock Dragon Cyberse Gadget Cyberse Magician Cyberse Pride Cyberse Quantum Dragon Cyberse Shatter Cyberse Synchron Cyberse White Hat Cyberse Wicckid Cyberse Witch Cyberse Wizard Etoile Cyber Etoile Cyber The Fiend Megacyber ... further results 
+ Support 
+ Armored Cybern Cyber Angel Natasha Cybernetic Hidden Technology Machine Angel Absolute Ritual 
+ Related 
+ Attack Reflector Unit Blade Skater Cynet Ritual Machine Angel Ritual Photon Generator Unit Prima Light 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/4d/CybersePride-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20190313134900', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/05/Quick-Play.svg/revision/latest/scale-to-width-down/18?cb=20120920115228']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

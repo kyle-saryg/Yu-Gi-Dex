@@ -1,0 +1,52 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Arcana_Force_I_-_The_Magician
+
+
+ Arcana Force I - The Magician 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [1]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [2] [3] [4] [5] [6] [7] [8] [9] [10] 
+ 
+ The heads/tails effects of " Arcana Force I - The Magician " are Continuous Effects and are applied immediately after the Spell Card resolves. 
+ The heads effect of " Arcana Force I - The Magician " does not change its original ATK. It creates a new current ATK equal to twice its original ATK. Any other increases or decreases of ATK are reapplied to this new ATK value. 
+ If " Arcana Force I - The Magician " is affected by a Spell Card that changes its ATK, like “ Shrink ” or “ Rush Recklessly ,” first the Spell Card’s effect is applied, then “ Arcana Force I – The Magician ’s” effect is applied, changing its current ATK to twice its original ATK, or 2200. 
+ 
+ 
+ 
+ References 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

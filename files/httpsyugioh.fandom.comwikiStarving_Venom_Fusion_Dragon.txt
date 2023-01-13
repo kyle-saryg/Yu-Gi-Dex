@@ -1,0 +1,355 @@
+Link: https://yugioh.fandom.com/wiki/Starving_Venom_Fusion_Dragon
+
+The  Hungarian                        name given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Starving Venom Fusion Dragon スターヴ・ヴェノム・フュージョン・ドラゴン 
+ 
+ English 
+Starving Venom Fusion Dragon 
+ French 
+ Dragon Fusion Venin Affamé Check translation 
+ German 
+ Hungergift-Fusionsdrache Check translation 
+ Italian 
+ Drago Fusione Veleno Affamato Check translation 
+ Korean 
+ 스타브 베놈 퓨전 드래곤 Check translation 
+ Portuguese 
+ Dragão Fusão de Peçonha Insaciável Check translation 
+ Spanish 
+ Dragón de Fusión Hambriento Venenoso Check translation 
+ Japanese 
+ スターヴ・ヴェノム・フュージョン・ドラゴン Check translation 
+ Japanese ( rōmaji ) 
+Sutāvu Venomu Fyūjon Doragon 
+ Japanese (translated) 
+Starve Venom Fusion Dragon 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Dragon  /  Fusion  /  Effect 
+ Level 
+ 8   
+ ATK  /  DEF 
+ 2800  /  2000 
+ Passcode 
+ 41209827 
+ Materials 
+2 DARK monsters on the field, except Tokens 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Ignition 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+2  DARK   monsters  on the  field , except  Tokens If this card is  Fusion Summoned : You can make this card gain  ATK  equal to 1 opponent's  Special Summoned  monster, until the end of this  turn .  Once per turn : You can  target  1  Level  5 or higher monster your opponent  controls ; until the  End Phase , this card's name becomes that monster's original name, and replace this  effect  with that monster's original effects. If this Fusion Summoned card is  destroyed : You can destroy all your opponent's Special Summoned monsters. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 2 monstres TÉNÈBRES sur le Terrain (Jetons exclus) Si cette carte est Invoquée par Fusion : jusqu'à la fin de ce tour, vous pouvez faire gagner à cette carte une ATK égale à l'ATK d'1 monstre Invoqué Spécialement de l'adversaire. Une fois par tour : vous pouvez cibler 1 monstre de min. Niveau 5 contrôlé par votre adversaire ; jusqu'à la End Phase, le nom de cette carte devient le nom d'origine du monstre, et remplacez cet effet avec les effets d'origine du monstre. Si cette carte Invoquée par Fusion est détruite : vous pouvez détruire tous les monstres Invoqués Spécialement de votre adversaire. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 2 FINSTERNIS Monster auf dem Spielfeld, außer Spielmarken Falls diese Karte als Fusionsbeschwörung beschworen wird: Du kannst diese Karte bis zum Ende dieses Spielzugs ATK in Höhe der ATK von 1 als Spezialbeschwörung beschworenen Monster des Gegners erhalten lassen. Einmal pro Spielzug: Du kannst 1 Monster der Stufe 5 oder höher wählen, das dein Gegner kontrolliert; bis zur End Phase wird der Name dieser Karte derselbe wie der Grund-Name jenes Monsters und ersetze diesen Effekt durch die Grund-Effekte jenes Monsters. Falls diese als Fusionsbeschwörung beschworene Karte zerstört wird: Du kannst alle als Spezialbeschwörung beschworenen Monster deines Gegners zerstören. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 2 mostri OSCURITÀ sul Terreno, eccetto i Segna-Mostro Se questa carta viene Evocata tramite Fusione: puoi far guadagnare a questa carta ATK pari a quello di 1 mostro Evocato Specialmente dell'avversario, fino alla fine di questo turno. Una volta per turno: puoi scegliere come bersaglio 1 mostro di Livello 5 o superiore controllato dal tuo avversario; fino alla End Phase, il nome di questa carta diventa il nome originale di quel mostro, e sostituisci questo effetto con gli effetti originali di quel mostro. Se questa carta Evocata tramite Fusione viene distrutta: puoi distruggere tutti i mostri Evocati Specialmente del tuo avversario. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 2 monstros de TREVAS no campo, exceto Fichas Se este card for Invocado por Invocação-Fusão: até o final deste turno, você pode fazer com que este card ganhe ATK igual ao de 1 monstro do oponente Invocado por Invocação-Especial. Uma vez por turno: você pode escolher 1 monstro de Nível 5 ou mais que seu oponente controla; até a Fase Final, o nome deste card se torna o nome original desse monstro e substitua este efeito pelos efeitos originais desse monstro. Se este card Invocado por Invocação-Fusão for destruído: você pode destruir todos os monstros Invocados por Invocação-Especial do seu oponente. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 2 monstruos de OSCURIDAD en el Campo, excepto Fichas Si esta carta es Invocada por Fusión: hasta el final de este turno, puedes hacer que esta carta gane ATK igual al de 1 monstruo Invocado de Modo Especial del adversario. Una vez por turno: puedes seleccionar 1 monstruo de Nivel 5 o mayor que controle tu adversario; hasta la End Phase, el nombre de esta carta se convierte en el nombre original de ese monstruo, y reemplaza este efecto con los efectos originales de ese monstruo. Si esta carta Invocada por Fusión es destruida: puedes destruir todos los monstruos Invocados de Modo Especial de tu adversario. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ トークン以外のフィールドの闇属性モンスター×２ ①：このカードが融合召喚に成功した場合に発動できる。相手フィールドの特殊召喚されたモンスター１体を選び、その攻撃力分このカードの攻撃力をターン終了時までアップする。②：１ターンに１度、相手フィールドのレベル５以上のモンスター１体を対象として発動できる。エンドフェイズまで、このカードはそのモンスターと同じ、元々のカード名・効果を得る。③：融合召喚したこのカードが破壊された場合に発動できる。相手フィールドの特殊召喚されたモンスターを全て破壊する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 토큰 이외의 필드의 어둠 속성 몬스터 × 2 ①: 이 카드가 융합 소환에 성공했을 경우에 발동할 수 있다. 상대 필드의 특수 소환된 몬스터 1장을 고르고, 그 공격력만큼 이 카드의 공격력을 턴 종료시까지 올린다. ②: 1턴에 1번, 상대 필드의 레벨 5 이상의 몬스터 1장을 대상으로 하고 발동할 수 있다. 엔드 페이즈까지, 이 카드는 그 몬스터와 같은, 원래의 카드명 / 효과를 얻는다. ③: 융합 소환한 이 카드가 파괴되었을 경우에 발동할 수 있다. 상대 필드의 특수 소환된 몬스터를 전부 파괴한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2016-11-03 INOV-EN038 Invasion: Vengeance Secret Rare 2017-08-24 MP17-EN147 2017 Mega-Tin Mega Pack Secret Rare 2017-10-05 LEDD-ENC25 Legendary Dragon Decks Ultra Rare 2019-08-22 FIGA-EN060 Fists of the Gadgets Super Rare 2019-09-26 LED5-EN052 Legendary Duelists: Immortal Destiny Rare 2022-07-21 LDS3-EN073 Legendary Duelists: Season 3 Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2016-11-03 INOV-FR038 Invasion: Vengeance Invasion : Vengeance Secret Rare 2017-08-24 MP17-FR147 2017 Mega-Tin Mega Pack 2017 Méga-Boîte Méga-Pack Secret Rare 2017-10-05 LEDD-FRC25 Legendary Dragon Decks Decks du Dragon Legendaire Ultra Rare 2019-08-22 FIGA-FR060 Fists of the Gadgets Les Poings Des Gadgets Super Rare 2019-09-26 LED5-FR052 Legendary Duelists: Immortal Destiny Duellistes Légendaires : Destinée Immortelle Rare 2022-07-21 LDS3-FR073 Legendary Duelists: Season 3 Duellistes Légendaires : Saison 3 Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2016-11-03 INOV-DE038 Invasion: Vengeance Invasion: Vengeance Secret Rare 2017-08-24 MP17-DE147 2017 Mega-Tin Mega Pack 2017 Mega-Tin Mega Pack Secret Rare 2017-10-05 LEDD-DEC25 Legendary Dragon Decks Legendary Dragon Decks Ultra Rare 2019-08-22 FIGA-DE060 Fists of the Gadgets Fists Of The Gadgets Super Rare 2019-09-26 LED5-DE052 Legendary Duelists: Immortal Destiny Legendary Duelists: Immortal Destiny Rare 2022-07-21 LDS3-DE073 Legendary Duelists: Season 3 Legendary Duelists: Season 3 Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2016-11-03 INOV-IT038 Invasion: Vengeance Invasione: Vendetta Secret Rare 2017-08-24 MP17-IT147 2017 Mega-Tin Mega Pack 2017 Mega-Tin Mega Pack Secret Rare 2017-10-05 LEDD-ITC25 Legendary Dragon Decks I Deck Drago Leggendario Ultra Rare 2019-08-22 FIGA-IT060 Fists of the Gadgets Pugni Dei Congegni Super Rare 2019-09-26 LED5-IT052 Legendary Duelists: Immortal Destiny Duellanti Leggendari: Destino Immortale Rare 2022-07-21 LDS3-IT073 Legendary Duelists: Season 3 Duellanti Leggendari: Stagione 3 Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2016-11-04 INOV-PT038 Invasion: Vengeance Invasão: Vingança Secret Rare 2017-08-24 MP17-PT147 2017 Mega-Tin Mega Pack Mega-Pacote da Mega-Latas 2017 Secret Rare 2017-10-05 LEDD-PTC25 Legendary Dragon Decks Decks de Dragões Lendários Ultra Rare 2019-08-22 FIGA-PT060 Fists of the Gadgets Punhos Mecânicos Super Rare 2019-09-26 LED5-PT052 Legendary Duelists: Immortal Destiny Duelistas Lendários: Destino Imortal Rare 2022-07-21 LDS3-PT073 Legendary Duelists: Season 3 Duelistas Lendários: Temporada 3 Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2016-11-03 INOV-SP038 Invasion: Vengeance Invasión: Venganza Secret Rare 2017-08-24 MP17-SP147 2017 Mega-Tin Mega Pack 2017 Mega-Lata Mega Pack Secret Rare 2017-10-05 LEDD-SPC25 Legendary Dragon Decks Barajas Dragón Legendario Ultra Rare 2019-08-22 FIGA-SP060 Fists of the Gadgets Puños de los Artilugios Super Rare 2019-09-26 LED5-SP052 Legendary Duelists: Immortal Destiny Duelistas Legendarios: Destino Inmortal Rare 2022-07-21 LDS3-SP073 Legendary Duelists: Season 3 Duelistas Legendarios: Temporada 3 Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2016-07-09 INOV-JP038 Invasion: Vengeance インベイジョン・オブ・ヴェノム Ultra Rare 2016-07-09 INOV-JP038 Invasion: Vengeance インベイジョン・オブ・ヴェノム Secret Rare 2016-07-09 INOV-JP038 Invasion: Vengeance インベイジョン・オブ・ヴェノム Ultimate Rare 2016-07-09 INOV-JP038 Invasion: Vengeance インベイジョン・オブ・ヴェノム Holographic Rare 2016-11-26 DBLE-JPS04 Dimension Box Limited Edition ディメンションボックス －リミテッド・エディション－ Extra Secret Parallel Rare 2019-06-08 DP22-JP052 Duelist Pack: Legend Duelist 5 デュエリストパック －レジェンドデュエリスト編５－ Common 2022-02-19 HC01-JP042 History Archive Collection ＨＩＳＴＯＲＹ ＡＲＣＨＩＶＥ ＣＯＬＬＥＣＴＩＯＮ Normal Parallel Rare 2022-02-19 HC01-JP042 History Archive Collection ＨＩＳＴＯＲＹ ＡＲＣＨＩＶＥ ＣＯＬＬＥＣＴＩＯＮ Secret Rare 2022-02-19 HC01-JP042 History Archive Collection ＨＩＳＴＯＲＹ ＡＲＣＨＩＶＥ ＣＯＬＬＥＣＴＩＯＮ Ultimate Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2016-10-20 INOV-KR038 Invasion: Vengeance 인베이전 오브 베놈 Ultra Rare 2016-10-20 INOV-KR038 Invasion: Vengeance 인베이전 오브 베놈 Secret Rare 2016-10-20 INOV-KR038 Invasion: Vengeance 인베이전 오브 베놈 Ultimate Rare 2016-10-20 INOV-KR038 Invasion: Vengeance 인베이전 오브 베놈 Holographic Rare 2016-10-29 INOV-KRGE1 Invasion of Venom: Giant Edition 인베이전 오브 베놈 자이언트 에디션 Super Rare 2017-01-20 DBLE-KRS04 Dimension Box Limited Edition DIMENSION   SET Extra Secret Parallel Rare 2019-09-06 DP22-KR052 Duelist Pack: Legend Duelist 5 듀얼리스트 팩 -레전드듀얼리스트 편 5- Common 2022-05-20 HC01-KR042 History Archive Collection HISTORY   ARCHIVE   COLLECTION Normal Parallel Rare 2022-05-20 HC01-KR042 History Archive Collection HISTORY   ARCHIVE   COLLECTION Secret Rare 2022-05-20 HC01-KR042 History Archive Collection HISTORY   ARCHIVE   COLLECTION Ultimate Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ DARK 
+ 
+ Archetypes  and  series   
+ Fusion  
+ Fusion Dragon 
+ Starving Venom 
+ Venom 
+ Four Dimension Dragons 
+ 
+ Related to  archetypes  and  series   
+ Odd-Eyes 
+ Predaplant 
+ Supreme King 
+ Supreme King Dragon 
+ 
+ Actions  
+ Activates upon Fusion Summon 
+ Activates if destroyed by battle 
+ Activates if destroyed by card effect 
+ 
+ Stat changes  
+ This card gains ATK 
+ Changes own name while on the field 
+ Copies name 
+ Copies effects 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your opponent's Monster Cards 
+ Destroys Special Summoned Monster Cards 
+ 
+ Summoning  categories  
+ 2 Fusion Materials 
+ Requires Attribute specific Fusion Materials 
+ Requires location specific Fusion Materials 
+ Cannot use Tokens as Fusion Materials for its Summon 
+ 
+ Miscellaneous  
+ Limited activations 
+ Cover card 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12628 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Starving Venom Fusion Dragon " pages 
+ 
+ 
+ Anime Manga 
+ 
+ 
+ 
+   
+ Four Dimension Dragons   ４ ＤＤ Members 
+ Clear Wing Synchro Dragon Dark Rebellion Xyz Dragon Odd-Eyes Pendulum Dragon Starving Venom Fusion Dragon 
+ Related 
+ All-Eyes Phantom Dragon Astrograph Sorcerer Beast-Eyes Pendulum Dragon Brave-Eyes Pendulum Dragon Chronograph Sorcerer Clear Wing Fast Dragon Crystal Clear Wing Synchro Dragon Crystal Wing Synchro Dragon Dark Anthelion Dragon Dark Requiem Xyz Dragon Greedy Venom Fusion Dragon Hi-Speedroid Clear Wing Rider Odd-Eyes Dragon Odd-Eyes Pendulumgraph Dragon Odd-Eyes Phantasma Dragon Odd-Eyes Phantom Dragon Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Odd-Eyes Revolution Dragon Odd-Eyes Venom Dragon Odd-Eyes Wing Dragon Performapal Celestial Magician Rune-Eyes Pendulum Dragon Starving Venemy Dragon Starving Venemy Lethal Dose Dragon Supreme King Dragon Clear Wing Supreme King Dragon Dark Rebellion Supreme King Dragon Odd-Eyes Supreme King Dragon Starving Venom Supreme King Z-ARC 
+ Pendulum Dimension 
+ 
+   
+" Fusion " 「フュージョン」 Members 
+ Greedy Venom Fusion Dragon Purple Poison Magician Starving Venom Fusion Dragon Starving Venom Predapower Fusion Dragon 
+ Absorb Fusion Ancient Gear Fusion Battle Fusion Brilliant Fusion Confusion Chaff Cyberload Fusion Cybernetic Fusion Support Cynet Fusion D-Fusion Dark Fusion Dowsing Fusion El Shaddoll Fusion Final Fusion Fossil Fusion Fragment Fusion Frightfur Fusion Fullmetalfoes Fusion Fusion Destiny Fusion Fright Waltz Fusion Gate Fusion Guard Fusion Recovery Fusion Reserve Fusion Tag Fusion Weapon Fusion of Fire Future Fusion Gem-Knight Fusion Ghost Fusion Instant Fusion Lunalight Fusion Magicalized Fusion Metalfoes Fusion Miracle Fusion Miracle Synchro Fusion Myutant Fusion Necro Fusion Neos Fusion Nephe Shaddoll Fusion Odd-Eyes Fusion Over Fusion Overload Fusion Paradox Fusion Parallel World Fusion Parametalfoes Fusion Particle Fusion Pendulum Fusion Predaprime Fusion Pyroxene Fusion Ready Fusion ... further results 
+ Support 
+ Alba-Lenatus the Abyss Dragon Fluffal Dolphin Gem-Knight Quartz Keeper of Dragon Magic Predaplant Chimerafflesia Predaplant Darlingtonia Cobra Predaplant Verte Anaconda Supreme King Gate Zero Synchro Fusionist Xtra HERO Wonder Driver 
+ Cyberdark Inferno Evil Mind Frightfur Factory Sabatiel - The Philosopher's Stone Wonders of Nature 
+ Related 
+ Fusion Devourer Odd-Eyes Venom Dragon Performapal Trump Witch Relinquished 
+ Dark Calling Evolution Result Burst Fusion Substitute Miracle Contact Polymerization Power Bond 
+ 
+   
+" Fusion Dragon " 「フュージョン・ドラゴン」 Members 
+ Greedy Venom Fusion Dragon Purple Poison Magician Starving Venom Fusion Dragon Starving Venom Predapower Fusion Dragon 
+ Support 
+ Astrograph Sorcerer Chronograph Sorcerer 
+ The Supreme King's Soul 
+ Related 
+ Odd-Eyes Venom Dragon Starving Venemy Dragon Supreme King Dragon Starving Venom Supreme King Z-ARC 
+ Pendulum Dimension 
+ 
+   
+" Odd-Eyes " 「オッドアイズ」 Members 
+ Odd-Eyes Absolute Dragon Odd-Eyes Advance Dragon Odd-Eyes Arc Pendulum Dragon Odd-Eyes Dragon Odd-Eyes Gravity Dragon Odd-Eyes Lancer Dragon Odd-Eyes Meteorburst Dragon Odd-Eyes Mirage Dragon Odd-Eyes Pendulum Dragon Odd-Eyes Pendulumgraph Dragon Odd-Eyes Persona Dragon Odd-Eyes Phantasma Dragon Odd-Eyes Phantom Dragon Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Odd-Eyes Revolution Dragon Odd-Eyes Saber Dragon Odd-Eyes Venom Dragon Odd-Eyes Vortex Dragon Odd-Eyes Wing Dragon Odd-Eyes Wizard Dragon Performapal Odd-Eyes Butler Performapal Odd-Eyes Dissolver Performapal Odd-Eyes Light Phoenix Performapal Odd-Eyes Metal Claw Performapal Odd-Eyes Minitaurus Performapal Odd-Eyes Seer Performapal Odd-Eyes Synchron Performapal Odd-Eyes Unicorn Performapal Odd-Eyes Valet Supreme King Dragon Odd-Eyes 
+ Odd-Eyes Advent Odd-Eyes Fusion 
+ Support 
+ Nobledragon Magician Oafdragon Magician Odd-Eyes Absolute Dragon Odd-Eyes Arc Pendulum Dragon Odd-Eyes Lancer Dragon Odd-Eyes Mirage Dragon Odd-Eyes Pendulumgraph Dragon Odd-Eyes Persona Dragon Odd-Eyes Phantasma Dragon Odd-Eyes Phantom Dragon Odd-Eyes Venom Dragon Odd-Eyes Vortex Dragon Odd-Eyes Wizard Dragon Performapal Bit Bite Turtle Performapal Bot-Eyes Lizard Performapal Corn Performapal Fireflux Performapal Gentrude Performapal Ladyange Performapal Miss Director Performapal Monkeyboard Performapal Odd-Eyes Butler Performapal Odd-Eyes Metal Claw Performapal Odd-Eyes Minitaurus Performapal Odd-Eyes Seer Performapal Odd-Eyes Synchron Performapal Odd-Eyes Unicorn Performapal Odd-Eyes Valet Performapal Parrotrio Performapal Rain Goat Performapal Sellshell Crab Performapal Skullcrobat Joker Performapal Smile Sorcerer Performapal Splashmammoth Performapal U Go Golem Stargazer Magician Timegazer Magician 
+ Odd-Eyes Advent Odd-Eyes Fusion Performapal Dramatic Theater Performapal Popperup Sky Iris Spiral Flame Strike 
+ Related 
+ All-Eyes Phantom Dragon Beast-Eyes Pendulum Dragon Brave-Eyes Pendulum Dragon Clear Wing Synchro Dragon Dark Rebellion Xyz Dragon Performapal Silver Claw Rune-Eyes Pendulum Dragon Starving Venom Fusion Dragon 
+ 
+   
+" Predaplant " 「 捕食植物 」 Members 
+ Predaplant Ambulomelides Predaplant Banksiogre Predaplant Bufolicula Predaplant Byblisp Predaplant Chimerafflesia Predaplant Chlamydosundew Predaplant Cordyceps Predaplant Darlingtonia Cobra Predaplant Dragostapelia Predaplant Drosophyllum Hydra Predaplant Flytrap Predaplant Heliamphorhynchus Predaplant Moray Nepenthes Predaplant Ophrys Scorpio Predaplant Pterapenthes Predaplant Sarraceniant Predaplant Spider Orchid Predaplant Spinodionaea Predaplant Squid Drosera Predaplant Triantis Predaplant Triphyoverutum Predaplant Verte Anaconda Starving Venom Predapower Fusion Dragon 
+ Support 
+ Greedy Venom Fusion Dragon Predaplant Ambulomelides Predaplant Byblisp Predaplant Chimerafflesia Predaplant Cordyceps Predaplant Darlingtonia Cobra Predaplant Drosophyllum Hydra Predaplant Ophrys Scorpio Predaplant Spinodionaea Starving Venom Predapower Fusion Dragon 
+ Predaplanet Predaplanning Predaplast Predaponics Predapractice Predaprime Fusion Predapruning 
+ Related 
+ Starving Venom Fusion Dragon 
+ 
+   
+" Starving Venom " 「スターヴ・ヴェノム」 Members 
+ Starving Venom Fusion Dragon Starving Venom Predapower Fusion Dragon Supreme King Dragon Starving Venom 
+ Support 
+ Odd-Eyes Venom Dragon 
+ Related 
+ Greedy Venom Fusion Dragon Odd-Eyes Pendulum Dragon Purple Poison Magician Starving Venemy Dragon Starving Venemy Lethal Dose Dragon 
+ 
+   
+" Supreme King " 「 覇 王 」 Members 
+ Demise, Supreme King of Armageddon Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Odd-Eyes Venom Dragon Odd-Eyes Wing Dragon Supreme King Dragon Clear Wing Supreme King Dragon Dark Rebellion Supreme King Dragon Darkwurm Supreme King Dragon Odd-Eyes Supreme King Dragon Starving Venom Supreme King Gate Infinity Supreme King Gate Zero Supreme King Z-ARC 
+ Supreme King's Castle The Supreme King's Soul Supreme Rage 
+ Related 
+ Astrograph Sorcerer Chronograph Sorcerer Clear Wing Synchro Dragon Dark Rebellion Xyz Dragon Odd-Eyes Pendulum Dragon Performapal Celestial Magician Starving Venom Fusion Dragon 
+ 
+   
+" Supreme King Dragon " 「 覇 王 眷 竜 」 Members 
+ Supreme King Dragon Clear Wing Supreme King Dragon Dark Rebellion Supreme King Dragon Darkwurm Supreme King Dragon Odd-Eyes Supreme King Dragon Starving Venom 
+ Support 
+ Performapal Greatest Duelist Supreme King Dragon Clear Wing Supreme King Dragon Dark Rebellion Supreme King Dragon Odd-Eyes Supreme King Z-ARC 
+ Supreme Rage 
+ Related 
+ Clear Wing Synchro Dragon Dark Rebellion Xyz Dragon Odd-Eyes Pendulum Dragon Starving Venom Fusion Dragon 
+ 
+   
+" Venom " 「ヴェノム」 Members 
+ Greedy Venom Fusion Dragon Odd-Eyes Venom Dragon Starving Venom Fusion Dragon Starving Venom Predapower Fusion Dragon Supreme King Dragon Starving Venom Venom Boa Venom Cobra Venom Serpent Venom Snake 
+ Venom Burn Venom Shot Venom Swamp 
+ Support 
+ Ambush Fangs Snake Deity's Command Venom Shot Venom Swamp 
+ Related 
+ Odd-Eyes Pendulum Dragon Starving Venemy Dragon Vennominaga the Deity of Poisonous Snakes Vennominon the King of Poisonous Snakes 
+ Rise of the Snake Deity 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/b9/StarvingVenomFusionDragon-LDS3-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20220729040024', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

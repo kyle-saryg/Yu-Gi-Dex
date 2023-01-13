@@ -1,0 +1,11 @@
+Link: https://yugioh.fandom.com/wiki/Property:Effect_types
+
+This property lists all effect types of cards. Unlike  Property:Effect type , it also lists duplicate effect types (e.g. "Summon, Continuous, Continuous" would be listed as that instead of just "Summon, Continuous"). It has type  text .
+ 
+ 
+ Contents:      Top    ·    0–9    ·    A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z 
+ 
+ 
+ 
+ 
+Categories:

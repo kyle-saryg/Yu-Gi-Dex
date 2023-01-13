@@ -1,0 +1,119 @@
+Link: https://yugioh.fandom.com/wiki/King_Convoy_Ligeon,_Conqueror_of_the_Beast_Gear_World
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ King Convoy Ligeon, Conqueror of the Beast Gear World 獣 機 界 覇 者 キングコンボイ・ライガオン 
+ 
+ English 
+King Convoy Ligeon, Conqueror of the Beast Gear World 
+ Japanese (kana) 
+ じゅうきかいはしゃキングコンボイ・ライガオン Check translation 
+ Japanese (base) 
+ 獣機界覇者キングコンボイ・ライガオン Check translation 
+ Japanese ( rōmaji ) 
+Jūkikai Hasha Kingu Konboi Raigaon 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Beast-Warrior  /  Effect 
+ Level 
+ 8   
+ ATK  /  DEF 
+ 2300  /  2000 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ [Requirement] : You can  send  2  face-up   monsters  ( Level  4 or lower  Beast-Warrior ) you  control  to the  GY . [Effect] : This card gains  ATK  equal to [the total  Levels  of the monsters sent to the GY by the  requirement  of this  effect ] x 100, until the end of this  turn . This turn, you can only  attack  with this card, you can only  declare  attacks on  Attack Position  monsters, also it can attack all your opponent's monsters, once each. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 【条件】 : 自分フィールドの表側表示モンスター（レベル４以下／獣戦士族）２体を墓地へ送って発動できる。 【効果】 :  このカードの攻撃力はターン終了時まで、［この効果の条件で墓地へ送ったモンスターのレベルの合計］×１００アップする。このターン、自分はこのカードでしか攻撃できず、攻撃表示モンスターにのみ攻撃宣言でき、相手モンスター全てに１回ずつ攻撃できる。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2020-11-14 RD/KP03-JP031 Deck Modification Pack: Fantastrike Mirage Impact!! デッキ改造パック幻撃のミラージュインパクト！！ Ultra Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Beast-Warrior 
+ 
+ Archetypes  and  series   
+ Beast Gear World 
+ 
+ Actions  
+ Sends from field to Graveyard for cost 
+ 
+ Stat changes  
+ This card gains ATK 
+ 
+ Attack  categories  
+ Prevents your opponent's monsters from attacking 
+ Multiple attacker 
+ 
+ Miscellaneous  
+ Rush Duel 
+ Requires control of specific Level 
+ Requires control of specific Type 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " King Convoy Ligeon, Conqueror of the Beast Gear World " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+ Beast Gear World   獣 機 界 Members 
+ Buggy Dog of the Beast Gear World Catapult Devilkong, King of the Beast Gear World Gyro Jackal of the Beast Gear World King Convoy Ligeon, Conqueror of the Beast Gear World Motor Wolf of the Beast Gear World Trike Fox of the Beast Gear World 
+ Beast Gear World Secret Technique - Fist of the Beast The Post-Apocalyptic Beast Gear World 
+ Related 
+ The Indomitable Post-Apocalyptic Beast-Warrior Post-Apocalyptic Beast-Warrior Legend 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/9d/KingConvoyLigeonConqueroroftheBeastGearWorld-RDKP03-JP-OP.png/revision/latest/scale-to-width-down/300?cb=20201017013042', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Pages using duplicate arguments in template calls, Cards without passcodes, Cards needing effect types, Duel Monsters cards, OCG cards

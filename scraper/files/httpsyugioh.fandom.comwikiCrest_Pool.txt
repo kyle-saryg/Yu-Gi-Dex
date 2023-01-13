@@ -1,0 +1,60 @@
+Link: https://yugioh.fandom.com/wiki/Crest_Pool
+
+The  Crest Pool  is the place where you can store the following items after they have been rolled:
+  Movement Crest
+  Attack Crest
+  Guard Crest
+  Magic Crest
+  Trap Crest
+ On the  Yu-Gi-Oh! Dungeon Dice Monsters (video game)  the Crest Pool was identified as a counter that digitally stored the crests you rolled.
+ Example:
+  3
+  17
+  9
+  23
+  8
+ The real-life version of Dungeon Dice Monsters had a "Crest Counter" which, basically, was a Crest pool, but sliding beads indicated how many Crests you rolled instead of a small digital counter that went up to 99.
+ 
+ v e 
+ Dungeon Dice Monsters Pieces 
+ Dice and Cards 
+ Monsters and Items 
+ Lists
+ Manga 
+ Anime 
+ Video game 
+ Terminology 
+ Battle 
+ Dimension 
+ Dungeon 
+ Dungeon Path 
+ Dungeon Master Zone 
+ HP 
+ Crest Counter 
+ Crest Pool 
+ Damage Counter 
+ Life Points 
+ Monster Lord 
+ Movement 
+ Flying 
+ Tunnel 
+ Shelled Ground 
+ Crests 
+ Attack 
+ Defense 
+ Magic 
+ Progress 
+ Summon 
+ Trap 
+ 
+ Category 
+ {{ DDM card }} 
+ {{ Manga DDM card }} 
+ {{ Anime DDM card }} 
+ {{ VG DDM card }} 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/2c/ProgressCrest-DDM.jpg/revision/latest?cb=20070914221059', 'https://static.wikia.nocookie.net/yugioh/images/e/e6/AttackCrest-DDM.jpg/revision/latest?cb=20070914220912', 'https://static.wikia.nocookie.net/yugioh/images/4/4b/DefenseCrest-DDM.jpg/revision/latest?cb=20070914220942', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: DDM Gameplay

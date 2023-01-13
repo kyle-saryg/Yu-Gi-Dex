@@ -1,0 +1,232 @@
+Link: https://yugioh.fandom.com/wiki/Evenly_Matched
+
+
+ 
+ 
+ Evenly Matched 拮 抗 勝 負 
+ 
+ English 
+Evenly Matched 
+ French 
+ À Forces Égales Check translation 
+ German 
+ Ausgeglichener Zweikampf Check translation 
+ Italian 
+ Scontro ad Armi Pari Check translation 
+ Korean 
+ 길항승부 Check translation 
+ Portuguese 
+ Confronto Justo Check translation 
+ Spanish 
+ Pelea Pareja Check translation 
+ Japanese (kana) 
+ きっこうしょうぶ Check translation 
+ Japanese (base) 
+ 拮抗勝負 Check translation 
+ Japanese ( rōmaji ) 
+Kikkō Shōbu 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 15693423 
+ Card effect types 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+At the end of the  Battle Phase , if your opponent  controls  more cards than you do: You can make your opponent  banish  cards from their  field   face-down  so they control the same number of cards as you do. If you control no cards, you can  activate  this card from your  hand . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ À la fin de la Battle Phase, si votre adversaire contrôle plus de cartes que vous : vous pouvez faire bannir face verso à votre adversaire des cartes depuis son Terrain jusqu'à ce qu'il contrôle le même nombre de cartes que vous. Si vous ne contrôlez aucune carte, vous pouvez activer cette carte depuis votre main. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Am Ende der Battle Phase, falls dein Gegner mehr Karten kontrolliert als du: Du kannst deinen Gegner Karten von seiner Spielfeldseite verdeckt verbannen lassen, sodass er dieselbe Anzahl Karten kontrolliert wie du. Falls du keine Karten kontrollierst, kannst du diese Karte von deiner Hand aktivieren. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Alla fine della Battle Phase, se il tuo avversario controlla più carte di te: puoi fare bandire al tuo avversario carte dal suo Terreno coperte in modo che controlli il tuo stesso numero di carte. Se non controlli nessuna carta, puoi attivare questa carta dalla tua mano. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ No final da Fase de Batalha, se seu oponente controlar mais cards que você: você pode fazer com que seu oponente bana cards do campo dele, com a face para baixo, até que ele controle o mesmo número de cards que você. Se você não controlar nenhum card, você pode ativar este card da sua mão. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Al final de la Battle Phase, si tu adversario controla más cartas que tú: puedes hacer que tu adversario destierre cartas en su Campo boca abajo para que controle el mismo número de cartas que tú. Si no controlas cartas, puedes activar esta carta desde tu mano. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 自分フィールドにカードが存在しない場合、このカードの発動は手札からもできる。①：相手フィールドのカードの数が自分フィールドのカードより多い場合、自分・相手のバトルフェイズ終了時に発動できる。自分フィールドのカードの数と同じになるように、相手は自身のフィールドのカードを選んで裏側表示で除外しなければならない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신 필드에 카드가 존재하지 않을 경우, 이 카드의 발동은 패에서도 할 수 있다. ①: 상대 필드의 카드의 수가 자신 필드의 카드보다 많을 경우, 자신 / 상대의 배틀 페이즈 종료시에 발동할 수 있다. 자신 필드의 카드의 수와 같아지도록, 상대는 자신 필드의 카드를 고르고 뒷면 표시로 제외해야 한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2017-10-19 CIBR-EN077 Circuit Break Secret Rare 2018-08-30 MP18-EN154 2018 Mega-Tin Mega Pack Secret Rare 2019-04-03 DUPO-EN099 Duel Power Ultra Rare 2021-04-15 GFTP-EN126 Ghosts From the Past (set) Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2017-10-19 CIBR-FR077 Circuit Break Le Coupe-Circuit Secret Rare 2018-08-30 MP18-FR154 2018 Mega-Tin Mega Pack 2018 Méga-Boîtes Méga Pack Secret Rare 2019-04-04 DUPO-FR099 Duel Power Le Pouvoir du Duel Ultra Rare 2021-04-15 GFTP-FR126 Ghosts From the Past (set) Fantômes du Passé Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2017-10-19 CIBR-DE077 Circuit Break Circuit Break Secret Rare 2018-08-30 MP18-DE154 2018 Mega-Tin Mega Pack 2018 Mega-Tin Mega Pack Secret Rare 2019-04-04 DUPO-DE099 Duel Power Duel Power Ultra Rare 2021-04-15 GFTP-DE126 Ghosts From the Past (set) Ghosts From the Past Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2017-10-19 CIBR-IT077 Circuit Break Distruzione del Circuito Secret Rare 2018-08-30 MP18-IT154 2018 Mega-Tin Mega Pack Mega-Tin 2018 Mega-Pack Secret Rare 2019-04-04 DUPO-IT099 Duel Power l Potere del Duello Ultra Rare 2021-04-15 GFTP-IT126 Ghosts From the Past (set) Fantasmi dal Passato Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2017-10-19 CIBR-PT077 Circuit Break Ruptura de Circuito Secret Rare 2018-08-30 MP18-PT154 2018 Mega-Tin Mega Pack Mega-Pacote da Mega-Latas 2018 Secret Rare 2019-04-04 DUPO-PT099 Duel Power O Poder do Duelo Ultra Rare 2021-04-15 GFTP-PT126 Ghosts From the Past (set) Fantasmas do Passado Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2017-10-19 CIBR-SP077 Circuit Break Destrucción del Circuito Secret Rare 2018-08-30 MP18-SP154 2018 Mega-Tin Mega Pack Mega-Latas 2018 Mega-Pack Secret Rare 2019-04-04 DUPO-SP099 Duel Power El Poder del Duelo Ultra Rare 2021-04-15 GFTP-SP126 Ghosts From the Past (set) Fantasmas del Pasado Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2017-07-08 CIBR-JP077 Circuit Break サーキット・ブレイク Super Rare 2017-07-08 CIBR-JP077 Circuit Break サーキット・ブレイク Secret Rare 2019-02-09 20TH-JPC97 20th Anniversary Legend Collection ２０ｔｈ ＡＮＮＩＶＥＲＳＡＲＹ ＬＥＧＥＮＤ ＣＯＬＬＥＣＴＩＯＮ Secret Rare 2019-02-09 20TH-JPC97 20th Anniversary Legend Collection ２０ｔｈ ＡＮＮＩＶＥＲＳＡＲＹ ＬＥＧＥＮＤ ＣＯＬＬＥＣＴＩＯＮ Ultra Parallel Rare 2020-07-04 SD39-JP039 Structure Deck: Masters of the Spiritual Arts ストラクチャーデッキ －精霊術の使い手－ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2017-09-27 CIBR-KR077 Circuit Break 서킷 브레이크 Super Rare 2017-09-27 CIBR-KR077 Circuit Break 서킷 브레이크 Secret Rare 2019-05-15 LEC1-KR097 20th Anniversary Legend Collection ＬＥＧＥＮＤ   ＣＯＬＬＥＣＴＩＯＮ Secret Rare 2019-05-15 LEC1-KR097 20th Anniversary Legend Collection ＬＥＧＥＮＤ   ＣＯＬＬＥＣＴＩＯＮ Ultra Parallel Rare 2020-10-16 SD39-KR039 Structure Deck: Masters of the Spiritual Arts 스트럭처 덱 － 정령술의 마스터 － Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Monster / Spell / Trap  categories  
+ Allows activation of Trap Cards from your hand 
+ 
+ Banished  categories  
+ Banishes from your opponent's field 
+ Banishes face-down 
+ 
+ Miscellaneous  
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 13293 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Evenly Matched " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a8/EvenlyMatched-GFTP-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20210419174942', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

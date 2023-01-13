@@ -1,0 +1,30 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Amorphage_Lysis
+
+
+ Amorphage Lysis 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ OCG Rulings 
+ If you activate the card "Amorphage Lysis" during the Damage Step, it can be activated from the start of the Damage Step until before damage calculation. [1] 
+ The effect " All monsters on the field, except "Amorphage" monsters, lose 100 ATK and DEF for each "Amorphage" card on the field. " does not make a  Chain Link . (It applies to not only monsters you control other than "Amorphage" monsters, but also monsters your opponent controls other than "Amorphage" monsters.) [1] 
+ Each face-up monster in the Monster Zone other than "Amorphage" monsters has its ATK and DEF decreased by 100 for each "Amorphage" card on the field, including "Amorphage Lysis". [1] 
+ If the number of "Amorphage" cards on the field changes, the amount ATK and DEF are decreased by is also changed. [1] 
+ The effect " If a card(s) in your Pendulum Zone(s) is destroyed (except during the Damage Step): You can place 1 "Amorphage" Pendulum Monster from your Deck in your Pendulum Zone. " makes a  Chain Link . (It does not  target . It cannot be activated during the  Damage Step .) [1] 
+ Except during the  Damage Step , the card and the effect " You can place 1 "Amorphage" Pendulum Monster from your Deck in your Pendulum Zone. " can be activated in the same  Chain Link . [1] 
+ References 
+ 
+ ↑  1.0   1.1   1.2   1.3   1.4   1.5   Konami OCG Card Database : Amorphage Lysis 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

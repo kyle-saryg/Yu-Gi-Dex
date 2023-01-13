@@ -1,0 +1,66 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Rescue_Cat
+
+
+ Rescue Cat 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Send  this face-up card  on your side of the field  to the Graveyard  to  Special Summon 2 Level 3 or lower Beast-Type monsters from your Deck  to the field . The monsters Special Summoned  in  this way are destroyed  during  the  End   Phase . 
+ By   sending  this face-up card to the Graveyard ,  Special Summon 2 Level 3 or lower Beast-Type monsters from your Deck.  The  monsters  Special Summoned this way  are destroyed  at  the  end   of this turn . 
+ 
+ 
+       FET-EN033 Flaming Eternity     
+       DR3-EN153 Dark Revelation Volume 3     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ You can   send  this  face-up  card to the Graveyard  to  Special Summon 2 Level 3 or lower Beast-Type monsters from your Deck .  Those  monsters  are destroyed  during  the  End   Phase . 
+ You can send this card to the Graveyard ;  Special Summon 2 Level 3 or lower Beast-Type monsters from your Deck , but they have their effects negated, also they  are destroyed during the End Phase.  You can only use this effect of "Rescue Cat" once per turn. 
+ 
+ 
+       CP05-EN015 Champion Pack: Game Five     
+         DUSA-EN072 Duelist Saga     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ 【獣族 ・ 効果】 
+ 【獣族 ／ 効果】 
+ 
+ 
+ 自分 フィールド 上に表側表示で存在する このカードを墓地 に 送る 事で、 デッキからレベル３以下の獣族モンスター２体を フィールド上に 特殊召喚する。この 方法 で特殊召喚 され たモンスターはエンドフェイズ 時 に破壊される。 
+ 「レスキューキャット」の効果は１ターンに１度しか使用できない。①： フィールド の このカードを墓地 へ 送 って発動でき る 。 デッキからレベル３以下の獣族モンスター２体を特殊召喚する。この 効果 で特殊召喚 し たモンスター の効果 は 無効化され、 エンドフェイズに破壊される。 
+ 
+ 
+         FET-JP033 Flaming Eternity     
+         20AP-JP061 20th Anniversary Pack 2nd Wave     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/16/RescueCat-FET-EN-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20070112084238', 'https://static.wikia.nocookie.net/yugioh/images/4/46/RescueCat-DR3-EN-C-UE.png/revision/latest/scale-to-width-down/180?cb=20160622131446', 'https://static.wikia.nocookie.net/yugioh/images/3/38/RescueCat-CP05-EN-C-UE.png/revision/latest/scale-to-width-down/180?cb=20081206001114', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/69/RescueCat-DUSA-EN-UR-1E.png/revision/latest/scale-to-width-down/180?cb=20170330171428', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/0c/RescueCat-FET-JP-C.png/revision/latest/scale-to-width-down/180?cb=20150329040041', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a9/RescueCat-20AP-JP-UPR.png/revision/latest/scale-to-width-down/180?cb=20170210150625']
+Categories: Card Errata, Cards with 3 errata, Cards with card type errata, Cards with 1 erratum, Cards with Japanese errata

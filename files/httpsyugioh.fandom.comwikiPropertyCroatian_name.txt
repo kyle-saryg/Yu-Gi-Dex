@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Croatian_name
+
+This property lists the primary Croatian Card Name of a card. It is a  string . It is primarily used for display of the correct Croatian card name.
+ 
+ 
+ 
+ 
+Categories:

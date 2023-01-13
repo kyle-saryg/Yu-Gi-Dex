@@ -1,0 +1,394 @@
+Link: https://yugioh.fandom.com/wiki/GAOV-FR065
+
+The  Arabic, Chinese, Croatian  and  Greek                     names given are not official.  
+ The  Chinese                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Storm 嵐 
+ 
+ English 
+Storm 
+ Chinese 
+ 风暴 Check translation 
+ French 
+ Tempête Check translation 
+ German 
+ Sturm Check translation 
+ Italian 
+ Tempesta Check translation 
+ Korean 
+ 폭풍 Check translation 
+ Portuguese 
+ Tempestade Check translation 
+ Spanish 
+ Tormenta Check translation 
+ Japanese (kana) 
+ あらし Check translation 
+ Japanese (base) 
+ 嵐 Check translation 
+ Japanese ( rōmaji ) 
+Arashi 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 13210191 
+ Card effect types 
+ 
+ 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Destroy  as many  Spell / Trap Cards  you  control  as possible, then destroy as many Spell/Trap Cards your opponent controls as possible, up to the number of cards destroyed by this  effect . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Détruisez autant de Cartes Magie/Piège que vous contrôlez que possible, puis détruisez un nombre de Cartes Magie/Piège contrôlées par votre adversaire inférieur ou égal au nombre de cartes détruites par cet effet. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Zerstöre alle Zauber- und Fallenkarten, die du kontrollierst, und zerstöre dann möglichst viele Zauber-/Fallenkarten, die dein Gegner kontrolliert, bis zur Anzahl deiner Karten, die du zerstört hast. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Distruggi  tante  Carte Magia / Trappola  che  controlli  quante possibile, poi distruggi tante Carte Magia/Trappola controllate dal tuo avversario quante possibile, fino al massimo al numero di carte distrutte da questo effetto. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Destrua tantos Cards de Magia/Armadilha que você controla quanto possível e, depois, destrua tantos Cards de Magia/Armadilha que seu oponente controla quanto possível, até o número de cards destruído por este efeito. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Destruye tantas Cartas Mágicas/de Trampa que controles como sea posible, y después destruye tantas Cartas Mágicas/de Trampa que controle tu adversario como sea posible, hasta la cantidad de cartas destruidas por este efecto. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 自分フィールド上の魔法・罠カードを全て破壊する。その後、破壊したカードの数だけ相手フィールド上の魔法・罠カードを破壊する。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 稀有度：平罕NR。效果：破坏自己场上所有魔法·陷阱卡，然后破坏对方场上相同数量的魔法·陷阱卡。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신 필드 위의 마법 / 함정 카드를 모두 파괴한다. 그 후, 파괴한 카드의 수만큼, 상대 필드 위의 마법 / 함정 카드를 파괴한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2012-04-28  
+ GAOV-EN065   
+ Galactic Overlord 
+ Short Print 
+ 
+ 
+ 2015-06-04  
+ AP07-EN023   
+ Astral Pack Seven 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-FR065   
+ Galactic Overlord 
+ Le Seigneur de la Galaxie  
+ Short Print 
+ 
+ 
+ 2015-06-04  
+ AP07-FR022   
+ Astral Pack Seven 
+ Paquet Astral Sept  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-DE065   
+ Galactic Overlord 
+ Galactic Overlord  
+ Short Print 
+ 
+ 
+ 2015-06-04  
+ AP07-DE022   
+ Astral Pack Seven 
+ Astral Pack Sieben  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-IT065   
+ Galactic Overlord 
+ Sovrano Galattico  
+ Short Print 
+ 
+ 
+ 2015-06-04  
+ AP07-IT022   
+ Astral Pack Seven 
+ Astral Pack Sette  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2015-06-05  
+ AP07-PT022   
+ Astral Pack Seven 
+ Pacote Astral Sete  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-SP065   
+ Galactic Overlord 
+ Señor Supremo Galáctico  
+ Short Print 
+ 
+ 
+ 2015-06-04  
+ AP07-SP022   
+ Astral Pack Seven 
+ Sobre Astral Siete  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2012-02-18  
+ GAOV-JP065   
+ Galactic Overlord 
+ ＧＡＬＡＣＴＩＣ ＯＶＥＲＬＯＲＤ  
+ Normal Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2012-05-21  
+ GAOV-KR065   
+ Galactic Overlord 
+ 갤럭틱 오버로드  
+ Normal Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your Spell Cards 
+ Destroys your Trap Cards 
+ Destroys your opponent's Spell Cards 
+ Destroys your opponent's Trap Cards 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 10088 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Storm " pages 
+ 
+ 
+ Yu-Gi-Oh! D Team ZEXAL 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/77/Storm-AP07-EN-C-UE.png/revision/latest/scale-to-width-down/300?cb=20150611161042', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

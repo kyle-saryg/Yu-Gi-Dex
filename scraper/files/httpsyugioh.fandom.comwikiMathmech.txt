@@ -1,0 +1,222 @@
+Link: https://yugioh.fandom.com/wiki/Mathmech
+
+
+ 
+ Mathmech 
+ 斬機 「 ザンキ 」  ( Zanki ) 
+ 
+ 
+ 
+ 
+ Mathmech Equation 
+ 
+ 
+ Translation 
+ Processlayer 
+ 
+ 
+ Other names 
+ 
+ French 
+ Mathmech 
+ 
+ 
+ German 
+ Mathemech 
+ 
+ 
+ Italian 
+ Matemech 
+ 
+ 
+ Korean 
+ 참기   Chamgi   (romanized) 
+ 
+ 
+ Portuguese 
+ Mechamático(a) 
+ 
+ 
+ Spanish 
+ Matemecha 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Rise of the Duelist Power of the Elements 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Mystic Fighters Maximum Gold: El Dorado Ghosts From the Past: The 2nd Haunting 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Deck Build Pack: Mystic Fighters V Jump October 2019 promotional card 
+ 
+ 
+ 
+ 
+ Korea-Only Sets 
+ 
+ 
+ Premium Pack Vol.15 Premium Pack Vol.16 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Mathmech ", known as " Processlayer " ( 斬 機   Zanki ) in the  OCG , is an  archetype  of  Cyberse   monsters  with various  Attributes  (primarily  EARTH  and  FIRE ), used by  Dark Kuroda  in  Yu-Gi-Oh! OCG Structures . They were introduced in  Deck Build Pack: Mystic Fighters .
+ 
+ Contents 
+ 
+ 1   Etymology 
+ 2   Playing style 
+ 3   Recommended cards 
+ 4   Official Decks 
+ 5   Weaknesses 
+ 6   Trivia 
+ 7   References 
+ 
+ 
+ Etymology 
+ Each member wields a weapon or is holding one in a way that denotes the mathematical symbol it represents.
+ 
+ Playing style 
+ The archetype's main goal is to set up an OTK using " Geomathmech Final Sigma ." Sigma is unaffected by card effects (except Mathmech cards) and deals double the damage when battling monsters while he is in the  Extra Monster Zone . Mathmech do this by quickly swarming the field with the various effects of the Level 4's, some of whom have ATK altering effects when they are sent to the GY (e.g. " Mathmech Multiplication " doubles the ATK of a  Cyberse  until the end of the turn, allowing "Final Sigma" to deal out massive damage).
+ Alternatively, the archetype has powerful removal in the form of " Primathmech Laplacian " which has a " Trishula "-like effect that allows it to send opponent's cards to the GY, avoiding targeting or destruction trigger effects.
+ 
+ Recommended cards 
+ " Balancer Lord " and " One-Time Passcode " can put themselves on the field without wasting a Normal Summon for additional Synchro or Xyz material. "Backup Secretary" gives easy access to Level 7 Synchros while also being a simple tribute fodder for Nabla or Division's effects. " Cynet Mining " and " Cynet Backdoor " can search all of your Mathmech monsters.
+ " Link Disciple " and " Link Devotee " are both Link-1 and each require  any  Level 4 or lower Cyberse-type monster, making them the easiest monsters to get in the Extra Monster Zone to tribute for Division's effect. However, there's also a nice combo between the two of them where you can tribute Devotee with Disciple's effect and then gain Devotee's effect to put additional bodies on your field in the form of two Tokens. " Cyberse Wicckid " can be used to search Nabla and Sigma out of the Main Deck, and the combination of " Transcode Talker " and " Update Jammer " can put a very high amount of damage on the field with only three monsters.
+ 
+ 
+ Deck Monsters   
+ Effect Monsters 
+ Mathmech Addition 
+ Mathmech Subtraction 
+ Mathmech Multiplication 
+ Mathmech Division 
+ Backup Secretary 
+ Balancer Lord 
+ Code Radiator 
+ Firewall Guardian 
+ RAM Clouder 
+ ROM Cloudia 
+ Tuner monsters 
+ Mathmech Nabla 
+ Mathmech Sigma Extra Deck   
+ Synchro Monsters 
+ Geomathmech Magma 
+ Geomathmech Final Sigma 
+ Xyz Monsters 
+ Primathmech Alembertian 
+ Primathmech Laplacian 
+ Firewall eXceed Dragon 
+ Link Monsters 
+ Cyberse Wicckid 
+ Elphase 
+ Link Devotee 
+ Link Disciple 
+ Linkuriboh 
+ Transcode Talker 
+ Update Jammer Spells   &  Traps   
+ Spells 
+ Mathmech Billionblade Nayuta 
+ Mathmech Equation 
+ Cynet Backdoor 
+ Cynet Mining 
+ One-Time Passcode 
+ Traps 
+ Mathmech Induction 
+ Mathmech Superfactorial 
+ Rivalry of Warlords 
+ Official Decks 
+ 
+ Yu-Gi-Oh! OCG Structures  -  Dark Kuroda's  Deck Monsters   
+ Effect Monsters 
+ Balancer Lord  x3 
+ Mathmech Addition  x3 
+ Mathmech Division 
+ Mathmech Multiplication  x3 
+ Mathmech Subtraction  x3 
+ RAM Clouder 
+ Reborn Tengu  x3 
+ Tin Goldfish  x2 
+ Tuner monsters 
+ Mathmech Nabla  x3 
+ Mathmech Sigma  x3 Extra Deck   
+ Synchro Monsters 
+ Beelze of the Diabolic Dragons 
+ Geomathmech Final Sigma  x2 
+ Geomathmech Magma  x2 
+ Hot Red Dragon Archfiend 
+ PSY-Framelord Omega 
+ Xyz Monsters 
+ Abyss Dweller 
+ Primathmech Alembertian  x2 
+ Primathmech Laplacian 
+ Number 41: Bagooska the Terribly Tired Tapir 
+ Link Monsters 
+ Borrelsword Dragon 
+ Elphase 
+ Code Talker Inverted Spells   &  Traps   
+ Spells 
+ Cynet Mining  x3 
+ Cynet Optimization  x2 
+ Foolish Burial 
+ Mathmech Equation  x3 
+ Mathmech Billionblade Nayuta  x3 
+ Soul Charge 
+ Traps 
+ Mathmech Induction 
+ Mathmech Superfactorial 
+ Weaknesses 
+ Being an archetype composed entirely of Cyberse-type Monsters, they can be crippled by " There Can Be Only One ". 
+ Spending multiple resources to go into Final Sigma can still be knocked out with a simple " Kaiju " monster, and having your plays interrupted by your opponent can be a big issue....and sometimes a game-loser if you don't have the cards to recover. 
+ Since the deck focuses on Synchro and Xyz monsters, it can be partially disabled by " Dimensional Barrier ".
+ 
+ Trivia 
+ This archetype is the first all-Cyberse archetype that did not appear in any of  Yu-Gi-Oh!  anime series. 
+ This is the only Cyberse archetype to not include a Link Monster. 
+ References 
+ 
+ 
+   
+" Mathmech " 「 斬 機 」 Members 
+ Geomathmech Final Sigma Geomathmech Magma Mathmech Addition Mathmech Circular Mathmech Diameter Mathmech Division Mathmech Multiplication Mathmech Nabla Mathmech Sigma Mathmech Subtraction Primathmech Alembertian Primathmech Laplacian 
+ Mathmech Billionblade Nayuta Mathmech Equation Mathmech Induction Mathmech Superfactorial 
+ Support 
+ Geomathmech Final Sigma Geomathmech Magma Mathmech Circular Mathmech Diameter Mathmech Nabla Mathmech Sigma Primathmech Alembertian Primathmech Laplacian 
+ Mathmech Billionblade Nayuta Mathmech Equation Mathmech Induction Mathmech Superfactorial 
+ 
+ v e 
+" Mathmech " 「 斬 機 」 m   Members 
+ Geomathmech Final Sigma Geomathmech Magma Mathmech Addition Mathmech Billionblade Nayuta Mathmech Equation Mathmech Multiplication Mathmech Nabla Mathmech Sigma Mathmech Subtraction Primathmech Alembertian 
+ Support 
+ Geomathmech Final Sigma Geomathmech Magma Mathmech Billionblade Nayuta Mathmech Equation Primathmech Alembertian 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/8a/Zan-ki.png/revision/latest?cb=20190617141044']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Synchro Monster(s), Archetypes with Xyz Monster(s)

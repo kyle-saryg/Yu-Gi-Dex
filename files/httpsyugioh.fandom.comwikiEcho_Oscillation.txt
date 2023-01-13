@@ -1,0 +1,481 @@
+Link: https://yugioh.fandom.com/wiki/Echo_Oscillation
+
+
+ 
+ 
+ Echo Oscillation 連 成 する 振 動 
+ 
+ English 
+Echo Oscillation 
+ French 
+ Oscillation d'Écho Check translation 
+ German 
+ Echooszillation Check translation 
+ Italian 
+ Oscillazione Eco Check translation 
+ Korean 
+ 연성하는 진동 Check translation 
+ Portuguese 
+ Oscilação do Eco Check translation 
+ Spanish 
+ Oscilación del Eco Check translation 
+ Japanese (kana) 
+ れんせいするしんどう Check translation 
+ Japanese (base) 
+ 連成する振動 Check translation 
+ Japanese ( rōmaji ) 
+Renseisuru Shindō 
+ Japanese (translated) 
+Perpetual Oscillation 
+ Card type 
+ Trap   
+ Property 
+ Continuous   
+ Passcode 
+ 15582767 
+ Card effect types 
+ 
+ 
+ Quick-like 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+You can  target  1 card in your  Pendulum Zone ;  destroy  it, then  draw  1 card. You can only use this  effect  of "Echo Oscillation"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Vous pouvez cibler 1 carte dans votre Zone Pendule ; détruisez-la, puis piochez 1 carte. Vous ne pouvez utiliser cet effet de "Oscillation d'Écho" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Du kannst 1 Karte in deiner Pendelzone wählen; zerstöre sie, dann ziehe 1 Karte. Du kannst diesen Effekt von „Echooszillation“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Puoi  scegliere come bersaglio  1 carta nella tua  Zona Pendulum ;  distruggila , poi  pesca  1 carta. Puoi utilizzare questo  effetto  di "Oscillazione Eco"  una sola volta per turno . 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Você pode  escolher  1 card na sua  Zona de Pêndulo ;  destrua-o  e, depois,  compre  1 card. Você só pode usar este  efeito  de "Oscilação do Eco" uma vez por  turno . 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Puedes seleccionar 1 carta en tu Zona de Péndulo; destrúyela, y después roba 1 carta. Sólo puedes usar este efecto de "Oscilación del Eco" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「連成する振動」の効果は１ターンに１度しか使用できない。①：自分のＰゾーンのカード１枚を対象としてこの効果を発動できる。そのカードを破壊し、その後、自分はデッキから１枚ドローする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "연성하는 진동"의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신의 펜듈럼 존의 카드 1장을 대상으로 하고 이 효과를 발동할 수 있다. 그 카드를 파괴하고, 그 후, 자신은 덱에서 1장 드로우한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2015-01-15  
+ SECE-EN079   
+ The Secret of Evolution 
+ Common 
+ 
+ 
+ 2015-09-17  
+ MP15-EN243   
+ 2015 Mega-Tin Mega Pack 
+ Common 
+ 
+ 
+ 2017-06-22  
+ PEVO-EN042   
+ Pendulum Evolution 
+ Super Rare 
+ 
+ 
+ 2017-10-05  
+ LEDD-ENC22   
+ Legendary Dragon Decks 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2015-01-15  
+ SECE-FR079   
+ The Secret of Evolution 
+ Les Secrets de L'Eternite  
+ Common 
+ 
+ 
+ 2015-09-17  
+ MP15-FR243   
+ 2015 Mega-Tin Mega Pack 
+ 2015 Méga-Boîte Méga-Pack  
+ Common 
+ 
+ 
+ 2017-06-22  
+ PEVO-FR042   
+ Pendulum Evolution 
+ Évolution des Pendules  
+ Super Rare 
+ 
+ 
+ 2017-10-05  
+ LEDD-FRC22   
+ Legendary Dragon Decks 
+ Decks du Dragon Legendaire  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2015-01-15  
+ SECE-DE079   
+ The Secret of Evolution 
+ Secrets of Eternity  
+ Common 
+ 
+ 
+ 2015-09-17  
+ MP15-DE243   
+ 2015 Mega-Tin Mega Pack 
+ 2015 Mega-Tin Mega Pack  
+ Common 
+ 
+ 
+ 2017-06-22  
+ PEVO-DE042   
+ Pendulum Evolution 
+ Pendulum Evolution  
+ Super Rare 
+ 
+ 
+ 2017-10-05  
+ LEDD-DEC22   
+ Legendary Dragon Decks 
+ Legendary Dragon Decks  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2015-01-15  
+ SECE-IT079   
+ The Secret of Evolution 
+ Segreti dell'Eternità  
+ Common 
+ 
+ 
+ 2015-09-17  
+ MP15-IT243   
+ 2015 Mega-Tin Mega Pack 
+ 2015 Mega-Tin Mega Pack  
+ Common 
+ 
+ 
+ 2017-06-22  
+ PEVO-IT042   
+ Pendulum Evolution 
+ Evoluzione Pendulum  
+ Super Rare 
+ 
+ 
+ 2017-10-05  
+ LEDD-ITC22   
+ Legendary Dragon Decks 
+ I Deck Drago Leggendario  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2015-01-16  
+ SECE-PT079   
+ The Secret of Evolution 
+ Segredos da Eternidade  
+ Common 
+ 
+ 
+ 2015-09-17  
+ MP15-PT243   
+ 2015 Mega-Tin Mega Pack 
+ Mega-Pacote da Mega-Latas 2015  
+ Common 
+ 
+ 
+ 2017-06-22  
+ PEVO-PT042   
+ Pendulum Evolution 
+ Evolução Pêndulo  
+ Super Rare 
+ 
+ 
+ 2017-10-05  
+ LEDD-PTC22   
+ Legendary Dragon Decks 
+ Decks de Dragões Lendários  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2015-01-15  
+ SECE-SP079   
+ The Secret of Evolution 
+ Secretos de la Eternidad  
+ Common 
+ 
+ 
+ 2015-09-17  
+ MP15-SP243   
+ 2015 Mega-Tin Mega Pack 
+ 2015 Mega-Lata Mega Pack  
+ Common 
+ 
+ 
+ 2017-06-22  
+ PEVO-SP042   
+ Pendulum Evolution 
+ Evolución del Péndulo  
+ Super Rare 
+ 
+ 
+ 2017-10-05  
+ LEDD-SPC22   
+ Legendary Dragon Decks 
+ Barajas Dragón Legendario  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2014-11-15  
+ SECE-JP079   
+ The Secret of Evolution 
+ ザ・シークレット・オブ・エボリューション  
+ Common 
+ 
+ 
+ 2016-12-23  
+ SD31-JP036   
+ Structure Deck: Pendulum Evolution 
+ ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －ペンデュラム・エボリューション－  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2015-02-13  
+ SECE-KR079   
+ The Secret of Evolution 
+ 더 시크릿 오브 에볼루션  
+ Common 
+ 
+ 
+ 2017-03-14  
+ SD31-KR036   
+ Structure Deck: Pendulum Evolution 
+ ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ  － 펜듈럼 에볼루션 －  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Pendulum Monster 
+ 
+ Actions  
+ You draw cards 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your Spell Cards 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11599 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/8a/EchoOscillation-LEDD-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20171005220448', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,335 @@
+Link: https://yugioh.fandom.com/wiki/Ring_of_Destruction
+
+Not to be confused with " Destruction Ring ". 
+ The  Arabic, Croatian, Greek  and  Thai                     names given are not official.  
+ 
+ 
+ 
+ 
+ 
+ Ring of Destruction 破 壊 輪 
+ 
+ English 
+Ring of Destruction 
+ French 
+ Anneau de Destruction Check translation 
+ German 
+ Ring der Zerstörung Check translation 
+ Italian 
+ Anello della Distruzione Check translation 
+ Korean 
+ 파괴륜 Check translation 
+ Portuguese 
+ Anel da Destruição Check translation 
+ Spanish 
+ Anillo Destructor Check translation 
+ Japanese (kana) 
+ はかいりん Check translation 
+ Japanese (base) 
+ 破壊輪 Check translation 
+ Japanese ( rōmaji ) 
+Hakairin 
+ Other names 
+Bell of Destruction 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 83555666 
+ Card effect types 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+During your opponent's  turn :  Target  1  face-up   monster  your opponent  controls  whose  ATK  is less than or equal to their  LP ;  destroy  that face-up monster, and if you do, take  damage  equal to its  original ATK , then inflict damage to your opponent, equal to the damage you took. You can only activate 1 "Ring of Destruction" per turn. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Durant le tour de votre adversaire : ciblez 1 monstre face recto contrôlé par votre adversaire dont l'ATK est inférieure ou égale à ses LP ; détruisez le monstre face recto, et si vous le faites, recevez des dommages égaux à son ATK d'origine, puis infligez des dommages à votre adversaire égaux aux dommages que vous avez reçus. Vous ne pouvez activer qu'1 "Anneau de Destruction" par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Während des Spielzugs deines Gegners: Wähle 1 offenes Monster, das dein Gegner kontrolliert und dessen ATK kleiner oder gleich seinen LP sind; zerstöre das offene Monster und falls du dies tust, erhältst du Schaden in Höhe seiner Grund-ATK, dann füge deinem Gegner Schaden in Höhe des Schadens zu, den du erhalten hast. Du kannst nur 1 „Ring der Zerstörung“ pro Spielzug aktivieren. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Durante il turno del tuo avversario: scegli come bersaglio 1 mostro scoperto controllato dal tuo avversario con ATK pari o inferiore ai suoi LP; distruggi quel mostro scoperto e, se lo fai, subisci danno pari al suo ATK originale, poi infliggi al tuo avversario danno pari al danno che hai subito tu. Puoi attivare solo 1 "Anello della Distruzione" per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Durante o turno do seu oponente: escolha 1 monstro com a face para cima que seu oponente controla cujo ATK seja menor ou igual que os PV dele; destrua esse monstro com a face para cima e, se isso acontecer, sofra dano igual ao ATK original dele e, depois, cause dano ao seu oponente igual ao dano que você sofreu. Você só pode ativar 1 "Anel da Destruição" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Durante el turno de tu adversario: selecciona 1 monstruo boca arriba que controle tu adversario cuyo ATK sea menor o igual que sus LP; destruye ese monstruo boca arriba y, si lo haces, tú recibes daño igual a su ATK original, y después inflige daño a tu adversario igual al daño que recibiste. Sólo puedes activar 1 "Anillo Destructor" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名のカードは１ターンに１枚しか発動できない。①：相手ターンに、相手 ＬＰ の数値以下の攻撃力を持つ相手フィールドの表側表示モンスター１体を対象として発動できる。その表側表示モンスターを破壊し、自分はそのモンスターの元々の攻撃力分のダメージを受ける。その後、自分が受けたダメージと同じ数値分のダメージを相手に与える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 상대 턴에, 상대 LP의 수치 이하의 공격력을 가지는 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 앞면 표시 몬스터를 파괴하고, 자신은 그 몬스터의 원래 공격력만큼의 데미지를 받는다. 그 후, 자신이 받은 데미지와 같은 수치만큼의 데미지를 상대에게 준다. 
+ 
+ 
+ 
+ 
+ 
+   The Eternal Duelist Soul 
+ 
+ 
+ Destroy  1  face-up   Monster Card  and inflict  Direct Damage  equal to the destroyed card's  ATK  to the  Life Points  of both you and your opponent. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ Release date Card code Set Rarity 2007-02-06 CP02-EN008 Champion Pack: Game Two Rare 2009-07-28 RP02-EN066 Retro Pack 2 Secret Rare 2010-04-16 DPKB-EN036 Duelist Pack: Kaiba Ultimate Rare 2012-05-24 BP01-EN050 Battle Pack: Epic Dawn Rare 2012-05-24 BP01-EN050 Battle Pack: Epic Dawn Starfoil Rare 2015-03-19 PGL2-EN063 Premium Gold: Return of the Bling Gold Rare 2016-04-14 MIL1-EN023 Millennium Pack Common 2016-10-20 SDKS-EN033 Structure Deck: Seto Kaiba Common 2017-07-20 YS17-EN036 Starter Deck: Link Strike Common 2018-03-08 LCKC-EN050 Legendary Collection Kaiba Mega Pack Ultra Rare 2019-01-01 LART-EN007 The Lost Art Promotion G Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ Release date Card code Set Rarity July 18, 2003 PGD-000 Pharaonic Guardian Secret Rare April 1, 2004 IOC-SE3 Invasion of Chaos: Special Edition Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2007-02-06 CP02-FR008 Champion Pack: Game Two Paquet du Champion: 2éme Partie Rare 2009-07-23 RP02-FR066 Retro Pack 2 Retro Pack 2 Secret Rare 2010-04-15 DPKB-FR036 Duelist Pack: Kaiba Pack du Duelliste: Kaiba Ultimate Rare 2012-05-24 BP01-FR050 Battle Pack: Epic Dawn Battle Pack: L’Aube Épique Rare 2012-05-24 BP01-FR050 Battle Pack: Epic Dawn Battle Pack: L’Aube Épique Starfoil Rare 2015-03-19 PGL2-FR063 Premium Gold: Return of the Bling Gold Premium 2 Gold Rare 2016-04-14 MIL1-FR023 Millennium Pack Pack du Millenium Common 2016-10-20 SDKS-FR033 Structure Deck: Seto Kaiba Deck de Structure : Seto Kaiba Common 2017-07-20 YS17-FR036 Starter Deck: Link Strike Deck de Démarrage : L'Attaque du Lien Common 2018-03-08 LCKC-FR050 Legendary Collection Kaiba Mega Pack Collection Légendaire Kaiba Méga-Pack Ultra Rare 2019-02-01 LART-FR007 The Lost Art Promotion G Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2007-02-06 CP02-DE008 Champion Pack: Game Two Champion Pack: Game Two Rare 2009-07-24 RP02-DE066 Retro Pack 2 Retro Pack 2 Secret Rare 2010-04-15 DPKB-DE036 Duelist Pack: Kaiba Duelist Pack: Kaiba Ultimate Rare 2012-05-24 BP01-DE050 Battle Pack: Epic Dawn Battle Pack: Epic Dawn Rare 2012-05-24 BP01-DE050 Battle Pack: Epic Dawn Battle Pack: Epic Dawn Starfoil Rare 2015-03-19 PGL2-DE063 Premium Gold: Return of the Bling Premium Gold 2 Gold Rare 2016-04-14 MIL1-DE023 Millennium Pack Millennium Pack Common 2016-10-20 SDKS-DE033 Structure Deck: Seto Kaiba Structure Deck: Seto Kaiba Common 2017-07-20 YS17-DE036 Starter Deck: Link Strike Starter Deck: Link Strike Common 2018-03-08 LCKC-DE050 Legendary Collection Kaiba Mega Pack Legendary Collection Kaiba Mega Pack Ultra Rare 2019-02-01 LART-DE007 The Lost Art Promotion G Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2007-02-06 CP02-IT008 Champion Pack: Game Two Busta dei Campioni: Sfida Due Rare 2009-07-23 RP02-IT066 Retro Pack 2 Retro Pack 2 Secret Rare 2010-04-15 DPKB-IT036 Duelist Pack: Kaiba Duelist Pack: Kaiba Ultimate Rare 2012-05-24 BP01-IT050 Battle Pack: Epic Dawn Battle Pack: Alba Epica Rare 2012-05-24 BP01-IT050 Battle Pack: Epic Dawn Battle Pack: Alba Epica Starfoil Rare 2015-03-19 PGL2-IT063 Premium Gold: Return of the Bling Premium Oro 2 Gold Rare 2016-04-14 MIL1-IT023 Millennium Pack Millennium Pack Common 2016-10-20 SDKS-IT033 Structure Deck: Seto Kaiba Structure Deck: Seto Kaiba Common 2017-07-20 YS17-IT036 Starter Deck: Link Strike Starter Deck: Attacco Link Common 2018-03-08 LCKC-IT050 Legendary Collection Kaiba Mega Pack Collezione Leggendaria Kaiba Mega Pack Ultra Rare 2019-02-01 LART-IT007 The Lost Art Promotion G Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2015-03-20 PGL2-PT063 Premium Gold: Return of the Bling Première Ouro 2: Um Mar de Ouro Gold Rare 2016-04-14 MIL1-PT023 Millennium Pack Pacote do Milênio Common 2016-10-21 SDKS-PT033 Structure Deck: Seto Kaiba Deck Estrutural: Seto Kaiba Common 2017-08-22 YS17-PT036 Starter Deck: Link Strike Deck Inicial: Ataque Link Common 2018-03-09 LCKC-PT050 Legendary Collection Kaiba Mega Pack Coleção Lendária Kaiba Mega Pack Ultra Rare 2019-01-01 LART-PT007 The Lost Art Promotion G Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2009-07-23 RP02-SP066 Retro Pack 2 Retro Pack 2 Secret Rare 2010-04-15 DPKB-SP036 Duelist Pack: Kaiba Sobre de Duelista: Kaiba Ultimate Rare 2012-05-24 BP01-SP050 Battle Pack: Epic Dawn Battle Pack: Amanecer Épico Rare 2012-05-24 BP01-SP050 Battle Pack: Epic Dawn Battle Pack: Amanecer Épico Starfoil Rare 2015-03-19 PGL2-SP063 Premium Gold: Return of the Bling Dorada Premium 2 Gold Rare 2016-04-14 MIL1-SP023 Millennium Pack Sobre Milenio Common 2016-10-20 SDKS-SP033 Structure Deck: Seto Kaiba Baraja de Estructura: Seto Kaiba Common 2017-07-20 YS17-SP036 Starter Deck: Link Strike Baraja de Principante: Golpe de Enlace Common 2018-03-08 LCKC-SP050 Legendary Collection Kaiba Mega Pack Colección Legendaria Kaiba Mega Pack Ultra Rare 2019-01-01, 2019-02-01 LART-SP007 The Lost Art Promotion G Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2000-12-07 G4-18 Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist: Yugi Deck promotional cards 遊戯王デュエルモンスターズ4 最強決闘者戦記 遊戯デッキ 同梱カード Ultra Rare 2000-12-07 G4-18 Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist: Yugi Deck promotional cards 遊戯王デュエルモンスターズ4 最強決闘者戦記 遊戯デッキ 同梱カード Ultra Parallel Rare 2002-01-24 KA-34 Structure Deck: Kaiba ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ － 海馬編 － Common 2003-12-11 SK2-038 Structure Deck: Kaiba Volume 2 ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －海馬編－ Ｖｏｌｕｍｅ ２ Common 2015-01-10 15AX-JPY51 Duelist Road -Piece of Memory- Side: Yami Yugi 決闘者の栄光 －記憶の断片－ ｓｉｄｅ：闇遊戯 Secret Rare 2015-01-10 15AX-JPY51 Duelist Road -Piece of Memory- Side: Yami Yugi 決闘者の栄光 －記憶の断片－ ｓｉｄｅ：闇遊戯 Millennium Rare 2015-12-19 MP01-JP029 Millennium Pack (OCG) ＭＩＬＬＥＮＮＩＵＭ　ＰＡＣＫ Millennium Super Rare 2016-06-18 SDKS-JP036 Structure Deck: Seto Kaiba ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －海馬瀬人－ Common 2017-03-25 ST17-JP036 Starter Deck 2017 ＳＴＡＲＴＥＲ ＤＥＣＫ ２０１７ Common 2021-08-07 SR12-JP038 Structure Deck R: Lost Sanctuary ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ Ｒ －ロスト・サンクチュアリ－ Common 
+ 
+ 
+ 
+ 
+ 
+   Asian-English 
+ 
+ 
+ Release date Card code Set Rarity 2003-10-16 PGD-000 Pharaonic Guardian Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2004-12-14 PGD-KR000 Pharaonic Guardian 왕가의 수호자 Secret Rare 2008-10-21 ESP2-KR054 Expansion Pack Vol.2 익스팬션 팩 Vol.2 Gold Rare 2016-09-06 MP01-KR029 Millennium Pack (OCG) MILLENNIUM PACK Millennium Super Rare 2016-10-07 SDKS-KR036 Structure Deck: Seto Kaiba ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ  － 카이바 － Common 2017-07-06 ST17-KR036 Starter Deck 2017 ＳＴＡＲＴＥＲ ＤＥＣＫ  ２０１７ Common 2020-03-25 15AX-KRY51 Duelist Road -Piece of Memory- Side: Yami Yugi 듀얼리스트의 영광 -기억의 단편-  side : 어둠의 유희 Secret Rare 2020-03-25 15AX-KRY51 Duelist Road -Piece of Memory- Side: Yami Yugi 듀얼리스트의 영광 -기억의 단편-  side : 어둠의 유희 Millennium Rare 2021-11-24 SR12-KR038 Structure Deck R: Lost Sanctuary STRUCTURE   DECK  R 잃어버린 성역 Common 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   The Eternal Duelist Soul 
+ 
+ 
+ Multi-colored Millenium Puzzle  ( Rare )
+ 
+ Yu-Gi-Oh! Magazine  ( Rare ) 
+ 
+ 
+ 
+ 
+ 
+   7 Trials to Glory: World Championship Tournament 2005 
+ 
+ 
+ Seto Standard 
+ K.C. Special 
+ Dark Ceremony 
+ All Traps  ( Common )
+ All cards  ( Common )
+ 
+ Super Unlimited Selection  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   Nightmare Troubadour 
+ 
+ 
+ The Forever Ones  ( Ultra Rare ) 
+ 
+ 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+ Game Gift Collection  ( Ultra Rare )
+ Monster Destroy Collection  ( Secret Rare )
+ All Traps  ( Common )
+ 
+ All at Random  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   GX Tag Force 
+ 
+ 
+ Good Ol' Days  ( Rare ) 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Related to  archetypes  and  series   
+ Legendary Dragon 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys face-up Monster Cards 
+ 
+ LP   
+ Damages you 
+ Damages your opponent 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 5005 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status The Eternal Duelist Soul 2002-10-15 – Bell of Destruction – – – – Semi-Limited Worldwide Edition: Stairway to the Destined Duel 2003-04-15 – Bell of Destruction – – – – Unlimited 7 Trials to Glory: World Championship Tournament 2005 2004-12-30 – – – – – Forbidden Nightmare Troubadour 2005-07-21 – ??? – – – Unlimited Ultimate Masters: World Championship Tournament 2006 2006-02-23 – 13000 – – – Forbidden GX Tag Force 2006-09-14 – ??? – – – Forbidden GX Tag Force 2 2007-09-18 – ??? – – – Limited 
+ 
+ 
+ 
+   " Ring of Destruction " pages 
+ 
+ 
+ Anime Manga 
+ 
+ 
+ 
+   
+" Legendary Dragon " 「 伝 説 の 竜 」 Members 
+ The Claw of Hermos The Eye of Timaeus The Fang of Critias 
+ Support 
+ Legend of Heart 
+ Related 
+ Amulet Dragon Blue-Eyes Tyrant Dragon Blue-Eyes White Dragon Dark Magician Dark Magician Dark Magician Girl Dark Magician Girl the Dragon Knight Dark Magician the Dragon Knight Destruction Dragon Doom Virus Dragon Goddess Bow Legendary Knight Critias Legendary Knight Hermos Legendary Knight Timaeus Mirror Force Dragon Queen's Knight Red-Eyes Black Dragon Red-Eyes Black Dragon Sword Rocket Hermos Cannon Rocket Warrior Timaeus the Knight of Destiny Timaeus the United Dragon Time Magic Hammer Time Wizard Tyrant Burst Dragon 
+ Crush Card Virus Loop of Destruction Mirror Force Ring of Destruction Tyrant Wing 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/22/RingofDestruction-LART-EN-UR-LE.png/revision/latest/scale-to-width-down/300?cb=20190701185753', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Card pages with an alt name, Duel Monsters cards, TCG cards, OCG cards

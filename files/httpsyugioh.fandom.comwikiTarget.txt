@@ -1,0 +1,571 @@
+Link: https://yugioh.fandom.com/wiki/Target
+
+
+ This article  may require  cleanup  to meet this wiki's standards.   You can help out by re-organizing or re-writing parts of it or checking grammar and spelling.   
+ 
+ 
+ Target
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 対 象 Verb:  対 象 とする (formerly  選 択 する)
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ たいしょう Verb: たいしょうとする (formerly せんたくする)
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 対象 Verb: 対象とする (formerly 選択する)
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ taishō Verb: taishō to suru (formerly  sentaku suru )
+ 
+ 
+ 
+ English
+ 
+ 
+ target
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : cible Verb: cibler 
+ German : Ziel Verb: wählen 
+ Italian : bersaglio Verb: scegliere come bersaglio 
+ Portuguese : alvo Verb: escolher 
+ Spanish : objetivo Verb: seleccionar 
+ Korean : 대상 (對象)  daesang Verb: 지정하는 (指定 ??)  jijeonghaneun  (formerly 선택 (選擇)  seontaek ) 
+ Traditional Chinese : 對象  duìxiàng / deoi3 zeong6 Verb: 指定  zhǐdìng / zi2 ding6  (formerly 選擇  xuǎnzé / syun2 zaak6 ) 
+ Simplified Chinese : 对象  duìxiàng 
+ 
+ 
+ Targeting  ( 対 象   taishō , verb:  対 象 とする  taishō to Suru ) is a means of designating which specific cards are affected or used by card effects or attack.
+ Cards that target make players choose at the time of  activation  the specific card(s) that it will affect.
+ 
+ Contents 
+ 
+ 1   Mechanics 
+ 
+ 1.1   Attack 
+ 
+ 1.1.1   Replay 
+ 
+ 
+ 1.2   Card Effect 
+ 
+ 1.2.1   Before PSCT 
+ 1.2.2   Automatically Targeting 
+ 
+ 
+ 
+ 
+ 2   Invalid target 
+ 
+ 
+ Mechanics 
+ Attack 
+ Main article:  Attack 
+ Japanese: 攻撃の対象 ( Kōgeki no Taishō ) ; Verb: 攻撃対象に選択する ( Kōgeki Taishō ni Sentaku-suru ).
+ When declaring an attack, an attack target must be chosen. The attacking monster will attack that attack target.
+ 
+ Replay 
+ Main article:  Replay During replay, an attack target will be re-selected in case the turn player decides to continue the attack.
+ Card Effect 
+ When using a card that targets, the target(s) are to be  declared  before players are allowed to  chain  to the effect. The target's locations is always specified: It can be the  field ,  Graveyard , or the  Banished  cards. Effects do not and never target a card(s) in the  hand ,  Main Deck , or  Extra Deck .
+ If an effect does not explicitly state "target" in its text, then the card  does not  "target". The card(s) to be affected are either  chosen  when the effect resolves, or the effect simply apply to all cards within the criteria in the first place.
+ 
+ Before PSCT 
+ If the card's text says " target ", then the effect always targets.  If the card's text says " select ", or " designate ", and that card was printed before the introduction of  Problem-Solving Card Text , then the effect usually targets, although there are some exceptions. When in doubt, check the card's rulings to see whether or not it targets. The introduction of  Problem-Solving Card Text  made all card effects that target, except Equip Spell Cards, specifically use the word " target " in their card text.
+ If a card targeted by an effect gains "cannot be targeted" effect during the same chain, the effect will still be applied as if "cannot be targeted" is not in effect.
+ 
+ Automatically Targeting 
+ While targeting usually allows the player to make choices, some cards that do target do so without the player's input. Such cards include " Magic Cylinder ", " Sakuretsu Armor ", and " Dimensional Prison "
+ 
+ Example: Player A controls " Darkness Neosphere " and " Dark Highlander ", and attacks Player B directly with "Darkness Neosphere". Player B activates "Magic Cylinder". At this time, "Magic Cylinder" automatically targets "Darkness Neosphere" and the Player B doesn't have to say what card he/she targets. 
+ Invalid target 
+ If a card is targeted by a card effect, and then another effect is chained to the original effect so that the target is not a legal target when  resolving  the original effect, then you do not get to " re-select " the target. The original effect resolves without effect (that is, it does nothing).
+ 
+ Example: Player A activates " Monster Reborn " and targets " Blue Eyes White Dragon " in his  Graveyard . Player B chains the effect of "D.D. Crow" from his hand, targeting "Blue Eyes White Dragon". Since "Blue Eyes White Dragon" is  banished , "Monster Reborn" resolves without effect since the target changed locations. 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/90/Broom_icon.png/revision/latest/scale-to-width-down/35?cb=20070612131135']
+Categories: Articles needing cleanup, Gameplay

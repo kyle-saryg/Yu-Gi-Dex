@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Page_name
+
+This is a Property allowing manipulation of a page's FULLPAGENAME value from other pages (for use on templates). It has type  string .
+ 
+ 
+ 
+ 
+Categories:

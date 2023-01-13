@@ -1,0 +1,109 @@
+Link: https://yugioh.fandom.com/wiki/Sacred_Shield
+
+
+ The Japanese (OCG) version of this card is not a member of the " Red "  archetype , because its Japanese name does not contain  「レッド」 .   As its English name contains "Red", it  may  be treated a member of the "Red" archetype at a TCG event, subject to local rulings.     
+ Sacred Shield 
+ 
+ Japanese:   白き盾 
+ Kana:   セイント・シールド 
+ Romaji:   Seinto Shīrudo 
+ Translated:  Saint Shield 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Counter 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Condition 
+ When a  Trap   effect  that would inflict  damage  to a player(s) is  activated : That damage becomes 0, and if it does, 1  Fairy - Type   monster  on the  field  gains  ATK  equal to the total amount of damage that player(s) would have taken. During the  End Phase , you take damage equal to the total amount of damage that player(s) would have taken at the  activation  of this card.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  132 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 白き盾 
+ 罠カードの効果によってダメージが発生した時に発動できる。その効果ダメージを０にする。フィールド上の天使族モンスター１体の攻撃力はこのカードの発動時に発生した効果ダメージの数値分アップし、このターンのエンドフェイズ時に、自分はその効果ダメージを受ける。 
+ 
+ 
+ Seinto Shīrudo 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Dumon 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Fairy 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ Your opponent's monsters gain ATK 
+ 
+ LP   
+ Prevents effect damage 
+ Damages you 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/9/9b/SacredShield-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20131208132212', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/8d/SacredShield-JP-Anime-ZX-NC.png/revision/latest/scale-to-width-down/185?cb=20131218052715', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

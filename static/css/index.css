@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(128, 0, 0);
+}
+
+.category-text{
+    color: rgb(255, 255, 60);
+    margin-right: 10px;
+}
+
+.title {
+    font-size: 5em;
+    color: rgb(255, 255, 60);
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 120px;
+}
+
+.search {
+    text-align: center;
+}
+
+.search-box {
+    text-align: center;
+    width: 45%;
+    height: 40px;
+    background-color: white;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    color: black;
+    font-size: 20px;
+}
+
+.search-button {
+    background-color: white;
+    padding: 15px 32px;
+    border-radius: 10px;
+    border: none;
+    color: black;
+    font-size: 15px;
+}
+
+.search-button:hover {
+    background-color: gray;
+}

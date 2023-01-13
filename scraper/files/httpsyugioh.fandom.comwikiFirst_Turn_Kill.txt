@@ -1,0 +1,487 @@
+Link: https://yugioh.fandom.com/wiki/First_Turn_Kill
+
+A  First Turn Kill  (FTK) ( ＦＴＫ   Fāsutotānkiru ) is  One Turn Kill  achieved on the first  turn . To date, FTK decks win in one of three ways: either  Deck out ,  Life Points  through  Burn Damage , or  Exodia . A Duel can be won by  several other means . Thus, future FTK decks may utilize other victory conditions besides the current three.
+ Because the rules prohibit  Trap Cards  from being activated on the same turn that they are set, FTKs centered on " Magical Explosion ," " Blasting the Ruins ," and other  Traps  as win conditions conclude the game in the  Draw Phase  of the subsequent turn. These strategies are still  functional  FTKs (and OTKs) despite victory not taking place in the span of a  literal  turn.
+ The history of FTK decks was most prominent before the advent of  Advanced Format . " Chaos Emperor Dragon - Envoy of the End " was central to the game's original FTK strategies before it was banned. The occurrence of an FTK has technically been possible since the game's inception, specifically, by acquiring the five " Forbidden One " pieces in hand within the first turn. This potential FTK was extremely improbable and only an incidental occurrence. Since FTKs are generally strategies that decks are entirely built around to execute regularly, " Exodia " did not constitute the first FTK strategy.
+ "First Turn Kill" decks that emerged early in the game's history include the " Magical Scientist FTK " and the " Dark Magician of Chaos OTK ." The " Magical Scientist FTK " deck consisted mainly of Spell Cards that enabled the summon of " Catapult Turtle " to deal  Burn Damage  and " Magical Scientist " to maintain Catapult Turtle's costs. The " Dark Magician of Chaos OTK " abused " Dimension Fusion " and " Spell Economics " in tandem with either " Toon Cannon Soldier ," " Cannon Soldier ," " Catapult Turtle ," or " Mass Driver ."  Empty Jar  is another prominent FTK deck that has taken several forms throughout the game's history.  Empty Jar  has historically been the most widely used  Deck out  strategy.
+ The release of the card " Effect Veiler " in 2010 was a monumental turning point in the history of FTKs because it provided the non-turn player a means of interrupting and disabling FTK strategies. This enabled the non-turn player to prevent what would otherwise be a loss decided before he or she had to opportunity to take a single turn. Incidentally, " Effect Veiler " was released at the end of the only season of the game since the inception of  Advanced Format  during which an FTK deck was a dominant strategy at all levels of Organized Play. That deck was " Frog FTK ," which is the only deck to have won a  World Championship .
+ The use of FTK decks is frowned upon by many duelists because the manner in which these decks win or lose involves minimal interaction between the players' cards. The outcome of win or lose for an FTK strategy is predominantly decided by two factors: going first, and drawing an adequate combination of cards to execute the strategy. This is aberrant from games involving non-FTK decks, in which outcomes are typically determined by how two opponents use their cards to counteract one another's moves.
+ Although FTK decks are generally not looked upon favorably, they still hold value, especially when seen as challenges in using probability to optimize the deck building process. The underlying math used to aid in the construction of certain FTK engines and in the playing of hands in perfect sequence presents some of the most complex puzzles in the entirety of the game.
+ The current card pool is so large that it would be exceedingly difficult to identify every FTK strategy possible in  Traditional Format . It may help to think of general categories of FTKs in terms of the core engine that enables their ending win condition. For instance, variants of " Exodia ," " Spell Counter OTK ," and " Magical Explosion FTK " decks are usually built around a shared core engine that revolves around " Royal Magical Library ." " Gishkill " and " Electrum FTK " are relatively recent FTK innovations that are unique in that they utilize a specific deck  Archetype  to reach their win condition. Note: Although " Gishkill " wins by FTK through  Deck out , if often won matches through the unorthodox means of time-out in tournament settings.
+ The following list provides a few notable examples of First Turn Kills. Strategies that can currently only be performed in  Traditional Format  are noted. Some Traditional strategies were previously used in  Advanced Format . Those that were not previously played in Advanced were either not yet reliable or not yet possible because key cards essential to the strategies did not exist or had not been released.
+ 
+ Blue-Blooded Oni FTK 
+ Butterfly Dagger - Elma OTK 
+ Danger! Dark World FTK 
+ Dark Magician of Chaos OTK 
+ Earthbound Immortal FTK 
+ Electrum FTK 
+ Empty Jar 
+ Frog Burn FTK 
+ Gandora-X FTK 
+ Gem-Knight FTK 
+ Gallis the Star Beast FTK 
+ Magical Explosion FTK 
+ Magical Scientist FTK 
+ Spell Counter OTK 
+ Plant FTK 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Gameplay

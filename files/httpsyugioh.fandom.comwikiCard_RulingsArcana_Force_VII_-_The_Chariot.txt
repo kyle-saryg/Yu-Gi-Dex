@@ -1,0 +1,79 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Arcana_Force_VII_-_The_Chariot
+
+
+ Arcana Force VII - The Chariot 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ Contents 
+ 
+ 1   OCG Rulings 
+ 2   Previously Official Rulings 
+ 
+ 2.1   Out of Date 
+ 
+ 
+ 3   Notes 
+ 4   References 
+ 
+ 
+ OCG Rulings 
+ The monster effect " When this card is Summoned, toss a coin " is a  Trigger Effect  that is always activated when " Arcana Force VII - The Chariot " is successfully  Normal ,  Flip , or  Special Summoned . (It does not  target .) [1] 
+ When the effect resolves, toss a coin, and which effect is gained is determined by the result. [1] 
+ The monster effect " Heads: If this card destroys an opponent's monster by battle, you can Special Summon that monster to your side of the field " is a  Trigger Effect . (It does not  target . If the " Arcana Force VII - The Chariot " itself that gained the effect destroys an opponent's monster by battle, at the end of the  Damage Step  the effect can optionally be activated. [1] 
+ If the " Arcana Force VII - The Chariot " itself that gained the effect has the same ATK as the monster it battles, the monster effect " you can Special Summon that monster to your side of the field " cannot be activated. [1] 
+ If " Tails: Your opponent gains control of this card " is gained as a result of the coin toss, that effect is immediately applied. [1] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [2]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [3] [4] [5] [6] [7] [8] [9] [10] [11] 
+ 
+ " Arcana Force VII - The Chariot 's" heads effect activates at the end of the  Damage Step , when the monster it destroys in battle is sent to the Graveyard or Removed Zone. 
+ If " Reversal of Fate " changes " Arcana Force VII - The Chariot 's" effect from heads to tails, control of " Arcana Force VII - The Chariot " immediately shifts to the opponent. If its effect is changed to heads again after control is shifted to the opponent, it remains under the opponent's control. 
+ If your " Arcana Force VII - The Chariot " destroys a " Crystal Beast " monster by battle and the " Crystal Beast " monster is placed into the Spell and Trap Card Zone, you cannot Special Summon that " Crystal Beast " monster. 
+ Out of Date 
+ If  The Chariot  is destroyed by a monster with equal ATK, its heads effect wont activate. [Notes 1] 
+ 
+ 
+ 
+ Notes 
+ 
+ ↑   Per the  ruling for Blackwing - Shura the Blue Flame , monsters with effects with the text "When this card destroys an opponent's monster by battle…" that do not specify "…and sends it to the Graveyard" can activate this effect when destroyed in an ATK tie. 
+ 
+ 
+ References 
+ 
+ ↑  1.0   1.1   1.2   1.3   1.4   Konami OCG Card Database : Arcana Force VII - The Chariot 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

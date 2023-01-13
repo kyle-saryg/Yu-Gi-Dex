@@ -1,0 +1,543 @@
+Link: https://yugioh.fandom.com/wiki/Piercing
+
+
+ 
+ Piercing
+ 
+ 
+ 
+ " Piercing Battle Damage "  Tip Card 
+ 
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 貫通ダメージ
+ 
+ 
+ 
+ English
+ 
+ 
+ piercing battle damage
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : dommages de combat perçants 
+ German : durchschlagender Kampfschaden 
+ Italian : danno da combattimento perforante 
+ Portuguese : dano de batalha perfurante 
+ Spanish : daño de batalla de penetración 
+ 
+ 
+ Piercing battle damage  is  battle damage  dealt by a  card effect  to the controller of a  Defense Position  monster by an  attacking  monster. If the defending monster's  DEF  is lower than the attacking monster's  ATK , the difference is inflicted as battle damage. It is occasionally referred to unofficially as "trample" damage, due to that term having a similar meaning in  Magic: The Gathering .
+ Interestingly, because some  Equip Spell Cards  that allow monsters to inflict piercing damage deal damage to the opponent of the  controller  of the Equip Spell Card rather than the opponent of the controller of the monster, if a player  equips  a card like " Fairy Meteor Crush " to an opponent's monster and the opponent attacks the player's Defense Position monster, the opponent will take battle damage instead of the player.
+ 
+ Contents 
+ 
+ 1   Example 
+ 2   Text 
+ 3   List 
+ 
+ 3.1   All OCG/TCG "Piercing" cards 
+ 3.2   All Anime "Piercing" cards 
+ 3.3   All Manga "Piercing" cards 
+ 
+ 
+ 4   Trivia 
+ 
+ 
+ Example 
+ Player A's " Dark Driceratops " (ATK 2400) attacks Player B's Defense Position " Mystical Elf " (DEF 2000). Regardless of whether "Mystical Elf" is  destroyed  or not, Player B takes the difference (400 points in this case) as  damage .
+ 
+ Text 
+ Effects that give monsters the ability to inflict piercing battle damage have the following text:
+ 
+ If (???*) attacks a Defense Position monster, inflict piercing battle damage to your opponent. 
+ In Japanese, it is written as:
+ 
+ 「 守 備 表 示 モンスターを 攻 撃 した 場 合 、その 守 備 力 を 攻 撃 力 が 超 えた 分 だけ 戦 闘 ダメージを 与 える。」( Shubi Hyōji Monsutā o kōgeki shita baai, sono Shubiryoku ga koeta-bun dake Sentō Damēji wo Ataeru ) 
+ List 
+ The following cards automatically have or allow Piercing in  OCG  and  TCG :
+ 
+ All OCG/TCG "Piercing" cards 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Airknight Parshath 天空騎士パーシアス Effect Monster LIGHT Fairy 5 1900 1400 Ally of Justice Thunder Armor Ａ・Ｏ・Ｊ サンダー・アーマー Effect Monster DARK Machine 8 2700 2200 Amazoness Empress アマゾネス女帝 Effect Monster Fusion Monster EARTH Warrior 8 2800 2400 Ancient Gear Gadjiltron Dragon 古代の機械巨竜 Effect Monster EARTH Machine 8 3000 2000 Ancient Gear Golem 古代の機械巨人 Effect Monster EARTH Machine 8 3000 3000 Ancient Gear Golem - Ultimate Pound 古代の機械巨人－アルティメット・パウンド Effect Monster EARTH Machine 8 3000 3000 Ancient Gear Reactor Dragon 古代の機械熱核竜 Effect Monster EARTH Machine 9 3000 3000 Aromage Bergamot アロマージ－ベルガモット Effect Monster FIRE Plant 6 2400 1800 Avenging Knight Parshath 神聖騎士パーシアス Effect Monster Synchro Monster LIGHT Fairy 8 2600 2100 Bachibachibachi バチバチバチ Effect Monster LIGHT Insect 3 800 800 Battlewasp - Ballista the Armageddon Ｂ・Ｆ－決戦のビッグ・バリスタ Effect Monster Synchro Monster WIND Insect 12 3000 800 Bitelon バイトロン Effect Monster WATER Reptile 6 2400 1000 Blackwing - Bora the Spear ＢＦ－黒槍のブラスト Effect Monster DARK Winged Beast 4 1700 800 Blackwing Armed Wing ＢＦ－アームズ・ウィング Effect Monster Synchro Monster DARK Winged Beast 6 2300 1000 Blitzkrieg Cavalry Triggerdrago 雷闘騎トリガードラゴ Effect Monster LIGHT Thunder 7 2500 1500 Blue-Eyes Chaos Dragon 青眼の混沌龍 Effect Monster Ritual Monster DARK Dragon 8 3000 0 Blue-Eyes Chaos MAX Dragon ブルーアイズ・カオス・ＭＡＸ・ドラゴン Effect Monster Ritual Monster DARK Dragon 8 4000 0 Bujingi Ibis 武神器－オハバリ Effect Monster LIGHT Winged Beast 4 1600 300 Buster Blader, the Dragon Destroyer Swordsman 竜破壊の剣士－バスター・ブレイダー Effect Monster Fusion Monster LIGHT Warrior 8 2800 2500 Chaos Ancient Gear Giant 古代の機械混沌巨人 Effect Monster Fusion Monster DARK Machine 10 4500 3000 Chronomaly Mud Golem 先史遺産マッドゴーレム－シャコウキ Effect Monster EARTH Rock 4 1700 1000 Cross-Sword Beetle クロスソード・ハンター Effect Monster WIND Insect 4 1800 1200 Crusadia Leonis 百獣のパラディオン Effect Monster EARTH Beast 3 1200 1600 Cyber Angel Dakini サイバー・エンジェル－荼吉尼－ Effect Monster Ritual Monster LIGHT Fairy 8 2700 2400 Cyber End Dragon サイバー・エンド・ドラゴン Effect Monster Fusion Monster LIGHT Machine 10 4000 2800 Cyberdark Horn サイバー・ダーク・ホーン Effect Monster DARK Machine 4 800 800 Cyberse Wizard サイバース・ウィザード Effect Monster LIGHT Cyberse 4 1800 800 D/D/D Destiny King Zero Laplace ＤＤＤ運命王ゼロ・ラプラス Effect Monster Pendulum Monster DARK Fiend 10 ? 0 D/D/D Dragonbane King Beowulf ＤＤＤ剋竜王ベオウルフ Effect Monster Fusion Monster DARK Fiend 8 3000 2500 D/D/D Supersight King Zero Maxwell ＤＤＤ超視王ゼロ・マクスウェル Effect Monster Pendulum Monster DARK Fiend 7 2800 2500 Dark Cavalry 超魔導騎士－ブラック・キャバルリー Effect Monster Fusion Monster DARK Spellcaster 8 2800 2300 Dark Driceratops 暗黒ドリケラトプス Effect Monster EARTH Dinosaur 6 2400 1500 Dark Magician the Magical Knight of Dragons 竜魔導騎士ブラック・マジシャン Effect Monster Fusion Monster DARK Dragon 8 2900 2400 Darklord Edeh Arae 堕天使エデ・アーラエ Effect Monster DARK Fairy 5 2300 2000 Darklord Nergal 堕天使ネルガル Effect Monster DARK Fairy 8 2700 2500 Darkness Destroyer ダークネス・デストロイヤー Effect Monster DARK Fiend 7 2300 1800 Deskbot 007 ブンボーグ００７ Effect Monster Pendulum Monster EARTH Machine 7 500 500 Destiny HERO - Drilldark Ｄ－ＨＥＲＯ ドリルガイ Effect Monster DARK Warrior 4 1600 1200 Digital Bug Rhinosebus 電子光虫－ライノセバス Effect Monster Xyz Monster LIGHT Insect 7 2600 2200 Dinomist Rex ダイナミスト・レックス Effect Monster Pendulum Monster WATER Machine 5 2400 2200 Dinowrestler Chimera T Wrextle ダイナレスラー・キメラ・Ｔ レッスル Effect Monster Fusion Monster EARTH Dinosaur 8 3500 0 Downerd Magician ダウナード・マジシャン Effect Monster Xyz Monster DARK Spellcaster 4 2100 200 Dragon's Striker ドラゴンズ・ストライカー Effect Monster EARTH Dragon 4 1300 200 Dragunity Angusticlavii ドラグニティ－アングス Effect Monster WIND Winged Beast 5 2100 1000 Drill Driver Vespenato 旋壊のヴェスペネイト Effect Monster Xyz Monster EARTH Machine 5 2500 2100 Drill Synchron ドリル・シンクロン Effect Monster Tuner monster EARTH Machine 3 800 300 Elemental HERO Bladedge Ｅ・ＨＥＲＯ エッジマン Effect Monster EARTH Warrior 7 2600 1800 Elemental HERO Darkbright Ｅ・ＨＥＲＯ ダーク・ブライトマン Effect Monster Fusion Monster DARK Warrior 6 2000 1000 Elemental HERO Plasma Vice Ｅ・ＨＥＲＯ プラズマヴァイスマン Effect Monster Fusion Monster EARTH Warrior 8 2600 2300 Enraged Battle Ox 激昂のミノタウルス Effect Monster EARTH Beast-Warrior 4 1700 1000 ... further results (103 more) 
+   Japanese name Card type Property 10sion MAX!!! １０ｓｉｏｎＭＡＸ！！！ Spell Card Normal Spell Card Normal Spell Card Art of Masked Fiery Noodle Red Hot 火麺激辛レッドの術 Spell Card Normal Spell Card Normal Spell Card Big Bang Shot ビッグバン・シュート Spell Card Equip Spell Card Equip Spell Card Cyclon Laser サイクロンレーザー Spell Card Equip Spell Card Equip Spell Card Dragon's Rage 竜の逆鱗 Trap Card Continuous Trap Card Continuous Trap Card Ebon Arrow ブラック・アロー Trap Card Normal Trap Card Normal Trap Card Fairy Meteor Crush メテオ・ストライク Spell Card Equip Spell Card Equip Spell Card Fire Formation - Kaiyo 炎舞－「開陽」 Trap Card Continuous Trap Card Continuous Trap Card Gouki Finishing Move 剛鬼フィニッシュホールド Spell Card Normal Spell Card Normal Spell Card Greater Piercing!! 大貫通！！ Spell Card Normal Spell Card Normal Spell Card Greater Polymerization 大融合 Spell Card Normal Spell Card Normal Spell Card H - Heated Heart Ｈ－ヒートハート Spell Card Normal Spell Card Normal Spell Card The Indomitable Post-Apocalyptic Beast-Warrior 不屈の世紀末獣戦士 Spell Card Normal Spell Card Normal Spell Card Kozmo Lightsword Ｋｏｚｍｏ－レイブレード Spell Card Equip Spell Card Equip Spell Card Meteorain メテオ・レイン Trap Card Normal Trap Card Normal Trap Card One-Breath Piercing 一気貫通 Spell Card Normal Spell Card Normal Spell Card Phantasm Spiral Crash 幻煌龍の螺旋突 Spell Card Equip Spell Card Equip Spell Card Photon Trident フォトン・トライデント Spell Card Quick-Play Spell Card Quick-Play Spell Card Piercing! 貫通！ Spell Card Normal Spell Card Normal Spell Card Roaring Earth 吠え猛る大地 Trap Card Continuous Trap Card Continuous Trap Card Salamangreat Claw 転生炎獣の烈爪 Spell Card Equip Spell Card Equip Spell Card Scrap Fist スクラップ・フィスト Spell Card Quick-Play Spell Card Quick-Play Spell Card Sonic Boom 超音速波 Trap Card Normal Trap Card Normal Trap Card Spiral Spear Strike 螺旋槍殺 Spell Card Continuous Spell Card Continuous Spell Card Strike Slash ストライク・ショット Trap Card Normal Trap Card Normal Trap Card Super Quantal Mech Sword - Magnaslayer 超量機神剣－マグナスレイヤー Trap Card Normal Trap Card Normal Trap Card Sword of Kusanagi 草薙剣 Spell Card Equip Spell Card Equip Spell Card Thorn of Malice 憎悪の棘 Spell Card Equip Spell Card Equip Spell Card Train Connection 機関連結 Spell Card Equip Spell Card Equip Spell Card Vylon Component ヴァイロン・コンポーネント Spell Card Equip Spell Card Equip Spell Card 
+ All Anime "Piercing" cards 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Airknight Parshath 天空騎士パーシアス Effect Monster LIGHT Fairy 0 0 0 5 0 0 0 0 0 ??? 0 0 0 0 1900 Amazoness Empress アマゾネス女帝 Fusion Monster EARTH Warrior 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 2800 Ancient Gear Golem 古代の機械巨人 Effect Monster EARTH Machine 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 3000 Ancient Gear Golem 古代の機械巨人 Effect Monster EARTH Machine 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 3000 Ancient Gear Reactor Dragon 古代の機械熱核竜 Effect Monster EARTH Machine 0 0 0 9 0 0 0 0 0 ??? 0 0 0 0 3000 Assault Blackwing - Kusanagi the Gathering Storm Ａ ＢＦ－叢雲のクサナギ Synchro Monster ??? 0 0 0 9 0 0 0 0 0 ??? 0 0 0 0 3000 Assault Wheel アサルト・ホイール Effect Monster EARTH Machine 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 2300 Bachibachibachi バチバチバチ Effect Monster LIGHT Insect 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 800 Battlewasp - Ballista the Armageddon Ｂ・Ｆ－決戦のビッグ・バリスタ Synchro Monster Insect 0 0 12 0 0 0 0 0 ??? 0 0 0 0 3000 Blackwing - Bora the Spear ＢＦ－黒槍のブラスト Effect Monster DARK Winged Beast 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1700 Blackwing Armed Wing ＢＦ－アームズ・ウィング Synchro Monster DARK Winged Beast 0 0 0 6 0 0 0 0 0 ??? 0 0 0 0 2300 Blue-Eyes Chaos MAX Dragon ブルーアイズ・カオス・ＭＡＸ・ドラゴン Ritual Monster DARK Dragon 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 4000 Buster Knuckle バスターナックル・アーマー Effect Monster Armor monster EARTH Machine 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 Chronomaly Mud Golem 先史遺産マッドゴーレム－シャコウキ Effect Monster EARTH Rock 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1700 Cyber Angel Dakini サイバー・エンジェル－荼吉尼－ Ritual Monster LIGHT Fairy 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 2700 Cyber End Dragon サイバー・エンド・ドラゴン Fusion Monster LIGHT Machine 0 0 10 0 0 0 0 0 ??? 0 0 0 0 4000 Cyberdark Horn サイバー・ダーク・ホーン Effect Monster DARK Machine 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 0 800 Cyberse Wizard サイバース・ウィザード Effect Monster LIGHT Cyberse 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1800 D/D/D Dragonbane King Beowulf ＤＤＤ剋竜王ベオウルフ Fusion Monster DARK Fiend 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 3000 Dark Driceratops 暗黒ドリケラトプス Effect Monster EARTH Dinosaur 0 0 0 6 0 0 0 0 0 ??? 0 0 0 0 2400 Darkness Destroyer ダークネス・デストロイヤー Effect Monster DARK Fiend 0 0 0 7 0 0 0 0 0 ??? 0 0 0 0 2300 Deskbot 007 ブンボーグ００７ Pendulum Monster EARTH Machine 0 0 0 7 0 0 0 0 0 ??? 0 0 0 0 0 500 Destiny HERO - Drilldark Ｄ－ＨＥＲＯ ドリルガイ Effect Monster DARK Warrior 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1600 Dragon's Striker ドラゴンズ・ストライカー Effect Monster EARTH Dragon 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1300 Drill Synchron ドリル・シンクロン Effect Monster Tuner monster EARTH Machine 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 800 Elemental Hero Bladedge Ｅ・ＨＥＲＯ エッジマン Effect Monster EARTH Warrior 0 0 0 7 0 0 0 0 0 ??? 0 0 0 0 2600 Elemental Hero Darkbright Ｅ・ＨＥＲＯ ダーク・ブライトマン Fusion Monster DARK Warrior 0 0 0 6 0 0 0 0 0 ??? 0 0 0 0 2000 Elemental Hero Plasma Vice Ｅ・ＨＥＲＯ プラズマヴァイスマン Fusion Monster EARTH Warrior 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 2800 Enraged Battle Ox 激昂のミノタウルス Effect Monster EARTH Beast-Warrior 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1700 Evil Hero Inferno Wing Ｅ－ＨＥＲＯ インフェルノ・ウィング Fusion Monster FIRE Fiend 0 0 0 6 0 0 0 0 0 ??? 0 0 0 0 2100 Evil Hero Malicious Edge Ｅ－ＨＥＲＯ マリシャス・エッジ Effect Monster EARTH Fiend 0 0 0 7 0 0 0 0 0 ??? 0 0 0 0 2600 Familiar-Possessed - Hiita 憑依装着－ヒータ Effect Monster FIRE Spellcaster 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1850 Flower Cardian Boardefly 花札衛－猪鹿蝶－ Synchro Monster DARK Warrior 0 0 0 6 0 0 0 0 0 ??? 0 0 0 0 2000 Fossil Dragon Skullgios 古生代化石竜 スカルギオス Fusion Monster EARTH Rock 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 3500 Fossil Warrior Skull King 古生代化石騎士 スカルキング Fusion Monster EARTH Rock 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 2800 G Golem Invalid Dolmen Ｇゴーレム・インヴァリッド・ドルメン Link Monster EARTH Cyberse 0 0 0 0 0 ??? 0 0 0 0 2800 Gaia Dragon, the Thunder Charger 迅雷の騎士ガイアドラグーン Xyz Monster WIND Dragon 0 0 0 7 0 0 0 0 0 ??? 0 0 0 0 2600 Gaia Soul the Combustible Collective 爆炎集合体ガイヤ・ソウル Effect Monster FIRE Pyro 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 2000 Granel Attack グランエルＡ Effect Monster EARTH Machine 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 1300 Granel Attack 3 グランエルＡ３ Effect Monster EARTH Machine 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 1800 Gravekeeper's Spear Soldier 墓守の長槍兵 Effect Monster DARK Spellcaster 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1500 Gyaku-Gire Panda 逆ギレパンダ Effect Monster EARTH Beast 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 800 Hi-Speedroid Kendama ＨＳＲ魔剣ダーマ Synchro Monster WIND Machine 0 0 0 6 0 0 0 0 0 ??? 0 0 0 0 2200 Infernity Dwarf インフェルニティ・ドワーフ Effect Monster DARK Warrior 0 0 0 2 0 0 0 0 0 ??? 0 0 0 0 0 800 Jumbo Drill 穿孔重機ドリルジャンボ Effect Monster EARTH Machine 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1800 Lancer Archfiend ランサー・デーモン Effect Monster DARK Fiend 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1600 Mad Archfiend マッド・デーモン Effect Monster DARK Fiend 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1800 Mad Archfiend マッド・デーモン Effect Monster DARK Fiend 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1800 Mad Sword Beast 猛進する剣角獣 Effect Monster EARTH Dinosaur 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1400 Malefic Cyber End Dragon Ｓｉｎ サイバー・エンド・ドラゴン Effect Monster DARK Machine 0 0 10 0 0 0 0 0 ??? 0 0 0 0 4000 ... further results (33 more) 
+   Japanese name Card type Property Alert Lancer アラート・ランサー Spell Card Normal Spell Card Ancient Gear Mask 古代の機械仮面 Spell Card Equip Spell Card Art of Masked Fiery Noodle Red Hot 火麺激辛レッドの術 Spell Card Normal Spell Card Big Bang Shot ビッグバン・シュート Spell Card Equip Spell Card Burning Strike バーニング・ストライク Trap Card Continuous Trap Card Cyclon Laser サイクロンレーザー Spell Card Equip Spell Card Dark Spear ブラック・スピア Spell Card Equip Spell Card Dimensional Catapult 次元破壊砲－ＳＴＵ Spell Card Equip Spell Card Dragon's Rage 竜の逆鱗 Trap Card Continuous Trap Card Drain Strike ドレイン・ストライク Spell Card Equip Spell Card Ebon Arrow ブラック・アロー Trap Card Normal Trap Card Fairy Meteor Crush メテオ・ストライク Spell Card Equip Spell Card Greater Piercing!! 大貫通！！ Spell Card Normal Spell Card H - Heated Heart Ｈ－ヒートハート Spell Card Normal Spell Card The Indomitable Post-Apocalyptic Beast-Warrior 不屈の世紀末獣戦士 Spell Card Normal Spell Card M Force Ｍ・フォース Spell Card Quick-Play Spell Card Meteor Wave メテオ・ウェーブ Trap Card Normal Trap Card Meteorain メテオ・レイン Trap Card Normal Trap Card Pendulum Illusion ペンデュラム・イリュージョン Spell Card Continuous Spell Card Photon Spear フォトン・スピア Spell Card Equip Spell Card Piercing! 貫通！ Spell Card Normal Spell Card Reservation Reward 速攻予約持典 Spell Card Continuous Spell Card Roaring Earth 吠え猛る大地 Trap Card Continuous Trap Card Salamangreat Claw 転生炎獣の烈爪 Spell Card Equip Spell Card Superior Protector 孤高の守人 Trap Card Normal Trap Card Thorn of Malice 憎悪の棘 Spell Card Equip Spell Card Train Connection 機関連結 Spell Card Equip Spell Card Xyz Meteor エクシーズ・メテオ Trap Card Normal Trap Card 
+ All Manga "Piercing" cards 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Blackwing - Bora the Spear ＢＦ－黒槍のブラスト Effect Monster DARK Winged Beast 0 0 0 4 0 0 0 0 1700 0 0 0 0 0 800 D/D/D Destiny King Zero Laplace ＤＤＤ運命王ゼロ・ラプラス Pendulum Monster DARK Fiend 0 0 10 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 D/D/D Supersight King Zero Maxwell ＤＤＤ超視王ゼロ・マクスウェル Pendulum Monster DARK Fiend 0 0 0 7 0 0 0 0 2800 0 0 0 0 2500 Darklord Edeh Arae 堕天使エデ・アーラエ Normal Monster DARK Fairy 0 0 0 5 0 0 0 0 2300 0 0 0 0 2000 Elemental Hero Bladedge Ｅ・ＨＥＲＯ エッジマン Normal Monster EARTH Warrior 0 0 0 7 0 0 0 0 2600 0 0 0 0 1800 Hellfire Spearman Ghost Lancer 劫火の槍術士ゴースト・ランサー Normal Monster 0 0 0 5 0 0 0 0 2000 0 0 0 0 0 0 0 0 Lancer Lindwurm ランス・リンドブルム Normal Monster WIND Dragon 0 0 0 4 0 0 0 0 1800 0 0 0 0 1200 Nine-Tailed Fox 九尾の狐 Effect Monster FIRE Yokai 0 0 0 6 0 0 0 0 2200 0 0 0 0 2000 No. 52 - Diamond Crab King Ｎｏ.５２ ダイヤモンド・クラブ・キング Xyz Monster EARTH Rock 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 3000 Pierce Musketeer ピアース・マスケッティア Effect Monster 0 0 0 4 0 0 0 0 1700 0 0 0 0 1000 Stardust Assault Warrior スターダスト・アサルト・ウォリアー Synchro Monster WIND Warrior 0 0 0 6 0 0 0 0 2100 0 0 0 0 1200 White Aura Whale 白闘気白鯨 Synchro Monster WATER Fish 0 0 0 8 0 0 0 0 2800 0 0 0 0 2000 
+   Japanese name Card type Property Aftershock アフターレフェクト・オブ・インパクト Spell Card Quick-Play Spell Card Double Buster Swords ダブル・バスターソード Spell Card Equip Spell Card Dragon's Wrath ドラゴニック・エンレイジ Spell Card Normal Spell Card Fairy Meteor Crush メテオ・ストライク Spell Card Equip Spell Card Fairy Meteor Crush メテオ・ストライク Spell Card Equip Spell Card Haunted Lance 伏魔殿の螺暈崇 Spell Card Neon Laser Blaster ネオンレーザーブラスター Spell Card Equip Spell Card Photon Strike フォトン・ストライク Spell Card Equip Spell Card Primordial Charge 太古の進撃 Spell Card Continuous Spell Card 
+ Trivia 
+ Prior to  Problem-Solving Card Text ,  This card inflicts Piercing damage  appeared in the card text of " Cyberdark Horn " only. 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/7b/PiercingBattleDamage-DR1-EN44-UE.jpg/revision/latest/scale-to-width-down/300?cb=20130131033807']
+Categories: Gameplay, Cards by effect properties

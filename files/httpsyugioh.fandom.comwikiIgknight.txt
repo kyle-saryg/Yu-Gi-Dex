@@ -1,0 +1,377 @@
+Link: https://yugioh.fandom.com/wiki/Igknight
+
+
+ 
+ Igknight 
+ イグナイト  ( Igunaito ) 
+ 
+ 
+ 
+ 
+ " Squire ", " Crusader ", " Templar ", " Paladin " and " Ignister " in the artwork of " Ignition Phoenix " 
+ 
+ 
+ Other names 
+ 
+ French 
+ Chevaliardent Translation:  Knightardent 
+ 
+ 
+ German 
+ Feueritter Translation:  Fireknight 
+ 
+ 
+ Italian 
+ Fuocavaliere Translation:  Fireknight 
+ 
+ 
+ Korean 
+ 이그나이트   Igeunaiteu   (romanized) 
+ 
+ 
+ Portuguese 
+ Cavaleirardor Translation:  Knightardor 
+ 
+ 
+ Spanish 
+ Caballerígneo Translation:  Knigneous 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Clash of Rebellions Dimension of Chaos Invasion: Vengeance Darkwing Blast 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Astral Pack Eight 2016 Mega-Tin Mega Pack OTS Tournament Pack 3 2017 Mega-Tin Mega Pack Ancient Guardians 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Darkwing Blast +1 Bonus Pack 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Manga appearances 
+ 
+ 
+ Yu-Gi-Oh! ARC-V The Strongest Duelist Yuya!! 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Igknight " (イグナイト  Igunaito ) is an archetype of  FIRE   Warrior   monsters  which debuted in  Clash of Rebellions . They are used by  Shuto Go  in the spin-off manga  Yu-Gi-Oh! ARC-V The Strongest Duelist Yuya!! 
+ With the exception of  "Lancer"  and  "Champion"  (Level 7 and 8  Effect Monsters , respectively), each "Igknight" monster is a  Normal Pendulum Monster , with a  Pendulum Scale  of either 2 (" Gallant ", " Cavalier ", " Crusader ", and " Paladin ") or 7 (" Templar ", " Squire ", " Veteran ", and " Margrave ").
+ The " Dracoslayer " archetype hints at a relation between this archetype and both " Majespecters " and " Dinomists ". Both are full-Pendulum archetypes containing a "Dracoslayer" monster (which appears to be a merging of one of its archetype members with another mystic creature) and Field Spell Cards portraying the surging of those monsters, both "Dracoslayer" monster and Field Spell Card containing a word with "P", written as "P" with a Furigana, just like how "Pendulum" is written "P" with the Furigana "Pendyuramu". In addition, while the "Majespecter" archetype consists of effect monsters (with effects) with no Pendulum effects, the "Igknight" archetype consists of Normal monsters (no effects) that all have Pendulum effects.
+ 
+ Contents 
+ 
+ 1   Design 
+ 
+ 1.1   Appearance 
+ 1.2   Etymology 
+ 
+ 
+ 2   Playing style 
+ 3   Recommended cards 
+ 4   Official Konami Decklists 
+ 5   References 
+ 
+ 
+ Design 
+ Appearance 
+ The original six Pendulum "Igknights" are entirely 1 specific color from the color wheel: red, orange, yellow, green, blue, purple. For all 3 of the warm colors ("Margrave", "Templar" and "Squire"), the corresponding "Igknights" are the higher scale (7), which is usually paired with the red scale, which is also a warm color. The same can be said for the 3 cool colors ("Gallant", "Crusader" and "Paladin"). They are all the lower scale (2), which is usually paired with the blue scale, a cool color. "Cavalier" breaks this pattern, being a Scale 2 (blue) Pendulum with a warm color (pink). As well is "Veteran", being a Scale 7 (red) Pendulum with a cool color (light blue).
+ 
+ Etymology 
+ The name "Igknight" is a pun on the words "ignite" and "knight". In the  OCG , the majority of the archetype's members are named for various makes and models of guns and ammunition, and wield gunblades inspired by said guns with various types of blade attachments.
+ In the  TCG , these names were changed to place more emphasis on the "knight" part of the name, rather than "ignite", by naming the members after medieval military positions (or other terms related to chivalric ideas).
+ 
+ 
+ 
+ Name
+ 
+ Color
+ 
+ Scale
+ 
+ Level
+ 
+ Origin
+ 
+ 
+ TCG 
+ 
+ OCG 
+ 
+ TCG 
+ 
+ OCG 
+ 
+ 
+ Crusader 
+ Eagle 
+ Blue 
+ 2 
+ 3 
+ Crusader 
+ IMI Desert Eagle 
+ 
+ 
+ Paladin 
+ Musket 
+ Purple 
+ 2 
+ 4 
+ Paladin 
+ Musket 
+ 
+ 
+ Cavalier 
+ Derringer 
+ Pink 
+ 2 
+ 5 
+ Cavalier 
+ Derringer 
+ 
+ 
+ Gallant 
+ Caliber 
+ Green 
+ 2 
+ 6 
+ Gallant  (adj .  'brave, spirited, noble-minded, or chivalrous') 
+ Caliber 
+ 
+ 
+ Squire 
+ Magnum 
+ Yellow 
+ 7 
+ 3 
+ Squire 
+ .44 Magnum 
+ 
+ 
+ Templar 
+ Dragunov 
+ Orange 
+ 7 
+ 4 
+ Templar 
+ Dragunov sniper rifle 
+ 
+ 
+ Margrave 
+ Riot 
+ Red 
+ 7 
+ 5 
+ Margrave 
+ Riot gun 
+ 
+ 
+ Veteran 
+ Uzi 
+ Light Blue 
+ 7 
+ 6 
+ Veteran 
+ Uzi 
+ 
+ 
+ Lancer 
+ Avenger 
+ N/A 
+ N/A 
+ 7 
+ Lancer 
+ GAU-8 Avenger 
+ 
+ 
+ Champion 
+ Stinger 
+ N/A 
+ N/A 
+ 8 
+ Champion 
+ FIM-92 Stinger 
+ 
+ 
+ Playing style 
+ "Igknight" monsters center around destroying each other to limit the opponent's field while setting up a mass Pendulum Summon, as destroyed Pendulum Monsters go to the Extra Deck rather than the Graveyard, allowing them to be summoned to the field en masse. All "Igknight" Pendulum Monsters have the exact same Pendulum Effect: " If you have an "Igknight" card in your other Pendulum Zone: You can destroy all cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand. " This effect also serves to search and recycle their main offensive Effect Monsters, "Igknight Lancer" and "Igknight Champion." The two then allow the player to return other "Igknight" monsters to the hand, allowing them to be set in the Pendulum Zones to summon the previously destroyed "Igknight" monsters back to the field. The archetype has limited Spell and Trap support, but they further allow the player to freely destroy "Igknight" cards to swarm the field and/or allow the player to get the needed monsters for a Pendulum Summon.
+ The archetype as a whole is unusual for the current metagame, as it is one of the first archetypes for which almost every major monster card is a  Normal Monster  (by comparison, past archetypes such as " Hieratic ", " Ojama " or " Qli "– all of which featured Normal Monsters prominently– mostly relied on Effect Monsters while manipulating the Normal Monsters as  Material  or  Support ). However, in exchange for their lack of effects, "Igknights" enjoy an extremely bountiful assortment of external support. As they are also Warrior Normal Monsters, every Pendulum Monster in the archetype is searchable with either " Reinforcement of the Army " or " Summoner's Art ". Pure "Igknight" Decks can use " Skill Drain " with minor repercussions. In addition, they also can access " Pot of Riches ", " Heart of the Underdog " (along with Trap Cards activated in your Draw Phase, like " Common Charity ", " Jar of Greed " and " Legacy of Yata-Garasu ") for draw power– giving these decks unusually strong consistency. " Non-Spellcasting Area ", " Tyrant's Throes " and " First of the Dragons " can also be mixed in as extra Normal Monster support. In addition, since their effects allow them to search  any   FIRE  Warrior monsters, they open themselves up to other useful offensive support, such as " Blue Flame Swordsman ", " Command Knight ", " Valkyrian Knight " and " Ultimate Baseball Kid ". By the same token, " Spiritual Fire Art - Kurenai " makes viable support together with the re-summonable Pendulum "Igknights" for easy  effect damage .
+ Additionally, the "Igknights" have access to a variety of  Extra Deck  monsters. Being Normal Monsters, they can be used as Material to  Fusion Summon  " First of the Dragons ", while using " Elemental HERO Blazeman ". "Blazeman" itself being a " HERO " monster, along with the Deck being largely comprised of FIRE monsters allows for access to " Elemental HERO Nova Master ". They can also be used for  Synchro Summons  using  Tuner monsters  that have high synergy with them, such as " Galaxy Serpent " for being a Normal Monster, or " Rose, Warrior of Revenge ", yet another FIRE Warrior monster. This can also help them summon " Azure-Eyes Silver Dragon ", who can  Special Summon  Normal Monsters from your Graveyard. Even though all "Igknight" Normal Monsters are Pendulum Monsters, and thus rarely go the Graveyard, you can still use them as  Xyz Materials , which would make them go to the Graveyard. Having multiple Levels, they can  Xyz Summon  all sorts of  Xyz Monsters  from Ranks 3 to 6, including powerful ones that require specific Xyz Materials, such as " Heroic Champion - Excalibur ", " Blade Armor Ninja ", " Brotherhood of the Fire Fist - Lion Emperor " and " Hazy Flame Basiltrice ".
+ 
+ Recommended cards 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ Igknight Lancer 
+ Igknight Champion 
+ Blackwing - Zephyros the Elite 
+ Blue Flame Swordsman 
+ Bonfire Colossus 
+ Command Knight 
+ Elemental HERO Blazeman 
+ Knight of the Red Lotus 
+ Majesty's Fiend 
+ Phoenix Gearfried 
+ Rescue Rabbit 
+ Royal Magical Library 
+ Spy-C-Spy 
+ Ultimate Baseball Kid 
+ Valkyrian Knight 
+ Tuner monsters 
+ Galaxy Serpent 
+ Luster Pendulum, the Dracoslayer 
+ Rose, Warrior of Revenge 
+ Tune Warrior 
+ Pendulum Monsters 
+ Igknight Gallant 
+ Igknight Cavalier 
+ Igknight Templar 
+ Igknight Crusader 
+ Igknight Squire 
+ Igknight Paladin 
+ Igknight Margrave 
+ Igknight Veteran 
+ Dragoons of Draconia 
+ Rescue Hamster 
+ Sea Dragoons of Draconia 
+ Sky Dragoons of Draconia Extra Deck   
+ Fusion Monsters 
+ Dinoster Power, the Mighty Dracoslayer 
+ Elemental HERO Nova Master 
+ First of the Dragons 
+ Synchro Monsters 
+ Azure-Eyes Silver Dragon 
+ Ignister Prominence, the Blasting Dracoslayer 
+ Metaphys Horus 
+ Xyz Monsters 
+ Hazy Flame Basiltrice 
+ " Heroic Champion " monsters 
+ Other  Rank 3  monsters 
+ Other  Rank 4  monsters 
+ Other  Rank 5  monsters 
+ Other  Rank 6  monsters 
+ Link Monsters 
+ Beyond the Pendulum 
+ Duelittle Chimera 
+ Isolde, Two Tales of the Noble Knights Spells   &  Traps   
+ Spells 
+ Ignition Phoenix 
+ Igknight Reload 
+ Igknights Unite 
+ Circle of the Fire Kings 
+ Dark Factory of Mass Production 
+ Faustian Bargain 
+ Fusion Substitute 
+ Heart of the Underdog 
+ Heat Wave 
+ Painful Decision 
+ Pendulum Paradox 
+ Pot of Riches 
+ Reinforcement of the Army 
+ Summoner's Art 
+ Supply Squad 
+ Terraforming 
+ Unexpected Dai 
+ Wavering Eyes 
+ Traps 
+ Igknight Burst 
+ Common Charity 
+ Echo Oscillation 
+ Jar of Greed 
+ Kickfire 
+ Legacy of Yata-Garasu 
+ Lose 1 Turn 
+ Reckless Greed 
+ Rivalry of Warlords 
+ Skill Drain 
+ Spiritual Fire Art - Kurenai 
+ Tyrant's Throes 
+ Official Konami Decklists 
+ The following Decklists may or may not contain copies of cards that exceed the maximum amount allowed by the current Forbidden & Limited List. These should not be changed, as these Decklists are copied verbatim at the time they were published.
+ 
+ 
+ Saikyo Jump Igknight Fiend-Dragon Deck [1] Monsters   
+ Normal Monsters 
+ Archfiend Soldier  x2 
+ Beast of Talwar 
+ Effect Monsters 
+ Axe Dragonute  x2 
+ D/D/D Dragon King Pendragon 
+ Fabled Ashenveil 
+ Goblin Elite Attack Force  x2 
+ Lancer Dragonute  x2 
+ Lancer Lindwurm  x2 
+ Mad Archfiend  x2 
+ Pendulum Monsters 
+ Igknight Gallant  x2 
+ Igknight Templar  x3 
+ Igknight Crusader  x3 
+ Igknight Margrave  x2 Spells   &  Traps   
+ Spells 
+ Axe of Despair 
+ Dark Hole 
+ Monster Reborn 
+ Mystical Space Typhoon  x2 
+ Rush Recklessly  x2 
+ Smashing Ground 
+ Traps 
+ Call of the Haunted  x2 
+ Dust Tornado  x2 
+ Magic Cylinder 
+ Mirror Force 
+ Negate Attack 
+ References 
+ 
+ 
+ ↑   YGOrganization  Saikyo Jump Igknight Fiend-Dragon Deck 
+ 
+ 
+   
+" Igknight " 「イグナイト」 Members 
+ Igknight Cavalier Igknight Champion Igknight Crusader Igknight Gallant Igknight Lancer Igknight Margrave Igknight Paladin Igknight Squire Igknight Templar Igknight Veteran Ignis Phoenix, the Dracoslayer 
+ Igknight Burst Igknight Reload Igknights Unite 
+ Support 
+ Igknight Cavalier Igknight Champion Igknight Crusader Igknight Gallant Igknight Lancer Igknight Margrave Igknight Paladin Igknight Squire Igknight Templar Igknight Veteran Ignis Phoenix, the Dracoslayer 
+ Igknight Burst Igknights Unite Ignition Phoenix 
+ Related 
+ Ignis Heat, the True Dracowarrior Ignister Prominence, the Blasting Dracoslayer Luster Pendulum, the Dracoslayer Master Pendulum, the Dracoslayer 
+ Bad Aim 
+ 
+ v e 
+ Igknight  イグナイト m   Members 
+ Igknight Champion Igknight Crusader Igknight Gallant Igknight Paladin Igknight Squire Igknight Templar 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/96/Igknight.png/revision/latest/scale-to-width-down/350?cb=20150623225341']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Pendulum Monster(s)

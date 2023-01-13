@@ -1,0 +1,30 @@
+Link: https://yugioh.fandom.com/wiki/Talk:OCG-only
+
+Fix This 
+ Why there's  two times "A Prayer to Gusta"?  —This unsigned comment was made by  °Crys  ( talk  •  contribs ) 11:44, 2 November 2010 (UTC) 
+ WHy there are some DREV Cards (Ex. Anti-magic Prism)?  —This unsigned comment was made by  °Crys  ( talk  •  contribs ) 11:46, 2 November 2010 (UTC) 
+ 
+ There's a glitch with an extension we use that causes some pages to appear multiple times in automatic lists. We're hoping it will get fixed in the next update. 
+ Some DREV cards are appearing here because their articles haven't been updated. This list considers any cards that have an "OCG sets" section and no "TCG sets" section to be OCG only. Since nobody updated the " Anti-Magic Prism " article yet to include its English, French, German, Italian or Spanish sets, it's still recognised as OCG only. --  Deltaneos  ( talk ) 11:54, November 2, 2010 (UTC) 
+ So, What could i do to eliminate cards like Prism from this List? °Crys  ( talk  •  contribs ) 12:17, November 2, 2010 (UTC)
+ 
+ error 
+ http://yugioh.wikia.com/wiki/Set_Card_Galleries:Duelist_Revolution_(TCG-EN-1E) 
+ ParallelSelectionDREV-EN-R-1E.jpg
+ This card isn't an  OCG Only  card.
+ I did it
+ 
+ 
+ A Few Mistakes 
+ First, Odin's Eye is not an OCG Only card.  Same thing for Nordic Relic Brisingamen.  If someone could please make these changes, that'd be great.  Thanks. -- Novafan365, master of scrap  ( talk  •  contribs ) 19:36, February 25, 2011 (UTC)
+ 
+ To change these, you can go to the page ( Odin's Eye ), and add in the TCG set. 
+ Once the set is in,  purge  the list (if it's on the same page) and it should be fixed. (you shouldn't need to purge it if you needed use the 'further results' button to get to it)  - Falzar FZ - ( talk page | useful stuff )  22:01, February 25, 2011 (UTC) 
+ " Aqua Jet ", " Blood Mefist ", " Cracking ", " Damage Vaccine Ω MAX ", " Overwind ", etc.-- Wasn't  ( talk  •  contribs ) 13:08, August 10, 2011 (UTC) 
+ Someone look at "OCG Only" section there's still some cards that shouldn't be there.--Wasn't 01:36, August 20, 2011 (UTC) 
+ The only one I see on the list is  Damage Vaccine Omega MAX ; which, from the name used, is a problem with the cache (no fixes but to leave it alone for the cache to catch up). The rest are fine and aren't on the list...  - Falzar FZ - ( talk page | useful stuff )  01:51, August 20, 2011 (UTC) 
+ There are others but those are Redirects.--Wasn't 19:44, August 20, 2011 (UTC) 
+ 
+ 
+ 
+Categories:

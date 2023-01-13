@@ -1,0 +1,335 @@
+Link: https://yugioh.fandom.com/wiki/Commander_of_Swords
+
+The  Arabic, Chinese, Croatian  and  Portuguese                     names given are not official.  
+ The  Chinese                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Commander of Swords 剣 の 采 配 
+ 
+ English 
+Commander of Swords 
+ Chinese 
+ 剑之采配 Check translation 
+ French 
+ Commandant des Épées Check translation 
+ German 
+ Kommandant der Schwerter Check translation 
+ Italian 
+ Comandante di Spade Check translation 
+ Korean 
+ 검의 지휘 Check translation 
+ Portuguese 
+ Comando da Espada Check translation 
+ Spanish 
+ Comandante de Espadas Check translation 
+ Japanese (kana) 
+ つるぎのさいはい Check translation 
+ Japanese (base) 
+ 剣の采配 Check translation 
+ Japanese ( rōmaji ) 
+Tsurugi no Saihai 
+ Japanese (translated) 
+Command of the Sword 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 12197543 
+ Card effect types 
+ 
+ 
+ Activation requirement 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When your opponent  draws  for their  normal draw  in their  Draw Phase : They  reveal  the card(s) they drew, then if any is a  Spell / Trap Card , you apply 1 of these  effects . ●  Discard  all cards they drew. ●  Destroy  1 Spell/Trap Card they  control . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Lorsque votre adversaire pioche pour sa pioche normale durant sa Draw Phase : il révèle les cartes qu'il pioche, puis s'il y une Carte Magie/Piège, vous appliquez 1 de ces effets. ● Défaussez toutes les cartes qu'il a piochées. ● Détruisez 1 Carte Magie/Piège qu'il contrôle. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wenn dein Gegner für sein normales Ziehen in seiner Draw Phase zieht: Er zeigt die gezogenen Karten vor und dann, falls er Zauber-/Fallenkarten gezogen hat, führst du 1 dieser Effekte aus. ● Er wirft alle Karten ab, die er gezogen hat. ● Zerstöre 1 Zauber-/Fallenkarte, die er kontrolliert. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando il tuo avversario  pesca  per la sua  normale pescata  durante la  Draw Phase : il tuo avversario  rivela  le carte che ha pescato, poi se almeno una è una  Carta Magia / Trappola , tu applichi 1 di questi  effetti . ● Fagli  scartare  tutte le carte che ha pescato. ●  Distruggi  1 Carta Magia/Trappola che  controlla . 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando tu adversario roba en su robo normal durante su Draw Phase: tu adversario muestra la o las cartas que robó, y si alguna es una Carta Mágica/de Trampa, aplica 1 de estos efectos. ● Descarta todas las cartas que robó. ● Destruye 1 Carta Mágica/de Trampa que controle. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 相手のドローフェイズ時に、相手が通常のドローをした時に発動できる。ドローしたカードをお互いに確認し、確認したカードが魔法・罠カードだった場合、以下の効果から１つを選択して適用する。 ●ドローしたカードを捨てる。 ●相手フィールド上の魔法・罠カード１枚を選んで破壊する。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 对方的抽卡阶段中，对方正常抽卡时可以发动此卡。双方确认抽到的卡，如果是魔法·陷阱卡时，选择以下效果中的一种使用： ●对方丢弃抽到的卡。 ●选择对方场上一张魔法·陷阱卡破坏掉。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 상대의 드로우 페이즈시에 상대가 일반 드로우를 했을 때 발동할 수 있다. 드로우한 카드를 서로 확인하고, 확인한 카드가 마법 / 함정 카드였을 경우, 이하의 효과에서 1개를 선택해서 적용한다. ●드로우한 카드를 버린다. ●상대 필드 위의 마법 / 함정 카드 1장을 선택하고 파괴한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2012-04-28  
+ GAOV-EN068   
+ Galactic Overlord 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-FR068   
+ Galactic Overlord 
+ Le Seigneur de la Galaxie  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-DE068   
+ Galactic Overlord 
+ Galactic Overlord  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-IT068   
+ Galactic Overlord 
+ Sovrano Galattico  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-SP068   
+ Galactic Overlord 
+ Señor Supremo Galáctico  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2012-02-18  
+ GAOV-JP068   
+ Galactic Overlord 
+ ＧＡＬＡＣＴＩＣ ＯＶＥＲＬＯＲＤ  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2012-05-21  
+ GAOV-KR068   
+ Galactic Overlord 
+ 갤럭틱 오버로드  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Actions  
+ Shows the opponent's drawn cards 
+ Your opponent discards 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your opponent's Spell Cards 
+ Destroys your opponent's Trap Cards 
+ 
+ Miscellaneous  
+ Variable effects 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 10091 ( ja  ( rulings )   en   fr   de   it   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Commander of Swords " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/2e/CommanderofSwords-GAOV-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20120429211715', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

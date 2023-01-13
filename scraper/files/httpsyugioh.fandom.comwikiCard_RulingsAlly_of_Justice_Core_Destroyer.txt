@@ -1,0 +1,52 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Ally_of_Justice_Core_Destroyer
+
+
+ Ally of Justice Core Destroyer 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Contents 
+ 
+ 1   TCG Rulings 
+ 2   OCG Rulings 
+ 3   See Also 
+ 4   References 
+ 
+ 
+ TCG Rulings 
+ This effect activates at the very start of the  Damage Step , before  face-down  monsters are flipped  face-up . [1] 
+ If  Ally of Justice Core Destroyer  battles  The Six Samurai - Zanji  that is equipped with  Spirit of the Six Samurai , the  Spirit of the Six Samurai  will be destroyed instead of  Zanji  and  damage calculation  will occur normally. [1] 
+ If  Ally of Justice Core Destroyer  is attacked while face-down or attacks a face-down monster, its effect will not  activate . [1] 
+ OCG Rulings 
+ If the effect of " Ally of Justice Core Destroyer " does not destroy the battling monster - for example, the monster is equipped with " Heavy Mech Support Platform " or " Spirit of the Six Samurai ", and the Equip Card is destroyed instead - then afterwards, you still perform  damage calculation . [2] 
+ The effect of " Ally of Justice Core Destroyer "  activates  at the beginning of the Damage Step, before monsters are flipped face-up. [3] [4] 
+ If " Ally of Justice Core Destroyer " attacks a face-down monster, then at the beginning of the Damage Step you cannot confirm the face-down monster's  Attribute , so the effect of " Ally of Justice Core Destroyer " does not  activate . [4] 
+ If a face-down " Ally of Justice Core Destroyer " is attacked by a  LIGHT  monster, then " Ally of Justice Core Destroyer " is face-down when its effect would  activate , so its effect to destroy the opponent's monster cannot be  activated . [4] 
+ If the opponent's monster is  face-down  when the effect of " Ally of Justice Core Destroyer " would  activate , then the opponent's monster cannot be destroyed by the effect of " Ally of Justice Core Destroyer ". [3] 
+ If " Ally of Justice Core Destroyer " attacks a face-up " D.D. Warrior Lady ", then " D.D. Warrior Lady " is destroyed by the effect of " Ally of Justice Core Destroyer " without performing  damage calculation .  Thus, the effect of " D.D. Warrior Lady " which activates after  damage calculation  cannot be activated. [5] 
+ See Also 
+ Card Rulings:Ally of Justice Catastor 
+ References 
+ 
+ ↑  1.0   1.1   1.2   Konami Gameplay FAQ : The Shining Darkness Sneak Peek -- Card Rulings (Version 1.0) 
+ 
+ ↑   Konami FAQ : If the effect of "Ally of Justice Core Destroyer" cannot destroy the battling monster, then do you perform damage calculation afterwards? 
+ 
+ ↑  3.0   3.1   Konami FAQ : Effect Monster > Ally of Justice Core Destroyer 
+ 
+ ↑  4.0   4.1   4.2   Konami FAQ : Can the effect of "Ally of Justice Core Destroyer" destroy a face-down monster? 
+ 
+ ↑   Konami FAQ : If "Ally of Justice Core Destroyer" and "D.D. Warrior Lady" battle, then can "D.D. Warrior Lady" remove from play? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

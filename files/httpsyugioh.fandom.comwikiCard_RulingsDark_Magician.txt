@@ -1,0 +1,91 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Dark_Magician
+
+
+ Dark Magician 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names Dungeon Dice Monsters  -  Dark Magician (Arkana)  -  Character 
+ Anime Anime Dungeon Dice Monsters Bandai Bandai Sealdass Konami's Yu-Gi-Oh! Duel Monsters Labyrinth Battle Game Manga Toei anime Yu-Gi-Oh! The Duelists of the Roses Yu-Gi-Oh! Forbidden Memories Yu-Gi-Oh! BAM Yu-Gi-Oh! Destiny Board Traveler Yu-Gi-Oh! Duel Monsters (video game) Yu-Gi-Oh! Duel Monsters II: Dark duel Stories Yu-Gi-Oh! Dungeon Dice Monsters Yu-Gi-Oh! Dungeon Dice Monsters (video game) 
+ 
+ Contents 
+ 
+ 1   OCG Rulings 
+ 2   Previously Official Rulings 
+ 
+ 2.1   Mentions in Other Rulings 
+ 
+ 
+ 3   References 
+ 
+ 
+ OCG Rulings 
+ Tributing  " Skilled Dark Magician " with three  Spell Counters  on it is a  cost  to activate its effect which Special Summons " Dark Magician ". [1] 
+ You cannot activate the effect of " Skilled Dark Magician " or " Skilled White Magician " if you have no " Dark Magician " or " Buster Blader " in your hand/Deck/Graveyard. [2] 
+ " Bottomless Trap Hole " only destroys and removes from play the monster(s) whose Summon(s) provided the correct timing for " Bottomless Trap Hole " to be activated. [3] 
+ Example: " Monster Reborn " is activated and  targets  " Dark Magician " (2500 ATK).  " Birthright " is  chained  and  targets  " Blue-Eyes White Dragon " (3000 ATK).  " Birthright " resolves first and Special Summons " Blue-Eyes White Dragon ", and then " Dark Magician " is Special Summoned as Chain Link 1.  If " Bottomless Trap Hole " is activated, then only " Dark Magician " is destroyed and removed from play because its Summon allowed " Bottomless Trap Hole  to be activated. [3] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [4]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [5] [6] [7] [8] [9] [10] [11] [12] [13] 
+ 
+ Mentions in Other Rulings 
+ A Hero Emerges : You can  Special Summon  a  high-level  monster, like " Dark Magician ", with " A Hero Emerges ". But if your opponent selects a  Special Summon-only monster  like " Dark Necrofear ", or a  Spirit  Monster, it is sent to the  Graveyard . 
+ Big Bang Shot : If you equip your " Big Bang Shot " to your opponent's " Dark Magician ", and " Dark Magician " attacks your " Giant Soldier of Stone ", the opponent of the owner of the " Big Bang Shot " takes the damage (so your opponent, who attacked with " Dark Magician ", takes 900 points of damage.) 
+ Chthonian Alliance : The monster equipped with this card does not count towards the bonus. So if you have 2 “ Dark Magicians ” on the field, and 1 is equipped with “ Chthonian Alliance ”, it has +800 ATK. 
+ Contract with the Abyss : " Contract with the Abyss " is used as a generic substitute for  Ritual Spell Cards  like " Black Illusion Ritual " and " Contract with the Dark Master ". You cannot use " Contract with the Abyss " to Ritual Summon a non- Ritual Monster  like " Dark Magician ". 
+ Cyber Blader : Example 1: The opponent controls “ Gemini Elf ” and “ Dark Magician ”. The opponent attacks with their “ Dark Magician ”, attacking “ Cyber Blader ”, whose ATK is currently doubled. The opponent activates “ Mystik Wok ” and Tributes their “ Gemini Elf ” to gain 1900 Life Points. “ Cyber Blader ” now has 2100 ATK points, so it does not destroy “ Dark Magician ”, but since the opponent has only 1 monster now, “ Cyber Blader ” is not destroyed as a result of battle, either. 
+ Dark Magic Attack : If you  activate  " Dark Magic Attack ", and the " Dark Magician " is removed from the  field  with " Interdimensional Matter Transporter " or " Compulsory Evacuation Device ", or  flipped   face-down  with " Book of Moon ", or  destroyed  by " Ring of Destruction ", " Dark Magic Attack's " effect still  resolves . 
+ Dark Magic Curtain : If you activate “ Dark Magic Curtain ” to Special Summon “ Dark Magician ” and later in the turn another effect would cause you to Special Summon a monster, you will not be able to Special Summon the monster. For example, your “ Insect Queen ” would not be able to Special Summon an “ Insect Monster Token ” during your  End Phase . 
+ Dark Magic Curtain : If you  Chain  “ Serial Spell ” to “ Dark Magic Curtain ”, the effect that prevents you from  Normal Summoning ,  Flip Summoning , or  Special Summoning  for the remainder of the turn is still applied. When “ Serial Spell ”  resolves  it will Special Summon 1 “ Dark Magician ” from your Deck and it will apply the Summon-restriction, so when “ Dark Magic Curtain's ” effect tries to  resolve  its effect will disappear because you cannot Special Summon a monster. 
+ Dedication through Light and Darkness : You can  Tribute  a  face-down  " Dark Magician " to  activate  " Dedication through Light and Darkness ". 
+ Double Attack : If you use “ Cost Down ” so that your “ Blue-Eyes White Dragon ” in your hand is Level 6, then you cannot discard it to activate “ Double Attack ” and target your Level 7 “ Dark Magician ” on the field. 
+ Metalsilver Armor : If you attack with " Dark Magician ", and you control another monster equipped with " Metalsilver Armor ", your opponent cannot activate " Magic Cylinder " because " Magic Cylinder " targets and only the monster equipped with " Metalsilver Armor " can be targeted (and it is not attacking). 
+ Pole Position : If you control " Dark Magician " and your opponent controls " Blue-Eyes White Dragon ", and you activate " Flint " targeting " Blue-Eyes White Dragon ", and your opponent chains " Pole Position ", then " Flint " is equipped meaninglessly to " Blue-Eyes White Dragon ". If " Blue-Eyes White Dragon " is destroyed, " Flint " can be equipped to " Dark Magician " meaninglessly if you choose (even if other monsters are on the field). 
+ Reasoning : You can  Special Summon  a high-level monster like " Dark Magician " with " Reasoning ", but not  Special Summon-only monsters  like " Gate Guardian ",  Ritual Monsters , etc. 
+ Serial Spell : If you activate " Monster Reborn ", and chain " Serial Spell ", discarding your entire hand, you can select and revive one of the monsters you discarded for the cost of " Serial Spell " to be the monster that " Serial Spell " Special Summons to the field. (For example, if you target " Dark Magician " with " Monster Reborn ", then chain " Serial Spell " and discard " Buster Blader ", you can use " Serial Spell " to Special Summon the " Buster Blader " you discarded to activate " Serial Spell ".) 
+ Skilled Dark Magician : This  monster's  effect does NOT  target  and you select the  monster  when you  resolve  the effect, so if you  Tribute  it to  Special Summon  " Dark Magician " from your  Graveyard  and your opponent  chains  " Disappear " and removes that " Dark Magician ", you can  Special Summon  a different " Dark Magician " from your  hand / Deck / Graveyard  instead. 
+ Skilled Dark Magician : If there are no " Dark Magician " in your hand, Deck, and Graveyard, you cannot activate " Skilled Dark Magician 's" effect that Special Summons " Dark Magician ". 
+ Skilled Dark Magician : If a player  controls  the opponent's " Skilled Dark Magician " and  Tribute  it with 3  Spell Counters , the player who  controlled  and  Tributed  the " Skilled Dark Magician " is the player who  Special Summons  " Dark Magician " from the  hand ,  Deck , or  Graveyard . 
+ Thousand Knives : The required card only needs to be  face-up  on the  field . It does not need to be a  Monster Card , so if " Dark Magician " is  equipped  to your " Relinquished ", you can  activate  " Thousand Knives ". 
+ Thunder Nyan Nyan : " Thunder Nyan Nyan " can be destroyed by her own effect between steps in a chain. For example, the opponent targets your " Thunder Nyan Nyan " with " Snatch Steal ". You chain " Call of the Haunted " to Special Summon " Dark Magician " from your Graveyard, a DARK monster. The chain resolves as follows: " Call of the Haunted " resolves, " Thunder Nyan Nyan " is destroyed because there is a DARK monster on the field, " Snatch Steal "’s effect disappears because the target is no longer on the field. 
+ 
+ 
+ 
+ References 
+ 
+ ↑   Konami FAQ : Effect Monster > Skilled Dark Magician 
+ 
+ ↑   Konami FAQ : Can the effect of "Skilled Dark Magician" be activated when there is no "Dark Magician" in your hand etc? 
+ 
+ ↑  3.0   3.1   Konami FAQ : If "Bottomless Trap Hole" is activated when multiple monsters are Special Summoned simultaneously, then are all monsters destroyed and removed from play? 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings, ((Navigation)) transclusions with "other" parameter

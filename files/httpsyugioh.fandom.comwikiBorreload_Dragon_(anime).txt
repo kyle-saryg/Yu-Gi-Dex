@@ -1,0 +1,192 @@
+Link: https://yugioh.fandom.com/wiki/Borreload_Dragon_(anime)
+
+Main card page: " Borreload Dragon " 
+ Borreload Dragon 
+ 
+ Japanese:   ヴァレルロード・ドラゴン 
+ Romaji:   Varerurōdo Doragon 
+ Translated:  Varrelload Dragon 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   DARK 
+ 
+ Link Arrows 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Left ,  Bottom-Left ,  Bottom-Right ,  Right 
+ Effect type
+ 
+ 
+ 
+ 
+ Continuous 
+ Quick 
+ Condition 
+ Trigger 
+ Material 
+ 
+ 
+ 
+ 3+  Effect Monsters 
+ 
+ [  Dragon  /  Link  /  Effect  ] 
+ 3+  Effect Monsters 
+ Neither player can  target  this card with  monster effects .  Once per turn  ( Quick Effect ): You can target 1  face-up   monster  on the  field ; it loses 500  ATK / DEF . Your opponent cannot  activate  cards or  effects  in  response  to this effect's activation. At the start of the  Damage Step , if this card  attacks  an opponent's monster: You can place that opponent's monster in a  zone  this card  points to  and take  control  of it, but  send  it to the  GY  during the  End Phase  of the next  turn .
+ ATK  /  3000     LINK  –  4   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  003 ,  009 ,  011 ,  012 ,  013 ,  014 ,  022 ,  029 ,  038 ,  044 ,  045 ,  046 ,  069 ,  070 ,  083 ,  096 ,  097 ,  098 ,  115 ,  116 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ヴァレルロード・ドラゴン 
+ 
+ 効果モンスター３体以上
+ 
+ ①：このカードはモンスターの効果の対象にならない。②：１ターンに１度、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力・守備力は５００ダウンする。この効果の発動に対して相手はカードの効果を発動できない。この効果は相手ターンでも発動できる。③：このカードが相手モンスターに攻撃するダメージステップ開始時に発動できる。その相手モンスターをこのカードのリンク先に置いてコントロールを得る。そのモンスターは次のターンのエンドフェイズに墓地へ送られる。 
+ 
+ 
+ Varerurōdo Doragon 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Varis 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Effect Monster 
+ 
+ Archetypes  and  series   
+ Borrel 
+ 
+ Related to  archetypes  and  series   
+ Rokket 
+ 
+ Actions  
+ Changes control 
+ Sends from your field to your Graveyard 
+ 
+ Stat changes  
+ Your monsters lose ATK 
+ Your monsters lose DEF 
+ Your opponent's monsters lose ATK 
+ Your opponent's monsters lose DEF 
+ 
+ Monster / Spell / Trap  categories  
+ Cannot be targeted by card effects 
+ Prevents responding to its activation 
+ 
+ Summoning  categories  
+ 3+ Link Materials 
+ Requires Effect Monsters as Link Materials 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ 
+   " Borreload Dragon " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+" Borrel " 「ヴァレル」 a   m   Members 
+ Borrel Buster Barrier Borrel Cooling Borrel Half Replace Borrel Regenerator Borrel Regenerator Borrel Ring Borrelguard Dragon Borreload Dragon Borreload Furious Dragon Borreload Savage Dragon Borreload eXcharge Dragon Borrelsword Dragon Miniborrel Dragon Quadborrel Dragon 
+ Support 
+ Borrel Buster Barrier Borrel Cooling Borrel Half Replace Borrel Ring Borreload eXcharge Dragon Miniborrel Dragon 
+ 
+ v e 
+" Rokket " 「ヴァレット」 a   r Members 
+ Anesthrokket Dragon Autorokket Dragon Magnarokket Dragon Metalrokket Dragon Rokket Recharger Rokket Synchron Shelrokket Dragon Silverrokket Dragon 
+ Support 
+ Absorouter Dragon Anesthrokket Dragon Autorokket Dragon Booster Dragon Boot Sector Launch Boot Sector Launch Borrel Cooling Borrel Half Replace Borrel Regenerator Borrel Regenerator Dillingerous Dragon Magnarokket Dragon Miniborrel Dragon Quadborrel Dragon Quick Launch Silverrokket Dragon Speedburst Dragon Squib Draw 
+ Related 
+ Borreload Dragon Borrelsword Dragon Chobham Armor Dragon Flash Charge Dragon Triggering Wurm 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/22/BorreloadDragon-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180926133126', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c4/BorreloadDragon-JP-Anime-VR-NC-2.png/revision/latest/scale-to-width-down/185?cb=20170726145424', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

@@ -1,0 +1,247 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Ancient_Gear_Knight
+
+
+ Ancient Gear Knight 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Yu-Gi-Oh! BAM 
+ 
+ Contents 
+ 
+ 1   Gemini monster Rulings 
+ 
+ 1.1   TCG Rulings 
+ 
+ 1.1.1   Mentions in Other Rulings 
+ 
+ 
+ 1.2   OCG Rulings 
+ 
+ 1.2.1   On Being Treated as a Normal Monster 
+ 1.2.2   On Gemini Summoning 
+ 1.2.3   On Negating the " Normal Monster " Effect 
+ 1.2.4   On " Remembering " Information After the Gemini Summon 
+ 1.2.5   On the Gained Effect 
+ 
+ 
+ 1.3   Previously Official Rulings 
+ 
+ 1.3.1   Judge List Rulings 
+ 1.3.2   Mentions in Other Rulings 
+ 
+ 
+ 1.4   Out of Date 
+ 1.5   Notes 
+ 
+ 
+ 2   References 
+ 
+ 
+ Gemini monster Rulings 
+ 
+ This card's  OCG  and  TCG  rulings contradict each other. 
+ 
+ Differences 
+ 
+In the OCG, "Majestic Star Dragon" cannot negate the effect of a Gemini monster being treated as a Normal Monster. It can in the TCG.     
+ TCG Rulings 
+ Mentions in Other Rulings 
+ Debris Dragon : If “ Debris Dragon ” Special Summons a  Gemini Monster , the Gemini Monster’s effect that makes it a Normal Monster is negated, so the Gemini Monster is considered an Effect Monster. 
+ Fiendish Chain : You cannot  target  a  Gemini monster  being treated as a  Normal Monster . 
+ Majestic Star Dragon : If you negate the effect of a  Gemini monster  that is being treated as a  Normal Monster , you cannot activate its effect. If you negated the effect of a  Gemini monster  after it's been  Normal Summoned  again, you cannot activate the negated effect because " Majestic Star Dragon " cannot be  Summoned  twice. 
+ Natural Tune : If a  Gemini Monster  is targeted by “ Natural Tune ” and becomes an  Effect Monster , it is still treated as a  Tuner . 
+ OCG Rulings 
+ On Being Treated as a Normal Monster 
+ The " This card is treated as a  Normal Monster  while  face-up  on the  field  or in the  Graveyard . " effect is not an  Ignition ,  Trigger ,  Quick  or  Continuous Effect . [1] [2] [3] 
+ When a  Gemini monster  which has been  Gemini Summoned  is sent to the Graveyard, it is treated as a  Normal Monster . [4] 
+ Amulet of Ambition : You can equip a Normal  Gemini monster  with " Amulet of Ambition ", but not an Effect  Gemini monster .  If the Normal  Gemini monster  is  Gemini Summoned , then " Amulet of Ambition " is destroyed. [5] 
+ Ceasefire : When " Ceasefire " is activated: [6] 
+ If the  Gemini monster  is face-down, it is flipped face-up, you inflict damage, and then the  Gemini monster 's effect applies and it is treated as a  Normal Monster .  Because of this, it counts as an Effect Monster, and contributes to the damage dealt. 
+ If the  Gemini monster  is face-up and a  Normal Monster , it does not contribute to the damage dealt.  Also, if the only monsters on the field are face-up Normal  Gemini monsters , you cannot activate " Ceasefire ". 
+ If the  Gemini monster  is face-up and an  Effect Monster , it contributes to the damage dealt. 
+ Fiendish Chain : You cannot  activate  " Fiendish Chain " by  targeting  a  Gemini monster  which is being treated as a  Normal Monster . [7] 
+ Hundred Eyes Dragon : " Hundred Eyes Dragon " may also gain the effects of  Fusion Monsters ,  Ritual Monsters ,  Synchro Monsters ,  Toon Monsters , and  Spirit monsters .  However, " Hundred Eyes Dragon " cannot remove from play a Normal Monster from the Graveyard, so you cannot  target  a  Gemini monster  in your Graveyard. [8] 
+ Majestic Star Dragon : You may not select a  Gemini monster  that is being treated as a  Normal Monster  as a  target  for the effect of " Majestic Star Dragon " which negates effects.  If " Majestic Star Dragon " negates the effect of a  Gemini monster  like " Gigaplant " or " Doom Shaman ", then the  Gemini monster  no longer has its effect which is listed by the "●", so therefore " Majestic Star Dragon " may not activate the  Gemini monster 's effect which is listed by the "●". [9] 
+ Neo-Spacian Dark Panther : If " Neo-Spacian Dark Panther " copies a  Gemini monster , he will be treated as a Normal Monster.  You will have to  Gemini Summon  him to get his effect. [10] 
+ Orichalcos Shunoros : " Orichalcos Shunoros " may be Special Summoned when a  Gemini monster  you control is destroyed by battle while it is being treated as a Normal Monster. [11] 
+ Thunder End Dragon : You can use  Gemini monsters  (like " Phoenix Gearfried ") that are treated as  Normal Monsters  as  Xyz Materials  for " Thunder End Dragon ". [12] 
+ On Gemini Summoning 
+ " While this card is a Normal Monster on the field, you can  Normal Summon  it to have it become an  Effect Monster  with this  effect . " is not treated as the effect of a monster. [1] [2] [3] 
+ When a Normal  Gemini monster  is face-up on the field in  Defense Position , when you  Gemini Summon  it, it remains face-up on the field in  Defense Position . [13] [14] [15] [1] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [2] [3] 
+ A  Gemini monster  does not leave the field when you Summon it again.  All Equip Cards will remain equipped to the Gemini monster after it is summoned to be treated as an Effect Monster. Effects such as " Premature Burial "'s destruction effect will still apply if " Premature Burial " is  destroyed , even if the monster has been summoned to be treated as an Effect Monster. [26] 
+ When a high-level  Gemini monster  is Summoned again, you do not have to offer Tributes again for the Normal Summon. [27] 
+ Summoning a  Gemini monster  again does not use a chain. [28] 
+ Normal Summoning a  Gemini monster  to have it treated as an Effect Monster is not a different type of  Summon  rule. It is an act where you  Normal Summon  the monster once again when it's face-up on the field. [28] 
+ Since it is a Normal Summon, you can activate cards like " Trap Hole " when a Gemini monster is Summoned again. [28] 
+ You can activate " Solemn Judgment " or " Horn of Heaven " against a  Gemini Summon  to negate the Summon and destroy the  Gemini monster .  Afterwards, the  Gemini monster  is not considered to be sent from the field to the Graveyard. [29] 
+ You cannot  Gemini Summon  a  Gemini monster  and then change its  Battle Position  during the same turn.  However, you can change its  Battle Position  and then  Gemini Summon  it. [30] 
+ You cannot  Gemini Summon  a  Gemini monster  which is already being treated as an Effect Monster. [31] 
+ If a  Gemini monster  already has the effect listed by the " ● ", then you cannot  Normal Summon  it again. [32] 
+ Heat Wave : While the effect of " Heat Wave " is applying, you can  Normal Summon  a  Gemini monster  on the field that is treated as a  Normal Monster . (It is treated as an  Effect Monster .) [33] 
+ Tualatin : If the effect of " Tualatin " is preventing you from  Normal Summoning , then you cannot  Normal Summon  a  Gemini monster  like " Chthonian Emperor Dragon " again to have it treated as an Effect Monster. [34] 
+ Ultimate Offering : You can use " Ultimate Offering " to  Gemini Summon  a  Gemini monster . [35] 
+ On Negating the " Normal Monster " Effect 
+ Dark Ruler Ha Des : When " Dark Ruler Ha Des " destroys a  Gemini monster , its effect is negated and it is treated as an  Effect Monster  while in the Graveyard. [36] 
+ Debris Dragon : If " Debris Dragon " Special Summons a  Gemini monster , then the " treated as a Normal Monster " effect of the  Gemini monster  is negated.  The  Gemini monster  is not treated as a Normal Monster, so you cannot  Normal Summon  it  a second time . [37] 
+ Skill Drain : Versus " Skill Drain ": [38] 
+ Normal  Gemini monsters  have their effects negated, and are treated as Effect Monsters.  They do not gain their effects that are gained when  Gemini Summoned .  You cannot  Gemini Summon  such a monster. 
+ Effect  Gemini monsters  have their effects negated.  When " Skill Drain " is removed, the  Gemini monster  is still treated as an Effect Monster and regains its effect. 
+ On " Remembering " Information After the Gemini Summon 
+ Call of the Haunted : If a  Gemini monster  is Summoned by " Call of the Haunted ", and you Summon it again so that it becomes an Effect Monster, it is still  targetted  by " Call of the Haunted ". [39] 
+ Koa'ki Meiru Tornado : After  a  Gemini monster  is Special Summoned by an effect like " Monster Reborn " and then is  Normal Summoned  a second time, the  Gemini monster  is still considered to have been  Special Summoned .  Thus, the effect of " Koa'ki Meiru Tornado " will still destroy the  Gemini monster . [40] 
+ Natural Tune : If " Natural Tune " targets a  Gemini monster  and afterwards the monster is  Normal Summoned  a second time and treated as an effect monster, then the  Gemini monster  is still treated as a  Tuner Monster .  Similarly, if an effect later makes the targeted monster Level 5 or higher, then the effect of " Natural Tune " is still applied and the monster is still treated as a  Tuner Monster . [41] 
+ Secrets of the Gallant : When " Secrets of the Gallant "  targets  a Normal  Gemini monster , and you  Gemini Summon  the monster, you still apply the effect of " Secrets of the Gallant ". [42] 
+ Silent Doom : " Silent Doom " will prevent a  Gemini monster  from attacking, even after it has been  Gemini Summoned . [43] 
+ On the Gained Effect 
+ If a  Gemini monster  activates an effect (like " Doom Shaman " activating his effect to Special Summon a monster) and the  Gemini monster  is removed from the field or flipped face-down, then the effect is not negated (unless the effect specifically requires the Gemini monster to remain face-up on the field). [44] 
+ When an Effect  Gemini monster  is flipped face-down, it is treated as a Normal Monster when it is flipped face-up.  You must  Gemini Summon  it again to get the effect. [45] 
+ Interdimensional Matter Transporter : When a  Gemini monster  is  removed from play  by " Interdimensional Matter Transporter ", when it returns, it is treated as a  Normal Monster  that has not been  Gemini Summoned . [46] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [47]  They were previously considered official, but may or may not necessarily hold true nowadays. 
+ 
+ Gemini monsters  all share the following text “This card is treated as a  Normal Monster  while face-up on the field or in the  Graveyard . While this card is face-up on the field, you can  Normal Summon  it to have it be treated as an  Effect Monster  with this effect:” This means that while face-up on the field or in the Graveyard, they are considered to be Normal Monsters for any card’s effect that references  Normal Monsters  or  Effect Monsters . [48] 
+ When you have a Gemini monster already face-up on the field, you may use your  Normal Summon  to turn on the effect of the Gemini monster, making it an  Effect Monster  on the field. This is treated the same as any other Normal Summon, so cards that may be activated in response to a  Normal Summon  may be activated now, such as “ Torrential Tribute ” or the effect of “ Mysterious Puppeteer ”. [48] 
+ If the Gemini monster you have on the field is  Level  5 or higher, you do NOT need to  Tribute  monsters again for this  Normal Summon . [48] 
+ You can use your standard, once-per-turn,  Normal Summon  or a  Normal Summon  granted by a card’s effect, such as “ Ultimate Offering ”. [48] 
+ Also note that when a card’s effect refers to Gemini monsters (without quotes), it does NOT mean cards with “Gemini” in the card name, such as “ Gemini Elf ” or “ Gemini Summoner ”. [48] 
+ Judge List Rulings 
+ Counters  on the Gemini Monster Card will remain on it after you  Normal Summon  it again.  Equip Cards  will also remain equipped. [49] 
+ The  Gemini Monster  Card remains on the field. It is not picked up or moved anywhere in the process of its second  Normal Summon . [49] 
+ Gemini Monsters  are treated as  Effect Monster  Cards while in a player's hand or Deck. [50] 
+ " Pulling the Rug " cannot be used to negate the second Normal Summon of a Gemini Monster, since the it does not begin a Chain. [51] 
+ Mentions in Other Rulings 
+ Black Garden : If you have a  Gemini Monster  on the field and you Normal Summon it to change it into an Effect Monster, " Black Garden 's" first effect activates. It will halve the Gemini Monster's ATK and Special Summon a " Rose Token " onto your opponent's side of the field. If the Gemini Monster's ATK had already been halved by " Black Garden " when it was previously Normal or Special Summoned, it is halved again. 
+ Debris Dragon : If " Debris Dragon "  Special Summons  a  Gemini Monster , the  Gemini Monster 's effect that makes it a  Normal Monster  is negated, so the  Gemini Monster  is considered an  Effect Monster . 
+ Gemini Trap Hole : When your opponent's  Gemini Monster  that is being treated as an  Effect Monster  is destroyed by battle, you can activate " Gemini Trap Hole ". 
+ Gemini Trap Hole : " Gemini Trap Hole " is activated at the end of the  Damage Step  when the destroyed  Gemini Monster  is sent to the  Graveyard . 
+ Natural Tune : If a  Gemini Monster  is  targeted  by “ Natural Tune ” and becomes an  Effect Monster , it is still treated as a  Tuner . 
+ Secrets of the Gallant : If “ Secrets of the Gallant ” selects a  Gemini Monster  that is being treated as a  Normal Monster  and the  Gemini Monster  is  Normal Summoned  to turn on its effects, the effect of “ Secrets of the Gallant ” is still applied when the  Gemini Monster  inflicts battle damage to the opponent’s  Life Points  that turn. 
+ Super Double Summon : The effect of returning the  Gemini Monster  to its owner’s hand during the  End Phase  does not begin a Chain. 
+ Super Double Summon : If the  Gemini Monster   Normal Summoned  by “ Super Double Summon ” is flipped face-down or removed from the field, the effect to return it to its owner’s hand during the  End Phase  is not applied. 
+ Super Double Summon : You can activate “ Super Double Summon ” and select a  Gemini Monster  that is having its effect negated by “ Skill Drain ”. The  Gemini Monster  will be treated as having been  Normal Summoned  while face-up on the field, but the effects it gains will be negated by “ Skill Drain ”. If “ Skill Drain ” is negated or removed from the field later in the turn, the selected  Gemini Monster ’s effects will be active and can be used. 
+ Unleash Your Power! :  Gemini Monsters  you control that are already being treated as  Effect Monsters  when you activate " Unleash Your Power! " are unaffected by " Unleash Your Power! " and are not  Set  during the  End Phase . 
+ Out of Date 
+ When you  Normal Summon  a Gemini monster that you already have on the field, if it now has an  Ignition Effect  you can activate it at that time, just like other monsters that have Ignition Effects (“ Exiled Force ”, etc.) [48] [Notes 1] 
+ 
+ Notes 
+ 
+ ↑   According to Konami's new  Fast Effect Timing  rulings for the TCG a player cannot activate the Ignition Effect of an Effect Monster after the successful Summon of their monster, which makes that Ruling invalid. 
+ 
+ 
+ References 
+ 
+ ↑  1.0   1.1   1.2   Konami OCG Card Database : Elemental HERO Neos Alius 
+ 
+ ↑  2.0   2.1   2.2   Konami OCG Card Database : Red-Eyes Black Flare Dragon 
+ 
+ ↑  3.0   3.1   3.2   Konami OCG Card Database : Red-Eyes Archfiend of Lightning 
+ 
+ ↑   Konami FAQ : When an Effect Gemini monster is sent to the Graveyard, is it still treated as an Effect Monster? 
+ 
+ ↑   Konami FAQ : Can you Equip "Amulet of Ambition" to a Normal Gemini monster? 
+ 
+ ↑   Konami FAQ : When a Gemini monster is on the field and "Ceasefire" is activated, how much damage do you inflict? 
+ 
+ ↑   Konami FAQ : Can "Fiendish Chain" be activated by targeting a Gemini monster which is being treated as a Normal Monster? 
+ 
+ ↑   Konami FAQ : What is "Hundred Eyes Dragon" treated as when a Toon Monster or a Synchro Monster, etc, is selected? 
+ 
+ ↑   Konami FAQ : Can "Majestic Star Dragon" activate a negated Gemini monster's effect which is listed by the "●"? 
+ 
+ ↑   Konami FAQ : When "Neo-Spacian Dark Panther" targets a Gemini monster, what happens? 
+ 
+ ↑   Konami FAQ : Can "Orichalcos Shunoros" be Special Summoned when a Gemini monster being treated as a Normal Monster is destroyed by battle? 
+ 
+ ↑   Konami OCG FAQ : Can you Xyz Summon "Thunder End Dragon" by using Gemini monsters treated as Normal Monsters as Materials? 
+ 
+ ↑   Konami OCG Card Database : Aquarian Alessa 
+ 
+ ↑   Konami OCG Card Database : Blazewing Butterfly 
+ 
+ ↑   Konami OCG Card Database : Dawnbreak Gardna 
+ 
+ ↑   Konami OCG Card Database : Evocator Chevalier 
+ 
+ ↑   Konami OCG Card Database : Future Samurai 
+ 
+ ↑   Konami OCG Card Database : Gemini Soldier 
+ 
+ ↑   Konami OCG Card Database : Goggle Golem 
+ 
+ ↑   Konami OCG Card Database : Grasschopper 
+ 
+ ↑   Konami OCG Card Database : Il Blud 
+ 
+ ↑   Konami OCG Card Database : Lucky Pied Piper 
+ 
+ ↑   Konami OCG Card Database : Phantom Dragonray Bronto 
+ 
+ ↑   Konami OCG Card Database : Phoenix Gearfried 
+ 
+ ↑   Konami OCG Card Database : Shadow Delver 
+ 
+ ↑   Konami FAQ : When a Gemini monster is Summoned again, does it leave the field? 
+ 
+ ↑   Konami FAQ : When a high-level Gemini monster is Summoned again, do you need to offer Tributes? 
+ 
+ ↑  28.0   28.1   28.2   Konami FAQ : Please explain the details of the Gemini monsters' effect which Normal Summons it again. 
+ 
+ ↑   Konami FAQ : Can the Gemini Summon of a Gemini monster be negated with "Horn of Heaven" or "Solemn Judgment"? 
+ 
+ ↑   Konami FAQ : After a Gemini monster is Summoned again, can you change its Battle Position? 
+ 
+ ↑   Konami FAQ : Can an Effect Gemini monster be Summoned again? 
+ 
+ ↑   Konami FAQ : Can a Gemini monster be Normal Summoned if it already has its effect? 
+ 
+ ↑   Konami OCG Card Database : While the effect of "Heat Wave" is being applied, can you Normal Summon a Gemini monster that is already on the field? 
+ 
+ ↑   Konami FAQ : Can you Gemini Summon a Gemini monster when an effect makes it impossible to Normal Summon? 
+ 
+ ↑   Konami FAQ : With "Ultimate Offering"' effect, can you Gemini Summon a Gemini monster? 
+ 
+ ↑   Konami FAQ : When "Dark Ruler Ha Des" destroys a Gemini monster, is it treated as a Normal Monster while in the Graveyard? 
+ 
+ ↑   Konami FAQ : Can you Normal Summon a Gemini monster again if its effect is negated? 
+ 
+ ↑   Konami FAQ : Is the effect of a Gemini monster negated by "Skill Drain"? 
+ 
+ ↑   Konami FAQ : When a Gemini monster which has been Special Summoned by "Call of the Haunted" gains its Effect, is it no longer targetted? 
+ 
+ ↑   Konami FAQ : Will the effect of "Koa'ki Meiru Tornado" destroy a monster which was Special Summoned and then Normal Summoned a second time? 
+ 
+ ↑   Konami FAQ : Is the monster targeted by "Natural Tune" still treated as a Tuner Monster when it is no longer a Normal Monster or when it becomes Level 5 or higher? 
+ 
+ ↑   Konami FAQ : Do you continue to apply the effect of "Secrets of the Gallant" after the targetted Gemini monster becomes an Effect Monster? 
+ 
+ ↑   Konami FAQ : For a Gemini monster Summoned by "Silent Doom", when it becomes an Effect Monster, can it attack? 
+ 
+ ↑   Konami FAQ : If you activate the effect of "Doom Shaman" or another Gemini monster, and the Gemini monster is not face-up on the field at resolution, do you apply the effect? 
+ 
+ ↑   Konami FAQ : When an Effect Gemini monster is flipped face-down, what happens? 
+ 
+ ↑   Konami FAQ : When a Gemini monster which is an Effect Monster is removed from play, what happens? 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑  48.0   48.1   48.2   48.3   48.4   48.5   UDE FAQ : Advanced Game Play [Gemini Monsters] 
+ 
+ ↑  49.0   49.1   UDE Judges' List : Gemini Monsters and the Gemini Summon/Re-Summon - Crystal Seer 
+ 
+ ↑   UDE Judges' List : Gemini Monsters - Status while in hand/Deck 
+ 
+ ↑   UDE Judges' List : Gemini & Pulling the Rug 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/ca/Emblem-contradict-blue.svg/revision/latest/scale-to-width-down/40?cb=20101025104631', 'https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings, Contradicting Rulings

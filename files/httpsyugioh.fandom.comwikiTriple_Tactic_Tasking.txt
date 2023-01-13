@@ -1,0 +1,90 @@
+Link: https://yugioh.fandom.com/wiki/Triple_Tactic_Tasking
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Triple Tactic Tasking 三 戦 の 号 
+ 
+ English 
+Triple Tactic Tasking 
+ Japanese (kana) 
+ さんせんのごう Check translation 
+ Japanese (base) 
+ 三戦の号 Check translation 
+ Japanese ( rōmaji ) 
+Sansen no Gō 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 35269904 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If your opponent has  activated  a  monster effect  this  turn :  Set  1  Normal Spell / Trap  directly from your  Deck , except "Triple Tactic Tasking" (it cannot be  activated  this turn), or, if your opponent  controls  a  monster , you can  add  that card to your  hand  instead. You can only activate 1 "Triple Tactic Tasking" per turn. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名のカードは１ターンに１枚しか発動できない。①：このターンに相手がモンスターの効果を発動している場合に発動できる。デッキから「三戦の号」以外の通常魔法・通常罠カード１枚を選んで自分フィールドにセットする。この効果でセットしたカードはこのターン発動できない。相手フィールドにモンスターが存在する場合、代わりに選んだカードを手札に加える事もできる。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-10-15 PHHY-JP069 Photon Hypernova ＰＨＯＴＯＮ ＨＹＰＥＲＮＯＶＡ Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Actions  
+ Sets from your Deck 
+ Adds from Deck to hand 
+ 
+ Monster / Spell / Trap  categories  
+ Prevents activation of your Spell Cards 
+ Prevents activation of your Trap Cards 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 18214 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/68/TripleTacticTasking-PHHY-JP-R.png/revision/latest/scale-to-width-down/300?cb=20221108001945', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

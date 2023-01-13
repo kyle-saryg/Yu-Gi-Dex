@@ -1,0 +1,68 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Ancient_Forest
+
+
+ Ancient Forest 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Manga 
+ 
+ Contents 
+ 
+ 1   TCG Rulings 
+ 
+ 1.1   Mentions in Other Rulings 
+ 
+ 
+ 2   OCG Rulings 
+ 3   References 
+ 
+ 
+ TCG Rulings 
+ The effect to change  Defense Position  monsters to face-up  Attack Position  happens when “ Ancient Forest ”  resolves . [1] 
+ If “ Mystical Space Typhoon ” is  Chained  to the activation of “ Ancient Forest ,” the  Defense Position  monsters are not changed to  Attack Position  because “ Ancient Forest ” is no longer face-up on the field. [1] 
+ If a player controls both “ Ancient Forest ” and a  Gladiator Beast  monster that has attacked, at the end of the  Battle Phase  he can choose which effect to activate and resolve first. [1] 
+ If “ Sasuke Samurai ” attacks a face-down monster and destroys it with its effect, it will still be destroyed at the end of the  Battle Phase . [1] 
+ If a monster’s attack is  negated  by “ Magic Cylinder ” it will not be destroyed at the end of the  Battle Phase . [1] 
+ If a monster attacks and is  removed from the field  [ sic ]  or ceases to be a monster before the end of the  Battle Phase , it will not be destroyed. [1] 
+ If a monster attacks while “ Ancient Forest ” is being negated, but before the end of the Battle Phase the effect negating “ Ancient Forest ” disappears, the monster that attacked will be destroyed. [1] 
+ If a monster attacks and is flipped face-down by “ Book of Moon ” it will still be destroyed. [1] 
+ The effect of “ Ancient Forest ” will only destroy a monster during the turn it attacked. [1] 
+ The effect to destroy monsters starts a  Chain . [1] 
+ If you activate “ Ancient Forest ” with the effect of “ Demise of the Land ” it will not change  Defense Position  monsters to face-up  Attack Position . [1] 
+ “ Ancient Forest ” will not change a monster to face-up Attack Position if it was not on the field in Defense Position when “ Ancient Forest ” was activated. [1] 
+ Mentions in Other Rulings 
+ Scrap Worm : If " Scrap Worm " attacks while " Ancient Forest " is active, you resolve the turn player’s effect first and then the opponent’s. If both are controlled by the same player, they can be resolved in any order. [2] 
+ OCG Rulings 
+ If a monster battles and is then flipped face-down, then the effect of " Ancient Forest " will still destroy it at the end of the  Battle Phase . [3] 
+ The effect " if a monster attacks, it is destroyed at the end of the  Battle Phase " of " Ancient Forest "  activates  and starts a  Chain . [4] 
+ When " Gladiator Beast Alexander " battles while " Ancient Forest " is active, both effects are to resolve at the end of the  Battle Phase , so the Turn Player can choose to resolve his effects first.  If the same player controls both " Gladiator Beast Alexander " and " Ancient Forest ", then the effects resolve in the order that the player chooses. [5] 
+ If a monster's attack is negated by an effect like " Magic Cylinder ", then the monster will not be destroyed by the effect of " Ancient Forest " at the end of the  Battle Phase . [6] 
+ The effect, " When this card is activated, if there are any Defense Position monsters on the field, then those monsters are changed to face-up Attack Position. " of " Ancient Forest " is not applied at  activation  - it is applied when  resolving  the effect, after the opponent has had the chance to  chain  to the effect.  If " Mystical Space Typhoon " is  chained  to the activation of " Ancient Forest ", then " Ancient Forest " is not face-up on the field when its effect is resolving as Chain Link 1, so the monsters are not changed to face-up Attack Position. [7] 
+ References 
+ 
+ ↑  1.00   1.01   1.02   1.03   1.04   1.05   1.06   1.07   1.08   1.09   1.10   1.11   Konami Gameplay FAQ : Ancient Prophecy – Card Rulings (version 1.0) 
+ 
+ ↑   Konami Gameplay FAQ : Storm of Ragnarok – Card Rulings (version 1.0) 
+ 
+ ↑   Konami FAQ : If a monster is flipped face-down after attacking, then is it destroyed by the effect of "Ancient Forest"? 
+ 
+ ↑   Konami FAQ : Does the effect of "Ancient Forest" which destroys a monster which attacked start a Chain? 
+ 
+ ↑   Konami FAQ : When a "Gladiator Beast" monster battles after "Ancient Forest" was activated, does either effect resolve? 
+ 
+ ↑   Konami FAQ : Is a monster whose attack was negated destroyed by "Ancient Forest"? 
+ 
+ ↑   Konami FAQ : At what time does the effect of "Ancient Forest" change the Battle Positions monsters to Attack Position? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

@@ -1,0 +1,420 @@
+Link: https://yugioh.fandom.com/wiki/RAM_Clouder
+
+
+ 
+ 
+ RAM Clouder ＲＡＭ クラウダー 
+ 
+ English 
+RAM Clouder 
+ French 
+ Nuageur RAM Check translation 
+ German 
+ RAM-Clouder Check translation 
+ Italian 
+ RAM Clouder Check translation 
+ Korean 
+ RAM  클라우더 Check translation 
+ Portuguese 
+ RAM Nuvler Check translation 
+ Spanish 
+ Nube RAM Check translation 
+ Japanese (kana) 
+ ラムクラウダー Check translation 
+ Japanese (base) 
+ ＲＡＭクラウダー Check translation 
+ Japanese ( rōmaji ) 
+Ramu Kuraudā 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Cyberse  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1800  /  1000 
+ Passcode 
+ 09190563 
+ Card effect types 
+ 
+ 
+ Ignition 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+You can  Tribute  1  monster , then  target  1  Cyberse  monster in your  GY ;  Special Summon  it. You can only use this  effect  of "RAM Clouder"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Vous pouvez Sacrifier 1 monstre, puis ciblez 1 monstre Cyberse dans votre Cimetière ; Invoquez-le Spécialement. Vous ne pouvez utiliser cet effet de "Nuageur RAM" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Du kannst 1 Monster als Tribut anbieten und dann 1 Cyberse-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Du kannst diesen Effekt von „RAM-Clouder“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Puoi offrire come Tributo 1 mostro, poi scegliere come bersaglio 1 mostro Cyberso nel tuo Cimitero; Evocalo Specialmente. Puoi utilizzare questo effetto di "RAM Clouder" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Você pode oferecer 1 monstro como Tributo e, depois, escolher 1 monstro Ciberso no seu Cemitério; Invoque-o por Invocação-Especial. Você só pode usar este efeito de "RAM Nuvler" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Puedes Sacrificar 1 monstruo, y después seleccionar 1 monstruo Ciberso en tu Cementerio; Invócalo de Modo Especial. Sólo puedes usar este efecto de "Nube RAM" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の効果は１ターンに１度しか使用できない。①：自分フィールドのモンスター１体をリリースし、自分の墓地のサイバース族モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ① : 자신 필드의 몬스터 1장을 릴리스하고, 자신 묘지의 사이버스족 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 특수 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2017-07-20  
+ YS17-EN003   
+ Starter Deck: Link Strike 
+ Super Rare 
+ 
+ 
+ 2018-07-12  
+ YS18-EN006   
+ Starter Deck: Codebreaker 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2017-07-20  
+ YS17-FR003   
+ Starter Deck: Link Strike 
+ Deck de Démarrage : L'Attaque du Lien  
+ Super Rare 
+ 
+ 
+ 2018-07-12  
+ YS18-FR006   
+ Starter Deck: Codebreaker 
+ Deck de Démarrage : Le Briseur de Code  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2017-07-20  
+ YS17-DE003   
+ Starter Deck: Link Strike 
+ Starter Deck: Link Strike  
+ Super Rare 
+ 
+ 
+ 2018-07-12  
+ YS18-DE006   
+ Starter Deck: Codebreaker 
+ Starter Deck: Codebreaker  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2017-07-20  
+ YS17-IT003   
+ Starter Deck: Link Strike 
+ Starter Deck: Attacco Link  
+ Super Rare 
+ 
+ 
+ 2018-07-12  
+ YS18-IT006   
+ Starter Deck: Codebreaker 
+ Starter Deck: Decifratore di Codici  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2017-08-22  
+ YS17-PT003   
+ Starter Deck: Link Strike 
+ Deck Inicial: Ataque Link  
+ Super Rare 
+ 
+ 
+ 2018-07-12  
+ YS18-PT006   
+ Starter Deck: Codebreaker 
+ Deck Inicial: Decifrador de Códigos  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2017-07-20  
+ YS17-SP003   
+ Starter Deck: Link Strike 
+ Baraja de Principante: Golpe de Enlace  
+ Super Rare 
+ 
+ 
+ 2018-07-12  
+ YS18-SP006   
+ Starter Deck: Codebreaker 
+ Baraja de Principiante: Descifrador de Códigos  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2017-03-25  
+ ST17-JP003   
+ Starter Deck 2017 
+ ＳＴＡＲＴＥＲ ＤＥＣＫ ２０１７  
+ Super Rare 
+ 
+ 
+ 2018-03-24  
+ ST18-JP007   
+ Starter Deck 2018 
+ ＳＴＡＲＴＥＲ ＤＥＣＫ ２０１８  
+ Common 
+ 
+ 
+ 2019-03-23  
+ ST19-JP012   
+ Starter Deck 2019 
+ ＳＴＡＲＴＥＲ ＤＥＣＫ ２０１９  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2017-07-06  
+ ST17-KR003   
+ Starter Deck 2017 
+ ＳＴＡＲＴＥＲ ＤＥＣＫ  ２０１７  
+ Super Rare 
+ 
+ 
+ 2018-07-13  
+ ST18-KR007   
+ Starter Deck 2018 
+ ＳＴＡＲＴＥＲ ＤＥＣＫ  ２０１８  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Cyberse 
+ 
+ Actions  
+ Tributes for cost 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 13031 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " RAM Clouder " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/4c/RAMClouder-YS18-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180712164639', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

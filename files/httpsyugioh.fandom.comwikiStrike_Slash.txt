@@ -1,0 +1,431 @@
+Link: https://yugioh.fandom.com/wiki/Strike_Slash
+
+The  Croatian  and  Greek                       names given are not official.  
+ 
+ 
+ 
+ 
+ 
+ Strike Slash ストライク・ショット 
+ 
+ English 
+Strike Slash 
+ French 
+ Rafale d'Attaque Check translation 
+ German 
+ Schlaghieb Check translation 
+ Italian 
+ Colpo di Taglio Check translation 
+ Korean 
+ 스트라이크 샷 Check translation 
+ Portuguese 
+ Golpe em Corte Check translation 
+ Spanish 
+ Golpe de Corte Check translation 
+ Japanese 
+ ストライク・ショット Check translation 
+ Japanese ( rōmaji ) 
+Sutoraiku Shotto 
+ Japanese (translated) 
+Strike Shot 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 30643162 
+ Card effect types 
+ 
+ 
+ Activation requirement 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When a  monster  you  control   declares  an  attack : Until the  End Phase , that monster gains 700  ATK , also, if it attacks a  Defense Position  monster, inflict  piercing   battle damage  to your opponent. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Lorsqu'un monstre que vous contrôlez déclare une attaque : jusqu'à la End Phase, le monstre gagne 700 ATK, et aussi, s'il attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wenn ein Monster, das du kontrollierst, einen Angriff deklariert: Bis zur End Phase erhält das Monster 700 ATK, zusätzlich, falls es ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando un mostro che controlli dichiara un attacco: fino alla End Phase, quel mostro guadagna 700 ATK, inoltre, se esso attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Quando um monstro que você controla declarar um ataque: até a Fase Final, esse monstro ganha 700 de ATK e, além disso, se ele atacar um monstro em Posição de Defesa, ele causa dano de batalha perfurante ao seu oponente. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando un monstruo que controlas declara un ataque: hasta la End Phase, ese monstruo gana 700 ATK y además, si ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 自分フィールド上に存在するモンスターの攻撃宣言時に発動する事ができる。そのモンスターの攻撃力はエンドフェイズ時まで７００ポイントアップする。そのモンスターが守備表示モンスターを攻撃した場合、その守備力を攻撃力が越えていれば、その数値だけ相手ライフに戦闘ダメージを与える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신 필드 위에 존재하는 몬스터의 공격 선언시에 발동할 수 있다.  그 몬스터의 공격력은 엔드 페이즈시까지 700 포인트 올린다.  그 몬스터가 수비 표시 몬스터를 공격했을 경우,  그 수비력을 공격력이 넘었으면,  그 수치만큼 상대 라이프에 전투 데미지를 준다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2007-08-15  
+ TAEV-EN075   
+ Tactical Evolution 
+ Common 
+ 
+ 
+ 2013-06-28  
+ BP02-EN189   
+ Battle Pack 2: War of the Giants 
+ Common 
+ 
+ 
+ 2013-06-28  
+ BP02-EN189   
+ Battle Pack 2: War of the Giants 
+ Mosaic Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2007-08-04  
+ TAEV-FR075   
+ Tactical Evolution 
+ Évolution Tactique  
+ Common 
+ 
+ 
+ 2013-06-27  
+ BP02-FR189   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: La Guerre des Géants  
+ Common 
+ 
+ 
+ 2013-06-27  
+ BP02-FR189   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: La Guerre des Géants  
+ Mosaic Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2007-08-15  
+ TAEV-DE075   
+ Tactical Evolution 
+ Tactical Evolution  
+ Common 
+ 
+ 
+ 2013-06-27  
+ BP02-DE189   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: War of the Giants  
+ Common 
+ 
+ 
+ 2013-06-27  
+ BP02-DE189   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: War of the Giants  
+ Mosaic Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2007-08-15  
+ TAEV-IT075   
+ Tactical Evolution 
+ Evoluzione Tattica  
+ Common 
+ 
+ 
+ 2013-06-27  
+ BP02-IT189   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: Guerra dei Giganti  
+ Common 
+ 
+ 
+ 2013-06-27  
+ BP02-IT189   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: Guerra dei Giganti  
+ Mosaic Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2013-06-28  
+ BP02-PT189   
+ Battle Pack 2: War of the Giants 
+ Pacote de Batalha 2: Guerra dos Gigantes  
+ Common 
+ 
+ 
+ 2013-06-28  
+ BP02-PT189   
+ Battle Pack 2: War of the Giants 
+ Pacote de Batalha 2: Guerra dos Gigantes  
+ Mosaic Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2007-08-15  
+ TAEV-SP075   
+ Tactical Evolution 
+ Evolución Táctica  
+ Common 
+ 
+ 
+ 2013-06-27  
+ BP02-SP189   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: Guerra de los Gigantes  
+ Common 
+ 
+ 
+ 2013-06-27  
+ BP02-SP189   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: Guerra de los Gigantes  
+ Mosaic Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2007-05-12  
+ TAEV-JP075   
+ Tactical Evolution 
+ ＴＡＣＴＩＣＡＬ ＥＶＯＬＵＴＩＯＮ  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2007-06-08  
+ TAEV-KR075   
+ Tactical Evolution 
+ 전술의 발전  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Online 
+ 
+ 
+ Pack 45 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Actions  
+ Activates upon attack declaration 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ 
+ Attack  categories  
+ Piercing 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 7231 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Online 2005-11-04 – – – – – Unlimited 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/74/StrikeSlash-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20130713180645', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

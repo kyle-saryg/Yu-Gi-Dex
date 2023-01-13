@@ -1,0 +1,101 @@
+Link: https://yugioh.fandom.com/wiki/Absurd_Stealer_(anime)
+
+Main card page: " Absurd Stealer " 
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Absurd Stealer 
+ 
+ Japanese:   アブサード・スティーラー 
+ Romaji:   Abusādo Sutīrā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   WIND 
+ 
+ Level 
+ 
+ 
+ 1   
+ 
+ [  Machine  /  Effect  ] When this card is  Summoned ,  select  1  face-up   monster  your opponent  controls . Until the  End Phase , that monster's  ATK  becomes 0, and this card's ATK becomes equal to that monster's  DEF .
+ ATK  /  100     DEF  /  0   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  077 ,  078 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ アブサード・スティーラー 
+ このカードの召喚に成功した時、相手フィールド上に存在するモンスター１体を選択して発動する。選択したモンスターの攻撃力を０にする。このターンのエンドフェイズ時まで、このカードの攻撃力は選択したモンスターの守備力と同じ数値になる。 
+ 
+ 
+ Abusādo Sutīrā 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Lester 
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ Reduces ATK to 0 
+ Changes own ATK value 
+ 
+ 
+ 
+   " Absurd Stealer " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/1/11/AbsurdStealer-JP-Anime-5D.png/revision/latest/scale-to-width-down/200?cb=20091004071932', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b3/AbsurdStealer-OW.png/revision/latest/scale-to-width-down/185?cb=20140101192158', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

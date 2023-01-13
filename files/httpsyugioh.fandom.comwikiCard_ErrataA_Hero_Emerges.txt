@@ -1,0 +1,49 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:A_Hero_Emerges
+
+
+ A Hero Emerges 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Yu-Gi-Oh! BAM 
+ 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ When  your opponent declares an attack , he/she randomly   selects  1 card from your hand. If it is a Monster Card, Special Summon it on your side of the field. If not, send it to the Graveyard. 
+ You can only activate this card   when  your opponent declares an attack .   Select  1  random  card from your hand. If it is a Monster Card, Special Summon it on your side of the field. If not, send it to the Graveyard. 
+ You can  only  activate this card  when your opponent declares an attack.  Your opponent   selects  1 random card from your hand. If it is a Monster Card, Special Summon it on your side of the field. If not, send it to the Graveyard. 
+ 
+ 
+       IOC-104 Invasion of Chaos     
+       DR2-EN105 Dark Revelation Volume 2     
+       DP1-EN025 Duelist Pack: Jaden Yuki     
+ 
+ 
+ Third erratum 
+ Fourth erratum Fifth erratum 
+ 
+ 
+ Activate  only  when   your  opponent declares an attack .  Your opponent  selects  1 random card from your hand .   If  it is a  Monster  Card , Special Summon it  on your side of the field .  If not , send it to the Graveyard. 
+ When  an  opponent 's monster  declares an attack :  Your opponent  chooses  1 random card from your hand , then   if  it is a  monster  that can be Special Summoned , Special Summon it.  Otherwise , send it to the  Graveyard . When an opponent's monster declares an attack: Your opponent chooses 1 random card from your hand, then if it is a monster that can be Special Summoned, Special Summon it. Otherwise, send it to the  GY . 
+ 
+ 
+         DT02-EN048 Duel Terminal 2     
+         BP02-EN179 Battle Pack 2: War of the Giants             SGX1-ENA19 Speed Duel GX: Duel Academy Box     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/71/AHeroEmerges-IOC-NA-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20081003214944', 'https://static.wikia.nocookie.net/yugioh/images/1/15/AHeroEmerges-DR2-EN-C-UE.png/revision/latest/scale-to-width-down/180?cb=20160613175136', 'https://static.wikia.nocookie.net/yugioh/images/3/35/AHeroEmerges-DP1-EN-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20081003214942', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/81/AHeroEmerges-DT02-EN-DNPR-DT.png/revision/latest/scale-to-width-down/180?cb=20160613175137', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/58/AHeroEmerges-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20130713174921', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c0/AHeroEmerges-SGX1-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20220410011457']
+Categories: Card Errata, Cards with 5 errata

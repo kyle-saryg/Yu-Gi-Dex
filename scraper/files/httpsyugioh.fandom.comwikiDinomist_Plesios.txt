@@ -1,0 +1,452 @@
+Link: https://yugioh.fandom.com/wiki/Dinomist_Plesios
+
+
+ 
+ 
+ Dinomist Plesios ダイナミスト・プレシオス 
+ 
+ English 
+Dinomist Plesios 
+ French 
+ Plésios Dinobrume Check translation 
+ German 
+ Dinonebel Plesios Check translation 
+ Italian 
+ Dinofoschia Plesius Check translation 
+ Korean 
+ 다이너미스트 프레시오스 Check translation 
+ Portuguese 
+ Dinonévoa Plesios Check translation 
+ Spanish 
+ Dinoniebla Plesios Check translation 
+ Japanese 
+ ダイナミスト・プレシオス Check translation 
+ Japanese ( rōmaji ) 
+Dainamisuto Pureshiosu 
+ Japanese (translated) 
+Dynamist Plesios 
+ Card type 
+ Monster   
+ Attribute 
+ WATER   
+ Types 
+ Machine  /  Pendulum  /  Effect 
+ Level 
+ 4   
+ Pendulum Scale 
+   6 
+ ATK  /  DEF 
+ 1700  /  1400 
+ Passcode 
+ 38988538 
+ Card effect types 
+ Pendulum Effect  
+ Continuous-like 
+ Monster Effect 
+ Continuous Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Pendulum Effect : Once, while this card is in your  Pendulum Zone , you can  negate  an  activated   card effect  that  targets  another " Dinomist " card(s) you  control , then  destroy  this card. Monster Effect : All  face-up   monsters  your opponent  controls  lose 100  ATK  and  DEF  for each " Dinomist " card you control. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Effet Pendule  
+ Une fois, tant que cette carte est dans votre Zone Pendule, vous pouvez annuler un effet de carte activé qui cible une ou plusieurs autres cartes "Dinobrume" que vous contrôlez, puis détruisez cette carte. 
+ Effet de Monstre  
+   Tous les monstres face recto contrôlés par votre adversaire perdent 100 ATK/DEF pour chaque carte "Dinobrume" que vous contrôlez. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Pendeleffekt 
+ Einmal, solange diese Karte in deiner Pendelzone liegt, kannst du einen aktivierten Karteneffekt annullieren, der eine oder mehr andere „Dinonebel“-Karten, die du kontrollierst, als Ziel wählt, dann zerstöre diese Karte. 
+ Monstereffekt 
+   Alle offenen Monster, die dein Gegner kontrolliert, verlieren 100 ATK und DEF für jede „Dinonebel“-Karte, die du kontrollierst. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Effetto Pendulum 
+ Una volta, mentre questa carta è nella tua Zona Pendulum, puoi annullare l'effetto attivato di una carta che sceglie come bersaglio una o più altre carte "Dinofoschia" che controlli, poi distruggi questa carta. 
+ Effetto Mostro 
+   Tutti i mostri scoperti controllati dal tuo avversario perdono 100 ATK e DEF per ogni carta "Dinofoschia" che controlli. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Efeito de Pêndulo 
+ Uma vez, enquanto este card estiver na sua  Zona de Pêndulo , você pode  negar  um  efeito de card   ativado  que  escolhe  como alvo outro(s) cards(s) " Dinonévoa " que você  controla  e, depois,  destrua  este card. 
+ Efeito de Monstro 
+   Todos os  monstros  com a  face para cima  que seu oponente  controla  perdem 100 de  ATK  e  DEF  para cada card " Dinonévoa " que você controla. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Efecto de Péndulo 
+ Una vez, mientras esta carta esté en tu Zona de Péndulo, puedes negar un efecto activado de carta que seleccione a otra u otras cartas "Dinoniebla" que controles, y después destruir esta carta. 
+ Efecto de Monstruo 
+   Todos los monstruos boca arriba que controle tu adversario pierden 100 ATK y DEF por cada carta "Dinoniebla" que controles. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Ｐ 効 果 
+ ①：このカードがＰゾーンに存在する限り１度だけ、このカード以外の自分フィールドの「ダイナミスト」カードを対象として発動した効果を無効にできる。その後、このカードを破壊する。 
+ モンスターの 効 果 
+   ①：このカードがモンスターゾーンに存在する限り、相手フィールドのモンスターの攻撃力・守備力は、自分フィールドの「ダイナミスト」カードの数×１００ダウンする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 펜듈럼 효과 
+ ① : 이 카드가 펜듈럼 존에 존재하는 한 1번만, 이 카드 이외의 자신 필드의 "다이너미스트" 카드를 대상으로 하고 발동한 효과를 무효화할 수 있다. 그 후, 이 카드를 파괴한다. 
+ 몬스터의 효과 
+   ① : 이 카드가 몬스터 존에 존재하는 한, 상대 필드의 몬스터의 공격력 / 수비력은, 자신 필드의 "다이너미스트" 카드의 수 × 100 내린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2016-01-14  
+ BOSH-EN025   
+ Breakers of Shadow 
+ Common 
+ 
+ 
+ 2016-09-01  
+ MP16-EN194   
+ 2016 Mega-Tin Mega Pack 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2016-01-14  
+ BOSH-FR025   
+ Breakers of Shadow 
+ Les Destructeurs de L'ombre  
+ Common 
+ 
+ 
+ 2016-09-01  
+ MP16-FR194   
+ 2016 Mega-Tin Mega Pack 
+ 2016 Méga-Boîte Méga-Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2016-01-14  
+ BOSH-DE025   
+ Breakers of Shadow 
+ Breakers of Shadow  
+ Common 
+ 
+ 
+ 2016-09-01  
+ MP16-DE194   
+ 2016 Mega-Tin Mega Pack 
+ 2016 Mega-Tin Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2016-01-14  
+ BOSH-IT025   
+ Breakers of Shadow 
+ Distruttori dell'Ombra  
+ Common 
+ 
+ 
+ 2016-09-01  
+ MP16-IT194   
+ 2016 Mega-Tin Mega Pack 
+ 2016 Mega-Tin Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2016-01-15  
+ BOSH-PT025   
+ Breakers of Shadow 
+ Destruidores das Sombras  
+ Common 
+ 
+ 
+ 2016-09-01  
+ MP16-PT194   
+ 2016 Mega-Tin Mega Pack 
+ Mega-Pacote da Mega-Latas 2016  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2016-01-14  
+ BOSH-SP025   
+ Breakers of Shadow 
+ Destructores de las Sombras  
+ Common 
+ 
+ 
+ 2016-09-01  
+ MP16-SP194   
+ 2016 Mega-Tin Mega Pack 
+ 2016 Mega-Lata Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2015-10-17  
+ BOSH-JP025   
+ Breakers of Shadow 
+ ブレイカーズ・オブ・シャドウ  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2016-02-16  
+ BOSH-KR025   
+ Breakers of Shadow 
+ 브레이커즈 오브 섀도우  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Dinomist 
+ 
+ Supports   archetypes   
+ Dinomist 
+ 
+ Related to  archetypes  and  series   
+ Dracoslayer 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ Your opponent's monsters lose DEF 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of Effect Monsters 
+ Negates the effects of Spell Cards 
+ Negates the effects of Trap Cards 
+ Destroys itself 
+ 
+ Miscellaneous  
+ Once while face-up on the field 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12133 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Dinomist Plesios " pages 
+ 
+ 
+ Manga 
+ 
+ 
+ 
+   
+" Dinomist " 「ダイナミスト」 Members 
+ Dinomight Powerload, the Dracoslayer Dinomist Ankylos Dinomist Brachion Dinomist Ceratops Dinomist Plesios Dinomist Pteran Dinomist Rex Dinomist Spinos Dinomist Stegosaur 
+ Dinomist Charge Dinomist Eruption Dinomist Rush Dinomists Howling 
+ Support 
+ Dinomight Powerload, the Dracoslayer Dinomist Ankylos Dinomist Brachion Dinomist Ceratops Dinomist Plesios Dinomist Pteran Dinomist Rex Dinomist Spinos Dinomist Stegosaur 
+ Dinomic Powerload Dinomist Charge Dinomist Eruption Dinomist Rush Dinomists Howling 
+ Related 
+ Dinomight Knight, the True Dracofighter Dinoster Power, the Mighty Dracoslayer Luster Pendulum, the Dracoslayer Master Pendulum, the Dracoslayer 
+ 
+   
+" Dracoslayer " 「 竜 剣 士 」 Members 
+ Dinomight Powerload, the Dracoslayer Dinoster Power, the Mighty Dracoslayer Ignis Phoenix, the Dracoslayer Ignister Prominence, the Blasting Dracoslayer Luster Pendulum, the Dracoslayer Majester Paladin, the Ascending Dracoslayer Majesty Pegasus, the Dracoslayer Master Peace, the True Dracoslayer Master Pendulum, the Dracoslayer 
+ Support 
+ Dinomight Powerload, the Dracoslayer Dinoster Power, the Mighty Dracoslayer Ignis Phoenix, the Dracoslayer Ignister Prominence, the Blasting Dracoslayer Luster Pendulum, the Dracoslayer Majester Paladin, the Ascending Dracoslayer Majesty Pegasus, the Dracoslayer Master Peace, the True Dracoslayer 
+ Draco Face-Off Dragonic Pendulum Forge of the True Dracos 
+ Related 
+ Dinomight Knight, the True Dracofighter Dinomist Plesios Dinomist Stegosaur Igknight Margrave Ignis Heat, the True Dracowarrior Majespecter Unicorn - Kirin Majesty Maiden, the True Dracocaster Master Peace, the True Dracoslaying King Vector Pendulum, the Dracoverlord 
+ Dinomic Powerload Ignition Phoenix Majesty's Pegasus 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/27/DinomistPlesios-MP16-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20160901213915', 'https://static.wikia.nocookie.net/yugioh/images/4/40/WATER.svg/revision/latest/scale-to-width-down/28?cb=20120918052107', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

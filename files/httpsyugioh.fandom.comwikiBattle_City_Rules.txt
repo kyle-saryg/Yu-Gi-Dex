@@ -1,0 +1,103 @@
+Link: https://yugioh.fandom.com/wiki/Battle_City_Rules
+
+The  Battle City Rules , known as the  Super Expert Rules  in the manga, were enforced by  Seto Kaiba  and  Mokuba Kaiba  during the second season of  Yu-Gi-Oh!  during the  Battle City  tournament. They are as follows:
+ 
+ Participants must have a ranking of at least five out of eight stars (manga and original anime) or level three out of five (English dub anime) to receive a free  Duel Disk , which is required to participate. 
+ Players must play with a  Deck  of at least forty cards, with at least one rare card in it. [1] 
+ Players begin with 4000  Life Points . 
+ Players can only have up to 6 cards in his or her  hand  unless the card " Infinite Cards " is in play on his/her side of the field. In the manga, the hand limit is 7. [2] 
+ Players have a maximum of five minutes to think during their turn. 
+ One  Normal Summon  is allowed per player per turn.  Monsters  can be Summoned in  face-up   Attack Position , face-up  Defense Position  or  face-down  Defense Position. 
+ Level  4 or below monsters can be Summoned during a Normal Summon. 
+ Level 5-6 monsters needed one  Tribute  in order to Normal Summon. 
+ Level 7-9 monsters required two Tributes to Normal Summon. 
+ Level 10+ monsters required three  Tributes  to normal summon (e.g " The Winged Dragon of Ra ", Level 10). 
+ When a  Fusion Monster  is Tributed, that monster is counted as a number of monsters equal to the number of  Fusion Material  Monsters that were used. [3] 
+ Fusion Monsters must wait one turn after they are  Summoned  before they can attack, though the " Quick Attack " card can be used to circumvent this. [4]  In the manga, any monster  Ritual Summoned  or  Special Summoned  from the Graveyard also cannot attack the turn it is Special Summoned. 
+ If a player has no monsters on their field, their opponent can  attack directly . 
+ Each player must  ante  at least their rarest card and a minimum of one Locator Card in their possession. The winner of the Duel obtains their opponent's rarest card and Locator Card, as wagered. 
+ The contents of either player's  Graveyards  are not public knowledge, and an opponent may not look through their opponent's Graveyard. 
+ If you have to  discard  cards from your hand or Deck, you do not have to show them to your opponent. 
+ You must stick to the tournament's list of  forbidden  and  limited  cards. Cards that directly damage [note 1]  players or monsters, such as " Raigeki " and " Hinotama " were forbidden. [5] [6]  Only one copy of " Monster Reborn " could be included in one's Deck. [7] 
+ Certain cards that enabled players to  Special Summon  one specific  Type  of monster(s) can affect both sides of the field (" Dark Magic Curtain " and " The Flute of Summoning Dragon ", for example). [8] [9] 
+ Players were not allowed to use two or more  Magic Cards  of the same name that increase a card's ATK points within the same turn. [10] 
+ The opponent can activate a card or card effect before the turn player draws a card during their Draw Phase. 
+ If a monster is offered as a Tribute by the effect of another card while being attacked by an opponent's monster, the enemy's attack is  negated . The Japanese version of the anime and manga calls this rule, "Sacrifice Escape". 
+ Replays  are not an established mechanic. While a direct attack is occurring because the attacked player controls no monsters, if the attacked player adds a monster to their side of the field, that monster intercepts the attack; if a monster is targeted for an attack, but it leaves the field before  damage calculation , the attack ends. 
+ Players can Set  Field Spell Cards  in their  Spell & Trap Card Zones  but when they activate them, they get moved to the  Field Zone . 
+ Field Spell Cards can be activated during the Battle Phase. 
+ A non-Quick Play Spell Card can be activated during the Battle Phase. 
+ A Set non-Quick Play Spell Card can be activated during your opponent's turn. 
+ When a Spell or Trap is destroyed by a card effect, it is negated even if the card that destroyed the Spell/Trap doesn't negate its effects. 
+ A monster that becomes an Equip Card is treated as both a monster and an Equip Card. 
+ Effects that require the player and the opponent to have cards in their hand can be activated even if one of the players has no cards in their hand. [11] 
+ Tokens  do not take up a  Monster Zone . 
+ When a Token is Summoned, it becomes the attack target instead. 
+ When a card is sent to the Graveyard, it is sent to the  controller's  Graveyard, not the  owner's . 
+ In the manga, players could only control up to 5 cards of any type at a time. 
+ In the manga, players have certain restrictions of activating and Setting Spell and Trap Cards.
+ One can activate only 1 Spell Card from their hand per turn. 
+ One can Set only 1 Spell Card per turn. 
+ One can Set only 1 Trap Card per turn. 
+ Notes 
+ 
+ ↑   In this context, "directly" seems to mean "without condition". e.g. cards with activation requirements such as  Nightmare Mirror  are permitted. 
+ 
+ 
+ References 
+ 
+ ↑   Yu-Gi-Oh!   episode 54: " Obelisk the Tormentor " 
+ 
+ ↑   Yu-Gi-Oh!   episode 66: " Mime Control, Part 2 " 
+ 
+ ↑   Yu-Gi-Oh!   episode 130: " Clash in the Coliseum - Part 2 " 
+ 
+ ↑   Yu-Gi-Oh!   episode 65: " Mime Control, Part 1 " 
+ 
+ ↑   Yu-Gi-Oh! Duelist  Duel 133: " The Unwanted Duel!! " 
+ 
+ ↑   Yu-Gi-Oh!   episode 75: " Friends 'Til the End, Part 1 " 
+ 
+ ↑   Yu-Gi-Oh!   episode 138: " The Final Face Off - Part 1 " 
+ 
+ ↑   Yu-Gi-Oh!   episode 62: " The Master of Magicians, Part 3 " 
+ 
+ ↑   Yu-Gi-Oh!   episode 133: " Clash in the Coliseum - Part 5 " 
+ 
+ ↑   Yu-Gi-Oh!   episode 58: " Espa Roba - The ESP Duelist, Part 1 " 
+ 
+ ↑   Yu-Gi-Oh!   episode 72: " Double Duel, Part 3 " 
+ 
+ 
+ v e 
+Anime and manga gameplay 
+ 
+ Yu-Gi-Oh!  (first series) 
+ Gameplay 
+ 
+ Yu-Gi-Oh!  (second series) 
+ Gameplay 
+ Duelist Kingdom  -  Battle City Virtual World  -  Waking the Dragons Pyramid of Light  -  Dawn of the Duel 
+ 
+ 
+ Yu-Gi-Oh! GX 
+ Gameplay 
+ 
+ 
+ Yu-Gi-Oh! 5D's 
+ Ground Duel 
+ Turbo Duel 
+ Duel Puzzle 
+ 
+ 
+ Yu-Gi-Oh! Zexal 
+ Duel Coaster 
+ 
+ 
+ Yu-Gi-Oh! Manga 
+ 
+ 
+ 
+ 
+ 
+Categories: Gameplay

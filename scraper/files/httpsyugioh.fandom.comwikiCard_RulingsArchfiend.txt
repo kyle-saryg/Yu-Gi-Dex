@@ -1,0 +1,64 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Archfiend
+
+The following rulings apply to " Vilepawn Archfiend ", " Desrook Archfiend ", " Shadowknight Archfiend ", " Darkbishop Archfiend ", " Infernalqueen Archfiend ", " Terrorking Archfiend ", and " Skull Archfiend of Lightning ".
+ 
+ Contents 
+ 
+ 1   OCG Rulings 
+ 2   Previously Official Rulings 
+ 
+ 2.1   Mentions in Other Rulings 
+ 
+ 
+ 3   References 
+ 
+ 
+ OCG Rulings 
+ If a monster like " Vilepawn Archfiend " [1]  or " Desrook Archfiend " [2]  is  targeted  by a card effect during the  Damage Step , then you still apply its effect and roll a die. [1] [2] 
+ Rolling a die does not start a  chain . [2] 
+ Paying Life Points is mandatory, not optional. [3] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [4]  They were previously considered official, but may or may not necessarily hold true nowadays. 
+ 
+ The following rulings apply to " Vilepawn Archfiend ", " Desrook Archfiend ", " Shadowknight Archfiend ", " Darkbishop Archfiend ", " Infernalqueen Archfiend ", " Terrorking Archfiend ", and " Skull Archfiend of Lightning ". [5] 
+ If you don't have enough Life Points to pay for an Archfiend, the Archfiend is destroyed and you don't pay the cost. [5] 
+ You roll a die for Archfiends when your opponent  resolves  an effect that targets the Archfiend, not when it is  activated . If the activation or effect of a card that targets your Archfiend is negated by some other card, then you do not roll a die for the Archfiend. [5] 
+ If your Archfiend is targeted by " Barrel Dragon ", roll a die for the Archfiend before flipping coins for " Barrel Dragon ". [5] 
+ Rolling a die for an Archfiend cannot be chained to since you are resolving an effect. [5] 
+ The effect of rolling a die for an Archfiend will be negated by " Skill Drain ". [5] 
+ You can roll a die for an Archfiend during the  Damage Step . [5] 
+ Mentions in Other Rulings 
+ See also  Card Rulings:Battle-Scarred  as all of its Rulings mention " Archfiends " 
+ Archfiend's Roar : The  Archfiend  that is  Special Summoned  by " Archfiend's Roar " is  destroyed  by " Archfiend's Roar "'s effect during the  End Phase . 
+ Archfiend's Roar : You can select a " Special Summon-only "  Archfiend  like " Fiend Skull Dragon " or " Toon Summoned Skull " with " Archfiend's Roar ", but only if they were  Summoned  properly earlier in the  Duel . 
+ Archfiend's Roar : When you remove an  Archfiend  from the field that was  Special Summoned  with " Archfiend's Roar ", using " Interdimensional Matter Transporter ", the effect is reset and it can be offered as a  Tribute , and will not be  destroyed  during the  End Phase . 
+ Dice Re-Roll : You can use a " Dice Re-Roll " to re-roll a die roll for an  Archfiend . 
+ Falling Down : If there are no  Archfiends  on your side of the field, " Falling Down " is destroyed immediately, even in the middle of a chain. 
+ Falling Down : The  Archfiend  you need for " Falling Down " doesn't have to be a monster. Cards like " Axe of Despair ", or an Archfiend monster equipped to your " Relinquished ", will prevent " Falling Down " from being destroyed. 
+ Falling Down : You can activate " Falling Down " when there are no Archfiends on your side of the field, but it is destroyed immediately before it is equipped to a monster. 
+ Interdimensional Matter Transporter : When an  Archfiend  is returned to the field with " Interdimensional Matter Transporter " after it was Special Summoned with " Archfiend's Roar ", it is not destroyed by " Archfiend's Roar "'s effect. 
+ Pandemonium : You can't use " Pandemonium " to add a  Fusion Monster   Archfiend  or  Synchro Monster  Archfiend from the  Extra Deck  to your  hand , like " Fiend Skull Dragon " or " Red Dragon Archfiend ". 
+ Pandemonium : If multiple  Archfiends  are destroyed at the same time by " Raigeki ", you can only add 1  Archfiend  from your  Deck  to your hand with " Pandemonium ". 
+ Pandemonium : When your  Archfiends  controlled by your opponent are sent to your  Graveyard , you can add an Archfiend from your Deck to your hand with " Pandemonium ". 
+ Skill Drain : While " Skill Drain " is active, " maintenance costs " are not negated (see the  Advanced Gameplay FAQ ) so you still have to pay for ...  Archfiends , etc. ... 
+ Skill Drain : Do not roll dice for  Archfiends  while " Skill Drain " is active. 
+ Skill Drain : Conditions for Summoning monsters is not negated by " Skill Drain ", so ... you cannot Normal Summon or Flip Summong  [ sic ]  " Terrorking Archfiend " if there are no  Archfiends  on the field. 
+ 
+ References 
+ 
+ ↑  1.0   1.1   Konami FAQ : [Damage Step] Is the die-rolling effect of "Vilepawn Archfiend" etc applied during the Damage Step? 
+ 
+ ↑  2.0   2.1   2.2   Konami FAQ : Effect Monster > Desrook Archfiend 
+ 
+ ↑   Konami FAQ : Effect Monster > Imprisoned Queen Archfiend 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑  5.0   5.1   5.2   5.3   5.4   5.5   5.6   UDE FAQ : Individual Card Rulings [A-C] [ARCHFIENDS] 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Group Rulings

@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Type3
+
+This manually defines a monster's third Type. It's used by Ratio pages. It has  String .
+ 
+ 
+ 
+ 
+Categories:

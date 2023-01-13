@@ -1,0 +1,279 @@
+Link: https://yugioh.fandom.com/wiki/Blaze_Cannon
+
+This article is about the  Quick-Play Spell Card . For the  Continuous Spell Card  whose Japanese name is "Blaze Cannon", see " Blaze Accelerator ". For the archetype whose Japanese name is "Blaze Cannon", see  "Blaze Accelerator" (archetype) .     
+ 
+ 
+ 
+ 
+ 
+ Blaze Cannon ゴッド・ブレイズ・キャノン 
+ 
+ English 
+Blaze Cannon 
+ French 
+ Canon de Flammes Check translation 
+ German 
+ Glutkanone Check translation 
+ Italian 
+ Cannone Fiammata Check translation 
+ Korean 
+ 갓 브레이즈 캐논 Check translation 
+ Portuguese 
+ Canhão de Explosão Check translation 
+ Spanish 
+ Cañón Llameante Check translation 
+ Japanese 
+ ゴッド・ブレイズ・キャノン Check translation 
+ Japanese ( rōmaji ) 
+Goddo Bureizu Kyanon 
+ Japanese (translated) 
+God Blaze Cannon 
+ Card type 
+ Spell   
+ Property 
+ Quick-Play   
+ Passcode 
+ 04059313 
+ Card effect types 
+ 
+ 
+ Condition 
+ Effect 
+ Condition 
+ Continuous-like 
+ Trigger-like 
+ Trigger-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+(This card is also always treated as a " Blaze Accelerator " card.) One " The Winged Dragon of Ra " you  control  gains the following  effects  until the end of this  turn . This card's  activation  and effect cannot be  negated . ● This card is  unaffected  by your opponent's card effects. ● When an  attack  is  declared  involving this card: You can  Tribute  any number of other  monsters  that did not declare an attack this turn; this card gains  ATK  equal to the Tributed monsters' combined  original ATK , until the end of this turn. ● After  damage calculation , if this card attacked: You can  send  all monsters your opponent controls to the  GY . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ (Cette carte est toujours aussi traitée comme une carte "Accélérateur de Flammes".) Jusqu'à la fin de ce tour, un "Le Dragon Ailé de Râ" que vous contrôlez gagne les effets suivants. L'activation et l'effet de cette carte ne peuvent être annulés. ● Cette carte n'est pas affectée par des effets de carte de votre adversaire. ● Lorsqu'une attaque impliquant cette carte est déclarée : vous pouvez Sacrifier un nombre de votre choix d'autres monstres qui n'ont pas déclaré d'attaque ce tour ; jusqu'à la fin de ce tour, cette carte gagne une ATK égale à la somme des ATK d'origine des monstres Sacrifiés. ● Après le calcul des dommages, si cette carte a attaqué : vous pouvez envoyer tous les monstres contrôlés par votre adversaire au Cimetière. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ (Diese Karte wird zusätzlich immer als „Glutbeschleuniger“-Karte behandelt.) Ein „Der geflügelte Drache von Ra“, den du kontrollierst, erhält bis zum Ende dieses Spielzugs die folgenden Effekte. Aktivierung und Effekt dieser Karte können nicht annulliert werden. ● Diese Karte bleibt von den Karteneffekten deines Gegners unberührt. ● Wenn ein Angriff deklariert wird, an dem diese Karte beteiligt ist: Du kannst eine beliebige Anzahl anderer Monster, die in diesem Spielzug keinen Angriff deklariert haben, als Tribut anbieten; diese Karte erhält bis zum Ende dieses Spielzugs ATK in Höhe der Summe der Grund-ATK der als Tribut angebotenen Monster. ● Nach der Schadensberechnung, falls diese Karte angegriffen hat: Du kannst alle Monster, die dein Gegner kontrolliert, auf den Friedhof legen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ (Questa carta viene anche sempre considerata come una carta "Acceleratore Fiammata".) Un "Drago Alato di Ra" che controlli guadagna i seguenti effetti fino alla fine di questo turno. L'attivazione e l'effetto di questa carta non possono essere annullati. ● Questa carta è immune agli effetti delle carte del tuo avversario. ● Quando viene dichiarato un attacco che coinvolge questa carta: puoi offrire come Tributo un qualsiasi numero di altri mostri che non hanno dichiarato un attacco in questo turno; questa carta guadagna ATK pari alla somma degli ATK originali dei mostri offerti come Tributo, fino alla fine di questo turno. ● Dopo il calcolo dei danni, se questa carta ha attaccato: puoi mandare al Cimitero tutti i mostri controllati dal tuo avversario. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ (Este card deve ser sempre considerado como um card "Acelerador de Explosão".) Um "O Dragão Alado de Rá" que você controla ganha os seguintes efeitos até o final deste turno. A ativação e efeito deste card não podem ser negados. ● Este card não é afetado pelos efeitos de card do seu oponente. ● Quando um ataque for declarado envolvendo este card: você pode oferecer como Tributo qualquer número de outros monstros que não declararam um ataque neste turno; até o final deste turno, este card ganha ATK igual ao ATK original combinado desses monstros oferecidos como Tributo. ● Depois do cálculo de dano, se este card atacou: você pode enviar para o Cemitério todos os monstros que seu oponente controla. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ (Esta carta también se trata siempre como una carta "Acelerador de Llama".) Hasta el final de este turno, un "El Dragón Alado de Ra" que controles gana los siguientes efectos. La activación y el efecto de esta carta no pueden ser negados. ● Esta carta no es afectada por los efectos de cartas de tu adversario. ● Cuando es declarado un ataque que involucre esta carta: puedes Sacrificar cualquier cantidad de otros monstruos que no declararon un ataque este turno; hasta el final de este turno esta carta gana ATK igual al ATK original combinado de los monstruos Sacrificados. ● Después del cálculo de daño, si esta carta atacó: puedes mandar al Cementerio todos los monstruos que controle tu adversario. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：自分フィールドの「ラーの翼神竜」１体を選ぶ。そのモンスターはターン終了時まで以下の効果を得る。このカードの発動と効果は無効化されない。●このカードは相手の効果を受けない。●このカードが戦闘を行う攻撃宣言時に、このターン攻撃宣言をしていない自分フィールドの他のモンスターを任意の数だけリリースして発動できる。このカードの攻撃力はターン終了時まで、リリースしたモンスターの元々の攻撃力の合計分アップする。●このカードが攻撃したダメージ計算後に発動できる。相手フィールドのモンスターを全て墓地へ送る。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 자신 필드의 "라의 익신룡" 1장을 고른다. 그 몬스터는 턴 종료시까지 이하의 효과를 얻는다. 이 카드의 발동과 효과는 무효화되지 않는다. ●이 카드는 상대 효과를 받지 않는다. ●이 카드가 전투를 실행하는 공격 선언시에, 이 턴에 공격 선언을 하고 있지 않은 자신 필드의 다른 몬스터를 임의의 수만큼 릴리스하여 발동할 수 있다. 이 카드의 공격력은 턴 종료시까지, 릴리스한 몬스터의 원래 공격력의 합계만큼 올린다. ●이 카드가 공격한 데미지 계산 후에 발동할 수 있다. 상대 필드의 몬스터를 전부 묘지로 보낸다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2020-09-24 LED7-EN005 Legendary Duelists: Rage of Ra Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2020-09-24 LED7-FR005 Legendary Duelists: Rage of Ra Duellistes Légendaires : La Rage de Râ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2020-09-24 LED7-DE005 Legendary Duelists: Rage of Ra Legendary Duelists: Rage of Ra Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2020-09-24 LED7-IT005 Legendary Duelists: Rage of Ra Duellanti Leggendari: Rabbia di Ra Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2020-09-24 LED7-PT005 Legendary Duelists: Rage of Ra Duelistas Lendários: Fúria de Rá Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2020-09-24 LED7-SP005 Legendary Duelists: Rage of Ra Duelistas Legendarios: Ira de Ra Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2020-05-30 DP24-JP005 Duelist Pack: Duelists of Gloom デュエリストパック －冥闇のデュエリスト編－ Super Rare 2020-05-30 DP24-JP005 Duelist Pack: Duelists of Gloom デュエリストパック －冥闇のデュエリスト編－ Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2020-08-21 DP24-KR005 Duelist Pack: Duelists of Gloom 듀얼리스트 팩 -명암의 듀얼리스트 편- Super Rare 2020-08-21 DP24-KR005 Duelist Pack: Duelists of Gloom 듀얼리스트 팩 -명암의 듀얼리스트 편- Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ The Winged Dragon of Ra 
+ 
+ Archetypes  and  series   
+ Blaze Accelerator  
+ Signature move 
+ 
+ Related to  archetypes  and  series   
+ The Winged Dragon of Ra  
+ Egyptian God 
+ 
+ Actions  
+ Grants effect to other cards 
+ Activation cannot be negated 
+ Effect that cannot be negated 
+ Activates upon attack declaration 
+ Tributes for cost 
+ Sends from your opponent's field to your opponent's Graveyard 
+ 
+ Stat changes  
+ This card gains ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Unaffected by the opponent's card effects 
+ 
+ Miscellaneous  
+ Requires control of specific card 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 15334 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Blaze Accelerator " 「ブレイズ・キャノン」 Members 
+ Blaze Accelerator Blaze Accelerator Reload Blaze Cannon Tri-Blaze Accelerator 
+ Support 
+ Volcanic Rocket Volcanic Scattershot 
+ Wild Fire 
+ Related 
+ Volcanic Doomfire 
+ 
+   
+ Egyptian God   三 幻 神 Members 
+ Holactie the Creator of Light Obelisk the Tormentor Obelisk the Tormentor Slifer the Sky Dragon Slifer the Sky Dragon The Winged Dragon of Ra The Winged Dragon of Ra The Winged Dragon of Ra - Immortal Phoenix The Winged Dragon of Ra - Sphere Mode 
+ Related 
+ Egyptian God Slime Gravekeeper's Oracle Guardian Slime Ra's Disciple Reactor Slime 
+ Ancient Chant Blaze Cannon The Breaking Ruin God Dark Spell Regeneration Divine Evolution Fist of Fate Magical Trick Mirror Millennium Revelation Monster Reborn Mound of the Bound Creator The Revived Sky God Soul Crossing Soul Energy MAX!!! Sun God Unification Thunderforce Attack Thunderspeed Summon The True Name The True Sun God Ultimate Divine-Beast 
+ 
+   
+ Signature move   必 殺 技 Members 
+ Ancient Gear Golem - Ultimate Pound Armityle the Chaos Phantasm - Phantom of Fury Cyber Slash Harpie Lady Firewall Dragon Darkfluid - Neo Tempest Terahertz Gandora Giga Rays the Dragon of Destruction Giltia the D. Knight - Soul Spear Harpie's Pet Dragon - Fearsome Fire Blast Kaiser Glider Golden Burst Meklord Emperor Wisel - Synchro Absorption Mystical Elf - White Lightning Number F0: Utopic Future Slash Raidraptor - Revolution Falcon - Air Raid Raviel, Lord of Phantasms - Shimmering Scraper 
+ Berserker Crush Blaze Cannon Burst Stream of Destruction Burst Stream of Destruction Cerulean Skyfire Chaos Scepter Blast Cosmic Flare Crimson Fire Cyber Energy Shock Dark Burning Attack Dark Burning Magic Dark Magic Attack Dark Magic Attack Decode Destruction Destruction Sword Flash Detonate Evolution Burst Evolution Result Burst Fist of Fate Fury of Kairyu-Shin Future Drive Hyper Blaze Inferno Fire Blast Inferno Fire Blast Light Wing Shield Magistery Alchemist Neutron Blast Obliterate!!! Photon Stream of Destruction Proton Blast Psychic Wave Rage of Kairyu-Shin Rainbow Refraction Rising Sun Slash Scrap Fist Silent Burning Silent Sword Slash Skydive Scorcher Soul Energy MAX!!! Spiral Flame Strike Spiral Spear Strike Super Strident Blaze Tachyon Transmigration Thunderforce Attack Torpedo Takedown Triangle Ecstasy Spark Vulcan Ignite Hyperdrive Wrath of Neos XYZ Hyper Cannon 
+ Related 
+ Ancient Gear Golem Armityle the Chaos Phantasm Barrel Dragon Blue-Eyes Ultimate Dragon Blue-Eyes White Dragon Blue-Eyes White Dragon Buster Blader Cyber Dragon Cyber End Dragon Cyber Harpie Lady Dark Magician Dark Magician Dark Magician Dark Magician Girl Dark Magician of Chaos Decode Talker Elemental HERO Electrum Elemental HERO Flame Wingman Elemental HERO Neos Exodia the Forbidden One Firewall Dragon Darkfluid Gaia The Fierce Knight Gaia the Dragon Champion Galaxy-Eyes Photon Dragon Gandora the Dragon of Destruction Giltia the D. Knight Hamon, Lord of Striking Thunder Harpie Lady Sisters Harpie's Pet Dragon Hyper Engine Vast Vulcan Jinzo Junk Warrior Kairyu-Shin Kaiser Glider Kuriboh Kuriboh Token Magician of Black Chaos Mystical Elf Number 39: Utopia Number F0: Utopic Future Number 107: Galaxy-Eyes Tachyon Dragon Odd-Eyes Pendulum Dragon Raidraptor - Revolution Falcon Rainbow Dark Dragon Rainbow Dragon Raviel, Lord of Phantasms Red Dragon Archfiend Red-Eyes Black Dragon Red-Eyes Black Dragon Silent Magician ... further results 
+ Magical Dimension Skyscraper 
+ 
+   
+ The Winged Dragon of Ra  ラーの 翼 神 竜 Members 
+ The Winged Dragon of Ra The Winged Dragon of Ra The Winged Dragon of Ra - Immortal Phoenix The Winged Dragon of Ra - Sphere Mode 
+ Related 
+ Guardian Slime Ra's Disciple Reactor Slime 
+ Ancient Chant Blaze Cannon Dark Spell Regeneration Millennium Revelation Monster Reborn Sun God Unification The True Sun God 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c1/BlazeCannon-LED7-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20200929190114', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/05/Quick-Play.svg/revision/latest/scale-to-width-down/28?cb=20120920115228']
+Categories: Duel Monsters cards, TCG cards, OCG cards

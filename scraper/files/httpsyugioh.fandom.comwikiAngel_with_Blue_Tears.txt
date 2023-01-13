@@ -1,0 +1,102 @@
+Link: https://yugioh.fandom.com/wiki/Angel_with_Blue_Tears
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Angel with Blue Tears 青 い 涙 の 天 使 
+ 
+ English 
+Angel with Blue Tears 
+ Korean 
+ 파란눈물의 천사 Check translation 
+ Japanese (kana) 
+ あおいなみだのてんし Check translation 
+ Japanese (base) 
+ 青い涙の天使 Check translation 
+ Japanese ( rōmaji ) 
+Aoi Namida no Tenshi 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 91706817 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Target  1  face-up   monster  on the  field ; its  controller 's opponent takes 200  damage  for each card in their  hand , then  negate  that monster's  effects  until the end of this  turn . If either player takes effect damage: You can  banish  this card from the  GY ;  Set  1  Normal Trap  from your hand or  Deck , and if you Set it from the hand, it can be  activated  this turn. You can only use 1 of these effects of "Angel with Blue Tears" per turn, and only  once that turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターのコントローラーから見て相手は、自身の手札の数×２００ダメージを受ける。その後、対象のモンスターの効果をターン終了時まで無効にする。②：自分または相手が効果ダメージを受けた場合、墓地のこのカードを除外して発動できる。手札・デッキから通常罠カード１枚を選んで自分フィールドにセットする。手札からセットした場合、そのカードはセットしたターンでも発動できる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 컨트롤러의 상대는, 자신 패의 수 × 200 데미지를 받는다. 그 후, 대상 몬스터의 효과를 턴 종료시까지 무효로 한다. ②: 자신 또는 상대가 효과 데미지를 받았을 경우, 묘지의 이 카드를 제외하고 발동할 수 있다. 패 / 덱에서 일반 함정 카드 1장을 고르고 자신 필드에 세트한다. 패에서 세트했을 경우, 그 카드는 세트한 턴에도 발동할 수 있다. 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-02-19 HC01-JP045 History Archive Collection ＨＩＳＴＯＲＹ ＡＲＣＨＩＶＥ ＣＯＬＬＥＣＴＩＯＮ Super Rare 2022-02-19 HC01-JP045 History Archive Collection ＨＩＳＴＯＲＹ ＡＲＣＨＩＶＥ ＣＯＬＬＥＣＴＩＯＮ Secret Rare 2022-02-19 HC01-JP045 History Archive Collection ＨＩＳＴＯＲＹ ＡＲＣＨＩＶＥ ＣＯＬＬＥＣＴＩＯＮ Ultimate Rare 2022-02-19 HC01-JP045 History Archive Collection ＨＩＳＴＯＲＹ ＡＲＣＨＩＶＥ ＣＯＬＬＥＣＴＩＯＮ Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2022-05-20 HC01-KR045 History Archive Collection HISTORY   ARCHIVE   COLLECTION Super Rare 2022-05-20 HC01-KR045 History Archive Collection HISTORY   ARCHIVE   COLLECTION Secret Rare 2022-05-20 HC01-KR045 History Archive Collection HISTORY   ARCHIVE   COLLECTION Ultimate Rare 2022-05-20 HC01-KR045 History Archive Collection HISTORY   ARCHIVE   COLLECTION Prismatic Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Miscellaneous  
+ Only 1 effect once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17264 ( ja  ( rulings )   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/2d/AngelwithBlueTears-HC01-JP-SR.png/revision/latest/scale-to-width-down/300?cb=20220222040913', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

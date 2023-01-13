@@ -1,0 +1,271 @@
+Link: https://yugioh.fandom.com/wiki/Skilled_Blue_Magician
+
+
+ The Japanese (OCG) version of this card is not a member of the " Magician "  archetype , because its Japanese name does not contain  「 魔 術 師 」 .   As its English name contains "Magician", it  may  be treated a member of the "Magician" archetype at a TCG event, subject to local rulings.     
+ 
+ 
+ 
+ 
+ 
+ Skilled Blue Magician 熟 練 の 青 魔 道 士 
+ 
+ English 
+Skilled Blue Magician 
+ French 
+ Magicien Bleu Expérimenté Check translation 
+ German 
+ Erfahrener Blauer Magier Check translation 
+ Italian 
+ Abile Mago Blu Check translation 
+ Korean 
+ 숙련된 청마도사 Check translation 
+ Portuguese 
+ Mago Azul Habilidoso Check translation 
+ Spanish 
+ Mago Azul Hábil Check translation 
+ Japanese (kana) 
+ じゅくれんのあおまどうし Check translation 
+ Japanese (base) 
+ 熟練の青魔道士 Check translation 
+ Japanese ( rōmaji ) 
+Jukuren no Aomadōshi 
+ Japanese (translated) 
+Skilled Blue Mage 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Spellcaster  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1800  /  1800 
+ Passcode 
+ 88901771 
+ Card effect types 
+ 
+ 
+ Continuous 
+ Ignition 
+ Ignition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Each time a  Spell Card  is  activated , place 1  Spell Counter  on this card when that Spell Card  resolves  (max. 3). You can  Tribute  this card with 3 Spell Counters on it;  Special Summon  1 " Gaia The Fierce Knight "  monster  from your  hand ,  Deck , or  Graveyard . You can  banish  this card from your  Graveyard , then  target  1 card you control that you can place a Spell Counter on; place 1 Spell Counter on it. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte (max. 3) lorsque la Carte Magie est résolue. Vous pouvez Sacrifier cette carte avec 3 Compteurs Magie sur elle ; Invoquez Spécialement 1 monstre " Gaïa le Chevalier Implacable " (" Aile Sombre Chevalier de Gaia " inclus) depuis votre main, Deck ou Cimetière. Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 carte que vous contrôlez sur laquelle vous pouvez placer un Compteur Magie ; placez 1 Compteur Magie sur elle. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege 1 Zauberzählmarke auf diese Karte, wenn die Zauberkarte aufgelöst wird (max. 3). Du kannst diese Karte mit 3 Zauberzählmarken darauf als Tribut anbieten; beschwöre 1 „Gaia, zorniger Ritter“-Monster oder „ Gaia, Ritter des Dunklen Windes “ als Spezialbeschwörung von deiner Hand, deinem Deck oder deinem Friedhof. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Karte wählen, die du kontrollierst und auf die du eine Zauberzählmarke legen kannst; lege 1 Zauberzählmarke darauf. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Ogni volta che viene attivata una Carta Magia, metti 1 Segnalino Magia su questa carta quando quella Carta Magia si risolve (massimo 3). Puoi offrire come Tributo questa carta con 3 Segnalini Magia su di essa; Evoca Specialmente 1 mostro "Gaia il Cavaliere" (compreso " Cavaliere Vento Oscuro di Gaia ", eccetto " Gaia il Cavaliere, la Forza della Terra ") dalla tua mano, Deck, o Cimitero. Puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 carta che controlli su cui puoi mettere un Segnalino Magia; metti 1 Segnalino Magia su di essa. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando esse Card de Magia resolver (máx. 3). Você pode oferecer como Tributo este card com 3 Marcadores de Magia sobre ele; Invoque por Invocação-Especial 1 monstro "Gaia, o Cavaleiro Impetuoso" ou " Gaia, o Cavaleiro do Vento Negro " da sua mão, Deck ou Cemitério. Você pode banir este card do seu Cemitério e, depois, escolher 1 card que você controla sobre o qual possa colocar Marcadores de Magia; coloque 1 Marcador de Magia sobre ele. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando se resuelve esa Carta Mágica (máx. 3). Puedes Sacrificar esta carta con 3 Contadores Mágicos en ella; Invoca de Modo Especial 1 monstruo " Gaia el Caballero Feroz " (o " Caballero del Viento Oscuro de Gaia ") en tu mano, Deck o Cementerio. Puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 carta que controles en la que puedas poner un Contador Mágico; pon 1 Contador Mágico en ella. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：このカードがモンスターゾーンに存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く（最大３つまで）。②：魔力カウンターが３つ置かれているこのカードをリリースして発動できる。自分の手札・デッキ・墓地から「暗黒騎士ガイア」モンスター１体を選んで特殊召喚する。③：自分メインフェイズに墓地のこのカードを除外し、自分フィールドの魔力カウンターを置く事ができるカード１枚を対象として発動できる。そのカードに魔力カウンターを１つ置く。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 이 카드가 몬스터 존에 존재하는 한, 자신 또는 상대가 마법 카드를 발동할 때마다, 이 카드에 마력 카운터를 1개 놓는다(최대 3개까지). ②: 마력 카운터가 3개 놓여 있는 이 카드를 릴리스하고 발동할 수 있다. 자신의 패 / 덱 / 묘지에서 "암흑기사 가이아" 몬스터 1장을 고르고 특수 소환한다. ③: 자신 메인 페이즈에 묘지의 이 카드를 제외하고, 자신 필드의 마력 카운터를 놓을 수 있는 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드에 마력 카운터를 1개 놓는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2015-01-15 SECE-EN032 Secrets of Eternity Super Rare 2015-02-26 SECE-ENS07 Secrets of Eternity Super Edition Super Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2015-01-15 SECE-FR032 Secrets of Eternity Les Secrets de L'Eternite Super Rare 2015-02-26 SECE-FRS07 Secrets of Eternity Super Edition Les Secrets de l’Eternité: Super Édition Super Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2015-01-15 SECE-DE032 Secrets of Eternity Secrets of Eternity Super Rare 2015-02-26 SECE-DES07 Secrets of Eternity Super Edition Secrets of Eternity Super Edition Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2015-01-15 SECE-IT032 Secrets of Eternity Segreti dell'Eternità Super Rare 2015-02-26 SECE-ITS07 Secrets of Eternity Super Edition Segreti dell'Eternità: Edizione Super Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2015-01-16 SECE-PT032 Secrets of Eternity Segredos da Eternidade Super Rare 2015-02-27 SECE-PTS07 Secrets of Eternity Super Edition Segredos da Eternidade: Super Edição Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2015-01-15 SECE-SP032 Secrets of Eternity Secretos de la Eternidad Super Rare 2015-02-26 SECE-SPS07 Secrets of Eternity Super Edition Secretos de la Eternidad: Edición Súper Super Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2014-11-15 SECE-JP032 Secrets of Eternity ザ・シークレット・オブ・エボリューション Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2015-02-13 SECE-KR032 Secrets of Eternity 더 시크릿 오브 에볼루션 Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Spell Card 
+ 
+ Anti-supports   
+ Spell Card 
+ 
+ Archetypes  and  series   
+ Skilled Magician 
+ 
+ Supports   archetypes   
+ Gaia The Fierce Knight  
+ 
+ Counters   
+ Spell Counter 
+ Places counters 
+ Places counters on itself 
+ 
+ Actions  
+ Activates from your Graveyard 
+ Tributes itself for cost 
+ 
+ Summoning  categories  
+ Special Summons from your hand 
+ Special Summons from your Deck 
+ Special Summons from your Graveyard 
+ 
+ Banished  categories  
+ Banishes itself from Graveyard for cost 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11552 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Gaia The Fierce Knight " 「 暗 黒 騎 士 ガイア」 Members 
+ Arisen Gaia the Fierce Knight Charging Gaia the Fierce Knight Gaia The Fierce Knight Gaia the Fierce Knight Origin Gaia the Magical Knight Lord Gaia the Fierce Knight Soldier Gaia The Fierce Knight Swift Gaia the Fierce Knight 
+ Support 
+ Artillery Catapult Turtle Black Luster Soldier - Super Soldier Envoy of Chaos Gaia the Magical Knight of Dragons Skilled Blue Magician Sky Galloping Gaia the Dragon Champion 
+ Beginning of Heaven and Earth Galloping Gaia Gateway to Chaos 
+ Related 
+ Curse of Dragon Curse of Dragon, the Cursed Dragon Curse of Dragon, the Magical Knight Dragon Curse of Dragonfire Dark Cavalry Dark Magician Dark Magician Dark Magician the Magical Knight of Dragons Gaia Dragon, the Thunder Charger Gaia Drake, the Universal Force Gaia Knight, the Force of Earth Gaia Saber, the Lightning Shadow Gaia the Dragon Champion Gaia, the Mid-Knight Sun Gaia, the Polar Knight 
+ Spiral Discharge Spiral Fusion Spiral Reborn Spiral Spear Strike 
+ 
+   
+ Skilled Magician   熟 練 Members 
+ Skilled Blue Magician Skilled Brown Magician Skilled Dark Magician Skilled Red Magician Skilled White Magician 
+ Related 
+ Buster Blader Dark Magician Dark Magician Gaia The Fierce Knight 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/a/a8/SkilledBlueMagician-SECE-EN-SR-LE.png/revision/latest/scale-to-width-down/300?cb=20150227173446', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

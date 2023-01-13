@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Page_type
+
+This property lists the type of each page, for high-level selection of pages by type in SMW queries when needed. It has type  string .
+ 
+ 
+ 
+ 
+Categories:

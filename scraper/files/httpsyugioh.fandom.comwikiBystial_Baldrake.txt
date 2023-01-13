@@ -1,0 +1,126 @@
+Link: https://yugioh.fandom.com/wiki/Bystial_Baldrake
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Bystial Baldrake 深淵の獣 バルドレイク 
+ 
+ English 
+Bystial Baldrake 
+ Japanese (kana) 
+ ビーステッドバルドレイク Check translation 
+ Japanese (base) 
+ 深淵の獣バルドレイク Check translation 
+ Japanese ( rōmaji ) 
+Bīsuteddo Barudoreiku 
+ Japanese (translated) 
+Byssted Baldrake 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Dragon  /  Effect 
+ Level 
+ 6   
+ ATK  /  DEF 
+ 2500  /  2000 
+ Passcode 
+ 72656408 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+You can target 1  LIGHT  or  DARK   monster  in either  GY ;  banish  it, and if you do,  Special Summon  this card from your  hand . This is a  Quick Effect  if your opponent  controls  a monster. If your opponent Special Summons a  Ritual ,  Fusion ,  Synchro ,  Xyz , and/or  Link Monster (s): You can  Tribute  1 other LIGHT or DARK monster, then target 1 of those  Summoned  monsters;  banish  it. You can only use each effect of "Bystial Baldrake" once per turn. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分または相手の墓地の、光・闇属性モンスター１体を対象として発動できる。そのモンスターを除外し、このカードを手札から特殊召喚する。相手フィールドにモンスターが存在する場合、この効果は相手ターンでも発動できる。②：相手が儀式・融合・ Ｓ ・ Ｘ ・リンクモンスターを特殊召喚した場合、このカード以外の自分フィールドの光・闇属性モンスター１体をリリースし、その特殊召喚されたモンスター１体を対象として発動できる。そのモンスターを除外する。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-10-15 PHHY-JP004 Photon Hypernova ＰＨＯＴＯＮ ＨＹＰＥＲＮＯＶＡ Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ LIGHT 
+ DARK 
+ 
+ Anti-supports   
+ LIGHT 
+ DARK 
+ Ritual Monster 
+ Fusion Monster 
+ Synchro Monster 
+ Xyz Monster 
+ Link Monster 
+ 
+ Archetypes  and  series   
+ Bystial 
+ 
+ Actions  
+ Tributes for cost 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ 
+ Banished  categories  
+ Banishes from Graveyard for cost 
+ Banishes from your opponent's Graveyard 
+ Banishes from your opponent's field 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 18149 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Bystial " 「ビーステッド」 Members 
+ The Bystial Alba Los Bystial Baldrake Bystial Druiswurm The Bystial Lubellion Bystial Magnamhut Bystial Saronir 
+ Support 
+ The Bystial Alba Los The Bystial Lubellion Bystial Saronir 
+ Branded Beast Branded Regained Inevitably Branded 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/2f/BystialBaldrake-PHHY-JP-C.png/revision/latest/scale-to-width-down/300?cb=20221107025459', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

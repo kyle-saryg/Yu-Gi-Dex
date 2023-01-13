@@ -1,0 +1,119 @@
+Link: https://yugioh.fandom.com/wiki/Ice_Fire_Egg
+
+
+ Ice Fire Egg 
+ 
+ Japanese:   氷炎の卵 
+ Kana:   オーバル・アイス・ファイヤー 
+ Romaji:   Ōbaru Aisu Faiyā 
+ Translated:  Oval Ice Fire 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ When this card is  destroyed :  Target  1  WATER   Xyz Monster  in your  Graveyard ;  Special Summon  that target in  face-up   Attack Position . Its  ATK  and  DEF  become 0, also it is treated as having a  Level  that is 1 higher than its  Rank .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  091 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ German 
+ Eis-Feuer Oval 
+ 
+ 
+ 
+ Italian 
+ Uovo di Fuoco e Ghiaccio 
+ 
+ 
+ 
+ Japanese 
+ 氷炎の卵 
+ このカードが破壊された時、自分の墓地から水属性モンスターエクシーズ１体を選択して表側攻撃表示で特殊召喚する。この効果で特殊召喚したモンスターエクシーズの攻撃力・守備力は０になり、そのランクよりも１つ高い数値のレベルを持つ。 
+ 
+ 
+ Ōbaru Aisu Faiyā 
+ 
+ 
+ Decks 
+ 
+ 
+ Rio Kastle 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ WATER 
+ Xyz Monster 
+ 
+ Actions  
+ Activates from your Graveyard 
+ 
+ Stat changes  
+ Reduces ATK to 0 
+ Reduces DEF to 0 
+ Gives Xyz Monsters Levels 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/28/IceFireEgg-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20130217160657', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

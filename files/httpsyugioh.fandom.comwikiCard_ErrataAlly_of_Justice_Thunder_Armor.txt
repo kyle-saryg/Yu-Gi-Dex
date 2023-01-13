@@ -1,0 +1,36 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Ally_of_Justice_Thunder_Armor
+
+
+ Ally of Justice Thunder Armor 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ This card cannot be Special Summoned.  While you control this face-up card, during  battle between an attacking "Ally of Justice" monster you control and a Defense Position monster whose DEF is lower than the ATK of the attacking monster, inflict the difference as Battle Damage to your opponent. 
+ This card  cannot  be Special Summoned.  During  battle between an attacking  "Ally of Justice" monster  you control and  a Defense Position monster  whose DEF is lower than the ATK of the attacking monster , inflict  the difference as   Battle Damage  to your opponent. 
+ Cannot  be Special Summoned.  If your  "Ally of Justice" monster  attacks  a Defense Position monster, inflict  piercing   battle damage  to your opponent. 
+ 
+ 
+       DT02-EN027 Duel Terminal 2     
+       HA02-EN021 Hidden Arsenal 2     
+       HAC1-EN083 Hidden Arsenal: Chapter 1     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/11/AllyofJusticeThunderArmor-DT02-EN-DRPR-DT.jpg/revision/latest/scale-to-width-down/180?cb=20121205025325', 'https://static.wikia.nocookie.net/yugioh/images/8/84/AllyofJusticeThunderArmor-HA02-EN-SR-1E.jpg/revision/latest/scale-to-width-down/180?cb=20100808010731', 'https://static.wikia.nocookie.net/yugioh/images/b/b0/AllyofJusticeThunderArmor-HAC1-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20220402034905']
+Categories: Card Errata, Cards with 2 errata

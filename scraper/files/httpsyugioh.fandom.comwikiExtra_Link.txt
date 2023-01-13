@@ -1,0 +1,588 @@
+Link: https://yugioh.fandom.com/wiki/Extra_Link
+
+
+ 
+ Extra Link
+ 
+ 
+ 
+ An Extra Link in which each player controls a monster in the Extra Monster Zone
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ ＥＸ リンク
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ エクストラリンク
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ ＥＸリンク
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Ekusutora Rinku
+ 
+ 
+ 
+ Japanese (translated)
+ 
+ 
+ Extra Link
+ 
+ 
+ 
+ English
+ 
+ 
+ Extra Link
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Lié Extra 
+ German : extragelinkt 
+ Italian : Extra Linkato 
+ Portuguese : Extra Linkado 
+ Spanish : Extra Enlazado 
+ Korean : 엑스트라 링크  Ekseuteura Ringkeu 
+ Simplified Chinese : 额外连接  Éwài Liánjiē 
+ 
+ 
+ An  Extra Link  (Japanese:  ＥＸ リンク,  Ekusutora Rinku ) is a series of  co-linked   Link Monsters  that connects one  Extra Monster Zone  to the other.
+ 
+ Contents 
+ 
+ 1   Mechanics 
+ 
+ 1.1   Controlling both Extra Monster Zones 
+ 
+ 
+ 2   Examples 
+ 3   List 
+ 
+ 3.1   OCG/TCG 
+ 3.2   Anime 
+ 
+ 
+ 4   Trivia 
+ 5   Notes 
+ 6   References 
+ 
+ 
+ Mechanics 
+ The  control  of the monsters, including the monsters in the Extra Monster Zones, does not matter in creating Extra Link, as long as they are "a series of Co-link connecting both Extra Monster Zones".
+ All  monsters  that make up the Extra Link, and any additional monsters co-linked with those monsters, are considered to be Extra Linked.
+ It is possible to create an Extra Link using fewer than five monsters by co-linking them diagonally, resulting in a "V" shaped Extra Link. [1] 
+ 
+ Controlling both Extra Monster Zones 
+ Normally, each player can only use an Extra Monster Zone at a time. But when both Extra Monster Zones have been bound together, a new monster can be summoned to the other! Extra Link!! 
+ —  Varis , regarding the advantage of Extra Link [2] 
+ 
+ Normally, a player can only use 1 Extra Monster Zone at a time. However, if a player would Summon a new Link Monster to an Extra Monster Zone, and the Summon would create an Extra Link even if the player has already controlled one, it is legal.
+ 
+ Examples 
+ Set-up for creating an Extra Link using the player's own monsters Extra Linking the player's own monsters to control both Extra Monster Zones Extra Linking the opponent's monsters to control both Extra Monster Zones 
+ List 
+ The following are the cards that mention Extra Linking in their  card text :
+ 
+ OCG/TCG 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Amatsu-Okami of the Divine Peaks 神峰之天津靇 Effect Monster Link Monster LIGHT Dragon 3000 Iron Knight of Revolution 革命の鉄騎士 Effect Monster Link Monster EARTH Machine 2400 Kaiser Eagle, the Heavens' Mandate 天元の荒鷲王 Effect Monster Link Monster LIGHT Winged Beast 3000 Noritoshi in Darkest Rainment 黒衣之詔刀師 Effect Monster Link Monster DARK Spellcaster 2500 Sanctity of Dragon ユニティ・オブ・ドラゴン Effect Monster Link Monster LIGHT Dragon 3000 Skyfaring Castle of the Black Forest 黒き森の航天閣 Effect Monster Link Monster WIND Rock 2400 Topologic Gumblar Dragon トポロジック・ガンブラー・ドラゴン Effect Monster Link Monster DARK Cyberse 3000 
+ Anime 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Topologic Gumblar Dragon トポロジック・ガンブラー・ドラゴン Link Monster DARK Cyberse 0 0 0 0 0 ??? 0 0 0 0 3000 
+   Japanese name Card type Property Zero Extra Link ゼロ・エクストラリンク Spell Card Continuous Spell Card 
+ Trivia 
+           
+ In the  anime , during a  Master Duel , when someone is able to use all 5 of their  Main Monster Zones  as well as the 2 Extra Monster Zones to create an Extra Link without having a  Link Arrow  point towards the opponent's field, it is referred as "Extra Link - Full Mode". 
+ Currently, no cards in the OCG or TCG  Advanced Format  that mention Extra Linking in their effects are playable. "Topologic Gumblar Dragon" is  Forbidden ; the rest are  Illegal   match winners . 
+ Notes 
+ 
+ 
+ References 
+ 
+ ↑   Advanced Link Monster Tactics: What Does “Extra Linked” Mean? 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 44: " Illusion of Hope " 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/cd/Set-up_for_Extra_Link.png/revision/latest/scale-to-width-down/185?cb=20170825042854', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f3/Extra_Link.png/revision/latest/scale-to-width-down/185?cb=20170825040740', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/db/Extra_Link_2.png/revision/latest/scale-to-width-down/185?cb=20170825042627', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/67/Extra_Link_-_Full_Mode.png/revision/latest/scale-to-width-down/180?cb=20190130152337']
+Categories: Gameplay

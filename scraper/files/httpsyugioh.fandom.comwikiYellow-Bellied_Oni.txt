@@ -1,0 +1,372 @@
+Link: https://yugioh.fandom.com/wiki/Yellow-Bellied_Oni
+
+The  Arabic  and  Croatian                       names given are not official.  
+ 
+ 
+ 
+ 
+ 
+ Yellow-Bellied Oni 黄 血 鬼 
+ 
+ English 
+Yellow-Bellied Oni 
+ French 
+ Oni au Ventre Jaune Check translation 
+ German 
+ Gelbbäuchiger Oni Check translation 
+ Italian 
+ Oni Ventre-Giallo Check translation 
+ Korean 
+ 황혈귀 Check translation 
+ Portuguese 
+ Oni Inchado Amarelo Check translation 
+ Spanish 
+ Oni de Vientre Amarillo Check translation 
+ Japanese (kana) 
+ おうけつき Check translation 
+ Japanese (base) 
+ 黄血鬼 Check translation 
+ Japanese ( rōmaji ) 
+Ōketsuki 
+ Japanese (translated) 
+Yellow-Blooded Oni 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Zombie  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1000  /  1000 
+ Passcode 
+ 53090623 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Ignition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When you  Xyz Summon  a  monster : You can  Special Summon  this card from your  hand . Once per  turn : You can  detach  1  Xyz Material  from a monster you  control , then  target  1  face-up   Xyz Monster  on the  field ; reduce its  Rank  by 1, and if you do, it loses 300  ATK . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Lorsque vous Invoquez par Xyz un monstre : vous pouvez Invoquer Spécialement cette carte depuis votre main. Une fois par tour : vous pouvez détacher 1 Matériel Xyz d'un monstre que vous contrôlez, puis ciblez 1 Monstre Xyz face recto sur le Terrain ; réduisez son Rang de 1, et si vous le faites, il perd 300 ATK. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wenn du ein Monster als Xyz-Beschwörung beschwörst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Einmal pro Spielzug: Du kannst 1 Xyz-Material von einem Monster abhängen, das du kontrollierst, und dann 1 offenes Xyz-Monster auf dem Spielfeld wählen; reduziere seinen Rang um 1 und falls du dies tust, verliert es 300 ATK. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando Evochi Xyz un mostro: puoi Evocare Specialmente questa carta dalla tua mano. Una volta per turno: puoi staccare 1 Materiale Xyz da un mostro che controlli, poi scegliere come bersaglio 1 Mostro Xyz scoperto sul Terreno; riduci il suo Rango di 1 e, se lo fai, esso perde 300 ATK. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Quando você Invocar um monstro por Invocação-Xyz: você pode Invocar este card por Invocação-Especial da sua mão. Uma vez por turno: você pode desassociar 1 Matéria Xyz de um monstro que você controla e, depois,  escolher 1 Monstro Xyz com a face para cima no campo; reduza sua Classe em 1 e, se isso acontecer, ele perde 300 de ATK. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando Invocas Xyz a un monstruo: puedes Invocar esta carta de Modo Especial desde tu mano. Una vez por turno: puedes desacoplar de un monstruo que controles 1 Material Xyz, y después seleccionar 1 Monstruo Xyz boca arriba en el Campo; reduce su Rango en 1 y, si lo haces, ese monstruo pierde 300 ATK. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 自分がエクシーズ召喚に成功した時、このカードを手札から特殊召喚できる。また、１ターンに１度、自分フィールド上のエクシーズ素材を１つ取り除き、フィールド上のエクシーズモンスター１体を選択して発動できる。選択したモンスターのランクを１つ下げ、攻撃力は３００ポイントダウンする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신이 엑시즈 소환에 성공했을 때, 이 카드를 패에서 특수 소환할 수 있다. 또한, 1턴에 1번, 자신 필드 위의 엑시즈 소재를 1개 제거하고, 필드 위의 엑시즈 몬스터 1장을 선택하여 발동할 수 있다. 선택한 몬스터의 랭크를 1개 내리고, 공격력은 300 포인트 내린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2013-11-08  
+ SHSP-EN033   
+ Shadow Specters 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2013-11-07  
+ SHSP-FR033   
+ Shadow Specters 
+ Spectres de l'Ombre  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2013-11-07  
+ SHSP-DE033   
+ Shadow Specters 
+ Shadow Specters  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2013-11-07  
+ SHSP-IT033   
+ Shadow Specters 
+ Spettri dell'Ombra  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2013-11-08  
+ SHSP-PT033   
+ Shadow Specters 
+ Espectros das Sombras  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2013-11-07  
+ SHSP-SP033   
+ Shadow Specters 
+ Espectros de las Sombras  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2013-07-20  
+ SHSP-JP033   
+ Shadow Specters 
+ ＳＨＡＤＯＷ　ＳＰＥＣＴＥＲＳ  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2013-10-28  
+ SHSP-KR033   
+ Shadow Specters 
+ 섀도우 스펙터즈  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Xyz Monster 
+ 
+ Anti-supports   
+ Xyz Monster 
+ 
+ Archetypes  and  series   
+ Oni 
+ 
+ Actions  
+ Activates upon Xyz Summon 
+ Detaches Xyz Materials for cost 
+ 
+ Stat changes  
+ Your monsters lose Ranks 
+ Your opponent's monsters lose Ranks 
+ Your monsters lose ATK 
+ Your opponent's monsters lose ATK 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 10764 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Oni  精神 Members 
+ Blue-Blooded Oni Red-Headed Oni Yellow-Bellied Oni 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d5/YellowBelliedOni-SHSP-EN-C-UE.png/revision/latest/scale-to-width-down/300?cb=20140321191754', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,115 @@
+Link: https://yugioh.fandom.com/wiki/Prime_Planet_Paraisos
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Prime Planet Paraisos 六 世 壊 ＝パライゾス 
+ 
+ English 
+Prime Planet Paraisos 
+ Japanese (kana) 
+ むせかい＝パライゾス Check translation 
+ Japanese (base) 
+ 六世壊＝パライゾス Check translation 
+ Japanese ( rōmaji ) 
+Musekai = Paraizosu 
+ Japanese (translated) 
+The Sixth World = Paraisos 
+ Card type 
+ Spell   
+ Property 
+ Field   
+ Passcode 
+ 71832012 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When this card  resolves , you can  add  1 " Kashtira "  monster  from your  Deck  to your  hand . Monsters you  control  gain 100  ATK / DEF  for each different  Attribute  among monsters on the  field . If " Kashtira Shangri-Ira " you control  activates  its  effect : You can  target  1 card on the field;  destroy  it. You can only use this effect of "Prime Planet Paraisos"  once per turn . You can only activate 1 "Prime Planet Paraisos" per  turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名のカードは１ターンに１枚しか発動できず、このカード名の③の効果は１ターンに１度しか使用できない。①：このカードの発動時の効果処理として、デッキから「クシャトリラ」モンスター１体を手札に加える事ができる。②：自分フィールドのモンスターの攻撃力・守備力は、フィールドのモンスターの属性の種類×１００アップする。③：自分フィールドの「クシャトリラ・シャングリラ」が効果を発動した場合、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-10-15 PHHY-JP059 Photon Hypernova ＰＨＯＴＯＮ ＨＹＰＥＲＮＯＶＡ Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Kashtira Shangri-Ira 
+ 
+ Supports   archetypes   
+ Kashtira 
+ 
+ Actions  
+ Adds from Deck to hand 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ Your monsters gain DEF 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys Monster Cards 
+ Destroys Spell Cards 
+ Destroys Trap Cards 
+ 
+ Miscellaneous  
+ Only once per turn 
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 18204 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Kashtira " 「クシャトリラ」 Members 
+ Kashtira Arise-Heart Kashtira Fenrir Kashtira Ogre Kashtira Riseheart Kashtira Shangri-Ira Kashtira Unicorn Scareclaw Kashtira Tearlaments Kashtira 
+ Kashtira Big Bang Kashtira Birth Kashtira Overlap Kashtira Papiyas Kashtira Preparations 
+ Support 
+ Kashtira Arise-Heart Kashtira Fenrir Kashtira Ogre Kashtira Riseheart Kashtira Shangri-Ira Kashtira Unicorn Scareclaw Kashtira Tearlaments Kashtira 
+ Kashtira Big Bang Kashtira Birth Kashtira Overlap Kashtira Papiyas Kashtira Preparations Prime Planet Paraisos 
+ Related 
+ Visas Starfrost 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/ae/PrimePlanetParaisos-PHHY-JP-R.png/revision/latest/scale-to-width-down/300?cb=20221107235555', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/1/14/Field.svg/revision/latest/scale-to-width-down/28?cb=20120920120155']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

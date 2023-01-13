@@ -1,0 +1,291 @@
+Link: https://yugioh.fandom.com/wiki/Silent_Paladin
+
+
+ 
+ 
+ Silent Paladin 沈 黙 の 魔 導 剣 士 －サイレント・パラディン 
+ 
+ English 
+Silent Paladin 
+ French 
+ Paladin Silencieux Check translation 
+ German 
+ Schweigsamer Paladin Check translation 
+ Italian 
+ Paladina Silente Check translation 
+ Korean 
+ 침묵의 마도검사－사일런트 파라딘 Check translation 
+ Portuguese 
+ Paladino Silencioso Check translation 
+ Spanish 
+ Paladín Silencioso Check translation 
+ Japanese (kana) 
+ ちんもくのまどうけんし－サイレント・パラディン Check translation 
+ Japanese (base) 
+ 沈黙の魔導剣士－サイレント・パラディン Check translation 
+ Japanese ( rōmaji ) 
+Chinmoku no Madōkenshi - Sairento Paradin 
+ Japanese (translated) 
+Silent Magical Swordsman - Silent Paladin 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Fairy  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 500  /  1500 
+ Passcode 
+ 19502505 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Quick 
+ Condition 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When this card is  Normal Summoned : You can  add  1 " Silent Swordsman LV3 " or " Silent Magician LV4 " from your  Deck  to your  hand . During either player's  turn , when a  Spell Card  is  activated  that  targets  exactly 1  monster  you  control  (and no other cards): You can  negate  the  activation . This  effect  can only be used once while this card is  face-up  on the  field . If this card is  destroyed by battle , or if this card in its  owner 's control is  destroyed  by an opponent's card effect: You can target 1  LIGHT  " LV " monster in your  Graveyard ; add it to your hand. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Lorsque cette carte est Invoquée Normalement : vous pouvez ajouter 1 "Spadassin Silencieux LV3" ou "Magicien Silencieux LV4" depuis votre Deck à votre main. Durant le tour de chaque joueur, lorsqu'une Carte Magie qui cible exactement 1 monstre que vous contrôlez (et aucune autre carte) est activée : vous pouvez annuler l'activation. Cet effet ne peut être utilisé qu'une fois tant que cette carte est face recto sur le Terrain. Si cette carte est détruite au combat, ou si cette carte contrôlée par son propriétaire est détruite par un effet de carte de votre adversaire : vous pouvez cibler 1 monstre LUMIÈRE "LV" dans votre Cimetière ; ajoutez-le à votre main. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst deiner Hand 1 „Schweigsamer Schwertkämpfer LV3“ oder „Schweigsamer Magier LV4“ von deinem Deck hinzufügen. Während des Spielzugs eines beliebigen Spielers, wenn eine Zauberkarte aktiviert wird, die genau 1 Monster, das du kontrollierst, (und keine anderen Karten) als Ziel wählt: Du kannst die Aktivierung annullieren. Dieser Effekt kann nur einmal verwendet werden, solange diese Karte offen auf dem Spielfeld liegt. Falls diese Karte durch Kampf zerstört wird oder falls diese Karte, die ihr Besitzer kontrolliert, durch einen Karteneffekt deines Gegners zerstört wird: Du kannst 1 LICHT „LV“-Monster in deinem Friedhof wählen; füge es deiner Hand hinzu. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando questa carta viene Evocata Normalmente: puoi aggiungere 1 "Spadaccino Silente LV3" o "Mago Silente LV4" dal tuo Deck alla tua mano. Durante il turno di qualsiasi giocatore, quando viene attivata una Carta Magia che sceglie come bersaglio esattamente 1 mostro che controlli (e nessuna altra carta): puoi annullare l'attivazione. Questo effetto può essere utilizzato una sola volta mentre questa carta è scoperta sul Terreno. Se questa carta viene distrutta in battaglia, o se questa carta sotto il controllo del suo proprietario viene distrutta dall'effetto di una carta dell'avversario: puoi scegliere come bersaglio 1 mostro "LV" LUCE nel tuo Cimitero; aggiungilo alla tua mano. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Quando este card for Invocado por Invocação-Normal: você pode adicionar 1 "Espadachim Silencioso LV3" ou "Mago Silencioso LV4" do seu Deck à sua mão. Durante o turno de qualquer duelista, quando um Card de Magia for ativado que escolha como alvo exatamente 1 monstro que você controla (e nenhum outro card): você pode negar a ativação. Este efeito só pode ser usado uma vez enquanto este card estiver com a face para cima no campo. Se este card for destruído em batalha, ou se este card sob o controle do seu dono for destruído por um efeito de card do oponente: você pode escolher 1 monstro "LV" de LUZ no seu Cemitério; adicione-o à sua mão. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando esta carta es Invocada de Modo Normal: puedes añadir a tu mano, desde tu Deck, 1 "Espadachín Silencioso LV3" o "Mago Silencioso LV4". Durante el turno de cualquier jugador, cuando una Carta Mágica es activada que seleccione exactamente 1 monstruo que controles (y ninguna otra carta): puedes negar la activación. Este efecto sólo puede ser usado una vez mientras esta carta está boca arriba en el Campo. Si esta carta es destruida en batalla, o si esta carta controlada por su dueño es destruida por el efecto de una carta de tu adversario: puedes seleccionar 1 monstruo "LV" de LUZ en tu Cementerio; añádelo a tu mano. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：このカードが召喚に成功した時に発動できる。デッキから「サイレント・ソードマン ＬＶ３」または「サイレント・マジシャン ＬＶ４」１体を手札に加える。②：このカードがフィールドに表側表示で存在する限り１度だけ、自分フィールドのモンスター１体のみを対象とする魔法カードが発動した時に発動できる。その発動を無効にする。③：フィールドのこのカードが戦闘または相手の効果で破壊された場合、自分の墓地の光属性の「ＬＶ」モンスター１体を対象として発動できる。そのモンスターを手札に加える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 이 카드가 일반 소환에 성공했을 때에 발동할 수 있다. 덱에서 "사일런트 스워드맨 LV3" 또는 "사일런트 매지션 LV4" 1장을 패에 넣는다. ②: 이 카드가 필드에 앞면 표시로 존재하는 한 1번만, 자신 필드의 몬스터 1장만을 대상으로 하는 마법 카드가 발동했을 때에 발동할 수 있다. 그 발동을 무효로 한다. ③: 필드의 이 카드가 전투 또는 상대의 효과로 파괴되었을 경우, 자신 묘지의 빛 속성의 "LV" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 패에 넣는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2016-09-15 DPRP-EN003 Duelist Pack: Rivals of the Pharaoh Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2016-09-15 DPRP-FR003 Duelist Pack: Rivals of the Pharaoh Pack du Duelliste : les Rivaux du Pharaon Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2016-09-15 DPRP-DE003 Duelist Pack: Rivals of the Pharaoh Duelist Pack: Rivals of the Pharaoh Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2016-09-15 DPRP-IT003 Duelist Pack: Rivals of the Pharaoh Duelist Pack: Rivali del Faraone Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2016-09-16 DPRP-PT003 Duelist Pack: Rivals of the Pharaoh Pacote do Duelista: Rivais do Faraó Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2016-09-15 DPRP-SP003 Duelist Pack: Rivals of the Pharaoh Sobre de Duelista: Rivales del Faraón Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2016-06-21 VJMP-JP117 V Jump August 2016 promotional card Ｖジャンプ　２０１６年　８月号　付録カード Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2016-12-23 PP11-KR034 Premium Pack Vol.11 프리미엄 팩 Vol.11 Super Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Silent Swordsman LV3 
+ Silent Magician LV4 
+ LIGHT 
+ 
+ Archetypes  and  series   
+ Prophecy 
+ 
+ Supports   archetypes   
+ LV 
+ 
+ Related to  archetypes  and  series   
+ Silent Swordsman  
+ Silent Magician  
+ 
+ Actions  
+ Activates upon Normal Summon 
+ Adds from Deck to hand 
+ Activates if destroyed by battle 
+ Activates if destroyed by card effect 
+ Adds from Graveyard to hand 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the activation of Spell Cards 
+ 
+ Miscellaneous  
+ Once while face-up on the field 
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12672 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" LV " 「 ＬＶ 」 Members 
+ Allure Queen LV3 Allure Queen LV5 Allure Queen LV7 Armed Dragon LV10 Armed Dragon LV10 White Armed Dragon LV3 Armed Dragon LV5 Armed Dragon LV7 Armed Dragon Thunder LV10 Armed Dragon Thunder LV3 Armed Dragon Thunder LV5 Armed Dragon Thunder LV7 Dark Lucius LV4 Dark Lucius LV6 Dark Lucius LV8 Dark Mimic LV1 Dark Mimic LV3 Horus the Black Flame Dragon LV4 Horus the Black Flame Dragon LV6 Horus the Black Flame Dragon LV8 Mystic Swordsman LV2 Mystic Swordsman LV4 Mystic Swordsman LV6 Silent Magician LV4 Silent Magician LV8 Silent Swordsman LV3 Silent Swordsman LV5 Silent Swordsman LV7 Ultimate Insect LV1 Ultimate Insect LV3 Ultimate Insect LV5 Ultimate Insect LV7 Winged Kuriboh LV10 Winged Kuriboh LV9 
+ Feast of the Wild LV5 Magnet Circle LV2 
+ Support 
+ Silent Paladin 
+ The Graveyard in the Fourth Dimension Level Down!? Level Modulation Level Up! 
+ Related 
+ Dark Armed Dragon Dark Horus Horus' Servant Metaphys Armed Dragon Metaphys Horus Pile Armed Dragon Queen's Bodyguard Silent Magician Silent Swordsman Winged Kuriboh 
+ Transcendent Wings 
+ 
+   
+" Prophecy " 「 魔 導 」 Members 
+ Amores of Prophecy Ancient Sorcerer Apprentice Illusion Magician Armor Exe Breaker the Dark Magical Warrior Breaker the Magical Warrior Charioteer of Prophecy Crowley, the First Propheseer D/D Savant Copernicus D/D Savant Galilei D/D Savant Kepler D/D Savant Newton D/D Savant Nikola D/D Savant Thomas Dark Cavalry Dark Magician the Magical Knight of Dragons The Dark Magicians Dark Paladin Day-Breaker the Shining Magical Warrior Defender, the Magical Knight Ebon High Magician Ebon Illusion Magician Ebon Magician Curran Emperor of Prophecy Empress of Prophecy Endymion, the Master Magician Endymion, the Mighty Master of Magic The Fiend Megacyber Fool of Prophecy Gilti-Gearfried the Magical Steel Knight Giltia the D. Knight Giltia the D. Knight - Soul Spear Hermit of Prophecy Hierophant of Prophecy High Priestess of Prophecy The Illusory Gentleman Justice of Prophecy Magical Cavalry of Cxulub Magical Merchant Magical Scientist Master of Chaos Prophecy Destroyer Reaper of Prophecy Red-Eyes Dark Dragoon Silent Paladin Skilled Brown Magician Skilled White Magician Spellbook Magician of Prophecy Stoic of Prophecy Strength of Prophecy Supreme Arcanite Magician Temperance of Prophecy Testament of the Arcane Lords Time Wizard of Tomorrow Water Magician Wheel of Prophecy White Magician Pikeru World of Prophecy 
+ Dark Magical Circle The Grand Spellbook Tower Hidden Spellbook Mage Power Magical Contract Door Magical Mid-Breaker Field Mega Ton Magical Cannon Spellbook Library of the Crescent Spellbook Library of the Heliosphere Spellbook Organization Spellbook Star Hall Spellbook of Eternity Spellbook of Fate Spellbook of Judgment Spellbook of Knowledge Spellbook of Life Spellbook of Miracles Spellbook of Power Spellbook of Secrets Spellbook of Wisdom Spellbook of the Master Type Zero Magic Crusher 
+ Support 
+ Stoic of Prophecy 
+ Related 
+ Aleister the Invoker Aleister the Invoker of Madness Behegon Black Luster Soldier Buster Blader Crowley, the Magistus of Grimoires Dark Magician Dark Magician Dark Magician Girl Gearfried the Iron Knight Guardian of the Labyrinth Marine Beast Princess Curran Princess Pikeru Protector of the Throne Red-Eyes Black Dragon Time Wizard 
+ Trial of the Princesses 
+ 
+   
+" Silent Magician " 「サイレント・マジシャン」 Members 
+ Silent Magician Silent Magician LV4 Silent Magician LV8 
+ Support 
+ Silent Magician 
+ Silent Burning 
+ Related 
+ Silent Paladin 
+ 
+   
+" Silent Swordsman " 「サイレント・ソードマン」 Members 
+ Silent Swordsman Silent Swordsman LV3 Silent Swordsman LV5 Silent Swordsman LV7 
+ Support 
+ Silent Swordsman 
+ Silent Sword Slash 
+ Related 
+ Silent Paladin 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/0c/SilentPaladin-DPRP-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20160916160444', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

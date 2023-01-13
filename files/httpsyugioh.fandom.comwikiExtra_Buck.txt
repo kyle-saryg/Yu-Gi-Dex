@@ -1,0 +1,448 @@
+Link: https://yugioh.fandom.com/wiki/Extra_Buck
+
+
+ 
+ 
+ Extra Buck 臨時収入 
+ 
+ English 
+Extra Buck 
+ French 
+ Argent Supplémentaire Check translation 
+ German 
+ Nebenverdienst Check translation 
+ Italian 
+ Banconota Extra Check translation 
+ Korean 
+ 엑스트라백 Check translation 
+ Portuguese 
+ Dinheiro Extra Check translation 
+ Spanish 
+ Dinero Extra Check translation 
+ Japanese (kana) 
+ エクストラバック Check translation 
+ Japanese (base) 
+ 臨時収入 Check translation 
+ Japanese ( rōmaji ) 
+Ekusutora Bakku 
+ Card type 
+ Trap   
+ Property 
+ Continuous   
+ Passcode 
+ 94937430 
+ Card effect types 
+ 
+ 
+ Continuous-like 
+ Quick-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Each time a card(s) is  added  to your  Extra Deck , place 1  Spell Counter  on this card (max. 3). You can  send  this card with 3 Spell Counters to the  GY ;  draw  2 cards. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Chaque fois qu'une ou plusieurs cartes sont ajoutées à votre Extra Deck, placez 1 Compteur Magie sur cette carte (max. 3). Vous pouvez envoyer cette carte avec 3 Compteurs Magie au Cimetière ; piochez 2 cartes. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Jedes Mal, wenn deinem Extra Deck eine oder mehr Karten hinzugefügt werden, lege 1 Zauberzählmarke auf diese Karte (max. 3). Du kannst diese Karte mit 3 Zauberzählmarken auf den Friedhof legen; ziehe 2 Karten. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Ogni volta che una o più carte vengono aggiunte al tuo Extra Deck, metti 1 Segnalino Magia su questa carta (massimo 3). Puoi mandare questa carta con 3 Segnalini Magia al Cimitero; pesca 2 carte. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Sempre que um ou mais cards forem adicionados ao seu Deck Adicional, coloque 1 Marcador de Magia neste card (máx. 3). Você pode enviar este card com 3 Marcadores de Magia para o Cemitério; compre 2 cards. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cada vez que una o más cartas son añadidas a tu Deck Extra, pon 1 Contador Mágico en esta carta (máx. 3). Puedes mandar al Cementerio esta carta con 3 Contadores Mágicos; roba 2 cartas. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：このカードが魔法＆罠ゾーンに存在する限り、自分のＥＸデッキにカードが加わる度に、このカードに魔力カウンターを１つ置く（最大３つまで）。②：魔力カウンターが３つ置かれているこのカードを墓地へ送って発動できる。自分はデッキから２枚ドローする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 이 카드가 마법 & 함정 존에 존재하는 한, 자신의 엑스트라 덱에 카드가 넣어질 때마다, 이 카드에 마력 카운터를 1개 놓는다(최대 3개까지). ②: 마력 카운터가 3개 놓여 있는 이 카드를 묘지로 보내고 발동할 수 있다. 자신은 덱에서 2장 드로우한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2015-08-06  
+ CORE-EN079   
+ Clash of Rebellions 
+ Rare 
+ 
+ 
+ 2016-09-01  
+ MP16-EN095   
+ 2016 Mega-Tin Mega Pack 
+ Rare 
+ 
+ 
+ 2019-04-19  
+ SR08-EN037   
+ Structure Deck: Order of the Spellcasters 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2015-08-06  
+ CORE-FR079   
+ Clash of Rebellions 
+ Le Choc des Rébellions  
+ Rare 
+ 
+ 
+ 2016-09-01  
+ MP16-FR095   
+ 2016 Mega-Tin Mega Pack 
+ 2016 Méga-Boîte Méga-Pack  
+ Rare 
+ 
+ 
+ 2019-04-25  
+ SR08-FR037   
+ Structure Deck: Order of the Spellcasters 
+ Deck de Structure : La Confrérie des Magiciens  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2015-08-06  
+ CORE-DE079   
+ Clash of Rebellions 
+ Clash of Rebellions  
+ Rare 
+ 
+ 
+ 2016-09-01  
+ MP16-DE095   
+ 2016 Mega-Tin Mega Pack 
+ 2016 Mega-Tin Mega Pack  
+ Rare 
+ 
+ 
+ 2019-04-25  
+ SR08-DE037   
+ Structure Deck: Order of the Spellcasters 
+ Structure Deck: Order of the Spellcasters  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2015-08-06  
+ CORE-IT079   
+ Clash of Rebellions 
+ Scontro di Ribellioni  
+ Rare 
+ 
+ 
+ 2016-09-01  
+ MP16-IT095   
+ 2016 Mega-Tin Mega Pack 
+ 2016 Mega-Tin Mega Pack  
+ Rare 
+ 
+ 
+ 2019-04-25  
+ SR08-IT037   
+ Structure Deck: Order of the Spellcasters 
+ Structure Deck: Ordine degli Incantatori  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2015-08-07  
+ CORE-PT079   
+ Clash of Rebellions 
+ Conflito de Rebeliões  
+ Rare 
+ 
+ 
+ 2016-09-01  
+ MP16-PT095   
+ 2016 Mega-Tin Mega Pack 
+ Mega-Pacote da Mega-Latas 2016  
+ Rare 
+ 
+ 
+ 2019-04-25  
+ SR08-PT037   
+ Structure Deck: Order of the Spellcasters 
+ Deck Estrutural: Ordem dos Magos  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2015-08-06  
+ CORE-SP079   
+ Clash of Rebellions 
+ Choque de Rebeliones  
+ Rare 
+ 
+ 
+ 2016-09-01  
+ MP16-SP095   
+ 2016 Mega-Tin Mega Pack 
+ 2016 Mega-Lata Mega Pack  
+ Rare 
+ 
+ 
+ 2019-04-25  
+ SR08-SP037   
+ Structure Deck: Order of the Spellcasters 
+ Baraja de Estructura: Mandato de los Conjuradores  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2015-04-25  
+ CORE-JP079   
+ Clash of Rebellions 
+ クラッシュ・オブ・リベリオン  
+ Rare 
+ 
+ 
+ 2016-12-23  
+ SD31-JP038   
+ Structure Deck: Pendulum Evolution 
+ ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －ペンデュラム・エボリューション－  
+ Common 
+ 
+ 
+ 2019-03-09  
+ SR08-JP037   
+ Structure Deck R: Lord of Magician 
+ ストラクチャーデッキＲ －ロード・オブ・マジシャン－  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2015-08-18  
+ CORE-KR079   
+ Clash of Rebellions 
+ 클래쉬 오브 리벨리온  
+ Rare 
+ 
+ 
+ 2017-03-14  
+ SD31-KR038   
+ Structure Deck: Pendulum Evolution 
+ ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ  － 펜듈럼 에볼루션 －  
+ Common 
+ 
+ 
+ 2019-06-18  
+ SR08-KR037   
+ Structure Deck R: Lord of Magician 
+ STRUCTURE DECK  R － 로드 오브 매지션 －  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Counters   
+ Spell Counter 
+ Places counters on itself 
+ 
+ Actions  
+ Sends itself from field to Graveyard for cost 
+ You draw cards 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11863 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/0e/ExtraBuck-SR08-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20190502213012', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Duel Monsters cards, TCG cards, OCG cards

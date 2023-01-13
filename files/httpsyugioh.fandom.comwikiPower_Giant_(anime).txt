@@ -1,0 +1,107 @@
+Link: https://yugioh.fandom.com/wiki/Power_Giant_(anime)
+
+Main card page: " Power Giant " 
+ Power Giant 
+ 
+ Japanese:   パワー・ジャイアント 
+ Romaji:   Pawā Jaianto 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   EARTH 
+ 
+ Level 
+ 
+ 
+ 6   
+ 
+ [  Rock  /  Effect  ] You can  Special Summon  this card (from your  hand ) by  sending  1  Level  4 or lower  monster  from your hand to the  Graveyard . If you do, decrease this card's Level by the Level of that monster. If this card  attacks  or is attacked, until the end of the  Damage Step  any  effect damage  you take becomes 0.
+ ATK  /  2200     DEF  /  0   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  105 ,  141 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ パワー・ジャイアント 
+ このカードは 手札 から レベル ４以下のモンスター１体を 墓地 へ 送る 事で 特殊召喚 する事ができる。この方法で特殊召喚に成功した場合、このカードのレベルは墓地へ送ったモンスターのレベル分下がる。このカードが戦闘を行う場合、 ダメージステップ 終了時まで自分への 効果ダメージ を 無効 にする。 
+ 
+ 
+ Pawā Jaianto 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Jack Atlas 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Activates from your hand 
+ Sends from your hand to your Graveyard for cost 
+ 
+ Stat changes  
+ This card loses Levels 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ 
+ LP   
+ Prevents effect damage 
+ 
+ 
+ 
+   " Power Giant " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/2c/PowerGiant-JP-Anime-5D.png/revision/latest/scale-to-width-down/200?cb=20100415102523', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/0a/PowerGiant-OW.png/revision/latest/scale-to-width-down/185?cb=20140615150657', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/PowerGiant-JP-Anime-5D-NC.jpg/revision/latest/scale-to-width-down/185?cb=20120331171911', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

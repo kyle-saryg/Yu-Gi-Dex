@@ -1,0 +1,266 @@
+Link: https://yugioh.fandom.com/wiki/Star_Pendulumgraph
+
+
+ 
+ 
+ Star Pendulumgraph 星 霜 のペンデュラムグラフ 
+ 
+ English 
+Star Pendulumgraph 
+ French 
+ Pendulegraphe des Étoiles Check translation 
+ German 
+ Stern-Pendelgraf Check translation 
+ Italian 
+ Pendulumgrafo delle Stelle Check translation 
+ Korean 
+ 성상의 펜듈럼그래프 Check translation 
+ Portuguese 
+ Estrela Pêndulografa Check translation 
+ Spanish 
+ Péndulografo de las Estrellas Check translation 
+ Japanese (kana) 
+ せいそうのペンデュラムグラフ Check translation 
+ Japanese (base) 
+ 星霜のペンデュラムグラフ Check translation 
+ Japanese ( rōmaji ) 
+Seisō no Pendyuramugurafu 
+ Japanese (translated) 
+Time's Pendulumgraph 
+ Card type 
+ Spell   
+ Property 
+ Continuous   
+ Passcode 
+ 74850403 
+ Card effect types 
+ 
+ 
+ Continuous-like 
+ Trigger-like 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Your opponent cannot  target   Spellcaster - Type   monsters  you  control  with  Spell Cards  or  effects . If a  face-up  " Magician "  Pendulum Monster Card (s)  leaves  your  Monster Zone  or  Pendulum Zone :  Add  1 "Magician" Pendulum Monster from your  Deck  to your  hand . You can only use this effect of "Star Pendulumgraph"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Votre adversaire ne peut pas cibler de monstres de Type Magicien que vous contrôlez avec des Cartes Magie ou effets de Magie. Si une ou plusieurs Cartes Monstre Pendule "Magicien" face recto quittent votre Zone Monstre ou Zone Pendule : ajoutez 1 Monstre Pendule "Magicien" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de "Pendulegraphe des Étoiles" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Dein Gegner kann Monster vom Typ Hexer, die du kontrollierst, nicht als Ziel für Zauberkarten oder Zaubereffekte wählen. Falls eine oder mehr offene „Magier“-Pendelmonsterkarten deine Monster- oder Pendelzone verlassen: Füge deiner Hand 1 „Magier“-Pendelmonster von deinem Deck hinzu. Du kannst diesen Effekt von „Stern-Pendelgraf“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Il tuo avversario non può scegliere come bersaglio mostri di Tipo Incantatore che controlli con le Carte Magia o i loro effetti. Se una o più Carte Mostro Pendulum "Mago" scoperte lasciano la tua Zona Mostri o Zona Pendulum: aggiungi 1 Mostro Pendulum "Mago" dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di "Pendulumgrafo delle Stelle" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Seu oponente não pode escolher monstros do Tipo Mago que você controla como alvo de Cards ou efeitos de Magia. Se um ou mais Cards de Monstro Pêndulo "Mago" com a face para cima deixarem suas Zonas de Monstro ou Zonas de Pêndulo: adicione 1 Monstro Pêndulo "Mago" do seu Deck à sua mão. Você só pode usar este efeito de "Estrela Pêndulografa" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Tu adversario no puede seleccionar a monstruos de Tipo Lanzador de Conjuros que controles con Cartas o efectos Mágicos. Si una o más Cartas de Monstruo de Péndulo "Mago/a" boca arriba dejan tu Zona de Monstruos o Zona de Péndulo: añade a tu mano 1 Monstruo de Péndulo "Mago/a" en tu Deck. Sólo puedes usar este efecto de "Péndulografo de las Estrellas" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「星霜のペンデュラムグラフ」の②の効果は１ターンに１度しか使用できない。①：このカードが魔法＆罠ゾーンに存在する限り、自分フィールドの魔法使い族モンスターを相手は魔法カードの効果の対象にできない。②：表側表示の「魔術師」 Ｐ モンスターカードが自分のモンスターゾーン・ Ｐ ゾーンから離れた場合に発動する。デッキから「魔術師」 Ｐ モンスター１体を手札に加える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "성상의 펜듈럼그래프"의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 마법 & 함정 존에 존재하는 한, 자신 필드의 마법사족 몬스터를 상대는 마법 카드 효과의 대상으로 할 수 없다. ②: 앞면 표시의 "마술사" 펜듈럼 몬스터 카드가 자신의 몬스터 존 / 펜듈럼 존에서 벗어났을 경우에 발동한다. 덱에서 "마술사" 펜듈럼 몬스터 1장을 패에 넣는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2017-06-22 PEVO-EN007 Pendulum Evolution Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2017-06-22 PEVO-FR007 Pendulum Evolution Évolution des Pendules Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2017-06-22 PEVO-DE007 Pendulum Evolution Pendulum Evolution Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2017-06-22 PEVO-IT007 Pendulum Evolution Evoluzione Pendulum Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2017-06-22 PEVO-PT007 Pendulum Evolution Evolução Pêndulo Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2017-06-22 PEVO-SP007 Pendulum Evolution Evolución del Péndulo Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2016-12-23 SD31-JP023 Structure Deck: Pendulum Evolution ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －ペンデュラム・エボリューション－ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2017-03-14 SD31-KR023 Structure Deck: Pendulum Evolution ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ  － 펜듈럼 에볼루션 － Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Spellcaster 
+ Pendulum Monster 
+ 
+ Archetypes  and  series   
+ Pendulum  
+ Pendulumgraph 
+ 
+ Supports   archetypes   
+ Magician  
+ 
+ Actions  
+ Adds from Deck to hand 
+ 
+ Monster / Spell / Trap  categories  
+ Cannot be targeted by card effects 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12912 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Magician " 「 魔 術 師 」 Members 
+ Acrobatic Magician Apprentice Magician Black Fang Magician Blast Magician Dark Magician of Chaos Dharma-Eye Magician Doomstar Magician Double Iris Magician Dragoncaller Magician Dragonpit Magician Dragonpulse Magician Eda the Sun Magician Harmonizing Magician Magician of Hope Milla the Temporal Magician Night Wing Sorceress Nobledragon Magician Oafdragon Magician Old Vindictive Magician Performapal Celestial Magician Performapal Five-Rainbow Magician Purple Poison Magician Rapid-Fire Magician Silent Magician Skilled Dark Magician Stargazer Magician The Stern Mystic Time Wizard Timebreaker Magician Timegazer Magician Timestar Magician Tuning Magician White Wing Magician Wisdom-Eye Magician Xiangke Magician Xiangsheng Magician 
+ Magician's Left Hand Magician's Restage Magician's Right Hand 
+ Support 
+ Dharma-Eye Magician Dragonpit Magician Dragonpulse Magician Enlightenment Paladin Harmonizing Magician Nobledragon Magician Oafdragon Magician Performapal Parrotrio Performapal Skullcrobat Joker Performapal Sky Magician Performapal Smile Sorcerer Performapal Springoose Performapal U Go Golem Stargazer Magician Timegazer Magician Timestar Magician Tuning Magician Wisdom-Eye Magician 
+ Amazing Pendulum Magician's Restage Pendulum Call Performapal Popperup Sky Iris Star Pendulumgraph Time Pendulumgraph 
+ Related 
+ Astrograph Sorcerer Baby Dragon Chronograph Sorcerer Dark Sage Thousand Dragon Time Magic Hammer Time Wizard of Tomorrow 
+ Assault Mode Activate The Claw of Hermos Dedication through Light and Darkness Magical Star Illusion 
+ 
+   
+" Pendulum " 「ペンデュラム」 Members 
+ Beast-Eyes Pendulum Dragon Beyond the Pendulum Brave-Eyes Pendulum Dragon Cosmic Compass Double Iris Magician Lector Pendulum, the Dracoverlord Luster Pendulum, the Dracoslayer Master Pendulum, the Dracoslayer Odd-Eyes Arc Pendulum Dragon Odd-Eyes Pendulum Dragon Odd-Eyes Pendulumgraph Dragon Pendulumucho Performapal Pendulum Sorcerer Rune-Eyes Pendulum Dragon Vector Pendulum, the Dracoverlord 
+ Amazing Pendulum Dragonic Pendulum Extra Pendulum Pendulum Area Pendulum Back Pendulum Call Pendulum Dimension Pendulum Encore Pendulum Fusion Pendulum Halt Pendulum Hole Pendulum Impenetrable Pendulum Paradox Pendulum Reborn Pendulum Rising Pendulum Scale Pendulum Shift Pendulum Storm Pendulum Switch Pendulum Transfer Pendulum Treasure Pendulum Xyz Soul Pendulum Star Pendulumgraph Time Pendulumgraph 
+ Support 
+ Duelist Alliance 
+ Related 
+ Amorphactor Pain, the Imagination Dracoverlord Dinoster Power, the Mighty Dracoslayer Ignister Prominence, the Blasting Dracoslayer Majester Paladin, the Ascending Dracoslayer Master Peace, the True Dracoslayer Master Peace, the True Dracoslaying King Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Odd-Eyes Venom Dragon Odd-Eyes Wing Dragon Supreme King Dragon Odd-Eyes 
+ Odd-Eyes Advent 
+ 
+   
+" Pendulumgraph " 「ペンデュラムグラフ」 Members 
+ Odd-Eyes Pendulumgraph Dragon 
+ Star Pendulumgraph Time Pendulumgraph 
+ Support 
+ Double Iris Magician 
+ Related 
+ Odd-Eyes Advent 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/57/StarPendulumgraph-PEVO-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20170621141022', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Duel Monsters cards, TCG cards, OCG cards

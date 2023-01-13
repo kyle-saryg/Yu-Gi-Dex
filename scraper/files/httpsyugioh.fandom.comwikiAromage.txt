@@ -1,0 +1,943 @@
+Link: https://yugioh.fandom.com/wiki/Aromage
+
+
+ 
+ Aroma 
+ アロマ  ( Aroma ) 
+ 
+ 
+ 
+ 
+ From left to right: " Cananga ", " Rosemary ", " Jasmine " and " Bergamot ". 
+ 
+ 
+ Other names 
+ 
+ French 
+ Arôma 
+ 
+ 
+ German 
+ Aroma 
+ 
+ 
+ Italian 
+ Aroma 
+ 
+ 
+ Korean 
+ 아로마   Aroma   (romanized) 
+ 
+ 
+ Portuguese 
+ Aromági Translation:  Aromagi 
+ 
+ 
+ Spanish 
+ Arobru Translation:  Arowi 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Clash of Rebellions Invasion: Vengeance Chaos Impact 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Duel Power 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ LINK VRAINS Pack 
+ 
+ 
+ 
+ 
+ Korea-Only Sets 
+ 
+ 
+ Advanced Event Pack 2020 Vol.1 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Aroma " (アロマ  Aroma ) is an  archetype  largely consisting of  Plant   monsters  (with one  Rock  monster) that were introduced in  Clash of Rebellions . The archetype's monsters all derive their names from tools and various species of flowers, all of which are used to produce and utilize medicinal and culinary  herbs .
+ 
+ Contents 
+ 
+ 1   Members 
+ 2   Design 
+ 3   Playing style 
+ 4   Weaknesses 
+ 5   Recommended cards 
+ 
+ 
+ Members 
+ 
+ 
+ Monster 
+ Origin
+ 
+ 
+ Aroma Jar 
+ Heat Diffuser 
+ 
+ 
+ Aromage Bergamot 
+ Monarda fistulosa / Bergamot orange 
+ 
+ 
+ Aromage Cananga 
+ Cananga odorata /Ylang ylang 
+ 
+ 
+ Aromage Jasmine 
+ Jasmine 
+ 
+ 
+ Aromaseraphy Jasmine 
+ 
+ 
+ Aromage Laurel 
+ Laurus nobilis /Bay laurel 
+ 
+ 
+ Aromage Marjoram 
+ Marjoram 
+ 
+ 
+ Aromaseraphy Sweet Marjoram 
+ 
+ 
+ Aromage Rosemary 
+ Rosemary 
+ 
+ 
+ Aromaseraphy Rosemary 
+ 
+ 
+ Aromaseraphy Angelica 
+ Angelica 
+ 
+ Design 
+ The "Aroma" monsters all get their names from various herbs, flowers and spices that are essential to Aromatherapy. This is where the archetype’s gimmick originates, as the effects that revolve around gaining life points are symbolic of the health benefits of aromatics in medicinal and culinary use, which provide relaxing, invigorating, or delicious scents and flavors and can help reduce stress.
+ The archetype is female-centric, with only three males in the set (“Aromage Bergamot”, “Aromage Cananga” and “Aromage Laurel”). At this time, “Aromaseraphy Angelica” can only combine with the females of the archetype ("Aromage Jasmine", "Aromage Rosemary", and "Aromage Marjoram"), causing the male presence to languish. The “Aromaseraphy” counterparts are  LIGHT  attribute compared to their main deck forms, suggesting that they become angels once they combine with “Aromaseraphy Angelica”. “Aroma Jar” is the sole Rock-Type monster in an otherwise Plant-oriented archetype and is the only inanimate object among the rest of the human-like monsters.
+ All of the main deck “Aromage” monsters are typed with each of the elemental attributes, based on the plant they’re inspired by. Their names and artwork suggest that they are all mages that specialize in magic involving scents derived from plants. 
+ 
+ Playing style 
+ All Plant-Type "Aroma" monsters share two common types of effects: a  Continuous Effect  that applies while their controller has more  LP  than the opponent, and a  Trigger Effect  that activates when their controller gains LP. The Continuous Effect supports Plant monsters and encourage the controller to engage in battle by granting them advantages in that area against the opponent, while the Trigger Effects focus upon increasing utility, partly through field disruption.
+ 
+ 
+ 
+ Monster
+ 
+ Effect
+ 
+ 
+ Continuous
+ 
+ Trigger
+ 
+ 
+ Aromage Bergamot 
+ The controller's Plant monsters inflict  piercing  battle damage. 
+ Gains 1000 ATK and DEF until the end of the opponent's next turn.
+ 
+ 
+ Aromage Cananga 
+ Reduces the ATK and DEF of the opponent's monsters by 500. 
+ Targets and returns a  Spell / Trap Card  the opponent  controls  to the  hand .
+ 
+ 
+ Aromage Jasmine 
+ Allows one additional Normal Summon/Set for a Plant monster. 
+ The controller draws a card.
+ 
+ 
+ Aromage Laurel 
+ Special Summons itself from your hand. 
+ Targets 1 Plant monster on the field; and treats it as a  Tuner  this turn.
+ 
+ 
+ Aromage Marjoram 
+ Take no battle damage from battles involving your Plant monsters. 
+ Targets cards in your opponent’s GY up to the number of "Aroma" monsters you control and banishes them.
+ 
+ 
+ Aromage Rosemary 
+ The opponent cannot activate monster effects when the controller's Plant monster attacks, until the end of the  Damage Step . 
+ Targets and changes a  face-up  monster's  battle position .
+ 
+ 
+ Aromaseraphy Angelica 
+ Discards  itself and targets another "Aroma" monster in the Graveyard to increase LP by the target's ATK. 
+ Can be  Special Summoned  from the Graveyard if you control another "Aroma" monster, but is  banished  when it leaves the field.
+ 
+ 
+ Aromaseraphy Jasmine 
+ This card and  Plant  monsters this card points to cannot be  destroyed by battle . 
+ Add 1 Plant monster from the Deck to the hand.
+ 
+ 
+ Aromaseraphy Rosemary 
+ All Plant monsters you control gain 500 ATK and DEF. 
+ Target  face-up  card has its effects negated for the turn.
+ 
+ 
+ Aromaseraphy Sweet Marjoram 
+ Opponent cannot target Plant monsters you control with card effects. 
+ Target 1 card your opponent controls and destroy it.
+ 
+ The battling aspect that is encouraged by the archetype is also pronounced by its support cards, " Aroma Jar ", " Aroma Garden ", and " Aroma Gardening ". "Aroma Jar" is a  Flip monster  whose  Flip effect  bestows 500 LP upon the controller during either player's End Phase while it remains face-up. Additionally, its other effect has interactivity with its Flip effect, as it also defends itself from destruction by battle if it was flipped face-up. The archetype's  Field Spell Card , "Aroma Garden", grants the controller 500 LP during their turn when they control an "Aroma" monster, while additionally bolstering the ATK and DEF of all of their monsters by 500 until the end of the opponent's next turn (the downside of battling is also covered by the card, which increases the controller's LP by 1000 when an "Aroma" monster they control is destroyed and sent to the Graveyard). "Aroma Gardening", therefore, provides summoning support by bestowing 1000LP when an "Aroma" monster is summoned (except during the  Damage Step ), as well as allowing an emergency summon if you've taken damage and your LP has dropped below the opponent's when they attempt to attack.
+ The deck also contains 3  Continuous Trap Cards  which further assist the controller by turning the LP they gained into a utilizable asset. " Dried Winds " serves as a means to put pressure on the opponent by having the controller target and destroy a monster the opponent controls, each time they gain LP. The card further takes advantage of its controller's tendency to amass large amounts of LP by allowing them to pay LP equal to the difference between their LP and their opponent's, to destroy monsters with equal or less ATK than the amount of LP paid, provided the controller has at least 3000 more LP than the opponent. " Humid Winds " provides the Deck with much needed speed, allowing the controller to search out "Aroma" monsters from their Deck at the cost of 1000 LP, a small sum to pay for the controller. If the controller should find themselves disadvantaged in LP count compared to their opponent, the card further helps them make up the deficit, providing a steady stream of 500 LP per turn until the deficit is bridged. " Blessed Winds " provides  Graveyard  support by not only allowing them to manipulate what goes into and comes out of the GY (with a 500 LP boost to boot), but also providing revival of "Aroma" monsters back to the field at the paltry price of 1000 LP. All of these  Trap Cards  are best protected by " Imperial Custom ".
+ The archetype's efficacy can be enhanced with the use of cards that  increase the LP of the controller . Such cards should preferably do so either by a significant margin or with control over when they activate by the player, such as with " Poison of the Old Man " and " Aegis of Gaia ", to keep the Continuous Effects of the "Aroma" monsters active. As several of the "Aroma" monsters, except "Aromage Bergamot", have low ATK and DEF and still emphasize battling, cards such as " Juragedo " and " Nutrient Z " keep your LP safe while fulfilling the archetype's mandate of increasing your LP and maintaining a high LP count. Alternatively, you can use " Waboku " to protect your LP and your monsters.
+ The "Aroma" archetype also performs well with disabling and preventative cards, such as " Anti-Spell Fragrance " to compliment the Spell/Trap bouncing effect of " Aromage Cananga ", " Lose 1 Turn " and " Cactus Bouncer " to compliment the extra  Normal Summon  effect of " Aromage Jasmine ", and " Magic Planter " and " Booby Trap E " to make use of the many  Continuous Trap Cards  that the deck utilizes, such as " Humid Winds ", " Dried Winds ", and the aforementioned Lose 1 Turn and Anti-Spell Fragrance.
+ 
+ Weaknesses 
+ Given that the archetype focuses on gaining LP, it is extremely vulnerable to cards such as “ Earthbound Greater Linewalker ”, " Bad Reaction to Simochi " and " Darklord Nurse Reficule ", which subvert LP gaining effects and instead damages you for the same amount. " Asleep at the Switch " presents the archetype with another weakness, as it can be used to destroy "Aroma" monsters when their controller gains LP, an incredibly common occurrence for the Deck.
+ If one does not directly consider the LP aspect of these monsters as a consideration, this archetype can be subdued through many other means.  More generally, effect negaters like " Skill Drain ," " Angel 07 ", " Infinite Impermanence " and " Majesty's Fiend " can shut down "Aromage" effects.  The Summoning emphasis of some of the "Aroma" cards can also be put in check via " Narrow Pass " " Summon Limit , and " Summon Breaker ". The potpourri of Attributes make them vulnerable to " Gozen Match " and " Battle of the Elements ".  "Aroma" monsters can also be easily  Tributed  (via " Kaiju "s, " Lava Golem ", etc) unless you control “ Cactus Bouncer ”, and easily removed from the field via general field control due to a lack of card effect immunity, backrow removal and total uselessness off the field.  Finally, the known "Aromage" monsters thus far are not of hefty  ATK / DEF  (save for the secondary effect of "Bergamot",) thence unless the effect of "Rosemary" is serving as a temporary bridal against monsters in a pinch, they can easily yield to more aggressive or faster Deck builds.
+ The backrow support is highly vulnerable to general Spell/Trap removal and furthermore, none of these cards have effects when they're destroyed or are in the GY, nor effects that banish themselves from the GY for other effects.  The first effect of "Humid Winds" can also be stopped by " Thunder King Rai-Oh ", " Droll & Lock Bird " and " Ash Blossom & Joyous Spring "; the latter two which can effectively causing a waste of  1 / 8 th  of one's total LPs.
+ 
+ Recommended cards 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ Aromage Bergamot 
+ Aromage Cananga 
+ Aromage Jasmine 
+ Aromage Laurel 
+ Aromage Marjoram 
+ Aromage Rosemary 
+ Evil Thorn 
+ Fire Princess 
+ Lonefire Blossom 
+ Predaplant Darlingtonia Cobra 
+ Predaplant Ophrys Scorpio 
+ Rose Lover 
+ Rose Paladin 
+ Gemini monsters 
+ Gigaplant 
+ Tuner monsters 
+ Aromaseraphy Angelica 
+ Debris Dragon 
+ Ghost Ogre & Snow Rabbit 
+ Ghost Sister & Spooky Dogwood 
+ Glow-Up Bulb 
+ Spore Extra Deck   
+ Fusion Monsters 
+ Gem-Knight Seraphinite 
+ Synchro Monsters 
+ Aromaseraphy Rosemary 
+ Aromaseraphy Sweet Marjoram 
+ Ancient Pixie Dragon 
+ Ancient Sacred Wyvern 
+ Black Rose Dragon 
+ Formula Synchron 
+ Magical Android 
+ PSY-Framelord Omega 
+ Queen of Thorns 
+ Splendid Rose 
+ Thought Ruler Archfiend 
+ Xyz Monsters 
+ Meliae of the Trees 
+ Number 49: Fortune Tune 
+ Link Monsters 
+ Aromaseraphy Jasmine 
+ Mekk-Knight Crusadia Avramax 
+ Crossrose Dragon Spells   &  Traps   
+ Spells 
+ Ancient Leaf 
+ Aroma Garden 
+ Aroma Gardening 
+ Brilliant Fusion 
+ Cauldron of the Old Man 
+ Child's Play 
+ Emergency Provisions 
+ Foolish Burial 
+ Fragrance Storm 
+ Gingerbread House 
+ Instant Fusion 
+ Magic Planter 
+ Mystik Wok 
+ One for One 
+ Poison of the Old Man 
+ Super Solar Nutrient 
+ Terraforming 
+ Traps 
+ Anti-Spell Fragrance 
+ Blessed Winds 
+ Dried Winds 
+ Humid Winds 
+ Pollinosis 
+ Rainbow Life 
+ Waboku 
+ Lose 1 Turn 
+   
+" Aroma " 「アロマ」 Members 
+ Aroma Jar Aromage Bergamot Aromage Cananga Aromage Jasmine Aromage Laurel Aromage Marjoram Aromage Rosemary Aromaseraphy Angelica Aromaseraphy Jasmine Aromaseraphy Rosemary Aromaseraphy Sweet Marjoram 
+ Aroma Garden Aroma Gardening 
+ Support 
+ Aromage Marjoram Aromaseraphy Angelica 
+ Aroma Garden Aroma Gardening Blessed Winds Dried Winds Humid Winds 
+ 
+ 
+ 
+ 
+ 
+ Six Attributes 
+ 
+ This box:  view edit 
+ DARK    
+ EARTH   
+ FIRE    
+ LIGHT   
+ WATER   
+ WIND    
+ 
+ 
+ /Assault Modes 
+ Red Dragon Archfiend  /  Colossal Fighter 
+ Hyper Psychic Blaster  /  T.G. Halberd Cannon 
+ Doomkaiser Dragon 
+ Arcanite Magician 
+ n/a 
+ Stardust Dragon 
+ 
+ 
+ @Ignisters    Base forms   Evolved forms 
+ Doyon     Dark Templar 
+ Doshin     Earth Golem 
+ Achichi     Fire Phoenix 
+ Pikari     Light Dragon 
+ Hiyari     Water Leviathan 
+ Bururu     Wind Pegasus 
+ 
+ 
+ Alchemy Beasts    Summoners     (Normal Spell Cards) 
+ Moonface the Silver     Silver Key 
+ Leon the Lead     Lead Compass 
+ Salamandra the Steel     Steel Lamp 
+ Ouroboros the Bronze     Bronze Scale 
+ Ekenas the Mercury     Mercury Hourglass 
+ Aretos the Tin     Tin Spell Circle 
+ 
+ 
+ Aliens 
+ Overlord  /  Mother  /  Psychic 
+ Shocktrooper  /  Infiltrator  /  Warrior 
+ Mars  /  Telepath 
+ Ammonite  /  Dog  /  Grey  /  Kid  /  Shocktrooper M-Frame 
+ Hunter  /  Hypno 
+ Skull 
+ 
+ 
+ Altergeists 
+ Primebanshee  /  Multifaker  /  Kidolga  /  Fifinellag  /  Dragvirion  /  Memorygant  /  Pookuery 
+ Kunquery 
+ Hexstia 
+ Marionetter 
+ Meluseek  /  Fijialert 
+ Silquitous  /  Pixiel 
+ 
+ 
+ Aromages 
+ Marjoram 
+ Cananga 
+ Bergamot 
+ Jasmine 
+ Rosemary 
+ Laurel 
+ 
+ 
+ Attribute Boosters   (500 ATK▲/400 DEF▼)    Link Monsters    (500 ATK▲/500 DEF▲)    Field Spells    (500 ATK▲/400 DEF▼)    Equip Spells    (400 ATK▲/200 DEF▼) 
+ Witch's Apprentice     Wee Witch's Apprentice     Mystic Plasma Zone     Sword of Dark Destruction 
+ Milus Radiant     Missus Radiant     Gaia Power     Invigoration 
+ Little Chimera     Duelittle Chimera     Molten Destruction     Burning Spear 
+ Hoshiningen     Hip Hoshiningen     Luminous Spark     Elf's Light 
+ Star Boy     Mistar Boy     Umiiruka     Steel Shell 
+ Bladefly     Greatfly     Rising Air Current     Gust Fan 
+ 
+ 
+ Attribute Knights 
+ Armageddon 
+ Dust 
+ Brushfire 
+ Dawn 
+ Shore 
+ Altitude 
+ 
+ 
+ Attribute Reptiles 
+ Umbral Soul 
+ Raging Earth 
+ Firestorm Prominence 
+ Radiant Spirit 
+ Silent Abyss 
+ Destruction Cyclone 
+ 
+ 
+ Attribute Sorcerers    (4/1500/0/Spellcasters) 
+ Dark 
+ n/a 
+ Fire 
+ Light 
+ Aqua 
+ n/a 
+ 
+ 
+ Attribute Spirits 
+ Luna the Dark Spirit 
+ The Rock Spirit 
+ Spirit of Flames 
+ Diana the Light Spirit 
+ Aqua Spirit 
+ Garuda the Wind Spirit 
+ 
+ 
+ Attribute Summoners 
+ Mystic Tomato 
+ Giant Rat 
+ UFO Turtle 
+ Shining Angel 
+ Mother Grizzly 
+ Flying Kamakiri #1 
+ 
+ 
+ B.E.S. 
+ Big Core 
+ Covered Core  /  Blaster Cannon Core 
+ Big Core MK-2 
+ Big Core MK-3 
+ Crystal Core 
+ Tetran 
+ 
+ 
+ Barrier Statues 
+ Abyss 
+ Drought 
+ Inferno 
+ Heavens 
+ Torrent 
+ Stormwinds 
+ 
+ 
+ Beast Gear World 
+ Catapult Devilkong 
+ Motor Wolf  /  Trike Fox  /  King Convoy Ligeon 
+ Buggy Dog 
+ n/a 
+ n/a 
+ Gyro Jackal 
+ 
+ 
+ Charmers     Familiar-Possessed     Cataclysmic Charmers     Spiritual Arts    Familiar   Possessed Familiars 
+ Dharc     Dharc     n/a     Greed     Meda Bat     n/a 
+ Aussa     Aussa     Avalanching Aussa     Kurogane     Marmot     Nefarious 
+ Hiita     Hiita     Blazing Hiita     Kurenai     Fox Fire     Inari Fire 
+ Lyna     Lyna     n/a     Hijiri     Happy Lover     n/a 
+ Eria     Eria     Raging Eria     Aoi     Gigobyte     Jigabyte 
+ Wynn     Wynn     Storming Wynn     Miyabi     Petit Dragon     Ranryu 
+ 
+ 
+ Chrysalis     Neo-Spacians    Evolved forms   Contact Fusions   Evolved forms   Advanced Contact Fusions 
+ Pantail     Dark Panther     n/a     Dark Neos     n/a     Chaos Neos 
+ Mole     Grand Mole     n/a     Grand Neos     n/a     Nebula Neos 
+ Larva     Flare Scarab     n/a     Flare Neos     n/a     Magma Neos 
+ Pinny     Glow Moss     Twinkle Moss     Glow Neos     n/a     Cosmo Neos 
+ Dolphin     Aqua Dolphin     Marine Dolphin     Aqua Neos     Marine Neos     n/a 
+ Chicky     Air Hummingbird     n/a     Air Neos     n/a     Storm Neos 
+ 
+ 
+ Code Talkers      (Link-3) 
+ Decode    ( Extended ) 
+ Transcode 
+ Powercode 
+ Encode 
+ Shootingcode 
+ Excode 
+ 
+ 
+ Color Ninjas    Dragon Ninjas 
+ Strike     Black 
+ Senior Silver     n/a 
+ n/a     Red 
+ White     White 
+ n/a     Blue 
+ Yellow     Yellow 
+ 
+ 
+ Cubic 
+ Vijam  /  Crimson Nova  ( Trinity ) 
+ Dark Garnex 
+ Blade Garoodia 
+ Duza  /  Buster Gundil  /  Indiora Doom Volt 
+ n/a 
+ Geira Guile 
+ 
+ 
+ CXyz 
+ Dark Fairy Cheer Girl  /  Mechquipped Djinn Angeneral 
+ Comics Hero Legend Arthur  /  Battleship Cherry Blossom  /  Zubaba Saikyo General 
+ Coach Lord Ultimatrainer 
+ Simon the Great Moral Leader  /  Barian Hope 
+ N.As.Ch. Knight 
+ Skypalace Babylon 
+ 
+ 
+ Dice Roll  Archfiends 
+ Terrorking  /  Masterking 
+ Vilepawn 
+ Infernalqueen 
+ Desrook 
+ Darkbishop 
+ Shadowknight 
+ 
+ 
+ Double Tributers     Effigies 
+ Double Coston     Dark 
+ The Trojan Horse     Earth 
+ Flame Ruler     n/a 
+ Kaiser Sea Horse     Light 
+ Unshaven Angler     n/a 
+ Whirlwind Prodigy     Wind 
+ 
+ 
+ Dragonmaids    Human forms   Dragon forms 
+ Chamber     n/a 
+ Nurse     Ernus 
+ Kitchen     Tinkhec 
+ House     Sheou 
+ Laundry     Nudyarl 
+ Parlor     Lorpar 
+ 
+ 
+ Dustons     (1/0/1000/Fiends) 
+ Star 
+ Yellow 
+ Red 
+ House  /  White 
+ Blue 
+ Green 
+ 
+ 
+ Elemental HERO    Fusion Monsters    (1 "HERO" + 1 matching Attribute) 
+ Escuridao 
+ Gaia 
+ Nova Master 
+ The Shining 
+ Absolute Zero 
+ Great Tornado 
+ 
+ 
+ Elemental Lords     Elementsabers 
+ Umbramirage     Molehu 
+ Grandsoil     Aina 
+ Pyrorex     Malo 
+ Phosphorage     Lapauila  ( Mana ) 
+ Moulinglacia     Nalu 
+ Windrose     Makani 
+ 
+ 
+ Empowered Warriors     Summoners 
+ Dragonox     n/a 
+ Terratiger     White Tiger 
+ Arnis     Red Sparrow 
+ Dragodies     Golden Dragon 
+ Hydrortoise      Green Turtle 
+ Ventdra     Blue Dragon 
+ 
+ 
+ Endymion 
+ Master Magician  /  Mighty Master of Magic 
+ Magister 
+ Rogue 
+ Crusader  /  Reflection 
+ Magistus of Mastery 
+ Servant 
+ 
+ 
+ Entities 
+ Azathot 
+ Nyarla 
+ Cthugua 
+ N'tss 
+ Norden 
+ Hastorr 
+ 
+ 
+ Fortune Fairies     Fortune Ladies 
+ Ann     Dark  /  Past 
+ Chee     Earth 
+ En     Fire 
+ Hikari     Light  /  Every 
+ Swee     Water 
+ Hu     Wind 
+ 
+ 
+ Fur Hire 
+ Seal  /  Folgo 
+ Beat  /  Dyna 
+ Bravo 
+ Rafale 
+ Helmer  /  Wiz 
+ Donpa  /  Recon  /  Sagitta 
+ 
+ 
+ Generaiders 
+ Hela  /  Harr 
+ Dovelgus  /  Jormungandr 
+ Naglfar  /  Loptr 
+ Mardel  /  Utgarda 
+ Nidhogg 
+ Frodi 
+ 
+ 
+ Gizmek 
+ Orochi 
+ Uka 
+ Kaku 
+ Yata 
+ Okami 
+ Mikoto 
+ 
+ 
+ Guardians    Weapons     (Equip Spell Cards) 
+ Baou  /  Dreadscythe     Wicked-Breaking Flamberge  /  Reaper Scythe 
+ Grarl     Gravity Axe 
+ Ceal     Shooting Star Bow 
+ Tryce     Twin Swords of Flashing Light 
+ Kay'est     Rod of Silence 
+ Elma  /  Eatos     Buttefly Dagger  /  Celestial Sword 
+ 
+ 
+ Invoked     (1 " Aleister the Invoker " + 1 matching Attribute) 
+ Caliga 
+ Magellanica 
+ Purgatrio 
+ Mechaba 
+ Cocytus 
+ Raidjin 
+ 
+ 
+ Kaiju 
+ Radian 
+ Kumongous 
+ Dogoran 
+ Jizukiru  /  Mecha-Dogoran  /  Thunder King  /  Mecha-Thunder-King 
+ Gameciel 
+ Gadarla 
+ 
+ 
+ Knightmare 
+ Iblee  /  Unicorn  /  Orcust  /  Idlee 
+ Cerberus 
+ Phoenix 
+ Gryphon 
+ Mermaid 
+ Goblin 
+ 
+ 
+ Legendary Planets 
+ Sun  /  Jupiter  /  Saturn  /  Pluto 
+ Terra Firma 
+ Mars 
+ Venus  /  Uranus 
+ Mercury  /  Neptune 
+ n/a 
+ 
+ 
+ Masked HEROes 
+ Dark Law  /  Anki 
+ Dian 
+ Goka 
+ Koga 
+ Vapor  /  Acid 
+ Divine Wind  /  Blast 
+ 
+ 
+ Magician Girls 
+ ( Toon )    Dark    ( Dragon Knight ) 
+ Berry 
+ Apple 
+ Lemon 
+ Chocolate 
+ Kiwi 
+ 
+ 
+ Magikey 
+ Clavkiys  /  Batosbuster  /  Ansyalabolas 
+ Garesglasser 
+ Transfurlmine 
+ Mafteal 
+ Vepartu 
+ Andrabime 
+ 
+ 
+ Magistus 
+ Grimoire Crowley 
+ Goddess Ninaruru 
+ Flame Zoroa  /  Dragon Vafram 
+ Verre Cendrillon  /  Maiden Artemis 
+ Master Endymion 
+ Saint Aiwass 
+ 
+ 
+ Mirror Force 
+ Dark 
+ Quaking 
+ Blazing 
+ Radiant 
+ Drowning 
+ Storming 
+ 
+ 
+ Monarchs    Mega Monarchs   Related  "Monarch"  Spell/Trap Cards    Vassals 
+ Caius  /  Erebus     Caius the Mega     Tenacity  /  The First     Lucius  /  Eidos 
+ Granmarg     Granmarg the Mega     Return     Landrobe  /  Samsara Kaiser 
+ Thestalos     Thestalos the Mega     Erupt     Berlineth 
+ Zaborg  /  Ehther     Zaborg the Mega     Strike  /  The Prime     Mithra  /  Edea 
+ Mobius     Mobius the Mega     Awaken     Escher 
+ Raiza     Raiza the Mega     Stormforth     Garum 
+ 
+ 
+ Musical  Djinns 
+ Maestroke 
+ Temtempo 
+ n/a 
+ Melomelody 
+ Humhumming 
+ Muzurhythm 
+ 
+ 
+ Mythyrian Numbers 
+ Djinn Buster 
+ Lion Heart  /  Ronin Raccoon Sandayu 
+ n/a 
+ Sky Pegasus  /  Dragluon 
+ Abyss Splash  /  Crystalzero 
+ n/a 
+ 
+ 
+ Nemeses 
+ Protos 
+ Keystone 
+ Flag 
+ Eschatos 
+ Umbrella 
+ Corridor 
+ 
+ 
+ Number 10X     Number C10X 
+ n/a     Umbral Horror Masquerade 
+ Giant Hand     Giant Red Hand 
+ Battlin' Boxer Star Cestus     Battlin' Boxer Comet Cestus 
+ Star Seraph Sentry  /  Masquerade  /  Galaxy-Eyes Tachyon Dragon     Archfiend Seraph  /  Neo Galaxy-Eyes Tachyon Dragon 
+ Silent Honor ARK  /  Ragnazero     Silent Honor DARK  /  Ragnafinity 
+ n/a     n/a 
+ 
+ 
+ Odd-Eyes Dragons 
+ Odd-Eyes  /  Pendulum  /  Rebellion  ( Overlord ) /  Persona  /  Phantom  /  Mirage  /  Performapal Metal Claw  /  Raging  /  Supreme King  /  Wing  /  Venom  /  Arc Pendulum  /  Advance  /  Wizard 
+ Gravity 
+ Meteorburst 
+ Saber  /  Lancer  /  Revolution  /  Pendulumgraph 
+ Absolute 
+ Vortex 
+ 
+ 
+ Pendulum  Magicians 
+ Stargazer  /  Timegazer  /  Xiangke  /  Timebreaker  /  Acrobatic  /  Dragoncaller  /  Harmonizing  /  Double Iris  /  Black Fang  /  Purple Poison  /  Performapal Celestial 
+ Dragonpulse 
+ Nobledragon 
+ Wisdom-Eye  /  Xiangsheng  /  Dharma-Eye  /  Performapal Five-Rainbow 
+ Dragonpit 
+ Oafdragon  /  White Wing 
+ 
+ 
+ Prediction Princesses 
+ Astromorrigan 
+ Coinorma  /  Petalelf 
+ n/a 
+ Tarotrei 
+ Crystaldine 
+ Arrowsylph 
+ 
+ 
+ Resonators 
+ Dark  /  Synkron  /  Crimson 
+ Clock 
+ Flare  /  Red  /  Double  /  Net 
+ Barrier  /  Chain  /  Mirror 
+ Force 
+ Creation 
+ 
+ 
+ Road Magic 
+ N/A 
+ Diastrophism 
+ Explosion 
+ Rays Alter 
+ Backflow 
+ Tempest 
+ 
+ 
+ El Shaddoll    Fusion Monsters    (1 "Shaddoll" + 1 matching Attribute) 
+ Winda 
+ Shekhinaga 
+ Grysta 
+ Construct 
+ Anoyatyllis 
+ Wendigo 
+ 
+ 
+ Signer Dragons 
+ Red Archfiend  /  Black-Winged 
+ Life Stream 
+ Black Rose 
+ Ancient Fairy 
+ n/a 
+ Stardust 
+ 
+ 
+ Six Samurai     Legendary Six Samurai     Secret Six Samurai 
+ Irou     Shi En     Doji 
+ Yariza     Kizan     Kizaru 
+ Kamon     Mizuho     Genba 
+ Zanji     Enishi     Rihan 
+ Yaichi     Shinai     Hatsume 
+ Nisashi     Kageki     Fuma 
+ 
+ 
+ Sky Striker Ace 
+ Raye  /  Zeke 
+ Kaina 
+ Kagari 
+ Roze 
+ Shizuku 
+ Hayate 
+ 
+ 
+ Sushi Angels 
+ Spider Roll 
+ Monkey Roll 
+ n/a 
+ Garibel  /  Agaribel 
+ Tiger Roll 
+ Dragon Roll 
+ 
+ 
+ Synchro  Warriors    Tuner  Synchrons 
+ Junk  /  Satellite     Junk  /  Satellite 
+ Drill     Drill 
+ Nitro  /  Jet     Nitro  /  Jet 
+ Road     Road 
+ n/a     Steam 
+ Turbo     Turbo 
+ 
+ 
+ Tenyi  Spirits 
+ Vishuda 
+ Adhara 
+ Mapura 
+ Ashuna  /  Sahasrara 
+ Sthana 
+ Nahata 
+ 
+ 
+ The Weathers    Canvas     (Continuous Spell/Trap Cards) 
+ Aurora     Auroral 
+ Snow     Snowy 
+ Sun     Sunny 
+ Thunder  /  Rainbow     Thundery  /  Rainbowed 
+ Rain     Rainy 
+ Cloud     Cloudy 
+ 
+ 
+ Timelords 
+ Vorpgate 
+ Kamion  /  Hailon 
+ Metaion  /  Lazion  /  Michion 
+ Sephylon  /  Sandaion 
+ Zaphion  /  Gabrion 
+ Sadion  /  Raphion 
+ 
+ 
+ True Draco and True King 
+ All Calamities 
+ Lithosazim  /  Dreiath III 
+ Agnimazud  /  Ignis Heat 
+ Master Peace  ( King ) /  Metaltron XII 
+ Bahrstos  /  Dinomight Knight 
+ Majesty Maiden  /  Mariamne 
+ 
+ 
+ Witchcrafters 
+ Haine 
+ Potterie 
+ Schmitta 
+ Edel  /  Madame Verre  /  Golem Aruru 
+ Pittore 
+ Genni 
+ 
+ 
+ World Chalice 
+ World Legacy 
+ Beckoned  /  Ningirsu 
+ Chosen  /  Auram 
+ Lee 
+ Crowned  / Ib ( Priestess / Justiciar ) 
+ Guardragon  /  Imduk  /  Almarduke 
+ 
+ 
+ Yang Zing 
+ Taotie  /  Jiaotu  /  Yazi 
+ Bi'an  /  Zefraxi  /  Zefraniu 
+ Suanni 
+ Chiwen  /  Baxia  /  Chaofeng  /  Denglong 
+ Bixi 
+ Pulao 
+ 
+ 
+ Yo-kai Girls 
+ Ghost Reaper & Winter Cherries 
+ Ghost Belle & Haunted Mansion 
+ Ash Blossom & Joyous Spring 
+ Ghost Ogre & Snow Rabbit 
+ Ghost Sister & Spooky Dogwood 
+ Ghost Mourner & Moonlit Chill 
+ 
+ 
+ ZW - 
+ Chimera Clad  /  Dragonic Halberd 
+ Ultimate Shield 
+ Phoenix Bow  /  Asura Strike 
+ Unicorn Spear  /  Lightning Blade  /  Leo Arms  /  Sleipnir Mail  /  Fenrir Sword  /  Pegasus Twin Saber  /  Sylphid Wing 
+ n/a 
+ Tornado Bringer  /  Eagle Claw 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/33/Mat-OTSChampionship-Aromage-KR.png/revision/latest/scale-to-width-down/350?cb=20160422122130', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/24?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/24?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/24?cb=20120918053839', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Synchro Monster(s), Archetypes with Link Monster(s)

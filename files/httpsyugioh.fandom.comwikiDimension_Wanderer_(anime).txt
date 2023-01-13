@@ -1,0 +1,101 @@
+Link: https://yugioh.fandom.com/wiki/Dimension_Wanderer_(anime)
+
+Main card page: " Dimension Wanderer " 
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Dimension Wanderer 
+ 
+ Japanese:   ディメンション・ワンダラー 
+ Romaji:   Dimenshon Wandarā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Level 
+ 
+ 
+ 1   
+ 
+ [  Spellcaster  /  Effect  ] When a  monster  you  control  is  banished  by a  card effect : You can  send  this card from your  hand  to the  Graveyard , then  target  2 banished monsters; inflict  damage  to your opponent equal to the total  ATK  of those targets.
+ ATK  /  0     DEF  /  0   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  071 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ディメンション・ワンダラー 
+ 自分フィールド上のモンスター１体がカードの効果でゲームから除外された時、このカードを手札から墓地へ送って発動できる。ゲームから除外されているモンスター２体を選択する。選択したモンスターの攻撃力の合計分のダメージを相手ライフに与える。 
+ 
+ 
+ Dimenshon Wandarā 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Kite Tenjo 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Sends itself from hand to Graveyard for cost 
+ 
+ LP   
+ Damages your opponent 
+ 
+ 
+ 
+   " Dimension Wanderer " pages 
+ 
+ 
+ Anime Yu-Gi-Oh! D Team ZEXAL 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/1/19/DimensionWanderer-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20120910104913', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/ee/DimensionWanderer-OW.png/revision/latest/scale-to-width-down/185?cb=20140406004241', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

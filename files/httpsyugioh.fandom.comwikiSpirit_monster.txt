@@ -1,0 +1,698 @@
+Link: https://yugioh.fandom.com/wiki/Spirit_monster
+
+"Spirit" redirects here. For the  archetype , see  "Spirit" (archetype) .   
+ 
+ 
+ Spirit monster
+ 
+ 
+ 
+ " Hino-Kagu-Tsuchi " and " Yamata Dragon " in the artwork of " Last Turn "
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ スピリット(モンスター) [Notes 1] 
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Supiritto (monsutā)
+ 
+ 
+ 
+ English
+ 
+ 
+ Spirit (monster)
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : (monstre) Spirit 
+ German : Spirit(-Monster) (Geister Monster in the anime) 
+ Italian : (mostro) Spirit 
+ Portuguese : (monstro) Espírito Formerly: Spirit 
+ Spanish : (monstruo) Spirit (Espíritu Monstruo in the anime) 
+ Korean : 스피릿 (몬스터)  Seupirit (Monseuteo) 
+ Traditional Chinese : 靈魂(怪獸)  Línghún (Guàishòu) / Ling4 wan4 (Gwaai3 sau3) 
+ 
+ 
+ 
+ 
+ 
+ Appears in (sets)
+ 
+ 
+ Mythological Age 
+ Threat of the Dark Demon World 
+ Duelist Legacy Volume.5 
+ Legacy of Darkness 
+ Pharaonic Guardian 
+ Dark Crisis 
+ Structure Deck: Zombie Madness 
+ Dark Revelation Volume 1 
+ Dark Beginning 2 
+ Expert Edition Volume 1 
+ Structure Deck: Spellcaster's Judgment 
+ Tournament Pack 6 
+ Structure Deck: Invincible Fortress 
+ Structure Deck: Revival of the Great Dragon 
+ The Duelist Genesis 
+ Retro Pack 2 
+ Duel Terminal - Charge of the Genex!! 
+ Extra Pack Volume 2 
+ Absolute Powerforce 
+ Storm of Ragnarok 
+ Duel Terminal - Xyz Startup!! 
+ Hidden Arsenal 4: Trishula's Triumph 
+ Photon Shockwave 
+ Battle Pack: Epic Dawn 
+ Hidden Arsenal 6: Omega Xyz 
+ Hidden Arsenal 7: Knight of Stars 
+ Shadow Specters 
+ Legacy of the Valiant 
+ The Dark Illusion 
+ Raging Tempest 
+ Circuit Break 
+ Flames of Destruction 
+ 
+ 
+ Appears in (anime)
+ 
+ 
+ Yu-Gi-Oh! Duel Monsters 
+ Yu-Gi-Oh! (Duel Monsters) GX 
+ 
+ 
+ Lists
+ 
+ 
+ 
+ 
+ members 
+ support 
+ anti-support 
+ 
+ Spirit monsters  (スピリットモンスター  Supiritto monsutā ) are  Effect Monsters  with the  ability  "Spirit". Each of this type of monster has an effect that returns it to its owner's hand during the  End Phase  of the turn it is  Normal Summoned  or  flipped  face-up (or the turn it is Special Summoned in case of Spirit monsters that must be Special Summoned). With the exception of the  Special Summon Monster  " Yamato-no-Kami ", " Shinob "  Ritual Monsters , and the  Martial Arts Spirits , this kind of monster cannot be  Special Summoned . The " Martial Arts Spirit " monsters (which are  Pendulum  Spirit Monsters) are an exception to both of these typical characteristics: they can be either Normal or Special Summoned, but their effects (including the Spirit return effect) only activate when they are Normal Summoned.
+ The designs of most Spirit monsters are based on icons from Eastern mythology. They all have very similar backgrounds, ostensibly the  Spirit World . Their OCG names are in  kanji , but the  furigana  is in  katakana , which normally would indicate a foreign-language word.
+ 
+ Contents 
+ 
+ 1   History 
+ 
+ 1.1   In the anime 
+ 
+ 
+ 2   Text 
+ 3   Playing style 
+ 
+ 3.1   Recommended cards 
+ 3.2   Weaknesses 
+ 
+ 
+ 4   Examples 
+ 5   Trivia 
+ 6   See also 
+ 7   Notes 
+ 
+ 
+ History 
+ Spirit monsters debuted in  Mythological Age  and received support for the first time in  The Duelist Genesis , which was released almost 7 years later. When they are reprinted, it is usually in  Structure Decks  and  Tournament Packs .
+ There are no  archetypes  focused on Spirit monsters, but there is one  series  that does, " Shinob ". The only two archetypes that have Spirit monsters as members are " Ice Barrier " (" Sacred Spirit of the Ice Barrier ") and " Gishki " (" Gishki Natalia " and " Emilia "). Both archetypes are  WATER -Attribute, and their Spirit monsters don't represent any mythological figure, instead representing revived spirits of dead characters of their storyline. All of these Spirit monsters were introduced in the  Hidden Arsenal  series.
+ Due to the low speed of a dedicated Spirit Deck, as well as their lack of Special Summons and field presence, they never experienced competitive relevance as a Deck theme (although individual members did). There are several competitively noteworthy Spirit monsters, such as " Yata-Garasu ", the fundamental part of the  Yata-Garasu Lockdown , which was  Forbidden  for 17 years until 2022; " Tsukuyomi ", which used to be Forbidden due to its ability to  Set   Flip monsters  again to allow them to activate their effects again, enabling powerful loops; and " Asura Priest ", whose ability to attack every opposing monster was unique at the time of its release.
+ 
+ In the anime 
+ In the  Yu-Gi-Oh!  anime, in episodes  117  and  118 ,  Noah Kaiba  used Spirit monsters in his duel against  Yami Yugi . According to him, the Spirit monsters were created by  Maximillion Pegasus  when he was traveling to Eastern Asia and drew inspiration from the religions and mythologies from that region.
+ In  Yu-Gi-Oh! GX  and  Yu-Gi-Oh! ARC-V , "Asura Priest" and "Dark Dust Spirit" had cameo appearances, in episodes  111  and  21 , respectively.
+ 
+ Text 
+ Latest effect text (using  PSCT ) reads as follow:
+ 
+ Cannot be Special Summoned. [...] Once per turn, during the End Phase, if this card was Normal Summoned or flipped face-up this turn: Return it to the hand.
+ 
+ Playing style 
+ Spirit monsters return to the hand during the End Phase of the turn they were Normal Summoned or flipped face-up, so it is difficult to maintain field presence. This can be worked around with cards like " Spiritual Energy Settle Machine ", " Mirror of Yata " and " Izanagi ", which allow Spirit monsters to remain on the field in spite of their effects. Also, " Shinobaron Peacock " and " Shinobaroness Peacock " can Special Summon a Level 4 or lower Spirit monster ( Ignoring its Summoning conditions ), which in turn will stay on the field, since it will not have been Normal Summoned. Alternately, some cards provide positive effects whenever a Spirit monster returns to the player's hand: " Spirit's Invitation " forces an opponent's monster to return to the hand whenever a Spirit returns to the hand.
+ Spirit monsters have a wide variety of effects, including searching for cards (e.g. " Aratama "), allowing an extra Normal Summon (e.g. " Nikitama "), retrieving fallen monsters (e.g. " Izanami "), locking the opponent's attacks (e.g. " Great Long Nose "), and destroying all monsters the opponent controls (e.g. " Dark Dust Spirit "). "Shinobaron Peacock" and "Shinobaroness Peacock" Special Summon a Spirit monster  ignoring its Summoning conditions  while getting rid of up to 3 opposing cards in the process, and " Shinobird Salvation " destroys an opposing card once per turn when a Spirit monster returns to the hand.
+ Two of the strongest Spirit monsters, " Hino-Kagu-Tsuchi " and " Yamata Dragon ", focus on maintaining significant hand advantage over the opponent, with their effects activating when they inflict  battle damage : "Hino-Kagu-Tsuchi" empties the opponent's entire hand before their Draw Phase, while "Yamata Dragon" fills its controller's hand with up to 5 cards.
+ Since Spirit monsters only return to the hand during the End Phase of the turn they are Normal Summoned or flipped face-up, if they fail to return to the hand, such as due to " Dimensionhole " or " Forbidden Chalice ", they will not return to the hand in subsequent turns.
+ There are however monsters like " Dark Dust Spirit " and "Fenghuang" that shine when they can be used repeatedly. Both have the ability to level the field, " Dark Dust Spirit " destroying all monsters, "Fenghuang" destroying all of the opponent's set spell/trap cards. Summoning them repeatedly can be made easier by running cards like "Majiosheldon" and " The Monarchs Stormforth ". When running these cards, using "Escalation of the Monarchs" as well is advised, as it allows the player to splash either of these monsters during the opponents turn, repeatedly regaining field control. 
+ 
+ Recommended cards 
+ Some of the generic cards that may help a Spirit Deck include:
+ 
+ " Gorz the Emissary of Darkness ", " Tragoedia " and " Battle Fader ": due to the lack of field presence, the player is likely to be frequently open for direct attacks. Also, these monsters can be used as fodder for the Tribute Summon of a Spirit monster. 
+ " Marshmallon " and " Spirit Reaper ": Since these monsters cannot be destroyed in battle, they can survive long enough to be used as tributes for a high-level monster, as long as your opponent doesn't use card effects to destroy them. Use " My Body as a Shield ", " Magic Jammer ", " Seven Tools of the Bandit ", and other spell/trap/destruction negation cards to protect them. 
+ " Black Luster Soldier - Envoy of the Beginning ": it can be a great  beatstick , and can be Summoned by banishing, for example, "Nikitama", " Otohime ", " Asura Priest " or " Effect Veiler " and "Yamato-no-Kami", " Aratama ", " Great Long Nose " etc, giving the fallen Spirit monsters a last utility. 
+ " Forbidden Chalice ": can be very useful, as it can negate the signature effect of the Spirit monsters and keep them on the field. Use this card after you used their main effect, like after attacking with "Hino-Kagu-Tsuchi" or after destroying a Spell/Trap Card with "Yamato-no-Kami". This card is more valuable when used on high-level monsters, such as "Great Long Nose" or "Yamata Dragon", or Spirits whose effects don't activate upon being Normal Summoned or flipped face-up, such as "Asura Priest" or "Fushi No Tori". 
+ " D.D. Sprite ": this monster can also be used to keep a Spirit monster on the field, and since it is a  Tuner monster , it can allow the Deck to perform  Synchro Summons . " Ancient Sacred Wyvern " is a useful  Synchro Monster  that can be Summoned by using one of the Level 6 Spirit monsters; since the Deck frequently has cards that increase the difference between the players'  LP  (" Spring of Rebirth ", " Orb of Yasaka ", " Fushi No Tori ", etc.), this monster can be used at its maximum potential. 
+ " Slacker Magician ": this monster can be easily Summoned by the effect of " Kinka-byo " and can serve as a wall, since it cannot be easily removed from the the field, except by effects that don't target. 
+ " Creature Swap "/" Mystic Box ": the Spirit monster given to the opponent will return to its owner's hand anyway. 
+ " The Monarchs Stormforth "/" Soul Exchange ": These cards can be used to get rid of an opponent's monster while also Tribute Summoning a Spirit monster. 
+ " Soul Transition ": this card's drawback of not allowing Special Summons during the turn it is used generally is not a problem. It is best used if the monster tributed as cost is "Nikitama", while you control another Spirit monster, preferably "Aratama": in this scenario it is possible to draw 3 cards while also replacing the Tributed "Nikitama" with another copy of it, searched by "Aratama". 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ Izanagi 
+ Battle Fader 
+ Marshmallon 
+ Speedroid Menko 
+ Spirit Reaper 
+ Electromagnetic Turtle 
+ Black Luster Soldier - Envoy of the Beginning 
+ Gorz the Emissary of Darkness 
+ Tragoedia 
+ Spirit monsters 
+ Aratama 
+ Nikitama 
+ Asura Priest 
+ Izanami 
+ Rasetsu 
+ Tsukuyomi 
+ Amano-Iwato 
+ Yaksha 
+ Amaterasu 
+ Konohanasakuya 
+ Shinobird Crane 
+ Fenghuang 
+ Dark Dust Spirit 
+ Yamata Dragon 
+ Hino-Kagu-Tsuchi 
+ Yamato-no-Kami 
+ Kinka-byo 
+ Ritual Monsters 
+ Shinobaron Peacock 
+ Shinobaroness Peacock Extra Deck   
+ Xyz Monsters 
+ Rank 1  monsters 
+ Rank 4  monsters 
+ Rank 6  monsters Spells   &  Traps   
+ Spells 
+ Sword of Kusanagi 
+ Orb of Yasaka 
+ Mirror of Yata 
+ Shinobird's Calling 
+ Creature Swap 
+ Mystic Box 
+ Spring of Rebirth 
+ Stray Lambs 
+ The Monarchs Stormforth 
+ Traps 
+ Legacy of Yata-Garasu 
+ Shinobird Salvation 
+ Spirit's Invitation 
+ Metal Reflect Slime 
+ The Golden Apples 
+ Soul Transition 
+ Weaknesses 
+ The main weaknesses of the Spirit Monsters are the fact that they can't stay on the field for long and cannot be Special Summoned (except "Yamato-No-Kami"), which make them having limited swarming capabilities. Due to the difficulty in maintaining field advantage, this Deck is susceptible to direct attacks, so  Beatdown  and  Aggro  Decks, like " Six Samurai ", " Dark World ", " Yosenju ", " Karakuri ", " Noble Knight ", " Spellbook ", etc are good against this Deck. 
+ Stall  Decks are a large threat to this Deck, since it is inherently slow due to its lack of swarming and field presence. If "Hino-Kagu-Tsuchi" or "Yamata Dragon" is Summoned but doesn't get a chance to activate its effect, a lot of resources are wasted. As such, " Vengeful Bog Spirit ", " Level Limit - Area B ", " Threatening Roar ", " Gravity Bind ", " Chain Energy " and even " Skill Drain " can mean trouble. 
+ " D.D. Designator " and " Mind Crush " can easily pick a card from the player's hand, since monsters frequently return there. 
+ " Rivalry of Warlords " and " Gozen Match " can slow this deck down, since Spirit monster Decks typically uses Spirits of different Types and Attributes. 
+ Examples 
+ Effect Spirit Monster Ritual Spirit Monster Pendulum Spirit Monster 
+ Trivia 
+ The Spirit monster " Yata-Garasu " is infamous for  its complete lockdown  of the opponent's hand when combined with " Chaos Emperor Dragon - Envoy of the End ". As a result, it remains Forbidden since 2004. "Chaos Emperor Dragon - Envoy of the End" would later receive an errata that allowed it to become Unlimited. 
+ " Izanagi " is the only non-Spirit monster that has  Spirit World  in its background and the only non-Spirit monster that directly supports Spirit monsters. 
+ " Soul Resurrection " is the only card that have the  Spirit World  in its background with absolutely no relation to Spirit monsters. 
+ The effect that returns Spirit monsters to the hand, as well as their transparent appearance, may be a reference to them not being able to stay on the physical plane for long. 
+ There are no  Insect ,  Reptile ,  Fish ,  Sea Serpent ,  Plant ,  Machine ,  Psychic ,  Wyrm ,  Cyberse , or  Dinosaur  type Spirit monsters. 
+ See also 
+ Card Rulings:Spirit monster 
+ Notes 
+ 
+ ↑   The parentheses here specify what part is not shown on the cards'  Type / Ability  line. 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/66/Amaterasu-TDIL-EN-SR-1E.png/revision/latest/scale-to-width-down/134?cb=20160805082356', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/bc/ShinobaronPeacock-RATE-EN-R-1E.png/revision/latest/scale-to-width-down/137?cb=20170207033518', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/20/YokoZunaSumoSpirit-EXFO-EN-C-1E.png/revision/latest/scale-to-width-down/137?cb=20200406165027', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Secondary types of Monster Cards

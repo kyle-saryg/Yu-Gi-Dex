@@ -1,0 +1,682 @@
+Link: https://yugioh.fandom.com/wiki/Pinpoint_Guard
+
+The  Croatian                        name given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Pinpoint Guard ピンポイント・ガード 
+ 
+ English 
+Pinpoint Guard 
+ Chinese 
+ 精準防禦 Check translation 
+ French 
+ Garde Précis Check translation 
+ German 
+ Zielgenaue Wache Check translation 
+ Italian 
+ Guardia Mirata Check translation 
+ Korean 
+ 핀포인트 가드 Check translation 
+ Portuguese 
+ Guarda Localizador Check translation 
+ Spanish 
+ Guarda Preciso Check translation 
+ Japanese 
+ ピンポイント・ガード Check translation 
+ Japanese ( rōmaji ) 
+Pinpointo Gādo 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 44509898 
+ Card effect types 
+ 
+ 
+ Activation requirement 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When an opponent's  monster   declares  an  attack :  Target  1  Level  4 or lower monster in your  Graveyard ;  Special Summon  it in  Defense Position . It cannot be  destroyed   by battle  or  card effects  this  turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Lorsqu'un monstre de votre adversaire déclare une attaque : ciblez 1 monstre de max. Niveau 4 dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense. Ce tour, il ne peut être détruit ni au combat ni par des effets de carte. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wenn ein Monster deines Gegners einen Angriff deklariert: Wähle 1 Monster der Stufe 4 oder niedriger in deinem Friedhof; beschwöre es als Spezialbeschwörung in die Verteidigungsposition. Es kann in diesem Spielzug weder durch Kampf noch durch Karteneffekte zerstört werden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando un mostro dell'avversario dichiara un attacco: scegli come bersaglio 1 mostro di Livello 4 o inferiore nel tuo Cimitero; Evocalo Specialmente in Posizione di Difesa. Esso non può essere distrutto in battaglia o dagli effetti delle carte in questo turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Quando um monstro do oponente declarar um ataque: escolha 1 monstro de Nível 4 ou menos no seu Cemitério; Invoque por Invocação-Especial em Posição de Defesa. Ele não pode ser destruído em batalha ou por efeitos de card neste turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando un monstruo de tu adversario declara un ataque: selecciona 1 monstruo de Nivel 4 o menor en tu Cementerio; Invócalo de Modo Especial en Posición de Defensa. Este turno, éste no puede ser destruido en batalla o por efectos de cartas. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：相手モンスターの攻撃宣言時、自分の墓地のレベル４以下のモンスター１体を対象として発動できる。そのモンスターを守備表示で特殊召喚する。この効果で特殊召喚したモンスターはこのターン、戦闘・効果では破壊されない。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 對手怪獸宣言攻擊時，可選擇我方墓地等級4以下的1隻怪獸發動。選擇的怪獸將以表側守備表示特別召喚。以該效果特別召喚的怪獸，於該回合中不會因戰斗及卡牌效果而破壞。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 상대 몬스터의 공격 선언시, 자신 묘지의 레벨 4 이하의 몬스터 1장을 선택하고 발동할 수 있다. 선택한 몬스터를 앞면 수비 표시로 특수 소환한다. 이 효과로 특수 소환한 몬스터는 그 턴에, 전투 및 카드의 효과로는 파괴되지 않는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2013-05-17  
+ LTGY-EN069   
+ Lord of the Tachyon Galaxy 
+ Secret Rare 
+ 
+ 
+ 2014-07-31  
+ BP03-EN228   
+ Battle Pack 3: Monster League 
+ Common 
+ 
+ 
+ 2014-07-31  
+ BP03-EN228   
+ Battle Pack 3: Monster League 
+ Shatterfoil Rare 
+ 
+ 
+ 2014-08-28  
+ MP14-EN044   
+ 2014 Mega-Tin Mega Pack 
+ Secret Rare 
+ 
+ 
+ 2016-01-28  
+ SR01-EN040   
+ Emperor of Darkness Structure Deck 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ 
+ North American English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2015-05-29  
+ YS15-ENF23   
+ Saber Force Starter Deck 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—Europe 
+ 
+ 
+ 
+ European English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2015-05-28  
+ YS15-ENY18   
+ 2-Player Starter Deck Yuya & Declan 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2013-05-16  
+ LTGY-FR069   
+ Lord of the Tachyon Galaxy 
+ Le Seigneur de la Galaxie Tachyon  
+ Secret Rare 
+ 
+ 
+ 2014-07-31  
+ BP03-FR228   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: La Ligue des Monstres  
+ Common 
+ 
+ 
+ 2014-07-31  
+ BP03-FR228   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: La Ligue des Monstres  
+ Shatterfoil Rare 
+ 
+ 
+ 2014-08-28  
+ MP14-FR044   
+ 2014 Mega-Tin Mega Pack 
+ 2014 Méga-Boîte Méga-Pack  
+ Secret Rare 
+ 
+ 
+ 2015-05-28  
+ YS15-FRY18   
+ 2-Player Starter Deck Yuya & Declan 
+ Deck de Démarrage pour 2 Joueurs Yuya & Declan  
+ Common 
+ 
+ 
+ 2016-01-28  
+ SR01-FR040   
+ Emperor of Darkness Structure Deck 
+ Empereur des Ombres Deck de Structure  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2013-05-16  
+ LTGY-DE069   
+ Lord of the Tachyon Galaxy 
+ Lord of the Tachyon Galaxy  
+ Secret Rare 
+ 
+ 
+ 2014-07-31  
+ BP03-DE228   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Monster League  
+ Common 
+ 
+ 
+ 2014-07-31  
+ BP03-DE228   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Monster League  
+ Shatterfoil Rare 
+ 
+ 
+ 2014-08-28  
+ MP14-DE044   
+ 2014 Mega-Tin Mega Pack 
+ 2014 Mega-Tin Mega Pack  
+ Secret Rare 
+ 
+ 
+ 2015-05-28  
+ YS15-DEY18   
+ 2-Player Starter Deck Yuya & Declan 
+ 2-Player Starter Deck Yuya & Declan  
+ Common 
+ 
+ 
+ 2016-01-28  
+ SR01-DE040   
+ Emperor of Darkness Structure Deck 
+ Emperor of Darkness Structure Deck  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2013-05-16  
+ LTGY-IT069   
+ Lord of the Tachyon Galaxy 
+ Il Signore della Galassia Tachionica  
+ Secret Rare 
+ 
+ 
+ 2014-07-31  
+ BP03-IT228   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Lega dei Mostri  
+ Common 
+ 
+ 
+ 2014-07-31  
+ BP03-IT228   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Lega dei Mostri  
+ Shatterfoil Rare 
+ 
+ 
+ 2014-08-28  
+ MP14-IT044   
+ 2014 Mega-Tin Mega Pack 
+ 2014 Mega-Tin Mega Pack  
+ Secret Rare 
+ 
+ 
+ 2015-05-28  
+ YS15-ITY18   
+ 2-Player Starter Deck Yuya & Declan 
+ Starter Deck per 2 Giocatori Yuya & Declan  
+ Common 
+ 
+ 
+ 2016-01-28  
+ SR01-IT040   
+ Emperor of Darkness Structure Deck 
+ Imperatore dell'Oscurità Structure Deck  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2013-05-17  
+ LTGY-PT069   
+ Lord of the Tachyon Galaxy 
+ Senhor da Galáxia Táquion  
+ Secret Rare 
+ 
+ 
+ 2014-08-01  
+ BP03-PT228   
+ Battle Pack 3: Monster League 
+ Pacote de Batalha 3: Liga de Monstros  
+ Common 
+ 
+ 
+ 2014-08-01  
+ BP03-PT228   
+ Battle Pack 3: Monster League 
+ Pacote de Batalha 3: Liga de Monstros  
+ Shatterfoil Rare 
+ 
+ 
+ 2014-08-29  
+ MP14-PT044   
+ 2014 Mega-Tin Mega Pack 
+ Mega-Pacote da Mega-Latas 2014  
+ Secret Rare 
+ 
+ 
+ 2015-05-29  
+ YS15-PTY18   
+ 2-Player Starter Deck Yuya & Declan 
+ Deck Inicial para 2-Duelistas Yuya & Declan  
+ Common 
+ 
+ 
+ 2016-01-29  
+ SR01-PT040   
+ Emperor of Darkness Structure Deck 
+ Imperador das Trevas Deck Estrutural  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2013-05-16  
+ LTGY-SP069   
+ Lord of the Tachyon Galaxy 
+ Señor de la Galaxia Taquiónica  
+ Secret Rare 
+ 
+ 
+ 2014-07-25, 2014-07-31  
+ BP03-SP228   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Liga de Monstruos  
+ Common 
+ 
+ 
+ 2014-07-25, 2014-07-31  
+ BP03-SP228   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Liga de Monstruos  
+ Shatterfoil Rare 
+ 
+ 
+ 2014-08-28  
+ MP14-SP044   
+ 2014 Mega-Tin Mega Pack 
+ 2014 Mega-Lata Mega Pack  
+ Secret Rare 
+ 
+ 
+ 2015-05-28  
+ YS15-SPY18   
+ 2-Player Starter Deck Yuya & Declan 
+ Baraja de Principiante para 2 Jugadores Yuya & Declan  
+ Common 
+ 
+ 
+ 2016-01-28  
+ SR01-SP040   
+ Emperor of Darkness Structure Deck 
+ Emperador de la Oscuridad Baraja de Estructura  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2013-02-16  
+ LTGY-JP069   
+ Lord of the Tachyon Galaxy 
+ ＬＯＲＤ ＯＦ ＴＨＥ ＴＡＣＨＹＯＮ ＧＡＬＡＸＹ  
+ Rare 
+ 
+ 
+ 2013-09-21  
+ DP14-JP028   
+ Duelist Pack: Yuma Edition 2: Gogogo & Dododo 
+ デュエリストパック －遊馬編 ２ ゴゴゴ＆ドドド－  
+ Common 
+ 
+ 
+ 2015-03-21  
+ VS15-JPS25   
+ Duelist Entry Deck VS 
+ デュエリストエントリーデッキＶＳ  
+ Common 
+ 
+ 
+ 2015-09-19  
+ SR01-JP040   
+ Structure Deck R: Advent of the True Monarch 
+ ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ Ｒ －真帝王降臨－  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Traditional Chinese 
+ 
+ 
+ 
+ Chinese 
+ 
+ Release 
+ Number 
+ Set Chinese name 
+ Rarity 
+ 
+ 
+   
+ ST14-TC030   
+ Duel Starter Deck 
+ 決鬥始動組  
+ Common 
+ 
+ 
+   
+ LTGY-TC069   
+ Lord of the Tachyon Galaxy 
+ 銀河帝王  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2013-05-01  
+ LTGY-KR069   
+ Lord of the Tachyon Galaxy 
+ 로드 오브 더 타키온 갤럭시  
+ Rare 
+ 
+ 
+ 2013-11-25  
+ DP14-KR028   
+ Duelist Pack: Yuma Edition 2: Gogogo & Dododo 
+ 듀얼리스트 팩 —유마 편２ 고고고&도도도—  
+ Common 
+ 
+ 
+ 2015-07-11  
+ VS15-KRS25   
+ Duelist Entry Deck VS: Saber Force 
+ 듀얼리스트 엔트리 덱 VS 세이버 포스  
+ Common 
+ 
+ 
+ 2016-04-05  
+ SR01-KR040   
+ Structure Deck R: Advent of the True Monarch 
+ STRUCTURE   DECK  R － 진제왕강림 －  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Actions  
+ Activates upon attack declaration 
+ 
+ Monster / Spell / Trap  categories  
+ Cannot be destroyed by card effects 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 10550 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Pinpoint Guard " pages 
+ 
+ 
+ Anime Yu-Gi-Oh! D Team ZEXAL 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/79/PinpointGuard-SR01-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20160131154315', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

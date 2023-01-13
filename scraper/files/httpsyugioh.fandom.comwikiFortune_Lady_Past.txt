@@ -1,0 +1,371 @@
+Link: https://yugioh.fandom.com/wiki/Fortune_Lady_Past
+
+
+ 
+ 
+ Fortune Lady Past フォーチュンレディ・パスティー 
+ 
+ English 
+Fortune Lady Past 
+ French 
+ Passé, Demoiselle de Fortune Check translation 
+ German 
+ Schicksalsdame Vergangenheit Check translation 
+ Italian 
+ Passato, Signora della Fortuna Check translation 
+ Korean 
+ 포츈 레이디 패스티 Check translation 
+ Portuguese 
+ Senhora Fortuna do Passado Check translation 
+ Spanish 
+ Adivinadora Pasado Check translation 
+ Japanese 
+ フォーチュンレディ・パスティー Check translation 
+ Japanese ( rōmaji ) 
+Fōchun Redi Pasutī 
+ Japanese (translated) 
+Fortune Lady Pasty 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Spellcaster  /  Tuner  /  Effect 
+ Level 
+ 1   
+ ATK  /  DEF 
+ ?  /  ? 
+ Passcode 
+ 57869175 
+ Card effect types 
+ 
+ 
+ Continuous 
+ Trigger 
+ Ignition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+This card's  ATK / DEF  become its  Level  x 200.  Once per turn , during your  Standby Phase : Increase this card's Level by 1 (max. 12). You can target 1 " Fortune Lady "  monster  you  control ;  banish  any number of other  Spellcaster  monsters from your  hand ,  field , and/or  GY , and if you do, increase or reduce that monster's Level by the number of monsters banished, until the end of this turn. You can only use this  effect  of "Fortune Lady Past" once per turn. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ L'ATK/DEF de cette carte deviennent son Niveau x 200. Une fois par tour, durant votre Standby Phase : augmentez le Niveau de cette carte de 1 (max. 12). Vous pouvez cibler 1 monstre "Demoiselle de Fortune" que vous contrôlez ; bannissez un nombre de votre choix d'autres monstres Magicien depuis votre main, Terrain et/ou Cimetière, et si vous le faites, jusqu'à la fin de ce tour, augmentez ou réduisez le Niveau du monstre du nombre de monstres bannis. Vous ne pouvez utiliser cet effet de "Passé, Demoiselle de Fortune" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Die ATK/DEF dieser Karte werden gleich ihrer Stufe x 200. Einmal pro Spielzug, während deiner Standby Phase: Erhöhe die Stufe dieser Karte um 1 (max. 12). Du kannst 1 „Schicksalsdame“-Monster wählen, das du kontrollierst; verbanne eine beliebige Anzahl anderer Hexer-Monster von deiner Hand, deiner Spielfeldseite und/oder deinem Friedhof, und falls du dies tust, erhöhe oder verringere die Stufe des Monsters bis zum Ende dieses Spielzugs um die Anzahl der verbannten Monster. Du kannst diesen Effekt von „Schicksalsdame Vergangenheit“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Gli ATK/DEF di questa carta diventano il suo Livello x 200. Una volta per turno, durante la tua Standby Phase: aumenta il Livello di questa carta di 1 (massimo 12). Puoi scegliere come bersaglio 1 mostro "Signora della Fortuna" che controlli; bandisci un qualsiasi numero di altri mostri Incantatore dalla tua mano, Terreno e/o Cimitero e, se lo fai, aumenta o riduci il Livello di quel mostro del numero di mostri banditi, fino alla fine di questo turno. Puoi utilizzare questo effetto di "Passato, Signora della Fortuna" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ O ATK/DEF deste card se tornam seu Nível x 200. Uma vez por turno, durante sua Fase de Apoio: aumente em 1 o Nível deste card (máx. 12). Você pode escolher 1 monstro "Senhora Fortuna" que você controla; bana qualquer número de outros monstros Mago da sua mão, do campo e/ou do Cemitério e, se isso acontecer, até o final deste turno, aumente ou reduza o Nível desse monstro pelo número de monstros banidos. Você só pode usar este efeito de "Senhora Fortuna do Passado" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ El ATK/DEF de esta carta se convierte en su Nivel x 200. Una vez por turno, durante tu Standby Phase: aumenta el Nivel de esta carta en 1 (máx. 12). Puedes seleccionar 1 monstruo "Adivinadora" que controles; destierra cualquier cantidad de otros monstruos Lanzador de Conjuros en tu mano, Campo y/o Cementerio y, si lo haces, hasta el final de este turno, aumenta o reduce el Nivel de ese monstruo en el número de monstruos desterrados. Sólo puedes usar este efecto de "Adivinadora Pasado" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の③の効果は１ターンに１度しか使用できない。①：このカードの攻撃力・守備力はこのカードのレベル×２００になる。②：自分スタンバイフェイズに発動する。このカードのレベルを１つ上げる（最大１２まで）。③：自分フィールドの「フォーチュンレディ」モンスター１体を対象として発動できる。そのモンスター以外の自分の手札・フィールド・墓地の魔法使い族モンスターを任意の数だけ除外し、ターン終了時まで対象のモンスターのレベルを、除外したモンスターの数だけ上げる、または下げる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 공격력 / 수비력은 이 카드의 레벨 × 200 이 된다. ②: 자신 스탠바이 페이즈에 발동한다. 이 카드의 레벨을 1개 올린다(최대 12 까지). ③: 자신 필드의 "포츈 레이디" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터 이외의 자신의 패 / 필드 / 묘지의 마법사족 몬스터를 임의의 수만큼 제외하고, 턴 종료시까지 대상 몬스터의 레벨을, 제외한 몬스터의 수만큼 올리거나, 또는 내린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2019-07-25  
+ RIRA-EN008   
+ Rising Rampage 
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2019-07-25  
+ RIRA-FR008   
+ Rising Rampage 
+ Le Soulèvement de la Fureur  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2019-07-25  
+ RIRA-DE008   
+ Rising Rampage 
+ Rising Rampage  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2019-07-25  
+ RIRA-IT008   
+ Rising Rampage 
+ Furia Crescente  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2019-07-25  
+ RIRA-PT008   
+ Rising Rampage 
+ Investida Crescente  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2019-07-25  
+ RIRA-SP008   
+ Rising Rampage 
+ Alzamiento de la Devastación  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2019-04-13  
+ RIRA-JP008   
+ Rising Rampage 
+ ライジング・ランペイジ  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2019-07-09  
+ RIRA-KR008   
+ Rising Rampage 
+ 라이징 램페이지  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Spellcaster 
+ 
+ Archetypes  and  series   
+ Fortune Lady 
+ 
+ Supports   archetypes   
+ Fortune Lady 
+ 
+ Stat changes  
+ Changes own ATK value 
+ Changes own DEF value 
+ This card gains Levels 
+ Your monsters lose Levels 
+ Your monsters gain Levels 
+ 
+ Banished  categories  
+ Banishes from Graveyard for cost 
+ Banishes from hand for cost 
+ Banishes from field for cost 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14470 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Fortune Lady " 「フォーチュンレディ」 Members 
+ Fortune Lady Dark Fortune Lady Earth Fortune Lady Every Fortune Lady Fire Fortune Lady Light Fortune Lady Past Fortune Lady Water Fortune Lady Wind 
+ Fortune Lady Calling Fortune Lady Rewind 
+ Support 
+ Fortune Lady Dark Fortune Lady Fire Fortune Lady Light Fortune Lady Past Fortune Lady Water Fortune Lady Wind Solitaire Magician 
+ Bending Destiny Fortune Lady Calling Fortune Lady Rewind Fortune Vision Fortune's Future Inherited Fortune Time Passage 
+ Related 
+ Catoblepas and the Witch of Fate Fortune Fairy Ann Fortune Fairy Chee Fortune Fairy En Fortune Fairy Hikari Fortune Fairy Hu Fortune Fairy Swee Solitaire Magician 
+ Future Visions Slip of Fortune 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/95/FortuneLadyPast-RIRA-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20190811060800', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836']
+Categories: Duel Monsters cards, TCG cards, OCG cards

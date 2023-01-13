@@ -1,0 +1,121 @@
+Link: https://yugioh.fandom.com/wiki/Tindangle_Hound_(anime)
+
+Main card page: " Tindangle Hound " 
+ Tindangle Hound 
+ 
+ Japanese:   ティンダングル・ハウンド 
+ Romaji:   Tindanguru Haundo 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   DARK 
+ 
+ Level 
+ 
+ 
+ 7   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Flip 
+ Continuous 
+ Trigger 
+ [  Fiend  /  Flip  /  Effect  ] FLIP : You can  target  1 other  face-up   monster  on the  field ; this card gains  ATK  equal to that monster's  original ATK , then change that monster to  face-down   Defense Position . Each monster your opponent  controls  loses 1000 ATK for each monster  linked  to it. If this card is  destroyed by battle  or card  effect  and  sent  to the  GY : You can target 1  Set  monster on the field; change it to face-up Defense Position.
+ ATK  /  2500     DEF  /  0   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  018 ,  019 ,  020 ,  021 ,  024 ,  110 ,  111 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ティンダングル・ハウンド 
+ ①：このカードがリバースした場合に、このカード以外のフィールドの表側表示モンスター１体を対象として発動できる。このカードの攻撃力は対象のモンスターの元々の攻撃力分アップする。その後、対象モンスターを裏側守備表示にする。②：相手フィールドのモンスターの攻撃力は、そのモンスターとリンク状態になっているモンスターの数×１０００ダウンする。③：このカードが戦闘・効果で破壊され墓地へ送られた場合、フィールドの裏側守備表示モンスター１体を対象として発動できる。そのモンスターを表側守備表示にする。 
+ 
+ 
+ Tindanguru Haundo 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Akira Zaizen 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Tindangle 
+ 
+ Actions  
+ Changes battle positions 
+ Flips monsters face-down 
+ Activates from your Graveyard 
+ Flips monsters face-up 
+ 
+ Stat changes  
+ This card gains ATK 
+ Your opponent's monsters lose ATK 
+ 
+ 
+ 
+   " Tindangle Hound " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+" Tindangle " 「ティンダングル」 a   m   Members 
+ Tindangle Acute Cerberus Tindangle Acute Cerberus Tindangle Angel Tindangle Base Gardna Tindangle Delaunay Tindangle Hound Tindangle Intruder Tindangle Returner Tindangle Token 
+ Support 
+ Euler's Circuit Gergonne's End Lemoine Point Morley's Shield Nagel's Protection Stairs of Mail Tindangle Base Gardna Tindangle Delaunay Tindangle Intruder 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/4f/TindangleHound-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20170913134440', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/11/TindangleHound-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20190717151002', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

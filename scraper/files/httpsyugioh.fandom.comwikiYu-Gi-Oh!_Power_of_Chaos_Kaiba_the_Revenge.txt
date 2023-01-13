@@ -1,0 +1,361 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_Power_of_Chaos:_Kaiba_the_Revenge
+
+
+ 
+ Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge 
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge 
+ 
+ 
+ English  
+ Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge 
+ 
+ 
+ Developer(s) 
+ Konami 
+ 
+ 
+ Publisher(s) 
+ Konami 
+ 
+ 
+ Platform(s) 
+ PC 
+ 
+ 
+ Release date(s) 
+  April 6, 2004  March 26, 2004  March 26, 2004  March 26, 2004  March 26, 2004 
+ 
+ 
+ Genre 
+ Card Battle 
+ 
+ 
+ Ratings 
+ E 
+ 
+ 
+ Contents 
+ 
+ 1   Tutorials 
+ 2   Decks 
+ 3   Kaiba's Quotes 
+ 4   Shortcut Parameters 
+ 
+ 
+ Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge  is the second  Yu-Gi-Oh!  game for PC also it's the second one of the three  Power of Chaos  game series. The game adds 466 cards, including the 155 cards from the previous game,  Yugi the Destiny  and 311 new cards. 
+ In  Power of Chaos: Kaiba the Revenge , duelists can create more strategic combos to ultimately defeat the head of  Kaiba Corporation  and Yugi's nemesis,  Seto Kaiba . The game also features a new menu and dueling field style with sleek mechanical interface.
+ 
+         Kaiba Win     
+ Tutorials 
+ Here are some combos that may prove useful in duels. New combos that use these same basic techniques may also be discovered.
+ 
+ 
+ 001 - Tribute Rebirth
+ 
+ 
+ This combo allows you to get rid of one of your opponent's monsters and also summon and attack with your own powerful monster. 
+"Tribute to The Doomed" and "Monster Reborn" are necessary for this combo.
+ 
+ 
+ 002 - Salvage Pot
+ 
+ 
+ Using " Pot of Greed ", this combo allows you to draw a pair of cards of your choice from the top five cards in your deck. In addition to " Pot of Greed ", " Big Eye " is also necessary.
+ 
+ 
+ 003 - Sudden Despair
+ 
+ 
+ This combo works with monsters that can attack your opponent directly, such as " Jinzo #7 ". " Axe of Despair " and a monster that can be used for direct attacks are necessary.
+ 
+ 
+ 004 - Fickle Fate
+ 
+ 
+ This combo is a counter-combo, designed to be used in response to an opponent's attack. The " Tailor of the Fickle " card is necessary.
+ 
+ 
+ 005 - Goblin Ambush
+ 
+ 
+ This combo allows you to force your opponent to discard their hand. " Robbin' Goblin " and a monster that can be used for direct attacks are necessary.
+ 
+ 
+ 006 - Witch of Pain
+ 
+ 
+ This combo sends your opponent's monster to the Graveyard, and at the same time allows you to add a monster to your hand. " Share the Pain " and " Witch of the Black Forest " are necessary for this combo. 
+ 
+ 
+ 001 - Tribute Rebirth
+ 
+ 
+ (You begin with " Monster Reborn ", " Mystical Space Typhoon ", " Tribute to The Doomed ", " Kazejin " and " Negate Attack " in hand. Youropponent begins with a " Vorse Raider " in attack position on his field;you will draw " Block Attack " at the beginning of the round.)
+ First, activate " Tribute to The Doomed ", and discard a powerful monsterfrom your hand. (activate " Tribute to The Doomed ", discard " Kazejin ")A powerful monster on your opponent's Field is destroyed.(destroy " Vorse Raider ")Then, activate " Monster Reborn " and return the monster you discarded from your hand to the Field. (activate " Monster Reborn "; you may only select " Kazejin ") Now, use this monster to attack.
+ 
+ 
+ 002 - Salvage Pot
+ 
+ 
+ (You begin with " King of Yamimakai ", " Pot of Greed ", " Beautiful Headhuntress ", " Block Attack " and " Giant Red Seasnake " in hand; " Big Eye " in defense position on the field. You will draw " Share the Pain " at the beginning of the round.)
+ First, activate the  Flip  Effect of " Big Eye ". ( Flip Summon  " Big Eye ")
+At this point, return the card you will draw with " Pot of Greed " to the top of the Deck. (Select order of cards to be drawn) By activating " Pot of Greed " to draw the cards you selected, you can ensure the cards you need will be added to your hand. (activate " Pot of Greed ")
+ 
+ 
+ 003 - Sudden Despair
+ 
+ 
+ (You begin with " Mesmeric Control ", " Corroding Shark ", " Axe of Despair ", " Bean Soldier " and " Fake Trap " in hand; " Jinzo #7 " in attack position on the field. Your opponent begins with a " Prevent Rat " in defense position on his field.)
+ Equip the monster with " Axe of Despair ". (Equip  Jinzo #7  with  Axe of Despair )Now use this monster to perform a direct attack 
+on your opponent. (perform direct attack on your opponent using "Jinzo #7")
+The  Spell Card  " Axe of Despair " is a powerful card that increases ATK by 1000. It's perfect for a surprise attack at the beginning of a Duel.
+ 
+ 
+ 004 - Fickle Fate
+ 
+ 
+ (You begin with " Monster Reborn ", " Mesmeric Control ", " Faith Bird ", " Dragon Seeker " and " Stim-Pack " in hand; " Maha Vailo " is set in an attack position on the field while " Tailor of the Fickle " is set in a face-down position on the field. Your opponent begins with " Blue-Eyes White Dragon " in attack position on his field and will equip this monster card with " Axe of Despair "; he will lose 50 Life Points by the end of the "Fickle Fate" combo tutorial.)
+ " Tailor of the Fickle " is a Spell Card that allows you to move an equipped card to a different monster. Including the equipped card, their monster has 
+a total  ATK  of 4000, while yours has an  ATK  of 1550. You will lose 2450 Life Points! (If you attempt to activate " Tailor of the Fickle " before your opponent attacks, you will receive the message "But don't activate your card yet.")Now! Activate " Tailor of the Fickle "! (activate " Tailor of the Fickle ", then designate the Equip Card that you wish to switch over)Select " Axe of Despair ", equip it to " Maha Vailo ". The  ATK  of " Maha Vailo ", including the card's original effect, becomes 3050. Your opponent has declared their target, and unable to change it, they attack. The opponent's monster is destroyed, and you are able to inflict 50 points of indirect damage.
+ 
+ 
+ 005 - Goblin Ambush
+ 
+ 
+ (You begin with " Mesmeric Control ", two " Block Attack " cards, " UFO Turtle " and " Jinzo #7 " in hand; " Robbin' Goblin " is set in a face-down position on the field. Your opponent begins with a " Prevent Rat " in defense position on his field; you will draw  "Mystical Sheep#1 " at the beginning of the round, while opponent will discard " Negate Attack  before the end of the "Goblin Ambush" combo tutorial.)
+ You will need to Set " Robbin' Goblin " during the turn before you want to use the combo. Now, use a monster with direct attack ability like " Jinzo #7 " to attack. (summon " Jinzo #7 ", perform direct attack on your opponent using " Jinzo #7 ")Declare your opponent as the target of the attack. At this point, activate " Robbin' Goblin ".(activate " Robbin' Goblin ")Due to " Robbin' Goblin " effect, your opponent must discard their hand.
+ 
+ 
+ 006 - Witch of Pain
+ 
+ 
+ (You begin with " Block Attack ", " Stim-Pack ", " Dragon Seeker ", " King of Yamimakai " and " Share the Pain " in hand; " Witch of the Black Forest " in defense position on the field; and three " Giant Red Seasnake " cards in the  Graveyard . Your opponent begins with a " Prevent Rat " in defense position on his field; you will draw " Mesmeric Control " at the beginning of the round.)
+ You will need to have " Share the Pain " in your hand and " Witch of the Black Forest " on your field. In the main phase, activate " Share the Pain ". Declare " Witch of the Black Forest " as the  Tribute . (activate " Share the Pain ", declare " Witch of the Black Forest " as the  Tribute )Due to the effect of " Share the Pain ", your opponent must also use one of their monsters as a  Tribute .As " Witch of the Black Forest " is sent to the  Graveyard , its effect is activated, allowing you to draw a monster from your deck and add it to your hand. (select " Giant Red Seasnake ")If you haven't performed  Normal Summon , you will be able to summon the monster you drew in the step above.(summon " Giant Red Seasnake " to end "Witch of Pain" combo tutorial)
+ 
+ Decks 
+ 
+ Player's Starting Deck Monsters   
+ Normal Monsters 
+ King of Yamimakai 
+ Parrot Dragon 
+ Giant Red Seasnake 
+ Beautiful Headhuntress  x2 
+ Faith Bird  x2 
+ Bean Soldier 
+ Prevent Rat 
+ Stuffed Animal  x2 
+ Baby Dragon  x2 
+ Corroding Shark  x2 
+ Effect Monsters 
+ Kazejin 
+ Dragon Seeker 
+ UFO Turtle  x2 
+ Mystical Sheep 1  x2 
+ Time Wizard 
+ The Unhappy Maiden Extra Deck   
+ Fusion Monsters 
+ Thousand Dragon Spells   &  Traps   
+ Spells 
+ Change of Heart 
+ Polymerization 
+ Block Attack  x2 
+ Giant Trunade 
+ Mesmeric Control 
+ Share the Pain  x2 
+ Tribute to The Doomed 
+ Monster Reborn 
+ Mystical Space Typhoon  x2 
+ Stim-Pack  x2 
+ Sword of Deep-Seated 
+ Traps 
+ Fake Trap 
+ Negate Attack 
+ Kaiba's Quotes 
+ Theses are the quotes Kaiba says during the game (taken from the game's data files):
+ Entering a duel:
+ Quote 1:  "Let's see if you're worthy of calling yourself a  duelist ."
+ Quote 2:  "For you, victory is not in the cards."
+ Quote 3:  "If you even think for a second you're going to win, you're lying to yourself."
+ Won Duel:
+ Quote 1:  "You lost, but, you've earned my respect as a  duelist ."
+ Quote 2:  "I compliment you on making it this far, but you'll never be able to defeat me."
+ Quote 3:  "Hahahaha! A pathetic dog like you never had a chance, against a champion like me."
+ Lost Duel:
+ Quote 1:  "Don't think you've seen the last of me, I will get my revenge!"
+ Quote 2:  "Gwah... this is impossible. How can an amateur take me down?!"
+ Quote 3:  "Drill this into your head! Your dueling skills didn't beat me, I only lost because you had the luck of the draw!"
+ Drawn Duel: 
+ Quote:  "I can't believe I let a miserable twerp fight me to a  draw ..."
+ During Duel:
+ Quote 1:  "Prepare to feel the touch of cold steel, as I  summon  my  Vorse Raider !"
+ Quote 2:  "I summon my fateful servant,  La Jinn the Mystical Genie of the Lamp !"
+ Quote 3:  "With this card, I will eradicate you into oblivion." - About to  Tribute Summon .
+ Quote 4:  "Ah, too bad, your luck has come to an end." - About to  Tribute Summon .
+ Quote 5:  "I offer my  monster  as a  tribute ."
+ Quote 6:  "I offer two of my  monsters  on the field as a  tribute ."
+ Quote 7:  "I summon  Judge Man !"
+ Quote 8:  "I summon  Swordstalker !"
+ Quote 9:  "I summon  Gadget Soldier !"
+ Quote 10:  "That's impossible!" - You are about to  Tribute Summon  or  Special Summon  from your hand.
+ Quote 11:  "This card represents my pride and soul as a duelist... I  summon  my almighty  Blue-Eyes White Dragon !"
+ Quote 12:  Fusion Summon! - His fusion animation forms the  Fusion Monster .
+ Quote 13:  "Hmm... A fusion..." - During your fusion animation.
+ Quote 14:  "Ahahahahahah! Let me introduce you to my ultimate servant!" - Chooses  Blue-Eyes Ultimate Dragon  as the  Fusion Monster  to be  Fusion Summoned .
+ Quote 15:  "Prepare yourself! I summon  Blue-Eyes Ultimate Dragon !" -  Summons   Blue-Eyes Ultimate Dragon .
+ Quote 16:  "I switch it to  Attack Position !"
+ Quote 17:  "I switch it to  Defense Position ."
+ Quote 18:  "It's all over, for you." - Destroys your  Level  5 or higher  monster  or is about to  Tribute Summon .
+ Quote 19:  "Ah! You!!!" - You destroy his  Level  5 or higher  monster .
+ Quote 20:  " Flip Summon !" - Followed by  Quote 21  if the  monster  has a  Flip Effect .
+ Quote 21:  "The  effect  activates at the same time."
+ Quote 22:  " Flip ! Unfortunately for you, your  attack  triggered my  monster 's  effect !"
+ Quote 23:  "Your pathetic  attacks  will never reach me, my Ancient Lamp's  effect  activates!"
+ Quote 24:  "I activate my  Spell Card ."
+ Quote 25:  " Raigeki !" - Following  Quote 24 .
+ Quote 26:  " Change of Heart !" - Following  Quote 24 .
+ Quote 27:  "How would you feel, when one of your minions decides to serve me? Well, you're about to find out. I activate  Soul Exchange !" - Following  Quote 24 
+ Quote 28:  "I activate  Megamorph !"
+ Quote 29:  "I activate  Mesmeric Control !"
+ Quote 30:  "The  Field Spell Card  activates!" 
+ Quote 31:  "Ah, so... You're activating a  Spell Card ?"
+ Quote 32:  "I set this card  face-down ." - Setting a  Spell / Trap Card .
+ Quote 33:  "Ah, I don't think so." - About to activate a  Trap .
+ Quote 34:  "Ah, Nice move, but that's the last move you'll ever make!" - About to activate a  Trap .
+ Quote 35:  "That's not going to work." - About to activate a  Trap .
+ Quote 36:  "I activate my  trap !" - Following  Quote 33 ,  Quote 34  or  Quote 35 .
+ Quote 37:  " Trap Hole ! - Following  Quote 36 .
+ Quote 38:  " Ring of Destruction !" - Following  Quote 36 .
+ Quote 39:  " Chain !" - Activates a  Quick-Play Spell  or  Trap Card  in response to your card's effect.
+ Quote 40:  "This will devour your  Deck !" - Followed by  Quote 42 .
+ Quote 41:  "Ah, your  Deck  is finished!" - Followed by  Quote 42 .
+ Quote 42:  "I activate my  Crush Card !" - Activating  Crush Card Virus .
+ Quote 43:  "Hahaha! I activate  Negate Attack !"
+ Quote 44:  "I'll resurrect a servant from the  Graveyard ." - About to activate a card that  Special Summons  a monster from the  Graveyard .
+ Quote 45:  " Monster Reborn !" - Following  Quote 44 .
+ Quote 46:  "Don't tell me you're trying to resurrect it!" - You activate a card that  Special Summons  a monster from the  Graveyard .
+ Quote 47:  "No! I can't believe you  Special Summoned  it!" - You  Special Summon  his  Blue-Eyes White Dragon  or  Blue-Eyes Ultimate Dragon ."
+ Quote 48:  "Wh-What!?" - You activate a  Trap ,  Flip Effect  or  Special Summon  a  monster .
+ Quote 49:  "Huh, not bad." - You  inflict  low  damage  to his high  Life Points "
+ Quote 50:  "Ohhh!..." - "You  inflict  medium  damage  to his high  Life Points "
+ Quote 51:  "Gwaaah! - You  inflict  high  damage  to his  Life Points .
+ Quote 52:  "Gwaha! That hurt!" - You  inflict  medium  damage  to his  Life Points  or low  damage  to his low  Life Points .
+ Quote 53:  "Gwaaaaah! How dare you!?" - You  inflict  high  damage  when he has very low  Life Points .
+ Quote 54:  "Gwaaaaaaaaahhhh!" - His  Life Points  are reduced to zero.
+ Quote 55  "I end my  turn ."
+ 
+ Shortcut Parameters 
+ Here are some undocumented (case-sensitive) shortcut parameters that you can use.
+ You can use them in the following manner:
+ 
+ Click  Start . 
+ Click  Run . 
+ Type in the program path with the flag(s) (i.e. "C:\Program Files\KONAMI\Yu-Gi-Oh! Power of Chaos: Kaiba the Revenge\kaiba_pc.exe"-fps ). The quotes are necessary for Windows to handle the spaces. 
+ Press  Enter . 
+ -Lspa --------------------- Game text is Spanish. 
+ -Lita --------------------- Game text is Italian. 
+ -Lfra --------------------- Game text is French. 
+ -Lger --------------------- Game text is German. 
+ -Leng --------------------- Game text is English. 
+ -Ljpn --------------------- Game text is Japanese. 
+ -fps ---------------------- FPS tracker appears in upper-left corner 
+ -speedy ---------------------- Faster animations 
+ -e --------------------- Use software emulation for rendering 
+ -h --------------------- Use hardware rendering 
+ -nosound --------------------- Disable game sound 
+ -win --------------------- Run in windowed mode 
+ -16 --------------------- Run in full screen 16 bit color mode 
+ -24 --------------------- Run in full screen 24 bit color mode 
+ -32 --------------------- Run in full screen 32 bit color mode 
+ v e 
+ Video games Duel Monsters 
+ Duel Monsters 
+ II: Dark duel Stories 
+ Dark Duel Stories  ( III: Tri-Holy God Advent ) 
+ 4: Battle of Great Duelist 
+ The Eternal Duelist Soul  ( 5 Expert 1 ) 
+ 6 Expert 2 
+ The Sacred Cards  ( 7: The Duelcity Legend ) 
+ Reshef of Destruction  ( 8: Reshef of Destruction ) 
+ Worldwide Edition: Stairway to the Destined Duel  ( International ) 
+ Online 
+ Online 
+ Duel Evolution 
+ 3: Duel Accelerator 
+ Power of Chaos 
+ Yugi the Destiny 
+ Kaiba the Revenge 
+ Joey the Passion 
+ Tag Force 
+ GX 1 
+ GX 2 
+ GX Evolution  ( GX The Beginning of Destiny ) 
+ GX 3 
+ 5D's 4 
+ 5D's 5 
+ 5D's 6 
+ ARC-V Special 
+ True Duel Monsters 
+ Forbidden Memories  ( Sealed Memories ) 
+ The Duelists of the Roses  ( 2: Succeeded Memories ) 
+ World Championship 
+ Tournament 2004  ( Duel Monsters Expert 3 ) 
+ 7 Trials to Glory: Tournament 2005   ( Day of the Duelist: Tournament 2005  /   Duel Monsters International 2 ) 
+ Ultimate Masters: Tournament 2006  ( Duel Monsters Expert 2006 ) 
+ 2007 
+ 2008 
+ 5D's 2009: Stardust Accelerator 
+ 5D's 2010: Reverse of Arcadia 
+ 5D's 2011: Over the Nexus 
+ Browser, PC, or mobile 
+ 5D's Mobile 
+ BAM 
+ Pocket 
+ Duel Arena 
+ Duel Generation 
+ Duel Links 
+ Cross Duel 
+ Other handheld 
+ Monster Capsule GB 
+ Dungeon Dice Monsters 
+ Destiny Board Traveler  ( Sugoroku no Sugoroku ) 
+ Nightmare Troubadour 
+ GX Duel Academy  ( GX Mezase Duel King! ) 
+ Double Pack 
+ 2 
+ GX Spirit Caller  ( GX Spirit Summoner ) 
+ GX Card Almanac 
+ ZEXAL World Duel Carnival 
+ Saikyo Card Battle 
+ Other console 
+ Monster Capsule: Breed and Battle 
+ The Falsebound Kingdom 
+ The Dawn of Destiny 
+ Capsule Monster Coliseum 
+ 5D's Wheelie Breakers 
+ 5D's Decade Duels 
+ Plus 
+ 5D's Duel Transer  ( 5D's Master of the Cards ) 
+ Millennium Duels 
+ Rush Duel 
+ Multi-Platform games 
+ Legacy of the Duelist 
+ Legacy of the Duelist: Link Evolution 
+ Master Duel 
+ Other 
+ Multi-Master 
+ Duel Terminal 
+ Duel Dash 
+ 
+ {{ Game guides }} 
+ {{ Video game promotional cards }} 
+ {{ Game guide promotional cards }} 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/7f/PCK-VideoGameNA.png/revision/latest/scale-to-width-down/350?cb=20160520145943', 'https://static.wikia.nocookie.net/yugioh/images/a/a4/Flag_of_the_United_States.svg/revision/latest/scale-to-width-down/20?cb=20081119225336', 'https://static.wikia.nocookie.net/yugioh/images/c/c3/Flag_of_France.svg/revision/latest/scale-to-width-down/20?cb=20081120204212', 'https://static.wikia.nocookie.net/yugioh/images/b/ba/Flag_of_Germany.svg/revision/latest/scale-to-width-down/20?cb=20081120204214', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/10/Kaiba_win.jpg/revision/latest/scale-to-width-down/180?cb=20120713231425']
+Categories: Video games

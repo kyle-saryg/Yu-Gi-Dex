@@ -1,0 +1,395 @@
+Link: https://yugioh.fandom.com/wiki/Rokket
+
+
+ 
+ Rokket 
+ ヴァレット  ( Varetto ) 
+ 
+ 
+ 
+ 
+ Anesthrokket Dragon 
+ 
+ 
+ Translation 
+ vullet varrett 
+ 
+ 
+ Other names 
+ 
+ French 
+ Rokkette 
+ 
+ 
+ German 
+ Rakkete 
+ 
+ 
+ Italian 
+ Mizzile 
+ 
+ 
+ Korean 
+ 바렛   Baret   (romanized) 
+ 
+ 
+ Portuguese 
+ Foguette 
+ 
+ 
+ Spanish 
+ Cohette 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Circuit Break Cybernetic Horizon Extreme Force Savage Strike Burst of Destiny 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ 2018 Mega-Tin Mega Pack Duel Power Structure Deck: Rokket Revolt Chaos Impact Maximum Gold: El Dorado 2022 Tin of the Pharaoh's Gods 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ LINK VRAINS Edition LINK VRAINS Box Structure Deck: Revolver V Jump August 2019 promotional card Legendary Gold Box Secret Utility Box 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! VRAINS 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Rokket ", known in the  OCG  as 「ヴァレット」( Varetto , either " Vullet " or " Varrett " [1] ), is an  archetype  of  DARK   Dragon   monsters  used by  Ryoken Kogami (Varis)  in  Yu-Gi-Oh! VRAINS .
+ 
+ Contents 
+ 
+ 1   Design 
+ 
+ 1.1   Appearance 
+ 1.2   Etymology 
+ 
+ 
+ 2   Playing style 
+ 3   Members 
+ 4   Weaknesses 
+ 5   Recommended cards 
+ 6   Official Decklists 
+ 7   Trivia 
+ 8   References 
+ 
+ 
+ Design 
+ Appearance 
+ All monsters have long, legless bodies with glowing wings.
+ They are most likely based on:
+ 
+ Exploderokket - Radically Invasive Projectile 
+ Rokket Tracer – .22 Magnum for handgun 
+ Anesthrokket – Tranquillizer Dart 
+ Metalrokket - .30-06 Springfield for rifles 
+ Recharger – unknown electrified bullet, similar to an electric shell, but in the shape of a .38 Special 
+ Silverrokket – the mythological " Silver Bullet " used to stop werewolves 
+ Autorokket – .45 ACP 
+ Magnarokket -.357 Magnum, both have 'Mag' in the name 
+ Shelrokket – 12 gauge bullet for shotgun 
+ Synchron - .380 ACP 
+ Etymology 
+ "Rokket" is a play on the word "rocket". Its Japanese name, "Vullet", is a corruption of "bullet", playing on the tendency of Japanese to replace "V" sounds with "B" ones. It may also reference the archetype's user in the anime, Varis, who shares a similar gun and ammunition theme in his original Japanese name and the design of his mask. The " Borrel " archetype uses the same play with the word "barrel".
+ The Italian name, "Mizzile", is a cross between "Missile" and "Razzo" (rocket).
+ 
+ Playing style 
+ All "Rokket" monsters (except " Rokket Synchron ", " Rokket Tracer ", " Rokket Recharger ", and " Rokket Caliber ") have the following effects in common:
+ 
+ When a  Link Monster 's  effect  is  activated  that  targets  this  face-up  card on the  field  ( Quick Effect ): You can  destroy  this card, then [...]  (listed below) 
+ During the  End Phase , if this card is in the  GY  because it was destroyed on the field by  battle  or card effect and  sent  there this  turn : You can  Special Summon  1 "Rokket"  monster  from your  Deck , except [a card with the same name]. 
+ You can only use each effect of [this card' name] once per turn. 
+ Although at first glance this may not make them viable since it is unlikely your opponent would use their monsters to target them, the Deck allows the player to target them oneself. The Ace Monsters of the archetype "Borrel" , can target a Monster on the field and apply an effect, and the opponent cannot chain anything to the effect's activation. As such, a common move is to destroy the "Rokkets" when they are targeted by a "Borrel" effect , and activate their effects. Using the "Rokket" monsters in this fashion is analogous to using them as literal cannon fodder.  
+ Even if "Borreload/Sword/Guard Dragon" is not available, the player can use the likes of " Booster Dragon ", " Striker Dragon " or " Quadborrel Dragon " which are easier to summon, but less versatile. 
+ " Borreload Dragon " cannot be targeted by monster effects, which leaves it immune to the effect of " Number 101: Silent Honor ARK ", unlike other  Link Monsters . It can even give you control of a Monster it attacks during the Damage Step, and transfer it to one of your Link Points, but it will be sent to the GY during the End Phase of the next turn. 
+ " Borrelsword Dragon " cannot be destroy in battle which makes it almost impossible to get rid using attacks. It can switch a monster to defense position and allow itself to attack twice. Finally when it declares an attack on an opponents monster it can halve that monsters ATK and gain the ATK lost until the end of the turn paired withs its ability to attack twice "Borrelsword" makes an excellent beatstick monsters. 
+ " Borrelguard Dragon " cannot be destroyed by effect and like Borrelsword it can switch a monster to defense position. "Borrelguard" can revive an opponents monster the turn it was destroyed by sending a card from the S/T zone to the GY, but its effects are negated. This can help build up defenses by ditching a useless set card and the revived monster can also be used a beatstick or link material 
+ "Borrelend Dragon" is one of the most powerful link monsters in the game. "Borrelend" has all the protection effects of the previous "Borrel" monsters as well as 3500 ATK. "Borrelend" can also attack every monster the opponent controls once allowing for massive damage a field clearing. Finally, "Borrelend" can permanently negate a monsters effect while it is on the field and revive a "Rokket" at the same time stopping the opponents strategies and preparing for the use of a "Rokkets" effect. 
+ With " Supply Squad ", "Borreload Dragon" becomes a powerful  Draw Engine . The severe Deck Thinning that comes with running a "Rokket" Deck makes " Blasting the Ruins " a viable Trap Card, especially with "Supply Squad". Due to the archetype's synergy with "Supply Squad", lack of searching cards, and focus on Special Summoning from the Deck, " Mistake " is a good addition to the Deck.
+ Due to the archetype's focus on destroying "Rokkets", which all consist of Dragon Monsters, they can be used in a  Graveyard Dragon Power  Deck. "Borreload Dragon" would use its effects to target one of your "Rokkets", which would destroy themselves. The "Rokkets" also replace themselves during the End Phase when they are destroyed on the field, allowing you to keep using "Borreload Dragon" as a deadly weapon and loading your field.  
+ " Twin Triangle Dragon " can be used to bring back " Absorouter Dragon " or " Noctovision Dragon ", both of which can be utilized by the "Rokket" archetype as fodder for the Link 3 and Link 4 monsters, such as "Borreload Dragon" or " Triple Burst Dragon " as well as provide a draw or an add. 
+ While nowhere as strong as "Borreload Dragon", " Triple Burst Dragon " can come in handy if lacking the sufficient amount of Link Material, or at least prove to be a decent backup plan should all of your copies of "Borreload/Sword/Guard Dragon" and/or " Topologic Bomber Dragon " be used up without any options left to bring either back. 
+ " Dillingerous Dragon " is one of the best support cards for a "Rokket" deck as its summoning requirements are not as strict as the other Link-2 monsters found in the deck and can revive itself to be used a link material a second time. 
+ "Rokket" monsters tend to get destroyed, either by your opponent or your own card effects such as " Torrential Tribute ", therefore, you can play " Keeper of the Shrine " or " Overflow Dragon " as extra defense or as Link Material. 
+ " Borreload Furious Dragon " can be used to destroy itself or other "Rokkets" on the field, allowing for more floating. It also banishes itself from the grave to Special Summon a DARK Link Monster from there (most likely "Borreload" or "Borrelsword") relinquishing you from relying on extra revival cards in case you lose the decks most valuable asset. Although the drawback of this is that you cannot activate the summoned monster's effects so it may be smarter to summon a Link 2 or 3 instead and Link Summon off the back of it. Rapid trigger can be used to activate the effects of the destroyed "Rokkets" as well as provide protection from extra deck monster effects to "Furious Dragon" at the cost of preventing it from attacking anything but extra deck summoned monsters. 
+ " Starving Venom Fusion Dragon " is a good tech choice when combined with " Rapid Trigger " as it allows you to surprise your opponent during battle with an ATK booster with effect protection provided by the Spell. Alternatively, " Flash Fusion " destroys the  Fusion Summoned  monster during the End Phase allowing you to use "Starving Venom's" destruction effect. 
+ " Borreload Savage Dragon " can be used as both a beatstick and a powerful negater. "Savage Dragon" also benefits from the high ATK and the high Link Ratings of "Borrel Link monsters" as well as the easy summoning provided by "Rokket Tracer" and "Rokket Synchron" 
+ " Borreload eXcharge Dragon " has high ATK and cannot be targeted by monster effects. "eXcharge Dragon's" low rank and high ATK make it valuable even without its effect. Finally, though its effect weakens a monster's ATK and revives a "Borrel"  monster you cannot attack directly or special summon for the rest of the turn and the revived "Borrel" is banished at the end of the turn making the effect best suited for a game winning move. An important note is that "Furious Dragon" can destroy itself and an opponents cards before it is banished allowing it to be used again.   
+ The "Topologic" archetype has good synergy with the deck with their effects easily activates via a destroyed "Rokkets" replacement. 
+ " Rokket Tracer " adds a new level of versatility, allowing you to pop a card you control to Special Summon a "Rokket" from your deck. This allows you quicker access to  Synchro Summons  (due to it being a  Tuner ),  Xyz Summons  and Link Summons faster than the archetype could before.
+ "Red-Eyes Darkness Metal Dragon" can easily summon itself and revive a "Borrel" monster with ease or revive a "Rokket" to use. It can also be a target for "Twin Triangle's" effect.
+ Since "Borrel" monsters have no specific material requirements, monsters stolen from the opponent can be used as material for their summon.
+ 
+ Members 
+ 
+ 
+ Monster 
+ Effect when targeted by a Link Monster 
+ Origin
+ 
+ 
+ Anesthrokket Dragon 
+ Negates 1 face-up monster's effects and prevents it from attacking. 
+ Tranquilizer gun 
+ 
+ 
+ Autorokket Dragon 
+ Sends 1 Spell/Trap Card on the field to the GY. 
+ Submachine gun 
+ 
+ 
+ Exploderokket Dragon 
+ Inflicts 2000 damage to both players. 
+ High-explosive incendiary 
+ 
+ 
+ Magnarokket Dragon 
+ Sends 1 monster on the field to the GY. 
+ .44 Magnum 
+ 
+ 
+ Metalrokket Dragon 
+ Destroys all opponent's cards in the same column. 
+ M2 Browning 
+ 
+ 
+ Rokket Caliber 
+ N/A 
+ Caliber 
+ 
+ 
+ Rokket Recharger 
+ N/A 
+ Moon clip 
+ 
+ 
+ Rokket Synchron 
+ N/A 
+ Synchron 
+ 
+ 
+ Rokket Tracer 
+ N/A 
+ Tracer ammunition 
+ 
+ 
+ Shelrokket Dragon 
+ Destroys 1 monster in the same column and all monsters in adjacent zones. 
+ Shotgun shell 
+ 
+ 
+ Silverrokket Dragon 
+ Banishes 1 card from the opponent's Extra Deck. 
+ Silver bullet 
+ 
+ Weaknesses 
+ Despite the archetype’s focus on destroying “Rokket” monsters as well as Special Summons, cards such as “ Vanity's Ruler ” and “ Vanity's Fiend ” can prevent the Special Summon of those “Rokket” monsters from the Deck, as well as preventing Link Summoning monsters. This can cause problems for them, as they won’t be able to replace themselves when they are destroyed and send to the GY, especially since none of the members have enough ATK to defeat “Vanity’s Ruler”.
+ Since all the members of the “Rokket” archetype are DARK monsters, “ Shadow-Imprisoning Mirror ” can pose a threat to them since it can negate their effects in the field or GY, including the “Borrel” monsters. Despite this, this strategy is useless against “ Blue-Eyes Shining Dragon " due to being a LIGHT monster.
+ Preventing the “Rokket” Main Deck monsters from hitting the graveyard with cards such as “ Dimensional Fissure ” can disrupt plays prematurely, as they can’t used their graveyard floating effects if they are banished from the game, as well as rendering “ Boot Sector Launch ” almost useless. In addition, this also prevents “Blue-Eyes Shining Dragon” from gaining more ATK. This can be countered by having “ Imperial Iron Wall ” in your deck, providing that you don’t run “ Allure of Darkness ”.
+ Since all the members are Dragons, “ Buster Blader ”, and it’s Fusion evolution, “ Buster Blader, the Destruction Swordmaster ”, would seriously hamper this deck, especially the latter due to its effects of forcing your Dragons to Defense Position, and preventing their effects from being activated. Although “Borrel” Link Monsters and other Dragon Link Monsters won’t face that problem due to the fact Link Monsters only exist in Attack Position, it’s unlikely they would stand a chance against “The Destruction Swordmaster“, seeing how they can’t activate their effects at all.
+ 
+ Recommended cards 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ Absorouter Dragon 
+ Anesthrokket Dragon 
+ Autorokket Dragon 
+ Double Disrupter Dragon 
+ Exploderokket Dragon 
+ Galactic Spiral Dragon 
+ Gateway Dragon 
+ Hibernation Dragon 
+ Interplanetarypurplythorny Dragon 
+ Magnarokket Dragon 
+ Metalrokket Dragon 
+ Noctovision Dragon 
+ Outburst Dragon 
+ Overflow Dragon 
+ Red-Eyes Darkness Metal Dragon 
+ Rokket Recharger 
+ Shellrokket Dragon 
+ Silverrokket Dragon 
+ Speedburst Dragon 
+ Triggering Wurm 
+ Tuner monsters 
+ Rokket Caliber 
+ Rokket Synchron 
+ Rokket Tracer 
+ Ritual Monsters 
+ Borreload Riot Dragon Extra Deck   
+ Fusion Monsters 
+ Borreload Furious Dragon 
+ Synchro Monsters 
+ Borreload Savage Dragon 
+ Xyz Monsters 
+ Borreload eXcharge Dragon 
+ Link Monsters 
+ Booster Dragon 
+ Borrelcode Dragon 
+ Borrelend Dragon 
+ Borrelguard Dragon 
+ Borreload Dragon 
+ Borrelsword Dragon 
+ Dillingerous Dragon 
+ Miniborrel Dragon 
+ Overburst Dragon 
+ Quadborrel Dragon 
+ Striker Dragon 
+ Twin Triangle Dragon Spells   &  Traps   
+ Spells 
+ Bayonet Punisher 
+ Boot Sector Launch 
+ Borrel Regenerator 
+ Borrel Supplier 
+ Heavy Interlock 
+ Quick Launch 
+ Rapid Trigger 
+ Squib Draw 
+ Draconnection 
+ Dark Hole 
+ Dark Ruler No More 
+ Mind Control 
+ Monster Reborn 
+ Supply Squad 
+ Traps 
+ Borrel Cooling 
+ Execute Protocols 
+ Link Turret 
+ Tactical Exchanger 
+ Torrential Tribute 
+ Crackdown 
+ Infinite Impermanence 
+ Loop of Destruction 
+ Red Reboot 
+ Solemn Judgment 
+ Official Decklists 
+ 
+ V Jump Recommended "Rokket" Deck [2] Monsters  (23) 
+ Effect Monsters 
+ Anesthrokket Dragon  x3 
+ Ash Blossom & Joyous Spring  x3 
+ Autorokket Dragon  x3 
+ Dogoran, the Mad Flame Kaiju 
+ Gateway Dragon  x3 
+ Magnarokket Dragon  x3 
+ Red-Eyes Darkness Metal Dragon 
+ Sniffer Dragon  x3 
+ True King Agnimazud, the Vanisher  x3 Extra Deck  (15) 
+ Link Monsters 
+ Akashic Magician 
+ Decode Talker  x2 
+ Firewall Dragon 
+ Gaiasaber, the Virtual Knight 
+ Ningirsu the World Chalice Warrior 
+ Proxy Dragon  x3 
+ Topologic Bomber Dragon 
+ Twin Triangle Dragon  x3 
+ Borreload Dragon  x2 Spells  (14) &  Traps  (3) 
+ Spells 
+ Dark Hole 
+ Dragonic Diagram  x3 
+ Monster Reborn 
+ Quick Launch  x3 
+ Squib Draw  x3 
+ Terraforming  x3 
+ Traps 
+ Back to the Front  x3 
+ 
+ Official Konami "Rokket" Deck Recipe [3] Monsters  (22) 
+ Effect Monsters 
+ Armageddon Knight 
+ Anesthrokket Dragon  x3 
+ Autorokket Dragon  x3 
+ Cracking Dragon  x2 
+ Gateway Dragon  x3 
+ Magnarokket Dragon  x3 
+ Sniffer Dragon  x3 
+ Soldier Dragons  x3 
+ Summoner Monk Extra Deck  (10) 
+ Link Monsters 
+ Gaiasaber, the Virtual Knight 
+ Topologic Bomber Dragon  x3 
+ Twin Triangle Dragon  x3 
+ Borreload Dragon  x3 Spells  (14) &  Traps  (4) 
+ Spells 
+ Dark Hole 
+ Dragonoid Generator 
+ Foolish Burial 
+ Monster Reborn 
+ Pot of Avarice 
+ Quick Launch  x3 
+ Soul Charge 
+ Squib Draw  x3 
+ Supply Squad  x2 
+ Traps 
+ Call of the Haunted  x3 
+ Torrential Tribute 
+ Trivia 
+ This archetype, as well as " Borrel ", can be considered successors of sorts to the  Gun Dragon  archetype, taking many visual cues and the overall theme from (mecha, dragons and guns). They also share the same  DARK  Attribute, but that's where there similarities end, having a vastly different play style and mechanics. 
+ References 
+ 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 010: " Eye of the Storm "  (official subs) 
+ 
+ ↑   https://ygorganization.com/vjmp-circuit-break/ 
+ 
+ ↑   https://ygorganization.com/lockandloadpart1/ 
+ 
+ 
+   
+" Rokket " 「ヴァレット」 Members 
+ Anesthrokket Dragon Autorokket Dragon Exploderokket Dragon Magnarokket Dragon Metalrokket Dragon Rokket Caliber Rokket Coder Rokket Recharger Rokket Synchron Rokket Tracer Shelrokket Dragon Silverrokket Dragon 
+ Support 
+ Absorouter Dragon Anesthrokket Dragon Autorokket Dragon Booster Dragon Borrelend Dragon Borreload Riot Dragon Dillingerous Dragon Double Disrupter Dragon Exploderokket Dragon Magnarokket Dragon Metalrokket Dragon Miniborrel Dragon Overburst Dragon Quadborrel Dragon Rokket Tracer Shelrokket Dragon Silverrokket Dragon Speedburst Dragon Striker Dragon 
+ Boot Sector Launch Borrel Cooling Borrel Regenerator Borrel Supplier Heavy Interlock Link Turret Quick Launch Squib Draw Tactical Exchanger 
+ Related 
+ Borreload Dragon Chobham Armor Dragon Flash Charge Dragon Noctovision Dragon Triggering Wurm Triple Burst Dragon Vorticular Drumgon 
+ Rapid Trigger 
+ 
+ v e 
+" Rokket " 「ヴァレット」 a   Members 
+ Anesthrokket Dragon Autorokket Dragon Magnarokket Dragon Metalrokket Dragon Rokket Recharger Rokket Synchron Shelrokket Dragon Silverrokket Dragon 
+ Support 
+ Absorouter Dragon Anesthrokket Dragon Autorokket Dragon Booster Dragon Boot Sector Launch Boot Sector Launch Borrel Cooling Borrel Half Replace Borrel Regenerator Borrel Regenerator Dillingerous Dragon Magnarokket Dragon Miniborrel Dragon Quadborrel Dragon Quick Launch Silverrokket Dragon Speedburst Dragon Squib Draw 
+ Related 
+ Borreload Dragon Borrelsword Dragon Chobham Armor Dragon Flash Charge Dragon Triggering Wurm 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/67/AnesthrokketDragon-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/350?cb=20170726145208']
+Categories: Archetypes, TCG and OCG archetypes

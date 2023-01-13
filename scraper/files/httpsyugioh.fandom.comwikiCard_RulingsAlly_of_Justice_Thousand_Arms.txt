@@ -1,0 +1,33 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Ally_of_Justice_Thousand_Arms
+
+
+ Ally of Justice Thousand Arms 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ TCG Rulings 
+ This card’s self-destruction ability starts a  Chain  after an opposing monster would be flipped  face-up  but before  damage calculation . [1] 
+ If this card attacks a  face-down   LIGHT  monster you cannot continue to attack other  LIGHT  monsters. [1] 
+ OCG Rulings 
+ This card's effect which destroys itself is a  Trigger Effect  and starts a chain.  It activates at the beginning of the  Damage Step , after flipping the monsters face-up, before  Damage Calculation . [2] 
+ When " Ally of Justice Thousand Arms " attacks a face-down  LIGHT  monster, you cannot use his effect to continue to attack all other face-up  LIGHT  monsters. [3] 
+ References 
+ 
+ ↑  1.0   1.1   Konami Gameplay FAQ : Starstrike Blast Sneak Peek -- Card Rulings (Version 1.0) 
+ 
+ ↑   Konami FAQ : Please explain the details of "Ally of Justice - Thousand Arms"' effect which destroys itself. 
+ 
+ ↑   Konami FAQ : When "Ally of Justice Thousand Arms" attacks a face-down monster, is it possible to attack all other LIGHT monsters? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

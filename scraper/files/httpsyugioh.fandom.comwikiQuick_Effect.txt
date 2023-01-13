@@ -1,0 +1,567 @@
+Link: https://yugioh.fandom.com/wiki/Quick_Effect
+
+For the term named "Quick Effect" in Japanese, see  Fast effect .      
+ 
+ 
+ Quick Effect
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 誘 発 即 時 効 果 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ ゆうはつそくじこうか
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 誘発即時効果
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Yūhatsu Sokuji Kōka
+ 
+ 
+ 
+ Japanese (translated)
+ 
+ 
+ Immediate Trigger Effect
+ 
+ 
+ 
+ English
+ 
+ 
+ Quick Effect Formerly: Multi-Trigger Effect
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Effet Rapide Formerly: Effet Multi-Déclencheur 
+ German : Schnelleffekt Formerly: Mehrfach-Trigger-Effekt 
+ Italian : Effetto Rapido Formerly: Effetto Multi-Innescato 
+ Portuguese : Efeito Rápido Formerly: Efeito de Múltiplos Gatilhos [Notes 1] 
+ Spanish : Efecto Rápido Formerly: Efecto Multi-Disparo 
+ Korean : 유발 즉시 효과 (誘發卽時效果)  Yubal Jeuksi Hyogwa 
+ Traditional Chinese : 誘發即時效果  Yòufā Jíshí Xiàoguǒ / Jau5 faat3 Zik1 si4 Haau6 gwo2 
+ Simplified Chinese : 诱发即时效果  Yòufā Jíshí Xiàoguǒ 
+ 
+ 
+ A  Quick Effect , formerly called a  Multi-Trigger Effect , and called an  Immediate Trigger Effect  ( 誘 発 即 時 効 果   Yūhatsu Sokuji Kōka ) in the  OCG , is a type of  monster effect  that is  Spell Speed 2  (and is the only Spell Speed 2 monster effect).
+ It is the only type of monster effect that can be  activated  in  Summon negation window , and the only one that can be  chained  to another activation (excluding  SEGOC ). As such, monsters effects that  negate  the activation or  Summon  are all Quick Effects.
+ For cards with  Problem-Solving Card Text  (PSCT), starting in  Maximum Crisis Special Edition , Quick Effects are noted by mention of " (Quick Effect) " in the text. Prior to  Maximum Crisis Special Edition , for cards with PSCT, Quick Effects are normally noted by " During either player's  [ turn / Phase / Step ]" in the activation timing, or " (this is a Quick Effect) " at the end of the effect if that wording is not applicable.
+ For cards without PSCT, Quick Effects are more difficult to identify. They can be identified by text which indicates the same timing as the PSCT standard. Some Quick Effects can only be determined to be that way due to rulings.
+ Unless otherwise specified (e.g. " Light and Darkness Dragon "), the same Quick Effect can be activated multiple times during the same Chain, as long as it meets its activation conditions and/or timing each time.
+ 
+ Contents 
+ 
+ 1   Chain example 
+ 2   Example 
+ 3   List of OCG/TCG monsters with Quick Monster Effects 
+ 4   Notes 
+ 
+ 
+ Chain example 
+ The player  controls  a  face-up  " Horus the Black Flame Dragon LV8 ", and it is currently the opponent's  Main Phase 1 .
+ 
+ Chain Link  1: The opponent activates " Fissure ". 
+ Chain Link 2: The player Chains " Horus the Black Flame Dragon LV8 "'s effect to negate its activation and destroy "Fissure". 
+ Chain Link 3: The opponent Chains " Book of Moon ",  targeting  "Horus". 
+ Chain Link 4: The player Chains " Horus the Black Flame Dragon LV8 "'s effect to negate its activation and destroy "Book of Moon. 
+ Since Chains resolve backwards, this Chain would  resolve  as follows:
+ 
+ Chain Link 4: " Horus the Black Flame Dragon LV8 " negates and destroys " Book of Moon ". 
+ Chain Link 3: " Book of Moon " does not resolve. 
+ Chain Link 2: " Horus the Black Flame Dragon LV8 " negates and destroys " Fissure ". 
+ Chain Link 1: " Fissure " does not resolve. 
+ Example 
+ 
+ List of OCG/TCG monsters with Quick Monster Effects 
+ Main article:  List of Quick Effect Monster Cards 
+   Japanese name Rank Level Attribute Type Card type ATK DEF A-Team: Trap Disposal Unit トラップ処理班 Ａチーム 2 FIRE Machine Effect Monster Monster Card 300 400 A-to-Z-Dragon Buster Cannon ＡｔｏＺ－ドラゴン・バスターキャノン 10 LIGHT Machine Effect Monster Monster Card Fusion Monster 4,000 4,000 ABC-Dragon Buster ＡＢＣ－ドラゴン・バスター 8 LIGHT Machine Effect Monster Monster Card Fusion Monster 3,000 2,800 Absolute King Back Jack 絶対王 バック・ジャック 1 DARK Fiend Effect Monster Monster Card 0 0 Abyss Dweller 深淵に潜む者 4 WATER Sea Serpent Effect Monster Monster Card Xyz Monster 1,700 1,400 Accel Synchron アクセル・シンクロン 5 DARK Machine Effect Monster Monster Card Synchro Monster 500 2,100 Achacha Chanbara アチャチャチャンバラー 3 FIRE Warrior Effect Monster Monster Card 1,400 400 Adamancipator Risen - Dragite 魔救の奇跡－ドラガイト 8 WATER Rock Effect Monster Monster Card Synchro Monster 3,000 2,200 Adamancipator Risen - Leonite 魔救の奇跡－レオナイト 6 FIRE Rock Effect Monster Monster Card Synchro Monster 2,400 2,200 Adamancipator Risen - Raptite 魔救の奇跡－ラプタイト 6 WIND Rock Effect Monster Monster Card Synchro Monster 2,200 2,800 ... further results 
+ Notes 
+ 
+ ↑   As stated in later Brazilian rule books, which may not reflect the actual use in older Portuguese text. 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/44/NecroGardna-THSF-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20150214094447']
+Categories: Gameplay

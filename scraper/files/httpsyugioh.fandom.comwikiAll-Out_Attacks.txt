@@ -1,0 +1,405 @@
+Link: https://yugioh.fandom.com/wiki/All-Out_Attacks
+
+The  Croatian, Greek  and  Irish                      names given are not official.  ( card names ) 
+ 
+ 
+ 
+ 
+ 
+ All-Out Attacks 召 喚 制 限 － 猛 突 するモンスター 
+ 
+ English 
+All-Out Attacks 
+ French 
+ Tous à l'Attaque ! Check translation 
+ German 
+ Kompromisslose Angriffe Check translation 
+ Italian 
+ Attacco Totale Check translation 
+ Korean 
+ 소환제한-맹렬한몬스터 Check translation 
+ Portuguese 
+ Ataque Total Check translation 
+ Spanish 
+ Ataque Total Check translation 
+ Japanese (kana) 
+ しょうかんせいげん－もうとつするモンスター Check translation 
+ Japanese (base) 
+ 召喚制限－猛突するモンスター Check translation 
+ Japanese ( rōmaji ) 
+Shōkan Seigen - Mōtotsusuru Monsutā 
+ Japanese (translated) 
+Summon Restriction - Relentless Monsters 
+ Card type 
+ Trap   
+ Property 
+ Continuous   
+ Passcode 
+ 30834988 
+ Card effect types 
+ 
+ 
+ Trigger-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If a  monster (s) is  Special Summoned  while this card is  face-up  on the  field : Change that monster to face-up  Attack Position , and must  attack , if able, during the  turn  they are Special Summoned. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Tous les monstres qui sont Invoqués Spécialement sont changés en Position d'Attaque face recto et doivent attaquer, si possible, durant le tour où ils ont été Invoqués Spécialement. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Alle Monster, die als Spezialbeschwörung beschworen werden, werden in die offene Angriffsposition geändert und müssen in dem Spielzug angreifen, in dem sie als Spezialbeschwörung beschworen werden, falls möglich. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Tutti i mostri Evocati tramite  Evocazione Speciale  vengono messi scoperti in  Posizione di Attacco  e devono  attaccare , se possono, nello stesso  turno  in cui sono stati Evocati tramite Evocazione Speciale. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se um ou mais monstros forem Invocados por Invocação-Especial enquanto este card estiver com a face para cima no campo: coloque esse(s) monstro(s) com a face para cima em Posição de Ataque e ele(s) deve(m) atacar, se possível, durante o turno em que foi/foram Invocado(s) por Invocação-Especial. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Todos los monstruos que sean Invocados de Modo Especial se cambian a Posición de Ataque boca arriba y deben atacar, si es posible, durante el turno en que fueron Invocados. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードがフィールド上に存在する場合にモンスターが特殊召喚に成功した時、そのモンスターを表側攻撃表示にする。そのターンそのモンスターが攻撃可能な場合には攻撃しなければならない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 특수 소환에 성공한 몬스터는 앞면 공격 표시가 된다. 그 몬스터가 공격 가능한 몬스터였을 경우, 그 턴에 공격해야 한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2008-01-26  
+ PTDN-EN075   
+ Phantom Darkness 
+ Common 
+ 
+ 
+ 2019-08-15  
+ OP11-EN022   
+ OTS Tournament Pack 11 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2008-01-26  
+ PTDN-FR075   
+ Phantom Darkness 
+ Ténèbres Fantômes  
+ Common 
+ 
+ 
+ 2019-08-15  
+ OP11-FR022   
+ OTS Tournament Pack 11 
+ OTS Pack de Tournoi 11  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2008-01-26  
+ PTDN-DE075   
+ Phantom Darkness 
+ Phantom Darkness  
+ Common 
+ 
+ 
+ 2019-08-15  
+ OP11-DE022   
+ OTS Tournament Pack 11 
+ OTS Tournament Pack 11  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2008-02-13  
+ PTDN-IT075   
+ Phantom Darkness 
+ Oscurità Fantasma  
+ Common 
+ 
+ 
+ 2019-08-15  
+ OP11-IT022   
+ OTS Tournament Pack 11 
+ OTS Buste da Torneo 11  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2019-08-15  
+ OP11-PT022   
+ OTS Tournament Pack 11 
+ OTS Pacote de Torneio 11  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2008-01-26  
+ PTDN-SP075   
+ Phantom Darkness 
+ Oscuridad Fantasma  
+ Common 
+ 
+ 
+ 2019-08-15  
+ OP11-SP022   
+ OTS Tournament Pack 11 
+ OTS Sobre Torneo 11  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2007-11-23  
+ PTDN-JP075   
+ Phantom Darkness 
+ ＰＨＡＮＴＯＭ ＤＡＲＫＮＥＳＳ  
+ Common 
+ 
+ 
+ 2012-05-12  
+ DE02-JP107   
+ Duelist Edition Volume 2 
+ デュエリストエディション　Ｖｏｌｕｍｅ　２  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2008-03-04  
+ PTDN-KR75   
+ Phantom Darkness 
+ 환영의 어둠  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Online 
+ 
+ 
+ Pack 47 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Summon Restriction 
+ 
+ Actions  
+ Activates upon Special Summon 
+ Changes battle positions 
+ 
+ Attack  categories  
+ Must attack 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 7474 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Online 2005-11-04 – – – – – Unlimited 
+ 
+   
+ Summon Restriction   召 喚 制 限 Members 
+ All-Out Attacks And the Band Played On Extra Net Power Filter 
+ Related 
+ Summon Breaker Summon Gate Summon Over 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/5b/AllOutAttacks-PTDN-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20080526034254', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Duel Monsters cards, TCG cards, OCG cards

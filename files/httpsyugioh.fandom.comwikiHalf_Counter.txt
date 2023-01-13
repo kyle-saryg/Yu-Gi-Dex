@@ -1,0 +1,243 @@
+Link: https://yugioh.fandom.com/wiki/Half_Counter
+
+The  Croatian  and  Greek                       names given are not official.  
+ 
+ 
+ 
+ 
+ 
+ Half Counter ハーフ・カウンター 
+ 
+ English 
+Half Counter 
+ French 
+ Demi-Contre Check translation 
+ German 
+ Halbkonter Check translation 
+ Italian 
+ Mezzo Contrasto Check translation 
+ Korean 
+ 하프 카운터 Check translation 
+ Portuguese 
+ Meio Contra-ataque Check translation 
+ Spanish 
+ Contraataque Medio Check translation 
+ Japanese 
+ ハーフ・カウンター Check translation 
+ Japanese ( rōmaji ) 
+Hāfu Kauntā 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 06799227 
+ Card effect types 
+ 
+ 
+ Activation requirement 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+During  damage calculation , if a  monster  you  control  is being  attacked :  Target  that monster you control; that target gains  ATK  equal to half the  original ATK  of the attacking monster, until the  End Phase . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Durant le calcul des dommages, si un monstre que vous contrôlez est attaqué : ciblez le monstre que vous contrôlez ; jusqu'à la End Phase, la cible gagne une ATK égale à la moitié de l'ATK d'origine du monstre attaquant. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Während der Schadensberechnung, falls ein Monster angegriffen wird, das du kontrollierst: Wähle das Monster, das du kontrollierst; das gewählte Ziel erhält bis zur End Phase ATK in Höhe der Hälfte der Grund-ATK des angreifenden Monsters. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Durante il calcolo dei danni, se un mostro che controlli sta venendo attaccato: scegli come bersaglio quel mostro che controlli; quel bersaglio guadagna ATK pari alla metà dell'ATK originale del mostro attaccante, fino alla End Phase. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Durante o cálculo de dano, se um monstro que você controla estiver sendo atacado: escolha esse monstro que você controla; o alvo ganha ATK igual à metade do ATK original do monstro atacante até a Fase Final. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Durante el cálculo de daño, si un monstruo que controlas está siendo atacado: selecciona a ese monstruo que controlas; ese objetivo gana ATK igual a la mitad del ATK original del monstruo atacante, hasta la End Phase. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 自分フィールド上に存在するモンスターが攻撃された場合、そのダメージ計算時に発動する事ができる。攻撃対象となった自分のモンスター１体の攻撃力は、エンドフェイズ時まで攻撃モンスターの元々の攻撃力の半分の数値分アップする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신 필드 위에 존재하는 몬스터가 공격받았을 경우, 그 데미지 계산시에 발동할 수 있다. 공격 대상이 된 자신의 몬스터 1장의 공격력은, 엔드 페이즈시까지 공격 몬스터의 원래 공격력 절반의 수치만큼 올린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2010-11-11 STBL-EN070 Starstrike Blast Common 2013-06-28 BP02-EN207 Battle Pack 2: War of the Giants Common 2013-06-28 BP02-EN207 Battle Pack 2: War of the Giants Mosaic Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2010-11-11 STBL-FR070 Starstrike Blast Explosion des Etoiles Common 2013-06-27 BP02-FR207 Battle Pack 2: War of the Giants Battle Pack 2: La Guerre des Géants Common 2013-06-27 BP02-FR207 Battle Pack 2: War of the Giants Battle Pack 2: La Guerre des Géants Mosaic Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2010-11-11 STBL-DE070 Starstrike Blast Starstrike Blast Common 2013-06-27 BP02-DE207 Battle Pack 2: War of the Giants Battle Pack 2: War of the Giants Common 2013-06-27 BP02-DE207 Battle Pack 2: War of the Giants Battle Pack 2: War of the Giants Mosaic Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2010-11-11 STBL-IT070 Starstrike Blast Esplosione Astrale Common 2013-06-27 BP02-IT207 Battle Pack 2: War of the Giants Battle Pack 2: Guerra dei Giganti Common 2013-06-27 BP02-IT207 Battle Pack 2: War of the Giants Battle Pack 2: Guerra dei Giganti Mosaic Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2013-06-28 BP02-PT207 Battle Pack 2: War of the Giants Pacote de Batalha 2: Guerra dos Gigantes Common 2013-06-28 BP02-PT207 Battle Pack 2: War of the Giants Pacote de Batalha 2: Guerra dos Gigantes Mosaic Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2010-11-11 STBL-SP070 Starstrike Blast La Explosión del Ataque Estelar Common 2013-06-27 BP02-SP207 Battle Pack 2: War of the Giants Battle Pack 2: Guerra de los Gigantes Common 2013-06-27 BP02-SP207 Battle Pack 2: War of the Giants Battle Pack 2: Guerra de los Gigantes Mosaic Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2010-07-17 STBL-JP070 Starstrike Blast ＳＴＡＲＳＴＲＩＫＥ ＢＬＡＳＴ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2010-10-20 STBL-KR070 Starstrike Blast 폭풍의 스타스트라이크 Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Related to  archetypes  and  series   
+ Amazoness 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ 
+ Miscellaneous  
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 9147 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Half Counter " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Amazoness " 「アマゾネス」 Members 
+ Amazoness Archer Amazoness Augusta Amazoness Baby Tiger Amazoness Blowpiper Amazoness Chain Master Amazoness Empress Amazoness Fighter Amazoness Golden Whip Master Amazoness Paladin Amazoness Pet Liger Amazoness Pet Liger King Amazoness Princess Amazoness Queen Amazoness Sage Amazoness Scouts Amazoness Silver Sword Master Amazoness Spiritualist Amazoness Spy Amazoness Swords Woman Amazoness Tiger Amazoness Trainee Amazoness War Chief 
+ Amazoness Archers Amazoness Call Amazoness Fighting Spirit Amazoness Hall Amazoness Heirloom Amazoness Hot Spring Amazoness Onslaught Amazoness Secret Arts Amazoness Shamanism Amazoness Spellcaster Amazoness Village Amazoness Willpower 
+ Support 
+ Amazoness Augusta Amazoness Baby Tiger Amazoness Empress Amazoness Golden Whip Master Amazoness Paladin Amazoness Pet Liger Amazoness Pet Liger King Amazoness Princess Amazoness Queen Amazoness Scouts Amazoness Silver Sword Master Amazoness Spiritualist Amazoness Spy Amazoness Tiger Amazoness War Chief 
+ Amazoness Archers Amazoness Call Amazoness Fighting Spirit Amazoness Hall Amazoness Heirloom Amazoness Hot Spring Amazoness Onslaught Amazoness Secret Arts Amazoness Shamanism Amazoness Spellcaster Amazoness Village Amazoness Willpower Dramatic Rescue Queen's Pawn 
+ Anti-support 
+ Amazoness Village 
+ Related 
+ Half Counter 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d7/HalfCounter-BP02-EN-C-UE.png/revision/latest/scale-to-width-down/300?cb=20150201132715', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

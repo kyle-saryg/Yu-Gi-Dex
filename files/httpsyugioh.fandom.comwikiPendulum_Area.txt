@@ -1,0 +1,233 @@
+Link: https://yugioh.fandom.com/wiki/Pendulum_Area
+
+
+ 
+ 
+ Pendulum Area ペンデュラム・エリア 
+ 
+ English 
+Pendulum Area 
+ French 
+ Espace Pendule Check translation 
+ German 
+ Pendelgebiet Check translation 
+ Italian 
+ Area Pendulum Check translation 
+ Korean 
+ 펜듈럼 에리어 Check translation 
+ Portuguese 
+ Área de Pêndulo Check translation 
+ Spanish 
+ Área del Péndulo Check translation 
+ Japanese 
+ ペンデュラム・エリア Check translation 
+ Japanese ( rōmaji ) 
+Pendyuramu Eria 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 02359348 
+ Card effect types 
+ 
+ 
+ Activation requirement 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If all  monsters  you  control  are  Pendulum Monsters  (min. 1):  Target  2 cards in your  Pendulum Zones ;  destroy  both cards, and if you do, neither player can  Special Summon  for the rest of this  turn , except by  Pendulum Summon . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si tous les monstres que vous contrôlez sont des Monstres Pendule (min. 1) : ciblez 2 cartes dans vos Zones Pendule ; détruisez les deux cartes, et si vous le faites, aucun joueur ne peut Invoquer Spécialement le reste de ce tour, sauf par Invocation Pendule. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls alle Monster, die du kontrollierst, Pendelmonster sind (min. 1): Wähle 2 Karten in deinen Pendelzonen; zerstöre beide Karten und falls du dies tust, kann kein Spieler für den Rest dieses Spielzugs Monster als Spezialbeschwörung beschwören, außer durch Pendelbeschwörungen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se tutti i mostri che controlli sono Mostri Pendulum (minimo 1): scegli come bersaglio 2 carte nelle tue Zone Pendulum; distruggi entrambe le carte e, se lo fai, nessun giocatore può Evocare Specialmente mostri per il resto di questo turno, eccetto con Evocazioni Pendulum. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se todos os monstros que você controla forem Monstros Pêndulo (mín. 1): escolha 2 cards nas suas Zonas de Pêndulo; destrua os dois cards e, se isso acontecer, nenhum duelista pode Invocar por Invocação-Especial pelo resto deste turno, exceto por Invocação-Pêndulo. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si todos los monstruos que controlas son Monstruos de Péndulo (mín. 1): selecciona 2 cartas en tus Zonas de Péndulo; destruye ambas cartas y, si lo haces, por el resto de este turno ningún jugador puede Invocar de Modo Especial, excepto una Invocación por Péndulo. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：自分フィールドのモンスターが Ｐ モンスターのみの場合、自分の Ｐ ゾーンのカード２枚を対象として発動できる。そのカード２枚を破壊し、このターンお互いに Ｐ 召喚以外の特殊召喚ができない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 자신 필드의 몬스터가 펜듈럼 몬스터뿐일 경우, 자신의 펜듈럼 존의 카드 2장을 대상으로 하고 발동할 수 있다. 그 카드 2장을 파괴하고, 이 턴에 서로 펜듈럼 소환 이외의 특수 소환을 할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2015-11-05 DOCS-EN077 Dimension of Chaos Rare 2022-05-05 GFP2-EN170 Ghosts From the Past: The 2nd Haunting Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2015-11-05 DOCS-FR077 Dimension of Chaos La Dimension du Chaos Rare 2022-05-05 GFP2-FR170 Ghosts From the Past: The 2nd Haunting Fantômes du Passé : La 2e Incarnation Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2015-11-05 DOCS-DE077 Dimension of Chaos Dimension of Chaos Rare 2022-05-05 GFP2-DE170 Ghosts From the Past: The 2nd Haunting Ghosts From the Past: The 2nd Haunting Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2015-11-05 DOCS-IT077 Dimension of Chaos Dimensione del Chaos Rare 2022-05-05 GFP2-IT170 Ghosts From the Past: The 2nd Haunting Fantasmi Dal Passato : La Seconda Apparizione Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2015-11-06 DOCS-PT077 Dimension of Chaos Dimensão do Caos Rare 2022-05-05 GFP2-PT170 Ghosts From the Past: The 2nd Haunting Fantasmas Do Passado : A 2ª Assombração Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2015-11-05 DOCS-SP077 Dimension of Chaos Dimensión del Caos Rare 2022-05-05 GFP2-SP170 Ghosts From the Past: The 2nd Haunting Antasmas Del Pasado : La 2ª Aparición Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2015-07-18 DOCS-JP077 Dimension of Chaos ディメンション・オブ・カオス Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2015-11-06 DOCS-KR077 Dimension of Chaos 디멘션 오브 카오스 Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Pendulum Monster 
+ 
+ Archetypes  and  series   
+ Pendulum  
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your Spell Cards 
+ 
+ Summoning  categories  
+ Prevents Special Summons 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12020 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Pendulum " 「ペンデュラム」 Members 
+ Beast-Eyes Pendulum Dragon Beyond the Pendulum Brave-Eyes Pendulum Dragon Cosmic Compass Double Iris Magician Lector Pendulum, the Dracoverlord Luster Pendulum, the Dracoslayer Master Pendulum, the Dracoslayer Odd-Eyes Arc Pendulum Dragon Odd-Eyes Pendulum Dragon Odd-Eyes Pendulumgraph Dragon Pendulumucho Performapal Pendulum Sorcerer Rune-Eyes Pendulum Dragon Vector Pendulum, the Dracoverlord 
+ Amazing Pendulum Dragonic Pendulum Extra Pendulum Pendulum Area Pendulum Back Pendulum Call Pendulum Dimension Pendulum Encore Pendulum Fusion Pendulum Halt Pendulum Hole Pendulum Impenetrable Pendulum Paradox Pendulum Reborn Pendulum Rising Pendulum Scale Pendulum Shift Pendulum Storm Pendulum Switch Pendulum Transfer Pendulum Treasure Pendulum Xyz Soul Pendulum Star Pendulumgraph Time Pendulumgraph 
+ Support 
+ Duelist Alliance 
+ Related 
+ Amorphactor Pain, the Imagination Dracoverlord Dinoster Power, the Mighty Dracoslayer Ignister Prominence, the Blasting Dracoslayer Majester Paladin, the Ascending Dracoslayer Master Peace, the True Dracoslayer Master Peace, the True Dracoslaying King Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Odd-Eyes Venom Dragon Odd-Eyes Wing Dragon Supreme King Dragon Odd-Eyes 
+ Odd-Eyes Advent 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/b0/PendulumArea-GFP2-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20220609050802', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

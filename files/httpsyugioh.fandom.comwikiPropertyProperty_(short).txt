@@ -1,0 +1,9 @@
+Link: https://yugioh.fandom.com/wiki/Property:Property_(short)
+
+This property lists the  Properties  of cards. It is similar to  Property:Property , but presents the values in a shorter form, by omitting the  card type  from the displayed text.
+ This uses  string  values.
+ 
+ 
+ 
+ 
+Categories:

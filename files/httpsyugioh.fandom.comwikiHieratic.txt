@@ -1,0 +1,498 @@
+Link: https://yugioh.fandom.com/wiki/Hieratic
+
+
+ 
+ Hieratic 
+ 聖刻 「 せいこく 」  ( Seikoku ) 
+ 
+ 
+ 
+ 
+ " Eset ", the sealed form of " Asar ", and " Nebthet ", in the artwork of " Hieratic Seal of Convocation ". 
+ 
+ 
+ Translation 
+ Hieroglyphic 
+ 
+ 
+ Other names 
+ 
+ French 
+ Hiératique 
+ 
+ 
+ German 
+ Priesterlich 
+ 
+ 
+ Italian 
+ Ieratico 
+ 
+ 
+ Korean 
+ 성각 聖刻   (Hanja)   Seong-gak   (romanized) Translation:  Hieroglyphic 
+ 
+ 
+ Spanish 
+ Hierático 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Galactic Overlord 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Collectible Tins 2012 Wave 2 Astral Pack One Saga of Blue-Eyes White Dragon Structure Deck Duel Power Ghosts From the Past OTS Tournament Pack 16  (Portuguese only) Battles of Legend: Crystal Revenge 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Extra Pack: Sword of Knights LINK VRAINS Pack Selection 10 Tournament Pack 2021 Vol.1 Selection 5 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! ZEXAL 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Hieratic ", known as " Hieroglyphic " ( 聖 刻   Seikoku ) in the  OCG , is an  archetype  of  LIGHT   Dragon   monsters . 
+ The cards of this archetype rely on  Special Summoning  and  destroying  cards mainly by  Tributing  other "Hieratic" monsters. What makes this archetype powerful and interesting is that many of its monsters allow you to Tribute from your  hand  in a manner similar to  Ritual Summoning .
+ Another effect which most mid- Level  "Hieratic" monsters have in common is that when they are Tributed, they have a mandatory effect that Special Summons a  Dragon   Normal Monster  either from the hand, Deck, or Graveyard, but it loses all of its ATK and DEF. Even though you're getting rid of your own monster, you won't lose that much field advantage, because they immediately replace themselves. Almost all "Hieratic" monsters have relatively simple Summoning conditions.
+ 
+ Contents 
+ 
+ 1   Design 
+ 2   Members 
+ 3   Playing style 
+ 4   Recommended cards 
+ 
+ 4.1   Pure build 
+ 4.2   Chaos Hieratics 
+ 4.3   Hieratic Ritual's Wake 
+ 4.4   Hieratic Destruction Sword/Buster Blader 
+ 
+ 
+ 5   Deck examples 
+ 
+ 5.1   From Hieratic Dragon Deck recipe sample 
+ 5.2   From Deck recipe PDF version (August 2013) 
+ 
+ 
+ 6   List of Dragon Normal and Gemini monsters 
+ 7   Weaknesses 
+ 8   Trivia 
+ 
+ 
+ Design 
+ One of the few sets of cards based on  Egyptian motifs , they are based on  Egyptian hieroglyphs  and the  Ennead , a group of  Egyptian gods  in mythology. Their logo is based on  Wedjat  (the eye of  Horus , god of the sky, war, and protection). In addition to Wedjat, if the monsters' backgrounds have either the sun or the moon, they get the respective Wedjat - right (sun) or left (moon).
+ 
+ Members 
+ 
+ 
+ Monster 
+ Origin
+ 
+ 
+ Hieratic Dragon King of Atum 
+ Atum 
+ 
+ 
+ Hieratic Dragon of Asar 
+ Osiris 
+ 
+ 
+ Hieratic Dragon of Eset 
+ Isis 
+ 
+ 
+ Hieratic Dragon of Gebeb 
+ Geb 
+ 
+ 
+ Hieratic Dragon of Nebthet 
+ Nephthys 
+ 
+ 
+ Hieratic Dragon of Nuit 
+ Nut 
+ 
+ 
+ Hieratic Dragon of Su 
+ Shu 
+ 
+ 
+ Hieratic Dragon of Sutekh 
+ Set 
+ 
+ 
+ Hieratic Dragon of Tefnuit 
+ Tefnut 
+ 
+ 
+ Hieratic Sun Dragon Overlord of Heliopolis 
+ 
+ Ra 
+ 
+ 
+ Hieratic Seal of the Heavenly Spheres 
+ Ennead 
+ 
+ 
+ Hieratic Seal of the Dragon King 
+ Atum 
+ 
+ 
+ Hieratic Seal of the Sun Dragon Overlord 
+ Ra 
+ 
+ Playing style 
+ The greatest strength of this archetype lies in the ability that almost all of its members possess: upon being  Tributed , be it by  cost  or  effect , you are able to Summon any  Dragon   Normal Monster  from your  hand ,  Deck  or  Graveyard , at the cost of its  ATK  and  DEF  becoming 0. This gives the "Hieratic" archetype the ability to  swarm  the  field  and bring out powerful  Xyz Monsters  in a manner similar to the " Wind-Up " and " Six Samurai " archetypes, which focus on summoning many monsters to instantly dominate the Duel.
+ The Deck easily summons Rank 5 and Rank 6 Xyz Monsters, simply by tributing one "Hieratic" for another, and therefore summoning a Normal Dragon monster from anywhere with the same level as the one you just Special Summoned. With " Galaxy Serpent " from  Judgment of the Light , a Level 2 Dragon Normal  Tuner , "Hieratics" also have access to all Level 7 and 8 generic  Synchro  Monsters.
+ Another interesting thing to note is the ease of Summoning the archetype's regular members, and the ease of which you may  activate  their effects. For instance, both " Hieratic Dragon of Nebthet " and " Hieratic Dragon of Su " are capable of getting rid of problematic monsters or Spells/Traps simply by Tributing a "Hieratic" monster from your hand or field. activate the Tributed monster's effect to Special Summon a Dragon Normal Monster from your hand, Deck or Graveyard in the process, allowing for  Synchro  or  Xyz Summons .
+ " Hieratic Dragon of Eset " also greatly helps in the Deck's Xyz Summoning routine, since its effect can instantly equalize the Level of all "Hieratic" monster on the field to that of the Normal Monster you choose. Due to the nature of most "Hieratic" monsters, Summoning Normal Dragons is an easy task (even easier with " Hieratic Dragon of Tefnuit " in play). "Tefnuit" and "Eset" are typically used to get combos going in the deck, especially "Tefnuit" since she does not use up a Normal Summon. Since "Hieratics" can search any Dragon Normal Monster with the restriction of rendering them powerless, they are best used as Synchro or Xyz Material for a Summon, or as fodder for " Advance Draw " or " White Elephant's Gift ". " Number 107: Galaxy-Eyes Tachyon Dragon " is an option because it can restore the ATK and DEF of the Normal Monsters brought by the effect of "Hieratic" monsters, or just be used as Material for " Number 95: Galaxy-Eyes Dark Matter Dragon ".
+ " Black Rose Dragon ", " Ancient Fairy Dragon ", or " Black Rose Moonlight Dragon " are easily Summoned in this deck with "Ultimaya Tzolkin" or using Level 5 "Hieratics" with " Galaxy Serpent ", then using them with " Flamvell Guard " (Special Summoned with "Hieratics" or the effect of "Ancient Fairy Dragon") to Synchro Summon " Crystal Wing Synchro Dragon ".
+ " Lightray " monsters can be helpful Side Deck options for a "Hieratic" Deck. " Lightray Diabolos " and " Lightray Daedalus " provide powerful attackers with field control, and are easy to summon with how quickly "Hieratics" will cycle through their monsters to fill the Graveyard. If the player is reliant on " Hieratic Dragon of Sutekh ", " Lightray Sorcerer " can combo with its effect, "Sutekh" banishing the valuable "Hieratics" in the Graveyard for "Sorcerer" to shuffle them back into the Deck, while both also provide field control.
+ "Hieratics" can abuse " Inferno Reckless Summon ", because any Dragon monsters that are Special Summoned with their effects lose all their ATK and DEF, which fits the conditions for "Inferno Reckless Summon", while any monsters Special Summoned with "Inferno Reckless Summon" will be at full power. This can be used in conjunction with " Hieratic Dragon King of Atum ", so you can Special Summon "Galaxy-Eyes Photon Dragon", drag out the other two copies with "Inferno Reckless Summon", and easily overlay for " Neo Galaxy-Eyes Photon Dragon ".
+ Using the Level 6 "Hieratic" monsters with " Labradorite Dragon " or the Level 5 "Hieratic" monsters with " Sea Monster of Theseus " gives the deck access to " Ultimaya Tzolkin ", and through it, powerful Synchro monsters such as " Crystal Wing Synchro Dragon " and " Beelze of the Diabolic Dragons ".
+ 
+ Recommended cards 
+ Pure build 
+ 
+ Deck Monsters   
+ Normal Monsters 
+ Hieratic Seal of the Sun Dragon Overlord 
+ Wattaildragon 
+ Effect Monsters 
+ Hieratic Dragon of Asar 
+ Hieratic Dragon of Eset 
+ Hieratic Dragon of Nebthet 
+ Hieratic Dragon of Nuit 
+ Hieratic Dragon of Su 
+ Hieratic Dragon of Tefnuit 
+ Red-Eyes Darkness Metal Dragon 
+ Gemini monsters 
+ Hieratic Seal of the Dragon King 
+ Tuner monsters 
+ Dragon Core Hexer 
+ Flamvell Guard 
+ Galaxy Serpent 
+ Labradorite Dragon Extra Deck   
+ Synchro Monsters 
+ Phantasmal Lord Ultimitl Bishbaalkin 
+ Ultimaya Tzolkin 
+ Star Eater 
+ Other Level 7 or 8 Dragon Synchro Monsters 
+ Xyz Monsters 
+ Hieratic Dragon King of Atum 
+ Hieratic Sky Dragon Overlord of Heliopolis 
+ Hieratic Sun Dragon Overlord of Heliopolis 
+ Gaia Dragon, the Thunder Charger 
+ Other  Rank 5  or higher Xyz Monsters 
+ Link Monsters 
+ Hieratic Seal of the Heavenly Spheres Spells   &  Traps   
+ Spells 
+ Hieratic Seal of Convocation 
+ Hieratic Seal of Creation 
+ Hieratic Seal of Supremacy 
+ A Wingbeat of Giant Dragon 
+ Advance Draw 
+ Lightwave Tuning 
+ Silver's Cry 
+ Star Changer 
+ Super Rejuvenation 
+ White Elephant's Gift 
+ Traps 
+ Hieratic Seal from the Ashes 
+ Hieratic Seal of Banishment 
+ Hieratic Seal of Reflection 
+ Champion's Vigilance 
+ Castle of Dragon Souls 
+ Chaos Hieratics 
+ This deck utilizes the combos of both "Hieratics" and "Chaos Dragons". Using cards like " Card Trooper " and " Lightsworn " monsters to dump cards into the Graveyard to easily Summon monsters " Black Luster Soldier - Envoy of the Beginning ", " Chaos Sorcerer ", or " Dark Armed Dragon ". Another great card to make this variant even more consistent is " Divine Dragon Apocralyph ", which can get rid of dead draws and fuel the Graveyard for Chaos monsters, and recover " Red-Eyes Darkness Metal Dragon " from the Graveyard.
+ 
+ 
+ Deck Monsters   
+ Monsters 
+ Red-Eyes Darkness Metal Dragon 
+ Lightpulsar Dragon 
+ Darkflare Dragon 
+ Eclipse Wyvern 
+ Divine Dragon Apocralyph 
+ Starliege Seyfert 
+ Chaos Dragon Levianeer 
+ The Chaos Creator 
+ Black Dragon Collapserpent 
+ White Dragon Wyverburster 
+ Dark Armed Dragon 
+ Black Luster Soldier - Envoy of the Beginning 
+ Chaos Sorcerer 
+ Any Hieratics and  Normal Monsters  you choose Extra Deck   
+ Link Monsters 
+ Hieratic Seal of the Heavenly Spheres Spells   &  Traps   
+ Spells 
+ Hieratic Seal of Supremacy 
+ Hieratic Seal of Convocation 
+ Chaos Space 
+ Traps 
+ Hieratic Seal of Reflection 
+ Hieratic Seal From the Ashes 
+ Hieratic Ritual's Wake 
+ 
+ Recommended cards Monsters   
+ Normal Monsters 
+ Flamvell Guard 
+ Labradorite Dragon 
+ Wattaildragon 
+ Effect Monsters 
+ Galaxy-Eyes Photon Dragon 
+ Hieratic Dragon of Eset 
+ Hieratic Dragon of Nebthet 
+ Hieratic Dragon of Su 
+ Hieratic Dragon of Tefnuit 
+ Manju of the Ten Thousand Hands 
+ Honest 
+ Ritual Monsters 
+ Saffira, Queen of Dragons 
+ Vennu, Bright Bird of Divinity 
+ Herald of Perfection 
+ Cyber Angel Benten Extra Deck   
+ Synchro Monsters 
+ Black Rose Dragon 
+ Star Eater 
+ Xyz Monsters 
+ Hieratic Dragon King of Atum 
+ Number 46: Dragluon 
+ Link Monsters 
+ Hieratic Seal of the Heavenly Spheres Spells   &  Traps   
+ Spells 
+ Advanced Ritual Art 
+ Hieratic Seal of Convocation 
+ Preparation of Rites 
+ Pre-Preparation of Rites 
+ Sacred Serpent's Wake 
+ Dawn of the Herald 
+ Draconnection 
+ Hymn of Light 
+ Primal Cry 
+ Traps 
+ Hieratic Seal From the Ashes 
+ Ritual Buster 
+ Hieratic  Destruction Sword / Buster Blader 
+ A new variant that emerged in 2016, following the release of  Breakers of Shadow , which combines Hieratic monsters with the  Destruction Sword  cards used to support  Buster Blader . This variant takes advantage of the fact that " Buster Blader, the Dragon Destroyer Swordsman " can be Fusion Summoned by fusing " Buster Blader " with ANY Dragon monster, and uses Hieratic Dragons as an engine to Special Summon " Buster Dragon " (through " Ultimaya Tzolkin ") and "Dragon Destroyer". This variant can be very powerful if using cards such as " Foolish Burial " " Vice Dragon " and " Lightpulsar Dragon ", as well as " Dragon Shrine ", " One for One ", " Jet Synchron ", " Beatrice, Lady of the Eternal " and other cards that allow you to send cards from your hand or Deck to the Graveyard.
+ " Beatrice, Lady of the Eternal " is one of this Deck's most critical cards, as she can be summoned easily with Tefnuit, Su and Wattaildragon, and helps you mill Graveyard-oriented Destruction Sword cards.
+ Because this Deck runs a lot of Level 1 Tuner monsters, it is advisable to add " Number 39: Utopia Roots " to support them in a pinch. This further cements "Jet Synchron's" place in the Deck, as if Jet Synchron is used as an Xyz Material after being Summoned with his own effect, not for a Synchro Summon, he will go back to the Graveyard to be reused once being detached.
+ Due to the excess of  DARK  Destruction Sword cards,  Chaos  monsters such as " Black Luster Soldier - Envoy of the Beginning " might a helpful option. " Galaxy Soldier " can also be useful due to all the  LIGHT  monsters, alloying to Xyz Summon monsters such as " Constellar Pleiades " and " Cyber Dragon Infinity " through " Nova ". With less requires Set up, " Chain Summon " can be used, targeting "Atum", to Special Summon "Cyber Dragon Nova" and immediately evolve it into "Infinity"
+ 
+ 
+ Recommended cards Monsters   
+ Normal Monsters 
+ Labradorite Dragon 
+ Wattaildragon / Luster Dragon 2 
+ Effect Monsters 
+ Hieratic Dragon of Su 
+ Hieratic Dragon of Eset 
+ Hieratic Dragon of Nebthet 
+ Hieratic Dragon of Tefnuit 
+ Black Luster Soldier - Envoy of the Beginning 
+ Buster Blader, the Destruction Swordmaster 
+ Galaxy Soldier 
+ Buster Blader 
+ Tuner monsters 
+ Effect Veiler 
+ Sage with Eyes of Blue 
+ Dragon Buster Destruction Sword 
+ Buster Whelp of the Destruction Swordsman Extra Deck   
+ Fusion Monsters 
+ Red-Eyes Black Dragon Sword 
+ Buster Blader, the Dragon Destroyer Swordsman 
+ Synchro Monsters 
+ Scrap Dragon 
+ Buster Dragon 
+ Ultimaya Tzolkin 
+ Black Rose Moonlight Dragon 
+ Beelze of the Diabolic Dragons 
+ Scarlight Red Dragon Archfiend 
+ Crystal Wing Synchro Dragon 
+ Xyz Monsters 
+ Constellar Ptolemy M7 
+ Hieratic Dragon King of Atum 
+ Gaia Dragon, the Thunder Charger 
+ Beatrice, Lady of the Eternal 
+ Red-Eyes Flare Metal Dragon 
+ Divine Dragon Knight Felgrand 
+ Number 38: Hope Harbinger Dragon Titanic Galaxy 
+ Number 107: Galaxy-Eyes Tachyon Dragon 
+ Number 95: Galaxy-Eyes Dark Matter Dragon 
+ Cyber Dragon Nova 
+ Cyber Dragon Infinity 
+ Link Monsters 
+ Hieratic Seal of the Heavenly Spheres Spells   &  Traps   
+ Spells 
+ Hieratic Seal of Convocation 
+ Emblem of Dragon Destroyer 
+ Destruction Swordsman Fusion 
+ Sacred Sword of Seven Stars 
+ A Wingbeat of Giant Dragon 
+ Rank-Up-Magic Astral Force  (use with "Atum" to make Rank 8 monsters or "Gaia Dragon" to make Rank 9 monsters) 
+ Galaxy Expedition 
+ The Claw of Hermos 
+ Chain Summon 
+ One for One 
+ Traps 
+ Destruction Sword Memories 
+ Destruction Sword Flash 
+ Prologue of the Destruction Swordsman 
+ Deck examples 
+ From  Hieratic Dragon Deck recipe sample 
+ 
+ Hieratic Dragon Deck 聖 刻 龍 デッキ Monsters   
+ Normal Monsters 
+ Wattaildragon 
+ Hieratic Seal of the Sun Dragon Overlord  x2 
+ Flamvell Guard 
+ Effect Monsters 
+ Hieratic Dragon of Nuit 
+ Hieratic Dragon of Gebeb  x3 
+ Hieratic Dragon of Eset 
+ Hieratic Dragon of Nebthet 
+ Hieratic Dragon of Tefnuit  x3 
+ Hieratic Dragon of Su  x2 
+ Hieratic Dragon of Asar 
+ Hieratic Dragon of Sutekh 
+ Galaxy-Eyes Photon Dragon 
+ Red-Eyes Darkness Metal Dragon  x2 
+ Honest Extra Deck   
+ Synchro Monsters 
+ Stardust Dragon 
+ Brionac, Dragon of the Ice Barrier 
+ Black Rose Dragon 
+ Xyz Monsters 
+ Neo Galaxy-Eyes Photon Dragon 
+ Photon Strike Bounzer 
+ Gaia Dragon, the Thunder Charger 
+ Hieratic Dragon King of Atum  x3 
+ Hieratic Sun Dragon Overlord of Heliopolis  x2 
+ Thunder End Dragon 
+ Constellar Ptolemy M7 Spells   &  Traps   
+ Spells 
+ Mini-Guts 
+ Hieratic Seal of Convocation  x3 
+ Hieratic Seal of Supremacy 
+ Monster Gate 
+ Pot of Duality 
+ Super Rejuvenation 
+ Monster Reborn 
+ Trade-In 
+ Advance Draw 
+ Traps 
+ Hieratic Seal of Banishment  x2 
+ Hieratic Seal of Reflection  x2 
+ Horn of Heaven 
+ Solemn Judgment 
+ Solemn Warning  x2 
+ From  Deck recipe PDF version (August 2013) 
+ 
+ Vampire Hieratic Deck ヴァンパイア 聖 刻 デッキ Monsters   
+ Normal Monsters 
+ Labradorite Dragon 
+ Effect Monsters 
+ Vampire's Curse 
+ Vampire Sorcerer  x3 
+ Shadow Vampire  x3 
+ Vampire Grace  x2 
+ Goblin Zombie  x2 
+ Zombie Master  x2 
+ Mezuki 
+ Plaguespreader Zombie 
+ Hieratic Dragon of Tefnuit  x3 
+ Labradorite Dragon 
+ Black Luster Soldier - Envoy of the Beginning 
+ Chaos Sorcerer 
+ Effect Veiler  x3 Extra Deck   
+ Synchro Monsters 
+ Star Eater 
+ Stardust Dragon 
+ Scrap Dragon 
+ Black Rose Dragon 
+ Ancient Sacred Wyvern 
+ Ally of Justice Catastor 
+ Armades, Keeper of Boundaries 
+ Xyz Monsters 
+ Crimson Knight Vampire Bram 
+ Gaia Dragon, the Thunder Charger  x2 
+ Constellar Ptolemy M7 
+ Adreus, Keeper of Armageddon 
+ Shark Fortress 
+ Number 66: Master Key Beetle 
+ Lavalval Chain Spells   &  Traps   
+ Spells 
+ Book of Life  x2 
+ Hieratic Seal of Convocation  x2 
+ Monster Reborn 
+ Dark Hole 
+ Heavy Storm 
+ Allure of Darkness 
+ Foolish Burial 
+ Card Destruction 
+ Mystical Space Typhoon  x2 
+ Traps 
+ Crush Card Virus 
+ Eradicator Epidemic Virus 
+ Solemn Warning 
+ Solemn Judgment 
+ List of  Dragon   Normal  and  Gemini monsters 
+   Japanese name Level Attribute Monster type ATK DEF Alexandrite Dragon アレキサンドライドラゴン 4 LIGHT 2,000 100 Alpha Burn Drake αバーン・ドレイク 1 LIGHT 600 1,000 Anotherverse Dragon 8 LIGHT 2,500 2,000 Applizard アプリザード 4 LIGHT 1,500 0 Attack Volcano Dragon アタック・ボルケーノ・ドラゴン 7 FIRE 2,300 2,000 B. Dragon Jungle King 密林の黒竜王 6 EARTH 2,100 1,800 Baby Dragon ベビードラゴン 3 WIND 1,200 700 Baby Dragon (Rush Duel) ベビードラゴン 3 WIND 1,200 700 Blackland Fire Dragon 暗黒の竜王 4 DARK 1,500 800 Blue-Eyes White Dragon 青眼の白龍 8 LIGHT 3,000 2,500 ... further results 
+ Weaknesses 
+ Cards like " Mask of Restrict ", " Fog King ", etc. that prevents  Tribute  would lockdown this archetype's main goal of Tributing monsters. Also, " Light-Imprisoning Mirror " can also shutdown their effects in the  Graveyard  as their effects activate when Tributed, if they were to end up in the Graveyard this way, since they are all  LIGHT - Attribute . " Koa'ki Meiru Drago " is one of the effective silver bullets against this Deck, since most "Hieratic" Decks relying on Special Summoning (most evident in "Hieratic" OTK style), and can even block the Summoning of both " Hieratic Dragon King of Atum " and " Hieratic Sun Dragon Overlord of Heliopolis ". Since most of "Hieratic" cards are Level 5 or higher, " Evilswarm Ophion " and " Steelswarm Roach " can put this Deck into almost perfect deadlock situation, and cards' effects that negate summons can also stop this Deck's summoning combos. " Fossil Dyna Pachycephalo " is also useful for preventing them from Special Summoning both their tokens and other monsters like " Hieratic Dragon of Su ", shutting down their means of summoning.
+ Another huge problem with the Deck is that it is common to  dead draw , due to so many mid-level monsters in the roster of most "Hieratic" Decks. A card like " Dark Hole " can destroy the player's momentum and leave them with no field and a weak hand. Cards like " Trial and Tribulation " and " Super Rejuvenation " are helpful for maintaining hand power and preventing this.
+ "Hieratics" have low  DEF , so cards like " Enemy Controller " and " Book of Moon " render them vulnerable on the opponent's turn.
+ Against a Deck running many  WIND -Attribute cards, " Mystic Fairy Elfuria " can badly slow down a "Hieratic" Deck's Xyz Summoning choices through the limiting Rank 5, 6 and 8 choices with its monster effect. And even if "Elfuria" leaves the field, its effect remains active until your next End Phase.
+ Most of the competitive "Hieratic" Decks are OTK-style Decks, thus these kinds of Deck always have almost nothing in terms of defense. Cards that can stop your OTK attempt such as " Battle Fader " can put a serious shock for any "Hieratic" players, since they almost never play any Trap Cards. Most of their usually-Summoned monsters are also high in ATK, which means any damage-reversing effects like " Magic Cylinder ", " Dimension Wall " and " Daigusto Sphreez " can deliver fatal blows for them.
+ 
+ Trivia 
+ The monsters in this archetype are based on the first four generations of  gods  in  Egyptian mythology . " Atum " gave rise to " Shu " and " Tefnut ", who gave rise to " Geb " and " Nut ", who gave rise to " Osiris ", " Isis ", " Nephthys " and " Set ". They were collectively known as the " Ennead ". 
+ Each monster in this archetype has an "Egyptian" symbol somewhere on its body(often its crown). 
+ The monsters in this archetype have designs similar to " Galaxy-Eyes Photon Dragon " and " Neo Galaxy-Eyes Photon Dragon " for their illuminating bodies, scaly armors, and wings. 
+ This archetype might have been released in order to celebrate the 2012 Year of the  Dragon  on the  Chinese calendar . 
+   
+" Hieratic " 「 聖 刻 」 Members 
+ Hieratic Dragon King of Atum Hieratic Dragon of Asar Hieratic Dragon of Eset Hieratic Dragon of Gebeb Hieratic Dragon of Nebthet Hieratic Dragon of Nuit Hieratic Dragon of Su Hieratic Dragon of Sutekh Hieratic Dragon of Tefnuit Hieratic Seal of the Dragon King Hieratic Seal of the Heavenly Spheres Hieratic Seal of the Sun Dragon Overlord Hieratic Sky Dragon Overlord of Heliopolis Hieratic Sun Dragon Overlord of Heliopolis 
+ Hieratic Seal From the Ashes Hieratic Seal of Banishment Hieratic Seal of Convocation Hieratic Seal of Creation Hieratic Seal of Reflection Hieratic Seal of Supremacy 
+ Support 
+ Hieratic Dragon of Asar Hieratic Dragon of Eset Hieratic Dragon of Gebeb Hieratic Dragon of Nebthet Hieratic Dragon of Su Hieratic Seal of the Dragon King 
+ Hieratic Seal From the Ashes Hieratic Seal of Banishment Hieratic Seal of Convocation Hieratic Seal of Creation Hieratic Seal of Reflection Hieratic Seal of Supremacy 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/88/Hieratic_Hieroglyph.png/revision/latest/scale-to-width-down/350?cb=20170222153550']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Xyz Monster(s), Archetypes with Link Monster(s)

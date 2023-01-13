@@ -1,0 +1,97 @@
+Link: https://yugioh.fandom.com/wiki/Child_of_Wind,_Cyc
+
+
+ Child of Wind, Cyc 
+ 
+ Japanese:   風の子サイク 
+ Kana:   かぜのこサイク 
+ Romaji:   Kaze no Ko Saiku 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   WIND 
+ 
+ Level 
+ 
+ 
+ 2   
+ 
+ [  Spellcaster  /  Effect  ] [Requirement] : If you  control  another  face-up   monster  ( WIND   Spellcaster ). [Effect] :  Add  1 monster ( Level  4 or lower Spellcaster) from your  GY  to your  hand .
+ ATK  /  400     DEF  /  600   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  SEVENS :  002 ,  003 ,  004 ,  009 ,  019 ,  031 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  SEVENS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 風 の 子 サイク 
+ 【条件】  自分フィールドにこのカード以外の表側表示モンスター（風属性／魔法使い族）がいる場合に発動できる。 【効果】 : 自分の墓地のモンスター（レベル４以下／魔法使い族）１体を選んで手札に加える。 
+ 
+ 
+ Kaze no Ko Saiku 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yuga Ohdo 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ WIND 
+ Spellcaster 
+ 
+ Actions  
+ Adds from Graveyard to hand 
+ 
+ Miscellaneous  
+ Rush Duel 
+ Requires control of specific Attribute 
+ Requires control of specific Type 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/15/ChildofWindCyc-JP-Anime-SV.png/revision/latest/scale-to-width-down/200?cb=20200411211205', 'https://static.wikia.nocookie.net/yugioh/images/0/01/WIND.svg/revision/latest/scale-to-width-down/28?cb=20170920205028', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/67/ChildofWindCyc-JP-Anime-SV-NC.png/revision/latest/scale-to-width-down/162?cb=20210903211901', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

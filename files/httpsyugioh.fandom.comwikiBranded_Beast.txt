@@ -1,0 +1,110 @@
+Link: https://yugioh.fandom.com/wiki/Branded_Beast
+
+
+ 
+ 
+ Branded Beast 烙 印 の 獣 
+ 
+ English 
+Branded Beast 
+ Japanese (kana) 
+ らくいんのけもの Check translation 
+ Japanese (base) 
+ 烙印の獣 Check translation 
+ Japanese ( rōmaji ) 
+Rakuin no Kemono 
+ Card type 
+ Trap   
+ Property 
+ Continuous   
+ Passcode 
+ 32756828 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Once per turn , during the Main Phase, if you  control  a " Bystial "  monster : You can  Tribute  1  Dragon   monster , then  target  1 card your opponent controls;  destroy  it. During the  End Phase : You can target 1 " Branded "  Continuous Spell / Trap  in your  GY ; place it  face-up  on your  field . You can only use this  effect  of "Branded Beast" once per turn. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の②の効果は１ターンに１度しか使用できない。①：１ターンに１度、自分フィールドに「ビーステッド」モンスターが存在する場合、自分・相手のメインフェイズに、自分フィールドのドラゴン族モンスター１体をリリースし、相手フィールドのカード１枚を対象として発動できる。そのカードを破壊する。②：自分・相手のエンドフェイズに、自分の墓地の「烙印」永続魔法・永続罠カード１枚を対象として発動できる。そのカードを自分フィールドに表側表示で置く。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-07-16 DABL-JP073 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Dragon 
+ 
+ Archetypes  and  series   
+ Branded 
+ 
+ Supports   archetypes   
+ Branded 
+ Bystial 
+ 
+ Actions  
+ Tributes for cost 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17828 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Branded " 「 烙 印 」 Members 
+ Albion the Branded Dragon 
+ Branded Banishment Branded Beast Branded Bond Branded Disciple Branded Expulsion Branded Fusion Branded Loss Branded Lost Branded Opening Branded Regained Branded Retribution Branded Sword Branded in Central Dogmatika Branded in High Spirits Branded in Red Branded in White Despia, Theater of the Branded Inevitably Branded Judgment of the Branded Light of the Branded Screams of the Branded 
+ Support 
+ Albion the Branded Dragon Albion the Shrouded Dragon Aluber the Jester of Despia The Bystial Lubellion Bystial Saronir Despian Tragedy Springans Kitt 
+ Branded Beast 
+ Related 
+ Alba-Lenatus the Abyss Dragon Albaz the Ashen Fallen of Albaz Lubellion the Searing Dragon Titaniklad the Ash Dragon 
+ 
+   
+" Bystial " 「ビーステッド」 Members 
+ The Bystial Alba Los Bystial Baldrake Bystial Druiswurm The Bystial Lubellion Bystial Magnamhut Bystial Saronir 
+ Support 
+ The Bystial Alba Los The Bystial Lubellion Bystial Saronir 
+ Branded Beast Branded Regained Inevitably Branded 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/93/BrandedBeast-DABL-JP-R.png/revision/latest/scale-to-width-down/300?cb=20220720010759', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

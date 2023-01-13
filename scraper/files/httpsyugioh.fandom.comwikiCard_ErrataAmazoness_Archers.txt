@@ -1,0 +1,62 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Amazoness_Archers
+
+
+ Amazoness Archers 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Anime Manga 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ This card  can  only be   activated  when your opponent  attacks  and  you control  a monster on your side of the field that includes "Amazoness" in its card name, or is named "Amazon Archer". All monsters on your opponent's side of the field  become  face-up Attack Position (Flip Effects are not activated) and as long as they remain face-up on the field  decrease  their ATK by 500 points. Your opponent must attack with all of  these  monsters  this turn . 
+ You  can   activate   this card  when your opponent  declares an   attack   and  if there is  a  monster (s)  on your side of the field that includes "Amazoness" in its card name, or is named "Amazon Archer" . All monsters  on  your opponent 's side of the field   are changed to  face-up Attack Position (Flip Effects are not activated) ,  and as long as they remain face-up on the field ,  their ATK (s) are decreased  by 500 points . Your opponent must attack with all of  his/her  monsters. 
+ 
+ 
+       MFC-096 Magician's Force     
+       DR1-EN151 Dark Revelation Volume 1     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ Activate   only   when   your  opponent declares an attack  while you control an "Amazoness"  monster .   All  monsters your opponent  controls   are changed  to face-up Attack Position (Flip Effects are not activated),  and   lose 500 ATK   as long as  they  remain face-up on the field. Your opponent  must attack  with all of  their  monsters . 
+ When   an  opponent 's monster  declares an attack ,  while you control an "Amazoness" monster : Change   all  monsters your opponent  currently  controls to face-up Attack Position (Flip Effects are not activated),  they  lose 500 ATK , also  they must attack  this turn, if able . 
+ 
+ 
+       GLD3-EN046 Gold Series 3     
+         SS02-ENC15 Speed Duel Starter Decks: Duelists of Tomorrow     
+ 
+ 
+ Italian 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Arciere  Amazoness 
+ Imboscata  Amazoness 
+ 
+ 
+         DR1-IT151 Dark Revelation Volume 1     
+         GLD3-IT046 Gold Series 3     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/63/AmazonessArchers-MFC-NA-SR-1E.png/revision/latest/scale-to-width-down/180?cb=20160610212554', 'https://static.wikia.nocookie.net/yugioh/images/f/f5/AmazonessArchers-DR1-EN-SR-UE.png/revision/latest/scale-to-width-down/180?cb=20140215200158', 'https://static.wikia.nocookie.net/yugioh/images/9/97/AmazonessArchers-GLD3-EN-C-LE.jpg/revision/latest/scale-to-width-down/180?cb=20100627191741', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/26/AmazonessArchers-SS02-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20190128175516', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/fb/AmazonessArchers-DR1-IT-SR-UE.jpg/revision/latest/scale-to-width-down/180?cb=20080410233151', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b5/AmazonessArchers-GLD3-IT-C-LE.png/revision/latest/scale-to-width-down/180?cb=20151010074039']
+Categories: Card Errata, Cards with 3 errata, Cards with name errata, Cards with 1 erratum, Cards with Italian errata

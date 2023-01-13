@@ -1,0 +1,785 @@
+Link: https://yugioh.fandom.com/wiki/Slate_Warrior
+
+
+ The Japanese (OCG) version of this card is not a member of the " Warrior "  archetype , because its Japanese name does not contain  「ウォリアー」 .   As its English name contains "Warrior", it  may  be treated a member of the "Warrior" archetype at a TCG event, subject to local rulings.     
+ The  Croatian, Greek  and  Thai                      names given are not official.  ( card names ) 
+ 
+ 
+ 
+ 
+ 
+ Slate Warrior ニュート 
+ 
+ English 
+Slate Warrior 
+ French 
+ Guerrier Ardoise Check translation 
+ German 
+ Schieferkrieger Check translation 
+ Italian 
+ Guerriero di Ardesia Check translation 
+ Korean 
+ 뉴트 Check translation 
+ Portuguese 
+ Guerreiro de Ardósia Check translation 
+ Spanish 
+ Guerrero de Pizarra Check translation 
+ Japanese 
+ ニュート Check translation 
+ Japanese ( rōmaji ) 
+Nyūto 
+ Japanese (translated) 
+Newt 
+ Card type 
+ Monster   
+ Attribute 
+ WIND   
+ Types 
+ Fiend  /  Flip  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1900  /  400 
+ Passcode 
+ 78636495 
+ Card effect types 
+ 
+ 
+ Flip 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ FLIP : This card gains 500  ATK  and  DEF . If this card is  destroyed by battle : The  monster  that  destroyed  it loses 500 ATK and DEF. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ FLIP : Cette carte gagne 500 ATK/DEF. Si cette carte est détruite au combat : le monstre qui l'a détruite perd 500 ATK/DEF. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ FLIPP : Diese Karte erhält 500  ATK  und  DEF . Falls diese Karte durch Kampf zerstört wird: Das  Monster , das sie zerstört hat, verliert 500 ATK und DEF. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ SCOPRI: Questa carta guadagna 500 ATK e DEF. Se questa carta viene distrutta in battaglia: il mostro che l'ha distrutta perde 500 ATK e DEF. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ VIRE : Este card ganha 500 de  ATK  e  DEF . Se este card for  destruído em batalha : o  monstro  que o destruiu perde 500 de ATK e DEF. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ VOLTEO: Esta carta gana 500 ATK y DEF. Si esta carta es destruida en batalla: el monstruo que la destruyó pierde 500 ATK y DEF. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：このカードがリバースした場合に発動する。このカードの攻撃力・守備力は５００アップする。②：このカードがモンスターとの戦闘で破壊された場合に発動する。そのモンスターの攻撃力・守備力を５００ダウンする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 이 카드가 리버스했을 경우에 발동한다. 이 카드의 공격력 / 수비력은 500 올린다. ②: 이 카드가 몬스터와의 전투로 파괴되었을 경우에 발동한다. 그 몬스터의 공격력 / 수비력을 500 내린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2006-04-28  
+ TP8-EN003   
+ Tournament Pack 8 
+ Super Rare 
+ 
+ 
+   
+ SD8-EN005   
+ Structure Deck: Lord of the Storm 
+ Common 
+ 
+ 
+ 2012-05-24  
+ BP01-EN121   
+ Battle Pack: Epic Dawn 
+ Common 
+ 
+ 
+ 2012-05-24  
+ BP01-EN121   
+ Battle Pack: Epic Dawn 
+ Starfoil Rare 
+ 
+ 
+ 2013-06-28  
+ BP02-EN027   
+ Battle Pack 2: War of the Giants 
+ Rare 
+ 
+ 
+ 2013-06-28  
+ BP02-EN027   
+ Battle Pack 2: War of the Giants 
+ Mosaic Rare 
+ 
+ 
+ 2014-07-31  
+ BP03-EN013   
+ Battle Pack 3: Monster League 
+ Rare 
+ 
+ 
+ 2014-07-31  
+ BP03-EN013   
+ Battle Pack 3: Monster League 
+ Shatterfoil Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ 
+ North American English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2004-02-10  
+ WC4-003   
+ Yu-Gi-Oh! World Championship Tournament 2004 promotional cards 
+ Prismatic Secret Rare 
+ 
+ 
+ 2011-05-29  
+ DT05-EN011   
+ Duel Terminal 5a 
+ Duel Terminal Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—Europe 
+ 
+ 
+ 
+ European English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+   
+ TFK-EN003   
+ Yu-Gi-Oh! The Falsebound Kingdom promotional cards 
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2004-11-19  
+ TFK-FR003   
+ Yu-Gi-Oh! The Falsebound Kingdom promotional cards 
+ Yu-Gi-Oh! The Falsebound Kingdom Jeux  
+ Super Rare 
+ 
+ 
+ 2006-04-28  
+ TP8-FR003   
+ Tournament Pack 8 
+ Pack de Tournoi 8  
+ Super Rare 
+ 
+ 
+   
+ SD8-FR005   
+ Structure Deck: Lord of the Storm 
+   
+ Common 
+ 
+ 
+ 2012-05-24  
+ BP01-FR121   
+ Battle Pack: Epic Dawn 
+ Battle Pack: L’Aube Épique  
+ Common 
+ 
+ 
+ 2012-05-24  
+ BP01-FR121   
+ Battle Pack: Epic Dawn 
+ Battle Pack: L’Aube Épique  
+ Starfoil Rare 
+ 
+ 
+ 2013-06-27  
+ BP02-FR027   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: La Guerre des Géants  
+ Rare 
+ 
+ 
+ 2013-06-27  
+ BP02-FR027   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: La Guerre des Géants  
+ Mosaic Rare 
+ 
+ 
+ 2014-07-31  
+ BP03-FR013   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: La Ligue des Monstres  
+ Rare 
+ 
+ 
+ 2014-07-31  
+ BP03-FR013   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: La Ligue des Monstres  
+ Shatterfoil Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2004-11-19  
+ TFK-DE003   
+ Yu-Gi-Oh! The Falsebound Kingdom promotional cards 
+ Yu-Gi-Oh! The Falsebound Kingdom Pakete  
+ Super Rare 
+ 
+ 
+ 2006-04-28  
+ TP8-DE003   
+ Tournament Pack 8 
+ Tournament Pack 8  
+ Super Rare 
+ 
+ 
+   
+ SD8-DE005   
+ Structure Deck: Lord of the Storm 
+   
+ Common 
+ 
+ 
+ 2012-05-24  
+ BP01-DE121   
+ Battle Pack: Epic Dawn 
+ Battle Pack: Epic Dawn  
+ Common 
+ 
+ 
+ 2012-05-24  
+ BP01-DE121   
+ Battle Pack: Epic Dawn 
+ Battle Pack: Epic Dawn  
+ Starfoil Rare 
+ 
+ 
+ 2013-06-27  
+ BP02-DE027   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: War of the Giants  
+ Rare 
+ 
+ 
+ 2013-06-27  
+ BP02-DE027   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: War of the Giants  
+ Mosaic Rare 
+ 
+ 
+ 2014-07-31  
+ BP03-DE013   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Monster League  
+ Rare 
+ 
+ 
+ 2014-07-31  
+ BP03-DE013   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Monster League  
+ Shatterfoil Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2004-11-19  
+ TFK-IT003   
+ Yu-Gi-Oh! The Falsebound Kingdom promotional cards 
+ Yu-Gi-Oh! The Falsebound Kingdom Bundle  
+ Super Rare 
+ 
+ 
+ 2006-04-28  
+ TP8-IT003   
+ Tournament Pack 8 
+ Busta da Torneo 8  
+ Super Rare 
+ 
+ 
+   
+ SD8-IT005   
+ Structure Deck: Lord of the Storm 
+   
+ Common 
+ 
+ 
+ 2012-05-24  
+ BP01-IT121   
+ Battle Pack: Epic Dawn 
+ Battle Pack: Alba Epica  
+ Common 
+ 
+ 
+ 2012-05-24  
+ BP01-IT121   
+ Battle Pack: Epic Dawn 
+ Battle Pack: Alba Epica  
+ Starfoil Rare 
+ 
+ 
+ 2013-06-27  
+ BP02-IT027   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: Guerra dei Giganti  
+ Rare 
+ 
+ 
+ 2013-06-27  
+ BP02-IT027   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: Guerra dei Giganti  
+ Mosaic Rare 
+ 
+ 
+ 2014-07-31  
+ BP03-IT013   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Lega dei Mostri  
+ Rare 
+ 
+ 
+ 2014-07-31  
+ BP03-IT013   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Lega dei Mostri  
+ Shatterfoil Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2013-06-28  
+ BP02-PT027   
+ Battle Pack 2: War of the Giants 
+ Pacote de Batalha 2: Guerra dos Gigantes  
+ Rare 
+ 
+ 
+ 2013-06-28  
+ BP02-PT027   
+ Battle Pack 2: War of the Giants 
+ Pacote de Batalha 2: Guerra dos Gigantes  
+ Mosaic Rare 
+ 
+ 
+ 2014-08-01  
+ BP03-PT013   
+ Battle Pack 3: Monster League 
+ Pacote de Batalha 3: Liga de Monstros  
+ Rare 
+ 
+ 
+ 2014-08-01  
+ BP03-PT013   
+ Battle Pack 3: Monster League 
+ Pacote de Batalha 3: Liga de Monstros  
+ Shatterfoil Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2004-11-19  
+ TFK-SP003   
+ Yu-Gi-Oh! The Falsebound Kingdom promotional cards 
+ Cartas promocionales de Yu-Gi-Oh! El Salto del Reino Animal  
+ Super Rare 
+ 
+ 
+ 2012-05-24  
+ BP01-SP121   
+ Battle Pack: Epic Dawn 
+ Battle Pack: Amanecer Épico  
+ Common 
+ 
+ 
+ 2012-05-24  
+ BP01-SP121   
+ Battle Pack: Epic Dawn 
+ Battle Pack: Amanecer Épico  
+ Starfoil Rare 
+ 
+ 
+ 2013-06-27  
+ BP02-SP027   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: Guerra de los Gigantes  
+ Rare 
+ 
+ 
+ 2013-06-27  
+ BP02-SP027   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: Guerra de los Gigantes  
+ Mosaic Rare 
+ 
+ 
+ 2014-07-25, 2014-07-31  
+ BP03-SP013   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Liga de Monstruos  
+ Rare 
+ 
+ 
+ 2014-07-25, 2014-07-31  
+ BP03-SP013   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Liga de Monstruos  
+ Shatterfoil Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2001-09-06  
+ S2-03   
+ PlayStation True Duel Monsters Promos: Series 2 
+ 遊戯王真デュエルモンスターズ2 継承されし記憶  
+ Ultra Rare 
+ 
+ 
+ 2001-09-06  
+ S2-03   
+ PlayStation True Duel Monsters Promos: Series 2 
+ 遊戯王真デュエルモンスターズ2 継承されし記憶  
+ Secret Rare 
+ 
+ 
+   
+ SD8-JP005   
+ Structure Deck: Lord of the Storm 
+   
+ Common 
+ 
+ 
+ 2010-04-27  
+ DT09-JP011   
+ Duel Terminal "Vylon Descends!!" 
+ デュエルターミナル 「ヴァイロン降臨！！」  
+ Duel Terminal Normal Parallel Rare 
+ 
+ 
+ 2015-01-10  
+ 15AX-JPY12   
+ Duelist Road -Piece of Memory- Side: Dark Yugi 
+ 決闘者の栄光 －記憶の断片－ ｓｉｄｅ：闇遊戯  
+ Common 
+ 
+ 
+ 2015-01-10  
+ 15AX-JPY12   
+ Duelist Road -Piece of Memory- Side: Dark Yugi 
+ 決闘者の栄光 －記憶の断片－ ｓｉｄｅ：闇遊戯  
+ Millennium Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+   
+ SD8-KR005   
+ Structure Deck: Lord of the Storm 
+   
+ Common 
+ 
+ 
+ 2020-03-25  
+ 15AX-KRY12   
+ Duelist Road -Piece of Memory- Side: Dark Yugi 
+ 듀얼리스트의 영광 -기억의 단편-  side : 어둠의 유희  
+ Common 
+ 
+ 
+ 2020-03-25  
+ 15AX-KRY12   
+ Duelist Road -Piece of Memory- Side: Dark Yugi 
+ 듀얼리스트의 영광 -기억의 단편-  side : 어둠의 유희  
+ Millennium Rare 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   7 Trials to Glory: World Championship Tournament 2005 
+ 
+ 
+ Super Monster Collection  ( Secret Rare )
+ Forbidden Deck 
+ All effect monsters  ( Common )
+ All cards  ( Common )
+ 
+ Super Unlimited Selection  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   Nightmare Troubadour 
+ 
+ 
+ Beautiful Challenger  ( Super Rare ) 
+ 
+ 
+ 
+ 
+ 
+   Online 
+ 
+ 
+ Pack 21 
+ 
+ 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+ Game Gift Collection  ( Super Rare )
+ Fiend Collection B  ( Rare )
+ Reverse Collection  ( Ultra Rare )
+ All Effect Monsters  ( Common )
+ 
+ All at Random  ( Common ) 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Actions  
+ Activates upon being flipped face-up 
+ Activates if destroyed by battle 
+ 
+ Stat changes  
+ This card gains ATK 
+ This card gains DEF 
+ Your opponent's monsters lose ATK 
+ Your opponent's monsters lose DEF 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 5037 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status 7 Trials to Glory: World Championship Tournament 2005 2004-12-30 – – – – – Unlimited Nightmare Troubadour 2005-07-21 – ??? – – – Unlimited Online 2005-11-04 – – – – – Unlimited Ultimate Masters: World Championship Tournament 2006 2006-02-23 – ??? – – – Unlimited 
+ 
+ 
+ 
+   " Slate Warrior " pages 
+ 
+ 
+ Anime Yu-Gi-Oh! The Duelists of the Roses 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/6/65/SlateWarrior-BP03-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20140803170513', 'https://static.wikia.nocookie.net/yugioh/images/0/01/WIND.svg/revision/latest/scale-to-width-down/28?cb=20170920205028', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

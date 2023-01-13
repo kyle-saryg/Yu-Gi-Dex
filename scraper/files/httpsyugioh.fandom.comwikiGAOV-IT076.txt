@@ -1,0 +1,431 @@
+Link: https://yugioh.fandom.com/wiki/GAOV-IT076
+
+The  Chinese  and  Croatian                       names given are not official.  
+ The  Chinese                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Dimension Slice ディメンション・スライド 
+ 
+ English 
+Dimension Slice 
+ Chinese 
+ 次元崩落 Check translation 
+ French 
+ Coupure de Dimension Check translation 
+ German 
+ Dimensionsschnitt Check translation 
+ Italian 
+ Taglio Dimensionale Check translation 
+ Korean 
+ 디멘션 슬라이드 Check translation 
+ Portuguese 
+ Corte Dimensional Check translation 
+ Spanish 
+ Tajada de Dimensión Check translation 
+ Japanese 
+ ディメンション・スライド Check translation 
+ Japanese ( rōmaji ) 
+Dimenshon Suraido 
+ Japanese (translated) 
+Dimension Slide 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 73632127 
+ Card effect types 
+ 
+ 
+ Trigger-like 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When a  monster (s) is  Special Summoned  to your side of the  field  (except during the  Damage Step ):  Target  1  face-up  monster your opponent  controls ;  banish  that target. If the  Summon  is an  Xyz Summon , you can  activate  this card the  turn  it was  Set . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Lorsqu'un ou plusieurs monstres sont Invoqués Spécialement sur votre Terrain (sauf durant la Damage Step) : ciblez 1 monstre face recto contrôlé par votre adversaire ; bannissez la cible. Si l'Invocation est une Invocation Xyz, vous pouvez activer cette carte le tour où elle a été Posée. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wenn Monster als Spezialbeschwörung auf deine Spielfeldseite beschworen werden (außer während des Damage Steps): Wähle 1 offenes Monster, das dein Gegner kontrolliert; verbanne das gewählte Ziel. Falls die Beschwörung eine Xyz-Beschwörung ist, kannst du diese Karte in dem Spielzug aktivieren, in dem sie gesetzt wurde. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando uno o più mostri vengono Evocati Specialmente sul tuo Terreno (eccetto durante il Damage Step): scegli come bersaglio 1 mostro scoperto controllato dal tuo avversario; bandisci quel bersaglio. Se l'Evocazione è un'Evocazione Xyz, puoi attivare questa carta nel turno in cui è stata Posizionata. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Quando um ou mais monstros forem Invocados por  Invocação-Especial  no seu lado do campo (exceto durante a  Etapa de Dano ):  escolha  1 monstro com a  face para cima  que seu oponente controla; bana o  alvo . Se a Invocação for uma  Invocação-Xyz , você pode ativar este card no turno em que ele foi  Baixado . 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando uno o más monstruos son Invocados de Modo Especial a tu lado del Campo (excepto durante el Damage Step): selecciona 1 monstruo boca arriba que controle tu adversario; destierra ese objetivo. Si la Invocación es una Invocación Xyz, puedes activar esta carta en el turno en el que fue Colocada. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 自分フィールド上にモンスターが特殊召喚された時に発動できる。相手フィールド上に表側表示で存在するモンスター１体を選択してゲームから除外する。その特殊召喚がエクシーズ召喚だった場合、このカードはセットしたターンに発動できる。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 稀有度：银字R。效果：自己特殊召唤怪兽上场时可以发动。选择对方场上一只正面表示的怪兽从游戏中除外。如果自己进行的是超量召唤，那么此卡在设置上场的回合中就可以发动。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신 필드 위에 몬스터가 특수 소환되었을 때 발동할 수 있다. 상대 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고 게임에서 제외한다. 그 특수 소환이 엑시즈 소환이었을 경우, 이 카드는 세트한 턴에 발동할 수 있다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2012-04-28  
+ GAOV-EN076   
+ Galactic Overlord 
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ 
+ North American English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2014-01-17  
+ BPW2-EN094   
+ War of the Giants: Round 2 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—Europe 
+ 
+ 
+ 
+ European English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2014-01-17  
+ WGRT-EN094   
+ War of the Giants Reinforcements 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-FR076   
+ Galactic Overlord 
+ Le Seigneur de la Galaxie  
+ Rare 
+ 
+ 
+ 2014-01-17  
+ WGRT-FR094   
+ War of the Giants Reinforcements 
+ La Guerre des Géants Recommence  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-DE076   
+ Galactic Overlord 
+ Galactic Overlord  
+ Rare 
+ 
+ 
+ 2014-01-16  
+ WGRT-DE094   
+ War of the Giants Reinforcements 
+ War of the Giants Reinforcements  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-IT076   
+ Galactic Overlord 
+ Sovrano Galattico  
+ Rare 
+ 
+ 
+ 2014-01-16  
+ WGRT-IT094   
+ War of the Giants Reinforcements 
+ Guerra dei Giganti – I Rinforzi  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2014-01-17  
+ WGRT-PT094   
+ War of the Giants Reinforcements 
+ Guerra dos Gigantes Reforços  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-SP076   
+ Galactic Overlord 
+ Señor Supremo Galáctico  
+ Rare 
+ 
+ 
+ 2014-01-16  
+ WGRT-SP094   
+ War of the Giants Reinforcements 
+ Guerra de los Gigantes Refuerzos  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2012-02-18  
+ GAOV-JP076   
+ Galactic Overlord 
+ ＧＡＬＡＣＴＩＣ ＯＶＥＲＬＯＲＤ  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2012-05-21  
+ GAOV-KR076   
+ Galactic Overlord 
+ 갤럭틱 오버로드  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Xyz Monster 
+ 
+ Actions  
+ Activates upon Special Summon 
+ 
+ Monster / Spell / Trap  categories  
+ Allows activation of Trap Cards the turn they were Set 
+ 
+ Banished  categories  
+ Banishes from your opponent's field 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 10099 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e4/DimensionSlice-BPW2-NA-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140122121724', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,141 @@
+Link: https://yugioh.fandom.com/wiki/Luminous_Keeper
+
+
+ Luminous Keeper 
+ 
+ Japanese:   太陽の守護者 
+ Kana:   たいようのしゅごしゃ 
+ Romaji:   Taiyō no Shugosha 
+ Translated:  Solar Keeper 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Level 
+ 
+ 
+ 7   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Ignition 
+ Continuous 
+ Trigger 
+ Fusion Material 
+ 
+ 
+ 
+ " Luminous Soldier "  
+ 1  LIGHT  " Guardian "  monster 
+ 
+ [  Warrior  /  Fusion  /  Effect  ] 
+ " Luminous Soldier "  
+ 1  LIGHT  " Guardian "  monster 
+ Once per turn : You can  Special Summon  1 " Keeper Shield Token " ( Warrior - Type / LIGHT / Level  1/ ATK  0/ DEF  0). While you  control  a "Keeper Shield Token", monsters your opponent controls cannot  target  this card for  attacks . If an opponent's monster  destroys  a "Keeper Shield Token" you control: You can target that opponent's monster; it loses 800  ATK , and if it does, inflict 800  damage  to your opponent.
+ ATK  /  2400     DEF  /  2100   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ARC-V :  116 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ARC-V ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 太 陽 の 守 護 者 
+ 
+ 「太陽の戦士」 
+ 光属性「ガーディアン」モンスター 
+ ①：１ターンに１度、自分メインフェイズに発動できる。自分フィールドに「守護者の盾トークン」（戦士族・光・星１・攻／守０）１体を特殊召喚する。②：「守護者の盾トークン」が自分のモンスターゾーンに存在する限り、相手はこのカードを攻撃対象にできない。③：相手モンスターが自分フィールドの「守護者の盾トークン」を破壊した場合、その相手モンスター１体を対象として発動できる。その相手モンスターの攻撃力は８００ダウンし、相手に８００ダメージを与える。 
+ 
+ 
+ Taiyō no Shugosha 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Apollo 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ LIGHT 
+ 
+ Supports   archetypes   
+ Guardian 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ 
+ Summoning  categories  
+ 2 Fusion Materials 
+ Requires specific monsters as Fusion Materials 
+ Requires Attribute specific Fusion Materials 
+ Requires archetype specific Fusion Materials 
+ Special Summons Tokens 
+ 
+ Attack  categories  
+ Manages attack targets 
+ 
+ LP   
+ Damages your opponent 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ v e 
+" Guardian " 「ガーディアン」 a   +   Members 
+ Chronomaly Tula Guardian Dark Guardian Dimension Guardian Firewall Guardian Gagaga Guardian Gate Guardian Gate Guardian Gorgonic Guardian Goyo Guardian Guardian Angel Joan Guardian Baou Guardian Dreadscythe Guardian Eatos Guardian Elma Guardian Force Guardian Formation Guardian Grarl Guardian Kay'est Guardian Shield Guardian Sphinx Guardian Tryce Infernity Guardian Metal Guardian Stronghold Guardian Trust Guardian 
+ Support 
+ Guardian Force Guardian Formation Guardian Shield Luminous Keeper Penumbral Keeper 
+ Related 
+ Backup Gardna Butterfly Dagger - Elma Celestial Sword - Eatos Dark Element Gravity Axe - Grarl Guardian Treasure Kazejin Kazejin Luminous Soldier Penumbral Soldier Lady Reaper Scythe - Dreadscythe Rod of Silence - Kay'est Sanga of the Thunder Sanga of the Thunder Shooting Star Bow - Ceal Suijin Suijin Wicked-Breaking Flamberge - Baou 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/b3/LuminousKeeper-JP-Anime-AV.png/revision/latest/scale-to-width-down/200?cb=20160731090411', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/9d/LuminousKeeper-JP-Anime-AV-NC.png/revision/latest/scale-to-width-down/185?cb=20160731183946', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

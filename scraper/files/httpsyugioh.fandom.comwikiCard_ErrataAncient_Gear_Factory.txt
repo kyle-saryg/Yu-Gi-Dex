@@ -1,0 +1,62 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Ancient_Gear_Factory
+
+
+ Ancient Gear Factory 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Select 1 monster in your hand  that includes "Ancient Gear" in its card name  (show the monster to your opponent). Remove from play "Ancient Gear" cards in your Graveyard whose total Levels are equal to double the selected card's. You don't have to Tribute when you Normal Summon the selected card this turn. 
+ Select 1  "Ancient Gear"  monster in your hand  ( show  the monster  to your opponent ) . Remove from play "Ancient Gear" cards in your Graveyard whose total Levels are equal to double the selected card's. You  don't have to Tribute when you  Normal Summon the selected card this turn. 
+ 
+ 
+       SOI-EN039 Shadow of Infinity     
+       SD10-EN021 Structure Deck: Machine Re-Volt  ( 1st Edition )     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ Select  1 "Ancient Gear" monster in your hand  and  show  it  to your opponent. Remove from play  "Ancient Gear"  cards in  your Graveyard whose  total  Levels are  equal to  double the  selected card's.   You   can   Normal Summon the  selected card  without Tributes  this turn. 
+ Reveal  1  Level 5 or higher  "Ancient Gear" monster from your hand , then banish a number of  "Ancient Gear"  monsters from  your Graveyard ,  whose  combined  Levels are double the  revealed monster's, and if you do, if   you  Normal Summon the  revealed monster  this turn , you must Normal Smmon it without Tributing . 
+ 
+ 
+       DR04-EN159 Dark Revelation Volume 4     
+         SD10-EN021 Structure Deck: Machine Re-Volt ( Unlimited Edition ) Machine Madness Value Box     
+ 
+ 
+ German 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Wähle 1 Monster  von  deiner Hand , dessen Kartenname „Antik“ und „Antrieb“ enthält  (zeige das Monster deinem Gegner). Entferne Karten aus deinem Friedhof,  deren Kartenname „Antik“ und „Antrieb“ enthält,  deren gemeinsame Stufe  gleich  doppelt so hoch wie die Stufe der gewählten Karte ist. Wenn du die gewählte Karte in diesem Spielzug als Normalbeschwörung beschwörst, musst du keinen Tribut anbieten. 
+ Wähle 1  „Antiker Antrieb“- Monster  in  deiner Hand (zeige das Monster deinem Gegner). Entferne  „Antiker Antrieb“- Karten aus deinem Friedhof, deren gemeinsame Stufe doppelt so hoch wie die Stufe der gewählten Karte ist. Wenn du die gewählte Karte in diesem Spielzug als Normalbeschwörung beschwörst, musst du keinen Tribut anbieten. 
+ 
+ 
+         SOI-DE039 Shadow of Infinity     
+         SD10-DE021 Structure Deck: Machine Re-Volt     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/18/AncientGearFactory-SOI-EN-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20061109160227', 'https://static.wikia.nocookie.net/yugioh/images/5/5f/AncientGearFactory-SD10-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20160418105259', 'https://static.wikia.nocookie.net/yugioh/images/f/f1/AncientGearFactory-DR04-NA-C-UE.png/revision/latest/scale-to-width-down/180?cb=20080530030359', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/48/AncientGearFactory-SD10-EN-C-UE.png/revision/latest/scale-to-width-down/180?cb=20140518161333', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/24/AncientGearFactory-SOI-DE-C-1E.png/revision/latest/scale-to-width-down/180?cb=20170210162018', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a9/AncientGearFactory-SD10-DE-C-1E.png/revision/latest/scale-to-width-down/180?cb=20160927165631']
+Categories: Card Errata, Cards with 3 errata, Cards with 1 erratum, Cards with German errata

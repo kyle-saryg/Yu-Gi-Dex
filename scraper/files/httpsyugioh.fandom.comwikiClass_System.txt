@@ -1,0 +1,92 @@
+Link: https://yugioh.fandom.com/wiki/Class_System
+
+
+ Class System 
+ 
+ Japanese:   階級制度 
+ Kana:   かいきゅうせいど 
+ Romaji:   Kaikyū Seido 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Quick-Play 
+ 
+ Activate  when your opponent's  monster   attacks  your monster, and it activates its  effect . If that monster's  Level  is not greater than your monster's Level,  negate  that attack and effect.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh! :  140 ,  141 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  Yu-Gi-Oh! ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 階 級 制 度 
+ 相手のモンスターが自分のモンスターに攻撃、特殊効果を発動させた時に発動させてよい。そのモンスターのレベルが自分のモンスターのレベルを上回っていない場合、その攻撃および効果を無効にする。 
+ 
+ 
+ Kaikyū Seido 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Yami Marik 
+ 
+ 
+ Search categories 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your opponent's Effect Monsters 
+ 
+ Attack  categories  
+ Negates attacks 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/de/ClassSystem-JP-Anime-DM.png/revision/latest/scale-to-width-down/200?cb=20140913182312', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/be/ClassSystem-OW.png/revision/latest/scale-to-width-down/185?cb=20131227155241', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

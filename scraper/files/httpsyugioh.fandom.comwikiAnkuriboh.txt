@@ -1,0 +1,137 @@
+Link: https://yugioh.fandom.com/wiki/Ankuriboh
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Ankuriboh アンクリボー 
+ 
+ English 
+Ankuriboh 
+ Japanese 
+ アンクリボー Check translation 
+ Japanese ( rōmaji ) 
+Ankuribō 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Fiend  /  Effect 
+ Level 
+ 1   
+ ATK  /  DEF 
+ 300  /  200 
+ Passcode 
+ 00595626 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Trigger 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When an opponent's  monster   declares  an  attack : You can  discard  this card, then  target  1 monster in either  GY , except this card;  Special Summon  it to your field, but  send  it to the GY during the  End Phase . If this card is  destroyed by battle  or  card effect  and sent to the GY: You can add 1 " Monster Reborn " from your  Deck  or GY to your  hand  during the End Phase of this turn. You can only use each effect of "Ankuriboh" once per turn. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手モンスターの攻撃宣言時にこのカードを手札から捨て、このカード以外の自分または相手の墓地のモンスター１体を対象として発動できる。そのモンスターを自分フィールドに特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに墓地へ送られる。②：このカードが戦闘・効果で破壊され墓地へ送られた場合に発動できる。このターンのエンドフェイズに、自分のデッキ・墓地から「死者蘇生」１枚を選んで手札に加える。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2019-02-21 VJMP-JP159 V Jump April 2019 promotional card Ｖジャンプ ２０１９年 ４月号 付録カード Ultra Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Monster Reborn 
+ 
+ Archetypes  and  series   
+ Kuriboh  
+ 
+ Related to  archetypes  and  series   
+ Palladium 
+ 
+ Actions  
+ Activates from your hand 
+ Activates upon attack declaration 
+ Discards itself for cost 
+ Sends from your field to your Graveyard 
+ Activates if destroyed by battle 
+ Activates if destroyed by card effect 
+ Activates from your Graveyard 
+ Adds from Deck to hand 
+ Adds from Graveyard to hand 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ Special Summons from your opponent's Graveyard 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14384 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Kuriboh " 「クリボー」 Members 
+ Ankuriboh Astral Kuriboh Clear Kuriboh Galakuriboh Junkuriboh Kuribah Kuribee Kuribeh Kuriboh Kuriboh Token Kuribohrn Kuriboo Linkuriboh Magikuriboh Performapal Barokuriboh Performapal ClassiKuriboh Performapal Kuribohble Rainbow Kuriboh Relinkuriboh Sphere Kuriboh Winged Kuriboh Winged Kuriboh LV10 Winged Kuriboh LV9 
+ The Flute of Summoning Kuriboh 
+ Support 
+ Kuribabylon Kuribah Kuribee Kuribeh Kuribohrn Kuriboo Skilled Brown Magician 
+ Generation Next 
+ Related 
+ Donyoribo @Ignister Kuribandit Kuribon Kuriphoton Kurivolt Light and Darkness Dragon Linguriboh Ma'at Palladium Oracle Mana Wretched Ghost of the Attic 
+ Berserker Crush Detonate Five Star Twilight Monster Reborn Multiply Sabatiel - The Philosopher's Stone Transcendent Wings 
+ 
+   
+" Palladium " 「 守 護 神 官 」 Members 
+ Palladium Oracle Mahad Palladium Oracle Mana 
+ Support 
+ Soul Servant 
+ Related 
+ Ankuriboh Dark Magician Dark Magician Dark Magician Girl 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/77/Ankuriboh-VJMP-JP-OP.png/revision/latest/scale-to-width-down/300?cb=20190212074404', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836']
+Categories: Duel Monsters cards, OCG cards

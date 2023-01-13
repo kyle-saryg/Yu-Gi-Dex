@@ -1,0 +1,95 @@
+Link: https://yugioh.fandom.com/wiki/All_Zero
+
+
+ All Zero 
+ 
+ Japanese:   オール・ゼロ 
+ Romaji:   Ōru Zero 
+ 
+ 
+ 
+ 
+ en 
+ ja 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell 
+ 
+ 
+ 
+ Special Summon   monsters  from your  hand  with 0  ATK  and  DEF  and their  effects   negated You cannot Special Summon this  turn , except by this effect 
+ 
+ Viz Media  lore<nomobile> ? :</nomobile> <mobile>(The English manga by Viz Media sometimes uses lores which are inconsistent with the Japanese lore or how the card worked.):</mobile> Set the  ATK  and  DEF  of all  monsters  in your  hand  to "0",  negate  their  effects , and  Special Summon  them. You may only perform effect-based special summons on this  turn .
+ 
+ 
+ Appearances
+ 
+ 
+ 
+ 
+   5D's :  024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Manga cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ オール・ゼロ 
+ 手札のモンスターの攻守を０ 効果を無効にして特殊召喚する このターンこの効果以外の特殊召喚はできない 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Leo    
+ Luna  
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ Reduces ATK to 0 
+ Reduces DEF to 0 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your Effect Monsters 
+ 
+ Summoning  categories  
+ Special Summons from your hand 
+ Prevents the player's Special Summons 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/6d/AllZero-EN-Manga-5D.png/revision/latest/scale-to-width-down/200?cb=20141224170620', 'https://static.wikia.nocookie.net/yugioh/images/0/0e/AllZero-EN-Manga-5D-CA.png/revision/latest/scale-to-width-down/185?cb=20151007000145', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Manga cards, Manga cards with no OCG/TCG counterpart

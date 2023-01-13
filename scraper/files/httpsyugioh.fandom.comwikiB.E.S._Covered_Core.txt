@@ -1,0 +1,500 @@
+Link: https://yugioh.fandom.com/wiki/B.E.S._Covered_Core
+
+The  Croatian  and  Greek                       names given are not official.  ( card names ) 
+ 
+ 
+ 
+ 
+ 
+ B.E.S. Covered Core 巨 大 戦 艦  カバード・コア 
+ 
+ English 
+B.E.S. Covered Core 
+ French 
+ B.E.S. Cœur Protégé Check translation 
+ German 
+ B.E.S. Bedeckter Kern Check translation 
+ Italian 
+ B.E.S. Nucleo Protetto Check translation 
+ Korean 
+ 거대전함 커버드 코어 Check translation 
+ Spanish 
+ B.E.S. Núcleo Cubierto Check translation 
+ Japanese (kana) 
+ きょだいせんかん カバード・コア Check translation 
+ Japanese (base) 
+ 巨大戦艦 カバード・コア Check translation 
+ Japanese ( rōmaji ) 
+Kyodai Senkan Kabādo Koa 
+ Japanese (translated) 
+Giant Battleship - Covered Core 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Machine  /  Effect 
+ Level 
+ 7   
+ ATK  /  DEF 
+ 2500  /  800 
+ Passcode 
+ 15317640 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Continuous 
+ Trigger 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When this card is  Normal Summoned , put 2  counters  on it. This card cannot be  destroyed by battle . If this card  attacks  or is  attacked , at the end of the  Damage Step  toss a coin and call it. If you call it wrong, remove 1 counter. If this card  battles  without a  counter ,  destroy  it at the end of the  Damage Step . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Mettez 2 compteurs sur cette carte lorsque vous en faites l'Invocation Normale. Cette carte ne peut pas être détruite à l'issue d'un combat. Si cette carte combat un monstre, jouez à pile ou face à la fin de la Damage Step. Si vous perdez, retirez 1 compteur. Si cette carte combat sans compteur, détruisez cette carte à la fin de la Damage Step. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Lege 2 Zählmarken auf diese Karte, wenn du sie als Normalbeschwörung beschwörst. Diese Karte wird nicht als Ergebnis eines Kampfes zerstört. Falls diese Karte mit einem Monster kämpft, wirf am Ende des Damage Steps eine Münze und wähle Kopf oder Zahl. Falls du falsch vorausgesagt hast, entferne 1 Zählmarke. Falls diese Karte ohne Zählmarke kämpft, zerstöre diese Karte am Ende des Damage Steps. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando viene Evocata tramite Evocazione Normale, metti 2 Segnalini su questa carta. Questa carta non viene distrutta in seguito ad una battaglia. Se questa carta combatte con un mostro, lancia una moneta e scegli testa o croce alla fine del Damage Step. Se sbagli, rimuovi 1 Segnalino. Se questa carta combatte senza avere un Segnalino, distruggi questa carta alla fine del Damage Step. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando Invocas mediante una Invocación Normal esta carta, ponle 2 contadores. Esta carta no es destruida como resultado de una batalla. Si esta carta lucha con un monstruo, lanza una moneda y elige cara o cruz al final del Damage Step. Si fallas, retira 1 contador. Si esta carta lucha sin contadores, destruye esta carta al final del Damage Step. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードの召喚時にカウンターを２つ置く。このカードは戦闘によっては破壊されない。戦闘を行った場合、ダメージステップ終了時にコイントスで裏表を当てる。ハズレの場合、カードのカウンターを１つ取り除く。カウンターのない状態で戦闘を行った場合、ダメージステップ終了時にこのカードを破壊する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드의 일반 소환시에 카운터를 2개 놓는다. 이 카드는 전투에 의해서는 파괴되지 않는다. 전투를 실행했을 경우, 데미지 스텝 종료시에 코인 토스로 앞뒷면을 맞춘다. 못 맞춘 경우, 카드의 카운터를 1개 제거한다. 카운터가 없는 상태에서 전투를 실행했을 경우, 데미지 스텝 종료시에 이 카드를 파괴한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2006-02-18  
+ SOI-EN013   
+ Shadow of Infinity 
+ Super Rare 
+ 
+ 
+ 2006-02-18  
+ SOI-EN013   
+ Shadow of Infinity 
+ Ultimate Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ 
+ North American English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2007-11-14  
+ DR04-EN133   
+ Dark Revelation Volume 4 
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2006-02-18  
+ SOI-FR013   
+ Shadow of Infinity 
+ L'Ombre de l'Infini  
+ Super Rare 
+ 
+ 
+ 2006-02-18  
+ SOI-FR013   
+ Shadow of Infinity 
+ L'Ombre de l'Infini  
+ Ultimate Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2006-03-15  
+ SOI-DE013   
+ Shadow of Infinity 
+ Shadow of Infinity  
+ Super Rare 
+ 
+ 
+ 2006-03-15  
+ SOI-DE013   
+ Shadow of Infinity 
+ Shadow of Infinity  
+ Ultimate Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2006-02-18  
+ SOI-IT013   
+ Shadow of Infinity 
+ Ombra dell'Infinito  
+ Super Rare 
+ 
+ 
+ 2006-02-18  
+ SOI-IT013   
+ Shadow of Infinity 
+ Ombra dell'Infinito  
+ Ultimate Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2006-02-18  
+ SOI-SP013   
+ Shadow of Infinity 
+ Sombra del Infinito  
+ Super Rare 
+ 
+ 
+ 2006-02-18  
+ SOI-SP013   
+ Shadow of Infinity 
+ Sombra del Infinito  
+ Ultimate Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2005-11-17  
+ SOI-JP013   
+ Shadow of Infinity 
+ ＳＨＡＤＯＷ ＯＦ ＩＮＦＩＮＩＴＹ  
+ Super Rare 
+ 
+ 
+ 2005-11-17  
+ SOI-JP013   
+ Shadow of Infinity 
+ ＳＨＡＤＯＷ ＯＦ ＩＮＦＩＮＩＴＹ  
+ Ultimate Rare 
+ 
+ 
+   
+ EE04-JP133   
+ Expert Edition Volume.4 
+   
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Asian-English 
+ 
+ 
+ 
+ Asian-English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+   
+ SOI-AE013   
+ Shadow of Infinity 
+ Super Rare 
+ 
+ 
+   
+ SOI-AE013   
+ Shadow of Infinity 
+ Ultimate Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2007-07-03  
+ SOI-KR013   
+ Shadow of Infinity 
+ 무한의 그림자  
+ Super Rare 
+ 
+ 
+ 2007-07-03  
+ SOI-KR013   
+ Shadow of Infinity 
+ 무한의 그림자  
+ Ultimate Rare 
+ 
+ 
+   
+ HGP4-KR133   
+ Expert Edition Volume.4 
+   
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Online 
+ 
+ 
+ Pack 39 
+ 
+ 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+ Shadow of Infinity 
+ Machine Collection B 
+ All Effect Monsters  ( Common )
+ 
+ All at Random  ( Common ) 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ B.E.S. 
+ 
+ Related to  archetypes  and  series   
+ Konami Arcade Games 
+ 
+ Counters   
+ Counter 
+ Places counters on itself 
+ Removes counters from itself 
+ 
+ Actions  
+ Activates upon Normal Summon 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ Miscellaneous  
+ From Konami Video Games 
+ Coin toss 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 6591 ( ja  ( rulings )   en   fr   de   it   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Online 2005-11-04 – – – – – Unlimited Ultimate Masters: World Championship Tournament 2006 2006-02-23 – ??? – – – Unlimited 
+ 
+ 
+ 
+   " B.E.S. Covered Core " pages 
+ 
+ 
+ Yu-Gi-Oh! BAM 
+ 
+ 
+ 
+   
+" B.E.S. " 「 巨 大 戦 艦 」 Members 
+ B.E.S. Big Core B.E.S. Big Core MK-2 B.E.S. Big Core MK-3 B.E.S. Blaster Cannon Core B.E.S. Covered Core B.E.S. Crystal Core B.E.S. Tetran 
+ Support 
+ B.E.S. Big Core MK-3 
+ B.E.F. Zelos Boss Rush 
+ Related 
+ Falchionβ Gradius Gradius' Option Jade Knight Lord British Space Fighter Vic Viper T301 Victory Viper XX03 
+ Cyclon Laser Power Capsule 
+ 
+   
+ Konami Arcade Games Members 
+ Blue Thunder T-45 DUCKER Mobile Cannon Delta Tri Falchionβ Gradius Gradius' Option Jade Knight Lord British Space Fighter Option Token Star Drawing Trigon Vic Viper T301 Victory Viper XX03 
+ Cyclon Laser Dragon Laser Power Capsule 
+ Related 
+ Aitsu Ambitious Gofer B.E.S. Big Core B.E.S. Big Core MK-2 B.E.S. Covered Core B.E.S. Crystal Core B.E.S. Tetran Brain Golem Doitsu Flint Lock Getsu Fuhma Goe Goe the Gallant Ninja Koitsu Moai Interceptor Cannons Ryu Kokki Sasuke Samurai Sasuke Samurai #2 Sasuke Samurai #3 Sasuke Samurai #4 Soitsu Solar Flare Dragon Space Mambo The Statue of Easter Island Tactical Espionage Expert Ultimate Baseball Kid 
+ Big Wave Small Wave Boss Rush D.D.R. - Different Dimension Reincarnation Flint Flint Missile Ninjitsu Art of Decoy Ninjitsu Art of Transformation Option Hunter 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/26/BESCoveredCore-DR04-NA-SR-UE.png/revision/latest/scale-to-width-down/300?cb=20080530030401', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

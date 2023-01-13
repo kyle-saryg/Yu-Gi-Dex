@@ -1,0 +1,123 @@
+Link: https://yugioh.fandom.com/wiki/Tentacluster_Drillworm
+
+
+ Tentacluster Drillworm 
+ 
+ Japanese:   テンタクラスター・ドリルワーム 
+ Romaji:   Tentakurasutā Doriruwāmu 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   DARK 
+ 
+ Level 
+ 
+ 
+ 3   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Trigger 
+ Trigger 
+ [  Machine  /  Effect  ] If this  Attack Position  card is  destroyed  by a  card effect : You can  send  1  random  card from your opponent's  hand  to the  GY , and if it was a  monster , send 1 additional random card from your opponent's hand to the GY.  Once per turn , during your opponent's  Standby Phase , if you have no cards in your hand and you  control  no monsters in your  Main Monster Zones , while this card is in your GY: You can  banish  1 card with the same name as this card from your GY; send 1 random card from your opponent's hand to the GY, and if you do,  Special Summon  this card in  Defense Position .
+ ATK  /  600     DEF  /  1200   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  016 ,  017 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ テンタクラスター・ドリルワーム 
+ ①：攻撃表示のこのカードが効果で破壊された場合に発動できる。自分は相手の手札をランダムに１枚選んて墓地へ送る。そのカードがモンスターだった場合、さらに自分は相手の手札をランダムに１枚選んて墓地へ送る。②：相手スタンバイフェイズに、自分の手札が０枚で、このカードが墓地に存在し、自分のメインモンスターゾーンにモンスターが存在しない場合、このカードの同名カード１枚を墓地から除外して発動できる。自分は相手の手札をランダムに１枚選んて墓地へ送り、このカードを墓地から守備表示で特殊召喚する。 
+ 
+ 
+ Tentakurasutā Doriruwāmu 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Prototype Ai-A 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Tentacluster 
+ Worm 
+ 
+ Actions  
+ Activates from your Graveyard 
+ Sends from your opponent's hand to your opponent's Graveyard 
+ 
+ Summoning  categories  
+ Special Summons itself from your Graveyard 
+ 
+ Banished  categories  
+ Banishes from your Graveyard 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ v e 
+" Tentacluster " 「テンタクラスター」 a   m   Members 
+ Flexible Tentacluster Tentacluster Blastsucker Tentacluster Darkwhip Tentacluster Drillworm Tentacluster Nautilus 
+ Support 
+ Flexible Tentacluster Tentacluster Nautilus 
+ 
+ v e 
+" Worm " 「ワーム」 a   m   Members 
+ Dimensionhole Dungeon Worm Hack Worm Motor Worm Bait Motor Worm Gate Motor Worm Spreader Queen Motor Worm Token Needle Worm Parasite Worm Predaplant Stapeliaworm Shield Worm Tentacluster Drillworm Time Travel Warm Worm The Wicked Worm Beast Worm Bait Worm Drake Worm Revival Worm Token Wormhole Defense 
+ Support 
+ Worm Bait 
+ Related 
+ Egg Clutch Humanoid Slime Humanoid Worm Drake 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/f5/TentaclusterDrillworm-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20170830125237', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/19/TentaclusterDrillworm-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20170830125236', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

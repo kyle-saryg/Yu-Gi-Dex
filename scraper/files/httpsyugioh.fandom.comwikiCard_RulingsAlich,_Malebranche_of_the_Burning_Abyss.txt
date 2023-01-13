@@ -1,0 +1,79 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Alich,_Malebranche_of_the_Burning_Abyss
+
+
+ Alich, Malebranche of the Burning Abyss 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Contents 
+ 
+ 1   "Burning Abyss" monster Rulings 
+ 2   OCG Rulings 
+ 
+ 2.1   On Special Summoning itself from the hand 
+ 2.2   On destroying itself 
+ 
+ 
+ 3   References 
+ 
+ 
+ "Burning Abyss" monster Rulings 
+ OCG Rulings 
+ On Special Summoning itself from the hand 
+ The effect " If you control no  Spell / Trap Cards : You can  Special Summon  this card from your  hand . " is an  Ignition Effect  that activates from the hand. (It does not target.) [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] 
+ Since Pendulum Monsters in the  Pendulum Zone  are treated as Spell Cards, even if you control no cards in your  Spell & Trap Zone  and  Field Zone , it is considered that you control a Spell Card. Therefore, if you have an " Archfiend Eccentrick " in your Pendulum Zone, you cannot activate the effect of a monster like " Scarm, Malebranche of the Burning Abyss " and Special Summon it from the hand. [12] 
+ If a monster like " Scarm, Malebranche of the Burning Abyss " activates the effect that Special Summons it from the hand, and " Vanity's Emptiness " is activated in a Chain, since you cannot Special Summon monsters, " Scarm, Malebranche of the Burning Abyss " remains in the hand. [13] 
+ Since an " Embodiment of Apophis " treated as a Monster Card is still treated as a Trap Card, if you control an " Embodiment of Apophis " treated as a Monster Card, you cannot activate the effect of a monster like " Scarm, Malebranche of the Burning Abyss " and Special Summon it from the hand. [14] 
+ On destroying itself 
+ The effect " If you  control  a  monster  that is not a " Burning Abyss " monster,  destroy  this card. " is a  Continuous Effect . (If you control a monster that is not a " Burning Abyss " monster during the  Damage Step , this effect is still applied.) [1] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] 
+ Even if you control a monster that is not a " Burning Abyss " monster like " Tour Guide From the Underworld ", you can still Normal Summon a monster like " Scarm, Malebranche of the Burning Abyss ". In that case, " Scarm, Malebranche of the Burning Abyss " is destroyed by its own effect. [15] 
+ While you control " Beatrice, Lady of the Eternal ", and a face-down Defense Position monster like " Scarm, Malebranche of the Burning Abyss ", if " Scarm, Malebranche of the Burning Abyss " is attacked by an opponent's monster and it is destroyed by battle, its Continuous Effect is not applied, and it is sent to the Graveyard at the end of the Damage Step as usual. However, if " Scarm, Malebranche of the Burning Abyss " is not destroyed by battle, its Continuous Effect is applied, and it is destroyed after  damage calculation . [16] 
+ If you control a  face-down   Defense Position  monster, and a face-up monster like " Scarm, Malebranche of the Burning Abyss ", since you control a monster that is not a " Burning Abyss " monster, " Scarm, Malebranche of the Burning Abyss " is destroyed by its own effect. [17] 
+ References 
+ 
+ ↑  1.0   1.1   Konami OCG Card Database : Scarm, Malebranche of the Burning Abyss 
+ 
+ ↑  2.0   2.1   Konami OCG Card Database : Graff, Malebranche of the Burning Abyss 
+ 
+ ↑  3.0   3.1   Konami OCG Card Database : Cir, Malebranche of the Burning Abyss 
+ 
+ ↑  4.0   4.1   Konami OCG Card Database : Rubic, Malebranche of the Burning Abyss 
+ 
+ ↑  5.0   5.1   Konami OCG Card Database : Alich, Malebranche of the Burning Abyss 
+ 
+ ↑  6.0   6.1   Konami OCG Card Database : Calcab, Malebranche of the Burning Abyss 
+ 
+ ↑  7.0   7.1   Konami OCG Card Database : Farfa, Malebranche of the Burning Abyss 
+ 
+ ↑  8.0   8.1   Konami OCG Card Database : Libic, Malebranche of the Burning Abyss 
+ 
+ ↑  9.0   9.1   Konami OCG Card Database : Cagna, Malebranche of the Burning Abyss 
+ 
+ ↑  10.0   10.1   Konami OCG Card Database : Draghig, Malebranche of the Burning Abyss 
+ 
+ ↑  11.0   11.1   Konami OCG Card Database : Barbar, Malebranche of the Burning Abyss 
+ 
+ ↑   Konami OCG Card Database : If you have a card in your Pendulum Zone, can you Special Summon a monster like "Scarm, Malebranche of the Burning Abyss"? 
+ 
+ ↑   Konami OCG Card Database : If a monster like "Scarm, Malebranche of the Burning Abyss" activates the effect that Special Summons it from the hand, and "Vanity's Emptiness" is activated in a Chain, what happens? 
+ 
+ ↑   Konami OCG Card Database : If you control an "Embodiment of Apophis" treated as a Monster Card, can you Special Summon a monster like "Scarm, Malebranche of the Burning Abyss"? 
+ 
+ ↑   Konami OCG Card Database : If you control a monster that is not a "Burning Abyss" monster, can you Normal Summon a monster like "Scarm, Malebranche of the Burning Abyss"? 
+ 
+ ↑   Konami OCG Card Database : While you control a monster that is not a "Burning Abyss" monster, if a monster like "Scarm, Malebranche of the Burning Abyss" in face-down Defense Position is flipped face-up by battle, what happens? 
+ 
+ ↑   Konami OCG Card Database : If you control a face-down Defense Position monster, what happens to monsters like "Scarm, Malebranche of the Burning Abyss"? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

@@ -1,0 +1,90 @@
+Link: https://yugioh.fandom.com/wiki/Spin-Headed_Behemoth
+
+
+ Spin-Headed Behemoth 
+ 
+ Japanese:   スピンドル・ドラ 
+ Romaji:   Supindoru Dora 
+ Translated:  Spindle Dora 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   DARK 
+ 
+ Level 
+ 
+ 
+ 4   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Quick 
+ [  Dragon  /  Effect  ] During the  Battle Step , if this card is  attacked  while in  Attack Position  ( Quick Effect ): You can change all opponent's  Defense Position  monsters to  Attack Position  ( Flip monsters ' effects are not activated at this time).
+ ATK  /  800     DEF  /  2000   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  041 ,  042 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ スピンドル・ドラ 
+ ①：攻撃表示のこのカードが攻撃対象に選択されたバトルステップに１度だけ発動できる。相手フィールドの守備表示モンスターを全て表側攻撃表示にする。この時、リバースモンスターの効果は発動しない。 
+ 
+ 
+ Supindoru Dora 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Varis 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d1/SpinHeadedBehemoth-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180307140221', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2c/SpinHeadedBehemoth-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20180228131151', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

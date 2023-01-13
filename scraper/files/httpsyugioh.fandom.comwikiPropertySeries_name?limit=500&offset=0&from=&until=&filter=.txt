@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Series_name?limit=500&offset=0&from=&until=&filter=
+
+This property details the series a given media release belongs to. It has type  page .
+ 
+ 
+ 
+ 
+Categories:

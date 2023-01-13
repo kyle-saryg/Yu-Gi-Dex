@@ -1,0 +1,254 @@
+Link: https://yugioh.fandom.com/wiki/Double_Resonator
+
+
+ 
+ 
+ Double Resonator ダブル・リゾネーター 
+ 
+ English 
+Double Resonator 
+ French 
+ Double Diapason Check translation 
+ German 
+ Doppelresonator Check translation 
+ Italian 
+ Doppio Diapason Check translation 
+ Korean 
+ 더블 레조네이터 Check translation 
+ Portuguese 
+ Ressonador Duplo Check translation 
+ Spanish 
+ Resonador Doble Check translation 
+ Japanese 
+ ダブル・リゾネーター Check translation 
+ Japanese ( rōmaji ) 
+Daburu Rizonētā 
+ Card type 
+ Monster   
+ Attribute 
+ FIRE   
+ Types 
+ Fiend  /  Tuner  /  Effect 
+ Level 
+ 1   
+ ATK  /  DEF 
+ 0  /  0 
+ Passcode 
+ 60832978 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Ignition 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If this card is  Normal  or  Special Summoned : You can  target  1  face-up   monster  on the  field ; that target is treated as a  Tuner  this  turn . You can  banish  this card from your  GY , then target 1  Fiend  monster you  control ; that Fiend monster is treated as a Tuner this turn. You can only use this  effect  of “Double Resonator”  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 monstre face recto sur le Terrain ; ce tour, la cible est traitée comme un Syntoniseur. Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre Démon que vous contrôlez ; ce tour, le monstre Démon est traité comme un Syntoniseur. Vous ne pouvez utiliser cet effet de "Double Diapason" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 offenes Monster auf dem Spielfeld wählen; das gewählte Ziel wird in diesem Spielzug als Empfänger behandelt. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Unterweltler-Monster wählen, das du kontrollierst; das Unterweltler-Monster wird in diesem Spielzug als Empfänger behandelt. Du kannst diesen Effekt von „Doppelresonator“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se questa carta viene Evocata Normalmente o Specialmente: puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; quel bersaglio viene considerato come un Tuner in questo turno. Puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 mostro Demone che controlli; quel mostro Demone viene considerato come un Tuner in questo turno. Puoi utilizzare questo effetto di "Doppio Diapason" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se este card for Invocado por Invocação-Normal ou Especial: você pode escolher 1 monstro com a face para cima no campo; o alvo é considerado como um Regulador neste turno. Você pode banir este card do seu Cemitério e, depois, escolher 1 monstro Demônio que você controla; esse monstro Demônio é considerado como um Regulador neste turno. Você só pode usar este efeito de "Ressonador Duplo" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 monstruo boca arriba en el Campo; este turno, ese objetivo se trata como un Cantante. Puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 monstruo Demonio que controles; este turno, ese monstruo Demonio se trata como un Cantante. Sólo puedes usar este efecto de "Resonador Doble" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「ダブル・リゾネーター」の②の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合、フィールドの表側表示モンスター１体を対象として発動できる。このターン、その表側表示モンスターをチューナーとして扱う。②：墓地のこのカードを除外し、自分フィールドの悪魔族モンスター１体を対象として発動できる。このターン、その悪魔族モンスターをチューナーとして扱う。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "더블 레조네이터"의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우, 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 턴에, 그 앞면 표시 몬스터를 튜너로 취급한다. ②: 묘지의 이 카드를 제외하고, 자신 필드의 악마족 몬스터 1장을 대상으로 하여 발동할 수 있다. 이 턴에, 그 악마족 몬스터를 튜너로 취급한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2017-05-04 MACR-EN016 Maximum Crisis Common 2018-08-30 MP18-EN003 2018 Mega-Tin Mega Pack Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2017-05-04 MACR-FR016 Maximum Crisis La Crise Maximale Common 2018-08-30 MP18-FR003 2018 Mega-Tin Mega Pack 2018 Méga-Boîtes Méga Pack Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2017-05-04 MACR-DE016 Maximum Crisis Maximum Crisis Common 2018-08-30 MP18-DE003 2018 Mega-Tin Mega Pack 2018 Mega-Tin Mega Pack Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2017-05-04 MACR-IT016 Maximum Crisis Crisi Massima Common 2018-08-30 MP18-IT003 2018 Mega-Tin Mega Pack Mega-Tin 2018 Mega-Pack Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2017-05-04 MACR-PT016 Maximum Crisis Crise Máxima Common 2018-08-30 MP18-PT003 2018 Mega-Tin Mega Pack Mega-Pacote da Mega-Latas 2018 Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2017-05-04 MACR-SP016 Maximum Crisis Crisis Máxima Common 2018-08-30 MP18-SP003 2018 Mega-Tin Mega Pack Mega-Latas 2018 Mega-Pack Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2017-01-14 MACR-JP016 Maximum Crisis マキシマム・クライシス Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2017-04-11 MACR-KR016 Maximum Crisis 맥시멈 크라이시스 Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Fiend 
+ 
+ Archetypes  and  series   
+ Resonator 
+ 
+ Actions  
+ Activates upon Normal Summon 
+ Activates upon Special Summon 
+ Activates from your Graveyard 
+ 
+ Stat changes  
+ Treats monsters as Tuner monsters 
+ 
+ Banished  categories  
+ Banishes itself from Graveyard for cost 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12930 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Double Resonator " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Resonator " 「リゾネーター」 Members 
+ Barrier Resonator Chain Resonator Clock Resonator Creation Resonator Crimson Resonator Dark Resonator Double Resonator Flare Resonator Force Resonator Mirror Resonator Red Resonator Synkron Resonator 
+ Resonator Call Resonator Command Resonator Engine 
+ Support 
+ Chain Resonator Crimson Resonator Red Rising Dragon Red Warg Synkron Resonator 
+ The Great Soul Red Carpet Resonant Destruction Resonator Call Resonator Command Resonator Engine 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a9/DoubleResonator-MP18-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180831215112', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/28?cb=20120918053839', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836']
+Categories: Duel Monsters cards, TCG cards, OCG cards

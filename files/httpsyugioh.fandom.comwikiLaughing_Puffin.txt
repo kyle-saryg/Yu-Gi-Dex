@@ -1,0 +1,98 @@
+Link: https://yugioh.fandom.com/wiki/Laughing_Puffin
+
+The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Laughing Puffin 道 化 鳥 ラフィンパフィン 
+ 
+ English 
+Laughing Puffin 
+ Japanese (kana) 
+ どうけちょうラフィンパフィン Check translation 
+ Japanese (base) 
+ 道化鳥ラフィンパフィン Check translation 
+ Japanese ( rōmaji ) 
+Dōkechō Rafin Pafin 
+ Japanese (translated) 
+Laughing Puffin the Jester Bird 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Winged Beast  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1000  /  1700 
+ Passcode 
+ 80275707 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If there is  face-up   Spell / Trap  on the  field : You can  Special Summon  this card from your  hand . You can  Tribute  1  Winged Beast  monster, then  target  1 face-up Spell/Trap on the  field ;  return  it to the hand, also you cannot  activate  cards, or the  effects  of cards, with that name for the rest of this  turn . This is a  Quick Effect  if all monsters you  control  are Winged Beast monsters. You can only use each effect of "Laughing Puffin the Jester Bird"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：フィールドに表側表示の魔法・罠カードが存在する場合に発動できる。このカードを手札から特殊召喚する。②：自分フィールドの鳥獣族モンスター１体をリリースし、フィールドの表側表示の魔法・罠カード１枚を対象として発動できる。その表側表示のカードを持ち主の手札に戻す。このターン、自分はこの効果で手札に戻したカード及びその同名カードの効果を発動できない。自分フィールドのモンスターが鳥獣族モンスターのみの場合、この効果は相手ターンでも発動できる。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-07-16 DABL-JP033 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Winged Beast 
+ 
+ Actions  
+ Tributes for cost 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17788 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/bb/LaughingPuffin-DABL-JP-C.png/revision/latest/scale-to-width-down/300?cb=20220718230822', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

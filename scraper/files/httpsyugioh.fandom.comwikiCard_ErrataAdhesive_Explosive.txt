@@ -1,0 +1,36 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Adhesive_Explosive
+
+
+ Adhesive Explosive 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ If  your  opponent's monster attacks this face-down Defense Position card, this card becomes an Equip Card equipped to the attacking monster, without applying damage calculation. Destroy the equipped monster during the Standby Phase of your opponent's next turn. 
+ If   an  opponent's monster  attacks this  face-down Defense Position  card, this card becomes an  Equip  Card equipped  to the attacking monster , without applying damage calculation .  Destroy  the  equipped  monster  during the Standby Phase of your opponent's next turn . 
+ Before damage calculation,   if   this card was attacked by  an opponent's monster  and was in  face-down Defense Position  at the start of the Damage Step:  Equip  this card  to the attacking monster.  Then, during your opponent's next Standby Phase,   destroy  the monster  this card is equipped to . 
+ 
+ 
+       SOI-EN011 Shadow of Infinity     
+       DR04-EN131 Dark Revelation Volume 4     
+       BPW2-EN015 War of the Giants: Round 2     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/fd/AdhesiveExplosive-SOI-EN-R-1E.png/revision/latest/scale-to-width-down/180?cb=20150321193443', 'https://static.wikia.nocookie.net/yugioh/images/1/18/AdhesiveExplosive-DR04-NA-C-UE.png/revision/latest/scale-to-width-down/180?cb=20080530030308', 'https://static.wikia.nocookie.net/yugioh/images/9/96/AdhesiveExplosive-BPW2-NA-SR-1E.png/revision/latest/scale-to-width-down/180?cb=20140307102909']
+Categories: Card Errata, Cards with 2 errata

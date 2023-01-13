@@ -1,0 +1,707 @@
+Link: https://yugioh.fandom.com/wiki/Plant
+
+
+ 
+ Plant
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 植 物 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ しょくぶつ
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 植物
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Shokubutsu
+ 
+ 
+ 
+ English
+ 
+ 
+ Plant
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Plante 
+ German : Pflanze 
+ Italian : Pianta 
+ Portuguese : Planta 
+ Spanish : Planta 
+ Korean : 식물 (植物)  Singmul 
+ Traditional Chinese : 植物  Zhíwù / Zik6 mat6 
+ 
+ 
+ 
+ 
+ 
+ Lists
+ 
+ 
+ 
+ 
+ members 
+ support 
+ anti-support 
+ 
+ Plant  ( 植 物   Shokubutsu ) monsters were very overlooked and weak until  support  for the  Type  was released in the  Crossroads of Chaos ,  Crimson Crisis  and  Raging Battle  booster sets. A general strategy for Plant Decks is to use cards like " Gigaplant ", " Lonefire Blossom " and " Lord Poison " to fill the field with powerful monsters. They can go hand-in-hand with  Insect -Types as well with cards like " Prickle Fairy ". 
+ One of the strongest Plant monsters is " Tytannial, Princess of Camellias " at 2800 ATK. It has the power to negate any card effects that target simply by sacrificing a Plant monster (which in worst case scenario can even be herself). It can be easily Summoned by Tributing "Lonefire Blossom". In power and strategy, "Tytannial, Princess of Camellias" is followed by "Gigaplant", which has 2400 ATK and the power to Special Summon Plants from the Graveyard and hand. 
+ Other notable Plant monsters include " Mystic Tomato ", " Spore ", " Dandylion ", " Botanical Lion ", " Glow-Up Bulb ", " Nettles ", " Cactus Fighter ", " Meliae of the Trees " and " Number 50: Blackship of Corn ".
+ Plants also have Plant version of  staple  cards like " Solemn Judgment " and " Mirror Force ", in the forms of " Pollinosis " and " Wall of Thorns ", respectively. Plants have non-Plant support versions of " Marauding Captain " in form of " Twilight Rose Knight ", a version of " Witch of the Black Forest " in form of " Violet Witch ". Other Plant cards are very similar to certain non-Plant cards, for example: " Dark Verger " and " Quillbolt Hedgehog ". Other cards present similarities in the card images like " Wonder Clover " and " Break! Draw! ".
+ The usual  Attributes  associated with Plants are  EARTH  or  WATER . Plant cards usually revolve around swarming and regenerating back onto the field. Unlike  Zombies , Plants are often used to fuel effects such as negations rather than for strictly attacking purposes. They have many cards that allow them to be Special Summoned from the Deck and hand but mostly from the Graveyard. Cards like "Lonefire Blossom", " Plant Food Chain ", "Lord Poison", "Gigaplant", " The World Tree " and " Miracle Fertilizer " all add major support to bringing back a swarm of Plant monsters to overwhelm the opponent. There are many good Plant  Tuner monsters , like " Copy Plant " and "Spore". 
+ Plant monsters are used by  Akiza Izinski  in  Yu-Gi-Oh! 5D's . Her  signature card , " Black Rose Dragon ", is a  staple  in Plant-reliant Decks. Plant monsters also appear in  Yu-Gi-Oh! ZEXAL ,  used by  Tombo Tillbitty  and  Lotus Hanazoe . Tombo plays with a " Tomato " deck, while Lotus plays a Plant deck with a focus on Special Summoning Plants to Xyz Summon " Battlecruiser Dianthus ," which is later Ranked Up to Summon " CXyz Battleship Cherry Blossom ". In  Yu-Gi-Oh! ARC-V ,  Yuri  uses a " Predaplant " Deck focused on manipulating the stats of the opponent's monsters to weaken them, disrupting their strategies, or using them as  Fusion Materials  for their own bosses. In   Yu-Gi-Oh! VRAINS ,  Specter  uses a " Sunvine "/" Sunavalon " Deck focused on manipulating the tide of the Duel. In  Yu-Gi-Oh! SEVENS ,  Rayne Nanahoshi  and   Rino Nanahoshi  both user the  Flowerfang  archetype both with different key monsters and different overall strategies.
+ Legacy of the Valiant  introduced the " Sylvan " archetype, the first one composed solely of Plant monsters. They are focus on the  excavate  mechanic, have a high variety of Levels and Attributes, being able to build a very flexible Deck, and their effects rely on taking advantage of when they are excavated and sent to the Graveyard; those effects range from  searching a monster  and  recycling cards  to  destroying a monster  and  reorganizing the Deck  in order to use their effects at their best.
+ The " Aroma " archetype is largely composed of Plant monsters, and focuses on gaining advantage through having higher  LP  than the opponent. 
+ 
+ Contents 
+ 
+ 1   Archetypes/Series 
+ 
+ 1.1   Pure 
+ 1.2   Multi-type 
+ 
+ 
+ 2   Playing style 
+ 
+ 2.1   Plant Beatdown 
+ 2.2   GigaVise 
+ 2.3   Chaos Plants 
+ 2.4   Doppel Plants 
+ 
+ 
+ 3   Examples 
+ 
+ 
+ Archetypes/Series 
+ Pure 
+ Inmato 
+ Plant Princess 
+ Predaplant 
+ Rikka 
+ Sunavalon 
+ Sylvan 
+ Multi-type 
+ Aroma 
+ Naturia 
+ Traptrix 
+ Playing style 
+ Plant  Beatdown 
+ This deck revolves around "Lonefire Blossom" and "Gigaplant" to help swarm the field. Make sure you use the effect of "Gigaplant" effectively in order to pull decent Synchro Monsters out while using " Queen of Thorns " to make your opponent pay life points to summon non-plant monsters. You could use " Tytannial, Princess of Camellias " and combo it with "Gigaplant" so you could tribute Plant monsters Special Summoned by "Gigaplant"'s effect to negate any cards that target your plant monsters. You can also keep the opponent at bay with powerful cards like "Wall of Thorns". This deck also uses "Pollinosis" or "Tytannial, Princess of Camellias" to negate Spells and Traps that destroy multiple monsters such as " Lightning Vortex " or "Mirror Force" or " Torrential Tribute ", however, this can be entirely foiled with cards like " Zombie World " and " DNA Surgery ", so be sure to pack in " Mystical Space Typhoon ". This deck's ability to swarm the field quickly for fuel or for an all out attack can be foiled by cards like these.
+ 
+ 
+ Recommended Cards Monsters   
+ Monsters 
+ Dandylion 
+ Botanical Lion 
+ Copy Plant 
+ Fairy King Truesdale 
+ Gigantic Cephalotus 
+ Gigaplant 
+ Lonefire Blossom 
+ Lord Poison 
+ Nettles 
+ Revival Rose 
+ Spore 
+ Twilight Rose Knight 
+ Tytannial, Princess of Camellias 
+ Mariña, Princess of Sunflowers 
+ Talaya, Princess of Cherry Blossoms 
+ Chirubimé, Princess of Autumn Leaves Extra Deck   
+ Synchro Monsters 
+ Splendid Rose 
+ Queen of Thorns 
+ Xyz Monsters 
+ Number 87: Queen of the Night 
+ Meliae of the Trees Spells   &  Traps   
+ Spells 
+ Mark of the Rose 
+ Miracle Fertilizer 
+ Raging Mad Plants 
+ The World Tree 
+ Traps 
+ Blossom Bombardment 
+ Plant Food Chain 
+ Pollinosis 
+ Wall of Thorns 
+ GigaVise 
+ This is a deck utilizing " Supervise " and " Hidden Armory " which allows players to Synchro Summon quickly with the main monsters "Gigaplant" and " Spore ". This can Summon a variety of different Synchros to control the field, but most used is " Power Tool Dragon ", which allows the player to grab a quick "Supervise".
+ 
+ 
+ Recommended Cards Monsters   
+ Monsters 
+ Lonefire Blossom 
+ Gigaplant 
+ Dark Armed Dragon 
+ Spore 
+ Cherry Inmato 
+ Tytannial, Princess of Camellias 
+ Cyber Valley Extra Deck   
+ Fusion Monsters 
+ Superalloy Beast Raptinus 
+ Synchro Monsters 
+ Power Tool Dragon 
+ Black Brutdrago Spells   &  Traps   
+ Spells 
+ Super Solar Nutrient 
+ Mark of the Rose 
+ D.D.R. - Different Dimension Reincarnation 
+ Supervise 
+ Hidden Armory 
+ Swing of Memories 
+ One for One 
+ Foolish Burial 
+ Traps 
+ Royal Decree 
+ 
+ 
+ Chaos Plants 
+ The successor to the very popular Plant Synchro Deck, Chaos Plants takes advantage of the LIGHT and DARK attributes of  splashable  monsters, such as  Tour Guide From the Underworld  and " Effect Veiler ", to Summon " Black Luster Soldier - Envoy of the Beginning ", in combination with the Synchro abilities of Plants. It rarely uses enough Lights and Darks for it to be worth using " Chaos Sorcerer ". Something to note is that it despite being called a "Plant" Deck, it often uses more  Fiend  monsters than Plants.
+ 
+ 
+ Recommended Cards Monsters   
+ Monsters 
+ Reborn Tengu 
+ Tour Guide From the Underworld 
+ Caius the Shadow Monarch 
+ Debris Dragon 
+ Lonefire Blossom 
+ Dandylion 
+ Gorz the Emissary of Darkness 
+ Spore 
+ Night Assailant 
+ Black Luster Soldier - Envoy of the Beginning 
+ Thunder King Rai-Oh Extra Deck   
+ Synchro Monsters 
+ Formula Synchron 
+ Orient Dragon 
+ Shooting Star Dragon 
+ Shooting Quasar Dragon Spells   &  Traps   
+ Spells 
+ Foolish Burial 
+ Mind Control 
+ One for One 
+ Creature Swap 
+ Doppel Plants 
+ A derivative of Chaos Plants that uses " Doppel Warrior " and " Junk Synchron ".
+ 
+ 
+ Recommended Cards Monsters   
+ Monsters 
+ Debris Dragon 
+ Ryko, Lightsworn Hunter 
+ Super-Nimble Mega Hamster 
+ Caius the Shadow Monarch 
+ Effect Veiler 
+ Card Trooper 
+ Lonefire Blossom 
+ Dandylion 
+ Tytannial, Princess of Camellias 
+ Spore 
+ Quickdraw Synchron 
+ Junk Synchron 
+ Doppelwarrior 
+ Reborn Tengu Extra Deck   
+ Synchro Monsters 
+ Formula Synchron 
+ Black Rose Dragon 
+ Drill Warrior 
+ Junk Destroyer 
+ Shooting Star Dragon 
+ Shooting Quasar Dragon Spells   &  Traps   
+ Spells 
+ Book of Moon 
+ Foolish Burial 
+ Pot of Duality 
+ Examples 
+ Normal Monster Token Monster Fusion Monster Synchro Monster Xyz Monster Normal Pendulum Monster Effect Pendulum Monster Link Monster 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e9/JerryBeansMan-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/137?cb=20140801084200', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/47/Acorno-PHSW-EN-C-UE.png/revision/latest/scale-to-width-down/138?cb=20161116125714', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/55/FluffToken-VJMP-JP-C.png/revision/latest/scale-to-width-down/140?cb=20130602044241', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/PredaplantChimerafflesia-FUEN-EN-ScR-1E.png/revision/latest/scale-to-width-down/137?cb=20170223194226', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/cd/AromaseraphyRosemary-INOV-EN-R-1E.png/revision/latest/scale-to-width-down/135?cb=20161101155636', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/3d/TraptrixRafflesia-MP16-EN-ScR-1E.png/revision/latest/scale-to-width-down/136?cb=20160901214846', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b7/Mandragon-CORE-EN-R-1E.png/revision/latest/scale-to-width-down/137?cb=20150804083927', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1c/PerformapalBallad-DPDG-EN-SR-1E.png/revision/latest/scale-to-width-down/136?cb=20170525213227', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/43/AromaseraphyJasmine-DUPO-EN-UR-1E.png/revision/latest/scale-to-width-down/137?cb=20200830155905', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Types

@@ -1,0 +1,278 @@
+Link: https://yugioh.fandom.com/wiki/Ebon_High_Magician
+
+
+ The Japanese (OCG) version of this card is not a member of the " Magician "  archetype , because its Japanese name does not contain  「 魔 術 師 」 .   As its English name contains "Magician", it  may  be treated a member of the "Magician" archetype at a TCG event, subject to local rulings.     
+ 
+ 
+ 
+ 
+ 
+ Ebon High Magician 虚 空 の 黒 魔 導 師 
+ 
+ English 
+Ebon High Magician 
+ French 
+ Grand Magicien Ébène Check translation 
+ German 
+ Schwarzer Hochmagier Check translation 
+ Italian 
+ Mago Alto d'Ebano Check translation 
+ Korean 
+ 허공의 흑마도사 Check translation 
+ Portuguese 
+ Alto Mago de Ébano Check translation 
+ Spanish 
+ Alto Mago Ebon Check translation 
+ Japanese (kana) 
+ こくうのくろまどうし Check translation 
+ Japanese (base) 
+ 虚空の黒魔導師 Check translation 
+ Japanese ( rōmaji ) 
+Kokū no Kuromadōshi 
+ Japanese (translated) 
+Ebon Void Magician 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Spellcaster  /  Xyz  /  Effect 
+ Rank 
+ 7   
+ ATK  /  DEF 
+ 2300  /  2800 
+ Passcode 
+ 85551711 
+ Materials 
+2 Level 7 Spellcaster-Type monsters 
+ Card effect types 
+ 
+ 
+ Continuous 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+2  Level  7  Spellcaster   monsters While this card has  material , you can  activate  a  Quick-Play Spell Card  or a  Trap Card  from your  hand  during your opponent's  turn  by  detaching  1 material from this card at activation. If this  Xyz Summoned  card is  destroyed by battle  and  sent  to the  GY , or if this Xyz Summoned card you  control  is sent to your GY by an opponent's  card effect : You can Special Summon 1  DARK  Spellcaster monster from your hand or  Deck , then you can  destroy  1 card on the  field . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 2 monstres Magicien de Niveau 7 Tant que cette carte a du Matériel, vous pouvez activer une Carte Magie Jeu-Rapide ou une Carte Piège depuis votre main durant le tour de votre adversaire en détachant 1 Matériel de cette carte à l'activation. Si cette carte Invoquée par Xyz est détruite au combat et envoyée au Cimetière, ou si cette carte Invoquée par Xyz que vous contrôlez est envoyée à votre Cimetière par un effet de carte de l'adversaire : vous pouvez Invoquer Spécialement 1 monstre TÉNÈBRES Magicien depuis votre main ou Deck, puis vous pouvez détruire 1 carte sur le Terrain. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 2 Hexer-Monster der Stufe 7 Solange diese Karte Material hat, kannst du während des Spielzugs deines Gegners eine Schnellzauberkarte oder eine Fallenkarte von deiner Hand aktivieren, indem du bei der Aktivierung 1 Material von dieser Karte abhängst. Falls diese als Xyz-Beschwörung beschworene Karte durch Kampf zerstört und auf den Friedhof gelegt wird oder falls diese als Xyz-Beschwörung beschworene Karte, die du kontrollierst, durch einen Karteneffekt eines Gegners auf deinen Friedhof gelegt wird: Du kannst 1 FINSTERNIS Hexer-Monster als Spezialbeschwörung von deiner Hand oder deinem Deck beschwören, dann kannst du 1 Karte auf dem Spielfeld zerstören. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 2 mostri Incantatore di Livello 7 Mentre questa carta ha materiale, puoi attivare una Carta Magia Rapida o una Carta Trappola dalla tua mano durante il turno del tuo avversario staccando 1 materiale da questa carta all'attivazione. Se questa carta Evocata Xyz viene distrutta in battaglia e mandata al Cimitero, o se questa carta Evocata Xyz che controlli viene mandata al tuo Cimitero dall'effetto di una carta dell'avversario: puoi Evocare Specialmente 1 mostro OSCURITÀ Incantatore dalla tua mano o Deck, poi puoi distruggere 1 carta sul Terreno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 2 monstros Mago de Nível 7 Enquanto este card tiver matéria, você pode ativar um Card de Magia Rápida ou um Card de Armadilha da sua mão durante o turno do seu oponente ao desassociar 1 matéria deste card na ativação. Se este card Invocado por Invocação-Xyz for destruído em batalha e enviado para o Cemitério, ou se este card Invocado por Invocação-Xyz que você controla for enviado para o seu Cemitério por um efeito de card do oponente: você pode Invocar por Invocação-Especial 1 monstro Mago de TREVAS da sua mão ou do Deck e, depois, você pode destruir 1 card no campo. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 2 monstruos Lanzador de Conjuros de Nivel 7 Mientras esta carta tenga material, puedes activar una Carta Mágica de Juego Rápido o una Carta de Trampa en tu mano durante el turno de tu adversario desacoplando 1 material de esta carta en su activación. Si esta carta Invocada Xyz es destruida en batalla y mandada al Cementerio, o si esta carta Invocada Xyz que controles es mandada a tu Cementerio por efecto de una carta del adversario: puedes Invocar de Modo Especial, desde tu mano o Deck, 1 monstruo Lanzador de Conjuros de OSCURIDAD, y después puedes destruir 1 carta en el Campo. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 魔法使い族レベル７モンスター×２ ①： Ｘ 素材を持ったこのカードがモンスターゾーンに存在する限り、自分は相手ターンに速攻魔法カード及び罠カードを手札から発動できる。その発動の際にこのカードの Ｘ 素材を１つ取り除く。②： Ｘ 召喚したこのカードが、相手の効果で墓地へ送られた場合、または戦闘で破壊され墓地へ送られた場合に発動できる。手札・デッキから魔法使い族・闇属性モンスター１体を特殊召喚する。その後、フィールドのカード１枚を選んで破壊できる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 마법사족 레벨 7 몬스터 × 2 ①: 엑시즈 소재를 가진 이 카드가 몬스터 존에 존재하는 한, 자신은 상대 턴에 속공 마법 카드 및 함정 카드를 패에서 발동할 수 있다. 그 발동의 시기에 이 카드의 엑시즈 소재를 1개 제거한다. ②: 엑시즈 소환한 이 카드가, 상대의 효과로 묘지로 보내졌을 경우, 또는 전투로 파괴되어 묘지로 보내졌을 경우에 발동할 수 있다. 패 / 덱에서 마법사족 / 어둠 속성 몬스터 1장을 특수 소환한다. 그 후, 필드의 카드 1장을 고르고 파괴할 수 있다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2016-08-04 TDIL-EN052 The Dark Illusion Super Rare 2016-09-01 CT13-EN004 2016 Mega-Tins Ultra Rare 2022-07-21 LDS3-EN092 Legendary Duelists: Season 3 Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2016-08-04 TDIL-FR052 The Dark Illusion L'Illusion des Ténèbres Super Rare 2016-09-01 CT13-FR004 2016 Mega-Tins Méga-Boîte 2016 Ultra Rare 2022-07-21 LDS3-FR092 Legendary Duelists: Season 3 Duellistes Légendaires : Saison 3 Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2016-08-04 TDIL-DE052 The Dark Illusion The Dark Illusion Super Rare 2016-09-01 CT13-DE004 2016 Mega-Tins 2016 Mega-Tin Ultra Rare 2022-07-21 LDS3-DE092 Legendary Duelists: Season 3 Legendary Duelists: Season 3 Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2016-08-04 TDIL-IT052 The Dark Illusion L'Illusione Oscura Super Rare 2016-09-01 CT13-IT004 2016 Mega-Tins 2016 Mega-Tin Ultra Rare 2022-07-21 LDS3-IT092 Legendary Duelists: Season 3 Duellanti Leggendari: Stagione 3 Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2016-08-05 TDIL-PT052 The Dark Illusion A Ilusão Negra Super Rare 2016-09-02 CT13-PT004 2016 Mega-Tins 2016 Mega-Lata Ultra Rare 2022-07-21 LDS3-PT092 Legendary Duelists: Season 3 Duelistas Lendários: Temporada 3 Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2016-08-04 TDIL-SP052 The Dark Illusion La Ilusión Oscura Super Rare 2016-09-01 CT13-SP004 2016 Mega-Tins 2016 Mega-Lata Ultra Rare 2022-07-21 LDS3-SP092 Legendary Duelists: Season 3 Duelistas Legendarios: Temporada 3 Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2016-04-09 TDIL-JP052 The Dark Illusion ザ・ダーク・イリュージョン Ultra Rare 2016-04-09 TDIL-JP052 The Dark Illusion ザ・ダーク・イリュージョン Secret Rare 2016-04-09 TDIL-JP052 The Dark Illusion ザ・ダーク・イリュージョン Ultimate Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2016-07-21 TDIL-KR052 The Dark Illusion 더 다크 일루전 Ultra Rare 2016-07-21 TDIL-KR052 The Dark Illusion 더 다크 일루전 Secret Rare 2016-07-21 TDIL-KR052 The Dark Illusion 더 다크 일루전 Ultimate Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Spellcaster 
+ Quick-Play Spell Card 
+ DARK 
+ 
+ Archetypes  and  series   
+ Prophecy 
+ 
+ Related to  archetypes  and  series   
+ Dark Magician  
+ 
+ Actions  
+ Applies effects if Xyz Material is attached 
+ Detaches Xyz Materials for effect 
+ Activates if destroyed by battle 
+ Activates if destroyed by card effect 
+ Activates from your Graveyard 
+ 
+ Monster / Spell / Trap  categories  
+ Does not have effects which detach Xyz Materials for cost 
+ Allows activation of Spell Cards from the player's hand during the opponent's turn 
+ Allows activation of Trap Cards from your hand 
+ Destroys Monster Cards 
+ Destroys Spell Cards 
+ Destroys Trap Cards 
+ 
+ Summoning  categories  
+ 2 Xyz Materials 
+ Requires Type specific Xyz Materials 
+ Special Summons from your hand 
+ Special Summons from your Graveyard 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12451 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Dark Magician " 「ブラック・マジシャン」 Members 
+ Dark Magician Dark Magician Dark Magician Girl Dark Magician Girl the Dragon Knight Dark Magician Knight Dark Magician the Dragon Knight Dark Magician the Magical Knight of Dragons The Dark Magicians Toon Dark Magician Toon Dark Magician Girl 
+ Support 
+ The Eye of Timaeus 
+ Related 
+ Amulet Dragon Apprentice Illusion Magician Buster Blader Chronicle Magician Chronicle Sorceress Dark Cavalry Dark Eradicator Warlock Dark Flare Knight Dark Magician of Chaos Dark Paladin Dark Sage Ebon High Magician Ebon Illusion Magician Flame Swordsman Gaia The Fierce Knight Illusion of Chaos Legendary Magician of Dark Magi Magi ☆ Magician Gal Magician of Black Chaos Magician of Black Chaos MAX Magician of Chaos Magician of Dark Illusion Magician's Robe Magician's Rod Magician's Valkyria Magicians' Souls Magikuriboh Master of Chaos Mirage Knight Palladium Oracle Mahad Red-Eyes Black Dragon Red-Eyes Dark Dragoon Skilled Dark Magician Sorcerer of Dark Magic Timaeus the United Dragon Time Wizard 
+ Black Illusion Black Magic Ritual Bond Between Teacher and Student Chaos Form Dark Burning Magic Dark Magic Attack Dark Magic Curtain Dark Magic Expanded Dark Magic Inheritance Dark Magic Twin Burst Dark Magic Veil Dark Magical Circle Dark Renewal Dedication through Light and Darkness Destined Rivals Eternal Soul Fusion Weapon Illusion Magic Knight's Title Magic Formula Magical Dimension Magician Navigation Magician's Salvation Magicians' Combination Miracle Restoring Mystic Box Sage's Stone Secrets of Dark Magic Soul Servant Strength in Unity Thousand Knives Toon World 
+ 
+   
+" Prophecy " 「 魔 導 」 Members 
+ Amores of Prophecy Ancient Sorcerer Apprentice Illusion Magician Armor Exe Breaker the Dark Magical Warrior Breaker the Magical Warrior Charioteer of Prophecy Crowley, the First Propheseer D/D Savant Copernicus D/D Savant Galilei D/D Savant Kepler D/D Savant Newton D/D Savant Nikola D/D Savant Thomas Dark Cavalry Dark Magician the Magical Knight of Dragons The Dark Magicians Dark Paladin Day-Breaker the Shining Magical Warrior Defender, the Magical Knight Ebon High Magician Ebon Illusion Magician Ebon Magician Curran Emperor of Prophecy Empress of Prophecy Endymion, the Master Magician Endymion, the Mighty Master of Magic The Fiend Megacyber Fool of Prophecy Gilti-Gearfried the Magical Steel Knight Giltia the D. Knight Giltia the D. Knight - Soul Spear Hermit of Prophecy Hierophant of Prophecy High Priestess of Prophecy The Illusory Gentleman Justice of Prophecy Magical Cavalry of Cxulub Magical Merchant Magical Scientist Master of Chaos Prophecy Destroyer Reaper of Prophecy Red-Eyes Dark Dragoon Silent Paladin Skilled Brown Magician Skilled White Magician Spellbook Magician of Prophecy Stoic of Prophecy Strength of Prophecy Supreme Arcanite Magician Temperance of Prophecy Testament of the Arcane Lords Time Wizard of Tomorrow Water Magician Wheel of Prophecy White Magician Pikeru World of Prophecy 
+ Dark Magical Circle The Grand Spellbook Tower Hidden Spellbook Mage Power Magical Contract Door Magical Mid-Breaker Field Mega Ton Magical Cannon Spellbook Library of the Crescent Spellbook Library of the Heliosphere Spellbook Organization Spellbook Star Hall Spellbook of Eternity Spellbook of Fate Spellbook of Judgment Spellbook of Knowledge Spellbook of Life Spellbook of Miracles Spellbook of Power Spellbook of Secrets Spellbook of Wisdom Spellbook of the Master Type Zero Magic Crusher 
+ Support 
+ Stoic of Prophecy 
+ Related 
+ Aleister the Invoker Aleister the Invoker of Madness Behegon Black Luster Soldier Buster Blader Crowley, the Magistus of Grimoires Dark Magician Dark Magician Dark Magician Girl Gearfried the Iron Knight Guardian of the Labyrinth Marine Beast Princess Curran Princess Pikeru Protector of the Throne Red-Eyes Black Dragon Time Wizard 
+ Trial of the Princesses 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/f/f5/EbonHighMagician-LDS3-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20220729182305', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

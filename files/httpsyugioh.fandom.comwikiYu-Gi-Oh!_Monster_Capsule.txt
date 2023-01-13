@@ -1,0 +1,17 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_Monster_Capsule
+
+Yu-Gi-Oh! Monster Capsule  is an arcade game released in 1999 only in Japan.
+ 
+ Gameplay 
+ The game is a coin based arcade game, which allowes players to gamble for coins. To start the game, player has to insert up to three coins into the machine and than aim at a capumon monsters on screen. If player hits the on-screen capumon, it gets the number of coins that is indicated on that capumon, but if the player misses, nothing is obtained. The capumon prize number is proportional to the amount of the inserted coins; more coins a player inserts, bigger the prize the player gets. If a player hits a shinning capumon, the player goes to an extra bonus round, where a player can obtain some extra coins.
+ 
+       YuGiOhMonster Capsule opening screen     
+       Yu-Gi-Oh! Monster Capsule Gameplay     
+ 
+ 
+       Yu-Gi-Oh! Monster Capsule Gameplay     Sources:  http://adb.arcadeitalia.net/dettaglio_mame.php?game_name=ymcapsul&search_id 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a3/Yu-Gi-Oh%21_Monster_Capsule_opening_screen.png/revision/latest?cb=20210829102207', 'https://static.wikia.nocookie.net/yugioh/images/0/00/Yu-Gi-Oh%21_Monster_Capsule_gameplay_2.png/revision/latest?cb=20210829102826', 'https://static.wikia.nocookie.net/yugioh/images/f/f2/Yu-Gi-Oh%21_Monster_Capsule_gameplay.png/revision/latest?cb=20210829102744']
+Categories: Video games

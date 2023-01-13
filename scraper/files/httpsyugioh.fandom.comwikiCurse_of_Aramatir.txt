@@ -1,0 +1,105 @@
+Link: https://yugioh.fandom.com/wiki/Curse_of_Aramatir
+
+The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Curse of Aramatir 禁 呪 アラマティア 
+ 
+ English 
+Curse of Aramatir 
+ Japanese (kana) 
+ きんじゅアラマティア Check translation 
+ Japanese (base) 
+ 禁呪アラマティア Check translation 
+ Japanese ( rōmaji ) 
+Kinju Aramatia 
+ Japanese (translated) 
+Aramatir, the Forbidden Spell 
+ Card type 
+ Spell   
+ Property 
+ Continuous   
+ Passcode 
+ 34690953 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+During your  Main Phase : You can  Special Summon  1 " Adventurer Token " ( Fairy / EARTH / Level  4/ ATK  2000/ DEF  2000) to either  field , then  send  1 card from your  hand  to the  GY . You cannot Special Summon  monsters  the  turn  you  activate  this  effect , except "Adventurer Token" and monsters that mention it. If a monster(s) you  control  is  destroyed by battle  or card effect: You can Special Summon 1 "Adventurer Token" to either field. You can only use each effect of "Curse of Aramatir"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。自分または相手フィールドに「勇者トークン」（天使族・地・星４・攻／守２０００）１体を特殊召喚する。その後、自分の手札を１枚選んで墓地へ送る。この効果を発動するターン、自分は「勇者トークン」及びそのトークン名が記されたモンスターしか特殊召喚できない。②：自分フィールドのモンスターが戦闘・効果で破壊された場合に発動できる。自分または相手フィールドに「勇者トークン」１体を特殊召喚する。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-07-16 DABL-JP067 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Adventurer Token 
+ 
+ Archetypes  and  series   
+ Adventurer Token  
+ 
+ Actions  
+ Activates if destroyed by battle 
+ Activates if destroyed by card effect 
+ 
+ Summoning  categories  
+ Special Summons Tokens 
+ Special Summons Tokens to your opponent's field 
+ Restricts the player's Special Summons 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17822 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Adventurer Token   勇 者 トークン Members 
+ Celestia Apparatus Tesea Illegal Knight Magicore Warrior of the Relics Wandering Gryphon Rider Water Enchantress of the Temple 
+ Breath of Resurrection Curse of Aramatir Dracoback, the Rideable Dragon Dunnell, the Noble Arms of Light Fateful Adventure Forest of Lost Flowers Rite of Aramesir Starlit Papillon Thunder Discharge Zaralaam the Dark Palace 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/14/CurseofAramatir-DABL-JP-C.png/revision/latest/scale-to-width-down/300?cb=20220720010500', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

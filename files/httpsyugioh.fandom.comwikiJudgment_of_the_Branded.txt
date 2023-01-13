@@ -1,0 +1,243 @@
+Link: https://yugioh.fandom.com/wiki/Judgment_of_the_Branded
+
+
+ 
+ 
+ Judgment of the Branded 烙 印 の 裁 き 
+ 
+ English 
+Judgment of the Branded 
+ French 
+ Jugement du Marqué Check translation 
+ German 
+ Richten der Markierten Check translation 
+ Italian 
+ Giudizio del Marchiato Check translation 
+ Korean 
+ 낙인의 심판 Check translation 
+ Portuguese 
+ Julgamento do Marcado Check translation 
+ Spanish 
+ Juicio de los Señalados Check translation 
+ Japanese (kana) 
+ らくいんのさばき Check translation 
+ Japanese (base) 
+ 烙印の裁き Check translation 
+ Japanese ( rōmaji ) 
+Rakuin no Sabaki 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 93595154 
+ Card effect types 
+ 
+ 
+ Effect 
+ Quick-like 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Target  1  Level  8 or higher  Fusion Monster  you  control ;  destroy  all  monsters  your opponent controls with an equal or higher  ATK  than that monster. During the  End Phase , if this card is in the  GY  because it was  sent  there to  activate  the  effect  of " Fallen of Albaz " this  turn : You can  Set  this card. You can only use this effect of "Judgment of the Branded"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Ciblez 1 Monstre Fusion de min. Niveau 8 que vous contrôlez ; détruisez tous les monstres contrôlés par votre adversaire avec une ATK supérieure ou égale au monstre. Durant la End Phase, si cette carte est dans le Cimetière parce qu'elle y a été envoyée pour activer l'effet de "Albaz le Déchu" ce tour : vous pouvez Poser cette carte. Vous ne pouvez utiliser cet effet de "Jugement du Marqué" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wähle 1 Fusionsmonster der Stufe 8 oder höher, das du kontrollierst; zerstöre alle Monster, die dein Gegner kontrolliert und deren ATK größer oder gleich denen des Monsters sind. Während der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug dorthin gelegt wurde, um den Effekt von „Gefallener von Albaz“ zu aktivieren: Du kannst diese Karte setzen. Du kannst diesen Effekt von „Richten der Markierten“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Scegli come bersaglio 1 Mostro Fusione di Livello 8 o superiore che controlli; distruggi tutti i mostri controllati dal tuo avversario con ATK pari o superiore a quel mostro. Durante la End Phase, se questa carta è nel Cimitero perché è stata mandata lì per attivare l'effetto di "Caduto di Albaz" in questo turno: puoi Posizionare questa carta. Puoi utilizzare questo effetto di "Giudizio del Marchiato" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Escolha 1 Monstro de Fusão de Nível 8 ou mais que você controla; destrua todos os monstros que seu oponente controla com um ATK igual ou maior que o desse monstro. Durante a Fase Final, se este card estiver no Cemitério porque foi enviado para lá para ativar o efeito de "Caído de Arbaz" neste turno: você pode Baixar este card. Você só pode usar este efeito de "Julgamento do Marcado" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Selecciona 1 Monstruo de Fusión de Nivel 8 o mayor que controles; destruye todos los monstruos que controle tu adversario con igual o mayor ATK que ese monstruo. Durante la End Phase, si esta carta está en el Cementerio porque fue mandada allí para activar el efecto de "Caído de Albaz" este turno: puedes Colocar esta carta. Sólo puedes usar este efecto de "Juicio de los Señalados" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドのレベル８以上の融合モンスター１体を対象として発動できる。そのモンスターの攻撃力以上の攻撃力を持つ相手フィールドのモンスターを全て破壊する。②：このカードが「アルバスの落胤」の効果を発動するために墓地へ送られたターンのエンドフェイズに発動できる。このカードを自分フィールドにセットする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드의 레벨 8 이상의 융합 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 공격력 이상의 공격력을 가지는 상대 필드의 몬스터를 전부 파괴한다. ②: 이 카드가 "알버스의 낙윤"의 효과를 발동하기 위해 묘지로 보내진 턴의 엔드 페이즈에 발동할 수 있다. 이 카드를 자신 필드에 세트한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2021-06-03 LIOV-EN069 Lightning Overdrive Common 2022-04-14 SDAZ-EN034 Structure Deck: Albaz Strike Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2021-06-03 LIOV-FR069 Lightning Overdrive Foudre Amplifiée Common 2022-04-14 SDAZ-FR034 Structure Deck: Albaz Strike Deck de Structure : l'Assaut d'Albaz Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2021-06-03 LIOV-DE069 Lightning Overdrive Lightning Overdrive Common 2022-04-14 SDAZ-DE034 Structure Deck: Albaz Strike Structure Deck: Albaz Strike Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2021-06-03 LIOV-IT069 Lightning Overdrive Iperattività Fulmine Common 2022-04-14 SDAZ-IT034 Structure Deck: Albaz Strike Structure Deck: Attacco di Albaz Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2021-06-03 LIOV-PT069 Lightning Overdrive Exaustão Relâmpago Common 2022-04-14 SDAZ-PT034 Structure Deck: Albaz Strike Deck Estrutural: Golpe de Arbaz Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2021-06-03 LIOV-SP069 Lightning Overdrive Furia de Relámpagos Common 2022-04-14 SDAZ-SP034 Structure Deck: Albaz Strike Baraja de Estructura: El Ataque de Albaz Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2021-01-16 LIOV-JP069 Lightning Overdrive ライトニング・オーバードライブ Common 2021-12-04 SD43-JP034 Structure Deck: Alba Strike ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ ＡＬＢＡ ＳＴＲＩＫＥ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2021-04-16 LIOV-KR069 Lightning Overdrive 라이트닝 오버드라이브 Common 2022-03-16 SD43-KR034 Structure Deck: Alba Strike STRUCTURE   DECK  -알버스트라이크- Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Fusion Monster 
+ Fallen of Albaz 
+ 
+ Archetypes  and  series   
+ Branded 
+ 
+ Actions  
+ Activates from your Graveyard 
+ Sets itself from your Graveyard 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your opponent's face-up Monster Cards 
+ 
+ Miscellaneous  
+ Requires control of specific Level 
+ Requires control of specific Monster card type 
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 16030 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Branded " 「 烙 印 」 Members 
+ Albion the Branded Dragon 
+ Branded Banishment Branded Beast Branded Bond Branded Disciple Branded Expulsion Branded Fusion Branded Loss Branded Lost Branded Opening Branded Regained Branded Retribution Branded Sword Branded in Central Dogmatika Branded in High Spirits Branded in Red Branded in White Despia, Theater of the Branded Inevitably Branded Judgment of the Branded Light of the Branded Screams of the Branded 
+ Support 
+ Albion the Branded Dragon Albion the Shrouded Dragon Aluber the Jester of Despia The Bystial Lubellion Bystial Saronir Despian Tragedy Springans Kitt 
+ Branded Beast 
+ Related 
+ Alba-Lenatus the Abyss Dragon Albaz the Ashen Fallen of Albaz Lubellion the Searing Dragon Titaniklad the Ash Dragon 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/19/JudgmentoftheBranded-SDAZ-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20220506020820', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,98 @@
+Link: https://yugioh.fandom.com/wiki/Armatos_Colosseum
+
+
+ Armatos Colosseum 
+ 
+ Japanese:   天装の闘技場 
+ Kana:   アルマートス・コロッセオ 
+ Romaji:   Arumātosu Korosseo 
+ Translated:  Armatos Colosseo 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Field 
+ 
+ When this card is  activated : You can  add  1 " Armatos Legio " monster from your  Deck  to your  hand . You can  send  1 level 4 or lower "Armatos Legio" monster from your  hand  to the  GY , then target 1 "Armatos Legio"  Link Monster  you control:  Special Summon  in  Defense Position  to your zone(s) that Link Monster  points to , as many "Armatos Legio" monsters from your GY as possible with different names from each other and the monster sent to the GY to activate this effect, also for the rest of this turn, you cannot send another monster with the same name from your hand to the GY to activate this effect of "Armatos Colosseum".
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  079 ,  080 ,  081 ,  083 ,  086 ,  087 ,  088 ,  096 ,  097 ,  098 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 天装の闘技場 
+ ①：このカードの発動時の効果処理として、デッキから「アルマートス・レギオー」モンスター１体を手札に加える事ができる。②：手札からレベル４以下の「アルマートス・レギオー」モンスター１体を墓地へ送り自分フィールドの「アルマートス・レギオー」リンクモンスター１体を対象として発動できる。そのリンクモンスターのリンク先となる自分フィールドに、この効果を発動するために墓地へ送ったモンスターとはカード名が異なる「アルマートス・レギオー」モンスターを自分の墓地から可能な限り守備表示で特殊召喚する（同名カードは１枚まで）。このターン、自分は「天装の闘技場」の②の効果を発動するために、同名のモンスターを手札から墓地へ送る事はできない。 
+ 
+ 
+ Arumātosu Korosseo 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Lightning 
+ 
+ 
+ Search categories 
+ 
+ Supports   archetypes   
+ Armatos Legio 
+ 
+ v e 
+" Armatos Legio " 「 天装騎兵 」 a   +   Members 
+ Armatos Legio Centurion Armatos Legio Decurion Armatos Legio Eques Flamma Armatos Legio Galea Armatos Legio Gradius Armatos Legio Legatus Legionis Armatos Legio Magica Alcum Armatos Legio Magnus Dux Armatos Legio Pilus Prior Armatos Legio Plumbum Trident Armatos Legio Primi Ordines Armatos Legio Scutum Armatos Legio Segmentata Armatos Legio Sica Armatos Legio Speculata Armatos Legio Tribunus Militum 
+ Support 
+ Armatos Colosseum Armatos Fulgur Armatos Legio Centurion Armatos Legio Decurion Armatos Legio Galea Armatos Legio Gradius Armatos Legio Pilus Prior Armatos Legio Plumbum Trident Armatos Legio Primi Ordines Armatos Legio Tribunus Militum Armatos Lex Armatos Replacement Judgement Sword 
+ Related 
+ Judgment Arrows Judgment Arrows 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/33/ArmatosColosseum-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20190123200827', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/aa/ArmatosColosseum-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20181128135352', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

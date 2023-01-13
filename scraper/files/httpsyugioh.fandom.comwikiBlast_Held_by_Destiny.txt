@@ -1,0 +1,118 @@
+Link: https://yugioh.fandom.com/wiki/Blast_Held_by_Destiny
+
+The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Blast Held by Destiny 運 命 の 抱 く 爆 弾 
+ 
+ English 
+Blast Held by Destiny 
+ Korean 
+ 운명이 감춘 폭탄 Check translation 
+ Japanese (kana) 
+ さだめのだくばくだん Check translation 
+ Japanese (base) 
+ 運命の抱く爆弾 Check translation 
+ Japanese ( rōmaji ) 
+Sadame no Daku Bakudan 
+ Japanese (translated) 
+Bomb Held by Fate 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 51208877 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When an opponent's  monster   declares  an  attack :  Destroy  1  face-up  monster they  control  with the highest  ATK  (your choice, if tied), and if you do, inflict  damage  to them equal to the destroyed monster's  original ATK , then, if " Exchange of the Spirit " is not in your  GY , you take damage equal to the damage your opponent took. If this card is  sent  from the  hand  or  Deck  to the GY: You can  target  1  Level  4  EARTH   Fairy  monster in your GY;  add  it to your hand. You can only  activate  each effect of "Blast Held by Destiny"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手モンスターの攻撃宣言時に発動できる。相手フィールドの攻撃力が一番高いモンスター１体を破壊し、その元々の攻撃力分のダメージを相手に与える。自分の墓地に「現世と冥界の逆転」が存在しない場合、さらに自分は相手が受けたダメージと同じ数値分のダメージを受ける。②：このカードが手札・デッキから墓地へ送られた場合、自分の墓地の天使族・地属性・レベル４モンスター１体を対象として発動できる。そのモンスターを手札に加える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 상대 몬스터의 공격 선언시에 발동할 수 있다. 상대 필드의 공격력이 가장 높은 몬스터 1장을 파괴하고, 그 원래 공격력만큼의 데미지를 상대에게 준다. 자신 묘지에 "현세와 명계의 역전"이 존재하지 않을 경우, 추가로 자신은 상대가 받은 데미지와 같은 수치만큼의 데미지를 받는다. ②: 이 카드가 패 / 덱에서 묘지로 보내졌을 경우, 자신 묘지의 천사족 / 땅 속성 / 레벨 4 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 패에 넣는다. 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-05-21 DP27-JP027 Duelist Pack: Duelists of Pyroxene デュエリストパック －輝石のデュエリスト編－ Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2022-08-09 DP27-KR027 Duelist Pack: Duelists of Pyroxene 듀얼리스트 팩 -휘석의 듀얼리스트 편- Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Exchange of the Spirit 
+ EARTH 
+ Fairy 
+ 
+ Actions  
+ Adds from Graveyard to hand 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your opponent's face-up Monster Cards 
+ 
+ LP   
+ Damages your opponent 
+ Damages you 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17609 ( ja  ( rulings )   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/6e/BlastHeldbyDestiny-DP27-JP-R.png/revision/latest/scale-to-width-down/300?cb=20220527004806', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

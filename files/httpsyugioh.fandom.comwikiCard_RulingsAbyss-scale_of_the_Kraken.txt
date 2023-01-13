@@ -1,0 +1,34 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Abyss-scale_of_the_Kraken
+
+
+ Abyss-scale of the Kraken 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ OCG Rulings 
+ The effect that negates effects doesn't start a chain. When a monster the opponent controls activates its effect, at the time that effect will resolve, this effect is applied immediately. [1] 
+ After this card is equipped, when a monster the opponent controls activates its effect, this effect must be applied mandatorily when that effect resolves. [1] 
+ This effect can be applied during the  Damage Step  and during  Damage Calculation . [1] 
+ The effect of " Abyss-scale of the Kraken " is applied even if an effect is activated on the opponent's side of the field during the  Damage Step . Furthermore, the effect is also applied even if an effect is activated on the opponent's side of the field during  Damage Calculation . [2] 
+ The effect of " Abyss-scale of the Kraken " that negates an effect activated on the opponent's side of the field and then sends itself to the  Graveyard  doesn't start a chain. When an effect activated on the opponent's side of the field would be applied, its effect is applied immediately. [3] 
+ References 
+ 
+ ↑  1.0   1.1   1.2   Konami OCG Card Database : Abyss-scale of the Kraken 
+ 
+ ↑   Konami OCG Card Database : As for the effect of "Abyss-scale of the Kraken" that negates effects activated on the opponent's side of the field and then sends itself to the Graveyard, is it also applied when an effect is activated on the opponent's side of the field during the Damage Step?
+Also, is the effect applied when an effect is activated on the opponent's side of the field during Damage Calculation? 
+ 
+ ↑   Konami OCG Card Database : Does the effect of "Abyss-scale of the Kraken" that negates an effect activated on the opponent's side of the field and then sends itself to the Graveyard start a chain? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

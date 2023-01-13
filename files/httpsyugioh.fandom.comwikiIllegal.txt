@@ -1,0 +1,812 @@
+Link: https://yugioh.fandom.com/wiki/Illegal
+
+If a card is  illegal , it means it cannot ever be used in tournament play or other official Duels. Illegal cards may only be used in casual play at the agreement of all participants. In general, official cards which are illegal can be distinguished by the presence of  limitation text  (most commonly "This card cannot be used in a Duel.") where the  passcode  would be normally placed, in the card's lower left-hand corner. All unofficial and  counterfeit  cards are also illegal.
+ 
+ Contents 
+ 
+ 1   TCG 
+ 2   OCG 
+ 3   Anime 
+ 4   References 
+ 
+ 
+ TCG 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Aggiba, the Malevolent Sh'nn S'yo 羅阿邪神将アギバ Effect Monster LIGHT Fiend 10 3000 3000 Amatsu-Okami of the Divine Peaks 神峰之天津靇 Effect Monster Link Monster LIGHT Dragon 3000 Armament of the Lethal Lords 武道神の甲冑 Effect Monster DARK Warrior 8 2500 2500 Chimaera, the Master of Beasts 獣神キマイラ Effect Monster LIGHT Beast 9 3000 3000 Emperor of Lightning 電光の皇帝 Effect Monster LIGHT Thunder 8 2600 2600 E☆HERO Pit Boss Ｅ☆ＨＥＲＯ 盤面の執行者 Effect Monster Xyz Monster LIGHT Spellcaster 6 2600 2000 Grandopolis, The Eternal Golden City 悠久の黄金都市 グランポリス Effect Monster Xyz Monster LIGHT Machine 8 2800 3500 Grizzly, the Red Star Beast 赤色星獣グリズリー Effect Monster Synchro Monster EARTH Beast 8 2700 2300 Iron Knight of Revolution 革命の鉄騎士 Effect Monster Link Monster EARTH Machine 2400 Juno, the Celestial Goddess 天空の女神 ジュノー Effect Monster Pendulum Monster LIGHT Fairy 8 3000 3000 Kaiser Eagle, the Heavens' Mandate 天元の荒鷲王 Effect Monster Link Monster LIGHT Winged Beast 3000 King Landia the Goldfang 金牙の王 ランディア Effect Monster Xyz Monster LIGHT Beast-Warrior 8 3000 2500 King of Destruction - Xexex 破壊王ゼクセクス Effect Monster DARK Fiend 10 3000 2500 Kuzunoha, the Onmyojin 陰陽神 クズノハ Effect Monster Pendulum Monster DARK Spellcaster 8 3000 2300 Legendary Dragon of White 伝説の白き龍 Effect Monster Xyz Monster LIGHT Dragon 8 3000 2500 Legendary Magician of Dark 伝説の闇の魔導師 Effect Monster Xyz Monster DARK Spellcaster 7 2500 2100 Leonardo's Silver Skyship 輝銀の天空船－レオ号 Normal Monster Pendulum Monster WIND Machine 7 0 3000 Lorelei, the Symphonic Arsenal 音響兵器ローレライ Effect Monster LIGHT Machine 8 2400 2000 Meteo the Matchless メテオ・ザ・マッチレス Effect Monster DARK Beast-Warrior 8 2400 2000 Noritoshi in Darkest Rainment 黒衣之詔刀師 Effect Monster Link Monster DARK Spellcaster 2500 Obelisk the Tormentor (original) オベリスクの巨神兵 DIVINE Divine-Beast 10 4000 4000 Queen Nereia the Silvercrown 銀冠の女王 ネレイア Effect Monster Xyz Monster LIGHT Plant 6 2500 2400 Queen of Fate - Eternia 運命の女王エターニア Effect Monster LIGHT Fairy 8 2400 2000 Sakyo, Swordmaster of the Far East 極刀の武者 左京 Normal Monster Pendulum Monster LIGHT Warrior 7 2900 2600 Sanctity of Dragon ユニティ・オブ・ドラゴン Effect Monster Link Monster LIGHT Dragon 3000 Shelga, the Tri-Warlord 異界より来たるシェルガ Normal Monster Pendulum Monster WATER Psychic 7 2800 2500 Skuna, the Leonine Rakan 羅漢獅子スクナ Effect Monster DARK Beast-Warrior 8 2600 2000 Skyfaring Castle of the Black Forest 黒き森の航天閣 Effect Monster Link Monster WIND Rock 2400 Slifer the Sky Dragon (original) オシリスの天空竜 DIVINE Divine-Beast 10 X000 X000 Stardust Divinity 星屑の巨神 Effect Monster Synchro Monster LIGHT Fairy 10 3000 3000 Testament of the Arcane Lords 魔導神のオブジェ Effect Monster LIGHT Spellcaster 10 3000 3000 The Twin Kings, Founders of the Empire 牙狼の双王 ロムルス－レムス Effect Monster Pendulum Monster LIGHT Beast 8 3000 2200 Tyr, the Vanquishing Warlord 征服する軍神テュール Effect Monster LIGHT Fairy 10 3000 3000 Ulevo アルエヴォ Effect Monster EARTH Winged Beast 10 3000 2500 The Winged Dragon of Ra (original) ラーの翼神竜 DIVINE Divine-Beast 10 ? ? 
+   Japanese name Card type Property Card of Last Will 遺言の札 Trap Card Normal Trap Card Normal Trap Card Get Your Game On! ゲット・ユア・ゲーム・オン! Spell Card Continuous Spell Card Continuous Spell Card The Seal of Orichalcos (UDE promo) オレイカルコスの結界 Spell Card Field Spell Card Field Spell Card 
+ OCG 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Aggiba, the Malevolent Sh'nn S'yo 羅阿邪神将アギバ Effect Monster LIGHT Fiend 10 3000 3000 Amatsu-Okami of the Divine Peaks 神峰之天津靇 Effect Monster Link Monster LIGHT Dragon 3000 Black Luster Soldier (Normal) カオス・ソルジャー Normal Monster EARTH Warrior 8 3000 2500 Chimaera, the Master of Beasts 獣神キマイラ Effect Monster LIGHT Beast 9 3000 3000 Creator of Hope 希望の創造者 Effect Monster LIGHT Warrior 2 500 900 Creator of Miracles 奇跡の創造者 Effect Monster LIGHT Warrior 4 1800 900 Darkness/Monster A ダークネス／モンスターＡ Effect Monster 0 0 Darkness/Monster B ダークネス／モンスターＢ Effect Monster 4000 4000 Don Thousand/Monster A ドン・サウザンド／モンスターＡ Effect Monster 2000 1000 Don Thousand/Monster B ドン・サウザンド／モンスターＢ Effect Monster 10000 1000 Don Thousand/Monster C ドン・サウザンド／モンスターＣ Effect Monster 100000 100000 E☆HERO Pit Boss Ｅ☆ＨＥＲＯ 盤面の執行者 Effect Monster Xyz Monster LIGHT Spellcaster 6 2600 2000 Fiend's Mirror (Normal) デビルズ・ミラー Normal Monster DARK Fiend 6 2100 1800 Grandopolis, The Eternal Golden City 悠久の黄金都市 グランポリス Effect Monster Xyz Monster LIGHT Machine 8 2800 3500 Iron Knight of Revolution 革命の鉄騎士 Effect Monster Link Monster EARTH Machine 2400 Juno, the Celestial Goddess 天空の女神 ジュノー Effect Monster Pendulum Monster LIGHT Fairy 8 3000 3000 Kaiser Eagle, the Heavens' Mandate 天元の荒鷲王 Effect Monster Link Monster LIGHT Winged Beast 3000 King Landia the Goldfang 金牙の王 ランディア Effect Monster Xyz Monster LIGHT Beast-Warrior 8 3000 2500 Kuzunoha, the Onmyojin 陰陽神 クズノハ Effect Monster Pendulum Monster DARK Spellcaster 8 3000 2300 Legendary Dragon of White 伝説の白き龍 Effect Monster Xyz Monster LIGHT Dragon 8 3000 2500 Legendary Magician of Dark 伝説の闇の魔導師 Effect Monster Xyz Monster DARK Spellcaster 7 2500 2100 Leonardo's Silver Skyship 輝銀の天空船－レオ号 Normal Monster Pendulum Monster WIND Machine 7 0 3000 Masahiro the Dark Clown 闇道化師と化したマサヒロ Effect Monster Flip monster DARK Spellcaster 3 600 1500 Noritoshi in Darkest Rainment 黒衣之詔刀師 Effect Monster Link Monster DARK Spellcaster 2500 Obelisk the Tormentor (original) オベリスクの巨神兵 DIVINE Divine-Beast 10 4000 4000 Pegasus/Monster A ペガサス／モンスターＡ Effect Monster 1900 900 Pegasus/Monster B ペガサス／モンスターＢ Effect Monster 900 1400 Pegasus/Monster C ペガサス／モンスターＣ Effect Monster 2500 1200 Pegasus/Monster D ペガサス／モンスターＤ Effect Monster 0 0 Sakyo, Swordmaster of the Far East 極刀の武者 左京 Normal Monster Pendulum Monster LIGHT Warrior 7 2900 2600 Sanctity of Dragon ユニティ・オブ・ドラゴン Effect Monster Link Monster LIGHT Dragon 3000 Shelga, the Tri-Warlord 異界より来たるシェルガ Normal Monster Pendulum Monster WATER Psychic 7 2800 2500 Skyfaring Castle of the Black Forest 黒き森の航天閣 Effect Monster Link Monster WIND Rock 2400 Slifer the Sky Dragon (original) オシリスの天空竜 DIVINE Divine-Beast 10 X000 X000 Stardust Divinity 星屑の巨神 Effect Monster Synchro Monster LIGHT Fairy 10 3000 3000 Super War-Lion (Normal) スーパー・ウォー・ライオン Normal Monster EARTH Beast 7 2300 2100 Testament of the Arcane Lords 魔導神のオブジェ Effect Monster LIGHT Spellcaster 10 3000 3000 Tomohiro the Mountain Warrior 山岳の闘士トモヒロ Effect Monster EARTH Beast-Warrior 3 600 1000 The Twin Kings, Founders of the Empire 牙狼の双王 ロムルス－レムス Effect Monster Pendulum Monster LIGHT Beast 8 3000 2200 Tyr, the Vanquishing Warlord 征服する軍神テュール Effect Monster LIGHT Fairy 10 3000 3000 The Winged Dragon of Ra (original) ラーの翼神竜 DIVINE Divine-Beast 10 ? ? Yasushi the Skull Knight 髑髏の司祭ヤスシ Fusion Monster DARK Spellcaster 7 2650 2250 Z-ONE/Monster A Ｚ－ＯＮＥ／モンスターＡ Effect Monster 0 0 Z-ONE/Monster B Ｚ－ＯＮＥ／モンスターＢ Effect Monster 0 0 Z-ONE/Monster C Ｚ－ＯＮＥ／モンスターＣ Effect Monster 0 0 Z-ONE/Monster D Ｚ－ＯＮＥ／モンスターＤ Effect Monster 4000 4000 Z-ONE/Monster E Ｚ－ＯＮＥ／モンスターＥ Effect Monster 4000 4000 Zera the Mant (Normal) ゼラ Normal Monster DARK Fiend 8 2800 2300 
+   Japanese name Card type Property Card of Last Will 遺言の札 Trap Card Normal Trap Card Normal Trap Card Darkness/Spell A ダークネス／魔法Ａ Spell Card Field Spell Card Field Spell Card Darkness/Trap A ダークネス／罠Ａ Trap Card Continuous Trap Card Continuous Trap Card Darkness/Trap B ダークネス／罠Ｂ Trap Card Continuous Trap Card Continuous Trap Card Darkness/Trap C ダークネス／罠Ｃ Trap Card Continuous Trap Card Continuous Trap Card Darkness/Trap D ダークネス／罠Ｄ Trap Card Continuous Trap Card Continuous Trap Card Darkness/Trap E ダークネス／罠Ｅ Trap Card Continuous Trap Card Continuous Trap Card Don Thousand/Spell A ドン・サウザンド／魔法Ａ Spell Card Field Spell Card Field Spell Card Don Thousand/Spell B ドン・サウザンド／魔法Ｂ Spell Card Normal Spell Card Normal Spell Card Don Thousand/Spell C ドン・サウザンド／魔法Ｃ Spell Card Quick-Play Spell Card Quick-Play Spell Card Don Thousand/Trap A ドン・サウザンド／罠Ａ Trap Card Counter Trap Card Counter Trap Card Don Thousand/Trap B ドン・サウザンド／罠Ｂ Trap Card Counter Trap Card Counter Trap Card Pegasus/Spell A ペガサス／魔法Ａ Spell Card Field Spell Card Field Spell Card Pegasus/Spell B ペガサス／魔法Ｂ Spell Card Quick-Play Spell Card Quick-Play Spell Card Pegasus/Spell C ペガサス／魔法Ｃ Spell Card Quick-Play Spell Card Quick-Play Spell Card Pegasus/Trap A ペガサス／罠Ａ Trap Card Normal Trap Card Normal Trap Card Winning Formula 勝利の方程式 Spell Card Normal Spell Card Normal Spell Card Z-ONE/Trap A Ｚ－ＯＮＥ／罠Ａ Trap Card Continuous Trap Card Continuous Trap Card Z-ONE/Trap B Ｚ－ＯＮＥ／罠Ｂ Trap Card Continuous Trap Card Continuous Trap Card Z-ONE/Trap C Ｚ－ＯＮＥ／罠Ｃ Trap Card Continuous Trap Card Continuous Trap Card 
+ Anime 
+ It is mentioned that " Golden Castle of Stromberg ", " Infernalvania ", and " Restraining Sword of Impact " are illegal cards not intended for use.
+ In  Yu-Gi-Oh! ARC-V , it is shown that if an illegal card is used, the duel will automatically end. [1] 
+ 
+ v e 
+ Statuses  and  status lists Statuses 
+ Legal 
+ Forbidden 
+ Limited 
+ Semi-Limited 
+ Unlimited 
+ Not legal 
+ Illegal 
+ Not yet legal 
+ Not yet released 
+ Formats 
+ Advanced 
+ Traditional 
+ Mega-Banned 
+ Lists 
+ OCG 
+ 
+ July 1999 
+ 2000 
+ February 
+ April 
+ May 
+ July 
+ August 
+ November 
+ 2001 
+ January 
+ May 
+ 2002 
+ January 
+ May 
+ 2003 
+ January 
+ April 
+ July 
+ October 
+ 2004 
+ March 
+ September 
+ 2005 
+ March 
+ September 
+ 2006 
+ March 
+ September 
+ 2007 
+ March 
+ September 
+ 2008 
+ March 
+ September 
+ 2009 
+ March 
+ September 
+ 2010 
+ March 
+ September 
+ 2011 
+ March 
+ September 
+ 2012 
+ March 
+ September 
+ 2013 
+ March 
+ September 
+ November 
+ 2014 
+ February 
+ April 
+ July 
+ October 
+ 2015 
+ January 
+ April 
+ July 
+ October 
+ 2016 
+ January 
+ April 
+ July 
+ October 
+ 2017 
+ January 
+ April 
+ July 
+ October 
+ 2018 
+ January 
+ April 
+ July 
+ October 
+ 2019 
+ January 
+ April 
+ July 
+ October 
+ 2020 
+ January 
+ April 
+ July 
+  October 
+ 2021 
+ January 
+ April 
+ July 
+  October 
+ 2022 
+ January 
+ April 
+ July 
+ October 
+ Traditional Chinese 
+ March 2016 
+ 
+ TCG 
+ 
+ 2002 
+ May 
+ July 
+ October 
+ December 
+ 2003 
+ April 
+ May 
+ July 
+ August 
+ November 
+ 2004 
+ February 
+ April 
+ August 
+ October 
+ 2005 
+ April 
+ October 
+ 2006 
+ April 
+ September 
+ 2007 
+ March 
+ June 
+ September 
+ 2008 
+ March 
+ May 
+ September 
+ 2009 
+ March 
+ September 
+ 2010 
+ March 
+ September 
+ 2011 
+ March 
+ September 
+ 2012 
+ March 
+ September 
+ 2013 
+ March 
+ September 
+ October 
+ 2014 
+ January 
+ April 
+ July 
+ October 
+ 2015 
+ January 
+ April 
+ July 
+ November 
+ 2016 
+ April 
+ August 
+ 2017 
+ March 
+ June 
+ September 
+ November 
+ 2018 
+ February 
+ May 
+ September 
+ December 
+ 2019 
+ January 
+ April 
+ July 
+ October 
+ 2020 
+ January 
+ April 
+ June 
+ September 
+ December 
+ 2021 
+ March 
+ July 
+ October 
+ 2022 
+ February 
+ May 
+ October 
+ Adjusted 
+ February 2016 
+ 
+ World Championship 
+ 2014 
+ 2015 
+ 2016 
+ 2017 
+ Pegasus Challenge 
+ New Year's Resolution 
+ Back From the Forbidden! 
+ September 2010 
+ September 2011 
+ Generation Duel Tournament 
+ Duel Monsters 
+ GX 
+ 5D's 
+ ZEXAL 
+ ARC-V 
+ Video game 
+ 
+ Forbidden Memories 
+ Dark Duel Stories 
+ The Sacred Cards 
+ Reshef of Destruction 
+ Worldwide Edition: Stairway to the Destined Duel 
+ World Championship Tournament 2004 
+ GX Duel Academy 
+ GX Spirit Caller 
+ ZEXAL World Duel Carnival 
+ World Championship 2007 
+ September 2006 
+ March 2007 
+ September 2007 
+ Treat Limited as Forbidden 
+ World Championship 
+ World Championship 2008 
+ September 2007 
+ March 2008 
+ September 2008 
+ Special 
+ Treat Limited as Forbidden 
+ World Championship 
+ World Championship 2009 
+ September 2008 
+ Treat Limited as Forbidden 
+ World Championship 2010 
+ September 2009 
+ Treat Limited as Forbidden 
+ World Championship 2011 
+ September 2010 
+ Treat Limited as Forbidden 
+ Yu-Gi-Oh! Duel Generation 
+ October 2014 
+ September 2016 
+ January 2017 
+ Duel Links 
+ 2017
+ August 
+ November 
+ 2018
+ January
+ 9 
+ 24 
+ February
+ 5 
+ June
+ 26 
+ August
+ 29 
+ October
+ 29 
+ 2019
+ January
+ 24 
+ March
+ 25 
+ May
+ 16 
+ July
+ 26 
+ August
+ 27 
+ October
+ 28 
+ December
+ 11 
+ 2020
+ March
+ 24 
+ May
+ 21 
+ July
+ 21 
+ October
+ 14 
+ December
+ 15 
+ 2021
+ March
+ 9 
+ May
+ 10 
+ Master Duel 
+ 2022
+ January 
+ May 
+ July 
+ August 
+ September 
+ Xyz Festival 
+ N and R Rarity Festival 
+ Synchro Festival 
+ Fusion Festival 
+ EX-Zero Festival 
+ Synchro x XYZ Festival 
+ 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ References 
+ 
+ ↑   Yu-Gi-Oh! ARC-V - Episode 129 
+ 
+ 
+ 
+ 
+ 
+Categories: Forbidden & Limited Lists

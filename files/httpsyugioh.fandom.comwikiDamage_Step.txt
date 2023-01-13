@@ -1,0 +1,861 @@
+Link: https://yugioh.fandom.com/wiki/Damage_Step
+
+
+ 
+ Damage Step
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ ダメージステップ
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Damēji Suteppu
+ 
+ 
+ 
+ English
+ 
+ 
+ Damage Step
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Damage Step 
+ German : Damage Step 
+ Italian : Damage Step 
+ Portuguese : Etapa de Dano (formerly Damage Step) 
+ Spanish : Damage Step 
+ Korean : 데미지 스텝  Demiji Seutep 
+ Traditional Chinese : 傷害步驟  Shānghài Bùzhòu / Soeng1 hoi6 Bou6 zaau6 
+ Simplified Chinese : 伤害步骤  Shānghài Bùzhòu 
+ 
+ 
+       Order of a  turn .     
+ The  Damage Step  (Japanese: ダメージステップ  Damēji Suteppu ) is a step during the  Battle Phase  during which  battle  is performed. If an  attack  is occurring, it is entered immediately after the  Battle Step .
+ The Damage Step restricts many cards and  effects  from being  activated .  (For more details, see §  Cards and effects that can be activated , below.) 
+ 
+ Contents 
+ 
+ 1   Breakdown of the Damage Step 
+ 
+ 1.1   Start of the Damage Step 
+ 1.2   Before damage calculation 
+ 1.3   Perform damage calculation 
+ 1.4   After damage calculation 
+ 
+ 1.4.1   Monsters that were destroyed by battle 
+ 
+ 
+ 1.5   End of the Damage Step 
+ 
+ 
+ 2   Cards and effects that can be activated 
+ 3   Notes 
+ 4   External links 
+ 5   References 
+ 
+ 
+ Breakdown of the Damage Step 
+ There are five distinct timings within the Damage Step.
+ 
+ Start of the Damage Step (Japanese: ダメージステップ 開 始 時   Damēji Suteppu Kaishiji ) 
+ Before damage calculation (Japanese: ダメージ 計 算 前   Damēji Keisanmae ) 
+ Damage calculation (Japanese: ダメージ 計 算 時   Damēji Keisanji ) 
+ After damage calculation (Japanese: ダメージ 計 算 後   Damēji Keisango ) 
+ End of the Damage Step (Japanese: ダメージステップ 終 了 時   Damēji Suteppu Shūryōji ) 
+ Start of the Damage Step 
+ The turn player declares they are entering the Damage Step. [1] 
+ 
+ Effects that apply " during the Damage Step (only) ", such as " Steamroid " or " Double or Nothing! ", begin applying immediately. 
+ A  face-down  monster being attacked is  NOT  flipped at this time. [1] 
+ If that monster is destroyed by a card effect, since it was never flipped face-up, its effects that activate when flipped face-up (such as  Flip effects ) do not activate. [2] 
+ Cards and effects that activate " at the start of the Damage Step ", such as " Neo-Spacian Grand Mole " or " Follow Wing ", can be activated. [1] 
+ For cards without  Problem-Solving Card Text  (PSCT), the text " without (applying) damage calculation " indicates that the effect activates either here, or before damage calculation. 
+ Some effects indicate the start of the Damage Step by specifying a battling monster's  position  ( face-up  or  face-down ), or by stating that a face-down monster is not flipped face-up yet, such as " Nanobreaker " or " Ally of Justice Reverse Break ".
+ Cards without PSCT that activate at this timing, but have no way to distinguish that they do not activate before damage calculation, are " Disciple of the Forbidden Spell " [3] [4] , " Core Blaster " [5] , and " Blackwing - Jin the Rain Shadow ". [6] [7] 
+ Fast effects  that alter  ATK / DEF  can be activated. [8] [9] [10] 
+ Before damage calculation 
+ At this point, if a  face-down  monster is being attacked,  flip  it  face-up . [1] 
+ 
+ If the attacked monster has an effect that activates when it is flipped face-up (such as a  Flip effect ), that effect does  NOT  activate at this time. [8] [11]  It will activate after damage calculation, even if the flipped monster leaves the  Monster Zone  before then. [12] [13] [14] 
+ Regardless of whether or not the attacked monster was initially face-down, if the monster is  Set  at this point or later in the Damage Step (up until damage calculation is completed), such as by " Gemini Counter ", it will immediately be flipped face-up. [15] 
+ If a monster is flipped face-up and it has a  Continuous Effect , such as " Star Boy " or " Jinzo ", generally that effect is immediately applied. [16] [17] 
+ Continuous Effects that prevent the flipped monster from being  targeted  for  attacks , such as " Command Knight ", or from being attacked, such as " Machina Sniper " or " Big-Tusked Mammoth ", do  NOT  stop the current attack from continuing. [18] [19] [20] 
+ If the  flipped  monster has a  Continuous Effect  that  destroys  itself, such as " Giant Kozaky " or " Zombie Mammoth ", the monster  is not destroyed  at this time. [21] [22] 
+ The same thing applies if the flipped monster conflicts with a " You can only  control  1 ??? " or " There can only be 1 ??? on the field "  effect , or if " Rivalry of Warlords " or " Gozen Match " is active and the flipped monster has the wrong  Type / Attribute . 
+ In all these cases, the appropriate action is determined and done after damage calculation. [23] [24] 
+ Cards and effects that activate " before damage calculation ", such as " Drillroid " or " Performapal Barracuda ", can be activated. [1] 
+ For cards without  PSCT , the text " without (applying) damage calculation " indicates that the effect activates either here, or at the start of the Damage Step.
+ All cards that have effects that activate before damage calculation have since been reprinted with PSCT, except " Disc Fighter ". [25] [26] 
+ Fast effects  that alter  ATK / DEF  can be activated. [8] [9] [10] 
+ After both players have agreed that they have finished  activating  cards and  effects  in this part of the Damage Step, damage calculation is entered.
+ If a monster was attacked and left the  Monster Zone  by a card effect during this Damage Step (up to this point),  damage calculation  is not conducted, [2] [17]  but the rest of the Damage Step proceeds normally (allowing for appropriate  Trigger Effects  to activate normally, such as  Flip monsters , " Nightmare Penguin ", " Amazoness Sage ", etc.). [12] [13] [27] 
+ Perform damage calculation 
+ Battle damage  is  calculated and inflicted . If two monsters are involved in the battle, it is determined which monster(s) are  destroyed by battle  (if any). [1] [10] 
+ 
+ Effects that apply " during damage calculation (only) ", such as " Dark Artist " or " Skyscraper ", are applied immediately. 
+ Cards and effects that activate " during damage calculation ", such as " Kuriboh " or " Forbidden Scripture ", can be activated. [1] 
+ If a monster is destroyed by battle, it is  NOT  sent to the  Graveyard  yet. [1] [10] 
+ If an effect prevents a monster from being destroyed by this battle by doing something else "instead" (such as " Vicious Claw "  returning  itself to the  hand ), it is decided whether to apply or not at this point.
+ The "instead" action will be done at the end of the Damage Step. [28] 
+ In general, cards and effects that modify ATK/DEF  cannot be activated  at this point or for the rest of this Damage Step. [8] [10] [29] 
+ After damage calculation 
+ Monsters that were destroyed by battle are still not sent to the Graveyard yet. [1] [10] 
+ If a monster that was flipped  face-up  during the Damage Step has a  Continuous Effect  that  destroys  itself (such as " Giant Kozaky " or " Zombie Mammoth "), that effect will apply immediately if still appropriate, unless the monster was destroyed by battle. [21] [22] 
+ If its name conflicts with a " You can only  control  1 […], " or " There can only be 1 […] on the field, "  effect , the flipped monster will immediately be destroyed, unless it was destroyed by battle. [23] [30] 
+ If " Rivalry of Warlords "/" Gozen Match " is active, and the flipped monster has the wrong Attribute/Type, it will be immediately sent to the  Graveyard . [24] 
+ Cards and effects that activate " after damage calculation ", such as " Wall of Illusion " or " Madolche Waltz ", can be activated. 
+ Effects that activate when a player takes  battle damage , such as " Don Zaloog " or " Damage Condenser ", are activated at this time. [1] . 
+ Effects that activate when flipped  face-up , such as  Flip effects , are activated at this time. [1] [11] . 
+ Monsters that were destroyed by battle 
+ The following rules apply to monsters that were be destroyed by battle, but have not been sent to the Graveyard yet (or another appropriate location):
+ 
+ They are treated as "destroyed by battle" for  Continuous / Continuous-like Effects  that apply to those monsters, such as " Dark Ruler Ha Des ", [31]  and for effects that activate after damage calculation when a monster is destroyed by battle, such as " Performapal Fire Mufflerlion ". 
+ Their  Continuous Effects  are no longer applied. [10] [32] 
+ They cannot activate their  optional   Quick Effects , nor be used as a cost to activate an  optional  card or effect. [33] [34] 
+ This does not apply to  mandatory  effects, such as " Doomcaliber Knight ". [35] 
+ They cannot be  targeted  by cards or effects, have their  battle positions  changed, or have their  ATK / DEF  changed, [8] [10] [36] [37] [38] 
+ They still can have their effect(s)  negated . [39] 
+ They cannot be  returned  to the  hand  by  card effects , [40] [41] [42]  unless they are being returned instead of being sent to the  Graveyard , such as with " Last Minute Cancel ". 
+ They can still be  destroyed , sent to the Graveyard, or  banished  before being sent to the Graveyard as a result of battle. [43] [44] 
+ If a monster  leaves the field  before being destroyed by battle, cards and effects that activate when that monster is destroyed by battle do not activate. [24] [45] 
+ End of the Damage Step 
+ Monsters  that were destroyed by battle are now sent to the Graveyard (or another appropriate location). [1] 
+ 
+ If an effect prevented a monster from being destroyed by battle by doing something else "instead", and the action is determined to be done earlier, it is done at this time. [46] [47] 
+ Cards and effects that activate " at the end of the Damage Step ", such as " Amazoness Sage " or " Enlightenment ", can be activated. 
+ Most effects that activate when a monster is  destroyed by battle , such as " Grenosaurus " or " Hero Signal ", are also activated at this time. [1] [11] 
+ Once there are no effects left to  activate  or  resolve , the Damage Step ends, and the  Battle Step  is re-entered. [1] 
+ Effects that state " until the end of the Damage Step " or " during the Damage Step (only) " now expire and stop applying. [1] [48] 
+ Cards and effects that can be activated 
+ Only following cards and  effects  can be  activated  during the Damage Step (unless the card states otherwise):
+ 
+ Mandatory effects [10] 
+ Counter Trap Cards [8] [10] 
+ Monster  and  Trap effects  that  negate  the  activation  of a card or effect. [9] [49] [50] [51] [52] 
+ Continuous Trap Cards  with an optional effect that negates the activation of cards or effects, such as " Altergeist Protocol ", can be activated, but the effect must also be activated in the same  Chain Link . [53] 
+ Fast effects  that  directly  alter the  ATK / DEF —increasing, decreasing, changing to a specific amount, etc.—of a monster(s) on the  field  (not necessarily the ones currently battling), [54]  until before  damage calculation . Generally, during damage calculation and afterwards, they can  no longer  be activated. [8] [9] [10] [55] [56] [57] 
+ This excludes cards that  indirectly  change ATK/DEF, such as " Reverse Trap " or " Skill Drain "; [58] [59]  cards that might not alter ATK/DEF at resolution, such as " Half or Nothing "; [60]  cards that  Special Summon  a monster and exclusively modify the Summoned monster's ATK/DEF, such as " Powerful Rebirth " or " Reverse of Neos "; [61]  and " Curse of Anubis ", since its DEF-altering effect is applied separately from its effect that changes battle positions. [62] [Notes 1] 
+ Continuous Trap Cards  with an optional  Quick-like Effect  that alters ATK/DEF, such as " Attack of the Cornered Rat ", can be activated, but the effect must also be activated in the same  Chain Link . [63] [Notes 2] 
+ Trap Cards  with a  Continuous-like Effect  that alters ATK/DEF, such as " Fire Formation - Kaiyo ", can be activated. [64]  This includes  Normal Trap Cards  that  equip  themselves and alter the equipped monster's ATK/DEF, such as " Horn of the Phantom Beast ". [65]  This excludes Trap Cards whose Continuous-like Effect modifies ATK/DEF at a time other than the Trap's resolution, such as " Swift Samurai Storm! ". [66] [Notes 3] 
+ Even if the effect would not affect a monster at resolution, these Traps can still be activated as long as the potential is there. For example, activating " Dark Contract with the Witch " during your own turn or while you control no  Fiend  monsters, " Unpossessed " when a monster other than a " Familiar-Possessed " monster is attacking, [Notes 3]  or " Chosen of Zefra " while there are fewer than 3 " Zefra " monsters face-up in your  Extra Deck . 
+ If these Trap Cards have a  Quick-like Effect , such as " Dark Contract with the Witch ", that effect cannot be activated in the same Chain Link as the Trap Card, unless it can also be activated during the Damage Step. [67] 
+ Unique exceptions are " Evil Blast ", [68] [69]  " Scrap Sheen " ( TCG  only), [70] [71]  " Zero Force ", [72] [73]  and the Quick-like Effect of " Rocket Hand ", [74]  which have rulings stating that they cannot be activated during the Damage Step. 
+ Trigger  and  Trigger-like Effects —if that effect activates in response to  the card itself  being moved to a different location, [10] [11] [75] [76] [77] [78]  being  flipped  face-up (including  Flip effects ), [1] [10] [11]  or having its  battle position  changed [79] —unless the effect  Fusion Summons . [80] 
+ In general, other optional Trigger and Trigger-like Effects that have activation conditions that can be met  both  during and outside the Damage Step  cannot be activated .  For cards that have  PSCT , these normally state " (except during the Damage Step) " in their activation conditions. Otherwise, these effects are associated with activation conditions that involve actions regarding other cards, such as " When/If ... is destroyed ", " When/If ... is added from ... to your hand ", " When/If ... is Special Summoned ", etc. of cards like " Revival Rose ", " Ambulanceroid ", and " Cyber Dinosaur ". [81]  This includes Trigger Effects that activate in response to actions involving itself and/or other cards (but not just itself or other cards), such as " Madolche Chickolates ".
+ Cards that lack PSCT with these activation conditions, but have rulings stating they can be activated during the Damage Step, include " Verdant Sanctuary ". [82] [83] 
+ OCG / TCG  ruling differences:
+ In the  TCG , the effects of " Shark Stickers ", " Statue of Anguish Pattern " (Trigger-like Effect), " Superheavy Samurai Kabuto ", " U.A. Blockbacker ", " Vampire Grace ", and " Wind-Up Shark " (all of which have PSCT) that can activate when another monster is Summoned do not state " (except during the Damage Step) ", so those effects can be activated during the Damage Step. In the  OCG , none of their effects can be activated. [84] [85] [86] [87] [88] [89] 
+ In the  TCG , the effect of " Attack the Moon! " (which has PSCT) does not state " (except during the Damage Step) ", so that effect can be activated. In the  OCG , it cannot. [90] 
+ Cards and effects that activate in response to an event that is inherent to the Damage Step (e.g. the five unique timings of the Damage Step, battle damage is inflicted, a monster is destroyed by battle, etc.).
+ Continuous Trap Cards  with an  optional  effect that specifies an event in the Damage Step, such as " Yang Zing Creation " or " Damage = Reptile ", can be activated, but the effect must also be activated in the same  Chain Link . [91]  This does not apply if the effect is  mandatory . [92] [93] [94] [95] [Notes 4] 
+ Cards that cannot be labeled as any of the above cards, but have rulings stating that they and/or their effect(s) are allowed to be activated during the Damage Step.
+ In both the  TCG  and  OCG : " Desrook Archfiend " [96] [97] 
+ In the  TCG  only: " Muko ", [98]  " Skull Meister ", [99]  " Spell Reactor・RE ", [100]  " Tethys, Goddess of Light ", [101]  " Trap Reactor・Y FI ", [102]  and " T.G. Blade Blaster " [103] 
+ A card or effect only needs to meet one of the above requirements to be able to activate during the Damage Step, even if it fails all the others.
+ 
+ Notes 
+ 
+ ↑   This is supported by comparison with the texts of cards such as " Supay ", which has two independent actions (doubling ATK and returning to the hand) dependent on one action (Special Summoning a monster) coalesced into a single sentence format, which differs from the two-sentence format of "Curse of Anubis". If "Curse of Anubis" was formatted in a single sentence, it would look similar to the Ignition Effect of " Dragon Knight Draco-Equiste ". 
+ 
+ ↑   The ruling " You can activate "Attack of the Cornered Rat" (and/or its effect) during damage calculation, or at any point in the Damage Step prior to damage calculation. " is partially incorrect. With the release of Konami's  "Damage Step Rules" article , in conjunction with page 33 in  Yu-Gi-Oh! Trading Card Game - Official Rulebook Version 9.1  (which also refers to the "Damage Step Rules" article), neither "Attack of the Cornered Rat" nor its effect can be activated during damage calculation. 
+ 
+ ↑  3.0   3.1   This statement is an extrapolation, as there are no rulings that specifically state that such a card can be activated in this particular scenario; there are merely rulings stating that Trap Cards with such Continuous-like Effects can be activated during the Damage Step until damage calculation (with no other context). 
+ 
+ ↑   This statement is an extrapolation, as there is no source anywhere that explicitly confirms this; there is merely a consistent pattern of rulings for such Continuous Trap Cards stating that the cards themselves cannot be activated during the Damage Step. 
+ 
+ 
+ External links 
+ The Organization - That Wacky Damage Step! 
+ The Organization - Demystifying Rulings, Part 9: The Damage Step 
+ Official OCG websites:
+ OCG  (English) 
+ OCG  (Japanese) 
+ Official TCG websites:
+ yugioh-card.com/en   Damage Step Rules 
+ yugioh-card.com/uk   Damage Step Rules 
+ References 
+ 
+ ↑  1.00   1.01   1.02   1.03   1.04   1.05   1.06   1.07   1.08   1.09   1.10   1.11   1.12   1.13   1.14   1.15   Konami.  Damage Step Rules .  http://www.yugioh-card.com/uk/gameplay/damage.html . Retrieved 22 January 2016 . 
+ 
+ ↑  2.0   2.1   "Individual Card Rulings [D-E]" . UDE. Sasuke Samurai. Archived from  the original  on 26 February 2009 .  http://web.archive.org/web/20090226221425/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=S&last=T . Retrieved 14 February 2016 . 
+ 
+ ↑   "Individual Card Rulings [D-E]" . UDE. Disciple of the Forbidden Spell. Archived from  the original  on 18 February 2009 .  http://web.archive.org/web/20090218205242/http://entertainment.upperdeck.com:80/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=D&last=E . Retrieved 27 July 2017 . 
+ 
+ ↑   "Ｑ＆Ａ » 封魔の伝承者 [Q&A » Disciple of the Forbidden Spell]"  (in Japanese). Konami. 23 June 2016 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6594&request_locale=ja . Retrieved 27 July 2017 . 
+ 
+ ↑   "Ｑ＆Ａ » コアバスター [Q&A » Core Blaster]"  (in Japanese). Konami. 11 February 2016 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8343&request_locale=ja . Retrieved 27 July 2017 . 
+ 
+ ↑   Konami (12 May 2011).  Extreme Victory – Card Rulings (version 1.2) . Blackwing - Jin the Rain Shadow .  http://www.yugioh-card.com/uk/gameplay/rulings/RulesEXVC_1_2.pdf . 
+ 
+ ↑   "Ｑ＆Ａ » BF－空風のジン [Q&A » Blackwing - Jin the Rain Shadow]"  (in Japanese). Konami. 21 January 2016 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9437&request_locale=ja . Retrieved 27 July 2017 . 
+ 
+ ↑  8.0   8.1   8.2   8.3   8.4   8.5   8.6   Konami.  Yu-Gi-Oh! Trading Card Game - Official Rulebook Version 10 . pp. 41 .  http://yugioh.wikia.com/wiki/File:Rulebook_v10.pdf . 
+ 
+ ↑  9.0   9.1   9.2   9.3   Konami.  Yu-Gi-Oh! Official Card Game - Perfect Rulebook 2017 . p. 112 .  https://ygorganization.com/perfect-rulebook-2017/ . 
+ 
+ ↑  10.00   10.01   10.02   10.03   10.04   10.05   10.06   10.07   10.08   10.09   10.10   10.11   10.12   Konami.  Yu-Gi-Oh! Official Card Game - Perfect Rulebook 2017 . pp. 188–193 .  https://ygorganization.com/perfect-rulebook-2017/ . 
+ 
+ ↑  11.0   11.1   11.2   11.3   11.4   Konami.  Yu-Gi-Oh! Official Card Game - Perfect Rulebook 2017 . p. 110 .  https://ygorganization.com/perfect-rulebook-2017/ . 
+ 
+ ↑  12.0   12.1   "Individual Card Rulings [D-E]" . UDE. Drillroid. Archived from  the original  on 18 February 2009 .  http://web.archive.org/web/20090218205242/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=D&last=E . Retrieved 15 February 2016 . 
+ 
+ ↑  13.0   13.1   "Individual Card Rulings [D-E]" . UDE. Ehren, Lightsworn Monk. Archived from  the original  on 18 February 2009 .  http://web.archive.org/web/20090218205242/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=D&last=E . Retrieved 15 February 2016 . 
+ 
+ ↑   "Individual Card Rulings [P-R]" . UDE. Royal Keeper. Archived from  the original  on 20 February 2009 .  http://web.archive.org/web/20090220140220/http://entertainment.upperdeck.com:80/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=P&last=R . Retrieved 27 July 2017 . 
+ 
+ ↑   Konami (29 October 2009).  Stardust Overdrive Sneak Peek – Card Rulings (version 1.0) . Gemini Counter .  http://www.yugioh-card.com/uk/gameplay/rulings/SOVR_sneak_ruling.pdf . 
+ 
+ ↑   "Individual Card Rulings [F-H]" . UDE. Goblin King. Archived from  the original  on 26 February 2009 .  http://web.archive.org/web/20090226215920/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=F&last=H . Retrieved 23 January 2016 . 
+ 
+ ↑  17.0   17.1   "Individual Card Rulings [D-E]" . UDE. Embodiment of Apophis. Archived from  the original  on 18 February 2009 .  http://web.archive.org/web/20090218205242/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=D&last=E . Retrieved 15 February 2016 . "If 'Embodiment of Apophis' attacks a face-down 'Jinzo', once 'Jinzo' is flipped face-up, 'Embodiment of Apophis' reverts to a Trap Card. Damage calculation is not applied." 
+ 
+ ↑   "Individual Card Rulings [L-O]" . UDE. Morphtronic Magnen. Archived from  the original  on 20 February 2009 .  http://web.archive.org/web/20090220023927/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=L&last=O . Retrieved 22 January 2016 . 
+ 
+ ↑   "Individual Card Rulings [A-C]" . UDE. Big-Tusked Mammoth. Archived from  the original  on 17 February 2009 .  http://web.archive.org/web/20090217182013/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=A&last=C . Retrieved 13 February 2016 . 
+ 
+ ↑   Konami (6 April 2010).  Machina Mayhem Structure Deck – Card Rulings (version 1.0) . Machina Sniper .  http://www.yugioh-card.com/uk/gameplay/rulings/10406SDMachinaMayhem_Rules.pdf . 
+ 
+ ↑  21.0   21.1   "Individual Card Rulings [F-H]" . UDE. Giant Kozaky. Archived from  the original  on 26 February 2009 .  http://web.archive.org/web/20090226221419/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=F&last=H . Retrieved 23 January 2016 . 
+ 
+ ↑  22.0   22.1   "Individual Card Rulings [U-Z]" . UDE. Zombie Mammoth. Archived from  the original  on 26 February 2009 .  http://web.archive.org/web/20090226215920/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=U&last=Z . Retrieved 22 August 2015 . 
+ 
+ ↑  23.0   23.1   "Individual Card Rulings [A-C]" . UDE. Amazoness Tiger. Archived from  the original  on 17 February 2009 .  http://web.archive.org/web/20090217182013/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=A&last=C . Retrieved 13 February 2016 . 
+ 
+ ↑  24.0   24.1   24.2   "Card FAQ: "Rivalry of Warlords" & "Gozen Match"" .  http://www.yugioh-card.com/en/gameplay/card_faq1.html . Retrieved 15 February 2016 . "While Rivalry/Gozen is active, you can still Set monsters of any Type/Attribute, and you can Special Summon monsters of the wrong Type/Attribute face-down. But you can’t Flip Summon them afterwards, and they’re sent to the Graveyard after damage calculation if your opponent attacks them. (Also, in that case, you won’t get the effects of cards that need to be destroyed by battle and sent to the Graveyard, because they’re sent to the Graveyard by the Trap Card’s effect instead. But Flip Effects will still activate.)" 
+ 
+ ↑   "Individual Card Rulings [D-E]" . UDE. Disc Fighter. Archived from  the original  on 18 February 2009 .  http://web.archive.org/web/20090218205242/http://entertainment.upperdeck.com:80/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=D&last=E . Retrieved 27 July 2017 . 
+ 
+ ↑   "Ｑ＆Ａ » 円盤闘士 [Q&A » Disc Fighter]"  (in Japanese). Konami. 19 March 2015 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5970&request_locale=ja . Retrieved 27 July 2017 . 
+ 
+ ↑   Konami (12 May 2011).  Duelist Revolution Sneak Peek – Card Rulings (version 1.1) . Amazoness Sage .  http://www.yugioh-card.com/uk/gameplay/rulings/DREVRulebook_100803.pdf . 
+ 
+ ↑   "Individual Card Rulings [S-T]" . UDE. The Six Samurai - Irou. Archived from  the original  on 26 February 2009 .  http://web.archive.org/web/20090226221425/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=S&last=T . Retrieved 14 February 2016 . 
+ 
+ ↑   Konami (27 May 2009).  Raging Battle – Card Rulings (version 1.2) . Forbidden Chalice .  http://www.yugioh-card.com/uk/gameplay/rulings/RGBT_rules.pdf . 
+ 
+ ↑   Konami (27 May 2009).  Raging Battle – Card Rulings (version 1.2) . Earthbound Immortal Aslla piscu .  http://www.yugioh-card.com/uk/gameplay/rulings/RGBT_rules.pdf . 
+ 
+ ↑   "Individual Card Rulings [D-E]" . UDE. Dark Ruler Ha Des. Archived from  the original  on 18 February 2009 .  http://web.archive.org/web/20090218205242/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=D&last=E . Retrieved 12 March 2018 . 
+ 
+ ↑   "Individual Card Rulings [A-C]" . UDE. Ancient Gear Golem. Archived from  the original  on 17 February 2009 .  http://web.archive.org/web/20090217182013/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=A&last=C . Retrieved 13 February 2016 . 
+ 
+ ↑   "Individual Card Rulings [S-T]" . UDE. Stardust Dragon. Archived from  the original  on 26 February 2009 .  http://web.archive.org/web/20090226221425/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=S&last=T . Retrieved 14 February 2016 . "If your Defense Position 'Stardust Dragon' is attacked by 'Red Dragon Archfiend' and it is destroyed by battle, you cannot chain 'Stardust Dragon's' effect to 'Red Dragon Archfiend's' effect that destroys your Defense Position monsters." 
+ 
+ ↑   "Individual Card Rulings [S-T]" . UDE. Tytannial, Princess of Camellias. Archived from  the original  on 26 February 2009 .  http://web.archive.org/web/20090226221425/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=S&last=T . Retrieved 14 February 2016 . 
+ 
+ ↑   "Individual Card Rulings [D-E]" . UDE. Doomcaliber Knight. Archived from  the original  on 18 February 2009 .  http://web.archive.org/web/20090218205242/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=D&last=E . Retrieved 15 February 2016 . 
+ 
+ ↑   "Individual Card Rulings [D-E]" . UDE. Dark Cat with White Tail. Archived from  the original  on 18 February 2009 .  http://web.archive.org/web/20090218205242/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=D&last=E . Retrieved 15 February 2016 . 
+ 
+ ↑   "Individual Card Rulings [I-K]" . UDE. Kangaroo Champ. Archived from  the original  on 26 February 2009 .  http://web.archive.org/web/20090226221419/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=I&last=K . Retrieved 5 October 2015 . 
+ 
+ ↑   Konami (29 October 2009).  Stardust Overdrive Sneak Peek – Card Rulings (version 1.0) . Reptilianne Gorgon .  http://www.yugioh-card.com/uk/gameplay/rulings/SOVR_sneak_ruling.pdf . 
+ 
+ ↑   Konami (16 November 2010).  Starstrike Blast – Card Rulings (version 1.1) . Wattsquirrel .  http://www.yugioh-card.com/lat-am/gameplay/rulings/STBL_Rules_101116_v1-1.pdf . 
+ 
+ ↑   "Individual Card Rulings [U-Z]" . UDE. Wall of Illusion. Archived from  the original  on 26 February 2009 .  http://web.archive.org/web/20090226215920/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=U&last=Z . Retrieved 25 November 2015 . 
+ 
+ ↑   Konami (2 February 2011).  Storm of Ragnarok – Card Rulings (version 1.0) . Garmr of the Nordic Beasts .  http://www.yugioh-card.com/uk/gameplay/rulings/Rules_STOR.pdf . 
+ 
+ ↑   Konami (9 September 2010).  Gold Series 3 – Card Rulings . Amazoness Swords Woman .  http://www.yugioh-card.com/uk/gameplay/rulings/101109_GoldSeries3_TF5_Rulings_-_x.pdf . 
+ 
+ ↑   Konami (2 February 2011).  Storm of Ragnarok – Card Rulings (version 1.0) . Blackwing - Boreas the Sharp .  http://www.yugioh-card.com/uk/gameplay/rulings/Rules_STOR.pdf . 
+ 
+ ↑   Konami (16 November 2010).  Starstrike Blast – Card Rulings (version 1.1) . Ally of Justice Unknown Crusher .  http://www.yugioh-card.com/lat-am/gameplay/rulings/STBL_Rules_101116_v1-1.pdf . 
+ 
+ ↑   "Individual Card Rulings [P-R]" . UDE. Red Dragon Archfiend. Archived from  the original  on 26 February 2009 .  http://web.archive.org/web/20090220140220/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=P&last=R . Retrieved 14 February 2016 . "If 'Red Dragon Archfiend' attacks a Defense Position 'Giant Rat,' etc., and destroys it with its effect, 'Giant Rat's' effect does not activate because it is destroyed by 'Red Dragon Archfiend's' effect before it would be sent to the Graveyard by battle." 
+ 
+ ↑   Konami (11 August 2009).  Ancient Prophecy – Card Rulings (version 1.0) . Earthbound Immortal Cusillu .  http://www.yugioh-card.com/uk/gameplay/rulings/ANPR_rules.pdf . 
+ 
+ ↑   "Individual Card Rulings [F-H]" . UDE. Fighting Spirit. Archived from  the original  on 26 February 2009 .  http://web.archive.org/web/20090226221414/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=F&last=H . Retrieved 23 January 2016 . 
+ 
+ ↑   Konami (27 May 2009).  Raging Battle – Card Rulings (version 1.2) . Torapart .  http://www.yugioh-card.com/uk/gameplay/rulings/RGBT_rules.pdf . 
+ 
+ ↑   "Individual Card Rulings [S-T]" . UDE. Stardust Dragon. Archived from  the original  on 26 February 2009 .  http://web.archive.org/web/20090226221425/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=S&last=T . Retrieved 14 February 2016 . 
+ 
+ ↑   "Individual Card Rulings [L-O]" . UDE. Maryokutai. Archived from  the original  on 20 February 2009 .  http://web.archive.org/web/20090220023927/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=L&last=O . Retrieved 22 January 2016 . 
+ 
+ ↑   Konami (2 February 2011).  Storm of Ragnarok – Card Rulings (version 1.0) . Legendary Six Samurai - Shi En .  http://www.yugioh-card.com/uk/gameplay/rulings/Rules_STOR.pdf . 
+ 
+ ↑   "Ｑ＆Ａ » オルターガイスト・プロトコル [Q&A » Altergeist Protocol]"  (in Japanese). Konami. 08 July 2017 .  https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13287&request_locale=ja . Retrieved 15 March 2018 . 
+ 
+ ↑   "Ｑ＆Ａ » オルターガイスト・プロトコル [Q&A » Altergeist Protocol]"  (in Japanese). Konami. 08 July 2017 .  https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=13287&request_locale=ja . Retrieved 15 March 2018 . 
+ 
+ ↑   Konami (30 April 2010).  The Shining Darkness Sneak Peek – Card Rulings (version 1.0) . Blackwing - Bombardment .  http://www.yugioh-card.com/uk/gameplay/rulings/TSHDRulebook_100430.pdf . 
+ 
+ ↑   Konami (2 February 2011).  Storm of Ragnarok – Card Rulings (version 1.0) . Forbidden Lance .  http://www.yugioh-card.com/uk/gameplay/rulings/Rules_STOR.pdf . 
+ 
+ ↑   Konami (12 May 2011).  Extreme Victory – Card Rulings (version 1.2) . TGX1-HL .  http://www.yugioh-card.com/uk/gameplay/rulings/RulesEXVC_1_2.pdf . 
+ 
+ ↑   Konami (5 February 2010).  Absolute Powerforce Sneak Peek – Card Rulings (version 1.0) . Inverse Universe .  http://www.yugioh-card.com/uk/gameplay/rulings/ABPF_rules.pdf . 
+ 
+ ↑   "Individual Card Rulings [P-R]" . UDE. Reverse Trap. Archived from  the original  on 26 February 2009 .  http://web.archive.org/web/20090220140220/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=P&last=R . Retrieved 22 August 2015 . 
+ 
+ ↑   "Individual Card Rulings [S-T]" . UDE. Skill Drain. Archived from  the original  on 26 February 2009 .  http://web.archive.org/web/20090226221425/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=S&last=T . Retrieved 14 February 2016 . 
+ 
+ ↑   Konami (27 February 2009).  Crimson Crisis – Card Rulings (version 2.0) . Half or Nothing .  http://www.yugioh-card.com/uk/gameplay/rulings/CRMS_sneak_ruling.pdf . 
+ 
+ ↑   "Infernal Dragon, Reverse of Neos" . 9 September 2009. Archived from  the original  on 28 May 2008 .  http://web.archive.org/web/20080528194416/entertainment.upperdeck.com/community/forums/thread/843535.aspx . Retrieved 11 December 2015 . 
+ 
+ ↑   "Ｑ＆Ａ » アヌビスの呪い [Q&A » Curse of Anubis]"  (in Japanese). Konami. 6 November 2014 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6067&request_locale=ja . Retrieved 24 January 2016 . 
+ 
+ ↑   Konami (27 May 2009).  Raging Battle – Card Rulings (version 1.2) . Attack of the Cornered Rat .  http://www.yugioh-card.com/uk/gameplay/rulings/RGBT_rules.pdf . 
+ 
+ ↑   Konami (2 February 2011).  Storm of Ragnarok – Card Rulings (version 1.0) . Token Stampede .  http://www.yugioh-card.com/uk/gameplay/rulings/Rules_STOR.pdf . 
+ 
+ ↑   Konami (3 August 2010).  Duelist Revolution Sneak Peek – Card Rulings (version 1.0) . Horn of the Phantom Beast .  http://www.yugioh-card.com/uk/gameplay/rulings/DREVRulebook_100803.pdf . 
+ 
+ ↑   "Individual Card Rulings [S-T]" . UDE. Swift Samurai Storm!. Archived from  the original  on 26 February 2009 .  http://web.archive.org/web/20090226221425/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=S&last=T . Retrieved 14 February 2016 . 
+ 
+ ↑   "「戦乙女の契約書」をダメージステップに発動する事はできますか？ [Can I activate "Dark Contract with the Witch" during the Damage Step?]"  (in Japanese). Konami. 9 August 2014 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=13429&request_locale=ja . Retrieved 2 January 2016 . 
+ 
+ ↑   Konami (5 February 2010).  Absolute Powerforce Sneak Peek – Card Rulings (version 1.0) . Evil Blast .  http://www.yugioh-card.com/uk/gameplay/rulings/ABPF_rules.pdf . 
+ 
+ ↑   "Ｑ＆Ａ » イービル・ブラスト [Q&A » Evil Blast]"  (in Japanese). Konami. 20 July 2012 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7495&request_locale=ja . Retrieved 15 February 2016 . 
+ 
+ ↑   Konami (3 August 2010).  Duelist Revolution Sneak Peek – Card Rulings (version 1.0) . Scrap Sheen .  http://www.yugioh-card.com/uk/gameplay/rulings/DREVRulebook_100803.pdf . 
+ 
+ ↑   "Ｑ＆Ａ » スクラップ・ポリッシュ [Q&A » Scrap Sheen]"  (in Japanese). Konami. 25 February 2016 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8980&request_locale=ja . Retrieved 5 December 2016 . 
+ 
+ ↑   Konami (2 February 2011).  Storm of Ragnarok – Card Rulings (version 1.0) . Zero Force .  http://www.yugioh-card.com/uk/gameplay/rulings/Rules_STOR.pdf . 
+ 
+ ↑   "Ｑ＆Ａ » ゼロ・フォース [Q&A » Zero Force]"  (in Japanese). Konami. 20 July 2012 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9355&request_locale=ja . Retrieved 16 February 2016 . 
+ 
+ ↑   "Ｑ＆Ａ » ロケットハンド [Q&A » Rocket Hand]"  (in Japanese). Konami. 19 September 2015 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11668&request_locale=ja . Retrieved 7 February 2016 . 
+ 
+ ↑   Konami (11 August 2009).  Ancient Prophecy – Card Rulings (version 1.0) . Minefieldriller .  http://www.yugioh-card.com/uk/gameplay/rulings/ANPR_rules.pdf . 
+ 
+ ↑   "Individual Card Rulings [U-Z]" . UDE. Yubel. Archived from  the original  on 26 February 2009 .  http://web.archive.org/web/20090226215920/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=U&last=Z . Retrieved 14 February 2016 . 
+ 
+ ↑   "Ｑ＆Ａ » ワタポン [Q&A » Watapon]"  (in Japanese). Konami. 23 July 2015 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6092&request_locale=ja . Retrieved 14 February 2016 . 
+ 
+ ↑   "Individual Card Rulings [A-C]" . UDE. Cyber Ouroboros. Archived from  the original  on 17 February 2009 .  http://web.archive.org/web/20090217182013/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=A&last=C . Retrieved 14 February 2016 . 
+ 
+ ↑   Konami (3 August 2010).  Duelist Revolution Sneak Peek – Card Rulings (version 1.0) . Earthquake Giant .  http://www.yugioh-card.com/uk/gameplay/rulings/DREVRulebook_100803.pdf . 
+ 
+ ↑   "Ｑ＆Ａ » パラサイト・フュージョナー [Q&A » Fusion Parasite]"  (in Japanese). Konami. 8 October 2016 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12744&request_locale=ja . Retrieved 24 February 2017 . 
+ 
+ ↑   Konami (16 November 2010).  Starstrike Blast – Card Rulings (version 1.1) . Scrap Searcher .  http://www.yugioh-card.com/lat-am/gameplay/rulings/STBL_Rules_101116_v1-1.pdf . 
+ 
+ ↑   Konami (27 February 2009).  Crimson Crisis – Card Rulings (version 2.0) . Verdant Sanctuary .  http://www.yugioh-card.com/uk/gameplay/rulings/CRMS_sneak_ruling.pdf . 
+ 
+ ↑   "Ｑ＆Ａ » 大樹海 [Q&A » Verdant Sanctuary]"  (in Japanese). Konami. 4 August 2016 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8055&request_locale=ja . Retrieved 5 December 2016 . 
+ 
+ ↑   "Ｑ＆Ａ » シャーク・サッカー [Q&A » Shark Stickers]"  (in Japanese). Konami. 3 October 2012 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=9727&request_locale=ja . Retrieved 22 January 2016 . 
+ 
+ ↑   "Ｑ＆Ａ » 苦紋様の土像 [Q&A » Statue of Anguish Pattern]"  (in Japanese). Konami. 14 February 2015 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11753&request_locale=ja . Retrieved 22 January 2016 . 
+ 
+ ↑   "Ｑ＆Ａ » 超重武者カブ－１０ [Q&A » Superheavy Samurai Kabuto]"  (in Japanese). Konami. 19 July 2014 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11340&request_locale=ja . Retrieved 22 January 2016 . 
+ 
+ ↑   "Ｑ＆Ａ » Ｕ．Ａ．ストロングブロッカー [Q&A » U.A. Blockbacker]"  (in Japanese). Konami. 19 September 2015 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11638&request_locale=ja . Retrieved 13 February 2016 . 
+ 
+ ↑   "Ｑ＆Ａ » ヴァンパイア・グレイス [Q&A » Vampire Grace]"  (in Japanese). Konami. 1 August 2013 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10762&request_locale=ja . Retrieved 22 January 2016 . 
+ 
+ ↑   "Ｑ＆Ａ » ゼンマイシャーク [Q&A » Wind-Up Shark]"  (in Japanese). Konami. 1 July 2014 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10019&request_locale=ja . Retrieved 22 January 2016 . 
+ 
+ ↑   "Ｑ＆Ａ » ムーン・スクレイパー [Q&A » Attack the Moon!]"  (in Japanese). Konami. 30 May 2013 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10359&request_locale=ja . Retrieved 22 January 2016 . 
+ 
+ ↑   Konami (3 August 2010).  Duelist Revolution Sneak Peek – Card Rulings (version 1.0) . Desperate Tag .  http://www.yugioh-card.com/uk/gameplay/rulings/DREVRulebook_100803.pdf . 
+ 
+ ↑   "Ｑ＆Ａ » 追い剥ぎゴブリン [Q&A » Robbin' Goblin]"  (in Japanese). Konami. 1 October 2015 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4876&request_locale=ja . Retrieved 6 February 2016 . 
+ 
+ ↑   "Ｑ＆Ａ » バックファイア [Q&A » Backfire]"  (in Japanese). Konami. 6 August 2015 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5986&request_locale=ja . Retrieved 6 February 2016 . 
+ 
+ ↑   Konami (3 August 2010).  Duelist Revolution Sneak Peek – Card Rulings (version 1.0) . Howl of the Wild .  http://www.yugioh-card.com/uk/gameplay/rulings/DREVRulebook_100803.pdf . 
+ 
+ ↑   "Ｑ＆Ａ » エクシーズ・トライバル [Q&A » Xyz Tribalrivals]"  (in Japanese). Konami. 22 November 2012 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=10436&request_locale=ja . Retrieved 6 February 2016 . 
+ 
+ ↑   "Individual Card Rulings [D-E]" . UDE. Desrook Archfiend. Archived from  the original  on 18 February 2009 .  http://web.archive.org/web/20090218205242/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=D&last=E . Retrieved 15 February 2016 . 
+ 
+ ↑   "Ｑ＆Ａ » デスルークデーモン [Q&A » Desrook Archfiend]"  (in Japanese). Konami. 26 February 2015 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5775&request_locale=ja . Retrieved 27 July 2017 . 
+ 
+ ↑   "Individual Card Rulings [L-O]" . UDE. Null and Void. Archived from  the original  on 20 February 2009 .  http://web.archive.org/web/20090220023927/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=L&last=O . Retrieved 22 January 2016 . 
+ 
+ ↑   Konami (16 November 2010).  Starstrike Blast – Card Rulings (version 1.1) . Skull Meister .  http://www.yugioh-card.com/lat-am/gameplay/rulings/STBL_Rules_101116_v1-1.pdf . 
+ 
+ ↑   Konami (27 February 2009).  Crimson Crisis – Card Rulings (version 2.0) . Spell Reactor・RE .  http://www.yugioh-card.com/uk/gameplay/rulings/CRMS_sneak_ruling.pdf . 
+ 
+ ↑   Konami (27 February 2009).  Crimson Crisis – Card Rulings (version 2.0) . Tethys, Goddess of Light .  http://www.yugioh-card.com/uk/gameplay/rulings/CRMS_sneak_ruling.pdf . 
+ 
+ ↑   Konami (27 February 2009).  Crimson Crisis – Card Rulings (version 2.0) . Trap Reactor・Y FI .  http://www.yugioh-card.com/uk/gameplay/rulings/CRMS_sneak_ruling.pdf . 
+ 
+ ↑   Konami (12 May 2011).  Extreme Victory – Card Rulings (version 1.2) . T.G. Blade Blaster .  http://www.yugioh-card.com/uk/gameplay/rulings/RulesEXVC_1_2.pdf . 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/bb/TurnStructure.svg/revision/latest?cb=20150823015631', '/extensions-ucp/v2/ImageMap/resources/desc-20.png']
+Categories: Phases and Steps

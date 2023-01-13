@@ -1,0 +1,142 @@
+Link: https://yugioh.fandom.com/wiki/Performage_Trapeze_Magician_(anime)
+
+Main card page: " Performage Trapeze Magician " 
+ The Japanese (OCG) version of this card is not a member of the " Magician "  archetype , because its Japanese name does not contain  「 魔 術 師 」 .   As its English name contains "Magician", it  may  be treated a member of the "Magician" archetype at a TCG event, subject to local rulings.     
+ Performage Trapeze Magician 
+ 
+ Japanese:   Ｅｍトラピーズ・マジシャン 
+ Romaji:   Entameiji Torapīzu Majishan 
+ Translated:  Entermage Trapeze Magician 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Rank 
+ 
+ 
+ 4   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Continuous 
+ Quick 
+ Xyz Material 
+ 
+ 
+ 
+ 2  Level  4  Spellcaster - Type   monsters 
+ 
+ [  Spellcaster  /  Xyz  /  Effect  ] 
+ 2  Level  4  Spellcaster - Type   monsters 
+ Any  effect damage  lower than or equal to this card's  ATK  becomes 0. During either player's  turn : You can  detach  1  Xyz Material  from this card, then  target  1 monster on the  field ; that target must make two  attacks  this turn, if able. If it does not,  destroy  it at the end of the Battle Phase.
+ ATK  /  2500     DEF  /  2000   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ARC-V :  043 ,  044 ,  057 ,  058 ,  074 ,  075 ,  076 ,  112 ,  114 ,  144 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ARC-V ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ Ｅｍトラピーズ・マジシャン 
+ 
+ 魔法使い族レベル４モンスター×２
+ 
+ ①：このカードがモンスターゾーンに存在する取り、このカードの攻撃力以下の効果ダメージは０になる。②：このカードの Ｘ 素材を１つ取り除き、フィールドのモンスター１体を対象として発動できる。そのモンスターはこのターン、２回攻撃しなければならない。２回攻撃しなかった場合、その対象のモンスターはバトルフェイズ終了時に破壊される。この効果は相手ターンでも発動できる。 
+ 
+ 
+ Entameiji Torapīzu Majishan 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Dennis McField 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Spellcaster 
+ 
+ Archetypes  and  series   
+ Performage 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys Monster Cards 
+ 
+ Summoning  categories  
+ 2 Xyz Materials 
+ Requires Type specific Xyz Materials 
+ 
+ Attack  categories  
+ Allows multiple attacks 
+ Must attack 
+ 
+ LP   
+ Prevents effect damage 
+ 
+ 
+ 
+   " Performage Trapeze Magician " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+" Performage " 「 Ｅｍ 」 a   m   Members 
+ Performage Ball Balancer Performage Bonus Dealer Performage Bubble Gardna Performage Candy Crafter Performage Cup Tricker Performage Damage Juggler Performage Filmsy Slimmer Performage Fire Dancer Performage Flame Eater Performage Hat Tricker Performage Magic Tactician Performage Mirror Conductor Performage Overlay Juggler Performage Plushfire Performage Reversal Dancer Performage Shadow Maker Performage Stilts Launcher Performage String Figure Performage Trapeze High Magician Performage Trapeze Magician Performage Trapeze Witch Performage Trick Clown Performage Water Dancer Performage Wind Drainer Performage Wing Sandwichman 
+ Support 
+ Bubble Barrier Performage Bonus Dealer Performage Bubble Gardna Performage Candy Crafter Performage Filmsy Slimmer Performage Plushfire Performage Reversal Dancer Performage Trapeze Witch Performance Mage Hurricane 
+ Anti-support 
+ Performance Mage Hurricane 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/9/96/PerformageTrapezeMagician-JP-Anime-AV.png/revision/latest/scale-to-width-down/200?cb=20150215091126', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/9e/PerformageTrapezeMagician-JP-Anime-AV-NC.png/revision/latest/scale-to-width-down/185?cb=20150222151451', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

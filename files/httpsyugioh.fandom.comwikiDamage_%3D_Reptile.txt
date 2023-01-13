@@ -1,0 +1,245 @@
+Link: https://yugioh.fandom.com/wiki/Damage_%3D_Reptile
+
+The  Arabic, Croatian  and  Greek                      names given are not official.  ( card names ) 
+ 
+ 
+ 
+ 
+ 
+ Damage = Reptile ダメージ ＝ レプトル 
+ 
+ English 
+Damage = Reptile 
+ French 
+ Dommages = Reptile Check translation 
+ German 
+ Schaden = Reptil Check translation 
+ Italian 
+ Danno = Rettile Check translation 
+ Korean 
+ 데미지=파충류 Check translation 
+ Portuguese 
+ Dano = Réptil Check translation 
+ Spanish 
+ Daño = Reptil Check translation 
+ Japanese (kana) 
+ ダメージイコールレプトル Check translation 
+ Japanese (base) 
+ ダメージ＝レプトル Check translation 
+ Japanese ( rōmaji ) 
+Dameji Ikōru Reputoru 
+ Card type 
+ Trap   
+ Property 
+ Continuous   
+ Passcode 
+ 44584775 
+ Card effect types 
+ 
+ 
+ Trigger-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Once per turn , when you take  damage  from a  battle  involving a  Reptile   monster : You can  Special Summon  1 Reptile monster from your  Deck  with  ATK  less than or equal to the damage you took. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Une fois par tour, lorsque vous recevez des dommages d'un combat impliquant un monstre Reptile : vous pouvez Invoquer Spécialement 1 monstre Reptile depuis votre Deck avec une ATK inférieure ou égale aux dommages que vous avez reçus. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Einmal pro Spielzug, wenn du Schaden von einem Kampf erhältst, an dem ein Reptil-Monster beteiligt ist: Du kannst 1 Reptil-Monster, dessen ATK kleiner oder gleich dem Schaden sind, den du erhalten hast, als Spezialbeschwörung von deinem Deck beschwören. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Una volta per turno, quando subisci danno da una battaglia che coinvolge un mostro Rettile: puoi Evocare Specialmente dal tuo Deck 1 mostro Rettile con ATK pari o inferiore al danno che hai subito. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Uma vez por turno, quando você sofrer dano de uma batalha envolvendo um monstro Réptil: você pode Invocar por Invocação-Especial 1 monstro Réptil do seu Deck com ATK igual ou menor que o dano que você sofreu. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Una vez por turno, cuando recibas daño de una batalla que involucre a un monstruo Reptil: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo Reptil con ATK igual o menor al daño que recibiste. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ １ターンに１度、爬虫類族モンスターの戦闘によって自分が戦闘ダメージを受けた時に発動できる。その時に受けたダメージの数値以下の攻撃力を持つ爬虫類族モンスター１体をデッキから特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 파충류족 몬스터의 전투에 의해서 데미지를 받았을 때, 그 데미지 수치 이하의 공격력을 가진 파충류족 몬스터 1장을 덱에서 특수 소환할 수 있다. 이 효과는 1턴에 1번밖에 사용할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2007-08-15 TAEV-EN067 Tactical Evolution Rare 2021-05-06 ANGU-EN058 Ancient Guardians Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2007-08-04 TAEV-FR067 Tactical Evolution Évolution Tactique Rare 2021-05-06 ANGU-FR058 Ancient Guardians Les Anciens Gardiens Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2007-08-15 TAEV-DE067 Tactical Evolution Tactical Evolution Rare 2021-05-06 ANGU-DE058 Ancient Guardians Ancient Guardians Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2007-08-15 TAEV-IT067 Tactical Evolution Evoluzione Tattica Rare 2021-05-06 ANGU-IT058 Ancient Guardians Antichi Guardiani Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2021-05-06 ANGU-PT058 Ancient Guardians Guardiões Antigos Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2007-08-15 TAEV-SP067 Tactical Evolution Evolución Táctica Rare 2021-05-06 ANGU-SP058 Ancient Guardians Guardianes Antiguos Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2007-05-12 TAEV-JP067 Tactical Evolution ＴＡＣＴＩＣＡＬ ＥＶＯＬＵＴＩＯＮ Common 2012-05-12 DE02-JP027 Duelist Edition Volume 2 デュエリストエディション　Ｖｏｌｕｍｅ　２ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2007-06-08 TAEV-KR067 Tactical Evolution 전술의 발전 Common 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Online 
+ 
+ 
+ Pack 45 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Reptile 
+ 
+ Summoning  categories  
+ Special Summons from your Deck 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 7167 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Online 2005-11-04 – – – – – Unlimited 
+ 
+ 
+ 
+   " Damage = Reptile " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/2b/DamageReptile-ANGU-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20210507175528', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Duel Monsters cards, TCG cards, OCG cards

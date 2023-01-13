@@ -1,0 +1,79 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Apprentice_Magician
+
+
+ Apprentice Magician 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ Contents 
+ 
+ 1   OCG Rulings 
+ 2   Previously Official Rulings 
+ 
+ 2.1   Mentions in Other Rulings 
+ 2.2   Judge List Rulings 
+ 
+ 
+ 3   References 
+ 
+ 
+ OCG Rulings 
+ If " Pitch-Black Power Stone " is negated by " Royal Decree ", then " Pitch-Black Power Stone " will remain on the field meaninglessly.  When " Royal Decree " is removed from the field, the effect of " Pitch-Black Power Stone " is reapplied, so you can put Spell Counters on " Pitch-Black Power Stone " by " Apprentice Magician " etc. [1] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [3]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [4] [5] [6] [7] [8] [9] [10] [11] [12] 
+ 
+ If you  Special Summon  " Apprentice Magician "  face-down  (such as with " Apprentice Magician ’s” effect) then you do not place a  Spell Counter . 
+ “ Apprentice Magician ’s” effect activates at the same time as when monsters are sent to the  Graveyard . But it does not have to be sent to the  Graveyard ; you get to  Special Summon  a new monster when " Apprentice Magician " is destroyed as a result of battle, even if " Banisher of the Light " is in play. [2] 
+ If you take control of your opponent's " Apprentice Magician ", and it is  destroyed  as a result of battle, then your opponent (the original  owner ) will get to  Special Summon . Because “ Apprentice Magician ” is no longer on your side of the field, it is now in the opponent’s  Graveyard  (or  removed from play  area). 
+ You must show your opponent the monster you  Special Summon . 
+ For effects that place a  Spell Counter , you can  chain  to the activation of those effects. The  Spell Counter  is actually placed when the effect  resolves . 
+ Mentions in Other Rulings 
+ Dark Valkyria : While " Dark Valkyria " is an Effect Monster, you can place  Spell Counters  onto it with other card effects, like ... " Apprentice Magician ." 
+ Pitch-Black Power Stone : "Pitch-Black Power Stone" may itself receive additional  Spell Counters  from effects such as " Apprentice Magician ". 
+ Tower of Babel : You can move Spell Counters to " Tower of Babel " with " Pitch-Black Power Stone ", but if the 4th  Spell Counter  is placed on " Tower of Babel " with..." Apprentice Magician ", " Tower of Babel " is destroyed but no  damage  is inflicted. 
+ Storm Caller : If a  Psychic - Type  monster destroys your opponent's " Apprentice Magician " by battle, if you return it to the top of your opponent's Deck its effect does not activate. 
+ Judge List Rulings 
+ If " Apprentice Magician " is destroyed by battle and sent to the Graveyard while " The End of Anubis " is face-up on the field, then " Apprentice Magician 's" effect will be negated. [2] 
+ 
+ 
+ 
+ References 
+ 
+ ↑   Konami FAQ : If "Pitch-Black Power Stone" is negated by the effect of "Royal Decree", are Spell Counters placed? 
+ 
+ ↑  2.0   2.1   UDE Judge List : Exactly when Apprentice Magican's effect activates 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

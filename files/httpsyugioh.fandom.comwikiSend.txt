@@ -1,0 +1,573 @@
+Link: https://yugioh.fandom.com/wiki/Send
+
+
+ 
+ Send
+ 
+ 
+ 
+ Artwork of " Hand Destruction ", an example of a card that sends cards to the Graveyard.
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 送 る
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ おくる
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 送る
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ okuru
+ 
+ 
+ 
+ English
+ 
+ 
+ send
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : envoyer 
+ German : legen 
+ Italian : mandare 
+ Portuguese : enviar 
+ Spanish : mandar 
+ Korean : 보내다  bonaeda 
+ Traditional Chinese : 送  sòng / sung3 
+ 
+ 
+ Send  ( 送 る  okuru ) refers to the act of moving a card to the  Graveyard , except moving  banished  cards to the Graveyard or swapping the  Deck  with the Graveyard.
+ 
+ Contents 
+ 
+ 1   Sending cards to the Graveyard 
+ 2   Actions that send to the Graveyard 
+ 3   Moving cards to the Graveyard without sending 
+ 4   References 
+ 
+ 
+ Sending cards to the Graveyard 
+ Cards can be sent to the Graveyard in many ways:
+ 
+ A  Normal ,  Quick-Play  or  Ritual   Spell Card , or a  Normal  or  Counter   Trap Card  will be sent to the Graveyard after the whole  Chain  in which it was activated in  resolves  if it is still on the  field , unless it has an effect that keeps it on the field (such as " Swords of Revealing Light "). 
+ A  Spell  or  Trap Card  will be sent to the Graveyard at the end of the  Chain  it was activated in if its  activation  was  negated , if it has not already been moved somewhere. 
+ If a player already controls a  Field Spell Card , the existing Field Spell Card will be sent to the Graveyard immediately before that player activates another Field Spell Card. 
+ A monster will be sent to the Graveyard after its  Summon  is negated, if it has not already been moved somewhere. 
+ If a monster would be Summoned, but there is no free  Monster Zone  for it. (For example, " Juragedo " activates its effect to Special Summon itself, but " Ojama Trio " is chained so that there are no free Monster Zones when it resolves.) 
+ An  excavated  card that cannot be moved to the proper location. (For example, cards that would be  added  to the  hand  or  Special Summoned  by " Cyber Jar " while " Deck Lockdown " is active.) 
+ A temporarily  banished  monster that would return to the field will be sent to the Graveyard if there is no free Monster Zone for it or if it is a  Trap Monster . 
+ Fusion Materials  are sent to the Graveyard when used for a  Fusion Summon . 
+ Synchro Materials  are sent to the Graveyard when used for a  Synchro Summon . 
+ Link Materials  are sent to the Graveyard when used for a  Link Summon . 
+ Xyz Materials  are sent to the Graveyard if the  Xyz Monster  they are  attached  to  leaves the field . 
+ By card that specifically uses this term (as a  cost ,  effect , or as part of a  Summoning condition ), like " Elemental HERO Prisma ", " Darkfall " and " Elemental HERO Neo Bubbleman ". 
+ As a result of:
+ being  Tributed 
+ being  destroyed 
+ being  discarded 
+ being  detached 
+ Actions that send to the Graveyard 
+ Tribute ,  destroy ,  discard  and  detach  are different ways of sending cards to Graveyard. 
+ Cards sent from the hand to the Graveyard are not necessarily discarded. For example, the effect of " The Fabled Cerburrel " activates when it is discarded to the Graveyard, so it will activate if discarded by " Card Destruction " but not when sent to the Graveyard by " Hand Destruction ".
+ Likewise, cards sent from the field to the Graveyard are not necessarily destroyed. For example, the effect of " Dark End Dragon " sends monsters to the Graveyard, so it cannot be  negated  by cards such as " Stardust Dragon ". However, doing so will activate the effects of " Sangan " and " Dandylion ", which they activate when sent to the Graveyard, regardless of whether they were destroyed or not.
+ 
+ Moving cards to the Graveyard without sending 
+ Returning  a  banished  card to the  Graveyard  is not considered to be "sending a card to the Graveyard". [1]  Thus, even if a card like " Macro Cosmos " is active, " Miracle Dig " and " Fortune's Future " can be used to return cards to the Graveyard; the returned cards will not be banished.
+ Swapping the  Main Deck  with the  Graveyard  for the effect of " Exchange of the Spirit " is not considered sending to the Graveyard. [2] [3] 
+ 
+ References 
+ 
+ ↑   Konami.  Yu-Gi-Oh! Trading Card Game - Official Rulebook Version 10 . pp. 55 .  http://yugioh.wikia.com/wiki/File:Rulebook_v10.pdf . 
+ 
+ ↑   "Individual Card Rulings [D-E]" . UDE. Exchange of the Spirit. Archived from  the original  on 18 February 2009 .  http://web.archive.org/web/20090218205242/http://entertainment.upperdeck.com:80/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=D&last=E . Retrieved 16 October 2017 . 
+ 
+ ↑   "Ｑ＆Ａ » 「現世と冥界の逆転」の効果処理によって、デッキと墓地を入れ替える際に、「マクロコスモス」や「次元要塞兵器」の効果が適用されている場合、処理はどうなりますか？ [Q&A » When swapping the Deck and Graveyard due to the effect of "Exchange of the Spirit", if the effect of "Macro Cosmos" or "Dimension Fortress Weapon" is being applied, what happens?]"  (in Japanese). Konami. 24 March 2017 .  https://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=14575&request_locale=ja . Retrieved 16 October 2017 . 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d1/HandDestruction-TF04-JP-VG.jpg/revision/latest/scale-to-width-down/300?cb=20120611224657']
+Categories: Gameplay

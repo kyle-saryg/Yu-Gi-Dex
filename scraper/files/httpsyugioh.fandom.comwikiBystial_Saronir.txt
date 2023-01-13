@@ -1,0 +1,129 @@
+Link: https://yugioh.fandom.com/wiki/Bystial_Saronir
+
+
+ 
+ 
+ Bystial Saronir 深淵の獣  サロニール 
+ 
+ English 
+Bystial Saronir 
+ Japanese (kana) 
+ ビーステッド サロニール Check translation 
+ Japanese (base) 
+ 深淵の獣 サロニール Check translation 
+ Japanese ( rōmaji ) 
+Bīsuteddo Saronīru 
+ Japanese (translated) 
+Byssted Saronir 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Dragon  /  Effect 
+ Level 
+ 6   
+ ATK  /  DEF 
+ 2500  /  2000 
+ Passcode 
+ 60242223 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+You can  target  1  LIGHT  or  DARK   monster  in either  GY ;  banish  it, and if you do,  Special Summon  this card from your  hand . This is a  Quick Effect  if your opponent  controls  a monster. If this card is  sent  to the GY: You can send 1 " Bystial " monster or 1 " Branded "  Spell / Trap  from your  Deck  to the GY, except "Bystial Saronir". You can only use each  effect  of "Bystial Saronir"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分または相手の墓地の、光・闇属性モンスター１体を対象として発動できる。そのモンスターを除外し、このカードを手札から特殊召喚する。相手フィールドにモンスターが存在する場合、この効果は相手ターンでも発動できる。②：このカードが墓地へ送られた場合に発動できる。「深淵の獣サロニール」以外の「ビーステッド」モンスター１体または「烙印」魔法・罠カード１枚をデッキから墓地へ送る。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-07-16 DABL-JP007 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ LIGHT 
+ DARK 
+ 
+ Anti-supports   
+ LIGHT 
+ DARK 
+ 
+ Archetypes  and  series   
+ Bystial 
+ 
+ Supports   archetypes   
+ Bystial 
+ Branded 
+ 
+ Actions  
+ Sends from Deck to Graveyard 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ 
+ Banished  categories  
+ Banishes from Graveyard for cost 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17763 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Branded " 「 烙 印 」 Members 
+ Albion the Branded Dragon 
+ Branded Banishment Branded Beast Branded Bond Branded Disciple Branded Expulsion Branded Fusion Branded Loss Branded Lost Branded Opening Branded Regained Branded Retribution Branded Sword Branded in Central Dogmatika Branded in High Spirits Branded in Red Branded in White Despia, Theater of the Branded Inevitably Branded Judgment of the Branded Light of the Branded Screams of the Branded 
+ Support 
+ Albion the Branded Dragon Albion the Shrouded Dragon Aluber the Jester of Despia The Bystial Lubellion Bystial Saronir Despian Tragedy Springans Kitt 
+ Branded Beast 
+ Related 
+ Alba-Lenatus the Abyss Dragon Albaz the Ashen Fallen of Albaz Lubellion the Searing Dragon Titaniklad the Ash Dragon 
+ 
+   
+" Bystial " 「ビーステッド」 Members 
+ The Bystial Alba Los Bystial Baldrake Bystial Druiswurm The Bystial Lubellion Bystial Magnamhut Bystial Saronir 
+ Support 
+ The Bystial Alba Los The Bystial Lubellion Bystial Saronir 
+ Branded Beast Branded Regained Inevitably Branded 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/21/BystialSaronir-DABL-JP-C.png/revision/latest/scale-to-width-down/300?cb=20220718205540', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

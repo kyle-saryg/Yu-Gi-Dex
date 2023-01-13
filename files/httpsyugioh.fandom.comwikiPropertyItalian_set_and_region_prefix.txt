@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Italian_set_and_region_prefix
+
+This indicates the combined set and language prefix for an Italian  TCG  set. It uses  string  values.
+ 
+ 
+ 
+ 
+Categories:

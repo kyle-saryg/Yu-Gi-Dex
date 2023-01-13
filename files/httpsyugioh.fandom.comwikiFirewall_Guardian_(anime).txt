@@ -1,0 +1,145 @@
+Link: https://yugioh.fandom.com/wiki/Firewall_Guardian_(anime)
+
+Main card page: " Firewall Guardian " 
+ Firewall Guardian 
+ 
+ Japanese:   ファイアウォール・ガーディアン 
+ Romaji:   Faiawōru Gādian 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   DARK 
+ 
+ Level 
+ 
+ 
+ 4   
+ 
+ [  Cyberse  /  Effect  ] If this card was used as material for a  Link Summon : You can  Special Summon  this card onto your  field . If this Special Summoned card would  leave the field ,  banish  it instead. When an  attack  is declared by a  Link Monster  you  control  against a Link Monster your opponent controls, you can banish this card from your  GY :  Negate  that attack, and the  targeted  Link Monster's ATK becomes 0 until end of  turn , and cannot target other Monsters with  effects  other than itself. You can only use each effect of "Firewall Guardian"  once per turn .
+ ATK  /  100     DEF  /  2000   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  082 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ファイアウォール・ガーディアン 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードがサイバース族リンクモンスターのリンク素材として墓地へ送られた場合に発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。②：自分と相手のリンクモンスター同士が戦闘を行う攻撃宣言時に墓地のこのカードを除外して発動できる。その攻撃を無効にし、その相手モンスターはターン終了時まで、元々の攻撃力が０になり、自身以外のカードの効果を受けない。 
+ 
+ 
+ Faiawōru Gādian 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Cyberse 
+ Link Monster 
+ 
+ Anti-supports   
+ Link Monster 
+ 
+ Archetypes  and  series   
+ Firewall  
+ Guardian 
+ 
+ Actions  
+ Activates from your Graveyard 
+ Activates if used as Link Material 
+ Activates upon attack declaration 
+ 
+ Stat changes  
+ Changes original ATK 
+ Reduces ATK to 0 
+ 
+ Monster / Spell / Trap  categories  
+ Unaffected by other card effects 
+ 
+ Summoning  categories  
+ Special Summons itself from your Graveyard 
+ 
+ Attack  categories  
+ Negates attacks 
+ 
+ Banished  categories  
+ Banishes itself when it leaves the field 
+ Banishes itself from Graveyard for cost 
+ 
+ Miscellaneous  
+ Requires control of specific Type 
+ Only once per turn 
+ 
+ 
+ 
+   " Firewall Guardian " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+ Firewall  ファイアウォール a   m   Members 
+ Firewall Dragon Firewall Dragon Darkfluid Firewall Guardian Firewall eXceed Dragon 
+ Related 
+ Proxy Dragon Security Dragon 
+ 
+ v e 
+" Guardian " 「ガーディアン」 a   m   Members 
+ Chronomaly Tula Guardian Dark Guardian Dimension Guardian Firewall Guardian Gagaga Guardian Gate Guardian Gate Guardian Gorgonic Guardian Goyo Guardian Guardian Angel Joan Guardian Baou Guardian Dreadscythe Guardian Eatos Guardian Elma Guardian Force Guardian Formation Guardian Grarl Guardian Kay'est Guardian Shield Guardian Sphinx Guardian Tryce Infernity Guardian Metal Guardian Stronghold Guardian Trust Guardian 
+ Support 
+ Guardian Force Guardian Formation Guardian Shield Luminous Keeper Penumbral Keeper 
+ Related 
+ Backup Gardna Butterfly Dagger - Elma Celestial Sword - Eatos Dark Element Gravity Axe - Grarl Guardian Treasure Kazejin Kazejin Luminous Soldier Penumbral Soldier Lady Reaper Scythe - Dreadscythe Rod of Silence - Kay'est Sanga of the Thunder Sanga of the Thunder Shooting Star Bow - Ceal Suijin Suijin Wicked-Breaking Flamberge - Baou 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/40/FirewallGuardian-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20181219143231', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/dc/FirewallGuardian-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20181219143234', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

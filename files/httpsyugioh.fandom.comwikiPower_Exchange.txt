@@ -1,0 +1,101 @@
+Link: https://yugioh.fandom.com/wiki/Power_Exchange
+
+
+ Power Exchange 
+ 
+ Japanese:   エクスチェンジ・パワー 
+ Romaji:   Ekusuchenji Pawā 
+ Translated:  Exchange Power 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ When you would take  damage  from a  card effect : 1  face-up   monster  you  control  loses  ATK  equal to that damage, and if it does, that damage becomes 0.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  117 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ エクスチェンジ・パワー 
+ 効果ダメージが発生した時に発動できる。自分フィールド上のモンスター１体の攻撃力をその効果ダメージの数値分ダウンする事で、その効果ダメージを０にする。 
+ 
+ 
+ Ekusuchenji Pawā 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Kite Tenjo 
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ Your monsters lose ATK 
+ 
+ LP   
+ Prevents effect damage 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/92/PowerExchange-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20130818085931', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/a/a2/PowerExchange-OW.png/revision/latest/scale-to-width-down/185?cb=20150203043402', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

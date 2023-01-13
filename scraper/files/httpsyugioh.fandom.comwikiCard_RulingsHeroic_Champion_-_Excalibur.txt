@@ -1,0 +1,38 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Heroic_Champion_-_Excalibur
+
+
+ Heroic Champion - Excalibur 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Yu-Gi-Oh! D Team ZEXAL 
+ 
+ OCG Rulings 
+ Detaching  2  Xyz Materials  is a  cost . [1] 
+ The effect of " Heroic Champion - Excalibur " is an  Ignition Effect  that can only be activated during your  Main Phase . Therefore, it cannot be activated during the  Damage Step . [2] 
+ If " Shrink "  targets  a " Heroic Champion - Excalibur " whose ATK became 4000 by doubling its  original ATK , the ATK becomes 1000, half of its  original ATK  of 2000. Also, once the effect of " Shrink " is no longer applied, the ATK becomes 2000. [3] 
+ If a " Heroic Champion - Excalibur " whose  original ATK  has been doubled by its effect is equipped with " Megamorph " when your  Life Points  are lower than the opponent's, its ATK becomes 4000. Also, if the effect of " Heroic Champion - Excalibur " is activated after being equipped with " Megamorph ", its ATK becomes 4000. [4] 
+ If the effect of " Skill Drain " is applied after " Heroic Champion - Excalibur " applies its effect to double its  original ATK  until the next  End Phase , the ATK of " Heroic Champion - Excalibur " returns to its  original ATK . Afterwards, even if the effect of " Skill Drain " is no longer applied, the ATK is not doubled again. [5] 
+ References 
+ 
+ ↑   Konami OCG FAQ : Xyz Monster > Heroic Champion - Excalibur 
+ 
+ ↑   Konami OCG FAQ : Can the effect of "Heroic Champion - Excalibur" that doubles its original ATK until End Phase of the opponent's next turn be activated during the Damage Step? 
+ 
+ ↑   Konami OCG FAQ : If "Shrink" targets a "Heroic Champion - Excalibur" whose ATK became 4000 by doubling its original ATK, what does its ATK become? 
+ 
+ ↑   Konami OCG FAQ : If a "Heroic Champion - Excalibur" whose original ATK has been doubled by its effect is equipped with "Megamorph" when your Life Points are lower than the opponent's, what does its ATK become? Also, if the effect of "Heroic Champion - Excalibur" is activated after being equipped with "Megamorph", what does its ATK become? 
+ 
+ ↑   Konami OCG FAQ : If the effect of "Skill Drain" is applied after "Heroic Champion - Excalibur" applies its effect to double its original ATK until the next End Phase, does the ATK of "Heroic Champion - Excalibur" return to its original ATK? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

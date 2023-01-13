@@ -1,0 +1,348 @@
+Link: https://yugioh.fandom.com/wiki/Mystical_Cards_of_Light
+
+The  Croatian, Greek, Polish  and  Portuguese                     names given are not official.  
+ The  Portuguese                lore given is not official.  
+ 
+ 
+ 
+ Mystical Cards of Light 閃 光 の 宝 札 
+ 
+ English 
+Mystical Cards of Light 
+ French 
+ Cartes Mystiques de Lumière Check translation 
+ German 
+ Mystische Karten des Lichts Check translation 
+ Italian 
+ Carte Mistiche della Luce Check translation 
+ Korean 
+ 섬광의 패 Check translation 
+ Portuguese 
+ Cartas Místicas da Luz Check translation 
+ Spanish 
+ Cartas Místicas de la Luz Check translation 
+ Japanese (kana) 
+ せんこうのほうさつ Check translation 
+ Japanese (base) 
+ 閃光の宝札 Check translation 
+ Japanese ( rōmaji ) 
+Senkō no Hōsatsu 
+ Japanese (translated) 
+Flashing Treasure Cards 
+ Card type 
+ Spell   
+ Property 
+ Continuous   
+ Passcode 
+ 48356796 
+ Card effect types 
+ 
+ 
+ Continuous-like 
+ Continuous-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+You cannot use 1 of your  Spell & Trap Card Zones . During your  Draw Phase , if you  control  another "Mystical Cards of Light", you can  draw  2 cards instead of 1 for your  normal draw . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Vous ne pouvez pas utiliser 1 de vos Zones Cartes Magie & Piège. Durant votre Draw Phase, si vous contrôlez une autre "Cartes Mystiques de Lumière", vous pouvez piocher 2 cartes au lieu d'1 pour votre pioche normale. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Du kannst 1 deiner Zauber- & Fallenkartenzonen nicht benutzen. Während deiner Draw Phase, falls du eine andere „Mystische Karten des Lichts“ kontrollierst, kannst du für dein normales Ziehen 2 Karten anstatt 1 ziehen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Non puoi utilizzare 1 delle tue  Zone Carte Magia & Trappola . Durante la tua  Draw Phase , se  controlli  un'altra "Carte Mistiche della Luce", puoi  pescare  2 carte invece di 1 per la tua  normale pescata . Non puoi utilizzare 1 delle tue Zone Carte Magia & Trappola. Durante la tua Draw Phase, se controlli un'altra "Carte Mistiche della Luce", puoi pescare 2 carte invece di 1 per la tua normale pescata. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Você não pode usar 1 de suas Spell e Trap Card Zones. Durante a sua Draw Phase, se você controla outro "Mystical Cards of Light", você pode comprar 2 cartas em vez de 1 como sua compra normal. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ No puedes usar 1 de tus Zonas de Cartas Mágicas y de Trampa. Durante tu Draw Phase, si controlas otra "Cartas Místicas de la Luz", puedes robar 2 cartas en vez de 1 cuando robes normalmente. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードがフィールド上に存在する限り、自分の魔法＆罠カードゾーンを１ヵ所だけ使用不可能にする。このカード以外の「閃光の宝札」が自分フィールド上に表側表示で存在する場合、自分のドローフェイズ時の通常ドローでカードを２枚ドローする事ができる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드가 필드 위에 존재하는 한, 자신의 마법 & 함정 카드 존을  1곳만 사용할 수 없게 된다. 이 카드 이외의 "섬광의 패"가 자신 필드 위에 앞면 표시로 존재할 경우, 자신의 드로우 페이즈시의 일반 드로우로 카드를 2장 드로우할 수 있다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2008-05-03  
+ LODT-EN058   
+ Light of Destruction 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2008-05-13  
+ LODT-FR058   
+ Light of Destruction 
+ Lumière de la Destruction  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2008-05-13  
+ LODT-DE058   
+ Light of Destruction 
+ Light of Destruction  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2008-05-13  
+ LODT-IT058   
+ Light of Destruction 
+ Luce della Distruzione  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2008-05-13  
+ LODT-SP058   
+ Light of Destruction 
+ Luz de la Destrucción  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2008-02-23  
+ LODT-JP058   
+ Light of Destruction 
+ ＬＩＧＨＴ ＯＦ ＤＥＳＴＲＵＣＴＩＯＮ  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2008-06-02  
+ LODT-KR058   
+ Light of Destruction 
+ 파괴의 빛  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Online 
+ 
+ 
+ Pack 48 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Treasure Cards 
+ 
+ Actions  
+ Increases normal draw 
+ 
+ Miscellaneous  
+ Restricts Spell & Trap Zones 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 7631 ( ja  ( rulings )   en   fr   de   it   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Online 2005-11-04 – – – – – Unlimited 
+ 
+ 
+ 
+   " Mystical Cards of Light " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+ Treasure Cards   宝 札 Members 
+ Card of Demise Card of Sacrifice Card of Safe Return Card of Sanctity Cards for Black Feathers Cards from the Sky Cards of Consonance Cards of the Red Stone Guarded Treasure Mystical Cards of Light Precious Cards from Beyond 
+ Related 
+ Card of Fate Sacred Sword of Seven Stars Treasure Map 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a4/MysticalCardsofLight-LODT-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20080517030652', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Duel Monsters cards, TCG cards, OCG cards

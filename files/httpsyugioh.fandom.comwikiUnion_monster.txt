@@ -1,0 +1,572 @@
+Link: https://yugioh.fandom.com/wiki/Union_monster
+
+
+ 
+ Union monster
+ 
+ 
+ 
+ " Burning Beast " and " Freezing Beast " uniting, as seen in " Combination Attack ".
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ ユニオン(モンスター) [Notes 1] 
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Yunion(monsutā)
+ 
+ 
+ 
+ English
+ 
+ 
+ Union (monster) Formerly: Union (Monster)
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : (monstre) Union Formerly: (Monstre d') Union 
+ German : Union(-Monster) 
+ Italian : (mostro) Unione Formerly: (Mostro) Union 
+ Portuguese : (monstro) União Formerly: (Monstro de) Union 
+ Spanish : (Monstruo de) Unión Formerly written "Union" on the  Type / Ability  line 
+ Korean : 유니온 (몬스터)  Yunion (Monseuteo) 
+ Traditional Chinese : 聯合(怪獸)  Liánhé (Guàishòu) / Lyun4 hap6 (Gwaai3 sau3) 
+ Simplified Chinese : 联合(怪兽)  Liánhé (Guàishòu) 
+ 
+ 
+ 
+ 
+ 
+ Appears in (anime)
+ 
+ 
+ Yu-Gi-Oh! Duel Monsters 
+ Yu-Gi-Oh! GX 
+ Yu-Gi-Oh! 5D's 
+ Yu-Gi-Oh! ARC-V 
+ 
+ 
+ 
+ 
+ Lists
+ 
+ 
+ 
+ 
+ members 
+ support 
+ anti-support 
+ 
+ Union monsters  (ユニオンモンスター  Yunion Monsutā ) are  Effect Monsters  with the "Union"  ability . Each Union monster has an effect that allows it to  equip  itself to a monster as an  Equip Spell Card  or  unequip  itself to  Special Summon  itself to a  Monster Zone .
+ Union monsters were introduced in  Advent of Union .
+ Not all monsters that  can treat themselves as Equip Cards  are Union monsters; for example, " Worm Millidith ", " Dark Necrofear ", " Kiseitai ", " Armory Arm ", and " Number 58: Burner Visor " all have effects that turn these cards into  Equip Cards , but none of them are Union monsters.
+ The equip-themed " Vylon " and " Machina " archetypes as well as the  A-to-Z  series contain several Union monsters.
+ 
+ Contents 
+ 
+ 1   Effects 
+ 2   Text 
+ 3   Trivia 
+ 4   Examples 
+ 5   See also 
+ 6   Notes 
+ 
+ 
+ Effects 
+ Every Union monster has an  Ignition Effect  that allows it to either  equip  to or  unequip  from the host once per  turn  while it is on the field. If a Union monster unequips itself with its own effect, it is Special Summoned; Union monsters last printed prior to  Structure Deck: Seto Kaiba  can only be Special Summoned in  Attack Position  if Summoned this way. Additional cards, such as " Formation Union " and " Combination Attack ", can equip and unequip Union monsters, with "Formation Union" even treating the Union monster as having been equipped by its own effect. They also do not require you to Special Summon them in Attack Position after being unequipped from a monster.
+ Older Union monsters have an effect to  destroy  themselves if the monster they are equipped to would be  destroyed by battle . More recent Union monsters destroy themselves if the monster they are equipped to would be destroyed by any means. All Union monsters printed since  Structure Deck: Seto Kaiba  (including reprints) destroy themselves if the monster they are equipped to would be destroyed by battle or card effect.
+ Prior to  Structure Deck: Seto Kaiba , all Union monsters had a  condition  that meant that only one Union monster could be equipped to a monster at a time. In the  OCG , from  Structure Deck: Seto Kaiba  onward, Union monsters no longer have this restriction (including reprints).
+ 
+ Text 
+ The most recent Union card text in the  TCG  reads as follows:
+ 
+ Once per turn, you can either: Target 1 [X] monster you control; equip this card to that target, OR: Unequip this card and Special Summon it. A monster equipped with this card [...], also if the equipped monster would be destroyed by battle or card effect, destroy this card instead.
+ 
+ Trivia 
+ Newer Union monsters tend to combine with Machine-Type monsters and are Machine-Type themselves. 
+ Currently, there are no Union Monsters with more than 2000 DEF. 
+ Examples 
+ Union monster Union Tuner monster 
+ See also 
+ Card Rulings:Union monster 
+ Notes 
+ 
+ ↑   The parentheses here specify what part is not shown on the cards'  Type / Ability  line. 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/cd/CombinationAttack-TF04-JP-VG.jpg/revision/latest/scale-to-width-down/300?cb=20120502232537', 'https://static.wikia.nocookie.net/yugioh/images/5/5d/AAssaultCore-SDKS-EN-SR-1E.png/revision/latest/scale-to-width-down/172?cb=20161021200758', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/5b/TorqueTuneGear-INOV-EN-SR-1E.png/revision/latest/scale-to-width-down/169?cb=20161101160218', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Secondary types of Monster Cards

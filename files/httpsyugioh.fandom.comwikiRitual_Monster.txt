@@ -1,0 +1,580 @@
+Link: https://yugioh.fandom.com/wiki/Ritual_Monster
+
+
+ 
+ Ritual Monster
+ 
+ 
+ 
+ "Relinquished"
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 儀 式 (モンスター) [Notes 1] 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ ぎしき(モンスター)
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 儀式(モンスター)
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Gishiki (Monsutā)
+ 
+ 
+ 
+ English
+ 
+ 
+ Ritual (Monster)
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : (Monstre) Rituel 
+ German : Ritual(monster) 
+ Italian : (Mostro) Rituale 
+ Portuguese : (Monstro de) Ritual 
+ Spanish : (Monstruo de) Ritual 
+ Korean : 의식 (몬스터) (儀式 (Monster))  Uisik (Monseuteo) 
+ Traditional Chinese : 儀式(怪獸)  Yíshì (Guàishòu) / Ji4 sik1 (Gwaai3 sau3) 
+ Simplified Chinese : 仪式(怪兽)  Yíshì (Guàishòu) 
+ Arabic : وحوش الطقوس 
+ 
+ 
+ 
+ 
+ 
+ Lists
+ 
+ 
+ 
+ 
+ members 
+ support 
+ anti-support 
+ 
+ Ritual Monsters  (Japanese:  儀 式 モンスター  Gishiki Monsutā ), colored blue, are  monsters  that must be  Special Summoned  with a  Ritual Spell Card . Examples include " Relinquished ", " Magician of Black Chaos ", " Revendread Slayer ", " Nekroz of Trishula ", and " Herald of Ultimateness ".
+ Ritual Monsters are  Special Summon-only monsters . This means that they cannot be  Normal Summoned  or  Tribute Summoned  from the  hand  and cannot be Special Summoned from the  Graveyard  or while  banished  unless they were first Ritual Summoned (even with a card like " Fulfillment of the Contract ").
+ 
+ Contents 
+ 
+ 1   Ritual Summoning 
+ 2   Playing style 
+ 3   In the anime 
+ 4   Examples 
+ 5   Trivia 
+ 6   Notes 
+ 
+ 
+ Ritual Summoning 
+ Main article:  Ritual Summon 
+ In some ways, Level 5 or higher Ritual Monsters are easier to Summon than  Normal  or  Effect Monsters  of the same Level, since their Tributes do not need to be on the field. However, they do require a number of specific cards to be in the hand at once, which can be quite difficult to achieve. Some  Ritual Spell Cards  such as " Advanced Ritual Art " can ameliorate this by using monsters from the Main Deck instead, as opposed to using monsters from your hand and/or side of the field. Cards such as " Preparation of Rites " and " Manju of the Ten Thousand Hands " help the player to assemble the necessary components for a Ritual Summon, while cards such as " Ascending Soul " and " Ritual Buster " help alleviate the costs of Ritual Summoning. The " Djinn of Rituals " monsters can serve dual purposes, as they make the Ritual Spell Card's monster requirement easier to fulfill by banishing themselves from the Graveyard, as well as granting an additional effect when used for the Ritual Summon of a Ritual Monster.
+ 
+ Playing style 
+ Because Ritual Monsters are not stored in the  Extra Deck , they don't have the benefit of being immediately available to be Summoned as soon as the player has the necessary monsters. Likewise, needing specific Spell Cards for each Ritual Monster (with some exceptions) can also limit the player's ability to Ritual Summon should they be missing the Ritual Spell Card or Ritual Monster. As a result, Decks focused on Ritual Summoning tend include ways to search Ritual Monsters and Ritual Spell Cards.  
+ Ritual Summoning is supported by a number of Spell Cards, including " Ritual Foregone " which allows for the instant Summon of a Ritual Monster from the hand, though such a monster cannot attack and will be destroyed during the  End Phase . Generic search cards such as  Preparation of Rites ,  Pre-Preparation of Rites , and  Manju of the Ten Thousand Hands  are a common sight in Ritual-based strategies for their ability to easily set up a Ritual Summon, tributes notwithstanding.  
+ The Impcantations are the best support for any Ritual based Deck to date; notably " Impcantation Talismandra " and " Impcantation Chalislime ". By helping to search the Ritual Monsters and Ritual Spells, and by Special Summoning themselves to the field, they can easily meet the requirements for a Ritual Summon. Overall, they give all Ritual-reliant decks some much-needed consistency. 
+ No other Tributes are required if using " Ritual Raven " for the Summoning of a  DARK  Ritual Monster. Two of the "Gishki" archetype monsters, " Gishki Shadow " and " Gishki Vision " allow them to be the entire Tribute for any WATER monster, not just a "Gishki" Ritual Monster. 
+ Ritual-reliant Decks benefit the most from having multiple copies of Ritual Spell Cards and Ritual Monsters, as the chances of drawing both the Ritual Spell and the Ritual Monster increases greatly. Ritual Summoning can cost the player a large amount of cards in hand/field so ways to generate hand advantage and recycle Ritual Spell cards are also important.
+ With the introduction of the  New Master Rules , Ritual Monsters now have the advantage of being able to be Summoned in any  Main Monster Zone , unlike  Pendulum  and  Link Monsters .
+ 
+ In the anime 
+ Ritual Monsters have never been one of the major mechanics in the anime. A few prominent characters used Ritual Monsters in  Yu-Gi-Oh  and  Yu-Gi-Oh! GX , including  Yugi Muto ,  Joey Wheeler ,  Seto Kaiba ,  Maximillion Pegasus , and  Bastion Misawa , but they were never featured as prominently as Fusion Monsters in  GX . However, it should be noted that  Alexis Rhodes , with her  Cyber Angel  archetype, was the first character to use Ritual Summoning as her primary form of Special Summoning as opposed to an auxiliary form like the aforementioned characters.  Kite Tenjo  used a Ritual Monster in  Yu-Gi-Oh! ZEXAL , but that was the only time Ritual Monsters were featured in the entirety of  ZEXAL . Even in  Yu-Gi-Oh! ARC-V , which tried to show off all of the Summoning methods, Ritual Monsters were only used by two characters,  Alexis Rhodes  and  Aura Sentia , neither of whom were featured significantly in the anime.
+ In  Yu-Gi-Oh! VRAINS ,  Yusaku Fujiki  became the first main protagonist since Yugi to utilize Ritual Summoning.
+ 
+ Examples 
+ Non-Effect Ritual Monster Effect Ritual Monster Spirit Ritual Monster Tuner Ritual Monster Pendulum Ritual Monster 
+ Trivia 
+ Ritual Monsters have the fewest number of anti-support cards of all monster  card types , with only 12 card specifically designed to stop them: " Brutal Beast Battle ", " The Bystial Alba Los ", " Bystial Baldrake ", " Dimensional Barrier ", " Forbidden Arts of the Gishki ", " Heritage of the Light ", " Inspector Boarder ", " Invincibility Barrier ", " Ritual Sealing ", " Simul Archfiends ", " Sophia, Goddess of Rebirth ", " Steelswarm Sting ". 
+ " Blue-Eyes Chaos MAX Dragon " has the highest ATK of all Ritual Monsters. 
+ Yugi Muto  and  Yusaku Fujiki  are the only main protagonists to use Ritual Monsters. 
+ With only 109 different Monsters Ritual Monsters are, by far, the  Monster Card  with the lowest card count in the Yu-Gi-Oh! Trading Card Game. 
+ Notes 
+ 
+ ↑   The parentheses here specify what part is not shown on the cards'  Type / Ability  line. 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/99/MagicianofBlackChaos-YGLD-EN-UR-1E.png/revision/latest/scale-to-width-down/138?cb=20170814145706', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/83/SaffiraQueenofDragons-MP15-EN-UR-1E.png/revision/latest/scale-to-width-down/137?cb=20150920183223', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/bc/ShinobaronPeacock-RATE-EN-R-1E.png/revision/latest/scale-to-width-down/137?cb=20170207033518', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1b/MagikeyMechmusketBatosbuster-DAMA-EN-SR-1E.png/revision/latest/scale-to-width-down/138?cb=20210916143956', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/9b/OddEyesPendulumgraphDragon-DIFO-EN-ScR-1E.png/revision/latest/scale-to-width-down/137?cb=20220521025637', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Types of Monster Cards

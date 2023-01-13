@@ -1,0 +1,514 @@
+Link: https://yugioh.fandom.com/wiki/Qli
+
+
+ 
+ Qli 
+ クリフォート  ( Kurifōto ) 
+ 
+ 
+ 
+ 
+ The original 10 "Qli" monsters 
+ 
+ 
+ Translation 
+ Qliphort 
+ 
+ 
+ Other names 
+ 
+ French 
+ Qli 
+ 
+ 
+ German 
+ Qli 
+ 
+ 
+ Italian 
+ Qli 
+ 
+ 
+ Korean 
+ 클리포트   Keullipoteu   (romanized) Translation:  Qliphort 
+ 
+ 
+ Portuguese 
+ Qli 
+ 
+ 
+ Spanish 
+ Qli 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ The New Challengers Secrets of Eternity 2015 Mega-Tin Mega Pack Invasion: Vengeance 20th Anniversary Pack 2nd Wave Pendulum Evolution LINK VRAINS Pack 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ 
+ Booting in Replica Mode... An error has occurred when executing C:\ sophia \ zefra .exe Unknown publisher. Allow C:\ tierra \qliphort.exe ? <Y/N>...[Y] Booting in Autonomy Mode... 
+ — Flavor text of " Qliphort Scout " 
+ 
+ " Qli ", fully known as " Qliphort " (クリフォート  Kurifōto ) especially in the  OCG , is an  archetype  of  EARTH   Machine   monsters  introduced in  The New Challengers  that are designed to take advantage of the  Pendulum Summon  mechanic. This is reflected in the eye-shaped motifs visible in their appearances; these motifs are flanked by two crystals, one blue and another red, that are identical to the indicators of a  Pendulum Scale .
+ In the TCG, "Qli" monsters all contain the term "Qliphort" in their names, despite card texts using the more general "Qli" name.
+ 
+ Contents 
+ 
+ 1   Design 
+ 2   Members 
+ 3   Playing style 
+ 4   Strategy 
+ 5   Weaknesses 
+ 6   Recommended cards 
+ 7   References 
+ 
+ 
+ Design 
+ "Qliphort" is a pun on  Qliphoth  (lit. "peels", "shells" or "husks", referenced by the archetype's Spell/Trap Cards containing the kanjis for "Machine Husk" in their Japanese names), the representation of evil or impure spiritual forces in  Jewish mysticism , and "fort". The Qliphoth is documented in some texts of  Kabbalah , a set of teachings originated in  Judaism . The ten emanations of Qliphoth form the Qliphoth Tree (aka "Tree of Death"), and each of them is associated with an evil spiritual force and a demon.
+ Most currently known "Qli" monsters are somehow or somewhat related to  computing , as inferred from their names and flavor texts ("Access", " Alias ", " Archive ", " Assembler ", " Disk ", " Kernel ", " Killer ", " Shell ", " Tool "). " Genome " refers to the  genomes  of biological organisms, as they bear resemblance to how computers store their data. Each name also references a member of the Qliphoth. [1] 
+ 
+ Members 
+ 
+ 
+ #
+ 
+ Pyroxene
+ 
+ Qliphort
+ 
+ Qliphah
+ 
+ Evil Spiritual Force
+ 
+ Demon
+ 
+ Corresponding Infernoid
+ 
+ Opposing Zefra
+ 
+ 
+ English
+ 
+ Japanese
+ 
+ Romanization of the Hebrew names
+ 
+ Rōmaji
+ 
+ 
+ Rōmaji
+ 
+ Translation
+ 
+ 
+ 1
+ 
+ White
+ 
+ Skybase 
+ 
+ Kāneru 
+ 
+ Kernel
+ 
+ Bacikal
+ 
+ Bachikaru 
+ 
+ Thaumiel 
+ 
+ Satan 
+ 
+ Pirmais 
+ 
+ Zefrasaber 
+ 
+ 
+ 2
+ 
+ Gray
+ 
+ Stealth 
+ 
+ Eiriasu 
+ 
+ Alias
+ 
+ Iweleth
+ 
+ Ēīrī 
+ 
+ Chaigidel 
+ 
+ Beelzebub 
+ 
+ Antra 
+ 
+ Zefraxciton 
+ 
+ 
+ 3
+ 
+ Black
+ 
+ Shell 
+ 
+ Sheru 
+ 
+ Shell
+ 
+ Sheriruth
+ 
+ Sheridā 
+ 
+ Sathariel 
+ 
+ Lucifuges 
+ 
+ Harmadik 
+ 
+ Zefraniu 
+ 
+ 
+ 4
+ 
+ Blue
+ 
+ Disk 
+ 
+ Disuku 
+ 
+ Disk
+ 
+ Adyeshach
+ 
+ Adishesu 
+ 
+ Gamchicoth 
+ 
+ Astaroth 
+ 
+ Patrulea 
+ 
+ Zefraxi 
+ 
+ 
+ 5
+ 
+ Red
+ 
+ Cephalopod 
+ 
+ Akusesu 
+ 
+ Access
+ 
+ Akzeriyyuth
+ 
+ Akuzeryusu 
+ 
+ Golachab 
+ 
+ Asmodeus 
+ 
+ Piaty 
+ 
+ Zefrathuban 
+ 
+ 
+ 6
+ 
+ Yellow
+ 
+ Scout 
+ 
+ Tsūru 
+ 
+ Tool
+ 
+ Kaitul
+ 
+ Kaitsūru 
+ 
+ Thagirion 
+ 
+ Belphegor 
+ 
+ Sjette 
+ 
+ Zeframpilica 
+ 
+ 
+ 7
+ 
+ Green
+ 
+ Carrier 
+ 
+ Ākaibu 
+ 
+ Archive
+ 
+ Shakah
+ 
+ Tsākabu 
+ 
+ Harab Serapel 
+ 
+ Baal 
+ 
+ Seitsemas 
+ 
+ Zefrawendi 
+ 
+ 
+ 8
+ 
+ Orange
+ 
+ Helix 
+ 
+ Genomu 
+ 
+ Genome
+ 
+ Chemdah
+ 
+ Kemudā 
+ 
+ Samael 
+ 
+ Adramelech 
+ 
+ Attondel 
+ 
+ Zefraxa 
+ 
+ 
+ 9
+ 
+ Purple
+ 
+ Monolith 
+ 
+ Asenbura 
+ 
+ Assembler
+ 
+ Aiyatsbus
+ 
+ Ayīatsubusu 
+ 
+ Gamaliel 
+ 
+ Lilith 
+ 
+ Devyaty 
+ 
+ Zefranaga 
+ 
+ 
+ 10
+ 
+ Multi-colors
+ 
+ Towers 
+ 
+ Kirā 
+ 
+ Killer
+ 
+ Qimranut
+ 
+ Kimuranūto 
+ 
+ Lilith 
+ 
+ Nahema 
+ 
+ Onuncu 
+ 
+ Zefracore 
+ 
+ Playing style 
+ "Qlis" focus on Pendulum Summoning monsters to fuel  Tribute Summons , with effects that activate when Tributed or when Summoned by Tributing members of the archetype.
+ All "Qli"  Pendulum Monsters  have 2400/2800 ATK and 1000 DEF (except "Scout", who has 1000 ATK and 2800 DEF), like the " Monarchs ", and possess the following effects:
+ 
+ Pendulum Effect :  You cannot  Special Summon  monsters, except "Qli" monsters. This effect cannot be negated. 
+ Monster Effect:  You can  Normal Summon  this card without Tributing. If this card is Normal Summoned without Tributing, or is Special Summoned, its Level becomes 4 and its original ATK becomes 1800. If this card is Normal Summoned/Set, it is unaffected by activated effects from any monster whose original Level/Rank is lower than this card's current Level. 
+ In addition, the "Qli" Effect Pendulum Monsters can manipulate the ATK of monsters on the field; those with a  Pendulum Scale  of 1 boost the ATK of your "Qli" monsters by 300, while those with a Scale of 9 reduce your opponent's monsters' ATK by 300.
+ Finally, each "Qli" Pendulum Monster is a unique combination of a Level from 5 to 8, and a Scale of 1 or 9, with the Level 5 ones being Normal Monsters with Pendulum Effects that provide card advantage for its owner, the Level 6 ones activating effects whenever they are Tributed and serving as spot removal, and the Level 7 and 8 triggering their effects when they are Tribute Summoned. The Level 9 and 10 are not Pendulum Monsters and each of them require 3 "Qli" monsters to be tributed for their Normal Summon.
+ 
+ 
+ 
+ 
+ 
+ Level 5
+ 
+ Level 6
+ 
+ Level 7
+ 
+ Level 8
+ 
+ Level 9
+ 
+ Level 10
+ 
+ 
+ Scale 1
+ 
+ Monolith
+ 
+ Carrier
+ 
+ Disk
+ 
+ Stealth
+ 
+ —
+ 
+ —
+ 
+ 
+ Scale 9
+ 
+ Scout
+ 
+ Helix
+ 
+ Cephalopod
+ 
+ Shell
+ 
+ —
+ 
+ —
+ 
+ 
+ No Scale
+ 
+ —
+ 
+ —
+ 
+ —
+ 
+ —
+ 
+ Skybase
+ 
+ Towers
+ 
+ 
+ Strategy 
+ The main strategy is to use " Qliphort Scout " to gain card advantage, allowing Pendulum Summoning a number of "Qli" monsters. The effects of " Qliphort Carrier " and " Qliphort Helix " trigger when being Tributed, so by using  them to Tribute Summon " Qliphort Disk ", " Qliphort Shell " or the aces of the archetype: " Apoqliphort Towers " and " Apoqliphort Skybase ", which resist card effects of any kind (with the exception of  Continuous Effects ), can generate further Field Advantage.  
+ "Qli" Decks support Tribute Summon, therefore they can put to use the "Monarch" series, which, depending on which Monarchs are used, can cripple the opponent in various ways. The  Egyptian God Cards  can also prove useful in this deck under certain situations, due to the tribute fodder provided. However, a Normal Summon can only be conducted once per turn. Hence to avoid potential Dead draws, "Monarch" monsters are rarely seen in decks for competitive plays. " Performapal Trampolynx " is a very good support for "Qliphort Scout". Its ability allows an extra search per turn and access to Special Summon non-"Qli" monsters like " Abyss Dweller " to grant extra powers against the opponent.  
+ Spell Cards such as " Summoner's Art ", " Saqlifice " and " Pot of Duality " contribute to searching the key card "Qliphort Scout". " Odd-Eyes Pendulum Dragon " is capable of searching either "Qliphort Scout" or "Performapal Trampolynx" with a drawback of one-turn delay. The defense line mainly consists Trap Cards that either wipe off opponents' monsters or prevent them from expanding. " Skill Drain " can dramatically increase the Damage output from "Qli" monsters and lockdown opponent's field monster effects. " Laser Qlip " is also worth including, as not only does it allow you to Normal Summon another "Qli" monster in addition to your regular Normal Summon each turn, it also prevents your opponent from negating the Normal Summons of your "Qli" monsters. Other powerful Trap Cards like " Vanity's Emptiness " and " Torrential Tribute " are suggested as well since "Qli" monsters have a fairly high ATK with the support of "Saqlifice" and returns to the Extra Deck when sent to the Graveyard, thus can be brought back to the field by Pendulum Summoning.
+ A useful two card combination in any Deck that can destroy its own Pendulum Scales with effects like " Sky Iris ", " Performapal Pendulum Sorcerer " or any of the " Metalfoes " Monster Scale-effects after using the search effect " Qliphort Scout " for " Qliphort Monolith " for defensive Wall or a  Rank  5  Xyz Monster , usually " Cyber Dragon Nova " into " Cyber Dragon Infinity ". Especially if running " Summoner's Art ".
+ 
+ Weaknesses 
+ Due to the fact that "Qli" Decks rely heavily on "Qliphort Scout", a simple floodgate is to use cards with effects that can remove opponent's face-up Spell cards, such as " Mystical Space Typhoon ", " Spell Shattering Arrow ", " Fairy Wind ", and in worse case scenario, " Cosmic Cyclone ". These cards can also counter opponent's "Skill Drain" or "Vanity's Emptiness", which are common and can be fatal to certain decks if not dealt with.  
+ Cards like " Prohibition ", " Thunder King Rai-Oh ", " Cursed Seal of the Forbidden Spell ",  and " Mask of Restrict " that prohibits either the use of "Qliphort Scout" or Tribute Summon are effective as well, but they become futile once the opponent has already set up a field.  
+ " Dimensional Barrier " can prove problematic if it's activated at the correct time, can prevent you from Pendulum Summoning that turn or prevent you from using "Qli" monster effects for the turn, but it's no problem to your "Qli" Pendulum Monsters' ATK.   
+ When playing a "Qli" Deck, be aware of threats such as "Mystical Space Typhoon" and " Bottomless Trap Hole ". It is suggested that before extending, clear the opponent's backrow as many as possible by using cards like " Night Beam ", which counters free-chain cards such as "Mystical Space Typhoon" and " Sinister Shadow Games ". You could also use " Localized Trunade " to temporarily clear your opponent's face-down Spells and Traps." Qlimate Change " (can be searched by "Qliphort Scout") returns up to 3 face-up "Qli" monsters in the Extra Deck to hand and can be fairly effective when the opponent is focusing on destroying cards in Pendulum Zones. 
+ While "Towers" and "Skybase" are the trump cards of this deck, owing to their immunity to almost all card effects, they are still vulnerable to Continuous Effects. Monsters such as " Destiny HERO - Plasma " can shut these cards down completely, as it not only negates opposing Monster Effects, it can also equip an opponent's monster to itself, providing it with an ample ATK boost. Link monsters can also bypass the immunity of the "Apoqliphort" monsters, such as " Firewall Dragon " by simply returning them to the hand. It is also interesting to note that usual Machine counters like " Chimeratech Fortress Dragon ", while ineffective against most of the deck, can still be used against the "Apoqliphort" monsters because they are not Pendulum Monsters.
+ " Crimson Blader " is also a major threat, because when it destroys a monster, the opponent cannot Normal or Special Summon Level 5 or higher monsters that turn. 
+ With Qliphort Scout Limited, the Deck has become very fragile-any effect removing Scout can bring the Deck screeching to a halt. 
+ As per  New Master Rules , this deck suffers from losing its Tribute fodder provided by  Pendulum Summoning  as only one Tribute (two with " Qliphort Genius ") can be recovered from the Extra Deck at a time, and activating cards in the Pendulum Zones limits the use of Spell & Trap Zones. This can be mitigated somewhat with "Qlimate Change". Also, although Apoqliphort Towers and  Saqlifice  are now off the banlist entirely, this is mitigated by the fact that Link Monsters do not have Levels, and thus powerful (and widely-played) monsters like  Borreload Dragon  and  Knightmare Unicorn  dispense with Towers and, by extension, Skybase easily.
+ 
+ Recommended cards 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ Apoqliphort Skybase 
+ Apoqliphort Towers 
+ Beast King Barbaros 
+ Frontline Observer 
+ Pendulum Monsters 
+ Qliphort Carrier 
+ Qliphort Cephalopod 
+ Qliphort Disk 
+ Qliphort Helix 
+ Qliphort Monolith 
+ Qliphort Scout 
+ Qliphort Shell 
+ Qliphort Stealth 
+ Odd-Eyes Pendulum Dragon 
+ Performapal Trampolynx Extra Deck   
+ Link Monsters 
+ Qliphort Genius 
+ Missus Radiant Spells   &  Traps   
+ Spells 
+ Laser Qlip 
+ Saqlifice 
+ Domain of the True Monarchs 
+ Enemy Controller 
+ Forbidden Chalice 
+ Pot of Riches 
+ Limiter Removal 
+ The Monarchs Stormforth 
+ Summoner's Art 
+ Swords at Dawn 
+ Terraforming 
+ Wavering Eyes 
+ Traps 
+ Qlife's End 
+ Qlimate Change 
+ Qlipper Launch 
+ Re-qliate 
+ Escalation of the Monarchs 
+ Lose 1 Turn 
+ Madolche Nights 
+ Skill Drain 
+ Soul Drain 
+ Soul Transition 
+ References 
+ 
+ 
+ ↑   "Names and Etymology EP1: Qliphoth and Qliphort" . YGOrganization.com. September 4, 2014 .  http://www.ygorganization.com/jewbotpower/ . 
+ 
+ 
+ v e 
+ Qli  cards 
+   
+" Qli " 「クリフォート」 Members 
+ Apoqliphort Skybase Apoqliphort Towers Qliphort Carrier Qliphort Cephalopod Qliphort Disk Qliphort Genius Qliphort Helix Qliphort Monolith Qliphort Scout Qliphort Shell Qliphort Stealth 
+ Laser Qlip Qlife's End Qlimate Change Qlipper Launch Re-qliate Saqlifice 
+ Support 
+ Apoqliphort Skybase Apoqliphort Towers Qliphort Carrier Qliphort Cephalopod Qliphort Disk Qliphort Helix Qliphort Monolith Qliphort Scout Qliphort Shell Qliphort Stealth 
+ Laser Qlip Qlife's End Qlimate Change Qlipper Launch Re-qliate Saqlifice 
+ Related 
+ El Shaddoll Construct El Shaddoll Shekhinaga Nehshaddoll Genius Tierra, Source of Destruction 
+ 
+   
+" Apoqliphort " 「アポクリフォート」 Members 
+ Apoqliphort Skybase Apoqliphort Towers 
+ Qlimate Change 
+ Support 
+ Qlife's End 
+ Related 
+ El Shaddoll Shekhinaga Tierra, Source of Destruction 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/9e/DuelArena-QliphortBackground.png/revision/latest/scale-to-width-down/350?cb=20150125164050']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Pendulum Monster(s), Archetypes with Link Monster(s)

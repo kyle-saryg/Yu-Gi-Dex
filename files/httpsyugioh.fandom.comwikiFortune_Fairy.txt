@@ -1,0 +1,845 @@
+Link: https://yugioh.fandom.com/wiki/Fortune_Fairy
+
+
+ 
+ Fortune Fairy 
+ 占い魔女 「 うらないまじょ 」  ( Uranai Majo ) 
+ 
+ 
+ 
+ 
+ Clockwise from upper left: " Hikari ", " Swee ", " Hu " and " En " in the artwork of " Miracle Stone " 
+ 
+ 
+ Translation 
+ Fortune Telling Witch 
+ 
+ 
+ Other names 
+ 
+ French 
+ Sorcière de la Bonne Aventure 
+ 
+ 
+ German 
+ Schicksalsfee (TCG), Hellsichtige Hexe (anime) 
+ 
+ 
+ Italian 
+ Strega Indovina 
+ 
+ 
+ Portuguese 
+ Fada Fortuna 
+ 
+ 
+ Spanish 
+ Hada de la Fortuna 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Battles of Legend: Hero's Revenge 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Collection Pack: Duelist of Revolution Version 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! 5D's 
+ 
+ 
+ 
+ 
+ Video game appearances 
+ 
+ 
+ Yu-Gi-Oh! 5D's Tag Force 4 Yu-Gi-Oh! 5D's Tag Force 5 Yu-Gi-Oh! 5D's Tag Force 6 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Fortune Fairy ", known as " Fortune Telling Witch " ( 占 い 魔 女   Uranai Majo ) in the Japanese version, is an  archetype  consisting of six  monsters , each named and colored according to their own  Attribute .
+ In the  Yu-Gi-Oh 5D's  anime, they are all Normal Monsters with the flavor text of each "Fortune Fairy" telling the fortune of the person who draws it, along with a listing of a lucky number, color and item. The lucky color and number correspond to that monsters' Attribute and Level. The fortune may be based on the luck of you having it in your hand, e.g. it would be unlucky to have a level 6 Normal Monster with 0 ATK and DEF. The lowest Level Fortune Fairy, " Hikari ", is the best prediction ("Super Happy") and the predictions are getting less optimistic as they go up in Level, with the Level 6 " Chee " being "Absolutely Awful". (Indeed, in story, Chee is the card Carly draws right before her duel with  Sayer , which ends in her death and transformation to a  Dark Signer .) [1]  After Carly became a  Dark Signer , her cards evolved into " Fortune Ladies ", which are older versions of the "Fortune Fairies" she had. [2] 
+ The "Fortune Fairies" were used by  Carly Carmine  in  Yu-Gi-Oh! 5D's . Carly's use of these monsters partially mimicked  Sartorius 's use of his " Arcana Force " monsters as tarot cards. The "Fortune Fairy" archetype is also playable in  Yu-Gi-Oh! 5D's Tag Force 4 - 6  video games. In addition, starting in the English-version  Duel Terminal 1 , the "Fortune Fairies" appear in the " Card Only Get " mode.
+ In the OCG/TCG, the "Fortune Fairies" are redesigned as  Spellcaster   Effect Monsters  but still with 0  ATK  and  DEF . Similarly to the anime version, they also each have a different  Level , ranging from 1 to 6. As a flavor note, since the archetype now comes as Effect Monsters, nothing such 'bad luck' is told upon the player who draws high-leveled Fortune Fairies, since they could be immediately Special Summoned whenever they are drawn.
+ 
+ Contents 
+ 
+ 1   Playing style 
+ 2   Members 
+ 3   Weakness 
+ 4   Recommended Cards 
+ 5   References 
+ 
+ 
+ Playing style 
+ The playing style of the "Fortune Fairies" revolves around supporting Spellcaster monsters (notably their closely related archetype  Fortune Lady ). They all are share the same effect upon being drawn - either for your normal draw during the Draw Phase or by a card effect - that is to be able to be Special Summoned immediately. Furthermore, they would trigger unique effects if they are Special Summoned from the hand.
+ The "Fortune Fairies" support the Spellcaster Decks in general; however, the best deck for them to aid is indeed the "Fortune Ladies" since their effects would fittingly work together. For example, " Hikari " could trade " Fortune Lady Light " you control for another "Light" or " Fortune Lady Past " from the deck, and this guarantees the effect of "Light" not to miss the timing to further bring out another new Lady. " Fortune Fairy Swee " could work in similar scenario by banishing "Lady Light" you already control. " Fortune Fairy Hu " lets you add a "Fortune Fairy" or "Fortune Lady" that was banished by the effect of "Fortune Lady Past" or " Fortune Lady Every " to your hand. " Fortune Fairy Ann ", on the other hand, could immediately banish a "Fortune Lady" from your deck so that you could Special Summon them later by " Fortune Lady Rewind " or use them as a resource for " Fortune's Future ". Meanwhile, the effect of " Fortune Fairy Chee " increases your chance to draw a new "Fortune Fairy" so that you could Special Summon it afterwards.
+ "Fortune Fairies" could be rapidly Special Summoned by numerous amount of drawing aids in the deck such as " Fortune Lady Water ", "Fortune's Future", and " Spellbook of Knowledge ". Once the "Fortune Fairies" are summoned in swarm, they could serve as targets to banish via "Fortune Lady Past", to set up the correct number of monster level you need to  Synchro Summon  a Spellcaster afterwards.
+ In the first episode that "Fortune Fairy" was used in a Duel, it appears that their playing style focuses on summoning as many as possible and as fast as possible, using cards such as " Lucky Loan " and " Unacceptable Result ", then using " Miracle Stone " to increase their ATK. When the effects of those cards in the OCG are revealed, the downside effect of "Miracle Stone" that prohibits the "Fortune Fairy" to have 'summoning sickness' is removed; instead, it gives you more advantage to draw further cards. Also, some of the effects of those cards are now functioning to support Spellcaster monsters in general, but with a little correspondence to "Fortune Fairy" monsters.
+ 
+ Members 
+ 
+ 
+ Fortune Fairy 
+ Associated Fortune Lady 
+ Effect after being Special Summoned from the hand 
+ Origin
+ 
+ 
+ Ann 
+ Dark 
+ You can banish 1 Spellcaster monster from your Deck. 
+ Ankoku ( 暗 黒 )
+ 
+ 
+ Chee 
+ Earth 
+ You can have each player draw 1 card. 
+ Chi ( 地 )
+ 
+ 
+ En 
+ Fire 
+ You can target 1 Set card your opponent controls; destroy it. 
+ En ( 炎 )
+ 
+ 
+ Hikari 
+ Light 
+ You can target 1 monster you control; send it to the GY, and if you do, Special Summon 1 Level 1 Spellcaster monster from your Deck. 
+ Hikari ( 光 )
+ 
+ 
+ Hu 
+ Wind 
+ You can target 1 of your banished Spellcaster monsters; add it to your hand. 
+ Fuu ( 風 )
+ 
+ 
+ Swee 
+ Water 
+ You can target 1 other face-up monster; banish it until the Standby Phase of your next turn. 
+ Sui ( 水 )
+ 
+ Weakness 
+Despite being packed with immediate Special Summon upon being drawn by any means, the fact that their effects could only be triggered if they are Special Summoned from the hand is one of their weakness. Also, the general weakness of this archetype is obviously cards that prevents and/or negating Special Summons. 
+ Recommended Cards 
+ 
+ Deck Monsters   
+ Monsters 
+ Fortune Fairy Ann 
+ Fortune Fairy Chee 
+ Fortune Fairy En 
+ Fortune Fairy Hikari 
+ Fortune Fairy Hu 
+ Fortune Fairy Swee 
+ Amores of Prophecy 
+ Dimension Conjurer 
+ Magical Exemplar 
+ Pendulum Monsters 
+ Dark Doriado Extra Deck   
+ Link Monsters 
+ Crowley, the First Propheseer 
+ Day-Breaker the Shining Magical Warrior 
+ Selene, Queen of the Master Magicians Spells   &  Traps   
+ Spells 
+ Lucky Loan 
+ Miracle Stone 
+ Unacceptable Result 
+ Card Trader 
+ Hand Destruction 
+ Magical Dimension 
+ Pot of Avarice 
+ Spellbook of Fate 
+ Spellbook of Life 
+ Spellbook of the Master 
+ The Grand Spellbook Tower 
+ Traps 
+ Triggered Summon 
+ References 
+ 
+ ↑   Yu-Gi-Oh! 5D's  episode 37: " Digging Deeper, Part 1 " 
+ 
+ ↑   Yu-Gi-Oh! 5D's  episode 38: " Digging Deeper, Part 2 " 
+ 
+ 
+   
+" Fortune Fairy " 「 占 い 魔 女 」 Members 
+ Fortune Fairy Ann Fortune Fairy Chee Fortune Fairy En Fortune Fairy Hikari Fortune Fairy Hu Fortune Fairy Swee 
+ Support 
+ Lucky Loan Miracle Stone Unacceptable Result 
+ Related 
+ Solitaire Magician 
+ 
+ v e 
+" Fortune Fairy " 「 占 い 魔 女 」 a   Members 
+ Ann Chee En Hikari Hu Swee 
+ Support 
+ Luck Loan Miracle Stone Unacceptable Result 
+ 
+ 
+ 
+ Six Attributes 
+ 
+ This box:  view edit 
+ DARK    
+ EARTH   
+ FIRE    
+ LIGHT   
+ WATER   
+ WIND    
+ 
+ 
+ /Assault Modes 
+ Red Dragon Archfiend  /  Colossal Fighter 
+ Hyper Psychic Blaster  /  T.G. Halberd Cannon 
+ Doomkaiser Dragon 
+ Arcanite Magician 
+ n/a 
+ Stardust Dragon 
+ 
+ 
+ @Ignisters    Base forms   Evolved forms 
+ Doyon     Dark Templar 
+ Doshin     Earth Golem 
+ Achichi     Fire Phoenix 
+ Pikari     Light Dragon 
+ Hiyari     Water Leviathan 
+ Bururu     Wind Pegasus 
+ 
+ 
+ Alchemy Beasts    Summoners     (Normal Spell Cards) 
+ Moonface the Silver     Silver Key 
+ Leon the Lead     Lead Compass 
+ Salamandra the Steel     Steel Lamp 
+ Ouroboros the Bronze     Bronze Scale 
+ Ekenas the Mercury     Mercury Hourglass 
+ Aretos the Tin     Tin Spell Circle 
+ 
+ 
+ Aliens 
+ Overlord  /  Mother  /  Psychic 
+ Shocktrooper  /  Infiltrator  /  Warrior 
+ Mars  /  Telepath 
+ Ammonite  /  Dog  /  Grey  /  Kid  /  Shocktrooper M-Frame 
+ Hunter  /  Hypno 
+ Skull 
+ 
+ 
+ Altergeists 
+ Primebanshee  /  Multifaker  /  Kidolga  /  Fifinellag  /  Dragvirion  /  Memorygant  /  Pookuery 
+ Kunquery 
+ Hexstia 
+ Marionetter 
+ Meluseek  /  Fijialert 
+ Silquitous  /  Pixiel 
+ 
+ 
+ Aromages 
+ Marjoram 
+ Cananga 
+ Bergamot 
+ Jasmine 
+ Rosemary 
+ Laurel 
+ 
+ 
+ Attribute Boosters   (500 ATK▲/400 DEF▼)    Link Monsters    (500 ATK▲/500 DEF▲)    Field Spells    (500 ATK▲/400 DEF▼)    Equip Spells    (400 ATK▲/200 DEF▼) 
+ Witch's Apprentice     Wee Witch's Apprentice     Mystic Plasma Zone     Sword of Dark Destruction 
+ Milus Radiant     Missus Radiant     Gaia Power     Invigoration 
+ Little Chimera     Duelittle Chimera     Molten Destruction     Burning Spear 
+ Hoshiningen     Hip Hoshiningen     Luminous Spark     Elf's Light 
+ Star Boy     Mistar Boy     Umiiruka     Steel Shell 
+ Bladefly     Greatfly     Rising Air Current     Gust Fan 
+ 
+ 
+ Attribute Knights 
+ Armageddon 
+ Dust 
+ Brushfire 
+ Dawn 
+ Shore 
+ Altitude 
+ 
+ 
+ Attribute Reptiles 
+ Umbral Soul 
+ Raging Earth 
+ Firestorm Prominence 
+ Radiant Spirit 
+ Silent Abyss 
+ Destruction Cyclone 
+ 
+ 
+ Attribute Sorcerers    (4/1500/0/Spellcasters) 
+ Dark 
+ n/a 
+ Fire 
+ Light 
+ Aqua 
+ n/a 
+ 
+ 
+ Attribute Spirits 
+ Luna the Dark Spirit 
+ The Rock Spirit 
+ Spirit of Flames 
+ Diana the Light Spirit 
+ Aqua Spirit 
+ Garuda the Wind Spirit 
+ 
+ 
+ Attribute Summoners 
+ Mystic Tomato 
+ Giant Rat 
+ UFO Turtle 
+ Shining Angel 
+ Mother Grizzly 
+ Flying Kamakiri #1 
+ 
+ 
+ B.E.S. 
+ Big Core 
+ Covered Core  /  Blaster Cannon Core 
+ Big Core MK-2 
+ Big Core MK-3 
+ Crystal Core 
+ Tetran 
+ 
+ 
+ Barrier Statues 
+ Abyss 
+ Drought 
+ Inferno 
+ Heavens 
+ Torrent 
+ Stormwinds 
+ 
+ 
+ Beast Gear World 
+ Catapult Devilkong 
+ Motor Wolf  /  Trike Fox  /  King Convoy Ligeon 
+ Buggy Dog 
+ n/a 
+ n/a 
+ Gyro Jackal 
+ 
+ 
+ Charmers     Familiar-Possessed     Cataclysmic Charmers     Spiritual Arts    Familiar   Possessed Familiars 
+ Dharc     Dharc     n/a     Greed     Meda Bat     n/a 
+ Aussa     Aussa     Avalanching Aussa     Kurogane     Marmot     Nefarious 
+ Hiita     Hiita     Blazing Hiita     Kurenai     Fox Fire     Inari Fire 
+ Lyna     Lyna     n/a     Hijiri     Happy Lover     n/a 
+ Eria     Eria     Raging Eria     Aoi     Gigobyte     Jigabyte 
+ Wynn     Wynn     Storming Wynn     Miyabi     Petit Dragon     Ranryu 
+ 
+ 
+ Chrysalis     Neo-Spacians    Evolved forms   Contact Fusions   Evolved forms   Advanced Contact Fusions 
+ Pantail     Dark Panther     n/a     Dark Neos     n/a     Chaos Neos 
+ Mole     Grand Mole     n/a     Grand Neos     n/a     Nebula Neos 
+ Larva     Flare Scarab     n/a     Flare Neos     n/a     Magma Neos 
+ Pinny     Glow Moss     Twinkle Moss     Glow Neos     n/a     Cosmo Neos 
+ Dolphin     Aqua Dolphin     Marine Dolphin     Aqua Neos     Marine Neos     n/a 
+ Chicky     Air Hummingbird     n/a     Air Neos     n/a     Storm Neos 
+ 
+ 
+ Code Talkers      (Link-3) 
+ Decode    ( Extended ) 
+ Transcode 
+ Powercode 
+ Encode 
+ Shootingcode 
+ Excode 
+ 
+ 
+ Color Ninjas    Dragon Ninjas 
+ Strike     Black 
+ Senior Silver     n/a 
+ n/a     Red 
+ White     White 
+ n/a     Blue 
+ Yellow     Yellow 
+ 
+ 
+ Cubic 
+ Vijam  /  Crimson Nova  ( Trinity ) 
+ Dark Garnex 
+ Blade Garoodia 
+ Duza  /  Buster Gundil  /  Indiora Doom Volt 
+ n/a 
+ Geira Guile 
+ 
+ 
+ CXyz 
+ Dark Fairy Cheer Girl  /  Mechquipped Djinn Angeneral 
+ Comics Hero Legend Arthur  /  Battleship Cherry Blossom  /  Zubaba Saikyo General 
+ Coach Lord Ultimatrainer 
+ Simon the Great Moral Leader  /  Barian Hope 
+ N.As.Ch. Knight 
+ Skypalace Babylon 
+ 
+ 
+ Dice Roll  Archfiends 
+ Terrorking  /  Masterking 
+ Vilepawn 
+ Infernalqueen 
+ Desrook 
+ Darkbishop 
+ Shadowknight 
+ 
+ 
+ Double Tributers     Effigies 
+ Double Coston     Dark 
+ The Trojan Horse     Earth 
+ Flame Ruler     n/a 
+ Kaiser Sea Horse     Light 
+ Unshaven Angler     n/a 
+ Whirlwind Prodigy     Wind 
+ 
+ 
+ Dragonmaids    Human forms   Dragon forms 
+ Chamber     n/a 
+ Nurse     Ernus 
+ Kitchen     Tinkhec 
+ House     Sheou 
+ Laundry     Nudyarl 
+ Parlor     Lorpar 
+ 
+ 
+ Dustons     (1/0/1000/Fiends) 
+ Star 
+ Yellow 
+ Red 
+ House  /  White 
+ Blue 
+ Green 
+ 
+ 
+ Elemental HERO    Fusion Monsters    (1 "HERO" + 1 matching Attribute) 
+ Escuridao 
+ Gaia 
+ Nova Master 
+ The Shining 
+ Absolute Zero 
+ Great Tornado 
+ 
+ 
+ Elemental Lords     Elementsabers 
+ Umbramirage     Molehu 
+ Grandsoil     Aina 
+ Pyrorex     Malo 
+ Phosphorage     Lapauila  ( Mana ) 
+ Moulinglacia     Nalu 
+ Windrose     Makani 
+ 
+ 
+ Empowered Warriors     Summoners 
+ Dragonox     n/a 
+ Terratiger     White Tiger 
+ Arnis     Red Sparrow 
+ Dragodies     Golden Dragon 
+ Hydrortoise      Green Turtle 
+ Ventdra     Blue Dragon 
+ 
+ 
+ Endymion 
+ Master Magician  /  Mighty Master of Magic 
+ Magister 
+ Rogue 
+ Crusader  /  Reflection 
+ Magistus of Mastery 
+ Servant 
+ 
+ 
+ Entities 
+ Azathot 
+ Nyarla 
+ Cthugua 
+ N'tss 
+ Norden 
+ Hastorr 
+ 
+ 
+ Fortune Fairies     Fortune Ladies 
+ Ann     Dark  /  Past 
+ Chee     Earth 
+ En     Fire 
+ Hikari     Light  /  Every 
+ Swee     Water 
+ Hu     Wind 
+ 
+ 
+ Fur Hire 
+ Seal  /  Folgo 
+ Beat  /  Dyna 
+ Bravo 
+ Rafale 
+ Helmer  /  Wiz 
+ Donpa  /  Recon  /  Sagitta 
+ 
+ 
+ Generaiders 
+ Hela  /  Harr 
+ Dovelgus  /  Jormungandr 
+ Naglfar  /  Loptr 
+ Mardel  /  Utgarda 
+ Nidhogg 
+ Frodi 
+ 
+ 
+ Gizmek 
+ Orochi 
+ Uka 
+ Kaku 
+ Yata 
+ Okami 
+ Mikoto 
+ 
+ 
+ Guardians    Weapons     (Equip Spell Cards) 
+ Baou  /  Dreadscythe     Wicked-Breaking Flamberge  /  Reaper Scythe 
+ Grarl     Gravity Axe 
+ Ceal     Shooting Star Bow 
+ Tryce     Twin Swords of Flashing Light 
+ Kay'est     Rod of Silence 
+ Elma  /  Eatos     Buttefly Dagger  /  Celestial Sword 
+ 
+ 
+ Invoked     (1 " Aleister the Invoker " + 1 matching Attribute) 
+ Caliga 
+ Magellanica 
+ Purgatrio 
+ Mechaba 
+ Cocytus 
+ Raidjin 
+ 
+ 
+ Kaiju 
+ Radian 
+ Kumongous 
+ Dogoran 
+ Jizukiru  /  Mecha-Dogoran  /  Thunder King  /  Mecha-Thunder-King 
+ Gameciel 
+ Gadarla 
+ 
+ 
+ Knightmare 
+ Iblee  /  Unicorn  /  Orcust  /  Idlee 
+ Cerberus 
+ Phoenix 
+ Gryphon 
+ Mermaid 
+ Goblin 
+ 
+ 
+ Legendary Planets 
+ Sun  /  Jupiter  /  Saturn  /  Pluto 
+ Terra Firma 
+ Mars 
+ Venus  /  Uranus 
+ Mercury  /  Neptune 
+ n/a 
+ 
+ 
+ Masked HEROes 
+ Dark Law  /  Anki 
+ Dian 
+ Goka 
+ Koga 
+ Vapor  /  Acid 
+ Divine Wind  /  Blast 
+ 
+ 
+ Magician Girls 
+ ( Toon )    Dark    ( Dragon Knight ) 
+ Berry 
+ Apple 
+ Lemon 
+ Chocolate 
+ Kiwi 
+ 
+ 
+ Magikey 
+ Clavkiys  /  Batosbuster  /  Ansyalabolas 
+ Garesglasser 
+ Transfurlmine 
+ Mafteal 
+ Vepartu 
+ Andrabime 
+ 
+ 
+ Magistus 
+ Grimoire Crowley 
+ Goddess Ninaruru 
+ Flame Zoroa  /  Dragon Vafram 
+ Verre Cendrillon  /  Maiden Artemis 
+ Master Endymion 
+ Saint Aiwass 
+ 
+ 
+ Mirror Force 
+ Dark 
+ Quaking 
+ Blazing 
+ Radiant 
+ Drowning 
+ Storming 
+ 
+ 
+ Monarchs    Mega Monarchs   Related  "Monarch"  Spell/Trap Cards    Vassals 
+ Caius  /  Erebus     Caius the Mega     Tenacity  /  The First     Lucius  /  Eidos 
+ Granmarg     Granmarg the Mega     Return     Landrobe  /  Samsara Kaiser 
+ Thestalos     Thestalos the Mega     Erupt     Berlineth 
+ Zaborg  /  Ehther     Zaborg the Mega     Strike  /  The Prime     Mithra  /  Edea 
+ Mobius     Mobius the Mega     Awaken     Escher 
+ Raiza     Raiza the Mega     Stormforth     Garum 
+ 
+ 
+ Musical  Djinns 
+ Maestroke 
+ Temtempo 
+ n/a 
+ Melomelody 
+ Humhumming 
+ Muzurhythm 
+ 
+ 
+ Mythyrian Numbers 
+ Djinn Buster 
+ Lion Heart  /  Ronin Raccoon Sandayu 
+ n/a 
+ Sky Pegasus  /  Dragluon 
+ Abyss Splash  /  Crystalzero 
+ n/a 
+ 
+ 
+ Nemeses 
+ Protos 
+ Keystone 
+ Flag 
+ Eschatos 
+ Umbrella 
+ Corridor 
+ 
+ 
+ Number 10X     Number C10X 
+ n/a     Umbral Horror Masquerade 
+ Giant Hand     Giant Red Hand 
+ Battlin' Boxer Star Cestus     Battlin' Boxer Comet Cestus 
+ Star Seraph Sentry  /  Masquerade  /  Galaxy-Eyes Tachyon Dragon     Archfiend Seraph  /  Neo Galaxy-Eyes Tachyon Dragon 
+ Silent Honor ARK  /  Ragnazero     Silent Honor DARK  /  Ragnafinity 
+ n/a     n/a 
+ 
+ 
+ Odd-Eyes Dragons 
+ Odd-Eyes  /  Pendulum  /  Rebellion  ( Overlord ) /  Persona  /  Phantom  /  Mirage  /  Performapal Metal Claw  /  Raging  /  Supreme King  /  Wing  /  Venom  /  Arc Pendulum  /  Advance  /  Wizard 
+ Gravity 
+ Meteorburst 
+ Saber  /  Lancer  /  Revolution  /  Pendulumgraph 
+ Absolute 
+ Vortex 
+ 
+ 
+ Pendulum  Magicians 
+ Stargazer  /  Timegazer  /  Xiangke  /  Timebreaker  /  Acrobatic  /  Dragoncaller  /  Harmonizing  /  Double Iris  /  Black Fang  /  Purple Poison  /  Performapal Celestial 
+ Dragonpulse 
+ Nobledragon 
+ Wisdom-Eye  /  Xiangsheng  /  Dharma-Eye  /  Performapal Five-Rainbow 
+ Dragonpit 
+ Oafdragon  /  White Wing 
+ 
+ 
+ Prediction Princesses 
+ Astromorrigan 
+ Coinorma  /  Petalelf 
+ n/a 
+ Tarotrei 
+ Crystaldine 
+ Arrowsylph 
+ 
+ 
+ Resonators 
+ Dark  /  Synkron  /  Crimson 
+ Clock 
+ Flare  /  Red  /  Double  /  Net 
+ Barrier  /  Chain  /  Mirror 
+ Force 
+ Creation 
+ 
+ 
+ Road Magic 
+ N/A 
+ Diastrophism 
+ Explosion 
+ Rays Alter 
+ Backflow 
+ Tempest 
+ 
+ 
+ El Shaddoll    Fusion Monsters    (1 "Shaddoll" + 1 matching Attribute) 
+ Winda 
+ Shekhinaga 
+ Grysta 
+ Construct 
+ Anoyatyllis 
+ Wendigo 
+ 
+ 
+ Signer Dragons 
+ Red Archfiend  /  Black-Winged 
+ Life Stream 
+ Black Rose 
+ Ancient Fairy 
+ n/a 
+ Stardust 
+ 
+ 
+ Six Samurai     Legendary Six Samurai     Secret Six Samurai 
+ Irou     Shi En     Doji 
+ Yariza     Kizan     Kizaru 
+ Kamon     Mizuho     Genba 
+ Zanji     Enishi     Rihan 
+ Yaichi     Shinai     Hatsume 
+ Nisashi     Kageki     Fuma 
+ 
+ 
+ Sky Striker Ace 
+ Raye  /  Zeke 
+ Kaina 
+ Kagari 
+ Roze 
+ Shizuku 
+ Hayate 
+ 
+ 
+ Sushi Angels 
+ Spider Roll 
+ Monkey Roll 
+ n/a 
+ Garibel  /  Agaribel 
+ Tiger Roll 
+ Dragon Roll 
+ 
+ 
+ Synchro  Warriors    Tuner  Synchrons 
+ Junk  /  Satellite     Junk  /  Satellite 
+ Drill     Drill 
+ Nitro  /  Jet     Nitro  /  Jet 
+ Road     Road 
+ n/a     Steam 
+ Turbo     Turbo 
+ 
+ 
+ Tenyi  Spirits 
+ Vishuda 
+ Adhara 
+ Mapura 
+ Ashuna  /  Sahasrara 
+ Sthana 
+ Nahata 
+ 
+ 
+ The Weathers    Canvas     (Continuous Spell/Trap Cards) 
+ Aurora     Auroral 
+ Snow     Snowy 
+ Sun     Sunny 
+ Thunder  /  Rainbow     Thundery  /  Rainbowed 
+ Rain     Rainy 
+ Cloud     Cloudy 
+ 
+ 
+ Timelords 
+ Vorpgate 
+ Kamion  /  Hailon 
+ Metaion  /  Lazion  /  Michion 
+ Sephylon  /  Sandaion 
+ Zaphion  /  Gabrion 
+ Sadion  /  Raphion 
+ 
+ 
+ True Draco and True King 
+ All Calamities 
+ Lithosazim  /  Dreiath III 
+ Agnimazud  /  Ignis Heat 
+ Master Peace  ( King ) /  Metaltron XII 
+ Bahrstos  /  Dinomight Knight 
+ Majesty Maiden  /  Mariamne 
+ 
+ 
+ Witchcrafters 
+ Haine 
+ Potterie 
+ Schmitta 
+ Edel  /  Madame Verre  /  Golem Aruru 
+ Pittore 
+ Genni 
+ 
+ 
+ World Chalice 
+ World Legacy 
+ Beckoned  /  Ningirsu 
+ Chosen  /  Auram 
+ Lee 
+ Crowned  / Ib ( Priestess / Justiciar ) 
+ Guardragon  /  Imduk  /  Almarduke 
+ 
+ 
+ Yang Zing 
+ Taotie  /  Jiaotu  /  Yazi 
+ Bi'an  /  Zefraxi  /  Zefraniu 
+ Suanni 
+ Chiwen  /  Baxia  /  Chaofeng  /  Denglong 
+ Bixi 
+ Pulao 
+ 
+ 
+ Yo-kai Girls 
+ Ghost Reaper & Winter Cherries 
+ Ghost Belle & Haunted Mansion 
+ Ash Blossom & Joyous Spring 
+ Ghost Ogre & Snow Rabbit 
+ Ghost Sister & Spooky Dogwood 
+ Ghost Mourner & Moonlit Chill 
+ 
+ 
+ ZW - 
+ Chimera Clad  /  Dragonic Halberd 
+ Ultimate Shield 
+ Phoenix Bow  /  Asura Strike 
+ Unicorn Spear  /  Lightning Blade  /  Leo Arms  /  Sleipnir Mail  /  Fenrir Sword  /  Pegasus Twin Saber  /  Sylphid Wing 
+ n/a 
+ Tornado Bringer  /  Eagle Claw 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/49/MiracleStone-TF04-JP-VG.png/revision/latest/scale-to-width-down/350?cb=20101116053120', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/24?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/24?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/24?cb=20120918053839', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Archetypes, TCG and OCG archetypes

@@ -1,0 +1,279 @@
+Link: https://yugioh.fandom.com/wiki/Gilti-Gearfried_the_Magical_Steel_Knight
+
+
+ 
+ 
+ Gilti-Gearfried the Magical Steel Knight 鋼 鉄 の 魔 導 騎 士 －ギルティギア・フリード 
+ 
+ English 
+Gilti-Gearfried the Magical Steel Knight 
+ French 
+ Gilti-Gearfried le Chevalier d'Acier Magique Check translation 
+ German 
+ Gilti-Gerfried der magische Stahlritter Check translation 
+ Italian 
+ Gilti-Gearfried il Cavaliere d'Acciaio Magico Check translation 
+ Korean 
+ 강철의 마도 기사－길티기어프리드 Check translation 
+ Portuguese 
+ Gilti-Gearfried, o Cavaleiro de Aço Mágico Check translation 
+ Spanish 
+ Gilti-Gearfried el Caballero Mágico de Acero Check translation 
+ Japanese (kana) 
+ こうてつのまどうきし－ギルティギア・フリード Check translation 
+ Japanese (base) 
+ 鋼鉄の魔導騎士－ギルティギア・フリード Check translation 
+ Japanese ( rōmaji ) 
+Kōtetsu no Madō Kishi - Giruti-Gia Furīdo 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Warrior  /  Fusion  /  Effect 
+ Level 
+ 8   
+ ATK  /  DEF 
+ 2700  /  1600 
+ Passcode 
+ 49161188 
+ Materials 
+2 Warrior monsters with different Attributes 
+ Card effect types 
+ 
+ 
+ Quick 
+ Continuous 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+2  Warrior   monsters  with different  Attributes Once per turn , when a card or  effect  is activated that  targets  this card ( Quick Effect ): You can  negate  that effect, and if you do,  destroy  1 card on the  field . If this card was  Fusion Summoned  using only monsters on the field as  material , it can make a second attack during each  Battle Phase . Once per turn, if this card  battles  an opponent's monster, during  damage calculation  (Quick Effect): You can  banish  1  Spell  from your  GY ; this card gains  ATK  equal to half its current  DEF , until the end of this  turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 2 monstres Guerrier d'Attributs différents Une fois par tour, lorsqu'une carte ou un effet qui cible cette carte est activé (Effet Rapide) : vous pouvez annuler l'effet, et si vous le faites, détruisez 1 carte sur le Terrain. Si cette carte a été Invoquée par Fusion en utilisant uniquement des monstres sur le Terrain comme Matériel, elle peut faire une seconde attaque durant chaque Battle Phase. Une fois par tour, si cette carte combat un monstre de l'adversaire, durant le calcul des dommages (Effet Rapide) : vous pouvez bannir 1 Magie depuis votre Cimetière ; jusqu'à la fin de ce tour, cette carte gagne une ATK égale à la moitié de sa DEF actuelle. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 2 Krieger-Monster mit unterschiedlichen Eigenschaften Einmal pro Spielzug, wenn eine Karte oder ein Effekt aktiviert wird, die oder der diese Karte als Ziel wählt (Schnelleffekt): Du kannst den Effekt annullieren und falls du dies tust, zerstöre 1 Karte auf dem Spielfeld. Falls diese Karte als Fusionsbeschwörung beschworen wurde und dafür nur Monster auf dem Spielfeld als Material verwendet wurden, kann sie während jeder Battle Phase einen zweiten Angriff durchführen. Einmal pro Spielzug, falls diese Karte gegen ein Monster eines Gegners kämpft, während der Schadensberechnung (Schnelleffekt): Du kannst 1 Zauber von deinem Friedhof verbannen; diese Karte erhält bis zum Ende dieses Spielzugs ATK in Höhe der Hälfte ihrer derzeitigen DEF. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 2 mostri Guerriero con Attributi diversi Una volta per turno, quando viene attivata una carta o un effetto che sceglie come bersaglio questa carta (Effetto Rapido): puoi annullare quell'effetto e, se lo fai, distruggi 1 carta sul Terreno. Se questa carta è stata Evocata tramite Fusione utilizzando solo mostri sul Terreno come materiale, essa può effettuare un secondo attacco durante ogni Battle Phase. Una volta per turno, se questa carta combatte con un mostro dell'avversario, durante il calcolo dei danni (Effetto Rapido): puoi bandire 1 Magia dal tuo Cimitero; questa carta guadagna ATK pari alla metà del suo DEF attuale, fino alla fine di questo turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 2 monstros Guerreiro com Atributos diferentes Uma vez por turno, quando um card ou efeito for ativado que escolha este card como alvo (Efeito Rápido): você pode negar o efeito e, se isso acontecer, destrua 1 card no campo. Se este card foi Invocado por Invocação-Fusão usando apenas monstros no campo como matéria, ele pode realizar um segundo ataque durante cada Fase de Batalha. Uma vez por turno, se este card batalhar um monstro do oponente, durante o cálculo de dano (Efeito Rápido): você pode banir 1 Magia do seu Cemitério; até o final deste turno, este card ganha ATK igual à metade da sua DEF atual. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 2 monstruos Guerrero con Atributos diferentes Una vez por turno, cuando es activada una carta o efecto que selecciona esta carta (Efecto Rápido): puedes negar ese efecto y, si lo haces, destruye 1 carta en el Campo. Si esta carta fue Invocada por Fusión usando sólo monstruos en el Campo como material, ésta puede hacer un segundo ataque durante cada Battle Phase. Una vez por turno, si esta carta batalla con un monstruo de tu adversario, durante el cálculo de daño (Efecto Rápido): puedes desterrar 1 Mágica en tu Cementerio; hasta el final de este turno, esta carta gana ATK igual a la mitad de su DEF en este momento. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 属性が異なる戦士族モンスター×２ ①：１ターンに１度、このカードを対象とする魔法・罠・モンスターの効果が発動した時に発動できる。その効果を無効にし、フィールドのカードを１枚を選んで破壊する。②：フィールドのモンスターのみを素材として融合召喚したこのカードは１度のバトルフェイズ中に２回攻撃できる。③：１ターンに１度、このカードが相手モンスターと戦闘を行うダメージ計算時に、自分の墓地から魔法カード１枚を除外して発動できる。このカードの攻撃力はターン終了時まで、このカードの守備力の半分アップする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 속성이 다른 전사족 몬스터 × 2 ①: 1턴에 1번, 이 카드를 대상으로 하는 마법 / 함정 / 몬스터의 효과가 발동했을 때에 발동할 수 있다. 그 효과를 무효로 하고, 필드의 카드 1장을 골라 파괴한다. ②: 필드의 몬스터만을 소재로서 융합 소환한 이 카드는 1번의 배틀 페이즈 중에 2회 공격할 수 있다. ③: 1턴에 1번, 이 카드가 상대 몬스터와 전투를 실행하는 데미지 계산시에, 자신 묘지에서 마법 카드 1장을 제외하고 발동할 수 있다. 이 카드의 공격력은 턴 종료시까지, 이 카드의 수비력의 절반 올린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2021-07-08 KICO-EN014 King's Court Ultra Rare 2021-07-08 KICO-EN014 King's Court Collector's Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2021-07-08 KICO-FR014 King's Court La Court du Roi Ultra Rare 2021-07-08 KICO-FR014 King's Court La Court du Roi Collector's Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2021-07-08 KICO-DE014 King's Court King's Court Ultra Rare 2021-07-08 KICO-DE014 King's Court King's Court Collector's Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2021-07-08 KICO-IT014 King's Court La Corte del Re Ultra Rare 2021-07-08 KICO-IT014 King's Court La Corte del Re Collector's Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2021-07-08 KICO-PT014 King's Court Corte do Rei Ultra Rare 2021-07-08 KICO-PT014 King's Court Corte do Rei Collector's Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2021-07-08 KICO-SP014 King's Court La Corte del Rey Ultra Rare 2021-07-08 KICO-SP014 King's Court La Corte del Rey Collector's Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2020-02-22 20PP-JP001 Premium Pack 2020 ＰＲＥＭＩＵＭ　ＰＡＣＫ　２０２０ Ultra Rare 2020-02-22 20PP-JP001 Premium Pack 2020 ＰＲＥＭＩＵＭ　ＰＡＣＫ　２０２０ Secret Rare 2020-02-22 20PP-JP001 Premium Pack 2020 ＰＲＥＭＩＵＭ　ＰＡＣＫ　２０２０ Extra Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2020-08-07 PP15-KR001 Premium Pack Vol.15 프리미엄 팩 Vol.15 Ultra Rare 2020-08-07 PP15-KR001 Premium Pack Vol.15 프리미엄 팩 Vol.15 Secret Rare 2020-08-07 PP15-KR001 Premium Pack Vol.15 프리미엄 팩 Vol.15 Normal Parallel Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Warrior 
+ 
+ Archetypes  and  series   
+ Gearfried 
+ Prophecy 
+ 
+ Stat changes  
+ This card gains ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of Effect Monsters 
+ Negates the effects of Spell Cards 
+ Negates the effects of Trap Cards 
+ Destroys Monster Cards 
+ Destroys Spell Cards 
+ Destroys Trap Cards 
+ 
+ Summoning  categories  
+ 2 Fusion Materials 
+ Requires Type specific Fusion Materials 
+ Requires Attribute specific Fusion Materials 
+ 
+ Attack  categories  
+ Multiple attacker 
+ 
+ Banished  categories  
+ Banishes from Graveyard for cost 
+ 
+ Miscellaneous  
+ Limited activations 
+ Cover card 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 6724 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Gilti-Gearfried the Magical Steel Knight " pages 
+ 
+ 
+ Manga 
+ 
+ 
+ 
+   
+ Gearfried  ギア・フリード Members 
+ Gearfried the Iron Knight Gearfried the Red-Eyes Iron Knight Gearfried the Swordmaster Gilti-Gearfried the Magical Steel Knight Immortal Phoenix Gearfried Lightray Gearfried Phoenix Gearfried 
+ Related 
+ Gearbreed Gemini Ablation Release Restraint 
+ 
+   
+" Prophecy " 「 魔 導 」 Members 
+ Amores of Prophecy Ancient Sorcerer Apprentice Illusion Magician Armor Exe Breaker the Dark Magical Warrior Breaker the Magical Warrior Charioteer of Prophecy Crowley, the First Propheseer D/D Savant Copernicus D/D Savant Galilei D/D Savant Kepler D/D Savant Newton D/D Savant Nikola D/D Savant Thomas Dark Cavalry Dark Magician the Magical Knight of Dragons The Dark Magicians Dark Paladin Day-Breaker the Shining Magical Warrior Defender, the Magical Knight Ebon High Magician Ebon Illusion Magician Ebon Magician Curran Emperor of Prophecy Empress of Prophecy Endymion, the Master Magician Endymion, the Mighty Master of Magic The Fiend Megacyber Fool of Prophecy Gilti-Gearfried the Magical Steel Knight Giltia the D. Knight Giltia the D. Knight - Soul Spear Hermit of Prophecy Hierophant of Prophecy High Priestess of Prophecy The Illusory Gentleman Justice of Prophecy Magical Cavalry of Cxulub Magical Merchant Magical Scientist Master of Chaos Prophecy Destroyer Reaper of Prophecy Red-Eyes Dark Dragoon Silent Paladin Skilled Brown Magician Skilled White Magician Spellbook Magician of Prophecy Stoic of Prophecy Strength of Prophecy Supreme Arcanite Magician Temperance of Prophecy Testament of the Arcane Lords Time Wizard of Tomorrow Water Magician Wheel of Prophecy White Magician Pikeru World of Prophecy 
+ Dark Magical Circle The Grand Spellbook Tower Hidden Spellbook Mage Power Magical Contract Door Magical Mid-Breaker Field Mega Ton Magical Cannon Spellbook Library of the Crescent Spellbook Library of the Heliosphere Spellbook Organization Spellbook Star Hall Spellbook of Eternity Spellbook of Fate Spellbook of Judgment Spellbook of Knowledge Spellbook of Life Spellbook of Miracles Spellbook of Power Spellbook of Secrets Spellbook of Wisdom Spellbook of the Master Type Zero Magic Crusher 
+ Support 
+ Stoic of Prophecy 
+ Related 
+ Aleister the Invoker Aleister the Invoker of Madness Behegon Black Luster Soldier Buster Blader Crowley, the Magistus of Grimoires Dark Magician Dark Magician Dark Magician Girl Gearfried the Iron Knight Guardian of the Labyrinth Marine Beast Princess Curran Princess Pikeru Protector of the Throne Red-Eyes Black Dragon Time Wizard 
+ Trial of the Princesses 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/0d/GiltiGearfriedtheMagicalSteelKnight-KICO-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20211023211920', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

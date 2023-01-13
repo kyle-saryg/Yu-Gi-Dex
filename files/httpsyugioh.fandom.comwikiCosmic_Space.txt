@@ -1,0 +1,91 @@
+Link: https://yugioh.fandom.com/wiki/Cosmic_Space
+
+
+ Cosmic Space 
+ 
+ Japanese:   コズミック・スペース 
+ Romaji:   Kozumikku Supēsu 
+ 
+ 
+ 
+ 
+ en 
+ ja 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell 
+ 
+ Property 
+ 
+ 
+ Field 
+ 
+ 
+ 
+ All  monsters  on the  field  gain  Life Stars . 
+ 
+ Viz Media  lore<nomobile> ? :</nomobile> <mobile>(The English manga by Viz Media sometimes uses lores which are inconsistent with the Japanese lore or how the card worked.):</mobile> Place  Life Stars  on all  face-up   monster  on the  field  when you  activate  this card and on each monster  Summoned  while this card is on the field equal to that monster's  Level . During each player's  End Phase , remove 1 Life Star from each face-up monster on the field. When a monster has no Life Stars on it, it is  destroyed .
+ 
+ 
+ Appearances
+ 
+ 
+ 
+ 
+   R : Yu-Gi-Oh! R - Duel Round 022|022 Property "Yu-Gi-Oh R chapter appearances (linked)" (as page type) with input value "Yu-Gi-Oh! R - Duel Round 022|022" contains invalid characters or is incomplete and therefore can cause unexpected results during a query or annotation process. , Yu-Gi-Oh! R - Duel Round 023|023 Property "Yu-Gi-Oh R chapter appearances (linked)" (as page type) with input value "Yu-Gi-Oh! R - Duel Round 023|023" contains invalid characters or is incomplete and therefore can cause unexpected results during a query or annotation process. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Manga cards (Galleries:  R ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ コズミック・スペース 
+ すべての場のモンスターにライフ・スターが与えられる 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Depre Scott 
+ 
+ 
+ Search categories 
+ 
+ Counters   
+ Life Star Counter 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/ba/CosmicSpace-EN-Manga-R.png/revision/latest/scale-to-width-down/200?cb=20150328182219', 'https://static.wikia.nocookie.net/yugioh/images/7/7e/CosmicSpace-JP-Manga-R-CA.png/revision/latest?cb=20160421171923', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/28/CosmicSpace-JP-Manga-R-NC.png/revision/latest/scale-to-width-down/185?cb=20140130002419', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Manga cards, Manga cards with no OCG/TCG counterpart

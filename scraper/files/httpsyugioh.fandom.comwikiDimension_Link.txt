@@ -1,0 +1,115 @@
+Link: https://yugioh.fandom.com/wiki/Dimension_Link
+
+
+ Dimension Link 
+ 
+ Japanese:   ディメンション・リンケージ 
+ Romaji:   Dimenshon Rinkēji 
+ Translated:  Dimension Linkage 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Activate  this card by  paying  half your  LP , then  target  1  Link Monster  you  control ;  banish  it. If a  monster  is  Link Summoned  to your  field : You can  send  this  face-up  card to the  GY ;  Special Summon  that banished monster to your  zone  a Link Monster  points to , and if you do, it gains 600  ATK , but  negate  its effects, also  destroy  it during the  End Phase .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  054 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ディメンション・リンケージ 
+ ①：ＬＰを半分払い、自分フィールドのリンクモンスター１体を対象としてこのカードを発動できる。そのモンスターを除外する。②：自分フィールドにモンスターがリンク召喚された場合、魔法＆罠ゾーンの表側表示のこのカードを墓地へ送ってこの効果を発動できる。このカードの①の効果で除外したモンスターを、リンクモンスターのリンク先となる自分フィールドに特殊召喚する。この効果で特殊召喚したモンスターの攻撃力は６００アップし、効果は無効化され、エンドフェイズに破壊される。 
+ 
+ 
+ Dimenshon Rinkēji 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Link Monster 
+ 
+ Archetypes  and  series   
+ Link  
+ 
+ Actions  
+ Activates upon Link Summon 
+ Sends itself from field to Graveyard for cost 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your Effect Monsters 
+ Destroys your Monster Cards 
+ 
+ Summoning  categories  
+ Special Summons the player's banished monsters 
+ 
+ Banished  categories  
+ Banishes from your field 
+ 
+ LP   
+ Pays Life Points for cost 
+ Halves the player's LP 
+ 
+ v e 
+ Link  リンク a   m   Members 
+ Castle Link Dimension Link Link Atrocity Link Back Link Bound Link Bumper Link Burst Link Cancel Link Coin Link Devotee Link Disciple Link Drive Link Fire's Return Link Infra-Flier Link Pressure Link Processing Failure Link Protection Link Ration Link Recovery Link Restart Link Restart Link Rush Link Satellite Link Short Link Spider Link Surge Counter Link Token Link Turret Linkbelt Wall Dragon Linkross Linkslayer Linkuriboh Packet Link Urgent Link Zero Extra Link 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e4/DimensionLink-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180530211913', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/18?cb=20120920115206']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

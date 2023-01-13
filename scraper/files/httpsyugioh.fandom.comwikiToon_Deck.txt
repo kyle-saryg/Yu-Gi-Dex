@@ -1,0 +1,826 @@
+Link: https://yugioh.fandom.com/wiki/Toon_Deck
+
+This article is about the  ability . For the  archetype , see " Toon ".      
+ 
+ 
+ Toon monster
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ トゥーン(モンスター) [Notes 1] 
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Tūn(monsutā)
+ 
+ 
+ 
+ English
+ 
+ 
+ 1st and 3rd format: Toon (monster) 2nd format: Toon (Monster)
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : 1st and 3rd format: (monstre) Toon 2nd format: (Monstre) Toon 
+ German : Toon(-Monster) 
+ Italian : (mostro) Toon Formerly: (Mostro) Toon 
+ Portuguese : (monstro) Toon Formerly: (Monstro) Toon 
+ Spanish : 1st and 3rd format: (monstruo) Toon 2nd format: (Monstruo) Toon 
+ Korean : 툰 (몬스터)  Tun (Monseuteo) 
+ 
+ 
+ 
+ 
+ 
+ Appears in (anime)
+ 
+ 
+ Yu-Gi-Oh! 
+ Yu-Gi-Oh! The Movie: Pyramid of Light 
+ Yu-Gi-Oh! GX 
+ 
+ 
+ Appears in (manga)
+ 
+ 
+ Yu-Gi-Oh! 
+ 
+ 
+ 
+ Lists
+ 
+ 
+ 
+ 
+ members 
+ support 
+ 
+ Toon monsters  (トゥーンモンスター  Tūn Monsutā ) are cartoonized counterparts of existing monsters, having some reliance on the card " Toon World ".
+ Originally, in the manga and anime, Toon monsters were formed by having the effect of " Toon World " applied to non-Toon monsters. These Toon monsters had the ability to avoid being destroyed in battle.
+ In the  OCG  and  TCG , Toon is an  ability . Toon monsters exist as separate cards than their non-Toon counterpart, with whom they share no direct in-game relationship. They are capable of attacking the opponent directly and while they benefit from the card " Toon World ", they can be used without it. There are  five classes  of "Toon monsters", dubbed by fans Class A, B, C, D, and E.
+ All Toon monsters belong to the " Toon " archetype (including " Manga Ryu-Ran ", since its Japanese name contains トゥーン).
+ Toon monsters were the first Effect Monsters with an ability to be introduced, debuting in  Spell Ruler . While  Flip monsters  (as Flip Effect Monsters) were introduced earlier, they were not treated as having an ability until much later.
+ Toon monsters can also be  Special Summon Monsters .
+ 
+ Contents 
+ 
+ 1   Classes of Toon monster 
+ 
+ 1.1   OCG / TCG 
+ 
+ 1.1.1   Class A 
+ 1.1.2   Class B 
+ 1.1.3   Class C 
+ 1.1.4   Class D 
+ 1.1.5   Class E 
+ 
+ 
+ 1.2   Manga 
+ 1.3   Anime 
+ 
+ 1.3.1   Duelist Kingdom 
+ 1.3.2   Post-Duelist Kingdom 
+ 
+ 1.3.2.1   GX 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2   Playing style 
+ 3   Example 
+ 4   Notes 
+ 
+ 
+ Classes of Toon monster 
+ OCG / TCG 
+ Class A 
+ Cannot be  Normal Summoned / Set . 
+ Must first  Special Summon  itself from the  hand , by  Tributing  the same number of monsters as for a  Tribute Summon  of a monster with its original Level (the number is specified in its card text), while you control " Toon World ".
+ After being Special Summoned properly, it can be Special Summoned from the  Graveyard  or while  banished  by any appropriate effect (it is not necessary to control "Toon World"). 
+ Cannot  attack  the  turn  it is Special Summoned. 
+ Requires payment of 500  LP  to attack. 
+ If "Toon World" on the field is  destroyed , so is the Toon monster. 
+ If the opponent doesn't  control  any Toon monsters, it can  attack directly . Otherwise, it must  target  a Toon monster for its attacks. 
+ Class A Toons: " Blue-Eyes Toon Dragon ", " Toon Summoned Skull ", " Manga Ryu-Ran ", " Toon Mermaid "
+ 
+ Class B 
+ Cannot be  Normal Summoned / Set . 
+ Must first  Special Summon  itself from the  hand , by  Tributing  monsters in a similar manner to properly Summoning its original, while you control " Toon World ".
+ After being Special Summoned properly, it can be Special Summoned from the  Graveyard  or while  banished  by any appropriate effect (it is not necessary to control "Toon World"). 
+ If "Toon World" on the field is  destroyed , so is the Toon monster. 
+ Can  attack  the  turn  it is Summoned. 
+ If the opponent doesn't  control  any Toon monsters, it can  attack directly . Otherwise, it must  target  a Toon monster for its attacks. 
+ Class B Toons: " Toon Dark Magician Girl ", " Toon Black Luster Soldier ".
+ 
+ Class C 
+ Can be  Normal Summoned / Set . 
+ Cannot  Special Summon  itself from the  hand . 
+ Cannot  attack  the  turn  it is Summoned. 
+ If " Toon World " on the field is  destroyed , so is the Toon monster. 
+ If the player controls "Toon World" and the opponent doesn't  control  any Toon monsters, it can  attack directly . 
+ Class C Toons: " Toon Cannon Soldier ", " Toon Gemini Elf ", " Toon Goblin Attack Force ", " Toon Masked Sorcerer ".
+ 
+ Class D 
+ Can be  Normal Summoned / Set . 
+ Cannot Special Summon itself from the  hand  (unless due to the base card's effect). 
+ Cannot  attack  the  turn  it is  Summoned . 
+ Nothing happens to the Toon monster if " Toon World " is  destroyed . 
+ If the player controls "Toon World" and the opponent doesn't  control  any Toon monsters, it can  attack directly . 
+ Class D Toons: " Toon Ancient Gear Golem ", " Toon Barrel Dragon ", " Toon Buster Blader ", " Toon Cyber Dragon ", " Red-Eyes Toon Dragon ", " Toon Dark Magician ".
+ 
+ Class E 
+ Cannot be  Normal Summoned / Set . 
+ Requires " Toon World " to be on the  field  to be  Special Summoned  (even if it has already been correctly Summoned). 
+ Must first Special Summon itself from the  hand  by  Tributing  the same number of monsters as for a  Tribute Summon  of a monster with its current Level. 
+ Cannot  attack  the  turn  it is Special Summoned. 
+ Requires payment of 500  LP  to attack. 
+ If " Toon World " is  destroyed , so is the Toon monster. 
+ If your opponent  controls  no Toon monsters, it can  attack directly . Otherwise, it must  target  a Toon monster for its attacks. 
+ Class E Toons: " Blue Eyes Toon Dragon " ( TCG  only), " Toon Summoned Skull " ( TCG  only), " Manga Ryu-Ran " ( TCG  only), " Toon Mermaid " ( TCG  only) [Notes 2] 
+ 
+ Manga 
+ 
+ 
+ Original
+ 
+ 
+ " Dark Rabbit "
+ 
+ " Blue-Eyes White Dragon "
+ 
+ " Dragon Capture Jar "
+ 
+ " Bickuribox "
+ 
+ " Red Archery Girl "
+ 
+ " Ryu-Ran "
+ 
+ " Summoned Skull "
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Toon
+ 
+ 
+ "Dark Rabbit"
+ 
+ " Blue-Eyes Toon Dragon "
+ 
+ "Dragon Capture Jar"
+ 
+ "Bickuribox"
+ 
+ " Toon Mermaid "
+ 
+ " Manga Ryu-Ran "
+ 
+ " Toon Summoned Skull "
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ While " Toon World " is on the field, each of its controllers monsters are converted to their Toon counterparts.
+ In their Toon form, monsters could dodge attacks and hide within the "Toon World" book.
+ Although "Toon World" was used with "Dark Rabbit", "Dragon Capture Jar" and "Bickuribox", they were not given separate names while affected and "Dragon Capture Jar" did not demonstrate the ability to dodge attacks.
+ 
+ Anime 
+ Duelist Kingdom 
+ 
+ 
+ Original
+ 
+ 
+ " Blue-Eyes White Dragon "
+ 
+ " Red Archery Girl "
+ 
+ " Ryu-Ran "
+ 
+ " Summoned Skull "
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Toon
+ 
+ 
+ " Blue-Eyes Toon Dragon "
+ 
+ " Toon Mermaid "
+ 
+ " Manga Ryu-Ran "
+ 
+ " Toon Summoned Skull "
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ In the anime, during the  Duelist Kingdom  tournament, Toon monsters functioned the same way that they did in the manga.
+ 
+ Post-Duelist Kingdom 
+ 
+ 
+ Original
+ 
+ 
+ " Gemini Elf "
+ 
+ " Dark Magician Girl "
+ 
+ " Blue-Eyes White Dragon "
+ 
+ " Summoned Skull "
+ 
+ " Masked Sorcerer "
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Toon
+ 
+ 
+ " Toon-Gemini Elf "
+ 
+ " Toon Dark Magician Girl "
+ 
+ " Blue-Eyes Toon Dragon "
+ 
+ " Toon Summoned Skull "
+ 
+ " Toon Masked Sorcerer "
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ After Duelist Kingdom, Toon monsters were changed to more closely match their  OCG / TCG  selves.
+ 
+ GX 
+ 
+ 
+ Original
+ 
+ 
+ " Ancient Gear Golem "
+ 
+ 
+ 
+ 
+ 
+ Toon
+ 
+ 
+ " Toon Ancient Gear Golem "
+ 
+ 
+ 
+ 
+ Playing style 
+ Main article:  Toon § Playing style 
+ Example 
+ 
+ Notes 
+ 
+ ↑   The parentheses here specify what part is not shown on the cards'  Type / Ability  line. 
+ 
+ ↑   As of the most recent printing, Speed Duel Starter Decks: Match of the Millennium, these cards have undergone errata and now fall under Class A thereby rendering this class defunct. 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d8/ToonWorld-GX02-JP-VG.png/revision/latest/scale-to-width-down/300?cb=20101206081549', 'https://static.wikia.nocookie.net/yugioh/images/2/2d/DarkRabbit-JP-Manga-DM-CA.png/revision/latest/scale-to-width-down/120?cb=20140119182139', 'https://static.wikia.nocookie.net/yugioh/images/d/d8/BlueEyesWhiteDragon-JP-Manga-DM-CA.png/revision/latest/scale-to-width-down/102?cb=20131228215413', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Secondary types of Monster Cards

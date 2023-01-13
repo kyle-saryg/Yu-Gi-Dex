@@ -1,0 +1,477 @@
+Link: https://yugioh.fandom.com/wiki/Air_Cracking_Storm
+
+
+ 
+ 
+ Air Cracking Storm エアークラック・ストーム 
+ 
+ English 
+Air Cracking Storm 
+ French 
+ Tempête Crackage Aérien Check translation 
+ German 
+ Luftknackender Sturm Check translation 
+ Italian 
+ Tempesta Crack Aria Check translation 
+ Korean 
+ 에어크랙 스톰 Check translation 
+ Portuguese 
+ Crack de Tempestade de Ar Check translation 
+ Spanish 
+ Tormenta Aérea de Cracking Check translation 
+ Japanese 
+ エアークラック・ストーム Check translation 
+ Japanese ( rōmaji ) 
+Eākurakku Sutōmu 
+ Japanese (translated) 
+Aircrack Storm 
+ Card type 
+ Spell   
+ Property 
+ Equip   
+ Passcode 
+ 98864751 
+ Card effect types 
+ 
+ 
+ Condition 
+ Trigger-like 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Equip  only to a  Machine   monster . When that  attacking  monster  destroys  your opponent's monster  by battle : You can  activate  this  effect ; it can make a second attack during this  Battle Phase . Your other monsters cannot attack the  turn  you activate this effect. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Équipable uniquement à un monstre Machine. Lorsque le monstre attaquant détruit un monstre de votre adversaire au combat : vous pouvez activer cet effet ; il peut faire une seconde attaque durant cette Battle Phase. Vos autres monstres ne peuvent pas attaquer le tour où vous activez cet effet. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Rüste nur ein Maschine-Monster mit dieser Karte aus. Wenn das angreifende Monster ein Monster deines Gegners durch Kampf zerstört: Du kannst diesen Effekt aktivieren; es kann während dieser Battle Phase einen zweiten Angriff durchführen. Deine anderen Monster können in dem Spielzug, in dem du diesen Effekt aktivierst, nicht angreifen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Equipaggia solo a un mostro Macchina. Quando quel mostro attaccante distrugge un mostro del tuo avversario in battaglia: puoi attivare questo effetto; esso può effettuare un secondo attacco durante questa Battle Phase. I tuoi altri mostri non possono attaccare nel turno in cui attivi questo effetto. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Só pode ser equipado a um monstro Máquina. Quando esse monstro atacante destruir um monstro do seu oponente em batalha: você pode ativar este efeito; ele pode realizar um segundo ataque durante esta Fase de Batalha. Seus outros monstros não podem atacar no turno em que você ativar este efeito. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Sólo puedes equipar esta carta a un monstruo Máquina. Cuando ese monstruo atacante destruye un monstruo de tu adversario en batalla: puedes activar este efecto; durante esta Battle Phase, este monstruo puede hacer un segundo ataque. El turno en el que activas este efecto tus otros monstruos no pueden atacar. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 機械族モンスターにのみ装備可能。①：装備モンスターの攻撃で相手モンスターを破壊した時に発動できる。このバトルフェイズ中、装備モンスターはもう１度だけ攻撃できる。この効果を発動するターン、装備モンスター以外の自分のモンスターは攻撃できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 기계족 몬스터에만 장착 가능. ① : 장착 몬스터의 공격으로 상대 몬스터를 파괴했을 때에 발동할 수 있다. 이 배틀 페이즈 중, 장착 몬스터는 1번만 더 공격할 수 있다. 이 효과를 발동하는 턴에, 장착 몬스터 이외의 자신의 몬스터는 공격할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2017-08-03  
+ COTD-EN055   
+ Code of the Duelist 
+ Common 
+ 
+ 
+ 2018-03-29  
+ SP18-EN042   
+ Star Pack VRAINS 
+ Common 
+ 
+ 
+ 2018-03-29  
+ SP18-EN042   
+ Star Pack VRAINS 
+ Starfoil Rare 
+ 
+ 
+ 2018-08-30  
+ MP18-EN071   
+ 2018 Mega-Tin Mega Pack 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2017-08-03  
+ COTD-FR055   
+ Code of the Duelist 
+ Code des Duellistes  
+ Common 
+ 
+ 
+ 2018-03-29  
+ SP18-FR042   
+ Star Pack VRAINS 
+ Pack Étoile VRAINS  
+ Common 
+ 
+ 
+ 2018-03-29  
+ SP18-FR042   
+ Star Pack VRAINS 
+ Pack Étoile VRAINS  
+ Starfoil Rare 
+ 
+ 
+ 2018-08-30  
+ MP18-FR071   
+ 2018 Mega-Tin Mega Pack 
+ 2018 Méga-Boîtes Méga Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2017-08-03  
+ COTD-DE055   
+ Code of the Duelist 
+ Code of the Duelist  
+ Common 
+ 
+ 
+ 2018-03-29  
+ SP18-DE042   
+ Star Pack VRAINS 
+ Star Pack VRAINS  
+ Common 
+ 
+ 
+ 2018-03-29  
+ SP18-DE042   
+ Star Pack VRAINS 
+ Star Pack VRAINS  
+ Starfoil Rare 
+ 
+ 
+ 2018-08-30  
+ MP18-DE071   
+ 2018 Mega-Tin Mega Pack 
+ 2018 Mega-Tin Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2017-08-03  
+ COTD-IT055   
+ Code of the Duelist 
+ Codice del Duellante  
+ Common 
+ 
+ 
+ 2018-03-29  
+ SP18-IT042   
+ Star Pack VRAINS 
+ Star Pack VRAINS  
+ Common 
+ 
+ 
+ 2018-03-29  
+ SP18-IT042   
+ Star Pack VRAINS 
+ Star Pack VRAINS  
+ Starfoil Rare 
+ 
+ 
+ 2018-08-30  
+ MP18-IT071   
+ 2018 Mega-Tin Mega Pack 
+ Mega-Tin 2018 Mega-Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2017-08-22  
+ COTD-PT055   
+ Code of the Duelist 
+ Código do Duelista  
+ Common 
+ 
+ 
+ 2018-03-29  
+ SP18-PT042   
+ Star Pack VRAINS 
+ Pacote Estelar VRAINS  
+ Common 
+ 
+ 
+ 2018-03-29  
+ SP18-PT042   
+ Star Pack VRAINS 
+ Pacote Estelar VRAINS  
+ Starfoil Rare 
+ 
+ 
+ 2018-08-30  
+ MP18-PT071   
+ 2018 Mega-Tin Mega Pack 
+ Mega-Pacote da Mega-Latas 2018  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2017-08-03  
+ COTD-SP055   
+ Code of the Duelist 
+ Código del Duelista  
+ Common 
+ 
+ 
+ 2018-03-29  
+ SP18-SP042   
+ Star Pack VRAINS 
+ Sobre de Estrellas VRAINS  
+ Common 
+ 
+ 
+ 2018-03-29  
+ SP18-SP042   
+ Star Pack VRAINS 
+ Sobre de Estrellas VRAINS  
+ Starfoil Rare 
+ 
+ 
+ 2018-08-30  
+ MP18-SP071   
+ 2018 Mega-Tin Mega Pack 
+ Mega-Latas 2018 Mega-Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2017-04-15  
+ COTD-JP055   
+ Code of the Duelist 
+ コード・オブ・ザ・デュエリスト  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2017-07-13  
+ COTD-KR055   
+ Code of the Duelist 
+ 코드 오브 더 듀얼리스트  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Machine 
+ 
+ Actions  
+ Activates when it destroys a monster by battle 
+ 
+ Attack  categories  
+ Allows multiple attacks 
+ Prevents your monsters from attacking 
+ 
+ Miscellaneous  
+ Equips only to a specific target 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 13094 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Air Cracking Storm " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/9a/AirCrackingStorm-SP18-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180419201240', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/9/90/Equip.svg/revision/latest/scale-to-width-down/28?cb=20120920115844']
+Categories: Duel Monsters cards, TCG cards, OCG cards

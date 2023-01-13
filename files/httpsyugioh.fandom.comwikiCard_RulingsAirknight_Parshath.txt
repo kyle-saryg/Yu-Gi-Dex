@@ -1,0 +1,96 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Airknight_Parshath
+
+
+ Airknight Parshath 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Yu-Gi-Oh! The Duelists of the Roses 
+ 
+ Contents 
+ 
+ 1   TCG Rulings 
+ 
+ 1.1   Mentions in Other Rulings 
+ 
+ 
+ 2   OCG Rulings 
+ 3   Previously Official Rulings 
+ 
+ 3.1   Mentions in Other Rulings 
+ 
+ 
+ 4   References 
+ 
+ 
+ TCG Rulings 
+ Mentions in Other Rulings 
+ Gemini Soldier : The effect to Special Summon 1 Gemini monster activates at the same time as effects that trigger when damage is dealt, such as “ Airknight Parshath .” 
+ Phoenixian Cluster Amaryllis : “ Phoenixian Cluster Amaryllis ” destroys itself immediately after calculating damage, at the same time that damage is applied. This is the same timing as “ Airknight Parshath ,” for example. However, the effect of “ Phoenixian Cluster Amaryllis ” is a  Continuous Effect  and does not go on a  Chain , so this effect will be applied earlier than that of “ Airknight Parshath ,” although the activation/timing is considered to be the same. 
+ Tethys, Goddess of Light : You can activate the effect of “ Tethys, Goddess of Light ” if you draw a Fairy during the  Damage Step , for example with “ Airknight Parshath ”. 
+ OCG Rulings 
+ If you draw a  Fairy - Type  monster during the Damage Step (such as by " Airknight Parshath "), you can activate the effect of " Tethys, Goddess of Light ". [1] 
+ " Tragoedia "'s effect activates at the same time that " Airknight Parshath "'s effect activate.  " Tragoedia "'s effect would be activated in chain to " Airknight Parshath ", so you would Special Summon " Tragoedia " and then resolve " Airknight Parshath "'s effect. [2] 
+ The effect of " Gemini Soldier "  activates  after  Damage Calculation  - that is, it activates when battle damage is inflicted to the player's Life Points. [3] 
+ Example: " Gemini Soldier ", in face-up Defense Position, is attacked by " Airknight Parshath ".  When  Battle Damage  is inflicted, the drawing effect of " Airknight Parshath " and the Special Summoning effect of " Gemini Soldier " both activate.  They form a  Chain , with the Turn Player's " Airknight Parshath " being Chain Link 1.  Resolving backwards, " Gemini Soldier " first Special Summons a  Gemini Monster , and then a card is drawn by the effect of " Airknight Parshath ". [3] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [4]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [5] [6] [7] [8] [9] [10] [11] [12] [13] 
+ 
+ Drawing a card is not optional. You must draw 1 card any time " Airknight Parshath " inflicts  Battle Damage  to the opponent’s  Life Points . This includes  direct attacks , and when it battles with a monster with a lower  ATK  or  DEF . 
+ If the opponent  activates  " Waboku " or " Kuriboh " to reduce the  Battle Damage  to 0, you do not draw. 
+ When " Airknight Parshath " attacks a face-down monster with a  flip effect  and inflicts  Battle Damage , you draw 1 card before the  flip effect  is applied. 
+ Mentions in Other Rulings 
+ Cestus of Dagla : When " Airknight Parshath "  equipped  with " Cestus of Dagla " inflicts  damage  to your opponent's  Life Points , the simultaneous effects go on a  chain , so the  controller  decides which effect is  resolved  first. 
+ Divine Wrath : You can activate " Divine Wrath " to negate ... the effect of " Airknight Parshath " that allows its controller to draw a card. 
+ Gorz the Emissary of Darkness : If your opponent inflicts battle damage to your Life Points with a monster like " Airknight Parshath " or " Spirit Reaper ", you can activate the effect of " Gorz the Emissary of Darkness ". The effect of your opponent's " Airknight Parshath " or " Spirit Reaper " will be Chain Link 1 and the effect of your " Gorz the Emissary of Darkness " will be Chain Link 2. 
+ Lone Wolf : If you have " Monk Fighter "  targeted  by " Lone Wolf ", the following are examples of monster effects that will NOT be negated because they are not applied to a monster: "Airknight Parshath" (damage is inflicted and a card is drawn), ... 
+ Marshmallon : When your opponent’s “ Airknight Parshath ” attacks your face-down “ Marshmallon ”, after  damage calculation  the effect of “ Airknight Parshath ” will be  Chain Link  1 and the effect of your “ Marshmallon ” will be  Chain Link  2. 
+ Null and Void : ...You can  chain  " Null and Void " to the activation of the effect of cards like " Airknight Parshath ". 
+ Null and Void : You can  activate  " Null and Void " during the  Damage Step , for example against the effects of " Airknight Parshath "... 
+ Protector of the Sanctuary : Your opponent cannot draw with " Airknight Parshath " while you control " Protector of the Sanctuary ". 
+ Raging Flame Sprite : The effect of " Raging Flame Sprite " is resolved after damage calculation and before Flip Effects are resolved (so the timing is the same as " Don Zaloog " and " Airknight Parshath "). 
+ Spirit Barrier : If you have 1 monster on the field, and "Airknight Parshath" attacks and destroys it, and would do extra damage, there is still a monster on the  field  when "Airknight Parshath"'s effect would activate and resolve, so " Spirit Barrier "'s effect is applied, "Airknight Parshath" inflicts zero damage to your Life Points], and your opponent does not draw a card for "Airknight Parshath"'s effect. 
+ Twin Swords of Flashing Light - Tryce : If "Airknight Parshath" is equipped with " Twin Swords of Flashing Light - Tryce " and attacks twice, you can draw twice. 
+ 
+ 
+ 
+ References 
+ 
+ ↑   Konami FAQ : [Damage Step] When a Fairy-Type monster is drawn from the deck during the Damage Step, can you activate the effect of "Tethys, Goddess of Light"? 
+ 
+ ↑   Konami FAQ : When "Spirit Reaper" deals Battle Damage, can "Tragoedia" be chained and Special Summon itself? 
+ 
+ ↑  3.0   3.1   Konami FAQ : The effect of "Gemini Soldier" activates " after Damage Calculation ", which is when? 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

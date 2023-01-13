@@ -1,0 +1,595 @@
+Link: https://yugioh.fandom.com/wiki/Continuous_Trap_Card
+
+
+ 
+ Continuous Trap Card
+ 
+ 
+ 
+ Continuous Icon
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 永 続 罠 カード
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ えいぞくトラップカード
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 永続罠カード
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Eizoku Torappu Kādo
+ 
+ 
+ 
+ Japanese (translated)
+ 
+ 
+ Permanent Trap Card
+ 
+ 
+ 
+ English
+ 
+ 
+ Continuous Trap Card
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Carte Piège Continu 
+ German : Permanente Fallenkarte 
+ Italian : Carta Trappola Continua 
+ Portuguese : Card de Armadilha Contínuo Formerly: Card de Armadilha Contínua 
+ Spanish : Carta de Trampa Continua 
+ Korean : 지속 함정 카드 (持續陷穽 Card)  Jisok Hamjeong Kadeu 
+ Traditional Chinese : 永續陷阱卡  Yǒngxù Xiànjíngkǎ / Wing5 zuk6 Haam6 zeng6 kaat1 
+ Simplified Chinese : 永续陷阱卡  Yǒngxù Xiànjíngkǎ 
+ Arabic : أوراق فخ الدائمة 
+ 
+ 
+ 
+ 
+ 
+ Lists
+ 
+ 
+ 
+ 
+ members 
+ support 
+ anti-support 
+ 
+ Continuous Trap Cards  (Japanese:  永 続 罠 カード  Eizoku Torappu Kādo ) are  Trap Cards  that stay on the field after activation. The effect(s) of these cards will remain active until the  owner  cannot maintain the cost or condition(s) indicated on the card (if any) OR it is  destroyed . One example of a Continuous Trap Card is " Spellbinding Circle ", which effectively freezes an enemy monster on the field, so it can neither change  battle position  nor declare an attack.
+ Most Continuous Trap Cards require a cost to maintain or possess a condition under which the card is  destroyed  if said cost/condition is not met. Two examples of these are " Imperial Order " and " Call of the Haunted ". "Imperial Order" requires a cost of 700  Life Points  to maintain, but "Call of the Haunted" is destroyed when the monster used with it is destroyed. Continuous Trap Cards are also the only kind of Trap Card that can be used to summon " Uria, Lord of Searing Flames ", with the exception of cards such as " Blast with Chain " and " Kunai with Chain ", which are not Continuous Trap Cards, but remain on the field after activation.
+ Another example of a Continuous Trap Card is " Royal Decree ", which  negates  Trap Cards' effects. However, since it is still  Spell Speed 2 , it cannot be used against cards like " Magic Drain ", " Seven Tools of the Bandit ", " Negate Attack ", or " Trap Jammer ", since they are all  Counter Trap Cards , and thus  Spell Speed 3 .
+ Cards such as " Chain Burst " and " Curse of Darkness " have to be  face-up  on the field before the card it inflicts damage against is activated; you cannot chain these cards to the activation of the card type mentioned and still maintain the effect of inflicting damage. This is because the timing has been missed; the card in question has already been activated.
+ 
+ Contents 
+ 
+ 1   Trap Monsters 
+ 2   Activating the card and effect in the same Chain Link 
+ 3   Example 
+ 4   References 
+ 
+ 
+ Trap Monsters 
+ Main article:  Trap Monster 
+ Some Continuous Trap Cards become monsters when activated, known as  Trap Monsters . An example of a Trap Monster is " Metal Reflect Slime ", which has high DEF. A Trap Monster is considered both a Continuous Trap Card and a monster simultaneously, so it can be affected by both cards that affect monsters and cards that affect Continuous Trap Cards.
+ 
+ Activating the card and effect in the same Chain Link 
+ As long as they both meet their activation timings, a Continuous Trap Card and exactly one of its  Trigger-like Effects  or  Quick-like Effects  can be activated during the same  Chain Link . For example, when your opponent activates " Monster Reborn ", you can activate " Royal Oppression " and activate its effect in the same Chain Link.
+ If a Continuous Trap Card has an optional Trigger-like Effect or Quick-like Effect that can be activated during the  Damage Step  and that can be activated in the same Chain Link as the card itself, that Continuous Trap Card can also be activated during the Damage Step as long as the effect and card are activated in the same Chain Link. However,  mandatory  Trigger-like Effects and Quick-like Effects cannot be activated in the same Chain Link as the card during the Damage Step.
+ A Continuous Trap Card cannot activate its Trigger-like Effect in the same Chain Link as the card itself if that effect sends the Continuous Trap Card to the Graveyard as a  cost , because the Continuous Trap Card is not face-up on the field at the time it is activated. If the activation timing includes " while this card is face-up on the field " (such as the Trigger-like Effect of " Predaplanet " and the first effect of " Shinobird Salvation "), that effect cannot meet its activation timing before the Continuous Trap Card is activated, so that effect cannot be activated in the same Chain Link as the card itself. Additionally, the Trigger-like Effects of the cards " All-Out Attacks ", [1] [2]  " Coffin Seller ", [3]  " Cyber Summon Blaster ", [4]  " Light Spiral ", [5]  " Natural Disaster ", [6]  " Overdoom Line ", [7]  " PSY-Frame Accelerator ", [8]  " Spirit's Invitation ", [9]  " Swiftstrike Armor ", [10]  and " Unpossessed " [11]  cannot be activated in the same Chain Link as the card itself.
+ 
+ Example 
+ 
+ References 
+ 
+ ↑   "Individual Card Rulings [A-C]" . UDE. All-Out Attacks. Archived from  the original  on 17 February 2009 .  http://web.archive.org/web/20090217182013/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=A&last=C . Retrieved 15 February 2016 . 
+ 
+ ↑   "Ｑ＆Ａ » 召喚制限－猛突するモンスター [Q&A » All-Out Attacks]"  (in Japanese). Konami. 1 September 2016 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7474&request_locale=ja . Retrieved 28 September 2016 . 
+ 
+ ↑   "Ｑ＆Ａ » 棺桶売り [Q&A » Coffin Seller]"  (in Japanese). Konami. 9 March 2017 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5492&request_locale=ja . Retrieved 9 April 2017 . 
+ 
+ ↑   "Ｑ＆Ａ » サイバー・サモン・ブラスター [Q&A » Cyber Summon Blaster]"  (in Japanese). Konami. 28 July 2016 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=6737&request_locale=ja . Retrieved 9 April 2017 . 
+ 
+ ↑   "Ｑ＆Ａ » ライト・リサイレンス [Q&A » Light Spiral]"  (in Japanese). Konami. 14 January 2016 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7643&request_locale=ja . Retrieved 15 February 2016 . 
+ 
+ ↑   "Ｑ＆Ａ » ナチュラル・ディザスター [Q&A » Natural Disaster]"  (in Japanese). Konami. 24 September 2015 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7272&request_locale=ja . Retrieved 15 February 2016 . 
+ 
+ ↑   "Ｑ＆Ａ » オーバー・デッド・ライン [Q&A » Overdoom Line]"  (in Japanese). Konami. 31 March 2016 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=8218&request_locale=ja . Retrieved 9 April 2017 . 
+ 
+ ↑   "Ｑ＆Ａ » PSYフレーム・アクセラレーター [Q&A » PSY-Frame Accelerator]"  (in Japanese). Konami. 9 July 2016 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=12664&request_locale=ja . Retrieved 9 April 2017 . 
+ 
+ ↑   "Ｑ＆Ａ » スピリットの誘い [Q&A » Spirit's Invitation]"  (in Japanese). Konami. 7 July 2016 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=5402&request_locale=ja . Retrieved 9 April 2017 . 
+ 
+ ↑   "Ｑ＆Ａ » 神速の具足 [Q&A » Swiftstrike Armor]"  (in Japanese). Konami. 14 January 2016 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=7322&request_locale=ja . Retrieved 15 February 2016 . 
+ 
+ ↑   "Ｑ＆Ａ » 憑依解放 [Q&A » Unpossessed]"  (in Japanese). Konami. 15 November 2014 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=11596&request_locale=ja . Retrieved 15 February 2016 . 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/78/Continuous.png/revision/latest?cb=20140609023344', 'https://static.wikia.nocookie.net/yugioh/images/a/a5/CalloftheHaunted-SDSE-EN-C-1E.png/revision/latest?cb=20150827212734']
+Categories: Types of Trap Cards

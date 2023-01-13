@@ -1,0 +1,238 @@
+Link: https://yugioh.fandom.com/wiki/Toon_Rollback
+
+
+ 
+ 
+ Toon Rollback トゥーン・ロールバック 
+ 
+ English 
+Toon Rollback 
+ French 
+ Rembobinage Toon Check translation 
+ German 
+ Toon-Wiederholung Check translation 
+ Italian 
+ Ritorno Toon Check translation 
+ Korean 
+ 툰 롤백 Check translation 
+ Portuguese 
+ Reversão Toon Check translation 
+ Spanish 
+ Repetición Toon Check translation 
+ Japanese 
+ トゥーン・ロールバック Check translation 
+ Japanese ( rōmaji ) 
+Tūn Rōrubakku 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 70560957 
+ Card effect types 
+ 
+ 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Target  1  Toon monster  you  control ; it can make a second  attack  during each  Battle Phase  this  turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Ciblez 1 monstre Toon que vous contrôlez ; durant chaque Battle Phase ce tour, il peut faire une seconde attaque. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wähle 1 Toon-Monster, das du kontrollierst; es kann während jeder Battle Phase in diesem Spielzug einen zweiten Angriff durchführen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Scegli come bersaglio 1 mostro Toon che controlli; esso può effettuare un secondo attacco durante ogni Battle Phase in questo turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Escolha 1 monstro Toon que você controla; ele pode realizar um segundo ataque durante cada Fase de Batalha neste turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Selecciona 1 monstruo Toon que controles; este turno, éste puede hacer un segundo ataque durante cada Battle Phase. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：自分フィールドのトゥーンモンスター１体を対象として発動できる。このターン、そのモンスターは１度のバトルフェイズ中に２回攻撃できる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 자신 필드의 툰 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 턴에, 그 몬스터는 1번의 배틀 페이즈 중에 2회 공격할 수 있다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2015-07-16 DRL2-EN024 Dragons of Legend 2 Super Rare 2019-01-24 SS01-ENC11 Speed Duel Starter Decks: Destiny Masters Common 2020-05-14 SS04-ENB21 Speed Duel Starter Decks: Match of the Millennium Common 2020-09-10 DLCS-EN075 Dragons of Legend: The Complete Series Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2015-07-16 DRL2-FR024 Dragons of Legend 2 Les Dragons de Légende 2 Super Rare 2019-01-24 SS01-FRC11 Speed Duel Starter Decks: Destiny Masters Decks de Démarrage Speed Duel : Les Maîtres du Destin Common 2020-05-14 SS04-FRB21 Speed Duel Starter Decks: Match of the Millennium Decks de Dérramage Speed Duel : le Match du Millénnium Common 2020-09-10 DLCS-FR075 Dragons of Legend: The Complete Series Les Dragons de Légende : la Série Complète Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2015-07-16 DRL2-DE024 Dragons of Legend 2 Dragons of Legend 2 Super Rare 2019-01-24 SS01-DEC11 Speed Duel Starter Decks: Destiny Masters Speed Duel Starter Decks: Destiny Masters Common 2020-05-14 SS04-DEB21 Speed Duel Starter Decks: Match of the Millennium Speed Duel Starter Decks: Match of the Millennium Common 2020-09-10 DLCS-DE075 Dragons of Legend: The Complete Series Dragons of Legend: The Complete Series Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2015-07-16 DRL2-IT024 Dragons of Legend 2 Draghi della Leggenda 2 Super Rare 2019-01-24 SS01-ITC11 Speed Duel Starter Decks: Destiny Masters Starter Deck Speed Duel: Maestri del Destino Common 2020-05-14 SS04-ITB21 Speed Duel Starter Decks: Match of the Millennium Starter Deck Speed Duel: Partita del Millennio Common 2020-09-10 DLCS-IT075 Dragons of Legend: The Complete Series Draghi della Leggenda: la Serie Completa Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2015-07-16 DRL2-PT024 Dragons of Legend 2 Dragões das Lendas 2 Super Rare 2019-01-24 SS01-PTC11 Speed Duel Starter Decks: Destiny Masters Decks Iniciais Speed Duel: Mestres do Destino Common 2020-05-14 SS04-PTB21 Speed Duel Starter Decks: Match of the Millennium Decks Iniciais de Duelo Rápido: Partida do Milênio Common 2020-09-10 DLCS-PT075 Dragons of Legend: The Complete Series Dragões das Lendas: a Serie Completa Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2015-07-16 DRL2-SP024 Dragons of Legend 2 Dragones de Leyenda 2 Super Rare 2019-01-24 SS01-SPC11 Speed Duel Starter Decks: Destiny Masters Barajas de Principiante Speed Duel: Maestros del Destino Common 2020-05-14 SS04-SPB21 Speed Duel Starter Decks: Match of the Millennium Barajas de Principiante Speed Duel: El Duelo del Milenio Common 2020-09-10 DLCS-SP075 Dragons of Legend: The Complete Series Dragones de Leyenda: las Series Completas Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2015-05-16 CPD1-JP024 Collectors Pack: Duelist of Destiny Version コレクターズパック －運命の決闘者編－ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2015-10-16 CPD1-KR024 Collectors Pack: Duelist of Destiny Version COLLECTORS   PACK  운명의 듀얼리스트 편 Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Toon monster 
+ 
+ Archetypes  and  series   
+ Toon 
+ 
+ Attack  categories  
+ Allows multiple attacks 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11902 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Toon Rollback " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Toon " 「トゥーン」 Members 
+ Blue-Eyes Toon Dragon Manga Ryu-Ran Red-Eyes Toon Dragon Toon Alligator Toon Ancient Gear Golem Toon Barrel Dragon Toon Black Luster Soldier Toon Buster Blader Toon Cannon Soldier Toon Cyber Dragon Toon Dark Magician Toon Dark Magician Girl Toon Gemini Elf Toon Goblin Attack Force Toon Harpie Lady Toon Masked Sorcerer Toon Mermaid Toon Summoned Skull 
+ Shadow Toon Toon Bookmark Toon Briefcase Toon Defense Toon Kingdom Toon Mask Toon Page-Flip Toon Rollback Toon Table of Contents Toon Terror Toon World 
+ Support 
+ Toon Dark Magician 
+ Toon Table of Contents 
+ Related 
+ Ancient Gear Golem Barrel Dragon Bickuribox Black Luster Soldier Blue-Eyes White Dragon Buster Blader Cannon Soldier Cyber Dragon Dark Magician Dark Magician Girl Dark Rabbit Dream Clown Gemini Elf Genin Goblin Attack Force Harpie Lady Hungry Burger Masked Sorcerer Niwatori Parrot Dragon Pegasus/Monster A Pegasus/Monster B Pegasus/Monster C Red Archery Girl Red-Eyes Black Dragon Ryu-Ran Stuffed Animal Summoned Skull 
+ Comic Hand Mimicat Pegasus/Spell A Pegasus/Spell B Pegasus/Spell C Pegasus/Trap A Shine Palace 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d4/ToonRollback-DLCS-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20201201172857', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

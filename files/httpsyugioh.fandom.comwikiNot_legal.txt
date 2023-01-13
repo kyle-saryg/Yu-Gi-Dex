@@ -1,0 +1,55 @@
+Link: https://yugioh.fandom.com/wiki/Not_legal
+
+Cards that are  not  legal  in a given  region  may not be used in tournaments in that region. If there is any region a card is not legal in, it may not be used in  World Championship  events.
+ Generally, a card becomes legal in a region when it has been officially released in a product in that region. For example,  Shonen Jump  promotional cards  become tournament-legal in  North America  upon their release, but they are not tournament-legal in  South America ,  Europe ,  Australia , or  Africa  until they have been formally released in a product in those regions, since  Shonen Jump  is distributed exclusively in North America.
+ This term is distinct from  illegal , used for cards which have  limitation text  and will never be legal anywhere, and  Forbidden , used for cards that are legal for tournament use but are currently restricted to zero copies in the  Main ,  Side , and  Extra  Decks for all  Advanced Format  events.
+ Currently, cards that are not legal do not have an indication of that status on their pages on this wiki. This page lists some cards that are not legal in various regions, but the information here may be incomplete, out of date, or otherwise incorrect.
+ 
+ Contents 
+ 
+ 1   Not legal outside of Asia 
+ 2   Not legal in Asia 
+ 3   Not legal in South America, Europe, Australia, and Africa 
+ 
+ 3.1   Shonen Jump  promotional cards 
+ 3.2   Manga promotional cards 
+ 3.3   Other cards 
+ 
+ 
+ 4   External link 
+ 
+ 
+ Not legal outside of Asia 
+ Main article:  OCG exclusive 
+ Any cards that are  OCG exclusive  have not been released in the  TCG , and so are not legal in regions that the  TCG  covers, namely North America, South America, Europe, Australia, and Africa.
+ 
+ Not legal in Asia 
+ Main article:  TCG exclusive 
+ Any cards that are  TCG exclusive  have not been released in the  OCG , and so are not legal in regions that the  OCG  covers, namely Asia.
+ 
+ Not legal in South America, Europe, Australia, and Africa 
+ The following cards have been released in both the  OCG  and  TCG  (making them legal in Asia), but their only  TCG  release has been through a region-restricted method in North America. They are thus not legal in South America, Europe, Australia, and Africa, despite all these regions also following the  TCG . They may eventually become legal once re-released in the  TCG  through a non-region-restricted method.
+ 
+ Shonen Jump  promotional cards 
+ Main article:  Shonen Jump promotional cards 
+ As the  Shonen Jump  magazine is only distributed in North America, cards that have only been made available in the  TCG  as  Shonen Jump promotional cards  are only  TCG  legal in North America.
+ Cards whose  only   TCG  release so far has been as a Shonen Jump promotional card are the following:
+ 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Chaos Emperor Dragon - Envoy of the End 混沌帝龍 －終焉の使者－ Effect Monster DARK Dragon 8 3000 2500 Troposphere トラファスフィア Effect Monster WIND Winged Beast 6 2400 2000 
+   Japanese name Card type Property Judgment of Pharaoh ファラオの審判 Trap Card Normal Trap Card Normal Trap Card Unity 結束 ＵＮＩＴＹ Spell Card Quick-Play Spell Card Quick-Play Spell Card Yu-Jo Friendship 友情 ＹＵ－ＪＹＯ Spell Card Normal Spell Card Normal Spell Card 
+ Manga promotional cards 
+ The following cards'  only   TCG  release has been as promotional cards for volumes of the  Yu-Gi-Oh! 5D's ,  Yu-Gi-Oh! ZEXAL  and  Yu-Gi-Oh! ARC-V  manga. As the manga is only distributed in Asia and North America, the following cards are not legal in South America, Europe, Australia, or Africa until released again through a non-region-restricted method:
+ 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Clear Wing Fast Dragon クリアウィング・ファスト・ドラゴン Effect Monster Synchro Monster Pendulum Monster WIND Dragon 7 2500 2000 Gagaga Head ガガガヘッド Effect Monster DARK Spellcaster 6 2100 2000 Infernity General インフェルニティ・ジェネラル Effect Monster DARK Fiend 7 2700 1500 Number 72: Shogi Rook Ｎｏ.７２ ラインモンスター チャリオッツ・飛車 Effect Monster Xyz Monster EARTH Beast-Warrior 6 2500 1200 Odd-Eyes Phantasma Dragon オッドアイズ・ファンタズマ・ドラゴン Effect Monster Pendulum Monster DARK Dragon 8 3000 2500 Timelord Progenitor Vorpgate 時械神祖ヴルガータ Effect Monster Synchro Monster DARK Fairy 10 0 0 
+ Other cards 
+ There are also cards whose  only   TCG  releases so far have been North America-exclusive, but were not released as either  Shonen Jump  or manga promotional cards. 
+ These cards are the following:
+ 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Shiba-Warrior Taro 柴戦士タロ Effect Monster Tuner monster EARTH Beast-Warrior 2 800 600 
+ External link 
+ yugioh-card.com/uk/  Cards not Legal for play in Europe 
+ yugioh-card.com/oc/  Cards not Legal for play in Oceania 
+ 
+ 
+ 
+Categories: Forbidden & Limited Lists

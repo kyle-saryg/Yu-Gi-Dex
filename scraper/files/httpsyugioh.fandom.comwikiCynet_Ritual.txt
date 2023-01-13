@@ -1,0 +1,274 @@
+Link: https://yugioh.fandom.com/wiki/Cynet_Ritual
+
+
+ 
+ 
+ Cynet Ritual サイバネット・リチューアル 
+ 
+ English 
+Cynet Ritual 
+ French 
+ Cynet Rituel Check translation 
+ German 
+ Cynet-Ritual Check translation 
+ Italian 
+ Cynet Rituale Check translation 
+ Korean 
+ 사이바넷 리츄얼 Check translation 
+ Portuguese 
+ Cinet Ritual Check translation 
+ Spanish 
+ Cinet-Ritual Check translation 
+ Japanese 
+ サイバネット・リチューアル Check translation 
+ Japanese ( rōmaji ) 
+Saibanetto Richūaru 
+ Japanese (translated) 
+Cybenet Ritual 
+ Card type 
+ Spell   
+ Property 
+ Ritual   
+ Passcode 
+ 34767865 
+ Card effect types 
+ 
+ 
+ Effect 
+ Ignition-like 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+This card can be used to  Ritual Summon  any  Cyberse   Ritual Monster . You must also  Tribute  monsters from your  hand  or  field  whose total  Levels  equal or exceed the Level of the Ritual Monster you Ritual Summon. If you  control  no  monsters : You can  banish  this card and 1 Ritual Monster from the  GY ;  Special Summon  2 " Cynet Tokens " (Cyberse/ LIGHT /Level 4/ATK 0/DEF 0). You cannot  activate  this  effect  the turn this card is  sent  to the GY. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Cette carte peut être utilisée pour Invoquer Rituellement un Monstre Rituel Cyberse. Vous devez aussi Sacrifier des monstres depuis votre main ou Terrain dont le Niveau total est supérieur ou égal au Niveau du Monstre Rituel que vous Invoquez Rituellement. Si vous ne contrôlez aucun monstre : vous pouvez bannir cette carte et 1 Monstre Rituel depuis le Cimetière ; Invoquez Spécialement 2 "Jeton Cynet" (Cyberse/LUMIÈRE/Niveau 4/ATK 0/DEF 0). Vous ne pouvez pas activer cet effet le tour où cette carte est envoyée au Cimetière. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Diese Karte kann verwendet werden, um ein beliebiges Cyberse-Ritualmonster als Ritualbeschwörung zu beschwören. Du musst zusätzlich Monster von deiner Hand oder Spielfeldseite als Tribut anbieten, deren gemeinsame Stufe größer oder gleich der Stufe des Ritualmonsters ist, das du als Ritualbeschwörung beschwörst. Falls du keine Monster kontrollierst: Du kannst diese Karte und 1 Ritualmonster vom Friedhof verbannen; beschwöre 2 „Cynet-Spielmarken“ (Cyberse/LICHT/Stufe 4/ATK 0/DEF 0) als Spezialbeschwörung. Du kannst diesen Effekt nicht in dem Spielzug aktivieren, in dem diese Karte auf den Friedhof gelegt wurde. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Questa carta può essere utilizzata per Evocare tramite Rituale qualsiasi Mostro Rituale Cyberso. Devi anche offrire come Tributo, dalla tua mano o Terreno, mostri il cui Livello totale sia pari o superiore al Livello del Mostro Rituale che Evochi tramite Rituale. Se non controlli nessun mostro: puoi bandire questa carta e 1 Mostro Rituale dal Cimitero; Evoca Specialmente 2 "Segna-Cynet" (Cyberso/LUCE/Livello 4/ATK 0/DEF 0). Non puoi attivare questo effetto nel turno in cui questa carta viene mandata al Cimitero. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Este card pode ser usado para a Invoção-Ritual de qualquer Monstro de Ritual Ciberso. Você também deve oferecer como Tributo monstros da sua mão ou do campo cuja soma dos Níveis seja igual ou exceda o Nível do Monstro de Ritual que você Invocar por Invocação-Ritual. Se você não controlar nenhum monstro: você pode banir este card e 1 Monstro de Ritual do Cemitério; Invoque por Invocação-Especial 2 "Fichas Cinet" (Ciberso/LUZ/Nível 4/ATK 0/DEF 0). Você não pode ativar este efeito no turno em que este card for enviado para o Cemitério. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Esta carta puede ser usada para Invocar por Ritual cualquier Monstruo de Ritual Ciberso. También debes Sacrificar monstruos en tu mano o Campo cuyos Niveles totales sean iguales o excedan el Nivel del Monstruo de Ritual que Invoques por Ritual. Si no controlas monstruos: puedes desterrar esta carta y 1 Monstruo de Ritual en el Cementerio; Invoca de Modo Especial 2 "Fichas Cinet" (Ciberso/LUZ/Nivel 4/ATK 0/DEF 0). No puedes activar este efecto el turno que esta carta es mandada al Cementerio. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ サイバース族の儀式モンスターの降臨に必要。①:レベルの合計が儀式召喚するモンスターのレベル以上になるように、自分の手札・フィールドのモンスターをリリースし、手札からサイバース族の儀式モンスター1体を儀式召喚する。②:自分フィールドにモンスターが存在しない場合、自分の墓地からこのカードと儀式モンスター1体を除外して発動できる。自分フィールドに「サイバネット・トークン」（サイバース族・光・星４・攻／守０）２体を特殊召喚する。この効果はこのカードが墓地へ送られたターンには発動できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 사이버스족 의식 몬스터의 강림에 필요. ① : 레벨의 합계가 의식 소환하는 몬스터의 레벨 이상이 되도록, 자신의 패 / 필드의 몬스터를 릴리스하고 패에서 사이버스족 의식 몬스터 1체를 의식 소환한다. ② : 자신 필드에 몬스터가 존재하지 않을 경우, 자신의 묘지에서 이 카드와 의식 몬스터 1체를 제외하여 발동할 수 있다. 자신 필드에 "사이바넷 토큰" (사이버스족 / 빛 / 레벨 4 / 공격력 0 / 수비력 0) 2체를 특수 소환한다. 이 효과는 이 카드가 묘지로 보내진 턴에는 발동할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2018-07-26 CYHO-EN051 Cybernetic Horizon Rare 2019-08-29 MP19-EN113 2019 Gold Sarcophagus Tin Mega Pack Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2018-07-26 CYHO-FR051 Cybernetic Horizon Horizon Cybernétique Rare 2019-08-29 MP19-FR113 2019 Gold Sarcophagus Tin Mega Pack Boîte Sarcophage Doré 2019 Méga Pack Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2018-07-26 CYHO-DE051 Cybernetic Horizon Cybernetic Horizon Rare 2019-08-29 MP19-DE113 2019 Gold Sarcophagus Tin Mega Pack 2019 Gold Sarcophagus Tin Mega Pack Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2018-07-26 CYHO-IT051 Cybernetic Horizon Orizzonte Cibernetico Rare 2019-08-29 MP19-IT113 2019 Gold Sarcophagus Tin Mega Pack Tin Sarcofago d'Oro 2019 Mega-Pack Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2018-07-27 CYHO-PT051 Cybernetic Horizon Horizonte Cibernético Rare 2019-08-30 MP19-PT113 2019 Gold Sarcophagus Tin Mega Pack Mega-Pacote da Lata Sarcófago Dourado 2019 Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2018-07-26 CYHO-SP051 Cybernetic Horizon Horizonte Cibernético Rare 2019-08-29 MP19-SP113 2019 Gold Sarcophagus Tin Mega Pack Lata Cofre de Oro Sellado 2019 Mega Pack Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2018-04-14 CYHO-JP051 Cybernetic Horizon サイバネティック・ホライゾン Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2018-07-24 CYHO-KR051 Cybernetic Horizon 사이버네틱 호라이즌 Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Cyberse 
+ Ritual Monster 
+ 
+ Archetypes  and  series   
+ Cynet 
+ 
+ Related to  archetypes  and  series   
+ Cyber 
+ Paladins of Dragons 
+ 
+ Actions  
+ Tributes as an effect 
+ Activates from your Graveyard 
+ 
+ Summoning  categories  
+ Special Summons from your hand 
+ Special Summons Tokens 
+ 
+ Banished  categories  
+ Banishes itself from Graveyard for cost 
+ Banishes from Graveyard for cost 
+ 
+ Miscellaneous  
+ Nonspecific Ritual Spell Card 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 13767 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Cynet Ritual " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Cyber " 「サイバー」 Members 
+ Armored Cybern The Arrival Cyberse @Ignister Attachment Cybern Cyber Angel Benten Cyber Angel Dakini Cyber Angel Idaten Cyber Angel Izana Cyber Angel Natasha Cyber Angel Vrash Cyber Archfiend Cyber Barrier Dragon Cyber Blader Cyber Dinosaur Cyber Dragon Cyber Dragon Core Cyber Dragon Drei Cyber Dragon Herz Cyber Dragon Infinity Cyber Dragon Nachster Cyber Dragon Nova Cyber Dragon Sieger Cyber Dragon Vier Cyber Dragon Zwei Cyber Egg Angel Cyber Eltanin Cyber End Dragon Cyber Esper Cyber Eternity Dragon Cyber Gymnast Cyber Harpie Lady Cyber Jar Cyber Kirin Cyber Larva Cyber Laser Dragon Cyber Ogre Cyber Ogre 2 Cyber Ouroboros Cyber Petit Angel Cyber Pharos Cyber Phoenix Cyber Prima Cyber Raider Cyber Shark Cyber Tutu Cyber Tutubon Cyber Twin Dragon Cyber Valley Cyberdark Cannon Cyberdark Chimera Cyberdark Claw Cyberdark Dragon Cyberdark Edge Cyberdark End Dragon Cyberdark Horn Cyberdark Keel Cyberdarkness Dragon Cyberse Accelerator Cyberse Clock Dragon Cyberse Converter Cyberse Disabwurm Cyberse Enchanter Cyberse Gadget Cyberse Integrator Cyberse Magician Cyberse Quantum Dragon Cyberse Reminder Cyberse Sage Cyberse Synchron Cyberse White Hat Cyberse Wicckid Cyberse Witch Cyberse Wizard Etoile Cyber The Fiend Megacyber Malefic Cyber End Dragon Proto-Cyber Dragon Psychic Megacyber Stegocyber T.G. Cyber Magician Toon Cyber Dragon 
+ Cyber Emergency Cyber Energy Shock Cyber Eternal Cyber Network Cyber Repair Plant Cyber Revsystem Cyber Shadow Gardna Cyber Shield Cyber Summon Blaster Cyberdark Impact! Cyberdark Inferno Cyberdark Invasion Cyberdark Realm Cyberload Fusion Cybernetic Horizon Cybersal Cyclone Cyberse Beacon 
+ Support 
+ Attachment Cybern Cyber Dragon Core Cyberdark Chimera 
+ Cyber Eternal Cybernetic Horizon Cybernetic Overflow 
+ Related 
+ Blade Skater Chimeratech Fortress Dragon Chimeratech Megafleet Dragon Chimeratech Overdragon Clock Wyvern Gadget Token Petit Angel Wing Egg Elf 
+ Attack Reflector Unit Born from Draconis Byroad Sacrifice Cybernetic Hidden Technology Cybernetic Revolution Cynet Ritual Evolution Burst Photon Generator Unit Power Bond Ritual Sanctuary 
+ 
+   
+" Cynet " 「サイバネット」 Members 
+ Cynet Backdoor Cynet Cascade Cynet Circuit Cynet Codec Cynet Conflict Cynet Crosswipe Cynet Fusion Cynet Mining Cynet Optimization Cynet Recovery Cynet Refresh Cynet Regression Cynet Ritual Cynet Rollback Cynet Storm Cynet Universe 
+ Support 
+ Cyberse Reminder Firewall Phantom Micro Coder 
+ Related 
+ Clock Spartoi Cyberse Magician Cyberse Sage Cyberse Witch Diplexer Chimera Paladin of Storm Dragon 
+ 
+   
+ Paladins of Dragons   竜の聖騎士 Members 
+ Knight of Armor Dragon Paladin of Dark Dragon Paladin of Photon Dragon Paladin of Storm Dragon Paladin of White Dragon 
+ Related 
+ Armed Dragon LV7 Blue-Eyes White Dragon Firewall Dragon Galaxy-Eyes Photon Dragon Paladin of the Cursed Dragon Red-Eyes Black Dragon 
+ Armor Dragon Ritual Cynet Ritual Dark Dragon Ritual Luminous Dragon Ritual Raregold Armor White Dragon Ritual 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/62/CynetRitual-MP19-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20200121190706', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/f/f5/Ritual.svg/revision/latest/scale-to-width-down/28?cb=20120920115233']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,65 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Airknight_Parshath
+
+
+ Airknight Parshath 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Yu-Gi-Oh! The Duelists of the Roses 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ When this card attacks with an ATK that is higher than the DEF of  your opponent's  Defense Position monster, inflict the difference as Battle Damage to your opponent's Life Points. When this card inflicts Battle Damage to your opponent's Life Points, draw 1 card from your Deck. 
+ When  this card attacks  with an ATK that is higher than the DEF of   a  Defense Position monster, inflict the difference as Battle Damage to your  opponent's Life Points . When this card inflicts Battle Damage to your  opponent's Life Points , draw 1 card  from your Deck . 
+ During battle between  this  attacking  card  and  a Defense Position monster  whose DEF is lower than the ATK of this card , inflict  the difference as  Battle Damage to your  opponent . When this card inflicts Battle Damage to your  opponent , draw  1 card. 
+ 
+ 
+       LOD-062 Legacy of Darkness     
+       TP6-EN007 Tournament Pack 6     
+       RP02-EN058 Retro Pack 2     
+ 
+ 
+ Third erratum 
+ Fourth erratum   
+ 
+ 
+ If  this card  attacks  a Defense Position monster, inflict  piercing   Battle Damage  to your opponent. When this card inflicts Battle Damage to your opponent : Draw  1 card. 
+ If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. When this card inflicts  battle damage  to your opponent: Draw 1 card. 
+ 
+ 
+         BP01-EN124 Battle Pack: Epic Dawn     
+         BP02-EN016 Battle Pack 2: War of the Giants     
+ 
+ 
+ Chinese 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ 此卡在攻擊守備表示的怪獸時，若其 守備 力超過 攻擊 力，將給對手生命造成相差數值的戰斗傷害。另外，當此卡給對手生命造成戰鬥傷害時，從牌組抽1張卡牌。 
+ 此卡在攻擊守備表示的怪獸時，若其 攻擊 力超過 守備 力，將給對手生命造成相差數值的戰斗傷害。另外，當此卡給對手生命造成戰鬥傷害時，從牌組抽1張卡牌。 
+ 
+ 
+         SP01-TC012 Starter Pack Volume 1     
+         更正卡牌目錄     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/be/AirknightParshath-LOD-NA-UR-1E.jpg/revision/latest/scale-to-width-down/180?cb=20091126094224', 'https://static.wikia.nocookie.net/yugioh/images/c/c8/AirknightParshath-TP6-EN-R-UE.jpg/revision/latest/scale-to-width-down/180?cb=20081030040444', 'https://static.wikia.nocookie.net/yugioh/images/9/9b/AirknightParshath-RP02-EN-R-UE.png/revision/latest/scale-to-width-down/180?cb=20160602134148', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/33/AirknightParshath-BP01-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20120531162445', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/96/AirknightParshath-BP02-EN-MSR-1E.png/revision/latest/scale-to-width-down/180?cb=20130713043552', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4f/AirknightParshath-SP01-TC-R.png/revision/latest/scale-to-width-down/180?cb=20140511104614', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4a/Back-AE.png/revision/latest/scale-to-width-down/180?cb=20100726075456']
+Categories: Card Errata, Cards with 4 errata, Cards with 1 erratum, Cards with Chinese errata

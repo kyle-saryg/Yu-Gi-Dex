@@ -1,0 +1,104 @@
+Link: https://yugioh.fandom.com/wiki/Armatos_Legio_Segmentata
+
+
+ Armatos Legio Segmentata 
+ 
+ Japanese:   天装騎兵 セグメンタタ 
+ Kana:   アルマートス・レギオー セグメンタタ 
+ Romaji:   Arumātosu Regiō Segumentata 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Level 
+ 
+ 
+ 4   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Trigger 
+ Condition 
+ [  Cyberse  /  Effect  ] If this  linked  card is  send  to the  GY  as  Link Material : You can  pay  1000 LP;  shuffle  all  monsters  that were used as materials for that  Link Summon  from your GY into the  Deck , then shuffle cards from your GY into the Deck equal to the Link Summoned  Link Monster 's  Link Rating , then your opponent chooses 1 card from your GY for you to  add  to your  hand . You can only use this  effect  of "Armatos Legio Segmentata"  once per turn .
+ ATK  /  0     DEF  /  2000   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  096 ,  097 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 天装騎兵  セグメンタタ 
+ このカード名の効果は１ターンに１度しか使用できない。①：リンク状態のこのカードがリンク素材として墓地へ送られた場合、１０００ＬＰを払って発動できる。そのリンク召喚に使用した自分の墓地のリンク素材モンスターを全てデッキに戻す。その後、そのリンク召喚したリンクモンスターのリンクマーカーの数だけ、自分は自分の墓地のカードを選びデッキに戻す。その後、自分の墓地のカード１枚を相手が選び、そのカードを自分の手札に加える。 
+ 
+ 
+ Arumātosu Regiō Segumentata 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Lightning 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Armatos Legio 
+ 
+ v e 
+" Armatos Legio " 「 天装騎兵 」 a   m   Members 
+ Armatos Legio Centurion Armatos Legio Decurion Armatos Legio Eques Flamma Armatos Legio Galea Armatos Legio Gradius Armatos Legio Legatus Legionis Armatos Legio Magica Alcum Armatos Legio Magnus Dux Armatos Legio Pilus Prior Armatos Legio Plumbum Trident Armatos Legio Primi Ordines Armatos Legio Scutum Armatos Legio Segmentata Armatos Legio Sica Armatos Legio Speculata Armatos Legio Tribunus Militum 
+ Support 
+ Armatos Colosseum Armatos Fulgur Armatos Legio Centurion Armatos Legio Decurion Armatos Legio Galea Armatos Legio Gradius Armatos Legio Pilus Prior Armatos Legio Plumbum Trident Armatos Legio Primi Ordines Armatos Legio Tribunus Militum Armatos Lex Armatos Replacement Judgement Sword 
+ Related 
+ Judgment Arrows Judgment Arrows 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a2/ArmatosLegioSegmentata-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20190410133413', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e2/ArmatosLegioSegmentata-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20190410133309', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

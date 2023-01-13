@@ -1,0 +1,98 @@
+Link: https://yugioh.fandom.com/wiki/Fit_of_Rage
+
+
+ Fit of Rage 
+ 
+ Japanese:   癇癪玉 
+ Kana:   かんしゃくだま 
+ Romaji:   Kanshakudama 
+ 
+ 
+ 
+ 
+ en 
+ ja 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap 
+ 
+ Property 
+ 
+ 
+ Equip [note 1] 
+ 
+ 
+ 
+ Activate  when you have taken a  Direct Attack . Increases  ATK  by the same amount of  damage  you've taken. At each turn's  End Phase , this amount is decreased by half. 
+ 
+ Viz Media  lore<nomobile> ? :</nomobile> <mobile>(The English manga by Viz Media sometimes uses lores which are inconsistent with the Japanese lore or how the card worked.):</mobile>  Activate  only during your opponent's  Battle Phase , and only if an opponent's  monster  has inflicted  Battle Damage  to your  Life Points  from a  Direct Attack  in this  turn . The  equipped  monster gains  ATK  equal to the total Battle Damage that has been inflicted to your Life Points in this turn from Direct Attacks. At each turn's  End Phase , this amount is decreased by half.
+ 
+ 
+ Appearances
+ 
+ 
+ 
+ 
+   R : Yu-Gi-Oh! R - Duel Round 024|024 Property "Yu-Gi-Oh R chapter appearances (linked)" (as page type) with input value "Yu-Gi-Oh! R - Duel Round 024|024" contains invalid characters or is incomplete and therefore can cause unexpected results during a query or annotation process. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Manga cards (Galleries:  R ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 癇 癪 玉 
+ プレイヤーがダイレクトアタックを受けた時に発動。受けたダメージと同じだけ攻撃力が上がる。毎ターンエンド時にこの数値は半減する 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Yugi Mutou's Project R.A. Deck 
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ Equipped gains ATK 
+ Equipped loses ATK 
+ 
+ 
+ 
+ Notes 
+ 
+ ↑   This card was depicted as a  Normal Trap Card  in the English translation. In the original, this card was an  Equip Trap Card . 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/95/FitofRage-EN-Manga-R.png/revision/latest/scale-to-width-down/200?cb=20150331182511', 'https://static.wikia.nocookie.net/yugioh/images/a/a3/FitofRage-JP-Manga-R-CA.png/revision/latest?cb=20160424002845', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Manga cards, Manga cards with no OCG/TCG counterpart

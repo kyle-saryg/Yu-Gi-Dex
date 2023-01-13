@@ -1,0 +1,35 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Amazoness_Fighting_Spirit
+
+
+ Amazoness Fighting Spirit 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ TCG Rulings 
+ The effect to gain  ATK  does not start a  Chain . [1] 
+ This card only applies to its controller’s monsters, not the opponent’s. [1] 
+ Even you have multiple copies of  Amazoness Fighting Spirit  in play, your monster will still only gain 1000  ATK . [1] 
+ If you attack your opponent’s monster that has less  ATK  than your “ Amazoness ” monster and they activate  Honest , your “ Amazoness ” monster will gain 1000  ATK  during  damage calculation . [1] 
+ If you attack your opponent’s monster that has more  ATK  than your “ Amazoness ” monster, it will gain 1000  ATK  automatically at the start of  Damage Calculation . If your opponent then activates  Honest , it will calculate the bonus based on the  ATK  of your monster after the 1000  ATK  is added. [1] 
+ OCG Rulings 
+ The effect " If an "Amazoness" monster attacks a monster with higher ATK, the attacking monster gains 1000 ATK during damage calculation only " does not make a  Chain Link . [2] 
+ The effect of " Amazoness Fighting Spirit " only applies when your " Amazoness " monster  attacks . (It does not apply when your opponent's "Amazoness" monster attacks.) [2] 
+ If there are multiple copies of " Amazoness Fighting Spirit ", each one is applied during  damage calculation  one at a time, and if the opponent's monster targeted for the attack has " higher ATK [than] the attacking monster " that monster's ATK is increased. (For example, if it gains 1000 ATK due to the effect of the first "Amazoness Fighting Spirit" and then its ATK exceeds the opponent's monster, its ATK cannot be further increased by the effects of the second or later "Amazoness Fighting Spirit".) [2] 
+ References 
+ 
+ ↑  1.0   1.1   1.2   1.3   1.4   Konami Gameplay FAQ : Duelist Revolution Sneak Peek -- Card Rulings (Version 1.0) 
+ 
+ ↑  2.0   2.1   2.2   Konami OCG Card Database : Amazoness Fighting Spirit 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Romaji_name
+
+This property lists the Japanese (Romanji) name of something. This is a  String .
+ 
+ 
+ 
+ 
+Categories:

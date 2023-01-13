@@ -1,0 +1,118 @@
+Link: https://yugioh.fandom.com/wiki/Road_Magic_-_Diastrophism
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Road Magic - Diastrophism ロード・マジック－ダイアストロフィズム 
+ 
+ English 
+Road Magic - Diastrophism 
+ Japanese 
+ ロード・マジック－ダイアストロフィズム Check translation 
+ Japanese ( rōmaji ) 
+Rōdo Majikku - Daiasutorofizumu 
+ Card type 
+ Spell   
+ Property 
+ Normal   Statuses Not yet released   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ [Requirement] : If you  control  a  face-up   monster  ( Level  7 or higher  Spellcaster ),  send  1 monster ( EARTH ) from your  hand  to the  GY . [Effect] : Choose 1 face-up monster your opponent controls. It loses  ATK  equal to [the ATK of the monster in your GY with the highest ATK], until the end of this  turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 【条件】 : 自分フィールドに表側表示モンスター（レベル７以上／魔法使い族）がいる場合、手札のモンスター（地属性）１体を墓地へ送って発動できる。 【効果】 :  相手フィールドの表側表示モンスター1体を選び、その攻撃力をターン終了時まで、［自分の墓地の攻撃力が一番高いモンスターの攻撃力］だけダウンする。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2020-08-01 RD/KP02-JP036 Deck Modification Pack: Shocking Lightning Attack!! デッキ改造パック 驚愕のライトニングアタック！！ Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Spellcaster 
+ EARTH 
+ 
+ Archetypes  and  series   
+ Road Magic 
+ 
+ Related to  archetypes  and  series   
+ Sevens Road 
+ 
+ Actions  
+ Sends from hand to Graveyard for cost 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ 
+ Miscellaneous  
+ Rush Duel 
+ Requires control of specific Level 
+ Requires control of specific Type 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Road Magic - Diastrophism " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+ Road Magic Members 
+ Road Magic - Backflow Road Magic - Diastrophism Road Magic - Explosion Road Magic - Rays Alter Road Magic - Tempest 
+ Related 
+ Sevens Road Magician 
+ 
+   
+ Sevens Road  セブンスロード Members 
+ Master of Sevens Road Sevens Road Enchanter Sevens Road Mage Sevens Road Magician Sevens Road Sorcerer Sevens Road Warlock Sevens Road Witch Sevens Road Wiz Strong Boy Sevens Road 
+ Sevens Road Protection 
+ Related 
+ Dark Sorcerer Magician of Dark Sevens Sevens Paladin the Magical Knight Sevensgears the Magical Dragon Knight 
+ Darkness Road Road Magic - Backflow Road Magic - Dark Night Road Magic - Diastrophism Road Magic - Explosion Road Magic - Rays Alter Road Magic - Tempest 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/59/RoadMagicDiastrophism-RDKP02-JP-OP.png/revision/latest/scale-to-width-down/300?cb=20200725190742', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Pages using duplicate arguments in template calls, Cards without passcodes, Cards needing effect types, Duel Monsters cards, OCG cards

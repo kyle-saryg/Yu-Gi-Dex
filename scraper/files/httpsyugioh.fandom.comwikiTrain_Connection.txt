@@ -1,0 +1,263 @@
+Link: https://yugioh.fandom.com/wiki/Train_Connection
+
+The  Croatian                        name given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Train Connection 機 関 連 結 
+ 
+ English 
+Train Connection 
+ French 
+ Correspondance Check translation 
+ German 
+ Wagenkupplung Check translation 
+ Italian 
+ Gancio Ferroviario Check translation 
+ Korean 
+ 기관 연결 Check translation 
+ Portuguese 
+ Acoplar Vagão Check translation 
+ Spanish 
+ Acoplador de Trenes Check translation 
+ Japanese (kana) 
+ きかんれんけつ Check translation 
+ Japanese (base) 
+ 機関連結 Check translation 
+ Japanese ( rōmaji ) 
+Kikan Renketsu 
+ Japanese (translated) 
+Engine Coupling 
+ Card type 
+ Spell   
+ Property 
+ Equip   
+ Passcode 
+ 60879050 
+ Card effect types 
+ 
+ 
+ Condition 
+ Continuous-like 
+ Continuous-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Must be  equipped  to an  EARTH   Machine   monster , by  banishing  2  Level  10 or higher Machine monsters from your  GY . The equipped monster's  ATK  becomes double its  original ATK , also if it  attacks  a  Defense Position  monster, inflict  piercing   battle damage  to your opponent. Other monsters you  control  cannot attack. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Uniquement équipable à un monstre TERRE Machine, en bannissant 2 monstres Machine de min. Niveau 10 depuis votre Cimetière. L'ATK du monstre équipé devient le double de son ATK d'origine, et aussi, s'il attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire. Les autres monstres que vous contrôlez ne peuvent pas attaquer. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Muss ein ERDE Maschine-Monster ausrüsten, indem du 2 Maschine-Monster der Stufe 10 oder höher von deinem Friedhof verbannst. Die ATK des ausgerüsteten Monsters werden gleich dem Doppelten seiner Grund-ATK, zusätzlich, falls es ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu. Andere Monster, die du kontrollierst, können nicht angreifen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Deve essere equipaggiato a un mostro TERRA Macchina, bandendo 2 mostri Macchina di Livello 10 o superiore dal tuo Cimitero. L'ATK del mostro equipaggiato diventa il doppio del suo ATK originale, inoltre se esso attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario. Gli altri mostri che controlli non possono attaccare. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Você deve equipar este card a um monstro Máquina de TERRA, ao banir 2 monstros Máquina de Nível 10 ou mais do seu Cemitério. O ATK do monstro equipado se torna o dobro do seu ATK original e, além disso, se ele atacar um monstro em Posição de Defesa, cause dano de batalha perfurante ao seu oponente. Outros monstros que você controla não podem atacar. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Debe ser equipado a un monstruo Máquina de TIERRA, desterrando 2 monstruos Máquina de Nivel 10 o mayor en tu Cementerio. El ATK del monstruo equipado se convierte en el doble de su ATK original, y además si éste ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario. Los otros monstruos que controles no pueden atacar. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 自分の墓地のレベル１０以上の機械族モンスター２体を除外して発動した場合のみ、機械族・地属性モンスターに装備可能。①：装備モンスターの攻撃力は元々の攻撃力の倍になり、装備モンスターが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。②：このカードが魔法＆罠ゾーンに存在する限り、装備モンスター以外の自分のモンスターは攻撃できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신 묘지의 레벨 10 이상의 기계족 몬스터 2장을 제외하고 발동했을 경우에만, 기계족 / 땅 속성 몬스터에 장착 가능. ①: 장착 몬스터의 공격력은 원래 공격력의 배가 되고, 장착 몬스터가 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘은 만큼만 상대에게 전투 데미지를 준다. ②: 이 카드가 마법 & 함정 존에 존재하는 한, 장착 몬스터 이외의 자신 몬스터는 공격할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2014-04-25 DRLG-EN039 Dragons of Legend Super Rare 2020-09-10 DLCS-EN041 Dragons of Legend: The Complete Series Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2014-04-24 DRLG-FR039 Dragons of Legend Les Dragons de Légende Super Rare 2020-09-10 DLCS-FR041 Dragons of Legend: The Complete Series Les Dragons de Légende : la Série Complète Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2014-04-24 DRLG-DE039 Dragons of Legend Dragons of Legend Super Rare 2020-09-10 DLCS-DE041 Dragons of Legend: The Complete Series Dragons of Legend: The Complete Series Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2014-04-24 DRLG-IT039 Dragons of Legend Draghi della Leggenda Super Rare 2020-09-10 DLCS-IT041 Dragons of Legend: The Complete Series Draghi della Leggenda: la Serie Completa Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2014-04-25 DRLG-PT039 Dragons of Legend Dragões das Lendas Super Rare 2020-09-10 DLCS-PT041 Dragons of Legend: The Complete Series Dragões das Lendas: a Serie Completa Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2014-04-24 DRLG-SP039 Dragons of Legend Dragones de Leyenda Super Rare 2020-09-10 DLCS-SP041 Dragons of Legend: The Complete Series Dragones de Leyenda: las Series Completas Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2014-05-17 CPL1-JP039 Collectors Pack: Duelist of Legend Version コレクターズパック －伝説の決闘者編－ Common 2018-11-23 LVP2-JP054 LINK VRAINS Pack 2 ＬＩＮＫ　ＶＲＡＩＮＳ　ＰＡＣＫ　２ Common 
+ 
+ 
+ 
+ 
+ 
+   Japanese-Asian 
+ 
+ 
+ Release date Card code Set Japanese-Asian name Rarity CPL1-JA039 Collectors Pack: Duelist of Legend Version コレクターズパック －伝説の決闘者編－ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2014-08-20 CPL1-KR039 Collectors Pack: Duelist of Legend Version COLLECTORS   PACK  전설의 듀얼리스트 편 Common 2019-03-12 LVP2-KR054 LINK VRAINS Pack 2 링크 브레인즈 팩 ２ Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ EARTH 
+ Machine 
+ 
+ Archetypes  and  series   
+ Railway 
+ 
+ Stat changes  
+ Changes ATK value of equipped 
+ 
+ Attack  categories  
+ Piercing 
+ Prevents your monsters from attacking 
+ 
+ Banished  categories  
+ Banishes from Graveyard for cost 
+ 
+ Miscellaneous  
+ Requires control of specific Attribute 
+ Requires control of specific Type 
+ Equips only to a specific target 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11184 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Train Connection " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+ Railway   列 車 Members 
+ Construction Train Signal Red Double Headed Anger Knuckle Express Train Trolley Olley Flying Pegasus Railroad Stampede Goldilocks the Battle Landscaper Heavy Armored Train Ironwolf Heavy Freight Train Derricrane Lionhearted Locomotive Night Express Knight Number 81: Superdreadnought Rail Cannon Super Dora Rocket Arrow Express Ruffian Railcar Snow Plow Hustle Rustle Super Express Bullet Train Superdreadnought Rail Cannon Gustav Max Superdreadnought Rail Cannon Juggernaut Liebe 
+ Barrage Blast Revolving Switchyard Special Schedule Switch Point Train Connection Urgent Schedule 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/73/TrainConnection-DLCS-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20201201172912', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/9/90/Equip.svg/revision/latest/scale-to-width-down/28?cb=20120920115844']
+Categories: Duel Monsters cards, TCG cards, OCG cards

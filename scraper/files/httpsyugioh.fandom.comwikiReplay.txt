@@ -1,0 +1,633 @@
+Link: https://yugioh.fandom.com/wiki/Replay
+
+
+ 
+ Replay
+ 
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 巻き戻し
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Makimodoshi
+ 
+ 
+ 
+ English
+ 
+ 
+ Replay
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Replay 
+ German : Replay 
+ Italian : Replay 
+ Spanish : Repetición 
+ Korean : 리플레이  Ripeullei 
+ Traditional Chinese : 回朔  Huíhuò / Wui4 sok3 
+ 
+ 
+ A  Replay  (Japanese:  巻 き 戻 し  Makimodoshi ) is an event during the  Battle Step  in which the attacking player chooses an  attack target  again after an attack has been  declared .
+ 
+ Contents 
+ 
+ 1   Mechanics 
+ 
+ 1.1   Cause 
+ 1.2   Function 
+ 
+ 
+ 2   History 
+ 3   Examples 
+ 
+ 3.1   Example 1 
+ 3.2   Example 2 
+ 3.3   Example 3 
+ 3.4   Example 4 
+ 3.5   Example 5 
+ 
+ 
+ 4   Notes 
+ 5   References 
+ 
+ 
+ Mechanics 
+ Cause 
+ A replay occurs if any of the following scenarios occurs  during the Battle Step  while an attack is occurring.
+ 
+ The number of monsters on the turn player's opponent's side of the field changes, no matter how briefly. [1] [2] 
+ A monster(s) is placed on the opponent's field 
+ An opponent's monster(s) leaves the  Monster Zone . 
+ A monster(s) switches control, etc. 
+ A monster is no longer able to attack. [3] [4] [5] 
+ A monster that is attacking another monster gains the ability to attack directly due to a card effect. [6] 
+ If the conditions for a replay are met during a  Chain , the replay will occur once the game reaches an open  game state  (per the rules of  fast effect timing ). [ citation needed ] 
+ Replays will never occur during the  Damage Step , even if any of the above scenarios occur. [7] [8]  For information on what happens if the attacking monster leaves the field or is otherwise unable to continue its attack during the Damage Step, see the  attack  article.
+ 
+ Function 
+ When a replay occurs, the attacking player must do one of the following.
+ 
+ Choose an  attack target  again (which can include the original attack target, if it is still a valid attack target). 
+ Choose to make a  direct attack  (if possible). 
+ Cancel the attack. 
+ With these options in mind, a replay will still technically occur even if the relevant player is forced to commit to only 1 option in a given scenario, with no other legal options. [5] [9] 
+ If an attack target is chosen again because of a replay, the already-attacking monster is not considered to be "declaring an attack" again, so cards/effects that activate in  response  to an attack declaration (such as " Mirror Force ")  cannot be activated . [10] [11]  However, cards and effects that activate in response to a monster being targeted for an attack (such as " Crystal Beast Amber Mammoth ") can be activated. [12] 
+ If an attack is canceled because of a replay, the attacking monster is considered to have "declared an attack" that turn. In that case, for the rest of that turn, it cannot declare another attack or change its  battle position  "manually", and the turn player cannot activate cards or effects that require them or their monster(s) to not attack during the turn they are activated. [13]  However, for the purposes of cards such as " Combination Attack ", it is not considered to have "attacked". [14] 
+ 
+ History 
+ Prior to May 2006 in the  TCG , if a replay occurred and a new attack target was not selected immediately, the monster that attacked could still declare an attack at another point during that  Battle Phase . This is no longer the case, so if a new attack target is not selected during a replay, the monster that attacked cannot attack for the rest of that Battle Phase. [Notes 1] 
+ 
+ Examples 
+ Example 1 
+ Player 1 controls no monsters.
+ 
+ Player 2 attacks Player 1  directly  with " Dark Magician ". 
+ Player 1  responds  to the attack with a  Set  " Scapegoat ". 
+ Since a monster was placed on Player 1's side of the field, a replay occurs. "Dark Magician" can no longer attack Player 1 directly, so Player 2 must either choose an  attack target  again (any " Sheep Token ") or stop their attack.
+ 
+ Example 2 
+ Player 1 declares an attack with " Luster Dragon ", choosing Player 2's " 7 Colored Fish " as the attack target. 
+ Player 2 responds to the attack with " A Rival Appears! ", Summoning a " Nanobreaker " from their  hand  in  Defense Position . 
+ Since a monster was placed on Player 2's side of the field, a replay occurs. Player 1 must either choose an attack target again ("7 Colored Fish" or "Nanobreaker") or stop their attack.
+ 
+ Example 3 
+ Player 1 controls a " Warrior Dai Grepher ". Player 2 controls a " The Six Samurai - Yaichi " and a  Set  " Cunning of the Six Samurai ".
+ 
+ Player 1 attacks Player 2's " The Six Samurai - Yaichi " with " Warrior Dai Grepher ". 
+ Player 2 responds to the attack with their Set " Cunning of the Six Samurai ",  Tributing  their " The Six Samurai - Yaichi " to  Special Summon  " The Six Samurai - Zanji ". 
+ Even though the number of monsters on Player 2's side of the field has not changed overall, since a monster was placed on Player 2's side of the field and a monster left their side of the field, a replay occurs. Player 1 must either choose an attack target again (" The Six Samurai - Zanji ") or stop their attack.
+ 
+ Example 4 
+ Player 1 controls a " Red Archery Girl " and a  Set  " Call of the Haunted ". Player 2 controls an  Attack Position  " Celtic Guardian ". Player 1 has activated " Absolute End " this turn.
+ 
+ Player 2 declares a direct attack with " Celtic Guardian ". 
+ Player 1 responds to the attack with " Call of the Haunted ", Summoning a " Illusionist Faceless Mage " from their  Graveyard . 
+ Since a monster was placed on Player 1's side of the field, a replay occurs, even though their monsters cannot be attacked due to "Absolute End". Player 2 must either choose an attack target again (their opponent: Player 1) or stop their attack. [17] 
+ 
+ Example 5 
+ Player 1 controls " Ghostrick Mansion " and a  face-down   Defense Position  monster. Player 2 controls " Star Eater ".
+ 
+ Player 2 attacks Player 1 directly with "Star Eater", due to the effect of "Ghostrick Mansion". 
+ After the attack is declared, the effect of "Star Eater" is applied, making it unaffected by "Ghostrick Mansion", and thus unable to attack directly. 
+ Since "Star Eater" can no longer attack directly, a replay occurs. When choosing an attack target again during a replay, "Star Eater" is still unaffected by other card effects, so it can target face-down Defense Position monsters, but cannot attack directly. Player 2 must either choose an attack target again (the face-down Defense Position monster) or stop their attack. [18] 
+ 
+ Notes 
+ 
+ ↑    This change can be seen upon comparison of two versions of  UDE 's "Basic Gameplay" page. [15] [16]   
+ 
+ 
+ References 
+ 
+ ↑   Konami.  Yu-Gi-Oh! Trading Card Game - Official Rulebook Version 9.1 . p. 35 .  http://yugioh.wikia.com/wiki/File:Rulebook_v9.1.pdf . 
+ 
+ ↑   Konami.  Yu-Gi-Oh! Official Card Game - Perfect Rulebook 2015 . p. 164 .  https://ygorganization.com/perfectrulebook/ . 
+ 
+ ↑   Konami.  Extreme Victory – Card Rulings (version 1.2) . Safe Zone .  http://www.yugioh-card.com/en/gameplay/rulings/EXVCRulesBook000512_1.2_x.pdf . "If you activate  Safe Zone  targeting a monster that is attacking directly, a replay occurs." 
+ 
+ ↑   "Individual Card Rulings [A-C]" . UDE. Amphibious Bugroth MK-3. Archived from  the original  on 17 February 2009 .  http://web.archive.org/web/20090217182013/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=A&last=C . Retrieved 13 February 2016 . 
+ 
+ ↑  5.0   5.1   "Individual Card Rulings [A-C]" . UDE. A Legendary Ocean. Archived from  the original  on 17 February 2009 .  http://web.archive.org/web/20090217182013/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=A&last=C . Retrieved 13 February 2016 . "If "A Legendary Ocean" and "Gravity Bind" are active, you may attack with Level 4 WATER monsters (being treated as Level 3). If "A Legendary Ocean" is destroyed after an attack is declared, a replay occurs because the Level 4 WATER monster can no longer attack." 
+ 
+ ↑   "Individual Card Rulings [S-T]" . UDE. Shadowslayer. Archived from  the original  on 26 February 2009 .  http://web.archive.org/web/20090226221425/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=S&last=T . Retrieved 13 February 2016 . 
+ 
+ ↑   "Individual Card Rulings [A-C]" . UDE. Cyber Tutu. Archived from  the original  on 17 February 2009 .  http://web.archive.org/web/20090217182013/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=A&last=C . Retrieved 13 February 2016 . 
+ 
+ ↑   "Individual Card Rulings [D-E]" . UDE. Divine Wrath. Archived from  the original  on 18 February 2009 .  http://web.archive.org/web/20090218205242/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=D&last=E . Retrieved 13 February 2016 . 
+ 
+ ↑   Konami.  Duelist Revolution Sneak Peek – Card Rulings (version 1.1) . Uni-Horned Familiar .  http://www.yugioh-card.com/en/gameplay/rulings/DREVRulebook110517_v1.1x.pdf . 
+ 
+ ↑   "Individual Card Rulings [I-K]" . UDE. Jirai Gumo. Archived from  the original  on 26 February 2009 .  http://web.archive.org/web/20090226221419/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=I&last=K . Retrieved 12 February 2016 . 
+ 
+ ↑   "Individual Card Rulings [S-T]" . UDE. Turbo Synchron. Archived from  the original  on 26 February 2009 .  http://web.archive.org/web/20090226221425/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=S&last=T . Retrieved 13 February 2016 . 
+ 
+ ↑   "Individual Card Rulings [A-C]" . UDE. Crystal Beast Amber Mammoth. Archived from  the original  on 17 February 2009 .  http://web.archive.org/web/20090217182013/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=A&last=C . Retrieved 13 February 2016 . 
+ 
+ ↑   "Individual Card Rulings [A-C]" . UDE. Chaos Sorcerer. Archived from  the original  on 17 February 2009 .  http://web.archive.org/web/20090217182013/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=A&last=C . Retrieved 13 February 2016 . 
+ 
+ ↑   "Individual Card Rulings [A-C]" . UDE. Combination Attack. Archived from  the original  on 17 February 2009 .  http://web.archive.org/web/20090217182013/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=A&last=C . Retrieved 13 February 2016 . 
+ 
+ ↑   "Basic Gameplay" . UDE. What is a Replay?. Archived from  the original  on 24 November 2005 .  http://web.archive.org/web/20051124063235/http://www.upperdeckentertainment.com/yugioh/en/faq_gameplay.aspx . Retrieved 2 February 2016 . 
+ 
+ ↑   "Basic Gameplay" . UDE. What is a Replay?. Archived from  the original  on 22 June 2006 .  http://web.archive.org/web/20060622064508/http://www.upperdeckentertainment.com/yugioh/en/faq_gameplay.aspx . Retrieved 2 February 2016 . 
+ 
+ ↑   "「絶体絶命」を発動したバトルフェイズ中に、戦闘の巻き戻しは発生しますか？ [During a Battle Phase in which "Absolute End" was activated, can a replay occur?]"  (in Japanese). Konami .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=6356&request_locale=ja . Retrieved 3 February 2016 . 
+ 
+ ↑   "自分の「ゴーストリック･ハウス」の適用中、相手の「星態龍」が攻撃した場合、どうなりますか？ [While your "Ghostrick Mansion" is applying, if your opponent's "Star Eater" attacks, what happens?]"  (in Japanese). Konami .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=5&fid=7630&request_locale=ja . Retrieved 3 February 2016 . 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Gameplay

@@ -1,0 +1,95 @@
+Link: https://yugioh.fandom.com/wiki/Anchor_Whale
+
+
+ Anchor Whale 
+ 
+ Japanese:   アンカー・ホエール 
+ Romaji:   Ankā Hoēru 
+ 
+ 
+ 
+ 
+ en 
+ ja 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell 
+ 
+ Property 
+ 
+ 
+ Equip 
+ 
+ 
+ 
+ Once per  turn , at the end of the turn, lower the  ATK  of the  equipped   monster  by 1000 points. When its ATK reaches 0, the monster is  destroyed . A monster equipped with this card cannot be  removed from play . 
+ 
+ Appearances
+ 
+ 
+ 
+ 
+   ZEXAL :  029 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Manga cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ アンカー・ホエール 
+ 相手モンスター１体を１ターンに１度ターンの終わりに攻撃力１０００ポイントずつダウンさせる 攻撃力が０になったとき破壊する 装備モンスターは除外できない 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Ryoga Kamishiro  
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ Equipped loses ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your Monster Cards 
+ Destroys your opponent's Monster Cards 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/11/AnchorWhale-EN-Manga-ZX.png/revision/latest/scale-to-width-down/200?cb=20160303230419', 'https://static.wikia.nocookie.net/yugioh/images/9/9d/AnchorWhale-EN-Manga-ZX-CA.png/revision/latest?cb=20160218181011', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Manga cards, Manga cards with no OCG/TCG counterpart

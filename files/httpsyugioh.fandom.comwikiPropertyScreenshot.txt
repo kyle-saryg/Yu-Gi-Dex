@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Screenshot
+
+This property stores the filename of an image used to represent an episode. This uses a  Text .
+ 
+ 
+ 
+ 
+Categories:

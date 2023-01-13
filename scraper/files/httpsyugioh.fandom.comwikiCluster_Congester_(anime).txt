@@ -1,0 +1,122 @@
+Link: https://yugioh.fandom.com/wiki/Cluster_Congester_(anime)
+
+Main card page: " Cluster Congester " 
+ Cluster Congester 
+ 
+ Japanese:   クラスター・コンジェスター 
+ Romaji:   Kurasutā Konjesutā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Level 
+ 
+ 
+ 7   
+ 
+ [  Cyberse  /  Effect  ] If this card is  Normal  or  Special Summoned , and you  control  no  Link Monsters : You can Special Summon 1 " Congester Token " ( Cyberse / DARK / Level  1/ ATK  0/ DEF  0). You can only use this  effect  of "Cluster Congester"  once per turn . Once per  Battle Step , when your Link Monster is  attacked  ( Quick Effect ): You can  banish  this card from your  GY  and that Link Monster; Special Summon "Congester Tokens" up to the number of Link Monsters your opponent controls, also  monsters  on the  field  cannot  activate  their effects for the rest of this  turn . Once per turn, during your opponent's  End Phase :  Destroy  as many of these "Congester Tokens" you control.
+ ATK  /  1000     DEF  /  2200   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  046 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ クラスター・コンジェスター 
+ このカード名の①の効果は1ターンに1度しか使用できない。①:自分フィールドにリンクモンスターが存在せず、このカードが召喚・特殊召喚に成功した場合に発動できる。自分フィールドに「コンジェスタートークン」（サイバース族・闇・星1・攻/守0）1体を特殊召喚する。②:自分のリンクモンスターが攻撃されたバトルステップに1度、そのリンクモンスターと墓地のこのカードを除外して発動できる。相手フィールドのリンクモンスターの数まで、自分フィールドに「コンジェスタートークン」を特殊召喚する。 
+ 
+ 
+ Kurasutā Konjesutā 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Link Monster 
+ 
+ Anti-supports   
+ Link Monster 
+ 
+ Actions  
+ Activates upon Normal Summon 
+ Activates upon Special Summon 
+ Activates from your Graveyard 
+ Activates upon attack declaration 
+ 
+ Monster / Spell / Trap  categories  
+ Prevents activation of Effect Monsters 
+ Destroys your face-up Monster Cards 
+ 
+ Summoning  categories  
+ Special Summons Tokens 
+ 
+ Banished  categories  
+ Banishes itself from Graveyard for cost 
+ Banishes from field for cost 
+ 
+ LP   
+ Damages your opponent 
+ 
+ Miscellaneous  
+ Only once per turn 
+ Limited activations 
+ 
+ 
+ 
+   " Cluster Congester " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/33/ClusterCongester-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180404124300', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

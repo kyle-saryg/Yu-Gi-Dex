@@ -1,0 +1,109 @@
+Link: https://yugioh.fandom.com/wiki/Orichalcum_Chain
+
+
+ Orichalcum Chain 
+ 
+ Japanese:   オリハルコン・チェーン 
+ Romaji:   Oriharukon Chēn 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Continuous 
+ Continuous 
+ Continuous 
+ After  activation , the next time you would  Xyz Summon , you can use 1 less  Xyz Material  than required. When this  face-up  card is  destroyed , your opponent gains  control  of that  monster  (if any). When that monster  leaves the field , destroy this card.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  034 ,  113 ,  127 ,  128 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Italian 
+ Catena di Orichalcum 
+ 
+ 
+ 
+ Japanese 
+ オリハルコン・チェーン 
+ このカードの発動後の次にエクシーズ召喚する場合、エクシーズ素材を１つ減らしてエクシーズ召喚する事ができる。このカードが破壊された時、このカードの効果によってエクシーズ素材を１つ減らしてエクシーズ召喚したモンスター１体のコントロールは相手に移る。このカードの効果によってエクシーズ素材を１つ減らしてエクシーズ召喚したモンスター１体がフィールド上から離れた時、このカードを破壊する。 
+ 
+ 
+ Oriharukon Chēn 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Trey 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Xyz Monster 
+ 
+ Actions  
+ Changes control 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/2c/OrichalcumChain-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20111206045158', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/30/OrichalcumChain-OW.png/revision/latest/scale-to-width-down/185?cb=20140201122854', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

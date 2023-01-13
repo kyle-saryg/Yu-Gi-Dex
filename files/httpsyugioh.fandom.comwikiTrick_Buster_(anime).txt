@@ -1,0 +1,103 @@
+Link: https://yugioh.fandom.com/wiki/Trick_Buster_(anime)
+
+
+ Trick Buster 
+ 
+ Japanese:   トリック・バスター 
+ Romaji:   Torikku Basutā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ When an opponent's  monster   declares  an  attack  while you  control  no monsters:  Destroy  all  Attack Position  monsters your opponent controls, and if you do, inflict 300  damage  to your opponent for each monster destroyed.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  137 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ トリック・バスター 
+ 自分フィールド上にモンスターが存在しない場合、相手モンスターの攻撃宣言時に発動できる。相手フィールド上に表側攻撃表示で存在するモンスターを全て破壊する。この効果で破壊したモンスターの数×３００ポイントダメージを相手ライフに与える。 
+ 
+ 
+ Torikku Basutā 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Vector 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Activates upon attack declaration 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your opponent's Attack Position Monster Cards 
+ 
+ LP   
+ Damages your opponent 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d1/TrickBuster-JP-Anime-ZX-NC.png/revision/latest/scale-to-width-down/185?cb=20140201182620', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/0c/TrickBuster-JP-Anime-ZX-NC-2.png/revision/latest/scale-to-width-down/185?cb=20140201182749', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d7/TrickBuster-JP-Anime-ZX-NC-3.png/revision/latest/scale-to-width-down/185?cb=20140201182906', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

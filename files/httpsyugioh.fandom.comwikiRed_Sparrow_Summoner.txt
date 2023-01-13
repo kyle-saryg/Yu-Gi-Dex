@@ -1,0 +1,370 @@
+Link: https://yugioh.fandom.com/wiki/Red_Sparrow_Summoner
+
+
+ 
+ 
+ Red Sparrow Summoner 朱 雀 の 召 喚 士 
+ 
+ English 
+Red Sparrow Summoner 
+ French 
+ Invocatrice Moineau Rouge Check translation 
+ German 
+ Roter Sperlingsbeschwörer Check translation 
+ Italian 
+ Evocatrice Uccello Rosso Check translation 
+ Korean 
+ 주작의 소환사 Check translation 
+ Portuguese 
+ Invocadora do Pardal Vermelho Check translation 
+ Spanish 
+ Invocadora de la Golondrina Roja Check translation 
+ Japanese (kana) 
+ すざくのしょうかんし Check translation 
+ Japanese (base) 
+ 朱雀の召喚士 Check translation 
+ Japanese ( rōmaji ) 
+Suzaku no Shōkanshi 
+ Japanese (translated) 
+Vermilion Sparrow Summoner 
+ Card type 
+ Monster   
+ Attribute 
+ FIRE   
+ Types 
+ Spellcaster  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1600  /  1300 
+ Passcode 
+ 81354330 
+ Card effect types 
+ 
+ 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When this card you  control  is  destroyed by battle  with an opponent's  attacking   monster  and  sent  to your  Graveyard : You can  Special Summon  1  Warrior - Type  monster with 1500 or less  ATK  from your  Deck  in  Attack Position . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Lorsque cette carte que vous contrôlez est détruite au combat avec un monstre attaquant de votre adversaire et envoyée à votre Cimetière : vous pouvez Invoquer Spécialement 1 monstre de Type Guerrier avec max. 1500 ATK depuis votre Deck en Position d'Attaque. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wenn diese Karte, die du kontrollierst, durch Kampf mit einem angreifenden Monster deines Gegners zerstört und auf deinen Friedhof gelegt wird: Du kannst 1 Monster vom Typ Krieger mit 1500 oder weniger ATK als Spezialbeschwörung von deinem Deck in die Angriffsposition beschwören. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando questa carta che controlli viene distrutta in battaglia con un mostro attaccante dell'avversario e mandata al tuo Cimitero: puoi Evocare Specialmente 1 mostro di Tipo Guerriero con ATK di 1500 o inferiore dal tuo Deck in Posizione di Attacco. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Quando este card que você controla for destruído em batalha por um monstro atacante do oponente e enviado para o seu Cemitério: você pode Invocar por Invocação-Especial 1 monstro do Tipo Guerreiro com 1500 ou menos de ATK do seu Deck em Posição de Ataque. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando esta carta que controlas es destruida en batalla con un monstruo atacante de tu adversario y mandada a tu Cementerio: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo de Tipo Guerrero con 1500 ATK o menos, en Posición de Ataque. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：このカードが相手モンスターの攻撃で破壊され墓地へ送られた時に発動できる。デッキから攻撃力１５００以下の戦士族モンスター１体を攻撃表示で特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ① : 이 카드가 상대 몬스터의 공격으로 파괴되어 묘지로 보내졌을 때에 발동할 수 있다. 덱에서 공격력 1500 이하의 전사족 몬스터 1장을 공격 표시로 특수 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-EN018   
+ Super Starter: Space-Time Showdown 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-FR018   
+ Super Starter: Space-Time Showdown 
+ Super Deck de Démarrage: La Confrontation de l'Espace-Temps  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-DE018   
+ Super Starter: Space-Time Showdown 
+ Super Starter: Space-Time Showdown  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-IT018   
+ Super Starter: Space-Time Showdown 
+ Super Starter: Resa dei Conti dello Spazio-Tempo  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2014-07-11  
+ YS14-PT018   
+ Super Starter: Space-Time Showdown 
+ Super Deck Inicial: Confronto Espaço-Tempo  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-SP018   
+ Super Starter: Space-Time Showdown 
+ Súper Baraja de Principiante: La Confrontación del Espacio-Tiempo  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2014-03-21  
+ ST14-JP018   
+ Starter Deck 2014 
+ ＳＴＡＲＴＥＲ ＤＥＣＫ ２０１４  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2014-07-08  
+ ST14-KR018   
+ Starter Deck 2014 
+ STARTER   DECK  2014  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Warrior 
+ 
+ Archetypes  and  series   
+ Summoner 
+ 
+ Related to  archetypes  and  series   
+ Empower 
+ 
+ Actions  
+ Activates from your Graveyard 
+ 
+ Summoning  categories  
+ Special Summons from your Deck 
+ 
+ Miscellaneous  
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11143 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Empower  魔装 Members 
+ Aether, the Empowering Dragon Aether, the Evil Empowering Dragon Arnis, the Empowered Warrior Dragodies, the Empowered Warrior Dragonox, the Empowered Warrior Hydrotortoise, the Empowered Warrior Terratiger, the Empowered Warrior Ventdra, the Empowered Warrior 
+ Empowerment 
+ Related 
+ Blue Dragon Summoner Golden Dragon Summoner Green Turtle Summoner Red Sparrow Summoner White Tiger Summoner 
+ 
+   
+ Summoner   召 喚 士 Members 
+ Blue Dragon Summoner Golden Dragon Summoner Green Turtle Summoner Red Sparrow Summoner White Tiger Summoner 
+ Related 
+ Aether, the Empowering Dragon Arnis, the Empowered Warrior Hydrotortoise, the Empowered Warrior Terratiger, the Empowered Warrior Ventdra, the Empowered Warrior 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/b6/RedSparrowSummoner-YS14-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140711051503', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/28?cb=20120918053839', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

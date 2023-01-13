@@ -1,0 +1,104 @@
+Link: https://yugioh.fandom.com/wiki/Sunavalon_Force
+
+
+ Sunavalon Force 
+ 
+ Japanese:   聖天樹の威圧 
+ Kana:   サンアバロン・フォース 
+ Romaji:   San Abaron Fōsu 
+ Translated:  San Avalon Force 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Continuous-like 
+ Trigger-like 
+ Continuous-like 
+ Your opponent cannot  target  " Sunavalon "  Link Monsters  you  control  with  card effects . If an opponent's  monster  is  destroyed by battle , after  damage calculation : Inflict  damage  to your opponent equal to the  Link Rating  of the monster on the  field  with the highest Link Rating (your choice, if tied) x 100. If there are no "Sunavalon" monsters on the field,  destroy  this card.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  036 ,  037 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 聖天樹の威圧 
+ ①：このカードが魔法＆罠ゾーンに存在する限り、自分フィールドの「聖天樹」リンクモンスターは相手の効果の対象にならない。②：相手のモンスターが戦闘で破壊されるダメージ計算後に発動できる。フィールドのリンクマーカーの数が一番多いモンスターのリンクマーカーの数×１００ダメージを相手に与える。③：フィールドに「聖天樹」モンスターが存在しない場合にこのカードは破壊される。 
+ 
+ 
+ San Abaron Fōsu 
+ 
+ 
+ Decks 
+ 
+ 
+ Specter 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Sunavalon 
+ 
+ v e 
+" Sunavalon " 「 聖天樹 」 a   m   Members 
+ Sunavalon Bloom Sunavalon Cursed Reborn Sunavalon Daphne Sunavalon Dryades Sunavalon Dryanome Sunavalon Dryas Sunavalon Dryatrentiay Sunavalon Force Sunavalon Glorious Growth Sunavalon Melias 
+ Support 
+ Sunavalon Dryades Sunavalon Melias Sunbloom Doom Sunseed Twin Sunvine Burial Sunvine Gardna Sunvine Healer Sunvine Plunder Sunvine Shrine Sunvine Thrasher 
+ Related 
+ Sunseed Genius Loci Sunseed Shadow Sunseed Twin 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e2/SunavalonForce-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180124140156', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/18?cb=20120920115206']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

@@ -1,0 +1,64 @@
+Link: https://yugioh.fandom.com/wiki/Forum:New_image_lightbox
+
+
+ 
+ Forums: 
+ Index   →   Yu-Gi-Oh! Wiki Community Discussion   →  New image lightbox 
+ Post new comment 
+ 
+ 
+ Please sign your comments with ~~~~. See  Help:Signature  and  Help:Talk pages  for further information. 
+ 
+ 
+ Wikia's made an upgrade to the image lightbox. That is the box that pops up when you click on an image in the default skin. It's currently active on the the  Diablo  and  Assassin's Creed wikis . Wikia would like to roll this upgrade out on more wikis and they've  asked  if we're okay with being in the next group of wikis to get it.  Sarah Manley 's asked us about this and I'll copy over her summary of the changes for anyone interested.
+ 
+ Improvements include:
+ View all types of media (photos and videos) the same lightbox across your wiki (please note that videos that are embedded at width of 320px or larger will play in place on your article and will not launch the lightbox) 
+ Continuous viewing - when viewing an item in the lightbox, you can advance through all other photos and videos from the article page 
+ Share - you can now easily share out to multiple social media sites and by email right from the lightbox In the new share, the share URLs will share context by sending your friend to the original article page from which you shared with the lightbox loaded with the shared photo or video and all other photos available on the article page loaded into the carousel. 
+ Better viewing experience - the lightbox is now larger and displays the maximum possible size of the photos so you can see your media in its best form. 
+ 
+ So if anyone is okay with the upgrade or would you rather we didn't get it, could you please say here? If you've any questions or comments, feel free to post them here too. Thanks. --  Deltaneos  ( talk ) 21:58, June 13, 2012 (UTC)
+ 
+ I picked deny for this. We are busy Wikia and we don't have time to have a fancy upgrade that clumsy the habit we had with the current skins and tools. I am still rather the original old version of Wikia that was before upgrading in this kind - it kindly... clumsy the width size, if you asking me. -- i F r e d C a t  22:02, June 13, 2012 (UTC) 
+ God, it's like Facebook... I just clicked a random image on the Diablo Wiki and it froze, and I couldn't click the outside of the box to force-close it. It eventually loaded, but I can imagine that would be annoying if this is a common bug. I'm on the fence, but I feel like, if it ain't broke, don't fix it.-- YamiWheeler  ( talk  •  contribs ) 22:05, June 13, 2012 (UTC) 
+ Improvement: 0 
+ Members: 2 
+ Who's next? -- i F r e d C a t  22:12, June 13, 2012 (UTC) 
+ Hi, we haven't heard any reports of freezing so thanks for sharing YamiWheeler. The new lightbox will be coming to the rest of the site in the next couple of months (there is currently a code freeze due to the Mediawiki upgrade) but we would love to have it live here now. If you have additional feedback or questions, please let me know. Thanks! -- Sarah   ( help forum  |  blog )  16:25, June 14, 2012 (UTC) 
+ Will the size be configurable? -  Silver   Glaceon  @ 17:14, June 14, 2012 (UTC) 
+ At this time no, but I can share that idea with the product manager. -- Sarah   ( help forum  |  blog )  21:00, June 14, 2012 (UTC) 
+ I very rarely use the lightbox, but I don't see what's so bad about the new one. The ability to flick through all the images on the article looks good. Also, would it be considered against the terms of use to disable the "added by  username " section? --  Deltaneos  ( talk ) 15:08, June 16, 2012 (UTC) 
+ Hello, Yes that is a part of the product and needs to remain. -- Sarah   ( help forum  |  blog )  16:16, June 18, 2012 (UTC) 
+ Not a fan of how it takes up the whole screen. Ability to scroll is nice, but I prefer what we have. -- Golden Key  ( talk  •  contribs ) 11:56, June 19, 2012 (UTC) 
+ Hmm not getting the scrolling on my end, I'm checking the  BP01  gallery, it just shows 1 of 1. That and is there anyway to keep the top and bottom info borders off the picture with out shrinking the image. It covers up all the top info on the card unless you move the mouse off it.  Look234  ( talk  •  contribs ) 12:10, June 19, 2012 (UTC) 
+ Or at least just sit the mouse still, they will also vanish. But I still rather old version of this site though - it was better with load of space than  present  current version. -- i F r e d C a t  12:14, June 19, 2012 (UTC) 
+ It's very bad -_- ~>-- SharkTenjo 
+ Why bad, Tenjo? -- i F r e d C a t  12:22, June 19, 2012 (UTC) 
+ Overall, I was neutral to this until we were told that the image attribution has to remain. That caused  a lot  of problems when we had it enabled on the whole wiki and I do not wish to revisit them.  Cheesedude  ( talk  •  contribs ) 16:27, June 19, 2012 (UTC) 
+ Same here. -  Silver   Glaceon  @ 23:00, June 19, 2012 (UTC) 
+ To be very honest, I don't see any big improvement with this upgrade. Its the opposite, the previous system was more practical than this new one. And what are those other images which appear in the bottom of the lightbox? (the Japan flag, the England flag, the exclamation mark...) The share button is a nice idea, but besides that, sorry but I prefer the old system. LegenaryAsariUgetsu  ( talk  •  contribs ) 20:17, June 19, 2012 (UTC) 
+ (United Kingdom flag, not England flag.) 
+ It's been enabled already... I thought we weren't going to be getting it so soon unless we gave the okay... 
+ I'm getting the same problem as Look234. I think it's because of the (custom) namespace. If you click on an image in a page called Namespace:X, the image you clicked on will appear, but all the other images will be from X, rather than Namespace:X. In this case, we're using  Set Card Galleries:Battle Pack: Epic Dawn (TCG-IT-1E) . It gives us the image we click on and then looks for more in  Battle Pack: Epic Dawn (TCG-IT-1E) , which doesn't exist.  Here is another example . If you click on one image, you get that that image, but the other images are all from  Queen of Autumn Leaves , rather than  Card Gallery:Queen of Autumn Leaves . --  Deltaneos  ( talk ) 20:38, June 19, 2012 (UTC) 
+ I use Monobook anyway, but I am curious how one would upload a new version of an image using the Wikia skin now. I'm also having the same problem that YamiWheeler had with freezing when I do try to use it. Even if it didn't freeze, I still don't think it adds much to the experience.  Cheesedude  ( talk  •  contribs ) 00:26, June 20, 2012 (UTC) 
+ Most people seemed to want this gone. "Too bad"? -- Golden Key  ( talk  •  contribs ) 16:28, July 1, 2012 (UTC) 
+ Hi All, I checked in with the technical team about the issue, and it related to the Mediawiki upgrade. Once this wiki is on 1.19, it should no longer happen. We added this with to the expedited list, so it should get done later this week (likely on Thursday July 5th). I will keep you posted. -- Sarah   ( help forum  |  blog )  22:08, July 2, 2012 (UTC)
+ 
+ Even if those issues are fixed, general consensus here seems to be that we don't want this either way.  Cheesedude  ( talk  •  contribs ) 22:36, July 2, 2012 (UTC) 
+ Hi, As an update, this wiki was migrated to Mediawiki 1.19, so the previous issues with the incorrect images showing is resolved. There are though a couple things we have noticed and are working on. There's some caching problems after the MW upgrade. This is causing the blank carousels and the inconsistancies between clicking on one image vs another. There's some known issues regarding image collection for the carousel.  We are working on both of these right now and hope to have a fix out later in the week. As for having the lightbox enabled or not, this will be a sitewide update, so soon all wikis will have the lightbox, and will not be considered an optional feature. Best,  Sarah   ( help forum  |  blog )  18:21, July 3, 2012 (UTC)
+ 
+ Fine, it's not optional. I really don't appreciate that this is the first we've heard that though. Your posts here and on Deltaneos' talk page did not imply it was a mandatory upgrade. Maybe you didn't intend to be misleading, but I feel mislead, unintentionally for not.  Cheesedude  ( talk  •  contribs ) 18:38, July 3, 2012 (UTC) 
+ I got the impression it was eventually going to be mandatory from when she said  "The new lightbox will be coming to the rest of the site in the next couple of months" . I thought we were been given a choice in whether or not we wanted to be in the second group of wikis to get it early for testing purposes. --  Deltaneos  ( talk ) 18:44, July 3, 2012 (UTC) 
+ Hi Sarah, we're collecting more general issues we notice with the upgrade at  Forum:Upgrade problems . Think you could take a look and forward to Wikia techs as necessary?  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  18:35, July 3, 2012 (UTC) 
+ @Cheesedue - Sorry if you feel mislead, that was not at all my intention. We wanted to offer the lightbox here early, and thought I was clear that it would be going sitewide - sorry if I wasn't.
+ @Dinoguy1000 - Sent to the team. 
+Best,  Sarah   ( help forum  |  blog )  18:52, July 3, 2012 (UTC)
+ 
+ Those upgrade stuffs post in here are big mess so far - That's why I refused those goddamn add-in at first place. I just hated to not be able to return to normal after "enlarge" the image (now blank with no link or shit). -- i F r e d C a t  19:01, July 3, 2012 (UTC) 
+ Well, perhaps I just misread. Either way, I appreciate the apology.  Cheesedude  ( talk  •  contribs ) 00:48, July 4, 2012 (UTC) 
+ Thanks for the prompt attention, Sarah. Be sure to keep an eye on that forum discussion, too, it looks like it'll be our upgrade bug reports thread from here on out. ;)  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  07:41, July 4, 2012 (UTC) 
+ 
+ 
+ 
+Categories:

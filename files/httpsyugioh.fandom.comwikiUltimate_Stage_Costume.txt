@@ -1,0 +1,101 @@
+Link: https://yugioh.fandom.com/wiki/Ultimate_Stage_Costume
+
+
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Ultimate Stage Costume 
+ 
+ Japanese:   究極のステージ衣装 
+ Kana:   きゅうきょくのステージいしょう 
+ Romaji:   Kyūkyoku no Sutēji Ishō 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Field 
+ 
+ When you  activate  this card,  select  1  face-up   monster  you  control . It gains 3000  ATK  and  DEF . If that monster  attacks , its ATK and DEF becomes their values before that monster was selected during the  Damage Step  only. If that monster is removed from the  field , select 1 face-up monster you control and apply this card's  effects  to it.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  GX :  060 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  GX ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ German 
+ Ultimatives Bühnenkostüm 
+ 
+ 
+ 
+ Japanese 
+ 究極 のステージ 衣装 
+ 自分フィールド上のモンス...対象に選択する。 そのモンスターの攻撃力と守備力を30...アップする。 相手に攻撃を仕掛ける時...に戻る。 このカードがフィールド...分フィールド上のモンスターは破壊さ... 
+ 
+ 
+ Kyūkyoku no Sutēji Ishō 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Atticus Rhodes 
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ Your monsters gain DEF 
+ 
+ Miscellaneous  
+ Female 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/1/1d/UltimateStageCostume-JP-Anime-GX.png/revision/latest/scale-to-width-down/200?cb=20140628033320', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/13/UltimateStageCostume-JP-Anime-GX-NC.png/revision/latest/scale-to-width-down/185?cb=20140628033328', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

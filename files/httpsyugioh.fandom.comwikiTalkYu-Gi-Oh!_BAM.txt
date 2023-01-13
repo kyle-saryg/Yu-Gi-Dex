@@ -1,0 +1,261 @@
+Link: https://yugioh.fandom.com/wiki/Talk:Yu-Gi-Oh!_BAM
+
+
+ 
+ 
+ This is the talk page for discussing the page, Yu-Gi-Oh! BAM.
+ 
+ 
+ 
+ 
+ This page is for discussion about the article, not general talk about its subject.
+ See the  Forums  for general discussion. 
+ Please sign and date your posts  by typing four tildes ( ~~~~ ). 
+ Put new text under old text.  Click here to start a new topic . 
+ 
+ 
+ Please try to
+ 
+ Be polite 
+ Assume good faith 
+ Be welcoming 
+ 
+ Contents 
+ 
+ 1   Official? 
+ 2   Logo 
+ 3   OCG only card names 
+ 4   Card Table 
+ 5   Extracting sprites 
+ 6   Price changes 
+ 7   Actual number of cards 
+ 8   Developer? 
+ 9   Poodles of Mayhem 
+ 10   Characters 
+ 11   Yu-gi-oh! BAM on ios 
+ 12   About Fusion Monsters 
+ 13   Progress on Card List 
+ 
+ 
+ Official? 
+ Is there any proof that this is actually official? The  pojo.biz thread  opens with a quoted announcement blurb, but doesn't explicitly give a source for the blurb, which reads like it might have been taken directly from the Facebook page.  This tweet  does seem to confirm it, but you'd think there'd be a press release or something...  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  18:53, May 24, 2012 (UTC)
+ 
+ From what I've found and read it looks to be legit. They are in beta testing right now and only offered 5000 keys. They seem to be having a bunch of bugs with the app right now so they might be testing to see if it works and whether or not people want to play before officially announcing it.  Look234  ( talk  •  contribs ) 19:03, May 24, 2012 (UTC)
+ Sounds reasonable... I didn't factor in the fact that it's only in beta testing currently.  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  19:39, May 24, 2012 (UTC) 
+ Logo 
+ 
+Just saying that it's there; if we ever want to add it somewhere (e.g. how we add certain video game sets to the  CardTable  along with its logo)  - Falzar FZ - ( talk page | useful stuff )  05:17, July 12, 2012 (UTC)
+ 
+ Seems like someone's put it onto this page, which I didn't do, since it is redundant with the infobox image.  - Falzar FZ - ( talk page | useful stuff )  01:38, August 5, 2012 (UTC) 
+ OCG only card names 
+ For OCG only cards, some names used here are different: "Yamanato Dragon Scroll" ( Yamatano Dragon Scroll ) "Insect Armor and Laser" ( Insect Armor with Laser Cannon ) and "Djinn the Watcher" ( Djinn the Watcher of the Wind ). Should we move the pages?  - Falzar FZ - ( talk page | useful stuff )  05:55, July 25, 2012 (UTC)
+ 
+ "Yamanato Dragon Scroll" is a misspell. The Japanese name of the card is "Yamatano" (ヤマタノ). "Yamatano" (ヤマタノ) is a references to the Eight-Forked Serpent as seen in " Card Trivia:Yamata Dragon " 
+ "Insect Armor and Laser" and "Djinn the Watcher" might be the new edited and reduced name. 
+ I'm in favor of adding these name as an alternative name rather than move pages  Blackwings0605  ( talk ) 04:11, July 29, 2012 (UTC) 
+ Card Table 
+ Should we have a new card table template and article for each BAM card like how we did with  Bandai  card?  Blackwings0605  ( talk ) 04:11, July 29, 2012 (UTC)
+ 
+ Well, it all uses {{ CardTable2 }}, regardless of what game the card is from. As for giving them their own pages, that depends on how much BAM differs from the OCG/TCG: how likely are e.g. a monster's Level/Rank (there are Xyz Monsters, right?), ATK, DEF, etc. to be changed from their OCG/TCG values?  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  05:11, July 29, 2012 (UTC) 
+ No Xyz/Synchro/Fusion/Ritual Monsters. 
+ There are cases where: 
+ ATK/Power is different for many cards, Life Points mechanic instead of DEF (the Life Points you gain is not the same as the DEF of the _CG card for almost all cards), some Levels are different, almost all effects are different, no Traps only Spells and Trap related stuff are converted to Spells, some _CG Normal Monsters have effects, " Solemn Judgment " is a monster, etc. 
+ The only thing that is perfectly consistent with all its _CG counterparts should be the  Type  and  Attribute  (barring things like "Solemn Judgment"). 
+ - Falzar FZ - ( talk page | useful stuff )  08:07, July 29, 2012 (UTC) 
+ Just like Falzar said. And with the new August updates, the card poll is up to 407 cards now, and the table is getting longer and bigger. Also if we have article for every single BAM cards, we can note the price changed, others purchasable method (some cards can be obtained through both of purchasing from the shop and crafting).  Blackwings0605  ( talk ) 01:52, August 11, 2012 (UTC) 
+ Also, since most cards have different card effects, different card tips can be made, but then again, there aren't too many different card effects, so the tips could instead go to each effect type instead of each card.  - Falzar FZ - ( talk page | useful stuff )  14:47, August 23, 2012 (UTC) 
+ Different Attribute icons  now added to list of differences. 
+ - Falzar FZ - ( talk page | useful stuff )  12:45, September 7, 2012 (UTC) 
+ Would anyone mind until we started rolling out the  card article redesign  to start documenting the BAM cards on separate pages? The redesign will allow us to document them directly on the relevant card page rather than having to create over 400 "(BAM)" pages and interlink everything. 
+ On that note, I've started working on a {{ BAM card article }} template for that purpose, based on the table of card data present here. That template has parameters for all the information present here, but since I don't understand how everything works yet, several bits (power, Life Points, amount, effect2, and amount2) don't have any corresponding bit in {{ Card table }} and so aren't used. Any feedback/pointers/suggestions/etc.?  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  21:08, September 7, 2012 (UTC) 
+ Some cards can be obtained through both the shop and crafting. 
+ Cards can also be obtained through treasure chests or prizes for winning a certain duel in the storyline. There's also a few which can be obtained through gifts from friends. Should we document those too? 
+ There are 2 types of Spell Cards. Continuous and ones that don't say (so Normal). 
+ File:Back-BAM-EN-VG.png  is the card backing image. 
+ - Falzar FZ - ( talk page | useful stuff )  09:32, September 8, 2012 (UTC) 
+ How does crafting work, exactly? Is there anything that can be documented there aside from "this card can be crafted"? If so, I'd say that justifies splitting crafting into a separate parameter. 
+ I don't see why we shouldn't, though I don't know whether this should be documented in the table itself or in an extra info section of some type below it. What're your thoughts? 
+ Okay, I'll add {{{property}}}. 
+ Added.  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  10:06, September 8, 2012 (UTC) 
+ Crafting is: A card + another card + some currency = new card 
+ The two cards used in the process is specifically named. 
+ - Falzar FZ - ( talk page | useful stuff )  10:50, September 8, 2012 (UTC) 
+ Is the currency amount/type fixed for crafting a given card, or can it change from one craft to the next? 
+ Unless I'm blind, there is no such list on-wiki. 
+ Are the eight cards listed with a "Crafting" currency type the only eight which can be crafted, or are there others? A complete list would be nice.  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  11:18, September 8, 2012 (UTC) 
+ The currency can be both coins, card pieces and duel points depending on each specific crafted card. For example:  Dancing Elf  can be crafted using 2  Shining Friendship  (15650 coins each) with the craft cost of 1 card pieces and it can also be obtained from the shop with the cost of 105 card pieces. Another example is  Armored Rat  can be crafted using  Prevent Rat  (8675 coins) and  Steel Shell  (13 card pieces) with the craft cost of 1 card pieces and another way to obtain it is from the shop with the cost of 1 duel points. 
+ There are 62 cards that can be crafted at the moment. Yeah, 8 of them (currently listed as "Crafting" currency) are the cards can only obtainable through crafting (They're not available in the shops or obtainable through treasure chests). And I'm starting to make a full table right now  Blackwings0605  ( talk ) 11:38, September 8, 2012 (UTC) 
+ Done . Sorry if the table is hard to see, I'm not good at making table things.  Blackwings0605  ( talk ) 13:57, September 8, 2012 (UTC) 
+ Thanks Blackwings, that clarifies things some. =) Now I just have to figure out how best to implement that...  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  18:09, September 8, 2012 (UTC) 
+ I reckon you could have put the table on the main page, it's useful. 
+ You could copy the stuff for fusionmaterial and fusionmaterialfor, and change it to crafting. Queries can take care of the material costs. 
+ - Falzar FZ - ( talk page | useful stuff )  01:39, September 9, 2012 (UTC) 
+ I'm not worried about the material costs of the component cards, unless those have to be payed at the time of crafting as well; only the cost intrinsic to the crafting operation itself is worth noting for these, and let the articles on the materials cover their own costs. 
+ That's about what I was thinking, though my own thought was to just have a single generalized parameter for the materials, for the raw material text (e.g. '"Card A" + "Card B"', for Fusion, Synchro, and Xyz Monsters), and for the cards a given card is a material for, though I suppose in the latter case we may want to distinguish e.g. if a given card is both a Fusion Material and a Synchro Material, or something like that. 
+ Now how about the Power, HP, and lore/amount stuff, how does that all work?  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  05:13, September 9, 2012 (UTC) 
+ Power is ATK. The total HP of the cards in your deck added together = your starting LPs in the duel. Lore is just stating which effect type it is, the amount is well... the amount; how much does the effect do, e.g. Hurt 800 means Inflict 800 LPs damage to your opponent. 
+ If you know the basics of the card game, you can probably learn how BAM works in a few mins. The game starts off with a tutorial after all.  - Falzar FZ - ( talk page | useful stuff )  05:23, September 9, 2012 (UTC) 
+ So for {{ BAM card article }},  |atk={{{power|}}}  should be fine (along with something to change the label from "ATK/DEF" to "Power"), or should I go ahead and just implement a "power" parameter in {{ Card table }}? 
+ A new "hp" parameter in Card table should work for that, then. 
+ How does  |lore={{{effect|}}} {{{amount|}}}{{ #if: {{{effect2|}}} | <br />{{{effect2|}}} {{{amount2|}}} }}  look for the two effects/amounts, then? Is a linebreak between them fine, or should they be separated by something else?  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  05:57, September 9, 2012 (UTC) 
+ Not sure, but BAM uses quite a few different terms to the card game, e.g. round =  turn , channel =  column 
+ Are you asking about how it looks like on the card so you can mimic it?  File:Akakieisu-BAM-EN-VG.png . 
+ - Falzar FZ - ( talk page | useful stuff )  06:09, September 9, 2012 (UTC) 
+ Is that all going to be documented here at some point? It definitely sounds worthwhile to do so. 
+ Yeah, more or less. I guess I should've just asked for an example card or two. =X Speaking of, could you upload one of the cards with a "SPECIAL" effect?  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  13:40, September 9, 2012 (UTC) 
+ File:CallofDarkness-BAM-EN-VG.png . 
+ Do note that the sentences (e.g. Your Monster gains Power.) after the effect type (e.g. Boost) are not consistent, so we need to have the effect types separate from the lore (i.e. you can't automatically generate the lore from having the effect types and amount) 
+ - Falzar FZ - ( talk page | useful stuff )  13:50, September 9, 2012 (UTC) 
+ (The same highlight to read possible spoilers as usual) 
+ On the topic of crafting, looking through the source code of the crafting interface,  there is code for the cases where 3 and 4 ingredients are used. Currently only recipes using 2 ingredients are available. Might as well add it while you're doing them? 
+ Another topic now, not that it is related to the card table but it may be interesting, during battle there are the usual terms like Attack, Boost, Immunity, Death, Negative Boost, Effect Trigger, etc. There's also one for Limbo State, perhaps the term " Limbo " is not unofficial after all? 
+ - Falzar FZ - ( talk page | useful stuff )  04:01, September 10, 2012 (UTC) 
+ (outdent) All right, how's the effect box look?  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  04:51, September 10, 2012 (UTC)
+ 
+ Looks good. 
+ I should mentioned that there are also monsters with no effects (e.g.  File:Nekogal1-BAM-EN-VG.png ). In which case, we just use the "lore" parameter and none of the others? 
+ Other random info which my be useful for creating the template: 
+ The shop search filter also uses the filters: "Single effect", "Multiple effects" and "No effect". We should also have these in the SMW search whenever it is added. 
+ Spells do not have Power, Level, Type or Life Points. 
+ Only Spells use the Continuous Symbol. Monsters do not. 
+ I chose that example because it has a different lore to its Normal Monster Card Game counterpart. Which also seems to be like an errata. I've mentioned it on its  Trivia page , wondering if these should be added to the Errata page. (Although, currently it should be the only one, excluding incorrect names mentioned in the above section). 
+ - Falzar FZ - ( talk page | useful stuff )  14:37, September 10, 2012 (UTC) 
+ Thanks for pointing that out; yeah, I've fixed up the template so just using "lore" works fine. When it's closer to deployment (and therefore the SMW stuff is actually getting worked on =D ), it should be trivial to add a property as well for whether it has zero, one, or two (there aren't ever more than two, right? I sure hope not...) effects. 
+ I figured that. The template should work just fine for the spells if you don't set any of "attribute", "power", "level", "type", or "lp". 
+ It's worth noting that the updated lore is also used on its  card database page  (I thought to look there because I was looking through  random Errata pages  last night and saw one that had an updated lore/effect from the DB). I think we're going to have to look through the database and compare the lores/effects listed there with our latest errata for pretty much every card (something we could definitely use a custom-written bot for =/ ).  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  19:37, September 10, 2012 (UTC) 
+ Interesting, I also agree that the Errata pages should include database erratas. 
+ I'll just extract names-lores from the database (it should be similar to the names-databaseID I did a while ago). Using a bot to go through each page isn't the most efficient method, I'll just use SMW to get a list of all TCG names-lores on this wikia at once and compare off that.  - Falzar FZ - ( talk page | useful stuff )  01:26, September 11, 2012 (UTC) 
+ SVG version of the icons. 
+ ,  ,  ,  ,  ,  ,  ,  . 
+ - Falzar FZ - ( talk page | useful stuff )  04:27, September 15, 2012 (UTC) 
+ Added, thanks for creating the icons (without me even asking! =D ).  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  10:35, September 16, 2012 (UTC) 
+ I might create ones for Attack and Life Points as well, after that I'll check the erratas. 
+ On the topic of attribute icons, do you know if the CG attribute icons were deliberately made to look different to what the cards use or not? especially  File:Water.svg  and  File:Light.svg . 
+ - Falzar FZ - ( talk page | useful stuff )  03:16, September 17, 2012 (UTC) 
+ Nope, that's something I've always wondered as well, but never asked Radaghast about it. I've been assuming that it was partly a stylistic choice and partly just to control the size and complexity of the SVG file (and maybe some sidestepping of copyright thrown in for good measure).  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  06:21, September 18, 2012 (UTC) 
+ Extracting sprites 
+ (WARNING: May contain spoilers of upcoming features). Highlight the next line to read.
+ There are sprites for "MEGABAM" ( http://i50.tinypic.com/2iayj3p.png ), "AUTOBAM" ( http://i50.tinypic.com/2z57lhj.png ) and an "Unlock" button which can only be used when you reach a certain Level in the shop. 
+ I'm not sure if I should add features which aren't legitimately available in the game to the page, so I'll leave it here.  - Falzar FZ - ( talk page | useful stuff )  01:38, August 5, 2012 (UTC)
+ 
+ Price changes 
+ Should we mention the price of cards changing somewhere? (Waboku 4 --> 16, White Hole, Mirror Force and there was a card which went from DP to CP which I forgot the name for)  - Falzar FZ - ( talk page | useful stuff )  22:29, October 31, 2012 (UTC)
+ Please do. You could place it in a new section, maybe call it Trivia section or whatnot. It could be a useful information.  Dark Pride  ( talk  •  contribs ) 13:08, November 6, 2012 (UTC)
+ 
+ Actual number of cards 
+ Currently, there's actually 777 cards with many of them unavailable. I've directly linked to the files at  User:Falzar FZ/Sandbox11 .  - Falzar FZ - ( talk page | useful stuff )  03:21, November 16, 2012 (UTC)
+ When I clicked the link, nothing appears. I also used "Save Link As.." from Firefox... I only got a 10 KB swf file which when opened using Macromedia Flash Player 6 shows nothing. Do I have to use an external software or something? Thanks. Dark Pride  ( talk  •  contribs ) 12:20, November 16, 2012 (UTC)
+ 
+ I thought I already said something on your talk page, with the term extract not open. 
+ I won't go into unnecessary detail, the point is, they exist, should we mention them. 
+ - Falzar FZ - ( talk page | useful stuff )  12:49, November 16, 2012 (UTC) 
+ Oh, sorry. I thought extract means just simply saving it, my bad!.  Dark Pride  ( talk  •  contribs ) 12:57, November 16, 2012 (UTC) 
+ I should mention that I haven't gotten to the point where I can support that the 700th reward is Ananta.  But I can say that both Ananta and Gradius are marked and the trend with the marker seems say that they are "new" cards, but since those two aren't available, it's quite likely. As such, I've set the comment to "Not available or "new"" on the sandbox. 
+ EDIT: I have hacked it, and can say that it is indeed Ananta, I have a video of it as well, so I can upload it if it's necessary. 
+ EDIT2: Might as well upload it anyway so I can delete it from my computer,  http://www.youtube.com/watch?v=eRWXq32DbbI  (Proof of the 675 and 700 rewards) 
+ - Falzar FZ - ( talk page | useful stuff )  13:09, November 16, 2012 (UTC) edited on 02:24, November 25, 2012 (UTC) 
+ Proof of the 725 and 750 rewards  http://www.youtube.com/watch?v=WhX_z7UT9oE 
+ - Falzar FZ - ( talk page | useful stuff )  02:41, November 30, 2012 (UTC) 
+ Developer? 
+ From the main article we listed Konami as the developer of the game, but is this really developed by Konami? [This  https://www.yugioh-bam.com/blog/category/developers-diary/ ] and the line under the app page: "Developed by: Frima Studio" clearly mentioned that  Frima Studio  is the real developer for this game. I don't know that if Frima received technical support from Konami or not, but for sure they have the copyright and marketing support from Konami and I think it is fair to mention Frima Studio somewhere in our article.  BAM Master  ( talk  •  contribs ) 15:00, December 8, 2012 (UTC)
+ 
+ I noticed that a while ago and I've been meaning to fix it, but I forgot. It's quite clear that the devoloper is Frima Studio, not Konami. 
+ In the code of the game, there is a line that says: " Frima YGOHanzel Copyright 1994 Bay Animation Inc All Rights Reserved " 
+ I think Bay Animation Inc does the fonts, but I have no idea what/who YGOHanzel is. 
+ - Falzar FZ - ( talk page | useful stuff )  01:17, December 9, 2012 (UTC) 
+ Found it, FujiWide, FujiWideBold, FujiWideRegular, HanzelBold, YGOHanzel, etc. are the names of the fonts use in the game. Bay Animation Inc created the fonts. 
+ - Falzar FZ - ( talk page | useful stuff )  01:34, December 9, 2012 (UTC)
+ Added an important point that Frima were specifically contracted by Konami, and that Konami maintain publishing rights.-- TwoTailedFox  ( My Talk Page ) 02:00, December 9, 2012 (UTC) 
+ Poodles of Mayhem 
+ It's actually a topic on Booster Packs.  From the game data , seems like a joke from one of the devs. Pretty sure it's not the name of a Booster Pack, it's probably a random filler name.  - Falzar FZ - ( talk page | useful stuff )  14:17, December 10, 2012 (UTC)
+ 
+ I wouldn't be surprised if it actually is a set name. But I've no problem with waiting if you want to be cautious. --  Deltaneos  ( talk ) 22:45, December 10, 2012 (UTC) 
+ I reckon it's a joke as it's not the first time random things appeared. 
+ There are lines which say "Trolololololol ' Problem?", "The BFG", "woot" in the list of effects data. 
+ - Falzar FZ - ( talk page | useful stuff )  22:54, December 10, 2012 (UTC) 
+ On the topic of Booster Packs,  Series 1 (BAM)  contains 336 cards and when the game was released, there were  336 cards . It's probably safe to assume they are the same 336, but that would be speculation wouldn't it.  - Falzar FZ - ( talk page | useful stuff )  00:41, December 12, 2012 (UTC) 
+ So the first 3 did actually contain those 336 cards. 
+ After the update, the data for Poodles of Mayhem has been removed. 
+ Something added is  Dark Machine Starter Pack . 
+ - Falzar FZ - ( talk page | useful stuff )  00:16, December 13, 2012 (UTC) 
+ So they're also planning to do Structure Decks?  Dark Pride  ( talk  •  contribs ) 00:38, December 13, 2012 (UTC) 
+ Seems like it, but keep in mind that they don't always release what they plan. 
+ There was a Booster Pack opening animation ( http://i46.tinypic.com/11l4j7r.png ), but that has been removed and replaced with a completely different one.  - Falzar FZ - ( talk page | useful stuff )  00:41, December 13, 2012 (UTC) 
+ Inside  https://1-live-cdn-ygo.yugioh-bam.com/1.38.13/asset/icon/default/hat_icon.swf 
+ Contains an image ( http://i49.tinypic.com/2z6h8pl.png ), why the hell would an image from Zombie Tycoon at  http://craker.wordpress.com/2009/11/12/review-zombie-tycoon/  be there? Taking randomness to a whole new level... 
+ So, I don't think pages for really random things like that should be made (including Poodles of Mayhem).  - Falzar FZ - ( talk page | useful stuff )  03:16, December 13, 2012 (UTC) 
+ I think the game data says that Sky Storm and Psychic Time Warp will both cost 10 DP each. 
+ Keep in mind that it'll probably only be as accurate as  https://www.yugioh-bam.com/forums/showthread.php?2483-Developers-Diary-Artwork  which had 50000 and 75 changed to 40000 and 90. 
+ - Falzar FZ - ( talk page | useful stuff )  06:08, December 13, 2012 (UTC) 
+ The following appeared in the game data after the update: 
+ Bestial Fury Starter Pack 
+ Dragon Master Starter Pack 
+ Zombie Hord Starter Pack 
+ Nightmarish Fiends Starter Pack 
+ Enchanted Fairies Starter Pack 
+ Insect Swarm Starter Pack 
+ Cyber Assault Starter Pack 
+ - Falzar FZ - ( talk page | useful stuff )  20:03, January 30, 2013 (UTC) 
+ Another joke name,  Quest Of the Giant Golden Schlump 
+ - Falzar FZ - ( talk page | useful stuff )  03:53, February 17, 2013 (UTC) 
+ Characters 
+ Created  Template:Characters/BAM . Can these ( http://i49.tinypic.com/2dbjyo9.png ) silhouettes be identified?  - Falzar FZ - ( talk page | useful stuff )  05:33, January 13, 2013 (UTC)
+ 
+ Yu-gi-oh! BAM on ios 
+ Shouldn't it be mentioned that there is a iOS version of YGO BAM, probably an android version too.  CreepersRegret  ( talk  •  contribs ) 12:50, November 28, 2013 (UTC)
+ 
+ Yes, I think.  Dark Pride  ( talk  •  contribs ) 11:35, February 8, 2014 (UTC) 
+ About Fusion Monsters 
+ As you can notice, Falzar, the one who's mainly in charge of updating the BAM part of the Wiki stopped updating the Wiki since September or October last year. There are several issues that needs to be addressed here in the Wikia:
+ 
+ First, here's the tutorial for the Fusion Monsters that were introduced into the game last October 2013:  http://www.kongregate.com/forums/291-yu-gi-oh-bam/topics/366725-tutorial-fusion-cards . For those who tl;dr through the tutorial, basically a Fusion Monster card has 2 Monsters inside of 1 card. The Fusion Material Monster ( Thousand-Eyes Idol ), and the Fusion Monster ( Thousand-Eyes Restrict ). The material alone is standalone as a monster, while the Fusion Monster must be fused by overlaying the material to a monster (usually with Type/Attribute restrictions).  For the format found in  http://yugioh.wikia.com/wiki/List_of_Yu-Gi-Oh!_BAM_cards , I decided to list the currency (Coins, CP and DP) for the material monster, while for the corresponding Fusion, I'm planning to just put a SVG Icon for Fusion (since you can only acquire the Fusion Material Monster, not the Fusion Monster itself). Problem is that I don't know how to create SVGs but I have a JPG for Fusion Icon here:  http://i.imgur.com/UkKkUWZ.jpg . If anyone managed to create a SVG icon of that, you can go ahead and edit the card list, or I could edit it later. 
+ Also, the Holiday Collection Booster Pack has no picture. I doubt that I can still get that. Anyone who had screencapped that? 
+ The card images. Compare  Sunlight Unicorn  and  B.E.S. Big Core MK-2 . The format for card text changed around the Arena Contagion Event (October 31). We need someone to update all the card images. I'm not really sure if screencapping and capping them one-by-one is a good idea though. 
+ There have been many one-time Theme Decks that were sold, and I missed majority of them. Do we still need to document those? Anyone who had screencaps for those? 
+ Every news that is between November 15, 2013 and January 16, 2014 was missed. Anyone who wants to update those. I don't have screencaps for those. Sorry for not being able to document those. 
+ Dark Pride  ( talk  •  contribs ) 11:53, February 8, 2014 (UTC)
+ 
+ 
+ Thanks for the explanation on Fusion Monsters. While an SVG of the icon would be nice, it is possible to use non-SVGs, with  {{ BAM-Icon }} , if you use  {{ BAM-Icon |...|ext=jpg}} . But I'd recommend resaving that image as a .png, because .jpgs on the wiki blur here when you give them a specific width or height. If  this image  still exists and hasn't been replaced, compare:  [[File:Rare Hunter 2 manga portal.jpg]]  and  [[File:Rare Hunter 2 manga portal.jpg|150px]] 
+ Falzar got the card images, by extracting them from .swf files. I get " whatever .swf is not a valid SWF file or contains errors." when I try to do anything with the .swf files on  User:Falzar FZ/Sandbox11 . It looks like either they've relocated or I'm screwing up. If you're using Firefox while playing  BAM , can you right click somewhere on the screen away from the flash and select "View Page Info"? (Ctrl + I might work.) Click the media icon and see if there is any .swf on the list that looks like it's referring to a card on the screen. Then post the URL to the .swf and I'll see if I can extract the card image. 
+ Missing news, Deck info and Booster Pack images, I'm afraid I'm no help with. 
+ --  Deltaneos  ( talk ) 00:21, February 10, 2014 (UTC)
+ 
+ 
+ Did the first part (uploading the SVG icon and changing the card list accordingly). The next part is that we have to link the BAM-Fusion icon into the Fusion article. Speaking of that, do we have to create a separate article for BAM, or do we just need to append a BAM section in the  Fusion Monster  article? 
+ About the swf thing. I tried it on Kong, and I got 2 swfs, it's either this:  http://internal.kongregate.com/flash/konduit_872a33dc5af42135e6bd29f6be03ca57.swf  or this  http://1-live-cdn-ygok.yugioh-bam.com/1.33.6/prelauncher.swf?1.33.6 
+ Also, I think that the card list might be becoming too long. Also, I'm thinking of revising the article on Booster Packs like  Obscure Devastation ,  Root of Evil , etc. to include card images and their corresponding cost, instead of just the card list. Any opinions on that? 
+ Dark Pride  ( talk  •  contribs ) 16:25, February 12, 2014 (UTC)
+ 
+ 
+ Both options seem fine to me. 
+ The reason the .swf links on the Sandbox11 are not working, is because  User:Falzar FZ/BAM version  needs to be updated to the current version, which at the time of this message is 1.33.6. Even with the correct version number, I can't extract more than just the artwork from them. If that's all that's there, I'm unaware of any quicker way than screencapping each individual card. 
+ I also think the card list is too long. Is it necessary to include all the details and images it uses? 
+ We can use  {{ #ask: [[Sets::Legend of the Dragon]] | ... }}  to create an automatic list of pages with  | booster_pack      = Legend of the Dragon . We should be able to get it to extract all the relevant details you wish to add to the list from the card pages. If I add a card image property to  Template:BAM card , we should be able to extract images from  BAM  card pages too, like in the  gallery of  Yu-Gi-Oh! Forbidden Memories  cards . 
+ --  Deltaneos  ( talk ) 22:11, February 12, 2014 (UTC)
+ 
+ 
+ I think that only the preloader was seen through Firefox's View Page Info and the actual game was obscured via some means. And how do I make it such that when I click the BAM-Fusion.png in the card list, it will lead me to the Fusion article, and not the BAM-Fusion icon? 
+ Also, regarding the card list, we could separate the entire card list into 3 separate sections; Series 1, Series 2, and Side Series so that it won't be a hassle editing them. Though the tables is still essential imho.  Dark Pride  ( talk  •  contribs ) 04:21, February 13, 2014 (UTC) 
+ 
+ That's okay, about the SWFs. We should be able to find the card ones now with the version number updated. But they don't seem to have anything other than just the artwork, as far as I can tell. As in just the illustration, no frame, lore, stats. 
+ To change the link, just add a  |link=Fusion Monster  to the template. There's more instructions on  Template:BAM-Icon . 
+ --  Deltaneos  ( talk ) 21:05, February 20, 2014 (UTC)
+ 
+ 
+ Progress on Card List 
+ Okay. Almost all Yu-Gi-Oh! BAM cards have their articles now (except Detonate, since it is a BAM Legend, obtaining a clean screencap of it from the Shop is impossible and I'm not willing to buy it in case it appeared in the Shop). We need to update this:  http://yugioh.wikia.com/wiki/Series_2_%28BAM%29  and this:  http://yugioh.wikia.com/wiki/Side_Series_%28BAM%29 . For the Side Series, it's easy to update, but for Series 2 list, it might be hard. Is there any way for me to obtain the ID number of each card in the game like this?  http://yugioh.wikia.com/wiki/User:Falzar_FZ/Sandbox11/3  I think it will be easier to update the Series 2 article that way since the order of that list follows the ID number that is in-game.  Dark Pride  ( talk  •  contribs ) 02:18, February 20, 2014 (UTC)
+ 
+ 
+ Thanks for all the work creating the card articles. X-Metaman just uploaded a "Detonate" image, so we have;  Detonate (BAM) . Would you know any of the following "release", "removal", "cost"?
+ The redlinks at  Talk:List of Yu-Gi-Oh! BAM cards#? ? update  haven't been released yet, have they? The one that immediately grabs attention there being "The Winged Dragon of Ra".
+ --  Deltaneos  ( talk ) 21:30, February 20, 2014 (UTC)
+ 
+ 
+ I have no idea about those cards. Usually, the cards that appear in  Talk:List of Yu-Gi-Oh! BAM cards#? ? update  are more reliable than the ones on  User:Falzar_FZ/Sandbox11 . I also have no idea why Blackwings, Gishki and Vampires were implemented in the game while Chronomaly, Skull and "Divine" cards aren't yet even though they're part of the single subheading. Also, note that swf for those cards (Chronomaly, Divine, Skull) were already added on the game on July 10th or 25th. I have no idea why they haven't appear in the game up to now. Also, what happened to Wattcannon? Did they scrap the card already? From December 2013 up to now, all they've been adding are Community-created cards, which is neither in Sandbox11, nor in the Series 2 article. The last archetype the debuted on Yu-Gi-Oh! BAM were Fabled, Naturia Insects and Sharks which is not on Sandbox11. 
+ Also, I hope that someone will rip the news update images just like what Falzar has been doing, since it's easy to miss those, and they change daily. It'll be hard keeping track of those that the concerned editors will miss. Not that I'm begging someone to do so.  Dark Pride  ( talk  •  contribs ) 15:22, February 21, 2014 (UTC) 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/92/Yu-Gi-Oh%21_BAM_logo.png/revision/latest/scale-to-width-down/60?cb=20140609032908', 'https://static.wikia.nocookie.net/yugioh/images/e/e1/BAM-LIGHT.svg/revision/latest/scale-to-width-down/34?cb=20120915042419', 'https://static.wikia.nocookie.net/yugioh/images/6/68/BAM-DARK.svg/revision/latest/scale-to-width-down/34?cb=20120915042434', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories:

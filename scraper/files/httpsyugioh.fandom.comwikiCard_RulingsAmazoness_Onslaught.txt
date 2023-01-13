@@ -1,0 +1,38 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Amazoness_Onslaught
+
+
+ Amazoness Onslaught 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ OCG Rulings 
+ The activation of only the card " Amazoness Onslaught " can be performed at any time, except during the  Damage Step . [1] 
+ The effect " Once per turn, during the Battle Phase: You can Special Summon 1 "Amazoness" monster from your hand, and if you do, it gains 500 ATK until the end of this turn (even if this card leaves the field) " makes a  Chain Link . (It does not  target . It cannot be activated during the  Damage Step ) [1] 
+ If the card "Amazoness Onslaught" is activated during the  Battle Phase  except during the  Damage Step , the effect " You can Special Summon 1 "Amazoness" monster from your hand, and if you do, it gains 500 ATK until the end of this turn (even if this card leaves the field) " can be activated during the same Chain Link as the activation of the card. [1] 
+ The effect " After damage calculation, if your "Amazoness" monster battled an opponent's monster while this card is already face-up in your Spell & Trap Zone: You can banish that opponent's monster " makes a  Chain Link . (It can be activated if the player's "Amazoness" monster battled an opponent's monster while "Amazoness Onslaught" is already face-up. It does not  target .) [1] 
+ The effect " If this card on the field is destroyed and sent to the GY: You can target 1 "Amazoness" monster in your GY; Special Summon it " activates in the  GY  and makes a  Chain Link . (It  targets  1 "Amazoness" monster the player's GY. It can be activated even during the  Damage Step .) [1] 
+ Even if the player's " Amazoness " monster destroyed the opponent's monster by battle, the effect of "Amazoness Onslaught" can be activated after damage calculation. In that case, the destroyed monster is banished after damage calculation and is never sent to the Graveyard. [2] 
+ " Amazoness Scouts " is  Special Summoned  by the effect " Once per turn, during the Battle Phase: You can Special Summon 1 "Amazoness" monster from your hand, and if you do, it gains 500 ATK until the end of this turn (even if this card leaves the field) " of "Amazoness Onslaught". The effect " it gains 500 ATK until the end of this turn (even if this card leaves the field) " of "Amazoness Onslaught" has already been applied to the Special Summoned "Amazoness Scouts", so even if "Amazoness Onslaught" is destroyed by " Mystical Space Typhoon ", "Amazoness Scouts" will maintain its 500 ATK increase until the end of the turn. [3] 
+ Even if the player's battling " Amazoness " monster was  destroyed by battle , since it still battled an opponent's monster, the effect of " Amazoness Onslaught " can still be activated after  damage calculation . In that case, that opponent's monster is banished, but the player's "Amazoness" monster is sent to the Graveyard at the end of the  Damage Step  as usual. [4] 
+ References 
+ 
+ ↑  1.0   1.1   1.2   1.3   1.4   Konami OCG Card Database : Amazoness Onslaught 
+ 
+ ↑   Konami OCG Card Database : If the player's "Amazoness" monster destroyed the opponent's monster by battle, can the effect of "Amazoness Onslaught" be activated after damage calculation? 
+ 
+ ↑   Konami OCG Card Database : What happens to the ATK of a monster Special Summoned from the hand by the effect of "Amazoness Onslaught" after "Amazoness Onslaught" is destroyed? 
+ 
+ ↑   Konami OCG Card Database : If the player's "Amazoness" monster was destroyed by battle with an opponent's monster, can "Amazoness Onslaught" be activated? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

@@ -1,0 +1,144 @@
+Link: https://yugioh.fandom.com/wiki/Multi_Sledgehammer
+
+
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Multi Sledgehammer 
+ 
+ Japanese:   マルチスレッジハンマー 
+ Romaji:   Maruchi Surejji Hanmā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   EARTH 
+ 
+ Link Arrows 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Bottom ,  Right 
+ Effect type
+ 
+ 
+ 
+ 
+ Trigger 
+ Continuous 
+ Trigger 
+ Material 
+ 
+ 
+ 
+ 2  Cyberse   monsters 
+ 
+ [  Cyberse  /  Link  /  Effect  ] 
+ 2  Cyberse   monsters 
+ If another Cyberse  Link Monster  you  control  declares an  attack : Place 1  Hammer Counter  on this card. If this card is  co-linked  to a Cyberse monster, it can  attack directly . When this card declares an attack: You can remove all Hammer Counters from this card; this card gains 1000  ATK  for each Hammer Counter you removed until the end of this  turn .
+ ATK  /  1000     LINK  –  2   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  035 ,  036 ,  037 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Cyberse 
+ Link Monster 
+ 
+ Counters   
+ Hammer Counter 
+ Places counters on itself 
+ Removes counters from itself for cost 
+ 
+ Actions  
+ Activates upon attack declaration 
+ 
+ Stat changes  
+ This card gains ATK 
+ 
+ Summoning  categories  
+ 2 Link Materials 
+ Requires Type specific Link Materials 
+ 
+ Attack  categories  
+ Direct attacker 
+ 
+ Miscellaneous  
+ Co-link 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/2/24/MultiSledgehammer-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180131194501', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/38/MultiSledgehammer-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20180117142227', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

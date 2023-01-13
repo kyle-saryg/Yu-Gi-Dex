@@ -1,0 +1,56 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Ante
+
+
+ Ante 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [1]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [2] [3] [4] [5] [6] [7] [8] [9] [10] 
+ 
+ If " Ante " is the only card in your  hand , you cannot activate it. 
+ If your opponent has no cards in his  hand , you cannot activate " Ante ". 
+ You  select  cards at the resolution of " Ante "'s effect, not at " Ante "'s activation. 
+ You cannot  chain  " Barrel Behind the Door " to " Ante " because you don't know for certain whether you will take damage. 
+ If either player chains " Raigeki Break " or " Last Turn " to " Ante " and then has no cards at resolution of " Ante "'s effect, " Ante "'s effect disappears. 
+ When " A Legendary Ocean " is active and you activate " Ante ", when you check the  Level , treat the  Levels  of  WATER  monsters in the  hand  as 1 lower for purposes of " Ante ". 
+ Mentions in Other Rulings 
+ Barrel Behind the Door : You cannot activate " Barrel Behind the Door " against effects if you don't know for certain that they will  inflict  damage when the  effect  is activated. So you cannot  activate  it against..." Ante "... 
+ 
+ 
+ 
+ References 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

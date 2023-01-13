@@ -1,0 +1,109 @@
+Link: https://yugioh.fandom.com/wiki/Hiding_%22C%22
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Hiding "C" 潜 伏 する Ｇ 
+ 
+ English 
+Hiding "C" 
+ Japanese (kana) 
+ せんぷくするジー Check translation 
+ Japanese (base) 
+ 潜伏するＧ Check translation 
+ Japanese ( rōmaji ) 
+Senpuku-suru Jī 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Insect  /  Effect 
+ Level 
+ 7   
+ ATK  /  DEF 
+ 1300  /  2500 
+ Passcode 
+ 25137581 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When your opponent  Special Summons  a  monster(s) : You can Special Summon this card from your  hand  in  face-down   Defense Position , and if you do, change it to  face-up  Defense Position during the  End Phase  of this  turn . You can only use this  effect  of "Hiding "C""  once per turn . If this card is  flipped  face-up during the End Phase:  Destroy  all Special Summoned monsters on the  field . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①の効果は１ターンに１度しか使用できない。①：相手がモンスターの特殊召喚に成功した時に発動できる。このカードを手札から裏側守備表示で特殊召喚する。この効果で特殊召喚したこのカードは、このターンのエンドフェイズに表側守備表示になる。②：このカードがエンドフェイズにリバースした場合に発動する。フィールドの特殊召喚されたモンスターを全て破壊する。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-10-15 PHHY-JP030 Photon Hypernova ＰＨＯＴＯＮ ＨＹＰＥＲＮＯＶＡ Normal Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ "C" 
+ 
+ Actions  
+ Changes battle positions 
+ Activates upon being flipped face-up 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys Special Summoned monsters 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ Special Summons face-down 
+ 
+ Miscellaneous  
+ Only once per turn 
+ Pseudo-Flip Effect 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 18175 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ "C"   Ｇ Members 
+ Confronting the "C" Contact "C" Flying "C" Hiding "C" Maxx "C" Retaliating "C" Shiny Black "C" Shiny Black "C" Squadder Super Armored Robot Armed Black Iron "C" 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/17/HidingC-PHHY-JP-NR.png/revision/latest/scale-to-width-down/300?cb=20221107190806', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

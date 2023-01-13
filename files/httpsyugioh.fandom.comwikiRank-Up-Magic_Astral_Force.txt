@@ -1,0 +1,253 @@
+Link: https://yugioh.fandom.com/wiki/Rank-Up-Magic_Astral_Force
+
+The  Croatian                        name given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Rank-Up-Magic Astral Force ＲＵＭ －アストラル・フォース 
+ 
+ English 
+Rank-Up-Magic Astral Force 
+ French 
+ Force d'Astral Magie-Rang-Plus Check translation 
+ German 
+ Rangsteigerungszauber Astral-Kraft Check translation 
+ Italian 
+ Alza-Rango-Magico Forza Astral Check translation 
+ Korean 
+ RUM －아스트랄 포스 Check translation 
+ Portuguese 
+ Magia de Aumento de Classe Força Astral Check translation 
+ Spanish 
+ Magia de Subida de Rango Fuerza Astral Check translation 
+ Japanese (kana) 
+ ランクアップマジック－アストラル・フォース Check translation 
+ Japanese (base) 
+ ＲＵＭ－アストラル・フォース Check translation 
+ Japanese ( rōmaji ) 
+Rankuappu Majikku - Asutoraru Fōsu 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 45950291 
+ Card effect types 
+ 
+ 
+ Effect 
+ Trigger-like 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Target  the 1  Xyz Monster  you  control  with the highest  Rank  (your choice, if tied);  Special Summon  from your  Extra Deck , 1  monster  with the same  Type  and  Attribute  as that monster you control but 2 Ranks higher, by using it as  material . (This is treated as an  Xyz Summon .  Transfer  its materials to the  Summoned  monster.) During your  Draw Phase , if this card is in your  GY , instead of conducting your normal draw: You can  add  this card from your GY to your  hand . You cannot Special Summon during the turn you  activate  this  effect , except by the effect of "Rank-Up-Magic Astral Force". 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Ciblez le Monstre Xyz que vous contrôlez avec le plus haut Rang (en cas d'égalité, vous choisissez) ; Invoquez Spécialement 1 monstre du même Type et Attribut que le monstre que vous contrôlez mais avec 2 Rangs de plus depuis votre Extra Deck, en l'utilisant comme Matériel. (Ceci est traité comme une Invocation Xyz. Transférez ses Matériels au monstre Invoqué.) Durant votre Draw Phase, si cette carte est dans votre Cimetière, au lieu de mener votre pioche normale : vous pouvez ajouter cette carte depuis votre Cimetière à votre main. Vous ne pouvez pas Invoquer Spécialement durant le tour où vous activez cet effet, sauf par l'effet de "Force d'Astral Magie-Rang-Plus". 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wähle das 1 Xyz-Monster mit dem höchsten Rang, das du kontrollierst (bei Gleichstand bestimmst du eins); beschwöre 1 Monster mit demselben Typ und derselben Eigenschaft wie das Monster, das du kontrollierst, aber einem um 2 höheren Rang als Spezialbeschwörung von deinem Extra Deck, indem du es als das Material verwendest. (Dies wird als Xyz-Beschwörung behandelt. Transferiere sein Material an das beschworene Monster.) Während deiner Draw Phase, falls sich diese Karte in deinem Friedhof befindet, anstatt dein normales Ziehen durchzuführen: Du kannst diese Karte von deinem Friedhof deiner Hand hinzufügen. Du kannst während des Spielzugs, in dem du diesen Effekt aktivierst, keine Monster als Spezialbeschwörung beschwören, außer durch den Effekt von „Rangsteigerungszauber Astral-Kraft“. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Scegli come bersaglio 1 Mostro Xyz che controlli con il Rango superiore (in caso di parità, scegli tu); Evoca Specialmente dal tuo Extra Deck 1 mostro con lo stesso Tipo e Attributo di quel mostro che controlli ma di 2 Ranghi superiore, utilizzandolo come materiale. (Questa viene considerata come un'Evocazione Xyz. Trasferisci i suoi materiali sul mostro Evocato.) Durante la tua Draw Phase, se questa carta è nel tuo Cimitero, invece di effettuare la tua normale pescata: puoi aggiungere questa carta dal tuo Cimitero alla tua mano. Non puoi Evocare Specialmente durante il turno in cui attivi questo effetto, eccetto che per l'effetto di "Alza-Rango-Magico Forza Astral". 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Escolha o 1 Monstro Xyz que você controla de maior Classe (em caso de empate, você seleciona); Invoque por Invocação-Especial do seu Deck Adicional, 1 monstro com o mesmo Tipo e Atributo que esse monstro que você controla, mas 2 Classes maior, ao usá-lo como matéria. (Isso é considerado uma Invocação-Xyz. Transfira as matérias dele para o monstro Invocado.) Durante sua Fase de Compra, se este card estiver no seu Cemitério, em vez de conduzir sua compra normal: você pode adicionar este card do seu Cemitério à sua mão. Você não pode Invocar por Invocação-Especial durante o turno em que ativar este efeito, exceto pelo efeito de "Magia de Aumento de Classe Força Astral". 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Selecciona el Monstruo Xyz de mayor Rango que controles (si hay empate, tú eliges); Invoca de Modo Especial, desde tu Deck Extra, 1 monstruo con el mismo Tipo y Atributo que ese monstruo que controlas, pero 2 Rangos mayor, usando al monstruo como material. (Esto se trata como una Invocación Xyz. Transfiere sus materiales al monstruo Invocado). Durante tu Draw Phase, si esta carta está en tu Cementerio, en lugar de realizar tu robo normal: puedes añadir a tu mano esta carta en tu Cementerio. Durante el turno en el que activas este efecto no puedes Invocar de Modo Especial, excepto con el efecto de "Magia de Subida de Rango Fuerza Astral". 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：自分フィールドのランクが一番高い Ｘ モンスター１体を対象として発動できる。その自分のモンスターと同じ種族・属性でランクが２つ高いモンスター１体を、対象のモンスターの上に重ねて Ｘ 召喚扱いとして ＥＸ デッキから特殊召喚する。②：このカードが墓地に存在する場合、自分ドローフェイズのドロー前に発動できる。このカードを手札に加える。この効果を発動するターン、自分は通常のドローを行えず、「 ＲＵＭ －アストラル・フォース」の効果以外ではモンスターを特殊召喚できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 자신 필드의 랭크가 가장 높은 엑시즈 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 자신 몬스터와 같은 종족 / 속성으로 랭크가 2개 높은 몬스터 1장을, 대상 몬스터의 위에 겹쳐 엑시즈 소환으로 취급하고 엑스트라 덱에서 특수 소환한다. ②: 이 카드가 묘지에 존재할 경우, 자신 드로우 페이즈의 드로우 전에 발동할 수 있다. 이 카드를 패에 넣는다. 이 효과를 발동하는 턴에, 자신은 일반 드로우를 실행할 수 없으며, "RUM(랭크 업 매직)－아스트랄 포스"의 효과 이외로는 몬스터를 특수 소환할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2014-01-24 LVAL-EN059 Legacy of the Valiant Ultra Rare 2014-01-24 LVAL-EN059 Legacy of the Valiant Ultimate Rare 2014-08-28 MP14-EN226 2014 Mega-Tin Mega Pack Ultra Rare 2015-03-19 PGL2-EN060 Premium Gold: Return of the Bling Gold Rare 2016-02-11 WIRA-EN055 Wing Raiders Common 2019-03-21 INCH-EN043 The Infinity Chasers Super Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2014-01-23 LVAL-FR059 Legacy of the Valiant L'Heritage des Braves Ultra Rare 2014-01-23 LVAL-FR059 Legacy of the Valiant L'Heritage des Braves Ultimate Rare 2014-08-28 MP14-FR226 2014 Mega-Tin Mega Pack 2014 Méga-Boîte Méga-Pack Ultra Rare 2015-03-19 PGL2-FR060 Premium Gold: Return of the Bling Gold Premium 2 Gold Rare 2016-02-11 WIRA-FR055 Wing Raiders Les Aventuriers Ailés Common 2019-03-21 INCH-FR043 The Infinity Chasers Les Chasseurs de l'Infini Super Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2014-01-23 LVAL-DE059 Legacy of the Valiant Legacy of the Valiant Ultra Rare 2014-01-23 LVAL-DE059 Legacy of the Valiant Legacy of the Valiant Ultimate Rare 2014-08-28 MP14-DE226 2014 Mega-Tin Mega Pack 2014 Mega-Tin Mega Pack Ultra Rare 2015-03-19 PGL2-DE060 Premium Gold: Return of the Bling Premium Gold 2 Gold Rare 2016-02-11 WIRA-DE055 Wing Raiders Wing Raiders Common 2019-03-21 INCH-DE043 The Infinity Chasers The Infinity Chasers Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2014-01-23 LVAL-IT059 Legacy of the Valiant L'Eredità del Valoroso Ultra Rare 2014-01-23 LVAL-IT059 Legacy of the Valiant L'Eredità del Valoroso Ultimate Rare 2014-08-28 MP14-IT226 2014 Mega-Tin Mega Pack 2014 Mega-Tin Mega Pack Ultra Rare 2015-03-19 PGL2-IT060 Premium Gold: Return of the Bling Premium Oro 2 Gold Rare 2016-02-11 WIRA-IT055 Wing Raiders Predoni Alati Common 2019-03-21 INCH-IT043 The Infinity Chasers I Cercatori dell'Infinito Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2014-01-24 LVAL-PT059 Legacy of the Valiant O Legado do Destemido Ultra Rare 2014-01-24 LVAL-PT059 Legacy of the Valiant O Legado do Destemido Ultimate Rare 2014-08-29 MP14-PT226 2014 Mega-Tin Mega Pack Mega-Pacote da Mega-Latas 2014 Ultra Rare 2015-03-20 PGL2-PT060 Premium Gold: Return of the Bling Première Ouro 2: Um Mar de Ouro Gold Rare 2016-02-12 WIRA-PT055 Wing Raiders Predadores Alados Common 2019-03-21 INCH-PT043 The Infinity Chasers Os Caçadores do Infinito Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2014-01-23 LVAL-SP059 Legacy of the Valiant El Legado del Valiente Ultra Rare 2014-01-23 LVAL-SP059 Legacy of the Valiant El Legado del Valiente Ultimate Rare 2014-08-28 MP14-SP226 2014 Mega-Tin Mega Pack 2014 Mega-Lata Mega Pack Ultra Rare 2015-03-19 PGL2-SP060 Premium Gold: Return of the Bling Dorada Premium 2 Gold Rare 2016-02-11 WIRA-SP055 Wing Raiders Predadores Alados Common 2019-03-21 INCH-SP043 The Infinity Chasers Los Cazadores del Infinito Super Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2013-11-16 LVAL-JP059 Legacy of the Valiant ＬＥＧＡＣＹ ＯＦ ＴＨＥ ＶＡＬＩＡＮＴ Ultra Rare 2013-11-16 LVAL-JP059 Legacy of the Valiant ＬＥＧＡＣＹ ＯＦ ＴＨＥ ＶＡＬＩＡＮＴ Ultimate Rare 2014-12-20 TRC1-JP008 The Rarity Collection ＴＨＥ ＲＡＲＩＴＹ ＣＯＬＬＥＣＴＩＯＮ Ultimate Rare 2014-12-20 TRC1-JP008 The Rarity Collection ＴＨＥ ＲＡＲＩＴＹ ＣＯＬＬＥＣＴＩＯＮ Collector's Rare 2019-02-23 DBIC-JP044 Deck Build Pack: Infinity Chasers デッキビルドパック －インフィニティ・チェイサーズ－ Common 2019-02-23 DBIC-JP044 Deck Build Pack: Infinity Chasers デッキビルドパック －インフィニティ・チェイサーズ－ Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2014-02-12 LVAL-KR059 Legacy of the Valiant 레거시 오브 더 밸리언트 Ultra Rare 2014-02-12 LVAL-KR059 Legacy of the Valiant 레거시 오브 더 밸리언트 Ultimate Rare 2018-11-09 TRC1-KR008 The Rarity Collection 더 레어리티 컬렉션 Ultimate Rare 2019-06-12 DBIC-KR044 Deck Build Pack: Infinity Chasers 덱 필드 팩 － 인피니티 체이서즈 － Common 2019-06-12 DBIC-KR044 Deck Build Pack: Infinity Chasers 덱 필드 팩 － 인피니티 체이서즈 － Normal Parallel Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Xyz Monster 
+ 
+ Archetypes  and  series   
+ Rank-Up-Magic 
+ 
+ Actions  
+ Transfers 
+ Activates from your Graveyard 
+ Returns itself from Graveyard to hand 
+ Replaces normal draw 
+ 
+ Summoning  categories  
+ Rank-Up by 2 Ranks 
+ Special Summons from your Extra Deck 
+ Treats Special Summon as Xyz Summon 
+ Xyz Evolution 
+ Prevents the player's Special Summons 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 10945 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Rank-Up-Magic Astral Force " pages 
+ 
+ 
+ Anime Yu-Gi-Oh! D Team ZEXAL 
+ 
+ 
+ 
+   
+" Rank-Up-Magic " 「 ＲＵＭ 」 Members 
+ Hyper Rank-Up-Magic Utopiforce Phantom Knights' Rank-Up-Magic Force The Phantom Knights' Rank-Up-Magic Launch Rank-Up-Magic - The Seventh One Rank-Up-Magic Admiration of the Thousands Rank-Up-Magic Argent Chaos Force Rank-Up-Magic Astral Force Rank-Up-Magic Barian's Force Rank-Up-Magic Cipher Ascension Rank-Up-Magic Doom Double Force Rank-Up-Magic Limited Barian's Force Rank-Up-Magic Numeron Force Rank-Up-Magic Quick Chaos Rank-Up-Magic Raid Force Rank-Up-Magic Raptor's Force Rank-Up-Magic Revolution Force Rank-Up-Magic Skip Force Rank-Up-Magic Soul Shave Force Rank-Up-Magic Zexal Force 
+ Support 
+ Number 71: Rebarian Shark Number 99: Utopic Dragon Number S0: Utopic ZEXAL Number C88: Gimmick Puppet Disaster Leo Raidraptor - Necro Vulture Raidraptor - Revolution Falcon - Air Raid Raidraptor - Tribute Lanius Raidraptor - Wise Strix ZS - Ascended Sage 
+ Bariantopia Puppet Parade Raider's Unbreakable Mind Rank-Up-Magic Raid Force Raptor's Ultimate Mace Resurgam Xyz Seventh Ascension Zexal Construction 
+ Related 
+ Don Thousand's Throne Marshalling Field Outrigger Extension Rank-Down-Magic Numeron Fall Xyz Revive Splash 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/ad/RankUpMagicAstralForce-WIRA-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20160213130326', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

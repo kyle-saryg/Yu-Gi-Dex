@@ -1,0 +1,9 @@
+Link: https://yugioh.fandom.com/wiki/Property:Chapter_series
+
+This property states which series a chapter is from.
+ It uses a  string .
+ 
+ 
+ 
+ 
+Categories:

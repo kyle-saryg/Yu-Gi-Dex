@@ -1,0 +1,101 @@
+Link: https://yugioh.fandom.com/wiki/Offensive_Guard
+
+
+ The Japanese (OCG) version of this card is not a member of the " Guard "  archetype , because its Japanese name does not contain  「 Ｇ 」 .   As its English name contains "Guard", it  may  be treated a member of the "Guard" archetype at a TCG event, subject to local rulings.     
+ Offensive Guard 
+ 
+ Japanese:   オフェンシブ・ガード 
+ Romaji:   Ofenshibu Gādo 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Activate  only when your opponent's  monster   declares  a  direct attack . Halve the  attacking  monster's  ATK  until the  End Phase , and  draw  1 card.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  GX :  173 
+ Yu-Gi-Oh!  5D's :  075 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  GX  ·  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ オフェンシブ・ガード 
+ 相手モンスターの 直接攻撃 宣言時に発動する事ができる。このターンの エンドフェイズ 時まで、その相手モンスター１体の 攻撃力 を半分にし、自分は カードを１枚ドローする 。 
+ 
+ 
+ Ofenshibu Gādo 
+ 
+ 
+ Decks 
+ 
+ 
+ Atticus Rhodes   
+ Akiza Izinski 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ You draw cards 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/c/cd/OffensiveGuard-JP-Anime-5D.png/revision/latest/scale-to-width-down/200?cb=20090909152626', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

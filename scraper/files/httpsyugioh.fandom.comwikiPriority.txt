@@ -1,0 +1,557 @@
+Link: https://yugioh.fandom.com/wiki/Priority
+
+
+ 
+ Priority
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 優先権
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Yūsenken
+ 
+ 
+ 
+ English
+ 
+ 
+ Priority
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Priorité 
+ German : Priorität 
+ Italian : Priorità 
+ Portuguese : Prioridade 
+ Spanish : Prioridad 
+ Korean : 우선권 (優先權)  Useon-gwon 
+ Traditional Chinese : 優先權  Yōuxiānquán / Jau1 sin1 quán 
+ Simplified Chinese : 优先权  Yōuxiānquán 
+ 
+ 
+ (Priority of  Ignition Effects  has been removed, while other mechanics involving Priority have been restructured and fall under  Fast Effect Timing . [1] ) 
+ Priority  (優先権  Yūsenken ) is a term that refers to a player's right to be able to  activate  his/her card's effects as  Chain Link  1. Priority does not allow players to automatically activate and  resolve  effects without a  Chain , but simply assures a card's activation as Chain Link 1.
+ Priority determines who can activate a card or effect at any particular point in the game. Priority is a property that a player has, not that a card has. The  turn player  always starts with Priority.
+ Ignition Effect  Priority was removed from the  OCG  on March 19, 2011, while it was removed from the  TCG  on April 25, 2012.
+ 
+ Contents 
+ 
+ 1   Passing Priority 
+ 2   Ignition Effect Priority 
+ 
+ 2.1   Example 
+ 
+ 
+ 3   See also 
+ 4   References 
+ 
+ 
+ Passing Priority 
+ The player with Priority can decline to activate their effect by stating "I pass Priority" (or similar).
+ While building a  Chain , the opponent of the player whose effect was just activated automatically has Priority to respond to that activation. The opponent of the turn player also automatically has Priority when the turn player attempts to proceed to the next Step or  Phase .
+ While during the  Draw ,  Standby  and  End Phase  the turn player still has Priority, the opponent may often activate a card or effect without confirming that the turn player has not claimed their Priority. To avoid disputes, it is proper etiquette to ask the turn player if they would like to play a card during a respective phase before doing anything (since declining to play a card results in passing their Priority to the opponent).
+ 
+ Ignition Effect Priority 
+ This is an outdated example and no longer represents how the game mechanic functions in the  TCG  or  OCG . 
+ 
+ Before revision 
+ The Ignition Effect of a monster can be activated during the  Summon response window .
+ 
+ After revision 
+ The Ignition Effect of a monster cannot be activated during the  Summon response window .
+ 
+ Example 
+ Player A has a  face-up  " D.D. Warrior Lady " and a " Bottomless Trap Hole " that has been  Set  for at least one turn. It is currently Player B's turn.
+ Player B  Special Summons  " Chaos Sorcerer " with its Summoning procedure.
+ Player B, the turn player, has Priority, so they can activate the  Ignition Effect  of "Chaos Sorcerer". Player B does so,  targeting  "D.D. Warrior Lady". The effect of "Chaos Sorcerer" is now Chain Link 1. Player A then activates "Bottomless Trap Hole", since the Special Summon of "Chaos Sorcerer" was the most recent action to have occurred; "Bottomless Trap Hole" is now Chain Link 2.  
+ The Chain now resolves in reverse order:
+ 
+ Chain Link 2: "Bottomless Trap Hole" resolves. "Chaos Sorcerer" is  destroyed , and  banished . 
+ Chain Link 1: The effect of "Chaos Sorcerer" resolves. "D.D. Warrior Lady" is now banished. 
+ As the  TCG  and  OCG  Priority rules currently function, Player B would not have been able to activate the Ignition Effect of "Chaos Sorceror" as Chain Link 1 immediately after summoning the monster, due to the rules of the Summon response window restricting players to activating Fast Effects only. Player A would be able to activate "Bottomless Trap Hole" as Chain Link 1, banishing "Chaos Sorceror" before its effect could be activated.  
+ 
+ See also 
+ Chain 
+ Chain Link 
+ Simultaneous Effects Go On Chain 
+ References 
+ 
+ ↑   Fast Effect Timing 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Gameplay

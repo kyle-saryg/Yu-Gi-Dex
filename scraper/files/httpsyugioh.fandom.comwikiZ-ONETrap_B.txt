@@ -1,0 +1,144 @@
+Link: https://yugioh.fandom.com/wiki/Z-ONE/Trap_B
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Z-ONE/Trap B Ｚ－ＯＮＥ ／ 罠 Ｂ 
+ 
+ English 
+Z-ONE/Trap B 
+ Japanese (kana) 
+ ゾーン／トラップＢ Check translation 
+ Japanese (base) 
+ Ｚ－ＯＮＥ／罠Ｂ Check translation 
+ Japanese ( rōmaji ) 
+Zōn/Torappu Bī 
+ Card type 
+ Trap   
+ Property 
+ Continuous   
+ Card effect types 
+ 
+ 
+ Cost 
+ Quick-like 
+ Trigger-like 
+ Condition Statuses Illegal   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Activate  this card by  sending  1 " Z-ONE/Trap A " you  control  to the  Graveyard .  Once per turn , during your  Main Phase : You can  Special Summon  1 " Z-ONE "  monster  from your  hand , except " Z-ONE/Monster E ",  ignoring its Summoning conditions . During each of your  Standby Phases :  Destroy  all "Z-ONE" and " Timelord " monsters you control. This card's activation and  effect  cannot be  negated . -I activate " Endless Emptiness "!- 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードの発動と効果は無効化されない。①：自分フィールドの「Ｚ－ＯＮＥ／罠Ａ」を墓地へ送ってこのカードを発動できる。②：１ターンに１度、自分メインフェイズにこの効果を発動できる。手札から「Ｚ－ＯＮＥ／モンスターＥ」以外の「Ｚ－ＯＮＥ」モンスター１体を召喚条件を無視して特殊召喚する。③：このカードが魔法＆罠ゾーンに存在する限り、フィールドの「Ｚ－ＯＮＥ」と名のついたモンスター及び「時械神」と名のついたモンスターは、自分スタンバイフェイズに破壊される。 ―無限械アイン・ソフを発動！― 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+   
+ BD-JP031   
+ Boss Duel 
+   
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Z-ONE  
+ 
+ Supports   archetypes   
+ Z-ONE  
+ 
+ Anti-supports   archetypes   
+ Z-ONE  
+ Timelord 
+ 
+ Actions  
+ Sends from field to Graveyard for cost 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your Monster Cards 
+ 
+ Summoning  categories  
+ Special Summons from your hand 
+ Ignoring its Summoning conditions 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ YuGiOh Prices 
+ 
+ 
+ 
+   
+" Timelord " 「 時 械 神 」 Members 
+ Gabrion, the Timelord Hailon, the Timelord Kamion, the Timelord Lazion, the Timelord Metaion, the Timelord Michion, the Timelord Raphion, the Timelord Sadion, the Timelord Sandaion, the Timelord Sephylon, the Ultimate Timelord Timelord Progenitor Vorpgate Zaphion, the Timelord 
+ Support 
+ Time Maiden Z-ONE/Monster E 
+ Empty Machine Infinite Light Infinite Machine 
+ Anti-support 
+ Z-ONE/Trap A Z-ONE/Trap B 
+ Related 
+ Z-ONE/Monster A Z-ONE/Monster B Z-ONE/Monster C Z-ONE/Monster D 
+ 
+   
+" Z-ONE " 「 Ｚ－ＯＮＥ 」 Members 
+ Z-ONE/Monster A Z-ONE/Monster B Z-ONE/Monster C Z-ONE/Monster D Z-ONE/Monster E 
+ Z-ONE/Trap A Z-ONE/Trap B Z-ONE/Trap C 
+ Support 
+ Z-ONE/Monster E 
+ Z-ONE/Trap A Z-ONE/Trap B Z-ONE/Trap C 
+ Anti-support 
+ Z-ONE/Trap A Z-ONE/Trap B 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/b6/ZONETrapB-BD-JP-C.png/revision/latest/scale-to-width-down/300?cb=20141214232031', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Cards that need a Card Gallery, Duel Monsters cards, OCG cards

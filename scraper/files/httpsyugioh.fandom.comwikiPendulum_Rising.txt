@@ -1,0 +1,242 @@
+Link: https://yugioh.fandom.com/wiki/Pendulum_Rising
+
+
+ 
+ 
+ Pendulum Rising ペンデュラム・アライズ 
+ 
+ English 
+Pendulum Rising 
+ French 
+ Ascension Pendule Check translation 
+ German 
+ Aufsteigendes Pendel Check translation 
+ Italian 
+ Rivolta Pendulum Check translation 
+ Korean 
+ 펜듈럼 어라이즈 Check translation 
+ Portuguese 
+ Pêndulo Crescente Check translation 
+ Spanish 
+ Ascenso del Péndulo Check translation 
+ Japanese 
+ ペンデュラム・アライズ Check translation 
+ Japanese ( rōmaji ) 
+Pendyuramu Araizu 
+ Japanese (translated) 
+Pendulum Arise 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 74926274 
+ Card effect types 
+ 
+ 
+ Cost 
+ Effect 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Send  1  monster  you  control  to the  Graveyard ;  Special Summon  from your  Deck , 1  Pendulum Monster  with the same  Level  as the sent monster's original Level, but  destroy  it during the  End Phase . You can only  activate  1 "Pendulum Rising" per  turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Envoyez 1 monstre que vous contrôlez au Cimetière ; Invoquez Spécialement 1 Monstre Pendule depuis votre Deck du même Niveau que le Niveau d'origine du monstre envoyé, mais détruisez-le durant la End Phase. Vous ne pouvez activer qu'1 "Ascension Pendule" par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Lege 1 Monster, das du kontrollierst, auf den Friedhof; beschwöre 1 Pendelmonster mit derselben Stufe wie die Grundstufe des auf den Friedhof gelegten Monsters als Spezialbeschwörung von deinem Deck, aber zerstöre es während der End Phase. Du kannst nur 1 „Aufsteigendes Pendel“ pro Spielzug aktivieren. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Manda al Cimitero 1 mostro che controlli; Evoca Specialmente dal tuo Deck 1 Mostro Pendulum con Livello pari al Livello originale del mostro mandato al Cimitero, ma distruggilo durante la End Phase. Puoi attivare solo 1 "Rivolta Pendulum" per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Envie 1 monstro que você controla para o Cemitério; Invoque por Invocação-Especial do seu Deck, 1 Monstro Pêndulo com o mesmo Nível que o Nível original do monstro enviado, mas destrua-o durante a Fase Final. Você só pode ativar 1 "Pêndulo Crescente" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Manda al Cementerio 1 monstruo que controles; Invoca de Modo Especial, desde tu Deck, 1 Monstruo de Péndulo con el mismo Nivel que el Nivel original del monstruo mandado, pero destrúyelo durante la End Phase. Sólo puedes activar 1 "Ascenso del Péndulo" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「ペンデュラム・アライズ」は１ターンに１枚しか発動できない。①：自分フィールドのモンスター１体を墓地へ送って発動できる。そのモンスターの元々のレベルと同じレベルのＰモンスター１体をデッキから特殊召喚する。この効果で特殊召喚したモンスターはエンドフェイズに破壊される。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "펜듈럼 어라이즈" 는 1턴에 1장밖에 발동할 수 없다. ① : 자신 필드의 몬스터 1장을 묘지로 보내고 발동할 수 있다. 그 몬스터의 원래 레벨과 같은 레벨의 펜듈럼 몬스터 1장을 덱에서 특수 소환한다. 이 효과로 특수 소환한 몬스터는 엔드 페이즈에 파괴된다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2015-05-14 CROS-EN064 Crossed Souls Common 2015-12-03 SDMP-EN028 Master of Pendulum Structure Deck Common 2016-09-01 MP16-EN029 2016 Mega-Tin Mega Pack Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2015-05-14 CROS-FR064 Crossed Souls Les Âmes Croisées Common 2015-12-03 SDMP-FR028 Master of Pendulum Structure Deck Maitre des Pendules Deck de Structure Common 2016-09-01 MP16-FR029 2016 Mega-Tin Mega Pack 2016 Méga-Boîte Méga-Pack Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2015-05-14 CROS-DE064 Crossed Souls Crossed Souls Common 2015-12-03 SDMP-DE028 Master of Pendulum Structure Deck Master of Pendulum Structure Deck Common 2016-09-01 MP16-DE029 2016 Mega-Tin Mega Pack 2016 Mega-Tin Mega Pack Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2015-05-14 CROS-IT064 Crossed Souls Destini Incrociati Common 2015-12-03 SDMP-IT028 Master of Pendulum Structure Deck Maestro del Pendulum Structure Deck Common 2016-09-01 MP16-IT029 2016 Mega-Tin Mega Pack 2016 Mega-Tin Mega Pack Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2015-05-15 CROS-PT064 Crossed Souls Almas Cruzadas Common 2015-12-04 SDMP-PT028 Master of Pendulum Structure Deck Mestre do Pêndulo Deck Estrutural Common 2016-09-01 MP16-PT029 2016 Mega-Tin Mega Pack Mega-Pacote da Mega-Latas 2016 Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2015-05-14 CROS-SP064 Crossed Souls Almas Cruzadas Common 2015-12-03 SDMP-SP028 Master of Pendulum Structure Deck Maestro del Péndulo Baraja de Estructura Common 2016-09-01 MP16-SP029 2016 Mega-Tin Mega Pack 2016 Mega-Lata Mega Pack Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2015-02-14 CROS-JP064 Crossed Souls クロスオーバー・ソウルズ Common 2015-06-20 SD29-JP028 Structure Deck: Master of Pendulum ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －マスター・オブ・ペンデュラム－ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2015-05-18 CROS-KR064 Crossed Souls 크로스오버 소울즈 Common 2015-09-18 SD29-KR028 Structure Deck: Master of Pendulum ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ  - 마스터 오브 펜듈럼 Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Pendulum Monster 
+ 
+ Archetypes  and  series   
+ Pendulum  
+ 
+ Actions  
+ Sends from field to Graveyard for cost 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your Monster Cards 
+ 
+ Summoning  categories  
+ Special Summons from your Deck 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11739 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Pendulum " 「ペンデュラム」 Members 
+ Beast-Eyes Pendulum Dragon Beyond the Pendulum Brave-Eyes Pendulum Dragon Cosmic Compass Double Iris Magician Lector Pendulum, the Dracoverlord Luster Pendulum, the Dracoslayer Master Pendulum, the Dracoslayer Odd-Eyes Arc Pendulum Dragon Odd-Eyes Pendulum Dragon Odd-Eyes Pendulumgraph Dragon Pendulumucho Performapal Pendulum Sorcerer Rune-Eyes Pendulum Dragon Vector Pendulum, the Dracoverlord 
+ Amazing Pendulum Dragonic Pendulum Extra Pendulum Pendulum Area Pendulum Back Pendulum Call Pendulum Dimension Pendulum Encore Pendulum Fusion Pendulum Halt Pendulum Hole Pendulum Impenetrable Pendulum Paradox Pendulum Reborn Pendulum Rising Pendulum Scale Pendulum Shift Pendulum Storm Pendulum Switch Pendulum Transfer Pendulum Treasure Pendulum Xyz Soul Pendulum Star Pendulumgraph Time Pendulumgraph 
+ Support 
+ Duelist Alliance 
+ Related 
+ Amorphactor Pain, the Imagination Dracoverlord Dinoster Power, the Mighty Dracoslayer Ignister Prominence, the Blasting Dracoslayer Majester Paladin, the Ascending Dracoslayer Master Peace, the True Dracoslayer Master Peace, the True Dracoslaying King Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Odd-Eyes Venom Dragon Odd-Eyes Wing Dragon Supreme King Dragon Odd-Eyes 
+ Odd-Eyes Advent 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/4d/PendulumRising-MP16-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20160901205202', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

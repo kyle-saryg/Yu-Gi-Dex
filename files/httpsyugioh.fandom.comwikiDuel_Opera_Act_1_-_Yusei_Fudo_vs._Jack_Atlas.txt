@@ -1,0 +1,67 @@
+Link: https://yugioh.fandom.com/wiki/Duel_Opera:_Act_1_-_Yusei_Fudo_vs._Jack_Atlas
+
+The  Duel Opera  is an event that was held on JUMP Festa 2020. It featured the voice actors (the protagonist and rival) of the anime Dueling against one another, using cards that were recently released for the  OCG . The act 1 features  Yusei Fudo  ( Yuya Miyashita ) vs.  Jack Atlas  ( Takanori Hoshino ).
+ 
+ Synopsis 
+   This summary is currently incomplete. 
+ Featured Duel: "Yusei Fudo" vs. "Jack Atlas" 
+ Turn 1: Yusei Fudo 
+Yusei  activates  " Tuning "  Normal Spell Card , which lets him add a " Synchron " monster from his  Deck  to his  hand  (he selects " Jet Synchron "), but then sends the top card of his Deck to the  GY  (" Skill Successor "). Yusei  discards  " Junk Converter " and "Jet Synchron" Tuner monster, to add " Junk Synchron " from his Deck to his hand. He then  Normal Summons  "Junk Synchron" ( Level  3/1300/500), which lets him  Special Summon  " Junk Converter " (Level 2/400/200) from his GY. He then tunes "Junk Synchro" and "Junk Converter",  Synchro Summoning  " Junk Warrior " (Level 5/2300/1000) to the right  Extra Monster Zone . As "Junk Converter" is sent to the GY as Synchro Material, Yusei can Special Summon "Junk Synchron" from his GY in  Defense Position  with its effects  negated , then tunes it with "Junk Warrior" to Synchro Summon " Stardust Dragon " (Level 8/2500/2000). He then  sets  a card.
+ Turn 2: Jack Atlas 
+As he does not  control  a  monster , while Yusei does, Jack Special Summons " Vice Dragon ", but with its  ATK  and  DEF  halved (Level 5/2000 → 1000/2400 → 1200). He then Normal Summons " Creation Resonator " (Level 3/800/600) from his hand. He then tunes "Vice Dragon" with "Creation Resonator", Synchro Summoning " Red Dragon Archfiend " (Level 8/3000/2000) in the other Extra Monster Zone. "Red Dragon Archfiend" attacks and destroys "Stardust Dragon" (Yusei: 4000 → 3500 LP). Yusei activates the set " Miracle's Wake "  Normal Trap Card , which lets him Special Summon "Stardust Dragon" from the  GY .
+ Turn 3: Yusei Fudo 
+Yusei, by sending one card (" Limiter Overload ") from his hand to the GY, Special Summons " Jet Synchron " from the GY (Level 1/500/0). As "Limiter Overload" is sent to GY, "Speed Warrior" is Special Summoned from the Deck (Level 2/900/400). He then Normal Summons " Tuningware " (Level 1/100/300). He tunes "Jet Synchron" with "Tuningware", Synchro Summoning " Formula Synchron " (Level 2/400/1500). As "Tuningware" was used as  Synchro Material  and "Formula Synchron" is Synchro Summoned, Yusei  draws  two cards from his Deck. He then tunes "Formula Synchron" with "Stardust Dragon", Synchro Summoning " Shooting Star Dragon T.G. EX " (Level 10/3300/2500). The latter attacks and destroys "Red Dragon Archfiend" (Jack: 4000 → 3700 LP). Yusei activates the effect of "Skill Successor" in the GY, targeting "Speed Warrior" to have it gain 800 ATK ("Speed Warrior": 900 → 1700 ATK). "Speed Warrior" attacks Jack directly (Jack: 3700 → 2000 LP). At the  End Phase  of the turn, the ATK of "Speed Warrior" granted by "Skill Successor" is returned to normal ("Speed Warrior": 1700 → 900 ATK).
+ Turn 4: Jack Atlas 
+As he controls no monsters, Jack Special Summons " Crimson Resonator " (Level 2/800/300). He then Normal Summons " Red Familiar " (Level 4/1600/0), then tributes it to Special Summon a  DARK   Dragon   Synchro Monster  from his GY, with its level changed from level 1 to 8. Jack Special Summons "Red Dragon Archfiend" from his GY, and declares its level to be 6. As the only other monster he controls is a DARK Dragon Synchro Monster, Jack activates the effect of "Crimson Resonator", to Special Summon two "Resonator" monsters from his Deck, but he can only Special Summon DARK Dragon Synchro Monsters: he targets " Dark Resonator " (Level 3/1300/300) and " Synkron Resonator " (Level 1/100/100). "Dark Resonator" attacks "Speed Warrior" (Yusei: 3500 → 3100 LP). Jack activates " Burning Soul "  Quick-Play Spell Card : he adds "Vice Dragon" from his GY to his hand, then Triple Tunes "Dark", "Synkron" and "Red Resonator" with the level 6 "Red Dragon Archfiend", Synchro Summoning " Red Supernova Dragon " (Level 12/4000/3000).
+ He then adds "Dark Resonator" from the GY to his hand by the effect of "Synkron Resonator". "Red Supernova Dragon" gains 500 ATK for each Tuner monster in Jack's GY: there are three monsters, thus a 1500 ATK boost ("Red Supernova Dragon": 4000 → 5500 ATK). "Red Supernova Dragon" attacks "Shooting Star Dragon T.G. EX", to which the latter's effect allows it to negate an attack once per turn. As a monster has activated its effect, Jack activates the effect of "Red Supernova Dragon" to banish it and every card Yusei controls. In response, Yusei activates " Scrap-Iron Signal "  Counter Trap Card  to negate that effect. After the effect of "Scrap-Iron Signal" is resolved, instead of being sent to the GY, Yusei sets it in his  Spell & Trap Zone  instead.
+ Turn 5: Yusei Fudo 
+Yusei activates his set " Synchro Strike " Normal Trap Card, which increases the ATK of "Shooting Star Dragon T.G. EX" by 1000: 500 ATK for each monster that was used as  Synchro Material  to summon it ("Shooting Star Dragon T.G. EX": 3300 → 4300 ATK). Yusei activates " Clashing Souls " Quick-Play Spell Card: as long as a player's monster has lower ATK than the opponent's monster, Yusei can pay multiple 500 LP for the card's activation to raise the ATK of his monster by that amount. Yusei pays 1500 LP (Yusei: 3100 → 1600 LP; "Shooting Star Dragon T.G. EX": 4300 → 5800 ATK). However, Jack is also allowed to activate that effect, by paying 500 LP to raise the ATK of "Red Supernova Dragon" by that amount. Yusei repeats this effect three times (Yusei: 1600 → 1100 → 600 → 100 LP; "Shooting Star Dragon T.G. EX": 5800 → 6300 → 6800 → 7300 ATK), as does Jack as well (Jack: 2000 → 1500 → 1000 → 500 LP; "Red Supernova Dragon": 5500 → 6000 → 6500 → 7000 ATK).
+ "Shooting Star Dragon - T.G. Expansion" attacks and destroys Jack's "Red Supernova Dragon". Due to the effect of "Clashing Souls", neither player receives any damage, and any card on Jack's side of the field is automatically sent to the GY. Yusei activates " Stardust Flash " Normal Trap Card, Special Summoning "Stardust Dragon". The latter attacks Jack directly (Jack: 500 → 0 LP).
+ 
+ Featured cards 
+ Cards in  italics  debuted here prior to an anime or manga appearance. Cards in  bold  have never been used by the character before in any canon series.
+ 
+ 
+ "Yusei" Monsters   
+ Effect Monsters 
+ Junk Converter 
+ Speed Warrior 
+ Tuningware 
+ Tuner monsters 
+ Jet Synchron 
+ Junk Synchron Extra Deck   
+ Synchro Monsters 
+ Formula Synchron 
+ Junk Warrior 
+ Shooting Star Dragon T.G. EX 
+ Stardust Dragon Spells   &  Traps   
+ Spells 
+ Clashing Souls 
+ Traps 
+ Limiter Overload 
+ Miracle's Wake 
+ Scrap-Iron Signal 
+ Skill Successor 
+ Stardust Flash 
+ Synchro Strike 
+ 
+ "Jack" Monsters   
+ Effect Monsters 
+ Vice Dragon 
+ Red Familiar 
+ Tuner monsters 
+ Creation Resonator 
+ Crimson Resonator 
+ Red Familiar 
+ Red Resonator 
+ Synkron Resonator Extra Deck   
+ Synchro Monsters 
+ Red Dragon Archfiend 
+ Red Supernova Dragon Spells   &  Traps   
+ Spells 
+ Burning Soul 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/f4/Ambox_content.png/revision/latest/scale-to-width-down/20?cb=20101005173352']
+Categories: Scripted Duels

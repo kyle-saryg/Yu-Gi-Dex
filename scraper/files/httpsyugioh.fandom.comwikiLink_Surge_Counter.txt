@@ -1,0 +1,110 @@
+Link: https://yugioh.fandom.com/wiki/Link_Surge_Counter
+
+
+ Link Surge Counter 
+ 
+ Japanese:   リンク・サージ・カウンター 
+ Romaji:   Rinku Sāji Kauntā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ When your  Link Monster   battles  an opponent's Link Monster with a higher  Link Rating , during  damage calculation : Banish 2  Spells / Traps  from your  field  and/or  GY ; your monster's  ATK  becomes equal to the ATK of the opponent's monster it is battling, during damage calculation only.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  037 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ リンク・サージ・カウンター 
+ ①：自分フィールドのリンクモンスターがそのリンクマーカーの数より多いリンクモンスターを持つ相手リンクモンスターと戦闘を行うダメージ計算時、自分のフィールド・墓地の魔法・罠カード２枚を除外して発動できる。その自分のモンスターの攻撃力はそのダメージ計算時のみ、戦闘を行う相手モンスターの攻撃力と同じになる. 
+ 
+ 
+ Rinku Sāji Kauntā 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Link Monster 
+ 
+ Anti-supports   
+ Link Monster 
+ 
+ Archetypes  and  series   
+ Link  
+ 
+ Stat changes  
+ Changes ATK value 
+ 
+ Banished  categories  
+ Banishes from your field 
+ Banishes from your Graveyard 
+ 
+ v e 
+ Link  リンク a   m   Members 
+ Castle Link Dimension Link Link Atrocity Link Back Link Bound Link Bumper Link Burst Link Cancel Link Coin Link Devotee Link Disciple Link Drive Link Fire's Return Link Infra-Flier Link Pressure Link Processing Failure Link Protection Link Ration Link Recovery Link Restart Link Restart Link Rush Link Satellite Link Short Link Spider Link Surge Counter Link Token Link Turret Linkbelt Wall Dragon Linkross Linkslayer Linkuriboh Packet Link Urgent Link Zero Extra Link 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/7d/LinkSurgeCounter-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180131162520', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

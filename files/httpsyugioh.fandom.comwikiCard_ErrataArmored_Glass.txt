@@ -1,0 +1,90 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Armored_Glass
+
+
+ Armored Glass 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Contents 
+ 
+ 1   English 
+ 2   French 
+ 3   German 
+ 4   Italian 
+ 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ You can activate this card when a monster is equipped with an Equip  Magic  Card. Negate the effects of all Equip  Magic  Cards on the field during the turn this card is activated. 
+ You can  only  activate this card when a monster is equipped with an Equip  Spell  Card. Negate the effects of all Equip  Spell  Cards on the field during the turn this card is activated. 
+ You can only activate this card when a monster is equipped with an Equip Card. Negate the effects of all Equip Cards on the field during the turn this card is activated. 
+ 
+ 
+       PSV-019 Pharaoh's Servant     
+       PSV-EN019 Pharaoh's Servant     
+       Yu-Gi-Oh! Trading Card Game Official Card Reference (November 23, 2008)     
+ 
+ 
+ French 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Vous pouvez Activer cette carte lorsqu'un monstre est équipé d'une Carte  Magie  d'Équipement. Annule les effets de toutes les Cartes  Magie  d'Équipement durant le tour où cette carte est Activée. 
+ Vous pouvez Activer cette carte lorsqu'un monstre est équipé d'une Carte d'Équipement. Annule les effets de toutes les Cartes d'Équipement durant le tour où cette carte est Activée. 
+ 
+ 
+         SDP-F019 Pharaoh's Servant     
+         Yu-Gi-Oh! Trading Card Game - Card Database     
+ 
+ 
+ German 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Du kannst diese Karte aktivieren, wenn ein Monster mit einer Ausrüstungskarte  ausrüstet  wird.  Annulliere während des   Spielzugs , in dem diese Karte aktiviert wird,  die Effekte   aller  Ausrüstungskarten auf dem Spielfeld. 
+ Du kannst diese Karte aktivieren, wenn ein Monster mit einer Ausrüstungskarte  ausgestattet  wird.  Im   Spielzug , in dem diese Karte aktiviert wird,  haben   alle  Ausrüstungskarten auf dem Spielfeld  keine Auswirkungen . 
+ 
+ 
+         PSV-G019 Pharaoh's Servant     
+         Yu-Gi-Oh! Trading Card Game - Card Database     
+ 
+ 
+ Italian 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Puoi attivare questa carta quando un mostro è equipaggiato con una Carta  Magia  Equipaggiamento. Annulla tutti gli effetti delle Carte  Magia  Equipaggiamento durante il turno in cui questa carta viene attivata. 
+ Puoi attivare questa carta quando un mostro è equipaggiato con una Carta Equipaggiamento. Annulla tutti gli effetti delle Carte Equipaggiamento durante il turno in cui questa carta viene attivata. 
+ 
+ 
+         SDF-I019 Pharaoh's Servant     
+         Yu-Gi-Oh! Trading Card Game - Card Database     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/da/ArmoredGlass-PSV-NA-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20061113040629', 'https://static.wikia.nocookie.net/yugioh/images/e/ea/ArmoredGlass-PSV-EN-C-UE.jpg/revision/latest/scale-to-width-down/180?cb=20071021223019', 'https://static.wikia.nocookie.net/yugioh/images/e/ef/ArmoredGlass-EN-SAMPLE.png/revision/latest/scale-to-width-down/180?cb=20130816205253', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/21/ArmoredGlass-SDP-FR-C-UE.jpg/revision/latest/scale-to-width-down/180?cb=20110511002559', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c8/ArmoredGlass-FR-SAMPLE.png/revision/latest/scale-to-width-down/180?cb=20170826165332', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/17/ArmoredGlass-PSV-DE-C-UE.png/revision/latest/scale-to-width-down/180?cb=20170826164850', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/22/ArmoredGlass-DE-SAMPLE.png/revision/latest/scale-to-width-down/180?cb=20170826165420', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/39/ArmoredGlass-SDF-IT-C-UE.png/revision/latest/scale-to-width-down/180?cb=20170826165110', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/6f/ArmoredGlass-IT-SAMPLE.png/revision/latest/scale-to-width-down/180?cb=20170826165530']
+Categories: Card Errata, Errata table transclusions with SAMPLE images, Cards with 2 errata, Cards with 1 erratum, Cards with French errata, Cards with German errata, Cards with Italian errata

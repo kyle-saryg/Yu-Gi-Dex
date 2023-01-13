@@ -1,0 +1,54 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:7_Completed
+
+
+ 7 Completed 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Manga Manga Yu-Gi-Oh! The Duelists of the Roses 
+ 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+  [  Magic  Card   ] 
+  [  Spell  Card   ] 
+  [ Spell Card   ] 
+ 
+ 
+ A  Machine-Type monster equipped with this card  increases either its ATK or DEF  by 700 points. You cannot change your choice as long as this card remains face-up on the field. 
+ Increase either the ATK or DEF of   a  Machine-Type monster equipped with this card  by  700  points . You cannot change your choice  as long as  this card remains face-up on the field. 
+ A  Machine-Type monster  equipped with this card  gains either  700  ATK or DEF . You cannot change your  choice  while  this card remains face-up on the field . 
+ 
+ 
+         PSV-004 Pharaoh's Servant     
+         PSV-EN004 Pharaoh's Servant     
+         DT02-EN038 Duel Terminal 2     
+ 
+ 
+ Third erratum 
+ Fourth erratum   
+ 
+ 
+ Activate this card by choosing ATK or DEF; equip only to   a  Machine -Type  monster . It  gains 700 ATK or DEF , depending on the  choice. 
+ Activate this card by choosing ATK or DEF; equip only to a Machine monster. It gains 700 ATK or DEF, depending on the choice. 
+ 
+ 
+         BP03-EN135 Battle Pack 3: Monster League     
+   File:7Completed-SBSC-EN-C-1E.png     SBSC-EN029 Speed Duel: Scars of Battle     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/b2/MAGIC.svg/revision/latest/scale-to-width-down/34?cb=20120919132242', 'https://static.wikia.nocookie.net/yugioh/images/9/90/Equip.svg/revision/latest/scale-to-width-down/20?cb=20120920115844', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/34?cb=20120918121429', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c8/7Completed-PSV-NA-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20080925004533', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/60/7Completed-PSV-EN-C-UE.png/revision/latest/scale-to-width-down/180?cb=20151107041616', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/6d/7Completed-DT02-EN-DNPR-DT.jpg/revision/latest/scale-to-width-down/180?cb=20120707232347', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/ec/7Completed-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20140804112250']
+Categories: Card Errata, Cards with card type errata, Cards with 4 errata

@@ -1,0 +1,106 @@
+Link: https://yugioh.fandom.com/wiki/Field_Spell_Card
+
+
+ 
+ Field Spell Card
+ 
+ 
+ 
+ Field Icon
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ フィールド 魔 法 カード
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ フィールドまほうカード
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ フィールド魔法カード
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Fīrudo Mahō Kādo
+ 
+ 
+ 
+ Japanese (translated)
+ 
+ 
+ Field Magic Card
+ 
+ 
+ 
+ English
+ 
+ 
+ Field Spell Card Formerly: Field Magic Card
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Carte Magie de Terrain 
+ German : Spielfeldzauberkarte 
+ Italian : Carta Magia Terreno 
+ Portuguese : Card de Magia de Campo 
+ Spanish : Carta Mágica de Campo 
+ Korean : 필드 마법 카드 (Field 魔法 Card)  Pildeu Mabeop Kadeu 
+ Traditional Chinese : 場地魔法卡  Chǎngdì Mófákǎ / Ceong4 dei6 Mo1 faat3 kaat1 
+ Simplified Chinese : 场地魔法卡  Chǎngdì Mófákǎ 
+ 
+ 
+ 
+ 
+ 
+ Lists
+ 
+ 
+ 
+ 
+ members 
+ support 
+ anti-support 
+ 
+ Field Spell Cards , formerly  Field Magic Cards  (Japanese: フィールド 魔 法 カード  Fīrudo Mahō Kādo ), have the advantage of being able to change the entire state of play for its controller's or for both players' side of the field. They are  Spell Speed 1  and are placed on the  Field Zone , apart from the  Spell & Trap Zones .
+ Most Fields center around boosting  ATK  and/or  DEF  for cards with Specific  Attributes ,  Types  or  Archetypes . However, many Field Spells have other effects, such as recycling cards (" Madolche Chateau ", " The Grand Spellbook Tower "), weakening the opponent's monsters (" Shien's Castle of Mist "), searching monsters and/or swarming the field (" Naturia Forest ", " Shrine of Mist Valley ", " Scrap Factory ") or even  preventing  the Field from being swarmed (" Summon Breaker "). Most Field Spells affect all players, but some apply their effects only its controller's side of the Field (" The Seal of Orichalcos ", " Mount Sylvania ", " Closed Forest ").
+ Field Spell Cards must be placed in the Field Zone. Since March 21st 2014 for the OCG and July 10th 2014 for the TCG,  both  players are able to control a single Field Spell Card. Before, it was only possible to have a single Field Spell Card active on either side of the field, and when another one was activated, the previous Field Spell Card would have been  destroyed  via Game Mechanics.
+ A player may activate or  Set  a Field Spell Card at any time during their  Main Phase . If the player already has a card in their Field Zone, the existing card is sent to the Graveyard first. Field Spells must remain on the field to resolve, so their effect(s) are not applied if they are destroyed before they can resolve (for example, if " Mystical Space Typhoon " or " Cosmic Cyclone " is chained to that Field Spell Card's activation).
+ In the  Yu-Gi-Oh! ARC-V  anime,  Action  Field Spell Cards are introduced, where these Field Spell Cards are not real cards but are created with the "Solid Vision with Mass" effect as soon as the Dueling Field is created. However, two Field Spell Cards can be activated as long as the other Field Spell Card is an Action Field Card, seen when  Sergey  used the Field Spell " Earthbound Tundra " when the Action Field Spell Card " Crossover Acceleration " is activated, during his Duel with  Jack Atlas .
+ In the  Yu-Gi-Oh! Tag Force  video games, Field Spell Cards can produce an animation on the Playing Field, such as a soaring bird for " Rising Air Current ".
+ 
+ Example 
+ 
+ Trivia 
+ " The Seal of Orichalcos " is the only Field Spell Card that can be activated  only once per Duel . 
+ " Dragon Ravine " was the first Field Spell Card to have been  Forbidden . 
+ The " Ghostrick ", " Triamid " and " Trickstar " archetypes are currently tied for the most Field Spell Cards of any Archetype, with 3 each (" Mansion ", " Museum " and " Parade " for "Ghostrick", " Cruiser ", " Fortress ", and " Kingolem " for "Triamid" and " Light Stage ", " Light Arena " and " Live Stage " for "Trickstar").
+ These Field Spell Cards are also the only Spell Cards that support these archetypes. 
+ " The Sanctuary in the Sky " Field Spell Card is mentioned in many card lores of " The Agent " monsters, but its effect does not support this archetype explicitly or directly. 
+ In the anime Field Spells roughly take up city block of space, or tornado (in Malefic World's case.) 
+ Speed World is unique as the D-Wheels generate the Field Spell; but they need a sealed off track to avoid traffic accidents. 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/f1/Field.png/revision/latest?cb=20140609024006', 'https://static.wikia.nocookie.net/yugioh/images/e/e6/DivineWindofMistValley-THSF-EN-SR-1E.png/revision/latest/scale-to-width-down/250?cb=20150214095232']
+Categories: Types of Spell Cards

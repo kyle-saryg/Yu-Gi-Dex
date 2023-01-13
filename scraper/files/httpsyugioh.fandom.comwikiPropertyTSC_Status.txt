@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:TSC_Status
+
+This is for listing the TSC Status of Cards. It has type  string .
+ 
+ 
+ 
+ 
+Categories:

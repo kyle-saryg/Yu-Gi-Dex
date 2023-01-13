@@ -1,0 +1,491 @@
+Link: https://yugioh.fandom.com/wiki/Field-Unique
+
+A  field-unique  card is a card that has a  condition  that prevents more than 1 card being on the field with its name. This means that if a field-unique card is face-up on any player's field, and a new one is placed on the field face-up or flipped face-up, then all new copies are sent to the Graveyard by  game mechanics  instead. Furthermore, if there is already a field-unique card face-up on the field, another card with the same name cannot be Summoned face-up (even if the Summon would cause the copy already on the field to be removed).
+ Additional copies can exist face-down (so they can be Set/Special Summoned face-down), but as soon as they are flipped face-up the restriction applies and sends them to the Graveyard. Furthermore, they cannot be Flip Summoned if another copy is already face-up on the field. If another copy of a face-up field-unique monster is attempted to be Summoned from Graveyard or  Banished  Zone, such by the effect of " Return from the Different Dimension ", then all illegal Summons will simply fail at resolution. [1] 
+ All " Earthbound Immortal " and most " Malefic " monsters are field-unique with other cards of that same archetype.
+ 
+ Contents 
+ 
+ 1   All OCG/TCG "Field-Unique" cards 
+ 2   All Anime "Field-Unique" cards 
+ 3   All Manga "Field-Unique" cards 
+ 4   Related 
+ 5   References 
+ 
+ 
+ All OCG/TCG "Field-Unique" cards 
+   Japanese name Card type Attribute Type Level Rank ATK DEF Alector, Sovereign of Birds 神禽王アレクトール Effect Monster Monster Card WIND Winged Beast 6 2400 2000 D.D. Esper Star Sparrow 異次元エスパー・スター・ロビン Effect Monster Monster Card LIGHT Warrior 10 3000 1500 Dragon Ice ドラゴン・アイス Effect Monster Monster Card WATER Dragon 5 1800 2200 Earthbound Immortal Aslla piscu 地縛神 Ａｓｌｌａ ｐｉｓｃｕ Effect Monster Monster Card DARK Winged Beast 10 2500 2500 Earthbound Immortal Ccapac Apu 地縛神 Ｃｃａｐａｃ Ａｐｕ Effect Monster Monster Card DARK Fiend 10 3000 2500 Earthbound Immortal Ccarayhua 地縛神 Ｃｃａｒａｙｈｕａ Effect Monster Monster Card DARK Reptile 10 2800 1800 Earthbound Immortal Chacu Challhua 地縛神 Ｃｈａｃｕ Ｃｈａｌｌｈｕａ Effect Monster Monster Card DARK Fish 10 2900 2400 Earthbound Immortal Cusillu 地縛神 Ｃｕｓｉｌｌｕ Effect Monster Monster Card DARK Beast 10 2800 2400 Earthbound Immortal Uru 地縛神 Ｕｒｕ Effect Monster Monster Card DARK Insect 10 3000 3000 Earthbound Immortal Wiraqocha Rasca 地縛神 Ｗｉｒａｑｏｃｈａ Ｒａｓｃａ Effect Monster Monster Card DARK Winged Beast 10 100 100 King of the Beasts キング・オブ・ビースト Effect Monster Monster Card EARTH Beast 7 2500 800 Malefic Blue-Eyes White Dragon Ｓｉｎ 青眼の白龍 Effect Monster Monster Card DARK Dragon 8 3000 2500 Malefic Cyber End Dragon Ｓｉｎ サイバー・エンド・ドラゴン Effect Monster Monster Card DARK Machine 10 4000 2800 Malefic Paradox Dragon Ｓｉｎ パラドクス・ドラゴン Effect Monster Monster Card Synchro Monster DARK Dragon 10 4000 4000 Malefic Rainbow Dragon Ｓｉｎ レインボー・ドラゴン Effect Monster Monster Card DARK Dragon 10 4000 0 Malefic Red-Eyes Black Dragon Ｓｉｎ 真紅眼の黒竜 Effect Monster Monster Card DARK Dragon 7 2400 2000 Malefic Stardust Dragon Ｓｉｎ スターダスト・ドラゴン Effect Monster Monster Card DARK Dragon 8 2500 2000 Malefic Truth Dragon Ｓｉｎ トゥルース・ドラゴン Effect Monster Monster Card DARK Dragon 12 5000 5000 Rai-Jin ＲＡＩ－ＪＩＮ Effect Monster Monster Card LIGHT Thunder 4 ? 1000 Reptilianne Vaskii レプティレス・ヴァースキ Effect Monster Monster Card DARK Reptile 8 2600 0 Senior Silver Ninja 渋い忍者 Effect Monster Monster Card EARTH Warrior 6 2300 2200 Solar Wind Jammer 太陽風帆船 Effect Monster Monster Card LIGHT Machine 5 800 2400 Super Crashbug スーパーバグマン Effect Monster Monster Card DARK Fiend 4 0 3000 
+   Japanese name Card type Property Malefic Territory Ｓｉｎ　Ｔｅｒｒｉｔｏｒｙ Spell Card Continuous Spell Card Continuous Spell Card 
+ All Anime "Field-Unique" cards 
+   Japanese name Card type Attribute Type Level Rank ATK DEF Bird King Alector 神禽王アレクトール Effect Monster WIND Winged Beast 6 0 0 0 0 0 ??? 0 0 0 0 2400 Illusion Ice Sculpture 幻想の氷像 Effect Monster LIGHT Rock 1 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 
+   Japanese name Card type Property Sunvine Shrine (anime) 聖蔓の社 Spell Card 
+ All Manga "Field-Unique" cards 
+ Related 
+ Side-Unique 
+ 
+ Side-Unique cards are essentially the same rule as Field-Unique, except that they apply only to a single player's field. ie: Both players can have the same card on their field without either being destroyed as a State-Based Action; however a given player may still only have one on their field, treated the same way as Field-Unique. 
+ References 
+ 
+ ↑   http://yugioh-wiki.net/index.php?%C3%CF%C7%FB%BF%C0 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Cards by effect properties

@@ -1,0 +1,412 @@
+Link: https://yugioh.fandom.com/wiki/Denglong,_First_of_the_Yang_Zing
+
+
+ 
+ 
+ Denglong, First of the Yang Zing 源 竜 星 －ボウテンコウ 
+ 
+ English 
+Denglong, First of the Yang Zing 
+ French 
+ Denglong, Premier du Yang Zing Check translation 
+ German 
+ Denglong, Erster der Yang Zing Check translation 
+ Italian 
+ Denglong, Primo degli Yang Zing Check translation 
+ Korean 
+ 원룡성-보우텐코우 Check translation 
+ Portuguese 
+ Denglong, Primeiro dos Yang Zing Check translation 
+ Spanish 
+ Denglong, Primero de los Yang Zing Check translation 
+ Japanese (kana) 
+ げんりゅうせい－ボウテンコウ Check translation 
+ Japanese (base) 
+ 源竜星－ボウテンコウ Check translation 
+ Japanese ( rōmaji ) 
+Genryūsei - Boutenkou 
+ Japanese (translated) 
+Wangtianhou, Dracomet of Origin 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Wyrm  /  Synchro  /  Tuner  /  Effect 
+ Level 
+ 5   
+ ATK  /  DEF 
+ 0  /  2800 
+ Passcode 
+ 65536818 
+ Materials 
+1 Tuner + 1 or more non-Tuner monsters 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Ignition 
+ Trigger 
+ Condition Statuses Unlimited  ( OCG ) Forbidden  ( TCG   Advanced ) 
+ Limited  ( TCG   Traditional ) 
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+1  Tuner  + 1 or more non-Tuner  monsters If this card is  Special Summoned : You can  add  1 " Yang Zing " card from your  Deck  to your  hand .  Once per turn : You can  send  1  Wyrm - Type  monster from your Deck to the  Graveyard ; this card's  Level  becomes the sent monster's. If this  face-up  card  leaves the field : You can Special Summon 1 "Yang Zing" monster from your Deck. You can only Special Summon "Denglong, First of the Yang Zing(s)" once per  turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 1 Syntoniseur + 1 monstre non-Syntoniseur ou plus Si cette carte est Invoquée Spécialement : vous pouvez ajouter 1 carte "Yang Zing" depuis votre Deck à votre main. Une fois par tour : vous pouvez envoyer 1 monstre de Type Wyrm depuis votre Deck au Cimetière ; le Niveau de cette carte devient celui du monstre envoyé. Si cette carte face recto quitte le Terrain : vous pouvez Invoquer Spécialement 1 monstre "Yang Zing" depuis votre Deck. Vous ne pouvez Invoquer Spécialement un ou plusieurs "Denglong, Premier du Yang Zing" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 1 Empfänger + 1 oder mehr Nicht-Empfänger-Monster Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Yang Zing“-Karte von deinem Deck hinzufügen. Einmal pro Spielzug: Du kannst 1 Monster vom Typ Wyrm von deinem Deck auf den Friedhof legen; die Stufe dieser Karte wird dieselbe wie die Stufe des auf den Friedhof gelegten Monsters. Falls diese offene Karte das Spielfeld verlässt: Du kannst 1 „Yang Zing“-Monster als Spezialbeschwörung von deinem Deck beschwören. Du kannst nur einmal pro Spielzug einen oder mehr „Denglong, Erster der Yang Zing“ als Spezialbeschwörung beschwören. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 1 Tuner + 1 o più mostri non-Tuner Se questa carta viene Evocata Specialmente: puoi aggiungere 1 carta "Yang Zing" dal tuo Deck alla tua mano. Una volta per turno: puoi mandare 1 mostro di Tipo Wyrm dal tuo Deck al Cimitero; il Livello di questa carta diventa quello del mostro mandato. Se questa carta scoperta lascia il Terreno: puoi Evocare Specialmente 1 mostro "Yang Zing" dal tuo Deck. Puoi Evocare Specialmente uno o più "Denglong, Primo degli Yang Zing" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 1 Regulador + 1 ou mais monstros não-Reguladores Se este card for Invocado por Invocação-Especial: você pode adicionar 1 card "Yang Zing" do seu Deck à sua mão. Uma vez por turno: você pode enviar 1 monstro do Tipo Wyrm do seu Deck para o Cemitério; o Nível deste card se torna o desse monstro enviado. Se este card com a face para cima deixar o campo: você pode Invocar por Invocação-Especial 1 monstro "Yang Zing" do seu Deck. Você só pode Invocar "Denglong, Primeiro dos Yang Zing" por Invocação-Especial uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 1 Cantante + 1 o más monstruos que no sean Cantantes Si esta carta es Invocada de Modo Especial: puedes añadir a tu mano 1 carta "Yang Zing" en tu Deck. Una vez por turno: puedes mandar al Cementerio 1 monstruo de Tipo Wyrm en tu Deck; el Nivel de esta carta se convierte en el del monstruo mandado. Si esta carta boca arriba deja el Campo: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo "Yang Zing". Sólo puedes Invocar de Modo Especial uno o más "Denglong, Primero de los Yang Zing" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ チューナー＋チューナー以外のモンスター１体以上 自分は「源竜星－ボウテンコウ」を１ターンに１度しか特殊召喚できない。①：このカードが特殊召喚に成功した場合に発動できる。デッキから「竜星」カード１枚を手札に加える。②：１ターンに１度、デッキから幻竜族モンスター１体を墓地へ送って発動できる。このカードのレベルは、墓地へ送ったモンスターと同じになる。③：表側表示のこのカードがフィールドから離れた場合に発動できる。デッキから「竜星」モンスター１体を特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 튜너 + 튜너 이외의 몬스터 1장 이상 자신은 "원룡성-보우텐코우"를 1턴에 1번밖에 특수 소환할 수 없다. ①: 이 카드가 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "룡성" 카드 1장을 패에 넣는다. ②: 1턴에 1번, 덱에서 환룡족 몬스터 1장을 묘지로 보내고 발동할 수 있다. 이 카드의 레벨은, 묘지로 보낸 몬스터와 같아진다. ③: 앞면 표시의 이 카드가 필드에서 벗어났을 경우에 발동할 수 있다. 덱에서 "룡성" 몬스터 1장을 특수 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2016-11-03  
+ INOV-EN048   
+ Invasion of Venom 
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2016-11-03  
+ INOV-FR048   
+ Invasion of Venom 
+ Invasion : Vengeance  
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2016-11-03  
+ INOV-DE048   
+ Invasion of Venom 
+ Invasion: Vengeance  
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2016-11-03  
+ INOV-IT048   
+ Invasion of Venom 
+ Invasione: Vendetta  
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2016-11-04  
+ INOV-PT048   
+ Invasion of Venom 
+ Invasão: Vingança  
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2016-11-03  
+ INOV-SP048   
+ Invasion of Venom 
+ Invasión: Venganza  
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2016-07-09  
+ INOV-JP048   
+ Invasion of Venom 
+ インベイジョン・オブ・ヴェノム  
+ Super Rare 
+ 
+ 
+ 2016-07-09  
+ INOV-JP048   
+ Invasion of Venom 
+ インベイジョン・オブ・ヴェノム  
+ Secret Rare 
+ 
+ 
+ 2017-11-25  
+ LVP1-JP072   
+ LINK VRAINS Pack 
+ ＬＩＮＫ　ＶＲＡＩＮＳ　ＰＡＣＫ  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2016-10-20  
+ INOV-KR048   
+ Invasion of Venom 
+ 인베이전 오브 베놈  
+ Super Rare 
+ 
+ 
+ 2016-10-20  
+ INOV-KR048   
+ Invasion of Venom 
+ 인베이전 오브 베놈  
+ Secret Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Wyrm 
+ 
+ Archetypes  and  series   
+ Yang Zing 
+ 
+ Supports   archetypes   
+ Yang Zing 
+ 
+ Actions  
+ Activates upon Special Summon 
+ Adds from Deck to hand 
+ Sends from your Deck to your Graveyard 
+ Activates when it leaves the field 
+ 
+ Stat changes  
+ Changes own Level 
+ 
+ Summoning  categories  
+ 1 or more non-Tuner Synchro Materials 
+ Does not require specific Synchro Materials 
+ Special Summons from your Deck 
+ Special Summon once per turn 
+ 
+ Miscellaneous  
+ Tuner Synchro Monster 
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12638 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Denglong, First of the Yang Zing " pages 
+ 
+ 
+ Manga 
+ 
+ 
+ 
+   
+" Yang Zing " 「 竜 星 」 Members 
+ Baxia, Brightness of the Yang Zing Bi'an, Earth of the Yang Zing Bixi, Water of the Yang Zing Chaofeng, Phantom of the Yang Zing Chiwen, Light of the Yang Zing Denglong, First of the Yang Zing Jiaotu, Darkness of the Yang Zing Pulao, Wind of the Yang Zing Suanni, Fire of the Yang Zing Taotie, Shadow of the Yang Zing Yazi, Evil of the Yang Zing Zefraniu, Secret of the Yang Zing Zefraxi, Treasure of the Yang Zing 
+ Nine Pillars of Yang Zing Yang Zing Brutality Yang Zing Creation Yang Zing Path Yang Zing Prana Yang Zing Unleashed 
+ Support 
+ Bi'an, Earth of the Yang Zing Bixi, Water of the Yang Zing Chaofeng, Phantom of the Yang Zing Chiwen, Light of the Yang Zing Denglong, First of the Yang Zing Jiaotu, Darkness of the Yang Zing Pulao, Wind of the Yang Zing Suanni, Fire of the Yang Zing Taotie, Shadow of the Yang Zing Yazi, Evil of the Yang Zing Zefraniu, Secret of the Yang Zing Zefraxi, Treasure of the Yang Zing 
+ Nine Pillars of Yang Zing Yang Zing Brutality Yang Zing Creation Yang Zing Path Yang Zing Prana Yang Zing Unleashed 
+ Related 
+ El Shaddoll Winda Satellarknight Zefrathuban Shaddoll Dragon 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/5a/DenglongFirstoftheYangZing-INOV-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20161101161410', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

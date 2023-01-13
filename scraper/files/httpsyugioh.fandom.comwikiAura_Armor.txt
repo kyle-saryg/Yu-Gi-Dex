@@ -1,0 +1,119 @@
+Link: https://yugioh.fandom.com/wiki/Aura_Armor
+
+
+ Aura Armor 
+ 
+ Japanese:   オーラアーマー 
+ Romaji:   Ōra Āmā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Activate  only when an opponent's  monster   declares  a  direct attack  while your  Life Points  are 2000 or less.  Negate  the  attack , and  Special Summon  1 " Player Token " ( Warrior - Type / EARTH / Level  4/ ATK  ?/ DEF  ?). When that "Player Token" is Special Summoned, halve your Life Points. The ATK and DEF of the "Player Token" are equal to your Life Points.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh! :  171 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  Yu-Gi-Oh! ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ German 
+ Aurapanzerung 
+ 
+ 
+ 
+ Italian 
+ Corazza Aura 
+ Attiva  solo quando un  monstro  dell'avversario  dichiara  un  attacco diretto  mentre i tuoi  Life Points  sono 2000 o meno.  Nega  l'  attacco , e  Evoca Specialmente  1 " Segnalino Giocatore " ( Tipo   Guerriero / TERRA / Livello  4/ ATK  ?/ DEF  ?). Quando quel "Segnalino Giocatore" viene Evocato Specialmente, dimezza i tuoi Life Points. L'ATK e il DEF del "Segnalino Giocatore" è uguale ai tuoi Life Points. 
+ 
+ 
+ Spanish 
+ Armadura Aura 
+ 
+ 
+ 
+ Japanese 
+ オーラアーマー 
+ ライフポイントが２０００以下で、相手モンスターが直接攻撃してきた時に発動可能。その攻撃を無効にして、自分のフィールド上にプレイヤートークン（戦士族・地・星４）を特殊召喚する。プレイヤートークンが特殊召喚された時、ライフポイントを半分にする。プレイヤートークンの攻撃力と守備力はプレイヤーの残りライフポイントと同じとする。 
+ 
+ 
+ Ōra Āmā 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Joey Wheeler 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Activates upon attack declaration 
+ 
+ Stat changes  
+ Changes ATK value 
+ Changes DEF value 
+ 
+ Summoning  categories  
+ Special Summons Tokens 
+ 
+ Attack  categories  
+ Negates attacks 
+ 
+ LP   
+ Halves the player's LP 
+ You lose Life Points 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/01/AuraArmor-JP-Anime-DM.png/revision/latest/scale-to-width-down/200?cb=20140927000148', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/b/b8/AuraArmor-OW.png/revision/latest/scale-to-width-down/185?cb=20131216181657', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

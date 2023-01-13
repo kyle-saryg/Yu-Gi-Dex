@@ -1,0 +1,9 @@
+Link: https://yugioh.fandom.com/wiki/Property:Japanese_set_and_region_prefix
+
+This property lists the combined set and region or language prefix for sets.
+ This property uses  string  values
+ 
+ 
+ 
+ 
+Categories:

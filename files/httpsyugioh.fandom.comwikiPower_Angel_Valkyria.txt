@@ -1,0 +1,359 @@
+Link: https://yugioh.fandom.com/wiki/Power_Angel_Valkyria
+
+
+ 
+ 
+ Power Angel Valkyria 力 天 使 ヴァルキリア 
+ 
+ English 
+Power Angel Valkyria 
+ French 
+ Ange Valkyrie de la Puissance Check translation 
+ German 
+ Kraftengel-Valkyre Check translation 
+ Italian 
+ Valkyria Angelo Potenziato Check translation 
+ Korean 
+ 역천사 발키리어 Check translation 
+ Portuguese 
+ Poderosa Anja Valquíria Check translation 
+ Spanish 
+ Valkiria Ángel del Poder Check translation 
+ Japanese (kana) 
+ りきてんしヴァルキリア Check translation 
+ Japanese (base) 
+ 力天使ヴァルキリア Check translation 
+ Japanese ( rōmaji ) 
+Riki Tenshi Varukiria 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Fairy  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1800  /  1050 
+ Passcode 
+ 89055154 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If you  negate  the  activation  of a  Spell / Trap Card , or  monster effect :  Add  1  LIGHT   Fairy   monster  from your  Deck  to your  hand . You can only use this  effect  of "Power Angel Valkyria"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si vous annulez l'activation d'une Carte Magie/Piège ou effet de monstre : ajoutez 1 monstre LUMIÈRE Elfe depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de "Ange Valkyrie de la Puissance" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls du die Aktivierung einer Zauber-/Fallenkarte oder eines Monstereffekts annullierst: Füge deiner Hand 1 LICHT Fee-Monster von deinem Deck hinzu. Du kannst diesen Effekt von „Kraftengel-Valkyre“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se annulli l'attivazione di una Carta Magia/Trappola, o l'effetto di un mostro: aggiungi 1 mostro Fata LUCE dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di "Valkyria Angelo Potenziato" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se você negar a ativação de um Card de Magia/Armadilha ou efeito de monstro: adicione 1 monstro Fada de LUZ do seu Deck à sua mão. Você só pode usar este efeito de "Poderosa Anja Valquíria" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si niegas la activación de una Carta Mágica/de Trampa, o efecto de monstruo: añade a tu mano 1 monstruo Hada de LUZ en tu Deck. Sólo puedes usar este efecto de "Valkiria Ángel del Poder" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の効果は１ターンに１度しか使用できない。①：自分がモンスターの効果・魔法・罠カードの発動を無効にした場合に発動する。デッキから天使族・光属性モンスター１体を手札に加える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ① : 자신이 몬스터의 효과 / 마법 / 함정 카드의 발동을 무효로 했을 경우에 발동한다. 덱에서 천사족 / 빛 속성 몬스터 1장을 패에 넣는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2018-01-18  
+ SR05-EN003   
+ Structure Deck: Wave of Light 
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2018-01-18  
+ SR05-FR003   
+ Structure Deck: Wave of Light 
+ Deck de Structure : Onde de Lumiere  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2018-01-18  
+ SR05-DE003   
+ Structure Deck: Wave of Light 
+ Structure Deck: Wave of Light  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2018-01-18  
+ SR05-IT003   
+ Structure Deck: Wave of Light 
+ Structure Deck: Ondata de Luce  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2018-01-18  
+ SR05-PT003   
+ Structure Deck: Wave of Light 
+ Deck Estrutural: Onda de Luz  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2018-01-18  
+ SR05-SP003   
+ Structure Deck: Wave of Light 
+ Baraja de Estructura: Onda de Luz  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2017-09-23  
+ SR05-JP003   
+ Structure Deck R: Surge of Divine Light 
+ ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ Ｒ －神光の波動－  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2017-12-21  
+ SR05-KR003   
+ Structure Deck R: Surge of Divine Light 
+ STRUCTURE   DECK  Ｒ －신광의 파동－  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ LIGHT 
+ Fairy 
+ 
+ Related to  archetypes  and  series   
+ Counter Fairy 
+ 
+ Actions  
+ Adds from Deck to hand 
+ 
+ Miscellaneous  
+ Only once per turn 
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 13352 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Counter Fairy Members 
+ Bountiful Artemis Dark Voltanis Guiding Ariadne Harvest Angel of Wisdom Layard the Liberator Meltiel, Sage of the Sky Minerva, Scholar of the Sky Sacred Arch-Airknight Parshath Synthetic Seraphim Token Voltanis the Adjudicator 
+ Related 
+ Power Angel Valkyria 
+ Rebirth of Parshath The Sanctuary in the Sky The Sanctum of Parshath Synthetic Seraphim 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/cc/PowerAngelValkyria-SR05-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20180120011532', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

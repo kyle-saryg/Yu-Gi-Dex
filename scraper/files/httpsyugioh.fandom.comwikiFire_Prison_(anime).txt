@@ -1,0 +1,131 @@
+Link: https://yugioh.fandom.com/wiki/Fire_Prison_(anime)
+
+Main card page: " Fire Prison " 
+ Fire Prison 
+ 
+ Japanese:   天火の牢獄 
+ Kana:   てんぴのろうごく 
+ Romaji:   Tenpi no Rōgoku 
+ Translated:  Skyfire Prison 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Field 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Continuous-like 
+ Continuous-like 
+ Continuous-like 
+ Continuous-like 
+ Ignition-like 
+ Trigger-like 
+ Cannot be  destroyed  by other cards'  effects . All  Dragon   monsters  you  control  gain 300  DEF . Neither player can  Link Summon  a monster with a lower  Link Rating  than the monster on the  field  with the highest Link Rating. Monsters cannot  declare  an  attack , except  Link Monsters . If there are 2 or more  Cyberse  Link Monsters on the field: You can  activate  this effect; while this card is  face-up  on the field,  negate  the effects of all Cyberse monsters while they are in the  hand ,  field , or  GY , they cannot  attack , they cannot be  targeted  for attacks, but does not prevent a player from attacking  directly , also neither player can target them with card effects. If the last Cyberse monster(s) that was on the field at activation of the above effect  leaves the field : Destroy this card.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  010 ,  011 ,  012 ,  013 ,  014 ,  029 ,  038 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 天 火 の 牢 獄 
+ ①：このカードはこのカード以外の効果では破壊されない。②：自分フィールドのドラゴン族モンスターの守備力は３００アップする。③：お互いのプレイヤーは、お互いのフィールドのリンクモンスターの中でリンクマーカーの数が一番多いモンスターよりもリンクマーカーの数が少ないモンスターのリンク召喚ができず、リンクモンスター以外のモンスターで攻撃宣言できない。④：フィールドにサイバース族リンクモンスターが２体以上存在する場合にこの効果を発動できる。このカードがフィールドゾーンに存在する限り、お互いの手札・フィールド・墓地のサイバース族モンスターは攻撃できず、攻撃対象及び効果の対象にならず、その効果は無効になる。この時、自身のフィールドのモンスターがサイバース族モンスターのみのプレイヤーへの攻撃は直接攻撃になる。⑤：このカードの④の効果の適用時にフィールドに存在したサイバース族モンスターが、全てフィールドから離れた場合に発動する。このカードを破壊する。 
+ 
+ 
+ Tenpi no Rōgoku 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Varis 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Dragon 
+ Link Monster 
+ 
+ Anti-supports   
+ Cyberse 
+ 
+ Stat changes  
+ Your monsters gain DEF 
+ 
+ Monster / Spell / Trap  categories  
+ Cannot be destroyed by card effects 
+ Negates the effects of Effect Monsters 
+ Cannot be targeted by card effects 
+ Destroys itself 
+ 
+ Summoning  categories  
+ Prevents Link Summons 
+ 
+ Attack  categories  
+ Prevents attacks 
+ Manages attack targets 
+ Allows direct attacks 
+ 
+ 
+ 
+   " Fire Prison " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/93/FirePrison-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20170719125516', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/71/FirePrison-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20170719123724', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

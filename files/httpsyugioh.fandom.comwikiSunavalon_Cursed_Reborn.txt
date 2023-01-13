@@ -1,0 +1,105 @@
+Link: https://yugioh.fandom.com/wiki/Sunavalon_Cursed_Reborn
+
+
+ Sunavalon Cursed Reborn 
+ 
+ Japanese:   聖天樹の呪精 
+ Kana:   サンアバロン・カースド・リボーン 
+ Romaji:   San Abaron Kāsudo Ribōn 
+ Translated:  San Avalon Cursed Reborn 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Effect 
+ Continuous-like 
+ Continuous-like 
+ Trigger-like 
+ Activate  this card by targeting 1 " Sunavalon "  Link Monster  in your  GY ;  Special Summon  it, and if you do, its  ATK  becomes equal to its  Link Rating  x 1000, but it has its  effects  negated, also for the rest of this  turn , it cannot be used as  Link Material , nor  attack . When this card leaves the field, destroy that monster. When that monster leaves the field, destroy this card. If you take  battle  or  effect damage : You can send this card to the GY; inflict damage to your opponent equal to the damage you took.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  037 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 聖天樹の呪精 
+ ①：自分の墓地の「聖天樹」リンクモンスター１体を対象としてこのカードを発動できる。そのモンスターを特殊召喚する。この効果で特殊召喚したモンスターの攻撃力はそのリンクマーカーの数×１０００になり、効果は無効化され、このターン、対象のモンスターはリンク素材にできず、攻撃もできない。このカードがフィールドから離れた時に対象のモンスターは破壊される。対象のモンスターがフィールドから離れた時にこのカードは破壊される。②：自分が戦闘・効果でダメージを受けた場合、フィールドのこのカードを墓地へ送って発動できる。受けたダメージの数値分だけ相手にダメージを与える。 
+ 
+ 
+ San Abaron Kāsudo Ribōn 
+ 
+ 
+ Decks 
+ 
+ 
+ Specter 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Sunavalon 
+ 
+ v e 
+" Sunavalon " 「 聖天樹 」 a   m   Members 
+ Sunavalon Bloom Sunavalon Cursed Reborn Sunavalon Daphne Sunavalon Dryades Sunavalon Dryanome Sunavalon Dryas Sunavalon Dryatrentiay Sunavalon Force Sunavalon Glorious Growth Sunavalon Melias 
+ Support 
+ Sunavalon Dryades Sunavalon Melias Sunbloom Doom Sunseed Twin Sunvine Burial Sunvine Gardna Sunvine Healer Sunvine Plunder Sunvine Shrine Sunvine Thrasher 
+ Related 
+ Sunseed Genius Loci Sunseed Shadow Sunseed Twin 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d7/SunavalonCursedReborn-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180131184057', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/18?cb=20120920115206']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

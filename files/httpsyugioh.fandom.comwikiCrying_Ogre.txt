@@ -1,0 +1,119 @@
+Link: https://yugioh.fandom.com/wiki/Crying_Ogre
+
+Main card page: " Ogre of the Scarlet Sorrow " 
+ Crying Ogre 
+ 
+ Japanese:   血涙のオーガ 
+ Romaji:   Ketsurui no Ōga 
+ Translated:  Ogre of the Bloody Tears 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   DARK 
+ 
+ Level 
+ 
+ 
+ 4   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Trigger 
+ Trigger 
+ Continuous 
+ [  Fiend  /  Effect  ] During your opponent's  turn , when your opponent  declares  a second  direct attack  during the same  Battle Phase , you can  Special Summon  this card from your  hand . When you do, this card's  ATK  and  DEF  becomes equal to the amount of  Battle Damage  you took from that direct attack. The  monster  that declared the second direct attack must then  attack  this card.
+ ATK  /  0     DEF  /  0   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  058 ,  084 ,  111 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 血涙のオーガ 
+ 相手モンスターの 直接攻撃 によって ダメージ を受けたターンの バトルフェイズ 中に、相手が２度目の直接攻撃を宣言した時、このカードを 手札 から 特殊召喚 する事ができる。このカードの 攻撃力 ・ 守備力 は直接攻撃によって受けたダメージの数値となる。２度目の直接攻撃を宣言した相手モンスターは、このカードを 攻撃 しなければならない。 
+ 
+ 
+ Ketsurui no Ōga 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Jack Atlas   
+ Fake Jack Atlas   
+ Max 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Activates from your hand 
+ Activates upon attack declaration 
+ 
+ Stat changes  
+ Changes own ATK value 
+ Changes own DEF value 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ 
+ Attack  categories  
+ Manages attack targets 
+ 
+ 
+ 
+   " Ogre of the Scarlet Sorrow " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/55/OgreoftheScarletSorrow-JP-Anime-5D.png/revision/latest/scale-to-width-down/200?cb=20090604054635', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/26/OgreoftheScarletSorrow-JP-Anime-5D-NC.png/revision/latest/scale-to-width-down/185?cb=20120610004658', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

@@ -1,0 +1,136 @@
+Link: https://yugioh.fandom.com/wiki/Limit_Code_(anime)
+
+Main card page: " Limit Code " 
+ Limit Code 
+ 
+ Japanese:   リミット・コード 
+ Romaji:   Rimitto Kōdo 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Effect 
+ Continuous-like 
+ Continuous-like 
+ Continuous-like 
+ Condition 
+ When this card is  activated : Place 1  Limit Counter  on it for each  Cyberse   Link Monster  in your  GY , then  Special Summon  1 " Code Talker "  monster  from your  Extra Deck , and if you do,  equip  this card to it.  Once per turn , during your  End Phase ,  remove  1 Limit Counter from this card. When the last Limit Counter is removed from this card,  destroy  the equipped monster. When this card  leaves the field , destroy the equipped monster. While this card is on your  field  or in your GY, "Limit Code" cannot be activated.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  018 ,  118 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ リミット・コード 
+ このカードが自分のフィールドまたは墓地に存在する場合、このカード名のカードを発動できない。①：このカードの発動時の効果処理として、自分の墓地のサイバース族リンクモンスターの数だけ、このカードにリミットカウンターを置く。その後、ＥＸデッキから「コード・トーカー」モンスター１体を特殊召喚し、このカードを装備カード扱いとしてそのモンスターに装備する。②：自分エンドフェイズにこのカードのリミットカウンターを１つ取り除く。このカードのリミットカウンターが全て取り除かれた時に装備モンスター破壊される。③：このカードがフィールドから離れた時に装備モンスターは破壊される。 
+ 
+ 
+ Rimitto Kōdo 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Cyberse 
+ Link Monster 
+ 
+ Supports   archetypes   
+ Code Talker  
+ 
+ Counters   
+ Limit Counter 
+ Places counters on itself 
+ Removes counters from itself 
+ 
+ Actions  
+ Equips self from field 
+ 
+ Monster / Spell / Trap  categories  
+ Treated as Equip Card 
+ Destroys your Monster Cards 
+ Prevents activation of your Trap Cards 
+ 
+ Summoning  categories  
+ Special Summons from your Extra Deck 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ 
+   " Limit Code " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+" Code Talker " 「コード・トーカー」 a   +   Members 
+ Accesscode Talker Code Talker Decode Talker Decode Talker Extended Encode Talker Excode Talker Powercode Talker Shootingcode Talker Transcode Talker Transcode Talker 
+ Support 
+ Code Generator Code Hack Cynet Codec Cynet Optimization Limit Code Micro Coder Recoded Alive Talkback Lancer Transcode Talker 
+ Related 
+ Dark Templar @Ignister Decode Destruction 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d7/LimitCode-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20170913133126', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/18?cb=20120920115206']
+Categories: Anime cards

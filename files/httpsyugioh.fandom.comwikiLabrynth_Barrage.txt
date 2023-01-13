@@ -1,0 +1,226 @@
+Link: https://yugioh.fandom.com/wiki/Labrynth_Barrage
+
+
+ 
+ 
+ Labrynth Barrage ラビュリンス・バラージュ 
+ 
+ English 
+Labrynth Barrage 
+ French 
+ Déferlement Labrynth Check translation 
+ German 
+ Labrynth-Sperrfeuer Check translation 
+ Italian 
+ Raffica Labrinto Check translation 
+ Korean 
+ 라뷰린스 버라지 Check translation 
+ Portuguese 
+ Barragem de Labrinto Check translation 
+ Spanish 
+ Andanada del Labrislinto Check translation 
+ Japanese 
+ ラビュリンス・バラージュ Check translation 
+ Japanese ( rōmaji ) 
+Rabyurinsu Barājyu 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 68779682 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When you  activate  a  Set   Normal Trap Card , except "Labrynth Barrage": This  effect  becomes that Normal Trap's  effect  when that card is activated, also until the end of your opponent's next  turn  after this card  resolves , your opponent takes no  effect damage  from your card effects. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Lorsque vous activez une Carte Piège Normal Posée ("Déferlement Labrynth" exclu) : cet effet devient l'effet du Piège Normal lorsque la carte est activée, et aussi, jusqu'à la fin du prochain tour de votre adversaire après la résolution de cette carte, votre adversaire ne reçoit aucun dommage d'effet de vos effets de carte. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wenn du eine gesetzte Normale Fallenkarte aktivierst, außer „Labrynth-Sperrfeuer“: Dieser Effekt wird derselbe wie der Effekt jener Normalen Falle, wenn jene Karte aktiviert wird, zusätzlich erhält dein Gegner bis zum Ende des nächsten Spielzugs deines Gegners, nachdem diese Karte aufgelöst wurde, keinen Effektschaden von deinen Karteneffekten. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando attivi una Carta Trappola Normale Posizionata, eccetto "Raffica Labrinto": questo effetto diventa l'effetto di quella Trappola Normale quando quella carta viene attivata, inoltre fino alla fine del prossimo turno del tuo avversario dopo che questa carta si è risolta, il tuo avversario non subisce danno da effetto dai tuoi effetti delle carte. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Quando você ativar um Card de Armadilha Normal Baixado, exceto "Barragem de Labrinto": este efeito se torna o efeito dessa Armadilha Normal quando esse card for ativado e, além disso, até o final do próximo turno do seu oponente depois que este card resolver, seu oponente não sofre dano de efeito dos seus efeitos de card. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando activas una Carta de Trampa Normal Colocada, excepto "Andanada del Labrislinto": este efecto se convierte en el efecto de esa Trampa Normal cuando esa carta es activada, y además hasta el final del próximo turno de tu adversario después de que esta carta se resuelva, tu adversario no recibe daño de efecto de tus efectos de cartas. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：「ラビュリンス・バラージュ」以外のセットされた通常罠カードを自分が発動した時に発動できる。このカードの効果は、その通常罠カード発動時の効果と同じになる。このカードの発動後、次の相手ターンの終了時まで自分の効果で発生する相手への効果ダメージは０になる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: "라뷰린스 버라지" 이외의 세트된 일반 함정 카드를 자신이 발동했을 때에 발동할 수 있다. 이 카드의 효과는, 그 일반 함정 카드 발동시의 효과와 같아진다. 이 카드의 발동 후, 다음 상대 턴의 종료시까지 자신의 효과로 발생하는 상대에게로의 효과 데미지는 0 이 된다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2022-08-25 TAMA-EN025 Tactical Masters Super Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2022-08-25 TAMA-FR025 Tactical Masters Les Maîtres Tactiques Super Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2022-08-25 TAMA-DE025 Tactical Masters Tactical Masters Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2022-08-25 TAMA-IT025 Tactical Masters Maestri di Tattica Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2022-08-25 TAMA-PT025 Tactical Masters Mestres Táticos Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2022-08-25 TAMA-SP025 Tactical Masters Maestros de la Táctica Super Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-03-19 DBTM-JP025 Deck Build Pack: Tactical Masters デッキビルドパック タクティカル・マスターズ Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2022-06-09 DBTM-KR025 Deck Build Pack: Tactical Masters 덱 빌드 팩－택티컬 마스터즈 Super Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Normal Trap Card 
+ 
+ Archetypes  and  series   
+ Labrynth 
+ 
+ Stat changes  
+ Copies effects 
+ 
+ LP   
+ Prevents effect damage 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17371 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Labrynth " 「ラビュリンス」 Members 
+ Ariane the Labrynth Servant Arianna the Labrynth Servant Labrynth Archfiend Labrynth Chandraglier Labrynth Cooclock Labrynth Stovie Torbie Lady Labrynth of the Silver Castle Lovely Labrynth of the Silver Castle 
+ Big Welcome Labrynth Farewelcome Labrynth Labrynth Barrage Labrynth Labyrinth Labrynth Set-Up Welcome Labrynth 
+ Support 
+ Arianna the Labrynth Servant Labrynth Chandraglier Labrynth Cooclock Labrynth Stovie Torbie Lady Labrynth of the Silver Castle 
+ Big Welcome Labrynth Labrynth Set-Up Welcome Labrynth 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/ae/LabrynthBarrage-TAMA-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20220826221242', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Cards needing effect types, Duel Monsters cards, TCG cards, OCG cards

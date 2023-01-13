@@ -1,0 +1,97 @@
+Link: https://yugioh.fandom.com/wiki/Power_Load
+
+
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Power Load 
+ 
+ Japanese:   パワー・ロード 
+ Romaji:   Pawā Rōdo 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Equip 
+ 
+ Equip  only to a  Machine - Type   monster . It gains  ATK  equal to the number of times every other Machine-Type monster you  control  can  attack  x 400. All monsters you control cannot attack, except the equipped monster.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  GX :  128 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  GX ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ German 
+ Kraftladung 
+ 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Zane Truesdale 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Machine 
+ 
+ Stat changes  
+ Equipped gains ATK 
+ 
+ Attack  categories  
+ Prevents your monsters from attacking 
+ 
+ Miscellaneous  
+ Equips only to a specific target 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/09/PowerLoad-JP-Anime-GX-NC.png/revision/latest/scale-to-width-down/158?cb=20150101001717', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4f/PowerLoad-JP-Anime-GX-NC-2.png/revision/latest/scale-to-width-down/185?cb=20150101001727', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

@@ -1,0 +1,131 @@
+Link: https://yugioh.fandom.com/wiki/Dream_Cicada
+
+The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Dream Cicada 夢 蝉 スイミンミン 
+ 
+ English 
+Dream Cicada 
+ Korean 
+ 꿈매미 스이밍밍 Check translation 
+ Japanese (kana) 
+ ゆめぜみスイミンミン Check translation 
+ Japanese (base) 
+ 夢蝉スイミンミン Check translation 
+ Japanese ( rōmaji ) 
+Yume Zemi Suiminmin 
+ Japanese (translated) 
+Suiminmin the Dream Cicada 
+ Card type 
+ Monster   
+ Attribute 
+ WIND   
+ Types 
+ Insect  /  Effect 
+ Level 
+ 3   
+ ATK  /  DEF 
+ 300  /  1300 
+ Passcode 
+ 05068132 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If you  control  an  Attack Position   Insect   monster , you can  Special Summon  this card (from your  hand ). You can only Special Summon with this  effect  of "Dream Cicada"  once per turn . If this card is  Normal  or Special Summoned: You can  target  1 monster on the  field ; change its  battle position . You can only use this effect of "Dream Cicada" once per turn. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の、①の方法による特殊召喚は１ターンに１度しかできず、②の効果は１ターンに１度しか使用できない。①：自分フィールドに攻撃表示の昆虫族モンスターが存在する場合、このカードは手札から特殊召喚できる。②：このカードが召喚・特殊召喚に成功した場合、フィールドのモンスター１体を対象として発動できる。そのモンスターの表示形式を変更する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의, ①의 방법에 의한 특수 소환은 1턴에 1번밖에 할 수 없으며, ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 필드에 공격 표시의 곤충족 몬스터가 존재할 경우, 이 카드는 패에서 특수 소환할 수 있다. ②: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우, 필드의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 표시 형식을 변경한다. 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-06-11 AC02-JP028 Animation Chronicle 2022 ＡＮＩＭＡＴＩＯＮ ＣＨＲＯＮＩＣＬＥ ２０２２ Common 2022-06-11 AC02-JP028 Animation Chronicle 2022 ＡＮＩＭＡＴＩＯＮ ＣＨＲＯＮＩＣＬＥ ２０２２ Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2022-09-06 AC02-KR028 Animation Chronicle 2022 ANIMATION   CHRONICLE  2022 Common 2022-09-06 AC02-KR028 Animation Chronicle 2022 ANIMATION   CHRONICLE  2022 Normal Parallel Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Insect 
+ 
+ Actions  
+ Activates upon Normal Summon 
+ Activates upon Special Summon 
+ Changes battle positions 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ Special Summon by its own condition once per turn 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17644 ( ja  ( rulings )   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Dream Cicada " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/56/DreamCicada-AC02-JP-C.png/revision/latest/scale-to-width-down/300?cb=20220617202928', 'https://static.wikia.nocookie.net/yugioh/images/0/01/WIND.svg/revision/latest/scale-to-width-down/28?cb=20170920205028', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

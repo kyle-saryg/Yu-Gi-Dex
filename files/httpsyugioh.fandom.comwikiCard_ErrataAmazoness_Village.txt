@@ -1,0 +1,53 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Amazoness_Village
+
+
+ Amazoness Village 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ All  face-up  "Amazoness" monsters  on the field  gain 200 ATK. Once per turn, when an "Amazoness" monster is destroyed by battle or by a card effect ,  and  is  sent to the Graveyard ,   you  can Special Summon 1 "Amazoness" monster from your Deck with a Level less than or equal to that of the destroyed "Amazoness". 
+ All "Amazoness" monsters gain 200 ATK. Once per turn, when an "Amazoness" monster is destroyed by battle or  by a  card effect and sent to the  Graveyard :   You  can Special Summon 1 "Amazoness" monster from your Deck with a Level less than or equal to that "Amazoness"  monster in the  Graveyard . 
+ All "Amazoness" monsters gain 200 ATK. Once per turn, when an "Amazoness" monster is destroyed by battle or card effect and sent to the  GY : You can Special Summon 1 "Amazoness" monster from your Deck with a Level less than or equal to that "Amazoness" monster in the  GY . 
+ 
+ 
+       DREV-EN053 Duelist Revolution     
+       LCJW-EN104 Legendary Collection 4: Joey's World Mega Pack     
+       LEDU-EN014 Legendary Duelists     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ このカードがフィールド上に存在する限り、 フィールド 上に表側表示で存在する 「アマゾネス」 と名のついた モンスターの攻撃力は２００ ポイント アップする。「アマゾネス」 と名のついた モンスターが戦闘 またはカードの 効果 によって 破壊され墓地へ送られた時 、 その「アマゾネス」 と名のついた モンスターのレベル以下の「アマゾネス」 と名のついた モンスター１体を 自分の デッキから特殊召喚する 事ができる 。 この効果は１ターンに１度しか使用できない。 
+ ①： フィールド の 「アマゾネス」モンスターの攻撃力は２００アップする。 ②：１ターンに１度、 「アマゾネス」モンスターが戦闘 ・ 効果 で 破壊され墓地へ送られた時 に発動できる。自分は その「アマゾネス」モンスター の元々 のレベル以下の レベルを持つ 「アマゾネス」モンスター１体をデッキから特殊召喚する。 
+ 
+ 
+         DREV-JP053 Duelist Revolution     
+         DP18-JP014 Duelist Pack: Legend Duelist     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/07/AmazonessVillage-DREV-EN-R-1E.png/revision/latest/scale-to-width-down/180?cb=20140527132555', 'https://static.wikia.nocookie.net/yugioh/images/1/1e/AmazonessVillage-LCJW-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20131013180341', 'https://static.wikia.nocookie.net/yugioh/images/a/af/AmazonessVillage-LEDU-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20170907222417', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/7f/AmazonessVillage-DREV-JP-R.jpg/revision/latest/scale-to-width-down/180?cb=20100417035031', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1e/AmazonessVillage-DP18-JP-C.png/revision/latest/scale-to-width-down/180?cb=20170602150651']
+Categories: Card Errata, Cards with 2 errata, Cards with 1 erratum, Cards with Japanese errata

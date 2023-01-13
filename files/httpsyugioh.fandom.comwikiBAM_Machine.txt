@@ -1,0 +1,210 @@
+Link: https://yugioh.fandom.com/wiki/BAM_Machine
+
+Contents 
+ 
+ 1   1. Power-Ups 
+ 2   After you hit BAM 
+ 3   2. Round Start 
+ 
+ 3.1   2.1 Positive effects applicable to several cards 
+ 3.2   2.2 Negative effects applicable to several cards 
+ 3.3   2.3 Round Start effects that relate to the number of cards in the Graveyard 
+ 3.4   2.4 Round Start effects that relate to the number of cards in the Deck 
+ 3.5   2.5 Round Start effects that relate to the number of cards on the field 
+ 3.6   2.6 Before the End of Round Start 
+ 
+ 
+ 4   3. Channels 
+ 
+ 4.1   3.1 Effects that destroy Spells 
+ 4.2   3.2 Effects when a card is activated 
+ 4.3   3.3 Monsters collide 
+ 4.4   3.4 Monster(s) removed 
+ 4.5   3.5 Monster attacks Player (Life Points reduced) 
+ 4.6   3.6 Effects to cards that have been damaged 
+ 
+ 
+ 5   4. Round End 
+ 
+ 5.1   4.1 Positive Round End effects 
+ 5.2   4.2 Negative Round End effects 
+ 5.3   4.3 Round End effects that relate to the number of cards on the field 
+ 
+ 
+ 6   Trigger Effects 
+ 7   References 
+ 
+ 
+ 
+ When the "BAM" button is hit during a duel, the order of  priority  in which effects occur is shown below.
+ If a  Duel Stars Challenge  is attempted, those rules will apply before the Power-Ups activate.
+ 
+ 1. Power-Ups 
+ Order: In the order decided by the Player. 
+ All  Power-Ups 
+ After you hit BAM 
+ Special:  Photon Sabre Tiger ,  Photon Thrasher . 
+ 2. Round Start 
+ Special:  Hero Blast ,  Alien Dog  (Immune),  Atlantean Dragoons . 
+ 2.1 Positive effects applicable to several cards 
+ Order: Your Spells, your Monsters, opponent's Spells, opponent's Monsters. 
+ Effect types: Immune All, Boost All, [ATTRIBUTE] Boost All, [TYPE] Boost All. 
+ Special:  Stim-Pack ,  Gazelle the King of Mythical Beasts ,  Umiiruka ,  Crystal Tree ,  Star Light, Star Bright ,  The Nordic Lights ,  Shining Angel ,  Anti-Spell ,  Felgrand Dragon ,  Evil Blast  (Boost All),  Moulinglacia the Elemental Lord ,  Call of the Atlanteans ,  Chaos Infinity ,  Elemental HERO Prisma ,  Renge, Gatekeeper of Dark World ,  Gateway to Dark World ,  Endymion, the Master Magician  (Resurrect),  Reptilianne Spawn ,  Hieratic Seal of Supremacy ,  Chaos Command Magician  (Boost All),  Darklord Asmodeus . 
+ 2.2 Negative effects applicable to several cards 
+ Order: Your Spells, your Monsters, opponent's Spells, opponent's Monsters. 
+ Effect types: Cripple All, [TYPE] Cripple All. 
+ Special:  Dark Hole ,  Gazelle the King of Mythical Beasts ,  Germ Infection ,  Umiiruka ,  Shining Angel ,  Evil Blast  (Cripple All),  Evilswarm Mandragora ,  Photon Slasher ,  Photon Veil . 
+ 2.3 Round Start effects that relate to the number of cards in the Graveyard 
+ Order: Your Spells, your Monsters, opponent's Spells, opponent's Monsters. 
+ Effect types: First Strike. 
+ 2.4 Round Start effects that relate to the number of cards in the Deck 
+ Order: Your Spells, your Monsters, opponent's Spells, opponent's Monsters. 
+ Effect types: Last Stand. 
+ 2.5 Round Start effects that relate to the number of cards on the field 
+ Order: Your Spells, your Monsters, opponent's Spells, opponent's Monsters. 
+ Effect types: Courage, Timidity. 
+ Special:  Just Desserts ,  Curse of Darkness ,  Magic Jammer ,  Jinzo - Lord  (Immune),  Souleater ,  Elemental HERO Woodsman ,  Endymion, the Master Magician  (Annihilate),  Chaos Command Magician  (Immune, Hurt). 
+ 2.6 Before the End of Round Start 
+ Special:  Toy Magician ,  Pyrorex the Elemental Lord . 
+ 
+ Normal Spell Cards  which have used all their effects are now sent to the Graveyard, except for the ones with a Special effect. Monsters with 0 Power are also now sent to the Graveyard.
+ 
+ 3. Channels 
+ Effect types: Resurrect 
+ Special:  Zombie Master 
+ 3.1 Effects that destroy Spells 
+ Order: Your Monsters, opponent's Monsters, your Spells, opponent's Spells. 
+ Effect types: Annihilate Spells, Destroy Spell, Sacrifice Spell, Sacrifice All Spells. 
+ Special:  Release from Stone ,  Advanced Dark ,  Infestation Terminus 
+ 3.2 Effects when a card is activated 
+ Order: Your Spells, opponent's Spells, your Monsters, opponent's Monsters. 
+ Effect types: Sacrifice Monster, Sacrifice All Monsters, Sacrifice [TYPE], Annihilate Monsters, Annihilate [TYPE], Sneak, Destroy Monster, Immune, Immune All [Type], Heal, Heal Opponent, Soothe, Hurt Opponent, Backfire, Shock, Osmosis, Boost, Cripple. 
+ Special:  Mirror Force ,  Fake Trap ,  Dark Bat ,  Vampire Lord ,  Wattcancel ,  Wattaildragon ,  Alien Hunter ,  Combination Attack ,  United We Stand ,  Field Barrier ,  Evil Blast  (Annihilate Monsters),  Alien Dog  (Destroy),  Spiritualism ,  Ancient Leaf ,  Hieratic Seal From the Ashes ,  Hieratic Seal of the Sun Dragon Overlord ,  Kuriphoton ,  Photon Current ,  Photon Trident ,  Photon Wyvern . 
+ 3.3 Monsters collide 
+ 3.4 Monster(s) removed 
+ 3.5 Monster attacks Player (Life Points reduced) 
+ 3.6 Effects to cards that have been damaged 
+ Order: Your Monsters, opponent's Monsters. 
+ Effect types: Fragile. 
+ 
+ Normal Spell Cards  which have used all their effects are now sent to the Graveyard, except for the ones with a Special effect. Monsters with 0 Power are also now sent to the Graveyard. Loop from the start of "3. Channels" for each Channel.
+ 
+ 4. Round End 
+ 4.1 Positive Round End effects 
+ Order: Your Spells, your Monsters, opponent's Spells, opponent's Monsters. 
+ Effect Types: Growth 
+ Special:  Horn of Heaven ,  Ultimate Offering ,  Dark World Grimoire . 
+ 4.2 Negative Round End effects 
+ Order: Your Spells, your Monsters, opponent's Spells, opponent's Monsters. 
+ Effect types: Self-Destruct, Feeble, Feeble All. 
+ Special:  Tribute to The Doomed ,  Reinforcements ,  Stim-Pack ,  Lunar Queen Elzaim ,  Ultimate Offering . 
+ 4.3 Round End effects that relate to the number of cards on the field 
+ Order: Your Spells, your Monsters, opponent's Spells, opponent's Monsters. 
+ Special:  Royal Decree ,  Exxod, Master of The Guard . 
+ 
+ Normal Spell Cards  which have used at least one of their effects are now sent to the Graveyard, including the ones with a Special effect. Monsters with 0 Power are also now sent to the Graveyard.
+ 
+ Trigger Effects 
+ These effects are triggered at any time during a Round. 
+ Effect types: Shared Fate, Farewell, Sorrow, Parting Gift, Mirror, Rage, Drain, Empathy, Power Redistribution, Requiem, Break Immunity, Spirit Protection, Bloodlust, Acid Jet, Explosion, Big Explosion. 
+ Special:  Call of Darkness ,  Robbin' Goblin ,  Magical Thorn ,  Castle Walls ,  Dark Room of Nightmare ,  Rainbow Life ,  A Cat of Ill Omen ,  Burning Skull Head ,  Call of the Haunted ,  Wandering Mummy ,  Umi ,  Ceremonial Bell ,  Berserk Dragon ,  Berserk Dragon ,  Reaper of the Cards ,  Armed Ninja ,  Big Burn ,  Felgrand Dragon ,  Alien Telepath ,  Grandsoil the Elemental Lord ,  Dragunity Partisan ,  Dragunity Primus Pilus ,  Naturia Bamboo Shoot ,  Leodrake's Mane ,  Megarock Dragon ,  Crystal Beast Sapphire Pegasus ,  Magic Drain ,  Emissary of the Afterlife ,  Return Zombie ,  Sillva, Warlord of Dark World ,  Hero Counterattack ,  HERO's Bond ,  Gearfried the Swordmaster ,  Spellbook of the Master ,  Light-Imprisoning Mirror ,  Reptilianne Poison ,  Reptilianne Rage ,  Hieratic Seal of Reflection ,  Dark Magician of Chaos ,  Darklord Desire ,  Darklord Edeh Arae ,  Photon Crusher ,  Photon Caesar ,  Raviel, Lord of Phantasms . 
+ References 
+ The new and improved BAM-Machine . Konami. 
+ v e 
+ Yu-Gi-Oh! BAM Gameplay 
+ Rules 
+ BAM Machine 
+ Level 
+ Arena 
+ BAMgo 
+ Booster Battle 
+ Objectives 
+ Storyline Rewards 
+ Duel Stars Challenge 
+ Items 
+ Cards 
+ Card List 
+ Errata 
+ Image Gallery 
+ Series 1 
+ Series 2 
+ Side Series 
+ Common 
+ Rare 
+ Ultra Rare 
+ BAM Legend 
+ Crafting 
+ Friendship Card 
+ Currency 
+ Coins 
+ Card Pieces 
+ Duel Points 
+ Energy 
+ Other 
+ Power-Ups 
+ 
+ Booster Packs 
+ Series 1 
+ A Newcomer in Alba Litora 
+ Dark Destruction 
+ Legend of the Dragon 
+ Sky Storm 
+ Psychic Time Warp 
+ Alba Litora's Elite 
+ Series 2 
+ Tropica City Dark Forces 
+ Obscure Devastation 
+ Root of Evil 
+ Wings of Destiny 
+ Immemorial Cataclysm 
+ Live Duels 
+ Blazing Wind 
+ Test Packs 
+ Legendary Pack 
+ Novice Pack 
+ Time-Limited Packs 
+ Holiday Collection 
+ BAM Legend All-Stars 
+ 
+ Starter Decks 
+ Series 1 
+ Bestial Fury 
+ Cyber Assault 
+ Insect Swarm 
+ Enchanted Fairies 
+ Nightmarish Fiends 
+ Zombie Horde 
+ Dragon Master 
+ Series 2 
+ Gusto Tempest 
+ Arena Deck 
+ Competitive Arena Deck #1 
+ Time-Limited Theme Deck 
+ Eternal Zombies Deck 
+ Hieratic Dragons Deck 
+ Blackwing Deck 
+ Photon Deck 
+ Community Deck 
+ Laval Deck 
+ Lightray & Lightsworn Deck 
+ The Fabled Deck 
+ Naturia Bugs Deck 
+ Shark Deck 
+ Dinosaurs Deck 
+ Psychic Deck 
+ 
+ Maps 
+ Alba Litora 
+ Tropica City 
+ Miscellaneous 
+ Characters 
+ Music 
+ Story Transcript 
+ 2012 Events 
+ 2013 Events 
+ 2014 Events 
+ 
+ 
+ 
+ 
+Categories:

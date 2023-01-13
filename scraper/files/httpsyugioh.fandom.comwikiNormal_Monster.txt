@@ -1,0 +1,580 @@
+Link: https://yugioh.fandom.com/wiki/Normal_Monster
+
+
+ 
+ Normal Monster
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 通 常 (モンスター) [Notes 1] 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ つうじょう(モンスター)
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 通常(モンスター)
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Tsūjō (Monsutā)
+ 
+ 
+ 
+ English
+ 
+ 
+ Normal (Monster)
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : (Monstre) Normal 
+ German : Normal(e Monster) 
+ Italian : (Mostro) Normale 
+ Portuguese : (Monstro) Normal 
+ Spanish : (Monstruo) Normal 
+ Korean : 일반 (몬스터) (一般 (Monster))  Ilban (Monseuteo) 
+ Traditional Chinese : 通常(怪獸)  Tōngcháng (Guàishòu) / Tung1 seong4 (Gwaai3 sau3) 
+ Simplified Chinese : 通常(怪兽)  Tōngcháng (Guàishòu) 
+ Arabic : الوحوش العادية 
+ 
+ 
+ 
+ 
+ 
+ Lists
+ 
+ 
+ 
+ 
+ members 
+ support 
+ anti-support 
+ 
+ Normal Monsters  (Japanese:  通 常 モンスター  Tsūjō Monsutā ), colored yellow, are  Main Deck   monsters  with no  monster effects . In the card description box (which contains the effect on  Effect Monsters ), Normal Monsters include a brief description of its lore. Starting from  Starter Deck: Link Strike  onwards, all Normal Monsters also include the designation "/Normal" on their  Type / Ability  lines.
+ Only Monster Cards with "yellow" backgrounds are Normal Monsters. There are  Tuner  and  Pendulum  Normal Monsters, such as " Tune Warrior " and " Flash Knight ".  Monster Tokens  are also Normal Monsters.  Non-Effect   Fusion ,  Ritual ,  Synchro ,  Xyz  and  Link  Monsters are not Normal Monsters. Some non-Normal Monsters can be  treated as Normal Monsters with card effects , most notably  Gemini monsters  and some  Trap Monsters . 
+ The card text (or  flavor text ) on Normal Monsters is for illustrative purposes only, and has no effect on gameplay (except  archetype conditions , such as on " Summoned Skull " and " Gazelle the King of Mythical Beasts " in the English  TCG ). These texts provide lore on how the monster is related to other cards in the game, such as the flavor text of " Opticlops " which explicitly states that it serves " Dark Ruler Ha Des ". 
+ 
+ Contents 
+ 
+ 1   Play style 
+ 2   Examples 
+ 3   Lists 
+ 4   Trivia 
+ 5   Notes 
+ 
+ 
+ Play style 
+ Though they do not have inherent effects, there are often  Spell ,  Trap , or  Monster  effects associated with specific Normal Monsters. For example, " Dark Magic Attack " can only be used with " Dark Magician ", " Huge Revolution " can only be activated with 3 specific Normal Monsters on the field, and " X-Head Cannon ", " V-Tiger Jet " and " Dark Blade " are the specific targets for three specific  Union monsters .
+ Normal Monsters have received some very powerful support cards for general use, such as " Birthright ", " Summoner's Art ", " Knight of the Red Lotus ", " Princess Cologne ", " Terratiger " and " Ventdra, the Empowered Warrior ", " White Tiger " and " Blue Dragon Summoner ", " Dark Factory of Mass Production ", and " Creepy Coney ". The Normal  Pendulum Monsters  " Dragon Horn Hunter ", " Lancephorhynchus ", and the " Draconia "  series  support Normal Monsters. " Thunder End Dragon " has a powerful effect, but requires 2 Normal Monsters in order to be  Xyz Summoned .
+ " Rescue Rabbit " can Special Summon 2  Level  4 or lower Normal Monsters from the Deck, providing quick access to Xyz Monsters; this effect is so useful that  Dino Rabbit  Decks are built entirely around it.
+ Some Normal Monster support focuses on low-Level Normal Monsters (typically Level 3 or lower). There are cards that allow the Special Summon of large numbers of low-Level Normal Monsters from the Deck (such as " Human-Wave Tactics " and " Enchanting Fitting Room "), to then be powered up with cards like " Triangle Power ", " Amulet of Ambition ", and " Sword of the Soul-Eater ", or used to get rid of the opponent's cards with " The Law of the Normal ".
+ 
+ Examples 
+ Normal Monster Normal Tuner monster Normal Pendulum Monster Normal Pendulum Tuner monster 
+ Lists 
+ Normal Tuner monster 
+ Normal Pendulum Monster 
+ Trivia 
+ Normal Monsters were the most common monsters when the  Duel Monsters  card game was introduced in the  manga  and released in the  OCG  and  TCG , but as the game's strategies evolved, Effect Monsters became more common and fewer Normal Monsters were released or reprinted. For a time, very few  Booster Packs  contain Normal Monsters, and even those that do contain very few. Following the introduction of  Pendulum Monsters , however, Normal Monsters have seen a resurgence in Booster Packs, mainly in the form of Normal Pendulum Monsters.
+ In  Yu-Gi-Oh! 5D's - Episode 121 ,  Jack Atlas  mentioned this. 
+ The Normal Monster with the highest ATK is " Blue-Eyes White Dragon ", at 3000. " Labyrinth Wall ", " Neo Aqua Madoor " ," Millennium Shield ", " Dragon Core Hexer " and the  Illegal  card " Leonardo's Silver Skyship " have the highest DEF, at 3000. " Rabidragon " has the highest combined ATK and DEF, with 2950 ATK and 2900 DEF. 
+ " Leonardo's Silver Skyship " is the first  Match winner  Normal Monster, due to being a Pendulum Monster. 
+ " Thousand-Eyes Idol " is the Normal Monster with the lowest stats, being Level 1 monster with 0 ATK and 0 DEF. 
+ " Gunkan Suship Shari " has the longest flavor text of all Normal Monsters. 
+ " Mekk-Knight Avram " has the shortest flavor text of all Normal Monsters. 
+ " Thunder End Dragon " is the only  Xyz Monster  that requires Normal Monsters as its  Xyz Materials . 
+ Yuma Tsukumo  and  Yuya Sakaki  are the only main protagonists to have never used a Normal Monster. 
+ There are currently no Level 9 or higher Normal Monsters. 
+ " Clavkiys, The Magikey Skyblaster " has the highest combined ATK and DEF of any Level 4 Normal Monster. 
+ Notes 
+ 
+ ↑   The parentheses here specify what part is not shown on the cards'  Type / Ability  line. 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/bf/DarkMagician-YUCB-EN-UR-LE.png/revision/latest/scale-to-width-down/136?cb=20170916175628', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b5/GalaxySerpent-YS17-EN-C-1E.png/revision/latest/scale-to-width-down/136?cb=20170718194921', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/8b/OddEyesArcPendulumDragon-LEDD-EN-UR-1E.png/revision/latest/scale-to-width-down/137?cb=20171005215856', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f4/Hallohallo-CIBR-EN-LE-OP.png/revision/latest/scale-to-width-down/137?cb=20170904112546', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Types of Monster Cards

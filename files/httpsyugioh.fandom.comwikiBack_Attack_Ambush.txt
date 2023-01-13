@@ -1,0 +1,114 @@
+Link: https://yugioh.fandom.com/wiki/Back_Attack_Ambush
+
+
+ The Japanese (OCG) version of this card is not a member of the " Attack "  archetype , because its Japanese name does not contain  「 Ａ 」 .   As its English name contains "Attack", it  may  be treated a member of the "Attack" archetype at a TCG event, subject to local rulings.     
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Back Attack Ambush 
+ 
+ Japanese:   バックアタック・アンブッシュ 
+ Romaji:   Bakkuatakku Anbusshu 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Activate  only when an opponent's  monster   declares  an  attack . End the  Battle Phase , and  Special Summon  1 " Ambush Token " ( Warrior - Type / EARTH / Level  1/ ATK  100/ DEF  100) for each  face-up   Attack Position  monster your opponent  controls . Then, you can  Tribute  any number of "Ambush Tokens" and inflict 500  damage  to your opponent for each Tributed Token.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  091 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ German 
+ Gegenangriffshinterhalt 
+ 
+ 
+ 
+ Japanese 
+ バックアタック・アンブッシュ 
+ 相手モンスターが攻撃してきた時に発動する事ができる。バトルフェイズを終了し、自分フィールド上に「アンブッシュ・トークン」（戦士族・地・星１・攻／守１００）を、相手フィールド上に存在する攻撃表示モンスターの数だけ特殊召喚する。「アンブッシュ・トークン」１体を特殊召喚時にリリースする事で、相手ライフに５００ポイントダメージを与える。 
+ 
+ 
+ Bakkuatakku Anbusshu 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Lawton 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Ends the Battle Phase 
+ Tributes for cost 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ 
+ Summoning  categories  
+ Special Summons Tokens 
+ 
+ LP   
+ Damages your opponent 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e9/BackAttackAmbush-OW.png/revision/latest/scale-to-width-down/185?cb=20140102195253', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

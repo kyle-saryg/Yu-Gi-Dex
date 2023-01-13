@@ -1,0 +1,65 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Archfiend_Zombie-Skull
+
+
+ Archfiend Zombie-Skull 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Yu-Gi-Oh! BAM 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ "Plaguespreader Zombie" + 2  or more  non-Tuner Zombie -Type  monsters Face-up  Zombie -Type  monsters you control cannot be destroyed by card effects. 
+ "Plaguespreader Zombie" + 2 +  non-Tuner Zombie monsters Zombie monsters you control cannot be destroyed by card effects. 
+ 
+ 
+       ANPR-EN042 Ancient Prophecy     
+       BLLR-EN058 Battles of Legend: Light's Revenge     
+ 
+ 
+ French 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ "Zombie Épidémique" + 2 monstres  de Type Zombie  non Syntoniseur  ou plus Les monstres  de Type  Zombie  face recto  que vous contrôlez ne peuvent pas être détruits par  les  effets  d'une  carte. 
+ "Zombie Épidémique" + 2 +  monstres non Syntoniseur  Zombie Les monstres Zombie que vous contrôlez ne peuvent pas être détruits par  des  effets  de  carte. 
+ 
+ 
+       ANPR-FR042 Ancient Prophecy     
+         BLLR-FR058 Battles of Legend: Light's Revenge     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ 「ゾンビキャリア」＋チューナー以外のアンデット族モンスター２体以上 自分フィールド上 に表側表示で存在する アンデット族モンスターは、カードの効果では破壊されない。 
+ 「ゾンビキャリア」＋チューナー以外のアンデット族モンスター２体以上 このカードがフィールド上に表側表示で存在する限り、 自分フィールド上 の アンデット族モンスターは、カードの効果では破壊されない。 
+ 
+ 
+         ANPR-JP042 Ancient Prophecy     
+         DE04-JP022 Duelist Edition Volume 4     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/ec/ArchfiendZombieSkull-ANPR-EN-SR-1E.jpg/revision/latest/scale-to-width-down/180?cb=20090824204029', 'https://static.wikia.nocookie.net/yugioh/images/c/c5/ArchfiendZombieSkull-BLLR-EN-UR-1E.png/revision/latest/scale-to-width-down/180?cb=20170707111010', 'https://static.wikia.nocookie.net/yugioh/images/d/d2/ArchfiendZombieSkull-ANPR-FR-SR-1E.png/revision/latest/scale-to-width-down/180?cb=20170704063350', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f2/ArchfiendZombieSkull-BLLR-FR-UR-1E.png/revision/latest/scale-to-width-down/180?cb=20170704152907', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/ac/ArchfiendZombieSkull-ANPR-JP-UR.jpg/revision/latest/scale-to-width-down/180?cb=20090718070928', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/af/ArchfiendZombieSkull-DE04-JP-C.jpg/revision/latest/scale-to-width-down/180?cb=20120820223757']
+Categories: Card Errata, Cards with 1 erratum, Cards with French errata, Cards with Japanese errata

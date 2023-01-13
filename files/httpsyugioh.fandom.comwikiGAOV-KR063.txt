@@ -1,0 +1,312 @@
+Link: https://yugioh.fandom.com/wiki/GAOV-KR063
+
+The  Arabic  and  Croatian                       names given are not official.  
+ 
+ 
+ 
+ 
+ 
+ That Wacky Magic! 暴 走 する 魔 力 
+ 
+ English 
+That Wacky Magic! 
+ Chinese 
+ 失控的魔力 Check translation 
+ French 
+ Quelle Magie ! Check translation 
+ German 
+ Welch verrückte Magie! Check translation 
+ Italian 
+ Quella Bizzarra Magia! Check translation 
+ Korean 
+ 폭주하는 마력 Check translation 
+ Portuguese 
+ Magia Bizarra! Check translation 
+ Spanish 
+ ¡Esa Magia Loca! Check translation 
+ Japanese (kana) 
+ ぼうそうするまりょく Check translation 
+ Japanese (base) 
+ 暴走する魔力 Check translation 
+ Japanese ( rōmaji ) 
+Bōsō-suru Maryoku 
+ Japanese (translated) 
+Rampaging Magic Power 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 50427388 
+ Card effect types 
+ 
+ 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Banish  all  Spell Cards  from your  Graveyard ;  destroy  all  face-up   monsters  your opponent  controls  with  DEF  less than or equal to the number of Spell Cards you banished × 300. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Bannissez toutes les Cartes Magie depuis votre Cimetière ; détruisez tous les monstres face recto contrôlés par votre adversaire dont la DEF est inférieure ou égale au nombre de Cartes Magie que vous avez bannies x 300. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Verbanne alle Zauberkarten von deinem Friedhof; zerstöre alle offenen Monster, die dein Gegner kontrolliert und deren DEF kleiner oder gleich der Anzahl der Zauberkarten, die du verbannt hast, x 300 sind. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Bandisci  tutte le  Carte Magia  dal tuo  Cimitero ;  distruggi  tutti i  mostri   scoperti   controllati  dal tuo avversario con  DEF  pari o inferiore al numero di Carte Magia che hai bandito x 300. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Destierra todas las Cartas Mágicas en tu Cementerio; destruye todos los monstruos boca arriba que controle tu adversario con DEF menor o igual que la cantidad de Cartas Mágicas que desterraste x 300. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 自分の墓地の魔法カードを全てゲームから除外して発動できる。除外した魔法カードの数×３００ポイント以下の守備力を持つ、相手フィールド上に表側表示で存在するモンスターを全て破壊する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신 묘지의 마법 카드를 전부 게임에서 제외하고 발동할 수 있다. 제외한 마법 카드의 수 ｘ 300 포인트 이하의 수비력을 가진, 상대 필드 위에 앞면 표시로 존재하는 몬스터를 전부 파괴한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2012-04-28  
+ GAOV-EN063   
+ Galactic Overlord 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-FR063   
+ Galactic Overlord 
+ Le Seigneur de la Galaxie  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-DE063   
+ Galactic Overlord 
+ Galactic Overlord  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-IT063   
+ Galactic Overlord 
+ Sovrano Galattico  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-SP063   
+ Galactic Overlord 
+ Señor Supremo Galáctico  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2012-02-18  
+ GAOV-JP063   
+ Galactic Overlord 
+ ＧＡＬＡＣＴＩＣ ＯＶＥＲＬＯＲＤ  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2012-05-21  
+ GAOV-KR063   
+ Galactic Overlord 
+ 갤럭틱 오버로드  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your opponent's face-up Monster Cards 
+ 
+ Banished  categories  
+ Banishes from Graveyard for cost 
+ 
+ Miscellaneous  
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 10086 ( ja  ( rulings )   en   fr   de   it   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/7c/ThatWackyMagic-GAOV-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20120429212132', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,139 @@
+Link: https://yugioh.fandom.com/wiki/A.I._Shadow_(anime)
+
+Main card page: " A.I. Shadow " 
+ This card's written lore in the Japanese has not yet been transcribed; if you are able to read Japanese, please help out by adding an accurate Japanese lore from  this image  to this page. The current Japanese lore listed here is only a reconstruction and may not be fully correct.     
+ A.I. Shadow 
+ 
+ Japanese:   Ａｉ シャドー 
+ Kana:   アイ シャドー 
+ Romaji:   Ai Shadow 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Effect 
+ Trigger-like 
+ Trigger-like 
+ Condition 
+ When this card is  activated : You can  target  1 " @Ignister "  monster  you  control ; it gains 800  ATK  (until the end of this  turn ), and if this card was  activated  during your opponent's  turn , all your opponent's monsters must  attack  the targeted monster this turn, if able.  Once per turn , after  damage calculation , if your "@Ignister" monster  battled  an opponent's monster: You can  destroy  that opponent's monster. If this  face-up  card  leaves the field :  Draw  1 card. You can only use this  effect  of "A.I. Shadow" once per turn.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  109 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ Ａｉ  シャドー 
+ このカード名の③の効果は１ターンに１度しか使用できない。①：このカードの発動時に、自分フィールドの「＠イグニスター」モンスター１体を対象にできる。その場合、そのモンスターの攻撃力はターン終了時まで８００アップし、相手ターンにこのカードを発動する場合、このターン攻撃可能な相手モンスターはその対象のモンスターに攻撃しなければならない。②：１ターンに１度、自分の「＠イグニスター」モンスターが相手モンスターと戦闘を行ったダメージ計算後に発動できる。その相手モンスターを破壊する。③：表側表示のこのカードがフィールドから離れた場合に発動する。自分はデッキから１枚ドローする。 
+ 
+ 
+ Ai Shadow 
+ 
+ 
+ Decks 
+ 
+ 
+ Ai 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ A.I. 
+ 
+ Supports   archetypes   
+ @Ignister 
+ 
+ Actions  
+ Activates when it leaves the field 
+ You draw cards 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your opponent's face-up Monster Cards 
+ 
+ Attack  categories  
+ Must attack 
+ Manages attack targets 
+ 
+ Miscellaneous  
+ Limited activations 
+ Only once per turn 
+ 
+ 
+ 
+   " A.I. Shadow " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+" @Ignister " 「 ＠ イグニスター」 a   +   Members 
+ @Ignister Token Achichi @Ignister The Arrival Cyberse @Ignister Bururu @Ignister Dark Templar @Ignister Darkwight @Ignister Donyoribo @Ignister Doshin @Ignister Doyon @Ignister Earth Golem @Ignister Fire Phoenix @Ignister Gatchiri @Ignister Gussari @Ignister Hiyari @Ignister Light Dragon @Ignister Pikari @Ignister Water Leviathan @Ignister Wind Pegasus @Ignister 
+ Support 
+ A.I. Love Fusion A.I. Mine A.I. Shadow A.I.'s Hymn A.I.'s Ritual A.I.dle Reborn CompromA.I.se Dark Templar @Ignister Donyoribo @Ignister Doshin @Ignister Doyon @Ignister Earth Golem @Ignister FA.I.ghting Spirit Gatchiri @Ignister Gussari @Ignister Hiyari @Ignister Ignister A.I.Land Light Dragon @Ignister Linguriboh TA.I. Strike TA.I.med Technique Wind Pegasus @Ignister 
+ 
+ v e 
+" A.I. " 「 Ａｉ 」 a   m   Members 
+ A.I. A.I. Wall A.I. Contact A.I. Love Fusion A.I. Mine A.I. Shadow A.I.'s Hymn A.I.'s Ritual A.I.'s Show A.I.Q A.I.dle Reborn CompromA.I.se FA.I.ghting Spirit HA.I. Ignister A.I.Land TA.I. Strike TA.I.med Technique 
+ Support 
+ A.I.dle Reborn 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/d/da/AIShadow-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20190710152334', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Card pages with a lore in need of transcription, Anime cards

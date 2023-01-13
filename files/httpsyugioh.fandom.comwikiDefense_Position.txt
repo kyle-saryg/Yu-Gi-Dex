@@ -1,0 +1,577 @@
+Link: https://yugioh.fandom.com/wiki/Defense_Position
+
+
+ 
+ Defense Position
+ 
+ 
+ 
+ " Blue-Eyes White Dragon " in Defense Position.
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 守 備 表 示 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ しゅびひょうじ
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 守備表示
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Shubi Hyōji
+ 
+ 
+ 
+ Japanese (translated)
+ 
+ 
+ Defense Display
+ 
+ 
+ 
+ English
+ 
+ 
+ Defense Position
+ 
+ 
+ 
+ English (anime)
+ 
+ 
+ Defense Mode
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Position de Défense 
+ German : Verteidigungsposition 
+ Italian : Posizione di Difesa 
+ Portuguese : Posição de Defesa 
+ Spanish : Posición de Defensa 
+ Korean : 수비 표시 (守備形式)  Subi Pyosi 
+ Traditional Chinese : 守備表示  Shǒubèi Biǎoshì / Sau2 bei6 Biu2 si6 
+ Simplified Chinese : 守备表示  Shǒubèi Biǎoshì 
+ 
+ 
+ Defense Position  (Japanese:  守 備 表 示   Shubi Hyōji ; English-dubbed anime: Defense Mode) is a  Battle position  in which a  Monster Card  can be either  face-up  or  face-down , in a horizontal position. In this position, the  DEF  value is used to represent this card, except where a card effect requires a specific examination of the  ATK  value.
+ 
+ Contents 
+ 
+ 1   Rulings 
+ 
+ 1.1   Placement 
+ 
+ 1.1.1   Link Monster 
+ 
+ 
+ 1.2   In Battle 
+ 
+ 
+ 2   In the anime 
+ 
+ 
+ Rulings 
+ Placement 
+ In Defense Position, a Monster Card is always placed horizontally in its  Monster Card Zone , rotated 90 degrees counterclockwise from its  Attack Position  as seen by its owner. When a monster is  Set , it is played in  face-down  Defense Position.
+ Monsters cannot be  Normal Summoned  in  face-up  Defense Position, except by a card effect that allows them to be Summoned that way (such as " Light of Intervention "). During a battle involving a Defense Position monster, the DEF value of  that  monster is used to calculate  Battle damage , rather than the ATK value.
+ 
+ Link Monster 
+ Main article:  Link Monster 
+ As  Link Monsters  do not have DEF, they cannot be Summoned in and/or changed to Defense Position.
+ 
+ In Battle 
+ See also:  Defense Position attacker 
+ Usually, Defense Position monsters cannot attack, but some monsters such as " Elemental HERO Rampart Blaster " and " Total Defense Shogun " have effects that allow them to attack while in Defense Position. In that case, they will still use their ATK for Damage Calculation. Some " Superheavy Samurai " monsters can attack in Defense Position, but apply their DEF instead of their ATK as their ATK during damage calculation. 
+ 
+ Main articles:  Damage calculation  and  Piercing 
+ If a Defense Position monster is attacked, the attacked player will take no damage. However, there are cards that inflict  piercing  damage, which lets a monster inflict damage in this way. If the attacker has lower ATK than the DEF of the attack target, the attacker takes Battle Damage, but neither monster is destroyed. If the attacker's ATK is equal to the target's DEF, neither player takes Battle Damage and neither monster is destroyed.
+ 
+ In the anime 
+ In the earlier anime, a player is able to, and usually does, Normal Summon their monsters in face-up Defense Position without the aid of card effects; if a monster were to be  Set , it typically had a  flip effect . Starting from  Yu-Gi-Oh! ZEXAL , this is no longer true, the rules aligned with the  TCG/OCG  and as such ,  a player must either Normal Summon a monster in face-up Attack Position or Set it in face-down Defense Position.
+ Also, the materialized Monster Cards in face-up Defense Position have their said position illustrated; in  Yu-Gi-Oh!  and  Yu-Gi-Oh! GX  the monsters will crouch into a defensive pose above an enlarged likeness of the actual card placed in the conventional Defense Position. In  Yu-Gi-Oh! 5D's , they become blue-colored. In  Yu-Gi-Oh! ZEXAL , the monsters return to simple defensive poses. In  Yu-Gi-Oh! ARC-V , they glow with a blue aura. In  Yu-Gi-Oh! VRAINS , the monster's appearance remains unchanged regardless of battle position.
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/15/BlueEyesWhiteDragon-JMP-NA-UR-UE-Defense.png/revision/latest/scale-to-width-down/250?cb=20081215225531']
+Categories: Gameplay

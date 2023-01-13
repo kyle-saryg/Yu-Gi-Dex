@@ -1,0 +1,277 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_The_Sacred_Cards
+
+
+ 
+ Yu-Gi-Oh! The Sacred Cards 
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh! The Sacred Cards 
+ 
+ 
+ English  
+ Yu-Gi-Oh! The Sacred Cards 
+ 
+ 
+ Italian  
+ Yu-Gi-Oh! Le Carte Leggendarie 
+ 
+ 
+ Spanish  
+ Yu-Gi-Oh! Las Cartas Sagradas 
+ 
+ 
+ Kanji  
+ 遊戯王デュエルモンスターズ７  決闘都市伝説 
+ 
+ 
+ Japanese translated  
+ Yu-Gi-Oh! Duel Monsters 7: The Duelcity Legend 
+ 
+ 
+ Developer(s) 
+ Konami 
+ 
+ 
+ Publisher(s) 
+ Konami 
+ 
+ 
+ Platform(s) 
+ Game Boy Advance 
+ 
+ 
+ Release date(s) 
+  July 4, 2002  November 4, 2003  February 6, 2004 
+ 
+ 
+ Genre 
+ Strategy Trading Card RPG 
+ 
+ 
+ Ratings 
+ E 
+ 
+ 
+ 
+           
+ Yu-Gi-Oh! The Sacred Cards  known as  Yu-Gi-Oh! Duel Monsters 7: The Duelcity Legend  in Japan, is an RPG-style game for the Game Boy Advance.
+ The story of the game loosely followed the Battle City story arc of the anime and manga, with adjustments to allow the player to act the part of a major character and participate all the way into the Battle City Finals.
+ One important thing to note is that the game automatically cuts to the ending sequence immediately after the defeat of  Marik Ishtar , with no option to save. Because of this, any money or rare cards earned in the final duel are irrelevant, and the player never has an opportunity to use  The Winged Dragon of Ra  without the use of a game-hacking device. The only way to do this normally is to allow Marik to Summon Ra and destroy it (or somehow discard it from the hand), then Special Summon it from the graveyard. Also noticeable that even in the English version of the game, most of the cards have their original OCG artworks like  Soul of the Pure ,  Monster Reborn  and  Last Day of Witch .
+ A Konami 'cameo' in this game is the Miracle Moon music in the arcade, which is taken from the  Beatmania  series of games.
+ 
+ Contents 
+ 
+ 1   Storyline 
+ 2   Gameplay 
+ 
+ 2.1   Format 
+ 2.2   Duels 
+ 2.3   Deck Building 
+ 
+ 
+ 3   Cards 
+ 
+ 3.1   Video game-only cards 
+ 3.2   Promotional cards 
+ 
+ 3.2.1   International 
+ 3.2.2   Japanese 
+ 
+ 
+ 
+ 
+ 4   Game Guides 
+ 5   Reception 
+ 6   Gallery 
+ 7   External links 
+ 
+ 
+ Storyline 
+ The game starts when the player and his two friends,  Yugi Muto  and  Joey Wheeler  are preparing for the  Duel Monsters   Battle City  tournament. In order to win the tournament, the player must obtain six  Locator Cards  which are received after beating certain duelists. After all of the locators are obtained, the player is entered into the finals.
+ A mysterious person named  Marik  has a gang of card thieves, known as  the Ghouls , which he is using to obtain the three  Egyptian God Cards  to bring the world to darkness.  Marik 's Rare Hunters eventually take over the whole city. Even the owner of the card shop works for Marik and tries to kill the player. Then, the player meets  Ishizu Ishtar , who challenges them to a game of Duel Monsters, to see if he is strong enough to wield an Egyptian God Card. After she is beaten, the player must beat  Seto Kaiba , the person that organized the tournament, in order to obtain the first God card.
+ After the player gets into the finals which take place on a blimp, he duels Marik. After Marik is beaten, it is found out that it was not really Marik. It was actually one of Marik's servants. The real Marik was the person the player met earlier in the game that became one of Yugi's friends: Namu. Then, Marik starts stealing the souls of those he beats. After Marik defeats Kaiba, the player must challenge Yugi. After Yugi is beaten, the player must face Marik. The game can't be saved after beaten so once the game is beaten, you will restart at the last save point.
+ 
+ Gameplay 
+ Format 
+ The mechanics of this game are a much simplified version of the OCG/TCG rules. This game plays differently from the OCG/TCG, because it is based on the prototype rules that were originally being considered when the card game was first being transferred over from the manga.
+ The need for  Polymerization  to perform  Fusion Summons  is eliminated.  Ritual Magic Cards  require specific  tributes  (for example, if you activate  Black Illusion Ritual , a  Dark-Eyes Illusionist  is needed). The effects of most cards are different (eg.  Jinzo  destroys  traps  rather than negating them). Some  Effect Monsters  are treated as Normals or vice versa (eg.  Cyber Jar  and  Mystical Elf ).
+ Some types of cards are different (e.g.  Spellbinding Circle  and  Crush Card  are magic). You can't fuse most monsters, so Fusion Monsters are treated as Normal/Effect Monsters. For example,  Flame Swordsman  is an Effect Monster. However, if a special ability allows it, you can still fuse certain monsters. For instance,  Alpha ,  Beta  and  Gamma  can fuse to form  Valkyrion the Magna Warrior .
+ The  Petit Moth  line are unique, as they aren't treated as Effect Monsters, but they will evolve into their later stages of evolution at the start of each of the player's turns.
+ After an  Equip Spell  is equipped to a monster, the equip card doesn't stay face-up on the field. The card instead disappears and the monster permanently gains 500 ATK.
+ There is no  Fusion Deck  or  Banished  Zone.
+ 
+ Duels 
+ Dueling partially resembles the real-life game mechanics, albeit with some elements that make it resemble Duelist Kingdom rules.
+ 
+ Monster  Attributes  (referred to in-game as "Summons") are another factor to determining which monster wins a battle. The superior Attribute will always win a battle, regardless of whether its host monster has lower stats than the other, and which battle position it is in. Any battle damage the controller of the losing Attribute monster would take is dealt normally. 2 cycles of Attributes are as follows: 
+ Shadow  →  Light  →  Fiend  →  Dream  → Shadow 
+ Pyro  →  Forest  →  Wind  →  Earth  →  Thunder  →  Aqua  → Pyro 
+ A Divine Attribute exists, meaning monsters of that Attribute are unaffected by these Attribute cycles and must be destroyed either by card effects or in stat-based battle. 
+ Monster Effects must be activated manually, and only while the monster is face-down. Monsters are face-down when first played from the hand, and turn face-up if left in Attack Position at the end of the turn. 
+ Ritual Monsters can be Normal Summoned like other monsters. Ritual Spells also exist, but Ritual Summons work slightly differently. 
+ If the Ritual Spell specifies a certain monster, you must control that monster, manually Tribute 2 other monsters you control, then activate the Ritual Spell. The specified monster will then be transformed into the Ritual Monster of interest. 
+ Fusion Monsters do not exist. 
+ Trap Cards activate automatically if the conditions are met. The player has no control over whether to activate a Trap Card or not. 
+ The only accessible monsters in the Graveyards (for purposes like  Monster Reborn , etc) is the most recent one sent there. In cases of multiple monsters being destroyed (e.g.  Raigeki ), the monster in the right-most zone will be the only one available. 
+ Field Cards give a +30% or -30% stat boost dependent on the monster's Type. No Field Spell Zone is available - playing a field-altering Spell Card will change the background to reflect this. 
+ "Power up" and "power down" comes in the form of ATK/DEF boosts in increments of 500. An effect that, for example, says "power up twice", would boost ATK and DEF by 1000. 
+ The maximum hand capacity is 5 cards. If a player's hand is already at 5 cards, they do not draw cards. Cards can be freely discarded from hand or field at will, however, if space is needed. 
+ Many monster and card effects are altered. Real-life Effect monsters may be Normal Monsters instead (e.g.  Man-Eater Bug ), while some other Normal Monsters can gain effects in this game. 
+ The Ante Rule applies for all Duels. If you ante a card and win the Duel, you receive a random card from the opponent, usually something from the Deck they use. Losing the Duel will only lose that card you offered. Choosing not to ante means you do not receive a bonus card. 
+ There are no flip effects. 
+ There are no phases (subsections of a turn). Therefore, you can do actions at anytime during your turn. 
+ You can choose where to place a card on the field. For example, you can summon a monster on the far right side of the field. 
+ When you summon a monster, it is placed on the field in attack mode. You can leave it in that position or switch it to defense mode. 
+ You can only Normal Summon 1 monster per turn. 
+ You can Special Summon multiple monsters per turn. 
+ You can place up to 5 monsters on the field per duel. 
+ You can only give one command to each monster on your field per turn. For example, if you activate a monster's temporary ability, you can't attack with the monster that turn. 
+ When you activate a monster's temporary ability, the monster is changed to face-up attack mode, regardless of its previous position. 
+ If monsters have an 'E' mark on the field, you can't change positions, declare attacks, activate temporary abilities and/or sacrifice with them. 
+ A monster's ATK/DEF can be reduced even if it's face-down. 
+ Deck Building 
+ Two factors dictating deck building are Duelist Level and Deck Capacity. Every card has a Deck Cost associated with it. To use a card, a player's Duelist Level must be equal to or higher than the card's cost. This cost also determines how much Deck Capacity the card occupies, and all the cards in the player's Deck must be equal to or less than the Deck Capacity available to the player. A Deck must have exactly 40 cards.
+ Deck Capacity is increased by winning Duels. Every 3 Deck Capacity increase or so grants you 1 Duelist Level increase.
+ 
+ Cards 
+ Main article:  List of Yu-Gi-Oh! The Sacred Cards cards 
+ See also:  Gallery of Yu-Gi-Oh! The Sacred Cards cards 
+ Video game-only cards 
+ At the time of its release,  Yu-Gi-Oh! The Sacred Cards  featured 26 cards that did not have an  OCG / TCG  version.
+ 
+ 
+ Cards Monsters   
+ Monsters 
+ Steel Fan Fighter 
+ Leopard Girl 
+ Mask of Shine & Dark 
+ Psycho-Puppet 
+ Soldier Ari 
+ Talons of Shurilane 
+ Space Megatron 
+ Gate Sword 
+ Aqua Serpent 
+ Doll of Demise Spells   &  Traps   
+ Spells 
+ Puppet Ritual 
+ Contract of Mask 
+ Cosmo Queen's Prayer 
+ Cursebreaker 
+ Revival of Sennen Genjin 
+ Revived Serpent Night Dragon 
+ Curse of Tri-Horned Dragon 
+ Gate Guardian Ritual 
+ Ultimate Dragon 
+ Curse of Millennium Shield 
+ Yamadron Ritual 
+ Beckon to Darkness 
+ Winged Trumpeter 
+ Traps 
+ Bear Trap 
+ Invisible Wire 
+ Promotional cards 
+ International 
+ Main article:  Yu-Gi-Oh! The Sacred Cards promotional cards 
+ Japanese 
+ Main article:  Yu-Gi-Oh! Duel Monsters 7: The Duel City Legend promotional cards 
+ Game Guides 
+ Main articles:  Yu-Gi-Oh! Duel Monsters 7: The Duel City Legend Game Guide 1  and  Yu-Gi-Oh! Duel Monsters 7: The Duel City Legend Game Guide 2 
+ Reception 
+ Yu-Gi-Oh! The Sacred Cards  received mediocre reviews with an average of 58% on Game Rankings.  (1)  It was criticized for its shortness. 
+ The game sold nearly 1 million units, with 750,000 copies in the United States (2)  and over 238,000 in Japan,  (3)  and received a sequel,  Yu-Gi-Oh! Reshef of Destruction .
+ 
+ Gallery 
+ North American English cover French cover Japanese cover 
+ External links 
+ The Spriters Resource page 
+ v e 
+ Video games Duel Monsters 
+ Duel Monsters 
+ II: Dark duel Stories 
+ Dark Duel Stories  ( III: Tri-Holy God Advent ) 
+ 4: Battle of Great Duelist 
+ The Eternal Duelist Soul  ( 5 Expert 1 ) 
+ 6 Expert 2 
+ The Sacred Cards  ( 7: The Duelcity Legend ) 
+ Reshef of Destruction  ( 8: Reshef of Destruction ) 
+ Worldwide Edition: Stairway to the Destined Duel  ( International ) 
+ Online 
+ Online 
+ Duel Evolution 
+ 3: Duel Accelerator 
+ Power of Chaos 
+ Yugi the Destiny 
+ Kaiba the Revenge 
+ Joey the Passion 
+ Tag Force 
+ GX 1 
+ GX 2 
+ GX Evolution  ( GX The Beginning of Destiny ) 
+ GX 3 
+ 5D's 4 
+ 5D's 5 
+ 5D's 6 
+ ARC-V Special 
+ True Duel Monsters 
+ Forbidden Memories  ( Sealed Memories ) 
+ The Duelists of the Roses  ( 2: Succeeded Memories ) 
+ World Championship 
+ Tournament 2004  ( Duel Monsters Expert 3 ) 
+ 7 Trials to Glory: Tournament 2005   ( Day of the Duelist: Tournament 2005  /   Duel Monsters International 2 ) 
+ Ultimate Masters: Tournament 2006  ( Duel Monsters Expert 2006 ) 
+ 2007 
+ 2008 
+ 5D's 2009: Stardust Accelerator 
+ 5D's 2010: Reverse of Arcadia 
+ 5D's 2011: Over the Nexus 
+ Browser, PC, or mobile 
+ 5D's Mobile 
+ BAM 
+ Pocket 
+ Duel Arena 
+ Duel Generation 
+ Duel Links 
+ Cross Duel 
+ Other handheld 
+ Monster Capsule GB 
+ Dungeon Dice Monsters 
+ Destiny Board Traveler  ( Sugoroku no Sugoroku ) 
+ Nightmare Troubadour 
+ GX Duel Academy  ( GX Mezase Duel King! ) 
+ Double Pack 
+ 2 
+ GX Spirit Caller  ( GX Spirit Summoner ) 
+ GX Card Almanac 
+ ZEXAL World Duel Carnival 
+ Saikyo Card Battle 
+ Other console 
+ Monster Capsule: Breed and Battle 
+ The Falsebound Kingdom 
+ The Dawn of Destiny 
+ Capsule Monster Coliseum 
+ 5D's Wheelie Breakers 
+ 5D's Decade Duels 
+ Plus 
+ 5D's Duel Transer  ( 5D's Master of the Cards ) 
+ Millennium Duels 
+ Rush Duel 
+ Multi-Platform games 
+ Legacy of the Duelist 
+ Legacy of the Duelist: Link Evolution 
+ Master Duel 
+ Other 
+ Multi-Master 
+ Duel Terminal 
+ Duel Dash 
+ 
+ {{ Game guides }} 
+ {{ Video game promotional cards }} 
+ {{ Game guide promotional cards }} 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a9/TSC-VideoGameEN.jpg/revision/latest/scale-to-width-down/350?cb=20100604141716', 'https://static.wikia.nocookie.net/yugioh/images/9/9e/Flag_of_Japan.svg/revision/latest/scale-to-width-down/20?cb=20081119225453', 'https://static.wikia.nocookie.net/yugioh/images/a/a4/Flag_of_the_United_States.svg/revision/latest/scale-to-width-down/20?cb=20081119225336', 'https://static.wikia.nocookie.net/yugioh/images/b/b7/Flag_of_Europe.svg/revision/latest/scale-to-width-down/20?cb=20081120211606', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/cb/You_can_walk_in_domino_city_and_you_can_duel_new_rivals.jpg/revision/latest/scale-to-width-down/258?cb=20090704145306', 'https://static.wikia.nocookie.net/yugioh/images/a/a9/TSC-VideoGameEN.jpg/revision/latest/scale-to-width-down/185?cb=20100604141716', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1c/TSC-VideoGameFR.jpg/revision/latest/scale-to-width-down/185?cb=20150605134751', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/5a/DM7-Box-JP.jpg/revision/latest/scale-to-width-down/185?cb=20100926104202', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Yu-Gi-Oh! The Sacred Cards, Video games

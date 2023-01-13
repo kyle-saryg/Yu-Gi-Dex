@@ -1,0 +1,163 @@
+Link: https://yugioh.fandom.com/wiki/Update_Jammer_(anime)
+
+Main card page: " Update Jammer " 
+ Update Jammer 
+ 
+ Japanese:   アップデートジャマー 
+ Romaji:   Appudēto Jamā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   WIND 
+ 
+ Link Arrows 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Left ,  Top 
+ Material 
+ 
+ 
+ 
+ 2  Level  2 or higher  Cyberse   monsters 
+ 
+ [  Cyberse  /  Link  /  Effect  ] 
+ 2  Level  2 or higher  Cyberse   monsters 
+ If a Cyberse monster you control battles: You can negate the effects of all other face-up cards currently on the field, also the battling monster's ATK and DEF become equal to its original ATK and DEF until the end of the Damage Step. Then, if a monster you control destroys an opponent's monster by battle and sends it to the Graveyard: Inflict 1000 damage to your opponent. If this card is sent to the GY as Link Material for the Link Summon: During this turn, that monster can make up to 2 attacks on monsters during each Battle Phase.
+ ATK  /  2000     LINK  –  2   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  057 ,  058 ,  065 ,  081 ,  117 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ アップデートジャマー 
+ 
+ レベル２以上のサイバース族モンスター２体
+ 
+ ①：自分のサイバース族モンスターが戦闘を行うダメージ計算時に発動できる。ダメージステップ終了時まで、このカード以外のフィールドのカードの効果は無効化され、その戦闘を行うモンスターの攻撃力・守備力はそのダメージ計算時のみ元々の数値になる。その戦闘で自分のモンスターが相手モンスターを破壊し墓地へ送った場合、相手に１０００ダメージを与える。②：このカードがリンク素材として墓地へ送られた場合に発動できる。このターン、そのリンクモンスターは１度のバトルフェイズ中に２回攻撃できる。 
+ 
+ 
+ Appudēto Jamā 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Cyberse 
+ Link Monster 
+ 
+ Actions  
+ Activates when it destroys a monster by battle 
+ Activates from your Graveyard 
+ Activates if used as Link Material 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of Effect Monsters 
+ Negates the effects of Spell Cards 
+ Negates the effects of Trap Cards 
+ 
+ Summoning  categories  
+ 2 Link Materials 
+ Requires Level specific Link Materials 
+ Requires Type specific Link Materials 
+ 
+ Attack  categories  
+ Allows multiple attacks 
+ 
+ LP   
+ Damages your opponent 
+ 
+ 
+ 
+   " Update Jammer " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/b4/UpdateJammer-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180704135547', 'https://static.wikia.nocookie.net/yugioh/images/0/01/WIND.svg/revision/latest/scale-to-width-down/28?cb=20170920205028', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/55/UpdateJammer-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/157?cb=20180620131122', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

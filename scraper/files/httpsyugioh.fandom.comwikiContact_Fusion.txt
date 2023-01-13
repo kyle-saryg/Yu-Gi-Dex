@@ -1,0 +1,569 @@
+Link: https://yugioh.fandom.com/wiki/Contact_Fusion
+
+
+ 
+ Contact Fusion
+ 
+ 
+ 
+ "Elemental HERO Neos" performing a Contact Fusion in the artwork of "Miracle Contact"
+ 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ コンタクトゆうごう
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ コンタクト 融 合 
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Kontakuto Yūgō
+ 
+ 
+ 
+ English
+ 
+ 
+ Contact Fusion
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Contact Fusion 
+ German : Kontaktfusion 
+ Italian : Fusione Contatto 
+ Portuguese : Fusão de Contato 
+ Spanish : Fusión de Contacto 
+ Korean : 콘택트 융합 (Contact 融合)  Kontaekteu Yunghap 
+ 
+ 
+ You do not use " Polymerization ".
+ 
+ Contact Fusion  (コンタクト 融 合   Kontakuto Yūgō ) is a semi-official term which means to  Special Summon  a  Fusion Monster  with its own Summoning procedure, instead of requiring " Polymerization " or card effects. [1] 
+ 
+ Contents 
+ 
+ 1   General rules 
+ 2   History 
+ 3   Anime 
+ 4   All "Contact Fusion" cards 
+ 
+ 4.1   OCG/TCG 
+ 4.2   Anime 
+ 4.3   Manga 
+ 
+ 
+ 5   References 
+ 
+ 
+ General rules 
+ Contact Fusion is not a  Fusion Summon , and instead is a built-in Special Summon (like  Synchro Summon ,  Xyz Summon  and  Link Summon ).
+ Attempting to Special Summon via Contact Fusion opens the  Summon negation window  and does not start a  Chain . 
+ Fusion Substitute Monsters  cannot be used for Contact Fusion. 
+ All  Fusion Materials  involved in the Special Summon must be on the player's field, unless stated otherwise as per card effects.
+ The Fusion Materials used are then removed from the field via either  banishing them ,  returning them to the Deck ,  sending them to the Graveyard , or  Tributing them . 
+ If using a face-down monster as a Fusion Material for a Contact Fusion that returns it to the Deck, the player conducting the Summon must  reveal  that monster before shuffling it into the Deck to allow your opponent to verify the card's identity.
+ This is redundant for Contact Fusions conducted via  banishing , sending to the  Graveyard , or  Tributing , as their Fusion Materials can be publicly verified afterwards. 
+ Much like all  Extra Deck  monsters, most Fusion Monsters that use Contact Fusion can be Special Summoned from the Graveyard or while Banished, as long as they were successfully Special Summoned from the Extra Deck via Contact Fusion first.
+ Like all Extra Deck monsters, this does not apply if the monster is returned to the Extra Deck; in that case, the monster must be Special Summoned via Contact Fusion again. 
+ History 
+       " Gladiator Beast Gyzarus ", a monster that must first be Special Summoned via Contact Fusion     
+ The first instances of this Summon were in the original  Yu-Gi-Oh!  manga , where specific monsters could be fused into a Fusion Monster without the use of " Polymerization ". The first monster that was Summoned in this manner was " Valkyrion the Magna Warrior ". Unlike Fusion by "Polymerization", monsters created by this method could attack in the same turn they were created. 
+ This term was first widely introduced in  Power of the Duelist , and was originally a term from the  Yu-Gi-Oh! GX  anime used to describe the Special Summoning method of the " Neos " Fusion Monsters, which are Summoned by shuffling their Fusion Material Monsters from the field into the Deck. This term was later applied to the " Gladiator Beast " Fusion Monsters by players, as those monsters Special Summon themselves via the same method.
+ The term has never appeared in the  rulebook  or any  card effect  text, but it does appear in the flavor text of " Elemental HERO Neos " and is often used in rulings.
+ This Special Summon can be considered to be a precursor to  Synchro Summoning  and  Xyz Summoning , as it only requires the proper monsters on the field and the appropriate monster in the  Extra Deck , without the need of a  Spell Card  (as used in most  Ritual Summons  and Fusion Summons).
+ 
+ 
+ Anime 
+ Contact Fusion in  Yu-Gi-Oh! Duel Monsters ... in  Yu-Gi-Oh! GX ... in  Yu-Gi-Oh! ARC-V 
+ ... in  Yu-Gi-Oh! The Movie: Pyramid of Light 
+ All "Contact Fusion" cards 
+ OCG/TCG 
+   Japanese name Secondary type Attribute Type Level /  Rank ATK DEF A-to-Z-Dragon Buster Cannon ＡｔｏＺ－ドラゴン・バスターキャノン LIGHT Machine 10 4000 4000 ABC-Dragon Buster ＡＢＣ－ドラゴン・バスター LIGHT Machine 8 3000 2800 Alba-Lenatus the Abyss Dragon 深淵竜アルバ・レナトゥス DARK Dragon 8 2500 2500 Armed Dragon Catapult Cannon アームド・ドラゴン・カタパルトキャノン LIGHT Machine 10 3500 3000 Armityle the Chaos Phantasm 混沌幻魔アーミタイル DARK Fiend 12 0 0 Beast-Eyes Pendulum Dragon ビーストアイズ・ペンデュラム・ドラゴン EARTH Dragon 8 3000 2000 Blue-Eyes Twin Burst Dragon 青眼の双爆裂龍 LIGHT Dragon 10 3000 2500 Blue-Eyes Tyrant Dragon ブルーアイズ・タイラント・ドラゴン LIGHT Dragon 8 3400 2900 Chimeratech Fortress Dragon キメラテック・フォートレス・ドラゴン DARK Machine 8 0 0 Chimeratech Megafleet Dragon キメラテック・メガフリート・ドラゴン DARK Machine 10 0 0 Dinoster Power, the Mighty Dracoslayer 剛竜剣士ダイナスターＰ WATER Dragon 8 2000 2950 Egyptian God Slime 神・スライム WATER Aqua 10 3000 3000 Elder Entity N'tss 旧神ヌトス LIGHT Fairy 4 2500 1200 Elemental HERO Air Neos Ｅ・ＨＥＲＯ エアー・ネオス WIND Warrior 7 2500 2000 Elemental HERO Aqua Neos Ｅ・ＨＥＲＯ アクア・ネオス WATER Warrior 7 2500 2000 Elemental HERO Chaos Neos Ｅ・ＨＥＲＯ カオス・ネオス DARK Warrior 9 3000 2500 Elemental HERO Cosmo Neos Ｅ・ＨＥＲＯ コスモ・ネオス LIGHT Warrior 11 3500 3000 Elemental HERO Dark Neos Ｅ・ＨＥＲＯ ブラック・ネオス DARK Warrior 7 2500 2000 Elemental HERO Flare Neos Ｅ・ＨＥＲＯ フレア・ネオス FIRE Warrior 7 2500 2000 Elemental HERO Glow Neos Ｅ・ＨＥＲＯ グロー・ネオス LIGHT Warrior 7 2500 2000 Elemental HERO Grand Neos Ｅ・ＨＥＲＯ グラン・ネオス EARTH Warrior 7 2500 2000 Elemental HERO Magma Neos Ｅ・ＨＥＲＯ マグマ・ネオス FIRE Warrior 9 3000 2500 Elemental HERO Marine Neos Ｅ・ＨＥＲＯ マリン・ネオス WATER Warrior 8 2800 2300 Elemental HERO Nebula Neos Ｅ・ＨＥＲＯ ネビュラ・ネオス EARTH Warrior 9 3000 2500 Elemental HERO Storm Neos Ｅ・ＨＥＲＯ ストーム・ネオス WIND Warrior 9 3000 2500 Gladiator Beast Andabata 剣闘獣アンダバタエ DARK Beast-Warrior 8 1000 2800 Gladiator Beast Domitianus 剣闘獣ドミティアノス DARK Sea Serpent 10 3500 1200 Gladiator Beast Essedarii 剣闘獣エセダリ EARTH Beast 5 2500 1400 Gladiator Beast Gaiodiaz 剣闘獣ゲオルディアス DARK Dinosaur 7 2600 1500 Gladiator Beast Gyzarus 剣闘獣ガイザレス DARK Winged Beast 6 2400 1500 Gladiator Beast Heraklinos 剣闘獣ヘラクレイノス FIRE Beast-Warrior 8 3000 2800 Gladiator Beast Nerokius 剣闘獣ネロキウス DARK Winged Beast 8 2800 1900 Gladiator Beast Tamer Editor 剣闘獣総監エーディトル DARK Beast-Warrior 8 2400 3000 Meizen the Battle Ninja 戎の忍者－冥禪 DARK Warrior 6 2500 1500 Perfect Great Insect 完全態・グレート・インセクト EARTH Insect 9 3000 2600 Rainbow Overdragon 究極宝玉神 レインボー・オーバー・ドラゴン LIGHT Dragon 12 4000 0 Ritual Beast Ulti-Apelio 聖霊獣騎 アペライオ WIND Pyro 6 2600 400 Ritual Beast Ulti-Cannahawk 聖霊獣騎 カンナホーク WIND Thunder 6 1400 1600 Ritual Beast Ulti-Gaiapelio 聖霊獣騎 ガイアペライオ LIGHT Psychic 10 3200 2100 Ritual Beast Ulti-Pettlephin 聖霊獣騎 ペトルフィン WIND Aqua 6 200 2800 Secret Six Samurai - Rihan 影六武衆－リハン LIGHT Warrior 5 2400 2400 Supreme King Dragon Starving Venom 覇王眷竜スターヴ・ヴェノム DARK Dragon 8 2800 2000 Thunder Dragon Colossus 超雷龍－サンダー・ドラゴン DARK Thunder 8 2600 2400 Thunder Dragon Titan 雷神龍－サンダー・ドラゴン LIGHT Thunder 10 3200 3200 Timaeus the Knight of Destiny 合神竜ティマイオス LIGHT Warrior 10 ? ? Trishula, the Dragon of Icy Imprisonment 氷獄龍 トリシューラ WATER Dragon 9 2700 2000 Ultimate Crystal Rainbow Dragon Overdrive 究極宝玉神 レインボー・ドラゴン オーバー・ドライブ LIGHT Dragon 12 4000 0 VW-Tiger Catapult ＶＷ－タイガー・カタパルト LIGHT Machine 6 2000 2100 VWXYZ-Dragon Catapult Cannon ＶＷＸＹＺ－ドラゴン・カタパルトキャノン LIGHT Machine 8 3000 2800 Vaylantz of the Wireframe Abyss - Arctus XII 針淵のヴァリアンツ－アルクトスＸＩＩ EARTH Fairy 12 3000 3000 ... further results (6 more) 
+ Anime 
+   Japanese name Secondary type Attribute Type Level /  Rank ATK DEF Assault Cannon Beetle アサルト・キャノン・ビートル EARTH Machine 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 2400 Elemental Hero Air Neos Ｅ・ＨＥＲＯ エアー・ネオス WIND Warrior 0 0 0 7 0 0 0 0 0 ??? 0 0 0 0 2500 Elemental Hero Aqua Neos Ｅ・ＨＥＲＯ アクア・ネオス WATER Warrior 0 0 0 7 0 0 0 0 0 ??? 0 0 0 0 2500 Elemental Hero Chaos Neos Ｅ・ＨＥＲＯ カオス・ネオス DARK Warrior 0 0 0 9 0 0 0 0 0 ??? 0 0 0 0 3000 Elemental Hero Dark Neos Ｅ・ＨＥＲＯ ブラック・ネオス DARK Warrior 0 0 0 7 0 0 0 0 0 ??? 0 0 0 0 2500 Elemental Hero Divine Neos Ｅ・ＨＥＲＯ ゴッド・ネオス LIGHT Warrior 0 0 12 0 0 0 0 0 ??? 0 0 0 0 3000 Elemental Hero Flare Neos Ｅ・ＨＥＲＯ フレア・ネオス FIRE Warrior 0 0 0 7 0 0 0 0 0 ??? 0 0 0 0 2500 Elemental Hero Glow Neos Ｅ・ＨＥＲＯ グロー・ネオス LIGHT Warrior 0 0 0 7 0 0 0 0 0 ??? 0 0 0 0 2500 Elemental Hero Grand Neos Ｅ・ＨＥＲＯ グラン・ネオス EARTH Warrior 0 0 0 7 0 0 0 0 0 ??? 0 0 0 0 2500 Elemental Hero Magma Neos Ｅ・ＨＥＲＯ マグマ・ネオス FIRE Warrior 0 0 0 9 0 0 0 0 0 ??? 0 0 0 0 3000 Elemental Hero Marine Neos Ｅ・ＨＥＲＯ マリン・ネオス WATER Warrior 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 2800 Elemental Hero Storm Neos Ｅ・ＨＥＲＯ ストーム・ネオス WIND Warrior 0 0 0 9 0 0 0 0 0 ??? 0 0 0 0 3000 Gladiator Beast Andabata 剣闘獣アンダバタエ DARK Beast-Warrior 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 1000 Gladiator Beast Gyzarus 剣闘獣ガイザレス DARK Winged Beast 0 0 0 6 0 0 0 0 0 ??? 0 0 0 0 2400 Gladiator Beast Tamer Editor 剣闘獣総監エーディトル DARK Beast-Warrior 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 2400 Timaeus the Knight of Destiny 合神竜ティマイオス ??? VW-Tiger Catapult ＶＷ－タイガー・カタパルト LIGHT Machine 0 0 0 6 0 0 0 0 0 ??? 0 0 0 0 2000 VWXYZ-Dragon Catapult Cannon ＶＷＸＹＺ－ドラゴン・カタパルトキャノン LIGHT Machine 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 3000 XY-Dragon Cannon ＸＹ－ドラゴン・キャノン LIGHT Machine 0 0 0 6 0 0 0 0 0 ??? 0 0 0 0 2200 XYZ-Dragon Cannon ＸＹＺ－ドラゴン・キャノン LIGHT Machine 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 2800 
+ Manga 
+   Japanese name Secondary type Attribute Type Level /  Rank ATK DEF Solidroid α ソリッドロイドα ??? 0 0 0 7 0 0 0 0 2600 0 0 0 0 1800 Solidroid β ソリッドロイドβ ??? 0 0 0 7 0 0 0 0 2500 0 0 0 0 1900 Solidroid γ ソリッドロイドγ ??? 0 0 0 7 0 0 0 0 2700 0 0 0 0 2000 
+ References 
+ 
+ ↑   Taketa, Gregory.  "Special Summons – Spotting the Different Kinds" . Konami.com .  https://yugiohblog.konami.com/articles/?p=1099 . 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/34/MiracleContact-GX06-EN-VG.png/revision/latest/scale-to-width-down/300?cb=20170216100237', 'https://static.wikia.nocookie.net/yugioh/images/8/81/GladiatorBeastGyzarus-PGL2-EN-GUR-1E.png/revision/latest/scale-to-width-down/200?cb=20150320144332', 'https://static.wikia.nocookie.net/yugioh/images/5/51/DM_Contact_Fusion.gif/revision/latest/scale-to-width-down/185?cb=20180602020155', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1d/GX_Contact_Fusion.gif/revision/latest/scale-to-width-down/185?cb=20180602015611', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/16/ARC-V_Contact_Fusion.gif/revision/latest/scale-to-width-down/185?cb=20180602015600', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/30/2004_Contact_Fusion.gif/revision/latest/scale-to-width-down/185?cb=20180602015623', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Types of Summon, Cards by effect properties

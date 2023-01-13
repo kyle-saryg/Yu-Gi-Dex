@@ -1,0 +1,122 @@
+Link: https://yugioh.fandom.com/wiki/Restraining_Sword_of_Impact
+
+
+ Restraining Sword of Impact 
+ 
+ Japanese:   衝撃の拘束剣 
+ Kana:   しょうげきのこうそくけん 
+ Romaji:   Shōgeki no Kōsokuken 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Cost 
+ Effect 
+ Continuous-like 
+ Continuous-like 
+ Continuous-like 
+ During the  Battle Phase :  Activate  this card from your  hand  by  sending  all other cards from your hand to the  Graveyard ; end the Battle Phase.  Monsters  cannot  attack , also any  effect damage  becomes 0.  Destroy  this card during your opponent's Nth  End Phase  after this card's activation (N = number of cards sent to the Graveyard when this card was activated). If this card  leaves the field , skip your next  Draw Phase .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ARC-V :  129 ,  130 ,  131 ,  132 ,  133 ,  142 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ARC-V ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 衝 撃 の 拘 束 剣 
+ ①：自分・相手バトルフェイズに、このカードは手札からこのカード以外のカードを全て捨て墓地へ送り、手札から発動できる。バトルフェイズを終了する。②：このカードが魔法・罠ゾーンに存在する限り、全てのモンスターは攻撃できず、効果ダメージは０になる。③：このカードの発動後、相手ターンで数えて、このカードの発動時に墓地へ送ったカードの枚数の相手エンドフェイズに、このカードは破壊される。④：このカードがフィールドから離れた場合、次の自分ドローフェイズをスキップする。 
+ 
+ 
+ Shōgeki no Kōsokuken 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yusho Sakaki 
+ 
+ 
+ Search categories 
+ 
+ Related to  archetypes  and  series   
+ Protective Seal 
+ 
+ Actions  
+ Activates from your hand 
+ Sends from hand to Graveyard for cost 
+ Ends the Battle Phase 
+ Skips Draw Phase 
+ 
+ Monster / Spell / Trap  categories  
+ Allows activation of Trap Cards from your hand 
+ Destroys itself 
+ 
+ Attack  categories  
+ Prevents attacks 
+ 
+ LP   
+ Prevents effect damage 
+ 
+ v e 
+ Protective Seal   護 封 a   r Members 
+ Dark Wall of Wind Spiritual Swords of Revealing Light Swords of Burning Light Swords of Revealing Light Swordsman of Revealing Light Wall of Revealing Light 
+ Related 
+ Restraining Sword of Impact 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/2b/RestrainingSwordofImpact-JP-Anime-AV.png/revision/latest/scale-to-width-down/200?cb=20180619183658', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4d/RestrainingSwordofImpact-JP-Anime-AV-NC.png/revision/latest/scale-to-width-down/185?cb=20161030151315', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

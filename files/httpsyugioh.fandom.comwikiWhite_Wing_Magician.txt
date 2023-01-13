@@ -1,0 +1,306 @@
+Link: https://yugioh.fandom.com/wiki/White_Wing_Magician
+
+
+ 
+ 
+ White Wing Magician 白 翼 の 魔 術 師 
+ 
+ English 
+White Wing Magician 
+ French 
+ Magicienne Aile Blanche Check translation 
+ German 
+ Weißflügel-Magierin Check translation 
+ Italian 
+ Maga Ala Bianca Check translation 
+ Korean 
+ 백익의 마술사 Check translation 
+ Portuguese 
+ Mago de Asas Brancas Check translation 
+ Spanish 
+ Maga Ala Blanca Check translation 
+ Japanese (kana) 
+ はくよくのまじゅつし Check translation 
+ Japanese (base) 
+ 白翼の魔術師 Check translation 
+ Japanese ( rōmaji ) 
+Hakuyoku no Majutsushi 
+ Card type 
+ Monster   
+ Attribute 
+ WIND   
+ Types 
+ Spellcaster  /  Pendulum  /  Tuner  /  Effect 
+ Level 
+ 4   
+ Pendulum Scale 
+   1 
+ ATK  /  DEF 
+ 1600  /  1400 
+ Passcode 
+ 11067666 
+ Card effect types 
+ Pendulum Effect  
+ Continuous-like 
+ Monster Effect 
+ Condition 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Pendulum Effect :  Once per turn , when an  activated  card or  effect   resolves  that  targets  a  DARK   Spellcaster - Type   monster  you  control ,  negate  that effect, then  destroy  this card. Monster Effect : (This card is always treated as a " Synchro Dragon " card.) If this  Pendulum Summoned  card is used for a  Synchro Summon ,  banish  it. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Effet Pendule  
+ Une fois par tour, lorsqu'une carte ou un effet activé qui cible un monstre TÉNÈBRES de Type Magicien que vous contrôlez est résolu, annulez l'effet, puis détruisez cette carte. 
+ Effet de Monstre  
+   (Cette carte est toujours traitée comme une carte "Dragon Synchro".) Si cette carte Invoquée par Pendulation est utilisée pour une Invocation Synchro, bannissez-la. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Pendeleffekt 
+ Einmal pro Spielzug, wenn eine aktivierte Karte oder ein aktivierter Effekt aufgelöst wird, die oder der ein FINSTERNIS Monster vom Typ Hexer, das du kontrollierst, als Ziel wählt, annulliere den Effekt, dann zerstöre diese Karte. 
+ Monstereffekt 
+   (Diese Karte wird immer als „Synchrodrache“-Karte behandelt.) Falls diese als Pendelbeschwörung beschworene Karte für eine Synchrobeschwörung verwendet wird, verbanne sie. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Effetto Pendulum 
+ Una volta per turno, quando si risolve una carta o un effetto attivato che sceglie come bersaglio un mostro OSCURITÀ di Tipo Incantatore che controlli, annulla quell'effetto, poi distruggi questa carta. 
+ Effetto Mostro 
+   (Questa carta viene sempre considerata come una carta "Drago Synchro".) Se questa carta Evocata Pendulum viene utilizzata per una Synchro Evocazione, bandiscila. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Efeito de Pêndulo 
+ Uma vez por turno, quando um card ou efeito ativado resolver que escolheu como alvo um monstro de TREVAS do Tipo Mago que você controla, negue o efeito e, depois, destrua este card. 
+ Efeito de Monstro 
+   (Este card deve ser sempre considerado como um card "Dragão Sincro".) Se este card Invocado por Invocação-Pêndulo for usado para uma Invocação-Sincro, bana-o. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Efecto de Péndulo 
+ Una vez por turno, cuando una carta o efecto activado se resuelva, que seleccione como objetivo un monstruo de OSCURIDAD de Tipo Lanzador de Conjuros que controles, niega ese efecto, y después destruye esta carta. 
+ Efecto de Monstruo 
+   (Esta carta se trata siempre como una carta "Dragón Sincro"). Si esta carta Invocada por Péndulo es usada para una Invocación por Sincronía, destiérrala. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Ｐ 効 果 
+ ①：１ターンに１度、自分フィールドの魔法使い族・闇属性モンスターを対象として発動した効果を無効にできる。その後、このカードを破壊する。 
+ モンスターの 効 果 
+   このカードはルール上「シンクロ・ドラゴン」カードとしても扱う。 Ｐ 召喚したこのカードは、 Ｓ 召喚に使用された場合に除外される。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 펜듈럼 효과 
+ ①: 1턴에 1번, 자신 필드의 마법사족 / 어둠 속성 몬스터를 대상으로 하고 발동한 효과를 무효로 할 수 있다. 그 후, 이 카드를 파괴한다. 
+ 몬스터의 효과 
+   이 카드는 룰상 "싱크로 드래곤" 카드로도 취급한다. 펜듈럼 소환한 이 카드는, 싱크로 소환에 사용되었을 경우에 제외된다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2017-06-22 PEVO-EN005 Pendulum Evolution Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2017-06-22 PEVO-FR005 Pendulum Evolution Évolution des Pendules Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2017-06-22 PEVO-DE005 Pendulum Evolution Pendulum Evolution Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2017-06-22 PEVO-IT005 Pendulum Evolution Evoluzione Pendulum Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2017-06-22 PEVO-PT005 Pendulum Evolution Evolução Pêndulo Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2017-06-22 PEVO-SP005 Pendulum Evolution Evolución del Péndulo Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2016-12-23 SD31-JP005 Structure Deck: Pendulum Evolution ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －ペンデュラム・エボリューション－ Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2017-03-14 SD31-KR005 Structure Deck: Pendulum Evolution ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ  － 펜듈럼 에볼루션 － Super Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ DARK 
+ Spellcaster 
+ 
+ Archetypes  and  series   
+ Magician  
+ Synchro  
+ Synchro Dragon 
+ 
+ Related to  archetypes  and  series   
+ Clear Wing 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of Effect Monsters 
+ Negates the effects of Spell Cards 
+ Negates the effects of Trap Cards 
+ Destroys itself 
+ 
+ Banished  categories  
+ Banishes itself from field 
+ 
+ Miscellaneous  
+ Archetype condition 
+ Tuner Pendulum Monster 
+ Limited activations 
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12910 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Clear Wing " 「クリアウィング」 Members 
+ Clear Wing Fast Dragon Clear Wing Synchro Dragon Crystal Clear Wing Synchro Dragon Hi-Speedroid Clear Wing Rider Supreme King Dragon Clear Wing 
+ Support 
+ Crystal Clear Wing Synchro Dragon Odd-Eyes Wing Dragon 
+ Related 
+ Crystal Wing Synchro Dragon Odd-Eyes Pendulum Dragon White Wing Magician 
+ 
+   
+" Magician " 「 魔 術 師 」 Members 
+ Acrobatic Magician Apprentice Magician Black Fang Magician Blast Magician Dark Magician of Chaos Dharma-Eye Magician Doomstar Magician Double Iris Magician Dragoncaller Magician Dragonpit Magician Dragonpulse Magician Eda the Sun Magician Harmonizing Magician Magician of Hope Milla the Temporal Magician Night Wing Sorceress Nobledragon Magician Oafdragon Magician Old Vindictive Magician Performapal Celestial Magician Performapal Five-Rainbow Magician Purple Poison Magician Rapid-Fire Magician Silent Magician Skilled Dark Magician Stargazer Magician The Stern Mystic Time Wizard Timebreaker Magician Timegazer Magician Timestar Magician Tuning Magician White Wing Magician Wisdom-Eye Magician Xiangke Magician Xiangsheng Magician 
+ Magician's Left Hand Magician's Restage Magician's Right Hand 
+ Support 
+ Dharma-Eye Magician Dragonpit Magician Dragonpulse Magician Enlightenment Paladin Harmonizing Magician Nobledragon Magician Oafdragon Magician Performapal Parrotrio Performapal Skullcrobat Joker Performapal Sky Magician Performapal Smile Sorcerer Performapal Springoose Performapal U Go Golem Stargazer Magician Timegazer Magician Timestar Magician Tuning Magician Wisdom-Eye Magician 
+ Amazing Pendulum Magician's Restage Pendulum Call Performapal Popperup Sky Iris Star Pendulumgraph Time Pendulumgraph 
+ Related 
+ Astrograph Sorcerer Baby Dragon Chronograph Sorcerer Dark Sage Thousand Dragon Time Magic Hammer Time Wizard of Tomorrow 
+ Assault Mode Activate The Claw of Hermos Dedication through Light and Darkness Magical Star Illusion 
+ 
+   
+ Synchro  シンクロ Members 
+ Accel Synchro Stardust Dragon Clear Wing Synchro Dragon Crystal Clear Wing Synchro Dragon Crystal Wing Synchro Dragon Meklord Emperor Wisel - Synchro Absorption Synchro Fusionist Synchro Magnet Synchro Soldier White Wing Magician 
+ De-Synchro King's Synchro Miracle Synchro Fusion Necroid Synchro Synchro Barrier Synchro Boost Synchro Call Synchro Change Synchro Chase Synchro Control Synchro Cracker Synchro Deflector Synchro Dilemma Synchro Ejection Synchro Gift Synchro Material Synchro Overtake Synchro Strike Synchro Transcend Synchro Transmission 
+ Related 
+ Odd-Eyes Wing Dragon 
+ 
+   
+" Synchro Dragon " 「シンクロ・ドラゴン」 Members 
+ Clear Wing Synchro Dragon Crystal Clear Wing Synchro Dragon Crystal Wing Synchro Dragon White Wing Magician 
+ Support 
+ Astrograph Sorcerer Chronograph Sorcerer 
+ The Supreme King's Soul 
+ Related 
+ Clear Wing Fast Dragon Hi-Speedroid Clear Wing Rider Odd-Eyes Wing Dragon Supreme King Dragon Clear Wing Supreme King Z-ARC 
+ Pendulum Dimension 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/f8/WhiteWingMagician-PEVO-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20170621140935', 'https://static.wikia.nocookie.net/yugioh/images/0/01/WIND.svg/revision/latest/scale-to-width-down/28?cb=20170920205028', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

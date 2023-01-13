@@ -1,0 +1,35 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Ancient_Gear_Gadget
+
+
+ Ancient Gear Gadget 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ If this card is Normal or Special Summoned: You can declare 1 card type (Monster, Spell, or Trap); this turn, if  a  monster  you control  attacks, your opponent 's  Spell  Cards,  Trap Cards ,  or monster effects (whichever was declared)  cannot be activated  until the end of the Damage Step. Once per turn: You can declare 1 "Gadget" monster's card name; until the End Phase, this card's name becomes that name. 
+ If this card is Normal or Special Summoned: You can declare 1 card type (Monster, Spell, or Trap); this turn, if  your  monster attacks, your opponent  cannot activate  Spell / Trap Cards or monster effects (whichever was declared) until the end of the Damage Step. Once per turn: You can declare 1 "Gadget" monster's card name; until the End Phase, this card's name becomes that name. 
+ 
+ 
+       SR03-EN000 Machine Reactor Structure Deck     
+       LDS1-EN081 Legendary Duelists: Season 1     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e8/AncientGearGadget-SR03-EN-UR-1E.png/revision/latest/scale-to-width-down/180?cb=20170411220132', 'https://static.wikia.nocookie.net/yugioh/images/c/c6/AncientGearGadget-LDS1-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20200703143538']
+Categories: Card Errata, Cards with 1 erratum

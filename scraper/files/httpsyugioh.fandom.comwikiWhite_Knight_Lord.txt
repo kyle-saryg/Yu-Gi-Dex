@@ -1,0 +1,134 @@
+Link: https://yugioh.fandom.com/wiki/White_Knight_Lord
+
+
+ White Knight Lord 
+ 
+ Japanese:   白騎士団のロード 
+ Kana:   ホワイトナイツロード 
+ Romaji:   Howaito Naitsu Rōdo 
+ Translated:  White Knight's Lord 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Level 
+ 
+ 
+ 7   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Continuous 
+ Trigger 
+ Continuous 
+ Trigger 
+ Trigger 
+ [  Warrior  /  Effect  ] This card cannot be  Tributed  for a  Tribute Summon  or  Set . During your  End Phase , if this card did not  attack  this  turn , take 800  damage . This card cannot be  destroyed by battle  and you take no  Battle Damage  from battles involving this card. If this card destroys an opponent's  monster  by battle, inflict 300 damage to your opponent. When this card is destroyed by an opponent's  card effect , inflict 1000 damage to your opponent.
+ ATK  /  2000     DEF  /  2000   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  GX :  087 ,  088 ,  105 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  GX ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ German 
+ Weißer Ritter Lord 
+ 
+ 
+ 
+ Spanish 
+ Caballero de la Blanca Noche 
+ 
+ 
+ 
+ Japanese 
+ 白騎士団の ロード 
+ このカードが戦闘しなかったターンの エンドフェイズ にこのカードの コントローラー に８００ポイントの ダメージ を与える。このカードが受ける 戦闘ダメージ は０になる。このカードは 生け贄 にする事はできない。 戦闘で破壊した モンスター１体につき、相手プレイヤーに３００ポイントのダメージを与える。相手プレイヤーの カード効果 によってこのカードが 破壊 された時相手プレイヤーに１０００ポイントのダメージを与える。 
+ 
+ 
+ Howaito Naitsu Rōdo 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Chazz Princeton 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ White Knight 
+ 
+ Actions  
+ Activates from your Graveyard 
+ 
+ Summoning  categories  
+ Cannot be Tributed for a Tribute Summon 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ LP   
+ Prevents battle damage 
+ Damages you 
+ Damages your opponent 
+ 
+ v e 
+" White Knight " 「 白騎士団の 」 a   m   Members 
+ White Knight Gardna White Knight Lancer White Knight Lord White Knight Swordsman 
+ Support 
+ White Knight Gardna White Knight Swordsman 
+ Related 
+ Sealed Gate 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a7/WhiteKnightLord-JP-Anime-GX.png/revision/latest/scale-to-width-down/200?cb=20140929003714', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/77/WhiteKnightLord-JP-Anime-GX-NC.png/revision/latest/scale-to-width-down/185?cb=20140929003723', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

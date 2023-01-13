@@ -1,0 +1,111 @@
+Link: https://yugioh.fandom.com/wiki/Ancient_Key
+
+
+ The Japanese (OCG) version of this card is not a member of the " Ancient "  archetype , because its Japanese name does not contain  「 古代の 」 .   As its English name contains "Ancient", it  may  be treated a member of the "Ancient" archetype at a TCG event, subject to local rulings.     
+ 
+ Ancient Key 
+ 
+ Japanese:   古の鍵 
+ Kana:   いにしえのかぎ 
+ Romaji:   Inishie no Kagi 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ When you  activate  this card, you can  Special Summon  up to 2 " Stone Giants " from your  hand  or  Deck  in  Attack Position . During your  Main Phase , you can  send  this  face-up  card and 2 "Stone Giants" (whose  battle positions  have been changed twice each) you  control  to the  Graveyard  to  add  1 " Ancient Gate " from your Deck or Graveyard to your hand.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh! :  187 ,  188 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  Yu-Gi-Oh! ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 古 の 鍵 
+ 石の巨人トークン （ 攻  ４００  守  ２０００ 星 ３ 地 ・ 岩石族 ）を２体 特殊召喚 する。（ 生け贄召喚 の 生け贄 にする事はできない） 攻撃表示 のこのトークンが 攻撃 しなかった場合、プレイヤーは５００ポイントの ダメージ を受ける。 
+ 
+ 
+ Inishie no Kagi 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Solomon Muto 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Stone Giant 
+ Ancient Gate 
+ 
+ Archetypes  and  series   
+ Ancient  
+ 
+ Actions  
+ Sends itself from field to Graveyard for cost 
+ Sends from field to Graveyard for cost 
+ Adds from Deck to hand 
+ Adds from Graveyard to hand 
+ 
+ Summoning  categories  
+ Special Summons from your hand 
+ Special Summons from your Deck 
+ 
+ v e 
+ Ancient   古 a   m   Members 
+ Ancient City Ancient Dragon Ancient Gate Ancient Giant Ancient Key Ancient Tome Stone Giant 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/18/AncientKey-OW.png/revision/latest/scale-to-width-down/185?cb=20131227150539', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/95/AncientKey-JP-Anime-DM-NC.png/revision/latest/scale-to-width-down/143?cb=20141001220641', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

@@ -1,0 +1,715 @@
+Link: https://yugioh.fandom.com/wiki/DRAW
+
+This article is about the Duel result. For the action, see  draw a card .      
+ 
+ 
+ DRAW
+ 
+ 
+ 
+ A DRAW by simultaneous depletion of LP in  Yu-Gi-Oh! ZEXAL 
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 引 き 分 け
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ ひきわけ
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 引き分け
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Hikiwake
+ 
+ 
+ 
+ English
+ 
+ 
+ DRAW
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : ÉGALITÉ 
+ German : UNENTSCHIEDEN 
+ Italian : PAREGGIO 
+ Portuguese : empate 
+ Spanish : EMPATE 
+ Korean : 무승부 (無勝負)  Museungbu 
+ Traditional Chinese : 平手  Píngshǒu / Ping4 sau2 
+ 
+ 
+ A  Duel  results in a  DRAW  (Japanese:  引 き 分 け  Hikiwake ) when both players satisfy a  victory condition  at the same time.
+ In card texts, the term " DRAW " is always written with all capital letters to distinguish it from the common term of "to  draw  a card".
+ 
+ Contents 
+ 
+ 1   Examples 
+ 2   In real life 
+ 3   In the anime 
+ 
+ 3.1   Successful 
+ 
+ 3.1.1   Yu-Gi-Oh! (Toei anime) 
+ 3.1.2   Yu-Gi-Oh! 
+ 3.1.3   Yu-Gi-Oh! GX 
+ 3.1.4   Yu-Gi-Oh! 5Ds 
+ 3.1.5   Yu-Gi-Oh! ZEXAL 
+ 3.1.6   Yu-Gi-Oh! ARC-V 
+ 3.1.7   Yu-Gi-Oh! VRAINS 
+ 
+ 
+ 3.2   Unsuccessful 
+ 
+ 3.2.1   Yu-Gi-Oh! 
+ 3.2.2   Yu-Gi-Oh! GX 
+ 3.2.3   Yu-Gi-Oh! 5Ds 
+ 3.2.4   Yu-Gi-Oh! ZEXAL 
+ 3.2.5   Yu-Gi-Oh! ARC-V 
+ 
+ 
+ 
+ 
+ 4   Forbidden/Limited Cards 
+ 5   References 
+ 
+ 
+ Examples 
+ Both players'  Life Points  become 0 by a single card effect at the same time, such as that of " Self-Destruct Button ", " Tremendous Fire ", or " Destruction Ring ". 
+ A single card effect causes both players to draw cards when neither player has enough cards left in their Deck, such as that of " Card Destruction " or " Morphing Jar ". 
+ A single card effect causes both players to add all 5 pieces of " Exodia " to their hand, such as " Emissary of the Afterlife " or the above "Card Destruction" or "Morphing Jar". This can also happen during the initial draw of the game, which is the only way to DRAW before  either player starts their turn  and has a 1 in 432,974,528,064 chance of occurring. 
+ At the end of a turn when " Last Turn " was activated, both players' monsters remained on the field or both left the field. This is the only card whose text specifically mentions a DRAW. 
+ It is also possible for two different types of victory conditions to be fulfilled by one effect, such as completing "Exodia" by returning a piece from the field to the hand that was Summoned by " Relay Soul ". 
+ In real life 
+ Unlike a Duel, a  Match  can never end in a DRAW in official tournaments. If a Match would end in a DRAW, extra Duels are played until the Match is decided (even if the Match time limit runs out, in which case the Duels transition to sudden death). Outside of a tournament, a match can end in a DRAW if both players have one victory and one DRAW or if all three duels end in a draw. 
+ Since ending Duels in DRAWs tends to significantly slow down official tournaments, many cards that easily enable DRAWs (such as the majority of the cards listed above) have been made  Limited  or  Forbidden . One card, " Ring of Destruction ", has specifically had its  text changed  to prevent it from causing a DRAW, with the victory condition rules changed with it as a result.
+ 
+ In the anime 
+ In the anime, a DRAW has occurred in the following occasions.
+ 
+ Successful 
+ Yu-Gi-Oh! (Toei anime) 
+ Dark Yugi  and  Seto Kaiba [1] 
+ Yu-Gi-Oh! 
+ Yugi Muto  and  Joey Wheeler [2] 
+ Alister  and  Seto Kaiba [3] 
+ Yu-Gi-Oh! GX 
+ Jaden Yuki  and  Zane Truesdale [4] 
+ Yubel  and  Jesse Anderson  (who was with Jaden) [5] 
+ The Supreme King  and  Axel Brodie [6] 
+ Jaden Yuki and  Yubel [7] 
+ Yu-Gi-Oh! 5Ds 
+ Luna  and  Professor Frank [8] 
+ Crow Hogan  and  Broder [9] 
+ Yu-Gi-Oh! ZEXAL 
+ Kite Tenjo  and  Astral [10] 
+ Astral and  Number 96 [11] 
+ Yu-Gi-Oh! ARC-V 
+ Gong Strong  and  Kit Blade [12] 
+ Yuya Sakaki  and  Aster Phoenix [13] 
+ Yu-Gi-Oh! VRAINS 
+ Playmaker  and  Varis  x2 [14] [15] 
+ Playmaker and  Bohman [16] 
+ Varis and  Lightning [17] 
+ Unsuccessful 
+ Yu-Gi-Oh! 
+ Joey Wheeler  (against  Mai Valentine ) 
+ Yu-Gi-Oh! GX 
+ Alexis Rhodes  (against  Chazz Princeton ) 
+ Tyranno Hassleberry  (against  Syrus Truesdale ) 
+ Mr. Stein  (against  Jaden Yuki ) 
+ Atticus Rhodes  (against  Yusuke Fujiwara ) 
+ Yu-Gi-Oh! 5Ds 
+ Jack Atlas  (against  Carly Carmine ) 
+ Nicolas  (against Jack Atlas) 
+ Jack Atlas (against  Jinbei Tanigawa ) 
+ Yu-Gi-Oh! ZEXAL 
+ Number 96  (against Astral, who took over for  Yuma Tsukumo ) 
+ Mizar  (against  Don Thousand ) 
+ Yuma Tsukumo (against  Nash ) 
+ Yu-Gi-Oh! ARC-V 
+ Barrett  (against  Declan Akaba ) 
+ Iggy Arlo  (against  Yuya Sakaki ) 
+ Crow Hogan  (against  Battle Beast ) 
+ Forbidden/Limited Cards 
+ The following cards were placed on the Forbidden/Limited List either in part or entirely due to their ability to end a Duel in a DRAW. 
+ 
+ 
+ 
+ Card name
+ 
+ Limitation
+ 
+ Reason for causing a DRAW
+ 
+ Notes
+ 
+ 
+ Morphing Jar 
+ 
+ Limited (Formerly Forbidden)
+ 
+ If both players have less than 5 cards in their respective Decks when this card's  Flip Effect  is activated, the Duel will end in a DRAW.
+ 
+ 
+ 
+ 
+ Card Destruction 
+ 
+ Limited (Formerly Forbidden)
+ 
+ If both players have less cards in their Decks than their respective hands, the Duel will end in a DRAW.
+ 
+ 
+ 
+ 
+ Last Turn 
+ 
+ Forbidden
+ 
+ This card determines the outcome of a Duel based on one monster attacking another. If neither monster is destroyed or if both are destroyed, the Duel ends in a DRAW.
+ 
+ It is especially easy to cause a DRAW with this card by using a monster that cannot be  destroyed by battle .
+ 
+ 
+ Self-Destruct Button 
+ 
+ Forbidden
+ 
+ This card ends the Duel in a DRAW if its activation conditions are met.
+ 
+ This card was Forbidden after a group of players designed a Deck that used this card to disrupt tournaments.
+ 
+ 
+ Ring of Destruction 
+ 
+ Unlimited (Formerly Forbidden)
+ 
+ When it was first printed, this card inflicted damage to both players simultaneously, so it could end the Duel in a DRAW by destroying a monster whose ATK is higher than both player's LP. 
+ This is no longer possible, since the card was errata'd to inflict damage to the player using it first.
+ 
+ 
+ Prior to its errata, this card was the most consistent way to end a Duel in a DRAW.
+ 
+ References 
+ 
+ ↑   Yu-Gi-Oh!   (Toei) episode 3: " Clash! The Strongest Monster " 
+ 
+ ↑   Yu-Gi-Oh!   episode 78: " Friends 'Til the End, Part 4 " 
+ 
+ ↑   Yu-Gi-Oh!   episode 150: " Deja Duel! - Part 2 " 
+ 
+ ↑   Yu-Gi-Oh! GX  episode 52: " The Graduation Match, Part 2 " 
+ 
+ ↑   Yu-Gi-Oh! GX  episode 130: " Unleashing the Dragon, Part 2 " 
+ 
+ ↑   Yu-Gi-Oh! GX  episode 143: " What Lies Beneath, Part 3 " 
+ 
+ ↑   Yu-Gi-Oh! GX  episode 152: " The Power Within, Part 2 " 
+ 
+ ↑   Yu-Gi-Oh! 5D's  episode 19: " Return to the Spirit World, Part 2 " 
+ 
+ ↑   Yu-Gi-Oh! 5D's  episode 127: " Tricking The Trickster " 
+ 
+ ↑   Yu-Gi-Oh! ZEXAL  episode 24: " Hunting Down the Hunter, Part 2 " 
+ 
+ ↑   Yu-Gi-Oh! ZEXAL  episode 102: " The Dark Mist Rises: Part 2 " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 11: " Going, Going, Gong " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 104: " Fighting Between The Rubble " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 10: " Eye of the Storm " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 42: " Storm Access " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 73: " Weathering the Storm " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 98: " Lightning Storm " 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/7e/DRAW-Anime-ZX.png/revision/latest/scale-to-width-down/300?cb=20160519154738']
+Categories: Gameplay

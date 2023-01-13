@@ -1,0 +1,111 @@
+Link: https://yugioh.fandom.com/wiki/Warp_Beam
+
+
+ Warp Beam 
+ 
+ Japanese:   ワープ・ビーム 
+ Romaji:   Wāpu Bīmu 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Cost 
+ Effect 
+ Select  any number of  face-up   monsters  you  control , then  send  an equal number of cards you control to the  Graveyard , except the selected monster(s). This  turn , the  ATK  of each selected monster becomes 600, and those monsters can  attack  your opponent  directly .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  GX :  095 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  GX ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ German 
+ Warp Beam 
+ 
+ 
+ 
+ Spanish 
+ Giro de Luz 
+ 
+ 
+ 
+ Japanese 
+ ワープ・ビーム 
+ 自分フィールド上のモンスターを任意の数だけ選択する。選択したモンスター以外の選択したモンスターとの同数の自分フィールド上のカードを墓地へ送る。選択したモンスターは、このターン攻撃力６００となり、相手プレイヤーを直接攻撃する事ができる。 
+ 
+ 
+ Wāpu Bīmu 
+ 
+ 
+ Decks 
+ 
+ 
+ Zane Truesdale 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Sends from field to Graveyard for cost 
+ 
+ Stat changes  
+ Changes ATK value 
+ 
+ Attack  categories  
+ Allows direct attacks 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/ec/WarpBeam-JP-Anime-GX.png/revision/latest/scale-to-width-down/200?cb=20141007015451', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

@@ -1,0 +1,199 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_VRAINS_-_Episode_010
+
+
+ 
+ Yu-Gi-Oh! VRAINS - Episode 010 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kanji  
+ 衝 撃 ！サイバース 消 失 
+ 
+ 
+ Rōmaji 
+ Shōgeki! Saibāsu Shōshitsu 
+ 
+ 
+ Japanese translation 
+ Impact! Cyberse Vanishes 
+ 
+ 
+ English 
+ Eye of the Storm 
+ 
+ 
+ Number 
+ 010 
+ 
+ 
+ Air date ( ja ) 
+ July 19, 2017 
+ 
+ 
+ Air date ( en ) 
+ September 30, 2018 
+ 
+ 
+ 
+ Music 
+ 
+ Opening ( ja ) 
+ " With The Wind " 
+ 
+ 
+ Ending ( ja ) 
+ " Believe In Magic " 
+ 
+ 
+ 
+ Staff 
+ 
+ Screenwriter 
+ Shin Yoshida 
+ 
+ 
+ Director 
+ Kimiharu Muto 
+ 
+ 
+ Storyboard 
+ Tsukasa Sunaga 
+ 
+ 
+ Animation  dir. 
+ Yuya Kawamura Yuki Ushiro 
+ 
+ 
+ 
+ Cards 
+ 
+ Galleries 
+ Japanese 
+ 
+ 
+ 
+ Chronology 
+ 
+ Listing 
+ Yu-Gi-Oh! VRAINS  episode listing  (season 1) 
+ 
+ 
+ 
+ Previous 
+ Next 
+ 
+ 
+ " Malicious Mayhem " 
+ " Neutralized " 
+ 
+ 
+ 
+ 
+ " Eye of the Storm",  known as " Impact! Cyberse Vanishes " in the Japanese version, is the tenth episode of the  Yu-Gi-Oh! VRAINS  anime. It first aired in Japan on July 19, 2017, and will air on Teletoon on September 30, 2018. It became available with official subtitles via Crunchyroll on the same day. Pluto TV premiered the English dub on December 18, 2020 in the US.
+ Due to  Varis ' brutal assault,  Playmaker  is now on the defensive. Playmaker then uses  Storm Access  to obtain a card in order to turn things around. However, due to Varis' tactics, the stage of their battle has moved to the inside of the  Data Storm .
+ 
+ Contents 
+ 
+ 1   Featured Duels 
+ 
+ 1.1   Playmaker vs. Varis 
+ 1.2   Varis vs. Playmaker 
+ 
+ 
+ 2   Featured cards 
+ 3   In other languages 
+ 
+ 
+ Featured Duels 
+ Playmaker vs. Varis 
+ Duel continues from the previous episode . 
+ Turn 3: Varis 
+" Topologic Bomber Dragon "  destroyed  " Decode Talker " by battle, with the former's effect activating, which would inflict damage to Playmaker equal to the  original ATK  of the destroyed  monster . As an effect is activated that would inflict  damage  was activated, Playmaker activates his  face-down  " Link Restart ", which  negates  the effect. Playmaker activates the other effect of "Link Restart" in his  GY ,  banishing  it to  Special Summon  a  Link Monster  from his GY. Playmaker Special Summons "Decode Talker". During the End Phase, the effect of "Dragonoid Generator" activates, Special Summoning " Dragonoid Tokens " to Playmaker's field equal to the number of "Dragonoid Tokens" Summoned by Varis this turn. A Dragonoid Token is Special Summoned in Attack Position (0/0).
+ Turn 4: Playmaker 
+Playmaker activates his  Skill  "Storm Access", which allows him to randomly access a card from a Data Storm when his LP is 1000 or less. Playmaker obtains " Firewall Dragon " and adds it to his  Extra Deck .
+ Varis activates his face-down " Remote Rebirth ‎‎", Special Summoning a monster from Playmaker's GY to a  Main Monster Zone  that a Link Monster Varis controls is pointing to. Varis Special Summons " Capacitor Stalker " to the top Link Point of "Bomber Dragon". As a monster was Special Summoned to the Link Point of a Link Monster while it is on the field, the effect of "Bomber Dragon" activates, destroying all monsters in the Main Monster Zones. The "Dragonoid Token", "Decode Talker", and "Capacitor Stalker" are destroyed. As "Capacitor Stalker" was destroyed by a card effect and sent to the GY, its effect activates inflicting 800 damage to both players (Playmaker: 300 → 0 LP; Varis: 100 → 0 LP).
+ 
+ Varis vs. Playmaker 
+         
+ The Duel is conducted as a  Master Duel .
+ Turn 1: Varis 
+Varis activates " Fire Prison ", increasing the  DEF  of  Dragon  monsters he  controls  by 300. Both players can only  Link Summon  Link Monsters if their  Link Rating  is equal to or greater than the Link Monster on the field with the highest Link Rating, only Link Monsters can attack, and "Fire Prison" cannot be destroyed by other  card effects . Varis  Normal Summons  " Sniffer Dragon " (800/400). He activates its effect, allowing him to  add  another copy of "Sniffer Dragon" from his  Deck  to his hand. Varis activates " Quick Launch ", Special Summoning a " rokket " monster from his Deck. He Special Summons " Magnarokket Dragon " (1800/1200). Varis uses "Sniffer Dragon" and "Magnarokket Dragon" to Link Summon " Twin Triangle Dragon " (ATK 1200/LINK-2/↓→).
+ As a Dragon Link Monster was Special Summoned, Varis activates the effect of " Linkbelt Wall Dragon " in his hand, Special Summoning it in Defense Position (0/2100 → 2400). As "Wall Dragon" was Special Summoned, its effect activates, which lets it gain two  Wall Counters . The other effect of "Wall Dragon" prevents both players from  Summoning  Link Monsters whose Link Rating is higher than the number of Wall Counters "Wall Dragon" has.
+ Turn 2: Playmaker 
+During the Standby Phase, "Wall Dragon" gains a Wall Counter ("Wall Dragon": 2 → 3). As Playmaker controls no monsters, he Special Summons " Linkslayer " (2000/600) by its own effect. As Playmaker controls a  Cyberse  monster, he Special Summons " Backup Secretary " (1200/800) by its own effect. Playmaker Normal Summons " Stack Reviver " (100/600). Playmaker uses "Backup Secretary", "Linkslayer", and "Stack Reviver" to Link Summon " Encode Talker " (2300/LINK-3/↑↓↘) to the Extra Monster Zone. As "Stack Reviver" was used as a Link Material for a Link Summon, Playmaker activates its effect to Special Summon a monster that was used for the Link Summon from his GY. Playmaker  Special Summons "Backup Secretary" (1200/800) in Defense Position.
+ "Encode Talker" attacks "Twin Triangle Dragon", but the effect of "Wall Dragon" prevents Playmaker from attacking monsters except "Wall Dragon" (Playmaker: 4000 → 3900 LP). As Playmaker took  battle damage , he activates the effect of " Interrupt Resistor " in his hand, Special Summoning it in Defense Position and increasing its ATK by the battle damage he took ("Interrupt Resistor": 0 → 100/2100). Playmaker activates " Cyberse Cache ", allowing him to draw two cards as he controls a Cyberse monster whose current  ATK  is different from its original ATK. Playmaker Sets a card.
+ Turn 3: Varis 
+During the Standby Phase, "Wall Dragon" gains a Wall Counter ("Wall Dragon": 3 → 4). Varis Normal Summons " Autorokket Dragon ". Varis uses the Link-2 "Twin Triangle Dragon" and "Autorokket Dragon" to Link Summon " Triple Burst Dragon " (2400/LINK-3/↑←↓) to the Extra Monster Zone. As Varis Link Summoned a monster whose Link Rating is less than the Wall Counters "Wall Dragon" has, the effect of "Wall Dragon" activates, removing two Wall Counters from itself ("Wall Dragon": 4 → 2).
+ "Triple Burst Dragon" attacks "Backup Secretary". As a monster that "Encode Talker" is pointing to is battling a monster with higher ATK, Playmaker activates the effect of "Encode Talker", preventing "Backup Secretary" from being destroyed by battle, and reducing the battle damage to 0. As Playmaker activated an effect during the  Damage Step  when "Triple Burst Dragon" is battling, Varis activates its effect to negate that effect. As his Defense Position monster is being attacked, Playmaker activates the effect of "Interrupt Resistor", allowing him make the attacked monster's DEF become equal to the DEF of "Interrupt Resistor" and prevent its destruction by battle ("Backup Secretary": 1200/800 → 2100). The effect of "Triple Burst Dragon" inflict  piercing  battle damage (Playmaker: 3900 → 3600 LP).
+ Turn 4: Playmaker 
+During the Standby Phase, "Wall Dragon" gains a Wall Counter ("Wall Dragon": 2 → 3). Playmaker Normal Summons " Balancer Lord " (1700/1200). Playmaker uses "Balancer Lord", "Interrupt Resistor", and "Backup Secretary" to Link Summon " Decode Talker " (2300/LINK-3/↙↑↘) to the bottom Link Point of "Encode Talker". "Decode Talker" gains 500 ATK for each monster linked to it ("Decode Talker": 2300 → 2800). Varis activates the effect of "Fire Prison", which negates the effects of Cyberse monsters in each player's hand, field, and GY, prevents them from attacking or being targeted by attacks or card effects, and any attacks on players who control only Cyberse monsters become  direct attacks .
+ Duel continues in the next episode . 
+ 
+ Featured cards 
+ The following cards appeared in this episode. Cards in italics debuted here.
+ 
+ 
+ Playmaker (Yusaku Fujiki) Monsters   
+ Effect Monsters 
+ Backup Secretary 
+ Balancer Lord 
+ Capacitor Stalker 
+ Interrupt Resistor 
+ Linkslayer 
+ Stack Reviver Extra Deck   
+ Link Monsters 
+ Decode Talker 
+ Encode Talker 
+ Firewall Dragon Spells   &  Traps   
+ Spells 
+ Cyberse Cache 
+ Traps 
+ Link Restart 
+ Cynet Refresh 
+ 
+ Varis Monsters   
+ Effect Monsters 
+ Autorokket Dragon 
+ Linkbelt Wall Dragon 
+ Magnarokket Dragon 
+ Sniffer Dragon  x2 Extra Deck   
+ Link Monsters 
+ Triple Burst Dragon 
+ Topologic Bomber Dragon 
+ Twin Triangle Dragon Spells   &  Traps   
+ Spells 
+ Dragonoid Generator 
+ Fire Prison 
+ Quick Launch 
+ Traps 
+ Remote Rebirth‎‎ 
+ 
+ Data Storm Extra Deck   
+ Link Monsters 
+ Firewall Dragon  (silhouette) 
+ In other languages 
+ 
+ 
+ Language
+ 
+ Title
+ 
+ 
+  Thai 
+ ไซเบอร์สที่หายไป!!
+ 
+ 
+ v e 
+ Yu-Gi-Oh! VRAINS   season 1 episodes 
+ #001 " Link into the VRAINS " #002 " Seize the Wind! " #003 " Contact " #004 " Pain and Gain " #005 " Down for the Count " #006 " True Blue " #007 " Fallen Angel " #008 " A Storm is Coming " #009 " Malicious Mayhem " #010 " Eye of the Storm " #011 " Neutralized " #012 " Link the Circuit " #013 " Playback " #014 " An Invitation " #015 " Camouflaged Chaos " #016 " Hack Attack " #017 " Blue's Back! " #018 " Dueling for Answers " #019 " The Lost Incident " #020 " A Piece of the Puzzle " #021 " Story Time " #022 " The Deleted " #023 " A Grim Tale " #024 " To Gore Or Not To Gore " #025 " Suture the Circuit " #026 " Diagnosis: Deletion " #027 " The Brave Battler " #028 " Bugging Out " #029 " Kolter's Khronicles " #030 " Under VRAINS " #031 " Showdown in the Sewers " #032 " Tower of Hanoi " #033 " Once Upon a Time " #034 " Roots of Evil " #035 " The Hollow " #036 " A Bridge Too Far " #037 " Out on a Limb " #038 " Looking Back " #039 " Ring the Bell " #040 " Gore at War " #041 " Truth and Consequences " #042 " Storm Access " #043 " The Reveal " #044 " Illusion of Hope " #045 " Standing Tall " #046 " Link to the Future " 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/70/Vrains_010.png/revision/latest/scale-to-width-down/350?cb=20170719123357', 'https://static.wikia.nocookie.net/yugioh/images/4/46/Playmaker_VS_Revolver.png/revision/latest/scale-to-width-down/220?cb=20170719134746', 'https://static.wikia.nocookie.net/yugioh/images/a/a9/Flag_of_Thailand.svg/revision/latest/scale-to-width-down/20?cb=20090428233822']
+Categories: Yu-Gi-Oh! VRAINS episodes

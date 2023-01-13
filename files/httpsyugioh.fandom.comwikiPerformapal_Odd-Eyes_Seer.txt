@@ -1,0 +1,174 @@
+Link: https://yugioh.fandom.com/wiki/Performapal_Odd-Eyes_Seer
+
+The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Performapal Odd-Eyes Seer ＥＭ オッドアイズ・プリースト 
+ 
+ English 
+Performapal Odd-Eyes Seer 
+ Korean 
+ EM  오드아이즈 프리스트 Check translation 
+ Japanese (kana) 
+ エンタメイトオッドアイズ・プリースト Check translation 
+ Japanese (base) 
+ ＥＭオッドアイズ・プリースト Check translation 
+ Japanese ( rōmaji ) 
+Entameito Oddoaizu Purīsuto 
+ Japanese (translated) 
+Entermate Odd-Eyes Priest 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Spellcaster  /  Pendulum  /  Effect 
+ Level 
+ 6   
+ Pendulum Scale 
+   1 
+ ATK  /  DEF 
+ 100  /  1800 
+ Passcode 
+ 04836680 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Pendulum Effect : You can  target  1 " Performapal " or " Odd-Eyes " card in your  GY ;  add  it to your  hand , then  destroy  this card. You can only use this  effect  of "Performapal Odd-Eyes Seer"  once per turn . Monster Effect : If you  control  this  Pendulum Summoned  card: You can  activate  this  effect  based on its  battle position ; ●  Attack Position :  Banish  this card, then  target  1 " Performapal " or " Odd-Eyes "  monster  in your  GY ;  Special Summon  it. ●  Defense Position : Take 1 "Performapal" or "Odd-Eyes"  Pendulum Monster  from your  Deck , and either  add  it to your  Extra Deck   face-up  or  send  it to the GY. You can only use this effect of "Performapal Odd-Eyes Seer"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Ｐ 効 果 
+ このカード名の Ｐ 効果は１ターンに１度しか使用できない。①：自分の墓地の、「 ＥＭ 」カードまたは「オッドアイズ」カード１枚を対象として発動できる。そのカードを手札に加える。その後、このカードを破壊する。 
+ モンスターの 効 果 
+   このカード名のモンスター効果は１ターンに１度しか使用できない。①： Ｐ 召喚したこのカードは表示形式によって、自分メインフェイズに以下の効果を発動できる。●攻撃表示：このカードを除外し、自分の墓地の、「 ＥＭ 」モンスターまたは「オッドアイズ」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。●守備表示：「 ＥＭ 」 Ｐ モンスターまたは「オッドアイズ」 Ｐ モンスター１体をデッキから選び、自分の ＥＸ デッキに表側表示で加えるか墓地へ送る。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 펜듈럼 효과 
+ 이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 묘지의, "EM(엔터메이트)" 카드 또는 "오드아이즈" 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 패에 넣는다. 그 후, 이 카드를 파괴한다. 
+ 몬스터의 효과 
+   이 카드명의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 펜듈럼 소환한 이 카드는 표시 형식에 따라, 자신 메인 페이즈에 이하의 효과를 발동할 수 있다. ●공격 표시: 이 카드를 제외하고, 자신 묘지의, "EM(엔터메이트)" 몬스터 또는 "오드아이즈" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다. ●수비 표시: "EM(엔터메이트)" 펜듈럼 몬스터 또는 "오드아이즈" 펜듈럼 몬스터 1장을 덱에서 고르고, 자신의 엑스트라 덱에 앞면 표시로 넣거나 묘지로 보낸다. 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-06-11 AC02-JP031 Animation Chronicle 2022 ＡＮＩＭＡＴＩＯＮ ＣＨＲＯＮＩＣＬＥ ２０２２ Common 2022-06-11 AC02-JP031 Animation Chronicle 2022 ＡＮＩＭＡＴＩＯＮ ＣＨＲＯＮＩＣＬＥ ２０２２ Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2022-09-06 AC02-KR031 Animation Chronicle 2022 ANIMATION   CHRONICLE  2022 Common 2022-09-06 AC02-KR031 Animation Chronicle 2022 ANIMATION   CHRONICLE  2022 Normal Parallel Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Pendulum Monster 
+ 
+ Archetypes  and  series   
+ Performapal 
+ Odd-Eyes 
+ 
+ Supports   archetypes   
+ Performapal 
+ Odd-Eyes 
+ 
+ Actions  
+ Adds from Graveyard to hand 
+ Adds from Deck to Extra Deck 
+ Sends from Deck to Graveyard 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ 
+ Banished  categories  
+ Banishes itself from field for cost 
+ 
+ Miscellaneous  
+ Variable effects 
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17647 ( ja  ( rulings )   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Performapal Odd-Eyes Seer " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Odd-Eyes " 「オッドアイズ」 Members 
+ Odd-Eyes Absolute Dragon Odd-Eyes Advance Dragon Odd-Eyes Arc Pendulum Dragon Odd-Eyes Dragon Odd-Eyes Gravity Dragon Odd-Eyes Lancer Dragon Odd-Eyes Meteorburst Dragon Odd-Eyes Mirage Dragon Odd-Eyes Pendulum Dragon Odd-Eyes Pendulumgraph Dragon Odd-Eyes Persona Dragon Odd-Eyes Phantasma Dragon Odd-Eyes Phantom Dragon Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Odd-Eyes Revolution Dragon Odd-Eyes Saber Dragon Odd-Eyes Venom Dragon Odd-Eyes Vortex Dragon Odd-Eyes Wing Dragon Odd-Eyes Wizard Dragon Performapal Odd-Eyes Butler Performapal Odd-Eyes Dissolver Performapal Odd-Eyes Light Phoenix Performapal Odd-Eyes Metal Claw Performapal Odd-Eyes Minitaurus Performapal Odd-Eyes Seer Performapal Odd-Eyes Synchron Performapal Odd-Eyes Unicorn Performapal Odd-Eyes Valet Supreme King Dragon Odd-Eyes 
+ Odd-Eyes Advent Odd-Eyes Fusion 
+ Support 
+ Nobledragon Magician Oafdragon Magician Odd-Eyes Absolute Dragon Odd-Eyes Arc Pendulum Dragon Odd-Eyes Lancer Dragon Odd-Eyes Mirage Dragon Odd-Eyes Pendulumgraph Dragon Odd-Eyes Persona Dragon Odd-Eyes Phantasma Dragon Odd-Eyes Phantom Dragon Odd-Eyes Venom Dragon Odd-Eyes Vortex Dragon Odd-Eyes Wizard Dragon Performapal Bit Bite Turtle Performapal Bot-Eyes Lizard Performapal Corn Performapal Fireflux Performapal Gentrude Performapal Ladyange Performapal Miss Director Performapal Monkeyboard Performapal Odd-Eyes Butler Performapal Odd-Eyes Metal Claw Performapal Odd-Eyes Minitaurus Performapal Odd-Eyes Seer Performapal Odd-Eyes Synchron Performapal Odd-Eyes Unicorn Performapal Odd-Eyes Valet Performapal Parrotrio Performapal Rain Goat Performapal Sellshell Crab Performapal Skullcrobat Joker Performapal Smile Sorcerer Performapal Splashmammoth Performapal U Go Golem Stargazer Magician Timegazer Magician 
+ Odd-Eyes Advent Odd-Eyes Fusion Performapal Dramatic Theater Performapal Popperup Sky Iris Spiral Flame Strike 
+ Related 
+ All-Eyes Phantom Dragon Beast-Eyes Pendulum Dragon Brave-Eyes Pendulum Dragon Clear Wing Synchro Dragon Dark Rebellion Xyz Dragon Performapal Silver Claw Rune-Eyes Pendulum Dragon Starving Venom Fusion Dragon 
+ 
+   
+" Performapal " 「 ＥＭ 」 Members 
+ Performapal Ballad Performapal Barokuriboh Performapal Barracuda Performapal Bit Bite Turtle Performapal Bot-Eyes Lizard Performapal Bowhopper Performapal Bubblebowwow Performapal Camelump Performapal Card Gardna Performapal Celestial Magician Performapal Changeraffe Performapal Cheermole Performapal ClassiKuriboh Performapal Clay Breaker Performapal Coin Dragon Performapal Corn Performapal Dag Daggerman Performapal Drummerilla Performapal Elephammer Performapal Extra Slinger Performapal Fire Mufflerlion Performapal Fireflux Performapal Five-Rainbow Magician Performapal Flip Hippo Performapal Friendonkey Performapal Gatlinghoul Performapal Gentrude Performapal Gold Fang Performapal Gongato Performapal Greatest Duelist Performapal Guitartle Performapal Gumgumouton Performapal Handsamuraiger Performapal Handstandaccoon Performapal Helpprincess Performapal Hip Hippo Performapal Inflater Tapir Performapal Kaleidoscorp Performapal King Bear Performapal Kuribohble Performapal Ladyange Performapal Laugh Maker Performapal Lebellman Performapal Life Swordsman Performapal Lizardraw Performapal Longphone Bull Performapal Miss Director Performapal Momoncarpet Performapal Monkeyboard Performapal Odd-Eyes Butler Performapal Odd-Eyes Dissolver Performapal Odd-Eyes Light Phoenix Performapal Odd-Eyes Metal Claw Performapal Odd-Eyes Minitaurus Performapal Odd-Eyes Seer Performapal Odd-Eyes Synchron Performapal Odd-Eyes Unicorn Performapal Odd-Eyes Valet Performapal Parrotrio Performapal Partnaga Performapal Pendulum Sorcerer Performapal Radish Horse Performapal Rain Goat Performapal Revue Dancer Performapal Salutiger Performapal Seal Eel Performapal Secondonkey Performapal Sellshell Crab Performapal Silver Claw Performapal Skeeter Skimmer Performapal Skullcrobat Joker Performapal Sky Magician Performapal Sky Pupil Performapal Sleight Hand Magician Performapal Smile Sorcerer Performapal Spikeagle Performapal Splashmammoth Performapal Springoose Performapal Stamp Turtle Performapal Swincobra Performapal Sword Fish Performapal Teeter Totter Hopper Performapal Thunderhino Performapal Trampolynx Performapal Trump Girl Performapal Trump Witch Performapal Trumpanda Performapal Turn Toad Performapal Turn Trooper Performapal U Go Golem Performapal Uni Performapal Whim Witch Performapal Whip Snake 
+ Performapal Call Performapal Dramatic Theater Performapal Pinch Helper Performapal Popperup Performapal Recasting Performapal Revival Performapal Show Down 
+ Support 
+ Performapal Ballad Performapal Barracuda Performapal Bit Bite Turtle Performapal Bowhopper Performapal Card Gardna Performapal Corn Performapal Dag Daggerman Performapal Elephammer Performapal Fireflux Performapal Flip Hippo Performapal Friendonkey Performapal Gatlinghoul Performapal Gentrude Performapal Gold Fang Performapal Guitartle Performapal Handstandaccoon Performapal Helpprincess Performapal Inflater Tapir Performapal King Bear Performapal Ladyange Performapal Lebellman Performapal Lizardraw Performapal Longphone Bull Performapal Monkeyboard Performapal Odd-Eyes Butler Performapal Odd-Eyes Light Phoenix Performapal Odd-Eyes Metal Claw Performapal Odd-Eyes Minitaurus Performapal Odd-Eyes Seer Performapal Odd-Eyes Synchron Performapal Odd-Eyes Unicorn Performapal Odd-Eyes Valet Performapal Parrotrio Performapal Partnaga Performapal Pendulum Sorcerer Performapal Radish Horse Performapal Rain Goat Performapal Revue Dancer Performapal Salutiger Performapal Secondonkey Performapal Sellshell Crab Performapal Silver Claw Performapal Skullcrobat Joker Performapal Sky Pupil Performapal Sleight Hand Magician Performapal Smile Sorcerer Performapal Springoose Performapal Teeter Totter Hopper Performapal Thunderhino Performapal U Go Golem ... further results 
+ Bubble Barrier Command Performance Illusion Balloons Last Minute Cancel Performance Hurricane Performapal Call Performapal Dramatic Theater Performapal Pinch Helper Performapal Popperup Performapal Recasting Performapal Revival Sky Iris 
+ Related 
+ Smoke Mosquito 
+ Polymerization Super Hippo Carnival 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/33/PerformapalOddEyesSeer-AC02-JP-C.png/revision/latest/scale-to-width-down/300?cb=20220617203649', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

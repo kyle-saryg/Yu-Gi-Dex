@@ -1,0 +1,491 @@
+Link: https://yugioh.fandom.com/wiki/Ignoring_its_Summoning_conditions
+
+See also:  Alters Summoning conditions 
+ Ignoring its Summoning conditions  (Japanese:  召 喚 条 件 を 無 視 する,  Shōkan Jōken wo Mushi-suru ) is a phrase that allows a card effects to Summon a  monster  regardless of the  Summoning conditions  written on that Monster Card.
+ Special Summoning by ignoring the Summoning conditions is not considered properly Special Summoning, so if an  Extra Deck  monster or a  Nomi  or  Special Summon-only monster  is Special Summoned this way, it cannot be Special Summoned from the  Graveyard  or if  banished .
+ Even with an effect that ignores the Summoning conditions, Nomi and Special Summon-only monsters cannot be  Special Summoned  from the Graveyard or if banished unless they have first been properly Special Summoned. [1] 
+ The phrase was coined by  Kevin Tewart  of  Upper Deck Entertainment [ citation needed ]  to allow for flexibility when Summoning  LV  monsters with either " Level Up! " or " Level Modulation ", although this term has been applied to many other groups of cards, such as monsters that  cannot be Special Summoned  and  Special Summon Monsters .
+ 
+ Contents 
+ 
+ 1   List of  OCG / TCG  cards that ignore Summoning conditions 
+ 2   List of anime cards that can ignore the Summoning conditions 
+ 3   List of manga cards that can ignore the Summoning conditions 
+ 4   References 
+ 
+ 
+ List of  OCG / TCG  cards that ignore Summoning conditions 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Ancient Gear Frame 古代の機械素体 Effect Monster EARTH Machine 4 1600 500 Ancient Gear Howitzer 古代の機械魔神 Effect Monster Fusion Monster EARTH Machine 8 1000 1800 Ancient Gear Megaton Golem 古代の機械超巨人 Effect Monster Fusion Monster EARTH Machine 9 3300 3300 Armityle the Chaos Phantasm - Phantom of Fury 混沌幻魔アーミタイル－虚無幻影羅生悶 Effect Monster Fusion Monster DARK Fiend 12 0 0 Beatrice, Lady of the Eternal 永遠の淑女 ベアトリーチェ Effect Monster Xyz Monster LIGHT Fairy 6 2500 2800 Chaos Summoning Beast 混沌の召喚神 Effect Monster DARK Fiend 1 0 0 Dark Flattop ダーク・フラット・トップ Effect Monster Synchro Monster DARK Machine 8 0 3000 Dark Summoning Beast 暗黒の召喚神 Effect Monster DARK Fiend 5 0 0 Darkness/Monster A ダークネス／モンスターＡ Effect Monster 0 0 Delta The Magnet Warrior 磁石の戦士δ Effect Monster EARTH Rock 4 1600 1400 Elemental HERO Core Ｅ・ＨＥＲＯ Ｃｏｒｅ Effect Monster Fusion Monster EARTH Warrior 9 2700 2200 Elemental HERO Grandmerge Ｅ・ＨＥＲＯ グランドマン Effect Monster Fusion Monster LIGHT Warrior 6 0 0 Elemental HERO Neos Kluger Ｅ・ＨＥＲＯ ネオス・クルーガー Effect Monster Fusion Monster LIGHT Spellcaster 9 3000 2500 Elementsaber Aina エレメントセイバー・アイナ Effect Monster EARTH Warrior 2 900 1800 Flower Cardian Moonflowerviewing 花札衛－月花見－ Effect Monster Synchro Monster Tuner monster DARK Warrior 6 2000 2000 Gem-Knight Lady Brilliant Diamond ジェムナイトレディ・ブリリアント・ダイヤ Effect Monster Fusion Monster EARTH Rock 10 3400 2000 Gladiator Beast Andabata 剣闘獣アンダバタエ Effect Monster Fusion Monster DARK Beast-Warrior 8 1000 2800 Gladiator Beast Tamer Editor 剣闘獣総監エーディトル Effect Monster Fusion Monster DARK Beast-Warrior 8 2400 3000 Imperion Magnum the Superconductive Battlebot 超電導戦機インペリオン・マグナム Effect Monster Fusion Monster EARTH Rock 10 4000 4000 Magician of Chaos マジシャン・オブ・カオス Effect Monster Ritual Monster DARK Spellcaster 7 2500 2100 Meklord Nucleus Infinity Core 機皇枢インフィニティ・コア Effect Monster DARK Machine 1 0 0 Mixeroid ミキサーロイド Effect Monster WIND Machine 4 0 2200 Morphtronic Celfon Ｄ・モバホン Effect Monster EARTH Machine 1 100 100 Parasite Paranoid 寄生虫パラノイド Effect Monster EARTH Insect 2 500 300 Red-Eyes Toon Dragon レッドアイズ・トゥーン・ドラゴン Effect Monster Toon monster DARK Dragon 7 2400 2000 Shinobaron Peacock 霊魂鳥神－彦孔雀 Effect Monster Ritual Monster Spirit monster WIND Winged Beast 8 3000 2500 Shinobaroness Peacock 霊魂鳥神－姫孔雀 Effect Monster Ritual Monster Spirit monster WIND Winged Beast 8 2500 3000 Silent Magician 沈黙の魔術師－サイレント・マジシャン Effect Monster LIGHT Spellcaster 4 1000 1000 Silent Swordsman 沈黙の剣士－サイレント・ソードマン Effect Monster LIGHT Warrior 4 1000 1000 Spiritual Beast Tamer Winda 精霊獣使い ウィンダ Effect Monster WIND Psychic 4 1600 1800 Timaeus the Knight of Destiny 合神竜ティマイオス Effect Monster Fusion Monster LIGHT Warrior 10 ? ? Time Maiden 時械巫女 Effect Monster LIGHT Fairy 1 0 0 Toon Dark Magician トゥーン・ブラック・マジシャン Effect Monster Toon monster DARK Spellcaster 7 2500 2100 Ultimate Ancient Gear Golem 古代の機械究極巨人 Effect Monster Fusion Monster EARTH Machine 10 4400 3400 Water Dragon Cluster ウォーター・ドラゴン－クラスター Effect Monster WATER Sea Serpent 10 2800 2600 The Winged Dragon of Ra - Immortal Phoenix ラーの翼神竜－不死鳥 Effect Monster DIVINE Divine-Beast 10 4000 4000 The Winged Dragon of Ra - Sphere Mode ラーの翼神竜－球体形 Effect Monster DIVINE Divine-Beast 10 ? ? 
+   Japanese name Card type Property Ancient Gear Catapult 古代の機械射出機 Spell Card Normal Spell Card Normal Spell Card Armed Dragon Blitz 武装竜の襲雷 Spell Card Normal Spell Card Normal Spell Card Assault Reboot バスター・リブート Trap Card Normal Trap Card Normal Trap Card Assault Revival Ｒｅ－ＢＵＳＴＥＲ Spell Card Quick-Play Spell Card Quick-Play Spell Card Born from Draconis ボーン・フロム・ドラコニス Trap Card Normal Trap Card Normal Trap Card Chaos Scepter Blast 滅びの呪文－デス・アルテマ Spell Card Quick-Play Spell Card Quick-Play Spell Card Cocoon of Ultra Evolution 超進化の繭 Spell Card Quick-Play Spell Card Quick-Play Spell Card Cubic Rebirth 方界輪廻 Trap Card Normal Trap Card Normal Trap Card Dark Spell Regeneration 暗黒の魔再生 Trap Card Normal Trap Card Normal Trap Card Dimension Fusion Destruction 次元融合殺 Spell Card Normal Spell Card Normal Spell Card Double Evolution Pill 究極進化薬 Spell Card Normal Spell Card Normal Spell Card Double Hero Attack ダブルヒーローアタック Spell Card Quick-Play Spell Card Quick-Play Spell Card Eye of the Void 蒼焔の煉獄 Trap Card Normal Trap Card Normal Trap Card Favorite Contact フェイバリット・コンタクト Trap Card Normal Trap Card Normal Trap Card Fire Fortress atop Liang Peak 炎傑の梁山閣 Spell Card Field Spell Card Field Spell Card Forge of the True Dracos 真竜の目覚め Spell Card Normal Spell Card Normal Spell Card Gladiator Beast United 団結する剣闘獣 Spell Card Quick-Play Spell Card Quick-Play Spell Card Gottoms' Second Call ガトムズの非常召集 Spell Card Normal Spell Card Normal Spell Card Hyper Blaze ハイパーブレイズ Trap Card Continuous Trap Card Continuous Trap Card Infinite Light 無限光アイン・ソフ・オウル Trap Card Continuous Trap Card Continuous Trap Card Level Down!? レベルダウン！？ Spell Card Quick-Play Spell Card Quick-Play Spell Card Level Modulation レベル調整 Spell Card Normal Spell Card Normal Spell Card Level Up! レベルアップ！ Spell Card Normal Spell Card Normal Spell Card Limit Overdrive リミットオーバー・ドライブ Spell Card Quick-Play Spell Card Quick-Play Spell Card Lullaby of Obedience 天声の服従 Spell Card Normal Spell Card Normal Spell Card Magistery Alchemist マジスタリー・アルケミスト Trap Card Normal Trap Card Normal Trap Card Malefic Divide Ｓｉｎ　Ｃｒｏｓｓ Spell Card Quick-Play Spell Card Quick-Play Spell Card Meklord Astro the Eradicator 根絶の機皇神 Trap Card Normal Trap Card Normal Trap Card Millennium Revelation 千先の啓示 Spell Card Continuous Spell Card Continuous Spell Card Miracle Contact ミラクル・コンタクト Spell Card Normal Spell Card Normal Spell Card Neos Fusion ネオス・フュージョン Spell Card Normal Spell Card Normal Spell Card Rainbow Gravity 虹の引力 Trap Card Normal Trap Card Normal Trap Card Recardination 札再生 Spell Card Normal Spell Card Normal Spell Card Rise of the Salamangreat 転生炎獣の降臨 Spell Card Ritual Spell Card Ritual Spell Card Ritual Beast's Bond 霊獣の相絆 Spell Card Quick-Play Spell Card Quick-Play Spell Card Spell Gear 魔法の歯車 Spell Card Normal Spell Card Normal Spell Card Super All In! 超勝負！ Spell Card Normal Spell Card Normal Spell Card Super Koi Koi 超こいこい Spell Card Normal Spell Card Normal Spell Card Super Quantal Alphan Spike 超量必殺アルファンボール Spell Card Normal Spell Card Normal Spell Card Super Soldier Rebirth 転生の超戦士 Trap Card Normal Trap Card Normal Trap Card Super Soldier Ritual 超戦士の儀式 Spell Card Ritual Spell Card Ritual Spell Card The Supreme King's Soul 覇王龍魂 Trap Card Normal Trap Card Normal Trap Card Supreme Rage 覇王の逆鱗 Trap Card Normal Trap Card Normal Trap Card Toon Mask トゥーン・マスク Trap Card Normal Trap Card Normal Trap Card Toon Page-Flip トゥーン・フリップ Spell Card Quick-Play Spell Card Quick-Play Spell Card Unification of the Cubic Lords 方界合神 Trap Card Normal Trap Card Normal Trap Card Ursarctic Quint Charge ベアルクティ・クィントチャージ Trap Card Continuous Trap Card Continuous Trap Card Void Feast 煉獄の狂宴 Trap Card Normal Trap Card Normal Trap Card A Wild Monster Appears! 青天の霹靂 Spell Card Normal Spell Card Normal Spell Card Z-ONE/Trap A Ｚ－ＯＮＥ／罠Ａ Trap Card Continuous Trap Card Continuous Trap Card ... further results (2 more) 
+ List of anime cards that can ignore the Summoning conditions 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Ancient Gear Statue 古代の機械像 Effect Monster EARTH Machine 0 0 0 2 0 0 0 0 0 ??? 0 0 0 0 0 500 Dark Flattop ダーク・フラット・トップ Dark Synchro Monster DARK Machine 0 0 -8 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 Dark Summoning Beast 暗黒の召喚神 Effect Monster DARK Fiend 0 0 0 5 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 Darkness Outsider ダークネス・アウトサイダー Effect Monster DARK Fiend 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 Frightfur Sabre-Tooth デストーイ・サーベル・タイガー Fusion Monster DARK Fiend 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 2400 Gladiator Beast Andabata 剣闘獣アンダバタエ Fusion Monster DARK Beast-Warrior 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 1000 Gladiator Beast Tamer Editor 剣闘獣総監エーディトル Fusion Monster DARK Beast-Warrior 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 2400 Morphtronic Celfon Ｄ・モバホン Effect Monster EARTH Machine 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 0 100 Number 46: Dragluon Ｎｏ.４６ 神影龍ドラッグルーオン Xyz Monster LIGHT Dragon 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 3000 Number C1000: Numeronius ＣＮｏ.１０００ 夢幻虚神ヌメロニアス Xyz Monster LIGHT Fiend 0 0 12 0 0 0 0 0 ??? 0 0 0 10000 Starliege Lord Galaxion 輝光帝ギャラクシオン Xyz Monster LIGHT Warrior 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 2000 Supreme King Z-ARC 覇王龍ズァーク Fusion Monster Synchro Monster Xyz Monster Pendulum Monster DARK Dragon 0 0 12 0 0 0 0 0 ??? 0 0 0 0 4000 Ultimate Ancient Gear Golem 古代の機械究極巨人 Fusion Monster EARTH Machine 0 0 10 0 0 0 0 0 ??? 0 0 0 0 4400 
+   Japanese name Card type Property Ancient Gear Catapult 古代の機械射出機 Spell Card Normal Spell Card Ascension Spiral 昇華螺旋 Trap Card Normal Trap Card Burst Synchro Summon バースト・シンクロ・サモン Trap Card Normal Trap Card Chaos Ancient Gear Fusion 古代の機械混沌融合 Spell Card Normal Spell Card Chaos Caller カオス狂宴 Spell Card Normal Spell Card Cipher Spectrum 光波分光 Trap Card Normal Trap Card Climax Hour クライマックスアワー Spell Card Normal Spell Card Delta Reactor デルタ・リアクター Trap Card Normal Trap Card Double Cipher 二重光波 Trap Card Normal Trap Card Front Change フロントチェンジ Spell Card Normal Spell Card Gagagamirage ガガガミラージュ Trap Card Continuous Trap Card Gottoms' Second Call ガトムズの非常召集 Spell Card Normal Spell Card Illusion Gate 幻魔の扉 Spell Card Normal Spell Card Immortal Class 不滅階級 Trap Card Normal Trap Card Impact Revive インパクト・リヴァイヴ Spell Card Normal Spell Card Level Bond レベルの絆 Trap Card Normal Trap Card Level Change レベル・チェンジ Trap Card Normal Trap Card Level Modulation レベル調整 Trap Card Normal Trap Card Level Modulation レベル調整 Spell Card Normal Spell Card Level Soul レベル・ソウル Trap Card Normal Trap Card Level Up! レベルアップ！ Spell Card Normal Spell Card Malefic Divide Ｓｉｎ　Ｃｒｏｓｓ Spell Card Quick-Play Spell Card Miracle Contact ミラクル・コンタクト Spell Card Normal Spell Card Mystic Revolution ミスティック・レボリューション Spell Card Normal Spell Card Rank-Up-Magic - The Seventh One ＲＵＭ－七皇の剣 Spell Card Normal Spell Card Recardination 札再生 Spell Card Normal Spell Card Red-Eyes Spirit レッドアイズ・スピリッツ Trap Card Normal Trap Card Respect Synchron リスペクト・シンクロン Trap Card Continuous Trap Card Resurrection Tribute 復活の生け贄 Spell Card Normal Spell Card Spell Gear 魔法の歯車 Spell Card Normal Spell Card Stardust Flash 星屑の残光 Trap Card Normal Trap Card Supreme Rage 覇王の逆鱗 Trap Card Normal Trap Card Test Fusion スレイブ・フュージョン Spell Card Normal Spell Card Time Fusion 時間融合－タイム・フュージョン Spell Card Normal Spell Card Time Stream タイム・ストリーム Spell Card Normal Spell Card Underworld Circle 黄泉天輪 Spell Card Continuous Spell Card Unfinished Ancient Gear 未完の古代の機械 Trap Card Normal Trap Card Volcanic Force ヴォルカニック・フォース Trap Card Normal Trap Card 
+ List of manga cards that can ignore the Summoning conditions 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Morphtronic Celfon Ｄ・モバホン Effect Monster EARTH Machine 0 0 0 1 0 0 0 0 0 100 0 0 0 0 0 100 
+ 
+ 
+ References 
+ 
+ ↑   Konami OCG Card Database : "Dark Flattop's effect cannot Special Summon a Flying Fortress SKY FIRE from the Graveyard if it was sent there without being properly Summoned first." 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Gameplay

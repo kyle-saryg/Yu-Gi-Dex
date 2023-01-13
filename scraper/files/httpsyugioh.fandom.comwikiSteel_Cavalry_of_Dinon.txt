@@ -1,0 +1,396 @@
+Link: https://yugioh.fandom.com/wiki/Steel_Cavalry_of_Dinon
+
+
+ 
+ 
+ Steel Cavalry of Dinon ディノンの 鋼 鉄 騎 兵 
+ 
+ English 
+Steel Cavalry of Dinon 
+ French 
+ Cavalerie d'Acier de Dinon Check translation 
+ German 
+ Stahlkavallerie von Dinon Check translation 
+ Italian 
+ Cavalleria d'Acciaio di Dinon Check translation 
+ Korean 
+ 디논의 강철기병 Check translation 
+ Portuguese 
+ Cavalaria de Aço de Dinon Check translation 
+ Spanish 
+ Caballería de Acero de Dinon Check translation 
+ Japanese (kana) 
+ ディノンのこうてつきへい Check translation 
+ Japanese (base) 
+ ディノンの鋼鉄騎兵 Check translation 
+ Japanese ( rōmaji ) 
+Dinon no Kōtetsukihei 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Dinosaur  /  Pendulum  /  Effect 
+ Level 
+ 4   
+ Pendulum Scale 
+   5 
+ ATK  /  DEF 
+ 1600  /  2600 
+ Passcode 
+ 02396042 
+ Card effect types 
+ 
+ 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+At the start of the  Damage Step , if this card  battles  a  Pendulum Monster : This card's  ATK  and  DEF  become half its current ATK and DEF until the end of the Damage Step. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Au début de la Damage Step, si cette carte combat un Monstre Pendule : jusqu'à la fin de la Damage Step, l'ATK/DEF de cette carte deviennent la moitié de son ATK/DEF actuelles. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Am Beginn des Damage Steps, falls diese Karte gegen ein Pendelmonster kämpft: Die ATK und DEF dieser Karte werden bis zum Ende des Damage Steps zur Hälfte ihrer derzeitigen ATK und DEF. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ All'inizio del Damage Step, se questa carta combatte con un Mostro Pendulum: l'ATK e il DEF di questa carta diventano la metà dei suoi ATK e DEF attuali fino alla fine del Damage Step. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ No começo da  Etapa de Dano , se este card  batalhar  um  Monstro Pêndulo : o  ATK  e  DEF  deste card se tornam metade do seu ATK e DEF atuais até o final da Etapa de Dano. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Al comienzo del Damage Step, si esta carta batalla con un Monstruo de Péndulo: hasta el final del Damage Step, el ATK y la DEF de esta carta se convierten en la mitad de su ATK y DEF en este momento. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：このカードがＰモンスターと戦闘を行うダメージステップ開始時に発動する。このカードの攻撃力・守備力はダメージステップ終了時まで半分になる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 이 카드가 펜듈럼 몬스터와 전투를 실행하는 데미지 스텝 개시시에 발동한다. 이 카드의 공격력 / 수비력은 데미지 스텝 종료시까지 절반이 된다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2016-01-09  
+ BOSH-ENSP1   
+ Breakers of Shadow Sneak Peek Participation Card 
+ Ultra Rare 
+ 
+ 
+ 2016-01-14  
+ BOSH-EN000   
+ Breakers of Shadow 
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2016-01-09  
+ BOSH-FRSP1   
+ Breakers of Shadow Sneak Peek Participation Card 
+ Les Destructeurs de L'ombre Sneak Peek  
+ Ultra Rare 
+ 
+ 
+ 2016-01-14  
+ BOSH-FR000   
+ Breakers of Shadow 
+ Les Destructeurs de L'ombre  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2016-01-09  
+ BOSH-DESP1   
+ Breakers of Shadow Sneak Peek Participation Card 
+ Breakers of Shadow Sneak Peek  
+ Ultra Rare 
+ 
+ 
+ 2016-01-14  
+ BOSH-DE000   
+ Breakers of Shadow 
+ Breakers of Shadow  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2016-01-09  
+ BOSH-ITSP1   
+ Breakers of Shadow Sneak Peek Participation Card 
+ Distruttori dell'Ombra Sneak Peek  
+ Ultra Rare 
+ 
+ 
+ 2016-01-14  
+ BOSH-IT000   
+ Breakers of Shadow 
+ Distruttori dell'Ombra  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2016-01-09  
+ BOSH-PTSP1   
+ Breakers of Shadow Sneak Peek Participation Card 
+ Sneak Peek Destruidores das Sombras  
+ Ultra Rare 
+ 
+ 
+ 2016-01-15  
+ BOSH-PT000   
+ Breakers of Shadow 
+ Destruidores das Sombras  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2016-01-09  
+ BOSH-SPSP1   
+ Breakers of Shadow Sneak Peek Participation Card 
+ Destructores de las Sombras Sneak Peek  
+ Ultra Rare 
+ 
+ 
+ 2016-01-14  
+ BOSH-SP000   
+ Breakers of Shadow 
+ Destructores de las Sombras  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2016-09-10  
+ EP16-JP045   
+ Extra Pack 2016 
+ ＥＸＴＲＡ ＰＡＣＫ　２０１６  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2017-02-03  
+ EP16-KR035   
+ Extra Pack 2016 
+ EXTRA   PACK  ２０１６  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Related to  archetypes  and  series   
+ Draconia 
+ 
+ Stat changes  
+ This card loses ATK 
+ This card loses DEF 
+ 
+ Miscellaneous  
+ No Pendulum Effects 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12241 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Draconia  ドラコニア Members 
+ Dragoons of Draconia Sea Dragoons of Draconia Sky Dragoons of Draconia 
+ Related 
+ Magical Cavalry of Cxulub Samurai Cavalry of Reptier Steel Cavalry of Dinon 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/6e/SteelCavalryofDinon-BOSH-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20160114190616', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,722 @@
+Link: https://yugioh.fandom.com/wiki/Infinite_Loop
+
+An  infinite loop  (Japanese:  無 限 ループ  Mugen Rūpu ) is a never-ending cycle of effects  activating  in  response  to each other, or a series of  Continuous Effect (s) that never settle.
+ There are two distinct types of infinite loops: loops with no net change and loops with net change. Infinite loops contrast to  controlled loops , which instead are maintained by a player intentionally repeating a set of actions or making the same decisions, rather than forced by game mechanics.
+ 
+ Contents 
+ 
+ 1   Loops with no net change 
+ 
+ 1.1   Pole Position 
+ 
+ 1.1.1   Voluntary 
+ 1.1.2   Involuntary 
+ 
+ 
+ 1.2   Amplifier 
+ 
+ 1.2.1   Control 
+ 
+ 1.2.1.1   Voluntary 
+ 1.2.1.2   Involuntary 
+ 
+ 
+ 1.2.2   Negation 
+ 
+ 1.2.2.1   Voluntary 
+ 1.2.2.2   Involuntary 
+ 
+ 
+ 
+ 
+ 1.3   Cyber Blader 
+ 
+ 1.3.1   Voluntary 
+ 1.3.2   Involuntary 
+ 
+ 
+ 
+ 
+ 2   Loops with net change 
+ 
+ 2.1   All-Out Attacks 
+ 
+ 2.1.1   End by the Duel ending 
+ 2.1.2   End with no net change 
+ 
+ 
+ 2.2   Red-Eyes Flare Metal Dragon 
+ 
+ 
+ 3   Special rulings to prevent infinite loops 
+ 
+ 3.1   Destiny HERO - Departed 
+ 3.2   Light and Darkness Dragon 
+ 
+ 
+ 4   In the anime 
+ 5   In the manga 
+ 6   References 
+ 
+ 
+ Loops with no net change 
+ These occur when a series of mandatory actions repeat after each other in a cycle, and there is no net change after each cycle, such that the game state is identical at the beginning and end of any cycle.
+ These types of infinite loops are illegal in gameplay, meaning that a player may not voluntarily  activate  any card if its activation would cause such a loop. If such a loop is caused by something involuntary, such as a player conducting their  normal draw  or a mandatory effect, then the card ruled to be the source of the infinite loop is automatically destroyed by game mechanics.
+ 
+ Pole Position 
+ The mechanics of "Pole Position" naturally lend itself to causing such infinite loops when combined with Spell effects that directly or indirectly change a monster's  ATK  (see  Card Rulings:Pole Position  for further examples).
+ 
+ Voluntary 
+ " Pole Position ", " Luminous Spark ", and " Gemini Elf " (1900 ATK) are face-up on the field.
+ If a player attempts to Summon " X-Head Cannon ", the following would occur:
+ 
+ "X-Head Cannon" would be Summoned with 1800 ATK. 
+ Since "X-Head Cannon" is a  LIGHT  monster, "Luminous Spark" increases its ATK by 500, to 2300. 
+ "X-Head Cannon" is now the monster on the field with the highest ATK, so "Pole Position" makes it unaffected by Spell Cards. 
+ "X-Head Cannon" is now unaffected by "Luminous Spark", reducing its ATK back to its  original ATK  of 1800. 
+ "X-Head Cannon" is now no longer the monster on the field with the highest ATK, so it is no longer unaffected by Spell Cards. 
+ "Luminous Spark" now increases the ATK of "X-Head Cannon" by 500, to 2300. 
+ "X-Head Cannon" is now the monster on the field with the highest ATK, so "Pole Position" makes it unaffected by Spell Cards. 
+ The above sequence would repeat infinitely, with the ATK of "X-Head Cannon" never settling. 
+ Therefore, it is an illegal move for either player to Summon "X-Head Cannon". [1] 
+ 
+ Involuntary 
+ " Pole Position ", " Opticlops " (1800 ATK), and " Muka Muka " are face-up on the field. "Muka Muka" is equipped with " Axe of Despair ", and its  controller  has no cards in their  hand  (making "Muka Muka's" ATK 1600).
+ When "Muka Muka's" controller conducts their  normal draw :
+ 
+ "Muka Muka's" ATK becomes 1900. 
+ "Muka Muka" is now the monster on the field with the highest ATK, so "Pole Position" makes it unaffected by Spell Cards. 
+ "Muka Muka" is now unaffected by "Axe of Despair", reducing its ATK to 900. 
+ "Muka Muka" is now no longer the monster on the field with the highest ATK, so it is no longer unaffected by Spell Cards. 
+ "Axe of Despair" now increases the ATK of "Muka Muka" by 1000, to 1900. 
+ "Muka Muka" is now the monster on the field with the highest ATK, so "Pole Position" makes it unaffected by Spell Cards. 
+ The above sequence would repeat infinitely, with the ATK of "Muka Muka" never settling. 
+ Since this loop was caused by a mandatory action, it cannot be prevented by restricting the player's actions. Since the loop cannot be avoided, " Pole Position " will be  destroyed  by  game mechanics . [1] 
+ 
+ Amplifier 
+ The mechanics of "Amplifier" naturally lend itself to causing such infinite loops when combined with Trap effects on the field that change control of "Jinzo" or negate the effect of "Jinzo" or Trap Cards (see  Card Rulings:Amplifier  for the official examples).
+ 
+ Control 
+ Voluntary 
+ Player 1  controls  a " Jinzo " which is  owned  by Player 2, but being controlled by Player 1 due to " Snatch Steal ". "Jinzo" is equipped with " Amplifier ".
+ If Player 1 attempts to activate " Imperial Order ", the following would occur:
+ 
+ "Imperial Order" negates the effect of "Snatch Steal" ("Amplifier" cannot be negated). 
+ Since "Snatch Steal" is now negated, control of "Jinzo" returns to its owner Player 2. 
+ Since Player 2 now controls "Jinzo" (which is equipped with "Amplifier"), it negates the effect of Player 1's "Imperial Order". 
+ Since "Imperial Order" is now negated, "Snatch Steal" is no longer negated, so Player 1 takes control of "Jinzo". 
+ Since Player 1 now controls "Jinzo" (which is equipped with "Amplifier"), it no longer negates the effect of Player 1's "Imperial Order". 
+ "Imperial Order" negates the effect of "Snatch Steal" ("Amplifier" cannot be negated). 
+ The above sequence would repeat infinitely, with the player who controls "Jinzo" never settling. 
+ Therefore, it is an illegal move for Player 1 to activate "Imperial Order". [2] 
+ If Player 1 had already controlled "Imperial Order" before activating "Snatch Steal", then Player 1 activating "Snatch Steal" targeting "Jinzo" (equipped with "Amplifier") would be an illegal move.
+ 
+ Involuntary 
+ Player 1  controls  a " Jinzo " which is  owned  by Player 2, but being controlled by Player 1 due to " Snatch Steal ". "Jinzo" is equipped with " Amplifier " and affected by " Effect Veiler ". Player 1 also controls " The Emperor's Holiday ".
+ At the end of the turn, the following would occur:
+ 
+ "Effect Veiler" stops negating the effects of "Jinzo". 
+ "The Emperor's Holiday" negates the effect of "Snatch Steal" ("Amplifier" cannot be negated). 
+ Since "Snatch Steal" is now negated, control of "Jinzo" returns to its owner Player 2. 
+ Since Player 2 now controls "Jinzo" (which is equipped with "Amplifier"), it negates the effect of Player 1's "The Emperor's Holiday". 
+ Since "The Emperor's Holiday" is now negated, "Snatch Steal" is no longer negated, so Player 1 takes control of "Jinzo". 
+ Since Player 1 now controls "Jinzo" (which is equipped with "Amplifier"), it no longer negates the effect of Player 1's "The Emperor's Holiday". 
+ "The Emperor's Holiday" negates the effect of "Snatch Steal" ("Amplifier" cannot be negated). 
+ The above sequence would repeat infinitely, with the player who controls "Jinzo" never settling. 
+ Since this loop was caused by a mandatory effect, it cannot be prevented by restricting the player's actions. Since the loop cannot be avoided, whichever card is identified as the cause will be  destroyed  by  game mechanics  (no official ruling has been issued as to which is the cause).
+ 
+ Negation 
+ Voluntary 
+ Player 1 controls " Skill Drain " and a " Jinzo " equipped with " Amplifier ".
+ If Player 2 attempts to activate " Royal Decree ", the following would occur:
+ 
+ "Royal Decree" negates the effect of "Skill Drain". 
+ Since "Skill Drain" is no longer negating "Jinzo", "Jinzo" negates the effect of "Royal Decree". 
+ Since "Royal Decree" is no longer negating "Skill Drain", "Skill Drain" negates the effect of "Jinzo". 
+ Since "Jinzo" is no longer negating "Royal Decree", "Royal Decree" negates the effect of "Skill Drain". 
+ The above sequence would repeat infinitely, with which effect is active never settling. 
+ Therefore, it is an illegal move for Player 1 to activate "Royal Decree". [2] 
+ If Player 2 had already controlled "Royal Decree" before Player 1 activated "Skill Drain", then Player 1 activating "Skill Drain" would be an illegal move.
+ 
+ Involuntary 
+ Player 1 controls " Skill Drain ". Player 2  controls  a " Jinzo " which is  owned  by Player 1, but being controlled by Player 2 due to " Mind Control ". "Jinzo" is equipped with " Amplifier ". Player 2 also controls " Royal Decree ".
+ During the  End Phase , the following would occur:
+ 
+ "Mind Control" stops applying, so control of "Jinzo" returns to Player 1. 
+ Since Player 1 now controls "Jinzo", "Amplifier" no longer prevents "Jinzo" from negating "Royal Decree", and prevents "Jinzo" from negating "Skill Drain". 
+ Since it is no longer being negated, "Skill Drain" negates the effect of "Jinzo". 
+ Since "Jinzo" is no longer negating "Royal Decree", "Royal Decree" negates the effect of "Skill Drain". 
+ Since "Skill Drain" is no longer negating "Jinzo", "Jinzo" negates the effect of "Royal Decree". 
+ Since "Royal Decree" is no longer negating "Skill Drain", "Skill Drain" negates the effect of "Jinzo". 
+ The above sequence would repeat infinitely, with which effect is active never settling. 
+ Since this loop was caused by a mandatory effect, it cannot be prevented by restricting the player's actions. Since the loop cannot be avoided, whichever card is identified as the cause will be  destroyed  by  game mechanics  (no official ruling has been issued as to which is the cause).
+ 
+ Cyber Blader 
+ This loop only applies in the  TCG . In the  OCG , " Cyber Blader " can only negate activated effects.
+ 
+ Voluntary 
+ Player 1  controls  three monsters, one of which is  owned  by Player 2, but being controlled by Player 1 due to " Snatch Steal ".
+ If Player 2 attempts to Summon " Cyber Blader ", the following would occur:
+ 
+ Since Player 1 controls three monsters, the effect of "Cyber Blader" negates the effect of "Snatch Steal". The equipped monster returns to Player 2's control. 
+ Since Player 1 now controls two monsters, the effect of "Cyber Blader" instead doubles its ATK. The effect of "Snatch Steal" is no longer negated, so Player 1 gains control of the equipped monster. 
+ Since Player 1 now controls three monsters, the effect of "Cyber Blader" negates the effect of "Snatch Steal". The equipped monster returns to Player 2's control. 
+ The above sequence would repeat infinitely, with the player who controls the monster equipped with "Snatch Steal" never settling. 
+ Therefore, it is an illegal move for Player 2 to Summon "Cyber Blader".
+ If Player 2 had already controlled "Cyber Blader" before Player 1 activated "Snatch Steal", then Player 1 activating "Snatch Steal" (targeting a monster other than "Cyber Blader") would be an illegal move.
+ 
+ Involuntary 
+ Player 1  controls  two monsters, one of which is  owned  by Player 2, but being controlled by Player 1 due to " Snatch Steal ". Player 1 also controls " Jam Breeding Machine ". Player 2 controls "Cyber Blader".
+ During Player 1's  Standby Phase , the following would occur:
+ 
+ "Jam Breeding Machine's" mandatory effect Summons a " Slime Token " to Player 1's field. 
+ Since Player 1 controls three monsters, the effect of "Cyber Blader" negates the effect of "Snatch Steal". The equipped monster returns to Player 2's control. 
+ Since Player 1 now controls two monsters, the effect of "Cyber Blader" instead doubles its ATK. The effect of "Snatch Steal" effect is no longer negated, so Player 1 gains control of the equipped monster. 
+ Since Player 1 now controls three monsters, the effect of "Cyber Blader" negates the effect of "Snatch Steal". The equipped monster returns to Player 2's control. 
+ The above sequence would repeat infinitely, with the player who controls the monster equipped with "Snatch Steal" never settling. 
+ Since this loop was caused by a mandatory effect, it cannot be prevented by restricting the player's actions. Since the loop cannot be avoided, whichever card is identified as the cause will be  destroyed  by  game mechanics  (no official ruling has been issued, but it will likely be either " Snatch Steal " or " Cyber Blader ").
+ 
+ Loops with net change 
+ Unlike loops with no net change, loops with net change cause a change to occur each time the cycle repeats. In these cases, the loop will continue until either the Duel ends or it ceases to have net change; if the latter, at this point the card ruled to have begun the loop will be automatically destroyed by game mechanics.
+ 
+ All-Out Attacks 
+ All-Out Attacks OTKs  utilize a loop with net change to force the opponent to continuously thin their Deck (either by drawing cards or sending cards from the Deck to the Graveyard), eventually resulting in a  Deck out .
+ 
+ End by the Duel ending 
+ Player 1 controls a face-down " All-Out Attacks " and a face-down " Morphing Jar #2 " and " Hiro's Shadow Scout " that were Special Summoned. Player 1 has no monsters left in their Deck.
+ If Player 1 activates "All-Out Attacks", the following will occur:
+ 
+ Player 1's face-down monsters will be flipped face-up, causing both their effects to activate. 
+ The effect of "Hiro's Shadow Scout" will make the opponent draw 3 cards. 
+ The effect of "Morphing Jar #2" will return both flipped monsters back to the Deck, and Player 1 will then  reveal  cards from the top of his/her Deck until revealing two monsters. Since the only two monsters in Player 1's Deck are the two that were just returned, they will be the ones revealed. 
+ The two revealed monsters will be Special Summoned face-down to Player 1's field. 
+ Player 1's "All-Out Attacks" will then again flip the two monsters face-up, causing both their effects to activate. 
+ The effect of "Hiro's Shadow Scout" will again make the opponent draw 3 cards. 
+ "Morphing Jar #2" will continue to return the two monsters to the Deck and reset them face-down onto the field, where "All-Out Attacks" will flip them. 
+ This infinite loop repeats until Player 2 has drawn close to their whole Deck, at which point the effect of "Hiro's Shadow Scout" will force Player 2 to draw when they do not have enough cards in their Deck. This will cause Player 2 to lose the Duel due to a  Deck out . 
+ End with no net change 
+ Player 1 controls a face-down " All-Out Attacks " and a face-down " Morphing Jar #2 " and " Needle Worm " that were Special Summoned. Player 1 has no monsters left in their Deck.
+ If Player 1 activates "All-Out Attacks", the following will occur:
+ 
+ Player 1's face-down monsters will be flipped, causing both their effects to activate. 
+ The effect of "Needle Worm" will make the opponent  mill  5 cards. 
+ The effect of "Morphing Jar #2" will return both flipped monsters back to the Deck, and Player 1 will then  reveal  cards from the top of his/her Deck until revealing two monsters. Since the only two monsters in Player 1's Deck are the two that were just returned, they will be the ones revealed. 
+ The two revealed monsters will be Special Summoned face-down to Player 1's field. 
+ Player 1's "All-Out Attacks" will then again flip the two monsters face-up, causing both their effects to activate. 
+ The effect of "Needle Worm" will again make the opponent mill 5 cards. 
+ "Morphing Jar #2" will continue to return the two monsters to the Deck and reset them face-down onto the field, where "All-Out Attacks" will flip them. 
+ This infinite loop repeats until Player 2 has milled their whole Deck, at which point the effect of "Needle Worm" ceases to cause the opponent to mill any cards. The loop now has no net change. 
+ At this point, just as with infinite loops with no net change, the card that began the loop, "All-Out Attacks", would be destroyed by game mechanics. Once Player 1 ends their turn, Player 2 will be unable to draw a card during their Draw Phase and will lose the Duel.
+ 
+ Red-Eyes Flare Metal Dragon 
+ There is a very simple infinite loop involving " Red-Eyes Flare Metal Dragon " and " Beelze of the Diabolic Dragons " that ends with the end of the Duel.
+ If Player 1 controls "Red-Eyes Flare Metal Dragon" while Player 2 controls "Beelze of the Diabolic Dragons", and the effect of "Beelze of the Diabolic Dragons" is  activated :
+ 
+ Immediately after the effect of Player 2's "Beelze of the Diabolic Dragons" resolves, Player 1's "Red-Eyes Flare Metal Dragon" will inflict 500 damage to Player 2. 
+ Due to taking damage from an opponent's card effect, the mandatory effect of Player 2's "Beelze of the Diabolic Dragons" activates, and it gains ATK. 
+ Immediately after the effect of Player 2's "Beelze of the Diabolic Dragons" resolves, Player 1's "Red-Eyes Flare Metal Dragon" will inflict 500 damage to Player 2. 
+ This infinite loop repeats until Player 2 runs out of  Life Points . This will cause Player 2 to lose the Duel. 
+ Special rulings to prevent infinite loops 
+ Some cards have special rulings to prevent them from causing infinite loops.
+ 
+ Destiny HERO - Departed 
+ While " King Tiger Wanghu " is  face-up  on the  field  (and its effect is not  negated ), unless a card effect would make the  ATK  of " Destiny HERO - Departed " greater than 1400 when  Special Summoned , its effect to Special Summon itself will not activate. [3] 
+ If this ruling were not in place, the following would happen during the  Standby Phase :
+ 
+ The  mandatory effect  of "Destiny HERO - Departed" activates, Special Summoning itself from the  Graveyard  to its  owner 's opponent's side of the  field . 
+ The mandatory effect of "King Tiger Wanghu" activates, destroying "Destiny HERO - Departed". 
+ The mandatory effect of "Destiny HERO - Departed" activates, Special Summoning itself from the Graveyard to its owner's opponent's side of the field. 
+ The above sequence would repeat infinitely. 
+ This ruling does not take net change into consideration, so "Destiny HERO - Departed" will not be Special Summoned even if " Cyber Summon Blaster " and " DNA Surgery " ( declaring   Machine ) are active.
+ This ruling can also be extrapolated to cover "Destiny HERO - Departed" with a nonzero ATK of 2000 or less while the player controls " Slifer the Sky Dragon ".
+ 
+ Light and Darkness Dragon 
+ The negation effect of " Light and Darkness Dragon " will only activate once while the effect of " Reverse Trap " is applying. [4]  In addition to preventing abuse, this also prevents infinite loops.
+ If this ruling were not in place, infinite loops would occur with many mandatory Trigger Effects. For example, the following would happen during the opponent's  End Phase  if that player controls " Judgment Dragon ":
+ 
+ The  mandatory effect  of "Judgment Dragon" activates to send cards from the Deck to the Graveyard. 
+ The mandatory effect of "Light and Darkness Dragon" is Chained, negating the effect of "Judgment Dragon" and increasing its own ATK and DEF by 500. 
+ The mandatory effect of "Judgment Dragon" activates to send cards from the Deck to the Graveyard. 
+ The mandatory effect of "Light and Darkness Dragon" is Chained, negating the effect of "Judgment Dragon" and increasing its own ATK and DEF by 500. 
+ The above sequence would repeat infinitely. 
+ In the anime 
+ The anime shows three infinite loops with net change, two caused by  Yami Yugi  and one by  Syrus Truesdale .
+ 
+ In  episode 67  of  Yu-Gi-Oh! , Strings controlled  Slifer the Sky Dragon  in attack position and  Revival Jam  in defense position, with  Infinite Cards ,  Card of Safe Return , and  Jam Defender  in his Spell and Trap Zone. Yugi surpassed this "Infinite Combo" by having  Buster Blader  attack Slifer, causing Strings to use Jam Defender to make Revival Jam sacrifice itself to stop the attack. Yugi then used  Brain Control  to make Revival Jam revive on his side of the field. As Card of Safe Return caused Strings to draw three cards, Slifer's effect caused it to strike down Revival Jam, causing Revival Jam to revive again on Yugi's field, triggering an Infinite Loop that ended in Strings losing by  Deck Out . 
+ In  episode 182  of  Yu-Gi-Oh! , Yami Yugi used the effects of " Legendary Knight Critias " (which had absorbed the effect of " Attack Guidance Barrier ") and " Legendary Knight Hermos " to continuously redirect attacks between them while another effect of "Hermos" increased its ATK each time. By anime mechanics, this caused the ATK of "Hermos" to become  ∞ . 
+ In  episode 64  of  Yu-Gi-Oh! GX , Syrus used the effects of his " Decoyroid ", " Ambulanceroid ", " Rescueroid ", and " Cyber Summon Blaster " and exploited the effect of  Hassleberry 's " Ultimate Tyranno " to defeat Hassleberry. "Ultimate Tyranno" can and must attack all monsters that the opponent controls once each, and due to the effect of "Decoyroid", "Ultimate Tyranno" attacks it first. When "Decoyroid" is destroyed, the effect of "Rescueroid" allows Syrus to add "Decoyroid" from his Graveyard to his hand, upon which the effect of "Ambulanceroid" allows Syrus to Special Summon "Decoyroid" to the Field, upon which "Cyber Summon Blaster" inflicts 300 damage to Hassleberry's Life Points. Then "Ultimate Tyranno" must attack again; the process repeats until Hassleberry has no more Life Points. 
+ In the manga 
+ The manga shows an infinite loop with net change.
+ 
+ In  Duel 117  of  Yu-Gi-Oh! Duelist ,  Dark Yugi  used the effects of the  Doll 's " Slifer the Sky Dragon ", " Revival Jam ", and " Card of Safe Return " against him by attacking "Revival Jam", causing it to regenerate, then taking control of it by " Brain Control " so that while it regenerates, it does so on Dark Yugi's side of the field, forcing "Slifer" to destroy "Revival Jam" over and over as per its effect. This caused "Card of Safe Return" to make the Doll continuously draw from his Deck until he got a  Deck out  and lost the Duel. 
+ References 
+ 
+ ↑  1.0   1.1   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑  2.0   2.1   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Gameplay

@@ -1,0 +1,76 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Adhesion_Trap_Hole
+
+
+ Adhesion Trap Hole 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ You can only activate this card when your opponent successfully Normal Summons, Flip Summons, or Special Summons a  monster . As long as  that  monster remains  face-up  on the field, the original ATK of  that monster  is halved. 
+ You can only activate this card  when your opponent  successfully Normal Summons, Flip Summons, or Special  Summons a  monster(s) .  As long as  the  monster ( s )   remains  on the field,  the  original ATK  of  the monster(s)  is halved. 
+ 
+ 
+       MFC-050 Magician's Force     
+       DR1-EN105 Dark Revelation Volume 1     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ Activate only   when  your opponent Summons a monster(s) .  While  that  monster(s)  is face-up  on the field,  its  original ATK  is halved . 
+ When  your opponent Summons a monster(s) : Halve  that monster(s) 's  original ATK. 
+ 
+ 
+       DT01-EN098 Duel Terminal 1     
+         LCJW-EN274 Legendary Collection 4: Joey's World Mega Pack     
+ 
+ 
+ German 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Klebefallgrube 
+ Klebfallgrube 
+ 
+ 
+         DR1-DE105 Dark Revelation Volume 1     
+         Aktualisierter Kartentext     
+ 
+ 
+ Portuguese 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Você pode activar este card apenas   quando   o  seu  adversário   Invoca , por Invocação-Normal, Invocação-Virar, ou Invocação-Especial  um ou mais monstros  com sucesso. Enquanto os monstros permanecer no Campo com a face para cima,  o ATK original desses monstros  é dividido por dois . 
+ Quando  seu  oponente   Invocar  um ou mais monstros : diminua pela metade  o ATK original desses monstros. 
+ 
+ 
+         DR1-PT105 Dark Revelation Volume 1     
+         WGRT-PT083 War of the Giants Reinforcements     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/f0/AdhesionTrapHole-MFC-NA-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20061118053118', 'https://static.wikia.nocookie.net/yugioh/images/0/0d/AdhesionTrapHole-DR1-EN-C-UE.png/revision/latest/scale-to-width-down/180?cb=20140429125232', 'https://static.wikia.nocookie.net/yugioh/images/c/c5/AdhesionTrapHole-DT01-EN-DNPR-DT.png/revision/latest/scale-to-width-down/180?cb=20100202035804', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/13/AdhesionTrapHole-LCJW-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20131011033800', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/83/AdhesionTrapHole-DR1-DE-C-UE.png/revision/latest/scale-to-width-down/180?cb=20170331112006', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e5/Back-EN.png/revision/latest/scale-to-width-down/180?cb=20100726082133', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/3e/AdhesionTrapHole-DR1-PT-C-UE.png/revision/latest/scale-to-width-down/180?cb=20141216115601', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/57/AdhesionTrapHole-WGRT-PT-SR-LE.png/revision/latest/scale-to-width-down/180?cb=20150228145437']
+Categories: Card Errata, Cards with 3 errata, Cards with name errata, Cards with 1 erratum, Cards with German errata, Cards with Portuguese errata

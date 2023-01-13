@@ -1,0 +1,399 @@
+Link: https://yugioh.fandom.com/wiki/Crystolic_Potential
+
+
+ 
+ 
+ Crystolic Potential クリスタル Ｐ 
+ 
+ English 
+Crystolic Potential 
+ French 
+ Potentiel Crystolique Check translation 
+ German 
+ Kristolisches Potenzial Check translation 
+ Italian 
+ Potenziale Crystolico Check translation 
+ Korean 
+ 크리스탈 P Check translation 
+ Portuguese 
+ Potencial Cristólico Check translation 
+ Spanish 
+ Potencial Cristólico Check translation 
+ Japanese (kana) 
+ クリスタルポテンシャル Check translation 
+ Japanese (base) 
+ クリスタルＰ Check translation 
+ Japanese ( rōmaji ) 
+Kurisutaru Potensharu 
+ Japanese (translated) 
+Crystal Potential 
+ Card type 
+ Spell   
+ Property 
+ Field   
+ Passcode 
+ 03576031 
+ Card effect types 
+ 
+ 
+ Continuous-like 
+ Trigger-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+All " Crystron "  monsters  you  control  gain 300  ATK  and  DEF .  Once per turn , during the  End Phase : You can  draw  cards equal to the number of "Crystron"  Synchro Monsters  you  Synchro Summoned  this  turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Tous les monstres "Crystron" que vous contrôlez gagnent 300 ATK/DEF. Une fois par tour, durant la End Phase : vous pouvez piocher un nombre de cartes égal au nombre de Monstres Synchro "Crystron" que vous avez Invoqués par Synchronisation ce tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Alle „Kristron“-Monster, die du kontrollierst, erhalten 300 ATK und DEF. Einmal pro Spielzug, während der End Phase: Du kannst Karten in Höhe der Anzahl der „Kristron“-Synchromonster ziehen, die du in diesem Spielzug als Synchrobeschwörung beschworen hast. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Tutti i mostri "Crystron" che controlli guadagnano 300 ATK e DEF. Una volta per turno, durante la End Phase: puoi pescare carte pari al numero di Mostri Synchro "Crystron" che hai Synchro Evocato in questo turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Todos os monstros "Cristron" que você controla ganham 300 de ATK e DEF. Uma vez por turno, durante a Fase Final: você pode comprar cards igual no número de Monstros Sincro "Cristron" que você Invocou por Invocação-Especial neste turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Todos los monstruos "Cristron" que controles ganan 300 ATK y DEF. Una vez por turno, durante la End Phase: puedes robar tantas cartas como la cantidad de Monstruos de Sincronía "Cristron" que Invocaste por Sincronía este turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：自分フィールドの「クリストロン」モンスターの攻撃力・守備力は３００アップする。②：自分・相手のエンドフェイズに発動できる。このターン自分がＳ召喚した「クリストロン」Ｓモンスターの数だけ、自分はデッキからドローする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 자신 필드의 "크리스트론" 몬스터의 공격력 / 수비력은 300 올린다. ②: 자신 / 상대의 엔드 페이즈에 발동할 수 있다. 이 턴에 자신이 싱크로 소환한 "크리스트론" 싱크로 몬스터의 수만큼, 자신은 덱에서 드로우한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2016-11-03  
+ INOV-EN057   
+ Invasion of Venom 
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-EN153   
+ 2017 Mega-Tin Mega Pack 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2016-11-03  
+ INOV-FR057   
+ Invasion of Venom 
+ Invasion : Vengeance  
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-FR153   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Méga-Boîte Méga-Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2016-11-03  
+ INOV-DE057   
+ Invasion of Venom 
+ Invasion: Vengeance  
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-DE153   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Mega-Tin Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2016-11-03  
+ INOV-IT057   
+ Invasion of Venom 
+ Invasione: Vendetta  
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-IT153   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Mega-Tin Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2016-11-04  
+ INOV-PT057   
+ Invasion of Venom 
+ Invasão: Vingança  
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-PT153   
+ 2017 Mega-Tin Mega Pack 
+ Mega-Pacote da Mega-Latas 2017  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2016-11-03  
+ INOV-SP057   
+ Invasion of Venom 
+ Invasión: Venganza  
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-SP153   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Mega-Lata Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2016-07-09  
+ INOV-JP057   
+ Invasion of Venom 
+ インベイジョン・オブ・ヴェノム  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2016-10-20  
+ INOV-KR057   
+ Invasion of Venom 
+ 인베이전 오브 베놈  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Synchro Monster 
+ 
+ Supports   archetypes   
+ Crystron 
+ 
+ Actions  
+ You draw cards 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ Your monsters gain DEF 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12647 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Crystron " 「 水晶機巧 」 Members 
+ Crystron Ametrix Crystron Citree Crystron Halqifibrax Crystron Phoenix Crystron Prasiortle Crystron Quan Crystron Quandax Crystron Quariongandrax Crystron Rion Crystron Rosenix Crystron Smiger Crystron Sulfefnir Crystron Thystvern Crystron Token 
+ Crystron Entry Crystron Impact 
+ Support 
+ Crystron Ametrix Crystron Prasiortle Crystron Quandax Crystron Rosenix Crystron Smiger Crystron Sulfefnir Crystron Thystvern 
+ Crystolic Potential Crystron Entry Crystron Impact 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d9/CrystolicPotential-MP17-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170823124828', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/1/14/Field.svg/revision/latest/scale-to-width-down/28?cb=20120920120155']
+Categories: Duel Monsters cards, TCG cards, OCG cards

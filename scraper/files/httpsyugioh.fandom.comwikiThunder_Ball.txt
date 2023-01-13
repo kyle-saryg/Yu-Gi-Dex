@@ -1,0 +1,132 @@
+Link: https://yugioh.fandom.com/wiki/Thunder_Ball
+
+The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Thunder Ball 鉄 球 魔 神 ゴロゴーン 
+ 
+ English 
+Thunder Ball 
+ Korean 
+ 무쇠공마신 데굴이 Check translation 
+ Japanese (kana) 
+ てっきゅうまじんゴロゴーン Check translation 
+ Japanese (base) 
+ 鉄球魔神ゴロゴーン Check translation 
+ Japanese ( rōmaji ) 
+Tekkyū Majin Gorogōn 
+ Japanese (translated) 
+Iron-Ball Devil Gorogon 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Fiend  /  Effect 
+ Level 
+ 3   
+ ATK  /  DEF 
+ 450  /  400 
+ Passcode 
+ 84813516 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+At the end of a  Damage Step : You can  Special Summon  this card from your  hand . You can  send  1  Trap  from your hand or from among  face-down  cards you  control  to the  GY ;  destroy  all other monsters in this card's  column . If this card in the  Monster Zone  is  destroyed by battle  or  card effect  and sent to the GY: You can  target  1 card in your GY; roll a six-sided die, and if the result is 6,  add  that card to your hand. You can only use each effect of "Thunder Ball"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：モンスターが戦闘を行ったダメージステップ終了時に発動できる。このカードを手札から特殊召喚する。②：手札及び自分フィールドにセットされたカードの中から、罠カード１枚を墓地へ送って発動できる。このカードと同じ縦列の他のモンスターを全て破壊する。③：モンスターゾーンのこのカードが戦闘・効果で破壊され墓地へ送られた場合、自分の墓地のカード１枚を対象として発動できる。サイコロを１回振る。６が出た場合、対象のカードを手札に加える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 ①②③의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 몬스터가 전투를 실행한 데미지 스텝 종료시에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. ②: 패 및 자신 필드에 세트된 카드 중에서, 함정 카드 1장을 묘지로 보내고 발동할 수 있다. 이 카드와 같은 세로열인 다른 몬스터를 전부 파괴한다. ③: 몬스터 존의 이 카드가 전투 / 효과로 파괴되어 묘지로 보내졌을 경우, 자신 묘지의 카드 1장을 대상으로 하고 발동할 수 있다. 주사위를 1회 던진다. 6 이 나왔을 경우, 대상의 카드를 패에 넣는다. 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-06-11 AC02-JP004 Animation Chronicle 2022 ＡＮＩＭＡＴＩＯＮ ＣＨＲＯＮＩＣＬＥ ２０２２ Common 2022-06-11 AC02-JP004 Animation Chronicle 2022 ＡＮＩＭＡＴＩＯＮ ＣＨＲＯＮＩＣＬＥ ２０２２ Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2022-09-06 AC02-KR004 Animation Chronicle 2022 ANIMATION   CHRONICLE  2022 Common 2022-09-06 AC02-KR004 Animation Chronicle 2022 ANIMATION   CHRONICLE  2022 Normal Parallel Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Actions  
+ Sends from hand to Graveyard for cost 
+ Sends from field to Graveyard for cost 
+ Activates if destroyed by battle 
+ Activates if destroyed by card effect 
+ Activates from your Graveyard 
+ Adds from Graveyard to hand 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ 
+ Miscellaneous  
+ Column 
+ Die roll 
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17622 ( ja  ( rulings )   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Thunder Ball " pages 
+ 
+ 
+ Anime Dungeon Dice Monsters Manga Dungeon Dice Monsters Yu-Gi-Oh! Dungeon Dice Monsters Yu-Gi-Oh! Dungeon Dice Monsters (video game) 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/50/ThunderBall-AC02-JP-C.png/revision/latest/scale-to-width-down/300?cb=20220617171141', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

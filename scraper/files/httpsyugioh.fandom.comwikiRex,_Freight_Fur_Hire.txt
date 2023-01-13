@@ -1,0 +1,118 @@
+Link: https://yugioh.fandom.com/wiki/Rex,_Freight_Fur_Hire
+
+The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Rex, Freight Fur Hire 空 牙 団 の 積 荷  レクス 
+ 
+ English 
+Rex, Freight Fur Hire 
+ Japanese (kana) 
+ くうがだんのつみに レクス Check translation 
+ Japanese (base) 
+ 空牙団の積荷 レクス Check translation 
+ Japanese ( rōmaji ) 
+Kūgadan no Tsumini Rekusu 
+ Japanese (translated) 
+Rex, Cargo of the Skyfang Brigade 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Dinosaur  /  Effect 
+ Level 
+ 2   
+ ATK  /  DEF 
+ 300  /  200 
+ Passcode 
+ 28004531 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If this card is  Normal  or  Special Summoned : You can  add  1  Spell / Trap  " Fur Hire " from your  Deck  to your  hand . During the  Main Phase , if you  control  a  monster  "Fur Hire" ( Quick Effect ): You can  banish  this card from your  GY , then  target  1 card "Fur Hire" in your GY;  add  it to your hand, or, if it is a monster, you can  Special Summon  it instead. You can only use each  effect  of "Rex, Freight Fur Hire"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「空牙団」魔法・罠カード１枚を手札に加える。②：自分フィールドに「空牙団」モンスターが存在する場合、自分・相手のメインフェイズに墓地のこのカードを除外し、自分の墓地の「空牙団」カード１枚を対象として発動できる。そのカードを手札に加える。対象のカードがモンスターの場合、手札に加えず特殊召喚する事もできる。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-07-16 DABL-JP027 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Fur Hire 
+ 
+ Supports   archetypes   
+ Fur Hire 
+ 
+ Actions  
+ Activates upon Normal Summon 
+ Activates upon Special Summon 
+ Adds from Deck to hand 
+ Adds from Graveyard to hand 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ 
+ Banished  categories  
+ Banishes itself from Graveyard for cost 
+ 
+ Miscellaneous  
+ Requires control of specific archetype 
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17783 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Fur Hire " 「 空 牙 団 」 Members 
+ Beat, Bladesman Fur Hire Bravo, Fighter Fur Hire Donner, Dagger Fur Hire Donpa, Marksman Fur Hire Dyna, Hero Fur Hire Filo, Messenger Fur Hire Folgo, Justice Fur Hire Helmer, Helmsman Fur Hire Rafale, Champion Fur Hire Recon, Scout Fur Hire Rex, Freight Fur Hire Sagitta, Maverick Fur Hire Seal, Strategist Fur Hire Wiz, Sage Fur Hire 
+ Mayhem Fur Hire Rookie Fur Hire Training Fur Hire, Fur All Your Training Needs 
+ Support 
+ Beat, Bladesman Fur Hire Bravo, Fighter Fur Hire Donner, Dagger Fur Hire Donpa, Marksman Fur Hire Dyna, Hero Fur Hire Filo, Messenger Fur Hire Folgo, Justice Fur Hire Helmer, Helmsman Fur Hire Rafale, Champion Fur Hire Recon, Scout Fur Hire Rex, Freight Fur Hire Sagitta, Maverick Fur Hire Seal, Strategist Fur Hire Wiz, Sage Fur Hire 
+ Fandora, the Flying Furtress Mayhem Fur Hire Rookie Fur Hire Training Fur Hire, Fur All Your Training Needs 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/95/RexFreightFurHire-DABL-JP-R.png/revision/latest/scale-to-width-down/300?cb=20220718230145', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

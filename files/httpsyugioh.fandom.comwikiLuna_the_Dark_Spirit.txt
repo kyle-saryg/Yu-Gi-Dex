@@ -1,0 +1,368 @@
+Link: https://yugioh.fandom.com/wiki/Luna_the_Dark_Spirit
+
+
+ 
+ 
+ Luna the Dark Spirit 闇 の 精 霊  ルーナ 
+ 
+ English 
+Luna the Dark Spirit 
+ French 
+ Luna l'Esprit Noir Check translation 
+ German 
+ Luna, der Finsternisgeist Check translation 
+ Italian 
+ Luna lo Spirito dell'Oscurità Check translation 
+ Korean 
+ 어둠의 정령 루나 Check translation 
+ Portuguese 
+ Luna, o Espírito Negro Check translation 
+ Spanish 
+ Luna el Espíritu de la Oscuridad Check translation 
+ Japanese (kana) 
+ やみのせいれい ルーナ Check translation 
+ Japanese (base) 
+ 闇の精霊 ルーナ Check translation 
+ Japanese ( rōmaji ) 
+Yami no Seirei Rūna 
+ Japanese (translated) 
+Dark Spirit, Luna 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Fiend  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1600  /  1200 
+ Passcode 
+ 48596760 
+ Card effect types 
+ 
+ 
+ Summon 
+ Summon 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Cannot be  Normal Summoned / Set . Must first be  Special Summoned  (from your  hand ) by  banishing  1  DARK   monster  from your  GY .  Once per turn , during your  Standby Phase : Inflict 500  damage  to your opponent. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Ni Invocable Normalement ni Posable Normalement. Doit d'abord être Invoquée Spécialement (depuis votre main) en bannissant 1 monstre TÉNÈBRES depuis votre Cimetière. Une fois par tour, durant votre Standby Phase : infligez 500 points de dommages à votre adversaire. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 FINSTERNIS Monster von deinem Friedhof verbannst. Einmal pro Spielzug, während deiner Standby Phase: Füge deinem Gegner 500 Schaden zu. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Non può essere Evocato Normalmente/Posizionato. Deve prima essere Evocato Specialmente (dalla tua mano) bandendo 1 mostro OSCURITÀ dal tuo Cimitero. Una volta per turno, durante la tua Standby Phase: infliggi 500 danni al tuo avversario. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Não pode ser Invocado por Invocação-Normal/Baixado. Primeiro deve ser Invocado por Invocação-Especial (da sua mão) ao banir 1 monstro de TREVAS do seu Cemitério. Uma vez por turno, durante sua Fase de Apoio: cause 500 de dano ao seu oponente. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) desterrando 1 monstruo de OSCURIDAD en tu Cementerio. Una vez por turno, durante tu Standby Phase: inflige 500 puntos de daño a tu adversario. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードは通常召喚できない。自分の墓地から闇属性モンスター１体を除外した場合に特殊召喚できる。①：自分スタンバイフェイズに発動する。相手に５００ダメージを与える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드는 통상 소환할 수 없다. 자신 묘지에서 어둠 속성 몬스터 1장을 제외했을 경우에 특수 소환할 수 있다. ①: 자신 스탠바이 페이즈에 발동한다. 상대에게 500 데미지를 준다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2019-10-24  
+ CHIM-EN027   
+ Chaos Impact 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2019-10-24  
+ CHIM-FR027   
+ Chaos Impact 
+ Impact du Chaos  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2019-10-24  
+ CHIM-DE027   
+ Chaos Impact 
+ Chaos Impact  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2019-10-24  
+ CHIM-IT027   
+ Chaos Impact 
+ Impatto del Chaos  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2019-10-24  
+ CHIM-PT027   
+ Chaos Impact 
+ Impacto do Caos  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2019-10-24  
+ CHIM-SP027   
+ Chaos Impact 
+ Impacto del Caos  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2019-07-13  
+ CHIM-JP027   
+ Chaos Impact 
+ カオス・インパクト  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2019-10-23  
+ CHIM-KR027   
+ Chaos Impact 
+ 카오스 임팩트  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ DARK 
+ 
+ Archetypes  and  series   
+ Attribute Spirit 
+ 
+ Summoning  categories  
+ Cannot be Normal Summoned 
+ Cannot be Normal Set 
+ Semi-Nomi 
+ Special Summons itself from your hand 
+ 
+ Banished  categories  
+ Banishes from Graveyard for cost 
+ 
+ LP   
+ Damages your opponent 
+ 
+ Miscellaneous  
+ Special Summon Monster 
+ Limited activations 
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14654 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Attribute Spirit   属 性 の 精 霊 Members 
+ Aqua Spirit Diana the Light Spirit Garuda the Wind Spirit Luna the Dark Spirit The Rock Spirit Spirit of Flames 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/dd/LunatheDarkSpirit-CHIM-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20191115044811', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

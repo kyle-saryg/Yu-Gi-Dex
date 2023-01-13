@@ -1,0 +1,92 @@
+Link: https://yugioh.fandom.com/wiki/Manticore_of_Smashing
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Manticore of Smashing 震 天 のマンティコア 
+ 
+ English 
+Manticore of Smashing 
+ Japanese (kana) 
+ しんてんのマンティコア Check translation 
+ Japanese (base) 
+ 震天のマンティコア Check translation 
+ Japanese ( rōmaji ) 
+Shinten no Mantikoa 
+ Card type 
+ Monster   
+ Attribute 
+ FIRE   
+ Types 
+ Beast-Warrior  /  Effect 
+ Level 
+ 6   
+ ATK  /  DEF 
+ 2300  /  1000 
+ Passcode 
+ 64538914 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+During your  Main Phase : You can  add  1 " Fissure " or 1 " Smashing Ground " from your  Deck  to your  hand . If this card is in your  GY : You can  banish  1 "Fissure" or 1 "Smashing Ground" from your hand or GY;  Special Summon  this card. You can only use each  effect  of "Manticore of Smashing"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。デッキから「地割れ」または「地砕き」１枚を手札に加える。②：このカードが墓地に存在する場合、自分の手札・墓地から「地割れ」または「地砕き」１枚を除外して発動できる。このカードを特殊召喚する。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-10-15 PHHY-JP022 Photon Hypernova ＰＨＯＴＯＮ ＨＹＰＥＲＮＯＶＡ Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Fissure 
+ Smashing Ground 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 18167 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/2d/ManticoreofSmashing-PHHY-JP-C.png/revision/latest/scale-to-width-down/300?cb=20221107190417', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/28?cb=20120918053839', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

@@ -1,0 +1,65 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Ally_of_Justice_Catastor
+
+
+ Ally of Justice Catastor 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Yu-Gi-Oh! D Team ZEXAL 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ 1 Tuner + 1 or more non-Tuner monsters If this card  battles  a non-DARK monster, destroy that monster without  applying  damage calculation. 
+ 1 Tuner + 1 or more non-Tuner monsters If  this card  attacks or is attacked by  a non-DARK monster , destroy  that monster  at the start of the Damage Step ( without damage calculation ) . 
+ 1 Tuner + 1 or more non-Tuner monsters At the start of the Damage Step, if  this card  battles  a non-DARK monster : Destroy  that monster  immediately  (without damage calculation) . 
+ 
+ 
+       DTP1-EN031 Duel Terminal - Preview Wave 1     
+       DT01-EN035 Duel Terminal 1     
+       TU07-EN000 Turbo Pack: Booster Seven     
+ 
+ 
+ Third erratum 
+ Fourth erratum   
+ 
+ 
+ 1 Tuner + 1  or more  non-Tuner monsters At the start of the Damage Step, if this card battles a non-DARK monster: Destroy that monster. 
+ 1 Tuner + 1 +  non-Tuner monsters At the start of the Damage Step, if this card battles a face-up non-DARK monster: Destroy that monster. 
+ 
+ 
+         CT10-EN006 2013 Collectible Tins Wave 1     
+         DUDE-EN007 Duel Devastator     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ チューナー＋チューナー以外のモンスター１体以上 このカードが闇属性以外のモンスターと戦闘を行う場合、ダメージ計算時を行わずそのモンスターを破壊する。 
+ チューナー＋チューナー以外のモンスター１体以上 このカードが闇属性以外の フィールド上に表側表示で存在する モンスターと戦闘を行う場合、ダメージ計算を行わずそのモンスターを破壊する。 
+ 
+ 
+         DT01-JP035 Duel Terminal - Synchro Awakening!!     
+         DTC1-JP026 Duel Terminal Chronicle 1 - Chapter of Awakening     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/1d/AllyofJusticeCatastor-DTP1-EN-DRPR-DT.png/revision/latest/scale-to-width-down/180?cb=20091119043859', 'https://static.wikia.nocookie.net/yugioh/images/1/17/AllyofJusticeCatastor-DT01-EN-DRPR-DT.jpg/revision/latest/scale-to-width-down/180?cb=20100622134028', 'https://static.wikia.nocookie.net/yugioh/images/7/77/AllyofJusticeCatastor-TU07-EN-UtR-UE.jpg/revision/latest/scale-to-width-down/180?cb=20130427213925', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/12/AllyofJusticeCatastor-CT10-EN-SR-LE.png/revision/latest/scale-to-width-down/180?cb=20150522123728', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d7/AllyofJusticeCatastor-DUDE-EN-UR-1E.png/revision/latest/scale-to-width-down/180?cb=20220319012727', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a7/AllyofJusticeCatastor-DT01-JP-DRPR-DT.jpg/revision/latest/scale-to-width-down/180?cb=20100913142249', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/94/AllyofJusticeCatastor-DTC1-JP-DRPR-DT.jpg/revision/latest/scale-to-width-down/180?cb=20120603222004']
+Categories: Card Errata, Cards with 4 errata, Cards with 1 erratum, Cards with Japanese errata

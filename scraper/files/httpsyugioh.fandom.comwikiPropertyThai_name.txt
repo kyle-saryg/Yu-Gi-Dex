@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Thai_name
+
+This property lists the primary Thai Card Name of a card. It is a  string . It is primarily used for display of the correct Thai card name.
+ 
+ 
+ 
+ 
+Categories:

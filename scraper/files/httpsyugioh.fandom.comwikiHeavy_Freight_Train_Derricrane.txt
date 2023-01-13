@@ -1,0 +1,471 @@
+Link: https://yugioh.fandom.com/wiki/Heavy_Freight_Train_Derricrane
+
+
+ 
+ 
+ Heavy Freight Train Derricrane 重 機 貨 列 車 デリックレーン 
+ 
+ English 
+Heavy Freight Train Derricrane 
+ French 
+ Derricrane Train de Fret Lourd Check translation 
+ German 
+ Schwerlastzug Derrikran Check translation 
+ Italian 
+ Treno Merci Pesante Derrigru Check translation 
+ Korean 
+ 중기화열차 데릭크레인 Check translation 
+ Portuguese 
+ Trem de Carga Pesada Grundaste Check translation 
+ Spanish 
+ Tren de Carga Pesada Derricrane Check translation 
+ Japanese (kana) 
+ じゅうきかれっしゃデリックレーン Check translation 
+ Japanese (base) 
+ 重機貨列車デリックレーン Check translation 
+ Japanese ( rōmaji ) 
+Jūkikaressha Derikkurēn 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Machine  /  Effect 
+ Level 
+ 10   
+ ATK  /  DEF 
+ 2800  /  2000 
+ Passcode 
+ 13647631 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Condition 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If an  EARTH   Machine - Type   monster (s) is  Normal  or  Special Summoned  to your  field  (except during the  Damage Step ): You can  Special Summon  this card from your  hand , but its  original ATK and DEF  become halved. You can only use this  effect  of "Heavy Freight Train Derricrane"  once per turn . If this card is  detached  from an  Xyz Monster  and  sent  to the  Graveyard  to  activate  that monster's effect: You can  target  1 card your opponent  controls ;  destroy  it. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si un ou plusieurs monstres TERRE de Type Machine sont Invoqués Normalement ou Spécialement sur votre Terrain (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main, mais son ATK/DEF d'origine seront divisées par deux. Vous ne pouvez utiliser cet effet de "Derricrane Train de Fret Lourd" qu'une fois par tour. Si cette carte est détachée d'un Monstre Xyz et envoyée au Cimetière pour activer l'effet du monstre : vous pouvez cibler 1 carte contrôlée par votre adversaire ; détruisez-la. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls ein oder mehr ERDE Monster vom Typ Maschine als Normal- oder Spezialbeschwörung auf deine Spielfeldseite beschworen werden (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, aber ihre Grund-ATK und -DEF werden halbiert. Du kannst diesen Effekt von „Schwerlastzug Derrikran“ nur einmal pro Spielzug verwenden. Falls diese Karte von einem Xyz-Monster abgehängt und auf den Friedhof gelegt wird, um den Effekt des Monsters zu aktivieren: Du kannst 1 Karte wählen, die dein Gegner kontrolliert; zerstöre sie. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se uno o più mostri TERRA di Tipo Macchina vengono Evocati Normalmente o Specialmente sul tuo Terreno (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dalla tua mano, ma i suoi ATK e DEF originali diventano la metà. Puoi utilizzare questo effetto di "Treno Merci Pesante Derrigru" una sola volta per turno. Se questa carta viene staccata da un Mostro Xyz e mandata al Cimitero per attivare l'effetto di quel mostro: puoi scegliere come bersaglio 1 carta controllata dal tuo avversario; distruggila. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se um ou mais monstros de TERRA do Tipo Máquina forem Invocados por Invocação-Normal ou Especial no seu campo (exceto durante a Etapa de Dano): você pode Invocar este card por Invocação-Especial da sua mão, mas seu ATK e DEF originais são diminuídos pela metade. Você só pode usar este efeito de "Trem de Carga Pesada Grundaste" uma vez por turno. Se este card for desassociado de um Monstro Xyz e enviado para o Cemitério para ativar um efeito desse monstro: você pode escolher 1 card que seu oponente controla; destrua-o. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si uno o más monstruos Máquina de TIERRA son Invocados de Modo Normal o Especial a tu Campo (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu mano, pero su ATK/DEF originales se dividen a la mitad. Sólo puedes usar este efecto de "Tren de Carga Pesada Derricrane" una vez por turno. Si esta carta es desacoplada de un Monstruo Xyz y mandada al Cementerio para activar el efecto de ese monstruo: puedes seleccionar 1 carta que controle tu adversario; destrúyela. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「重機貨列車デリックレーン」の①の効果は１ターンに１度しか使用できない。①：自分フィールドに機械族・地属性モンスターが召喚・特殊召喚された場合に発動できる。このカードを手札から特殊召喚する。この効果で特殊召喚したこのカードの元々の攻撃力・守備力は半分になる。②：Ｘ素材のこのカードがＸモンスターの効果を発動するために取り除かれ墓地へ送られた場合、相手フィールドのカード１枚を対象として発動できる。そのカードを破壊する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "중기화열차 데릭크레인"의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ① : 자신 필드에 기계족 / 땅 속성 몬스터가 일반 소환 / 특수 소환되었을 경우에 발동할 수 있다. 이 카드를 패에서 특수 소환한다. 이 효과로 특수 소환한 이 카드의 원래 공격력 / 수비력은 절반이 된다. ② : 엑시즈 소재의 이 카드가 엑시즈 몬스터의 효과를 발동하기 위해 제거되어 묘지로 보내졌을 경우, 상대 필드의 카드 1장을 대상으로 발동할 수 있다. 그 카드를 파괴한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2016-08-04  
+ TDIL-EN090   
+ The Dark Illusion 
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-EN118   
+ 2017 Mega-Tin Mega Pack 
+ Common 
+ 
+ 
+ 2019-03-21  
+ INCH-EN046   
+ The Infinity Chasers 
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2016-08-04  
+ TDIL-FR090   
+ The Dark Illusion 
+ L'Illusion des Ténèbres  
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-FR118   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Méga-Boîte Méga-Pack  
+ Common 
+ 
+ 
+ 2019-03-21  
+ INCH-FR046   
+ The Infinity Chasers 
+ Les Chasseurs de l'Infini  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2016-08-04  
+ TDIL-DE090   
+ The Dark Illusion 
+ The Dark Illusion  
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-DE118   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Mega-Tin Mega Pack  
+ Common 
+ 
+ 
+ 2019-03-21  
+ INCH-DE046   
+ The Infinity Chasers 
+ The Infinity Chasers  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2016-08-04  
+ TDIL-IT090   
+ The Dark Illusion 
+ L'Illusione Oscura  
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-IT118   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Mega-Tin Mega Pack  
+ Common 
+ 
+ 
+ 2019-03-21  
+ INCH-IT046   
+ The Infinity Chasers 
+ I Cercatori dell'Infinito  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2016-08-05  
+ TDIL-PT090   
+ The Dark Illusion 
+ A Ilusão Negra  
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-PT118   
+ 2017 Mega-Tin Mega Pack 
+ Mega-Pacote da Mega-Latas 2017  
+ Common 
+ 
+ 
+ 2019-03-21  
+ INCH-PT046   
+ The Infinity Chasers 
+ Os Caçadores do Infinito  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2016-08-04  
+ TDIL-SP090   
+ The Dark Illusion 
+ La Ilusión Oscura  
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-SP118   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Mega-Lata Mega Pack  
+ Common 
+ 
+ 
+ 2019-03-21  
+ INCH-SP046   
+ The Infinity Chasers 
+ Los Cazadores del Infinito  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2014-11-15  
+ SECE-JP085   
+ The Secret of Evolution 
+ ザ・シークレット・オブ・エボリューション  
+ Common 
+ 
+ 
+ 2018-11-23  
+ LVP2-JP053   
+ LINK VRAINS Pack 2 
+ ＬＩＮＫ　ＶＲＡＩＮＳ　ＰＡＣＫ　２  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2016-01-21  
+ EP15-KR043   
+ Extra Pack 2015 
+ EXTRA   PACK  ２０１５  
+ Common 
+ 
+ 
+ 2019-03-12  
+ LVP2-KR053   
+ LINK VRAINS Pack 2 
+ 링크 브레인즈 팩 ２  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ EARTH 
+ Machine 
+ Xyz Monster 
+ 
+ Archetypes  and  series   
+ Railway 
+ 
+ Actions  
+ Activates from your Graveyard 
+ Activates from your hand 
+ Activates upon Normal Summon 
+ Activates upon Special Summon 
+ 
+ Stat changes  
+ Changes original ATK 
+ Changes original DEF 
+ Halves ATK 
+ Halves DEF 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your opponent's Monster Cards 
+ Destroys your opponent's Spell Cards 
+ Destroys your opponent's Trap Cards 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11605 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Railway   列 車 Members 
+ Construction Train Signal Red Double Headed Anger Knuckle Express Train Trolley Olley Flying Pegasus Railroad Stampede Goldilocks the Battle Landscaper Heavy Armored Train Ironwolf Heavy Freight Train Derricrane Lionhearted Locomotive Night Express Knight Number 81: Superdreadnought Rail Cannon Super Dora Rocket Arrow Express Ruffian Railcar Snow Plow Hustle Rustle Super Express Bullet Train Superdreadnought Rail Cannon Gustav Max Superdreadnought Rail Cannon Juggernaut Liebe 
+ Barrage Blast Revolving Switchyard Special Schedule Switch Point Train Connection Urgent Schedule 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/70/HeavyFreightTrainDerricrane-MP17-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170823082853', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

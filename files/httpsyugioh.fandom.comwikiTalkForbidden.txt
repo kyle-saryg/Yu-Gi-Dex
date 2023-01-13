@@ -1,0 +1,37 @@
+Link: https://yugioh.fandom.com/wiki/Talk:Forbidden
+
+
+ 
+ 
+ This is the talk page for discussing the page, Forbidden.
+ 
+ 
+ 
+ 
+ This page is for discussion about the article, not general talk about its subject.
+ See the  Forums  for general discussion. 
+ Please sign and date your posts  by typing four tildes ( ~~~~ ). 
+ Put new text under old text.  Click here to start a new topic . 
+ 
+ 
+ Please try to
+ 
+ Be polite 
+ Assume good faith 
+ Be welcoming 
+ 
+ Updates 
+ The April 2014 Lists for both  the  OCG  and  the  TCG  have been posted and confirmed, but the changes haven't been applied on this Wiki as of yet.  If someone could please do that, that would be excellent. -- Yes, it's PSYCHID!   He talks!   He does stuff!  13:21, April 8, 2014 (UTC)
+ 
+ OCG statuses broken 
+ Page currently lists " Brionac, Dragon of the Ice Barrier ", " Cyber Jar ", " Destiny HERO - Disk Commander ", " Fiber Jar ", " Fishborg Blaster ", " Magical Scientist ", " Makyura the Destructor ", " Mind Master ", " Rescue Cat ", " Substitoad ", " Tribe-Infecting Virus ", " Victory Dragon ", " Witch of the Black Forest ", " Yata-Garasu ", and numerous other cards as all being Unlimited in the  OCG , which is definitely not true. Did some code or template break somewhere?  Blueapple128  ( talk  •  contribs ) 11:47, August 26, 2016 (UTC)
+ 
+ It seems those cards are not tagged as being Forbidden/Limited in the  OCG .  Becasita   Pendulum   ( talk  •  contribs )  12:14, August 26, 2016 (UTC) 
+ It's because for a very long time, when  ocg  wasn't specified in {{ CardTable2 }}, it would fall back on  adv , and I recently finally removed that link because for most cards that aren't Unlimited, it just doesn't make sense. So any cards that previously relied on that to correctly set their status in both the OCG and TCG will have to be edited to use both parameters now.  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  09:58, August 27, 2016 (UTC) 
+ Needs an update 
+ This side needs a new update apparently. Apoqliphort Towers isn't forbidden anymore for example. It'd be nice if anybody could do an accurate update to the current TCG ban list.  Tier Harribel-san  ( talk  •  contribs ) 23:05, February 6, 2018 (UTC)
+ 
+ 
+ 
+ 
+Categories:

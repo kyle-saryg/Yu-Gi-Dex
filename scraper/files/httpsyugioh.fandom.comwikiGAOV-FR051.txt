@@ -1,0 +1,581 @@
+Link: https://yugioh.fandom.com/wiki/GAOV-FR051
+
+The  Chinese  and  Croatian                       names given are not official.  
+ The  Chinese                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Bound Wand バウンド・ワンド 
+ 
+ English 
+Bound Wand 
+ Chinese 
+ 越境之杖 Check translation 
+ French 
+ Sceptre du Bond Check translation 
+ German 
+ Gebundener Zauberstab Check translation 
+ Italian 
+ Bacchetta del Legame Check translation 
+ Korean 
+ 바운드 원드 Check translation 
+ Portuguese 
+ Varinha Atada Check translation 
+ Spanish 
+ Vara Atada Check translation 
+ Japanese 
+ バウンド・ワンド Check translation 
+ Japanese ( rōmaji ) 
+Baundo Wando 
+ Card type 
+ Spell   
+ Property 
+ Equip   
+ Passcode 
+ 53610653 
+ Card effect types 
+ 
+ 
+ Condition 
+ Continuous-like 
+ Trigger-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Equip  only to a  Spellcaster - Type   monster  that has a  Level . It gains  ATK  equal to its Level × 100. If the equipped monster is  destroyed  by your opponent's card (by  battle  or  card effect ) and  sent  to the  Graveyard , and this card is sent to the Graveyard as a result: You can  Special Summon  that monster. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Équipable uniquement à un monstre de Type Magicien qui a un Niveau. Il gagne une ATK égale à son Niveau x 100. Si le monstre équipé est détruit par une carte de votre adversaire (au combat ou par un effet de carte) et envoyé au Cimetière, et que cette carte est envoyée à votre Cimetière en conséquence : vous pouvez Invoquer Spécialement le monstre. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Rüste nur ein Monster vom Typ Hexer, das eine Stufe hat, mit dieser Karte aus. Es erhält ATK in Höhe seiner Stufe x 100. Falls das ausgerüstete Monster durch eine Karte deines Gegners (durch Kampf oder einen Karteneffekt) zerstört und auf den Friedhof gelegt wird und diese Karte dadurch auf deinen Friedhof gelegt wird: Du kannst das Monster als Spezialbeschwörung beschwören. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Equipaggia  solo ad un  mostro  di  Tipo   Incantatore  che ha un  Livello . Esso guadagna  ATK  pari al suo Livello × 100. Se il mostro equipaggiato viene  distrutto  da una carta del tuo avversario ( in battaglia  o dall' effetto di una carta ) e questa carta viene  mandata  al  Cimitero  di conseguenza: puoi  Evocare Specialmente  quel mostro dal Cimitero. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Só pode ser equipado a um monstro do Tipo Mago que tenha Nível. Ele ganha ATK igual ao seu próprio Nível x 100. Se o monstro equipado for destruído por um card do seu oponente (seja em batalha ou por um efeito de card) e enviado para o Cemitério e este card for enviado para o Cemitério como resultado: você pode Invocar esse monstro por Invocação-Especial do Cemitério. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Sólo puedes equipar esta carta a un monstruo Lanzador de Conjuros que tenga Nivel. Éste gana ATK igual a su Nivel x 100. Si el monstruo equipado es destruido por una carta de tu adversario y mandado al Cementerio, y esta carta es mandada a tu Cementerio como resultado: puedes Invocar a ese monstruo de Modo Especial. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 魔法使い族モンスターにのみ装備可能。①：装備モンスターの攻撃力は、装備モンスターのレベル×１００アップする。②：装備モンスターが相手によって破壊され、このカードが墓地へ送られた場合に発動できる。そのモンスターを墓地から自分フィールドに特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 稀有度：银字R。效果：只有魔法师族怪兽才能装备此卡。装备此卡的怪兽的攻击力上升其等级×100点。装备怪兽被对方破坏，并且此卡被送去墓地时，那只被破坏的怪兽从墓地中特殊召唤上场。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 마법사족 몬스터에만 장착 가능. 장착 몬스터의 공격력은, 장착 몬스터의 레벨 x 100 포인트 올린다. 장착 몬스터가 상대에 의해서 파괴되어 이 카드가 묘지로 보내졌을 경우, 그 몬스터를 묘지에서 자신 필드 위에 특수 소환할 수 있다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2012-04-28  
+ GAOV-EN051   
+ Galactic Overlord 
+ Super Rare 
+ 
+ 
+ 2014-02-21  
+ SP14-EN035   
+ Star Pack 2014 
+ Common 
+ 
+ 
+ 2014-02-21  
+ SP14-EN035   
+ Star Pack 2014 
+ Starfoil Rare 
+ 
+ 
+ 2014-07-31  
+ BP03-EN175   
+ Battle Pack 3: Monster League 
+ Common 
+ 
+ 
+ 2014-07-31  
+ BP03-EN175   
+ Battle Pack 3: Monster League 
+ Shatterfoil Rare 
+ 
+ 
+ 2019-03-21  
+ INCH-EN055   
+ The Infinity Chasers 
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-FR051   
+ Galactic Overlord 
+ Le Seigneur de la Galaxie  
+ Super Rare 
+ 
+ 
+ 2014-02-21  
+ SP14-FR035   
+ Star Pack 2014 
+ Pack Étoile 2014  
+ Common 
+ 
+ 
+ 2014-02-21  
+ SP14-FR035   
+ Star Pack 2014 
+ Pack Étoile 2014  
+ Starfoil Rare 
+ 
+ 
+ 2014-07-31  
+ BP03-FR175   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: La Ligue des Monstres  
+ Common 
+ 
+ 
+ 2014-07-31  
+ BP03-FR175   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: La Ligue des Monstres  
+ Shatterfoil Rare 
+ 
+ 
+ 2019-03-21  
+ INCH-FR055   
+ The Infinity Chasers 
+ Les Chasseurs de l'Infini  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-DE051   
+ Galactic Overlord 
+ Galactic Overlord  
+ Super Rare 
+ 
+ 
+ 2014-02-21  
+ SP14-DE035   
+ Star Pack 2014 
+ Star Pack 2014  
+ Common 
+ 
+ 
+ 2014-02-21  
+ SP14-DE035   
+ Star Pack 2014 
+ Star Pack 2014  
+ Starfoil Rare 
+ 
+ 
+ 2014-07-31  
+ BP03-DE175   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Monster League  
+ Common 
+ 
+ 
+ 2014-07-31  
+ BP03-DE175   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Monster League  
+ Shatterfoil Rare 
+ 
+ 
+ 2019-03-21  
+ INCH-DE055   
+ The Infinity Chasers 
+ The Infinity Chasers  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-IT051   
+ Galactic Overlord 
+ Sovrano Galattico  
+ Super Rare 
+ 
+ 
+ 2014-02-21  
+ SP14-IT035   
+ Star Pack 2014 
+ Star Pack 2014  
+ Common 
+ 
+ 
+ 2014-02-21  
+ SP14-IT035   
+ Star Pack 2014 
+ Star Pack 2014  
+ Starfoil Rare 
+ 
+ 
+ 2014-07-31  
+ BP03-IT175   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Lega dei Mostri  
+ Common 
+ 
+ 
+ 2014-07-31  
+ BP03-IT175   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Lega dei Mostri  
+ Shatterfoil Rare 
+ 
+ 
+ 2019-03-21  
+ INCH-IT055   
+ The Infinity Chasers 
+ I Cercatori dell'Infinito  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2014-02-21  
+ SP14-PT035   
+ Star Pack 2014 
+ Pacote Estelar 2014  
+ Common 
+ 
+ 
+ 2014-02-21  
+ SP14-PT035   
+ Star Pack 2014 
+ Pacote Estelar 2014  
+ Starfoil Rare 
+ 
+ 
+ 2014-08-01  
+ BP03-PT175   
+ Battle Pack 3: Monster League 
+ Pacote de Batalha 3: Liga de Monstros  
+ Common 
+ 
+ 
+ 2014-08-01  
+ BP03-PT175   
+ Battle Pack 3: Monster League 
+ Pacote de Batalha 3: Liga de Monstros  
+ Shatterfoil Rare 
+ 
+ 
+ 2019-03-21  
+ INCH-PT055   
+ The Infinity Chasers 
+ Os Caçadores do Infinito  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-SP051   
+ Galactic Overlord 
+ Señor Supremo Galáctico  
+ Super Rare 
+ 
+ 
+ 2014-02-21  
+ SP14-SP035   
+ Star Pack 2014 
+ Sobre de Estrellas 2014  
+ Common 
+ 
+ 
+ 2014-02-21  
+ SP14-SP035   
+ Star Pack 2014 
+ Sobre de Estrellas 2014  
+ Starfoil Rare 
+ 
+ 
+ 2014-07-25, 2014-07-31  
+ BP03-SP175   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Liga de Monstruos  
+ Common 
+ 
+ 
+ 2014-07-25, 2014-07-31  
+ BP03-SP175   
+ Battle Pack 3: Monster League 
+ Battle Pack 3: Liga de Monstruos  
+ Shatterfoil Rare 
+ 
+ 
+ 2019-03-21  
+ INCH-SP055   
+ The Infinity Chasers 
+ Los Cazadores del Infinito  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2012-02-18  
+ GAOV-JP051   
+ Galactic Overlord 
+ ＧＡＬＡＣＴＩＣ ＯＶＥＲＬＯＲＤ  
+ Rare 
+ 
+ 
+ 2014-04-19  
+ DC01-JP019   
+ Deck Custom Pack 01 
+ デッキカスタムパック ０１  
+ Common 
+ 
+ 
+ 2014-04-19  
+ DC01-JP019   
+ Deck Custom Pack 01 
+ デッキカスタムパック ０１  
+ Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2012-05-21  
+ GAOV-KR051   
+ Galactic Overlord 
+ 갤럭틱 오버로드  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Spellcaster 
+ 
+ Actions  
+ Activates from your Graveyard 
+ 
+ Stat changes  
+ Equipped gains ATK 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ 
+ Miscellaneous  
+ Equips only to a specific target 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 10074 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Bound Wand " pages 
+ 
+ 
+ Anime Anime Yu-Gi-Oh! D Team ZEXAL 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/00/BoundWand-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140802062800', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/9/90/Equip.svg/revision/latest/scale-to-width-down/28?cb=20120920115844']
+Categories: Duel Monsters cards, TCG cards, OCG cards

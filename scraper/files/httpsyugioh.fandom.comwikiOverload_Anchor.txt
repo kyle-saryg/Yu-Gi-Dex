@@ -1,0 +1,115 @@
+Link: https://yugioh.fandom.com/wiki/Overload_Anchor
+
+
+ Overload Anchor 
+ 
+ Japanese:   オーバーロード・アンカー 
+ Romaji:   Ōbārōdo Ankā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Trigger-like 
+ Quick-like 
+ When an opponent's  monster  declares an  attack  while you control 1  Link Monster  (and no other monsters): You can make that monster you control unable to be  destroyed  by that  battle , and if you do, halve any battle damage you take from that battle, then end the  Battle Phase . If this effect was applied this  turn : You can  banish  this card you  control ; the ATK of all Link Monsters your opponent controls become half their current  ATK  until your opponent's next  Standby Phase .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  037 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ オーバーロード・アンカー 
+ ①：自分フィールドのモンスターがリンクモンスター１体のみの場合、相手モンスターの攻撃宣言時に発動できる。その自分のモンスターはその戦闘では破壊されず、その戦闘で発生する自分への戦闘ダメージは半分になる。その後、バトルフェイズを終了する。②：このカードの①の効果を適用したターン、自分フィールドのこのカードを除外して発動できる。次の相手スタンバイフェイズまで、相手フィールドのリンクモンスターの攻撃力は半分になる・ 
+ 
+ 
+ Ōbārōdo Ankā 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Link Monster 
+ 
+ Anti-supports   
+ Link Monster 
+ 
+ Actions  
+ Activates upon attack declaration 
+ Ends the Battle Phase 
+ 
+ Stat changes  
+ Changes ATK value 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ Banished  categories  
+ Banishes itself from field 
+ 
+ LP   
+ Reduces battle damage 
+ 
+ Miscellaneous  
+ Requires control of specific Monster card type 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/73/OverloadAnchor-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180131162519', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/18?cb=20120920115206']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

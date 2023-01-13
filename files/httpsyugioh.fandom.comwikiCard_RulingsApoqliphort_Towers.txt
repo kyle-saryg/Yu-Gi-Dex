@@ -1,0 +1,36 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Apoqliphort_Towers
+
+
+ Apoqliphort Towers 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ OCG Rulings 
+ The " If this card is Normal Summoned/Set, it is unaffected by  Spell / Trap   effects  and by  activated  effects from any monster whose original  Level / Rank  is lower than this card's current Level. " effect is a  Continuous Effect . [1] 
+ The " All Special Summoned monsters lose 500  ATK  and  DEF . " effect is a  Continuous Effect . [1] 
+ The " Once per  turn : You can make your opponent  send  1 monster from their  hand  or their side of the  field  to the  Graveyard  (their choice). " effect is an Ignition Effect. (It does not  target . Your opponent chooses which  monster  to send from their  hand  or  field  to the  Graveyard .) [1] 
+ A " Qli " monster being equipped with " Saqlifice " can be treated as 2  Tributes  for this card's  Normal Summon . You can Tribute it and just 1 other "Qli" monster to Normal Summon this card. [2] 
+ If " Apoqliphort Towers " is  Normal Summoned  while " Skill Drain " is  face-up , its  effects  are  negated . After " Skill Drain " stops applying, the " If this card is Normal Summoned/Set, it is unaffected by  Spell / Trap   effects  and by  activated  effects from any monster whose original  Level / Rank  is lower than this card's current Level. " effect starts applying. [3] 
+ When the " Once per  turn : You can make your opponent  send  1 monster from their  hand  or their side of the  field  to the  Graveyard  (their choice). " effect resolves, your opponent must send 1 monster from their  hand  or their side of the  field  to the  Graveyard . If they send " Shaddoll Falco " to the Graveyard, since it is not treated as being sent to the Graveyard by a card effect, the " If this card is  sent  to the Graveyard by a  card effect : You can Special Summon this card from your Graveyard in face-down Defense Position. " effect cannot be activated. [4] 
+ References 
+ 
+ ↑  1.0   1.1   1.2   Konami OCG Card Database : Apoqliphort Towers 
+ 
+ ↑   Konami OCG Card Database : When Normal Summoning "Apoqliphort Towers", is it possible to count a "Qli" monster equipped with "Saqlifice" as 2 Tributes for the Summon? 
+ 
+ ↑   Konami OCG Card Database : If "Apoqliphort Towers" is Normal Summoned while "Skill Drain" is on the field, does the effect of "Apoqliphort Towers" which makes it unaffected by Spell/Trap effects still apply? 
+ 
+ ↑   Konami OCG Card Database : If "Shaddoll Falco" is sent to the Graveyard by the effect of "Apoqliphort Towers", can the effect of "Shaddoll Falco" be activated? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

@@ -1,0 +1,284 @@
+Link: https://yugioh.fandom.com/wiki/Jet_Synchron
+
+
+ 
+ 
+ Jet Synchron ジェット・シンクロン 
+ 
+ English 
+Jet Synchron 
+ French 
+ Avion à Réaction Synchronique Check translation 
+ German 
+ Jetsynchron Check translation 
+ Italian 
+ Jet Synchron Check translation 
+ Korean 
+ 제트 싱크론 Check translation 
+ Portuguese 
+ Jato Sincron Check translation 
+ Spanish 
+ Sincrón de Jet Check translation 
+ Japanese 
+ ジェット・シンクロン Check translation 
+ Japanese ( rōmaji ) 
+Jetto Shinkuron 
+ Card type 
+ Monster   
+ Attribute 
+ FIRE   
+ Types 
+ Machine  /  Tuner  /  Effect 
+ Level 
+ 1   
+ ATK  /  DEF 
+ 500  /  0 
+ Passcode 
+ 09742784 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Ignition 
+ Condition Statuses Unlimited  ( OCG ) Limited  ( TCG   Advanced  and  Traditional ) 
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If this card is  sent  to the  GY  as  Synchro Material : You can  add  1 " Junk "  monster  from your  Deck  to your  hand . If this card is in your GY: You can send 1 card from your hand to the GY;  Special Summon  this card, but  banish  it when it  leaves the field . You can only use 1 "Jet Synchron"  effect  per  turn , and only  once that turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si cette carte est envoyée au Cimetière comme Matériel Synchro : vous pouvez ajouter 1 monstre "Robot" depuis votre Deck à votre main. Si cette carte est dans votre Cimetière : vous pouvez envoyer 1 carte depuis votre main au Cimetière ; Invoquez Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain. Vous ne pouvez utiliser qu'1 effet de "Avion à Réaction Synchronique" par tour, et uniquement une fois le tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls diese Karte als Synchromaterial auf den Friedhof gelegt wird: Du kannst deiner Hand 1 „Gerümpel“-Monster von deinem Deck hinzufügen. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Karte von deiner Hand auf den Friedhof legen; beschwöre diese Karte als Spezialbeschwörung, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst nur 1 Effekt von „Jetsynchron“ pro Spielzug verwenden und in dem Spielzug nur einmal. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se questa carta viene mandata al Cimitero come Materiale Synchro: puoi aggiungere 1 mostro "Rottame" dal tuo Deck alla tua mano. Se questa carta è nel tuo Cimitero: puoi mandare 1 carta dalla tua mano al Cimitero; Evoca Specialmente questa carta, ma bandiscila quando lascia il Terreno. Puoi utilizzare solo 1 effetto di "Jet Synchron" per turno, e solo una volta in quel turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se este card for enviado para o Cemitério como Matéria Sincro: você pode adicionar 1 monstro "Sucata" do seu Deck à sua mão. Se este card estiver no seu Cemitério: você pode enviar 1 card da sua mão para o Cemitério; Invoque este card por Invocação-Especial, mas bana-o quando ele deixar o campo. Você só pode usar 1 efeito de "Jato Sincron" por turno e apenas uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si esta carta es mandada al Cementerio como Material de Sincronía: puedes añadir a tu mano 1 monstruo "Basura" en tu Deck. Si esta carta está en tu Cementerio: puedes mandar al Cementerio 1 carta en tu mano; Invoca esta carta de Modo Especial, pero destiérrala cuando deje el Campo. Sólo puedes usar 1 efecto de "Sincrón de Jet" por turno, y sólo una vez ese turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードが Ｓ 素材として墓地へ送られた場合に発動できる。デッキから「ジャンク」モンスター１体を手札に加える。②：このカードが墓地に存在する場合、手札を１枚墓地へ送って発動できる。このカードを特殊召喚する。この効果で特殊召喚したこのカードは、フィールドから離れた場合に除外される。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ①: 이 카드가 싱크로 소재로서 묘지로 보내졌을 경우에 발동할 수 있다. 덱에서 "정크" 몬스터 1장을 패에 넣는다. ②: 이 카드가 묘지에 존재할 경우, 패를 1장 묘지로 보내고 발동할 수 있다. 이 카드를 특수 소환한다. 이 효과로 특수 소환한 이 카드는, 필드에서 벗어났을 경우에 제외된다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2015-08-27 SDSE-EN001 Synchron Extreme Structure Deck Super Rare 2018-12-06 OP09-EN018 OTS Tournament Pack 9 Common 2020-01-16 LED6-EN030 Legendary Duelists: Magical Hero Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2015-08-27 SDSE-FR001 Synchron Extreme Structure Deck Synchronique Extreme Deck de Structure Super Rare 2018-12-06 OP09-FR018 OTS Tournament Pack 9 OTS Pack de Tournoi 9 Common 2020-01-16 LED6-FR030 Legendary Duelists: Magical Hero Duellistes Légendaires : Les Héros Magique Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2015-08-27 SDSE-DE001 Synchron Extreme Structure Deck Synchron Extreme Structure Deck Super Rare 2018-12-06 OP09-DE018 OTS Tournament Pack 9 OTS Tournament Pack 9 Common 2020-01-16 LED6-DE030 Legendary Duelists: Magical Hero Legendary Duelists: Magical Hero Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2015-08-27 SDSE-IT001 Synchron Extreme Structure Deck Synchron Estremi Structure Deck Super Rare 2018-12-06 OP09-IT018 OTS Tournament Pack 9 OTS Buste da Torneo 9 Common 2020-01-16 LED6-IT030 Legendary Duelists: Magical Hero Duellanti Leggendari: Eroe Magico Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2015-08-28 SDSE-PT001 Synchron Extreme Structure Deck Sincron Extremo Deck Estrutural Super Rare 2018-12-06 OP09-PT018 OTS Tournament Pack 9 OTS Pacote de Torneio 9 Common 2020-01-16 LED6-PT030 Legendary Duelists: Magical Hero Duelistas Lendários: Herói Mágico Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2015-08-27 SDSE-SP001 Synchron Extreme Structure Deck Sincrón Extremo Baraja de Estructura Super Rare 2018-12-06 OP09-SP018 OTS Tournament Pack 9 OTS Sobre Torneo 9 Common 2020-01-16 LED6-SP030 Legendary Duelists: Magical Hero Duelistas Legendarios: Héroe Mágico Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2014-12-06 SD28-JP001 Structure Deck: Synchron Extreme ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ － シンクロン・エクストリーム － Super Parallel Rare 2018-09-08 18SP-JP304 Special Pack 20th Anniversary Edition Vol.3 ＳＰＥＣＩＡＬ ＰＡＣＫ ２０ｔｈ ＡＮＮＩＶＥＲＳＡＲＹ ＥＤＩＴＩＯＮ Ｖｏｌ.3 Common 2018-09-08 18SP-JP304 Special Pack 20th Anniversary Edition Vol.3 ＳＰＥＣＩＡＬ ＰＡＣＫ ２０ｔｈ ＡＮＮＩＶＥＲＳＡＲＹ ＥＤＩＴＩＯＮ Ｖｏｌ.3 Super Rare 2019-11-09 DP23-JP030 Duelist Pack: Legend Duelist 6 デュエリストパック －レジェンドデュエリスト編６－ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2015-03-25 SD28-KR001 Structure Deck: Synchron Extreme ＳＴＲＵＣＴＵＲＥ   ＤＥＣＫ  싱크론 익스트림 Super Parallel Rare 2019-02-02 AE13-KR001 Advanced Event Pack 2019 Vol.1 어드밴스드 이벤트 팩 2019 Vol.1 Secret Rare 2020-02-05 DP23-KR030 Duelist Pack: Legend Duelist 6 듀얼리스트 팩 － 레전드듀얼리스트 편 6 － Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Synchron 
+ 
+ Supports   archetypes   
+ Junk 
+ 
+ Related to  archetypes  and  series   
+ Warrior  
+ 
+ Actions  
+ Activates from your Graveyard 
+ Applies effect when used as Synchro Material 
+ Adds from Deck to hand 
+ Sends from hand to Graveyard for cost 
+ 
+ Summoning  categories  
+ Special Summons itself from your Graveyard 
+ 
+ Banished  categories  
+ Banishes itself when it leaves the field 
+ 
+ Synchro Material  for  
+ Jet Warrior 
+ 
+ Miscellaneous  
+ Only 1 effect once per turn 
+ Cover card 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11620 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Jet Synchron " pages 
+ 
+ 
+ Manga 
+ 
+ 
+ 
+   
+" Junk " 「ジャンク」 Members 
+ Junk Anchor Junk Archer Junk Berserker Junk Blader Junk Breaker Junk Changer Junk Collector Junk Connector Junk Converter Junk Defender Junk Destroyer Junk Forward Junk Gardna Junk Giant Junk Servant Junk Speeder Junk Synchron Junk Warrior Junkuriboh 
+ Junk Barrage Junk Box Junk Puppet Junk Sleep Starlight Junktion 
+ Support 
+ Catapult Warrior Jet Synchron Junk Anchor Junk Berserker Junk Blader Junk Changer Junk Connector Junk Servant Stardust Assault Warrior 
+ Scrap-Iron Statue 
+ Related 
+ Scrap Fist 
+ 
+   
+" Synchron " 「シンクロン」 Members 
+ Accel Synchron Assault Synchron Bri Synchron Changer Synchron Cyberse Synchron Drill Synchron Fleur Synchron Formula Synchron Hyper Synchron Jet Synchron Junk Synchron Mono Synchron Necro Synchron Nitro Synchron Performapal Odd-Eyes Synchron Quickdraw Synchron Road Synchron Rokket Synchron Satellite Synchron Stardust Synchron Steam Synchron Synchron Carrier Synchron Explorer Synchron Token Turbo Synchron Unknown Synchron 
+ Synchro Deflector 
+ Support 
+ Accel Synchron Junk Anchor Junk Converter Junk Speeder Necro Linker Quickdraw Synchron Righty Driver Rush Warrior Satellite Synchron Satellite Warrior Stardust Trail Synchron Carrier Synchron Explorer 
+ Ready! Set! Duel! Starlight Junktion Synchro Chase Synchro Dilemma Tuning 
+ Related 
+ Chevalier de Fleur Jet Warrior Junk Archer Junk Berserker Junk Destroyer Junk Gardna Junk Warrior Lefty Driver Nitro Warrior Noble Knight's Spearholder Road Warrior Turbo Warrior 
+ 
+   
+" Warrior " 「ウォリアー」 Members 
+ Abyss Warrior Alien Warrior Alpha The Electromagnet Warrior Alpha The Magnet Warrior Backup Warrior Beta The Electromagnet Warrior Beta The Magnet Warrior Big One Warrior Blizzard Warrior Boost Warrior Catapult Warrior Dash Warrior Delta The Magnet Warrior Dododo Warrior Doppelwarrior Drill Warrior Epsilon The Magnet Warrior Feedback Warrior Fortress Warrior Gamma The Electromagnet Warrior Gamma The Magnet Warrior Garoth, Lightsworn Warrior Gauntlet Warrior Gravity Warrior Jet Warrior Junk Warrior Kunoichi Laval Warrior Level Warrior Lightning Warrior Max Warrior Mighty Warrior Nitro Warrior Panther Warrior Rapid Warrior Rescue Warrior Road Warrior Rockstone Warrior Rush Warrior Ryu Senshi Salvage Warrior Satellite Warrior Scarred Warrior Seven Swords Warrior Shield Warrior Signal Warrior Sonic Warrior Speed Warrior Stardust Assault Warrior Stardust Charge Warrior Stardust Warrior Symphonic Warrior Basses Symphonic Warrior DJJ Symphonic Warrior Drumss Symphonic Warrior Guitaar Symphonic Warrior Guitariss Symphonic Warrior Miccs Symphonic Warrior Piaano Symphonic Warrior Rockks Symphonic Warrior Synthess Trident Warrior Tune Warrior Turbo Warrior Turret Warrior Wind-Up Warrior 
+ Support 
+ Rush Warrior Satellite Synchron Satellite Warrior Stardust Trail Stardust Warrior 
+ Synchro Chase 
+ Related 
+ Doppel Token Drill Synchron Jet Synchron Junk Synchron Nitro Synchron Road Synchron Spirit Ryu Turbo Synchron Warrior Dai Grepher 
+ Limiter Overload Magnet Conversion Magnetic Field Scrap Fist 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/56/JetSynchron-LED6-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20200118180158', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/28?cb=20120918053839', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836']
+Categories: Duel Monsters cards, TCG cards, OCG cards

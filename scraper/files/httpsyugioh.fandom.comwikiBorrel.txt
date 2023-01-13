@@ -1,0 +1,303 @@
+Link: https://yugioh.fandom.com/wiki/Borrel
+
+
+ 
+ Borrel 
+ ヴァレル  ( Vareru ) 
+ 
+ 
+ 
+ 
+ Varis  with " Borreload eXcharge Dragon " and " Borreload Dragon ". 
+ 
+ 
+ Translation 
+ Varrel 
+ 
+ 
+ Other names 
+ 
+ French 
+ Borrelle 
+ 
+ 
+ German 
+ Kalliber Translation:  Calliber 
+ 
+ 
+ Italian 
+ Callibro Translation:  Calliber 
+ 
+ 
+ Korean 
+ 바렐   Barel   (romanized) 
+ 
+ 
+ Portuguese 
+ Callibre 
+ 
+ 
+ Spanish 
+ Borre 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Circuit Break Extreme Force Cybernetic Horizon Savage Strike Rising Rampage Burst of Destiny 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Battles of Legend: Relentless Revenge Duel Power Battles of Legend: Hero's Revenge Structure Deck: Rokket Revolt 2019 Gold Sarcophagus Tin 2020 Tin of Lost Memories Ghosts From the Past: The 2nd Haunting Magnificent Mavens Battles of Legend: Crystal Revenge 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Circuit Break: Giant Edition LINK VRAINS Box Collectors Pack 2018 Structure Deck: Revolver Structure Deck: Revolver Extra Deck Enhancement Pack LINK VRAINS Duelist Set Legendary Gold Box Burst of Destiny +1 Bonus Pack 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! VRAINS 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Borrel ", known as " Varrel " (ヴァレル  Vareru ) in the Japanese version, is an  archetype  of  DARK   Dragon   monsters  used by  Ryoken Kogami (Varis)  in  Yu-Gi-Oh! VRAINS . It is related to the " Rokket " archetype.
+ 
+ Contents 
+ 
+ 1   Etymology 
+ 2   Playing style 
+ 3   Members 
+ 4   Support 
+ 5   Trivia 
+ 
+ 
+ Etymology 
+ Both the English and Japanese names of the archetype are wordplays on  gun barrels . The French and English names may reference the  mathematical concept of Borel sets .
+ 
+ Playing style 
+ The archetype synergizes well with the "Rokket" archetype, seeing how "Borreload Dragon" is able to trigger the primary effects of all "Rokket" monsters to gain field advantage. The secondary effects of the "Rokket" monsters will also activate, summoning another monster in their place It is also able to snatch other monsters the opponent controls and cannot be targeted by said monsters' effects. 
+ " Borrelsword Dragon " on the other hand, while still able to activate the effects of "Rokket" monsters, is also able to increase its own  ATK  and halve the ATK of a monster your opponent controls. Coupled with the bonus to attack twice should the first effect resolve, one could potentially get rid of most monsters in the game with higher ATK values such as " Number S39: Utopia the Lightning ". " Borrelguard Dragon " is immune to destruction via card effects and can revive any monster destroyed during the turn the effect is used provided the player has a  Spell  or  Trap Card  in their  Spell & Trap Card Zone  to sacrifice, although the revived monsters' effects are negated. Like "Borrelsword", it also changes monsters' battle positions.
+ Monsters such as " Booster Dragon " can also help, acting as a weaker version of "Borreload" as its ATK boosting effect can only be used during your turn. Its floating effect can summon a "Borrel" monster that was previously destroyed. " Miniborrel Dragon " is also useful due to being able to recycle itself once a turn as long as the player controls a "Borrel" monster, albeit at the cost of  tributing  a Link-3 monster they control.
+ The Spell and Trap Cards of the archetype are also useful; " Borrel Regenerator " can help recycle monsters more, and should the equipped monster summoned with it be destroyed the player draws 1 card. " Borrel Cooling " essentially allows "Borreload", "Borrelsword" and "Borrelguard" to activate even more "Rokket" effects.
+ 
+ Members 
+ 
+ 
+ Monster
+ 
+ Effect
+ 
+ Origin
+ 
+ 
+ Defensive
+ 
+ Quick
+ 
+ Once per turn
+ 
+ 
+ Borrelend Dragon 
+ 
+ Cannot be destroyed by battle or card effects, also neither player can target this card with monster effects.
+ 
+ Target 1 Effect Monster on the field and 1 "Rokket" monster in your GY; negate the effects of that monster on the field, and if you do, Special Summon that monster from your GY. Opponent cannot activate cards or effects in response.
+ 
+ N/A
+ 
+ Gun barrel ,  Guard ,  Handloading ,  Sword ,  Borel summation 
+ 
+ 
+ Borrelguard Dragon 
+ 
+ Cannot be destroyed by card effects.
+ 
+ Target 1 monster on the field; change it to face-up Defense Position. Opponent cannot activate cards or effects in response.
+ 
+ Send 1 card from controller's Spell & Trap Zone to the GY; Special Summon from either GY to controller's field, 1 monster that was destroyed and sent there this turn, but negate its effects.
+ 
+ Gun barrel ,  Guard ,  Borel summation 
+ 
+ 
+ Borreload Dragon 
+ 
+ Cannot be targeted by monster effects.
+ 
+ 1 face-up monster loses 500 ATK/DEF. Opponent cannot activate cards or effects in response.
+ 
+ Take control of an opponent's monster to a zone this card points to when this card attacks an opponent's monster at the start of the Damage Step.
+ 
+ Gun barrel ,  Handloading ,  Borel summation 
+ 
+ 
+ Borreload Furious Dragon 
+ 
+ N/A
+ 
+ You can target 1 monster you control and 1 card your opponent controls; destroy them.
+ 
+ You can banish this card from the GY, then target 1 DARK Link Monster in your GY; Special Summon that monster, but it cannot activate its effects this turn.
+ 
+ Gun barrel ,  Handloading ,  Borel summation 
+ 
+ 
+ Borreload Riot Dragon 
+ 
+ N/A
+ 
+ When your opponent would Special Summon a monster(s) (Quick Effect): You can negate the Summon, and if you do, destroy that monster(s), then destroy this card or 1 "Rokket" monster you control.
+ 
+ If this card is in your GY: You can target 1 "Borrel" or "Rokket" monster in your GY; destroy 1 card in your hand or field, and if you do, add the targeted monster to your hand.
+ 
+ ?
+ 
+ 
+ Borreload Savage Dragon 
+ 
+ When Synchro Summoned, target 1 Link Monster in the GY and equip it to this card. Gains half the ATK of the equipped monster and place Borrel Counters equal to the Link Rating of the targeted monster.
+ 
+ When your opponent's card effect is activated: you can remove 1 Borrel Counter from this card; negate its activation.
+ 
+ N/A
+ 
+ Gun barrel ,  Savage Arms ,  Handloading ,  Borel summation 
+ 
+ 
+ Borreload eXcharge Dragon 
+ 
+ Cannot be targeted by monster effects.
+ 
+ N/A
+ 
+ Target 1 face-up monster, targeted monster loses 600 ATK/DEF and you can Special Summon 1 "Borrel" monster from the GY, but it is banished during the End Phase and after activating this effect, you cannot Special Summon or attack directly.
+ 
+ Gun barrel ,  Charging Handle , X-Charge ,  Borel summation 
+ 
+ 
+ Borrelsword Dragon 
+ 
+ Cannot be destroyed by battle.
+ 
+ Switches 1 Attack Position monster to Defense Position and allows this card to make a second attack during each Battle Phase. Opponent cannot activate cards or effects in response.
+ 
+ This card gains ATK equal to half of a monster this card is attacking until the End Phase and when it do, the attacked monster loses half of its current ATK.
+ 
+ Gun Barrel ,  Sword ,  Borel summation 
+ 
+ 
+ Miniborrel Dragon 
+ 
+ N/A
+ 
+ Special Summons itself if you control a "Borrel" Link Monster after you Tribute a Link 3 or lower monster. Cannot be used as material for the Link Summon of a monster with the same Link Rating as the Tributed monster.
+ 
+ Gun barrel ,  Short-barreled rifle ,  Revolver ,  Minigun ,  Borel summation 
+ 
+ 
+ Quadborrel Dragon 
+ 
+ N/A
+ 
+ You can discard 1 card, then target 1 face-up monster on the field; you cannot Special Summon Link-2 or lower monsters from your Extra Deck for the rest of this turn, also destroy that monster, then, if the destroyed monster was a Link Monster, you can Special Summon "Rokket" monsters with different names from your hand or GY up to that monster’s Link Rating.
+ 
+ Sawed-off shotgun ,  Gun barrel ,  Borel summation 
+ 
+ Support 
+ 
+ 
+ Card 
+ Origin
+ 
+ 
+ Bayonet Punisher 
+ Bayonet 
+ 
+ 
+ Borrel Buster Barrier 
+ Barrier 
+ 
+ 
+ Borrel Cooling 
+ Cooling 
+ 
+ 
+ Borrel Half Replace 
+ Replace 
+ 
+ 
+ Borrel Regenerator 
+ Regeneration 
+ 
+ 
+ Borrel Ring 
+ Russian roulette 
+ 
+ 
+ Borrel Supplier 
+ Supplier 
+ 
+ 
+ Execute Protocols 
+ Capital punishment 
+ 
+ Trivia 
+ Most of this archetype's members have 3000  ATK , while its non- Link  members all have 2500  DEF . 
+ Each non-Link "Borrel" monster that comes in a different Extra Deck Monster Card type has the first capital letter of the middle word in their names refer to their respective Monster Card types. Similar to  Yusaku 's dragonic ace monsters, these "Borrel" monsters also have their color schemes match their respective Monster Card types.
+ "Borreload  F urious Dragon" is a  Fusion Monster  with a violet color scheme. 
+ "Borreload  R iot Dragon" is a  Ritual Monster  with a blue color scheme. 
+ "Borreload  S avage Dragon" is a  Synchro Monster  with a white color scheme. 
+ "Borreload e X charge Dragon" is an  Xyz Monster  with a black color scheme. 
+ Each of the non-Link "Borrel" monsters made their debut in a Duel against one of the  Ignis , and has contributed (whether directly or indirectly) to that Ignis' eventual demise.
+ "Borreload Savage Dragon" debuted in Varis' Duel against  Windy , the  WIND  Ignis. It was the card he used to beat Windy, causing him to be crippled with a virus made by the  Knights of Hanoi  that he never recovered from. 
+ "Borreload eXcharge Dragon" debuted in Varis' Duel against  Lightning , the  LIGHT  Ignis. It was Varis' secret weapon against Lightning, prompting the Light Ignis to take Varis out with him, leading to him being in a near-death state before he willingly let himself be absorbed by  Bohman . 
+ "Borreload Furious Dragon" debuted in  Playmaker 's Duel against  Ai , the  DARK  Ignis. While it wasn't Varis himself who summoned it, both of its effects were put to good use, allowing Playmaker to best the Ignis modeled after him, leading to Ai's subsequent termination. 
+   
+" Borrel " 「ヴァレル」 Members 
+ Borrelcode Dragon Borrelend Dragon Borrelguard Dragon Borreload Dragon Borreload Furious Dragon Borreload Riot Dragon Borreload Savage Dragon Borreload eXcharge Dragon Borrelsword Dragon Miniborrel Dragon Quadborrel Dragon 
+ Borrel Cooling Borrel Regenerator Borrel Supplier 
+ Support 
+ Borreload Riot Dragon Borreload eXcharge Dragon Miniborrel Dragon 
+ Bayonet Punisher Borrel Cooling Borrel Supplier Execute Protocols 
+ Related 
+ Double Disrupter Dragon 
+ Prisoners of Destiny Rapid Trigger Zero-Day Blaster 
+ 
+ v e 
+" Borrel " 「ヴァレル」 a   Members 
+ Borrel Buster Barrier Borrel Cooling Borrel Half Replace Borrel Regenerator Borrel Regenerator Borrel Ring Borrelguard Dragon Borreload Dragon Borreload Furious Dragon Borreload Savage Dragon Borreload eXcharge Dragon Borrelsword Dragon Miniborrel Dragon Quadborrel Dragon 
+ Support 
+ Borrel Buster Barrier Borrel Cooling Borrel Half Replace Borrel Ring Borreload eXcharge Dragon Miniborrel Dragon 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a0/Borrel.png/revision/latest/scale-to-width-down/350?cb=20190422123800']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Ritual Monster(s), Archetypes with Fusion Monster(s), Archetypes with Synchro Monster(s), Archetypes with Xyz Monster(s), Archetypes with Link Monster(s)

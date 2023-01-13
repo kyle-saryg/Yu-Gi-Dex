@@ -1,0 +1,512 @@
+Link: https://yugioh.fandom.com/wiki/Greed
+
+This article is about the card. For the  series , see  Greed (series) .      
+ The  Croatian, Greek  and  Vietnamese                      names given are not official.  
+ 
+ 
+ 
+ 
+ 
+ Greed グリード 
+ 
+ English 
+Greed 
+ French 
+ Avidité Check translation 
+ German 
+ Gier Check translation 
+ Italian 
+ Avidità Check translation 
+ Korean 
+ 그리드 Check translation 
+ Portuguese 
+ Ganância Check translation 
+ Spanish 
+ Avaricia Check translation 
+ Japanese 
+ グリード Check translation 
+ Japanese ( rōmaji ) 
+Gurīdo 
+ Card type 
+ Trap   
+ Property 
+ Continuous   
+ Passcode 
+ 89405199 
+ Card effect types 
+ 
+ 
+ Trigger-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Each time a player  draws  cards because of a  card effect , they take 500  damage  during the  End Phase  for each card drawn by the card effect. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ À chaque fois qu'un joueur pioche une (ou plusieurs) carte(s) par l'effet d'une carte, il reçoit 500 points de dommages durant la End Phase pour chaque carte piochée par l'effet d'une carte. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Der Spieler, der durch einen Karteneffekt Karten zieht, erhält am Ende der End Phase des Spielzugs Schaden in Höhe von 500 Punkten x der Anzahl der durch den Karteneffekt gezogenen Karten. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Un giocatore che pesca per effetto di una carta riceve un danno pari al numero di carte pescate per effetto di quella carta x 500 punti alla fine dell'End Phase del turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Um jogador que compre card(s) pelo efeito de um card(s) recebe dano igual ao número de cards comprados pelo efeito do card x 500 pontos, no final da End Phase do turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ El jugador que robe cartas por el efecto de una carta recibe daño igual al número de cartas robadas por el efecto de esa carta x 500 puntos al final de la End Phase del turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ カードの効果でドローを行ったプレイヤーは、そのターンのエンドフェイズ終了時にカードの効果でドローしたカードの枚数×５００ポイントダメージを受ける。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 카드의 효과로 드로우를 실행한 플레이어는, 그 턴의 엔드 페이즈 종료시에 카드의 효과로 드로우한 카드의 매수×500 포인트 데미지를 받는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2004-10-01  
+ SOD-EN055   
+ Soul of the Duelist 
+ Super Rare 
+ 
+ 
+ 2004-10-01  
+ SOD-EN055   
+ Soul of the Duelist 
+ Ultimate Rare 
+ 
+ 
+ 2006-11-25  
+ DR3-EN055   
+ Dark Revelation Volume 3 
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2004-10-01  
+ SOD-FR055   
+ Soul of the Duelist 
+ L'Ame du Duelliste  
+ Super Rare 
+ 
+ 
+ 2004-10-01  
+ SOD-FR055   
+ Soul of the Duelist 
+ L'Ame du Duelliste  
+ Ultimate Rare 
+ 
+ 
+ 2006-11-25  
+ DR3-FR055   
+ Dark Revelation Volume 3 
+ Sombre Révélation Volume 3  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2004-10-01  
+ SOD-DE055   
+ Soul of the Duelist 
+ Soul of the Duelist  
+ Super Rare 
+ 
+ 
+ 2004-10-01  
+ SOD-DE055   
+ Soul of the Duelist 
+ Soul of the Duelist  
+ Ultimate Rare 
+ 
+ 
+ 2006-11-25  
+ DR3-DE055   
+ Dark Revelation Volume 3 
+ Dark Revelation Volume 3  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2004-10-01  
+ SOD-IT055   
+ Soul of the Duelist 
+ Anima del Duellante  
+ Super Rare 
+ 
+ 
+ 2004-10-01  
+ SOD-IT055   
+ Soul of the Duelist 
+ Anima del Duellante  
+ Ultimate Rare 
+ 
+ 
+ 2006-11-25  
+ DR3-IT055   
+ Dark Revelation Volume 3 
+ Rivelazione Oscura Volume 3  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2004-10-01  
+ SOD-PT055   
+ Soul of the Duelist 
+ Alma do Duelista  
+ Super Rare 
+ 
+ 
+ 2004-10-01  
+ SOD-PT055   
+ Soul of the Duelist 
+ Alma do Duelista  
+ Ultimate Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2004-10-01  
+ SOD-SP055   
+ Soul of the Duelist 
+ Alma del Duelista  
+ Super Rare 
+ 
+ 
+ 2004-10-01  
+ SOD-SP055   
+ Soul of the Duelist 
+ Alma del Duelista  
+ Ultimate Rare 
+ 
+ 
+ 2006-11-25  
+ DR3-SP055   
+ Dark Revelation Volume 3 
+ Revelación Oscura Volumen 3  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2004-05-27  
+ SOD-JP055   
+ Soul of the Duelist 
+ Ｓｏｕｌ　ｏｆ　ｔｈｅ　Ｄｕｅｌｉｓｔ  
+ Super Rare 
+ 
+ 
+ 2004-05-27  
+ SOD-JP055   
+ Soul of the Duelist 
+ Ｓｏｕｌ　ｏｆ　ｔｈｅ　Ｄｕｅｌｉｓｔ  
+ Ultimate Rare 
+ 
+ 
+   
+ EE3-JP055   
+ Expert Edition Volume.3 
+   
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Asian-English 
+ 
+ 
+ 
+ Asian-English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+   
+ SOD-AE055   
+ Soul of the Duelist 
+ Super Rare 
+ 
+ 
+   
+ SOD-AE055   
+ Soul of the Duelist 
+ Ultimate Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2005-11-04  
+ SOD-KR055   
+ Soul of the Duelist 
+ 듀얼리스트의 투혼  
+ Super Rare 
+ 
+ 
+ 2005-11-04  
+ SOD-KR055   
+ Soul of the Duelist 
+ 듀얼리스트의 투혼  
+ Ultimate Rare 
+ 
+ 
+   
+ HGP3-KR055   
+ Expert Edition Volume.3 
+   
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Nightmare Troubadour 
+ 
+ 
+ The Forever Ones 
+ 
+ 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+ Soul of the Duelist 
+ Continuous Spell/Trap B 
+ All Traps  ( Common )
+ 
+ All at Random  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   GX Tag Force 
+ 
+ 
+ Double Triple Destiny Draw  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   World Championship 2008 
+ 
+ 
+ Extreme Wisdom  ( Common ) 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ LP   
+ Damages you 
+ Damages your opponent 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 6146 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Nightmare Troubadour 2005-07-21 – ??? – – – Unlimited Ultimate Masters: World Championship Tournament 2006 2006-02-23 – ??? – – – Unlimited GX Tag Force 2006-09-14 – ??? – – – Unlimited World Championship 2008 2007-11-29 – ??? – – – Unlimited 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/4a/Greed-DR3-EN-SR-UE.png/revision/latest/scale-to-width-down/300?cb=20080116035017', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Duel Monsters cards, TCG cards, OCG cards

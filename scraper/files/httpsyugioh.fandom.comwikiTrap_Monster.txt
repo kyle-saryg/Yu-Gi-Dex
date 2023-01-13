@@ -1,0 +1,1235 @@
+Link: https://yugioh.fandom.com/wiki/Trap_Monster
+
+
+ 
+ Trap Monster 
+ 罠モンスター 「 トラップモンスター 」  ( Torappu Monsutā ) 
+ 
+ 
+ 
+ 
+ " Metal Reflect Slime " 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Cyberdark Impact Phantom Darkness Absolute Powerforce Storm of Ragnarok Photon Shockwave Judgment of the Light Crossed Souls Soul Fusion 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Gold Series: Haunted Mine Duelist Edition Volume 1 Sneak Preview Participation Cards Duel Terminal 6 Dark Legends Retro Pack Weekly Shōnen Jump promotional cards Structure Deck: Marik Battle Pack: Epic Dawn Duelist Pack: Yugi Legendary Collection 3: Yugi's World Mega Pack Turbo Pack: Booster Five Battle Pack 3: Monster League Structure Deck: Sacred Beasts Legendary Duelists: Rage of Ra 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Duel Terminal - Xyz Startup!! Duelist Pack: Yuma The Valuable Book 5 promotional cards Structure Deck - Machine Re-Volt V Jump promotional cards Master Guide promotional cards Structure Deck: Sacred Beasts of Chaos Duelist Pack: Duelists of Gloom 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! Yu-Gi-Oh! GX Yu-Gi-Oh! 5D's Yu-Gi-Oh! ZEXAL Yu-Gi-Oh! ARC-V 
+ 
+ 
+ 
+ 
+ Manga appearances 
+ 
+ 
+ Yu-Gi-Oh! 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ Trap Monsters  are a type of  Continuous Trap Card  that is  Special Summoned  as a  Monster Card  after activation, being treated as both a monster and a Trap Card simultaneously. In the  manga , they are a separate type of  Trap Card .
+ 
+ Contents 
+ 
+ 1   Mechanics 
+ 2   Playing style 
+ 3   Members 
+ 
+ 3.1   OCG/TCG 
+ 3.2   Anime 
+ 3.3   Manga 
+ 
+ 
+ 4   See also 
+ 5   Example 
+ 
+ 
+ Mechanics 
+ Trap Monsters are Special Summoned to the field from the  Spell & Trap Zone  after they are activated, and are subsequently treated as both Monster Cards and Trap Cards. They used to occupy both a Monster and Spell/Trap Zone, but as of April 1, 2020, the MR5 they only occupy a Monster Zone, freeing up a Spell/Trap Card Zone. They are still treated as both Monster Cards and Trap Cards. 
+ If they are  negated  with " Jinzo " or " Royal Decree ", they will return to the Spell & Trap Zone as Continuous Trap Cards with no effect, and will remain there even after "Jinzo" or "Royal Decree" are removed. If " Book of Moon " is used against an already active Trap Monster, the Trap Monster is set as a Trap Card again and can be activated and Special Summoned the next turn.
+If they would be destroyed by spell cards, cards like  Judgment of Anubis  can still be used to protect them.
+ If a card or effect that destroys monsters specifically (like " Mirror Force ") is activated, cards like " My Body as a Shield " can be activated to protect a Trap Monster, whereas cards like " Fake Trap " cannot be; likewise, if a card or effect that destroys Trap cards specifically (like " Heavy Storm ") is activated, cards like "Fake Trap" can be activated, whereas cards like "My Body as a Shield" cannot. If a card or effect which can destroy both monsters and Traps (like " Raigeki Break ") is activated, both cards like "My Body as a Shield" and "Fake Trap" can be activated. In all cases, effects like that of " Imperial Custom " prevent Trap Monsters from being destroyed, even  by battle .
+ If a Trap Monster is treated as an  Equip Card  from the  Monster Zone , such as due to the effect of " Relinquished ", it is treated only as an  Equip Spell Card , not a Trap Card or Monster Card.
+ 
+ Playing style 
+ Trap Monsters are typically used as an emergency defense to stonewall an opponent (" Metal Reflect Slime " is particularly useful in this regard). They can also used to provide quick  Tribute Fodder  ("Metal Reflect Slime" is great when combined with " Level Eater "), such as the  Monarchs , and can in some cases be used offensively as well. Also, because they don't count as monsters while in a player's  Deck  or  Graveyard , some effects might work on them as a Trap Card, while others (like the effect of " Morphing Jar #2 ") don't see them as a monster. This can be helpful in some cases (see  All-Out Attacks OTK ).
+ Another use for Trap Monsters is for  Synchro Summoning  or  Xyz Summoning . Since most Trap Monsters are  Level 4 , they can be used to quickly Synchro Summon a Level 5-8 monster or  Xyz Summon  a  Rank 4  monster. " Metal Reflect Slime ", which is too high a level to be useful for a Synchro Summon, can be used for  Rank 10 Monsters  such as " Superdreadnought Rail Cannon Gustav Max ". If combined with a Level 1 Tuner monster, they can be also used to Synchro Summon " Star Eater ". " Shape Sister " is a  Level 2   Tuner  Trap Monster that can be used to assist in Synchro Summoning.
+ " Imperial Custom " makes Continuous Trap Cards indestructible. If you control a copy of "Imperial Custom" and a Trap Monster, the Trap Monster will not be able to be  destroyed by battle  or by a card effect.  This combination is especially potent in defensive decks.
+ Trap Monsters are also useful in a  Uria Deck , as they provide the Deck with monsters that can also be used as a  Tributes  to Summon " Uria, Lord of Searing Flames " as well as give him extra  ATK  points.
+ It is usually a good idea to have " Trap Eater " and " Double Snare " and " Splendid Venus " in the Side Deck of a Deck using high concentrations of these cards, so that you can remove cards such as "Royal Decree" and "Jinzo" which obstruct the use of Trap Monsters. " Magic Planter " is also useful, allowing the player to send Trap Monsters to the Graveyard to draw cards; this is particularly useful if the Trap Monsters have their effects negated, which causes them to remain on the field as Continuous Trap Cards only.
+ " Judgment of Anubis " is useful to protect Trap Monsters from " Mystical Space Typhoon ".
+ 
+ Members 
+ See also:  List of "Trap Monster" cards 
+ OCG/TCG 
+ 
+ 
+ Name 
+ Monster type 
+ Type 
+ Attribute 
+ Level 
+ ATK 
+ DEF 
+ 
+ 
+ Abyss Stungray 
+ 
+ Effect Monster 
+ 
+ Thunder 
+ 
+ LIGHT 
+ 
+ 5
+ 
+ 1900
+ 
+ 0
+ 
+ 
+ Copy Knight 
+ 
+ Normal Monster 
+ 
+ Warrior 
+ 
+ LIGHT 
+ 
+ varies
+ 
+ 0
+ 
+ 0
+ 
+ 
+ Cyber Shadow Gardna 
+ 
+ Effect Monster 
+ 
+ Machine 
+ 
+ EARTH 
+ 
+ 4
+ 
+ ?
+ 
+ ?
+ 
+ 
+ Dimension Reflector 
+ 
+ Effect Monster 
+ 
+ Spellcaster 
+ 
+ DARK 
+ 
+ 4
+ 
+ ?
+ 
+ ?
+ 
+ 
+ The Door of Destiny 
+ 
+ Effect Monster 
+ 
+ Fiend 
+ 
+ LIGHT 
+ 
+ 1
+ 
+ 0
+ 
+ 0
+ 
+ 
+ Embodiment of Apophis 
+ 
+ Normal Monster 
+ 
+ Reptile 
+ 
+ EARTH 
+ 
+ 4
+ 
+ 1600
+ 
+ 1800
+ 
+ 
+ The First Monarch 
+ 
+ Effect Monster 
+ 
+ Fiend 
+ 
+ DARK 
+ 
+ 6
+ 
+ 1000
+ 
+ 2400
+ 
+ 
+ King Scarlet 
+ 
+ Tuner   Normal Monster 
+ 
+ Fiend 
+ 
+ FIRE 
+ 
+ 1
+ 
+ 0
+ 
+ 0
+ 
+ 
+ Krystal Avatar 
+ 
+ Effect Monster 
+ 
+ Warrior 
+ 
+ LIGHT 
+ 
+ 4
+ 
+ ?
+ 
+ 0
+ 
+ 
+ Machine King - 3000 B.C. 
+ 
+ Effect Monster 
+ 
+ Machine 
+ 
+ EARTH 
+ 
+ 4
+ 
+ 1000
+ 
+ 1000
+ 
+ 
+ Metal Reflect Slime 
+ 
+ Effect Monster 
+ 
+ Aqua 
+ 
+ WATER 
+ 
+ 10
+ 
+ 0
+ 
+ 3000
+ 
+ 
+ Metalhold the Moving Blockade 
+ 
+ Effect Monster 
+ 
+ Machine 
+ 
+ EARTH 
+ 
+ 4
+ 
+ 0
+ 
+ 0
+ 
+ 
+ Metamorphortress 
+ 
+ Effect Monster 
+ 
+ Rock 
+ 
+ EARTH 
+ 
+ 4
+ 
+ 1000
+ 
+ 1000
+ 
+ 
+ Quantum Cat 
+ 
+ Normal Monster 
+ 
+ varies
+ 
+ varies
+ 
+ 4
+ 
+ 0
+ 
+ 2200
+ 
+ 
+ Shaddoll Core 
+ 
+ Effect Monster 
+ 
+ Spellcaster 
+ 
+ DARK 
+ 
+ 9
+ 
+ 1450
+ 
+ 1950
+ 
+ 
+ Shapesister 
+ 
+ Tuner   Normal Monster 
+ 
+ Fiend 
+ 
+ EARTH 
+ 
+ 2
+ 
+ 0
+ 
+ 0
+ 
+ 
+ Space Dragster 
+ 
+ Tuner   Effect Monster 
+ 
+ Machine 
+ 
+ FIRE 
+ 
+ 1
+ 
+ 0
+ 
+ 1800
+ 
+ 
+ Statue of Anguish Pattern 
+ 
+ Effect Monster 
+ 
+ Rock 
+ 
+ EARTH 
+ 
+ 7
+ 
+ 0
+ 
+ 2500
+ 
+ 
+ Stronghold the Moving Fortress 
+ 
+ Effect Monster 
+ 
+ Machine 
+ 
+ EARTH 
+ 
+ 4
+ 
+ 0
+ 
+ 2000
+ 
+ 
+ Swamp Mirrorer 
+ 
+ Normal Monster 
+ 
+ varies
+ 
+ varies
+ 
+ 4
+ 
+ 1800
+ 
+ 1000
+ 
+ 
+ Tiki Curse 
+ 
+ Effect Monster 
+ 
+ Rock 
+ 
+ DARK 
+ 
+ 4
+ 
+ 1800
+ 
+ 1000
+ 
+ 
+ Tiki Soul 
+ 
+ Effect Monster 
+ 
+ Rock 
+ 
+ LIGHT 
+ 
+ 4
+ 
+ 1000
+ 
+ 1800
+ 
+ 
+ Zoma the Spirit 
+ 
+ Effect Monster 
+ 
+ Zombie 
+ 
+ DARK 
+ 
+ 4
+ 
+ 1800
+ 
+ 500
+ 
+ Anime 
+ 
+ 
+ Name 
+ Monster type 
+ Type 
+ Attribute 
+ Level 
+ ATK 
+ DEF 
+ 
+ 
+ Copy Knight 
+ 
+ Normal Monster 
+ 
+ Warrior 
+ 
+ LIGHT 
+ 
+ varies
+ 
+ 0
+ 
+ 0
+ 
+ 
+ Cyber Shadow Gardna 
+ 
+ Effect Monster 
+ 
+ Machine 
+ 
+ EARTH 
+ 
+ 4
+ 
+ ?
+ 
+ ?
+ 
+ 
+ Depth Gardna 
+ 
+ Effect Monster 
+ 
+ Fish 
+ 
+ WATER 
+ 
+ 5
+ 
+ ?
+ 
+ ?
+ 
+ 
+ The Door of Destiny 
+ 
+ Effect Monster 
+ 
+ Fiend 
+ 
+ LIGHT 
+ 
+ 1
+ 
+ 0
+ 
+ 0
+ 
+ 
+ Embodiment of Apophis 
+ 
+ Normal Monster 
+ 
+ Reptile 
+ 
+ EARTH 
+ 
+ 4
+ 
+ 1600
+ 
+ 1800
+ 
+ 
+ Gimmick Box 
+ 
+ Effect Monster 
+ 
+ Machine 
+ 
+ DARK 
+ 
+ 8
+ 
+ ?
+ 
+ 0
+ 
+ 
+ Instant Shutter 
+ 
+ Normal Monster 
+ 
+ varies
+ 
+ varies
+ 
+ varies
+ 
+ ?
+ 
+ ?
+ 
+ 
+ Jirai Gumo 
+ 
+ Effect Monster 
+ 
+ Insect 
+ 
+ EARTH 
+ 
+ 4
+ 
+ 2100
+ 
+ 800
+ 
+ 
+ Metal Reflect Slime 
+ 
+ Effect Monster 
+ 
+ Aqua 
+ 
+ WATER 
+ 
+ ?
+ 
+ ?
+ 
+ ?
+ 
+ 
+ Stronghold the Moving Fortress 
+ 
+ Effect Monster 
+ 
+ Machine 
+ 
+ EARTH 
+ 
+ 4
+ 
+ 0
+ 
+ 2000
+ 
+ 
+ Uluru the Guardian Spirit 
+ 
+ Normal Monster 
+ 
+ Rock 
+ 
+ EARTH 
+ 
+ 4
+ 
+ 0
+ 
+ 2500
+ 
+ 
+ Zoma the Spirit 
+ 
+ Effect Monster 
+ 
+ Zombie 
+ 
+ DARK 
+ 
+ 4
+ 
+ 1800
+ 
+ 500
+ 
+ Manga 
+ 
+ 
+ Name 
+ Monster type 
+ Type 
+ Attribute 
+ Level 
+ ATK 
+ DEF 
+ 
+ 
+ Death Spirit Zoma 
+ 
+ ???
+ 
+ ???
+ 
+ ???
+ 
+ ???
+ 
+ 1800
+ 
+ 500
+ 
+ 
+ Embodiment of Apophis 
+ 
+ Normal Monster 
+ 
+ Reptile 
+ 
+ EARTH 
+ 
+ 4
+ 
+ 1600
+ 
+ 1800
+ 
+ 
+ Metal Reflect Slime 
+ 
+ Normal Monster 
+ 
+ ???
+ 
+ ???
+ 
+ ???
+ 
+ 0
+ 
+ ?
+ 
+ 
+ Phantom Knights Dark Gauntlet 
+ 
+ Effect Monster 
+ 
+ ???
+ 
+ ???
+ 
+ 4
+ 
+ ?
+ 
+ 600
+ 
+ 
+ Phantom Knights Shade Brigandine 
+ 
+ ???
+ 
+ ???
+ 
+ ???
+ 
+ 4
+ 
+ ?
+ 
+ 800
+ 
+ 
+ Stronghold the Moving Fortress 
+ 
+ Effect Monster 
+ 
+ Machine 
+ 
+ EARTH 
+ 
+ 4
+ 
+ 0
+ 
+ 2000
+ 
+ See also 
+ Card Rulings:Trap Monster 
+ Pseudo-Trap Monster 
+ Example 
+ 
+ 
+ 
+   
+" Trap Monster " 「 罠 モンスター」 Members 
+ Abyss Stungray Altergeist Emulatelf Angel Statue - Azurune Conquistador of the Golden Land Copy Knight Crusadia Krawler Cyber Shadow Gardna Dimension Reflector The Door of Destiny Dwimmered Glimmer Embodiment of Apophis The First Monarch Guardian of the Golden Land Huaquero of the Golden Land King Scarlet Krystal Avatar Machine King - 3000 B.C. Metal Reflect Slime Metalhold the Moving Blockade Metamorphortress Powerhold the Moving Battery Quantum Cat Shaddoll Core Shapesister Space Dragster Statue of Anguish Pattern Stronghold the Moving Fortress Swamp Mirrorer Tiki Curse Tiki Soul Zoma the Spirit 
+ Support 
+ Statue of Anguish Pattern Tiki Curse Tiki Soul 
+ 
+ v e 
+ Trap Monster   罠 モンスター a   Members 
+ Copy Knight Cyber Shadow Gardna Depth Gardna Dimension Reflector The Door of Destiny Embodiment of Apophis Gimmick Box Instant Shutter Jirai Gumo King Scarlet Krystal Avatar Metalhold the Moving Blockade Metamorphortress Stronghold the Moving Fortress Uluru the Guardian Spirit Zoma the Spirit 
+ Related 
+ Dragon Capture Jar 
+ 
+ v e 
+ Trap Monster   罠 モンスター m   Members 
+ Copy Knight D/D Cold Golem D/D Greedy Golem Death Spirit Zoma Embodiment of Apophis Metal Reflect Slime Phantom Knights Dark Gauntlet Phantom Knights Shade Brigandine Stronghold the Moving Fortress 
+ Related 
+ Jirai Gumo 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/2a/MetalReflectSlime-EN-Anime-DM-NC.jpg/revision/latest/scale-to-width-down/350?cb=20120414170553', 'https://static.wikia.nocookie.net/yugioh/images/3/3f/EmbodimentofApophis-BP02-EN-C-1E.png/revision/latest?cb=20130713175246']
+Categories: Archetypes, TCG and OCG archetypes, Gameplay

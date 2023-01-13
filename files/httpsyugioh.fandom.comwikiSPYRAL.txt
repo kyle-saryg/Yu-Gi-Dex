@@ -1,0 +1,376 @@
+Link: https://yugioh.fandom.com/wiki/SPYRAL
+
+
+ 
+ SPYRAL 
+ ＳＰＹＲＡＬ 「 スパイラル 」  ( Supairaru ) 
+ 
+ 
+ 
+ 
+ Clockwise from top: " SPYRAL Tough ", " SPYGAL Misty " and " SPYRAL Super Agent " in the artwork of " SPYRAL MISSION - Recapture " 
+ 
+ 
+ Other names 
+ 
+ French 
+ ESPIRALE 
+ 
+ 
+ German 
+ SPIORAL 
+ 
+ 
+ Italian 
+ SPIARALE 
+ 
+ 
+ Korean 
+ 2= SPYRAL 「 스파이랄 」   Seupairal   (romanized) 
+ 
+ 
+ Portuguese 
+ ESPIRÃO 
+ 
+ 
+ Spanish 
+ E.S.P.I.R.A.L. 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ The Dark Illusion Invasion: Vengeance Raging Tempest Maximum Crisis Circuit Break 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Extra Pack 2017 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " SPYRAL " ( ＳＰＹＲＡＬ   Supairaru ) is one of two formerly  TCG-only  archetypes that premiered in  The Dark Illusion , with the other being " Subterror ". It includes the " SPYRAL GEAR " and " SPYRAL MISSION " sub-archetypes.
+ 
+ Contents 
+ 
+ 1   Design 
+ 
+ 1.1   Appearance 
+ 1.2   Etymology 
+ 
+ 
+ 2   Members 
+ 3   Support 
+ 4   Playing style 
+ 5   Weaknesses 
+ 6   Recommended cards 
+ 7   Official Decklist 
+ 8   References 
+ 
+ 
+ Design 
+ Appearance 
+ The "SPYRAL" cards seem to be based loosely on the  James Bond  spy series as well as potentially the  Metal Gear  video game series.
+ 
+ Etymology 
+ The names of "SPYRAL" in all languages are a play on the words for "spy" and "spiral". The archetype's name may also be a reference to  Spyral , a  DC Comics  espionage agency.
+ 
+ Members 
+ 
+ 
+ Class
+ 
+ Monster
+ 
+ Origin
+ 
+ 
+ James Bond
+ 
+ Metal Gear
+ 
+ 
+ Agent
+ 
+ SPYRAL Double Helix 
+ 
+ Double O Agent 
+ 
+ The Twin Snakes 
+ 
+ 
+ SPYRAL Sleeper 
+ 
+ Alec Trevelyan / Sleeper agent 
+ 
+ Revolver Ocelot / Liquid Snake 
+ 
+ 
+ SPYRAL Super Agent 
+ 
+ James Bond 
+ 
+ Solid Snake / Naked Snake 
+ 
+ 
+ SPYRAL Tough 
+ 
+ Felix Leiter 
+ 
+ Gray Fox / Raiden 
+ 
+ 
+ Gadget
+ 
+ SPYRAL GEAR - Drone 
+ 
+ Espionage device 
+ 
+ Cypher / Metal Gear MK. II 
+ 
+ 
+ SPYRAL GEAR - Last Resort 
+ 
+ Mech suit 
+ 
+ Metal Gear REX 
+ 
+ 
+ Supporting character
+ 
+ SPYRAL Master Plan 
+ 
+ M 
+ 
+ Courtney Collins 
+ 
+ 
+ SPYRAL Quik-Fix 
+ 
+ Q 
+ 
+ Hal "Otacon" Emmerich 
+ 
+ Support 
+ 
+ 
+ Class
+ 
+ Card
+ 
+ Origin
+ 
+ 
+ James Bond
+ 
+ Metal Gear
+ 
+ 
+ Gadget
+ 
+ SPYRAL GEAR - Big Red 
+ 
+ Various cars 
+ 
+ Cardboard box 
+ 
+ 
+ SPYRAL GEAR - Fully Armed 
+ 
+ 
+ 
+ 
+ 
+ 
+ SPYRAL GEAR - Utility Wire 
+ 
+ Grappling hook 
+ 
+ 
+ 
+ 
+ Location/Organization
+ 
+ SPYRAL Resort 
+ 
+ MI6 
+ 
+ FOXHOUND / Philanthropy 
+ 
+ 
+ Supporting character
+ 
+ Charming Resort Staff 
+ 
+ Miss Moneypenny 
+ 
+ Naomi Hunter 
+ 
+ 
+ SPYGAL Misty 
+ 
+ Bond girl 
+ 
+ Meryl Silverburgh 
+ 
+ Playing style 
+ The "SPYRAL" archetype focuses upon quickly Summoning " SPYRAL Super Agent " and/or " SPYRAL Double Helix " (who is treated as "Super Agent") and maintaining it on the field in order to derive advantages from the archetype's other cards. As such, "Super Agent" serves as the core of the archetype, with many of its other cards supporting it directly. "Super Agent" can be Special Summoned from the hand if the controller correctly declares the card type of the top card in the opponent's Deck, and if it is Special Summoned via the effect of a "SPYRAL" card, allows the controller to destroy a Spell/Trap Card the opponent controls. " SPYRAL Double Helix " is a Link 2 that can Special Summon any SPYRAL from the Deck if its controller declares correctly the top card of the opponent's Deck, allowing all SPYRAL cards in the Deck to be quickly accumulated and used. " SPYRAL Tough " is treated as "Super Agent" while on the field or in the Graveyard, allowing the controller to make plays even without "Super Agent" or "Double Helix". While "Tough" cannot be Special Summoned from the hand like "Super Agent" can, his effect can destroy any card on the field. While " SPYRAL Sleeper " is not treated as "Super Agent", he does offset that with more ATK points, Special Summoning himself by banishing three SPYRAL cards from the Graveyard, and the ability to destroy two cards during either player's turn, at no cost if equipped with " SPYRAL GEAR - Last Resort ". As such, he makes an excellent complement to any SYPRAL board, or a good way to push for victory.  
+ " SPYRAL Resort " searches any "SPYRAL" monster from the deck, giving the player quick access to "Super Agent". "Resort" also gives protection to "SPYRAL" monsters so that they cannot be targeted by the opponent's card effects, giving "Super Agent" longevity. Lastly, a monster must be returned to the deck every turn as a maintenance cost for "Resort", otherwise it is destroyed. The controller can use this to recycle "SPYRAL" monsters to be searched next turn or any other monster he/she chooses, such as hand traps (ex. " Ash Blossom & Joyous Spring ", " Ghost Ogre & Snow Rabbit ", etc.) and monsters Special Summoned from the Extra Deck for later use. As it is now Limited, it must be carefully protected and recycled if possible. 
+ Due to the importance of "Super Agent" to the archetype as a whole, the " SPYRAL GEAR " sub-archetype is focused upon helping the player to support it. In particular, the first effect of " SPYRAL GEAR - Drone " allows the player to manipulate the order of the top 3 cards in the opponent's Deck upon its Normal or Special Summon, thus making it significantly easier to trigger the various SPYRAL effects. For its second effect, "Drone" can also Tribute itself to increase the ATK of "SPYRAL" monster by 500 for each card the opponent controls, although it is more commonly used as Link/Xyz Material instead. The third effect of "Drone" allows the controller to banish it and another "SPYRAL" card from the Graveyard to return "Super Agent" from the Graveyard to the hand. " SPYRAL GEAR - Last Resort " can equip to a "SPYRAL" monster to protect it from destruction and allow it to attack directing, simultaneously setting up cards in your Graveyard. " SPYRAL GEAR - Big Red " allows the controller to Special Summon a "SPYRAL" monster from the Graveyard and equips itself to the Summoned monster, preventing its destruction by battle, making especially beneficial for reusing "Double Helix" in a Main Monster Zone and helping it to survive on the field. " SPYRAL GEAR - Fully Armed " equips to your "Super Agent", turning it into an offensive threat that can permanently remove opposition. " SPYRAL GEAR - Utility Wire " returns a card to the top of your opponent's deck, assisting in the resolution of the effect of "Super Agent" while removing problematic cards.
+ " SPYRAL Quik-Fix " enables the player to quickly amass "SPYRAL GEAR" cards, adding 1 from the Deck to the hand when it is Normal or Special Summoned. Further augmenting its searching capabilities, "Quik-Fix" can also Special Summon itself from the Graveyard if the controller discards a card while they control "Super Agent", providing an easy avenue to place " SPYRAL MISSION - Rescue " in the Graveyard. It is to be noted that "Quik-Fix" banishes itself if Special Summoned with its own effect, but this can be rarely averted by overlaying it with "Drone" to Xyz Summon a Rank 1 Xyz Monster, such as " Sylvan Princessprite ", setting "Quik-Fix" up to be placed back into the Graveyard for its effect to be used again. "Quik-Fix" was also an eligible target for " Machine Duplication " before it was  Limited , which would provide the player with significant card advantage. 
+ The " SPYRAL MISSION " sub-archetype is focused around rewarding you for completing your combos. " SPYRAL MISSION - Assault " allows the controller to draw a card whenever a card the opponent controls is destroyed by a "SPYRAL" card. " SPYRAL MISSION - Recapture " takes the opponents monsters when you Special Summon a "SPYRAL" monster. " SPYRAL MISSION - Rescue " can add a "SPYRAL" monster from your deck to your hand. "SPYRAL MISSION" cards also have effects in the Graveyard, with "Assault" summoning a SPYRAL monster from the hand, "Recapture" banishing itself to protect "Super Agent" from destruction, and, by far the most important, "Rescue" Special Summoning a "SPYRAL" monster from your Graveyard during either player's turn. " SPYRAL Master Plan " searches "SPYRAL MISSION" cards and, if sent from the field to the Graveyard, searches "Resort" and any "SPYRAL" monster. This card can be Special Summoned by "Double Helix" and repeatedly revived by "Rescue", allowing for insane advantage gain, especially before "Resort" was Limited.
+ " Charming Resort Staff " and " SPYGAL Misty " support the "SPYRAL" archetype, but are not "SPYRAL" cards. "Resort Staff" allows "Super Agent" to beat over larger monsters. Once destroyed, "Resort Staff" Special Summons "Super Agent" from the Deck and can be banished from the Graveyard to add a destroyed "Super Agent" to the hand, further ensuring his survival. "Misty" allows the player to draw a card and can return "Super Agent" and one monster the opponent controls to the hand, allowing for "Super Agent" to be Summoned again. 
+ Competitively, SPYRALs were a powerful rouge-tier Deck when they were released, but their timing was unfortunate-they received their crucial last support at the start of the infamous  Zoodiac  format. They also lacked a Summon mechanic that meshed well with their strategy-they had no on-archetype  Tuners  and their monsters were a mix of different Levels. With the release of  Link Monsters  and the banning of Zoodiacs, SPYRALs returned to rouge-tier, as a solid but inconsistent choice. However, when  Circuit Break  came out, massively expanding the pool of useable Link Monsters and adding Double Helix to the Deck's arsenal, the deck went straight to being so powerful a  emergency banlist  had to be issued within 3 weeks to hit Quik-Fix and Drone to 1, preventing them being abused as Xyz Material and with  Machine Duplication . They proceeded to remain at top-level for the remainder of the winter until the  February  lists hit Resort to 1 as well, knocking the Deck out of the top tiers once more. However the Deck remains viable to this day, once more in its role as a rouge Deck. 
+ 
+ Weaknesses 
+ Because the archetype is heavily dependent on Special Summoning "Super Agent", any cards that restrict the controller's access to it by preventing it from being used, such as " Psi-Blocker " or " Prohibition ", will render a majority of the archetype's combos unusable.
+ As "Super Agent" is dependent on the player knowing the card type of the top card in the opponent's Deck to trigger its own Summoning condition, any cards that rearrange the order of cards in the opponent's Deck, such as  Searchers , will significantly slow the archetype down. This is also exacerbated if the opponent changes their Deck order after the controller uses the first effect of "Drone", as said effect is designed to make it easier to both Special Summon "Super Agent" and predict the opponent's strategy on the basis of what card they will draw.
+ Following the release of Circuit Break and the addition of "Double Helix", the archetype received a massive consistency boost alleviating its major weaknesses. However, " Droll & Lock Bird " can completely shut down the archetype for a turn as they need to be able to search continuously to get their plays off the ground. Alternatively, you can cut off their access to the ability of "Double Helix" through " Ash Blossom & Joyous Spring " or render them permanently unable to use it through " Ghost Reaper & Winter Cherries ".
+ 
+ Recommended cards 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ SPYRAL GEAR - Drone 
+ SPYRAL GEAR - Last Resort 
+ SPYRAL Quik-Fix 
+ SPYRAL Sleeper 
+ SPYRAL Super Agent 
+ SPYRAL Tough 
+ SPYGAL Misty 
+ Charming Resort Staff 
+ Danger!? Jackalope? 
+ Danger! Nessie! 
+ Danger!? Tsuchinoko? 
+ Knightmare Corruptor Iblee 
+ PSY-Framegear Gamma 
+ PSY-Frame Driver 
+ Tuner monsters 
+ Destrudo the Lost Dragon's Frisson Extra Deck   
+ Fusion Monsters 
+ Panzer Dragon 
+ Sea Monster of Theseus 
+ Thousand-Eyes Restrict 
+ Synchro Monsters 
+ Naturia Beast 
+ Power Tool Dragon 
+ PSY-Framelord Omega 
+ Xyz Monsters 
+ Sylvan Princessprite 
+ Number 41: Bagooska the Terribly Tired Tapir 
+ Link Monsters 
+ SPYRAL Double Helix 
+ Knightmare  monsters 
+ Linkuriboh 
+ Tri-Gate Wizard 
+ Borrelsword Dragon Spells   &  Traps   
+ Spells 
+ SPYRAL GEAR - Big Red 
+ SPYRAL GEAR - Fully Armed 
+ SPYRAL MISSION - Assault 
+ SPYRAL Resort 
+ Called by the Grave 
+ Foolish Burial 
+ Foolish Burial Goods 
+ Instant Fusion 
+ One for One 
+ Reinforcement of the Army 
+ Terraforming 
+ Where Arf Thou? 
+ Traps 
+ SPYRAL GEAR - Utility Wire 
+ SPYRAL MISSION - Recapture 
+ SPYRAL MISSION - Rescue 
+ Mind Crush 
+ Official Decklist 
+ 
+ V Jump's "SPYRAL" Deck [1] Monsters   
+ Effect Monsters 
+ Ash Blossom & Joyous Spring  x2 
+ SPYRAL GEAR - Drone  x3 
+ SPYRAL GEAR - Last Resort  x2 
+ SPYRAL Master Plan  x2 
+ SPYRAL Quik-Fix  x3 
+ SPYRAL Sleeper  x1 
+ SPYRAL Super Agent  x3 Extra Deck   
+ Xyz Monsters 
+ Ghostrick Dullahan  x2 
+ Lyrilusc - Recite Starling  x1 
+ Link Monsters 
+ Borreload Dragon  x1 
+ Code Talker  x1 
+ Decode Talker  x1 
+ Firewall Dragon  x2 
+ Linkuriboh  x1 
+ Proxy Dragon  x2 
+ SPYRAL Double Helix  x2 
+ Tri-Gate Wizard  x2 Spells   &  Traps   
+ Spells 
+ Double Summon  x2 
+ Foolish Burial Goods  x2 
+ Machine Duplication  x3 
+ Monster Reborn  x1 
+ One for One  x1 
+ SPYRAL GEAR - Big Red  x2 
+ SPYRAL GEAR - Fully Armed  x1 
+ SPYRAL MISSION - Assault  x2 
+ SPYRAL Resort  x3 
+ Terraforming  x1 
+ Twin Twisters  x2 
+ Traps 
+ Metaverse  x1 
+ SPYRAL GEAR - Utility Wire  x1 
+ SPYRAL MISSION - Rescue  x2 
+ References 
+ 
+ 
+ ↑   https://ygorganization.com/recitestarlinginduelfinger/ 
+ 
+ 
+ v e 
+ SPYRAL  cards 
+   
+" SPYRAL " 「 ＳＰＹＲＡＬ 」 Members 
+ SPYRAL Double Helix SPYRAL GEAR - Drone SPYRAL GEAR - Last Resort SPYRAL Master Plan SPYRAL Quik-Fix SPYRAL Sleeper SPYRAL Super Agent SPYRAL Tough 
+ SPYRAL GEAR - Big Red SPYRAL GEAR - Fully Armed SPYRAL GEAR - Utility Wire SPYRAL MISSION - Assault SPYRAL MISSION - Recapture SPYRAL MISSION - Rescue SPYRAL Resort 
+ Support 
+ SPYRAL Double Helix SPYRAL GEAR - Drone SPYRAL GEAR - Last Resort SPYRAL Master Plan SPYRAL Sleeper SPYRAL Super Agent 
+ SPYRAL GEAR - Big Red SPYRAL MISSION - Assault SPYRAL MISSION - Recapture SPYRAL MISSION - Rescue SPYRAL Resort 
+ Related 
+ Charming Resort Staff SPYGAL Misty 
+ 
+   
+" SPYRAL GEAR " 「 ＳＰＹＲＡＬ   ＧＥＡＲ 」 Members 
+ SPYRAL GEAR - Drone SPYRAL GEAR - Last Resort 
+ SPYRAL GEAR - Big Red SPYRAL GEAR - Fully Armed SPYRAL GEAR - Utility Wire 
+ Support 
+ SPYRAL Quik-Fix 
+ 
+   
+" SPYRAL MISSION " 「 ＳＰＹＲＡＬ   ＭＩＳＳＩＯＮ 」 Members 
+ SPYRAL MISSION - Assault SPYRAL MISSION - Recapture SPYRAL MISSION - Rescue 
+ Support 
+ SPYRAL Master Plan 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e6/SPYRALArchetype.png/revision/latest/scale-to-width-down/350?cb=20170215152543']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Link Monster(s)

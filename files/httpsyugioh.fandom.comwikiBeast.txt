@@ -1,0 +1,653 @@
+Link: https://yugioh.fandom.com/wiki/Beast
+
+
+ 
+ Beast
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 獣 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ けもの
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 獣
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Kemono
+ 
+ 
+ 
+ English
+ 
+ 
+ Beast
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Bête 
+ German : Ungeheuer 
+ Italian : Bestia 
+ Portuguese : Besta 
+ Spanish : Bestia 
+ Korean : 야수 (野獸)  Yasu 
+ Traditional Chinese : 獸  Shòu / Sau3 
+ Simplified Chinese : 兽  Shòu 
+ Arabic : حيوان 
+ 
+ 
+ 
+ 
+ 
+ Lists
+ 
+ 
+ 
+ 
+ members 
+ support 
+ anti-support 
+ 
+ Beast  (Japanese:  獣   Kemono ) is a  Type  of monster consisting mainly of wild animals. They are typically  EARTH  Attribute monsters, although  LIGHT  and  FIRE  monsters of this type are not uncommon. Beast-Type monsters are often overlooked, but often have great utility. Because they are relatively low in number compared to more popular monster types, there is no one specific theme or strategy common to them, though many have effects that assist them during the Battle Phase. Many Beasts are weaker utility monsters that splash well into other Decks, like " Nimble Momonga ", but a few Beasts are potent on their own, such as " Green Baboon, Defender of the Forest ", which Summons itself whenever ANY Beast is destroyed and sent to the Graveyard, " Master of Oz ", which is one of the strongest Fusion Monsters available in terms of sheer  ATK , and " Naturia Beast ", which has a potent Spell Card lockdown. One Beast-type card, " Rescue Cat ", was previously only truly useful for setting up  Ojama  Fusions, but after the release of  Synchro Monsters  it became a near-invaluable staple card by Summoning a Beast-Type  Tuner monster  and another Beast for an immediate  Synchro Summon ; due to this, it was the source of many OTKs, and eventually became Forbidden, and then errata'd years later. This strategy has been supported in  Duelist Revolution  with the inclusion of several cards used by  Team Unicorn , where as their Decks are based on Synchro Summoning using mostly Beast-Type monsters to Summon their " Thunder Unicorn ", " Voltic Bicorn ", and " Lightning Tricorn ", which are all Beast-type Synchro Monsters.
+ Archetypes  include the " Ojamas ", " Sphinx ", the " Koala " monsters, " Nordic Beasts " and " The Fabled " sub-archetype. In addition, a good portion of the " Crystal Beasts " fall underneath this Type as well as the " Performapal " and " ZW - " archetypes.
+ Beast cards are most notably played by  Maico Kato ,  Chumley Huffington ,  Jesse Anderson ,  Devack ,  Dragan ,  Team Unicorn ,  Ponta  and  Naoki Shima ,  Schrödinger Nekoyama ,  Caterpillio Zomyoji  and  Nick Yagi  in the anime and manga.
+ Some other respectable Beast- Type  monsters are " Rescue Rabbit ",  " Super-Nimble Mega Hamster ", " Zeman the Ape King ", " Earthbound Immortal Cusillu ", " Green Baboon, Defender of the Forest ", " Yellow Baboon, Archer of the Forest ", " Bazoo the Soul-Eater ", " Berserk Gorilla ", " King Tiger Wanghu ", " Outstanding Dog Marron ", " Mosaic Manticore ", " Behemoth the King of All Animals ",  " Neo-Spacian Dark Panther ", " ZW - Leo Arms " and " Voltic Kong ".
+ 
+ Contents 
+ 
+ 1   Beast Decks 
+ 
+ 1.1   Moja Deck 
+ 1.2   Imperial Beast Deck 
+ 1.3   Weenie Beasts 
+ 1.4   Sphinx Beasts 
+ 1.5   Tiger Beasts 
+ 
+ 
+ 2   Examples 
+ 
+ 
+ Beast Decks 
+ Moja Deck 
+ A Moja Deck is based around three TCG-Exclusive cards released in  Raging Battle ; " Moja ", " King of the Beasts ", and " Beast Striker ". The idea is to have a King of the Beasts in the Graveyard and continuously re-summon Moja so that King of the Beasts can continually revive itself no matter how many times it is destroyed. An example decklist can be found  here . 
+ For this Deck, you can use cards such as:
+ 
+ Kinka-byo : Not only is this a Beast, but its effect allows the re-summon of  Moja  over and over - meaning you can Special Summon one King of the Beasts every turn and get this card back for later use. 
+ Lock Cat : Not only is this a Beast, but its effect allows the special summon of  Moja   meaning you can special summon one King of the Beasts. 
+ Key Mouse : It can search out " Moja " to your hand, and other monster like  Kinka-byo ,  Lockat  and  Ryko, Lightsworn Hunter  benefits from Moja's effect. 
+ Giant Rat : It can search out " Moja ", and benefits from Moja's effect in return. 
+ Super-Nimble Mega Hamster : It can search out " Moja ",  Ryko, Lightsworn Hunter ,  Key Mouse  or other Beast-Type monsters LV3 or lower in face-down position and benefits from Moja's effect in return. 
+ Rescue Cat : This also searches out " Moja ", and can be retrieved by Moja in turn 
+ X-Saber Airbellum : It can be Special Summoned by " Rescue Cat " for an easy synchro summon. Its discard effect is one that rivals that of " Wind-Up Hunter ". 
+ Green Baboon, Defender of the Forest : With even more ATK than  King of the Beasts , and an easy recursion effect, this is a handy card to have. Use it with  Rescue Cat 's drawback to keep a monster on the field at turn's end, combo it with  Giant Rat  and  Moja , and much more. 
+ Yellow Baboon, Archer of the Forest : Not as good as  Green Baboon . It can only be Summoned from your hand, and requires the removal of Beasts from your Graveyard - not necessarily a good thing, because they can be very useful there. However, Yellow Baboon isn't a bad card. 
+ Mosaic Manticore : Summons " Moja " and another monster so you can recycle your monster, but be sure that your monster has an effect that activates in the Graveyard like  Key Mouse  and  Giant Rat . 
+ Ryko, Lightsworn Hunter : It's a Beast-Type monster, with a nasty flip effect that can mill  King of the Beasts  or  Green Baboon, Defender of the Forest . If this card is destroyed and you mill Green Baboon, the baboon can be instantly summoned! Also works with Rescue Cat - you can special summon a level 5 synchro monster when this card is paired with  X-Saber Airbellum . 
+ Closed Forest : Your Beasts gain 100 ATK for every monster in your Graveyard, and it hurts other Decks that require Field Spells. 
+ Creature Swap : Perfect for this Deck. It works incredibly well with  Moja , because of Moja's low ATK and good effect. And you steal your opponent's monster into the bargain. Giant Rat, Kinka-byo and Key Mouse is also very good for this purpose. 
+ Foolish Burial : Instantly puts a  King of the Beasts  or a  Green Baboon, Defender of the Forest  into the graveyard for later use. 
+ Pot of Avarice : You'll be discarding with  Beast Striker , milling with  Ryko, Lightsworn Hunter , thinning the Deck with  Giant Rat  and  Rescue Cat  - this is perfect to use. With Pot of Avarice, Beast Striker's effect can be used more than just 3 times. 
+ Solidarity : Buffs " King of the Beasts " to 3300 ATK, and allows you to destroy cards more easily. The drawback is not being able to use cards like " Sangan " or " Card Trooper ". 
+ Imperial Iron Wall : Cards cannot be banished, so  Moja ,  King of the Beasts ,  Green Baboon, Defender of the Forest  and other monsters cannot be banished. 
+ Imperial Beast Deck 
+ This Deck basically uses Kinka-Byo to bring out a Moja or a Key Mouse and Special Summon as many Chain Dogs as you can.
+Then use the appropriate effect: If you choose a Moja bring a King of the Beasts or Synchro summon a  Naturia Leodrake ,  Mist Wurm ,  Naturia Beast  or  Thunder Unicorn  if is a Key Mouse.
+Trishula can't be an option because you must use Imperial Iron Wall to recycle Chain Dog and protect your cards from being banished like Green Baboon, Defender of the Forest and the monster that is Special Summoned by your Kinka-Byo.
+This Deck must be fast so cards such as  Hand Destruction ,  Foolish Burial ,  Card Destruction  and  Ryko, Lightsworn Hunter  can help this.
+ For this Deck, you can use cards such as:
+ 
+ Kinka-byo 
+ Lock Cat 
+ Key Mouse 
+ Chain Dog 
+ Behemoth the King of All Animals 
+ Egotistical Ape 
+ Giant Rat 
+ Super-Nimble Mega Hamster 
+ X-Saber Airbellum 
+ Green Baboon, Defender of the Forest 
+ Ryko, Lightsworn Hunter 
+ Creature Swap 
+ Foolish Burial 
+ One for One 
+ Pot of Avarice 
+ Solidarity 
+ Berserking 
+ Horn of the Phantom Beast 
+ Super Rush Recklessly 
+ Imperial Iron Wall 
+ Royal Decree 
+ Weenie Beasts 
+ This Deck is based around swarming the field with beasts, mainly using  Rescue Cat , and increasing their ATK for an  OTK .  The Deck is known as "Weenie" Beasts because, individually, most of the monsters in this Deck have quite low ATK. (Note that rescue cat is " Limited " and can be activated a " Hard Once Per Turn ")
+ Some suggestions of cards to use for this Deck:
+ 
+ Rescue Cat : One of the key cards in this Deck. It can be used to search out most of the monsters in the Deck and is essential for pulling off an OTK. You can search for either cards like " Milus Radiant " to pull off an OTK, or you can use it to grab " X-Saber Airbellum " and another card for a quick synchro. 
+ Milus Radiant : Another very important monster, it can give a boost to your entire field; more than one on the field at a time can be deadly. 
+ Tree Otter : Another very important card, it can give a boost to another beast; more than one on the field at a time can be powerful. Very useful with  " Rescue Cat ". 
+ Hyena : Another very important monster if your Deck is based around swarming Beasts, it can give a powerful combo with " Rescue Cat " and " Creature Swap . 
+ Chain Dog : Another very important beast if your deck is based around swarming Beasts, Special Summons from your Graveyard if you control exactly 2 face-up Beast-Type monsters, combine with  X-Saber Airbellum  and Synchro Summon  Voltic Bicorn . 
+ Ryko, Lightsworn Hunter : Mills 3 cards and destroys a card, a perfect fit for this Deck 
+ Naturia Beast : An easy-to-summon  Synchro Monster , as most cards in this Deck are Earth Attribute. It shuts down Spells and mills 2 cards each time, which is another perfect fit. It's also very easy to summon with "Rescue Cat". 
+ Key Mouse : Can search out most cards in the Deck. 
+ Giant Rat : Can search out a lot of cards, including " Rescue Cat ". 
+ Inferno Reckless Summon : Can be extremely useful in combination with such cards as " Milus Radiant ". 
+ Spiritual Earth Art - Kurogane : Can pull a  Rescue Cat  from your grave, which you can cycle for two more cards. It can also get a " Milus Radiant ", which you can use " Inferno Reckless Summon " on for two more. 
+ Green Baboon, Defender of the Forest : A useful card that can be used in combination with  Rescue Cat 's ability, which destroys the monsters at the end of the turn. 
+ Gaia Power : A free attack boost to your whole field. 
+ X-Saber Airbellum : A beast-type tuner that can be searched out with  Rescue Cat . 
+ Sea Koala : Can help destroy any attack position monster on the opponent's side of the field. 
+ Closed Forest : one powerful field for swarming beasts down deck, because all face-up Beast-Type monsters you control gain 100 ATK for each monster in your Graveyard and neither player can activate Field Spell Cards. Field Spell Cards cannot be activated during the turn this it is destroyed. 
+ Spiritual Forest : Each turn, the first face-up Beast-Type you control that would be destroyed by battle is not destroyed. This card will protect the first Beast  extremely useful for several combo. 
+ Level Limit - Area B : Can be used for stalling, but can hinder "Green Baboon". On the bright side, it doesn't stop " Naturia Beast 's" effect. 
+ Poison Fangs : Each time a Beast-Type monster inflicts Battle Damage to your opponent, inflict extra 500 damage. 
+ The Big March of Animals : It can give up to a most of your 1000 ATK boost to your whole field. 
+ Wild Nature's Release : Increase the ATK of 1 Beast by an amount equal to its DEF. Destroy the monster during the End Phase of the turn that this card is activated. after you can pay 1000 Life Points to Special Summon Green Baboon, Defender of the Forest  from your hand or the Graveyard. 
+ Solidarity : An extra 800 ATK each is amazing and can stack up quickly. 
+ Gravity Bind : See above " Level Limit - Area B ". 
+ "This Deck can also be built using  Royal Decree ; just take out most of the traps and put these in." 
+ Sphinx Beasts 
+ The Sphinx Beasts can be used as additional support for most Beast Decks, especially the ones that don't have very powerful  Monster Cards .
+ 
+ Andro Sphinx 
+ Sphinx Teleia 
+ Theinen the Great Sphinx 
+ Pyramid of Light 
+ Tiger Beasts 
+ This build revolves around  Flame Tiger  and sometimes  Chain Dog , to perform quick Xyz Summons.  Flamvell Firedog  is recommended, as it Summons Flame Tiger instantly, allowing you to speed up the setup. Some builds revolve around  Skill Drain  since it will not negate the Deck's key cards (as both tiger and dog will work in the graveyard) and ruins most of the setups in the current meta. 
+ 
+ Flame Tiger 
+ Chain Dog 
+ King Tiger Wanghu 
+ Beast King Barbaros  (only if running Skill Drain) 
+ Horn of the Phantom Beast 
+ Examples 
+ Normal Monster Effect Monster Token Monster Ritual Monster Fusion Monster Synchro Monster Xyz Monster Normal Pendulum Monster Effect Pendulum Monster Link Monster Rush Duel Normal Monster Rush Duel Effect Monster 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/ed/GazelletheKingofMythicalBeasts-YGLD-EN-C-1E.png/revision/latest/scale-to-width-down/138?cb=20170813201130', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/08/FenrirtheNordicWolf-LC05-EN-UR-LE.png/revision/latest/scale-to-width-down/137?cb=20141024102018', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/90/HippoToken-YS16-EN-C-1E-Orange.png/revision/latest/scale-to-width-down/136?cb=20160526085016', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/00/SuperWarLion-PP02-EN-ScR-UE.png/revision/latest/scale-to-width-down/138?cb=20081113040725', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c2/AmazonessPetLiger-CIBR-EN-C-1E.png/revision/latest/scale-to-width-down/137?cb=20171020170943', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/0d/NaturiaBeast-LC5D-EN-UR-1E.png/revision/latest/scale-to-width-down/138?cb=20141024124124', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/70/DiamondDireWolf-BP03-EN-SHR-1E.png/revision/latest/scale-to-width-down/137?cb=20140803123024', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/3c/GhostBeef-MP18-EN-C-1E.png/revision/latest/scale-to-width-down/136?cb=20180901005320', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/62/MayosenjuDaibak-SP17-EN-C-1E.png/revision/latest/scale-to-width-down/136?cb=20170310171238', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/18/MissusRadiant-COTD-EN-SR-1E.png/revision/latest/scale-to-width-down/136?cb=20170731001048', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/aa/TheRabbitofMonthlyMoonlitTears-RDCP01-JP-OP.png/revision/latest/scale-to-width-down/135?cb=20200912011817', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1a/OddEyesTwinTailCat-RDMAX1-JP-OP.png/revision/latest/scale-to-width-down/137?cb=20201119215335', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Types

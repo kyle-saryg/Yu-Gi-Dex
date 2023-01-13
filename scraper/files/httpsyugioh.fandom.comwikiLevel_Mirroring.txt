@@ -1,0 +1,90 @@
+Link: https://yugioh.fandom.com/wiki/Level_Mirroring
+
+
+ Level Mirroring 
+ 
+ Japanese:   レベル・ミラーリング 
+ Romaji:   Reberu Mirāringu 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Select  1  monster  your opponent  controls . The  Level  of 1 monster you control becomes the same as the Level of the selected opponent's monster until the  End Phase .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  047 ,  048 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ レベル・ミラーリング 
+ 相手フィールド上に存在するモンスター１体を選択して発動する。このターンのエンドフェイズ終了時まで、自分フィールド上に存在するモンスター１体のレベルを選択した相手モンスターのレベルと同じにする。 
+ 
+ 
+ Reberu Mirāringu 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Leo 
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ Changes Levels 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/7c/LevelMirroring-JP-Anime-5D.png/revision/latest/scale-to-width-down/200?cb=20151112141708', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/8f/LevelMirroring-OW.png/revision/latest/scale-to-width-down/185?cb=20150828001652', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/0f/LevelMirroring-JP-Anime-5D-NC.png/revision/latest/scale-to-width-down/185?cb=20160314180505', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

@@ -1,0 +1,127 @@
+Link: https://yugioh.fandom.com/wiki/Antidote_Nurse_(anime)
+
+Main card page: " Antidote Nurse " 
+ Antidote Nurse 
+ 
+ Japanese:   ワクチンゲール 
+ Romaji:   Wakuchingēru 
+ Translated:  Vaccingale 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Rank 
+ 
+ 
+ 3   
+ 
+ Xyz Material 
+ 
+ 
+ 
+ 3  Level  3  monsters 
+ 
+ [  Machine  /  Xyz  /  Effect  ] 
+ 3  Level  3  monsters 
+ When this card  battles  an opponent's monster, during  damage calculation : That monster's  ATK  becomes its  original ATK . Once per  turn , during the  Damage Step  of either player's turn, when a monster you  control  is  attacking  or being attacked: You can  detach  1  Xyz Material  from this card; that monster gains 1000 ATK, until the  End Phase .
+ ATK  /  1800     DEF  /  1200   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  033 ,  042 ,  144 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ワクチンゲール 
+ 
+ レベル３モンスター×３
+ 
+ このカードのエクシーズ素材１つを取り除いて発動する事ができる。フィールド上に存在するモンスター１体の魔法・罠・効果モンスターの効果による攻撃力・守備力の変化を無効にし、元々の攻撃力・守備力に戻す。 
+ 
+ 
+ Wakuchingēru 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Caswell Francis 
+ 
+ 
+ Search categories 
+ 
+ Related to  archetypes  and  series   
+ Debugger 
+ 
+ Stat changes  
+ Changes ATK value 
+ Your monsters gain ATK 
+ 
+ Summoning  categories  
+ 3 Xyz Materials 
+ Does not require specific Xyz Materials 
+ 
+ Miscellaneous  
+ Limited activations 
+ Female 
+ 
+ 
+ 
+   " Antidote Nurse " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+ Debugger  デバッガ a   r Members 
+ Debugger X Debugger Y Debugger Z 
+ Related 
+ Antidote Nurse 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/76/AntidoteNurse-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20131020175721', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1b/AntidoteNurse-OW.png/revision/latest/scale-to-width-down/185?cb=20131215183718', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/af/AntidoteNurse-JP-Anime-ZX-NC.png/revision/latest/scale-to-width-down/185?cb=20121013160725', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

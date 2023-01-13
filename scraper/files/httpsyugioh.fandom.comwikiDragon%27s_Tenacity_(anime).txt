@@ -1,0 +1,106 @@
+Link: https://yugioh.fandom.com/wiki/Dragon%27s_Tenacity_(anime)
+
+The  English                        name given is not official.  
+ Main card page: " Dragon's Tenacity " 
+ Dragon's Tenacity 
+ 
+ Japanese:   竜の執念 
+ Kana:   りゅうのしゅうねん 
+ Romaji:   Ryū no Shūnen 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ [Requirement] : When an opponent's  monster  declares an  attack . [Effect] : Choose 1 monster ( Dragon ) in your  GY . The attacking monster loses  ATK  equal to (the  Level  of the monster chosen by this  effect ) x 100 until the end of this  turn , then  shuffle  the chosen monster into the  Deck .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  SEVENS :  005 ,  008 ,  010 ,  017 ,  031 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  SEVENS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 竜 の 執 念 
+ 【条件】  相手モンスターの攻撃宣言時に発動できる。 【効果】 : 自分の墓地のモンスター（ドラゴン族）１体を選んで、攻撃してきたモンスターの攻撃力をターン終了時まで［この効果で選んだモンスターのレベル］×１００ダウンする。その後、選んだモンスターをデッキに戻す。 
+ 
+ 
+ Ryū no Shūnen 
+ 
+ 
+ Decks 
+ 
+ 
+ Lucidien Kallister 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Dragon 
+ 
+ Actions  
+ Activates upon attack declaration 
+ Returns from your Graveyard to your Deck 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ 
+ Miscellaneous  
+ Rush Duel 
+ 
+ 
+ 
+   " Dragon's Tenacity " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a3/DragonsTenacity-JP-Anime-SV.png/revision/latest/scale-to-width-down/200?cb=20200505182545', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520']
+Categories: Anime cards

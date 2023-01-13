@@ -1,0 +1,125 @@
+Link: https://yugioh.fandom.com/wiki/Cynet_Backdoor_(anime)
+
+Main card page: " Cynet Backdoor " 
+ Cynet Backdoor 
+ 
+ Japanese:   サイバネット・バックドア 
+ Romaji:   Saibanetto Bakkudoa 
+ Translated:  Cybenet Backdoor 
+ 
+ 
+ 0px 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Quick-Play 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Effect 
+ Lingering 
+ Condition 
+ Target  1  Cyberse   monster  you  control ;  banish  it, and if you do,  add  1 Cyberse monster from your  Deck  to your  hand , whose  ATK  is lower than that monster's  original ATK . During your next  Standby Phase ,  return  that monster banished by this  effect  to the  field , and it can  attack   directly  that  turn . You can only  activate  1 "Cynet Backdoor"  per turn .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  020 ,  118 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ サイバネット・バックドア 
+ このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドのサイバース族モンスター１体を対象として発動できる。そのモンスターを除外し、そのモンスターの元々の攻撃力より低い攻撃力を持つサイバース族モンスター１体をデッキから手札に加える。この効果で除外したモンスターは次の自分スタンバイフェイズにフィールドに戻り、そのターン直接攻撃できる。 
+ 
+ 
+ Saibanetto Bakkudoa 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Cyberse 
+ 
+ Archetypes  and  series   
+ Cynet 
+ 
+ Actions  
+ Adds from Deck to hand 
+ Returns from Banished Zone to field 
+ 
+ Attack  categories  
+ Allows direct attacks 
+ 
+ Banished  categories  
+ Banishes from your field 
+ 
+ 
+ 
+   " Cynet Backdoor " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+" Cynet " 「サイバネット」 a   m   Members 
+ Cynet Backdoor Cynet Closure Cynet Codec Cynet Defrag Cynet Fusion Cynet Mining Cynet Optimization Cynet Refresh Cynet Ritual Cynet Storm Cynet Token Cynet Universe 
+ Support 
+ Micro Coder 
+ Related 
+ Clock Spartoi Clock Spartoi Cyberse Magician Cyberse Witch 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/05/Quick-Play.svg/revision/latest/scale-to-width-down/18?cb=20120920115228']
+Categories: Anime cards

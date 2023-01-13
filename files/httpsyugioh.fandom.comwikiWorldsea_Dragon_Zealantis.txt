@@ -1,0 +1,104 @@
+Link: https://yugioh.fandom.com/wiki/Worldsea_Dragon_Zealantis
+
+
+ 
+ 
+ Worldsea Dragon Zealantis 世 海 龍  ジーランティス 
+ 
+ English 
+Worldsea Dragon Zealantis 
+ Japanese (kana) 
+ せかいりゅう ジーランティス Check translation 
+ Japanese (base) 
+ 世海龍 ジーランティス Check translation 
+ Japanese ( rōmaji ) 
+Sekairyū Jīrantisu 
+ Card type 
+ Monster   
+ Attribute 
+ WATER   
+ Types 
+ Sea Serpent  /  Link  /  Effect 
+ Link Arrows 
+ Top   ,  Left   ,  Right   ,  Bottom   
+ ATK  /  LINK 
+ 2500  /  4 
+ Passcode 
+ 45112597 
+ Materials 
+1+ Effect Monsters Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+1+  Effect Monsters You can only  control  1 "Worldsea Dragon Zealantis". You can only use each of the following  effects  of "Worldsea Dragon Zealantis"  once per turn . During your  Main Phase : You can  banish  all monsters on the  field , then  Special Summon  as many monsters as possible that were banished by this effect, to their  owners'  fields,  face-up , or in  face-down   Defense Position . During the  Battle Phase  ( Quick Effect ): You can  destroy  cards on the field up to the number of  co-linked  monsters on the field. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 効果モンスター１体以上 このカード名の②③の効果はそれぞれ１ターンに１度しか使用できない。①：「世海龍ジーランティス」は自分フィールドに１体しか表側表示で存在できない。②：自分メインフェイズに発動できる。フィールドのモンスターを全て除外する。その後、この効果で除外したモンスターを可能な限り元々の持ち主のフィールドに表側表示または裏側守備表示で特殊召喚する。③：自分・相手のバトルフェイズに発動できる。フィールドの相互リンク状態のモンスターの数まで、フィールドのカードを選んで破壊する。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-07-16 DABL-JP050 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Ultra Rare 2022-07-16 DABL-JP050 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Secret Rare 2022-07-16 DABL-JP050 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Ultimate Rare 2022-07-16 DABL-JP050 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Holographic Rare 2022-07-16 DABL-JP050 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Prismatic Secret Rare 2022-07-16 DABL-JP050 Darkwing Blast +1 Bonus Pack ダークウィング・ブラスト ＋１ボーナスパック Ultra Rare 2022-07-16 DABL-JP050 Darkwing Blast +1 Bonus Pack ダークウィング・ブラスト ＋１ボーナスパック Prismatic Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Effect Monster 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys Monster Cards 
+ Destroys Spell Cards 
+ Destroys Trap Cards 
+ 
+ Summoning  categories  
+ 1+ Link Materials 
+ Special Summons banished monsters 
+ Special Summons face-down 
+ 
+ Banished  categories  
+ Banishes from your field 
+ Banishes from your opponent's field 
+ 
+ Miscellaneous  
+ Control only one 
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17805 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/43/WorldseaDragonZealantis-DABL-EN-1E-OP.png/revision/latest/scale-to-width-down/300?cb=20221006150516', 'https://static.wikia.nocookie.net/yugioh/images/4/40/WATER.svg/revision/latest/scale-to-width-down/28?cb=20120918052107', 'https://static.wikia.nocookie.net/yugioh/images/e/e9/LM-Top.png/revision/latest?cb=20181006181803', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

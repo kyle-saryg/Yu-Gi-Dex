@@ -1,0 +1,110 @@
+Link: https://yugioh.fandom.com/wiki/Rescue-ACE_Turbulence
+
+
+ 
+ 
+ Rescue-ACE Turbulence Ｒ－ＡＣＥ タービュランス 
+ 
+ English 
+Rescue-ACE Turbulence 
+ Japanese (kana) 
+ レスキュー・エースタービュランス Check translation 
+ Japanese (base) 
+ Ｒ－ＡＣＥタービュランス Check translation 
+ Japanese ( rōmaji ) 
+Resukyū Ēsu Tābyuransu 
+ Card type 
+ Monster   
+ Attribute 
+ FIRE   
+ Types 
+ Machine  /  Effect 
+ Level 
+ 9   
+ ATK  /  DEF 
+ 3000  /  3000 
+ Passcode 
+ 37495766 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+You can  banish  2 " Rescue-ACE " cards from your  GY ;  Special Summon  this card from your  hand . During your  Main Phase : You can  Set  up to 4 "Rescue-ACE"  Quick-Play Spells / Normal Traps  with different names directly from your  Deck . If another card(s) you  control   leaves the field  by an opponent's  card effect  (except during the  Damage Step ): You can  target  1 card on the  field ;  destroy  it. You can use each effect of "Rescue-ACE Turbulence"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地から「 Ｒ－ＡＣＥ 」カード２枚を除外して発動できる。このカードを手札から特殊召喚する。②：自分メインフェイズに発動できる。デッキから「 Ｒ－ＡＣＥ 」速攻魔法・通常罠カードを４枚まで選んで自分フィールドにセットする（同名カードは１枚まで）。③：自分フィールドの他のカードが相手の効果でフィールドから離れた場合、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-08-20 DBAD-JP007 Deck Build Pack: Amazing Defenders デッキビルドパック アメイジング・ディフェンダーズ Ultra Rare 2022-08-20 DBAD-JP007 Deck Build Pack: Amazing Defenders デッキビルドパック アメイジング・ディフェンダーズ Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Quick-Play Spell Card 
+ Normal Trap Card 
+ 
+ Archetypes  and  series   
+ Rescue-ACE 
+ 
+ Supports   archetypes   
+ Rescue-ACE 
+ 
+ Actions  
+ Sets from your Deck 
+ 
+ Banished  categories  
+ Banishes from Graveyard for cost 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17997 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Rescue-ACE " 「 Ｒ－ＡＣＥ 」 Members 
+ Rescue-ACE Air Hoister Rescue-ACE Fire Attacker Rescue-ACE Fire Engine Rescue-ACE Hydrant Rescue-ACE Impulse Rescue-ACE Intruder Rescue-ACE Turbulence 
+ ALERT! CONTAIN! EXTINGUISH! RESCUE! Rescue-ACE Headquarters 
+ Support 
+ Rescue-ACE Air Hoister Rescue-ACE Fire Attacker Rescue-ACE Fire Engine Rescue-ACE Hydrant Rescue-ACE Impulse Rescue-ACE Intruder Rescue-ACE Turbulence 
+ ALERT! CONTAIN! EXTINGUISH! RESCUE! Rescue-ACE Headquarters 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/7f/RescueACETurbulence-AMDE-EN-1E-OP.png/revision/latest?cb=20221031232658', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/28?cb=20120918053839', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

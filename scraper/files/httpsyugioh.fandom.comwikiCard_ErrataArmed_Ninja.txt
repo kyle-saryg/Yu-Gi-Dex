@@ -1,0 +1,62 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Armed_Ninja
+
+
+ Armed Ninja 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Yu-Gi-Oh! The Duelists of the Roses Yu-Gi-Oh! Forbidden Memories Yu-Gi-Oh! BAM Yu-Gi-Oh! Destiny Board Traveler Yu-Gi-Oh! Duel Monsters II: Dark duel Stories Yu-Gi-Oh! Dungeon Dice Monsters Yu-Gi-Oh! Dungeon Dice Monsters (video game) 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ FLIP:  Destroys  1  Magic  Card on the field. If this  card's target  is  face-down ,  flip it face-up . If  the card  is a  Magic  Card, it is destroyed. If  not ,  it is returned  to its  face-down  position.  The flipped card is not activated. 
+ FLIP:  Select  1  Spell  Card on the field  and destroy it . If the  selected  card  is  Set ,  pick up and see  the card . If  it is a  Spell  Card , it is destroyed . If  it is a Trap Card ,  return it  to its  original  position. 
+ 
+ 
+   File:ArmedNinja-LOB-NA-R-1E.jpg     LOB-106 Legend of Blue Eyes White Dragon     
+       DB1-EN130 Dark Beginning 1     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ FLIP:  Destroy  1 Spell Card on the field. If the  card  is  face-down ,  look at  the card   and destroy it if  it is a Spell Card.  If it is a Trap Card , return it to its original position. 
+ FLIP:  Target  1 Spell Card on the field ; destroy that target .  ( If the  target  is  Set ,  reveal it,  and destroy it if it is a Spell Card.  Otherwise , return it to its original position. ) 
+ 
+ 
+       RP01-EN013 Retro Pack     
+       DL13-EN001 Duelist League 13 participation cards     
+ 
+ 
+ Spanish 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Ninja  armado 
+ Ninja  Armado 
+ 
+ 
+         LDD-S106 Legend of Blue Eyes White Dragon     
+         BIP-S018 Starter Deck: Pegasus     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/df/ArmedNinja-DB1-EN-C-UE.jpg/revision/latest/scale-to-width-down/180?cb=20061113040005', 'https://static.wikia.nocookie.net/yugioh/images/e/e6/ArmedNinja-RP01-EU-C-UE.png/revision/latest/scale-to-width-down/180?cb=20160523104656', 'https://static.wikia.nocookie.net/yugioh/images/b/bb/ArmedNinja-DL13-EN-R-UE-Blue.jpg/revision/latest/scale-to-width-down/180?cb=20120225210910', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/84/ArmedNinja-LDD-SP-R-1E.png/revision/latest/scale-to-width-down/180?cb=20150130093814', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/95/ArmedNinja-BIP-SP-C-1E.png/revision/latest/scale-to-width-down/180?cb=20170811044118']
+Categories: Card Errata, Cards with 3 errata, Cards with name errata, Cards with 1 erratum, Cards with Spanish errata

@@ -1,0 +1,554 @@
+Link: https://yugioh.fandom.com/wiki/B.E.S._Crystal_Core
+
+The  Croatian  and  Greek                       names given are not official.  ( card names ) 
+ 
+ The Japanese (OCG) version of this card is not a member of the " Crystal "  archetype , because its Japanese name does not contain  「 宝 玉 」 .   As its English name contains "Crystal", it  may  be treated a member of the "Crystal" archetype at a TCG event, subject to local rulings.     
+ 
+ 
+ 
+ 
+ 
+ B.E.S. Crystal Core 巨 大 戦 艦  クリスタル・コア 
+ 
+ English 
+B.E.S. Crystal Core 
+ Chinese 
+ 巨大战舰 晶核 Check translation 
+ French 
+ B.E.S. Cœur Cristallin Check translation 
+ German 
+ B.E.S. Kristallkern Check translation 
+ Italian 
+ B.E.S. Nucleo Cristallino Check translation 
+ Korean 
+ 거대전함 크리스탈 코어 Check translation 
+ Portuguese 
+ B.E.S. Núcleo de Cristal Check translation 
+ Spanish 
+ B.E.S. Núcleo de Cristal Check translation 
+ Japanese (kana) 
+ きょだいせんかん クリスタル・コア Check translation 
+ Japanese (base) 
+ 巨大戦艦 クリスタル・コア Check translation 
+ Japanese ( rōmaji ) 
+Kyodai Senkan Kurisutaru Koa 
+ Japanese (translated) 
+Giant Battleship - Crystal Core 
+ Card type 
+ Monster   
+ Attribute 
+ WATER   
+ Types 
+ Machine  /  Effect 
+ Level 
+ 5   
+ ATK  /  DEF 
+ 2100  /  1000 
+ Passcode 
+ 22790789 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Continuous 
+ Trigger 
+ Ignition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When this card is  Normal Summoned , put 3  counters  on it. This card cannot be  destroyed by battle . If this card  attacks  or is attacked, remove 1 counter from this card at the end of the  Damage Step . If you cannot,  destroy  it. Once per  turn , during your  Main Phase , you can change 1  face-up   Attack Position   monster  your opponent  controls  to face-up  Defense Position . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Mettez 3 compteurs sur cette carte lorsque vous en faites l'Invocation Normale. Cette carte ne peut pas être détruite à l'issue d'un combat. Si cette carte combat un monstre, retirez 1 compteur de cette carte à la fin de la Damage Step. Si cette carte combat sans compteur, détruisez cette carte à la fin de la Damage Step. Une fois par tour, durant votre Main Phase, vous pouvez changer 1 monstre en Position d'Attaque face recto sur le Terrain de votre adversaire en Position de Défense face recto. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Lege 3 Zählmarken auf diese Karte, wenn du sie als Normalbeschwörung beschwörst. Diese Karte wird nicht als Ergebnis eines Kampfes zerstört. Falls diese Karte mit einem Monster kämpft, entferne am Ende des Damage Steps 1 Zählmarke von dieser Karte. Falls diese Karte ohne Zählmarken kämpft, zerstöre diese Karte am Ende des Damage Steps. Einmal pro Spielzug, während deiner Main Phase, kannst du 1 offenes Monster in Angriffsposition auf der Spielfeldseite deines Gegners in die offene Verteidigungsposition ändern. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando viene Evocata tramite Evocazione Normale, metti 3 Segnalini su questa carta. Questa carta non viene distrutta in seguito ad una battaglia. Se questa carta combatte, rimuovi 1 Segnalino da questa carta alla fine del Damage Step. Se questa carta combatte senza avere un Segnalino, distruggi questa carta alla fine del Damage Step. Una volta per turno, durante la tua Main Phase, puoi cambiare la Posizione di un mostro scoperto in Posizione d'Attacco sul Terreno del tuo avversario in scoperto in Posizione di Difesa. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Quando você Invoca, por Invocação-Normal, este card, ponha 3 contadores neste card. Este card não é destruído como resultado de um combate. Se este card combater, remova 1 contador deste card no final da  Damage Step . Uma vez por  turno , durante a sua  Main Phase , você pode mudar 1 monstro no Campo do seu adversário em Posição de Ataque com a face para cima para a Posição de Defesa com a face para cima. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando Invocas mediante una Invocación Normal esta carta, ponle 3 contadores. Esta carta no es destruida como resultado de una batalla. Si esta carta lucha, retira 1 contador de esta carta el final del Damage Step. Si esta carta lucha sin un contador, destruye esta carta el final del Damage Step. Una vez por turno, durante tu Main Phase, puedes cambiar 1 monstruo en Posición de Ataque boca arriba en el Campo de tu adversario a Posición de Defensa boca arriba. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードの召喚時にカウンターを３つ置く。このカードは戦闘によっては破壊されない。戦闘を行った場合、ダメージステップ終了時にこのカードのカウンターを１つ取り除く。カウンターのない状態で戦闘を行った場合、ダメージステップ終了時にこのカードを破壊する。１ターンに１度だけ自分のメインフェイズに、相手フィールド上の表側攻撃表示モンスター１体を表側守備表示にする事ができる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드의 일반 소환시에 카운터를 3개 놓는다. 이 카드는 전투에 의해서는 파괴되지 않는다. 전투를 실행했을 경우, 데미지 스텝 종료시에 이 카드의 카운터를 1개 제거한다. 카운터가 없는 상태에서 전투를 실행했을 경우, 데미지 스텝 종료시에 이 카드를 파괴한다. 1 턴에 1번만 자신의 메인 페이즈에, 상대 필드 위의 앞면 공격 표시 몬스터 1장을 앞면 수비 표시로 할 수 있다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2005-08-06  
+ CRV-EN021   
+ Cybernetic Revolution 
+ Super Rare 
+ 
+ 
+ 2005-08-06  
+ CRV-EN021   
+ Cybernetic Revolution 
+ Ultimate Rare 
+ 
+ 
+ 2007-05-15  
+ CP03-EN015   
+ Champion Pack: Game Three 
+ Common 
+ 
+ 
+ 2007-11-14  
+ DR04-EN021   
+ Dark Revelation Volume 4 
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2005-08-06  
+ CRV-FR021   
+ Cybernetic Revolution 
+ Révolution Cybernétique  
+ Super Rare 
+ 
+ 
+ 2005-08-06  
+ CRV-FR021   
+ Cybernetic Revolution 
+ Révolution Cybernétique  
+ Ultimate Rare 
+ 
+ 
+ 2007-05-15  
+ CP03-FR015   
+ Champion Pack: Game Three 
+ Paquet du Champion: 3éme Partie  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2005-08-01  
+ CRV-DE021   
+ Cybernetic Revolution 
+ Cybernetic Revolution  
+ Super Rare 
+ 
+ 
+ 2005-08-01  
+ CRV-DE021   
+ Cybernetic Revolution 
+ Cybernetic Revolution  
+ Ultimate Rare 
+ 
+ 
+ 2007-05-15  
+ CP03-DE015   
+ Champion Pack: Game Three 
+ Champion Pack: Game Three  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2005-08-06  
+ CRV-IT021   
+ Cybernetic Revolution 
+ Rivoluzione Cibernetica  
+ Super Rare 
+ 
+ 
+ 2005-08-06  
+ CRV-IT021   
+ Cybernetic Revolution 
+ Rivoluzione Cibernetica  
+ Ultimate Rare 
+ 
+ 
+ 2007-05-15  
+ CP03-IT015   
+ Champion Pack: Game Three 
+ Busta dei Campioni: Sfida Tre  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2005-08-01  
+ CRV-PT021   
+ Cybernetic Revolution 
+ Revolução Cibernética  
+ Super Rare 
+ 
+ 
+ 2005-08-01  
+ CRV-PT021   
+ Cybernetic Revolution 
+ Revolução Cibernética  
+ Ultimate Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2005-08-06  
+ CRV-SP021   
+ Cybernetic Revolution 
+ Revolución Cibernética  
+ Super Rare 
+ 
+ 
+ 2005-08-06  
+ CRV-SP021   
+ Cybernetic Revolution 
+ Revolución Cibernética  
+ Ultimate Rare 
+ 
+ 
+   
+ CP03-SP015   
+ Champion Pack: Game Three 
+   
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2005-05-26  
+ CRV-JP021   
+ Cybernetic Revolution 
+ ＣＹＢＥＲＮＥＴＩＣ ＲＥＶＯＬＵＴＩＯＮ  
+ Super Rare 
+ 
+ 
+ 2005-05-26  
+ CRV-JP021   
+ Cybernetic Revolution 
+ ＣＹＢＥＲＮＥＴＩＣ ＲＥＶＯＬＵＴＩＯＮ  
+ Ultimate Rare 
+ 
+ 
+   
+ EE04-JP021   
+ Expert Edition Volume.4 
+   
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Asian-English 
+ 
+ 
+ 
+ Asian-English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+   
+ CRV-AE021   
+ Cybernetic Revolution 
+ Super Rare 
+ 
+ 
+   
+ CRV-AE021   
+ Cybernetic Revolution 
+ Ultimate Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2007-02-05  
+ CRV-KR021   
+ Cybernetic Revolution 
+ 사이버 혁명  
+ Super Rare 
+ 
+ 
+ 2007-02-05  
+ CRV-KR021   
+ Cybernetic Revolution 
+ 사이버 혁명  
+ Ultimate Rare 
+ 
+ 
+   
+ HGP4-KR021   
+ Expert Edition Volume.4 
+   
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+ Cybernetic Revolution 
+ Machine Collection B 
+ All Effect Monsters  ( Common )
+ 
+ All at Random  ( Common ) 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ B.E.S. 
+ 
+ Related to  archetypes  and  series   
+ Konami Arcade Games 
+ 
+ Counters   
+ Counter 
+ Places counters on itself 
+ Removes counters from itself 
+ 
+ Actions  
+ Activates upon Normal Summon 
+ Changes battle positions 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ Miscellaneous  
+ From Konami Video Games 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 6419 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Ultimate Masters: World Championship Tournament 2006 2006-02-23 – ??? – – – Unlimited 
+ 
+ 
+ 
+   " B.E.S. Crystal Core " pages 
+ 
+ 
+ Anime Yu-Gi-Oh! BAM 
+ 
+ 
+ 
+   
+" B.E.S. " 「 巨 大 戦 艦 」 Members 
+ B.E.S. Big Core B.E.S. Big Core MK-2 B.E.S. Big Core MK-3 B.E.S. Blaster Cannon Core B.E.S. Covered Core B.E.S. Crystal Core B.E.S. Tetran 
+ Support 
+ B.E.S. Big Core MK-3 
+ B.E.F. Zelos Boss Rush 
+ Related 
+ Falchionβ Gradius Gradius' Option Jade Knight Lord British Space Fighter Vic Viper T301 Victory Viper XX03 
+ Cyclon Laser Power Capsule 
+ 
+   
+ Konami Arcade Games Members 
+ Blue Thunder T-45 DUCKER Mobile Cannon Delta Tri Falchionβ Gradius Gradius' Option Jade Knight Lord British Space Fighter Option Token Star Drawing Trigon Vic Viper T301 Victory Viper XX03 
+ Cyclon Laser Dragon Laser Power Capsule 
+ Related 
+ Aitsu Ambitious Gofer B.E.S. Big Core B.E.S. Big Core MK-2 B.E.S. Covered Core B.E.S. Crystal Core B.E.S. Tetran Brain Golem Doitsu Flint Lock Getsu Fuhma Goe Goe the Gallant Ninja Koitsu Moai Interceptor Cannons Ryu Kokki Sasuke Samurai Sasuke Samurai #2 Sasuke Samurai #3 Sasuke Samurai #4 Soitsu Solar Flare Dragon Space Mambo The Statue of Easter Island Tactical Espionage Expert Ultimate Baseball Kid 
+ Big Wave Small Wave Boss Rush D.D.R. - Different Dimension Reincarnation Flint Flint Missile Ninjitsu Art of Decoy Ninjitsu Art of Transformation Option Hunter 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/7/76/BESCrystalCore-DR04-NA-SR-UE.png/revision/latest/scale-to-width-down/300?cb=20080523032701', 'https://static.wikia.nocookie.net/yugioh/images/4/40/WATER.svg/revision/latest/scale-to-width-down/28?cb=20120918052107', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

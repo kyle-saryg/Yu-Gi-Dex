@@ -1,0 +1,93 @@
+Link: https://yugioh.fandom.com/wiki/Bond%E2%80%99s_Reward
+
+
+ Bond’s Reward 
+ 
+ Japanese:   絆の結晶 
+ Kana:   きずなのけっしょう 
+ Romaji:   Kizuna no Kesshō 
+ Translated:  Crystal of Bonds 
+ 
+ 
+ 
+ 
+ en 
+ ja 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap 
+ 
+ 
+ 
+ If there is a  Synchro Monster  on your  field ,  exclude  Synchro Monsters from your  graveyard  to raise its  ATK  by their  Level  x 200. When the  turn   ends , you'll take  damage  equal to the amount of the ATK increase. 
+ 
+ Appearances
+ 
+ 
+ 
+ 
+   5D's :  057 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Manga cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 絆 の 結 晶 
+ 自分場にシンクロモンスターがいる時 自分墓地のシンクロモンスターを除外しそのレベル×２００攻撃力をアップさせる ターン終了時に上昇した攻撃力分のダメージを自分は受ける 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Yusei Fudo  
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Synchro Monster 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ 
+ Banished  categories  
+ Banishes from your Graveyard 
+ Banishes from Graveyard for cost 
+ 
+ LP   
+ Damages you 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/7e/BondsReward-EN-Manga-5D.png/revision/latest/scale-to-width-down/200?cb=20151018230647', 'https://static.wikia.nocookie.net/yugioh/images/7/71/BondsReward-EN-Manga-5D-CA.png/revision/latest/scale-to-width-down/185?cb=20160210223738', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Manga cards, Manga cards with no OCG/TCG counterpart

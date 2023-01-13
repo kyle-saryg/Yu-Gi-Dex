@@ -1,0 +1,39 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Advanced_Heraldry_Art
+
+
+ Advanced Heraldry Art 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ OCG Rulings 
+ This effect  targets  2 " Heraldic Beast " monsters in your  Graveyard . [1] 
+ The monsters  Special Summoned  by this effect can be used to  Xyz Summon  a monster other than " Number 8: Heraldic King Genom-Heritage ". [1] 
+ The  Special Summon  of the 2 monsters  targeted  by " Advanced Heraldry Art " cannot be negated by " Solemn Judgment ". Also, at the time the 2 monsters  Special Summoned  by the effect of " Advanced Heraldry Art " are used as  Xyz Materials  for an  Xyz Summon , " Solemn Judgment " or " Solemn Warning " can be activated and negate that  Xyz Summon . In that case, they are not activated in a chain to " Advanced Heraldry Art ", but rather in a new chain immediately in response to the attempted  Xyz Summon  after " Advanced Heraldry Art " finishes resolving as chain 1. (" Solemn Judgment " and similar cards become the chain 1 that responds to the  Xyz Summon ). Furthermore, " Solemn Judgment " or " Solemn Warning " can be activated in a chain to the activation of " Advanced Heraldry Art ". [2] 
+ When " Advanced Heraldry Art " is activated, after  Special Summoning  the 2  targeted  monsters with its effect, an  Xyz Summon  using those 2  Special Summoned  monsters is performed immediately. Therefore, if the effect of " Summon Limit " is being applied, " Advanced Heraldry Art " cannot be activated during a turn in which a  Normal Summon  has already been performed. Also, if " Advanced Heraldry Art " is activated during a turn in which a  Normal Summon  has been performed and " Summon Limit " is chained, the effect of " Advanced Heraldry Art " that  Special Summons  the 2  targeted  monsters does resolve, but the effect that performs an  Xyz Summon  using the 2  Summoned  monsters doesn't resolve. [3] 
+ After the 2  targeted  monsters are  Special Summoned  by the effect of " Advanced Heraldry Art ", since a  Xyz Summon  using those 2  Summoned  monsters as  Xyz Materials  is performed immediately afterwards, it is treated as performing 2  Special Summons . Therefore, if during a turn in which you have activated the effect of " Maxx "C" " the opponent activates " Advanced Heraldry Art ",  Special Summoning  2 monsters and then performing an  Xyz Summon , you can draw 2 cards. [4] 
+ References 
+ 
+ ↑  1.0   1.1   Konami OCG Card Database : Advanced Heraldry Art 
+ 
+ ↑   Konami OCG Card Database : When the 2 monsters targeted by the effect of "Advanced Heraldry Art" are Special Summoned, can "Solemn Judgment" be activated to negate that Special Summon?
+Also, after the 2 targeted monsters are Special Summoned by the effect of "Advanced Heraldry Art", can the Xyz Summon that is performed using only those monsters be negated by "Solemn Judgment" or "Solemn Warning"? 
+ 
+ ↑   Konami OCG Card Database : If the effect of "Summon Limit" that restricts both players to performing only 2 Summon is applying, and a Normal Summon has already been performed, can "Advanced Heraldry Art" be activated during that turn?
+Also, if "Advanced Heraldry Art" is activated during a turn in which a Normal Summon has been performed and "Summon Limit" is chained, how does this resolve? 
+ 
+ ↑   Konami OCG Card Database : As for the effect of "Advanced Heraldry Art" that Special Summons 2 targeted monsters and then performs an Xyz Summon using those 2 Special Summoned monsters, is it considered to perform a total of 2 Special Summons?
+For example, if during a turn in which you have activated the effect of "Maxx "C"" the opponent activates "Advanced Heraldry Art", Special Summoning 2 monsters and then performing an Xyz Summon, are 2 cards drawn by the effect of "Maxx "C""? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Chinese_translated_name
+
+This property lists the translated Chinese name of something. This is a  String .
+ 
+ 
+ 
+ 
+Categories:

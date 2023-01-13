@@ -1,0 +1,513 @@
+Link: https://yugioh.fandom.com/wiki/Double_Spell
+
+The  Arabic, Chinese, Croatian  and  Greek                     names given are not official.  ( card names ) 
+ The  Chinese                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Double Spell 二重魔法 
+ 
+ English 
+Double Spell 
+ Chinese 
+ 二重魔法 Check translation 
+ French 
+ Double Sort Check translation 
+ German 
+ Doppel-Zauber Check translation 
+ Italian 
+ Duplica Magia Check translation 
+ Korean 
+ 이중마법 Check translation 
+ Portuguese 
+ Magia Dupla Check translation 
+ Spanish 
+ Hechizo Doble Check translation 
+ Japanese (kana) 
+ ダブルマジック Check translation 
+ Japanese (base) 
+ 二重魔法 Check translation 
+ Japanese ( rōmaji ) 
+Daburu Majikku 
+ Japanese (translated) 
+Double Magic 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 24096228 
+ Card effect types 
+ 
+ 
+ Cost 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Discard  1  Spell Card , then  target  1 Spell Card in your opponent's  Graveyard ; place that target in the appropriate  Zone  on your side of the  field , and as this card's  effect   resolution , follow its  card text  as if you had used it yourself. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Défaussez 1 Carte Magie, puis ciblez 1 Carte Magie dans le Cimetière de votre adversaire ; comme résolution d'effet de cette carte, suivez le texte de la carte cible comme si vous l'aviez utilisée vous-même. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wirf 1 Zauberkarte ab, dann wähle 1 Zauberkarte im Friedhof deines Gegners; folge bei der Auflösung des Effekts dem Text der gewählten Karte, als ob du sie selbst verwendet hättest. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Scarta 1 Carta Magia, poi scegli come bersaglio 1 Carta Magia nel Cimitero del tuo avversario; come risoluzione dell'effetto di questa carta, segui il testo della carta scelta come bersaglio come se l'avessi utilizzata tu. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Descarte  1  Card de Magia  da sua  mão .  Escolha  1 Card de Magia do  Cemitério  do seu adversário e  active-o  a partir do Cemitério como o seu próprio Card de Magia. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Descarta 1 Carta Mágica, y después selecciona 1 Carta Mágica en el Cementerio de tu adversario; pon ese objetivo en la Zona apropiada en tu lado del campo, y como resolución del efecto de esta carta, sigue el texto de la carta seleccionada como si la hubieras usado tú. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 手札から魔法カード１枚を捨て、相手の墓地の魔法カード１枚を選択して発動できる。選択した魔法カードを自分フィールド上の正しいカードゾーンに置き、使用する。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 從手卡丟棄1張魔法卡。從對方墓地里選擇1張魔法卡當作自己的卡使用。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 패에서 마법 카드 1장을 버리고, 상대 묘지의 마법 카드 1장을 대상으로 하여 발동할 수 있다. 그 마법 카드를 자신의 적절한 존에 놓고, 사용한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2005-03-19  
+ DR1-EN161   
+ Dark Revelation Volume 1 
+ Ultra Rare 
+ 
+ 
+ 2012-09-29  
+ LCYW-EN065   
+ Legendary Collection 3: Yugi's World Mega Pack 
+ Super Rare 
+ 
+ 
+ 2015-11-12  
+ YGLD-ENB23   
+ Yugi's Legendary Decks 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ 
+ North American English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2003-10-10  
+ MFC-106   
+ Magician's Force 
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2005-03-19  
+ DR1-FR161   
+ Dark Revelation Volume 1 
+ Sombre Révélation 1  
+ Ultra Rare 
+ 
+ 
+ 2012-09-27  
+ LCYW-FR065   
+ Legendary Collection 3: Yugi's World Mega Pack 
+ Collection Légendaire 3: Le Monde de Yugi Méga Pack  
+ Super Rare 
+ 
+ 
+ 2015-11-12  
+ YGLD-FRB23   
+ Yugi's Legendary Decks 
+ Decks Légendaires de Yugi  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2005-06-01  
+ DR1-DE161   
+ Dark Revelation Volume 1 
+ Dark Revelations Volume 1  
+ Ultra Rare 
+ 
+ 
+ 2012-09-27  
+ LCYW-DE065   
+ Legendary Collection 3: Yugi's World Mega Pack 
+ Legendary Collection 3: Mega Pack  
+ Super Rare 
+ 
+ 
+ 2015-11-12  
+ YGLD-DEB23   
+ Yugi's Legendary Decks 
+ Yugi's Legendary Decks  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2005-03-19  
+ DR1-IT161   
+ Dark Revelation Volume 1 
+ Rivelazione Oscura Vol.1  
+ Ultra Rare 
+ 
+ 
+ 2012-09-27  
+ LCYW-IT065   
+ Legendary Collection 3: Yugi's World Mega Pack 
+ Collezione Leggendaria 3 Mega-Pack  
+ Super Rare 
+ 
+ 
+ 2015-11-12  
+ YGLD-ITB23   
+ Yugi's Legendary Decks 
+ I Deck Leggendari di Yugi  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2005-03-01  
+ DR1-PT161   
+ Dark Revelation Volume 1 
+ Revelação Negra Volume 1  
+ Ultra Rare 
+ 
+ 
+ 2015-11-13  
+ YGLD-PTB23   
+ Yugi's Legendary Decks 
+ Decks Lendários do Yugi  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2005-03-19  
+ DR1-SP161   
+ Dark Revelation Volume 1 
+ Revelación Oscura Volumen 1  
+ Ultra Rare 
+ 
+ 
+ 2012-09-27  
+ LCYW-SP065   
+ Legendary Collection 3: Yugi's World Mega Pack 
+ Colección Legendaria 3: El Mundo de Yugi Mega Pack  
+ Super Rare 
+ 
+ 
+ 2015-11-12  
+ YGLD-SPB23   
+ Yugi's Legendary Decks 
+ Barajas Legendarias de Yugi  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2002-09-19  
+ 303-052   
+ Champion of Black Magic 
+ 黒魔導の覇者  
+ Secret Rare 
+ 
+ 
+ 2004-09-23  
+ EE1-JP161   
+ Expert Edition Volume 1 
+ ＥＸＰＥＲＴ　ＥＤＩＴＩＯＮ　Ｖｏｌｕｍｅ．１  
+ Ultra Rare 
+ 
+ 
+ 2014-07-05  
+ 15AY-JPB23   
+ 15 Anniversary Commemoration Product: Memories of the Duel King - Battle City Edition - 
+ １５周年記念商品 決闘王の記憶 －決闘都市編－  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Asian-English 
+ 
+ 
+ 
+ Asian-English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2004-01-19  
+ MFC-106   
+ Magician's Force 
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2005-03-08  
+ MFC-KR106   
+ Magician's Force 
+ 매지션의 힘  
+ Ultra Rare 
+ 
+ 
+ 2006-07-06  
+ HGP1-KR161   
+ Expert Edition Volume 1 
+ 하이 그레이드 팩 Ｖｏｌ．１  
+ Ultra Rare 
+ 
+ 
+ 2018-08-24  
+ 15AY-KRB23   
+ 15 Anniversary Commemoration Product: Memories of the Duel King - Battle City Edition - 
+ 결투왕의 기억 - 듀얼리스트 결투도시편 - 스페셜 세트  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Actions  
+ Discards for cost 
+ Resolves as another card's effect 
+ 
+ Miscellaneous  
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 5629 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Double Spell " pages 
+ 
+ 
+ Anime Anime Manga 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d5/DoubleSpell-YGLD-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170814020925', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

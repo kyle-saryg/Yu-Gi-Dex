@@ -1,0 +1,827 @@
+Link: https://yugioh.fandom.com/wiki/Dandylion
+
+
+ 
+ 
+ Dandylion ダンディライオン 
+ 
+ English 
+Dandylion 
+ Chinese 
+ 蒲公英獅子 Check translation 
+ French 
+ Dandelion Check translation 
+ German 
+ Löwenzahn-Löwe Check translation 
+ Italian 
+ Dente di Leone Check translation 
+ Korean 
+ 댄디라이언 Check translation 
+ Portuguese 
+ Dente-de-leão Check translation 
+ Spanish 
+ Diente de León Check translation 
+ Japanese 
+ ダンディライオン Check translation 
+ Japanese ( rōmaji ) 
+Dandiraion 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Plant  /  Effect 
+ Level 
+ 3   
+ ATK  /  DEF 
+ 300  /  300 
+ Passcode 
+ 15341821 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Condition Statuses Forbidden  ( OCG ) Forbidden  ( TCG   Advanced ) 
+ Limited  ( TCG   Traditional ) 
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If this card is  sent  to the  Graveyard :  Special Summon  2 " Fluff Tokens " ( Plant - Type / WIND / Level  1/ ATK  0/ DEF  0) in  Defense Position . These  Tokens  cannot be  Tributed  for a  Tribute Summon  during the  turn  they are Special Summoned. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si cette carte est envoyée au Cimetière : Invoquez Spécialement 2 "Jeton Fluffy" (Type Plante/VENT/Niveau 1/ATK 0/DEF 0) en Position de Défense. Ces Jetons ne peuvent pas être Sacrifiés pour une Invocation Sacrifice durant le tour où ils ont été Invoqués Spécialement. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls diese Karte auf den Friedhof gelegt wird: Beschwöre 2 „Flaum-Spielmarken“ (Typ Pflanze/WIND/Stufe 1/ATK 0/DEF 0) als Spezialbeschwörung in die Verteidigungsposition. Diese Spielmarken können während des Spielzugs, in dem sie als Spezialbeschwörung beschworen werden, nicht als Tribut für eine Tributbeschwörung angeboten werden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se questa carta viene mandata al Cimitero: Evoca Specialmente 2 "Segna-Batuffolo" (Tipo Pianta/VENTO/Livello 1/ATK 0/DEF 0) in Posizione di Difesa. Questi Segna-Mostro non possono essere offerti come Tributo per un'Evocazione tramite Tributo durante il turno in cui sono stati Evocati Specialmente. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se este card for enviado para o Cemitério: Invoque por Invocação-Especial 2 "Fichas de Felpa" (Tipo Planta/VENTO/Nível 1/ATK 0/DEF 0) em Posição de Defesa. Essas Fichas não podem ser oferecidas como Tributo em Invocações-Tributo durante o turno em que forem Invocadas por Invocação-Especial. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si esta carta es mandada al Cementerio: Invoca de Modo Especial, en Posición de Defensa, 2 "Fichas Pelusa" (Tipo Planta/VIENTO/Nivel 1/ATK 0/DEF 0). Estas Fichas no pueden ser Sacrificadas para una Invocación por Sacrificio durante el turno en el que fueron Invocadas de Modo Especial. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：このカードが墓地へ送られた場合に発動する。自分フィールドに「綿毛トークン」（植物族・風・星１・攻／守０）２体を守備表示で特殊召喚する。このトークンは特殊召喚されたターン、アドバンス召喚のためにはリリースできない。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 此卡被送入墓地时，以守备表示特殊召唤「綿毛衍生物」（植物族·风·星1·攻/守0）2只至我方场上。特殊召唤此衍生物的回合，不可进行以升级召唤为目的的释放。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드가 묘지로 보내졌을 때, 자신 필드 위에 "플러피 토큰"(식물족 / 바람속성 / 레벨 1 / 공격력 0 / 수비력 0)을 2장 수비 표시로 특수 소환한다. 이 토큰은 특수 소환된 턴에, 제물 소환을 위한 제물로는 할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2010-03-26  
+ ABPF-ENSE1   
+ Absolute Powerforce: Special Edition 
+ Super Rare 
+ 
+ 
+ 2011-10-04  
+ LCGX-EN042   
+ Legendary Collection 2: The Duel Academy Years Mega Pack 
+ Secret Rare 
+ 
+ 
+ 2013-06-28  
+ BP02-EN077   
+ Battle Pack 2: War of the Giants 
+ Common 
+ 
+ 
+ 2013-06-28  
+ BP02-EN077   
+ Battle Pack 2: War of the Giants 
+ Mosaic Rare 
+ 
+ 
+ 2014-02-07  
+ AP04-EN001   
+ Astral Pack Four 
+ Ultimate Rare 
+ 
+ 
+ 2014-06-27  
+ DL18-EN005   
+ Duelist League 18 participation cards 
+ Rare 
+ 
+ 
+ 2015-03-20  
+ PGL2-EN030   
+ Premium Gold: Return of the Bling 
+ Gold Rare 
+ 
+ 
+ 2016-01-28  
+ SR01-EN018   
+ Emperor of Darkness Structure Deck 
+ Common 
+ 
+ 
+ 2017-03-30  
+ DUSA-EN059   
+ Duelist Saga 
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ 
+ North American English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2009-02-01  
+ JUMP-EN029   
+ Shonen Jump February 2009 subscription bonus 
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2010-03-25  
+ ABPF-FRSE1   
+ Absolute Powerforce: Special Edition 
+ Puissance Absolue: Édition Spéciale  
+ Super Rare 
+ 
+ 
+ 2013-06-27  
+ BP02-FR077   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: La Guerre des Géants  
+ Common 
+ 
+ 
+ 2013-06-27  
+ BP02-FR077   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: La Guerre des Géants  
+ Mosaic Rare 
+ 
+ 
+ 2014-02-06  
+ AP04-FR001   
+ Astral Pack Four 
+ Paquet Astral Quatre  
+ Ultimate Rare 
+ 
+ 
+ 2014-06-27  
+ DL18-FR005   
+ Duelist League 18 participation cards 
+ Ligue du Duelliste 18  
+ Rare 
+ 
+ 
+ 2015-03-19  
+ PGL2-FR030   
+ Premium Gold: Return of the Bling 
+ Gold Premium 2  
+ Gold Rare 
+ 
+ 
+ 2016-01-28  
+ SR01-FR018   
+ Emperor of Darkness Structure Deck 
+ Empereur des Ombres Deck de Structure  
+ Common 
+ 
+ 
+ 2017-03-30  
+ DUSA-FR059   
+ Duelist Saga 
+ La Saga des Duellistes  
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2010-03-25  
+ ABPF-DESE1   
+ Absolute Powerforce: Special Edition 
+ Absolute Powerforce: Special Edition  
+ Super Rare 
+ 
+ 
+ 2011-10-20  
+ LCGX-DE042   
+ Legendary Collection 2: The Duel Academy Years Mega Pack 
+ Legendary Collection 2: Mega-Pack  
+ Secret Rare 
+ 
+ 
+ 2013-06-27  
+ BP02-DE077   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: War of the Giants  
+ Common 
+ 
+ 
+ 2013-06-27  
+ BP02-DE077   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: War of the Giants  
+ Mosaic Rare 
+ 
+ 
+ 2014-02-06  
+ AP04-DE001   
+ Astral Pack Four 
+ Astral Pack Vier  
+ Ultimate Rare 
+ 
+ 
+ 2014-06-27  
+ DL18-DE005   
+ Duelist League 18 participation cards 
+ Duelist League-Serie 18  
+ Rare 
+ 
+ 
+ 2015-03-19  
+ PGL2-DE030   
+ Premium Gold: Return of the Bling 
+ Premium Gold 2  
+ Gold Rare 
+ 
+ 
+ 2016-01-28  
+ SR01-DE018   
+ Emperor of Darkness Structure Deck 
+ Emperor of Darkness Structure Deck  
+ Common 
+ 
+ 
+ 2017-03-30  
+ DUSA-DE059   
+ Duelist Saga 
+ Duelist Saga  
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2010-03-25  
+ ABPF-ITSE1   
+ Absolute Powerforce: Special Edition 
+ Potere Assoluto: Edizione Speciale  
+ Super Rare 
+ 
+ 
+ 2011-10-20  
+ LCGX-IT042   
+ Legendary Collection 2: The Duel Academy Years Mega Pack 
+ Collezione Leggendaria 2: Mega-Pack  
+ Secret Rare 
+ 
+ 
+ 2013-06-27  
+ BP02-IT077   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: Guerra dei Giganti  
+ Common 
+ 
+ 
+ 2013-06-27  
+ BP02-IT077   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: Guerra dei Giganti  
+ Mosaic Rare 
+ 
+ 
+ 2014-02-06  
+ AP04-IT001   
+ Astral Pack Four 
+ Astral Pack Quattro  
+ Ultimate Rare 
+ 
+ 
+ 2014-06-27  
+ DL18-IT005   
+ Duelist League 18 participation cards 
+ Serie Duelist League 18  
+ Rare 
+ 
+ 
+ 2015-03-19  
+ PGL2-IT030   
+ Premium Gold: Return of the Bling 
+ Premium Oro 2  
+ Gold Rare 
+ 
+ 
+ 2016-01-28  
+ SR01-IT018   
+ Emperor of Darkness Structure Deck 
+ Imperatore dell'Oscurità Structure Deck  
+ Common 
+ 
+ 
+ 2017-03-30  
+ DUSA-IT059   
+ Duelist Saga 
+ Saga dei Duellanti  
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2013-06-28  
+ BP02-PT077   
+ Battle Pack 2: War of the Giants 
+ Pacote de Batalha 2: Guerra dos Gigantes  
+ Common 
+ 
+ 
+ 2013-06-28  
+ BP02-PT077   
+ Battle Pack 2: War of the Giants 
+ Pacote de Batalha 2: Guerra dos Gigantes  
+ Mosaic Rare 
+ 
+ 
+ 2014-02-01  
+ AP04-PT001   
+ Astral Pack Four 
+ Pacote Astral Quatro  
+ Ultimate Rare 
+ 
+ 
+   
+ DL18-PT005   
+ Duelist League 18 participation cards 
+ Liga dos Duelistas 18  
+ Rare 
+ 
+ 
+ 2015-03-20  
+ PGL2-PT030   
+ Premium Gold: Return of the Bling 
+ Première Ouro 2: Um Mar de Ouro  
+ Gold Rare 
+ 
+ 
+ 2016-01-29  
+ SR01-PT018   
+ Emperor of Darkness Structure Deck 
+ Imperador das Trevas Deck Estrutural  
+ Common 
+ 
+ 
+ 2017-05-26  
+ DUSA-PT059   
+ Duelist Saga 
+ Saga dos Duelistas  
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2010-03-25  
+ ABPF-SPSE1   
+ Absolute Powerforce: Special Edition 
+ Fuerza Absoluta: Edición Especial  
+ Super Rare 
+ 
+ 
+ 2013-06-27  
+ BP02-SP077   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: Guerra de los Gigantes  
+ Common 
+ 
+ 
+ 2013-06-27  
+ BP02-SP077   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: Guerra de los Gigantes  
+ Mosaic Rare 
+ 
+ 
+ 2014-02-06  
+ AP04-SP001   
+ Astral Pack Four 
+ Sobre Astral Cuatro  
+ Ultimate Rare 
+ 
+ 
+ 2014-06-27  
+ DL18-SP005   
+ Duelist League 18 participation cards 
+ Duelist League 18  
+ Rare 
+ 
+ 
+ 2015-03-19  
+ PGL2-SP030   
+ Premium Gold: Return of the Bling 
+ Dorada Premium 2  
+ Gold Rare 
+ 
+ 
+ 2016-01-28  
+ SR01-SP018   
+ Emperor of Darkness Structure Deck 
+ Emperador de la Oscuridad Baraja de Estructura  
+ Common 
+ 
+ 
+ 2017-03-30  
+ DUSA-SP059   
+ Duelist Saga 
+ La Saga del Duelista  
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2005-12-17  
+ VJC-JP013   
+ V Jump February 2006 promotional card 
+ Ｖジャンプ　２００６年　２月号　付録カード  
+ Ultra Rare 
+ 
+ 
+ 2009-01-17  
+ GS01-JP002   
+ Gold Series (OCG) 
+ ＧＯＬＤ ＳＥＲＩＥＳ  
+ Normal Rare 
+ 
+ 
+ 2009-01-17  
+ GS01-JP002   
+ Gold Series (OCG) 
+ ＧＯＬＤ ＳＥＲＩＥＳ  
+ Gold Rare 
+ 
+ 
+ 2011-08-13  
+ BE02-JP206   
+ Beginner's Edition 2 (2011) 
+ ＢＥＧＩＮＮＥＲ＇Ｓ　ＥＤＩＴＩＯＮ　２　［　２０１１　］  
+ Secret Rare 
+ 
+ 
+ 2012-08-25  
+ GDB1-JP002   
+ The Gold Box 
+ ＴＨＥ ＧＯＬＤ ＢＯＸ  
+ Gold Rare 
+ 
+ 
+ 2014-04-19  
+ DC01-JP017   
+ Deck Custom Pack 01 
+ デッキカスタムパック ０１  
+ Common 
+ 
+ 
+ 2014-04-19  
+ DC01-JP017   
+ Deck Custom Pack 01 
+ デッキカスタムパック ０１  
+ Normal Parallel Rare 
+ 
+ 
+ 2014-04-19  
+ DC01-JP017   
+ Deck Custom Pack 01 
+ デッキカスタムパック ０１  
+ Ultra Parallel Rare 
+ 
+ 
+ 2015-09-19  
+ SR01-JP018   
+ Structure Deck R: Advent of the True Monarch 
+ ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ Ｒ －真帝王降臨－  
+ Common 
+ 
+ 
+ 2016-12-17  
+ 20AP-JP034   
+ 20th Anniversary Pack 1st Wave 
+ ２０ｔｈ ＡＮＮＩＶＥＲＳＡＲＹ ＰＡＣＫ １ｓｔ ＷＡＶＥ  
+ Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Traditional Chinese 
+ 
+ 
+ 
+ Chinese 
+ 
+ Release 
+ Number 
+ Set Chinese name 
+ Rarity 
+ 
+ 
+   
+ SP03-TC021   
+ Starter Pack Volume 3 
+ 決鬥始動包 Volume 3  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2007-12-14  
+ SD8-KRDS1   
+ Structure Deck: Lord of the Storm Deluxe Set 
+ 스트럭처 덱 － 열풍의 패왕 － 디럭스 세트  
+ Secret Rare 
+ 
+ 
+ 2009-06-23  
+ GS01-KR002   
+ Gold Series (OCG) 
+ ＧＯＬＤ   ＳＥＲＩＥＳ   
+ Normal Rare 
+ 
+ 
+ 2009-06-23  
+ GS01-KR002   
+ Gold Series (OCG) 
+ ＧＯＬＤ   ＳＥＲＩＥＳ   
+ Gold Rare 
+ 
+ 
+ 2016-04-05  
+ SR01-KR018   
+ Structure Deck R: Advent of the True Monarch 
+ STRUCTURE   DECK  R － 진제왕강림 －  
+ Common 
+ 
+ 
+ 2017-04-18  
+ 20AP-KR034   
+ 20th Anniversary Pack 1st Wave 
+ ＣＨＲＯＮＩＣＬＥ   ＰＡＣＫ   １ｓｔ   ＷＡＶＥ   
+ Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+ Special Gift Collection 
+ Special Summon Collection C 
+ All Effect Monsters  ( Common )
+ 
+ All at Random  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   GX Tag Force 
+ 
+ 
+ Wave of the Future  ( Rare ) 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Actions  
+ Activates from your Graveyard 
+ 
+ Summoning  categories  
+ Special Summons Tokens 
+ Cannot be Tributed for a Tribute Summon 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 6654 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Ultimate Masters: World Championship Tournament 2006 2006-02-23 – ??? – – – Unlimited GX Tag Force 2006-09-14 – ??? – – – Unlimited GX Tag Force 2 2007-09-18 – ??? – – – Limited 
+ 
+ 
+ 
+   " Dandylion " pages 
+ 
+ 
+ Anime Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/ad/Dandylion-DUSA-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20170330171724', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

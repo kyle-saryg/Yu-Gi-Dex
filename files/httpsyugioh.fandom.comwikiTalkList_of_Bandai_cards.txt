@@ -1,0 +1,42 @@
+Link: https://yugioh.fandom.com/wiki/Talk:List_of_Bandai_cards
+
+There's a problem here: gaps in the data. What type are the Exodia cards in Bandai? I'd guess Black Magic. Also, some cards do not list their type in the list, but do on their own page:
+ Sea Beast :
+ 
+ Jellyfish (Bandai) 
+ Fiend Kraken (Bandai) 
+ Dragon Magic :
+ 
+ Gaia the Dragon Champion (Bandai) 
+ Illusion Magic :
+ 
+ Dragon Capture Jar (Bandai) 
+ Dragon Piper (Bandai) 
+ Spell :
+ 
+ Cyber Shield (Bandai) 
+ Time Wizard (Bandai) 
+ Dark Energy (Bandai) 
+ Elegant Egotist (Bandai) 
+ Trap :
+ 
+ Mirror Force (Bandai) 
+ {{SUBST:Signatures/Stendika}} ( talk ) 17:32, November 25, 2010 (UTC)
+ 
+ Sounds like it could be a bug in {{ CardTable2 }}, I'll look at some of the pages later (could you link a few of them for me?) and see if I can track anything down. If you feel I'm taking too long, you can poke me on  my talk page . ;)  「 ダイノ ガイ 千？！ 」 ?  ·  Talk⇒Dinoguy1000  17:52, November 25, 2010 (UTC) 
+ I edited the above list. Also, the reason that they aren't there might be because those monster types aren't in the konami game. <font color = #ffad00>[[Raging Flame Sprite]] Rocks!!! It's [[User: Stendika|my]] signature card!</font>  ( talk  •  contribs ) 19:02, November 25, 2010 (UTC) 
+ All right, thanks. Looking at the list some, it looks like the issue was with allowed values for  Property:Type . I've expanded those to cover the other Bandai card types, except for Spell and Trap cards, which probably shouldn't be using this in the first place.  「 ダイノ ガイ 千？！ 」 ?  ·  Talk⇒Dinoguy1000  20:04, November 25, 2010 (UTC) 
+ Special rules? 
+ Would anybody mind if I marked all the monsters with "special rules" as Effect Monsters? - Thus has spoken Stendika, the epic. Click here to yell at me.  23:11, March 5, 2011 (UTC)
+ 
+ I'm not terribly familiar with the Bandai CCG; do "special rules" monsters function in a similar manner to Effect Monsters in Konami's OCG/TCG?  「 ダイノ ガイ 千？！ 」 ?  ·  ☎ Dinoguy1000  02:26, March 6, 2011 (UTC) 
+ Yeah, I think so. For example,  Jellyfish 's Special Rule says something along the lines of "this is not defeated by Thunder-type monsters".  Thus has spoken Stendika, the epic. Click here to yell at me.  14:36, March 7, 2011 (UTC) 
+ I'd say, go ahead and do it, then. =) If someone complains, you can stop and ask them to come by here to explain why they think it's not right.  「 ダイノ ガイ 千？！ 」 ?  ·  ☎ Dinoguy1000  18:44, March 7, 2011 (UTC) 
+ Not working? 
+ um, this list is kinda not here. someone fix this page.  Merik2013  ( talk  •  contribs ) 01:34, June 13, 2011 (UTC)
+ 
+ Looks fine to me... If it's still not appearing for you, try  purging  the page and bypassing your browser's cache.  「 ダイノ ガイ 千？！ 」 ?  ·  ☎ Dinoguy1000  03:22, June 13, 2011 (UTC) 
+ 
+ 
+ 
+Categories:

@@ -1,0 +1,104 @@
+Link: https://yugioh.fandom.com/wiki/Danger_Draw
+
+This article is about the  Yu-Gi-Oh! ZEXAL  anime card. For the  Yu-Gi-Oh! ARC-V  anime card, see  Danger Draw (ARC-V) .      
+ Danger Draw 
+ 
+ Japanese:   マストダイ・ドロー 
+ Romaji:   Masutodai Dorō 
+ Translated:  Mustdie Draw 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ When an opponent's  monster  whose  ATK  is higher than your  Life Points   declares  a  direct attack :  Draw  1 card and  reveal  it. If it is a  Trap Card ,  negate  the  attack , and if you do, you can  activate  that Trap Card.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  146 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ マストダイ・ドロー 
+ 自分のライフポイントよりも高い攻撃力を持つ相手モンスターの直接攻撃宣言時に発動できる。自分のデッキからカードを１枚ドローし、お互いに確認する。確認したカードが罠カードだった場合、その相手モンスターの直接攻撃を無効にし、このカードの効果でドローした罠カードを発動できる。 
+ 
+ 
+ Masutodai Dorō 
+ 
+ 
+ Decks 
+ 
+ 
+ Yuma Tsukumo 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Activates upon attack declaration 
+ You draw cards 
+ Shows the player's drawn cards 
+ 
+ Monster / Spell / Trap  categories  
+ Allows activation of Trap Cards from your hand 
+ 
+ Attack  categories  
+ Negates attacks 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/53/DangerDraw-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20140323173805', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

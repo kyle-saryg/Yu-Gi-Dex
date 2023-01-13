@@ -1,0 +1,109 @@
+Link: https://yugioh.fandom.com/wiki/Triangle_Evolution
+
+
+ Triangle Evolution 
+ 
+ Japanese:   トライアングル・イヴォルブ 
+ Romaji:   Toraianguru Ivorubu 
+ Translated:  Triangle Evolve 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Effect 
+ Target  1  face-up   Level  5 or higher  monster  you  control ; during this  turn , if that target is used for an  Xyz Summon , you can treat it as 3 monsters. An  Xyz Monster   Summoned  using that target as  Xyz Material  loses 1000  ATK .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  097 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ トライアングル・イヴォルブ 
+ 自分フィールド上のレベル５以上のモンスター１体を選択して発動できる。このターン、選択したモンスターをエクシーズ素材とする場合、１体で３体分の素材とする事ができる。また、選択したモンスターをエクシーズ素材としたモンスターエクシーズの攻撃力は１０００ポイントダウンする。 
+ 
+ 
+ Toraianguru Ivorubu 
+ 
+ 
+ Decks 
+ 
+ 
+ Kite Tenjo 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Xyz Monster 
+ Level 5 Monster Cards 
+ Level 6 Monster Cards 
+ Level 7 Monster Cards 
+ Level 8 Monster Cards 
+ Level 9 Monster Cards 
+ Level 10 Monster Cards 
+ Level 11 Monster Cards 
+ Level 12 Monster Cards 
+ 
+ Stat changes  
+ Your monsters lose ATK 
+ 
+ Summoning  categories  
+ Treated as multiple Xyz Materials 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/1f/TriangleEvolution-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20131015033018', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

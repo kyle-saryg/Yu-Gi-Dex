@@ -1,0 +1,530 @@
+Link: https://yugioh.fandom.com/wiki/Flip_effect
+
+
+ 
+ Flip effect
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ リバース効果 Formerly marked with "リバース："
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Ribāsu Kōka Formerly marked with "Ribāsu: "
+ 
+ 
+ 
+ Japanese (translated)
+ 
+ 
+ Reverse Effect Formerly marked with "Reverse: "
+ 
+ 
+ 
+ English
+ 
+ 
+ Flip Effect Marked with "FLIP: "
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Effet Flip Marked with "FLIP: " 
+ German : Flippeffekt Marked with "FLIPP: " 
+ Italian : Effetto Scoperta Marked with "SCOPRI: " 
+ Portuguese : Efeito de Virar Marked with "VIRE: " 
+ Spanish : Efecto de Volteo Marked with "VOLTEO: " 
+ Korean : 리버스 효과 (Reverse 效果)  Ribeoseu Hyogwa Formerly marked with "리버스: " " Ribeoseu:  " 
+ Traditional Chinese : 反轉效果  Fánzhuǎn Xiàoguǒ / Faan2 zyun3 Haau6 gwo2 Formerly: 亮牌效果 [1]   Liàngpái Xiàoguǒ / Leong6 paai4 Haau6 gwo2 Marked with "反轉：" " Fánzhuǎn:  " / " Faan2 zyun3:  " 
+ 
+ 
+ A  Flip effect  (リバース効果  Ribāsu Kōka  "Reverse Effect"), formatted  Flip Effect  prior to the version 9.0  TCG   rulebook , is a kind of  Trigger Effect  possessed exclusively by  Flip monsters . This kind of effect activates when the Flip monster is  flipped   face-up  (by  battle , a  Flip Summon , or a  card effect ). In  card text , Flip effect is marked with the all-caps text "FLIP: ".
+ If the monster is flipped up and  destroyed by battle , the card is  destroyed  first, then its effect is activated and  resolved  on the  field  in the  Damage Step  after  damage calculation ; since the card is already destroyed, effects like that of " Hane-Hane " cannot target themselves.
+ Not all monsters with effects that activate upon flipping face-up are Flip monsters; some monsters have  Pseudo-Flip Effects , which function identically to Flip effects other than the monsters not being considered Flip monsters (so their effects can activate if flipped by cards like " Ceasefire "). In addition, not all Flip monsters' have effects that trigger upon being flipped face-up, such as " Worm Linx " and " Aroma Jar ".
+ Previously, Flip Effects were considered a distinct kind of effect from Trigger Effects, and several card effects specifically affected Flip Effects; such cards now instead affect all effects of Flip monsters.
+ In  Yu-Gi-Oh! The Duelists of the Roses , a  Flip Effect  is a one-time effect that is activated only when the card is manually flipped face-up or as a result of another event, such as battle.
+ 
+ see:  List of Flip monsters 
+ Example 
+ 
+ List of OCG/TCG monsters with Flip effects 
+   Japanese name Level Attribute Type Card type ATK DEF 4-Starred Ladybug of Doom 死の４つ星てんとう虫 3 WIND Insect Effect Monster Monster Card 800 1,200 Absorbing Jar アブソーブポッド 3 EARTH Rock Effect Monster Monster Card 600 500 Alien Grey エーリアン・グレイ 2 LIGHT Reptile Effect Monster Monster Card 300 800 Armed Ninja 青い忍者 1 EARTH Warrior Effect Monster Monster Card 300 300 Arsenal Summoner ウェポンサモナー 4 WIND Spellcaster Effect Monster Monster Card 1,600 1,600 Aussa the Earth Charmer 地霊使いアウス 3 EARTH Spellcaster Effect Monster Monster Card 500 1,500 Baby Raccoon Tantan 子狸たんたん 2 EARTH Beast Effect Monster Monster Card 0 800 Batteryman Micro-Cell 電池メン－ボタン型 1 LIGHT Thunder Effect Monster Monster Card 100 100 Big Eye 大王目玉 4 DARK Fiend Effect Monster Monster Card 1,200 1,000 Bite Shoes 朱い靴 2 DARK Fiend Effect Monster Monster Card 500 300 ... further results 
+ References 
+ 
+ ↑   "Traditional Chinese version of  Master Rule 2 version 1.0 " .  Konami .  http://www.yugioh-card.com/hk/howto/beginner.php?lang=cn-t . 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/02/MagicalUndertaker-BP03-EN-C-1E.png/revision/latest?cb=20140804121440']
+Categories: Gameplay

@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:English_name_(linked)
+
+This property lists the English name of something, including a link to the page. This uses  string  values.
+ 
+ 
+ 
+ 
+Categories:

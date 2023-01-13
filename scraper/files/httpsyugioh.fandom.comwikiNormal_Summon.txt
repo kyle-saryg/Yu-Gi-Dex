@@ -1,0 +1,600 @@
+Link: https://yugioh.fandom.com/wiki/Normal_Summon
+
+
+ 
+ Normal Summon
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ ( 通 常 ) 召 喚 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ (つうじょう)しょうかん
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ (通常)召喚
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ (Tsūjō) Shōkan
+ 
+ 
+ 
+ Japanese (translated)
+ 
+ 
+ (Normal) Summon
+ 
+ 
+ 
+ English
+ 
+ 
+ Normal Summon
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Invocation Normale Verb: Invoquer Normalement 
+ German : Normalbeschwörung Verb: beschwören als Normalbeschwörung 
+ Italian : Evocazione Normale Verb: Evocare Normalmente 
+ Portuguese : Invocação-Normal Verb: Invocar por Invocação-Normal 
+ Spanish : Invocación Normal Verb: Invocar de Modo Normal 
+ Korean : 통상 소환 (通常召喚)  Tongsang Sohwan Formerly: (일반) 소환 ((一般)召喚)  (Ilban) Sohwan 
+ Traditional Chinese : 通常召喚  Tōngcháng Zhàohuàn / Tung1 seong4 Ziu6 wun6 
+ 
+ 
+ A  Normal Summon  ( 通 常 召 喚   Tsūjō Shōkan  "Normal Summon", or simply  召 喚   Shōkan  "Summon") is the simplest way to  Summon  a  monster . The  turn player  can perform a Normal Summon during their  Main Phase  when the  game state  is open.
+ In OCG text, "Normal Summon/ Set " would be referred to as  通 常 召 喚 , while "Normal Summon (but not set)" would be referred to as only  召 喚 .
+ 
+ Contents 
+ 
+ 1   Mechanics 
+ 
+ 1.1   Normal Set 
+ 1.2   Tribute Summon 
+ 
+ 1.2.1   Tribute Set 
+ 
+ 
+ 1.3   Gemini monsters 
+ 
+ 
+ 2   Multiple Normal Summon 
+ 
+ 2.1   Set new Normal Summon/Set Limit 
+ 2.2   Allows multiple Normal Summon 
+ 2.3   Performs a Normal Summon 
+ 
+ 
+ 3   See also 
+ 4   References 
+ 
+ 
+ Mechanics 
+ To perform a Normal Summon, the player simply plays a monster directly from their  hand  into an available  Main Monster Zone  in  face-up   Attack Position , declaring that the monster is being Normal Summoned.
+ After each Normal Summon, a  Summon negation window  opens, and either player may negate the summon. If not, the summon is considered successful, and the  Summon Response Window  opens, and each player, starting from the turn player, may respond to the summon. If no action is taken, the game state becomes open again.
+ Special Summon Monsters , including  Ritual Monsters , cannot be Normal Summoned.
+ In addition to the "Normal" Normal Summons, are three sub-categories.
+ 
+ Normal Set 
+ Main article:  Normal Set Instead of Normal Summoning a monster in face-up Attack Position, a player may instead play that monster defensively by "Set", placing the monster in face-down  Defense Position .
+ The turn player can only Normal Summon or  Set  once per  turn , and only once that turn. Monsters cannot be Normal Summoned in face-up  Defense Position , unless stated otherwise.
+ 
+ Tribute Summon 
+ Main article:  Tribute Summon For monsters that are Level 5 or higher, you must Tribute at least 1 monster you control before the Normal Summon/Set. This is called a Tribute Summon. Monsters that are Level 5 or 6 require 1 Tribute and Monsters that are Level 7 or higher require 2 Tributes.
+ Tribute Set 
+ Main article:  Tribute Set If you Tribute Summon in face-down Defense Position, it is called a Tribute Set. A monster Tribute Set on the field is NOT considered Summoned.
+ Gemini monsters 
+ Main article:  Gemini monster 
+ Gemini monsters  are a type of monster that are treated as  Normal Monsters  on the field, but they can be Normal Summoned again while already face-up on the field to make them Effect Monster and "unlock" their effect(s). (This Normal Summon counts as the player's one Normal Summon/Set per turn). If the monster in question is Level 5 or higher, no tribute is required for the second Normal Summon.
+ 
+ Multiple Normal Summon 
+ While a player may only perform 1 Normal Summon/Set per turn, there are three types of "Additional Normal Summon" effects which can increase this limit. [1] 
+ 
+ Set new Normal Summon/Set Limit 
+ These effects simply set the Normal Summon/Set limit to a fixed number. They do not stack, and the one that grant the highest number will apply (e.g. If a player applied both the Effect of " Double Summon " and " Chain Summoning ", the limit number would be 3).
+ 
+ Allows multiple Normal Summon 
+ Main article:  Allows multiple Normal Summons These effect gives the player additional Normal Summon/Set limit, but the player can only gain these effects once per turn. So, even the player applies multiple of these effects, they will get a total of 1 additional Normal Summon, the change is that the player has wider set of eligible monsters to be summoned this way.
+ However, these effects will stack with the first group. (e.g. They player may apply the effect of " Double Summon " and " Swap Frog ", and they can Normal Summon/Set twice this turn due to the former. They can also Normal Summon 1 "Frog" monster in addition to the limit due to the latter, making the summon limit 2+1, or simply put, 3.)
+ 
+ Performs a Normal Summon 
+ Main article:  Performs a Normal Summon These effects outright perform a Normal Summon, and the action does not count toward the turn's Normal Summon/Set limit. Player must outright perform the Normal Summon (or Set, if applicable) immediately after that effect resolves.
+ See also 
+ Summon 
+ Game state 
+ Main Phase 
+ Normal Set 
+ Tribute Summon 
+ References 
+ 
+ ↑   [1]   
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/36/DoubleSummon-TF04-JP-VG.jpg/revision/latest/scale-to-width-down/300?cb=20120430154941']
+Categories: Types of Summon

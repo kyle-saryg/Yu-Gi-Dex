@@ -1,0 +1,73 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Adhesion_Trap_Hole
+
+
+ Adhesion Trap Hole 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Contents 
+ 
+ 1   OCG Rulings 
+ 2   Previously Official Rulings 
+ 
+ 2.1   Mentions in Other Rulings 
+ 
+ 
+ 3   References 
+ 
+ 
+ OCG Rulings 
+ This effect does not  target . [1] 
+ The monster's  original ATK  is halved at  resolution . [1] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [2]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [3] [4] [5] [6] [7] [8] [9] [10] [11] 
+ 
+ " Adhesion Trap Hole " works against "a monster or monsters", so " Adhesion Trap Hole " does NOT target. 
+ When " Cyber Jar " is activated, you may use " Adhesion Trap Hole " against all monsters your opponent  Special Summons  in  face-up   Attack Position , but " Adhesion Trap Hole " has no effect on any monsters your opponent Special Summons  face-down . 
+ " Adhesion Trap Hole " cannot affect monsters Special Summoned  face-down  with " The Shallow Grave ", " Morphing Jar #2 ", etc. 
+ If a monster affected by " Adhesion Trap Hole " is  flipped  face-down (with " Book of Moon ", etc.), " Adhesion Trap Hole "'s effect disappears and the monster's  ATK  is back to normal. 
+ " Adhesion Trap Hole " halves the original ATK, so if you  activate  another effect that alters ATK, halve the original ATK first and then  resolve  the other ATK-modifying  effect . 
+ If a monster affected by " Adhesion Trap Hole " is then equipped with " Megamorph ", only " Megamorph "'s effect applies. 
+ Mentions in Other Rulings 
+ Dramatic Rescue : You can  activate  " Dramatic Rescue " when an  Amazoness  on your side of the  field  is  targeted , such as with any  Equip Spell Card ...but not when cards like..." Adhesion Trap Hole "...are used. 
+ Spirit Reaper : Examples of cards that will not  destroy  " Spirit Reaper " because they do not  target : ..." Adhesion Trap Hole "... 
+ 
+ 
+ 
+ References 
+ 
+ ↑  1.0   1.1   Konami OCG Card Database : Adhesion Trap Hole 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

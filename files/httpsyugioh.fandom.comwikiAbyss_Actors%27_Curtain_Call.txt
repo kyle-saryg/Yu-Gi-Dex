@@ -1,0 +1,253 @@
+Link: https://yugioh.fandom.com/wiki/Abyss_Actors%27_Curtain_Call
+
+
+ 
+ 
+ Abyss Actors' Curtain Call 魔 界 劇 団 のカーテンコール 
+ 
+ English 
+Abyss Actors' Curtain Call 
+ French 
+ Rappel d'Acteur des Abysses Check translation 
+ German 
+ Abgrundschauspieler-Danksagung Check translation 
+ Italian 
+ Chiamata alla Ribalta degli Attori dell'Abisso Check translation 
+ Korean 
+ 마계극단 커튼콜 Check translation 
+ Portuguese 
+ Agradecimento Final do Ator do Abismo Check translation 
+ Spanish 
+ Actor del Abismo Llamada del Telón Check translation 
+ Japanese (kana) 
+ まかいげきだんのカーテンコール Check translation 
+ Japanese (base) 
+ 魔界劇団のカーテンコール Check translation 
+ Japanese ( rōmaji ) 
+Makai Gekidan no Kāten Kōru 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 04682617 
+ Card effect types 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Lingering 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If an " Abyss Script "  Spell Card  or  effect  was  activated  this  turn : Add  face-up  " Abyss Actor "  Pendulum Monsters  from your  Extra Deck  to your  hand , up to the number of " Abyss Script " Spells in your  GY . Then you can  Special Summon  "Abyss Actor" Pendulum Monsters from your hand with different names, up to the number of monsters  added  to the hand by this effect. You cannot Special Summon monsters for the rest of this turn, except "Abyss Actor" Pendulum Monsters. You can only activate 1 "Abyss Actors' Curtain Call" per turn. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si une Carte Magie ou effet de Magie "Script des Abysses" est activé ce tour : ajoutez un nombre de Monstres Pendule "Acteur des Abysses" face recto depuis votre Extra Deck à votre main, inférieur ou égal au nombre de Magies "Script des Abysses" dans votre Cimetière. Puis, vous pouvez Invoquer Spécialement un nombre de Monstres Pendule "Acteur des Abysses" depuis votre main de noms différents, inférieur ou égal au nombre de monstres ajoutés à la main par cet effet. Vous ne pouvez pas Invoquer Spécialement de monstres (Monstres Pendule "Acteur des Abysses" exclus) le reste de ce tour. Vous ne pouvez activer qu'1 "Rappel d'Acteur des Abysses" par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls in diesem Spielzug ein/e „Abgrundskript“-Zauberkarte oder -effekt aktiviert wird: Füge deiner Hand offene „Abgrundschauspieler“-Pendelmonster bis zur Anzahl der „Abgrundskript“-Zauber in deinem Friedhof von deinem Extra Deck hinzu. Dann kannst du „Abgrundschauspieler“-Pendelmonster mit unterschiedlichen Namen bis zur Anzahl der Monster, die der Hand durch diesen Effekt hinzugefügt wurden, als Spezialbeschwörung von deiner Hand beschwören. Du kannst für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer „Abgrundschauspieler“-Pendelmonstern. Du kannst nur 1 „Abgrundschauspieler-Danksagung“ pro Spielzug aktivieren. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se una Carta Magia "Sceneggiatura dell'Abisso" o un suo effetto viene attivata in questo turno: aggiungi Mostri Pendulum "Attore dell'Abisso" scoperti dal tuo Extra Deck alla tua mano, fino al numero di Magie "Sceneggiatura dell'Abisso" nel tuo Cimitero. Poi, puoi Evocare Specialmente Mostri Pendulum "Attore dell'Abisso" con nomi diversi dalla tua mano, fino al numero di mostri aggiunti alla mano da questo effetto. Non puoi Evocare Specialmente mostri per il resto di questo turno, eccetto Mostri Pendulum "Attore dell'Abisso". Puoi attivare solo 1 "Chiamata alla Ribalta degli Attori dell'Abisso" per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se um Card ou efeito de Magia "Script do Abismo" for ativado neste turno: adicione Monstros Pêndulo "Ator do Abismo" com a face para cima do seu Deck Adicional à sua mão, até o número de Magias "Script do Abismo" no seu Cemitério. Depois, você pode Invocar por Invocação-Especial Monstros Pêndulo "Ator do Abismo" da sua mão com nomes diferentes, até o número de monstros adicionados à mão por este efeito. Você não pode Invocar monstros por Invocação-Especial pelo resto deste turno, exceto Monstros Pêndulo "Ator do Abismo". Você só pode ativar 1 "Agradecimento Final do Ator do Abismo" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si una Carta Mágica "Guión de Abismo" o efecto de Magia "Guión de Abismo" es activado este turno: añade a tu mano, desde tu Deck Extra, Monstruos de Péndulo "Actor del Abismo" boca arriba, hasta el número de Mágicas "Guión de Abismo" que hay en tu Cementerio. Después, puedes Invocar de Modo Especial Monstruos de Péndulo "Actor del Abismo" desde tu mano con nombres diferentes, hasta la cantidad de monstruos añadidos a la mano por este efecto. No puedes Invocar monstruos de Modo Especial por el resto de este turno, excepto Monstruos de Péndulo "Actor del Abismo". Sólo puedes activar 1 "Actor del Abismo Llamada del Telón" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名のカードは１ターンに１枚しか発動できない。①：「魔界台本」魔法カードの効果が発動したターンに発動できる。自分の墓地の「魔界台本」魔法カードの数まで、自分のＥＸデッキから表側表示の「魔界劇団」Ｐモンスターを手札に加える。その後、この効果で手札に加えたモンスターの数まで手札から「魔界劇団」Ｐモンスターを特殊召喚できる（同名カードは１枚まで）。このカードの発動後、ターン終了時まで自分は「魔界劇団」Ｐモンスターしか特殊召喚できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ① : "마계대본" 마법 카드의 효과가 발동한 턴에 발동할 수 있다. 자신 묘지의 "마계대본" 마법 카드의 수까지, 자신의 엑스트라 덱에서 앞면 표시의 "마계극단" 펜듈럼 몬스터를 패에 넣는다. 그 후, 이 효과로 패에 넣은 몬스터의 수까지 패에서 "마계극단" 펜듈럼 몬스터를 특수 소환할 수 있다(같은 이름의 카드는 1장까지). 이 카드의 발동 후, 턴 종료시까지 자신은 "마계극단" 펜듈럼 몬스터밖에 특수 소환할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2018-09-27 LED3-EN049 Legendary Duelists: White Dragon Abyss Common 2021-01-21 LDS2-EN064 Legendary Duelists: Season 2 Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2018-09-27 LED3-FR049 Legendary Duelists: White Dragon Abyss Duellistes Légendaires : Le Dragon Blanc des Abysses Common 2021-01-21 LDS2-FR064 Legendary Duelists: Season 2 Duellistes Légendaires : Saison 2 Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2018-09-27 LED3-DE049 Legendary Duelists: White Dragon Abyss Legendary Duelists: White Dragon Abyss Common 2021-01-21 LDS2-DE064 Legendary Duelists: Season 2 Legendary Duelists: Season 2 Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2018-09-27 LED3-IT049 Legendary Duelists: White Dragon Abyss Duellanti Leggendari: Drago Bianco dell'Abisso Common 2021-01-21 LDS2-IT064 Legendary Duelists: Season 2 Duellanti Leggendari: Stagione 2 Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2018-09-27 LED3-PT049 Legendary Duelists: White Dragon Abyss Duelistas Lendários: Dragão Branco do Abismo Common 2021-01-21 LDS2-PT064 Legendary Duelists: Season 2 Duelistas Lendários: Temporada 2 Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2018-09-27 LED3-SP049 Legendary Duelists: White Dragon Abyss Duelistas Legendarios: Dragón Blanco del Abismo Common 2021-01-21 LDS2-SP064 Legendary Duelists: Season 2 Duelistas Legendarios: Temporada 2 Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2018-06-09 DP20-JP049 Duelist Pack: Legend Duelist 3 デュエリストパック －レジェンドデュエリスト編３－ Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2018-09-19 DP20-KR049 Duelist Pack: Legend Duelist 3 듀얼리스트 팩 －레전드 듀얼리스트 편 ３- Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Pendulum Monster 
+ 
+ Archetypes  and  series   
+ Abyss Actor 
+ 
+ Supports   archetypes   
+ Abyss Actor 
+ Abyss Script 
+ 
+ Actions  
+ Adds from Extra Deck to hand 
+ 
+ Summoning  categories  
+ Special Summons from your hand 
+ Restricts the player's Special Summons to archetype specific monsters 
+ 
+ Miscellaneous  
+ Only once per turn 
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 13866 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Abyss Actor " 「 魔 界 劇 団 」 Members 
+ Abyss Actor - Comic Relief Abyss Actor - Curtain Raiser Abyss Actor - Evil Heel Abyss Actor - Extras Abyss Actor - Funky Comedian Abyss Actor - Hyper Director Abyss Actor - Leading Lady Abyss Actor - Liberty Dramatist Abyss Actor - Mellow Madonna Abyss Actor - Sassy Rookie Abyss Actor - Super Producer Abyss Actor - Superstar Abyss Actor - Trendy Understudy Abyss Actor - Twinkle Little Star Abyss Actor - Wild Hope 
+ Abyss Actors Back Stage Abyss Actors' Curtain Call Abyss Actors' Dress Rehearsal 
+ Support 
+ Abyss Actor - Comic Relief Abyss Actor - Curtain Raiser Abyss Actor - Evil Heel Abyss Actor - Extras Abyss Actor - Funky Comedian Abyss Actor - Hyper Director Abyss Actor - Leading Lady Abyss Actor - Mellow Madonna Abyss Actor - Sassy Rookie Abyss Actor - Super Producer Abyss Actor - Superstar Abyss Actor - Trendy Understudy Abyss Actor - Twinkle Little Star Abyss Actor - Wild Hope 
+ Abyss Actors Back Stage Abyss Actors' Curtain Call Abyss Actors' Dress Rehearsal Abyss Playhouse - Fantastic Theater Abyss Prop - Wild Wagon Abyss Script - Abysstainment Abyss Script - Dramatic Story Abyss Script - Fantasy Magic Abyss Script - Fire Dragon's Lair Abyss Script - Opening Ceremony Abyss Script - Rise of the Abyss King Abyss Script - Romantic Terror 
+ Related 
+ Set Rotation Stand In 
+ 
+   
+" Abyss Script " 「 魔 界 台 本 」 Members 
+ Abyss Script - Abysstainment Abyss Script - Dramatic Story Abyss Script - Fantasy Magic Abyss Script - Fire Dragon's Lair Abyss Script - Opening Ceremony Abyss Script - Rise of the Abyss King Abyss Script - Romantic Terror 
+ Support 
+ Abyss Actor - Comic Relief Abyss Actor - Curtain Raiser Abyss Actor - Evil Heel Abyss Actor - Leading Lady Abyss Actor - Liberty Dramatist Abyss Actor - Mellow Madonna Abyss Actor - Superstar 
+ Abyss Actors' Curtain Call Abyss Actors' Dress Rehearsal Abyss Playhouse - Fantastic Theater Abyss Script - Abysstainment Abyss Script - Rise of the Abyss King Abyss Script - Romantic Terror 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/10/AbyssActorsCurtainCall-LED3-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180928160952', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

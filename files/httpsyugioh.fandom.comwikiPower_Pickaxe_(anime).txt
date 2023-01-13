@@ -1,0 +1,103 @@
+Link: https://yugioh.fandom.com/wiki/Power_Pickaxe_(anime)
+
+Main card page: " Power Pickaxe " 
+ Power Pickaxe 
+ 
+ Japanese:   パワー・ピカクス 
+ Romaji:   Pawā Pikakusu 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Equip 
+ 
+ Once per  turn , you can  select  and  remove from play  1  monster  in your opponent's  Graveyard  whose  Level  is less than or equal to the  equipped  monster's. If the equipped monster  battles  during the same turn that this effect was used, it gains  ATK  equal to half of the removed monster's ATK, during the  Damage Step  only.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  070 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ パワー・ピカクス 
+ １ターンに１度、装備モンスターの レベル よりも低いレベルのモンスター１体を相手の 墓地 から選択し、 ゲームから除外する 。この効果を発動したターンの ダメージステップ の間、装備モンスターの 攻撃力 は除外したモンスターの攻撃力の半分の数値分アップする。 
+ 
+ 
+ Pawā Pikakusu 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Leo 
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ Equipped gains ATK 
+ 
+ Banished  categories  
+ Banishes from your opponent's Graveyard 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ 
+   " Power Pickaxe " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/34/PowerPickaxe-JP-Anime-5D.png/revision/latest/scale-to-width-down/200?cb=20160402164852', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/28/PowerPickaxe-OW.png/revision/latest/scale-to-width-down/185?cb=20140615150712', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/54/PowerPickaxe-JP-Anime-5D-NC.png/revision/latest/scale-to-width-down/185?cb=20160314181429', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

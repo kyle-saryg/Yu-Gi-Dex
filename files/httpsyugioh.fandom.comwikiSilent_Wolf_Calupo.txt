@@ -1,0 +1,95 @@
+Link: https://yugioh.fandom.com/wiki/Silent_Wolf_Calupo
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Silent Wolf Calupo 沈黙狼 －カルーポ 
+ 
+ English 
+Silent Wolf Calupo 
+ Japanese (kana) 
+ オメルタ－カルーポ Check translation 
+ Japanese (base) 
+ 沈黙狼－カルーポ Check translation 
+ Japanese ( rōmaji ) 
+Omeruta - Karūpo 
+ Japanese (translated) 
+Omerta - Calupoh 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Beast-Warrior  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1400  /  1400 
+ Passcode 
+ 15947754 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If this card is  Normal  or  Special Summoned :  Equip  the top card of your  Deck  to this card as a  face-down   Equip Spell  that gives it 500 ATK. During each  End Phase : Your opponent calls the original  type  of card ( Monster / Spell / Trap ) equipped by this card's previous effect, and if they call it correctly,  send  this card to the  GY . Otherwise,  discard  1  random  card from their  hand , and if you do,  return  this card to the hand. You can only use this  effect  of "Silent Wolf Calupo"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の②の効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動する。自分のデッキの一番上のカードを攻撃力５００アップの装備カード扱いとして裏側表示でこのカードに装備する。②：自分・相手のエンドフェイズに発動する。相手はこのカードの①の効果で装備しているカードの元々の種類（モンスター・魔法・罠）を当てる。当たった場合、このカードを墓地へ送る。ハズレの場合、相手の手札をランダムに１枚選んで捨て、このカードを持ち主の手札に戻す。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-07-16 DABL-JP037 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Normal Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Actions  
+ Activates upon Normal Summon 
+ Activates upon Special Summon 
+ Sends itself from field to Graveyard 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17792 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/cb/SilentWolfCalupo-DABL-JP-NR.png/revision/latest/scale-to-width-down/300?cb=20220718231259', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

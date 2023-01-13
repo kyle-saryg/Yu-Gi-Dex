@@ -1,0 +1,103 @@
+Link: https://yugioh.fandom.com/wiki/Disconnect_Linker
+
+
+ This card's written lore in the anime and manga was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ 
+ Disconnect Linker 
+ 
+ Japanese:   ディスコネクト・リンカー 
+ Romaji:   Disukonekuto Rinkā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Target  1  Link -2 or lower  Link Monster  in your  GY ;  Special Summon  it, but it has its  effects   negated  (if any), and if you do, immediately after this effect  resolves ,  Link Summon  using that  monster  as  material . If you cannot Link Summon,  banish  that monster. The Link Summoned Link Monster is  unaffected  by your opponent's card effects, also monsters in the  Extra Monster Zones  cannot  attack  while it is  face-up  on the  field .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  045 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ディスコネクト・リンカー 
+ ①：自分の墓地のリンク２以下のリンクモンスター１体を対象として発動できる。そのモンスターを効果を無効にして特殊召喚し、そのモンスターを素材としてリンク召喚する。リンク召喚できなかった場合、その対象のモンスターは除外される。この効果でリンク召喚したリンクモンスターは相手の効果を受けず、そのリンクモンスターがモンスターゾーンに存在する限り、ＥＸモンスターゾーンのモンスターは攻撃できない。 
+ 
+ 
+ Disukonekuto Rinkā 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Link Monster 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your Effect Monsters 
+ Unaffected by the opponent's card effects 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ Performs a Link Summon 
+ Special Summons from your Extra Deck 
+ 
+ Attack  categories  
+ Prevents attacks 
+ 
+ Banished  categories  
+ Banishes from your field 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/9/9f/DisconnectLinker-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180328132048', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

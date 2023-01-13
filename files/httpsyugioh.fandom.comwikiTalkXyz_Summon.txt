@@ -1,0 +1,149 @@
+Link: https://yugioh.fandom.com/wiki/Talk:Xyz_Summon
+
+
+ 
+ 
+ This is the talk page for discussing the page, Xyz Summon.
+ 
+ 
+ 
+ 
+ This page is for discussion about the article, not general talk about its subject.
+ See the  Forums  for general discussion. 
+ Please sign and date your posts  by typing four tildes ( ~~~~ ). 
+ Put new text under old text.  Click here to start a new topic . 
+ 
+ 
+ Please try to
+ 
+ Be polite 
+ Assume good faith 
+ Be welcoming 
+ 
+ Contents 
+ 
+ 1   Are we sure about the summoning requirement? 
+ 2   Page name 
+ 3   This is OCG/TCG? 
+ 4   Summons.... 
+ 5   Correct me if I'm wrong. 
+ 6   New Official Konami Japan Information 
+ 7   Pronunciation of Exceed 
+ 8   Rulings with Synchro Summoning 
+ 9   Are Exceed Material Monsters Not Considered Face-Up? 
+ 10   English Translation? 
+ 11   Cleaning up a bit 
+ 12   Token used as Xyz material in anime 
+ 13   Rulings For Summoning 
+ 14   Acceedent 
+ 
+ 
+ Are we sure about the summoning requirement? 
+ Are we sure that the Excess Monster needs to have a level equal to the combined level of the materials? The problem here is that, since the materials have to have the same level, that pretty much eliminates any Excess Monster having an odd-numbered level (unless they make half-levels, which seems really stupid and impractical to me, since they've already established that there will never be any fractions of LP, ATK/DEF or Level in the games). Plus, it makes the summoning requirement way too similar to Rituals and especially Synchros.  66.228.109.2  ( talk ) 00:27, December 16, 2010 (UTC)
+ It's 2 or more monsters. We just can't have Level 1s. 3s'll also be tough to summon, I'd guess. A Wikia contirutor  ( talk  •  contribs ) 21:47, December 17, 2010 (UTC)
+ 
+ That's not what I'm asking; I know that Excess monsters require two material monsters to summon, but people are saying that the total levels of the materials have to match the level of the Excess Monster, when there isn't any rulings given to support that. Also, since it's also said that the level of the materials also have to be the same as each other, that means that you could only have even-numbered leveled monsters, since there is no way in heck they're going to bring out half-levels (there is no number in the world that can be multiplied by 2 and get an odd number, so any Excess monster following these rules would need to be a level 2, 4, 6, 8, 10, or 12, which is utterly stupid, in my opinion). Hell, they wouldn't even let negative levels fly, force-converting the Dark Synchros into normal Synchros. So, are we absolutely sure that the Excess monster has to have a level equal to the combined level of its materials?  66.228.109.2  ( talk ) 23:25, December 18, 2010 (UTC) 
+ No, we're not sure of anything yet. For all we know it could be totally different. I was just saying that the original description was "2 or more". That means that you could use 3 monsters if you wanted. For example, 3 level 1s equals a level 3, or 3 level 3s equals a level 9. level 5 could even be done if there are 5 level 1s (I don't know about 7 thou). Anyways, I was just saying that it is not impossible to create odd-leveled monsters using the given ruling. You're proboly right, we won't know how to summon then until they give us the actual rules and first Excess Monster cards, but until then we're free to speculate based on the knowledge given to us. With enough bits and pieces we'll eventually get it right. Only the future will show what the new mechanic will yield.  A Wikia contirutor  ( talk  •  contribs ) 23:56, December 18, 2010 (UTC) 
+ Just thinking of those as Synchro Monsters, only different is that you don't need "Tuner" completely. I know it's very tricky, yet easily. -- F red C at   Ta.P.  •  F.P.  •  J.R.  •  W.S.  •  Th.P.  •  S.C.  00:05, December 19, 2010 (UTC)
+ If it's that similar to Synchro Summons, then why does it exist, in the first place? Why not continue the Synchro craze? There's  got  to be something more to this whole Excess Summon thing that hasn't been revealed, yet, and without any info about it, I say we strip the article down to the bare bones (ie. say it exists, but we dunno what it entails, yet), instead of going by random speculation. Or, if there's proof that that's how Excess Summons work, please post a link to the reference for verification.  66.228.109.2  ( talk ) 01:23, December 19, 2010 (UTC) 
+ Lawl, nobody noticed that it's EXCEED SUMMON.... NOT EXCESS SUMMON ?
+ It was changed after this conversation took place  A Wikia contirutor  ( talk  •  contribs ) 00:48, January 2, 2011 (UTC)
+ 
+ 
+ Once an Exceed (XYZ) is removed from the field and ends up in the Graveyard, I read that cards such a Tour Guide of the Underworld and Rescue Cat and Rescue Rabbit can in fact revive and special summon Exceed Monsters such as Number 17: Leviathan Dragon to the field. Of course there will be no initial Monsters added to him as Materials so with that in mind I read that the negative effects that occur when a Exceed (XYZ) is out of Materials Happen instantly. My Question to all this is, can Material Monsters be re-added to an Exceed (XYZ) after either detaching all of it's Material Monsters or after being special summoned back from the Graveyard.
+ 24.126.0.175  ( talk ) 01:25, September 17, 2011 (UTC)Toma St. Cloud
+ 
+ Page name 
+ umm, why Exceed Summon redirects to Excess Summon? This page's name is supposed to be  Exceed  Summon :p  Order  ( talk  •  contribs ) 00:44, January 2, 2011 (UTC)
+ 
+ Because someone moved one of the pages and never bothered to move the other. To my knowledge, we're not sure if its "Exceed" or "Excess", since the translation was choppy.  Cheesedude  ( talk  •  contribs ) 01:22, January 2, 2011 (UTC) 
+ This is OCG/TCG? 
+ Hold on a sec, this is going to be really put into the OCG and the TCG? Or are these cards going to be converted to synchro monsters that read "1 tuner and 1 or more non-tuner level - monsters" or fusion monsters that read similar "This monster can only be summoned by placing the required material monsters underneath the summoned monster. (they are not sent to the graveyard, you do not use polymerization.)" etc?
+ Honestly I think to not convert them would be ridiculous, there would have to be so many new rules, and people are just now really getting into synchros. They wouldn't give us dark synchros either. What color are these new cards going to be if not converted?
+ This is way to soon, personally, Accel Synchro JUST came out.
+ If they're gonna make them, then they're gonna be new because of the overlay rule. It's what they did with Synchros, they added a new card-type to add interest to the series and boost sales. I think it's unlikely that they'd add these kinds of cards and convert them to one of the previous when they've already added in something new like overlay.
+ I personally don't think it's a bad idea, it just needs to be executed properly.
+ On color, I'd like to see a card-type with a deep red background. I mean deeper than the Slifer promo. But they could do something like grey or orange. We'll just have to wait for the first scans to find out.  A Wikia contirutor  ( talk  •  contribs ) 03:30, January 12, 2011 (UTC)
+ 
+Accel synchro is just a nomral synchro with synchro/tuner monsters. Accel Syncro Monsters are just synchro monsters that REQUIRE a synchro/tuner. IT'S STILL A SYNCHRO SUMMON.  Mattwo  ( talk  •  contribs ) 03:05, February 16, 2011 (UTC)
+ 
+ Summons.... 
+ This is kinda going out of hand. Fusion, Ritual, Synchro, Trasformation(only in masked hero series) and now this... i think this kind of summoning was created for this New Zexal Series as same as Synchro summoning was created for 5d's Series.
+ 
+ Correct me if I'm wrong. 
+ The "Exceed" or "Excess" Summon, whichever it may be. It said the levels must be the same. Not "add up to". That would be directly Synchro Summoning without a tuner. However, it's not. A pair of Level 3 Monsters are placed into the same monster slot, followed by an "Exceed" or "Excess" monster overlapping it. It does not require totals of any kind.
+ While there are quite alot of summons now, think of it as a way of "advancing dueling". You see, Synchros are relatively easy to summon. A Tuner+Regular Monster = Leveled Synchro.
+ However. This will be easier. You won't have to depend on tuners. For example, a user of the Six Samurai. Two Monsters, useless on their own. "Chamberlain of the Six Samurai" and "The Six Samurai -  Nisashi". While these are basically of no use by themselves. These pair of level 3 Monsters can be used to summon an "Exceed" or "Excess" Monster at Rank 3. (If you didn't know, levels are replaced by ranks exclusively to Exceed/Excess Monsters. Level effects do not apply). Replacing two basically worthless monsters with a stronger monster is a great aspect to the duel. However, if you have these monsters and you aren't lucky enough to draw a tuner (one that can actually fit to a Synchro in your extra deck, anyway), you may use Exceed/Excess Summoning to be rid of this problem. Do not bash it. Embrace it.
+ 
+ New Official Konami Japan Information 
+ Please note that new, official information and a ruleset/guide for Exceed Summons has been released by Konami. It was included in the 'Yugioh Zexal First Dash Guide' released sometime in the past week.
+ Gerhardified  ( talk  •  contribs ) 12:05, April 10, 2011 (UTC)
+ 
+ Pronunciation of Exceed 
+ Should we put the proper pronunciation of Exceed on this page? Similarly to how we put the proper pronunciation of Zexal (which is ZEEL). Most people pronounce it as x-SEED while others pronounce it as X-seed (emphasis is denoted by capital letters). In the anime, characters pronounce it as X-seed (English pronunciation). I believe that that is the proper way to pronounce it. It stays.. how should I put this... in tune with the other Summonings. NOR-mal, SPE-shal, TRI-byoot, RI-tu-al, FYOO-zhun, and SING-crow, and even SUH-min. Mark Mares  ( talk  •  contribs ) 22:39, April 15, 2011 (UTC)
+ Actually, in the anime, they say "Exushizu". Just to clarify. And they also pronounce ZEXAL as Zearu (Zay-al). YamiYusei1  ( talk  •  contribs ) 23:45, April 15, 2011 (UTC)YamiYusei1
+ 
+ That would be Engrish.  Cheesedude  ( talk  •  contribs ) 00:06, April 16, 2011 (UTC)
+ So what would the proper pronunciation be in English? x-SEED or X-seed? Mark Mares  ( talk  •  contribs ) 04:07, April 16, 2011 (UTC) 
+ Rulings with Synchro Summoning 
+ Can Exceed's be used as synchro material?  The page says that they are ranked and not leveled.  If they can, would their level be their rank or would they just be level 0?   Dj q-pid  ( talk  •  contribs ) 13:43, April 17, 2011 (UTC)
+ 
+ As mentioned on a number of pages, Rank is not Level, and as such they cannot be used, or affected by any cards that use, or affect level, including  Synchro Summon ,  Ritual Summon  &  Level Limit - Area B .- Resk  ( Talk ) 13:59, April 17, 2011 (UTC) 
+ Rank is not Level, Rank does not equal Level, Rank cannot be used in place of Level, Rank is completely different from Level. Non-Exceed monsters do not have a Rank, and Exceed monsters do not have a Level. There is no such thing as "Rank 0" or "Level 0".   「 ダイノ ガイ 千？！ 」 ?  ·  ☎ Dinoguy1000  04:32, April 18, 2011 (UTC) 
+ Level 0 it does, ie playing costdown and summon a previously level 2 monster from your hand —This unsigned comment was made by    82.145.210.150  ( talk  •  contribs )  13:02, 2011 June 29   
+ 
+ Wrong, if you Cost Down a LV 2 or lower monster, it will become LV 1 monster, not 0.-- Lê  ( talk  •  contribs ) 13:06, June 29, 2011 (UTC) 
+ Can you site something to support your opinion? —This unsigned comment was made by  212.251.114.226     ( talk  •  contribs )  06:33, 2011 July 13   
+ 
+ Questions belong on the forum... so I'm considering deleting this. 
+ Actually, this question has been asked many times, the forum search would also work. See  Forum:0 Level .  - Falzar FZ - ( talk page | useful stuff )  07:14, July 13, 2011 (UTC) 
+ Are Exceed Material Monsters Not Considered Face-Up? 
+ It seems like a dumb question, I know, but I just want to get this out of my mind before I do something stupid.
+ Here's a scenario I want to pass by. I have a  Dimensional Fissure  on the field and two  D.D. Survivors  on the field. I Exceed Summon  No. 39 Aspiring Emperor Hope , a Rank 4 Exceed Monster, using the Survivors. If I use Hope's effect, would the removed Survivor stay removed from play, or would he come back during the End Phase?
+ AnnoyingMacroPrick  ( talk  •  contribs ) 04:32, May 2, 2011 (UTC)
+ 
+ There is a ruling for that: If a card that would remove from play cards sent to the graveyard (such as Macro Cosmos or Banisher of the Radiance) is in effect, when an Exceed monster is destroyed/removed from the field the Exceed Material Monsters beneath it are removed from play. However if an effect that would remove from play a Monster(s) on the field (like Dimensional Fissure) is activated, only the Exceed Monster will be affected. The Materials used will be sent to the Graveyard. 
+ But even if you could remove them from play, this ruling comes in: Exceed Material Monsters are not considered 'on the field'.  So you cannot use the effect of D.D. Survivor, because it isn't even considered as being on the field, face-up or otherwise. PoirotH  ( talk  •  contribs ) 04:58, May 2, 2011 (UTC)
+ That seems kind of odd to me that Dimensional Fissure wouldn't remove the Material Monsters, since they are still monsters and it affects monsters, from play, but I digress. Thank you.
+ AnnoyingMacroPrick  ( talk  •  contribs ) 05:04, May 2, 2011 (UTC)
+ I'm also confused by this last part, namely why does D. Fissure not send the material out of play?  If a monster is milled out of the deck by an effect it is sent out of play, if it is discarded from the hand it is sent out of play, if it is removed from the field it is sent out of play -- and none of these are explicitly stated as necessary because D. Fissure only reads "When monsters would be sent to the graveyard they are removed from play instead."  Material monsters are still monsters -- they have to be or you wouldn't have been able to use them in the first place, and it shouldn't matter whether they were or were not on the field because as stated above D. Fissure doesn't care where monsters come from only that they leave out of play instead of the grave.  So how is it the Exceed goes out of play but its material doesn't go with it?  At that point aren't they all just monsters, regardless of where they were or are coming from?  This also raises of question of "Would  Coffin Seller  work with exceed materials?"  Again it doesn't care where they are coming from, just if they go to the grave or not.  If coffin seller works on exceed materials (either spent as costs or lost with the destruction of the exceed monster) then D. Fissure should work as well.  Neither care where the monster came from only its relationship to the graveyard.   Rozonkomo  ( talk  •  contribs ) 16:31, May 31, 2011 (UTC)
+ 
+ I believe that once it becomes a material, it is no longer considered to be a monster, so it's unaffected by anything that affects monsters.  Cheesedude  ( talk  •  contribs ) 23:37, May 31, 2011 (UTC) 
+ English Translation? 
+ What was wrong with Exceeds? Why is it suddenly an Xyz Monster, which sounds way less awesome than Exceed?
+It doesn't even make that much sense. Exceed sounded like an overload of levels to create ranks... Xyz (ik-SEEZ) just sounds wierd...
+ Kilimow  ( talk  •  contribs ) 00:48, May 28, 2011 (UTC)
+ 
+ Because Xyz is the translation Konami decided to use. Check out their  product page .  Miar  ( talk  •  contribs ) 16:51, May 28, 2011 (UTC) 
+ I would like to say that "exceed" was a foolish mistake (Z is not D; we already have "イクシード"; you are  crazy  if you think that "exceed" was/is a great idea because the given characters were/are "not obvious"), that Konami attempting to combine "exceed" with a letter joke is an example of one of those great ideas you just fire and forget, and that furigana is a wonderful thing in general. This is beating a dead horse, and it's definitely rude (because it has to be), but I think it should be used for future reference. (This edit was made only  because  this is an old issue.)  174.111.81.238  ( talk ) 10:53, November 30, 2011 (UTC)
+ 
+ Keep in mind the timestamps. Those posts were from May, when the whole Xyz/Exceed issue wasn't fully fleshed out yet. The fact that the translation was wrong was just coming into light at that point. Now we all know.  Cheesedude  ( talk  •  contribs ) 17:20, November 30, 2011 (UTC) 
+ Cleaning up a bit 
+ i understand that talking about importance of Xyz Material, but why are most of the information here and not at " Xyz Material " article. For example:
+ 
+ If an Xyz Monster is flipped face-down, the Xyz Materials beneath it are not sent to the Graveyard. 
+ — Xyz Summon 
+ 
+ this article is all about properly summoning the Xyz Monster from your Extra Deck.
+ LastMinute  ( talk  •  contribs ) 03:24, August 8, 2011 (UTC)
+ 
+ Hmmm, other Summoning articles, like  Synchro Summon 's additional rules, should probably be fixed too.  LastMinute  ( talk  •  contribs ) 03:32, August 8, 2011 (UTC) 
+ Token used as Xyz material in anime 
+ In  Yu-Gi-Oh! ZEXAL - Episode 018   Jin  used a  Token Monster  to  Xyz Summon   Number 11: Big Eye . WTH does this mean now?-- Thanonyx  ( talk  •  contribs ) 00:57, August 9, 2011 (UTC)
+ 
+ When there's a discrepancy,  ignore the anime .  - Falzar FZ - ( talk page | useful stuff )  01:35, August 9, 2011 (UTC) 
+ Ok it wasn't a token, it was a  Spell Monster .-- Thanonyx  ( talk  •  contribs ) 12:42, August 13, 2011 (UTC) 
+ Rulings For Summoning 
+ If you have  A Legendary Ocean  with two level four  WATER  monsters; can you XYZ Summon  Number 17: Leviathan Dragon ? I'm just wondering because you can't do that for a  Synchro Summon  I think.  —This unsigned comment was made by  173.64.81.218  ( talk  •  contribs ) 14:11, August 19, 2011 
+ Yes, you can. Also, you can do that for Synchro Summons too.    Summoned Skull 2:   Electric Boogaloo    14:14, August 19, 2011 (UTC)
+ 
+ Acceedent 
+ As the acerbic anon suggested, the bit on "We thought it was 'Exceed', but apparently it wasn't" is an unnecessary bit of non-canon history. Should it be removed?  Designless Square  ( talk  •  contribs ) 06:44, December 8, 2011 (UTC)
+ 
+ No. It was widely used by the English-speaking fandom for months on end. It needs to be noted. Some people still prefer that term, however wrong it was and still use it. I would actually argue that the header of "Trivia" is misleading. It's not trivia. It's actually pretty damn important.  Cheesedude  ( talk  •  contribs ) 06:54, December 8, 2011 (UTC) 
+ The part about the katakana being misleading ("ekushizu" conflicting with "ik-seez"), I'd suggest to be removed. After all, "X" in the English language should be pronounced "x" anyways, and the "e" sound would depend on what region you'd come from (resulting in Xyz being pronounced either "ek-seez" or "ik-seez"). For some people, the katakana could've been not at all misleading. The part about the "Exceed" mistranslation, of course, should be kept, but the part about "ekushizu" being misleading should be removed. -- 174.117.175.27  ( talk ) 17:18, March 17, 2012 (UTC)
+ 
+ 
+ 
+ 
+Categories:

@@ -1,0 +1,382 @@
+Link: https://yugioh.fandom.com/wiki/Arnis,_the_Empowered_Warrior
+
+
+ The Japanese (OCG) version of this card is not a member of the " Warrior "  archetype , because its Japanese name does not contain  「ウォリアー」 .   As its English name contains "Warrior", it  may  be treated a member of the "Warrior" archetype at a TCG event, subject to local rulings.     
+ 
+ 
+ 
+ 
+ 
+ Arnis, the Empowered Warrior 魔 装 戦 士  アルニス 
+ 
+ English 
+Arnis, the Empowered Warrior 
+ French 
+ Arnis, le Guerrier Éveillé Check translation 
+ German 
+ Arnis, der ermächtigte Krieger Check translation 
+ Italian 
+ Arnis, il Guerriero Potenziato Check translation 
+ Korean 
+ 마장전사 아르니스 Check translation 
+ Portuguese 
+ Arnis, a Guerreira Edificada Check translation 
+ Spanish 
+ Arnis, la Guerrera Fortalecida Check translation 
+ Japanese (kana) 
+ まそうせんし アルニス Check translation 
+ Japanese (base) 
+ 魔装戦士 アルニス Check translation 
+ Japanese ( rōmaji ) 
+Masō Senshi Arunisu 
+ Japanese (translated) 
+Arnis, the Magic-Equipped Warrior 
+ Card type 
+ Monster   
+ Attribute 
+ FIRE   
+ Types 
+ Warrior  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1700  /  1200 
+ Passcode 
+ 29687169 
+ Card effect types 
+ 
+ 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When this card you  control  is  destroyed by battle  with an opponent's  attacking   monster  and  sent  to your  Graveyard : You can  Special Summon  1  Spellcaster - Type  monster with 1500 or less  ATK  from your  Deck  in  Attack Position . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Lorsque cette carte que vous contrôlez est détruite au combat avec un monstre attaquant de votre adversaire et envoyée à votre Cimetière : vous pouvez Invoquer Spécialement 1 monstre de Type Magicien avec max. 1500 ATK depuis votre Deck en Position d'Attaque. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wenn diese Karte, die du kontrollierst, durch Kampf mit einem angreifenden Monster deines Gegners zerstört und auf deinen Friedhof gelegt wird: Du kannst 1 Monster vom Typ Hexer mit 1500 oder weniger ATK als Spezialbeschwörung von deinem Deck in die Angriffsposition beschwören. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando questa carta che  controlli  viene  distrutta in battaglia  con un mostro attaccante dell'avversario e  mandata  al tuo  Cimitero : puoi  Evocare Specialmente  1 mostro di  Tipo   Incantatore  con  ATK  di 1500 o inferiore dal tuo  Deck  in  Posizione di Attacco . 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Quando este card que você controla for destruído em batalha por um monstro atacante do oponente e enviado para o seu  Cemitério : você pode Invocar por  Invocação-Especial  1 monstro do Tipo  Mago  com 1500 ou menos de  ATK  do seu Deck em  Posição de Ataque . 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando esta carta que controlas es destruida en batalla con un monstruo atacante de tu adversario y mandada a tu Cementerio: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo de Tipo Lanzador de Conjuros con 1500 ATK o menos, en Posición de Ataque. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：このカードが相手モンスターの攻撃で破壊され墓地へ送られた時に発動できる。デッキから攻撃力１５００以下の魔法使い族モンスター１体を攻撃表示で特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ① : 이 카드가 상대 몬스터의 공격으로 파괴되어 묘지로 보내졌을 때에 발동할 수 있다. 덱에서 공격력 1500 이하의 마법사족 몬스터 1장을 공격 표시로 특수 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-EN013   
+ Super Starter: Space-Time Showdown 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-FR013   
+ Super Starter: Space-Time Showdown 
+ Super Deck de Démarrage: La Confrontation de l'Espace-Temps  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-DE013   
+ Super Starter: Space-Time Showdown 
+ Super Starter: Space-Time Showdown  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-IT013   
+ Super Starter: Space-Time Showdown 
+ Super Starter: Resa dei Conti dello Spazio-Tempo  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2014-07-11  
+ YS14-PT013   
+ Super Starter: Space-Time Showdown 
+ Super Deck Inicial: Confronto Espaço-Tempo  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-SP013   
+ Super Starter: Space-Time Showdown 
+ Súper Baraja de Principiante: La Confrontación del Espacio-Tiempo  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2014-03-21  
+ ST14-JP013   
+ Starter Deck 2014 
+ ＳＴＡＲＴＥＲ ＤＥＣＫ ２０１４  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2014-07-08  
+ ST14-KR013   
+ Starter Deck 2014 
+ STARTER   DECK  2014  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Spellcaster 
+ 
+ Archetypes  and  series   
+ Empower 
+ Empowered Warrior 
+ 
+ Related to  archetypes  and  series   
+ Summoner 
+ 
+ Actions  
+ Activates from your Graveyard 
+ 
+ Summoning  categories  
+ Special Summons from your Deck 
+ 
+ Miscellaneous  
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11138 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Empower  魔装 Members 
+ Aether, the Empowering Dragon Aether, the Evil Empowering Dragon Arnis, the Empowered Warrior Dragodies, the Empowered Warrior Dragonox, the Empowered Warrior Hydrotortoise, the Empowered Warrior Terratiger, the Empowered Warrior Ventdra, the Empowered Warrior 
+ Empowerment 
+ Related 
+ Blue Dragon Summoner Golden Dragon Summoner Green Turtle Summoner Red Sparrow Summoner White Tiger Summoner 
+ 
+   
+" Empowered Warrior " 「 魔 装 戦 士 」 Members 
+ Arnis, the Empowered Warrior Dragodies, the Empowered Warrior Dragonox, the Empowered Warrior Hydrotortoise, the Empowered Warrior Terratiger, the Empowered Warrior Ventdra, the Empowered Warrior 
+ Support 
+ Aether, the Evil Empowering Dragon 
+ Empowerment 
+ 
+   
+ Summoner   召 喚 士 Members 
+ Blue Dragon Summoner Golden Dragon Summoner Green Turtle Summoner Red Sparrow Summoner White Tiger Summoner 
+ Related 
+ Aether, the Empowering Dragon Arnis, the Empowered Warrior Hydrotortoise, the Empowered Warrior Terratiger, the Empowered Warrior Ventdra, the Empowered Warrior 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/6/6b/ArnistheEmpoweredWarrior-YS14-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140711051146', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/28?cb=20120918053839', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

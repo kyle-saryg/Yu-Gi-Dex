@@ -1,0 +1,57 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Ally_of_Justice_Cycle_Reader
+
+
+ Ally of Justice Cycle Reader 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ [Machine/Tuner] 
+ [Machine/Tuner /Effect ] 
+ [Machine/Tuner/Effect] 
+ 
+ 
+ You can discard this card to the Graveyard  to select  up to 2 LIGHT monsters in your opponent's Graveyard , and remove them from play .  This effect can be activated during either player's turn. 
+ During either player's turn :  You can discard this card to the  Graveyard , then target  up to 2 LIGHT monsters in your opponent's  Graveyard ; banish those targets . 
+ (Quick Effect) : You can discard this card to the  GY , then target up to 2 LIGHT monsters in your opponent's  GY ; banish those targets. 
+ 
+ 
+       HA03-EN052 Hidden Arsenal 3     
+       OP03-EN006 OTS Tournament Pack 3     
+       HAC1-EN089 Hidden Arsenal: Chapter 1     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ このカードを手札から墓地へ捨てて発動 する 。相手の墓地に存在する光属性モンスターを２体まで選択し、ゲームから除外する。この効果は相手ターンでも発動できる。 
+ このカードを手札から墓地へ捨てて発動 できる 。相手の墓地に存在する光属性モンスターを２体まで選択し、ゲームから除外する。この効果は相手ターンでも発動する事ができる。 
+ 
+ 
+         DT06-JP030 Duel Terminal - Dragunity of the Hurricane!!     
+         DTC2-JP082 Duel Terminal Chronicle 2 - Chapter of Chaos     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e7/AllyofJusticeCycleReader-HA03-EN-SR-1E.png/revision/latest/scale-to-width-down/180?cb=20170428170128', 'https://static.wikia.nocookie.net/yugioh/images/1/1e/AllyofJusticeCycleReader-OP03-EN-SR-UE.png/revision/latest/scale-to-width-down/180?cb=20161205173153', 'https://static.wikia.nocookie.net/yugioh/images/0/02/AllyofJusticeCycleReader-HAC1-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20220402035245', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/27/AllyofJusticeCycleReader-DT06-JP-DRPR-DT.jpg/revision/latest/scale-to-width-down/180?cb=20090805061844', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/64/AllyofJusticeCycleReader-DTC2-JP-DRPR-DT.jpg/revision/latest/scale-to-width-down/180?cb=20120915212034']
+Categories: Card Errata, Cards with card type errata, Cards with 2 errata, Cards with 1 erratum, Cards with Japanese errata

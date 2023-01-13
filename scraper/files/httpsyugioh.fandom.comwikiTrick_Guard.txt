@@ -1,0 +1,94 @@
+Link: https://yugioh.fandom.com/wiki/Trick_Guard
+
+The  English                        name given is not official.  
+ 
+ Trick Guard 
+ 
+ Japanese:   トリック・ガード 
+ Romaji:   Torikku Gādo 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ [Requirement] : When an opponent's  monster  declares an  attack  while you  control  a  face-up  monster (0  ATK ). [Effect] :  Send  the top card of your  Deck  to the  GY , and make the  battle damage  from that battle 0.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  SEVENS :  025 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  SEVENS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ トリック・ガード 
+ 【条件】  自分フィールドに表側表示モンスター（攻撃力０）がいる場合、相手モンスターの攻撃宣言時に発動できる。 【効果】 : デッキの一番上のカードを墓地へ送り、その戦闘で発生する戦闘ダメージを０にする。 
+ 
+ 
+ Torikku Gādo 
+ 
+ 
+ Decks 
+ 
+ 
+ Yuga Ohdo 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Activates upon attack declaration 
+ Sends from the top of your Deck to your Graveyard 
+ 
+ LP   
+ Prevents battle damage 
+ 
+ Miscellaneous  
+ Rush Duel 
+ Requires control of specific ATK 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/5a/TrickGuard-JP-Anime-SV.png/revision/latest/scale-to-width-down/200?cb=20201122032649', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

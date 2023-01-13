@@ -1,0 +1,252 @@
+Link: https://yugioh.fandom.com/wiki/Branded_in_White
+
+
+ 
+ 
+ Branded in White 白 の 烙 印 
+ 
+ English 
+Branded in White 
+ French 
+ Marqué en Blanc Check translation 
+ German 
+ Weiß markiert Check translation 
+ Italian 
+ Marcado em Branco Check translation 
+ Korean 
+ 순백의 낙인 Check translation 
+ Portuguese 
+ Marcado em Branco Check translation 
+ Spanish 
+ Señalado en Blanco Check translation 
+ Japanese (kana) 
+ しろのらくいん Check translation 
+ Japanese (base) 
+ 白の烙印 Check translation 
+ Japanese ( rōmaji ) 
+Shiro no Rakuin 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 34995106 
+ Card effect types 
+ 
+ 
+ Effect 
+ Trigger-like 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Fusion Summon  1  Fusion Monster  from your  Extra Deck , using  monsters  from your  hand  or  field  as  material , including a  Dragon  monster. You can also  banish  monsters from your  GY  as material, if you use " Fallen of Albaz " as Fusion Material from your hand, field, or by banishing itself from your GY. During the  End Phase , if this card is in the GY because it was  sent  there to  activate  the  effect  of "Fallen of Albaz" this  turn : You can  Set  this card. You can only use each effect of "Branded in White"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Invoquez par Fusion 1 Monstre Fusion depuis votre Extra Deck, en utilisant des monstres depuis votre main ou Terrain comme Matériel (un monstre Dragon inclus). Vous pouvez aussi bannir des monstres depuis votre Cimetière comme Matériel, si vous utilisez "Albaz le Déchu" comme Matériel Fusion depuis votre main, Terrain ou en se bannissant lui-même depuis votre Cimetière. Durant la End Phase, si cette carte est dans le Cimetière parce qu'elle y a été envoyée pour activer l'effet de "Albaz le Déchu" ce tour : vous pouvez Poser cette carte. Vous ne pouvez utiliser chaque effet de "Marqué en Blanc" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Beschwöre 1 Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck und verwende dafür Monster von deiner Hand oder Spielfeldseite als Material, darunter ein Drache-Monster. Du kannst auch Monster von deinem Friedhof als Material verbannen, falls du „Gefallener von Albaz“ von deiner Hand oder Spielfeldseite als Fusionsmaterial verwendest oder ihn selbst von deinem Friedhof verbannst. Während der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug dorthin gelegt wurde, um den Effekt von „Gefallener von Albaz“ zu aktivieren: Du kannst diese Karte setzen. Du kannst jeden Effekt von „Weiß markiert“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Evoca tramite Fusione 1 Mostro Fusione dal tuo Extra Deck, utilizzando mostri dalla tua mano o Terreno come materiale, compreso un mostro Drago. Puoi anche bandire mostri dal tuo Cimitero come materiale, se usi "Caduto di Albaz" come Materiale da Fusione dalla tua mano, Terreno o bandendo se stesso dal tuo Cimitero. Durante la End Phase, se questa carta è nel Cimitero perché è stata mandata lì per attivare l'effetto di "Caduto di Albaz" in questo turno: puoi Posizionare questa carta. Puoi utilizzare ogni effetto di "Marchiato in Bianco" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Invoque por Invocação-Fusão 1 Monstro de Fusão do seu Deck Adicional, usando monstros da sua mão ou do campo como matéria, incluindo um monstro Dragão. Você também pode banir monstros do seu Cemitério como matéria se você usar "Caído de Arbaz" como Matéria de Fusão da sua mão, do campo ou ao bani-lo do seu Cemitério. Durante a Fase Final, se este card estiver no Cemitério porque foi enviado para lá para ativar o efeito de "Caído de Arbaz" neste turno: você pode Baixar este card. Você só pode usar cada efeito de "Marcado em Branco" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Invoca por Fusión 1 Monstruo de Fusión desde tu Deck Extra, usando monstruos en tu mano o Campo como material, incluyendo un monstruo Dragón. También puedes desterrar monstruos en tu Cementerio como material, si usas "Caído de Albaz" como Material de Fusión en tu mano, Campo o desterrándose a sí mismo desde tu Cementerio. Durante la End Phase, si esta carta está en el Cementerio porque fue mandada allí para activar el efecto de "Caído de Albaz" este turno: puedes Colocar esta carta. Sólo puedes usar cada efecto de "Señalado en Blanco" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の手札・フィールドから、融合モンスターカードによって決められた、ドラゴン族モンスターを含む融合素材モンスターを墓地へ送り、その融合モンスター１体を ＥＸ デッキから融合召喚する。自分の「アルバスの落胤」を融合素材とする場合、自分の墓地のモンスターを除外して融合素材とする事もできる。②：このカードが「アルバスの落胤」の効果を発動するために墓地へ送られたターンのエンドフェイズに発動できる。このカードを自分フィールドにセットする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신의 패 / 필드에서, 융합 몬스터 카드에 기재된, 드래곤족 몬스터를 포함하는 융합 소재 몬스터를 묘지로 보내고, 그 융합 몬스터 1장을 엑스트라 덱에서 융합 소환한다. 자신의 "알버스의 낙윤"을 융합 소재로 할 경우, 자신 묘지의 몬스터를 제외하고 융합 소재로 할 수도 있다. ②: 이 카드가 "알버스의 낙윤"의 효과를 발동하기 위해 묘지로 보내진 턴의 엔드 페이즈에 발동할 수 있다. 이 카드를 자신 필드에 세트한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2021-06-03 LIOV-EN055 Lightning Overdrive Super Rare 2022-04-14 SDAZ-EN022 Structure Deck: Albaz Strike Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2021-06-03 LIOV-FR055 Lightning Overdrive Foudre Amplifiée Super Rare 2022-04-14 SDAZ-FR022 Structure Deck: Albaz Strike Deck de Structure : l'Assaut d'Albaz Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2021-06-03 LIOV-DE055 Lightning Overdrive Lightning Overdrive Super Rare 2022-04-14 SDAZ-DE022 Structure Deck: Albaz Strike Structure Deck: Albaz Strike Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2021-06-03 LIOV-IT055 Lightning Overdrive Iperattività Fulmine Super Rare 2022-04-14 SDAZ-IT022 Structure Deck: Albaz Strike Structure Deck: Attacco di Albaz Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2021-06-03 LIOV-PT055 Lightning Overdrive Exaustão Relâmpago Super Rare 2022-04-14 SDAZ-PT022 Structure Deck: Albaz Strike Deck Estrutural: Golpe de Arbaz Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2021-06-03 LIOV-SP055 Lightning Overdrive Furia de Relámpagos Super Rare 2022-04-14 SDAZ-SP022 Structure Deck: Albaz Strike Baraja de Estructura: El Ataque de Albaz Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2021-01-16 LIOV-JP055 Lightning Overdrive ライトニング・オーバードライブ Super Rare 2021-01-16 LIOV-JP055 Lightning Overdrive ライトニング・オーバードライブ Secret Rare 2021-01-16 LIOV-JP055 Lightning Overdrive ライトニング・オーバードライブ Prismatic Secret Rare 2021-01-16 LIOV-JP055 Lightning Overdrive +1 Bonus Pack ライトニング オーバードライブ＋１ボーナスパック Super Rare 2021-01-16 LIOV-JP055 Lightning Overdrive +1 Bonus Pack ライトニング オーバードライブ＋１ボーナスパック Prismatic Secret Rare 2021-12-04 SD43-JP022 Structure Deck: Alba Strike ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ ＡＬＢＡ ＳＴＲＩＫＥ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2021-04-16 LIOV-KR055 Lightning Overdrive 라이트닝 오버드라이브 Super Rare 2021-04-16 LIOV-KR055 Lightning Overdrive 라이트닝 오버드라이브 Secret Rare 2021-04-16 LIOV-KR055 Lightning Overdrive 라이트닝 오버드라이브 Prismatic Secret Rare LIOV-KR055 Lightning Overdrive +1 Bonus Pack 라이트닝 오버드라이브 스페셜 팩 Super Rare LIOV-KR055 Lightning Overdrive +1 Bonus Pack 라이트닝 오버드라이브 스페셜 팩 Prismatic Secret Rare 2022-03-16 SD43-KR022 Structure Deck: Alba Strike STRUCTURE   DECK  -알버스트라이크- Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Fusion Monster 
+ Dragon 
+ Fallen of Albaz 
+ 
+ Archetypes  and  series   
+ Branded 
+ 
+ Actions  
+ Sends from your hand to your Graveyard 
+ Sends from your field to your Graveyard 
+ Uses cards in the hand as Fusion Materials 
+ Uses cards on the player's field as Fusion Materials 
+ Uses cards in the player's Graveyard as Fusion Materials 
+ Activates from your Graveyard 
+ Sets itself from your Graveyard 
+ 
+ Summoning  categories  
+ Performs a Fusion Summon 
+ Special Summons from your Extra Deck 
+ 
+ Banished  categories  
+ Banishes from your Graveyard 
+ Banishes Fusion Materials used in a Fusion Summon 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 16016 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Branded " 「 烙 印 」 Members 
+ Albion the Branded Dragon 
+ Branded Banishment Branded Beast Branded Bond Branded Disciple Branded Expulsion Branded Fusion Branded Loss Branded Lost Branded Opening Branded Regained Branded Retribution Branded Sword Branded in Central Dogmatika Branded in High Spirits Branded in Red Branded in White Despia, Theater of the Branded Inevitably Branded Judgment of the Branded Light of the Branded Screams of the Branded 
+ Support 
+ Albion the Branded Dragon Albion the Shrouded Dragon Aluber the Jester of Despia The Bystial Lubellion Bystial Saronir Despian Tragedy Springans Kitt 
+ Branded Beast 
+ Related 
+ Alba-Lenatus the Abyss Dragon Albaz the Ashen Fallen of Albaz Lubellion the Searing Dragon Titaniklad the Ash Dragon 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/87/BrandedinWhite-SDAZ-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20220506002324', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

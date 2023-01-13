@@ -1,0 +1,135 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Ancient_Gear_Golem
+
+
+ Ancient Gear Golem 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Anime Yu-Gi-Oh! BAM 
+ 
+ Contents 
+ 
+ 1   English 
+ 2   Portuguese 
+ 3   Spanish 
+ 4   Japanese 
+ 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ This card cannot be Special Summoned.  When this card attacks with an ATK that is higher than the DEF of  a Defense Position monster, inflict the difference as Battle Damage to your  opponent's Life Points . If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. 
+ This card cannot  be Special Summoned.  During battle between  this  attacking  card  and  a  Defense Position monster  whose DEF is lower than the ATK of this card ,  inflict  the difference as  Battle Damage to your  opponent . If this card attacks, your opponent cannot activate any Spell  or  Trap Cards until the end of the Damage Step. 
+ Cannot  be Special Summoned.  If  this card  attacks  a Defense Position monster, inflict  piercing   Battle Damage  to your opponent. If this card attacks, your opponent cannot activate any Spell / Trap Cards until the end of the Damage Step. 
+ 
+ 
+       TLM-EN006 The Lost Millennium     
+       DR3-EN186 Dark Revelation Volume 3     
+       BP01-EN011 Battle Pack: Epic Dawn     
+ 
+ 
+ Third erratum 
+ Fourth erratum   
+ 
+ 
+ Cannot be Special Summoned. If this card attacks a Defense Position monster, inflict piercing  battle damage  to your opponent .  If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. 
+ Cannot be Special Summoned.  If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.  If this card attacks a Defense Position monster, inflict piercing battle damage. 
+ 
+ 
+         BP02-EN035 Battle Pack 2: War of the Giants     
+         LED2-EN034 Legendary Duelists: Ancient Millennium     
+ 
+ 
+ Portuguese 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ Golem  Engrenagem Ancião 
+ Golem  do Mecanismo Antigo 
+ Golem do Mecanismo Antigo 
+ 
+ 
+ Este card   não  pode ser  Invocado  por Invocação-Especial.  Quando  este card  ataca   com um ATK superior a DEF do  monstro em Posição de Defesa,  inflija a diferença como  dano de  combate aos Life Points  do seu  adversário . Se este card atacar,  o  seu  adversário  não pode ativar Cards de Magia  ou  Armadilha até ao final da  Damage Step . 
+ Não  pode ser  Invocar  por Invocação-Especial.  Se  este card  atacar   um  monstro em Posição de Defesa,  cause  dano de  batalha perfurante  ao  seu  oponente .  Se este card atacar, seu  oponente  não pode ativar  quaisquer  Cards de Magia / Armadilha até o final da  Etapa de Dano . 
+ Não pode ser Invocado por Invocação-Especial.  Se este card atacar, seu oponente não pode ativar quaisquer Cards de Magia/Armadilha até o final da Etapa de Dano.  Se este card atacar um monstro em Posição de Defesa, cause dano de batalha perfurante. 
+ 
+ 
+         TLM-PT006 The Lost Millennium     
+         BP02-PT035 Battle Pack 2: War of the Giants     
+         LED2-PT034 Legendary Duelists: Ancient Millennium     
+ 
+ 
+ Spanish 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ Gólem  de Mecanismo Antiguo 
+ Golem  de Mecanismo Antiguo 
+ Golem de Mecanismo Antiguo 
+ 
+ 
+ Esta carta no puede ser Invocada  mediante una Invocación  Especial. Cuando esta carta ataca con un ATK superior a la DEF de un monstruo en Posición de Defensa, inflige la diferencia como daño de batalla a los Life Points de tu adversairo. Si esta carta ataca, tu adversario no puede activar ninguna Carta Mágica o de Trampa hasta el final del Damage Step. 
+ Esta carta  no  puede ser  Invocada   de  modo  Especial.  Durante una batalla entre este monstruo atacante y  un monstruo en Posición de Defensa  cuya DEF sea menor que el ATK de esta carta , inflige  la diferencia como  daño de batalla a tu adversairo. Si esta carta ataca, tu adversario no puede activar  ninguna  Carta Mágica  o  de Trampa hasta el final del Damage Step. 
+ No  puede ser  Invocado  de  Modo  Especial.  Si esta carta ataca a  un monstruo en Posición de Defensa, inflige daño de batalla  de penetración  a tu adversairo. Si esta carta ataca, tu adversairo no puede activar  Cartas Mágicas / de Trampa  hasta el final del Damage Step . 
+ 
+ 
+         TLM-SP006 The Lost Millennium     
+         SD10-SP012 Structure Deck: Machine Re-Volt     
+         BP01-SP011 Battle Pack: Epic Dawn     
+ 
+ 
+ Third erratum 
+ Fourth erratum   
+ 
+ 
+ No puede ser Invocado de Modo Especial. Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración  a tu adversairo .  Si esta carta ataca,  hasta el final del Damage Step  tu adversairo no puede activar Cartas Mágicas/de Trampa. 
+ No puede ser Invocado de Modo Especial.  Si esta carta ataca, hasta el final del Damage Step tu adversario no puede activar ninguna Carta Mágica/de Trampa.  Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración. 
+ 
+ 
+         SR03-SP005 Machine Reactor Structure Deck     
+         LED2-SP034 Legendary Duelists: Ancient Millennium     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ 【機械族 ・ 効果】 
+ 【機械族 ／ 効果】 
+ 
+ 
+ このカードは特殊召喚できない。このカードが守備表示モンスターを攻撃した 時 、 このカードの攻撃力が守備表示モンスターの守備力を越えていれば、 その 数値 だけ 相手ライフに 戦闘ダメージを与える。 このカードが攻撃する場合、相手はダメージステップ終了時まで魔法・罠カードを発動できない。 
+ このカードは特殊召喚できない。 ①：このカードが攻撃する場合、相手はダメージステップ終了時まで魔法・罠カードを発動できない。②： このカードが守備表示モンスターを攻撃した 場合 、その 守備力を攻撃力が越えた分 だけ戦闘ダメージを与える。 
+ 
+ 
+         TLM-JP006 The Lost Millennium     
+         SR03-JP005 Structure Deck R: Machine Dragon Re-Volt     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/9d/AncientGearGolem-TLM-EN-UR-1E.jpg/revision/latest/scale-to-width-down/180?cb=20061227034820', 'https://static.wikia.nocookie.net/yugioh/images/3/37/AncientGearGolem-DR3-EN-UR-UE.png/revision/latest/scale-to-width-down/180?cb=20080522184017', 'https://static.wikia.nocookie.net/yugioh/images/5/58/AncientGearGolem-BP01-EN-R-1E.png/revision/latest/scale-to-width-down/180?cb=20120616112920', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/5b/AncientGearGolem-BP02-EN-MSR-1E.png/revision/latest/scale-to-width-down/180?cb=20130702163701', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d3/AncientGearGolem-LED2-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20180225021430', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e4/AncientGearGolem-TLM-PT-UR-UE.png/revision/latest/scale-to-width-down/180?cb=20140612195243', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/06/AncientGearGolem-BP02-PT-R-1E.png/revision/latest/scale-to-width-down/180?cb=20140613115834', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e5/Back-EN.png/revision/latest/scale-to-width-down/180?cb=20100726082133', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2e/AncientGearGolem-TLM-SP-UR-1E.png/revision/latest/scale-to-width-down/180?cb=20150609162153', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e1/AncientGearGolem-SD10-SP-C-1E.png/revision/latest/scale-to-width-down/180?cb=20141025003819', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/8b/AncientGearGolem-BP01-SP-R-1E.png/revision/latest/scale-to-width-down/180?cb=20220310065819', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2e/AncientGearGolem-SR03-SP-C-1E.png/revision/latest/scale-to-width-down/180?cb=20180116163137', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e5/Back-EN.png/revision/latest/scale-to-width-down/180?cb=20100726082133', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/df/AncientGearGolem-TLM-JP-UR.jpg/revision/latest/scale-to-width-down/180?cb=20070211195545', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e1/AncientGearGolem-SR03-JP-C.png/revision/latest/scale-to-width-down/180?cb=20160923150949']
+Categories: Card Errata, Cards with 4 errata, Cards with name errata, Cards with 2 errata, Cards with Portuguese errata, Cards with Spanish errata, Cards with card type errata, Cards with 1 erratum, Cards with Japanese errata

@@ -1,0 +1,108 @@
+Link: https://yugioh.fandom.com/wiki/Link_Satellite
+
+
+ Link Satellite 
+ 
+ Japanese:   リンク・サテライト 
+ Romaji:   Rinku Sateraito 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Activate  this card by  targeting  1  Link Monster  you  control ; place  Satellite Counters  on this card equal to that  monster 's  Link Rating . When that  monster   leaves the field ,  destroy  this card. Neither player can  declare  an  attack .  Once per turn , during your  End Phase , remove 1 Satellite Counter from this card. When the last Satellite Counter(s) is removed from this card, destroy it.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  093 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ リンク・サテライト 
+ ①：自分フィールドのリンクモンスター１体を対象としてこのカードを発動できる。そのモンスターのリンクマーカーの数だけ、このカードにサテライトカウンターを置く。対象のモンスターがフィールドから離れた時にこのカードは破壊される。②：このカードが魔法＆罠ゾーンに存在する限り、お互いのプレイヤーは攻撃宣言できない。③：自分エンドフェイズに、このカードのサテライトカウンターを１つ取り除く。このカードのサテライトカウンターが無くなった時にこのカードは破壊される。 
+ 
+ 
+ Rinku Sateraito 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Link Monster 
+ 
+ Archetypes  and  series   
+ Link  
+ 
+ Counters   
+ Satellite Counter 
+ Places counters on itself 
+ Removes counters from itself 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ Attack  categories  
+ Prevents attacks 
+ 
+ Miscellaneous  
+ Requires control of specific Monster card type 
+ Limited activations 
+ 
+ v e 
+ Link  リンク a   m   Members 
+ Castle Link Dimension Link Link Atrocity Link Back Link Bound Link Bumper Link Burst Link Cancel Link Coin Link Devotee Link Disciple Link Drive Link Fire's Return Link Infra-Flier Link Pressure Link Processing Failure Link Protection Link Ration Link Recovery Link Restart Link Restart Link Rush Link Satellite Link Short Link Spider Link Surge Counter Link Token Link Turret Linkbelt Wall Dragon Linkross Linkslayer Linkuriboh Packet Link Urgent Link Zero Extra Link 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/6a/LinkSatellite-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20190313134900', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/18?cb=20120920115206']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

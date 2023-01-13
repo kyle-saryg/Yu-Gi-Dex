@@ -1,0 +1,94 @@
+Link: https://yugioh.fandom.com/wiki/Armament_Reincarnation
+
+
+ Armament Reincarnation 
+ 
+ Japanese:   武装転生 
+ Kana:   ぶそうてんせい 
+ Romaji:   Busō Tensei 
+ 
+ 
+ 
+ 
+ en 
+ ja 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell 
+ 
+ 
+ 
+ All  Equip Cards  in the  Graveyard  appear on the  field  as  monsters  with 500  ATK  and 500  DEF . The  effects  of those cards become the special abilities of the monsters. 
+ 
+ Viz Media  lore<nomobile> ? :</nomobile> <mobile>(The English manga by Viz Media sometimes uses lores which are inconsistent with the Japanese lore or how the card worked.):</mobile> Take  Equip Spell Cards  and  Equip Trap Cards  from your  Graveyard , and  Special Summon  as many of them as possible as  Monster Cards  ( ATK  500/ DEF  500). Each of these cards will apply its equipment  effect  on itself if possible.
+ 
+ 
+ Appearances
+ 
+ 
+ 
+ 
+   R : Yu-Gi-Oh! R - Duel Round 018|018 Property "Yu-Gi-Oh R chapter appearances (linked)" (as page type) with input value "Yu-Gi-Oh! R - Duel Round 018|018" contains invalid characters or is incomplete and therefore can cause unexpected results during a query or annotation process. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Manga cards (Galleries:  R ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 武 装 転 生 
+ 墓地にあるすべての装備カードは攻撃力５００守備力５００のモンスターとして場に現れる。カードの効果はそのモンスターの特殊能力となる 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Gekko Tenma 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Equip Card 
+ 
+ Monster / Spell / Trap  categories  
+ Treats Spell Cards as monsters 
+ Treats Trap Cards as monsters 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/36/ArmamentReincarnation-EN-Manga-R.jpg/revision/latest/scale-to-width-down/200?cb=20150315233419', 'https://static.wikia.nocookie.net/yugioh/images/6/65/ArmamentReincarnation-JP-Manga-R-CA.png/revision/latest?cb=20160422055554', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Manga cards, Manga cards with no OCG/TCG counterpart

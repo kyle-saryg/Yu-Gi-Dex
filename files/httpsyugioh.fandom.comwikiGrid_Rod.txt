@@ -1,0 +1,336 @@
+Link: https://yugioh.fandom.com/wiki/Grid_Rod
+
+
+ 
+ 
+ Grid Rod グリッド・ロッド 
+ 
+ English 
+Grid Rod 
+ French 
+ Tige Réseau Check translation 
+ German 
+ Roststab Check translation 
+ Italian 
+ Asta Rete Check translation 
+ Korean 
+ 그리드 로드 Check translation 
+ Portuguese 
+ Bastão Grade Check translation 
+ Spanish 
+ Barra de Red Check translation 
+ Japanese 
+ グリッド・ロッド Check translation 
+ Japanese ( rōmaji ) 
+Guriddo Roddo 
+ Card type 
+ Spell   
+ Property 
+ Equip   
+ Passcode 
+ 30552375 
+ Card effect types 
+ 
+ 
+ Condition 
+ Continuous-like 
+ Trigger-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Equip  only to a  Cyberse   monster  you  control . It gains 300  ATK , it is  unaffected  by your opponent's  card effects , also the first time it would be  destroyed by battle  each  turn , it is not  destroyed . If this  face-up  card on the  field  is destroyed and  sent  to the  GY : You can  activate  this effect; Cyberse monsters you currently control cannot be destroyed by battle or card effects until the end of this turn. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Équipable uniquement à un monstre Cyberse que vous contrôlez. Il gagne 300 ATK, il n'est pas affecté par des effets de carte de votre adversaire, et aussi, la première fois qu'il va être détruit au combat chaque tour, il n'est pas détruit. Si cette carte face recto sur le Terrain est détruite et envoyée au Cimetière : vous pouvez activer cet effet ; jusqu'à la fin de ce tour, les monstres Cyberse que vous contrôlez actuellement ne peuvent être détruits ni au combat ni par des effets de carte. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Rüste nur ein Cyberse-Monster, das du kontrollierst, mit dieser Karte aus. Es erhält 300 ATK, bleibt von den Karteneffekten deines Gegners unberührt, zusätzlich wird es das erste Mal, dass es in jedem Spielzug durch Kampf zerstört würde, nicht zerstört. Falls diese offene Karte auf dem Spielfeld zerstört und auf den Friedhof gelegt wird: Du kannst diesen Effekt aktivieren; Cyberse-Monster, die du derzeit kontrollierst, können bis zum Ende dieses Spielzugs weder durch Kampf noch durch Karteneffekte zerstört werden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Equipaggia solo a un mostro Cyberso che controlli. Esso guadagna 300 ATK, è immune agli effetti delle carte del tuo avversario, inoltre la prima volta che sta per essere distrutto in battaglia ogni turno, non viene distrutto. Se questa carta scoperta sul Terreno viene distrutta e mandata al Cimitero: puoi attivare questo effetto; i mostri Cyberso che controlli attualmente non possono essere distrutti in battaglia o dagli effetti delle carte fino alla fine di questo turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Só pode ser equipado a um monstro Ciberso que você controla. Ele ganha 300 de ATK, não é afetado pelos efeitos de card do seu oponente e, além disso, na primeira vez que ele seria destruído em batalha a cada turno, ele não é destruído. Se este card no campo com a face para cima for destruído e enviado para o Cemitério: você pode ativar este efeito; até o final deste turno, monstros Ciberso que você controla atualmente não podem ser destruídos em batalha ou por efeitos de card. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Sólo puedes equipar esta carta a un monstruo Ciberso que controles. Éste gana 300 ATK, no es afectado por efectos de cartas de tu adversario y además, la primera vez que fuera a ser destruido en batalla cada turno, no es destruido. Si esta carta boca arriba en el Campo es destruida y mandada al Cementerio: puedes activar este efecto; hasta el final de este turno, los monstruos Ciberso que controlas en este momento no pueden ser destruidos en batalla o por efectos de cartas. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 自分フィールドのサイバース族モンスターにのみ装備可能。①：装備モンスターの攻撃力は３００アップし、相手の効果を受けず、１ターンに１度だけ戦闘では破壊されない。②：フィールドの表側表示のこのカードが破壊され墓地へ送られた場合に発動できる。自分フィールドの全てのサイバース族モンスターは、ターン終了時まで戦闘・効果では破壊されない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신 필드의 사이버스족 몬스터에만 장착 가능. ①: 장착 몬스터의 공격력은 300 올리고, 상대 효과를 받지 않으며, 1턴에 1번만 전투로는 파괴되지 않는다. ②: 필드의 앞면 표시의 이 카드가 파괴되어 묘지로 보내졌을 경우에 발동할 수 있다. 자신 필드의 모든 사이버스족 몬스터는, 턴 종료시까지 전투 / 효과로는 파괴되지 않는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2019-07-25  
+ RIRA-EN052   
+ Rising Rampage 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2019-07-25  
+ RIRA-FR052   
+ Rising Rampage 
+ Le Soulèvement de la Fureur  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2019-07-25  
+ RIRA-DE052   
+ Rising Rampage 
+ Rising Rampage  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2019-07-25  
+ RIRA-IT052   
+ Rising Rampage 
+ Furia Crescente  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2019-07-25  
+ RIRA-PT052   
+ Rising Rampage 
+ Investida Crescente  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2019-07-25  
+ RIRA-SP052   
+ Rising Rampage 
+ Alzamiento de la Devastación  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2019-04-13  
+ RIRA-JP052   
+ Rising Rampage 
+ ライジング・ランペイジ  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Cyberse 
+ 
+ Actions  
+ Activates if destroyed by card effect 
+ Activates from your Graveyard 
+ 
+ Stat changes  
+ Equipped gains ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Unaffected by the opponent's card effects 
+ Cannot be destroyed by card effects 
+ 
+ Attack  categories  
+ Equipped cannot be destroyed by battle 
+ Cannot be destroyed by battle 
+ 
+ Miscellaneous  
+ Equips only to a specific target 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14500 ( ja  ( rulings )   en   fr   de   it   pt   es   ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Grid Rod " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e8/GridRod-RIRA-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20190811072614', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/9/90/Equip.svg/revision/latest/scale-to-width-down/28?cb=20120920115844']
+Categories: Duel Monsters cards, TCG cards, OCG cards

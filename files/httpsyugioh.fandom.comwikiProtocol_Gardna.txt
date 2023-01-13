@@ -1,0 +1,362 @@
+Link: https://yugioh.fandom.com/wiki/Protocol_Gardna
+
+
+ 
+ 
+ 
+ 
+ Protocol Gardna プロトコル・ガードナー 
+ 
+ English 
+Protocol Gardna 
+ French 
+ Interface Gardna Check translation 
+ German 
+ Protokoll-Wache Check translation 
+ Italian 
+ Gardna Protocollo Check translation 
+ Korean 
+ 프로토콜 가드너 Check translation 
+ Portuguese 
+ Gardna Protocolo Check translation 
+ Spanish 
+ Gardna Protocolo Check translation 
+ Japanese 
+ プロトコル・ガードナー Check translation 
+ Japanese ( rōmaji ) 
+Purotokoru Gādonā 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Cyberse  /  Link  /  Effect 
+ Link Arrows 
+ Left   ,  Right   
+ ATK  /  LINK 
+ 1000  /  2 
+ Passcode 
+ 05329790 
+ Materials 
+2 Cyberse monsters 
+ Card effect types 
+ 
+ 
+ Continuous 
+ Continuous Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+2  Cyberse   monsters Your opponent's monsters cannot  target  monsters this card  points to  for  attacks . The first time this card would be  destroyed by battle  each  turn , it is not  destroyed , also you take no  battle damage  from that  battle . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 2 monstres Cyberse Les monstres de votre adversaire ne peuvent pas cibler de monstres pointés par cette carte avec une attaque. La première fois que cette carte va être détruite au combat chaque tour, elle n'est pas détruite, et vous ne recevez aucun dommage de combat de ce combat. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 2 Cyberse-Monster Monster deines Gegners können Monster, auf die diese Karte zeigt, nicht als Angriffsziel wählen. Das erste Mal, dass diese Karte in jedem Spielzug durch Kampf zerstört würde, wird sie nicht zerstört und du erhältst keinen Kampfschaden aus dem Kampf. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 2 mostri Cyberso I mostri del tuo avversario non possono scegliere come bersaglio i mostri puntati da questa carta per gli attacchi. La prima volta che questa carta sta per essere distrutta in battaglia ogni turno, non viene distrutta, e tu non subisci danno da combattimento da quella battaglia. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 2 monstros Ciberso Os monstros do seu oponente não podem escolher monstros para os quais este card apontar como alvo de ataques. Na primeira vez que este card seria destruído em batalha a cada turno, ele não é destruído e você não sofre dano de batalha dessa batalha. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 2 monstruos Ciberso Los monstruos de tu adversario no pueden seleccionar monstruos a los que apunte esta carta para ataques. La primera vez que esta carta fuera a ser destruida en batalla cada turno, no es destruida, y no recibes daño de batalla de esa batalla. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ サイバース族モンスター２体 ①：相手はこのカードのリンク先のモンスターを攻撃対象に選択できない。②：このカードは１ターンに１度だけ戦闘では破壊されない。その際、自分が受ける戦闘ダメージは０になる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 사이버스족 몬스터 2장 ①: 상대는 이 카드의 링크 앞의 몬스터를 공격 대상으로 선택할 수 없다. ②: 이 카드는 1턴에 1번만 전투로는 파괴되지 않는다. 그때, 자신이 받는 전투 데미지는 0 이 된다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2019-10-24  
+ CHIM-EN038   
+ Chaos Impact 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2019-10-24  
+ CHIM-FR038   
+ Chaos Impact 
+ Impact du Chaos  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2019-10-24  
+ CHIM-DE038   
+ Chaos Impact 
+ Chaos Impact  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2019-10-24  
+ CHIM-IT038   
+ Chaos Impact 
+ Impatto del Chaos  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2019-10-24  
+ CHIM-PT038   
+ Chaos Impact 
+ Impacto do Caos  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2019-10-24  
+ CHIM-SP038   
+ Chaos Impact 
+ Impacto del Caos  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2019-07-13  
+ CHIM-JP038   
+ Chaos Impact 
+ カオス・インパクト  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2019-10-23  
+ CHIM-KR038   
+ Chaos Impact 
+ 카오스 임팩트  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Cyberse 
+ 
+ Summoning  categories  
+ 2 Link Materials 
+ Requires Type specific Link Materials 
+ 
+ Attack  categories  
+ Manages attack targets 
+ Cannot be destroyed by battle 
+ 
+ LP   
+ Prevents battle damage 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14665 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Protocol Gardna " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e6/ProtocolGardna-CHIM-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20191115045742', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/2/25/LM-Left.png/revision/latest?cb=20170326055237', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

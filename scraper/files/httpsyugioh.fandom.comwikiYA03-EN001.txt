@@ -1,0 +1,308 @@
+Link: https://yugioh.fandom.com/wiki/YA03-EN001
+
+
+ 
+ 
+ D/D/D Destiny King Zero Laplace Ｄ Ｄ Ｄ 運 命 王 ゼロ・ラプラス 
+ 
+ English 
+D/D/D Destiny King Zero Laplace 
+ French 
+ D/D/D Roi de la Destinée Zéro Laplace Check translation 
+ German 
+ D/D/D-Schicksalskönig Zero Laplace Check translation 
+ Italian 
+ D/D/D Destino Re Zero Laplace Check translation 
+ Korean 
+ D D D  운명의 왕 제로 라플라스 Check translation 
+ Portuguese 
+ D/D/D Zero Laplace, o Rei do Destino Check translation 
+ Spanish 
+ D/D/D Laplace Cero, Rey del Destino Check translation 
+ Japanese (kana) 
+ ディーディーディーうんめいおうゼロ・ラプラス Check translation 
+ Japanese (base) 
+ ＤＤＤ運命王ゼロ・ラプラス Check translation 
+ Japanese ( rōmaji ) 
+Dīdīdī Unmeiō Zero Rapurasu 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Fiend  /  Pendulum  /  Effect 
+ Level 
+ 10   
+ Pendulum Scale 
+   1 
+ ATK  /  DEF 
+ ?  /  0 
+ Passcode 
+ 21686473 
+ Card effect types 
+ Pendulum Effect  
+ Ignition-like 
+ Condition 
+ Monster Effect 
+ Unclassified 
+ Trigger 
+ Continuous 
+ Continuous Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Pendulum Effect : During your  Main Phase : You can  add  1  face-up  " D/D/D "  Pendulum Monster  from your  Extra Deck  to your  hand , except "D/D/D Destiny King Zero Laplace". You can only use this  effect  of "D/D/D Destiny King Zero Laplace"  once per turn . Monster Effect : You can  Special Summon  this card (from your  hand ) by  Tributing  1 " D/D/D "  monster . Before  damage calculation , if this card  battles  an opponent's monster: You can  activate  this  effect ; this card's  ATK  becomes double that opponent's monster's  original ATK  until the end of the  Damage Step . If this card  attacks  a  Defense Position  monster, inflict  piercing   battle damage . The first time this card would be  destroyed by battle  each  turn , it is not  destroyed , also you take no battle damage from that battle. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Effet Pendule  
+ Durant votre Main Phase : vous pouvez ajouter 1 Monstre Pendule "D/D/D" face recto ("D/D/D Roi de la Destinée Zéro Laplace" exclu) depuis votre Extra Deck à votre main. Vous ne pouvez utiliser cet effet de "D/D/D Roi de la Destinée Zéro Laplace" qu'une fois par tour. 
+ Effet de Monstre  
+   Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Sacrifiant 1 monstre "D/D/D". Avant le calcul des dommages, si cette carte combat un monstre de l'adversaire : vous pouvez activer cet effet ; jusqu'à la fin de la Damage Step, l'ATK de cette carte devient le double de l'ATK d'origine du monstre de l'adversaire. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants. La première fois que cette carte va être détruite au combat chaque tour, elle n'est pas détruite, et vous ne recevez aucun dommage de combat de ce combat. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Pendeleffekt 
+ Während deiner Main Phase: Du kannst deiner Hand 1 offenes „D/D/D“-Pendelmonster von deinem Extra Deck hinzufügen, außer „D/D/D-Schicksalskönig Zero Laplace“. Du kannst diesen Effekt von „D/D/D-Schicksalskönig Zero Laplace“ nur einmal pro Spielzug verwenden. 
+ Monstereffekt 
+   Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 1 „D/D/D“-Monster als Tribut anbietest. Vor der Schadensberechnung, falls diese Karte gegen ein Monster eines Gegners kämpft: Du kannst diesen Effekt aktivieren; die ATK dieser Karte werden bis zum Ende des Damage Steps zum Doppelten der Grund-ATK des Monsters des Gegners. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge durchschlagenden Kampfschaden zu. Das erste Mal in jedem Spielzug, dass diese Karte durch Kampf zerstört würde, wird sie nicht zerstört und du erhältst keinen Kampfschaden aus dem Kampf. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Effetto Pendulum 
+ Durante la tua Main Phase: puoi aggiungere 1 Mostro Pendulum "D/D/D" scoperto dal tuo Extra Deck alla tua mano, eccetto "D/D/D Destino Re Zero Laplace". Puoi utilizzare questo effetto di "D/D/D Destino Re Zero Laplace" una sola volta per turno. 
+ Effetto Mostro 
+   Puoi Evocare Specialmente questa carta (dalla tua mano) offrendo come Tributo 1 mostro "D/D/D". Prima del calcolo dei danni, se questa carta combatte con un mostro dell'avversario: puoi attivare questo effetto; l'ATK di questa carta diventa il doppio dell'ATK originale di quel mostro fino alla fine del Damage Step. Se questa carta attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante. La prima volta che questa carta sta per essere distrutta in battaglia ogni turno, non viene distrutta, e tu non subisci danno da combattimento da quella battaglia. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Efeito de Pêndulo 
+ Durante sua Fase Principal: você pode adicionar 1 Monstro Pêndulo "D/D/D" com a face para cima do seu Deck Adicional à sua mão, exceto "D/D/D Zero Laplace, o Rei do Destino". Você só pode usar este efeito de "D/D/D Zero Laplace, o Rei do Destino" uma vez por turno. 
+ Efeito de Monstro 
+   Você pode Invocar este card por Invocação-Especial (da sua mão) ao oferecer como Tributo 1 monstro "D/D/D". Antes do cálculo de dano, se este card batalhar um monstro do oponente: você pode ativar este efeito; até o final da Etapa de Dano, o ATK deste card se torna o dobro do ATK original desse monstro do oponente. Se este card atacar um monstro em Posição de Defesa, cause dano de batalha perfurante. Na primeira vez que este card seria destruído em batalha a cada turno, ele não é destruído, e você não sofre dano de batalha dessa batalha. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Efecto de Péndulo 
+ Durante tu Main Phase: puedes añadir a tu mano 1 Monstruo de Péndulo "D/D/D" boca arriba en tu Deck Extra, excepto "D/D/D Laplace Cero, Rey del Destino". Sólo puedes usar este efecto de "D/D/D Laplace Cero, Rey del Destino" una vez por turno. 
+ Efecto de Monstruo 
+   Puedes Invocar esta carta de Modo Especial (desde tu mano) Sacrificando 1 monstruo "D/D/D". Antes del cálculo de daño, si esta carta batalla con un monstruo del adversario: puedes activar este efecto; hasta el final del Damage Step, el ATK de esta carta se convierte en el doble del ATK original de ese monstruo del adversario. Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración. La primera vez que esta carta fuera a ser destruida en batalla cada turno, no es destruida, y no recibes daño de batalla de esa batalla. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Ｐ 効 果 
+ このカード名の Ｐ 効果は１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。自分の ＥＸ デッキから「ＤＤＤ運命王ゼロ・ラプラス」以外の表側表示の「ＤＤＤ」 Ｐ モンスター１体を選んで手札に加える。 
+ モンスターの 効 果 
+   ①：このカードは自分フィールドの「ＤＤＤ」モンスター１体をリリースして手札から特殊召喚できる。②：このカードが相手モンスターと戦闘を行うダメージ計算前に発動できる。このカードの攻撃力はダメージステップ終了時まで、その相手モンスターの元々の攻撃力の倍になる。③：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。④：このカードは１ターンに１度だけ戦闘では破壊されない。その際、自分が受ける戦闘ダメージは０になる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 펜듈럼 효과 
+ 이 카드명의 펜듈럼 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신 메인 페이즈에 발동할 수 있다. 자신의 엑스트라 덱에서 "DDD(디디디) 운명의 왕 제로 라플라스" 이외의 앞면 표시의 "DDD(디디디)" 펜듈럼 몬스터 1장을 고르고 패에 넣는다. 
+ 몬스터의 효과 
+   ①: 이 카드는 자신 필드의 "DDD(디디디)" 몬스터 1장을 릴리스하고 패에서 특수 소환할 수 있다. ②: 이 카드가 상대 몬스터와 전투를 실행하는 데미지 계산 전에 발동할 수 있다. 이 카드의 공격력은 데미지 스텝 종료시까지, 그 상대 몬스터의 원래 공격력의 배가 된다. ③: 이 카드가 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘은 만큼만 전투 데미지를 준다. ④: 이 카드는 1턴에 1번만 전투로는 파괴되지 않는다. 그때, 자신이 받는 전투 데미지는 0 이 된다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ Release date Card code Set Rarity 2022-05-05 GFP2-EN079 Ghosts From the Past: The 2nd Haunting Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ Release date Card code Set Rarity YA03-EN001 Yu-Gi-Oh! ARC-V Volume 3 promotional card Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2022-05-05 GFP2-FR079 Ghosts From the Past: The 2nd Haunting Fantômes du Passé : La 2e Incarnation Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2022-05-05 GFP2-DE079 Ghosts From the Past: The 2nd Haunting Ghosts From the Past: The 2nd Haunting Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2022-05-05 GFP2-IT079 Ghosts From the Past: The 2nd Haunting Fantasmi Dal Passato : La Seconda Apparizione Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2022-05-05 GFP2-PT079 Ghosts From the Past: The 2nd Haunting Fantasmas Do Passado : A 2ª Assombração Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2022-05-05 GFP2-SP079 Ghosts From the Past: The 2nd Haunting Antasmas Del Pasado : La 2ª Aparición Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2017-04-04 YA03-JP001 Yu-Gi-Oh! ARC-V Volume 3 promotional card 遊☆戯☆王 ＡＲＣ－Ⅴ 第３巻 付録カード Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2018-08-13 PP13-KR027 Premium Pack Vol.13 프리미엄 팩 Vol.13 Normal Parallel Rare 2018-08-13 PP13-KR027 Premium Pack Vol.13 프리미엄 팩 Vol.13 Ultra Rare 2018-08-13 PP13-KR027 Premium Pack Vol.13 프리미엄 팩 Vol.13 Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ D/D 
+ D/D/D 
+ 
+ Supports   archetypes   
+ D/D/D 
+ 
+ Actions  
+ Adds from Extra Deck to hand 
+ Tributes for cost 
+ 
+ Stat changes  
+ Changes own ATK value 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ 
+ Attack  categories  
+ Piercing 
+ Cannot be destroyed by battle 
+ 
+ LP   
+ Prevents battle damage 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 13121 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " D/D/D Destiny King Zero Laplace " pages 
+ 
+ 
+ Manga 
+ 
+ 
+ 
+   
+" D/D " 「 Ｄ Ｄ 」 Members 
+ D/D Ark D/D Berfomet D/D Cerberus D/D Dog D/D Evil D/D Ghost D/D Gryphon D/D Lamia D/D Lilith D/D Necro Slime D/D Nighthowl D/D Orthros D/D Pandora D/D Proud Chevalier D/D Proud Ogre D/D Savant Copernicus D/D Savant Galilei D/D Savant Kepler D/D Savant Newton D/D Savant Nikola D/D Savant Thomas D/D Swirl Slime D/D Vice Typhon D/D/D Abyss King Gilgamesh D/D/D Chaos King Apocalypse D/D/D Cursed King Siegfried D/D/D Destiny King Zero Laplace D/D/D Deviser King Deus Machinex D/D/D Doom King Armageddon D/D/D Dragon King Pendragon D/D/D Dragonbane King Beowulf D/D/D Duo-Dawn King Kali Yuga D/D/D Flame High King Genghis D/D/D Flame King Genghis D/D/D Gust High King Alexander D/D/D Gust King Alexander D/D/D Marksman King Tell D/D/D Oblivion King Abyss Ragnarok D/D/D Oracle King d'Arc D/D/D Rebel King Leonidas D/D/D Stone King Darius D/D/D Super Doom King Bright Armageddon D/D/D Super Doom King Dark Armageddon D/D/D Super Doom King Purple Armageddon D/D/D Supersight King Zero Maxwell D/D/D Supreme King Kaiser D/D/D Vice King Requiem D/D/D Wave High King Caesar D/D/D Wave King Caesar D/D/D Wave Oblivion King Caesar Ragnarok Go! - D/D/D Divine Zero King Rage 
+ D/D Recruits D/D Reroll D/D/D Contract Change D/D/D Headhunt D/D/D Human Resources 
+ Support 
+ D/D Ark D/D Berfomet D/D Cerberus D/D Evil D/D Ghost D/D Gryphon D/D Lamia D/D Lilith D/D Nighthowl D/D Orthros D/D Proud Chevalier D/D Proud Ogre D/D Savant Copernicus D/D Savant Galilei D/D Savant Kepler D/D Savant Newton D/D Savant Nikola D/D Savant Thomas D/D Swirl Slime D/D Vice Typhon D/D/D Abyss King Gilgamesh D/D/D Chaos King Apocalypse D/D/D Cursed King Siegfried D/D/D Doom King Armageddon D/D/D Dragonbane King Beowulf D/D/D Duo-Dawn King Kali Yuga D/D/D Flame High King Genghis D/D/D Flame King Genghis D/D/D Gust High King Alexander D/D/D Gust King Alexander D/D/D Marksman King Tell D/D/D Oblivion King Abyss Ragnarok D/D/D Oracle King d'Arc D/D/D Super Doom King Bright Armageddon D/D/D Super Doom King Dark Armageddon D/D/D Wave High King Caesar D/D/D Wave Oblivion King Caesar Ragnarok Go! - D/D/D Divine Zero King Rage 
+ D/D Recruits D/D Reroll D/D/D Contract Change D/D/D Human Resources Dark Contract with Errors Dark Contract with Patent License Dark Contract with the Eternal Darkness Dark Contract with the Gate Dark Contract with the Swamp King Dark Contract with the Witch Dark Contract with the Yamimakai 
+ 
+   
+" D/D/D " 「 Ｄ Ｄ Ｄ 」 Members 
+ D/D/D Abyss King Gilgamesh D/D/D Chaos King Apocalypse D/D/D Cursed King Siegfried D/D/D Destiny King Zero Laplace D/D/D Deviser King Deus Machinex D/D/D Doom King Armageddon D/D/D Dragon King Pendragon D/D/D Dragonbane King Beowulf D/D/D Duo-Dawn King Kali Yuga D/D/D Flame High King Genghis D/D/D Flame King Genghis D/D/D Gust High King Alexander D/D/D Gust King Alexander D/D/D Marksman King Tell D/D/D Oblivion King Abyss Ragnarok D/D/D Oracle King d'Arc D/D/D Rebel King Leonidas D/D/D Stone King Darius D/D/D Super Doom King Bright Armageddon D/D/D Super Doom King Dark Armageddon D/D/D Super Doom King Purple Armageddon D/D/D Supersight King Zero Maxwell D/D/D Supreme King Kaiser D/D/D Vice King Requiem D/D/D Wave High King Caesar D/D/D Wave King Caesar D/D/D Wave Oblivion King Caesar Ragnarok Go! - D/D/D Divine Zero King Rage 
+ D/D/D Contract Change D/D/D Headhunt D/D/D Human Resources 
+ Support 
+ D/D Necro Slime D/D Savant Nikola D/D Savant Thomas D/D Swirl Slime D/D Vice Typhon D/D/D Destiny King Zero Laplace D/D/D Deviser King Deus Machinex D/D/D Dragonbane King Beowulf D/D/D Gust High King Alexander D/D/D Marksman King Tell D/D/D Oblivion King Abyss Ragnarok D/D/D Super Doom King Bright Armageddon D/D/D Super Doom King Dark Armageddon D/D/D Super Doom King Purple Armageddon D/D/D Vice King Requiem D/D/D Wave Oblivion King Caesar Ragnarok 
+ D/D/D Contract Change D/D/D Headhunt Dark Contract with Patent License Dark Contract with the Entities Forbidden Dark Contract with the Swamp King 
+ Related 
+ Guardian Angel Joan 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/7a/DDDDestinyKingZeroLaplace-GFP2-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20220608003052', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

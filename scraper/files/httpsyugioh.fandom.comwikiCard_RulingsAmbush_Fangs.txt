@@ -1,0 +1,72 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Ambush_Fangs
+
+
+ Ambush Fangs 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Contents 
+ 
+ 1   OCG Rulings 
+ 
+ 1.1   Mentions in Other Rulings 
+ 
+ 
+ 2   Previously Official Rulings 
+ 3   References 
+ 
+ 
+ OCG Rulings 
+ The effect  targets  one face-up monster your opponent controls. [1] 
+ Venom Counters  cannot be placed on a  face-down  monster, even by effects like those of " Venom Snake ", " Venom Boa ", " Venom Serpent ", " Ambush Fangs ", etc. [2] 
+ Mentions in Other Rulings 
+ When a monster's attack is negated by " Magic Cylinder ", the monster is not treated as having declared an attack, so the effect of " Red Dragon Archfiend " will still destroy it during the End Phase. [3] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [4]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [5] [6] [7] [8] [9] [10] [11] [12] [13] 
+ 
+ This card’s effect to “…end the  Battle Phase .” causes play to enter the  End Step  of the  Battle Phase . The  Venom Counter  is placed on the monster that attacked, then any other effects that happen “at the end of the  Battle Phase ” are  resolved . 
+ If you  activate  " Ambush Fangs ", and the attacking monster's attack is negated by a card chained to " Ambush Fangs  (" Negate Attack ", etc.), you cannot place a  Venom Counter  on the monster that attacked. 
+ 
+ 
+ 
+ References 
+ 
+ ↑   Konami FAQ : Trap Card > Ambush Fangs 
+ 
+ ↑   Konami FAQ : Can a Venom Counter be placed on a face-down monster? 
+ 
+ ↑   Konami FAQ : With "Red Dragon Archfiend", is a monster still destroyed when its attack is negated? 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

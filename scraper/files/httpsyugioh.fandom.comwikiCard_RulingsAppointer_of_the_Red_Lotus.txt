@@ -1,0 +1,52 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Appointer_of_the_Red_Lotus
+
+
+ Appointer of the Red Lotus 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Contents 
+ 
+ 1   TCG Rulings 
+ 2   Out of Date 
+ 3   OCG Rulings 
+ 4   Notes 
+ 5   References 
+ 
+ 
+ TCG Rulings 
+ Paying 2000  Life Points  and revealing all cards in your hand is a  cost .  Returning the removed card to your opponent's hand does not start a  Chain . [1] 
+ You cannot activate this card if you have no cards in your  hand . [1] 
+ If " Imperial Iron Wall " is  Chained  to this card, you will choose 1 card in your opponent's hand but it will not be removed from play. [1] 
+ If the card removed by " Appointer of the Red Lotus " is returned to the  hand  or field and then removed from play again before the  End Phase , it will not return to your opponent's hand during the  End Phase . [1] 
+ Out of Date 
+ The card returns during the  End Phase  of your opponent's next turn. If you activate it during your opponent's turn, the card still won't return until your opponent's next turn. [Notes 1] [1] 
+ OCG Rulings 
+ Paying 2000  Life Points  and revealing your hand to your opponent is a  cost  to activate " Appointer of the Red Lotus . [2] 
+ When " Appointer of the Red Lotus " returns the removed from play card to your opponent's hand during the End Phase, it does not start a  Chain . [2] 
+ Both " Pay 2000 Life Points " and " reveal your hand to your opponent " are  costs  to activate " Appointer of the Red Lotus ".  If you cannot pay either cost, then you cannot activate " Appointer of the Red Lotus ".  Thus, you cannot activate " Appointer of the Red Lotus " if you do not have any cards in your hand. [3] 
+ Notes 
+ 
+ ↑   The current text of  Appointer of the Red Lotus  does not match the text found on the PDF containing this ruling. The updated text makes it clear that the card is returned during the next  End Phase , not the next turn's  End Phase . 
+ 
+ 
+ References 
+ 
+ ↑  1.0   1.1   1.2   1.3   1.4   Konami Gameplay FAQ : Stardust Overdrive Sneak Peek -- Card Rulings (Version 1.0) 
+ 
+ ↑  2.0   2.1   Konami FAQ : Trap Card> Appointer of the Red Lotus 
+ 
+ ↑   Konami FAQ : If you have 0 cards in your hand, then can you pay 2000 Life Points to activate "Appointer of the Red Lotus"? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

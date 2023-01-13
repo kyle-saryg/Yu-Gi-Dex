@@ -1,0 +1,131 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Ancient_City_-_Rainbow_Ruins
+
+
+ Ancient City - Rainbow Ruins 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ Contents 
+ 
+ 1   OCG Rulings 
+ 2   Previously Official Rulings 
+ 
+ 2.1   Mentions in Other Rulings 
+ 2.2   Judge List Rulings 
+ 2.3   Out of Date 
+ 
+ 
+ 3   Notes 
+ 
+ 3.1   Out of Date 
+ 
+ 
+ 4   References 
+ 
+ 
+ OCG Rulings 
+ The effects of " Ancient City - Rainbow Ruins " can only be activated by its controller.  The opponent cannot activate activate its effects. [1] 
+ The " 2+ ", " 4+ ", and " 5+ " effects can each be activated once per turn.  (It is not " once per turn, you can activate one effect ".) [2] 
+ When an old  Field Spell Card  is destroyed when a new one is activated, the old one is not considered to be destroyed by an effect.  The " 1+ " effect of " Ancient City - Rainbow Ruins " will not prevent it from being destroyed when a new  Field Spell Card  is activated. [3] 
+ " Ancient City - Rainbow Ruins " accumulates the effects.  For example, if you have 4 " Crystal Beast " cards in your Spell/Trap Zone, then the " 1+ ", " 2+ ", " 3+ ", and " 4+ " effect are applied. [4] 
+ If " Demise, King of Armageddon "/" Heavy Storm "/" Malevolent Catastrophe "/etc would destroy " Ancient City - Rainbow Ruins " and at least 1 " Crystal Beast " card in your opponent's Spell/Trap Zone, then " Ancient City - Rainbow Ruins " is not destroyed because of the " Crystal Beast " card. [5] 
+ The " 3+ " effect of " Ancient City - Rainbow Ruins " is a Spell Speed 2 effect that activates in chain to the Spell/Trap Card.  The effect is Spell Speed 2, so it cannot be used against  Counter Trap Cards . [6] 
+ For the " 3+ " effect, you have to send a " Crystal Beast " Monster to the Graveyard.  You cannot send a " Crystal Beast " Spell Card.  This is a cost. [6] 
+ You cannot activate the " 3+ " effect during the  Damage Step . [6] 
+ You can activate the " 3+ " effect multiple times during the same  Chain . [6] 
+ The effect of " Royal Oppression " can be activated neither when " Ancient City - Rainbow Ruins " is first  activated  nor when the " 3+: " and " 4+: " effects are activated.  However, " Royal Oppression " can be activated in Chain to the " 5+: " effect which  Special Summons  a monster being treated as a Continuous Spell Card.  The " 1+: " effect of " Ancient City - Rainbow Ruins " will prevent it from being destroyed, but the effect which Special Summons a " Crystal Beast " monster will be negated. [7] 
+ If the effect of " Ancient Fairy Dragon " does not destroy the Field Spell Card - such as if " Ancient City - Rainbow Ruins " has its " 1+ " effect active - then do not resolve the other effects of " Ancient Fairy Dragon ".  Do not add another Field Spell Card from your Deck to your hand, and do not gain 1000 Life Points. [8] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [12]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [13] [14] [15] [16] [17] [18] [19] [20] [21] 
+ 
+ These effects are cumulative. For example, if you have 4 or more " Crystal Beast " monsters in your  Spell & Trap Card Zone , this card gets all of these effects except the last one. 
+ Only the  controller  of this card can use these effects. 
+ If this card’s first effect, “This card cannot be  destroyed  by a card effect.” is active, this card can be  targeted  by “ Mystical Space Typhoon ,” etc., but this card will not be  destroyed . 
+ If you  control  this card and have at least 1 “ Crystal Beast ” in your  Spell & Trap Card Zones , and they would all be  destroyed  at the same time then “ Ancient City – Rainbow Ruins ” is not  destroyed . 
+ This card’s effects are not applied until its activation is resolved. If you have 1 " Crystal Beast " monster in your  Spell & Trap Card Zones  when you  activate  this card, and your opponent Chains “ Mystical Space Typhoon ,” etc., this card will be  destroyed . 
+ If “ Crystal Beast ” monsters in your  Spell & Trap Card Zones  are  destroyed  in a  Chain  to the activation of any of this card’s effects that can be  chained  to, then this card’s effect is not applied. The correct number of “ Crystal Beast ” monsters must be in your  Spell & Trap Card Zones  when the effect  resolves . 
+ This card’s effect “Once per turn, you can halve the  Battle Damage  you take.” does not start a  Chain . You choose whether or not to activate it during  Damage Calculation , when you would take  Battle Damage . 
+ This card’s effect “You can send 1 " Crystal Beast " monster you  control  to the  Graveyard  to  negate  the activation of a Spell or Trap Card and  destroy  it.” is  activated  in a  Chain  to a Spell or Trap Card. It is treated as  Spell Speed 2 , so you cannot  Chain  this effect to a  Counter-Trap Card . You can  activate  it multiple times in the same  Chain . Sending a “ Crystal Beast ” monster you  control  to the  Graveyard  is a  cost  to  activate  this effect. 
+ This card’s effect “Once per turn, during your  Main Phase , you can draw 1 card.” starts a  Chain . It can only be used once a turn, even if the number of “ Crystal Beast ” cards in your  Spell & Trap Card Zones  becomes less than 4, and then becomes 4 or more again after you have used it in a given turn. 
+ This card’s effect “Once per turn, during your  Main Phase , you can  Special Summon  1 " Crystal Beast " card from your  Spell & Trap Card Zone ” starts a  Chain . It  targets  1 “ Crystal Beast ” card in your  Spell & Trap Card Zones . 
+ Mentions in Other Rulings 
+ Field Barrier : This card only prevents the activation of Field Spell Cards themselves. The effects of a Field Spell Card already on the field (like “ Ancient City - Rainbow Ruins ”) can still be activated while this card is in play. 
+ Last Resort : This card is resolved as follows: First, select 1 “ Ancient City - Rainbow Ruins ” from your Deck and place it in your Field Spell Card Zone, then  your opponent’s Field Spell Card is destroyed [Out of Date 1]  and they draw one card. 
+ Last Resort : You can activate “ Last Resort ” while you have a Field Spell Card in your Field Spell Card Zone. When “ Last Resort ” resolves, the Field Spell Card in your Field Spell Card Zone is  destroyed [Out of Date 2]  and “ Ancient City - Rainbow Ruins ” is placed into your Field Spell Card Zone. 
+ Light and Darkness Dragon : “ Light and Darkness Dragon ” cannot  negate  the activation of the  Ignition-like effect  of  Continuous Spell  or  Trap Cards  ( “Ultimate Offering”  [ sic ] , etc.) or  Field Spell Cards  (“ Ancient City - Rainbow Ruins ”, etc.). “ Light and Darkness Dragon’s ” second effect activates when a Spell or Trap Card is first activated (placed face-up onto the field or flipped face-up). 
+ Judge List Rulings 
+ The " 3+ " effect of this card cannot be activated during the  Damage Step . [9] 
+ A card like " Magic Jammer " can only be chained to  the initial activation  of " Ancient City - Rainbow Ruins ". If  the effect   of " Ancient City - Rainbow Ruins " is activated then " Magic Jammer ", ect, cannot be chained. [10] 
+ If you have " Ancient City - Rainbow Ruins " face-up on the field and your opponent activates another  Field Spell Card  you can chain " Ancient City - Rainbow Ruins 's" third effect to negate the activation of the  Field Spell Card   and " Ancient City - Rainbow Ruins " will not be destroyed by game mechanics . [Out of Date 1] [11] 
+ If you activate " Ancient City - Rainbow Ruins " while you have a face-up " Crystal Beast " card in your  Spell & Trap Card Zone  and the opponent chains with " Mystical Space Typhoon ", then " Ancient City - Rainbow Ruins " will be destroyed. " Ancient City - Rainbow Ruins 's" first effect is not applied since " Ancient City - Rainbow Ruins " hasn't resolved yet, so it does not protect " Ancient City - Rainbow Ruins " from " Mystical Space Typhoon 's" effect. [11] 
+ Out of Date 
+ This card will be  destroyed  if your opponent plays a  Field Spell Card , even if the effect “This card cannot be destroyed by a card effect.” is active. [Out of Date 1] 
+ 
+ 
+ 
+ Notes 
+ Out of Date 
+ 
+ ↑  1.0   1.1   1.2   According to the  new game mechanics for Field Spell Cards , now both players can have an active Field Spell Card on their field at the same time, so the other player's Field Spell Card will not be destroyed if their opponent plays one. 
+ 
+ ↑   According to the  new game mechanics for Field Spell Cards , if you activate a new Field Spell Card to replace another, then the old one is sent to the Graveyard, not destroyed. 
+ 
+ 
+ References 
+ 
+ ↑   Konami FAQ : Can the opponent use the effect of "Ancient City - Rainbow Ruins"? 
+ 
+ ↑   Konami FAQ : For the once per turn effects of "Ancient City - Rainbow Ruins", is it a total of once per turn? 
+ 
+ ↑   Konami FAQ : When "Ancient City Rainbow Ruins" cannot be destroyed by a card effect, is it destroyed when the opponent activates a Field Spell Card? 
+ 
+ ↑   Konami FAQ : Do the effects of "Ancient City - Rainbow Ruins" overlap? 
+ 
+ ↑   Konami FAQ : When "Ancient City - Rainbow Ruins" cannot be destroyed by its effect, is it destroyed with "Heavy Storm"? 
+ 
+ ↑  6.0   6.1   6.2   6.3   Konami FAQ : Please explain the details of the third effect of "Ancient City - Rainbow Ruins" which negates the activation of a Spell/Trap Card and destroys it. 
+ 
+ ↑   Konami FAQ : Can "Royal Oppression" negate the different effects of "Ancient City - Rainbow Ruins" and destroy it? 
+ 
+ ↑   Konami FAQ : Do you still recover 1000 Life Points and add a Field Spell Card to your hand when "Ancient Fairy Dragon" cannot destroy the Field Spell Card? 
+ 
+ ↑   UDE Judge List : Ancient City – Rainbow Ruins effect three 
+ 
+ ↑   UDE Judge List : Ancient city vs negation 
+ 
+ ↑  11.0   11.1   UDE Judge List : Active Field Card versus Set Field Card ... 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

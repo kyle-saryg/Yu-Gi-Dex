@@ -1,0 +1,271 @@
+Link: https://yugioh.fandom.com/wiki/Cyberse_Quantum_Dragon
+
+The  Chinese                        name given is not official.  
+ 
+ 
+ 
+ Cyberse Quantum Dragon サイバース・クアンタム・ドラゴン 
+ 
+ English 
+Cyberse Quantum Dragon 
+ Chinese 
+ 網域量子龍 Check translation 
+ French 
+ Dragon Quantique Cyberse Check translation 
+ German 
+ Cyberse-Quantendrache Check translation 
+ Italian 
+ Drago Quantico Cyberso Check translation 
+ Korean 
+ 사이버스 퀀텀 드래곤 Check translation 
+ Portuguese 
+ Dragão Quântico Ciberso Check translation 
+ Spanish 
+ Dragón Cuántico Ciberso Check translation 
+ Japanese 
+ サイバース・クアンタム・ドラゴン Check translation 
+ Japanese ( rōmaji ) 
+Saibāsu Kuantamu Doragon 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Cyberse  /  Synchro  /  Effect 
+ Level 
+ 7   
+ ATK  /  DEF 
+ 2500  /  2000 
+ Passcode 
+ 63533837 
+ Materials 
+1 Tuner + 1 or more non-Tuner monsters 
+ Card effect types 
+ 
+ 
+ Continuous 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+1  Tuner  + 1+ non-Tuner  monsters While you  control  a  Link Monster , monsters your opponent controls cannot  target  monsters you control for  attacks , except this one, also your opponent cannot target monsters you control with  card effects , except this one.  Once per turn , at the start of the  Damage Step , if this card  battles  an opponent's monster: You can  return  that opponent's monster to the  hand , also, this card can make a second attack in a row. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 1 Syntoniseur + 1+ monstre non-Syntoniseur
+ 
+Tant que vous contrôlez un Monstre Lien, les monstres contrôlés par votre adversaire ne peuvent pas cibler de monstres que vous contrôlez (celui-ci exclu) avec une attaque, et aussi, votre adversaire ne peut pas cibler de monstres que vous contrôlez (celui-ci exclu) avec des effets de carte. Une fois par tour, au début de la Damage Step, si cette carte combat un monstre de l'adversaire : vous pouvez renvoyer le monstre de l'adversaire à la main, et aussi, cette carte peut faire une seconde attaque à la suite. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 1 Empfänger + 1+ Nicht-Empfänger-Monster Solange du ein Linkmonster kontrollierst, können Monster, die dein Gegner kontrolliert, Monster, die du kontrollierst, nicht als Angriffsziel wählen, außer diesem, zusätzlich kann dein Gegner Monster, die du kontrollierst, nicht als Ziel für Karteneffekte wählen, außer diesem. Einmal pro Spielzug, am Beginn des Damage Steps, falls diese Karte gegen ein Monster eines Gegners kämpft: Du kannst das Monster des Gegners auf die Hand zurückgeben, zusätzlich kann diese Karte sofort einen zweiten Angriff durchführen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 1 Tuner + 1+ mostri non-Tuner Mentre controlli un Mostro Link, i mostri controllati dal tuo avversario non possono scegliere come bersaglio i mostri che controlli per gli attacchi, eccetto questo, inoltre il tuo avversario non può scegliere come bersaglio i mostri che controlli con gli effetti delle carte, eccetto questo. Una volta per turno, all'inizio del Damage Step, se questa carta combatte con un mostro dell'avversario: puoi far ritornare quel mostro dell'avversario nella mano, inoltre, questa carta può effettuare subito dopo un secondo attacco. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 1 Regulador + 1+ monstros não-Reguladores Enquanto você controlar um Monstro Link, os monstros que seu oponente controla não podem escolher monstros que você controla como alvo de ataques, exceto este e, além disso, seu oponente não pode escolher monstros que você controla como alvo de efeitos de card, exceto este. Uma vez por turno, no começo da Etapa de Dano, se este card batalhar um monstro do oponente: você pode devolver esse monstro do oponente para a mão e, além disso, este card pode realizar um segundo ataque em seguida. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 1 Cantante + 1+ monstruos que no sean Cantantes Mientras tú controles un Monstruo de Enlace, los monstruos que controla tu adversario no pueden seleccionar monstruos que controlas para ataques, excepto a éste, y además tu adversario no puede seleccionar monstruos que controlas con efectos de cartas, excepto a éste. Una vez por turno, al comienzo del Damage Step, si esta carta batalla con un monstruo del adversario: puedes devolver ese monstruo del adversario a la mano, y además, esta carta puede hacer un segundo ataque inmediatamente después. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ チューナー＋チューナー以外のモンスター１体以上 ①：自分フィールドにリンクモンスターが存在する限り、相手はこのカード以外の自分フィールドのモンスターを、攻撃対象に選択できず、効果の対象にもできない。②：１ターンに１度、このカードが相手モンスターと戦闘を行うダメージステップ開始時に発動できる。その相手モンスターを持ち主の手札に戻す。この効果を発動した場合、このカードはもう１度だけ続けて攻撃できる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 튜너 + 튜너 이외의 몬스터 1장 이상 ① : 자신 필드에 링크 몬스터가 존재하는 한, 상대는 이 카드 이외의 자신 필드의 몬스터를, 공격 대상으로 선택할 수 없으며, 효과의 대상으로도 할 수 없다. ② : 1턴에 1번, 이 카드가 상대 몬스터와 전투를 실행하는 데미지 스텝 개시시에 발동할 수 있다. 그 상대 몬스터를 주인의 패로 되돌린다. 이 효과를 발동했을 경우, 이 카드는 1번만 더 이어서 공격할 수 있다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2019-01-31 SAST-EN038 Savage Strike Ultra Rare 2020-08-27 MP20-EN018 2020 Tin of Lost Memories Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2019-01-31 SAST-FR038 Savage Strike L'Attaque Sauvage Ultra Rare 2020-08-27 MP20-FR018 2020 Tin of Lost Memories Boîte des Mémories Perdues 2020 Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2019-01-31 SAST-DE038 Savage Strike Savage Strike Ultra Rare 2020-08-27 MP20-DE018 2020 Tin of Lost Memories 2020 Tin of Lost Memories Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2019-01-31 SAST-IT038 Savage Strike Attacco Selvaggio Ultra Rare 2020-08-27 MP20-IT018 2020 Tin of Lost Memories Tin delle Memorie Perdute 2020 Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2019-01-31 SAST-PT038 Savage Strike Ataque Selvagem Ultra Rare 2020-08-27 MP20-PT018 2020 Tin of Lost Memories Lata das Memórias Perdidas 2020 Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2019-01-31 SAST-SP038 Savage Strike Golpe Salvaje Ultra Rare 2020-08-27 MP20-SP018 2020 Tin of Lost Memories 2020 Lata de Memorias Perdidas Prismatic Secret Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2018-10-13 SAST-JP038 Savage Strike サベージ・ストライク Ultra Rare 2018-10-13 SAST-JP038 Savage Strike サベージ・ストライク Secret Rare 2018-10-13 SAST-JP038 Savage Strike サベージ・ストライク Ultimate Rare 2018-10-13 SAST-JP038 Savage Strike サベージ・ストライク 20th Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2019-01-15 SAST-KR038 Savage Strike 새비지 스트라이크 Ultra Rare 2019-01-15 SAST-KR038 Savage Strike 새비지 스트라이크 Secret Rare 2019-01-15 SAST-KR038 Savage Strike 새비지 스트라이크 Ultimate Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Link Monster 
+ 
+ Archetypes  and  series   
+ Cyber 
+ 
+ Actions  
+ Returns from field to hand 
+ 
+ Monster / Spell / Trap  categories  
+ Manages effect targets of Effect Monsters 
+ Manages effect targets of Spell Cards 
+ Manages effect targets of Trap Cards 
+ Cannot be targeted by card effects 
+ 
+ Summoning  categories  
+ 1+ non-Tuner Synchro Materials 
+ Does not require specific Synchro Materials 
+ 
+ Attack  categories  
+ Prevents your opponent's monsters from attacking 
+ Manages attack targets 
+ Multiple attacker 
+ 
+ Miscellaneous  
+ Requires control of specific Monster card type 
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14115 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Cyberse Quantum Dragon " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Cyber " 「サイバー」 Members 
+ Armored Cybern The Arrival Cyberse @Ignister Attachment Cybern Cyber Angel Benten Cyber Angel Dakini Cyber Angel Idaten Cyber Angel Izana Cyber Angel Natasha Cyber Angel Vrash Cyber Archfiend Cyber Barrier Dragon Cyber Blader Cyber Dinosaur Cyber Dragon Cyber Dragon Core Cyber Dragon Drei Cyber Dragon Herz Cyber Dragon Infinity Cyber Dragon Nachster Cyber Dragon Nova Cyber Dragon Sieger Cyber Dragon Vier Cyber Dragon Zwei Cyber Egg Angel Cyber Eltanin Cyber End Dragon Cyber Esper Cyber Eternity Dragon Cyber Gymnast Cyber Harpie Lady Cyber Jar Cyber Kirin Cyber Larva Cyber Laser Dragon Cyber Ogre Cyber Ogre 2 Cyber Ouroboros Cyber Petit Angel Cyber Pharos Cyber Phoenix Cyber Prima Cyber Raider Cyber Shark Cyber Tutu Cyber Tutubon Cyber Twin Dragon Cyber Valley Cyberdark Cannon Cyberdark Chimera Cyberdark Claw Cyberdark Dragon Cyberdark Edge Cyberdark End Dragon Cyberdark Horn Cyberdark Keel Cyberdarkness Dragon Cyberse Accelerator Cyberse Clock Dragon Cyberse Converter Cyberse Disabwurm Cyberse Enchanter Cyberse Gadget Cyberse Integrator Cyberse Magician Cyberse Quantum Dragon Cyberse Reminder Cyberse Sage Cyberse Synchron Cyberse White Hat Cyberse Wicckid Cyberse Witch Cyberse Wizard Etoile Cyber The Fiend Megacyber Malefic Cyber End Dragon Proto-Cyber Dragon Psychic Megacyber Stegocyber T.G. Cyber Magician Toon Cyber Dragon 
+ Cyber Emergency Cyber Energy Shock Cyber Eternal Cyber Network Cyber Repair Plant Cyber Revsystem Cyber Shadow Gardna Cyber Shield Cyber Summon Blaster Cyberdark Impact! Cyberdark Inferno Cyberdark Invasion Cyberdark Realm Cyberload Fusion Cybernetic Horizon Cybersal Cyclone Cyberse Beacon 
+ Support 
+ Attachment Cybern Cyber Dragon Core Cyberdark Chimera 
+ Cyber Eternal Cybernetic Horizon Cybernetic Overflow 
+ Related 
+ Blade Skater Chimeratech Fortress Dragon Chimeratech Megafleet Dragon Chimeratech Overdragon Clock Wyvern Gadget Token Petit Angel Wing Egg Elf 
+ Attack Reflector Unit Born from Draconis Byroad Sacrifice Cybernetic Hidden Technology Cybernetic Revolution Cynet Ritual Evolution Burst Photon Generator Unit Power Bond Ritual Sanctuary 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/0d/CyberseQuantumDragon-MP20-EN-PScR-1E.png/revision/latest/scale-to-width-down/300?cb=20200903161948', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

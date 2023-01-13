@@ -1,0 +1,70 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Abyss_Dweller
+
+
+ Abyss Dweller 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ 2 Level 4 monsters While this card has  an Xyz   Material  attached that was originally WATER, all WATER monsters you control gain 500 ATK. Once per turn,  during either player's turn : You can detach 1  Xyz  Material  from this card; any card effects  that activate  in  your opponent's Graveyard cannot be activated  this turn. 
+ 2 Level 4 monsters While this card has  a   material  attached that was originally WATER, all WATER monsters you control gain 500 ATK. Once per turn  (Quick Effect) : You can detach 1  material  from this card;  your opponent cannot activate  any card effects in  their GY this turn. 
+ 
+ 
+       ABYR-EN084 Abyss Rising     ]] 
+   File:AbyssDweller-DUDE-EN-UR-1E.png     DUDE-EN016 Duel Devastator     
+ 
+ 
+ German 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ 2 Monster der Stufe 4 Solange diese  offene  Karte ein Xyz-Material  hat , das ursprüngliche WASSER war, erhalten alle WASSER Monster, die du kontrollierst, 500 ATK. Einmal pro Spielzug, während des Spielzugs eines beliebigen Spielers: Du kannst 1 Xyz-Material von dieser Karte abhängen; Karteneffekte, die im Friedhof deines Gegners aktiviert werden, können in diesem Spielzug nicht aktiviert werden. 
+ 2 Monster der Stufe 4 Solange  an  diese Karte ein  Xyz- Material  angehängt ist , das ursprünglich WASSER war, erhalten alle WASSER Monster, die du kontrollierst, 500 ATK. Einmal pro Spielzug,  während des Spielzugs eines beliebigen Spielers : Du kannst 1  Xyz- Material von dieser Karte abhängen; Karteneffekte,   die im Friedhof deines Gegners aktiviert werden, können   in   diesem Spielzug nicht aktiviert werden . 
+ 2 Monster der Stufe 4 Solange an diese Karte ein Material angehängt ist, das ursprünglich WASSER war, erhalten alle WASSER Monster, die du kontrollierst, 500 ATK. Einmal pro Spielzug  (Schnelleffekt) : Du kannst 1 Material von dieser Karte abhängen;  dein Gegner kann in diesem Spielzug keine   Karteneffekte in  seinem Friedhof aktivieren . 
+ 
+ 
+       ABYR-DE084 Abyss Rising     
+       THSF-DE047 The Secret Forces     
+   File:AbyssDweller-DUDE-DE-UR-1E.png     DUDE-DE016 Duel Devastator     
+ 
+ 
+ Spanish 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ 2 monstruos de Nivel 4 Mientras esta carta tenga acoplado un Material Xyz que originalmente era de AGUA, todos los monstruos de AGUA que controles ganan 500 ATK. Una vez por turno, durante el turno de cualquier jugador: puedes desacoplar de esta carta 1 Material Xyz; todos los efectos de cartas que se activen en el Cementerio de tu adversario no pueden ser activados  este turno . 
+ 2 monstruos de Nivel 4 Mientras esta carta tenga acoplado un  Material  Xyz  que originalmente era de AGUA, todos los monstruos de AGUA que controles ganan 500 ATK. Una vez por turno,  durante el turno de cualquier jugador : puedes desacoplar de esta carta 1  Material   Xyz ;  este turno,    todos los efectos de cartas que se activen en el Cementerio de  tu adversario no puede n ser activados . 
+ 2 monstruos de Nivel 4 Mientras esta carta tenga acoplado un  material  que originalmente era de AGUA, todos los monstruos de AGUA que controles ganan 500 ATK. Una vez por turno  (Efecto Rápido) : puedes desacoplar de esta carta 1  material ; este turno, tu adversario no puede  activar ningún efecto de carta en su Cementerio . 
+ 
+ 
+         ABYR-SP084 Abyss Rising     
+         THSF-SP047 The Secret Forces     
+         DUDE-SP016 Duel Devastator     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c2/AbyssDweller-ABYR-EN-SR-1E.png/revision/latest/scale-to-width-down/180?cb=20130730181535', 'https://static.wikia.nocookie.net/yugioh/images/8/8f/AbyssDweller-ABYR-DE-SR-1E.png/revision/latest/scale-to-width-down/180?cb=20130620090840', 'https://static.wikia.nocookie.net/yugioh/images/e/e1/AbyssDweller-THSF-DE-SR-1E.png/revision/latest/scale-to-width-down/180?cb=20150724203505', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/41/AbyssDweller-ABYR-SP-SR-1E.png/revision/latest/scale-to-width-down/180?cb=20150725053635', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/04/AbyssDweller-THSF-SP-SR-1E.png/revision/latest/scale-to-width-down/180?cb=20150725025503', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f8/AbyssDweller-DUDE-SP-UR-1E.png/revision/latest/scale-to-width-down/180?cb=20210806100817']
+Categories: Card Errata, Cards with 1 erratum, Cards with 2 errata, Cards with German errata, Cards with Spanish errata

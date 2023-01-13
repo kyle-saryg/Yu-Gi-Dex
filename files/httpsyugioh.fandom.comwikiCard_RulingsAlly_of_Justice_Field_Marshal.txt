@@ -1,0 +1,31 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Ally_of_Justice_Field_Marshal
+
+
+ Ally of Justice Field Marshal 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ TCG Rulings 
+ Related Rulings 
+ Blackwing - Shura the Blue Flame 
+ CLARIFICATION: 
+ The effect of “ Blackwing – Shura the Blue Flame ” activates when monsters are destroyed and sent to the Graveyard at the end of the  Damage Step .  This is the same timing as the effects of cards like “ Hydrogeddon ,” “ Blue Thunder T-45 ,” “ Goyo Guardian ,” and  “ Elemental Hero Flame Wingman ”  [ sic ] . 
+ In order for its effect to activate, “ Blackwing – Shura the Blue Flame ” must be face-up on the field when the monster it destroyed by battle is sent to the Graveyard. This means:
+ If  Shura  and the other monster destroy each other by battle (equal ATK),  Shura’s  effect does not activate. 
+ If  Shura  is destroyed by a  Flip Effect  like “ Man-Eater Bug ,”  Shura’s  effect does not activate. 
+ If  Shura  is flipped face-down after damage calculation by a card effect, such as “ Desertapir ,”  Shura’s  effect does not activate. 
+ If  Shura  is  removed from play  [ sic ]  by battling “ D.D. Warrior ,”  Shura’s  effect does not activate. 
+ If  Shura  is destroyed by an effect after the monster it destroyed by battle was sent to the Graveyard, such as “ Michizure ,”  Shura’s  effect DOES activate, and you can Special Summon a monster. 
+ NOTE:  These rules also apply to any other monster with the text  “When this card destroys an opponent’s monster by battle and sends it to the Graveyard….”  (Examples: “ Hydrogeddon ,” “ Goyo Guardian ,” or  “ Elemental Hero Flame Wingman ”  [ sic ] .) 
+ These rules do NOT apply to monsters with the text  “When this card destroys an opponent’s monster by battle….”  (but does not specify “and sends it to the Graveyard”). (Example: “ Blue Thunder T-45 ”.) Monsters with that text will activate their effects in ALL of the above scenarios. 
+ 
+ 
+ 
+Categories: Card Rulings

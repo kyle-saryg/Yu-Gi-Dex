@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:GX1_number
+
+This property lists the number of a card in the video game  Yu-Gi-Oh! GX Duel Academy . This uses  string  values.
+ 
+ 
+ 
+ 
+Categories:

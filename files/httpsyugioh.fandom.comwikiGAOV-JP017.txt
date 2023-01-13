@@ -1,0 +1,438 @@
+Link: https://yugioh.fandom.com/wiki/GAOV-JP017
+
+The  Arabic  and  Chinese                       names given are not official.  
+ The  Chinese                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Cameraclops スクープ・シューター 
+ 
+ English 
+Cameraclops 
+ Chinese 
+ 掘地射手 Check translation 
+ French 
+ Caméraclops Check translation 
+ German 
+ Fotoklop Check translation 
+ Italian 
+ Fotograciclope Check translation 
+ Korean 
+ 스쿱 슈터 Check translation 
+ Portuguese 
+ Cameraclope Check translation 
+ Spanish 
+ Camaracople Check translation 
+ Japanese 
+ スクープ・シューター Check translation 
+ Japanese ( rōmaji ) 
+Sukūpu Shūtā 
+ Japanese (translated) 
+Scoop Shooter 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Warrior  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1400  /  1600 
+ Passcode 
+ 05244497 
+ Card effect types 
+ 
+ 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If this card  attacks  a  face-up   monster  on the  field , at the start of the  Damage Step :  Destroy  that monster. Its  DEF  must be higher than this card's  ATK  to  activate  and to  resolve  this  effect . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si cette carte attaque un monstre face recto sur le Terrain, au début de la Damage Step : détruisez le monstre. Sa DEF doit être supérieure à l'ATK de cette carte pour activer et résoudre cet effet. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Am Beginn des Damage Steps, falls diese Karte ein offenes Monster auf dem Spielfeld angreift, dessen DEF höher sind als die ATK dieser Karte: Zerstöre das Monster. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se questa carta attacca un mostro scoperto sul Terreno, all'inizio del Damage Step: distruggi quel mostro. Il suo DEF deve essere superiore all'ATK di questa carta per attivare e risolvere questo effetto. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se este card atacar um monstro com a face para cima no campo, no começo da Etapa de Dano: destrua esse monstro. A DEF dele deve ser maior que o ATK deste card para que você possa ativar e resolver este efeito. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si esta carta ataca a un monstruo boca arriba en el Campo, al comienzo del Damage Step: destruye ese monstruo. Su DEF debe ser mayor que el ATK de esta carta para activar y resolver este efecto. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードが、このカードの攻撃力よりも高い守備力を持つフィールド上に表側表示で存在するモンスターに攻撃した場合、ダメージ計算を行わずそのモンスターを破壊する。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 此卡攻击场上[守备力比此卡的攻击力高]的正面表示的怪兽时，不进行伤害计算，直接破坏那只怪兽。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드가, 이 카드의 공격력보다 높은 수비력을 가진 필드 위에 앞면 표시로 존재하는 몬스터에 공격했을 경우, 데미지 계산을 실행하지 않고 그 몬스터를 파괴한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2012-04-28  
+ GAOV-EN017   
+ Galactic Overlord 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ 
+ North American English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2014-01-17  
+ BPW2-EN048   
+ War of the Giants: Round 2 
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—Europe 
+ 
+ 
+ 
+ European English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2014-01-17  
+ WGRT-EN048   
+ War of the Giants Reinforcements 
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-FR017   
+ Galactic Overlord 
+ Le Seigneur de la Galaxie  
+ Common 
+ 
+ 
+ 2014-01-17  
+ WGRT-FR048   
+ War of the Giants Reinforcements 
+ La Guerre des Géants Recommence  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-DE017   
+ Galactic Overlord 
+ Galactic Overlord  
+ Common 
+ 
+ 
+ 2014-01-16  
+ WGRT-DE048   
+ War of the Giants Reinforcements 
+ War of the Giants Reinforcements  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-IT017   
+ Galactic Overlord 
+ Sovrano Galattico  
+ Common 
+ 
+ 
+ 2014-01-16  
+ WGRT-IT048   
+ War of the Giants Reinforcements 
+ Guerra dei Giganti – I Rinforzi  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2014-01-17  
+ WGRT-PT048   
+ War of the Giants Reinforcements 
+ Guerra dos Gigantes Reforços  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-SP017   
+ Galactic Overlord 
+ Señor Supremo Galáctico  
+ Common 
+ 
+ 
+ 2014-01-16  
+ WGRT-SP048   
+ War of the Giants Reinforcements 
+ Guerra de los Gigantes Refuerzos  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2012-02-18  
+ GAOV-JP017   
+ Galactic Overlord 
+ ＧＡＬＡＣＴＩＣ ＯＶＥＲＬＯＲＤ  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2012-05-21  
+ GAOV-KR017   
+ Galactic Overlord 
+ 갤럭틱 오버로드  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your opponent's Monster Cards 
+ Destroys battling monster at the start of the Damage Step 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 10040 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Cameraclops " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/28/Cameraclops-BPW2-NA-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20140120115030', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

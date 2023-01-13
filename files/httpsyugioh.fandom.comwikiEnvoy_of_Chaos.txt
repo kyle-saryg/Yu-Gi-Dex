@@ -1,0 +1,281 @@
+Link: https://yugioh.fandom.com/wiki/Envoy_of_Chaos
+
+
+ The Japanese (OCG) version of this card is not a member of the " Chaos "  archetype , because its Japanese name does not contain  「カオス」 .   As its English name contains "Chaos", it  may  be treated a member of the "Chaos" archetype at a TCG event, subject to local rulings.     
+ 
+ 
+ 
+ 
+ 
+ Envoy of Chaos 混 沌 の 使 者 
+ 
+ English 
+Envoy of Chaos 
+ French 
+ Émissaire du Chaos Check translation 
+ German 
+ Gesandter des Chaos Check translation 
+ Italian 
+ Emissario del Chaos Check translation 
+ Korean 
+ 혼돈의 사자 Check translation 
+ Portuguese 
+ Enviado do Caos Check translation 
+ Spanish 
+ Enviado del Caos Check translation 
+ Japanese (kana) 
+ こんとんのししゃ Check translation 
+ Japanese (base) 
+ 混沌の使者 Check translation 
+ Japanese ( rōmaji ) 
+Konton no Shisha 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Warrior  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1500  /  0 
+ Passcode 
+ 38695361 
+ Card effect types 
+ 
+ 
+ Quick 
+ Condition 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+During the  Battle Phase  ( Quick Effect ): You can  discard  this card, then  target  1 " Black Luster Soldier "  monster  or " Gaia The Fierce Knight " monster you  control ; it gains 1500  ATK  until the end of this turn, and if it does, every opponent's monster that  battles  it this turn has its ATK become that monster's  original ATK  during  damage calculation  only.  Once per turn , during the  End Phase , if this card is in the  GY : You can  banish  1  LIGHT  and 1  DARK  monster from your GY, except this card;  add  this card to your  hand . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Durant la Battle Phase de chaque joueur : vous pouvez défausser cette carte, puis ciblez 1 monstre "Soldat du Lustre Noir" ou monstre "Gaïa le Chevalier Implacable" que vous contrôlez ; il gagne 1500 ATK jusqu'à la fin de ce tour, et s'il le fait, l'ATK de chaque monstre de votre adversaire qui le combat ce tour devient l'ATK d'origine du monstre durant le calcul des dommages uniquement. Une fois par tour, durant la End Phase, si cette carte est dans le Cimetière : vous pouvez bannir 1 monstre LUMIÈRE et 1 monstre TÉNÈBRES (cette carte exclue) depuis votre Cimetière ; ajoutez cette carte à votre main. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Während der Battle Phase eines beliebigen Spielers: Du kannst diese Karte abwerfen und dann 1 „Schwarz Glänzender Soldat“-Monster oder „Gaia, zorniger Ritter“-Monster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs 1500 ATK und falls es das tut, werden die ATK jedes Monsters deines Gegners, gegen das es in diesem Spielzug kämpft, nur während der Schadensberechnung gleich den Grund-ATK des Monsters. Einmal pro Spielzug, während der End Phase, falls sich diese Karte im Friedhof befindet: Du kannst 1 LICHT und 1 FINSTERNIS Monster von deinem Friedhof verbannen, außer dieser Karte; füge diese Karte deiner Hand hinzu. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Durante la Battle Phase di qualsiasi giocatore: puoi scartare questa carta, poi scegliere come bersaglio 1 mostro "Glorioso Soldato Nero" o 1 mostro "Gaia il Cavaliere" che controlli; esso guadagna 1500 ATK, fino alla fine di questo turno e, se lo fa, l'ATK di ogni mostro dell'avversario che lo combatte in questo turno diventa l'ATK originale di quel mostro solamente durante il calcolo dei danni. Una volta per turno, durante la End Phase, se questa carta è nel Cimitero: puoi bandire 1 mostro LUCE e 1 mostro OSCURITÀ dal tuo Cimitero, eccetto questa carta; aggiungi questa carta alla tua mano. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Durante a Fase de Batalha de qualquer duelista: você pode descartar este card e, depois, escolher 1 monstro "Soldado do Lustro Negro" ou monstro "Gaia, o Cavaleiro Impetuoso" que você controla; ele ganha 1500 de ATK até o final deste turno e, se isso acontecer, o ATK de cada monstro do oponente que batalhar com ele neste turno se torna igual ao ATK original desse monstro, apenas durante o cálculo de dano. Uma vez por turno, durante a Fase Final, se este card estiver no Cemitério: você pode banir 1 monstro de LUZ e 1 monstro de TREVAS do seu Cemitério, exceto este card; adicione este card à sua mão. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Durante la Battle Phase de cualquier jugador: puedes descartar esta carta, y después seleccionar 1 monstruo "Soldado del Brillo Negro" o 1 monstruo "Gaia el Caballero Feroz" que controles; hasta el final de este turno, éste gana 1500 ATK, y si lo hace, cada monstruo de tu adversario que batalla con él este turno ve su ATK convertido en el ATK original de ese monstruo, sólo durante el cálculo de daño. Una vez por turno, durante la End Phase, si esta carta está en el Cementerio: puedes desterrar de tu Cementerio 1 monstruo de LUZ y 1 monstruo de OSCURIDAD, excepto esta carta; añade esta carta a tu mano. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：自分・相手のバトルフェイズにこのカードを手札から捨て、自分フィールドの「カオス・ソルジャー」モンスターまたは「暗黒騎士ガイア」モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで１５００アップし、このターンそのモンスターと戦闘を行う相手モンスターの攻撃力はダメージ計算時のみ元々の攻撃力になる。②：自分・相手のエンドフェイズにこのカードが墓地に存在する場合、自分の墓地からこのカード以外の光属性と闇属性のモンスターを１体ずつ除外して発動できる。このカードを手札に加える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 자신 / 상대의 배틀 페이즈에 이 카드를 패에서 버리고, 자신 필드의 "카오스 솔저" 몬스터 또는 "암흑 기사 가이아" 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 공격력은 턴 종료시까지 1500 올리고, 이 턴에 그 몬스터와 전투를 실행하는 상대 몬스터의 공격력은 데미지 계산시에만 원래의 공격력이 된다. ②: 자신 / 상대의 엔드 페이즈에 이 카드가 묘지에 존재할 경우, 자신의 묘지에서 이 카드 이외의 빛 속성과 어둠 속성 몬스터를 1장씩 제외하고 발동할 수 있다. 이 카드를 패에 넣는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2017-02-09 RATE-EN025 Raging Tempest Rare 2017-08-24 MP17-EN191 2017 Mega-Tin Mega Pack Rare 2020-06-18 TOCH-EN039 Toon Chaos Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2017-02-09 RATE-FR025 Raging Tempest Tempête de Rage Rare 2017-08-24 MP17-FR191 2017 Mega-Tin Mega Pack 2017 Méga-Boîte Méga-Pack Rare 2020-06-18 TOCH-FR039 Toon Chaos Le Chaos Toon Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2017-02-09 RATE-DE025 Raging Tempest Raging Tempest Rare 2017-08-24 MP17-DE191 2017 Mega-Tin Mega Pack 2017 Mega-Tin Mega Pack Rare 2020-06-18 TOCH-DE039 Toon Chaos Toon Chaos Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2017-02-09 RATE-IT025 Raging Tempest Tempesta Furiosa Rare 2017-08-24 MP17-IT191 2017 Mega-Tin Mega Pack 2017 Mega-Tin Mega Pack Rare 2020-06-18 TOCH-IT039 Toon Chaos Chaos Toon Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2017-02-10 RATE-PT025 Raging Tempest Tempestade Furiosa Rare 2017-08-24 MP17-PT191 2017 Mega-Tin Mega Pack Mega-Pacote da Mega-Latas 2017 Rare 2020-06-18 TOCH-PT039 Toon Chaos Caos Toon Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2017-02-09 RATE-SP025 Raging Tempest Tempestad Furiosa Rare 2017-08-24 MP17-SP191 2017 Mega-Tin Mega Pack 2017 Mega-Lata Mega Pack Rare 2020-06-18 TOCH-SP039 Toon Chaos Caos Toon Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2016-10-08 RATE-JP025 Raging Tempest レイジング・テンペスト Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2017-01-10 RATE-KR025 Raging Tempest 레이징 템피스트 Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ LIGHT 
+ DARK 
+ 
+ Supports   archetypes   
+ Black Luster Soldier  
+ Gaia The Fierce Knight  
+ 
+ Related to  archetypes  and  series   
+ Chaos 
+ 
+ Actions  
+ Discards itself for cost 
+ Activates from your Graveyard 
+ Returns itself from Graveyard to hand 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ Changes ATK value 
+ 
+ Banished  categories  
+ Banishes from Graveyard for cost 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12760 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Black Luster Soldier " 「カオス・ソルジャー」 Members 
+ Black Luster Soldier Black Luster Soldier Black Luster Soldier - Envoy of the Beginning Black Luster Soldier - Envoy of the Evening Twilight Black Luster Soldier - Sacred Soldier Black Luster Soldier - Soldier of Chaos Black Luster Soldier - Super Soldier The Legendary Swordmaster Black Luster Soldier Toon Black Luster Soldier 
+ Support 
+ Arisen Gaia the Fierce Knight Beginning Knight Charging Gaia the Fierce Knight Envoy of Chaos Evening Twilight Knight Magician of Chaos Master of Chaos Super Soldier Soul 
+ Beginning of Heaven and Earth Chaos Form Gateway to Chaos Super Soldier Rebirth Super Soldier Ritual Super Soldier Shield Super Soldier Synthesis 
+ Related 
+ Blue-Eyes Ultimate Dragon Chaos Emperor Dragon - Envoy of the End Dark Magician Dragon Master Knight Elemental HERO Neos Knight Gaia The Fierce Knight 
+ Black Luster Ritual Primal Seed Toon World 
+ 
+   
+" Chaos " 「カオス」 Members 
+ Black Luster Soldier Black Luster Soldier Black Luster Soldier - Envoy of the Beginning Black Luster Soldier - Envoy of the Evening Twilight Black Luster Soldier - Sacred Soldier Black Luster Soldier - Soldier of Chaos Black Luster Soldier - Super Soldier Blue-Eyes Chaos Dragon Blue-Eyes Chaos MAX Dragon CXyz Barian Hope CXyz Battleship Cherry Blossom CXyz Coach Lord Ultimatrainer CXyz Comics Hero Legend Arthur CXyz Dark Fairy Cheer Girl CXyz Mechquipped Djinn Angeneral CXyz N.As.Ch. Knight CXyz Simon the Great Moral Leader CXyz Skypalace Babylon Chaos Ancient Gear Giant Chaos Archfiend Chaos Beast Chaos Betrayer Chaos Command Magician Chaos Core The Chaos Creator Chaos Daedalus Chaos Emperor Dragon - Envoy of the End Chaos Emperor, the Dragon of Armageddon Chaos Goddess Chaos Grepher Chaos Hunter Chaos King Archfiend Chaos Mirage Dragon Chaos Necromancer Chaos Nephthys Chaos Ruler, the Chaotic Magical Dragon Chaos Sorcerer Chaos Witch Chaos-End Master Chaosrider Gustaph Contrast HERO Chaos Core of Chaos D/D/D Chaos King Apocalypse Elemental HERO Chaos Neos Illusion of Chaos Kamionwizard The Legendary Swordmaster Black Luster Soldier Magician of Black Chaos Magician of Black Chaos MAX Magician of Chaos Master of Chaos Morphing Jar #2 Number C1: Numeron Chaos Gate Sunya Number C5: Chaos Chimera Dragon Number C6: Chronomaly Chaos Atlandis Number C9: Chaos Dyson Sphere Number C15: Gimmick Puppet Giant Hunter Number C32: Shark Drake Veiss Number C39: Utopia Ray Number C39: Utopia Ray V Number C39: Utopia Ray Victory Number C40: Gimmick Puppet of Dark Strings Number C43: High Manipulator of Chaos Number C65: King Overfiend Number C69: Heraldry Crest of Horror Number C73: Abyss Supra Splash Number C80: Requiem in Berserk Number C88: Gimmick Puppet Disaster Leo Number C92: Heart-eartH Chaos Dragon Number C96: Dark Storm Number C1000: Numerounius Number C101: Silent Honor DARK Number C102: Archfiend Seraph Number C103: Ragnafinity Number C104: Umbral Horror Masquerade Number C105: Battlin' Boxer Comet Cestus Number C106: Giant Red Hand Number C107: Neo Galaxy-Eyes Tachyon Dragon Number iC1000: Numerounius Numerounia Phantom of Chaos Shell of Chaos Sphere of Chaos Toon Black Luster Soldier Ultimate Dragonic Utopia Ray Ultimate Leo Utopia Ray 
+ Barian's Chaos Draw Black Luster Ritual Black Magic Ritual Chaos Burst Chaos End Chaos Form Chaos Greed Chaos Infinity Chaos Phantasm Chaos Space Chaos Trap Hole Chaos Zone Eternal Chaos Gateway to Chaos Numeron Chaos Ritual Rank-Up-Magic Argent Chaos Force Rank-Up-Magic Quick Chaos Tachyon Chaos Hole Yellow Luster Shield 
+ Support 
+ Chaos Archfiend Magician of Chaos Master of Chaos 
+ Chaos Form 
+ Related 
+ Battlecruiser Dianthus Beginning Knight Black Dragon Collapserpent Blue-Eyes Ultimate Dragon Blue-Eyes White Dragon Chaos Dragon Levianeer Chaos Valkyria Coach King Giantrainer Comics Hero King Arthur The Creator Curtain of the Dark Ones Dark End Dragon Dark Magician Dark Magician Girl Dark Magician of Chaos Darkflare Dragon Demise, Agent of Armageddon Demise, King of Armageddon Demise, Supreme King of Armageddon Dragon Master Knight Dunames Dark Witch Dwarf Star Dragon Planeter Eclipse Wyvern Elemental HERO Neos Envoy of Chaos Evening Twilight Knight Fairy Cheer Girl Gaia, the Mid-Knight Sun Gaia, the Polar Knight Galaxy-Eyes Photon Dragon Levia-Dragon - Daedalus Light End Dragon Light and Darkness Dragon Lightpulsar Dragon Lightray Sorcerer Magician of Dark Illusion Mechquipped Angineer Mirage Dragon Mystical Elf N.As.H. Knight Neo-Spacian Dark Panther Neo-Spacian Glow Moss Norito the Moral Leader Number 6: Chronomaly Atlandis Number 9: Dyson Sphere Number 32: Shark Drake Number 39: Utopia Number 43: Manipulator of Souls Number 62: Galaxy-Eyes Prime Photon Dragon Number 65: Djinn Buster ... further results 
+ Beginning of Heaven and Earth Chaos Scepter Blast Chaos Seed Dedication through Light and Darkness Dragon's Rebirth End of the World Exchange of Night and Day Marshalling Field Primal Seed Rank-Up-Magic - The Seventh One Super Soldier Ritual Super Soldier Synthesis 
+ 
+   
+" Gaia The Fierce Knight " 「 暗 黒 騎 士 ガイア」 Members 
+ Arisen Gaia the Fierce Knight Charging Gaia the Fierce Knight Gaia The Fierce Knight Gaia the Fierce Knight Origin Gaia the Magical Knight Lord Gaia the Fierce Knight Soldier Gaia The Fierce Knight Swift Gaia the Fierce Knight 
+ Support 
+ Artillery Catapult Turtle Black Luster Soldier - Super Soldier Envoy of Chaos Gaia the Magical Knight of Dragons Skilled Blue Magician Sky Galloping Gaia the Dragon Champion 
+ Beginning of Heaven and Earth Galloping Gaia Gateway to Chaos 
+ Related 
+ Curse of Dragon Curse of Dragon, the Cursed Dragon Curse of Dragon, the Magical Knight Dragon Curse of Dragonfire Dark Cavalry Dark Magician Dark Magician Dark Magician the Magical Knight of Dragons Gaia Dragon, the Thunder Charger Gaia Drake, the Universal Force Gaia Knight, the Force of Earth Gaia Saber, the Lightning Shadow Gaia the Dragon Champion Gaia, the Mid-Knight Sun Gaia, the Polar Knight 
+ Spiral Discharge Spiral Fusion Spiral Reborn Spiral Spear Strike 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/6/61/EnvoyofChaos-TOCH-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20201123202915', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

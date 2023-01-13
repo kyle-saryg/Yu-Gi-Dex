@@ -1,0 +1,516 @@
+Link: https://yugioh.fandom.com/wiki/Magical_Abductor
+
+
+ 
+ 
+ Magical Abductor マジカル・アブダクター 
+ 
+ English 
+Magical Abductor 
+ French 
+ Ravisseuse de Magie Check translation 
+ German 
+ Magische Entführerin Check translation 
+ Italian 
+ Rapitrice Magica Check translation 
+ Korean 
+ 매지컬 어브덕터 Check translation 
+ Portuguese 
+ Abdutor Mágico Check translation 
+ Spanish 
+ Secuestradora Mágica Check translation 
+ Japanese 
+ マジカル・アブダクター Check translation 
+ Japanese ( rōmaji ) 
+Majikaru Abudakutā 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Spellcaster  /  Pendulum  /  Effect 
+ Level 
+ 4   
+ Pendulum Scale 
+   3 
+ ATK  /  DEF 
+ 1700  /  1400 
+ Passcode 
+ 10239627 
+ Card effect types 
+ Pendulum Effect  
+ Continuous-like 
+ Ignition-like 
+ Monster Effect 
+ Continuous 
+ Continuous 
+ Ignition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Pendulum Effect : Each time a  Spell Card  is  activated , place 1  Spell Counter  on this card when that Spell  resolves .  Once per turn : You can remove 3 Spell Counters from this card;  add  1  Pendulum Monster  from your  Deck  to your  hand . Monster Effect : Each time a  Spell Card  is  activated , place 1  Spell Counter  on this card when that Spell  resolves . Gains 100  ATK  for each Spell Counter on it.  Once per turn : You can remove 3 Spell Counters from this card;  add  1  Level  1  Spellcaster   monster  from your  Deck  to your  hand . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Effet Pendule  
+ Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte lorsque la Magie est résolue. Une fois par tour : vous pouvez retirer 3 Compteurs Magie de cette carte ; ajoutez 1 Monstre Pendule depuis votre Deck à votre main. 
+ Effet de Monstre  
+   Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte lorsque la Magie est résolue. Gagne 100 ATK pour chaque Compteur Magie sur elle. Une fois par tour : vous pouvez retirer 3 Compteurs Magie de cette carte ; ajoutez 1 monstre Magicien de Niveau 1 depuis votre Deck à votre main. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Pendeleffekt 
+ Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege 1 Zauberzählmarke auf diese Karte, wenn der Zauber aufgelöst wird. Einmal pro Spielzug: Du kannst 3 Zauberzählmarken von dieser Karte entfernen; füge deiner Hand 1 Pendelmonster von deinem Deck hinzu. 
+ Monstereffekt 
+   Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege 1 Zauberzählmarke auf diese Karte, wenn der Zauber aufgelöst wird. Diese Karte erhält 100 ATK für jede Zauberzählmarke auf ihr. Einmal pro Spielzug: Du kannst 3 Zauberzählmarken von dieser Karte entfernen; füge deiner Hand 1 Hexer-Monster der Stufe 1 von deinem Deck hinzu. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Effetto Pendulum 
+ Ogni volta che viene attivata una Carta Magia, metti 1 Segnalino Magia su questa carta quando quella Magia si risolve. Una volta per turno: puoi rimuovere 3 Segnalini Magia da questa carta; aggiungi 1 Mostro Pendulum dal tuo Deck alla tua mano. 
+ Effetto Mostro 
+   Ogni volta che viene attivata una Carta Magia, metti 1 Segnalino Magia su questa carta quando quella Magia si risolve. Guadagna 100 ATK per ogni Segnalino Magia su di essa. Una volta per turno: puoi rimuovere 3 Segnalini Magia da questa carta; aggiungi 1 mostro Incantatore di Livello 1 dal tuo Deck alla tua mano. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Efeito de Pêndulo 
+ Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando essa Magia resolver. Uma vez por turno: você pode remover 3 Marcadores de Magia deste card; adicione 1 Monstro Pêndulo do seu Deck à sua mão. 
+ Efeito de Monstro 
+   Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando essa Magia resolver. Ganha 100 de ATK para cada Marcador de Magia sobre ele. Uma vez por turno: você pode remover 3 Marcadores de Magia deste card; adicione 1 monstro Mago de Nível 1 do seu Deck à sua mão. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Efecto de Péndulo 
+ Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando se resuelva esa Mágica. Una vez por turno: puedes retirar 3 Contadores Mágicos de esta carta; añade a tu mano 1 Monstruo de Péndulo en tu Deck. 
+ Efecto de Monstruo 
+   Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando se resuelva esa Mágica. Gana 100 ATK por cada Contador Mágico en ella. Una vez por turno: puedes retirar 3 Contadores Mágicos de esta carta; añade a tu mano 1 monstruo Lanzador de Conjuros de Nivel 1 en tu Deck. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Ｐ 効 果 
+ ①：このカードが Ｐ ゾーンに存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。②：１ターンに１度、このカードの魔力カウンターを３つ取り除いて発動できる。デッキから Ｐ モンスター１体を手札に加える。 
+ モンスターの 効 果 
+   ①：このカードがモンスターゾーンに存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。②：このカードの攻撃力は、このカードの魔力カウンターの数×１００アップする。③：１ターンに１度、このカードの魔力カウンターを３つ取り除いて発動できる。デッキから魔法使い族・レベル１モンスター１体を手札に加える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 펜듈럼 효과 
+ ①: 이 카드가 펜듈럼 존에 존재하는 한, 자신 또는 상대가 마법 카드를 발동할 때마다, 이 카드에 마력 카운터를 1개 놓는다. ②: 1턴에 1번, 이 카드의 마력 카운터를 3개 제거하고 발동할 수 있다. 덱에서 펜듈럼 몬스터 1장을 패에 넣는다. 
+ 몬스터의 효과 
+   ①: 이 카드가 몬스터 존에 존재하는 한, 자신 또는 상대가 마법 카드를 발동할 때마다, 이 카드에 마력 카운터를 1개 놓는다. ②: 이 카드의 공격력은, 이 카드의 마력 카운터의 수 × 100 올린다. ③: 1턴에 1번, 이 카드의 마력 카운터를 3개 제거하고 발동할 수 있다. 덱에서 마법사족 / 레벨 1 몬스터 1장을 패에 넣는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2015-08-06  
+ CORE-EN041   
+ Clash of Rebellions 
+ Rare 
+ 
+ 
+ 2016-09-01  
+ MP16-EN073   
+ 2016 Mega-Tin Mega Pack 
+ Rare 
+ 
+ 
+ 2017-06-22  
+ PEVO-EN029   
+ Pendulum Evolution 
+ Super Rare 
+ 
+ 
+ 2019-04-19  
+ SR08-EN012   
+ Structure Deck: Order of the Spellcasters 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2015-08-06  
+ CORE-FR041   
+ Clash of Rebellions 
+ Le Choc des Rébellions  
+ Rare 
+ 
+ 
+ 2016-09-01  
+ MP16-FR073   
+ 2016 Mega-Tin Mega Pack 
+ 2016 Méga-Boîte Méga-Pack  
+ Rare 
+ 
+ 
+ 2017-06-22  
+ PEVO-FR029   
+ Pendulum Evolution 
+ Évolution des Pendules  
+ Super Rare 
+ 
+ 
+ 2019-04-25  
+ SR08-FR012   
+ Structure Deck: Order of the Spellcasters 
+ Deck de Structure : La Confrérie des Magiciens  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2015-08-06  
+ CORE-DE041   
+ Clash of Rebellions 
+ Clash of Rebellions  
+ Rare 
+ 
+ 
+ 2016-09-01  
+ MP16-DE073   
+ 2016 Mega-Tin Mega Pack 
+ 2016 Mega-Tin Mega Pack  
+ Rare 
+ 
+ 
+ 2017-06-22  
+ PEVO-DE029   
+ Pendulum Evolution 
+ Pendulum Evolution  
+ Super Rare 
+ 
+ 
+ 2019-04-25  
+ SR08-DE012   
+ Structure Deck: Order of the Spellcasters 
+ Structure Deck: Order of the Spellcasters  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2015-08-06  
+ CORE-IT041   
+ Clash of Rebellions 
+ Scontro di Ribellioni  
+ Rare 
+ 
+ 
+ 2016-09-01  
+ MP16-IT073   
+ 2016 Mega-Tin Mega Pack 
+ 2016 Mega-Tin Mega Pack  
+ Rare 
+ 
+ 
+ 2017-06-22  
+ PEVO-IT029   
+ Pendulum Evolution 
+ Evoluzione Pendulum  
+ Super Rare 
+ 
+ 
+ 2019-04-25  
+ SR08-IT012   
+ Structure Deck: Order of the Spellcasters 
+ Structure Deck: Ordine degli Incantatori  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2015-08-07  
+ CORE-PT041   
+ Clash of Rebellions 
+ Conflito de Rebeliões  
+ Rare 
+ 
+ 
+ 2016-09-01  
+ MP16-PT073   
+ 2016 Mega-Tin Mega Pack 
+ Mega-Pacote da Mega-Latas 2016  
+ Rare 
+ 
+ 
+ 2017-06-22  
+ PEVO-PT029   
+ Pendulum Evolution 
+ Evolução Pêndulo  
+ Super Rare 
+ 
+ 
+ 2019-04-25  
+ SR08-PT012   
+ Structure Deck: Order of the Spellcasters 
+ Deck Estrutural: Ordem dos Magos  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2015-08-06  
+ CORE-SP041   
+ Clash of Rebellions 
+ Choque de Rebeliones  
+ Rare 
+ 
+ 
+ 2016-09-01  
+ MP16-SP073   
+ 2016 Mega-Tin Mega Pack 
+ 2016 Mega-Lata Mega Pack  
+ Rare 
+ 
+ 
+ 2017-06-22  
+ PEVO-SP029   
+ Pendulum Evolution 
+ Evolución del Péndulo  
+ Super Rare 
+ 
+ 
+ 2019-04-25  
+ SR08-SP012   
+ Structure Deck: Order of the Spellcasters 
+ Baraja de Estructura: Mandato de los Conjuradores  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2015-04-25  
+ CORE-JP041   
+ Clash of Rebellions 
+ クラッシュ・オブ・リベリオン  
+ Rare 
+ 
+ 
+ 2019-03-09  
+ SR08-JP012   
+ Structure Deck R: Lord of Magician 
+ ストラクチャーデッキＲ －ロード・オブ・マジシャン－  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2015-08-18  
+ CORE-KR041   
+ Clash of Rebellions 
+ 클래쉬 오브 리벨리온  
+ Rare 
+ 
+ 
+ 2019-06-18  
+ SR08-KR012   
+ Structure Deck R: Lord of Magician 
+ STRUCTURE DECK  R － 로드 오브 매지션 －  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Pendulum Monster 
+ Spellcaster 
+ 
+ Counters   
+ Spell Counter 
+ Places counters on itself 
+ Removes counters from itself for cost 
+ 
+ Actions  
+ Adds from Deck to hand 
+ 
+ Stat changes  
+ This card gains ATK 
+ 
+ Miscellaneous  
+ Limited activations 
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11825 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/98/MagicalAbductor-SR08-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20190502213126', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,111 @@
+Link: https://yugioh.fandom.com/wiki/Expurrely_Happiness
+
+
+ 
+ 
+ Expurrely Happiness エクスピュアリィ・ハピネス 
+ 
+ English 
+Expurrely Happiness 
+ Japanese 
+ エクスピュアリィ・ハピネス Check translation 
+ Japanese ( rōmaji ) 
+Ekusupyuaryi Hapinesu 
+ Japanese (translated) 
+Expurery Happiness 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Fairy  /  Xyz  /  Effect 
+ Rank 
+ 7   
+ ATK  /  DEF 
+ 2500  /  1100 
+ Passcode 
+ 51822687 
+ Materials 
+2 Level 7 monsters Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+2  Level  7  monsters You can also  Xyz Summon  this card by using a  Rank  2 monster you control with 5 or more  materials . ( Transfer  its materials to this card.) During your  Main Phase : You can  detach  1 Xyz Material from this card, and if you do,  negate  the  effects  of all  face-up  monsters your opponent currently  controls , until the end of this  turn . Your opponent cannot  activate  cards or effects in  response  to this effect's activation if this card has a Level 1 " Purrely " monster as material. When an  attack  is  declared  involving this card tha has 5 or more materials: Inflict 1500  damage  to your opponent. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ レベル７モンスター×２ このカードは Ｘ 素材を５つ以上持っている自分のランク２モンスターの上に重ねて Ｘ 召喚する事もできる。①：自分メインフェイズに発動できる。このカードの Ｘ 素材を１つ取り除き、相手フィールドの全ての表側表示モンスターの効果をターン終了時まで無効にする。このカードがレベル１の「ピュアリィ」モンスターを Ｘ 素材としている場合、この効果の発動に対して相手は効果を発動できない。②： Ｘ 素材を５つ以上持っているこのカードが戦闘を行う攻撃宣言時に発動する。相手に１５００ダメージを与える。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-08-20 DBAD-JP017 Deck Build Pack: Amazing Defenders デッキビルドパック アメイジング・ディフェンダーズ Ultra Rare 2022-08-20 DBAD-JP017 Deck Build Pack: Amazing Defenders デッキビルドパック アメイジング・ディフェンダーズ Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Purrely  
+ 
+ Supports   archetypes   
+ Purrely  
+ 
+ Actions  
+ Activates upon attack declaration 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the activation of your opponent's Effect Monster's effect 
+ Prevents activation of your opponent's Effect Monsters 
+ Prevents activation of your opponent's Spell Cards 
+ Prevents activation of your opponent's Trap Cards 
+ 
+ Summoning  categories  
+ 2 Xyz Materials 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 18007 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Purrely " 「ピュアリィ」 Members 
+ Epurery Beauty Epurery Happiness Epurery Plump Expurery Noir Expurrely Happiness Purery 
+ Purery Delicious Memory Purery Happy Memory Purery Leap!? Purery Pretty Memory Purery, My Friend Stray Purery Street 
+ Support 
+ Epurery Beauty Epurery Happiness Epurery Plump Expurery Noir Expurrely Happiness Purery 
+ Purery Delicious Memory Purery Happy Memory Purery Leap!? Purery Pretty Memory Purery, My Friend Stray Purery Street 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/2b/ExpurrelyHappiness-AMDE-EN-1E-OP.png/revision/latest?cb=20221031235505', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/9/9d/Rank_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052957', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

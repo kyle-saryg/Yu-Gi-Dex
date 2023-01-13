@@ -1,0 +1,52 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:8-Claws_Scorpion
+
+
+ 8-Claws Scorpion 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Yu-Gi-Oh! Destiny Board Traveler 
+ 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [1]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [2] [3] [4] [5] [6] [7] [8] [9] [10] 
+ 
+ Even if " 8-Claws Scorpion " is equipped with an  Equip Spell Card , its  ATK  is 2400 when it attacks a face-down Defense Position monster. 
+ The effect of " 8-Claws Scorpion " is a  Trigger Effect  that is applied if the condition is correct on activation (" 8-Claws Scorpion " declared an attack against a face-down  Defense Position  monster.) The target monster does not have to be in  face-down   Defense Position  when the effect of " 8-Claws Scorpion " is  resolved . So if " Final Attack Orders " is active, or " Ceasefire " flips the monster  face-up , " 8-Claws Scorpion " still gets its 2400  ATK . 
+ The  ATK  of " 8-Claws Scorpion " becomes 2400 during  damage calculation . You cannot chain " Rush Recklessly " or " Blast with Chain " to this effect. If these cards were activated before  damage calculation , then the  ATK  of " 8-Claws Scorpion " becomes 2400 during  damage calculation  so those cards have no effect on its  ATK . 
+ 
+ 
+ 
+ References 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

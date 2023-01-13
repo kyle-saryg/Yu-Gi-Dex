@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Swedish_name
+
+This property lists the primary Swedish Card Name of a card. It is a  string . It is primarily used for display of the correct Swedish card name.
+ 
+ 
+ 
+ 
+Categories:

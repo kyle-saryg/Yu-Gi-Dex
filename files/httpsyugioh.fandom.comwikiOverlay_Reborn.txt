@@ -1,0 +1,118 @@
+Link: https://yugioh.fandom.com/wiki/Overlay_Reborn
+
+
+ Overlay Reborn 
+ 
+ Japanese:   オーバーレイ・ドロップ・リボーン 
+ Romaji:   Ōbārei Doroppu Ribōn 
+ Translated:  Overlay Drop Reborn 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Cost 
+ Effect 
+ Condition 
+ Send  1  Level  4 or lower  monster  from your  hand  to the  Graveyard ;  Special Summon  1  Rank  4 or lower  Xyz Monster  from your Graveyard, and if you do,  detach   Xyz Materials   attached  to a monster your opponent  controls , equal to the Rank of the monster Special Summoned by this  effect . If you did not send any Xyz Material to the Graveyard by this effect, the  ATK  and  DEF  of the monster Special Summoned by this effect become 0, also its effects are  negated .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  142 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ オーバーレイ・ドロップ・リボーン 
+ 自分の手札からレベル４以下のモンスター１体を墓地へ送り、自分の墓地からランク４以下のモンスターエクシーズ１体を自分フィールド上に特殊召喚する。この効果で特殊召喚したモンスターエクシーズのランクの数だけ、相手フィールド上のエクシーズ素材を墓地へ送る。墓地へ送らなかった場合、このカードの効果で特殊召喚したモンスターの攻撃力・守備力は０になり、その効果は無効化される。 
+ 
+ 
+ Ōbārei Doroppu Ribōn 
+ 
+ 
+ Decks 
+ 
+ 
+ Yuma Tsukumo 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Xyz Monster 
+ 
+ Archetypes  and  series   
+ Overlay  
+ 
+ Actions  
+ Sends from your hand to your Graveyard for cost 
+ Detaches Xyz Materials for effect 
+ 
+ Stat changes  
+ Reduces ATK to 0 
+ Reduces DEF to 0 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your Effect Monsters 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ 
+ v e 
+ Overlay  オーバーレイ a   m   Members 
+ Critical Overlay Destiny Overlay Instant Overlay Numbers Overlay Boost Overlay Accel Overlay Armor Overlay Assistance Overlay Award Overlay Banish Overlay Barrage Overlay Booster Overlay Break Overlay Burglary Overlay Burst Armor Overlay Buster Overlay Capture Overlay Chain Overlay Connection Overlay Dark Reincarnation Overlay Eater Overlay Flash Overlay Hunt Overlay Marker Overlay Menace Overlay Owl Overlay Reborn Overlay Regen Overlay Satellite Overlay Sentinel Overlay Stopper Overlay Wedge Overlay World Overlay Zero Buster Performage Overlay Juggler Solid Overlay Superior Overlay Weaker Overlay 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/4d/OverlayReborn-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20140223100009', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

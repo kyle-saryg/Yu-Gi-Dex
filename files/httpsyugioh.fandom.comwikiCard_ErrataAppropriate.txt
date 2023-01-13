@@ -1,0 +1,56 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Appropriate
+
+
+ Appropriate 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ You can activate this card when your opponent draws a card outside of his/her Draw Phase.  Draw  2 cards  from your Deck . 
+ You can   activate   this card  when your opponent draws a card  outside of his/her  Draw Phase.  After that, each time your opponent draws cards outside of his/her Draw Phase, you   draw  2 cards. 
+ Activate   only  when your opponent draws a card (s), except during their  Draw Phase.  Draw  2 cards. 
+ 
+ 
+       PSV-024 Pharaoh's Servant     
+       PSV-EN024 Pharaoh's Servant Master Collection Volume 1     
+       RP02-EN008 Retro Pack 2     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ 相手がドローフェイズ以外 に カードをドローした ら 発動 してもよい 。カードを２枚ドローする。 
+ 相手がドローフェイズ以外 で カードをドローした 時に 発動 する事ができる 。 その後相手がドローフェイズ以外でカードをドローする度に、 カードを２枚ドローする。 
+ 相手がドローフェイズ以外でカードをドローした時に発動する事ができる。その後 、 相手がドローフェイズ以外でカードをドローする度に、 自分のデッキから カードを２枚ドローする。 
+ 
+ 
+         CA-24 Curse of Anubis     
+         DL1-112 Duelist Legacy Volume.1     
+         TP08-JP011 Tournament Pack 2008 Vol.4     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/38/Appropriate-PSV-NA-R-1E.jpg/revision/latest/scale-to-width-down/180?cb=20061113034604', 'https://static.wikia.nocookie.net/yugioh/images/d/dd/Appropriate-PSV-EN-R-UE.jpg/revision/latest/scale-to-width-down/180?cb=20071021222345', 'https://static.wikia.nocookie.net/yugioh/images/6/6a/Appropriate-RP02-EN-C-UE.png/revision/latest/scale-to-width-down/180?cb=20120720222252', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/6c/Appropriate-CA-JP-C.jpg/revision/latest/scale-to-width-down/180?cb=20071021222304', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/5e/Appropriate-DL1-JP-R.jpg/revision/latest/scale-to-width-down/180?cb=20070816205008', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/56/Appropriate-TP08-JP-C.jpg/revision/latest/scale-to-width-down/180?cb=20091108095729']
+Categories: Card Errata, Cards with 2 errata, Cards with Japanese errata

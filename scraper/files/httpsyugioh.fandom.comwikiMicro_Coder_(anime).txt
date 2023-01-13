@@ -1,0 +1,134 @@
+Link: https://yugioh.fandom.com/wiki/Micro_Coder_(anime)
+
+Main card page: " Micro Coder " 
+ Micro Coder 
+ 
+ Japanese:   マイクロ・コーダー 
+ Romaji:   Maikuro Kōdā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   DARK 
+ 
+ Level 
+ 
+ 
+ 1   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Unclassified 
+ Trigger 
+ Condition 
+ [  Cyberse  /  Effect  ] If a  Cyberse   monster  you  control  would be used as  Link Material  for a " Code Talker " monster, this card in your  hand  can also be used as material. If this card is  sent  from the hand or  field  to the GY as material for the  Link Summon  of a "Code Talker" monster: You can either  add  1 "Cynet"  Spell / Trap  from your  Deck  to your hand, or, if this card on the field was used as material, you can add 1  Level  4 Cyberse monster instead. You can only use each  effect  of "Micro Coder"  once per turn .
+ ATK  /  300     DEF  /  0   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  102 ,  104 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ マイクロ・コーダー 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドのサイバース族モンスターを「コード・トーカー」モンスターのリンク素材とする場合、手札のこのカードもリンク素材にできる。②：このカードが「コード・トーカー」モンスターのリンク素材として手札・フィールドから墓地へ送られた場合に発動できる。デッキから「サイバネット」魔法・罠カード１枚を手札に加える。フィールドのこのカードを素材とした場合にはその１枚をサイバース族・レベル４モンスター１体にできる。 
+ 
+ 
+ Maikuro Kōdā 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Cyberse 
+ 
+ Supports   archetypes   
+ Code Talker  
+ Cynet 
+ 
+ Actions  
+ Uses cards in the hand as Link Materials 
+ Activates from your Graveyard 
+ Activates if used as Link Material 
+ Adds from Deck to hand 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ 
+   " Micro Coder " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+" Code Talker " 「コード・トーカー」 a   +   Members 
+ Accesscode Talker Code Talker Decode Talker Decode Talker Extended Encode Talker Excode Talker Powercode Talker Shootingcode Talker Transcode Talker Transcode Talker 
+ Support 
+ Code Generator Code Hack Cynet Codec Cynet Optimization Limit Code Micro Coder Recoded Alive Talkback Lancer Transcode Talker 
+ Related 
+ Dark Templar @Ignister Decode Destruction 
+ 
+ v e 
+" Cynet " 「サイバネット」 a   +   Members 
+ Cynet Backdoor Cynet Closure Cynet Codec Cynet Defrag Cynet Fusion Cynet Mining Cynet Optimization Cynet Refresh Cynet Ritual Cynet Storm Cynet Token Cynet Universe 
+ Support 
+ Micro Coder 
+ Related 
+ Clock Spartoi Clock Spartoi Cyberse Magician Cyberse Witch 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a9/MicroCoder-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20190515133559', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/5d/MicroCoder-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20190515132956', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

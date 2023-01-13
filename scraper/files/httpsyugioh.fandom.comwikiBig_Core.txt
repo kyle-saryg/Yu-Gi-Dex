@@ -1,0 +1,591 @@
+Link: https://yugioh.fandom.com/wiki/Big_Core
+
+The  Croatian  and  Greek                       names given are not official.  
+ 
+ This card's latest English erratum comes from the  Yu-Gi-Oh! Trading Card Game - Card Database  and has not yet been printed on a physical card, so the listed card text will differ from the card image.     
+ 
+ 
+ 
+ B.E.S. Big Core 巨 大 戦 艦  ビッグ・コア 
+ 
+ English 
+B.E.S. Big Core 
+ French 
+ B.E.S. Grand Vaisseau Check translation 
+ German 
+ B.E.S. Großer Kern Check translation 
+ Italian 
+ B.E.S. Nucleo Potente Check translation 
+ Korean 
+ 거대전함 빅 코어 Check translation 
+ Portuguese 
+ B.E.S. Núcleo Grande Check translation 
+ Spanish 
+ B.E.S. Núcleo Grande Check translation 
+ Japanese (kana) 
+ きょだいせんかん ビッグ・コア Check translation 
+ Japanese (base) 
+ 巨大戦艦 ビッグ・コア Check translation 
+ Japanese ( rōmaji ) 
+Kyodai Senkan - Biggu Koa 
+ Japanese (translated) 
+Giant Battleship - Big Core 
+ Other names 
+Big Core 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Machine  /  Effect 
+ Level 
+ 6   
+ ATK  /  DEF 
+ 2300  /  1100 
+ Passcode 
+ 14148099 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Continuous 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If this card is  Normal Summoned : Place 3  counters  on it. Cannot be  destroyed by battle . At the end of the  Damage Step , if this card  battled : Remove 1 counter from this card. If you cannot,  destroy  it. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si cette carte est Invoquée Normalement : placez 3 Compteurs sur elle. Non destructible au combat. À la fin de la Damage Step, si cette carte combat un monstre : retirez 1 Compteur de cette carte. Si vous ne pouvez pas, détruisez-la. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls diese Karte als Normalbeschwörung beschworen wird: Lege 3 Zählmarken darauf. Kann nicht durch Kampf zerstört werden. Am Ende des Damage Steps, falls diese Karte gegen ein Monster kämpft: Entferne 1 Zählmarke von dieser Karte. Falls du das nicht kannst, zerstöre sie. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se questa carta viene Evocata Normalmente: metti 3 Segnalini su di essa. Non può essere distrutta in battaglia. Alla fine del Damage Step, se questa carta combatte con un mostro: rimuovi 1 Segnalino da questa carta. Se non puoi, distruggila. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Ponha 3 Contadores nesta carta quando você a Invoca por Invocação Normal. Essa carta não é destruída como resultado de batalha. Se essa carta batalhar com um monstro, remova 1 Contador dela no fim da  Damage Step . Se essa carta batalhar sem um Contador, destrua-a no fim da  Damage Step . 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si esta carta es Invocada de Modo Normal: ponle 3 contadores. No puede ser destruida en batalla. Al final del Damage Step, si esta carta batalla con un monstruo: retira 1 contador de esta carta. Si no puedes, destrúyela. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードの召喚時にカウンターを３つ置く。このカードは戦闘によっては破壊されない。戦闘を行った場合、ダメージステップ終了時にこのカードのカウンターを１つ取り除く。カウンターのない状態で戦闘を行った場合、ダメージステップ終了時にこのカードを破壊する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드의 일반 소환시에 카운터를 3개 놓는다. 이 카드는 전투에 의해서는 파괴되지 않는다. 전투를 실행했을 경우, 데미지 스텝 종료시에 이 카드의 카운터를 1개 제거한다. 카운터가 없는 상태에서 전투를 실행했을 경우, 데미지 스텝 종료시에 이 카드를 파괴한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2004-11-20  
+ RDS-EN030   
+ Rise of Destiny 
+ Super Rare 
+ 
+ 
+ 2004-11-20  
+ RDS-EN030   
+ Rise of Destiny 
+ Ultimate Rare 
+ 
+ 
+ 2006-11-25  
+ DR3-EN090   
+ Dark Revelation Volume 3 
+ Super Rare 
+ 
+ 
+ 2017-04-06  
+ OP04-EN016   
+ OTS Tournament Pack 4 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2004-11-01  
+ RDS-FR030   
+ Rise of Destiny 
+ Avènement du Destin  
+ Super Rare 
+ 
+ 
+ 2004-11-01  
+ RDS-FR030   
+ Rise of Destiny 
+ Avènement du Destin  
+ Ultimate Rare 
+ 
+ 
+ 2006-11-25  
+ DR3-FR090   
+ Dark Revelation Volume 3 
+ Sombre Révélation Volume 3  
+ Super Rare 
+ 
+ 
+ 2017-04-06  
+ OP04-FR016   
+ OTS Tournament Pack 4 
+ OTS Pack de Tournoi 4  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2004-12-01  
+ RDS-DE030   
+ Rise of Destiny 
+ Rise of Destiny  
+ Super Rare 
+ 
+ 
+ 2004-12-01  
+ RDS-DE030   
+ Rise of Destiny 
+ Rise of Destiny  
+ Ultimate Rare 
+ 
+ 
+ 2006-11-25  
+ DR3-DE090   
+ Dark Revelation Volume 3 
+ Dark Revelation Volume 3  
+ Super Rare 
+ 
+ 
+ 2017-04-06  
+ OP04-DE016   
+ OTS Tournament Pack 4 
+ OTS Tournament Pack 4  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2004-12-01  
+ RDS-IT030   
+ Rise of Destiny 
+ Ascesa del Destino  
+ Super Rare 
+ 
+ 
+ 2004-12-01  
+ RDS-IT030   
+ Rise of Destiny 
+ Ascesa del Destino  
+ Ultimate Rare 
+ 
+ 
+ 2006-11-25  
+ DR3-IT090   
+ Dark Revelation Volume 3 
+ Rivelazione Oscura Volume 3  
+ Super Rare 
+ 
+ 
+ 2017-04-06  
+ OP04-IT016   
+ OTS Tournament Pack 4 
+ OTS Buste da Torneo 4  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2004-12-01  
+ RDS-PT030   
+ Rise of Destiny 
+ Ascenção do Destino  
+ Super Rare 
+ 
+ 
+ 2004-12-01  
+ RDS-PT030   
+ Rise of Destiny 
+ Ascenção do Destino  
+ Ultimate Rare 
+ 
+ 
+ 2017-04-07  
+ OP04-PT016   
+ OTS Tournament Pack 4 
+ OTS Pacote de Torneio 4  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2004-11-01  
+ RDS-SP030   
+ Rise of Destiny 
+ Auge del Destino  
+ Super Rare 
+ 
+ 
+ 2004-11-01  
+ RDS-SP030   
+ Rise of Destiny 
+ Auge del Destino  
+ Ultimate Rare 
+ 
+ 
+ 2006-11-25  
+ DR3-SP090   
+ Dark Revelation Volume 3 
+ Revelación Oscura Volumen 3  
+ Super Rare 
+ 
+ 
+ 2017-04-06  
+ OP04-SP016   
+ OTS Tournament Pack 4 
+ OTS Sobre Torneo 4  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2004-08-05  
+ RDS-JP030   
+ Rise of Destiny 
+ ＲＩＳＥ ＯＦ ＤＥＳＴＩＮＹ  
+ Super Rare 
+ 
+ 
+ 2004-08-05  
+ RDS-JP030   
+ Rise of Destiny 
+ ＲＩＳＥ ＯＦ ＤＥＳＴＩＮＹ  
+ Ultimate Rare 
+ 
+ 
+   
+ EE3-JP090   
+ Expert Edition Volume.3 
+   
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Asian-English 
+ 
+ 
+ 
+ Asian-English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+   
+ RDS-AE030   
+ Rise of Destiny 
+ Super Rare 
+ 
+ 
+   
+ RDS-AE030   
+ Rise of Destiny 
+ Ultimate Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2006-02-07  
+ RDS-KR030   
+ Rise of Destiny 
+ 운명의 시작  
+ Super Rare 
+ 
+ 
+ 2006-02-07  
+ RDS-KR030   
+ Rise of Destiny 
+ 운명의 시작  
+ Ultimate Rare 
+ 
+ 
+   
+ HGP3-KR090   
+ Expert Edition Volume.3 
+   
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Online 
+ 
+ 
+ Pack 34 
+ 
+ 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+ Rise of Destiny 
+ Machine Collection B 
+ All Effect Monsters  ( Common )
+ 
+ All at Random  ( Common ) 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ B.E.S. 
+ 
+ Related to  archetypes  and  series   
+ Konami Arcade Games 
+ 
+ Counters   
+ Counter 
+ Places counters on itself 
+ Removes counters from itself 
+ 
+ Actions  
+ Activates upon Normal Summon 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 6199 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Online 2005-11-04 – Big Core – – – – Unlimited Ultimate Masters: World Championship Tournament 2006 2006-02-23 – Big Core ??? – – – Unlimited 
+ 
+ 
+ 
+   " B.E.S. Big Core " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" B.E.S. " 「 巨 大 戦 艦 」 Members 
+ B.E.S. Big Core B.E.S. Big Core MK-2 B.E.S. Big Core MK-3 B.E.S. Blaster Cannon Core B.E.S. Covered Core B.E.S. Crystal Core B.E.S. Tetran 
+ Support 
+ B.E.S. Big Core MK-3 
+ B.E.F. Zelos Boss Rush 
+ Related 
+ Falchionβ Gradius Gradius' Option Jade Knight Lord British Space Fighter Vic Viper T301 Victory Viper XX03 
+ Cyclon Laser Power Capsule 
+ 
+   
+ Konami Arcade Games Members 
+ Blue Thunder T-45 DUCKER Mobile Cannon Delta Tri Falchionβ Gradius Gradius' Option Jade Knight Lord British Space Fighter Option Token Star Drawing Trigon Vic Viper T301 Victory Viper XX03 
+ Cyclon Laser Dragon Laser Power Capsule 
+ Related 
+ Aitsu Ambitious Gofer B.E.S. Big Core B.E.S. Big Core MK-2 B.E.S. Covered Core B.E.S. Crystal Core B.E.S. Tetran Brain Golem Doitsu Flint Lock Getsu Fuhma Goe Goe the Gallant Ninja Koitsu Moai Interceptor Cannons Ryu Kokki Sasuke Samurai Sasuke Samurai #2 Sasuke Samurai #3 Sasuke Samurai #4 Soitsu Solar Flare Dragon Space Mambo The Statue of Easter Island Tactical Espionage Expert Ultimate Baseball Kid 
+ Big Wave Small Wave Boss Rush D.D.R. - Different Dimension Reincarnation Flint Flint Missile Ninjitsu Art of Decoy Ninjitsu Art of Transformation Option Hunter 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/a/a9/BESBigCore-OP04-EN-C-UE.png/revision/latest/scale-to-width-down/300?cb=20170405161251', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards with unprinted errata, Card pages with an alt name, Duel Monsters cards, TCG cards, OCG cards

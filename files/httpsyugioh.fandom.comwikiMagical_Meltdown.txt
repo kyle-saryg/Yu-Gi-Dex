@@ -1,0 +1,248 @@
+Link: https://yugioh.fandom.com/wiki/Magical_Meltdown
+
+
+ 
+ 
+ Magical Meltdown 暴 走 魔 法 陣 
+ 
+ English 
+Magical Meltdown 
+ French 
+ Effondrement Magique Check translation 
+ German 
+ Magische Schmelze Check translation 
+ Italian 
+ Collasso Magico Check translation 
+ Korean 
+ 폭주마법진 Check translation 
+ Portuguese 
+ Derretimento Mágico Check translation 
+ Spanish 
+ Derretimiento Mágico Check translation 
+ Japanese (kana) 
+ ぼうそうまほうじん Check translation 
+ Japanese (base) 
+ 暴走魔法陣 Check translation 
+ Japanese ( rōmaji ) 
+Bōsō Mahōjin 
+ Japanese (translated) 
+Reckless Magic Square 
+ Card type 
+ Spell   
+ Property 
+ Field   
+ Passcode 
+ 47679935 
+ Card effect types 
+ 
+ 
+ Effect 
+ Continuous-like 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When this card is  activated : You can  add  1 " Aleister the Invoker " from your  Deck  to your  hand . The activation of your cards and  effects  that include an effect that  Fusion Summons  a  Fusion Monster  cannot be  negated , also your opponent's cards and effects cannot activate when a  monster  is Fusion Summoned this way. You can only activate 1 "Magical Meltdown" per  turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Lorsque cette carte est activée : vous pouvez ajouter 1 "Aleister l'Invokhateur" depuis votre Deck à votre main. L'activation de vos cartes et effets qui incluent un effet qui Invoque par Fusion un Monstre de Fusion ne peut pas être annulée, et aussi, les cartes et effets de votre adversaire ne peuvent pas être activés lorsqu'un monstre est Invoqué par Fusion de cette façon. Vous ne pouvez activer qu'1 "Effondrement Magique" par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wenn diese Karte aktiviert wird: Du kannst deiner Hand 1 „Aleister der Beschwörer“ von deinem Deck hinzufügen. Die Aktivierung deiner Karten und Effekte, die einen Effekt enthalten, der ein Fusionsmonster als Fusionsbeschwörung beschwört, kann nicht annulliert werden, zusätzlich können Karten und Effekte deines Gegners nicht aktiviert werden, wenn ein Monster auf diese Art als Fusionsbeschwörung beschworen wird. Du kannst nur 1 „Magische Schmelze“ pro Spielzug aktivieren. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando questa carta viene attivata: puoi aggiungere 1 "Aleister l'Invocatore" dal tuo Deck alla tua mano. Le attivazioni delle tue carte e effetti che includono un effetto che Evoca tramite Fusione un Mostro Fusione non possono essere annullate, inoltre le carte e gli effetti del tuo avversario non possono essere attivate quando un mostro viene Evocato tramite Fusione in questo modo. Puoi attivare solo 1 "Collasso Magico" per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Quando este card for ativado: você pode adicionar 1 "Aleister, Aquele que Invoka" do seu Deck à sua mão. A ativação dos seus cards e efeitos que incluem um efeito que Invoca um Monstro de Fusão por Invocação-Fusão não podem ser negados e, além disso, os cards e efeitos do seu oponente não podem ser ativados quando um monstro é Invocado por Invocação-Fusão desta forma. Você só pode ativar 1 "Derretimento Mágico" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando esta carta es activada: puedes añadir a tu mano, desde tu Deck, 1 "Aleister, el que Invoka". La activacion de tus cartas y efectos que incluyan un efecto que Invoque por Fusión a un Monstruo de Fusión no puede ser negada, y además no pueden activarse las cartas y efectos de tu adversario cuando un monstruo es Invocado por Fusión de esta forma. Sólo puedes activar 1 "Derretimiento Mágico" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名のカードは１ターンに１枚しか発動できない。①：このカードの発動時の効果処理として、デッキから「召喚師アレイスター」１体を手札に加える事ができる。②：このカードがフィールドゾーンに存在する限り、融合モンスターを融合召喚する効果を含む効果を自分が発動した場合、その発動は無効化されず、その融合召喚成功時に相手は魔法・罠・モンスターの効果を発動できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "폭주마법진"은 1턴에 1장밖에 발동할 수 없다. ①: 이 카드의 발동시의 효과 처리로서, 덱에서 "소한사 알레이스터" 1장을 패에 넣을 수 있다. ②: 이 카드가 필드 존에 존재하는 한, 융합 몬스터를 융합 소환하는 효과를 포함하는 효과를 자신이 발동했을 경우, 그 발동은 무효화되지 않으며, 그 융합 소환 성공시에 상대는 마법 / 함정 / 몬스터의 효과를 발동할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2017-02-23 FUEN-EN034 Fusion Enforcers Secret Rare 2018-08-16 SHVA-EN042 Shadows in Valhalla Super Rare 2020-11-12 MAGO-EN152 Maximum Gold Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2017-02-23 FUEN-FR034 Fusion Enforcers Les Executeurs Fusion Secret Rare 2018-08-16 SHVA-FR042 Shadows in Valhalla Les Ombres au Walhalla Super Rare 2020-11-12 MAGO-FR152 Maximum Gold Or Maximum Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2017-02-23 FUEN-DE034 Fusion Enforcers Fusion Enforcers Secret Rare 2018-08-16 SHVA-DE042 Shadows in Valhalla Shadows in Valhalla Super Rare 2020-11-12 MAGO-DE152 Maximum Gold Gold Series: Maximum Gold Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2017-02-23 FUEN-IT034 Fusion Enforcers Esecutori Fusione Secret Rare 2018-08-16 SHVA-IT042 Shadows in Valhalla Ombre nel Valhalla Super Rare 2020-11-12 MAGO-IT152 Maximum Gold Oro Massimo Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2017-02-23 FUEN-PT034 Fusion Enforcers Dominadores da Fusão Secret Rare 2018-08-16 SHVA-PT042 Shadows in Valhalla Sombras em Valhalla Super Rare 2020-11-12 MAGO-PT152 Maximum Gold Ouro Máximo Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2017-02-23 FUEN-SP034 Fusion Enforcers Ejecutores de la Fusión Secret Rare 2018-08-16 SHVA-SP042 Shadows in Valhalla Sombras en Valhalla Super Rare 2020-11-12 MAGO-SP152 Maximum Gold Oro Máximo Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2016-11-12 SPFE-JP034 Booster SP: Fusion Enforcers ブースターＳＰ －フュージョン・エンフォーサーズ－ Common 2016-11-12 SPFE-JP034 Booster SP: Fusion Enforcers ブースターＳＰ －フュージョン・エンフォーサーズ－ Normal Parallel Rare 2020-01-01 20TP-JP113 Tournament Pack 2020 Vol.1 トーナメントパック ２０２０ Ｖｏｌ．１ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2017-03-21 SPFE-KR034 Booster SP: Fusion Enforcers 부스터-SP 퓨전 엔포서즈 Common 2017-03-21 SPFE-KR034 Booster SP: Fusion Enforcers 부스터-SP 퓨전 엔포서즈 Normal Parallel Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Aleister the Invoker 
+ Fusion Summon 
+ 
+ Related to  archetypes  and  series   
+ Invoked 
+ 
+ Actions  
+ Adds from Deck to hand 
+ Prevents the negation of activations 
+ 
+ Monster / Spell / Trap  categories  
+ Prevents activation of your opponent's Effect Monsters 
+ Prevents activation of your opponent's Spell Cards 
+ Prevents activation of your opponent's Trap Cards 
+ 
+ Summoning  categories  
+ Prevents activations upon Summon 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12851 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Invoked " 「 召 喚 獣 」 Members 
+ Invoked Augoeides Invoked Caliga Invoked Cocytus Invoked Elysium Invoked Magellanica Invoked Mechaba Invoked Purgatrio Invoked Raidjin 
+ Support 
+ Invoked Elysium 
+ The Book of the Law Invocation Omega Summon 
+ Related 
+ Aleister the Invoker Aleister the Invoker of Madness Crowley, the First Propheseer Crowley, the Magistus of Grimoires 
+ Alpha Summon Magical Meltdown 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a1/MagicalMeltdown-SHVA-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20180817183844', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/1/14/Field.svg/revision/latest/scale-to-width-down/28?cb=20120920120155']
+Categories: Duel Monsters cards, TCG cards, OCG cards

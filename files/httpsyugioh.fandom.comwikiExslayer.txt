@@ -1,0 +1,134 @@
+Link: https://yugioh.fandom.com/wiki/Exslayer
+
+
+ This card's written lore in the Japanese has not yet been transcribed; if you are able to read Japanese, please help out by adding an accurate Japanese lore from  this image  to this page. The current Japanese lore listed here is only a reconstruction and may not be fully correct.     
+ Exslayer 
+ 
+ Japanese:   エクスレイヤー 
+ Romaji:   Ekusureiyā 
+ Translated:  Xslayer 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   WIND 
+ 
+ Link Arrows 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Bottom-Left ,  Bottom 
+ Material 
+ 
+ 
+ 
+ 2  Cyberse   monsters 
+ 
+ [  Cyberse  /  Link  /  Effect  ] 
+ 2  Cyberse   monsters 
+ While this card  points to  a  monster , your opponent's monsters cannot  target  this card for  attacks .  Once per turn , during  damage calculation , if this card or your  Cyberse  monster this card points to  battles : You can  activate  this  effect ; you take no  battle damage  from that battle. If a monster is  Xyz Summoned  to a  zone  this card points to: You can  Tribute  1 monster;  Special Summon  1  Level  4 or lower monster from your  hand .
+ ATK  /  1000     LINK  –  2   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  118 ,  119 ,  120 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Cyberse 
+ Xyz Monster 
+ 
+ Actions  
+ Activates upon Xyz Summon 
+ Tributes for cost 
+ 
+ Summoning  categories  
+ 2 Link Materials 
+ Requires Type specific Link Materials 
+ Special Summons from your hand 
+ 
+ Attack  categories  
+ Manages attack targets 
+ 
+ LP   
+ Prevents battle damage 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/c/cb/Exslayer-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20190918143628', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/be/Exslayer-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20190911145338', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Card pages with a lore in need of transcription, Anime cards, Anime cards with no OCG/TCG counterpart

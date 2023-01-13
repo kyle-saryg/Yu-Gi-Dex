@@ -1,0 +1,134 @@
+Link: https://yugioh.fandom.com/wiki/Egg_Clutch
+
+
+ Egg Clutch 
+ 
+ Japanese:   産卵床 
+ Kana:   さんらんしょう 
+ Romaji:   Sanranshō 
+ Translated:  Egg Laying Bed 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Trigger-like 
+ Continuous-like 
+ Continuous-like 
+ Quick-like 
+ If an  Insect   monster(s)  is  Special Summoned  to your  field : You can  target  1 monster in your opponent's  Main Monster Zone ; change it to  face-up   Defense Position , and if you do, it becomes Insect- Type , also it has its  effects   negated . While this card is face-up on the field, that monster cannot change its  battle position . When that monster  leaves the field ,  destroy  this card.  Once per turn : You can  Tribute  1 Insect monster; Special Summon up to 2 " Motor Worm Tokens " (Insect/ LIGHT / Level  1/ ATK  0/ DEF  0) to your opponent's field in Defense Position.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  028 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 産 卵 床 
+ ①：自分フィールドに昆虫族モンスターが特殊召喚された場合、相手のメインモンスターゾーンのモンスター１体を対象として発動できる。そのモンスターは表側守備表示になり、種族が昆虫族になり、効果は無効化される。その後、このカードが魔法＆罠ゾーンに存在する限り、対象のモンスターは表示形式を変更できない。対象のモンスターがフィールドから離れた時にこのカードは破壊される。②：１ターンに１度、自分フィールドの昆虫族モンスター１体をリリースして発動できる。相手フィールドに「モーターワームトークン」（昆虫族・光・星１・攻／守０）を２体まで守備表示で特殊召喚する。 
+ 
+ 
+ Sanranshō 
+ 
+ 
+ Decks 
+ 
+ 
+ Aso 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Insect 
+ 
+ Related to  archetypes  and  series   
+ Worm 
+ Motor Worm 
+ 
+ Actions  
+ Changes battle positions 
+ Prevents battle position changes 
+ Tributes for cost 
+ 
+ Stat changes  
+ Changes Type 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your opponent's Effect Monsters 
+ Destroys itself 
+ 
+ Summoning  categories  
+ Special Summons Tokens 
+ Special Summons to your opponent's field 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ v e 
+ Motor Worm  モーターワーム a   r Members 
+ Motor Worm Bait Motor Worm Gate Motor Worm Spreader Queen Motor Worm Token 
+ Related 
+ Egg Clutch Worm Revival Wormhole Defense 
+ 
+ v e 
+" Worm " 「ワーム」 a   r Members 
+ Dimensionhole Dungeon Worm Hack Worm Motor Worm Bait Motor Worm Gate Motor Worm Spreader Queen Motor Worm Token Needle Worm Parasite Worm Predaplant Stapeliaworm Shield Worm Tentacluster Drillworm Time Travel Warm Worm The Wicked Worm Beast Worm Bait Worm Drake Worm Revival Worm Token Wormhole Defense 
+ Support 
+ Worm Bait 
+ Related 
+ Egg Clutch Humanoid Slime Humanoid Worm Drake 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/b1/EggClutch-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20171122145448', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/18?cb=20120920115206']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

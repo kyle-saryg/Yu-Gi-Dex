@@ -1,0 +1,311 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_World_Championship_Tournament_2004
+
+
+ 
+ Yu-Gi-Oh! World Championship Tournament 2004 
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh! World Championship Tournament 2004 
+ 
+ 
+ English  
+ Yu-Gi-Oh! World Championship Tournament 2004 
+ 
+ 
+ Kanji  
+ 遊戯王デュエルモンスターズ エキスパート３ 
+ 
+ 
+ Rōmaji  
+ Yu-Gi-Oh! Duel Monsters Expert 3 
+ 
+ 
+ Developer(s) 
+ Konami 
+ 
+ 
+ Publisher(s) 
+ Konami 
+ 
+ 
+ Platform(s) 
+ Game Boy Advance 
+ 
+ 
+ Release date(s) 
+  February 5, 2004  February 10, 2004  March 26, 2004 
+ 
+ 
+ Yu-Gi-Oh! World Championship Tournament 2004 , known in Japan as  Yu-Gi-Oh! Duel Monsters Expert 3 , is a video game based on the  Yu-Gi-Oh!  franchise.
+ The game has been released on the Game Boy Advance.
+ In the game, the player can assemble three Decks and can play Duel Monsters against a variety of computer opponents.
+ The game features the first 1,138 cards released in Japan (201 spells, 109 traps, 55 fusion monsters, 16 ritual monsters, 224 effect monsters and 533 normal monsters). It is noteworthy that you can collect " Dark Magician " and " Polymerization " in two different artworks, counting as different cards.
+ 
+ Contents 
+ 
+ 1   Opponents 
+ 
+ 1.1   AI behavior 
+ 
+ 
+ 2   Cards 
+ 
+ 2.1   Banned List 
+ 
+ 2.1.1   Limited 
+ 2.1.2   Semi Limited 
+ 
+ 
+ 2.2   Promotional cards 
+ 
+ 2.2.1   International 
+ 2.2.2   Japanese 
+ 
+ 
+ 
+ 
+ 3   Trunk 
+ 4   Game Speed 
+ 5   Glitches 
+ 
+ 5.1   Card text 
+ 5.2   Card Effect 
+ 
+ 
+ 6   Trivia 
+ 7   Game guides 
+ 8   External links 
+ 9   Gallery 
+ 
+ 
+ Opponents 
+ Main article:  Yu-Gi-Oh! World Championship Tournament 2004  Opponents 
+ See also:  Portal:Yu-Gi-Oh! World Championship Tournament 2004 characters 
+ There are 28 opponents in the game. Each opponent has different skills and Decks revolving around a certain theme ( Yugi Muto  = Basic, Rare Hunter = Exodia,  Yami Yugi   = Ultimate, etc.). There is no conversation, you just start duels right away. 
+ Sadly the weaker opponents Decks are full of junk monsters that aren't worth battling like  Winged Cleaver .
+The stronger opposing Decks (Level Four and above) put up a higher challenge since they ignore card limitations.
+ Since many opponents don't use cards against opponents spells/traps the use of stalling cards like  Gravity Bind  can make winning a pretty easy task.
+ 
+ AI behavior 
+ The AI...
+ shows signs of "knowing" face-down cards. i.e. they never attack a set monster if it has higher DEF than their monsters ATK. 
+ never attacks a monster with highest ATK on the field even if they have an equally strong monster and would be able to attack with other monsters afterwards. 
+ will  Normal Summon   Slate Warrior  in  Attack Position  and  attack  on the same  turn , even if your  monster  has an equal ATK. 
+ on the turn after  summoning   Slate Warrior , will switch Slate Warrior to  Defense Position , even if it's the strongest monster on the  field  and it would make sense to keep it in  Attack Position . 
+ only attacks an opponents monster with equal or higher  ATK  in  Defense Position  (like i.e.  Spear Dragon ) when they have a monster with piercing effect. 
+ activates (all of its) traps/spells even while  Royal Decree / Imperial Order  is in play. They are all negated though. 
+ doesn't use their  Mirror Force  as long as they have  Fairy Box  in play. 
+ sometimes only returns 1 of the opponents monsters to their hand using  Penguin Soldier 
+ sometimes uses their  Mystical Space Typhoon  on their self. 
+ Always Tribute Summons, even if the tributed  monster  was stronger than the new monster. 
+ Even Tribute Summons when the tributed monster is the same monster as the new one. 
+ tributes a face-down flip effect monster without  Flip summoning  it first 
+ activates  Monster Reborn  in  Main Phase 2  even if they would have won the  duel  when using it before their  Battle Phase . 
+ does not hesitate to finish them self  i.e. by destroying a face-up opponents  Black Pendant  while having less than 500 LP 
+ never uses their  Snatch Steal 
+ often gets the correct outcome when it activates the effect of  Time Wizard . 
+ uses  Backup Soldier  when its activation requirements are fulfilled even if they don't retrieve any monster from their graveyard at that time. 
+ If a card effect would make one of the AI's monsters stronger than your highest-ATK monster, but the monster is naturally weaker than the latter, the AI will still play it in Defense Position. However, it will switch the monster to Attack Position at the next opportunity. 
+ Cards 
+ Main article:  List of Yu-Gi-Oh! World Championship Tournament 2004 cards 
+ See also:  Category:Yu-Gi-Oh! World Championship Tournament 2004 sets 
+ After winning a duel you can choose a booster pack containing 5 cards.
+ In most cases one of the cards is a (highlighted) rare card. There can be only 1 rare card per pack.
+Since the AI wants you to receive all cards in the game most of the cards it offers are cards you haven't collected so far which makes it hard to collect 3 copies especially of the rare cards.
+ The following cards are also found in the game but it is not yet confirmed to which pack they belong:
+ 
+ Giant Red Seasnake 
+ Restructer Revolution 
+ Banned List 
+ Limited 
+ Cyber Jar 
+ Exiled Force 
+ Fiber Jar 
+ Jinzo 
+ Morphing Jar 
+ Sangan 
+ Sinister Serpent 
+ Slate Warrior 
+ Witch of the Black Forest 
+ Yata-Garasu 
+ Exodia the Forbidden One 
+ Left Leg of the Forbidden One 
+ Right Leg of the Forbidden One 
+ Left Arm of the Forbidden One 
+ Right Arm of the Forbidden One 
+ Card Destruction 
+ Change of Heart 
+ Confiscation 
+ Dark Hole 
+ Delinquent Duo 
+ Graceful Charity 
+ Harpie's Feather Duster 
+ Heavy Storm 
+ Limiter Removal 
+ Mage Power 
+ Mirage of Nightmare 
+ Monster Reborn 
+ Painful Choice 
+ Pot of Greed 
+ Premature Burial 
+ Raigeki 
+ Snatch Steal 
+ Swords of Revealing Light 
+ The Forceful Sentry 
+ United We Stand 
+ Upstart Goblin 
+ Call of the Haunted 
+ Ceasefire 
+ Imperial Order 
+ Magic Cylinder 
+ Mirror Force 
+ Reckless Greed 
+ Ring of Destruction 
+ Semi Limited 
+ Guardian Sphinx 
+ Morphing Jar #2 
+ Nobleman of Crossout 
+ Reinforcement of the Army 
+ Riryoku 
+ Backup Soldier 
+ Promotional cards 
+ International 
+ Main article:  Yu-Gi-Oh! World Championship Tournament 2004 promotional cards 
+ Japanese 
+ Main article:  Yu-Gi-Oh! Duel Monsters 9 Expert 3 promotional cards 
+ Trunk 
+ The number of total cards shown in the top bar is sadly not the number of different cards collected so far. It really means the total number of all cards you have.
+The other numbers in the sub categories only refer to the number of cards in your actually used deck.
+ You can sort cards (only ascending) by chosing sorting criterias one after another. The previous sortings are kept as far as possible. (i.e. sort by 1) name 2) DEF 3) ATK)
+ Sadly there is no useful sorting criteria for spells and traps beside "name".
+ For faster scrolling through the card list push the left/right-button.You will jump to the next 4 cards. For even faster scrolling hold the B-button and press up/down.
+ You start the game with 120 random cards. The default Deck can be optimized right away with other cards in your trunk in most cases.
+ There are cards which are Limited or Semi-Limited. (for you but not for the opponents of higher level).
+ 
+ Game Speed 
+ The speed of Gameplay is relatively slow but can be sped up by holding  L  while dueling or just hold  L  while choosing an opponent.
+ 
+ Glitches 
+ Card text 
+ In both card text and card names, "Magician" has been replaced by "Spellian". This affects cards including " Dark Magician ", " Magician of Black Chaos ", and " Dark Magician Girl ". This is likely as a result of a last-minute changing of "Magic" to " Spell " using a mass-text replacer on the ROM before release. 
+ Card Effect 
+ You are not asked if you want to activate a trap on an empty game state. So it is not possible to use  Call of the Haunted  during your opponents end phase i.e. 
+ You cannot confirm your opponents deck by yourself when using cards like  Nobleman of Extermination . 
+ Axe of Despair  is not placed on top of your deck even if you have offered a monster for its effect. 
+ You take all the damage from " Burning Land ". 
+ Terrain bonuses sometimes do not benefit the player, but it does benefits AI. 
+ Despite the text saying otherwise, " Maiden of the Aqua " does give the same stat bonuses and penalties as " Umi " when it is face-up on the field. Until another field card is played then it deactivates. 
+ After " Spear Dragon " has attacked, activate " Book of Moon " and "Spear Dragon" would be flipped facedown, therefore, the effect of "Spear Dragon" makes the card into facedown Attack Position. 
+ Your monster is destroyed even if you chain  Book of Moon  to your opponents  Trap Hole . 
+ Monsters gained through the effects of " Red-Moon Baby " are glitched. 
+ Despite the text of " Spellbinding Circle " saying otherwise, if the targeted monster is Tributed, "Spellbinding Circle" is destroyed. 
+ If " Spirit Reaper " is targeted by an Equip Spell, only the Spell is destroyed. 
+ The opponent can switch  Man-Eater Bug  into  Defense Position  the turn it is  Flip Summoned  if no other cards in play prevent it. 
+ When you activate  Call of the Haunted  during your own battle phase while your opponent has no monsters the summoned monster attacks automatically. 
+ After  Book of Moon  was chained to set the target of an opponents  Ring of Destruction  the ring is sent to the graveyard even when  Banisher of Light  is faceup on your side of the field. 
+ The effect of  Nimble Momonga  activates even when it was destroyed by the effect of  Sasuke Samurai . 
+ The opponent can pay LP for  Chain Energy  even if it reduces them to zero. 
+ The opponent  doesn't pay for  Chain Energy  when playing a card that destroys it, like  Heavy Storm 
+ In the following situation you receive Damage equal to the (600) DEF points of an opponents  Man-Eater Bug : You Attack i.e. with  Gemini Elf , the AI activates  Mirror Force , you chain  Ring of Destruction , opponent chains  Seven Tools of the Bandit . 
+ when  Zombyra the Dark  is removed from the field i.e. by the flip effect of a  Cyber Jar  it just destroyed, a replacement monster gets his ATK reduced by 200 (even if it is summoned in facedown DEF mode). 
+ Trivia 
+ The Japanese version of this game uses the censored  TCG  card artworks instead of the Japanese, except for some few cards. 
+ Game guides 
+ Yu-Gi-Oh! Duel Monsters 9 Expert 3 Game Guide 
+ 
+ External links 
+ English World Championship Tournament website 
+ Japanese Expert 3 website 
+ Gallery 
+ North American English cover French cover German cover Japanese cover 
+ v e 
+ Video games Duel Monsters 
+ Duel Monsters 
+ II: Dark duel Stories 
+ Dark Duel Stories  ( III: Tri-Holy God Advent ) 
+ 4: Battle of Great Duelist 
+ The Eternal Duelist Soul  ( 5 Expert 1 ) 
+ 6 Expert 2 
+ The Sacred Cards  ( 7: The Duelcity Legend ) 
+ Reshef of Destruction  ( 8: Reshef of Destruction ) 
+ Worldwide Edition: Stairway to the Destined Duel  ( International ) 
+ Online 
+ Online 
+ Duel Evolution 
+ 3: Duel Accelerator 
+ Power of Chaos 
+ Yugi the Destiny 
+ Kaiba the Revenge 
+ Joey the Passion 
+ Tag Force 
+ GX 1 
+ GX 2 
+ GX Evolution  ( GX The Beginning of Destiny ) 
+ GX 3 
+ 5D's 4 
+ 5D's 5 
+ 5D's 6 
+ ARC-V Special 
+ True Duel Monsters 
+ Forbidden Memories  ( Sealed Memories ) 
+ The Duelists of the Roses  ( 2: Succeeded Memories ) 
+ World Championship 
+ Tournament 2004  ( Duel Monsters Expert 3 ) 
+ 7 Trials to Glory: Tournament 2005   ( Day of the Duelist: Tournament 2005  /   Duel Monsters International 2 ) 
+ Ultimate Masters: Tournament 2006  ( Duel Monsters Expert 2006 ) 
+ 2007 
+ 2008 
+ 5D's 2009: Stardust Accelerator 
+ 5D's 2010: Reverse of Arcadia 
+ 5D's 2011: Over the Nexus 
+ Browser, PC, or mobile 
+ 5D's Mobile 
+ BAM 
+ Pocket 
+ Duel Arena 
+ Duel Generation 
+ Duel Links 
+ Cross Duel 
+ Other handheld 
+ Monster Capsule GB 
+ Dungeon Dice Monsters 
+ Destiny Board Traveler  ( Sugoroku no Sugoroku ) 
+ Nightmare Troubadour 
+ GX Duel Academy  ( GX Mezase Duel King! ) 
+ Double Pack 
+ 2 
+ GX Spirit Caller  ( GX Spirit Summoner ) 
+ GX Card Almanac 
+ ZEXAL World Duel Carnival 
+ Saikyo Card Battle 
+ Other console 
+ Monster Capsule: Breed and Battle 
+ The Falsebound Kingdom 
+ The Dawn of Destiny 
+ Capsule Monster Coliseum 
+ 5D's Wheelie Breakers 
+ 5D's Decade Duels 
+ Plus 
+ 5D's Duel Transer  ( 5D's Master of the Cards ) 
+ Millennium Duels 
+ Rush Duel 
+ Multi-Platform games 
+ Legacy of the Duelist 
+ Legacy of the Duelist: Link Evolution 
+ Master Duel 
+ Other 
+ Multi-Master 
+ Duel Terminal 
+ Duel Dash 
+ 
+ {{ Game guides }} 
+ {{ Video game promotional cards }} 
+ {{ Game guide promotional cards }} 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/05/WC4-VideoGameEN.jpg/revision/latest?cb=20090309194232', 'https://static.wikia.nocookie.net/yugioh/images/9/9e/Flag_of_Japan.svg/revision/latest/scale-to-width-down/20?cb=20081119225453', 'https://static.wikia.nocookie.net/yugioh/images/a/a4/Flag_of_the_United_States.svg/revision/latest/scale-to-width-down/20?cb=20081119225336', 'https://static.wikia.nocookie.net/yugioh/images/b/b7/Flag_of_Europe.svg/revision/latest/scale-to-width-down/20?cb=20081120211606', 'https://static.wikia.nocookie.net/yugioh/images/0/05/WC4-VideoGameEN.jpg/revision/latest/scale-to-width-down/185?cb=20090309194232', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c2/WC4-VideoGameFR.jpg/revision/latest/scale-to-width-down/185?cb=20150605125705', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4f/WC4-VideoGameDE.jpg/revision/latest/scale-to-width-down/184?cb=20150605133105', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/db/EX3-Box-JP.jpg/revision/latest/scale-to-width-down/185?cb=20120511230944', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Yu-Gi-Oh! World Championship Tournament 2004, Video games

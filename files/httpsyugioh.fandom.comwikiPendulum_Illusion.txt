@@ -1,0 +1,108 @@
+Link: https://yugioh.fandom.com/wiki/Pendulum_Illusion
+
+The  English                        name given is not official.  
+ Pendulum Illusion 
+ 
+ Japanese:   ペンデュラム・イリュージョン 
+ Romaji:   Pendyuramu Iryūjon 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ While this card is  face-up  on the  field , you can skip your  Draw Phase . If you do not,  destroy  this card. When a  Pendulum Monster  you  control   battles  an opponent's  monster : You can  send  1  Spell / Trap Card  from your  hand  to the  Graveyard ; that opponent's monster cannot be  destroyed by that battle , its  ATK  and  DEF  become half its current ATK and DEF during that  Battle Phase  only, also if a Pendulum Monster you control  attacks  a  Defense Position  monster during that  battle , inflict  piercing   battle damage  to your opponent.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ARC-V :  143 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ARC-V ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ペンデュラム・イリュージョン 
+ ①：このカードが魔法＆罠ゾーンに存在する限り、自分はドローフェイズをスキップできる。しなかった場合にこのカードは破壊される。②：自分の Ｐ モンスターが相手モンスターと戦闘を行う場合、手札の魔法・罠カード１枚を墓地へ送ってこの効果を発動できる。その相手モンスターはその戦闘では破壊されず、攻撃力・守備力はそのバトルフェイズの間だけ半分になる。また、この戦闘で自分の Ｐ モンスターが相手の守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。 
+ 
+ 
+ Pendyuramu Iryūjon 
+ 
+ 
+ Decks 
+ 
+ 
+ Yuya Sakaki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Pendulum Monster 
+ 
+ Archetypes  and  series   
+ Pendulum  
+ 
+ Actions  
+ Skips Draw Phase 
+ Sends from your hand to your Graveyard 
+ 
+ Stat changes  
+ Changes ATK value 
+ Changes DEF value 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ Piercing 
+ 
+ v e 
+ Pendulum  ペンデュラム a   m   Members 
+ Amazing Pendulum Beast-Eyes Pendulum Dragon Brave-Eyes Pendulum Dragon Magical Pendulum Box Master Spirit Tech Force - Pendulum Ruler Odd-Eyes Pendulum Dragon Pendulum Card Burst Pendulum Climax Pendulum Illusion Pendulum Storm Performapal Pendulum Art & Clean Performapal Pendulum Sorcerer Rune-Eyes Pendulum Dragon Spirit Tech Force - Pendulum Governor 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/99/PendulumIllusion-JP-Anime-AV.png/revision/latest/scale-to-width-down/200?cb=20170221171623', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/18?cb=20120920115206']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

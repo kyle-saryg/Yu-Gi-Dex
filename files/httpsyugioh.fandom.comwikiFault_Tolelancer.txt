@@ -1,0 +1,99 @@
+Link: https://yugioh.fandom.com/wiki/Fault_Tolelancer
+
+
+ Fault Tolelancer 
+ 
+ Japanese:   フォールトトレランサー 
+ Romaji:   Fōruto Toreransā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Level 
+ 
+ 
+ 4   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Trigger 
+ Continuous 
+ [  Cyberse  /  Effect  ] If this card is  Normal Summoned : You can  target  1  Attack Position   monster  on the  field ; change it to  Defense Position . While this card is in Defense Position, your Attack Position monsters cannot be destroyed by  card effects .
+ ATK  /  1000     DEF  /  1200   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  041 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ フォールトトレランサー 
+ ①：このカードが召喚に成功し場合、フィールドの攻撃表示モンスター１体を対象として発動できる。そのモンスターを守備表示にする。②：このカードが自分フィールドに表側守備表示で存在する限り、自分フィールドの攻撃表示モンスターは効果では破壊されない。 
+ 
+ 
+ Fōruto Toreransā 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Activates upon Normal Summon 
+ Changes battle positions 
+ 
+ Monster / Spell / Trap  categories  
+ Cannot be destroyed by card effects 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/bb/FaultTolelancer-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180228131152', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/37/FaultTolelancer-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/144?cb=20180228131150', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

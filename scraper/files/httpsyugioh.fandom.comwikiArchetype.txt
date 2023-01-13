@@ -1,0 +1,523 @@
+Link: https://yugioh.fandom.com/wiki/Archetype
+
+An  archetype , called a  series  (シリーズ  shirīzu ) [1]  or unofficially a  category  (カテゴリ  kategori ) in Japanese, is a group of cards that are supported due to part of their Japanese name.
+ Examples of archetypes include " HERO ", " Spellbook " and " Wind-Up ".
+ Groups of cards with similar names and/or artworks that are not supported or anti-supported explicitly by card effects are called a  series . 
+ 
+ Contents 
+ 
+ 1   Definition 
+ 
+ 1.1   TCG 
+ 
+ 1.1.1   OCG 
+ 
+ 
+ 1.2   OCG/TCG Transition 
+ 
+ 
+ 2   Similarities within archetypes 
+ 3   In the anime and manga 
+ 4   Gallery 
+ 5   See also 
+ 6   References 
+ 
+ 
+ Definition 
+ All members of that group of cards must contain a common string (the name of the archetype) in their members'  Japanese  card names. Also, there must be at least one  support  or  anti-support  card relating to the archetype; that is, a card that mentions " archetype  card" (「？？？」カード)
+ Cards can be part of an existing archetype by listing  Archetype condition  in its card text. These texts are not Card Effects.
+ 
+ TCG 
+ The first letter in a name can be either lowercase or uppercase for it to be considered part of an archetype (e.g. Satellarknights are still  Tellarknights ). But the rest of the name must match in capitalization (e.g. cards with Hero in its name are not HERO cards due to the -ero part being lowercase).
+ 
+ OCG 
+ Ruby  text is considered by itself for archetype membership (e.g. the " Red-Eyes " archetype includes any  monster  whose Japanese name contains 「レッドアイズ」 either as base text or ruby text).
+ For archetype names that contain both base text and ruby text in their Japanese name, a card must exactly match both to be a part of that archetype (e.g. " NEX " is not a " Neo-Spacian " card because 「ネオスペーシアン」 (Neo-Spacian) is not superscripted only above 「Ｎ」).
+ In Korean, due to the poorly made typesetters, an archetype name that contains ruby text is formatted uniquely in the  card text  using parentheses as follows:  base text ( ruby text ) (no space intervening).
+ 
+ OCG/TCG Transition 
+ Cards with the same words in their non-Japanese names are not necessarily part of the same archetype (e.g. " Celtic Guardian " is not a " Guardian " card), which frequently necessitates longer wording in card text or  name changes  to exclude those non-member cards in the  TCG .
+ Archetype conditions are sometimes added due to the card's name in that language lacking the archetype name (e.g. " Chimera the Flying Mythical Beast " and " Axe of Despair "). These are done to rectify errors that arose, including but not limited to liberties with localization, various grammatical rules (notably gender and number agreement, case declension, as well as phrasal word orders) that govern non-English languages such as German, French, Italian, Portuguese, Spanish.
+ Due to the game's long history, some old cards are erraticly categorized in an archetype to TCG's tendencies of alteration from direct translation. These errors are more difficult to rectify, but nonetheless possible with  Reprints  to either rname the card or adding  Archetype-exclusion condition .
+ On the contrary, TCG can change the naming scheme of cards to include the archetype without using  Archetype Condition  previously present for the card's OCG equivalent (" Number 39: Utopia Beyond " being part of the " Utopia " archetype without the need of archetype condition in its text, as with its OCG version).
+ 
+ Similarities within archetypes 
+ Members of the same archetype commonly share a small number of  Attributes  or  Types  (or even both).
+ A lot of archetypes feature similar art as well, for example the " Lightsworn " and " Artifact " archetypes all have a specific background for their monsters, a diamond shape and vault respectively, and " Fire Fist " monsters have a spirit animal and " Six Samurai " tend to have their logo in their art.
+ A common trait of archetypes is to have at least 1  Field Spell Card , typically one that supports the monsters with ATK/DEF increases and other bonuses. Some of the time, these are not part of the archetype by name though, which is a more recent trend, as seen on the " Shaddoll " and " Majespecter " archetypes. Some archetypes may heavily rely on Field Spell Cards such as " Ghostrick " and " Malefic ".
+ Although membership in an archetype is dictated by the Japanese names of the cards, there are cases where the membership of a card in an archetype is unintentional. For example, " Cipher Soldier " predates the " Cipher " archetype by nearly 16 years and has no synergy with the other members of the archetype.
+ Some archetypes are related to each other in some way, for example the  Duel Terminal  archetypes and the " Dracoslayer " archetype being related to the archetypes seen in the main sets, such as " Igknight " and " Dinomist ".
+ 
+ In the anime and manga 
+ The concept of archetypes is often used in the manga and anime series to define a character's personality, look, state of mind or style of play. Most major players did not use archetypes early on due to a lack of archetypes, but as the game developed,  Kaiba  and  Yugi 's Decks grew around an archetype, and Decks based on archetypes such as  Mai Valentine 's and  Maximillion Pegasus 's Decks appeared. Starting with the  Yu-Gi-Oh! GX  anime, virtually all main characters and most minor characters utilize Decks based around archetypes.
+ 
+ Gallery 
+ A card belonging to an archetype, and whose effect constitute its own archetype by being the support (" Toon Table of Contents ") A card whose TCG naming scheme includes itself in an archetype. (" Number 39: Utopia Beyond ") A card whose TCG naming scheme creates a new archetype. (" Polymerization ") A card whose TCG naming scheme excludes itself from an archetype. Rectified. (" Summoned Skull ", "Daemon's Summon" in OCG) A card whose TCG naming scheme unintentionally includes itself in an archetype. Rectified with Archetype Exclusion Condition. (" Diffusion Wave-Motion ") A card whose TCG naming scheme unintentionally includes itself in an archetype. Rectified with name change. (" Black Dragon's Chick ", formerly "Red-Eyes B. Chick") 
+ See also 
+ Category:Archetypes 
+ References 
+ 
+ ↑   遊戯王アーク・ファイブ OCG EXTRA PACK 2015 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/0a/ToonTableofContents-LDS1-EN-UR-1E-Blue.png/revision/latest/scale-to-width-down/127?cb=20200703194921', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1b/Number39UtopiaBeyond-MAGO-EN-R-1E.png/revision/latest/scale-to-width-down/127?cb=20201213172208', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/44/Polymerization-SGX1-EN-C-1E.png/revision/latest/scale-to-width-down/125?cb=20220410010711', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/7f/SummonedSkull-MIL1-EN-C-1E.png/revision/latest/scale-to-width-down/123?cb=20200414204430', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4e/DiffusionWaveMotion-SBLS-EN-C-1E.png/revision/latest/scale-to-width-down/127?cb=20190509215436', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/3a/BlackDragonsChick-LDS1-EN-C-1E.png/revision/latest/scale-to-width-down/127?cb=20200703143927', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Archetypes

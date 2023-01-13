@@ -1,0 +1,577 @@
+Link: https://yugioh.fandom.com/wiki/File:Prana-DULI.png
+
+"Duel Links" redirects here. For virtual reality in the  manga , see  Duel Links (manga) .   
+ 
+ 
+ Yu-Gi-Oh! Duel Links 
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh! Duel Links 
+ 
+ 
+ English  
+ Yu-Gi-Oh! Duel Links 
+ 
+ 
+ Kanji  
+ 遊 ☆ 戯 ☆ 王  デュエルリンクス 
+ 
+ 
+ Rōmaji  
+ Yūgiō Dyueru Rinkusu 
+ 
+ 
+ Developer(s) 
+ Konami 
+ 
+ 
+ Publisher(s) 
+ Konami Digital Entertainment 
+ 
+ 
+ Platform(s) 
+ iOS / Android / PC 
+ 
+ 
+ Release date(s) 
+ September 7, 2016 (Closed Beta) [1] October 27, 2016 (Australia and Singapore) [2] November 17, 2016 (Japan) [3] January 2017 (worldwide) [4] November 17, 2017 (PC) 
+ 
+ 
+ Genre 
+ Card Battling 
+ 
+ 
+ Ratings 
+ PEGI: 7 (Violence)  [5] ESRB: T (Teen) (Fantasy Violence, Mild Blood, Suggestive Themes)  [6] Apple App Store: 9+ (Infrequent/Mild Profanity or Crude Humor, Infrequent/Mild Cartoon or Fantasy Violence, Infrequent/Mild Horror/Fear Themes)  [7] Google Play Store: T (Teen) (Language, Users Interact, Shares Info, Digital Purchases)  [8] 
+ 
+ 
+ Yu-Gi-Oh! Duel Links  is an Android, iOS and PC game. Its name is likely taken from the Duel Links system featured in " TRANSCEND GAME " and  Yu-Gi-Oh! The Dark Side of Dimensions .
+ The game was first announced at Jump Festa 2016. On January 6, 2016, it was officially announced that the game would be released globally, along with the news that  Yu-Gi-Oh! Duel Generation  and  Yu-Gi-Oh! Legacy of the Duelist  would both receive further updates in winter 2016. [9] 
+ On March 18, 2016, the Japanese site was updated with more information about its gameplay, characters, and online content, as well as the first YouTube trailer for the game. Pre-registration for the game is currently open in Japan, with rewards available for accounts pre-registered before the game launch. The rewards are accumulative based on the total number of existing pre-registered accounts when the game launches: 50 gems (10,000), " Dark Magician "  card protectors  (30,000), an additional 50 gems (50,000), a  Yugi Muto -themed  Duel Field  (100,000), and an additional 50 gems (150,000). Additional rewards were added on March 29, 2016, after the number of pre-registered accounts exceeded 200,000: " Blue-Eyes White Dragon " card protectors (200,000), an additional 100 gems (250,000), and a  Seto Kaiba -themed Duel Field (300,000). [10] 
+ On April 19, 2016, the official site announced that in order to further improve the game quality, the game would go into a closed beta testing phase in June. Beta testers are picked randomly among the players who pre-registered the game before April 30, 2016. As a result, the public release date of the game will be postponed to a later date rather than April 2016 as initially planned. Players also receive more rewards at the start of the game which details will be disclosed in further announcements. [10] 
+ Pre-registration emails and surveys were sent out on June 13, 2016 for people in the United States and United Kingdom. On June 23, 2016, the sign-up period was extended. [1]  In late July, e-mails were sent to accepted applicants notifying them of their accepted participation in the Closed Beta Test, as well as informing them that the game would be "polished" for another one to two months before the Closed Beta Test would start. On September 1, 2016, applications for the closed beta closed. The Closed Beta Test started on September 7, 2016, and subsequently closed on September 27, 2016, after maintenance was conducted that day from 1:00 AM - 3:00 AM (EST). It was released worldwide in January 2017.
+ 
+ Contents 
+ 
+ 1   Gameplay 
+ 
+ 1.1   Duel World 
+ 1.2   Online Versus 
+ 
+ 
+ 2   Rules 
+ 3   Timeline Placement 
+ 4   Characters 
+ 
+ 4.1   Playable 
+ 
+ 4.1.1   Yu-Gi-Oh! 
+ 4.1.2   Yu-Gi-Oh! The Dark Side of Dimensions 
+ 4.1.3   Yu-Gi-Oh! GX 
+ 4.1.4   Yu-Gi-Oh! 5Ds 
+ 4.1.5   Yu-Gi-Oh! ZEXAL 
+ 4.1.6   Yu-Gi-Oh! ARC-V 
+ 4.1.7   Yu-Gi-Oh! VRAINS 
+ 
+ 
+ 4.2   Non-playable 
+ 
+ 4.2.1   Legendary Duelists 
+ 4.2.2   Standard Duelists 
+ 4.2.3   Other Duelists 
+ 4.2.4   Non-Duelists 
+ 
+ 
+ 
+ 
+ 5   Reception 
+ 6   External links 
+ 7   Trivia 
+ 8   References 
+ 
+ 
+ Gameplay 
+ Duel World 
+ Duel World (デュエルワールド) is the hub area where a character that either is a Standard Duelist (スタンダードデュエリスト) or Legendary Duelist (レジェンドデュエリスト) can be selected and challenged to obtain cards and increase the character's Level. It is possible to increase the stage level by doing missions, and by doing so, a new Legendary Duelist or new features will appear.
+ 
+ Online Versus 
+ It allows real time duels with other Duelists or friends around the world in  Duel Links . Furthermore, there are practice plays, Decks from Duelists played against, and replays from other Duelists can be watched.
+ 
+ Rules 
+ The  Speed Duel  format is used.
+ Each player only has three  Monster Zones  and three  Spell & Trap Zones , rather than five of each (the left and right Spell & Trap Zones act as Pendulum Zones. However, certain Skills can create separate Pendulum Zones, similar to Master Rules 3). 
+ Each player has one  Field Zone . 
+ There are two  Extra Monster Zones . 
+ Each player must have 20-30 cards in their  Main Deck  (instead of 40-60) and 0-8 (only in Duel Links) cards in the  Extra Deck  (instead of 0-15) . 
+ Each player starts with 4000  LP , rather than 8000 LP. 
+ Each player starts with four cards in their hand, rather than five. 
+ There is no  Main Phase 2 . The  End Phase  takes place right after the  Battle Phase . 
+ Each player can have one  Skill . The available Skills vary between characters. Depending on the Skill, it may be always activated at the start of the Duel (e.g. starting with " Yami " on the field), optionally activated when a player meets certain conditions (e.g. ensuring the next drawn card is a Spell or Trap Card after the player's Life Points have dropped by 1800), or always activated when a condition is met (e.g. inflicting damage when the player activates a Trap Card).
+ Monsters played by a Skill  are  treated as if they have been properly Special Summoned. So they can be Special Summoned from the GY. 
+ Cards that mention  Main Phase 2  have their effects changed to remove it. 
+ Some cards that inflict  effect damage  have their damage halved (e.g.,  Lava Golem ). 
+ You can only have a total of 1  Limited 1  cards in your deck instead of 1 of each  limited  card. 
+ You can only have a total of 2  Limited 2  cards in your deck instead of 2 of each  semi-limited  card. 
+ You can only have a total of 3  Limited 3  cards. 
+ Timeline Placement 
+ Duel Links, before DSOD world release, did not fit perfectly into the timeline of any adaptation of Yu-Gi-Oh!. Inconsistencies with the series timeline are explained in dialogue as a product of Kaiba's programming.
+ The GX , 5D's and Zexal portions of Duel Links does not reference the manga at all. Rather than stick to a certain time period, the game portrays characters at the point in the series where they were most prominent. Though there is dialogue for cards not used by them in the anime (like Blazeman and Terra Firma for Jaden). 
+ After DSOD world release, the main lore followed the events of The Dark Side of Dimensions, and in dialogue it was explained DM world and characters are just a simulation running inside Duel Links. There's no mention about GX and 5D's worlds being also a simulation.
+ 
+ Characters 
+ Playable 
+ Yu-Gi-Oh! 
+ Yami Yugi Seto Kaiba Joey Wheeler Mai Valentine Téa Gardner Yugi Muto Weevil Underwood Rex Raptor Mako Tsunami Yami Marik Yami Bakura Bandit Keith Ishizu Ishtar Odion Maximillion Pegasus Mokuba Kaiba Paradox Brothers Arkana Bonz Espa Roba Tristan Taylor Lumis and Umbra Duke Devlin 
+ Yu-Gi-Oh! The Dark Side of Dimensions 
+ Seto Kaiba (DSOD) Mokuba Kaiba (DSOD) Yugi Muto (DSOD) Joey Wheeler (DSOD) Téa Gardner (DSOD) Aigami Sera Scud Bakura (DSOD) 
+ Yu-Gi-Oh! GX 
+ Jaden Yuki Zane Truesdale Aster Phoenix Jesse Anderson Chazz Princeton Alexis Rhodes Dr. Vellian Crowler Yubel Bastion Misawa Syrus Truesdale Tyranno Hassleberry Sartorius Kumar Jaden/Yubel Blair Flannigan Jim Crocodile Cook Axel Brodie Supreme King Jaden 
+ Yu-Gi-Oh! 5Ds 
+ Yusei Fudo Jack Atlas Crow Hogan Akiza Izinski Leo Luna Antinomy Officer Tetsu Trudge Dark Signer Kalin Kessler Dark Signer Carly Carmine Dark Signer Rex Goodwin Kalin Kessler Carly Carmine Primo Aporia Paradox 
+ Yu-Gi-Oh! ZEXAL 
+ Yuma and Astral Reginald "Shark" Kastle Rio Kastle Bronk Stone Tori Meadows Kite Tenjo Quattro Trey Anna Kaboom ZEXAL 
+ Yu-Gi-Oh! ARC-V 
+ Yuya Sakaki Yuto Zuzu Boyle Gong Strong Sylvio Sawatari Declan Akaba Sora Perse 
+ Yu-Gi-Oh! VRAINS 
+ PlaymakerAi-DULI.png Yusaku Fujiki Soulburner-DULI.png Theodore Hamilton TheGore-DULI.png George Gore BlueAngel-DULI.png Skye Zaizen 
+ Non-playable 
+ Legendary Duelists 
+ Legendary Duelists  are duelists based on characters from the anime or manga. All playable characters are also Legendary Duelists, but there are several Legendary Duelists who are not playable characters or haven't become playable yet.
+ 
+ AkiraZaizen-DULI.png Akira Zaizen AtticusRhodes-DULI.png Atticus Rhodes Celina-DULI.png Celina DarkSignerRomanGoodwin-DULI.png Dark Signer Roman Goodwin GhostGal-DULI.png Emma Bessho Mizar-DULI.png Mizar Quinton Varis-DULI.png Ryoken Kogami ShayObsidian-DULI.png Shay Obsidian Shepherd-DULI.png Kenneth Drayden Specter-DULI.png Specter Tristan Taylor (DSOD) Trueman-DULI.png Trueman Vetrix Yugo-DULI.png Yugo Yuri-DULI.png Yuri Zone-DULI.png Z-one 
+ Standard Duelists 
+ Standard Duelists  are game-original human NPCs who have generic denominations in the Japanese version (such as "Student who likes Dueling" or "Energetic boy"), but are given actual names in Western versions.
+ 
+ Alyssa Andrew Ashley Bella BraveBattler-DULI.png Naoki Shima Chloe Christine Daniel David Emma Emmeline Erika Evan Fani Hailey Handsome Stan Henry Jay Jess Josh KnightofHanoi-DULI.png Knight of Hanoi Kylie Liam Logan Madison Margaret Meg Mia Mickey Nick Oliver Ruby Sector Security Sunny-DULI.png Sunny Theo Vega-DULI.png Vega Wild Dan Zachary 
+ Other Duelists 
+ Abaki Alien Grey Ancient Brain Archlord Kristya Battle Footballer Behemoth the King of All Animals Beiige, Vanguard of Dark World Blast Asmodian Bone Crusher Bottom Dweller Brron, Mad King of Dark World Chaos Sorcerer Chills D.D. Trainer Dark Diva Dark Master - Zorc Dark Ruler Ha Des Des Kangaroo Desert Twister Doom Dozer Earthbound Immortal Ccarayhua Earthbound Immortal Chacu Challhua Earthbound Immortal Cusillu Earthbound Immortal Uru Evil HERO Infernal Gainer Evil HERO Lightning Golem Evil HERO Malicious Edge Flame Dancer Five-Headed Dragon Gaia Soul the Combustible Collective Ghost Gladiator Beast Andal Goblin Zombie Gradius Grady Grapha, Dragon Lord of Dark World Green Baboon, Defender of the Forest Guardian Baou Guardian of the Labyrinth Hamon, Lord of Striking Thunder Headless Knight Imairuka Jakob Karate Man King of the Skull Servants Lan Jinn the Mystical Genie of the Lamp Lawton Lester Levia-Dragon - Daedalus Malcolm Crew Megarock Dragon Meklord Emperor Wisel Mind-Controlled Joey Mokey Mokey Mokey Mokey King Molten Zombie Ocean Dragon Lord - Neo-Daedalus Ojama Black Ojama Green Ojama Yellow Orbital 7 Phantom Beast Wild-Horn Poki Draco Sera's Avatar Rare Hunters Raviel, Lord of Phantasms Reign-Beaux, Overlord of Dark World Scarr, Scout of Dark World Scorch Sherry LeBlanc Skilled Dark Magician Skilled Red Magician Skilled White Magician Skull Knight Skull Servant Sky Scout Sonic Shooter Spirit of Flames Star Boy Stray Asmodian Strings The Creator The Six Samurai - Nisashi The Six Samurai - Yariza The Vagabond The Vagrant Thunder Kid Tornado Bird Tour Guide From the Underworld Turu-Purun Uminotaurus Uria, Lord of Searing Flames Vampire Dragon Vampire Familiar Vampire Genesis Vampire Grace Vampire Grimson Vampire Lord Vampire Retainer Vampire Scarlet Scourge Vampire Vamp Volcanic Blaster Volcanic Doomfire Volcanic Hammerer Volcanic Rat Volcanic Rocket Volcanic Shell Volcanic Slicer White Magician Pikeru Witch's Apprentice Yellow Baboon, Archer of the Forest Zeman the Ape King Zure, Knight of Dark World 
+ Non-Duelists 
+ Ancient Fairy Dragon Bakura (DM) Bruno Card Trader Card Trader EX Dark Blade D.D. Guide Magic Cowboy Tristan Marik Ishtar MC Melissa Trail Roland Vampire Hunter Winged Kuriboh 
+ Reception 
+ Yu-Gi-Oh! Duel Links  received "generally favorable" reviews on Metacritic holding a metascore of 80/100 on iOS. [11] 
+ 
+ External links 
+ Yu-Gi-Oh! Duel Links Official Website 
+ Yu-Gi-Oh! Duel Links Official Website   (Japanese) 
+ Official Yu-Gi-Oh! Youtube Channel: Yu-Gi-Oh! Duel Links Promotion Trailer   (Japanese) 
+ Official Yu-Gi-Oh! Youtube Channel: Yu-Gi-Oh! Duel Links Gameplay Video   (Japanese) 
+ Official Gameplay Video of Joey vs Mai   (Japanese) 
+ Yu-Gi-Oh! Duel Links Promotional Video: GX World Unlocked   (Japanese) 
+ Yu-Gi-Oh! Duel Links Promotional Video: 5Ds World Unlocked   (Japanese) 
+ Trivia 
+ Duel Links avoids programming in cards that need the normal field for use. For example, " Scapegoat " {As it summons 4 Tokens}. This is because these cards cannot be used with the reduced field and would be considered useless. 
+ Although the game takes place after the events of  Dark Side of Dimensions , all of the other characters from each series represented thus far somehow know of it's existence, and even remember all of the events of their series also.
+ Examples of the former include...
+ When you unlock 5D's World (and by extension, Yusei Fudo), where Jack is already in Duel Links and - by the time Yusei shows up - reveals that he also told Yusei about it. 
+ When Yuto appears in Duel Links for the first time, even though they - along with Yuri and Yugo - are still in Yuya's body at the end of the Arc-V anime.
+ In Yuto's event, the game reveals he has amnesia (to the point where he doesn't even remember his own name at first), so he has to recover his memories of what happened throughout the anime over the course of the event. 
+ When Tori, Anna and Rio appear in Duel Links for the first time, upset at Yuma (and Shark, in Rio's case) for knowing about Duel Links and not telling them about it. 
+ The latter leads to very interesting interactions, such as Yusei and Akiza meeting Carly as a Dark Signer, the Arc-V cast entering the 5D's and ZEXAL Duel Worlds during the Declan event while meeting the original versions of Crow, Jack and Kite, Alexis meeting Jaden as The Supreme King and more. 
+ References 
+ 
+ ↑  1.0   1.1   "Closed beta test play offer" . Konami Digital Entertainment .  https://spg.s.game.konami.jp/yugioh_dl_cbt_en/note.php . 
+ 
+ ↑   "To those who were chosen for the "Yu-Gi-Oh! Duel Links" Closed Beta Test (Android Ver.)" . Konami Digital Entertainment. Archived from  the original  on December 8, 2016 .  https://web.archive.org/web/20161208122053/https://www.konami.com/yugioh/duel_links/en/ . 
+ 
+ ↑   "777,777 People Pre-registered! "Yu-Gi-Oh! DUEL LINKS" Launch Today!" . Konami Digital Entertainment .  https://www.konami.com/games/corporate/en/news/release/20161117/?cm_sp=01-_-release-_-20161117-e . 
+ 
+ ↑   "Worldwide Release Begins Mid-January 2017! Mobile Game "Yu-Gi-Oh! DUEL LINKS"" . Konami Digital Entertainment .  https://www.konami.com/games/corporate/en/news/release/20161208_2/?cm_sp=01-_-release-_-20161208_2-e . 
+ 
+ ↑   http://store.steampowered.com/app/601510/YuGiOh_Duel_Links/ 
+ 
+ ↑   http://store.steampowered.com/app/601510/YuGiOh_Duel_Links/ 
+ 
+ ↑   https://apps.apple.com/us/app/yu-gi-oh-duel-links/id1068378177 
+ 
+ ↑   https://play.google.com/store/apps/details?id=jp.konami.duellinks&hl=en_US 
+ 
+ ↑   "Konami announces release of new Yu-Gi-Oh! content across multiple formats for 2016" . yugioh-card.com .  http://www.yugioh-card.com/uk/news/press_multi_format.html . 
+ 
+ ↑  10.0   10.1   "Yu-Gi-Oh! Duel Links" . Konami Digital Entertainment .  http://www.konami.jp/yugioh/duel_links/ . 
+ 
+ ↑   Metascore for Yu-Gi-Oh! Duel Links on iOS Metacritic , Retrieved April 22, 2020 
+ 
+ 
+ v e 
+ Yu-Gi-Oh! Duel Links Events 
+ Character unlock events 
+ Welcome to Toon World 
+ Fear the Deck of Terror! The Destiny Board of Doom 
+ Paradox Brothers: Guardians of the Gate 
+ Attack of the Rare Hunters! Yami Marik Returns! 
+ Duelist Chronicles: Set Sail for the Kingdom! 
+ Dr. Crowler's Tricky Tests 
+ Bonz's Spooky Zombie Party 
+ Duelist Chronicles: Battle City Begins! 
+ Tag Duel Tournament 
+ Awaken! Rainbow Dragon! 
+ Syrus Truesdale's Road to Duel Links 
+ Espa Roba's Duel Carnival 
+ Cyberdark Impact! Zane Truesdale Strikes! 
+ Tabletop RPG: Monster World 
+ Rise of Yubel - The Ultimate Nightmare 
+ Sector Security on the Move! Officer Tetsu Trudge 
+ Atlas Rising: The Return of Jack Atlas 
+ I've Got Dino DNA! Tyranno Hassleberry's Ultimate Evolution 
+ Consumed by Light: Sartorius Emerges 
+ Raid Duel - The Flames of Vengeance: Ccapac Apu 
+ Rise of Yubel - Soul Polymerization 
+ Destiny Decided! Dark Signer Carly Carmine 
+ Transcend Game Part 2 
+ Raid Duel - The Netherworld Cometh: Wiraqocha Rasca 
+ Memories of a Friend 
+ Blair Flannigan's Maiden in Love 
+ Carly Carmine's Duel Links Spotlight! 
+ Raid Duel - Dimensional Disaster: Buster Gundil the Cubic Behemoth 
+ Téa Gardner's Reminiscence of the Future 
+ Duelist Road - Clash at Crash Town 
+ Raid Duel - Dimensional Disaster: Indiora Doom Volt the Cubic Emperor 
+ Shark Attack: Numbers Appear 
+ D.D. Castle: Assault 
+ Number Hunter: Kite Tenjo 
+ Clear Mind: Antinomy the Mysterious Turbo Duelist 
+ Roll the Dice! Duke Devlin Appears! 
+ Raid Duel - Fear the Meklord Emperor 
+ Raid Duel - Giant Grinder: The Meet-and-Greet of Nightmares 
+ D.D. Castle: Supreme King Rises 
+ For the Sake of the Family: Trey Arrives 
+ The Power Beyond Dimensions: Declan Akaba 
+ Raid Duel - The Embodiment of Despair: Meklord Astro Mekanikle 
+ The Dark Duelist of Xyz: Yuto! 
+ Roaming character events 
+ Roaming Duelists 
+ Rex Raptor's Dino Mayhem! 
+ Chazz-A-Thon 
+ Mark of the Dark Signer 
+ Other events 
+ Duel-A-Thon 
+ Duelist Challenges 
+ Card Flipper Campaign 
+ Unleash the Egyptian God Card! Yami Marik Returns II 
+ D.D. Tower: Fire Dimension 
+ D.D. Tower: Water Dimension 
+ Duel Island: -Gladiator- 
+ D.D. Tower: Wind & Earth Dimension 
+ Duelist Chronicles: Battle City Showdown! 
+ D.D. Tower: Dark Dimension 
+ Duel Quest 
+ D.D. Tower: Sacred Light Dimension 
+ Duelist Chronicles GX: Welcome to Duel Academy! 
+ Tour Guide's Bingo Missions 
+ Duelist Chronicles GX: Society of Light 
+ Mark of the Dark Signer 
+ Mission Circuit 
+ Leo and Luna's Duel Carnival 
+ Duelist Chronicles GX: Yubel 
+ Turbo Duel Grand Prix 
+ Duelist Chronicles 5D'S: Fight for the Fortune Cup 
+ Carly's Fortune-Telling 
+ Duelist Chronicles 5D'S: Attack of the Dark Signers 
+ D.D. Castle: Emergence 
+ D.D. Castle: Siege 
+ Duelist Road - The Power of ZEXAL! 
+ Duelist Kingdom 
+ Duelist Road - The Dark Side of Dimensions 
+ Duelist Chronicles 5D's: The Three Emperors of Iliaster 
+ 
+ Items 
+ Card sleeve 
+ Gate Key 
+ Ticket 
+ Icon 
+ Playmat 
+ Sets 
+ Main Packs 
+ The Ultimate Rising 
+ Neo-Impact 
+ Valkyrie's Rage 
+ Chaotic Compliance 
+ Crimson Kingdom 
+ Electric Overload 
+ Generation Next 
+ Galactic Origin 
+ Primal Burst 
+ Abyss Encounters 
+ Valiant Souls 
+ Crusaders' Battlegrounds 
+ Burning Nova 
+ Gaia Genesis 
+ Stardust Acceleration 
+ Blackstorm Rising 
+ Revolution Beginning 
+ Absolute Inferno 
+ Warriors Unite 
+ Blazing Rose 
+ Cybernetic Rebellion 
+ Valhalla Calling 
+ Dark Dimension 
+ Aerial Assault 
+ Future Horizon 
+ Judgement Force 
+ Truth Universe 
+ Witch's Sorcery 
+ Infernity Destruction 
+ Shining Hope 
+ Shark Fang 
+ Infinite Ray 
+ Antinomic Theory 
+ Eternal Stream 
+ Darkness Gimmick 
+ Pendulum Genesis 
+ Chaotic Soldiers 
+ Fantastic Arc 
+ Maximum Gustav 
+ Cross Dimension 
+ Shining Sunrise 
+ Link Revolution 
+ Braver Victory 
+ Mini Packs 
+ Age of Discovery 
+ Flame of the Tyrant 
+ Wonders of the Sky 
+ Land of the Titans 
+ Dawn of Destiny 
+ Echoes of Silence 
+ Servants of Kings 
+ Blades of Spirits 
+ Resonance of Contrast 
+ Rampage of the Forest 
+ Visions of Ice 
+ Clash of Wings 
+ Empire of Scarlet 
+ Power of Bravery 
+ Secrets of the Ancients 
+ Tornado of Phantoms 
+ Dimension of the Wizards 
+ Lords of Shining 
+ Guardians of Rock 
+ Curse of Dread 
+ Spirit of the Beast 
+ Soul of Resurrection 
+ Masters of Shadow 
+ Fortress of Gears 
+ Flames of the Heart 
+ Chronicle of Glory 
+ Arena of Sanctuary 
+ Voltage of the Metal 
+ Rage of Volcano 
+ Photon of Galaxy 
+ Sign of Harpies 
+ The King of Vermilion 
+ Arts of Atlantis 
+ Idea of Armageddon 
+ Force of Infinity 
+ Phantom of Rebellion 
+ Energy of Gigarays 
+ Heart of Xyz 
+ Stars of Synchro 
+ Stage of Trickstar 
+ Structure Decks 
+ Dragonic Force 
+ Sorcerer's Alliance 
+ Legendary Warriors 
+ HERO Rising 
+ Destiny Rulers 
+ Dragonic Knights 
+ Synchro Connection 
+ Swordbound Silence 
+ Return of the Red-Eyes 
+ Hero Generation 
+ Gagaga Xyz 
+ Magicians Arc 
+ Structure Decks EX 
+ Spellbound Silence 
+ The White Dragon of Legend 
+ Ancient Gear Awakening 
+ Neos Fusion 
+ Full Metal Desperado 
+ Masters of Chaos 
+ King's Resonance 
+ Dragunity Overdrive 
+ Gladiator's Storm 
+ Return of the Fire Kings 
+ Tales of the Noble Knights 
+ Blue-Eyes Evolution 
+ Stardust Nexus 
+ Rise of Gaia 
+ Evil Domination 
+ D/D/D Apocalypse 
+ Cyber Style Extreme 
+ Sword of Paladin 
+ Tellarknight Advent 
+ Brave Hope 
+ Ruddy Rose Burning 
+ Cyberse Code 
+ Limited Edition Sets 
+ Selection Box Vol. 01 
+ Selection Box Vol. 01 Mini 
+ Selection Box Vol. 02 
+ Selection Box Vol. 03 
+ Selection Box Vol. 02 Mini 
+ Selection Box Vol. 04 
+ Selection Box Vol. 03 Mini 
+ Selection Box Vol. 01 Super Mini 
+ Selection Box Vol. 05 
+ Selection Box Vol. 04 Mini 
+ Selection Box Vol. 02 Super Mini 
+ Special Packs 
+ New Week Campaign! 
+ Vol.01 
+ Vol.02 
+ Vol.03 
+ Vol.04 
+ 
+ Forbidden/Limited Lists 
+ 2017
+ August 
+ November 
+ 2018
+ January
+ 9 
+ 24 
+ February
+ 5 
+ June
+ 26 
+ August
+ 29 
+ October
+ 29 
+ 2019
+ January
+ 24 
+ March
+ 25 
+ May
+ 16 
+ July
+ 26 
+ August
+ 27 
+ October
+ 28 
+ December
+ 11 
+ 2020
+ March
+ 24 
+ May
+ 21 
+ July
+ 21 
+ October
+ 14 
+ December
+ 15 
+ 2021
+ January
+ 5 
+ March
+ 9 
+ May
+ 10 
+ July
+ 9 
+ August
+ 6 
+ Skill Rebalancing 
+ 2017 
+ 2018 
+ 2019 
+ Miscellaneous 
+ Card Trader 
+ Duel Quiz 
+ Mission Bingo 
+ Loaner Deck Duels 
+ 
+ v e 
+ Video games Duel Monsters 
+ Duel Monsters 
+ II: Dark duel Stories 
+ Dark Duel Stories  ( III: Tri-Holy God Advent ) 
+ 4: Battle of Great Duelist 
+ The Eternal Duelist Soul  ( 5 Expert 1 ) 
+ 6 Expert 2 
+ The Sacred Cards  ( 7: The Duelcity Legend ) 
+ Reshef of Destruction  ( 8: Reshef of Destruction ) 
+ Worldwide Edition: Stairway to the Destined Duel  ( International ) 
+ Online 
+ Online 
+ Duel Evolution 
+ 3: Duel Accelerator 
+ Power of Chaos 
+ Yugi the Destiny 
+ Kaiba the Revenge 
+ Joey the Passion 
+ Tag Force 
+ GX 1 
+ GX 2 
+ GX Evolution  ( GX The Beginning of Destiny ) 
+ GX 3 
+ 5D's 4 
+ 5D's 5 
+ 5D's 6 
+ ARC-V Special 
+ True Duel Monsters 
+ Forbidden Memories  ( Sealed Memories ) 
+ The Duelists of the Roses  ( 2: Succeeded Memories ) 
+ World Championship 
+ Tournament 2004  ( Duel Monsters Expert 3 ) 
+ 7 Trials to Glory: Tournament 2005   ( Day of the Duelist: Tournament 2005  /   Duel Monsters International 2 ) 
+ Ultimate Masters: Tournament 2006  ( Duel Monsters Expert 2006 ) 
+ 2007 
+ 2008 
+ 5D's 2009: Stardust Accelerator 
+ 5D's 2010: Reverse of Arcadia 
+ 5D's 2011: Over the Nexus 
+ Browser, PC, or mobile 
+ 5D's Mobile 
+ BAM 
+ Pocket 
+ Duel Arena 
+ Duel Generation 
+ Duel Links 
+ Cross Duel 
+ Other handheld 
+ Monster Capsule GB 
+ Dungeon Dice Monsters 
+ Destiny Board Traveler  ( Sugoroku no Sugoroku ) 
+ Nightmare Troubadour 
+ GX Duel Academy  ( GX Mezase Duel King! ) 
+ Double Pack 
+ 2 
+ GX Spirit Caller  ( GX Spirit Summoner ) 
+ GX Card Almanac 
+ ZEXAL World Duel Carnival 
+ Saikyo Card Battle 
+ Other console 
+ Monster Capsule: Breed and Battle 
+ The Falsebound Kingdom 
+ The Dawn of Destiny 
+ Capsule Monster Coliseum 
+ 5D's Wheelie Breakers 
+ 5D's Decade Duels 
+ Plus 
+ 5D's Duel Transer  ( 5D's Master of the Cards ) 
+ Millennium Duels 
+ Rush Duel 
+ Multi-Platform games 
+ Legacy of the Duelist 
+ Legacy of the Duelist: Link Evolution 
+ Master Duel 
+ Other 
+ Multi-Master 
+ Duel Terminal 
+ Duel Dash 
+ 
+ {{ Game guides }} 
+ {{ Video game promotional cards }} 
+ {{ Game guide promotional cards }} 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/6e/DL-VideoGameJP.png/revision/latest/scale-to-width-down/350?cb=20160619175404', 'https://static.wikia.nocookie.net/yugioh/images/c/c4/YamiYugi-DULI.png/revision/latest/scale-to-width-down/132?cb=20180331132457', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/23/SetoKaiba-DL.png/revision/latest/scale-to-width-down/158?cb=20190614200609', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1f/JoeyWheeler-DULI.png/revision/latest/scale-to-width-down/146?cb=20211007115529', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/42/MaiValentine-DULI.png/revision/latest/scale-to-width-down/94?cb=20180331132700', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/T%C3%A9aGardner-DULI.png/revision/latest/scale-to-width-down/102?cb=20180331132758', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d1/YugiMuto-DULI.png/revision/latest/scale-to-width-down/107?cb=20180331132907', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/0a/WeevilUnderwood-DULI.png/revision/latest/scale-to-width-down/101?cb=20180331133014', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/3e/RexRaptor-DULI.png/revision/latest/scale-to-width-down/99?cb=20180706092723', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/56/MakoTsunami-DULI.png/revision/latest/scale-to-width-down/102?cb=20180331133210', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f7/YamiMarik-DULI.png/revision/latest/scale-to-width-down/153?cb=20170728075955', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/ae/YamiBakura-DULI.png/revision/latest/scale-to-width-down/109?cb=20170515095008', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/85/BanditKeith-DULI.png/revision/latest/scale-to-width-down/135?cb=20180820141309', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/ac/IshizuIshtar-DULI.png/revision/latest/scale-to-width-down/155?cb=20190614172452', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/3a/Odion-DULI.png/revision/latest/scale-to-width-down/167?cb=20200229114804', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e5/MaximillionPegasus-DULI.png/revision/latest/scale-to-width-down/112?cb=20180410112053', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/99/MokubaKaiba-DULI.png/revision/latest/scale-to-width-down/88?cb=20171001200858', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/10/ParadoxBrothers-DULI.png/revision/latest/scale-to-width-down/185?cb=20171024133032', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/00/Arkana-DULI.png/revision/latest/scale-to-width-down/151?cb=20170720113617', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/54/Bonz-DULI.png/revision/latest/scale-to-width-down/78?cb=20171012164151', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c8/EspaRoba-DULI.png/revision/latest/scale-to-width-down/107?cb=20171121164121', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c9/TristanTaylor-DULI.png/revision/latest/scale-to-width-down/113?cb=20180331160659', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b1/LumisUmbra-DULI.png/revision/latest/scale-to-width-down/185?cb=20190227033223', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/60/DukeDevlin-DULI.png/revision/latest/scale-to-width-down/113?cb=20210625133724', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2e/SetoKaibaDSOD-DULI.png/revision/latest/scale-to-width-down/156?cb=20190929175200', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/34/MokubaKaibaDSOD-DULI.png/revision/latest/scale-to-width-down/84?cb=20190929175428', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/79/YugiMutoDSOD-DULI.png/revision/latest/scale-to-width-down/85?cb=20200521120308', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/06/JoeyWheelerDSOD-DULI.png/revision/latest/scale-to-width-down/117?cb=20200216033418', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d2/T%C3%A9aGardnerDSOD-DULI.png/revision/latest/scale-to-width-down/102?cb=20200625154047', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/fb/Aigami-DULI.png/revision/latest/scale-to-width-down/146?cb=20191213101020', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/79/Sera-DULI.png/revision/latest/scale-to-width-down/95?cb=20190929175458', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/fb/Scud-DULI.png/revision/latest/scale-to-width-down/146?cb=20190929175516', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/59/BakuraRyo-DULI.png/revision/latest/scale-to-width-down/101?cb=20201028183729', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/af/JadenYuki-DULI.png/revision/latest/scale-to-width-down/105?cb=20170928115013', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/71/ZaneTruesdale-DULI.png/revision/latest/scale-to-width-down/149?cb=20180109132648', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/5d/AsterPhoenix-DULI.png/revision/latest/scale-to-width-down/88?cb=20171006075624', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/06/JesseAnderson-DULI.png/revision/latest/scale-to-width-down/89?cb=20171106161229', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/85/ChazzPrinceton-DULI.png/revision/latest/scale-to-width-down/109?cb=20170929195401', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/34/AlexisRhodes-DULI.png/revision/latest/scale-to-width-down/113?cb=20171001200008', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/54/DrVellianCrowler-DULI.png/revision/latest/scale-to-width-down/157?cb=20171025124152', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d3/Yubel-DULI.png/revision/latest/scale-to-width-down/157?cb=20181030070111', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/00/BastionMisawa-DULI.png/revision/latest/scale-to-width-down/85?cb=20171006075515', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/77/SyrusTruesdale-DULI.png/revision/latest/scale-to-width-down/116?cb=20180626170532', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/8a/TyrannoHassleberry-DULI.png/revision/latest/scale-to-width-down/126?cb=20190604220457', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/38/SartoriusKumar-DULI.png/revision/latest/scale-to-width-down/182?cb=20200416231046', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/10/JadenYubel-DULI.png/revision/latest/scale-to-width-down/118?cb=20190801022018', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/77/BlairFlannigan-DULI.png/revision/latest/scale-to-width-down/111?cb=20200130030515', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c8/JimCrocodileCook-DULI.png/revision/latest/scale-to-width-down/123?cb=20220702213815', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2a/AxelBrodie-DULI.png/revision/latest/scale-to-width-down/124?cb=20201026151914', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2e/SupremeKing-DULI.png/revision/latest/scale-to-width-down/185?cb=20210701124811', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/09/YuseiFudo-DULI.png/revision/latest/scale-to-width-down/113?cb=20181030064400', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/ef/JackAtlas-DULI.png/revision/latest/scale-to-width-down/122?cb=20181128053529', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/33/CrowHogan-DULI.png/revision/latest/scale-to-width-down/84?cb=20181030065124', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/0e/AkizaIzinski-DULI.png/revision/latest/scale-to-width-down/138?cb=20181030065500', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/64/Leo-DULI.png/revision/latest/scale-to-width-down/91?cb=20181030065639', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2f/Luna-DULI.png/revision/latest/scale-to-width-down/101?cb=20181030065759', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/ef/Antinomy-DULI.png/revision/latest/scale-to-width-down/111?cb=20200726010448', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2f/OfficerTetsuTrudge-DULI.png/revision/latest/scale-to-width-down/150?cb=20181031034430', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/9b/DarkSignerKalinKessler-DULI.png/revision/latest/scale-to-width-down/129?cb=20190604222641', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/38/DarkSignerCarlyCarmine-DULI.png/revision/latest/scale-to-width-down/142?cb=20190829030240', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/30/DarkSignerRexGoodwin-DULI.png/revision/latest/scale-to-width-down/185?cb=20191205173117', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f5/KalinKessler-DULI.png/revision/latest/scale-to-width-down/131?cb=20200729214138', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/98/CarlyCarmine-DULI.png/revision/latest/scale-to-width-down/114?cb=20200116090819', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/aa/Primo-DULI.png/revision/latest/scale-to-width-down/109?cb=20210625133535', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/8f/Aporia-DULI.png/revision/latest/scale-to-width-down/173?cb=20211212151426', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/85/Paradox_DL.png/revision/latest/scale-to-width-down/183?cb=20220425220417', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/34/YumaAstral-DULI.png/revision/latest/scale-to-width-down/144?cb=20200930034946', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/6e/ReginaldSharkKastle-DULI.png/revision/latest/scale-to-width-down/85?cb=20201028182851', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/cf/RioKastle-DULI.png/revision/latest/scale-to-width-down/109?cb=20220517202842', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/8f/BronkStone-DULI.png/revision/latest/scale-to-width-down/154?cb=20200930034741', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/cb/ToriMeadows-DULI.png/revision/latest/scale-to-width-down/75?cb=20200930035103', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/16/KiteTenjo-DULI.png/revision/latest/scale-to-width-down/107?cb=20201217171305', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/6b/Quattro-DULI.png/revision/latest/scale-to-width-down/117?cb=20210619223824', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/04/Trey-DULI.png/revision/latest/scale-to-width-down/107?cb=20210707031007', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/87/AnnaKaboom-DULI.png/revision/latest/scale-to-width-down/91?cb=20211230130054', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/63/ZEXAL-DULI.png/revision/latest/scale-to-width-down/113?cb=20210625133838', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/88/YuyaSakaki-DULI.png/revision/latest/scale-to-width-down/165?cb=20210930003242', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/53/Yuto-DULI.png/revision/latest/scale-to-width-down/158?cb=20220127125305', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/65/ZuzuBoyle-DULI.png/revision/latest/scale-to-width-down/78?cb=20211012164939', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/fd/GongStrong-DULI.png/revision/latest/scale-to-width-down/150?cb=20210930003304', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/00/SylvioSawatari-DULI.png/revision/latest/scale-to-width-down/130?cb=20211006123529', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/75/DeclanAkaba-DULI.png/revision/latest/scale-to-width-down/173?cb=20211029123919', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/cd/SoraPerse-DULI.png/revision/latest/scale-to-width-down/65?cb=20220515200022', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d3/Quinton-DULI.png/revision/latest/scale-to-width-down/185?cb=20220522155130', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/84/TristanTaylorDSOD-DULI.png/revision/latest/scale-to-width-down/123?cb=20201028183859', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/0e/Vetrix-DULI.png/revision/latest/scale-to-width-down/74?cb=20220524201442', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/87/Alyssa-DULI.png/revision/latest/scale-to-width-down/93?cb=20171129161325', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/64/Andrew-DULI.png/revision/latest/scale-to-width-down/101?cb=20171129161333', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f2/Ashley-DULI.png/revision/latest/scale-to-width-down/76?cb=20171129161406', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/cf/Bella-DULI.png/revision/latest/scale-to-width-down/86?cb=20171129161416', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c8/Chloe-DULI.png/revision/latest/scale-to-width-down/69?cb=20181030070246', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/bf/Christine-DULI.png/revision/latest/scale-to-width-down/85?cb=20171129161441', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/99/Daniel-DULI.png/revision/latest/scale-to-width-down/101?cb=20171129161456', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a4/David-DULI.png/revision/latest/scale-to-width-down/88?cb=20171129161522', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/24/Emma-DULI.png/revision/latest/scale-to-width-down/86?cb=20171129161510', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a7/Emmeline-DULI.png/revision/latest/scale-to-width-down/94?cb=20220515222041', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/ce/Erika-DULI.png/revision/latest/scale-to-width-down/122?cb=20181030070445', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/54/Evan-DULI.png/revision/latest/scale-to-width-down/95?cb=20171129161552', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e5/Fani-DULI.png/revision/latest/scale-to-width-down/82?cb=20220515222100', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Hailey-DULI.png/revision/latest/scale-to-width-down/85?cb=20171129161602', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/99/HandsomeStan-DULI.png/revision/latest/scale-to-width-down/135?cb=20181030070609', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/21/Henry-DULI.png/revision/latest/scale-to-width-down/143?cb=20220515222120', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/06/Jay-DULI.png/revision/latest/scale-to-width-down/88?cb=20171129161612', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/cd/Jess-DULI.png/revision/latest/scale-to-width-down/85?cb=20171129161621', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2c/Josh-DULI.png/revision/latest/scale-to-width-down/101?cb=20171129161628', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1e/Kylie-DULI.png/revision/latest/scale-to-width-down/88?cb=20171129161636', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/7d/Liam-DULI.png/revision/latest/scale-to-width-down/64?cb=20181030070719', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/9b/Logan-DULI.png/revision/latest/scale-to-width-down/90?cb=20171129161707', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/02/Madison-DULI.png/revision/latest/scale-to-width-down/79?cb=20171129161716', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/84/Margaret-DULI.png/revision/latest/scale-to-width-down/62?cb=20220515222133', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/dc/Meg-DULI.png/revision/latest/scale-to-width-down/76?cb=20171129161735', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/29/Mia-DULI.png/revision/latest/scale-to-width-down/121?cb=20201109101710', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2f/Mickey-DULI.png/revision/latest/scale-to-width-down/70?cb=20171129161727', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/51/Nick-DULI.png/revision/latest/scale-to-width-down/75?cb=20171129161743', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/9a/Oliver-DULI.png/revision/latest/scale-to-width-down/82?cb=20201109101740', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b4/Ruby-DULI.png/revision/latest/scale-to-width-down/122?cb=20201109101803', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c2/SectorSecurity-DULI.png/revision/latest/scale-to-width-down/107?cb=20181030070845', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b0/Theo-DULI.png/revision/latest/scale-to-width-down/83?cb=20201109101815', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/71/WildDan-DULI.png/revision/latest/scale-to-width-down/114?cb=20181030071012', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f1/Zachary-DULI.png/revision/latest/scale-to-width-down/101?cb=20171129161750', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/46/Abaki-DULI.png/revision/latest/scale-to-width-down/176?cb=20201203131245', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b7/AlienGrey-DULI.png/revision/latest/scale-to-width-down/176?cb=20181217030314', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4d/AncientBrain-DULI.png/revision/latest/scale-to-width-down/138?cb=20200514221350', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/71/ArchlordKristya-DULI.png/revision/latest/scale-to-width-down/185?cb=20200722161659', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/06/BattleFootballer-DULI.png/revision/latest/scale-to-width-down/176?cb=20201203130005', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/06/BehemoththeKingofAllAnimals-DULI.png/revision/latest/scale-to-width-down/172?cb=20210221035016', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e0/BeiigeVanguardofDarkWorld-DULI.png/revision/latest/scale-to-width-down/176?cb=20201203133109', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f4/BlastAsmodian-DULI.png/revision/latest/scale-to-width-down/163?cb=20171129183459', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d2/BoneCrusher-DULI.png/revision/latest/scale-to-width-down/157?cb=20210221034822', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/59/BottomDweller-DULI.png/revision/latest/scale-to-width-down/170?cb=20210221035435', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/59/BrronMadKingofDarkWorld-DULI.png/revision/latest/scale-to-width-down/176?cb=20190927022535', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b9/ChaosSorcerer-DULI.png/revision/latest/scale-to-width-down/185?cb=20200513005555', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d8/Chills-DULI.png/revision/latest/scale-to-width-down/173?cb=20210701123559', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/04/DDTrainer-DULI.png/revision/latest/scale-to-width-down/185?cb=20171129154536', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/34/DarkDiva-DULI.png/revision/latest/scale-to-width-down/176?cb=20200828153126', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/ed/DarkMasterZorc-DULI.png/revision/latest/scale-to-width-down/176?cb=20180821120621', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/6b/DarkRulerHaDes-DULI.png/revision/latest/scale-to-width-down/168?cb=20210221034949', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/25/DesKangaroo-DULI.png/revision/latest/scale-to-width-down/176?cb=20180628015119', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/DesertTwister-DULI.png/revision/latest/scale-to-width-down/176?cb=20180309125223', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f2/DoomDozer-DULI.png/revision/latest/scale-to-width-down/185?cb=20200513005307', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/3e/EarthboundImmortalCcarayhua-DULI.png/revision/latest/scale-to-width-down/176?cb=20200501173441', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/da/EarthboundImmortalChacuChallhua-DULI.png/revision/latest/scale-to-width-down/176?cb=20200501173548', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/EarthboundImmortalCusillu-DULI.png/revision/latest/scale-to-width-down/176?cb=20200501173744', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/91/EarthboundImmortalUru-DULI.png/revision/latest/scale-to-width-down/176?cb=20200504025642', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/30/EvilHEROInfernalGainer-DULI.png/revision/latest/scale-to-width-down/185?cb=20201203132403', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/0e/EvilHEROLightningGolem-DULI.png/revision/latest/scale-to-width-down/185?cb=20201203131036', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d7/EvilHEROMaliciousEdge-DULI.png/revision/latest/scale-to-width-down/176?cb=20201203140251', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e6/FlameDancer-DULI.png/revision/latest/scale-to-width-down/108?cb=20210221035312', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/01/FiveHeadedDragon-DULI.png/revision/latest/scale-to-width-down/176?cb=20180628015914', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b3/GaiaSoultheCombustibleCollective-DULI.png/revision/latest/scale-to-width-down/168?cb=20171129183835', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/55/Ghost-DULI.png/revision/latest/scale-to-width-down/160?cb=20210329080445', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f4/GladiatorBeastAndal-DULI.png/revision/latest/scale-to-width-down/176?cb=20180228084218', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/ff/GoblinZombie-DULI.png/revision/latest/scale-to-width-down/176?cb=20180821121111', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e1/Gradius-DULI.png/revision/latest/scale-to-width-down/176?cb=20181217030058', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4f/Grady-DULI.png/revision/latest/scale-to-width-down/176?cb=20200501172616', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f7/GraphaDragonLordofDarkWorld-DULI.png/revision/latest/scale-to-width-down/185?cb=20200722161915', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/49/GreenBaboonDefenderoftheForest-DULI.png/revision/latest/scale-to-width-down/148?cb=20210221034915', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/5e/GuardianBaou-DULI.png/revision/latest/scale-to-width-down/185?cb=20200513004754', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c7/GuardianoftheLabyrinth-DULI.png/revision/latest/scale-to-width-down/128?cb=20200513004901', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f8/HamonLordofStrikingThunder-DULI.png/revision/latest/scale-to-width-down/176?cb=20190123153652', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b5/HeadlessKnight-DULI.png/revision/latest/scale-to-width-down/176?cb=20180821120943', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/36/Imairuka-DULI.png/revision/latest/scale-to-width-down/184?cb=20171129140041', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/dc/Jakob-DULI.png/revision/latest/scale-to-width-down/185?cb=20210701125205', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/8e/KarateMan-DULI.png/revision/latest/scale-to-width-down/176?cb=20180309125435', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/0a/KingoftheSkullServants-DULI.png/revision/latest/scale-to-width-down/176?cb=20180628014830', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1c/LaJinntheMysticalGenieoftheLamp-DULI.png/revision/latest/scale-to-width-down/176?cb=20180628021913', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/9c/Lawton-DULI.png/revision/latest/scale-to-width-down/111?cb=20210701124041', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e0/Lester-DULI.png/revision/latest/scale-to-width-down/178?cb=20210701125018', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/ee/LeviaDragonDaedalus-DULI.png/revision/latest/scale-to-width-down/185?cb=20171129183039', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/89/MalcolmCrew-DULI.png/revision/latest/scale-to-width-down/135?cb=20210701124306', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/df/MegarockDragon-DULI.png/revision/latest/scale-to-width-down/176?cb=20180309125534', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e1/MeklordEmperorWisel-DULI.png/revision/latest/scale-to-width-down/185?cb=20210916193143', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/03/MindControlledJoey-DULI.png/revision/latest/scale-to-width-down/134?cb=20171228102843', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/bc/MokeyMokey-DULI.png/revision/latest/scale-to-width-down/176?cb=20181217030010', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/90/MokeyMokeyKing-DULI.png/revision/latest/scale-to-width-down/176?cb=20181217030121', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2a/MoltenZombie-DULI.png/revision/latest/scale-to-width-down/158?cb=20210221035406', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/5f/OceanDragonLordNeoDaedalus-DULI.png/revision/latest/scale-to-width-down/185?cb=20171129183126', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c6/OjamaBlack-DULI.png/revision/latest/scale-to-width-down/176?cb=20180223160709', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/02/OjamaGreen-DULI.png/revision/latest/scale-to-width-down/176?cb=20180223160710', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/fc/OjamaYellow-DULI.png/revision/latest/scale-to-width-down/176?cb=20180223160710', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/76/Orbital7-DULI.png/revision/latest/scale-to-width-down/150?cb=20210305075254', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/89/PhantomBeastWildHorn-DULI.png/revision/latest/scale-to-width-down/176?cb=20180228084320', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/7a/PokiDraco-DULI.png/revision/latest/scale-to-width-down/185?cb=20171129183746', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/85/Prana-DULI.png/revision/latest/scale-to-width-down/103?cb=20210701124404', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/9b/RareHunter-DULI.png/revision/latest/scale-to-width-down/109?cb=20171130053322', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a9/RavielLordofPhantasms-DULI.png/revision/latest/scale-to-width-down/176?cb=20190123154111', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e8/ReignBeauxOverlordofDarkWorld-DULI.png/revision/latest/scale-to-width-down/185?cb=20200513004209', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/6a/ScarrScoutofDarkWorld-DULI.png/revision/latest/scale-to-width-down/176?cb=20201203130127', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/31/Scorch-DULI.png/revision/latest/scale-to-width-down/139?cb=20210701123833', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/51/SherryLeBlanc-DULI.png/revision/latest/scale-to-width-down/120?cb=20211231174802', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/ab/SkilledDarkMagician-DULI.png/revision/latest/scale-to-width-down/185?cb=20200512233706', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b9/SkilledRedMagician-DULI.png/revision/latest/scale-to-width-down/185?cb=20210221035150', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a0/SkilledWhiteMagician-DULI.png/revision/latest/scale-to-width-down/185?cb=20200513003853', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/cb/SkullKnight-DULI.png/revision/latest/scale-to-width-down/158?cb=20200512233053', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b3/SkullServant-DULI.png/revision/latest/scale-to-width-down/176?cb=20180628014919', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a4/SkyScout-DULI.png/revision/latest/scale-to-width-down/185?cb=20200513004022', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f1/SonicShooter-DULI.png/revision/latest/scale-to-width-down/185?cb=20200512233342', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d5/SpiritofFlames-DULI.png/revision/latest/scale-to-width-down/185?cb=20210221035221', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/0c/StarBoy-DULI.png/revision/latest/scale-to-width-down/185?cb=20171129122503', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/82/StrayAsmodian-DULI.png/revision/latest/scale-to-width-down/182?cb=20171129183554', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f0/Strings-DULI.png/revision/latest/scale-to-width-down/169?cb=20171228102429', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/95/TheCreator-DULI.png/revision/latest/scale-to-width-down/176?cb=20181217030255', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/45/TheSixSamuraiNisashi-DULI.png/revision/latest/scale-to-width-down/176?cb=20180309125612', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/69/TheSixSamuraiYariza-DULI.png/revision/latest/scale-to-width-down/176?cb=20180309125407', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/46/TheVagabond.png/revision/latest/scale-to-width-down/110?cb=20200310232505', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/69/TheVagrant-DULI.png/revision/latest/scale-to-width-down/113?cb=20181030071229', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/0b/ThunderKid-DULI.png/revision/latest/scale-to-width-down/176?cb=20180309125502', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b5/TornadoBird-DULI.png/revision/latest/scale-to-width-down/185?cb=20200512232347', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/09/TourGuideFromtheUnderworld-DULI.png/revision/latest/scale-to-width-down/136?cb=20170702194801', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c6/TuruPurun-DULI.png/revision/latest/scale-to-width-down/183?cb=20171129121716', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2a/Uminotaurus-DULI.png/revision/latest/scale-to-width-down/185?cb=20171129135957', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/45/UriaLordofSearingFlames-DULI.png/revision/latest/scale-to-width-down/176?cb=20190123154317', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/db/VampireDragon-DULI.png/revision/latest/scale-to-width-down/185?cb=20200806192145', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/ac/VampireFamiliar-DULI.png/revision/latest/scale-to-width-down/166?cb=20200806174604', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/87/VampireGenesis-DULI.png/revision/latest/scale-to-width-down/185?cb=20200806174411', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/3f/VampireGrace-DULI.png/revision/latest/scale-to-width-down/185?cb=20200806174249', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d2/VampireGrimson-DULI.png/revision/latest/scale-to-width-down/185?cb=20200806174219', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4a/VampireLord-DULI.png/revision/latest/scale-to-width-down/185?cb=20200806174104', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/6e/VampireRetainer-DULI.png/revision/latest/scale-to-width-down/145?cb=20200806192115', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b4/VampireScarletScourge-DULI.png/revision/latest/scale-to-width-down/185?cb=20200806174343', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/36/VampireVamp-DULI.png/revision/latest/scale-to-width-down/185?cb=20200806174529', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/cf/VolcanicBlaster-DULI.png/revision/latest/scale-to-width-down/148?cb=20201203133331', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/19/VolcanicDoomfire-DULI.png/revision/latest/scale-to-width-down/176?cb=20201203140220', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/0a/VolcanicHammerer-DULI.png/revision/latest/scale-to-width-down/185?cb=20201203132859', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/9a/VolcanicRat-DULI.png/revision/latest/scale-to-width-down/140?cb=20201203132956', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/ac/VolcanicRocket-DULI.png/revision/latest/scale-to-width-down/170?cb=20201203133403', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a8/VolcanicShell-DULI.png/revision/latest/scale-to-width-down/145?cb=20201203133306', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/85/VolcanicSlicer-DULI.png/revision/latest/scale-to-width-down/175?cb=20201203132926', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/50/WhiteMagicianPikeru-DULI.png/revision/latest/scale-to-width-down/176?cb=20181217030037', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2e/WitchsApprentice-DULI.png/revision/latest/scale-to-width-down/116?cb=20210221034851', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/13/YellowBaboonArcheroftheForest-DULI.png/revision/latest/scale-to-width-down/185?cb=20210221035340', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/62/ZemantheApeKing-DULI.png/revision/latest/scale-to-width-down/176?cb=20200501172514', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/56/ZureKnightofDarkWorld-DULI.png/revision/latest/scale-to-width-down/185?cb=20200512232750', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f2/AncientFairyDragon-DULI.png/revision/latest/scale-to-width-down/176?cb=20180928001647', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/97/BakuraRyoDM-DULI.png/revision/latest/scale-to-width-down/89?cb=20220704205254', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/41/Bruno-DULI.png/revision/latest/scale-to-width-down/110?cb=20210312035959', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c7/CardTrader-DULI.png/revision/latest/scale-to-width-down/147?cb=20190114180001', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e6/CardTraderEX-DULI.png/revision/latest/scale-to-width-down/144?cb=20171228103058', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/87/DarkBlade-DULI.png/revision/latest/scale-to-width-down/176?cb=20201203130847', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a2/DDGuide-DULI.png/revision/latest/scale-to-width-down/185?cb=20171129184143', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/02/MagicCowboyTristan-DULI.png/revision/latest/scale-to-width-down/110?cb=20181205195520', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/37/MarikIshtar-DULI.png/revision/latest/scale-to-width-down/91?cb=20180106234644', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a9/MC-DULI.png/revision/latest/scale-to-width-down/164?cb=20200130025655', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/6a/MelissaTrail-DULI.png/revision/latest/scale-to-width-down/141?cb=20220706020730', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f2/Roland-DULI.png/revision/latest/scale-to-width-down/123?cb=20171025163810', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/bd/VampireHunter-DULI.png/revision/latest/scale-to-width-down/176?cb=20200806161934', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/63/WingedKuriboh-DULI.png/revision/latest/scale-to-width-down/176?cb=20180223160709', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Yu-Gi-Oh! Duel Links, Video games

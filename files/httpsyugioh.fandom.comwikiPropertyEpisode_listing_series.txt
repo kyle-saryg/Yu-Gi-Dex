@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Episode_listing_series
+
+This property lists the series of an episode listing. This is a  String .
+ 
+ 
+ 
+ 
+Categories:

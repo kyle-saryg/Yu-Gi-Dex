@@ -1,0 +1,37 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Array_of_Revealing_Light
+
+
+ Array of Revealing Light 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+  [  Magic  Card   ] 
+  [  Spell  Card   ] 
+ 
+ 
+ Declare 1 Type of monster. Any monster of the  selected  Type cannot attack during the turn it is Summoned  (including  Flip  Summon and  Special  Summon) . 
+ Declare 1 Type of monster. Any monster of the  declared  Type cannot  declare an  attack during the turn it is  Normal  Summoned, Flip  Summoned or  Special  Summoned . 
+ 
+ 
+         LOD-029 Legacy of Darkness     
+         DB2-EN148 Dark Beginning 2     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/b2/MAGIC.svg/revision/latest/scale-to-width-down/34?cb=20120919132242', 'https://static.wikia.nocookie.net/yugioh/images/1/14/Field.svg/revision/latest/scale-to-width-down/20?cb=20120920120155', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/34?cb=20120918121429', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e0/ArrayofRevealingLight-LOD-NA-R-1E.jpg/revision/latest/scale-to-width-down/180?cb=20061119233825', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c1/ArrayofRevealingLight-DB2-EN-C-UE.png/revision/latest/scale-to-width-down/180?cb=20150106222823']
+Categories: Card Errata, Cards with card type errata, Cards with 1 erratum

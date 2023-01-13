@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="{{ url_for('static',filename='css/index.css') }}">
+		<title>Yugi-Dex</title>
+	</head>
+
+	<body>
+		<p class="title">Yugi-Dex</p>
+		<div class="search">
+			<form method="get" action="{{ url_for('results') }}">
+				<input name="searchterm" class="search-box" type="text"/><br/>
+				<input class="search-button" type="submit" value="Search"/>
+				<div>
+					<label class="category-text">Select Category</label>
+					<select name="category" method="get">
+						  <option value="" selected></option>
+
+						  {% for category in categories[2:] %}
+							<option value="{{cat}}">{{category}}</option>
+						  {% endfor %}
+
+					</select>
+				</div>
+			</form>	
+		</div>
+				
+	</body>	
+</html>

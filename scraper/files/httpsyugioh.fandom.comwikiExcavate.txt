@@ -1,0 +1,546 @@
+Link: https://yugioh.fandom.com/wiki/Excavate
+
+
+ 
+ Excavate
+ 
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ めくる
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ mekuru
+ 
+ 
+ 
+ Japanese (translated)
+ 
+ 
+ flip
+ 
+ 
+ 
+ English
+ 
+ 
+ excavate
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : dévoiler 
+ German : ausgraben 
+ Italian : dissotterrare 
+ Portuguese : escavar 
+ Spanish : excavar 
+ Korean : 넘기다  neomgida 
+ Simplified Chinese : 翻开  fānkāi 
+ 
+ 
+ Excavate  (めくる  mekuru , lit. "flip" or "turn over") is a game term introduced in  War of the Giants: Round 2  and featured prominently on " Sylvan " monsters in  Legacy of the Valiant .
+ When a card says to "excavate" cards from your Deck, you  reveal  those cards to both players. Cards that are being excavated are still treated as being in the Deck until sent elsewhere by the card instructions. "Excavate" and "reveal" are not always the same thing. Some cards will "reveal" cards but not "excavate" them. Unless a card specifically refers to "excavating", then it does not excavate. [1] 
+ 
+ Contents 
+ 
+ 1   Cards that excavate 
+ 
+ 1.1   All OCG/TCG "Excavates" cards 
+ 1.2   All Anime "Excavates" cards 
+ 1.3   All Manga "Excavates" cards 
+ 
+ 
+ 2   External links 
+ 3   References 
+ 
+ 
+ Cards that excavate 
+ See also:  Excavates from the player's Deck  and  Excavates from the opponent's Deck 
+ All OCG/TCG "Excavates" cards 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Absolute King Back Jack 絶対王 バック・ジャック Effect Monster DARK Fiend 1 0 0 Adamancipator Analyzer 魔救の分析者 Effect Monster Tuner monster EARTH Rock 4 1500 700 Adamancipator Researcher 魔救の探索者 Effect Monster Tuner monster EARTH Rock 2 100 2100 Adamancipator Risen - Dragite 魔救の奇跡－ドラガイト Effect Monster Synchro Monster WATER Rock 8 3000 2200 Adamancipator Risen - Leonite 魔救の奇跡－レオナイト Effect Monster Synchro Monster FIRE Rock 6 2400 2200 Adamancipator Risen - Raptite 魔救の奇跡－ラプタイト Effect Monster Synchro Monster WIND Rock 6 2200 2800 Adamancipator Seeker 魔救の追求者 Effect Monster Tuner monster EARTH Rock 2 1200 1000 Akashic Magician アカシック・マジシャン Effect Monster Link Monster DARK Spellcaster 1700 Alsei, the Sylvan High Protector 森羅の守神 アルセイ Effect Monster Xyz Monster LIGHT Plant 8 2300 3200 Altergeist Pixiel オルターガイスト・ピクシール Effect Monster WIND Spellcaster 1 100 100 Chaos Ruler, the Chaotic Magical Dragon 混沌魔龍 カオス・ルーラー Effect Monster Synchro Monster DARK Dragon 8 3000 2500 Crystal Seer 水晶の占い師 Effect Monster Flip monster WATER Spellcaster 1 100 100 Cyber Jar サイバーポッド Effect Monster Flip monster DARK Rock 3 900 900 Destiny HERO - Diamond Dude Ｄ－ＨＥＲＯ ダイヤモンドガイ Effect Monster DARK Warrior 4 1400 1600 Empress of Prophecy 魔導皇聖 トリス Effect Monster Xyz Monster LIGHT Spellcaster 5 2000 1700 Gishki Diviner リチュア・ディバイナー Effect Monster WATER Sea Serpent 3 1200 800 Gishki Noellia リチュア・ノエリア Effect Monster WATER Spellcaster 4 1700 1000 Kuribandit クリバンデット Effect Monster DARK Fiend 3 1000 700 Ma'at マアト Effect Monster LIGHT Fairy 10 ? ? Magical Merchant 魔導雑貨商人 Effect Monster Flip monster LIGHT Insect 1 200 700 Marincess Blue Tang 海晶乙女ブルータン Effect Monster WATER Cyberse 4 1500 1200 Mimikuril ミミックリル Effect Monster DARK Fiend 3 0 0 Morphing Jar #2 カオスポッド Effect Monster Flip monster EARTH Rock 3 800 700 Morphtronic Celfon Ｄ・モバホン Effect Monster EARTH Machine 1 100 100 Morphtronic Smartfon Ｄ・スマホン Effect Monster Tuner monster EARTH Machine 1 100 100 Orea, the Sylvan High Arbiter 森羅の鎮神 オレイア Effect Monster Xyz Monster DARK Plant 7 2800 2500 Paleozoic Anomalocaris バージェストマ・アノマロカリス Effect Monster Xyz Monster WATER Aqua 2 2400 0 Purery ピュアリィ Effect Monster LIGHT Fairy 1 100 100 Rafale, Champion Fur Hire 空牙団の英雄 ラファール Effect Monster LIGHT Dragon 8 2800 2200 Salamangreat Foxy 転生炎獣フォクシー Effect Monster FIRE Cyberse 3 1000 1200 Shooting Star Dragon シューティング・スター・ドラゴン Effect Monster Synchro Monster WIND Dragon 10 3300 2500 Speedroid Fuki-Modoshi Piper ＳＲ吹持童子 Effect Monster Tuner monster WIND Machine 4 1000 1000 Sunlight Unicorn サンライト・ユニコーン Effect Monster LIGHT Beast 4 1800 1000 Superheavy Samurai Gigagloves 超重武者グロウ－Ｖ Effect Monster EARTH Machine 3 100 1000 Sylvan Bladefender 森羅の葉心棒 ブレイド Effect Monster EARTH Plant 4 1900 700 Sylvan Cherubsprout 森羅の神芽 スプラウト Effect Monster LIGHT Plant 1 100 100 Sylvan Dancepione 森羅の舞踏娘 ピオネ Effect Monster Link Monster WIND Plant 1200 Sylvan Flowerknight 森羅の花卉士 ナルサス Effect Monster EARTH Plant 4 1800 1000 Sylvan Guardioak 森羅の番人 オーク Effect Monster EARTH Plant 6 2400 1500 Sylvan Hermitree 森羅の仙樹 レギア Effect Monster FIRE Plant 8 2700 1800 Sylvan Komushroomo 森羅の影胞子 ストール Effect Monster FIRE Plant 2 100 2000 Sylvan Lotuswain 森羅の渡し守 ロータス Effect Monster WATER Plant 5 2300 1100 Sylvan Marshalleaf 森羅の水先 リーフ Effect Monster WATER Plant 3 1500 1200 Sylvan Mikorange 森羅の蜜柑子 シトラ Effect Monster WATER Plant 3 400 1100 Sylvan Peaskeeper 森羅の実張り ピース Effect Monster WIND Plant 1 400 100 Sylvan Princessprite 森羅の姫芽宮 Effect Monster Xyz Monster LIGHT Plant 1 1800 100 Sylvan Princessprout 森羅の姫芽君 スプラウト Effect Monster LIGHT Plant 1 100 100 Sylvan Sagequoia 森羅の賢樹 シャーマン Effect Monster WIND Plant 7 2600 2100 Sylvan Snapdrassinagon 森羅の隠蜜 スナッフ Effect Monster DARK Plant 1 900 400 Valkyrie Vierte ワルキューレ・フィアット Effect Monster LIGHT Fairy 3 1400 1400 ... further results (1 more) 
+   Japanese name Card type Property Adamancipator Friends 魔救の奇縁 Spell Card Normal Spell Card Normal Spell Card Archfiend's Oath デーモンの宣告 Spell Card Continuous Spell Card Continuous Spell Card Berserker Soul 狂戦士の魂 Spell Card Quick-Play Spell Card Quick-Play Spell Card Crystal Boon 宝玉祝福 Trap Card Normal Trap Card Normal Trap Card Enchanting Fitting Room 魔の試着部屋 Spell Card Normal Spell Card Normal Spell Card Flourishing Frolic 繁華の花笑み Spell Card Normal Spell Card Normal Spell Card Fukubiki 福悲喜 Trap Card Normal Trap Card Normal Trap Card Geological Survey 地層調査 Spell Card Normal Spell Card Normal Spell Card Illusion Balloons イリュージョン・バルーン Spell Card Quick-Play Spell Card Quick-Play Spell Card Kingyo Sukui 金魚救い Trap Card Continuous Trap Card Continuous Trap Card Monster Gate モンスターゲート Spell Card Normal Spell Card Normal Spell Card Mount Sylvania 森羅の霊峰 Spell Card Field Spell Card Field Spell Card Onikuji 鬼くじ Trap Card Continuous Trap Card Continuous Trap Card Pot of Duality 強欲で謙虚な壺 Spell Card Normal Spell Card Normal Spell Card Pot of Prosperity 金満で謙虚な壺 Spell Card Normal Spell Card Normal Spell Card Reasoning 名推理 Spell Card Normal Spell Card Normal Spell Card Recardination 札再生 Spell Card Normal Spell Card Normal Spell Card Sacred Scrolls of the Gizmek Legend 機巧伝－神使記紀図 Spell Card Field Spell Card Field Spell Card Sky Striker Airspace - Area Zero 閃刀空域－エリアゼロ Spell Card Field Spell Card Field Spell Card Spellbook Library of the Heliosphere 魔導書庫ソレイン Spell Card Normal Spell Card Normal Spell Card Super Koi Koi 超こいこい Spell Card Normal Spell Card Normal Spell Card Sylvan Waterslide 森羅の滝滑り Trap Card Continuous Trap Card Continuous Trap Card The True Name 真実の名 Spell Card Normal Spell Card Normal Spell Card Until Noble Arms are Needed Once Again 聖剣の導く未来 Trap Card Normal Trap Card Normal Trap Card World Legacy Survivor 星遺物の醒存 Spell Card Normal Spell Card Normal Spell Card 
+ All Anime "Excavates" cards 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Cyber Jar サイバーポッド Effect Monster Flip monster DARK Rock 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 900 Infernity Doom Slinger インフェルニティ・デス・ガンマン Effect Monster DARK Fiend 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 0 100 Magical Merchant 魔導雑貨商人 Effect Monster Flip monster LIGHT Insect 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 0 200 Marincess Blue Tang 海晶乙女ブルータン Effect Monster WATER Cyberse 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1500 Morphing Jar #2 カオスポッド Effect Monster Flip monster EARTH Rock 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 800 Morphtronic Celfon Ｄ・モバホン Effect Monster EARTH Machine 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 0 100 
+   Japanese name Card type Property Archfiend's Oath デーモンの宣告 Spell Card Continuous Spell Card Boot Sector Launch リボルブート・セクター Spell Card Field Spell Card Enchanting Fitting Room 魔の試着部屋 Spell Card Normal Spell Card Future Battle フューチャー・バトル Trap Card Continuous Trap Card Illusion Balloons イリュージョン・バルーン Spell Card Quick-Play Spell Card Monster Gate モンスターゲート Spell Card Normal Spell Card 
+ All Manga "Excavates" cards 
+   Japanese name Card type Property Illusion Balloons イリュージョン・バルーン Spell Card Quick-Play Spell Card 
+ External links 
+ Everything That's Available for Yu-Gi-Oh! TCG (both now, and soon...)  Konami Yu-Gi-Oh! blog 
+ References 
+ 
+ ↑   Tewart, Kevin.  "New Rulebook Online & Guide to Changes" . Konami.com .  https://yugiohblog.konami.com/articles/?p=5771 . 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Gameplay, Cards by effect properties

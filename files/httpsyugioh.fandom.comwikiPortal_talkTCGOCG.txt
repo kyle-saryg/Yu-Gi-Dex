@@ -1,0 +1,12 @@
+Link: https://yugioh.fandom.com/wiki/Portal_talk:TCGOCG
+
+I've noticed that the current version of this portal doesn't display correctly in 1024x768 resolution currently, which is important since it is not yet an expired resolution for 4:3 monitors. Here is a screenshot showing how the table overlaps  [1] ; the image was taken in 1024x768 resolution with Firefox 2.0.0.20 on Windows XP. -- TerraGamerX  02:49, 6 January 2009 (UTC)
+ 
+ How does it look now? --  Deltaneos  ( talk ) 13:24, 6 January 2009 (UTC) 
+ Ah, well done Deltaneos. It now displays correctly in 1024x768 resolution. I took two screenshots and merged them together, first to show it is now good, but there is a second anomaly I see.  [2]  I'm sure its nothing since it's organized and readable, but the portion to the left of the text "Japanese (Kanji and Furigana)" and the matching point further down (just above "View Random Page"), it just looks a bit weird at the borders. I'm sure I'm just noticing something unneeded... -- TerraGamerX  03:34, 7 January 2009 (UTC) 
+ Would be great to start this up again.-- Sceptileus  ( talk  •  contribs ) 06:09, January 25, 2013 (UTC)
+ 
+ 
+ 
+ 
+Categories:

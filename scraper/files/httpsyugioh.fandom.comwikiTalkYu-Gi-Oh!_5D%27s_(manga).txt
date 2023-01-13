@@ -1,0 +1,39 @@
+Link: https://yugioh.fandom.com/wiki/Talk:Yu-Gi-Oh!_5D%27s_(manga)
+
+
+ 
+ 
+ This is the talk page for discussing the page, Yu-Gi-Oh! 5D's (manga).
+ 
+ 
+ 
+ 
+ This page is for discussion about the article, not general talk about its subject.
+ See the  Forums  for general discussion. 
+ Please sign and date your posts  by typing four tildes ( ~~~~ ). 
+ Put new text under old text.  Click here to start a new topic . 
+ 
+ 
+ Please try to
+ 
+ Be polite 
+ Assume good faith 
+ Be welcoming 
+ 
+ Episode 02 
+ anybody know when the episode 02 will come out ??-- Modo assalto  18:14, September 3, 2009 (UTC)
+ I'm guessing that, like the GX manga, this is a monthly-issue,so it'll come around 20-22 this month. PoirotH  18:24, September 3, 2009 (UTC)
+ 
+ Volume 1 is Out 
+ Just to let you all know, 5D's Volume 1 is out now. But uncertain if it has a card involved. -- F r e d C a t  20:08, July 2, 2011 (UTC)
+ 
+ 5D's chapter listing problem 
+ At the chapter listing page of the Yu-Gi-Oh! 5D's manga, there is currently a problem. Unlike other manga pages such as the  GX  or  ZEXAL  manga, only half of the chapters show up on the 5Ds page. If you were to go to this page right now it only shows up to chapter/ride 50. Afterwards a link that reads ...further results shows up. Clicking on this link sends you to page called Semantic Search where the remaining chapters appear but all the text is squished together and it looks really messy. Is there a way to fix this problem and have all the chapters show up on one page?  Spectertvx  ( talk  •  contribs ) 03:17, May 5, 2014 (UTC)
+ 
+ Fixed. It arose from the fact that the chapter (and episode) lists are generated with SMW. SMW queries by default return up to 50 results, and so when a query actually matches more than 50 pages, instead of showing any more they get cut off and a "... further results" link gets displayed instead. Most of our episode and chapter lists are divided up in such a way that no single query will return more than 50 results (I think; I didn't actually check), so the cutoff isn't a concern for them.  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  02:11, May 7, 2014 (UTC) 
+ Thanks for the help and information.  Spectertvx  ( talk  •  contribs ) 03:19, May 7, 2014 (UTC)
+ 
+ 
+ 
+ 
+Categories:

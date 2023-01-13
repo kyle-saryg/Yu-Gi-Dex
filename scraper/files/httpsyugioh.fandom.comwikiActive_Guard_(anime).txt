@@ -1,0 +1,105 @@
+Link: https://yugioh.fandom.com/wiki/Active_Guard_(anime)
+
+Main card page: " Active Guard " 
+ The Japanese (OCG) version of this card is not a member of the " Guard "  archetype , because its Japanese name does not contain  「 Ｇ 」 .   As its English name contains "Guard", it  may  be treated a member of the "Guard" archetype at a TCG event, subject to local rulings.     
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Active Guard 
+ 
+ Japanese:   アクティブガード・アーマー 
+ Romaji:   Akutibu Gādo Āmā 
+ Translated:  Active Guard Armor 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   EARTH 
+ 
+ Level 
+ 
+ 
+ 4   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Continuous 
+ Trigger 
+ Quick 
+ [  Machine  /  Armor  ] You take no  damage  this  turn . If you use this  effect ,  destroy  this card during the  End Phase . (Only 1  Armor monster  can  attack  per turn. If you  control  2 or more Armor monsters, and 1 is  selected  as an  attack target , you can change the  target  to another Armor monster you control.)
+ ATK  /  0     DEF  /  2500   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh! :  165 ,  169 ,  170 ,  171 ,  172 ,  183 ,  184 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  Yu-Gi-Oh! ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Valon 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Armor monster 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ Attack  categories  
+ Prevents attacks 
+ Manages attack targets 
+ 
+ LP   
+ Prevents battle damage 
+ Prevents effect damage 
+ 
+ 
+ 
+   " Active Guard " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/95/ActiveGuard-OW.png/revision/latest/scale-to-width-down/185?cb=20131216182730', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/17/ActiveGuard-JP-Anime-DM-NC.png/revision/latest/scale-to-width-down/185?cb=20140925040236', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

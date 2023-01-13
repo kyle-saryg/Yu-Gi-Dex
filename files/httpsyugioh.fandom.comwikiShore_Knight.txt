@@ -1,0 +1,405 @@
+Link: https://yugioh.fandom.com/wiki/Shore_Knight
+
+The  Chinese, Croatian  and  Greek                      names given are not official.  ( card names ) 
+ The  Chinese                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Shore Knight 絶 海 の 騎 士 
+ 
+ English 
+Shore Knight 
+ Chinese 
+ 绝海骑士 Check translation 
+ French 
+ Chevalier du Littoral Check translation 
+ German 
+ Küstenritter Check translation 
+ Italian 
+ Cavaliere della Costa Check translation 
+ Korean 
+ 절해의 기사 Check translation 
+ Portuguese 
+ Cavaleiro do Litoral Check translation 
+ Spanish 
+ Caballero de la Costa Check translation 
+ Japanese (kana) 
+ ぜっかいのきし Check translation 
+ Japanese (base) 
+ 絶海の騎士 Check translation 
+ Japanese ( rōmaji ) 
+Zekkai no Kishi 
+ Japanese (translated) 
+Distant-Seas Knight 
+ Card type 
+ Monster   
+ Attribute 
+ WATER   
+ Types 
+ Warrior  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1400  /  1200 
+ Passcode 
+ 14771222 
+ Card effect types 
+ 
+ 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Once per turn , if the  battle position  of this  face-up  card on the  field  is changed:  Send  1  WATER   monster  from your  Deck  to the  GY . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Une fois par tour, si la position de combat de carte face recto sur le Terrain est changé : envoyez 1 monstre EAU depuis votre Deck au Cimetière. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Einmal pro Spielzug, falls die Kampfposition dieser offenen Karte auf dem Spielfeld geändert wird: Lege 1 WASSER Monster von deinem Deck auf den Friedhof. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Una volta per turno, quando viene cambiata la  posizione  di questa carta  scoperta  sul Terreno:  manda  1 mostro  ACQUA  dal tuo Deck al Cimitero. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Uma vez por turno, se a posição de batalha deste card com a face para cima no campo for mudada: envie 1 monstro de ÁGUA do seu Deck para o Cemitério. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Una vez por turno, si es cambiada la posición de batalla de esta carta boca arriba en el Campo: manda al Cementerio 1 monstruo de AGUA en tu Deck. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ フィールド上に表側表示で存在するこのカードの表示形式が変更された時、デッキから水属性モンスター１体を墓地へ送る。この効果は１ターンに１度しか使用できない。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 场上正面表示的此卡的表示形式改变时，可以发动效果。选择卡组中一只水属性怪兽送去墓地。此效果1回合只能使用1次。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 필드 위에 앞면 표시로 존재하는 이 카드의 표시 형식이 변경되었을 때, 덱에서 물 속성 몬스터 1장을 묘지로 보낸다. 이 효과는 1턴에 1번밖에 사용할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2012-11-09  
+ ABYR-EN032   
+ Abyss Rising 
+ Rare 
+ 
+ 
+ 2019-12-05  
+ SBTK-EN026   
+ Speed Duel: Trials of the Kingdom 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2012-11-08  
+ ABYR-FR032   
+ Abyss Rising 
+ L’Ascension des Abysses  
+ Rare 
+ 
+ 
+ 2019-12-05  
+ SBTK-FR026   
+ Speed Duel: Trials of the Kingdom 
+ Speed Duel : Les Épreuves du Royaume  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2012-11-08  
+ ABYR-DE032   
+ Abyss Rising 
+ Abyss Rising  
+ Rare 
+ 
+ 
+ 2019-12-05  
+ SBTK-DE026   
+ Speed Duel: Trials of the Kingdom 
+ Speed Duel: Trials of the Kingdom  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2012-11-08  
+ ABYR-IT032   
+ Abyss Rising 
+ Risveglio degli Abissi  
+ Rare 
+ 
+ 
+ 2019-12-05  
+ SBTK-IT026   
+ Speed Duel: Trials of the Kingdom 
+ Speed Duel: Prove del Regno  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2019-12-05  
+ SBTK-PT026   
+ Speed Duel: Trials of the Kingdom 
+ Speed Duel: As Provações do Reino  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2012-11-08  
+ ABYR-SP032   
+ Abyss Rising 
+ Levantamiento Abismal  
+ Rare 
+ 
+ 
+ 2019-12-05  
+ SBTK-SP026   
+ Speed Duel: Trials of the Kingdom 
+ Speed Duel: Desafíos del Reino  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2012-07-21  
+ ABYR-JP032   
+ Abyss Rising 
+ ＡＢＹＳＳ ＲＩＳＩＮＧ  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2012-10-09  
+ ABYR-KR032   
+ Abyss Rising 
+ 어비스 라이징  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ WATER 
+ 
+ Archetypes  and  series   
+ Attribute Knight 
+ 
+ Actions  
+ Activates if battle positions change 
+ Sends from your Deck to your Graveyard 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 10254 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Attribute Knight   属 性 の 騎 士 Members 
+ Altitude Knight Armageddon Knight Brushfire Knight Dawn Knight Dust Knight Shore Knight 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/58/ShoreKnight-ABYR-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130726211638', 'https://static.wikia.nocookie.net/yugioh/images/4/40/WATER.svg/revision/latest/scale-to-width-down/28?cb=20120918052107', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,122 @@
+Link: https://yugioh.fandom.com/wiki/Formud_Skipper_(anime)
+
+Main card page: " Formud Skipper " 
+ This card's written lore in the Japanese has not yet been transcribed; if you are able to read Japanese, please help out by adding an accurate Japanese lore from  this image  to this page. The current Japanese lore listed here is only a reconstruction and may not be fully correct.     
+ Formud Skipper 
+ 
+ Japanese:   フォーマッド・スキッパー 
+ Romaji:   Fōmaddo Sukippā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Level 
+ 
+ 
+ 1   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Ignition 
+ Trigger 
+ Condition 
+ [  Cyberse  /  Effect  ] During your  Main Phase : You can  reveal  1  Link Monster  in your  Extra Deck , and if you do, when you  Link Summon  this  turn , you can treat this card as  Link Material  with the same name,  Type , and  Attribute  as the revealed monster. If this card is  sent  to the GY as Link Material: You can  add  1  Level  5 or higher  Cyberse  monster from your  Deck  to your  hand . You can only use each  effect  of "Formud Skipper"  once per turn .
+ ATK  /  0     DEF  /  0   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  118 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ フォーマッド・スキッパー 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。ＥＸデッキのリンクモンスター１体を相手に見せる。このターンにリンク召喚する場合、このカードは見せたモンスターと同じカード名・種族・属性の素材としても扱える。②：このカードがリンク素材として墓地へ送られた場合に発動できる。デッキからレベル５以上のサイバース族モンスター１体を手札に加える。 
+ 
+ 
+ Fōmaddo Sukippā 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Link Monster 
+ Cyberse 
+ 
+ Actions  
+ Reveals your Extra Deck 
+ Activates from your Graveyard 
+ Activates if used as Link Material 
+ Adds from Deck to hand 
+ 
+ Stat changes  
+ Treated as alternate name 
+ Copies name 
+ Treated as alternate Type 
+ Treated as alternate Attribute 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ 
+   " Formud Skipper " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/a/a6/FormudSkipper-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20190911145336', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1e/FormudSkipper-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20190911145339', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Card pages with a lore in need of transcription, Anime cards

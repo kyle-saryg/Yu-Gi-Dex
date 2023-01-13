@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Phonetic_name
+
+This property lists the primary Phonetic Japanese Card Name of a card. It is a  string . It is primarily used for display of the correct Phonetic Japanese card name.
+ 
+ 
+ 
+ 
+Categories:

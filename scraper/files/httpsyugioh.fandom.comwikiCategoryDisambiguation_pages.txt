@@ -1,0 +1,11 @@
+Link: https://yugioh.fandom.com/wiki/Category:Disambiguation_pages
+
+Disambiguation  is the process of resolving the conflicts that occur when articles about two or more different topics have the same "natural" title. Most of the pages in this  category  are  disambiguation pages  containing no other content, only links to other pages.
+ Notes:
+ 
+ Do not include this category manually in articles; the {{ Disambiguation }} template automatically does this. 
+ Do not add articles to these sub-categories or create additional sub-categories until you read  Manual of Style (disambiguation pages) —most of the sub-categories do not comply with the Manual of Style and will be removed. 
+ 
+ 
+ 
+Categories: Site maintenance

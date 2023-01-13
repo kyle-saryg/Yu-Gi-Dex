@@ -1,0 +1,516 @@
+Link: https://yugioh.fandom.com/wiki/Rod_of_Silence_-_Kay%27est
+
+
+ 
+ 
+ Rod of Silence - Kay'est 静 寂 のロッド－ケースト 
+ 
+ English 
+Rod of Silence - Kay'est 
+ French 
+ Kay'est - Bâton de Silence Check translation 
+ German 
+ Kay'est, Zepter der Stille Check translation 
+ Italian 
+ Bacchetta del Silenzio - Kay'est Check translation 
+ Korean 
+ 정적의 로드-케이스트 Check translation 
+ Portuguese 
+ Bastão do Silêncio - Kay'est Check translation 
+ Spanish 
+ Vara de Silencio - Kay'est Check translation 
+ Japanese (kana) 
+ せいじゃくのロッド－ケースト Check translation 
+ Japanese (base) 
+ 静寂のロッド－ケースト Check translation 
+ Japanese ( rōmaji ) 
+Seijaku no Roddo - Kēsto 
+ Card type 
+ Spell   
+ Property 
+ Equip   
+ Passcode 
+ 95515060 
+ Card effect types 
+ 
+ 
+ Continuous-like 
+ Continuous-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+The  equipped   monster  gains 500  DEF .  Negate  other  Spell   effects  that  target  the equipped monster, and if you do,  destroy  that Spell Card. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Le monstre équipé gagne 500 DEF. Annulez les autres effets de Magie qui ciblent le monstre équipé, et si vous le faites, détruisez la Carte Magie. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Das ausgerüstete Monster erhält 500 DEF. Annulliere andere Zaubereffekte, die das ausgerüstete Monster als Ziel wählen, und falls du dies tust, zerstöre die Zauberkarte. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Il mostro  equipaggiato  guadagna 500  DEF .  Annulla  gli altri effetti di  Magie  che  scelgono come bersaglio  il mostro equipaggiato e, se lo fai,  distruggi  quella Carta Magia. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ O monstro equipado ganha 500 de DEF. Negue o efeito de um Spell Card, exceto desta carta, que designa como alvo o monstro equipado e destrua aquela carta. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ El monstruo equipado gana 500 DEF. Niega otros efectos de Cartas Mágicas que seleccionen al monstruo equipado y, si lo haces, destruye esa Carta Mágica. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 装備モンスターの守備力は５００ポイントアップする。装備モンスターを対象にするこのカード以外の魔法カードの効果を無効にし破壊する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 장착 몬스터의 수비력은 500 포인트 올린다. 장착 몬스터를 대상으로 하는 이 카드 이외의 마법 카드의 효과를 무효로 하여 파괴한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2005-03-19  
+ DR1-EN198   
+ Dark Revelation Volume 1 
+ Common 
+ 
+ 
+ 2007-12-12  
+ DCR-EN036   
+ Dark Crisis 
+ Common 
+ 
+ 
+ 2012-09-29  
+ LCYW-EN140   
+ Legendary Collection 3: Yugi's World Mega Pack 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ 
+ North American English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2003-12-01  
+ DCR-036   
+ Dark Crisis 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2005-03-19  
+ DR1-FR198   
+ Dark Revelation Volume 1 
+ Sombre Révélation 1  
+ Common 
+ 
+ 
+ 2007-12-10  
+ DCR-FR036   
+ Dark Crisis 
+ La Crise des Ténèbres  
+ Common 
+ 
+ 
+ 2012-09-27  
+ LCYW-FR140   
+ Legendary Collection 3: Yugi's World Mega Pack 
+ Collection Légendaire 3: Le Monde de Yugi Méga Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2005-06-01  
+ DR1-DE198   
+ Dark Revelation Volume 1 
+ Dark Revelations Volume 1  
+ Common 
+ 
+ 
+ 2007-12-10  
+ DCR-DE036   
+ Dark Crisis 
+ Dark Crisis  
+ Common 
+ 
+ 
+ 2012-09-27  
+ LCYW-DE140   
+ Legendary Collection 3: Yugi's World Mega Pack 
+ Legendary Collection 3: Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2005-03-19  
+ DR1-IT198   
+ Dark Revelation Volume 1 
+ Rivelazione Oscura Vol.1  
+ Common 
+ 
+ 
+ 2007-12-10  
+ DCR-IT036   
+ Dark Crisis 
+ Crisi Oscura  
+ Common 
+ 
+ 
+ 2012-09-27  
+ LCYW-IT140   
+ Legendary Collection 3: Yugi's World Mega Pack 
+ Collezione Leggendaria 3 Mega-Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2005-03-01  
+ DR1-PT198   
+ Dark Revelation Volume 1 
+ Revelação Negra Volume 1  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2005-03-19  
+ DR1-SP198   
+ Dark Revelation Volume 1 
+ Revelación Oscura Volumen 1  
+ Common 
+ 
+ 
+ 2012-09-27  
+ LCYW-SP140   
+ Legendary Collection 3: Yugi's World Mega Pack 
+ Colección Legendaria 3: El Mundo de Yugi Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2002-11-21  
+ 304-036   
+ Power of the Guardian 
+ ガーディアンの力  
+ Common 
+ 
+ 
+ 2004-09-23  
+ EE1-JP198   
+ Expert Edition Volume 1 
+ ＥＸＰＥＲＴ　ＥＤＩＴＩＯＮ　Ｖｏｌｕｍｅ．１  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Asian-English 
+ 
+ 
+ 
+ Asian-English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2004-05-12  
+ DCR-AE036   
+ Dark Crisis 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2005-05-02  
+ DCR-KR036   
+ Dark Crisis 
+ 암흑의 위협  
+ Common 
+ 
+ 
+ 2006-07-06  
+ HGP1-KR198   
+ Expert Edition Volume 1 
+ 하이 그레이드 팩 Ｖｏｌ．１  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Nightmare Troubadour 
+ 
+ 
+ Devised Tactics 
+ 
+ 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+ Dark Crisis 
+ Equipment Collection 
+ All Effect Monsters  ( Common )
+ 
+ All at Random  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   GX Tag Force 
+ 
+ 
+ Equip Me  ( Common ) 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Related to  archetypes  and  series   
+ Guardian 
+ 
+ Stat changes  
+ Equipped gains DEF 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of Spell Cards 
+ Destroys Spell Cards 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 5728 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Nightmare Troubadour 2005-07-21 – ??? – – – Unlimited Ultimate Masters: World Championship Tournament 2006 2006-02-23 – ??? – – – Unlimited GX Tag Force 2006-09-14 – ??? – – – Unlimited 
+ 
+ 
+ 
+   " Rod of Silence - Kay'est " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Guardian " 「ガーディアン」 Members 
+ Chronomaly Tula Guardian Fairy Guardian Firewall Guardian Gate Guardian Gorgonic Guardian Goyo Guardian Guardian Angel Joan Guardian Baou Guardian Ceal Guardian Chimera Guardian Dreadscythe Guardian Eatos Guardian Elma Guardian Grarl Guardian Kay'est Guardian Slime Guardian Sphinx Guardian Statue Guardian Tryce Guardian of Felgrand Guardian of Order Guardian of the Throne Room Infernity Guardian Koa'ki Meiru Guardian Lost Guardian Metal Guardian Naturia Guardian Pharaonic Guardian Sphinx Skull Guardian Stronghold Guardian T.G. Star Guardian Trust Guardian 
+ Dimension Guardian Guardian of the Golden Land Power of the Guardians 
+ Support 
+ Arsenal Summoner 
+ Related 
+ Kazejin Sanga of the Thunder Suijin 
+ Butterfly Dagger - Elma Celestial Sword - Eatos Gravity Axe - Grarl Guarded Treasure Novox's Prayer Reaper Scythe - Dreadscythe Rod of Silence - Kay'est Shooting Star Bow - Ceal Twin Swords of Flashing Light - Tryce Wicked-Breaking Flamberge - Baou 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/75/RodofSilenceKayest-LCYW-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20131004212344', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/9/90/Equip.svg/revision/latest/scale-to-width-down/28?cb=20120920115844']
+Categories: Duel Monsters cards, TCG cards, OCG cards

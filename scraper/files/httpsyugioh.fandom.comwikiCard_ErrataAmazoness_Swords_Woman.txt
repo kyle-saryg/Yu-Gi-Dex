@@ -1,0 +1,69 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Amazoness_Swords_Woman
+
+
+ Amazoness Swords Woman 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Anime Manga Yu-Gi-Oh! Destiny Board Traveler 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ The opponent takes all Battle Damage to this card's controller that he/she  takes  from a battle involving this  monster . 
+ The opponent takes all Battle Damage to this card's controller that he/she  would   take  from a battle involving this  card . 
+ The  opponent takes all Battle Damage  to this card's controller  that  he/she  would  have   taken  from a battle involving this card. 
+ 
+ 
+       MFC-061 Magician's Force     
+       DR1-EN116 Dark Revelation Volume 1     
+       TP7-EN007 Tournament Pack 7     
+ 
+ 
+ Third erratum 
+ Fourth erratum   
+ 
+ 
+ Your  opponent takes  all   Battle Damage   that  you  would have taken from  a  battle  involving this card. 
+ Your opponent takes  any   battle damage  you would have taken from  battles  involving this card  instead . 
+ 
+ 
+         GLD3-EN006 Gold Series 3     
+         LEDU-EN013 Legendary Duelists     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ 【戦士族 ・ 効果】 
+ 【戦士族 ／ 効果】 
+ 
+ 
+ このカード が 戦闘 を行う事によって受け る コントローラー の戦闘ダメージは相手が受ける。 
+ ①： このカード の 戦闘 で発生す る 自分へ の戦闘ダメージは 代わりに 相手が受ける。 
+ 
+ 
+         303-007 Champion of Black Magic     
+         DP18-JP013 Duelist Pack: Legend Duelist     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/39/AmazonessSwordsWoman-MFC-NA-UR-1E.png/revision/latest/scale-to-width-down/180?cb=20160609163613', 'https://static.wikia.nocookie.net/yugioh/images/7/76/AmazonessSwordsWoman-DR1-EN-SR-UE.png/revision/latest/scale-to-width-down/180?cb=20160609163611', 'https://static.wikia.nocookie.net/yugioh/images/a/af/AmazonessSwordsWoman-TP7-EN-R-UE.jpg/revision/latest/scale-to-width-down/180?cb=20081030174224', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/0e/AmazonessSwordsWoman-GLD3-EN-C-LE.jpg/revision/latest/scale-to-width-down/180?cb=20100905044237', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/ce/AmazonessSwordsWoman-LEDU-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20170907222413', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/aa/AmazonessSwordsWoman-303-JP-UR.jpg/revision/latest/scale-to-width-down/180?cb=20070716131116', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/87/AmazonessSwordsWoman-DP18-JP-C.png/revision/latest/scale-to-width-down/180?cb=20170602150638']
+Categories: Card Errata, Cards with 4 errata, Cards with card type errata, Cards with 1 erratum, Cards with Japanese errata

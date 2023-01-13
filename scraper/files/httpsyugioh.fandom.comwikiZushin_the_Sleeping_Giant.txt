@@ -1,0 +1,274 @@
+Link: https://yugioh.fandom.com/wiki/Zushin_the_Sleeping_Giant
+
+The  Croatian  and  Greek                       names given are not official.  
+ 
+ 
+ 
+ 
+ 
+ Zushin the Sleeping Giant 眠 れる 巨 人 ズシン 
+ 
+ English 
+Zushin the Sleeping Giant 
+ French 
+ Zushin le Géant Dormeur Check translation 
+ German 
+ Zushin der schlafende Riese Check translation 
+ Italian 
+ Zushin il Gigante Dormiente Check translation 
+ Korean 
+ 잠자는 거인 즈신 Check translation 
+ Portuguese 
+ Zushin, o Gigante Adormecido Check translation 
+ Spanish 
+ Zushin el Gigante Durmiente Check translation 
+ Japanese (kana) 
+ ねむれるきょじんズシン Check translation 
+ Japanese (base) 
+ 眠れる巨人ズシン Check translation 
+ Japanese ( rōmaji ) 
+Nemureru Kyojin Zushin 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Warrior  /  Effect 
+ Level 
+ 10   
+ ATK  /  DEF 
+ 0  /  0 
+ Passcode 
+ 67547370 
+ Card effect types 
+ 
+ 
+ Summon 
+ Summon 
+ Ignition 
+ Continuous 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Cannot be  Normal Summoned / Set . Must be  Special Summoned  (from your  hand ) by  Tributing  a  monster  you  control  with 10  Zushin Counters .  Once per turn : You can  reveal  this card in your hand, then  target  1  Level  1  Normal Monster  you control (keep this card revealed until the end of this  turn ); place 1 Zushin Counter on it.  Unaffected  by other cards'  effects . If this card  battles  a monster, during  damage calculation :  ATK / DEF  of this card become equal to the current ATK of the monster it is battling +1000, during that damage calculation only. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre main) en Sacrifiant un monstre que vous contrôlez avec 10 Compteurs Zushin. Une fois par tour : vous pouvez révéler cette carte dans votre main, puis ciblez 1 Monstre Normal de Niveau 1 que vous contrôlez (gardez cette carte révélée jusqu'à la fin de ce tour) ; placez 1 Compteur Zushin sur lui. Non affectée par les effets d'autres cartes. Si cette carte combat un monstre, durant le calcul des dommages : durant ce calcul des dommages uniquement, l'ATK/DEF de cette carte deviennent égales à l'ATK actuelle du monstre qu'elle combat +1000. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du ein Monster mit 10 Zushin-Zählmarken, das du kontrollierst, als Tribut anbietest. Einmal pro Spielzug: Du kannst diese Karte in deiner Hand vorzeigen und dann 1 Normales Monster der Stufe 1 wählen, das du kontrollierst (diese Karte bleibt bis zum Ende dieses Spielzugs vorgezeigt); lege 1 Zushin-Zählmarke darauf. Bleibt von den Effekten anderer Karten unberührt. Falls diese Karte gegen ein Monster kämpft, während der Schadensberechnung: Die ATK/DEF dieser Karte werden nur während der Schadensberechnung gleich den derzeitigen ATK des Monsters, gegen das sie kämpft, +1000. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente (dalla tua mano) offrendo come Tributo un mostro che controlli con 10 Segnalini Zushin. Una volta per turno: puoi rivelare questa carta nella tua mano, poi scegliere come bersaglio 1 Mostro Normale di Livello 1 che controlli (mantieni questa carta rivelata fino alla fine di questo turno); metti 1 Segnalino Zushin su di esso. Immune agli effetti delle altre carte. Se questa carta combatte con un mostro, durante il calcolo dei danni: l'ATK/DEF di questa carta diventano pari all'ATK attuale del mostro con cui sta combattendo +1000, solamente durante quel calcolo dei danni. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao oferecer como Tributo um monstro que você controla com 10 Marcadores Zushin. Uma vez por turno: você pode revelar este card da sua mão e, depois, escolha 1 Monstro Normal de Nível 1 que você controla (mantenha este card revelado até o final deste turno); coloque 1 Marcador Zushin sobre ele. Não é afetado por outros efeitos de cards. Se este card batalhar um monstro, durante o cálculo de dano: o ATK/DEF deste card se tornam iguais ao ATK atual do monstro que ele estiver batalhando +1000, apenas durante esse cálculo de dano. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) Sacrificando un monstruo que controles con 10 Contadores Zushin. Una vez por turno: puedes mostrar esta carta en tu mano, y después seleccionar 1 Monstruo Normal de Nivel 1 que controles (sigue mostrando esta carta hasta el final de este turno); pon 1 Contador Zushin en ella. No es afectada por efectos de otras cartas. Si esta carta batalla con un monstruo, durante el cálculo de daño: el ATK/DEF de esta carta se convierten en iguales al ATK en este momento del monstruo con el que está batallando +1000, sólo durante ese cálculo de daño. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードは通常召喚できない。ズシンカウンターが１０個置かれた自分のモンスター１体をリリースした場合のみ特殊召喚できる。①：１ターンに１度、手札のこのカードをターン終了時まで相手に見せ、自分フィールドのレベル１通常モンスター１体を対象として発動できる。そのモンスターにズシンカウンターを１つ置く。②：このカードは他のカードの効果を受けない。③：このカードがモンスターと戦闘を行うダメージ計算時に発動する。このカードの攻撃力・守備力はダメージ計算時のみ、そのモンスターの攻撃力＋１０００の数値になる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드는 통상 소환할 수 없다. 즈신 카운터가 10개 놓여진 자신의 몬스터 1장을 릴리스했을 경우에만 특수 소환할 수 있다. ①: 1턴에 1번, 패의 이 카드를 턴 종료시까지 상대에게 보여주고, 자신 필드의 레벨 1 일반 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터에 즈신 카운터를 1개 놓는다. ②: 이 카드는 다른 카드의 효과를 받지 않는다. ③: 이 카드가 몬스터와 전투를 실행하는 데미지 계산시에 발동한다. 이 카드의 공격력 / 수비력은 데미지 계산시에만, 그 몬스터의 공격력 ＋ 1000 의 수치가 된다. 
+ 
+ 
+ 
+ 
+ 
+   5D's Tag Force 6 
+ 
+ 
+This card cannot be  Normal Summoned  or  Set . This card cannot be  Special Summoned  except by  Tributing  1  Level  1  Normal Monster  that has remained  face-up  on your side of the  field  for 10 or more  turns . If this card  battles  with an opponent's monster, it gains  ATK  and  DEF  equal to the ATK of the opponent's monster + 1000 during  damage calculation  only and that monster's  effects  are  negated  during the  Battle Phase  only. This card is  unaffected  by other card effects. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2016-08-18 DRL3-EN018 Dragons of Legend: Unleashed Ultra Rare 2020-09-10 DLCS-EN114 Dragons of Legend: The Complete Series Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2016-08-18 DRL3-FR018 Dragons of Legend: Unleashed Le Déchaînement des Dragons de Légende Ultra Rare 2020-09-10 DLCS-FR114 Dragons of Legend: The Complete Series Les Dragons de Légende : la Série Complète Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2016-08-18 DRL3-DE018 Dragons of Legend: Unleashed Dragons of Legend: Unleashed Ultra Rare 2020-09-10 DLCS-DE114 Dragons of Legend: The Complete Series Dragons of Legend: The Complete Series Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2016-08-18 DRL3-IT018 Dragons of Legend: Unleashed Draghi della Leggenda Scatenati Ultra Rare 2020-09-10 DLCS-IT114 Dragons of Legend: The Complete Series Draghi della Leggenda: la Serie Completa Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2016-08-18 DRL3-PT018 Dragons of Legend: Unleashed Dragões das Lendas Revelados Ultra Rare 2020-09-10 DLCS-PT114 Dragons of Legend: The Complete Series Dragões das Lendas: a Serie Completa Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2016-08-18 DRL3-SP018 Dragons of Legend: Unleashed Dragones de Leyenda Desatados Ultra Rare 2020-09-10 DLCS-SP114 Dragons of Legend: The Complete Series Dragones de Leyenda: las Series Completas Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2016-05-14 CPF1-JP018 Collectors Pack: Duelist of Flash Version コレクターズパック －閃光の決闘者編－ Normal Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2016-11-10 CPF1-KR018 Collectors Pack: Duelist of Flash Version COLLECTORS   PACK  -섬광의 듀얼리스트 편- Normal Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Normal Monster 
+ 
+ Counters   
+ Zushin Counter 
+ Places counters 
+ 
+ Actions  
+ Tributes for cost 
+ Reveals itself in the hand for cost 
+ 
+ Stat changes  
+ Changes own ATK value 
+ Changes own DEF value 
+ 
+ Monster / Spell / Trap  categories  
+ Unaffected by other card effects 
+ 
+ Summoning  categories  
+ Cannot be Normal Summoned 
+ Cannot be Normal Set 
+ Nomi 
+ Special Summons itself from your hand 
+ 
+ Miscellaneous  
+ Special Summon Monster 
+ Limited activations 
+ Requires control of specific Level 
+ Requires control of specific Monster type 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12541 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status 5D's Tag Force 6 2011-09-22 – – – – – Present 
+ 
+ 
+ 
+   " Zushin the Sleeping Giant " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/73/ZushintheSleepingGiant-DLCS-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20201201173045', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

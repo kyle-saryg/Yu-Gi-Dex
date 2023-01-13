@@ -1,0 +1,413 @@
+Link: https://yugioh.fandom.com/wiki/Vendread
+
+
+ 
+ Vendread 
+ ヴェンデット  ( Vendetto ) 
+ 
+ 
+ 
+ 
+ " Vendread Charge  depicting " Vendread Battlelord " along with a horde of " Vendread Revenants "," Vendread Houndhorde "," Vendread Striges ", and " Vendread Chimeras " 
+ 
+ 
+ Translation 
+ Vendead 
+ 
+ 
+ Other names 
+ 
+ French 
+ Vendetterreur Translation:  Vendetterror 
+ 
+ 
+ German 
+ Venschrecken Translation:  Venterror 
+ 
+ 
+ Italian 
+ Venterrore Translation:  Venterror 
+ 
+ 
+ Korean 
+ 벤데드   Bendeteu   (romanized) Translation:  Vendead 
+ 
+ 
+ Portuguese 
+ Vendorror 
+ 
+ 
+ Spanish 
+ Vengamiedo Translation:  Venamafraid 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Power of the Elements 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Code of the Duelist Sneak Peek Participation Card Code of the Duelist Circuit Break OTS Tournament Pack 6 Extreme Force Flames of Destruction 2018 Mega-Tin Mega Pack Battles of Legend: Hero's Revenge 2019 Gold Sarcophagus Tin Mega Pack Battles of Legend: Crystal Revenge 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Extra Pack 2017 Extra Pack 2018 Power of the Elements +1 Bonus Pack 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Vendread ", known as " Vendead " (ヴェンデット  Vendetto ) in the  OCG , is an  archetype  of  DARK   Zombie   monsters . It is one of two formerly  TCG -exclusive   archetypes  debuted in  Code of the Duelist , the other being " F.A. ".
+ 
+ Contents 
+ 
+ 1   Design 
+ 
+ 1.1   Appearance 
+ 1.2   Etymology 
+ 
+ 
+ 2   Members 
+ 3   Support 
+ 4   Playing style 
+ 5   Official Decklist 
+ 6   References 
+ 
+ 
+ Design 
+ Appearance 
+ The "Vendread" monsters resemble mutated creatures and zombies, common from several horror series, in particular the  Resident Evil  franchise, as well as a few possible nods to the  Spawn  franchise and  The Thing .
+ 
+ Etymology 
+ The names of this archetype are blends of the word "vendetta" and other words, particularly "dread" in English,  Andetto  in Japanese and the words for "terror", "fright" or "fear" in other languages. Additionally, as shown on "Avendread" (in the Japanese version, "Advendead") and "Revendread" cards, the words "avenge", "advent" and "revenge" also comes into play at times. This may refer to the fact that  Revendread Slayer  appears to be against the Vendread. It is also inferred that Slayer wants vengeance for what  the Vendread did to his family .
+ 
+ Members 
+ 
+ 
+ Level
+ 
+ Monster 
+ Origin 
+ "Resurrection" costs and effects 
+ "Buff" it can grant to a "Vendread" Ritual monster
+ 
+ 
+ 1
+ 
+ Vendread Anima 
+ N/A 
+ can Special Summon a banished "Vendread" monster by banishing itself 
+ Banish any monster destroyed by battle with this card.
+ 
+ 
+ 1
+ 
+ Vendread Core 
+ 
+ Uroboros Virus / Necroplasm Parasite / The Thing 
+ 
+ can summon itself from the graveyard by banishing a Zombie monster from the Graveyard 
+ Your opponent cannot target this card with card effects.
+ 
+ 
+ 2
+ 
+ Vendread Striges 
+ 
+ Crow / Kid Napper 
+ can summon itself from the graveyard after being sent there by revealing a "Vendread" card 
+ After damage calculation, if this card battled an opponent's monster: You can draw 1 card, then discard 1 card.
+ 
+ 
+ 3
+ 
+ Vendread Houndhorde 
+ 
+ Zombie Dog / Kennel Thing 
+ can summon itself from the graveyard at the cost of discaring a "Vendread" card 
+ Once per turn (Quick Effect): You can target 1 Spell/Trap your opponent controls; banish it.
+ 
+ 
+ 4
+ 
+ Vendread Revenants 
+ 
+ Revenant 
+ can summon itself from the graveyard if destroyed by an opponent's card 
+ Once per turn (Quick Effect): You can target 1 Special Summoned monster your opponent controls; banish it.
+ 
+ 
+ 
+ 
+ Level
+ 
+ Ritual Monster
+ 
+ Origin
+ 
+ 
+ 5
+ 
+ Vendread Chimera 
+ 
+ The Thing 
+ 
+ 
+ 6
+ 
+ Revendread Slayer 
+ 
+ Tyrant / Spawn 
+ 
+ 
+ 7
+ 
+ Vendread Battlelord 
+ Omega Spawn /Nemesis T-Type/Overt-Kill
+ 
+ 
+ 8
+ 
+ Revendread Executor 
+ Albert Wesker
+ 
+ 
+ 
+ 
+ Link Rating
+ 
+ Link Monster
+ 
+ Origin
+ 
+ 
+ 2
+ 
+ Avendread Savior 
+ 
+ Chris Redfield/Leon Scott Kennedy
+ 
+ Support 
+ 
+ 
+ Card 
+ Origin
+ 
+ 
+ Revendread Origin 
+ G-Virus 
+ 
+ 
+ Vendread Charge 
+ 
+ N/A
+ 
+ 
+ Vendread Daybreak 
+ 
+ Sterilization Operation 
+ 
+ 
+ Vendread Nightmare 
+ 
+ N/A
+ 
+ 
+ Vendread Nights 
+ Raccoon City / New York City 
+ 
+ 
+ Vendread Reorigin 
+ Zombie Infection 
+ 
+ 
+ Vendread Reunion 
+ Original Thing 
+ 
+ 
+ Revendread Evolution 
+ 
+ N/A
+ 
+ 
+ Vendread Revolution 
+ Assimilation 
+ 
+ Playing style 
+ The "Vendread" archetype focuses on  Ritual Summoning . So far, all non-Ritual monsters in the archetype come with two effects, each of which can only be used once per turn: the first effect revolves around the  Special Summon  of the monster from your  GY   when a certain condition is met, but comes at the cost of the monster being  banished  when it  leaves the field . The second effect grants a "Vendread"  Ritual Monster  that was Ritual Summoned using the "Vendread" non-Ritual monster  on the field  a  Quick Effect  that enables considerable field advantage. " Vendread Reorigin " is a rather unorthodox  Trap Card  which enables not only slowing down the opponent's momentum by means other than destroying a card, but also gives the player a way to generate more tribute fodder.
+ Their first  Ritual Spell Card , " Revendread Origin ", is easily one of the most practical Ritual Spell Cards seen in recent times. It is one of only five Ritual Spell Cards which can Ritual Summon the target monster  out of the GY , which makes discarding the archetype's Ritual Monsters to activate effects a viable strategy, and enables the spell to act as a recovery option for the archetype's Ritual Monsters after they leave the field. In addition, the Ritual Spell allows the player to tribute monsters whose total  Levels   may  exceed the Level of the Ritual Monster that is to be Ritual Summoned, and enables banishing  any   Zombie  monsters from the GY should one lack the needed monsters on the field or hand. This in turn opens a lot of possible combinations with the " Shiranui " archetype, as well as " Zombie World ". Given that "Revendread Origin" has a protection effect that specifically lists and applies to only " Revendread Slayer ", this card can be searched by " Pre-Preparation of Rites " which gives the deck the speed which every Ritual Summon deck needs, something that sets it apart from every other archetype-generic Ritual Spell Card that came before it.  
+ Their second Ritual Spell Card, " Revendread Evolution ", whilst not as flexible as "Revendread Origin", still helps the deck gather resources. Like "Revendread Origin", this spell is able to Ritual Summon the target monster out of the GY. Unlike its predessor, this card cannot banish Zombies from the GY as material, instead providing the player the ability to Tribute a "Vendread" monster  from the Deck  in order to Ritual Summon. However, " Revendread Evolution " also comes with some drawbacks. In order to Ritual Summon, the levels of the tributed monsters must  exactly  equal the level of the Ritual monster, and the Ritual Summoned monster will be destroyed at the end of the next turn. Finally, unlike the first Ritual Spell, this card doesn't have list any Ritual Monster's name, thus rendering it unable to be searched by "Pre-Preparation of Rites"  
+ " Vendread Reunion ", although a Trap Card, acts as another "Ritual" card, allowing for the summoning of banished Vendread Monsters before immediately tributing them in order to Ritual Summon. This not only recycles banished Vendread Monsters but allows the Ritual Monster to gain additional effects and Ritual Summon in your opponents turn. However, " Vendread Reunion " is the least flexible "Ritual" card of the archetype. This card cannot Ritual Summon Ritual Monsters from the Graveyard, instead the Monster has to be in the hand. Furthermore the levels of the Special Summoned banished Monsters must  exactly  equal the Level of the Ritual Monster, thus marking it as a unique but unflexible "Ritual" card. 
+ " Vendread Nightmare " was a failed attempt to strengthen and simplify Ritual Summoning in the archtype.  Activating it's first effect, the player to tribute "Vendread" Monsters in the hand in order to increase the Level of a Monster they control by the number of tributed Monsters, results in a big loss of ressources. The tributed Monsters could have been just used for the Ritual Summon itself. However, the second effect grants attacking "Vendread" Ritual Monsters a permanent 1000 ATK boost every time they destroy an opponent's Monster. Overall " Vendread Nightmare " is a unhelpful card for the archetype.  
+ " Avendread Savior " is the deck's first Extra Deck Monster and helps solve some of the decks issues. Firstly, it is considered "Revendread Slayer" whilst on the field, allowing it to be saved with "Revendread Origin". Its second effect allows the player to return any "Vendread" card from the GY to the hand, providing more consistent Ritual Summoning if one has already occured. Its final effect allows it to send any Zombie-type monster from deck to Graveyard to lower an opponent's monster it battles by 200 times the sent monster's level until the end of the turn. The flexibility of this effect allows the player to stack their graveyard with monsters who provide effects from the graveyard, such as " Mezuki ", " Gozuki ", or " Vendread Striges ". 
+ Due to the sheer number of generic Zombie support released through the years, "Vendread" have access to a plethora of useful support cards to make up for the small number of their own cards, in particular the likes of " Book of Life ", " Gozuki " and " Shutendoji " which tremendously benefit the archetype in terms of resource management and recycling tribute fodder for their next Ritual Summon. 
+ 
+ 
+ Deck Monsters   
+ Effect Monsters 
+ Vendread Anima 
+ Vendread Core 
+ Vendread Houndhorde 
+ Vendread Revenants 
+ Vendread Striges 
+ Bone Crusher 
+ Doomking Balerdroch 
+ Impcantation Candoll 
+ Impcantation Bookstone 
+ Impcantation Penciplume 
+ Impcantation Talismandra 
+ Djinn Demolisher of Rituals 
+ Goblin Zombie 
+ Gozuki 
+ Mezuki 
+ Shiranui Solitaire 
+ Shiranui Spiritmaster 
+ Shutendoji 
+ Tour Guide From the Underworld 
+ Tristan, Knight of the Underworld 
+ Zombie Master 
+ Tuner monsters 
+ Ghost Charon, the Underworld Boatman 
+ Plaguespreader Zombie 
+ Scapeghost 
+ Shiranui Spectralsword 
+ Uni-Zombie 
+ Ritual Monsters 
+ Revendread Executor 
+ Revendread Slayer 
+ Vendread Battlelord 
+ Vendread Chimera Extra Deck   
+ Fusion Monsters 
+ Dragonecro Nethersoul Dragon 
+ Predaplant Dragostapelia 
+ Sea Monster of Theseus 
+ Starving Venom Fusion Dragon 
+ Synchro Monsters 
+ Archfiend Zombie-Skull 
+ Revived King Ha Des 
+ Other generic Synchro Monsters 
+ Xyz Monsters 
+ Dante, Traveler of the Burning Abyss 
+ Leviair the Sea Dragon 
+ Other  Rank 3  Xyz Monsters 
+ Link Monsters 
+ Vampire Sucker 
+ Avendread Savior Spells   &  Traps   
+ Spells 
+ Revendread Evolution 
+ Revendread Origin 
+ Vendread Charge 
+ Vendread Nightmare 
+ Vendread Nights 
+ Allure of Darkness 
+ Book of Life 
+ Burial from a Different Dimension 
+ Contract with the Abyss 
+ Cross Breed 
+ D.D.R. - Different Dimension Reincarnation 
+ Dragon's Mirror 
+ Foolish Burial 
+ Fulfillment of the Contract 
+ Fusion Substitute 
+ Instant Fusion 
+ Pot of Acquisitiveness 
+ Pre-Preparation of Rites 
+ Preparation of Rites 
+ Recurring Nightmare 
+ Ties of the Brethren 
+ Veil of Darkness 
+ Zombie Necronize 
+ Zombie World 
+ Traps 
+ Vendread Daybreak 
+ Vendread Reorigin 
+ Vendread Reunion 
+ Vendread Revolution 
+ Back to the Front 
+ Booby Trap E 
+ Darklight 
+ Dark Illusion 
+ Deck Devastation Virus 
+ The Deep Grave 
+ D.D. Dynamite 
+ Escape from the Dark Dimension 
+ Graverobber's Retribution 
+ Grinning Grave Virus 
+ Jar of Avarice 
+ Necro Fusion 
+ Renewal of the World 
+ Ritual Buster 
+ Urgent Ritual Art 
+ Official Decklist 
+ 
+ Konami's "Vendread" Deck [1] Monsters   
+ Effect Monsters 
+ Vendread Houndhorde  x3 
+ Vendread Revenants  x3 
+ Shiranui Solitaire  x3 
+ Mezuki  x2 
+ Tuner monsters 
+ Uni-Zombie  x3 
+ Ritual Monsters 
+ Revendread Slayer  x3 Extra Deck   
+ Fusion Monsters 
+ Dragonecro Nethersoul Dragon  x2 
+ Starving Venom Fusion Dragon  x2 
+ Synchro Monsters 
+ PSY-Framelord Omega 
+ Xyz Monsters 
+ Tornado Dragon 
+ Diamond Dire Wolf 
+ Evilswarm Exciton Knight Spells   &  Traps   
+ Spells 
+ Revendread Origin  x3 
+ Fusion Recycling Plant  x3 
+ Terraforming  x2 
+ Polymerization 
+ Dragon's Mirror 
+ Super Polymerization 
+ Pre-Preparation of Rites  x3 
+ Preparation of Rites  x2 
+ Foolish Burial 
+ Burial from a Different Dimension  x2 
+ Traps 
+ Vendread Reorigin  x3 
+ References 
+ 
+ 
+ ↑   https://ygorganization.com/deck-recipe-vendread-deck-recipe/ 
+ 
+ 
+   
+" Vendread " 「ヴェンデット」 Members 
+ Avendread Savior Revendread Executor Revendread Slayer Scar of the Vendread Vendread Anima Vendread Battlelord Vendread Chimera Vendread Core Vendread Houndhorde Vendread Revenants Vendread Scavenger Vendread Striges 
+ Ravenous Vendread Revendread Evolution Revendread Origin Vendread Charge Vendread Daybreak Vendread Nightmare Vendread Nights Vendread Reorigin Vendread Reunion Vendread Revolution 
+ Support 
+ Avendread Savior Revendread Executor Revendread Slayer Scar of the Vendread Vendread Anima Vendread Battlelord Vendread Chimera Vendread Core Vendread Houndhorde Vendread Revenants Vendread Scavenger Vendread Striges 
+ Ravenous Vendread Revendread Evolution Revendread Origin Vendread Charge Vendread Daybreak Vendread Nightmare Vendread Nights Vendread Reorigin Vendread Reunion Vendread Revolution 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/56/VendreadCharge-EXFO-EN-R-1E.png/revision/latest/scale-to-width-down/343?cb=20200406192900']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Ritual Monster(s), Archetypes with Link Monster(s)

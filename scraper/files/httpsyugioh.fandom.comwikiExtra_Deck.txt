@@ -1,0 +1,592 @@
+Link: https://yugioh.fandom.com/wiki/Extra_Deck
+
+
+ 
+ Extra Deck
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ ＥＸ デッキ [Notes 1] Formerly:  融 合 デッキ
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ エクストラデッキ Formerly: ゆうごうデッキ
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ ＥＸデッキ Formerly: 融合デッキ
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Ekusutora Dekki Formerly: Yūgō Dekki
+ 
+ 
+ 
+ English
+ 
+ 
+ Extra Deck Formerly: Fusion Deck
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Extra Deck Formerly: Fusion Deck 
+ German : Extradeck Formerly: Fusionsdeck 
+ Italian : Extra Deck Formerly: Fusion Deck 
+ Portuguese : Deck Adicional Formerly: Deck de Fusão 
+ Spanish : Deck Extra Formerly: Deck de Fusión 
+ Korean : 엑스트라 덱  Ekseuteura Dek Formerly: 융합 덱 (融合 Deck)  Yunghap Dek 
+ Traditional Chinese : 額外牌組  Éwài Páizǔ Formerly: 融合牌組  Rónghé Páizǔ / Jung4 hap6 Paai4 zou2 , then 特別牌組  Tèbié Páizǔ / Dak6 bit6 Paai4 zou2 
+ Simplified Chinese : 额外牌组  Éwài Páizǔ 
+ 
+ 
+ The  Extra Deck  (Japanese: エクストラデッキ  Ekusutora Dekki ; usually abbreviated  ＥＸ デッキ since  Code of the Duelist ), formerly known as the  Fusion Deck  ( 融 合 デッキ  Yūgō Dekki ), is a Deck where  Fusion ,  Synchro ,  Xyz , and  Link Monsters  (as well as  Pendulum Monsters  that would otherwise have been sent from the  field  to the  Graveyard ) are stored during a  Duel .
+ 
+ Contents 
+ 
+ 1   Mechanics 
+ 
+ 1.1   Construction 
+ 1.2   Gameplay 
+ 
+ 1.2.1   Pendulum Monsters 
+ 1.2.2   Extra Monster Zone 
+ 1.2.3   Knowledge 
+ 
+ 
+ 
+ 
+ 2   Anime and manga 
+ 3   Notes 
+ 4   References 
+ 
+ 
+ Mechanics 
+ The Extra Deck is separate from the  Main Deck , and contains combinations of  Fusion ,  Synchro ,  Xyz , and  Link Monsters . During the game, it is placed face-down in the  Extra Deck Zone , and a player can Special Summon Monsters included in there.
+ 
+ Construction 
+ The Extra Deck has a maximum size of  15  cards (including all Fusion, Synchro, Xyz, and Link Monsters combined). Per the " Maximum of 3 Rule ", during Deck construction there can be at most 3 cards with the same name in a player's Main Deck, Extra Deck and  Side Deck  (combined).  Usage of Extra Deck is not mandatory by rule .
+ 
+ Gameplay 
+ During a Duel, players can Special Summon Monsters from the Extra Deck through  Fusion Summon ,  Synchro Summon ,  Xyz Summon ,  Pendulum Summon ,  Link Summon , or any other cards that  Special Summons from Extra Deck . It is not necessary to  shuffle  the Extra Deck, even when a card specifies that the card would be shuffled into the Deck.
+ If a Fusion Monster, Synchro Monster, Xyz Monster, or Link Monster would be  returned  to the  hand  or  Main Deck , it is instead returned to the Extra Deck (face-down), since Fusion Monsters, Synchro Monsters, Xyz Monsters, and Link Monsters cannot exist in the hand or the Main Deck.
+ 
+ Pendulum Monsters 
+ Unlike other Monster cards, Pendulum Monsters that would be sent to the Graveyard from the field are placed face-up into the Extra Deck.
+ Pendulum Monsters placed face-up in the Extra Deck during a Duel can cause the total size of the Extra Deck to exceed the maximum size permitted during Deck construction.
+ 
+ Extra Monster Zone 
+ Link Monsters and Pendulum Monsters that are Special Summoned from the Extra Deck  must  be Special Summoned to an  Extra Monster Zone  or a  Main Monster Zone   pointed to  by a  Link Monster . 
+ Fusion, Synchro and Xyz Monsters that are Special Summoned from Extra Deck  may  be Special Summoned to either Extra Monster Zone or Main Monster Zone .
+ In case of  Fusion Pendulum ,  Synchro Pendulum  and  Xyz Pendulum Monsters , they can be Fusion/Synchro/Xyz Summoned to  any zone from face-down . But when Pendulum Summoning them  from face-up , they must be Summoned to an Extra Monster Zone or a  Main Monster Zone   pointed to  by a  Link Monster .
+ When Special Summoning from the Graveyard or  banished , an Extra Deck Monster must be Summoned to a Main Monster Zone.
+ 
+ Knowledge 
+ The face-down contents of the Extra Deck are not public knowledge, so a player may not look through face-down cards in their opponent's Extra Deck.
+ The face-up cards in the Extra Deck are public knowledge, so either player may look through them at any time. 
+ The number of cards in the Extra Deck is  public knowledge .
+ 
+ Anime and manga 
+ Limits on the number of cards that are stored in the Extra Deck in the anime and manga are not yet determined. It is also not clear at all times of the series if the Extra Deck even exists; in many early Duels, the players seem to simply fuse monsters without ever apparently pulling the Fusion Monster card from anywhere.
+ It is also not clear at all times where the Extra Deck is kept:
+ 
+ In  Yu-Gi-Oh! GX , Fusion Monster Cards are not seen to be played from anywhere, but the Fusion Monster Card is present on the Duel Disk after it is Summoned.
+ Zane Truesdale 's Fusion Deck is shown to be mixed in with his Main Deck; on one occasion, he searches his Main Deck for " Chimeratech Overdragon " when  Fusion Summoning  it. [1] 
+ In  Yu-Gi-Oh! 5D's ,  Akiza Izinski  can clearly be seen to have an  Extra Deck Zone  built into her Duel Disk.  Yusei Fudo  and  Jack Atlas 's Extra Decks are stored with their  Main Decks ; both are shown adding " Stardust Dragon " to their Main Decks before a Duel. [2] [3] 
+ In  Yu-Gi-Oh! ZEXAL , the Extra Deck is stored in a box on the Duelist's belt. 
+ In  Yu-Gi-Oh! ARC-V , Duel Disks are specifically shown to have an Extra Deck Zone compartment.
+ In  Episode 134 , there are 15 cards  face-down  behind " Odd-Eyes Pendulum Dragon " and " Performapal Coin Dragon ". This number matches the Extra Deck limit in the  TCG  and  OCG. 
+ In  Yu-Gi-Oh! VRAINS , the Extra Deck is not specifically shown due to the streamlining of most  LINK VRAINS  Duel Disks. However, if the Duelist is using a "Storm Access"-like  Skill , cards can be randomly added to it from  Data Storms  and formed into actual cards in the real world. 
+ Notes 
+ 
+ ↑   The frequently used abbreviated form. Simply substitute the furigana with the Latin letters for the full form. 
+ 
+ 
+ References 
+ 
+ ↑   Yu-Gi-Oh! GX  episode 65: " No Pain, No Game " 
+ 
+ ↑   Yu-Gi-Oh! 5D's  episode 4: " A Blast From The Past Part 1 " 
+ 
+ ↑   Yu-Gi-Oh! 5D's  episode 23: " Duel of the Dragons, Part 1 " 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Gameplay

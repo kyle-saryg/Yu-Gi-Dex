@@ -1,0 +1,282 @@
+Link: https://yugioh.fandom.com/wiki/Spellbook_Star_Hall
+
+The  Chinese  and  Croatian                       names given are not official.  
+ The  Chinese                lore given is not official.  
+ 
+ This card's written lore in the Chinese has not yet been transcribed; if you are able to read Chinese, please help out by adding an accurate Chinese lore from  this image  to this page. The current Chinese lore listed here is only a reconstruction and may not be fully correct.     
+ 
+ 
+ 
+ 
+ 
+ Spellbook Star Hall 魔 導 書 廊 エトワール 
+ 
+ English 
+Spellbook Star Hall 
+ Chinese 
+ 魔导书 星光大厅 Check translation 
+ French 
+ Couloir des Étoiles du Livre de Magie Check translation 
+ German 
+ Magiebuch-Sternenhalle Check translation 
+ Italian 
+ Sala delle Stelle del Libro di Magia Check translation 
+ Korean 
+ 마도서랑 에뜨와르 Check translation 
+ Portuguese 
+ Livro de Magia do Salão Estelar Check translation 
+ Spanish 
+ Salón de las Estrellas del Libro de Magia Check translation 
+ Japanese (kana) 
+ まどうしょろうエトワール Check translation 
+ Japanese (base) 
+ 魔導書廊エトワール Check translation 
+ Japanese ( rōmaji ) 
+Madōshorō Etowāru 
+ Japanese (translated) 
+Spellbook Hall Étoile 
+ Card type 
+ Spell   
+ Property 
+ Continuous   
+ Passcode 
+ 56321639 
+ Card effect types 
+ 
+ 
+ Continuous-like 
+ Continuous-like 
+ Trigger-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Each time a " Spellbook "  Spell Card  is  activated , place 1  Spell Counter  on this card. All  Spellcaster - Type   monsters  you  control  gain 100  ATK  for each Spell Counter on this card. When this card with Spell Counter(s) is  destroyed  and  sent  to the  Graveyard : You can  add  1 Spellcaster-Type monster from your  Deck  to your  hand , whose  Level  is less than or equal to the number of Spell Counters that were on this card. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Chaque fois qu'une Carte Magie "Livre de Magie" est activée, placez 1 Compteur Magie sur cette carte. Tous les monstres de Type Magicien que vous contrôlez gagnent 100 ATK pour chaque Compteur Magie sur cette carte. Lorsque cette carte avec un ou plusieurs Compteurs Magie est détruite et envoyée au Cimetière : vous pouvez ajouter 1 monstre de Type Magicien depuis votre Deck à votre main, dont le Niveau est inférieur ou égal au nombre de Compteurs Magie qui étaient sur cette carte. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Jedes Mal, wenn eine "Magiebuch"-Zauberkarte aktiviert wird, lege 1 Zauberzählmarke auf diese Karte. Alle Monster vom Typ Hexer, die du kontrollierst, erhalten für jede Zauberzählmarke auf dieser Karte 100 ATK. Wenn diese Karte mit Zauberzählmarken zerstört und auf den Friedhof gelegt werden: Du kannst deiner Hand 1 Monster vom Typ Hexer von deinen Deck hinzufügen, dessen Stufe kleiner oder gleich der Anzahl an Zauberzählmarken ist, die auf dieser Karte lagen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Ogni volta che viene attivata una Carta Magia "Libro di Magia", metti 1 Segnalino Magia su questa carta. Tutti i mostri di Tipo Incantatore che controlli guadagnano 100 ATK per ogni Segnalino Magia su questa carta. Quando questa carta con uno o più Segnalini Magia viene distrutta e mandata al Cimitero: puoi aggiungere dal tuo Deck alla tua mano 1 mostro di Tipo Incantatore con un Livello pari o inferiore al numero di Segnalini Magia che c'erano su questa carta. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Sempre que um Card de Magia "Livro de Magia" for ativado, coloque 1 Marcador de Magia neste card. Todos os monstros do Tipo Mago que você controla ganham 100 de ATK para cada Marcador de Magia neste card. Quando este card com um ou mais Marcadores de Magia for destruído e enviado para o Cemitério: você pode adicionar 1 monstro do Tipo Mago do seu Deck para a sua mão, cujo Nível seja menor ou igual ao número de Marcadores de Magia que estavam neste card. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cada vez que una Carta Mágica "Libro de Magia" es activada, pon 1 Contador Mágico en esta carta. Todos los monstruos de Tipo Lanzador de Conjuros que controles ganan 100 ATK por cada Contador Mágico en esta carta. Cuando esta carta con uno o más Contadores Mágicos es destruida y mandada al Cementerio: puedes añadir a tu mano, desde tu Deck, 1 monstruo de Tipo Lanzador de Conjuros con Nivel igual o menor que la cantidad de Contadores Mágicos que tenía esta carta. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードがフィールド上に存在する限り、自分または相手が「魔導書」と名のついた魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。自分フィールド上の魔法使い族モンスターの攻撃力は、このカードに乗っている魔力カウンターの数×１００ポイントアップする。また、魔力カウンターが乗っているこのカードが破壊され墓地へ送られた時、このカードに乗っていた魔力カウンターの数以下のレベルを持つ魔法使い族モンスター１体をデッキから手札に加える事ができる。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 每当名字中带有【魔导书】发动时，在此卡上放置一个魔力指示物。自己场上所有魔法师族怪兽的攻击力都上升[此卡上放置的魔力指示物的数量]×100的数值。放置有魔力指示物的此卡被破坏并送去墓地时，可以将自己卡组中一只等级在[此卡上的魔力指示物的数量]的数值以下的魔法师族怪兽拿到手卡中。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드가 필드 위에 존재하는 한, 자신 또는 상대가 "마도서"라는 이름이 붙은 마법 카드를 발동할 때마다, 이 카드에 마력 카운터를 1개 놓는다. 자신 필드 위의 마법사족 몬스터의 공격력은, 이 카드에 얹혀 있는 마력 카운터의 수 × 100 포인트 올린다. 또한, 마력 카운터가 얹혀 있는 이 카드가 파괴되어 묘지로 보내졌을 때, 이 카드에 얹혀 있는 마력 카운터의 수 이하의 레벨을 가지는 마법사족 몬스터 1장을 덱에서 패에 넣을 수 있다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2012-11-09 ABYR-EN088 Abyss Rising Rare 2013-09-13 AP03-EN011 Astral Pack Three Super Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2012-11-08 ABYR-FR088 Abyss Rising L’Ascension des Abysses Rare 2013-09-12 AP03-FR011 Astral Pack Three Paquet Astral Trois Super Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2012-11-08 ABYR-DE088 Abyss Rising Abyss Rising Rare 2013-09-12 AP03-DE011 Astral Pack Three Astral Pack Drei Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2012-11-08 ABYR-IT088 Abyss Rising Risveglio degli Abissi Rare 2013-09-12 AP03-IT011 Astral Pack Three Astral Pack Tre Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2013-09-01 AP03-PT011 Astral Pack Three Pacote Astral Três Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2012-11-08 ABYR-SP088 Abyss Rising Levantamiento Abismal Rare 2013-09-12 AP03-SP011 Astral Pack Three Sobre Astral Tres Super Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2013-05-18 EP13-JP029 Extra Pack: Sword of Knights ＥＸＴＲＡ ＰＡＣＫ －ＳＷＯＲＤ ＯＦ ＫＮＩＧＨＴＳ－ Common 
+ 
+ 
+ 
+ 
+ 
+   Traditional Chinese 
+ 
+ 
+ Release date Card code Set Traditional Chinese name Rarity August 29, 2015 ABYR-TC088 Abyss Rising 深淵昇華 Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2013-10-05 EXP6-KR029 Extra Pack: Sword of Knights EXTRA PACK  － 스워드 오브 나이트 － Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Spellcaster 
+ 
+ Archetypes  and  series   
+ Prophecy 
+ Spellbook 
+ 
+ Supports   archetypes   
+ Spellbook 
+ 
+ Counters   
+ Spell Counter 
+ Places counters on itself 
+ 
+ Actions  
+ Activates if destroyed by card effect 
+ Activates from your Graveyard 
+ Adds from Deck to hand 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 10358 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Prophecy " 「 魔 導 」 Members 
+ Amores of Prophecy Ancient Sorcerer Apprentice Illusion Magician Armor Exe Breaker the Dark Magical Warrior Breaker the Magical Warrior Charioteer of Prophecy Crowley, the First Propheseer D/D Savant Copernicus D/D Savant Galilei D/D Savant Kepler D/D Savant Newton D/D Savant Nikola D/D Savant Thomas Dark Cavalry Dark Magician the Magical Knight of Dragons The Dark Magicians Dark Paladin Day-Breaker the Shining Magical Warrior Defender, the Magical Knight Ebon High Magician Ebon Illusion Magician Ebon Magician Curran Emperor of Prophecy Empress of Prophecy Endymion, the Master Magician Endymion, the Mighty Master of Magic The Fiend Megacyber Fool of Prophecy Gilti-Gearfried the Magical Steel Knight Giltia the D. Knight Giltia the D. Knight - Soul Spear Hermit of Prophecy Hierophant of Prophecy High Priestess of Prophecy The Illusory Gentleman Justice of Prophecy Magical Cavalry of Cxulub Magical Merchant Magical Scientist Master of Chaos Prophecy Destroyer Reaper of Prophecy Red-Eyes Dark Dragoon Silent Paladin Skilled Brown Magician Skilled White Magician Spellbook Magician of Prophecy Stoic of Prophecy Strength of Prophecy Supreme Arcanite Magician Temperance of Prophecy Testament of the Arcane Lords Time Wizard of Tomorrow Water Magician Wheel of Prophecy White Magician Pikeru World of Prophecy 
+ Dark Magical Circle The Grand Spellbook Tower Hidden Spellbook Mage Power Magical Contract Door Magical Mid-Breaker Field Mega Ton Magical Cannon Spellbook Library of the Crescent Spellbook Library of the Heliosphere Spellbook Organization Spellbook Star Hall Spellbook of Eternity Spellbook of Fate Spellbook of Judgment Spellbook of Knowledge Spellbook of Life Spellbook of Miracles Spellbook of Power Spellbook of Secrets Spellbook of Wisdom Spellbook of the Master Type Zero Magic Crusher 
+ Support 
+ Stoic of Prophecy 
+ Related 
+ Aleister the Invoker Aleister the Invoker of Madness Behegon Black Luster Soldier Buster Blader Crowley, the Magistus of Grimoires Dark Magician Dark Magician Dark Magician Girl Gearfried the Iron Knight Guardian of the Labyrinth Marine Beast Princess Curran Princess Pikeru Protector of the Throne Red-Eyes Black Dragon Time Wizard 
+ Trial of the Princesses 
+ 
+   
+" Spellbook " 「 魔 導 書 」 Members 
+ Spellbook Magician of Prophecy 
+ The Grand Spellbook Tower Hidden Spellbook Spellbook Library of the Crescent Spellbook Library of the Heliosphere Spellbook Organization Spellbook Star Hall Spellbook of Eternity Spellbook of Fate Spellbook of Judgment Spellbook of Knowledge Spellbook of Life Spellbook of Miracles Spellbook of Power Spellbook of Secrets Spellbook of Wisdom Spellbook of the Master 
+ Support 
+ Amores of Prophecy Charioteer of Prophecy Crowley, the First Propheseer Emperor of Prophecy Empress of Prophecy Fool of Prophecy Hermit of Prophecy Hierophant of Prophecy High Priestess of Prophecy Justice of Prophecy Prophecy Destroyer Reaper of Prophecy Spellbook Magician of Prophecy Strength of Prophecy Temperance of Prophecy Wheel of Prophecy World of Prophecy 
+ The Grand Spellbook Tower Spellbook Library of the Crescent Spellbook Library of the Heliosphere Spellbook Star Hall Spellbook of Eternity Spellbook of Fate Spellbook of Judgment Spellbook of Knowledge Spellbook of Life Spellbook of Miracles Spellbook of Power Spellbook of Secrets Spellbook of the Master 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/d/df/SpellbookStarHall-AP03-EN-SR-UE.png/revision/latest/scale-to-width-down/300?cb=20130913161118', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Card pages with a lore in need of transcription, Duel Monsters cards, TCG cards, OCG cards

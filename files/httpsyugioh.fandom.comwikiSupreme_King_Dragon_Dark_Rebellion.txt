@@ -1,0 +1,325 @@
+Link: https://yugioh.fandom.com/wiki/Supreme_King_Dragon_Dark_Rebellion
+
+
+ 
+ 
+ Supreme King Dragon Dark Rebellion 覇 王 眷 竜 ダーク・リベリオン 
+ 
+ English 
+Supreme King Dragon Dark Rebellion 
+ French 
+ Rébellion des Ténèbres, Roi Suprême du Dragon Check translation 
+ German 
+ Oberster König Drache Finstere Rebellion Check translation 
+ Italian 
+ Re Supremo Drago Ribellione Oscura Check translation 
+ Korean 
+ 패왕권룡 다크 리벨리온 Check translation 
+ Portuguese 
+ Rei Supremo Dragão da Rebelião Negra Check translation 
+ Spanish 
+ Rey Supremo Dragón Rebelión Oscura Check translation 
+ Japanese (kana) 
+ はおうけんりゅうダーク・リベリオン Check translation 
+ Japanese (base) 
+ 覇王眷竜ダーク・リベリオン Check translation 
+ Japanese ( rōmaji ) 
+Haōkenryū Dāku Riberion 
+ Japanese (translated) 
+Supreme King Servant Dragon Dark Rebellion 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Dragon  /  Xyz  /  Effect 
+ Rank 
+ 4   
+ ATK  /  DEF 
+ 2500  /  2000 
+ Passcode 
+ 42160203 
+ Materials 
+2 Level 4 DARK Pendulum Monsters 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Quick Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+2  Level  4  DARK   Pendulum Monsters Once per turn , before  damage calculation , if this card  battles  an opponent's  monster : You can  detach  1  material  from this card; until the end of this  turn , change the  ATK  of that  face-up  opponent's monster to 0, and if you do, this card gains ATK equal to the  original ATK  of that opponent's monster. During the  Battle Phase  ( Quick Effect ): You can  return  this card to the  Extra Deck ;  Special Summon  up to 2 face-up " Supreme King Dragon " and/or " Supreme King Gate " Pendulum Monsters from your Extra Deck in  Defense Position . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 2 Monstres Pendule TÉNÈBRES de Niveau 4 Une fois par tour, avant le calcul des dommages, si cette carte combat un monstre de votre adversaire : vous pouvez détacher 1 Matériel de cette carte ; jusqu'à la fin de ce tour, changez l'ATK du monstre face recto de votre adversaire à 0, et si vous le faites, cette carte gagne une ATK égale à l'ATK d'origine du monstre de votre adversaire. Durant la Battle Phase (Effet Rapide) : vous pouvez renvoyer cette carte à l'Extra Deck ; Invoquez Spécialement max. 2 Monstres Pendule "Roi Suprême du Dragon" et/ou "Roi Suprême du Portail" face recto depuis votre Extra Deck en Position de Défense. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 2 FINSTERNIS Pendelmonster der Stufe 4 Einmal pro Spielzug, falls diese Karte gegen ein Monster deines Gegners kämpft: Du kannst 1 Material von dieser Karte abhängen; bis zum Ende des Spielzugs, ändere die ATK des offenen Monsters deines Gegner zu 0 und falls du dies tust, erhält diese Karte ATK in Höhe der Grund-ATK des Monsters deines Gegners. Während der Battle Phase (Schnelleffekt): Du kannst diese Karte ins Extra Deck zurücklegen, beschwöre bis zu 2 offene "Oberster König Drache"- und/oder "Oberster König Tor"-Pendelmonster als Spezialbeschwörung von deinem Extra Deck in Verteidigungsposition. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 2 Mostri Pendulum OSCURITÀ di Livello 4 Una volta per turno, prima del calcolo dei danni, se questa carta combatte con un mostro dell'avversario: puoi staccare 1 materiale da questa carta; fino alla fine di questo turno, cambia a 0 l'ATK di quel mostro scoperto dell'avversario e, se lo fai, questa carta guadagna ATK pari all'ATK originale di quel mostro dell'avversario. Durante la Battle Phase (Effetto Rapido): puoi far ritornare questa carta nell'Extra Deck; Evoca Specialmente fino a 2 Mostri Pendulum "Re Supremo Drago" e/o "Re Supremo Cancello" scoperti dal tuo Extra Deck in Posizione di Difesa. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 2 Monstros Pêndulo de TREVAS Uma vez por turno, antes do cálculo de dano, se este card batalhar um monstro do oponente: você pode desassociar 1 matéria deste card; até o final deste turno, mude para 0 o ATK desse monstro com a face para cima do oponente e, se isso acontecer, este card ganha ATK igual ao ATK original desse monstro do oponente. Durante a Fase de Batalha (Efeito Rápido): você pode devolver este card para o Deck Adicional; Invoque por Invocação-Especial até 2 Monstros Pêndulo "Rei Supremo Dragão" e/ou "Rei Supremo Portal" com a face para cima no seu Deck Adicional, em Posição de Defesa. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 2 Monstruos de Péndulo de OSCURIDAD de Nivel 4 Una vez por turno, antes del cálculo de daño, si esta carta batalla con un monstruo de tu adversario: puedes desacoplar 1 material de esta carta; hasta el final de este turno, cambia a 0 el ATK de ese monstruo boca arriba de tu adversario y, si lo haces, esta carta gana ATK igual al ATK original de ese monstruo de tu adversario. Durante la Battle Phase (Efecto Rápido): puedes devolver esta carta al Deck Extra; Invoca de Modo Especial, desde tu Deck Extra, hasta 2 Monstruos de Péndulo "Rey Supremo Dragón" y/o "Rey Supremo Puerta" boca arriba en Posición de Defensa. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 闇属性レベル４のＰモンスター×２ ①：１ターンに１度、このカードが相手モンスターと戦闘を行うダメージ計算前に、このカードのＸ素材を１つ取り除いて発動できる。ターン終了時まで、その相手モンスターの攻撃力を０にし、その元々の攻撃力分このカードの攻撃力をアップする。②：自分・相手のバトルフェイズにこのカードをＥＸデッキに戻して発動できる。自分のＥＸデッキの表側表示のＰモンスターの中から、「覇王眷竜」モンスターまたは「覇王門」モンスターを合計２体まで選んで守備表示で特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 어둠 속성 레벨 4 의 펜듈럼 몬스터 x 2  ① : 1턴에 1번, 이 카드가 상대 몬스터와 전투를 실행하는 데미지 계산 전에, 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 턴 종료시까지, 그 상대 몬스터의 공격력을 0 으로 하고, 그 원래 공격력만큼 이 카드의 공격력을 올린다. ② : 자신 / 상대의 배틀 페이즈에 이 카드를 엑스트라 덱으로 되돌리고 발동할 수 있다. 자신 엑스트라 덱의 앞면 표시 펜듈럼 몬스터 중에서 "패왕권룡" 몬스터 또는 "패왕문" 몬스터를 합계 2장까지 고르고 수비 표시로 특수 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2017-08-03 COTD-EN041 Code of the Duelist Rare 2017-10-05 LEDD-ENC33 Legendary Dragon Decks Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2017-08-03 COTD-FR041 Code of the Duelist Code des Duellistes Rare 2017-10-05 LEDD-FRC33 Legendary Dragon Decks Decks du Dragon Legendaire Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2017-08-03 COTD-DE041 Code of the Duelist Code of the Duelist Rare 2017-10-05 LEDD-DEC33 Legendary Dragon Decks Legendary Dragon Decks Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2017-08-03 COTD-IT041 Code of the Duelist Codice del Duellante Rare 2017-10-05 LEDD-ITC33 Legendary Dragon Decks I Deck Drago Leggendario Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2017-08-22 COTD-PT041 Code of the Duelist Código do Duelista Rare 2017-10-05 LEDD-PTC33 Legendary Dragon Decks Decks de Dragões Lendários Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2017-08-03 COTD-SP041 Code of the Duelist Código del Duelista Rare 2017-10-05 LEDD-SPC33 Legendary Dragon Decks Barajas Dragón Legendario Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2017-04-15 COTD-JP041 Code of the Duelist コード・オブ・ザ・デュエリスト Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2017-07-13 COTD-KR041 Code of the Duelist 코드 오브 더 듀얼리스트 Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ DARK 
+ Pendulum Monster 
+ 
+ Archetypes  and  series   
+ Rebellion  
+ Supreme King 
+ Supreme King Dragon 
+ 
+ Supports   archetypes   
+ Supreme King Dragon 
+ Supreme King Gate 
+ 
+ Related to  archetypes  and  series   
+ Four Dimension Dragons 
+ Xyz 
+ Xyz Dragon 
+ 
+ Actions  
+ Returns itself from field to Extra Deck for cost 
+ 
+ Stat changes  
+ Reduces ATK to 0 
+ This card gains ATK 
+ 
+ Summoning  categories  
+ 2 Xyz Materials 
+ Requires Attribute specific Xyz Materials 
+ Requires Pendulum Monsters as Xyz Materials 
+ Special Summons from your Extra Deck 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 13080 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Supreme King Dragon Dark Rebellion " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+ Four Dimension Dragons   ４ ＤＤ Members 
+ Clear Wing Synchro Dragon Dark Rebellion Xyz Dragon Odd-Eyes Pendulum Dragon Starving Venom Fusion Dragon 
+ Related 
+ All-Eyes Phantom Dragon Astrograph Sorcerer Beast-Eyes Pendulum Dragon Brave-Eyes Pendulum Dragon Chronograph Sorcerer Clear Wing Fast Dragon Crystal Clear Wing Synchro Dragon Crystal Wing Synchro Dragon Dark Anthelion Dragon Dark Requiem Xyz Dragon Greedy Venom Fusion Dragon Hi-Speedroid Clear Wing Rider Odd-Eyes Dragon Odd-Eyes Pendulumgraph Dragon Odd-Eyes Phantasma Dragon Odd-Eyes Phantom Dragon Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Odd-Eyes Revolution Dragon Odd-Eyes Venom Dragon Odd-Eyes Wing Dragon Performapal Celestial Magician Rune-Eyes Pendulum Dragon Starving Venemy Dragon Starving Venemy Lethal Dose Dragon Supreme King Dragon Clear Wing Supreme King Dragon Dark Rebellion Supreme King Dragon Odd-Eyes Supreme King Dragon Starving Venom Supreme King Z-ARC 
+ Pendulum Dimension 
+ 
+   
+" Rebellion " 「リベリオン」 Members 
+ Arc Rebellion Xyz Dragon Dark Rebellion Xyz Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Supreme King Dragon Dark Rebellion 
+ Support 
+ Odd-Eyes Rebellion Dragon Overlord 
+ Related 
+ Dark Anthelion Dragon Dark Requiem Xyz Dragon Odd-Eyes Pendulum Dragon Odd-Eyes Raging Dragon 
+ 
+   
+" Supreme King " 「 覇 王 」 Members 
+ Demise, Supreme King of Armageddon Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Odd-Eyes Venom Dragon Odd-Eyes Wing Dragon Supreme King Dragon Clear Wing Supreme King Dragon Dark Rebellion Supreme King Dragon Darkwurm Supreme King Dragon Odd-Eyes Supreme King Dragon Starving Venom Supreme King Gate Infinity Supreme King Gate Zero Supreme King Z-ARC 
+ Supreme King's Castle The Supreme King's Soul Supreme Rage 
+ Related 
+ Astrograph Sorcerer Chronograph Sorcerer Clear Wing Synchro Dragon Dark Rebellion Xyz Dragon Odd-Eyes Pendulum Dragon Performapal Celestial Magician Starving Venom Fusion Dragon 
+ 
+   
+" Supreme King Dragon " 「 覇 王 眷 竜 」 Members 
+ Supreme King Dragon Clear Wing Supreme King Dragon Dark Rebellion Supreme King Dragon Darkwurm Supreme King Dragon Odd-Eyes Supreme King Dragon Starving Venom 
+ Support 
+ Performapal Greatest Duelist Supreme King Dragon Clear Wing Supreme King Dragon Dark Rebellion Supreme King Dragon Odd-Eyes Supreme King Z-ARC 
+ Supreme Rage 
+ Related 
+ Clear Wing Synchro Dragon Dark Rebellion Xyz Dragon Odd-Eyes Pendulum Dragon Starving Venom Fusion Dragon 
+ 
+   
+" Supreme King Gate " 「 覇 王 門 」 Members 
+ Supreme King Gate Infinity Supreme King Gate Zero 
+ Support 
+ Performapal Greatest Duelist Supreme King Dragon Dark Rebellion Supreme King Dragon Darkwurm Supreme King Dragon Odd-Eyes 
+ Related 
+ Supreme King Z-ARC 
+ 
+   
+" Xyz " 「エクシーズ」 Members 
+ Arc Rebellion Xyz Dragon Black Fang Magician CXyz Barian Hope CXyz Battleship Cherry Blossom CXyz Coach Lord Ultimatrainer CXyz Comics Hero Legend Arthur CXyz Dark Fairy Cheer Girl CXyz Mechquipped Djinn Angeneral CXyz N.As.Ch. Knight CXyz Simon the Great Moral Leader CXyz Skypalace Babylon Dark Rebellion Xyz Dragon Dark Requiem Xyz Dragon Xyz Agent Xyz Avenger Xyz Remora Xyz Slidolphin Xyz-Raypierce 
+ Pendulum Xyz Resurgam Xyz Wonder Xyz Xyz Bento Xyz Block Xyz Burst Xyz Change Tactics Xyz Dimension Splash Xyz Double Back Xyz Effect Xyz Encore Xyz Energy Xyz Gift Xyz Import Xyz Override Xyz Reborn Xyz Reception Xyz Reflect Xyz Revenge Xyz Revenge Shuffle Xyz Reversal Xyz Revive Splash Xyz Shift Xyz Soul Xyz Territory Xyz Tribalrivals Xyz Unit Xyz Universe Xyz Veil Xyz Wrath Xyz Xtreme !! 
+ Support 
+ Astraltopia 
+ Generation Force 
+ Related 
+ Battlecruiser Dianthus Coach King Giantrainer Comics Hero King Arthur Dark Anthelion Dragon Fairy Cheer Girl Mechquipped Angineer Norito the Moral Leader Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Skypalace Gangaridai Supreme King Dragon Dark Rebellion Zubaba General 
+ Don Thousand/Trap A Rank-Up-Magic Barian's Force 
+ 
+   
+" Xyz Dragon " 「エクシーズ・ドラゴン」 Members 
+ Arc Rebellion Xyz Dragon Black Fang Magician Dark Rebellion Xyz Dragon Dark Requiem Xyz Dragon 
+ Support 
+ Astrograph Sorcerer Chronograph Sorcerer Raider's Knight 
+ Phantom Knights' Rank-Up-Magic Force Raidraptor's Phantom Knights Claw The Supreme King's Soul 
+ Related 
+ Dark Anthelion Dragon Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Supreme King Dragon Dark Rebellion Supreme King Z-ARC 
+ Pendulum Dimension 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/8f/SupremeKingDragonDarkRebellion-LEDD-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20171005220752', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/9/9d/Rank_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052957', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

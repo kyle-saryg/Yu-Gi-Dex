@@ -1,0 +1,113 @@
+Link: https://yugioh.fandom.com/wiki/Oily_Cicada
+
+The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Oily Cicada オイリーゼミ 
+ 
+ English 
+Oily Cicada 
+ Korean 
+ 오일리매미 Check translation 
+ Japanese 
+ オイリーゼミ Check translation 
+ Japanese ( rōmaji ) 
+Oirīzemi 
+ Card type 
+ Monster   
+ Attribute 
+ WIND   
+ Types 
+ Insect  /  Effect 
+ Level 
+ 3   
+ ATK  /  DEF 
+ 1000  /  1000 
+ Passcode 
+ 79663524 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If this card is  Normal  or  Special Summoned : You can reduce the  Level  of all  Insect   monsters  you currently  control  by 1. If this card's  battle position  is changed: You can  Special Summon  1 "Oily Cicada" from your  hand ,  Deck , or  GY . You can only use each  effect  of "Oily Cicada"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。自分フィールドの全ての昆虫族モンスターのレベルを１つ下げる。②：このカードの表示形式が変更された場合に発動できる。自分の手札・デッキ・墓地から「オイリーゼミ」１体を選んで特殊召喚する。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-06-11 AC02-JP027 Animation Chronicle 2022 ＡＮＩＭＡＴＩＯＮ ＣＨＲＯＮＩＣＬＥ ２０２２ Common 2022-06-11 AC02-JP027 Animation Chronicle 2022 ＡＮＩＭＡＴＩＯＮ ＣＨＲＯＮＩＣＬＥ ２０２２ Normal Parallel Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Insect 
+ 
+ Actions  
+ Activates upon Normal Summon 
+ Activates upon Special Summon 
+ Activates if battle positions change 
+ 
+ Stat changes  
+ Your monsters lose Levels 
+ 
+ Summoning  categories  
+ Special Summons from your hand 
+ Special Summons from your Deck 
+ Special Summons from your Graveyard 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17643 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Oily Cicada " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/67/OilyCicada-AC02-JP-C.png/revision/latest/scale-to-width-down/300?cb=20220617202845', 'https://static.wikia.nocookie.net/yugioh/images/0/01/WIND.svg/revision/latest/scale-to-width-down/28?cb=20170920205028', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

@@ -1,0 +1,117 @@
+Link: https://yugioh.fandom.com/wiki/Final_Prophecy
+
+
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Final Prophecy 
+ 
+ Japanese:   アンゴルモア 
+ Romaji:   Angorumoa 
+ Translated:  Angolmore 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Effect 
+ Trigger 
+ When an opponent's  Trap Card  is  activated : You can  flip  this card  face-up  and  destroy  1  Equip Card  you  control ;  negate  the  effect  of that Trap Card, and if you do, destroy it. During your next  Standby Phase : Inflict  damage  to both players equal to the change in  ATK  of the  equipped   monster  when the Equip Card was destroyed to activate this card, then destroy this card.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  049 ,  064 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Italian 
+ Angolmois 
+ Quando una Carta trappola dell'avversario viene attivata: Puoi scoprire questa carta e distruggere una Carta Equipaggiamento che controlli; nega l'effetto di quella Carta Trappola, e se lo fai, distruggila. Durante la tua prossima Standby Phase: infliggi danno a entrambi i giocatori uguale al cambio in Attacco del mostro equipaggiato quando la Carta Equipaggiamento è stata distrutta per attivare questa carta, poi distruggi questa carta. 
+ 
+ 
+ Spanish 
+ Profecía Final 
+ 
+ 
+ 
+ Japanese 
+ アンゴルモア 
+ 相手の罠カードが発動した時、自分フィールド上の装備カード１枚を破壊して発動する。相手の罠カードの効果を無効にして破壊する。また、このカードの発動時に装備カードを破壊した事によって変化した装備モンスターの攻撃力の数値分のダメージを、次の自分のスタンバイフェイズ時にお互いのライフに与える。その後、このカードを破壊する。 
+ 
+ 
+ Angorumoa 
+ 
+ 
+ Decks 
+ 
+ 
+ Trey 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Equip Card 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys Equip Cards 
+ Negates the activation of your opponent's Trap Cards 
+ Destroys your opponent's Trap Cards 
+ Destroys itself 
+ 
+ LP   
+ Damages you 
+ Damages your opponent 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/1/14/FinalProphecy-JP-Anime-ZX.jpg/revision/latest/scale-to-width-down/200?cb=20120326115920', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

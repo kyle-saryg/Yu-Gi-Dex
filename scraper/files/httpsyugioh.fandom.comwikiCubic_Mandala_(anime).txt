@@ -1,0 +1,125 @@
+Link: https://yugioh.fandom.com/wiki/Cubic_Mandala_(anime)
+
+Main card page: " Cubic Mandala " 
+ Cubic Mandala 
+ 
+ Japanese:   方界曼荼羅 
+ Romaji:   Hōkai Mandara 
+ Translated:  Direction World Mandala 
+ 
+ 
+ 
+<nomobile> 
+ en 
+ ja </nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Special Summon  all  monsters  with  Cubic Counters  that were  destroyed  during this  turn  to your opponent’s  field  with 0  ATK , and if you do, place 1 Cubic Counter on each of them. A monster with Cubic Counter has its  effects   negated , and it cannot  attack . If a monster Special Summoned by this effect is on your opponent's field, negate all monster effects in your opponent’s field,  hand , and  Graveyard . When all monsters Special Summoned by this card’s effect  leaves the field , destroy this card. [1] [2] 
+ 
+ 4K Media  lore<nomobile> ? :</nomobile> <mobile>(The English card uses the same lore as the OCG/TCG card. The Japanese card and reference sources state the effect differently.):</mobile> If you  control  a " Cubic "  monster :  Activate  this card by  targeting  any number of monsters that are in your opponent's  Graveyard  because they were  destroyed  and  sent  there this  turn :  Special Summon  them to your opponent's  field , but each becomes  ATK  0 and has 1  Cubic Counter  placed on it (Monsters with a Cubic Counter cannot  attack , also  negate  their  effects ). While your opponent controls any of the monsters Special Summoned by this effect, negate any monster effects your opponent activates. When the last of those monsters  leaves the field , destroy this card. 
+ Appearances
+ 
+ 
+ 
+ 
+ ' 
+ 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  The Dark Side of Dimensions ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 方界曼荼羅 
+ ①：このターン破壊され相手の墓地へ送られたモンスターを任意の数だけ対象としてこのカードを発動できる。そのモンスターを相手フィールドに特殊召喚する。そのモンスターの攻撃力は０になり、そのモンスターに方界カウンターを１つずつ置く。方界カウンターが置かれたモンスターは攻撃できず、効果は無効化される。②：このカードの効果で特殊召喚したモンスターが相手フィールドに存在する限り、相手はモンスターの効果を発動できない。③：このカードの効果で特殊召喚したモンスターが全てフィールドから離れた場合にこのカードは破壊される。 
+ 
+ 
+ Hōkai Mandara 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Aigami 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Cubic 
+ 
+ Counters   
+ Cubic Counter 
+ 
+ Stat changes  
+ Reduces ATK to 0 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your opponent's Effect Monsters 
+ Destroys itself 
+ 
+ Summoning  categories  
+ Special Summons from your opponent's Graveyard 
+ Special Summons to your opponent's field 
+ 
+ Attack  categories  
+ Prevents your opponent's monsters from attacking 
+ 
+ 
+ 
+   " Cubic Mandala " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+" Cubic " 「 方 界 」 a   m   Members 
+ Blade Garoodia the Cubic Beast Buster Gundil the Cubic Behemoth Crimson Nova Trinity the Dark Cubic Lord Crimson Nova the Dark Cubic Lord Cubic Ascension Cubic Defense Cubic Karma Cubic Mandala Cubic Rebirth Cubic Wave Dark Garnex the Cubic Beast Geira Guile the Cubic King Indiora Doom Volt the Cubic Emperor Unification of the Cubic Lords Vijam the Cubic Seed Vulcan Dragni the Cubic King 
+ Support 
+ Cubic Karma Cubic Rebirth Cubic Wave Unification of the Cubic Lords 
+ 
+ References 
+ 
+ ↑   Yu-Gi-Oh! Duel Monsters Anime Complete Guide: Millennium Memory , page 193. 
+ 
+ ↑   "Dark Side of Dimensions Anime Card Effects, Japanese Card Text Translations" . YGOrganization.com .  https://ygorganization.com/kuwabaralikesstackingthings/ . 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/bb/CubicMandala-EN-Anime-MOV3.png/revision/latest/scale-to-width-down/200?cb=20180807130602', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/88/CubicMandala-JP-Anime-MOV3-NC.png/revision/latest/scale-to-width-down/185?cb=20170313204501', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Cards with notes

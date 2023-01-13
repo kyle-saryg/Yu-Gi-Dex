@@ -1,0 +1,285 @@
+Link: https://yugioh.fandom.com/wiki/Xiangke_Magician
+
+The  Arabic                        name given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Xiangke Magician 相 克 の 魔 術 師 
+ 
+ English 
+Xiangke Magician 
+ French 
+ Magicien Xiangke Check translation 
+ German 
+ Xiangke-Magier Check translation 
+ Italian 
+ Mago Xiangke Check translation 
+ Korean 
+ 상극의 마술사 Check translation 
+ Portuguese 
+ Mago Xiangke Check translation 
+ Spanish 
+ Mago Xiangke Check translation 
+ Japanese (kana) 
+ そうこくのまじゅつし Check translation 
+ Japanese (base) 
+ 相克の魔術師 Check translation 
+ Japanese ( rōmaji ) 
+Sōkoku no Majutsushi 
+ Japanese (translated) 
+Antithesis Magician 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Spellcaster  /  Pendulum  /  Effect 
+ Level 
+ 7   
+ Pendulum Scale 
+   3 
+ ATK  /  DEF 
+ 2500  /  500 
+ Passcode 
+ 71692913 
+ Card effect types 
+ Pendulum Effect  
+ Ignition-like 
+ Monster Effect 
+ Quick Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Pendulum Effect :  Once per turn : You can  target  1  face-up   Xyz Monster  you  control ; this  turn , you can use it as an  Xyz Material  for an  Xyz Summon  using its  Rank  as if it were a  Level  (even if this card  leaves the field ). Monster Effect :  Once per turn , during either player's  turn : You can  target  1  LIGHT   monster  on the  field ; that  face-up  monster has its  effects   negated  until the end of this turn. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Effet Pendule  
+ Une fois par tour : vous pouvez cibler 1 Monstre Xyz face recto que vous contrôlez ; ce tour (même si cette carte quitte le Terrain), vous pouvez l'utiliser comme un Matériel Xyz pour une Invocation Xyz en utilisant son Rang comme Niveau. 
+ Effet de Monstre  
+   Une fois par tour, durant le tour de chaque joueur : vous pouvez cibler 1 monstre LUMIÈRE sur le Terrain ; jusqu'à la fin de ce tour, le monstre face recto a ses effets annulés. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Pendeleffekt 
+ Einmal pro Spielzug: Du kannst 1 offenes Xyz-Monster wählen, das du kontrollierst; in diesem Spielzug kannst du es als Xyz-Material für eine Xyz-Beschwörung verwenden und seinen Rang verwenden, als ob er eine Stufe wäre (selbst falls diese Karte das Spielfeld verlässt). 
+ Monstereffekt 
+   Einmal pro Spielzug, während des Spielzugs eines beliebigen Spielers: Du kannst 1 LICHT Monster auf dem Spielfeld wählen; die Effekte des offenen Monsters bleiben bis zum Ende dieses Spielzugs annulliert. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Effetto Pendulum 
+ Una volta per turno: puoi scegliere come bersaglio 1 Mostro Xyz scoperto che controlli; in questo turno, puoi utilizzarlo come Materiale Xyz per un'Evocazione Xyz utilizzando il suo Rango come se fosse un Livello (anche se questa carta lascia il Terreno). 
+ Effetto Mostro 
+   Una volta per turno, durante il turno di qualsiasi giocatore: puoi scegliere come bersaglio 1 mostro LUCE sul Terreno; gli effetti di quel mostro scoperto si annullano fino alla fine di questo turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Efeito de Pêndulo 
+ Uma vez por turno: você pode escolher 1 Monstro Xyz com a face para cima que você controla; neste turno, você pode usá-lo como uma Matéria Xyz para uma Invocação-Xyz usando a Classe dele como se fosse o Nível (mesmo que este card deixe o campo). 
+ Efeito de Monstro 
+   Uma vez por turno, durante o turno de qualquer duelista: você pode escolher 1 monstro de LUZ no campo; esse monstro com a face para cima tem seus efeitos negados até o final deste turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Efecto de Péndulo 
+ Una vez por turno: puedes seleccionar 1 Monstruo Xyz boca arriba que controles; este turno, puedes usarlo como Material Xyz para una Invocación Xyz usando su Rango como si fuera un Nivel (aún si esta carta deja el Campo). 
+ Efecto de Monstruo 
+   Una vez por turno, durante el turno de cualquier jugador: puedes seleccionar 1 monstruo de LUZ en el Campo; hasta el final de este turno, ese monstruo boca arriba ve sus efectos negados. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Ｐ 効 果 
+ ①：１ターンに１度、自分フィールドの Ｘ モンスター１体を対象として発動できる。このターンその Ｘ モンスターは、そのランクと同じ数値のレベルのモンスターとして Ｘ 召喚の素材にできる。 
+ モンスターの 効 果 
+   ①：１ターンに１度、フィールドの光属性モンスター１体を対象として発動できる。そのモンスターの効果をターン終了時まで無効にする。この効果は相手ターンでも発動できる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 펜듈럼 효과 
+ ①: 1턴에 1번, 자신 필드의 엑시즈 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 턴에, 그 엑시즈 몬스터는, 그 랭크와 같은 수치의 레벨의 몬스터로 엑시즈 소환의 소재로 할 수 있다. 
+ 몬스터의 효과 
+   ①: 1턴에 1번, 필드의 빛 속성 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 효과를 턴 종료시까지 무효로 한다. 이 효과는 상대 턴에도 발동할 수 있다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2015-08-06 CORE-EN003 Clash of Rebellions Super Rare 2016-09-01 MP16-EN049 2016 Mega-Tin Mega Pack Super Rare 2017-03-09 SP17-EN017 Star Pack Battle Royal Common 2017-03-09 SP17-EN017 Star Pack Battle Royal Starfoil Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2015-08-06 CORE-FR003 Clash of Rebellions Le Choc des Rébellions Super Rare 2016-09-01 MP16-FR049 2016 Mega-Tin Mega Pack 2016 Méga-Boîte Méga-Pack Super Rare 2017-03-09 SP17-FR017 Star Pack Battle Royal Pack Étoile Battle Royal Common 2017-03-09 SP17-FR017 Star Pack Battle Royal Pack Étoile Battle Royal Starfoil Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2015-08-06 CORE-DE003 Clash of Rebellions Clash of Rebellions Super Rare 2016-09-01 MP16-DE049 2016 Mega-Tin Mega Pack 2016 Mega-Tin Mega Pack Super Rare 2017-03-09 SP17-DE017 Star Pack Battle Royal Star Pack Battle Royal Common 2017-03-09 SP17-DE017 Star Pack Battle Royal Star Pack Battle Royal Starfoil Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2015-08-06 CORE-IT003 Clash of Rebellions Scontro di Ribellioni Super Rare 2016-09-01 MP16-IT049 2016 Mega-Tin Mega Pack 2016 Mega-Tin Mega Pack Super Rare 2017-03-09 SP17-IT017 Star Pack Battle Royal Star Pack Battaglia Campale Common 2017-03-09 SP17-IT017 Star Pack Battle Royal Star Pack Battaglia Campale Starfoil Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2015-08-07 CORE-PT003 Clash of Rebellions Conflito de Rebeliões Super Rare 2016-09-01 MP16-PT049 2016 Mega-Tin Mega Pack Mega-Pacote da Mega-Latas 2016 Super Rare 2017-05-26 SP17-PT017 Star Pack Battle Royal Pacote Estelar - Batalha Real Common 2017-05-26 SP17-PT017 Star Pack Battle Royal Pacote Estelar - Batalha Real Starfoil Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2015-08-06 CORE-SP003 Clash of Rebellions Choque de Rebeliones Super Rare 2016-09-01 MP16-SP049 2016 Mega-Tin Mega Pack 2016 Mega-Lata Mega Pack Super Rare 2017-03-09 SP17-SP017 Star Pack Battle Royal Sobre de Estrellas Batalla Campal Common 2017-03-09 SP17-SP017 Star Pack Battle Royal Sobre de Estrellas Batalla Campal Starfoil Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2015-04-25 CORE-JP003 Clash of Rebellions クラッシュ・オブ・リベリオン Super Rare 2015-04-25 CORE-JP003 Clash of Rebellions クラッシュ・オブ・リベリオン Secret Rare 2016-12-23 SD31-JP009 Structure Deck: Pendulum Evolution ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －ペンデュラム・エボリューション－ Common 2019-12-21 LGB1-JP035 Legendary Gold Box ＬＥＧＥＮＤＡＲＹ ＧＯＬＤ ＢＯＸ Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2015-08-18 CORE-KR003 Clash of Rebellions 클래쉬 오브 리벨리온 Super Rare 2015-08-18 CORE-KR003 Clash of Rebellions 클래쉬 오브 리벨리온 Secret Rare 2017-03-14 SD31-KR009 Structure Deck: Pendulum Evolution ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ  － 펜듈럼 에볼루션 － Common 2020-09-24 LGB1-KR035 Legendary Gold Box Legendary   GOLD   SET Normal Parallel Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Xyz Monster 
+ 
+ Anti-supports   
+ LIGHT 
+ 
+ Archetypes  and  series   
+ Magician  
+ 
+ Stat changes  
+ Gives Xyz Monsters Levels 
+ Treated as alternate Level 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of Effect Monsters 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11787 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Xiangke Magician " pages 
+ 
+ 
+ Anime Manga 
+ 
+ 
+ 
+   
+" Magician " 「 魔 術 師 」 Members 
+ Acrobatic Magician Apprentice Magician Black Fang Magician Blast Magician Dark Magician of Chaos Dharma-Eye Magician Doomstar Magician Double Iris Magician Dragoncaller Magician Dragonpit Magician Dragonpulse Magician Eda the Sun Magician Harmonizing Magician Magician of Hope Milla the Temporal Magician Night Wing Sorceress Nobledragon Magician Oafdragon Magician Old Vindictive Magician Performapal Celestial Magician Performapal Five-Rainbow Magician Purple Poison Magician Rapid-Fire Magician Silent Magician Skilled Dark Magician Stargazer Magician The Stern Mystic Time Wizard Timebreaker Magician Timegazer Magician Timestar Magician Tuning Magician White Wing Magician Wisdom-Eye Magician Xiangke Magician Xiangsheng Magician 
+ Magician's Left Hand Magician's Restage Magician's Right Hand 
+ Support 
+ Dharma-Eye Magician Dragonpit Magician Dragonpulse Magician Enlightenment Paladin Harmonizing Magician Nobledragon Magician Oafdragon Magician Performapal Parrotrio Performapal Skullcrobat Joker Performapal Sky Magician Performapal Smile Sorcerer Performapal Springoose Performapal U Go Golem Stargazer Magician Timegazer Magician Timestar Magician Tuning Magician Wisdom-Eye Magician 
+ Amazing Pendulum Magician's Restage Pendulum Call Performapal Popperup Sky Iris Star Pendulumgraph Time Pendulumgraph 
+ Related 
+ Astrograph Sorcerer Baby Dragon Chronograph Sorcerer Dark Sage Thousand Dragon Time Magic Hammer Time Wizard of Tomorrow 
+ Assault Mode Activate The Claw of Hermos Dedication through Light and Darkness Magical Star Illusion 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/60/XiangkeMagician-SP17-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170310171629', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,109 @@
+Link: https://yugioh.fandom.com/wiki/Antikythira_Gear
+
+
+ Antikythira Gear 
+ 
+ Japanese:   アンティキティラ・ギア 
+ Romaji:   Antikitira Gia 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ When an opponent's  monster   declares  a  direct attack , if your opponent  controls  2 or more  face-up   monsters :  Target  1  Attack Position  monster your opponent controls, except the  attacking  monster; take control of that target, and if you do, change it to  Defense Position .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  034 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ German 
+ Antikythera-Antrieb 
+ 
+ 
+ 
+ Spanish 
+ Mecanismo de Antikythera 
+ 
+ 
+ 
+ Japanese 
+ アンティキティラ・ギア 
+ 相手の直接攻撃宣言時、相手フィールド上に表側表示モンスターが２体以上存在する場合に発動する事ができる。相手の攻撃モンスター以外の相手フィールド上に存在する表側表示モンスター１体のコントロールを守備表示で得る。 
+ 
+ 
+ Antikitira Gia 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Trey 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Activates upon attack declaration 
+ Changes control 
+ Changes battle positions 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/bd/AntikythiraGear-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20111206045259', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/AntikythiraGear-OW.png/revision/latest/scale-to-width-down/185?cb=20140131092541', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

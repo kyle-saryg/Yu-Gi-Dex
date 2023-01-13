@@ -1,0 +1,38 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Alector,_Sovereign_of_Birds
+
+
+ Alector, Sovereign of Birds 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ OCG Rulings 
+ This monster is a  Normal Summon Monster . [1] 
+ The effect which negates the effect of a card on the field  targets  one face-up card on the field. [1] 
+ The negating effect of " Alector, Sovereign of Birds " does not end during the  End Phase .  The effects of the  targeted  card remains negated during the entire turn. [2] 
+ Example: The effects of  Spirit monsters , " Majestic Mech - Goryu ", and " Jain, Lightsworn Paladin " will activate during the End Phase, but they will be negated and resolve without effect. 
+ The effect of " Alector, Sovereign of Birds " will only negate effects that activate on the field, or that are applied as long as the monster remains on the field.  It will not stop effects like those of " Sangan " or " Black Pendant " that  activate  when sent to the Graveyard. [3] 
+ The effect of " Exiled Force "  activates  on the field, so its effect will be negated by the effect of " Alector, Sovereign of Birds " even though " Exiled Force " is no longer face-up on the field. [3] 
+ If " Torapart " is used as a  Synchro Material Monster  while its effect is negated by " Alector, Sovereign of Birds " or " Forbidden Chalice " or " Skill Drain ", then the effect of " Torapart " is still applied and Trap Cards cannot be activated until the end of the  Damage Step  when the Synchro Monster attacks. [4] 
+ References 
+ 
+ ↑  1.0   1.1   Konami FAQ : Effect Monster > Alector, Sovereign of Birds 
+ 
+ ↑   Konami FAQ : When a card's effect is negated by "Alector, Sovereign of Birds", how long is it negated? 
+ 
+ ↑  3.0   3.1   Konami FAQ : Can the effect of "Alector, Sovereign of Birds" negate an effect that does not activate on the field, or an effect if the card is not on the field at resolution? 
+ 
+ ↑   Konami FAQ : When "Torapart" is used as a Synchro Material Monster while its effect is negated, do you apply the effect which prevents Trap Cards from being activated? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

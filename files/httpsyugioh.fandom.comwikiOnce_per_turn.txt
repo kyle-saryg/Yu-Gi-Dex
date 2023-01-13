@@ -1,0 +1,573 @@
+Link: https://yugioh.fandom.com/wiki/Once_per_turn
+
+
+ 
+ Once per turn
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ １ターンに１ 度 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ １ターンに１ど
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ １ターンに１度
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ 1 tān ni 1 do
+ 
+ 
+ 
+ English
+ 
+ 
+ once per turn
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : une fois par tour 
+ German : einmal pro Spielzug 
+ Italian : una volta per turno 
+ Portuguese : uma vez por turno 
+ Spanish : una vez por turno 
+ Korean : 1턴에 1번 (1 Turn ? 1 番)  1 teon-e 1 beon 
+ Traditional Chinese : 每回合１次  měi huíhé 1 cì / mui5 wui4 hap6 1 ci3 Formerly: 每1回合1次  měi 1 huíhé 1 cì / mui5 1 wui4 hap6 1 ci3 
+ Simplified Chinese : １个回合１次  1 gè huíhé 1 cì 
+ 
+ 
+ "Once per turn effects"  are a kind of  card effect . There are four kinds of "Once per turn effects".
+ The first is typically referred to as a "Once per turn effect". The second is typically referred to as a "Only once per turn effect". The third is reffered to as "Only 1 effect once per turn" and the final is typically referred to as an "Additional  Normal Summon  once per turn effect".
+ 
+ Contents 
+ 
+ 1   Once per turn 
+ 2   Only once per turn 
+ 
+ 2.1   Activate 
+ 2.2   Use 
+ 
+ 
+ 3   Only 1 effect once per turn 
+ 4   "You can only gain this effect once per turn" 
+ 5   References 
+ 
+ 
+ Once per turn 
+ 
+ "Once per turn" effects can be identified by the text "once per turn" in their  activation conditions . These kinds of effects can only be used once per turn, per card, while that card is face-up in its current location. However, this restriction only applies to the card itself, and does not affect other copies: Multiple copies of the same card, in the same location, can activate the effect of its own.
+ Even if an effect or its activation is  negated , the effect cannot be activated again that turn. This restriction only applies to that copy of the card; if a player is in  possession  of multiple cards with the same name that have the same "Once per turn" effect, they can activate each one during that turn.
+ If a card ceases to be in the same state after using the effect, the restriction is reset, and the effect can be activated again.
+ 
+ Only once per turn 
+ "Only once per turn" (also known as Hard once per turn effects, abbreviated "HOPT") restricts the use of the card/effect, depending on the sub-types, to only one copy per turn/duel.
+ The reference to the effect is most often "the effect" or "this effect", but can also be other references such as "1 of these effects", "each of the preceding effects" etc. depending on the structure of the card's text.
+ If an effect has this condition, each player can only activate that effect of cards with the same name once per turn. This kind of condition is not affected by cards' names being changed; for example, if " Fairy Archer " activates its effect, even its name is changed by " Hero Mask " later that turn, it cannot activate its effect again that turn.
+ 
+ Activate 
+ 
+ Japanese: このカード名のカードは１ターン（デュエル）に１枚しか発動できない。 
+ This condition is found only on  Spell  and  Trap Cards , and only on those which are one-time use (Such as  Normal Spell Card ). If a card states this restriction, card with the same name can be activated again that turn, even if but only if, its activation is negated. If an effect is negated, then another copies cannot be activated.
+ 
+ Use 
+ Japanese: このカード名の(If multiple/only cretain restricted; effect numberの)効果は１ターン（デュエル）に１度しか発動できない。 
+ The more common type, found on Monster cards, and multiple use/off-field effects of Spell and Trap Cards. If a card states this type of restriction, and either its  activation or effect  is negated, you cannot activate it once again.
+ 
+ Only 1 effect once per turn 
+ 
+ Japanese: このカード 名 の(multiple effect numbers)の 効 果 は１ターンに１度、いずれか１つしか 使 用 できない。 
+ The most restrictive of restrictions. In addition to preventing multiple copies from being used, it also prevents the usage of the card's other effects for the turn if one of its effects has been used during that turn.
+ 
+ "You can only gain this effect once per turn" 
+ 
+ These effects can be identified by the text "(You can only gain this effect once per turn.)".
+ Each player can only apply one effect with this text per turn, even if the cards have different names. For example, even if the player controls both " Evilswarm Castor " and " Fire Formation - Tensu ", the player can only gain the effect of one to perform an extra Normal Summon.
+ Most effects with this text allow the player to perform an additional  Normal Summon / Set  that turn without starting a  Chain , but only one of these effects can be gained per turn. The only cards with this text that do not have such an effect are " Zefraath " (which grants an additional  Pendulum Summon ) and " Dice Re-Roll " (which allows a player to redo a dice roll).
+ 
+ References 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/7f/BarrelDragon-DPBC-EN-R-1E.png/revision/latest/scale-to-width-down/150?cb=20201005213742', 'https://static.wikia.nocookie.net/yugioh/images/6/6e/SpellbookofSecrets-REDU-EN-UR-UE.png/revision/latest/scale-to-width-down/120?cb=20121207235703', 'https://static.wikia.nocookie.net/yugioh/images/7/79/WitchcrafterCreation-INCH-EN-ScR-1E.png/revision/latest/scale-to-width-down/150?cb=20190320165901', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories:

@@ -1,0 +1,121 @@
+Link: https://yugioh.fandom.com/wiki/Rocket_Warrior_(anime)
+
+Main card page: " Rocket Warrior " 
+ The Japanese (OCG) version of this card is not a member of the " Warrior "  archetype , because its Japanese name does not contain  「ウォリアー」 .   As its English name contains "Warrior", it  may  be treated a member of the "Warrior" archetype at a TCG event, subject to local rulings.     
+ Rocket Warrior 
+ 
+ Japanese:   ロケット戦士 
+ Romaji:   Roketto Senshi 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Level 
+ 
+ 
+ 4   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Continuous 
+ Trigger 
+ [  Warrior  /  Effect  ] This  effect  is only active during the  Battle Phase  of your  turn .  Battle Damage  to this card and this card's  controller  that they take from a  battle  involving this card becomes 0. After  damage calculation , decrease the  ATK  of the  monster  that was  attacked  by this card by 500 points until the end of this turn.
+ ATK  /  1500     DEF  /  1300   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh! :  069 ,  076 ,  077 ,  086 ,  087 ,  104 ,  108 ,  109 ,  112 ,  113 ,  120 ,  125 ,  126 ,  127 ,  135 ,  144 ,  152 ,  160 ,  161 ,  170 ,  171 ,  183 
+ 
+ ' 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  Yu-Gi-Oh!  ·  Pyramid of Light ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ロケット戦士 
+ この効果は自分のターンのバトルフェイズ中のみ有効。このカードが受けた戦闘ダメージは０になる。このカードの攻撃を受けたモンスターは、ターン終了時まで攻撃力が５００下がる。 
+ 
+ 
+ Roketto Senshi 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Joey Wheeler 
+ 
+ 
+ Search categories 
+ 
+ Related to  archetypes  and  series   
+ Legendary Dragon 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ 
+ LP   
+ Prevents battle damage 
+ 
+ Fusion Material  for  
+ Rocket Hermos Cannon  
+ 
+ 
+ 
+   " Rocket Warrior " pages 
+ 
+ 
+ Anime Manga Yu-Gi-Oh! Destiny Board Traveler Yu-Gi-Oh! Dungeon Dice Monsters 
+ 
+ 
+ 
+ v e 
+ Legendary Dragon   伝 説 の 竜 a   r Members 
+ Claw of Hermos The Eye of Timaeus Fang of Critias 
+ Related 
+ Amulet Dragon Big Bang Blow Big Bang Dragon Blow Blue-Eyes Tyrant Dragon Blue-Eyes White Dragon Crush Card Virus Dark Magician Dark Magician Girl Dark Magician Girl the Dragon Knight Doom Virus Dragon Goddess Bow Legend of Heart Legendary Knight Critias Legendary Knight Hermos Legendary Knight Timaeus Mirror Force Mirror Force Dragon Queen's Knight Red-Eyes B. Dragon Red-Eyes Black Dragon Sword Rocket Hermos Cannon Rocket Warrior Timaeus the Knight of Destiny Time Magic Hammer Time Wizard Time Wizard Tyrant Burst Dragon Tyrant Wing 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/67/RocketWarrior-OW.png/revision/latest/scale-to-width-down/185?cb=20140618184809', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/3c/RocketWarrior-JP-Anime-DM-NC.png/revision/latest/scale-to-width-down/185?cb=20140807164805', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/54/RocketWarrior-JP-Anime-DM-NC-2.png/revision/latest/scale-to-width-down/185?cb=20140807164814', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

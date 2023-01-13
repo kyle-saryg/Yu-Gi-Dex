@@ -1,0 +1,244 @@
+Link: https://yugioh.fandom.com/wiki/Nadir_Servant
+
+
+ 
+ 
+ Nadir Servant 天 底 の 使 徒 
+ 
+ English 
+Nadir Servant 
+ French 
+ Serviteur de Nadir Check translation 
+ German 
+ Nadir-Diener Check translation 
+ Italian 
+ Servitore Nadir Check translation 
+ Korean 
+ 천저의 사도 Check translation 
+ Portuguese 
+ Servo Nadir Check translation 
+ Spanish 
+ Sirviente Nadir Check translation 
+ Japanese (kana) 
+ てんていのしと Check translation 
+ Japanese (base) 
+ 天底の使徒 Check translation 
+ Japanese ( rōmaji ) 
+Tentei no Shito 
+ Japanese (translated) 
+Servant of Nadir 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 01984618 
+ Card effect types 
+ 
+ 
+ Effect 
+ Lingering 
+ Condition Statuses Limited  ( OCG ) Unlimited  ( TCG   Advanced  and  Traditional ) 
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Send  1  monster  from your  Extra Deck  to the  GY , then  add  1 " Dogmatika " monster or 1 " Fallen of Albaz " from your  Deck  or GY to your  hand  with  ATK  less than or equal to the sent monster's. For the rest of this turn after this card  resolves , you cannot  Special Summon  from the Extra Deck. You can only  activate  1 "Nadir Servant"  per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Envoyez 1 monstre depuis votre Extra Deck au Cimetière, puis ajoutez 1 "Albaz le Déchu" ou monstre "Dogmatika" depuis votre Deck ou Cimetière à votre main, qui a une ATK inférieure ou égale au monstre envoyé dans le Cimetière, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres depuis l'Extra Deck le reste de ce tour après la résolution de cette carte. Vous ne pouvez activer qu'1 "Serviteur de Nadir" par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Lege 1 Monster von deinem Extra Deck auf den Friedhof, dann füge deiner Hand 1 „Dogmatika“-Monster oder „Gefallener von Albaz“, dessen ATK kleiner oder gleich denen des gelegten Monsters im Friedhof sind, von deinem Deck oder Friedhof hinzu, zusätzlich kannst du für den Rest dieses Spielzugs, nachdem diese Karte aufgelöst wurde, keine Monster als Spezialbeschwörung vom Extra Deck beschwören. Du kannst nur 1 „Nadir-Diener“ pro Spielzug aktivieren. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Manda 1 mostro dal tuo Extra Deck al Cimitero, poi aggiungi dal tuo Deck o Cimitero alla tua mano 1 mostro "Dogmatika" o "Caduto di Albaz", con ATK pari o inferiore a quel mostro mandato nel Cimitero, inoltre, per il resto di questo turno dopo che questa carta si è risolta, non puoi Evocare Specialmente mostri dall'Extra Deck. Puoi attivare solo 1 "Servitore Nadir" per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Envie 1 monstro do seu Deck Adicional para o Cemitério e, depois, adicione do seu Deck ou Cemitério à sua mão, 1 monstro "Dogmatika" ou "Caído de Arbaz" que tenha um ATK menor ou igual que o desse monstro enviado no Cemitério, e, além disso, pelo resto deste turno depois que este card resolver, você não pode Invocar monstros por Invocação-Especial do Deck Adicional. Você só pode ativar 1 "Servo Nadir" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Manda al Cementerio 1 monstruo en tu Deck Extra, y después añade a tu mano 1 monstruo "Dogmátik" o "Caído de Albaz" en tu Deck o Cementerio que tenga ATK igual o menor al de ese monstruo mandado en el Cementerio, y además, por el resto de este turno después de que esta carta se resuelva, no puedes Invocar monstruos de Modo Especial desde el Deck Extra. Sólo puedes activar 1 "Sirviente Nadir" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名のカードは１ターンに１枚しか発動できない。①： ＥＸ デッキからモンスター１体を墓地へ送る。その後、墓地へ送ったモンスターの攻撃力以下の攻撃力を持つ、「ドラグマ」モンスターまたは「アルバスの落胤」１体を自分のデッキ・墓地から選んで手札に加える。このカードの発動後、ターン終了時まで自分は ＥＸ デッキからモンスターを特殊召喚できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 엑스트라 덱에서 몬스터 1장을 묘지로 보낸다. 그 후, 묘지로 보낸 몬스터의 공격력 이하의 공격력을 가지는, "드래그마" 몬스터 또는 "알버스의 낙윤" 1장을 자신의 덱 / 묘지에서 고르고 패에 넣는다. 이 카드의 발동 후, 턴 종료시까지 자신은 엑스트라 덱에서 몬스터를 특수 소환할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2020-08-06 ROTD-EN052 Rise of the Duelist Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2020-08-06 ROTD-FR052 Rise of the Duelist l'Ascension du Duelliste Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2020-08-06 ROTD-DE052 Rise of the Duelist Rise of the Duelist Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2020-08-06 ROTD-IT052 Rise of the Duelist Ascesa del Duellante Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2020-08-06 ROTD-PT052 Rise of the Duelist Ascensão do Duelista Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2020-08-06 ROTD-SP052 Rise of the Duelist Alzamiento del Duelista Secret Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2020-04-18 ROTD-JP052 Rise of the Duelist ライズ・オブ・ザ・デュエリスト Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2020-07-25 ROTD-KR052 Rise of the Duelist 라이즈 오브 더 듀얼리스트 Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Fallen of Albaz 
+ 
+ Supports   archetypes   
+ Dogmatika 
+ 
+ Actions  
+ Sends from Extra Deck to Graveyard 
+ Adds from Deck to hand 
+ Adds from Graveyard to hand 
+ 
+ Summoning  categories  
+ Prevents the player's Special Summons from the Extra Deck 
+ 
+ Miscellaneous  
+ Only once per turn 
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 15286 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Dogmatika " 「ドラグマ」 Members 
+ Dogmatika Adin, the Enlightened Dogmatika Ashiyan Dogmatika Ecclesia, the Virtuous Dogmatika Fleurdelis, the Knighted Dogmatika Maximus Dogmatika Nexus Dogmatika Theo, the Iron Punch White Knight of Dogmatika White Relic of Dogmatika White Zoa of Dogmatika 
+ Branded in Central Dogmatika Dogmatika Encounter Dogmatika Genesis Dogmatika Nation Dogmatika Punishment Dogmatikacism Dogmatikalamity Dogmatikamacabre Dogmatikatrix Dogmatikaturgy 
+ Support 
+ Dogmatika Adin, the Enlightened Dogmatika Ashiyan Dogmatika Ecclesia, the Virtuous Dogmatika Fleurdelis, the Knighted Grand-Guignol the Finale Dragon Titaniklad the Ash Dragon White Zoa of Dogmatika 
+ Dogmatika Encounter Dogmatika Nation Dogmatikacism Dogmatikamacabre Dogmatikatrix Dogmatikaturgy Nadir Servant 
+ Related 
+ Ad Libitum of Despia Albaz the Ashen Blazing Cartesia, the Virtuous Dramaturge of Despia Ecclesia the Exiled Fallen of Albaz The Golden Swordsoul Incredible Ecclesia, the Virtuous The Iris Swordsoul The Virtuous Vestals 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/36/NadirServant-ROTD-EN-ScR-1E.png/revision/latest/scale-to-width-down/300?cb=20200811161337', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

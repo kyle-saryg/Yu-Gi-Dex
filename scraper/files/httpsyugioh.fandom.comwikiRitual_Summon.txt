@@ -1,0 +1,584 @@
+Link: https://yugioh.fandom.com/wiki/Ritual_Summon
+
+
+ 
+ Ritual Summon
+ 
+ 
+ 
+ A Ritual Summon in Yu-Gi-Oh VRAINS.
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 儀 式 召 喚 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ ぎしきしょうかん
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 儀式召喚
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Gishiki Shōkan
+ 
+ 
+ 
+ English
+ 
+ 
+ Ritual Summon
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Invocation Rituelle Verb: Invoquer Rituellement 
+ German : Ritualbeschwörung Verb: beschwören als Ritualbeschwörung 
+ Italian : Evocazione Rituale Verb: Evocare tramite Rituale 
+ Portuguese : Invocação-Ritual Verb: Invocar por Invocação-Ritual 
+ Spanish : Invocación de Ritual Verb: Invocar por Ritual 
+ Korean : 의식 소환 (儀式召喚)  Uisik Sohwan 
+ Traditional Chinese : 儀式召喚  Yíshì Zhàohuàn / Ji4 sik1 Ziu6 wun6 
+ Simplified Chinese : 仪式召唤  Yíshì Zhàohuàn 
+ 
+ 
+ A  Ritual Summon  ( 儀 式 召 喚   Gishiki Shōkan ) is a method of  Special Summoning  a  Ritual Monster  from the hand with the use of  Ritual Spell Card .
+ 
+ Contents 
+ 
+ 1   How to Ritual Summon 
+ 2   Advanced Rulings 
+ 
+ 2.1   Tributing monsters for a Ritual Summon 
+ 
+ 
+ 3   Effect 
+ 4   Example 
+ 5   Anime & Manga 
+ 
+ 5.1   Before ARC-V 
+ 5.2   Yu-Gi-Oh! ARC-V 
+ 5.3   Yu-Gi-Oh! VRAINS 
+ 5.4   Manga 
+ 
+ 
+ 6   References 
+ 
+ 
+ How to Ritual Summon 
+ A player can Ritual Summon a Ritual Monster by  activating  a card or effect that performs a Ritual Summon, usually a  Ritual Spell Card . When that effect resolves, the player satisfies the requirements of that card or effect which Ritual Summons, usually  Tributing  monsters from their hand and/or field, whose Levels combined equal or exceed the Ritual Monster's. After that, the player Summons the Ritual Monster from the  hand  (or other specified location) to an unoccupied  Main Monster Zone  in  face-up   Attack  or  Defense Position .
+ 
+ Advanced Rulings 
+ When a card or effect that Ritual Summons resolves, if the requirement cannot be met or the Ritual Monster cannot be Ritual Summoned, no Ritual Summon occurs, nor is any action taken for the Ritual Summon's requirement. For example, if a player cannot Special Summon when resolving a Ritual Spell Card that Tributes monsters, no monsters are Tributed.
+ 
+ Tributing monsters for a Ritual Summon 
+ If the card or effect that Ritual Summons does not mandate an exact total Level (e.g. " You must also Tribute monsters from your hand or field whose total Levels equal 6 or more. "), the player cannot Tribute additional monsters if they already met the minimum Level requirement. [1] 
+ Monsters that do not have Levels, such as  Xyz Monsters  and  Link Monsters , cannot be Tributed for a Ritual Summon.
+ A player can activate a card or effect that Ritual Summons even if all of their  Main Monster Zones  are used, but only if they Tribute one of their monsters on the field when that card or effect resolves (if all their Main Monster Zones are still occupied by that point). [ citation needed ] 
+ Face-down  monsters can be Tributed for a Ritual Summon, unless the card text specifies otherwise (such as " Forbidden Arts of the Gishki ").
+ 
+ Effect 
+ As long as the monster is not returned to the  hand  or  Deck , it is considered to have been originally properly Special Summoned, so it can still be Special Summoned from the Graveyard or while banished. 
+ Not all Ritual Spell Cards require the player to tribute monsters from their hand/field. In such cases, follow the card effect and its requirements. 
+ Example 
+ A required Ritual Spell Card (" Black Luster Ritual ") + A Level 7 Tribute (" Gaia The Fierce Knight ") + A Level 4 Tribute (" Manju of the Ten Thousand Hands ") = A corresponding Level 8 Ritual Monster (" Black Luster Soldier ") 
+ Anime & Manga 
+ Before ARC-V 
+ There were no common animation patterns for Ritual Summoning, and the visual effects differ between cards.  Yu-Gi-Oh! 5D's  is the only  Yu-Gi-Oh!  anime that does not feature any Ritual Summon.
+ 
+ Yu-Gi-Oh! ARC-V 
+ In  Yu-Gi-Oh! ARC-V , when a Ritual Card is activated, the altar depicted on it appears on the field, and then the Tributed monsters turn into flames (a number of flames equal to the their individual Levels) before positioning themselves on the altar. A pillar of fire rises from the altar and explodes in the sky, after which the Ritual Monster descends from the sky. 
+ 
+ Yu-Gi-Oh! VRAINS 
+ In  Yu-Gi-Oh! VRAINS , a circle is formed and the tributed monsters turn into flames that disintegrate into the sky before entering the circle. After entering the circle, an explosion is created, therefore creating a  Ritual Monster .
+ 
+ Manga 
+ In the original manga, besides the needed tributes, Ritual Summon also requires a proper monster to become the vessel for the Ritual Monster. For example, when Yugi used " Black Luster Ritual " and " Black Magic Ritual ", he used " Gaia The Fierce Knight " and " Dark Magician " to summon " Black Luster Soldier " and " Magician of Black Chaos ", respectively. Similarly, Maximillion Pegasus used " Dark-Eyes Illusionist " to summon " Relinquished ".
+ 
+ References 
+ 
+ ↑   Scott Miller (6 January 2015).  "Secrets of Eternity: Netherlord of the Flies" . Konami .  https://yugiohblog.konami.com/articles/?p=6852 . Retrieved 12 December 2015 . "Remember, though, that you cannot overpay by Tributing more monsters than necessary to meet the “total Level 6 or more” requirement." 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4a/BlackLusterRitual-YGLD-EN-C-1E.png/revision/latest/scale-to-width-down/127?cb=20170813172536', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/75/GaiaTheFierceKnight-MIL1-EN-R-1E.png/revision/latest/scale-to-width-down/123?cb=20200414204303', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/ec/ManjuoftheTenThousandHands-THSF-EN-SR-1E.png/revision/latest/scale-to-width-down/127?cb=20150214094436', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/3f/BlackLusterSoldier-YGLD-EN-C-1E.png/revision/latest/scale-to-width-down/127?cb=20170812174429', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Types of Summon

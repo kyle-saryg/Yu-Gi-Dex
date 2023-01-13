@@ -1,0 +1,382 @@
+Link: https://yugioh.fandom.com/wiki/Summoning_Curse
+
+The  Croatian  and  Greek                       names given are not official.  
+ 
+ 
+ 
+ 
+ 
+ Summoning Curse 召 喚 の 呪 詛 
+ 
+ English 
+Summoning Curse 
+ Chinese 
+ 召唤的诅咒 Check translation 
+ French 
+ Malédiction d'Invocation Check translation 
+ German 
+ Beschwörungsfluch Check translation 
+ Italian 
+ Maledizione dell'Evocazione Check translation 
+ Korean 
+ 소환의 주술 Check translation 
+ Portuguese 
+ Maldição da Invocação Check translation 
+ Spanish 
+ Maldición de la Invocación Check translation 
+ Japanese (kana) 
+ しょうかんのじゅそ Check translation 
+ Japanese (base) 
+ 召喚の呪詛 Check translation 
+ Japanese ( rōmaji ) 
+Shōkan no Juso 
+ Card type 
+ Spell   
+ Property 
+ Continuous   
+ Passcode 
+ 61650133 
+ Card effect types 
+ 
+ 
+ Trigger-like 
+ Maintenance cost Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If a  monster (s) is  Special Summoned : The current  controller  of that monster(s)  banishes  1 card from their  hand .  Once per turn , during your  End Phase ,  pay  500  LP  or  destroy  this card. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si ou plusieurs monstres sont Invoqués Spécialement : le contrôleur actuel de ces monstres choisit 1 carte dans sa main et bannissez-la. Une fois par tour, durant votre End Phase, payez 500 LP ou détruisez cette carte. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls ein oder mehr Monster als Spezialbeschwörung beschworen werden: Der derzeitige Beherrscher der Monster verbannt 1 Karte von seiner Hand. Einmal pro Spielzug, während deiner End Phase, zahle 500 LP oder zerstöre diese Karte. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se uno o più mostri vengono Evocati Specialmente: il controllore attuale di quei mostri bandisce 1 carta dalla sua mano. Una volta per turno, durante la tua End Phase, paga 500 LP o distruggi questa carta. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se um ou mais monstros forem Invocados por  Invocação-Especial : o controlador atual desses monstros  bane  1 card da mão dele. Uma vez por turno, durante sua  fase Final , pague 500  PV  ou destrua este card. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si uno o más monstruos son Invocados de Modo Especial: el controlador actual de ese o esos monstruos destierra 1 carta en su mano. Una vez por turno, durante tu End Phase, paga 500 LP o destruye esta carta. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードのコントローラーは自分のエンドフェイズ毎に５００ライフポイントを払う。または、５００ライフポイントを払わずにこのカードを破壊する。このカードがフィールド上に存在する場合にモンスターが特殊召喚に成功した場合、そのモンスターのコントローラーは手札を１枚選択してゲームから除外する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드의 컨트롤러는 자신의 엔드 페이즈마다 500 라이프 포인트를 지불한다. 또한, 500 라이프 포인트를 지불하지 않고 이 카드를 파괴한다. 이 카드가 필드 위에 존재할 경우에 몬스터가 특수 소환에 성공했을 때, 그 몬스터의 컨트롤러는 패를 1장 선택하고 게임에서 제외한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2010-08-07  
+ DREV-EN061   
+ Duelist Revolution 
+ Short Print 
+ 
+ 
+ 2016-03-18  
+ OP01-EN026   
+ OTS Tournament Pack 1 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2010-08-12  
+ DREV-FR061   
+ Duelist Revolution 
+ Révolution des Duellistes  
+ Short Print 
+ 
+ 
+ 2016-03-18  
+ OP01-FR026   
+ OTS Tournament Pack 1 
+ OTS Pack de Tournoi 1  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2010-08-12  
+ DREV-DE061   
+ Duelist Revolution 
+ Duelist Revolution  
+ Short Print 
+ 
+ 
+ 2016-03-18  
+ OP01-DE026   
+ OTS Tournament Pack 1 
+ OTS Tournament Pack 1  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2010-08-12  
+ DREV-IT061   
+ Duelist Revolution 
+ La Rivoluzione del Duellante  
+ Short Print 
+ 
+ 
+ 2016-03-18  
+ OP01-IT026   
+ OTS Tournament Pack 1 
+ OTS Buste da Torneo 1  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2016-03-18  
+ OP01-PT026   
+ OTS Tournament Pack 1 
+ Pacote OTS de Torneio 1  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2010-08-12  
+ DREV-SP061   
+ Duelist Revolution 
+ La Revolución de los Duelistas  
+ Short Print 
+ 
+ 
+ 2016-03-18  
+ OP01-SP026   
+ OTS Tournament Pack 1 
+ OTS Sobre Torneo 1  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2010-04-17  
+ DREV-JP061   
+ Duelist Revolution 
+ ＤＵＥＬＩＳＴ ＲＥＶＯＬＵＴＩＯＮ  
+ Normal Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2010-07-17  
+ DREV-KR061   
+ Duelist Revolution 
+ 듀얼리스트의 혁명  
+ Normal Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Actions  
+ Activates upon Special Summon 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ Banished  categories  
+ Banishes from your hand 
+ Banishes from your opponent's hand 
+ 
+ LP   
+ Pays Life Points for cost 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 8992 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/97/SummoningCurse-OP01-EN-C-UE.png/revision/latest/scale-to-width-down/300?cb=20160405011722', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Duel Monsters cards, TCG cards, OCG cards

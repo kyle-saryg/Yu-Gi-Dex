@@ -1,0 +1,494 @@
+Link: https://yugioh.fandom.com/wiki/Anti-support
+
+Anti-support  is an unofficial term for an interaction in which a card specifically affects cards with a particular property in some way harmful to the player who  possesses  the supported card, in contrast with  support . For example, " System Down "  banishes  all  Machine - Type  monsters from the opponent's field and Graveyard, thus it anti-supports Machine-Type monsters.
+ As with  support , anti-support can be applied to  archetypes ,  Attributes ,  Types , or monsters with a certain  Level ,  Rank ,  ATK , or  DEF , among other groups of cards.
+Exclusions, such as the  Xyz Materials  for " Number F0: Utopic Future " being required to not be " Number " monsters, are not considered anti-support. However,  Unclassified Effects  that require that there be only 1 monster with a particular property on the field or on a side of the field, such as with " Earthbound Immortal " and " Kaiju " monsters, are considered anti-support.
+ 
+ Contents 
+ 
+ 1   Examples 
+ 2   All OCG/TCG anti-support cards 
+ 3   All anime anti-support cards 
+ 4   All manga anti-support cards 
+ 
+ 
+ Examples 
+ " Goblin Pothole Squad " provides anti-support for the " Trap Hole " archetype. 
+ " Ally of Justice " monsters provide anti-support for  LIGHT  monsters. 
+ " Last Day of Witch " provides anti-support for  Spellcaster - Type  monsters. 
+ " Ritual Sealing " provides anti-support for  Ritual Monsters . 
+ " White Hole " provides anti-support for " Dark Hole ". 
+ All OCG/TCG anti-support cards 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Anti-supports card(s)/group(s) The Accumulator ザ・アキュムレーター Effect Monster LIGHT Thunder 1 0 0 Link Monster Aegaion the Sea Castrum 魔海城アイガイオン Effect Monster Xyz Monster WATER Machine 8 ? 3000 Fusion Monster Synchro Monster Xyz Monster Agave Dragon 竜絶蘭 Effect Monster Link Monster EARTH Wyrm 3000 Dragon Sea Serpent Dinosaur Wyrm Aleister the Invoker of Madness 暴走召喚師アレイスター Effect Monster Link Monster DARK Spellcaster 1800 Fusion Monster Alligator's Sword Dragon ドラゴンに乗るワイバーン Effect Monster Fusion Monster WIND Dragon 5 1700 1500 WATER EARTH FIRE Ally Salvo Ａ・ボム Effect Monster DARK Machine 2 400 300 LIGHT Ally of Justice Core Destroyer Ａ・Ｏ・Ｊ コアデストロイ Effect Monster DARK Machine 3 1200 200 LIGHT Ally of Justice Cosmic Gateway Ａ・Ｏ・Ｊ コズミック・クローザー Effect Monster DARK Machine 8 2400 1200 LIGHT Ally of Justice Cycle Reader Ａ・Ｏ・Ｊ サイクルリーダー Effect Monster Tuner monster DARK Machine 3 1000 1000 LIGHT Ally of Justice Cyclone Creator Ａ・Ｏ・Ｊ サイクロン・クリエイター Effect Monster Tuner monster DARK Machine 3 1400 1200 Tuner monster ... further results (376 more) 
+   Japanese name Card type Property Anti-supports card(s)/group(s) A.I. Love Fusion Ａｉラブ融合 Spell Card Normal Spell Card Normal Spell Card Link Monster A.I.Q Ａｉ－Ｑ Trap Card Continuous Trap Card Continuous Trap Card Link Monster Abyss Playhouse - Fantastic Theater 魔界劇場「ファンタスティックシアター」 Spell Card Field Spell Card Field Spell Card Effect Monster Abyss-strom アビストローム Trap Card Normal Trap Card Normal Trap Card Spell Card Trap Card Acid Rain 酸の嵐 Spell Card Normal Spell Card Normal Spell Card Machine Acidic Downpour アシッドレイン Spell Card Field Spell Card Field Spell Card EARTH All For Naught -Bubble Burst- 水の泡－崩壊のバブル－ Trap Card Normal Trap Card Normal Trap Card Spellcaster Amazoness Archers アマゾネスの弩弓隊 Trap Card Normal Trap Card Normal Trap Card Flip monster Ancient Forest 古の森 Spell Card Field Spell Card Field Spell Card Flip monster Anti Raigeki 避雷針 Trap Card Normal Trap Card Normal Trap Card Raigeki ... further results (225 more) 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Anti-supports archetype(s) Blackwing - Sirocco the Dawn ＢＦ－暁のシロッコ Effect Monster DARK Winged Beast 5 2000 900 Blackwing Dogoran, the Mad Flame Kaiju 怒炎壊獣ドゴラン Effect Monster FIRE Dinosaur 8 3000 1200 Kaiju Earthbound Immortal Aslla piscu 地縛神 Ａｓｌｌａ ｐｉｓｃｕ Effect Monster DARK Winged Beast 10 2500 2500 Earthbound Immortal Earthbound Immortal Ccapac Apu 地縛神 Ｃｃａｐａｃ Ａｐｕ Effect Monster DARK Fiend 10 3000 2500 Earthbound Immortal Earthbound Immortal Ccarayhua 地縛神 Ｃｃａｒａｙｈｕａ Effect Monster DARK Reptile 10 2800 1800 Earthbound Immortal Earthbound Immortal Chacu Challhua 地縛神 Ｃｈａｃｕ Ｃｈａｌｌｈｕａ Effect Monster DARK Fish 10 2900 2400 Earthbound Immortal Earthbound Immortal Cusillu 地縛神 Ｃｕｓｉｌｌｕ Effect Monster DARK Beast 10 2800 2400 Earthbound Immortal Earthbound Immortal Uru 地縛神 Ｕｒｕ Effect Monster DARK Insect 10 3000 3000 Earthbound Immortal Earthbound Immortal Wiraqocha Rasca 地縛神 Ｗｉｒａｑｏｃｈａ Ｒａｓｃａ Effect Monster DARK Winged Beast 10 100 100 Earthbound Immortal Gadarla, the Mystery Dust Kaiju 怪粉壊獣ガダーラ Effect Monster WIND Insect 8 2700 1600 Kaiju ... further results (39 more) 
+   Japanese name Card type Property Anti-supports archetype(s) Amazoness Village アマゾネスの里 Spell Card Field Spell Card Field Spell Card Amazoness Burst Return バースト・リターン Spell Card Normal Spell Card Normal Spell Card Elemental HERO Cocoon Rebirth コクーン・リボーン Spell Card Continuous Spell Card Continuous Spell Card Neo-Spacian Counter Gem カウンター・ジェム Trap Card Normal Trap Card Normal Trap Card Crystal Beast Cunning of the Six Samurai 六武衆の理 Spell Card Quick-Play Spell Card Quick-Play Spell Card Six Samurai Eternal Bond エターナル・ボンド Trap Card Normal Trap Card Normal Trap Card Photon Galaxy Hundred 銀河百式 Spell Card Continuous Spell Card Continuous Spell Card Number Gateway of the Six 六武の門 Spell Card Continuous Spell Card Continuous Spell Card Six Samurai Gladiator Taming 剣闘調教 Spell Card Quick-Play Spell Card Quick-Play Spell Card Gladiator Beast Gottoms' Emergency Call ガトムズの緊急指令 Trap Card Normal Trap Card Normal Trap Card X-Saber ... further results (11 more) 
+ All anime anti-support cards 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Anti-supports card(s)/group(s) Ally Salvo Ａ・ボム Effect Monster DARK Machine 0 0 0 2 0 0 0 0 0 ??? 0 0 0 0 0 400 LIGHT Ally of Justice Cosmic Gateway Ａ・Ｏ・Ｊ コズミック・クローザー Effect Monster DARK Machine 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 2400 LIGHT Ally of Justice Garadholg Ａ・Ｏ・Ｊ ガラドホルグ Effect Monster DARK Machine 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1600 LIGHT Ally of Justice Light Gazer Ａ・Ｏ・Ｊ ライト・ゲイザー Synchro Monster DARK Machine 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 2400 LIGHT Ally of Justice Nullfier Ａ・Ｏ・Ｊ ブラインド・サッカー Effect Monster DARK Machine 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1600 LIGHT Ally of Justice Tractor Ａ・Ｏ・Ｊ トラクター Effect Monster DARK Machine 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 LIGHT Ancient Fairy Dragon エンシェント・フェアリー・ドラゴン Synchro Monster LIGHT Dragon 0 0 0 7 0 0 0 0 0 ??? 0 0 0 0 2100 Field Spell Card Anesthrokket Dragon アネスヴァレット・ドラゴン Effect Monster DARK Dragon 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 Link Monster Armor Breaker アーマー・ブレイカー Effect Monster Union monster EARTH Warrior 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 800 Equip Spell Card Union monster Armored Centipede 装甲百足－アーマー・センチピード Effect Monster EARTH Insect 0 0 0 5 0 0 0 0 0 ??? 0 0 0 0 1600 Insect ... further results (180 more) 
+   Japanese name Card type Property Anti-supports card(s)/group(s) A.I. A.I. Wall ＡｉＡｉ ウォール Spell Card Continuous Spell Card Link Monster A.I. Love Fusion Ａｉラブ融合 Spell Card Normal Spell Card EARTH Link Monster A.I.Q — Ａｉ — Ｑ Trap Card Continuous Trap Card Link Monster Acidic Downpour アシッドレイン Spell Card Field Spell Card EARTH Action Crush クラッシュ・アクション Spell Card Normal Spell Card Action Card Adamantine Sword Revival 金剛剣の復活 Spell Card Quick-Play Spell Card Dragon Amazoness Archers アマゾネスの弩弓隊 Trap Card Normal Trap Card Flip monster Amazoness Call アマゾネスの口寄せ Spell Card Normal Spell Card Fusion Monster Anchor Bind アンカー・バインド Spell Card Normal Spell Card FIRE Ancient Forest 古の森 Spell Card Field Spell Card Flip effect Changes battle positions Prevents activation of Flip Effects Prevents Battle Position changes ... further results (210 more) 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Anti-supports archetype(s) Number 1: Infection Buzz King Ｎｏ.１ インフェクション・バアル・ゼブル Xyz Monster DARK Fiend 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 3000 Number Number C1000: Numeronius ＣＮｏ.１０００ 夢幻虚神ヌメロニアス Xyz Monster LIGHT Fiend 0 0 12 0 0 0 0 0 ??? 0 0 0 10000 C (archetype) 
+   Japanese name Card type Property Anti-supports archetype(s) Amazoness Village アマゾネスの里 Spell Card Field Spell Card Amazoness Ancient Gear Inspection 古代の機械点検 Spell Card Normal Spell Card Ancient Gear Barian Explosion バリアン・ボム Trap Card Normal Trap Card Barian (archetype) Burst Return バースト・リターン Spell Card Elemental HERO Chaos Bringer カオス・クロス Trap Card Normal Trap Card C (archetype) Chaos Field カオス・フィールド Spell Card Field Spell Card Number Chaos Rising カオス・ライジング Trap Card Normal Trap Card Number C Duo of the Seven Emperors 七皇の双璧 Trap Card Normal Trap Card Number C Fusion Destruction 融合破壊 Spell Card Continuous Spell Card Fusion (archetype) Polymerization (archetype) Memories of Courage ブレイビング・メモリー Trap Card Normal Trap Card Number ... further results (6 more) 
+ All manga anti-support cards 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Anti-supports card(s)/group(s) Acid Hell Fly 地獄酸蠅 Effect Monster 0 0 0 2 0 0 0 0 0 600 0 0 0 0 0 0 0 0 Equip Spell Card Buster Blader バスター・ブレイダー Normal Monster 0 0 0 8 0 0 0 0 2600 0 0 0 0 2300 Dragon D/D Extra Surveyor ＤＤエクストラ・サーベイヤー Pendulum Monster ??? 0 0 0 5 0 0 0 0 1000 0 0 0 0 0 0 0 0 Pendulum Monster D/D Scale Surveyor ＤＤスケール・サーベイヤー Pendulum Monster ??? 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 1000 Pendulum Monster Draco Berserker of the Tenyi 天威の龍鬼神 Synchro Monster DARK Wyrm 0 0 0 8 0 0 0 0 3000 0 0 0 0 0 0 0 0 Effect Monster Draco Masters of the Tenyi 天威の龍拳聖 Link Monster LIGHT Wyrm 0 0 0 0 2600 0 0 0 0 0 0 0 0 Effect Monster Dragon Capture Jar ドラゴン族・封印の壺 Effect Monster 0 0 0 2 0 0 0 0 0 100 0 0 0 0 0 200 Dragon Dragon Piper 壺魔人 Effect Monster DARK 0 0 0 2 0 0 0 0 0 200 0 0 0 0 1800 Dragon Elemental Hero Inferno Ｅ・ＨＥＲＯ フレイム・ブラスト Fusion Monster FIRE Pyro 0 0 0 8 0 0 0 0 2300 0 0 0 0 1600 WATER Elemental Hero Inferno Ｅ・ＨＥＲＯ フレイム・ブラスト Fusion Monster FIRE Pyro 0 0 0 8 0 0 0 0 2300 0 0 0 0 1600 WATER ... further results (16 more) 
+   Japanese name Card type Property Anti-supports card(s)/group(s) Break Action ブレイク・アクション Spell Card Action Card Cleansing Water 聖水の弊害 Spell Card Quick-Play Spell Card Equip Card Cold Fusion フュージョン・フリージング Trap Card Normal Trap Card Fusion Monster Dragon Buster バスター・ドラガン Spell Card Normal Spell Card Galaxy-Eyes Photon Dragon (manga) Dragonslayer ドラゴンスレイヤー Spell Card Equip Spell Card Dragon Earthbound Resonance 地縛共振 Trap Card Continuous Trap Card Synchro Monster Flawless Perfection of the Tenyi 天威無崩の地 Spell Card Field Spell Card Effect Monster Gagaga Escape ガガガの脱出劇 Trap Card Xyz Monster Harmonic Geoglyph ハーモニック・ジオグリフ Trap Card Synchro Monster Insect Barrier 虫除けバリアー Spell Card Continuous Spell Card Insect ... further results (15 more) 
+   Japanese name Card type Property Anti-supports archetype(s) Eternal Bond エターナル・ボンド Trap Card Normal Trap Card Photon 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Gameplay

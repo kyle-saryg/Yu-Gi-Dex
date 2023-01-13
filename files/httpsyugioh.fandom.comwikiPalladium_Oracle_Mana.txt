@@ -1,0 +1,294 @@
+Link: https://yugioh.fandom.com/wiki/Palladium_Oracle_Mana
+
+
+ 
+ 
+ Palladium Oracle Mana 守 護 神 官 マナ 
+ 
+ English 
+Palladium Oracle Mana 
+ French 
+ Mana Oracle Palladium Check translation 
+ German 
+ Palladiumorakel Mana Check translation 
+ Italian 
+ Mana Oracolo di Palladio Check translation 
+ Korean 
+ 수호신관 마나 Check translation 
+ Portuguese 
+ Mana, o Oráculo de Paládio Check translation 
+ Spanish 
+ Maná el Oráculo Paladio Check translation 
+ Japanese (kana) 
+ しゅごしんかんマナ Check translation 
+ Japanese (base) 
+ 守護神官マナ Check translation 
+ Japanese ( rōmaji ) 
+Shugo Shinkan Mana 
+ Japanese (translated) 
+Guardian Priest Mana 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Spellcaster  /  Effect 
+ Level 
+ 6   
+ ATK  /  DEF 
+ 2000  /  1700 
+ Passcode 
+ 42006475 
+ Card effect types 
+ 
+ 
+ Quick 
+ Condition 
+ Continuous 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When your opponent  activates  a card or  effect  that  targets  1  Spellcaster   monster  you  control  (and no other cards), while this card is in your  hand  or  GY  ( Quick Effect ): You can  Special Summon  this card. You can only use this effect of "Palladium Oracle Mana"  once per turn .  Level  7 or higher Spellcaster monsters you control cannot be  destroyed  by card effects. If this card is  destroyed by battle  or card effect: You can Special Summon 1 " Dark Magician Girl " from your hand,  Deck , or GY. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Lorsque votre adversaire active une carte ou un effet qui cible 1 monstre Magicien que vous contrôlez (et aucune autre carte), tant que cette carte est dans votre main ou Cimetière (Effet Rapide) : vous pouvez Invoquer Spécialement cette carte. Vous ne pouvez utiliser cet effet de "Mana Oracle Palladium" qu'une fois par tour. Les monstres Magicien de min. Niveau 7 que vous contrôlez ne peuvent pas être détruits par des effets de carte. Si cette carte est détruite au combat ou par un effet de carte : vous pouvez Invoquer Spécialement 1 "Magicienne des Ténèbres" depuis votre main, Deck ou Cimetière. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der 1 Hexer-Monster, das du kontrollierst, (und keine anderen Karten) als Ziel wählt, solange sich diese Karte in deiner Hand oder deinem Friedhof befindet (Schnelleffekt): Du kannst diese Karte als Spezialbeschwörung beschwören. Du kannst diesen Effekt von „Palladiumorakel Mana“ nur einmal pro Spielzug verwenden. Hexer-Monster der Stufe 7 oder höher, die du kontrollierst, können nicht durch Karteneffekte zerstört werden. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 „Dunkles Magier-Mädchen“ als Spezialbeschwörung von deiner Hand, deinem Deck oder deinem Friedhof beschwören. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando il tuo avversario attiva una carta o un effetto che sceglie come bersaglio 1 mostro Incantatore che controlli (e nessuna altra carta), mentre questa carta è nella tua mano o Cimitero (Effetto Rapido): puoi Evocare Specialmente questa carta. Puoi utilizzare questo effetto di "Mana Oracolo di Palladio" una sola volta per turno. I mostri Incantatore di Livello 7 o superiore che controlli non possono essere distrutti dagli effetti delle carte. Se questa carta viene distrutta in battaglia o dall'effetto di una carta: puoi Evocare Specialmente 1 "Ragazza Maga Nera" dalla tua mano, Deck o Cimitero. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Quando seu oponente ativar um card ou efeito que escolha como alvo 1 monstro Mago que você controla (e nenhum outro card), enquanto este card estiver na sua mão ou no Cemitério (Efeito Rápido): você pode Invocar este card por Invocação-Especial. Você só pode usar este efeito de "Mana, o Oráculo de Paládio" uma vez por turno. Monstros Mago de Nível 7 ou mais que você controla não podem ser destruídos por efeitos de card. Se este card for destruído em batalha ou por um efeito de card: você pode Invocar por Invocação-Especial 1 "Pequena Maga Negra" da sua mão, do Deck ou do Cemitério. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando tu adversario activa una carta o efecto que selecciona 1 monstruo Lanzador de Conjuros que controlas (y ninguna otra carta), mientras esta carta esté en tu mano o Cementerio (Efecto Rápido): puedes Invocar esta carta de Modo Especial. Sólo puedes usar este efecto de "Maná el Oráculo Paladio" una vez por turno. Los monstruos Lanzador de Conjuros de Nivel 7 o mayor que controles no pueden ser destruidos por efectos de cartas. Si esta carta es destruida en batalla o por efecto de una carta: puedes Invocar de Modo Especial, desde tu mano, Deck o Cementerio, 1 "Chica Maga Oscura". 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①の効果は１ターンに１度しか使用できない。①:このカードが手札・墓地に存在し、自分フィールドの魔法使い族モンスター１体のみを対象とする相手の魔法・罠・モンスターの効果が発動した時に発動できる。このカードを特殊召喚する。②:このカードがモンスターゾーンに存在する限り、自分フィールドのレベル７以上の魔法使い族モンスターは効果では破壊されない。③:このカードが戦闘・効果で破壊された場合に発動できる。自分の手札・デッキ・墓地から「ブラック・マジシャン・ガール」１体を選んで特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 패 / 묘지에 존재하고, 자신 필드의 마법사족 몬스터 1장만을 대상으로 하는 상대의 마법 / 함정 / 몬스터의 효과가 발동했을 때에 발동할 수 있다. 이 카드를 특수 소환한다. ②: 이 카드가 몬스터 존에 존재하는 한, 자신 필드의 레벨 7 이상의 마법사족 몬스터는 효과로는 파괴되지 않는다. ③: 이 카드가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 자신의 패 / 덱 / 묘지에서 "블랙 매지션 걸" 1장을 고르고 특수 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2019-08-29 TN19-EN004 2019 Gold Sarcophagus Tin Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2019-08-29 TN19-FR004 2019 Gold Sarcophagus Tin Boîte Sarcophage Doré 2019 Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2019-08-29 TN19-DE004 2019 Gold Sarcophagus Tin 2019 Gold Sarcophagus Tin Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2019-08-29 TN19-IT004 2019 Gold Sarcophagus Tin Tin Sarcofago d'Oro 2019 Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2019-08-30 TN19-PT004 2019 Gold Sarcophagus Tin Lata Sarcófago Dourado 2019 Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2019-08-29 TN19-SP004 2019 Gold Sarcophagus Tin Lata Cofre de Oro Sellado 2019 Prismatic Secret Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2019-02-09 20TH-JPC03 20th Anniversary Legend Collection ２０ｔｈ ＡＮＮＩＶＥＲＳＡＲＹ ＬＥＧＥＮＤ ＣＯＬＬＥＣＴＩＯＮ Secret Rare 2019-02-09 20TH-JPC03 20th Anniversary Legend Collection ２０ｔｈ ＡＮＮＩＶＥＲＳＡＲＹ ＬＥＧＥＮＤ ＣＯＬＬＥＣＴＩＯＮ 20th Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2019-05-15 LEC1-KR003 20th Anniversary Legend Collection ＬＥＧＥＮＤ   ＣＯＬＬＥＣＴＩＯＮ Secret Rare 2019-05-15 LEC1-KR003 20th Anniversary Legend Collection ＬＥＧＥＮＤ   ＣＯＬＬＥＣＴＩＯＮ Extra Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Spellcaster 
+ Dark Magician Girl 
+ 
+ Archetypes  and  series   
+ Palladium 
+ 
+ Related to  archetypes  and  series   
+ Dark Magician Girl  
+ Magician Girl 
+ Kuriboh  
+ 
+ Actions  
+ Activates from your hand 
+ Activates from your Graveyard 
+ Activates if destroyed by battle 
+ Activates if destroyed by card effect 
+ 
+ Monster / Spell / Trap  categories  
+ Cannot be destroyed by card effects 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ Special Summons itself from your Graveyard 
+ Special Summons from your hand 
+ Special Summons from your Deck 
+ Special Summons from your Graveyard 
+ 
+ Miscellaneous  
+ Requires control of specific Type 
+ Requires control of specific Level 
+ Only once per turn 
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14368 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Dark Magician Girl " 「ブラック・マジシャン・ガール」 Members 
+ Dark Magician Girl Dark Magician Girl the Dragon Knight Toon Dark Magician Girl 
+ Support 
+ Dark Burning Attack 
+ Related 
+ Apprentice Illusion Magician Dark Magician Dark Magician The Dark Magicians Magi Magi ☆ Magician Gal Magician of Black Chaos Magician's Valkyria Magicians' Souls Magikuriboh Palladium Oracle Mana 
+ Bond Between Teacher and Student Dark Burning Magic Dark Magic Expanded Dark Magic Inheritance Dark Magic Twin Burst The Eye of Timaeus Magic Formula Magical Dimension Magician's Salvation Magicians' Combination Magicians' Defense Sage's Stone Secrets of Dark Magic Soul Servant Toon World 
+ 
+   
+" Kuriboh " 「クリボー」 Members 
+ Ankuriboh Astral Kuriboh Clear Kuriboh Galakuriboh Junkuriboh Kuribah Kuribee Kuribeh Kuriboh Kuriboh Token Kuribohrn Kuriboo Linkuriboh Magikuriboh Performapal Barokuriboh Performapal ClassiKuriboh Performapal Kuribohble Rainbow Kuriboh Relinkuriboh Sphere Kuriboh Winged Kuriboh Winged Kuriboh LV10 Winged Kuriboh LV9 
+ The Flute of Summoning Kuriboh 
+ Support 
+ Kuribabylon Kuribah Kuribee Kuribeh Kuribohrn Kuriboo Skilled Brown Magician 
+ Generation Next 
+ Related 
+ Donyoribo @Ignister Kuribandit Kuribon Kuriphoton Kurivolt Light and Darkness Dragon Linguriboh Ma'at Palladium Oracle Mana Wretched Ghost of the Attic 
+ Berserker Crush Detonate Five Star Twilight Monster Reborn Multiply Sabatiel - The Philosopher's Stone Transcendent Wings 
+ 
+   
+" Magician Girl " 「マジシャン・ガール」 Members 
+ Apple Magician Girl Berry Magician Girl Chocolate Magician Girl Dark Magician Girl Dark Magician Girl the Dragon Knight Kiwi Magician Girl Lemon Magician Girl Toon Dark Magician Girl 
+ Support 
+ Apple Magician Girl Berry Magician Girl Kiwi Magician Girl Lemon Magician Girl 
+ Related 
+ Apprentice Illusion Magician Dark Magician Dark Magician The Dark Magicians Magi Magi ☆ Magician Gal Magician of Black Chaos Magician's Valkyria Magicians' Souls Palladium Oracle Mana 
+ Dark Burning Magic Dark Magic Expanded The Eye of Timaeus Magic Formula Magical Dimension Magician's Salvation Magicians' Combination Magicians' Defense Sage's Stone Secrets of Dark Magic Soul Servant Toon World 
+ 
+   
+" Palladium " 「 守 護 神 官 」 Members 
+ Palladium Oracle Mahad Palladium Oracle Mana 
+ Support 
+ Soul Servant 
+ Related 
+ Ankuriboh Dark Magician Dark Magician Dark Magician Girl 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/1b/PalladiumOracleMana-TN19-EN-PScR-LE.png/revision/latest/scale-to-width-down/300?cb=20190906212650', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

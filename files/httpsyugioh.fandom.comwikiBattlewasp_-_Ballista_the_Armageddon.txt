@@ -1,0 +1,266 @@
+Link: https://yugioh.fandom.com/wiki/Battlewasp_-_Ballista_the_Armageddon
+
+
+ 
+ 
+ Battlewasp - Ballista the Armageddon Ｂ・Ｆ － 決 戦 のビッグ・バリスタ 
+ 
+ English 
+Battlewasp - Ballista the Armageddon 
+ French 
+ Guêpe de Bataille - Ballista l'Armageddon Check translation 
+ German 
+ Kampfwespe - Balliste das Armageddon Check translation 
+ Italian 
+ Vespabattaglia - Ballista l'Armageddo Check translation 
+ Korean 
+ B・F －결전의 빅 발리스타 Check translation 
+ Portuguese 
+ Vespabatalha - Ballista, o Armagedom Check translation 
+ Spanish 
+ Avispabatalla - Ballista el Armagedón Check translation 
+ Japanese (kana) 
+ ビー・フォース－けっせんのビッグ・バリスタ Check translation 
+ Japanese (base) 
+ Ｂ・Ｆ－決戦のビッグ・バリスタ Check translation 
+ Japanese ( rōmaji ) 
+Bī Fōsu - Kessen no Biggu Barisuta 
+ Japanese (translated) 
+Bee Force - Big Ballista the Armageddon 
+ Card type 
+ Monster   
+ Attribute 
+ WIND   
+ Types 
+ Insect  /  Synchro  /  Effect 
+ Level 
+ 12   
+ ATK  /  DEF 
+ 3000  /  800 
+ Passcode 
+ 26443791 
+ Materials 
+1 Tuner + 1 or more non-Tuner monsters 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Continuous 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+1  Tuner  + 1+ non-Tuner  monsters If this card is  Special Summoned : You can  banish  all  Insect  monsters from your  GY ; all monsters your opponent currently  controls  lose 500  ATK / DEF  for each of your banished Insect monsters. If this card  attacks  a  Defense Position  monster, inflict  piercing   battle damage . If this  Synchro Summoned  card in its  owner 's control is  destroyed  by an opponent's card: You can Special Summon 3 of your banished  Level  11 or lower Insect monsters. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 1 Syntoniseur + 1+ monstre non-Syntoniseur Si cette carte est Invoquée Spécialement : vous pouvez bannir tous les monstres Insecte depuis votre Cimetière ; tous les monstres actuellement contrôlés par votre adversaire perdent 500 ATK/DEF pour chacun de vos monstres Insecte bannis. Si cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants. Si cette carte Invoquée par Synchronisation contrôlée par son propriétaire est détruite par une carte de l'adversaire : vous pouvez Invoquer Spécialement 3 de vos monstres Insecte de max. Niveau 11 bannis. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 1 Empfänger + 1+ Nicht-Empfänger-Monster Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst alle Insekt-Monster von deinem Friedhof verbannen; alle Monster, die dein Gegner derzeit kontrolliert, verlieren für jedes deiner verbannten Insekt-Monster 500 ATK/DEF. Falls diese Karte ein Monster in Verteidigungsposition angreift, füge durchschlagenden Kampfschaden zu. Falls diese als Synchrobeschwörung beschworene Karte, die ihr Besitzer kontrolliert, durch eine Karte eines Gegners zerstört wird: Du kannst 3 deiner verbannten Insekt-Monster der Stufe 11 oder niedriger als Spezialbeschwörung beschwören. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 1 Tuner + 1+ mostri non-Tuner Se questa carta viene Evocata Specialmente: puoi bandire tutti i mostri Insetto dal tuo Cimitero; tutti i mostri attualmente controllati dal tuo avversario perdono 500 ATK/DEF per ognuno dei tuoi mostri Insetto banditi. Se questa carta attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante. Se questa carta Synchro Evocata sotto il controllo del suo proprietario viene distrutta da una carta dell'avversario: puoi Evocare Specialmente 3 dei tuoi mostri Insetto banditi di Livello 11 o inferiore. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 1 Regulador + 1+ monstros não-Reguladores Se este card for Invocado por Invocação-Especial: você pode banir todos os monstros Inseto do seu Cemitério; todos os monstros que seu oponente controla atualmente perdem 500 de ATK/DEF para cada um dos seus monstros Inseto banidos. Se este card atacar um monstro em Posição de Defesa, cause dano de batalha perfurante. Se este card Invocado por Invocação-Sincro sob o controle do seu dono for destruído por um card do oponente: você pode Invocar por Invocação-Especial 3 dos seus monstros Inseto banidos de Nível 11 ou menos. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 1 Cantante + 1+ monstruos que no sean Cantantes Si esta carta es Invocada de Modo Especial: puedes desterrar todos los monstruos Insecto en tu Cementerio; todos los monstruos que controle tu adversario en este momento pierden 500 ATK/DEF por cada uno de tus monstruos Insecto desterrados. Si esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración. Si esta carta Invocada por Sincronía en el control de su dueño es destruida por una carta del adversario: puedes Invocar de Modo Especial 3 de tus monstruos Insecto desterrados de Nivel 11 o menor. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ チューナー＋チューナー以外のモンスター１体以上 ①：このカードが特殊召喚に成功した場合、自分の墓地の昆虫族モンスターを全て除外して発動できる。相手フィールドの全てのモンスターの攻撃力・守備力は、除外されている自分の昆虫族モンスターの数×５００ダウンする。②：このカードが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ戦闘ダメージを与える。③： Ｓ 召喚したこのカードが相手によって破壊された場合に発動できる。除外されている自分のレベル１１以下の昆虫族モンスター３体を選んで特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 튜너 ＋ 튜너 이외의 몬스터 1장 이상 ①: 이 카드가 특수 소환에 성공했을 경우, 자신 묘지의 곤충족 몬스터를 전부 제외하고 발동할 수 있다. 상대 필드의 모든 몬스터의 공격력 / 수비력은, 제외되어 있는 자신의 곤충족 몬스터의 수 × 500 내린다. ②: 이 카드가 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘은 만큼만 전투 데미지를 준다. ③: 싱크로 소환한 이 카드가 상대에 의해 파괴되었을 경우에 발동할 수 있다. 제외되어 있는 자신의 레벨 11 이하의 곤충족 몬스터 3장을 골라 특수 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2019-07-11 BLHR-EN039 Battles of Legend: Hero's Revenge Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2019-07-11 BLHR-FR039 Battles of Legend: Hero's Revenge Batailles de Légende : La Vengeance du Héros Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2019-07-11 BLHR-DE039 Battles of Legend: Hero's Revenge Battles of Legend: Hero's Revenge Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2019-07-11 BLHR-IT039 Battles of Legend: Hero's Revenge Battaglie della Leggenda: Vendetta dell'Eroe Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2019-07-11 BLHR-PT039 Battles of Legend: Hero's Revenge Batalha das Lendas: Vingança do Herói Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2019-07-11 BLHR-SP039 Battles of Legend: Hero's Revenge Batallas de Leyenda: Venganza del Héroe Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2019-05-18 CP19-JP042 Collection Pack: Duelist of Revolution Version ＣＯＬＬＥＣＴＩＯＮ ＰＡＣＫ 革命の決闘者編 Super Rare 2019-05-18 CP19-JP042 Collection Pack: Duelist of Revolution Version ＣＯＬＬＥＣＴＩＯＮ ＰＡＣＫ 革命の決闘者編 Collector's Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2019-07-16 CP19-KR042 Collection Pack: Duelist of Revolution Version COLLECTION   PACK  혁명의 듀얼리스트 편 Super Rare 2019-07-16 CP19-KR042 Collection Pack: Duelist of Revolution Version COLLECTION   PACK  혁명의 듀얼리스트 편 Ultra Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Insect 
+ 
+ Archetypes  and  series   
+ Battlewasp 
+ 
+ Actions  
+ Activates upon Special Summon 
+ Activates if destroyed by battle 
+ Activates if destroyed by card effect 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ Your opponent's monsters lose DEF 
+ 
+ Summoning  categories  
+ 1 or more non-Tuner Synchro Materials 
+ Does not require specific Synchro Materials 
+ Special Summons the player's banished monsters 
+ 
+ Attack  categories  
+ Piercing 
+ 
+ Banished  categories  
+ Banishes from Graveyard for cost 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14575 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Battlewasp - Ballista the Armageddon " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Battlewasp " 「 Ｂ・Ｆ 」 Members 
+ Battlewasp - Arbalest the Rapidfire Battlewasp - Azusa the Ghost Bow Battlewasp - Ballista the Armageddon Battlewasp - Dart the Hunter Battlewasp - Halberd the Charge Battlewasp - Hama the Conquering Bow Battlewasp - Pin the Bullseye Battlewasp - Sting the Poison Battlewasp - Twinbow the Attacker 
+ Battlewasp - Nest 
+ Support 
+ Battlewasp - Arbalest the Rapidfire Battlewasp - Azusa the Ghost Bow Battlewasp - Dart the Hunter Battlewasp - Halberd the Charge Battlewasp - Hama the Conquering Bow Battlewasp - Sting the Poison 
+ Battlewasp - Nest Revival Swarm Summoning Swarm 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/8a/BattlewaspBallistatheArmageddon-BLHR-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20200127192619', 'https://static.wikia.nocookie.net/yugioh/images/0/01/WIND.svg/revision/latest/scale-to-width-down/28?cb=20170920205028', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

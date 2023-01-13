@@ -1,0 +1,104 @@
+Link: https://yugioh.fandom.com/wiki/Admiration_of_the_Keepers
+
+
+ Admiration of the Keepers 
+ 
+ Japanese:   守護者礼賛 
+ Kana:   しゅごしゃらいさん 
+ Romaji:   Shugosha Raisan 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Effect 
+ Continuous 
+ Continuous 
+ Activate  this card by  targeting  1  monster  your opponent  controls  that was  Special Summoned  from the  Extra Deck . When this card is  activated : You can  Special Summon  2 " Keeper Shield Tokens " ( Warrior - Type / LIGHT / Level  1/ ATK  0/ DEF  0). The targeted monster's  effects  are  negated , also it can  attack  all "Keeper Shield Tokens" once each. If the targeted monster did not attack all "Keeper Shield Tokens" during the  Battle Phase ,  destroy  it at the end of the Battle Phase. If the targeted monster  leaves the field , destroy this card.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ARC-V :  116 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ARC-V ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 守 護 者 礼 賛 
+ エクストラデッキから特殊召喚された相手フィールドのモンスター１体を対象としてこのカードを発動できる。①：このカードの発動時、自分フィールドに「守護者の盾トークン」（戦士族・光・星１・攻／守０）２体を特殊召喚できる。②：このカードが魔法＆罠ゾーンに存在する限り、対象の相手モンスターの効果は無効化され、その相手モンスターは全ての「守護者の盾トークン」に１回ずつ攻撃できる。１度のバトルフェイズ中に全ての「守護者の盾トークン」に攻撃しなかった場合、バトルフェイズ終了時に対象の相手モンスターは破壊される。③：対象の相手モンスターがフィールドから離れた場合にこのカードは破壊される。 
+ 
+ 
+ Shugosha Raisan 
+ 
+ 
+ Decks 
+ 
+ 
+ Apollo   
+ Diana 
+ 
+ 
+ Search categories 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your opponent's Effect Monsters 
+ Destroys your opponent's Monster Cards 
+ Destroys itself 
+ 
+ Summoning  categories  
+ Special Summons Tokens 
+ 
+ Attack  categories  
+ Allows multiple attacks on monsters 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/5b/AdmirationoftheKeepers-JP-Anime-AV.png/revision/latest/scale-to-width-down/200?cb=20160731173028', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/18?cb=20120920115206']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

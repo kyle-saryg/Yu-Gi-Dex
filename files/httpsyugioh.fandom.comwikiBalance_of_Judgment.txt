@@ -1,0 +1,230 @@
+Link: https://yugioh.fandom.com/wiki/Balance_of_Judgment
+
+
+ 
+ 
+ Balance of Judgment 裁 きの 天 秤 
+ 
+ English 
+Balance of Judgment 
+ French 
+ Balance du Jugement Check translation 
+ German 
+ Ausgleichendes Urteil Check translation 
+ Italian 
+ Bilancia del Giudizio Check translation 
+ Korean 
+ 심판의천칭 Check translation 
+ Portuguese 
+ Balança do Julgamento Check translation 
+ Spanish 
+ Equilibrio del Juicio Check translation 
+ Japanese (kana) 
+ さばきのてんびん Check translation 
+ Japanese (base) 
+ 裁きの天秤 Check translation 
+ Japanese ( rōmaji ) 
+Sabaki no Tenbin 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 67443336 
+ Card effect types 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If your opponent  controls  more cards than the combined number of cards in your  hand  and that you  control :  Draw  cards equal to their surplus. You can only  activate  1 "Balance of Judgment" per turn. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si votre adversaire contrôle plus de cartes que la somme des cartes dans votre main et que vous contrôlez : piochez un nombre de cartes égal au surplus. Vous ne pouvez activer qu'1 "Balance du Jugement" par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls dein Gegner mehr Karten kontrolliert als die Gesamtanzahl der Karten in deiner Hand und die du kontrollierst: Ziehe Karten in Höhe seines Überschusses. Du kannst nur 1 „Ausgleichendes Urteil“ pro Spielzug aktivieren. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se il tuo avversario controlla più carte della somma del numero di carte nella tua mano e che controlli: pesca carte pari alla sua eccedenza. Puoi attivare solo 1 "Bilancia del Giudizio" per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se seu oponente controlar mais cards que o número combinado de cards na sua mão e os que você controla: compre cards igual a esse excesso. Você só pode ativar 1 "Balança do Julgamento" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si tu adversario controla más cartas que la cantidad combinada de cartas en tu mano y que controlas: roba tantas cartas como el excedente. Sólo puedes activar 1 "Equilibrio del Juicio" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名のカードは１ターンに１枚しか発動できない。①：相手フィールドのカードの数が自分の手札・フィールドのカードの合計数より多い場合に発動できる。自分はその差の数だけデッキからドローする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 상대 필드의 카드의 수가 자신의 패 / 필드의 카드의 합계수보다 많을 경우에 발동할 수 있다. 자신은 그 차의 수만큼 덱에서 드로우한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2015-08-06 CORE-EN078 Clash of Rebellions Common 2016-09-01 MP16-EN094 2016 Mega-Tin Mega Pack Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2015-08-06 CORE-FR078 Clash of Rebellions Le Choc des Rébellions Common 2016-09-01 MP16-FR094 2016 Mega-Tin Mega Pack 2016 Méga-Boîte Méga-Pack Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2015-08-06 CORE-DE078 Clash of Rebellions Clash of Rebellions Common 2016-09-01 MP16-DE094 2016 Mega-Tin Mega Pack 2016 Mega-Tin Mega Pack Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2015-08-06 CORE-IT078 Clash of Rebellions Scontro di Ribellioni Common 2016-09-01 MP16-IT094 2016 Mega-Tin Mega Pack 2016 Mega-Tin Mega Pack Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2015-08-07 CORE-PT078 Clash of Rebellions Conflito de Rebeliões Common 2016-09-01 MP16-PT094 2016 Mega-Tin Mega Pack Mega-Pacote da Mega-Latas 2016 Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2015-08-06 CORE-SP078 Clash of Rebellions Choque de Rebeliones Common 2016-09-01 MP16-SP094 2016 Mega-Tin Mega Pack 2016 Mega-Lata Mega Pack Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2015-04-25 CORE-JP078 Clash of Rebellions クラッシュ・オブ・リベリオン Common 2021-08-07 SR12-JP036 Structure Deck R: Lost Sanctuary ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ Ｒ －ロスト・サンクチュアリ－ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2015-08-18 CORE-KR078 Clash of Rebellions 클래쉬 오브 리벨리온 Common 2021-11-24 SR12-KR036 Structure Deck R: Lost Sanctuary STRUCTURE   DECK  R 잃어버린 성역 Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Related to  archetypes  and  series   
+ Solemn 
+ 
+ Actions  
+ You draw cards 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11862 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Solemn   神 の Members 
+ Solemn Authority Solemn Judgment Solemn Scolding Solemn Strike Solemn Warning Ultimate Providence 
+ Related 
+ Capricious Darklord Condemned Darklord Condemned Maiden Condemned Witch 
+ Balance of Judgment Darklord Rebellion Solemn Wishes Witch's Strike 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/3c/BalanceofJudgment-MP16-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20160901211755', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

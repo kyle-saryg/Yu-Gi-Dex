@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Card_artwork
+
+This property contains the artworks of cards. It uses  string  values.
+ 
+ 
+ 
+ 
+Categories:

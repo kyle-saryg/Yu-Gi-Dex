@@ -1,0 +1,65 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Ancient_Gear_Castle
+
+
+ Ancient Gear Castle 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ Increase the ATK of   each  face-up  monster on the field that includes  "Ancient Gear"  in its card name by  300  points . Each time a monster(s) is Normal Summoned or Set, put 1 counter on this card. If you Tribute Summon  a   monster that includes  "Ancient Gear"  in its card name , you can substitute this card for a Tribute(s), if the number of counters on this card is equal to or greater than the number of required Tribute(s). 
+ Each   face-up  "Ancient Gear"  monster gains  300  ATK . Each time a monster(s) is Normal Summoned or Set, put 1 counter on this card. If you Tribute Summon  an  "Ancient Gear"  monster , you can substitute this card for a Tribute(s), if the number of counters  on this card  is equal to or greater than the number of required Tribute(s). 
+ Face-up  "Ancient Gear"  monsters gain  300 ATK. Each time a monster(s) is Normal Summoned  or  Set,  put  1 counter on this card. If you Tribute Summon an "Ancient Gear" monster, you can substitute this card for a Tribute(s), if the number of counters is equal to or greater than the number of required Tribute(s). 
+ 
+ 
+       SOI-EN047 Shadow of Infinity     
+       SD10-EN023 Structure Deck: Machine Re-Volt ( 1st Edition )     
+       DR04-EN167 Dark Revelation Volume 4     
+ 
+ 
+ Third erratum 
+ Fourth erratum   
+ 
+ 
+ All  "Ancient Gear" monsters gain 300 ATK. Each time a monster(s) is Normal Summoned / Set,  place  1 counter on this card. If you Tribute Summon an "Ancient Gear" monster, you can  substitute  this card  for a Tribute(s) , if the number of counters is equal to or greater than the number of required Tribute(s). 
+ All "Ancient Gear" monsters gain 300 ATK. Each time a monster is Normal Summoned/Set, place 1 counter on this card. If you Tribute Summon an "Ancient Gear" monster  face-up , you can  Tribute  this card  instead , if the number of  its  counters is equal to or greater than the number of required Tribute(s). 
+ 
+ 
+         SD10-EN023 Structure Deck: Machine Re-Volt ( Unlimited Edition ) Machine Madness Value Box     
+         SR03-EN023 Machine Reactor Structure Deck     
+ 
+ 
+ German 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Erhöhe die ATK  jedes offenen   Monsters  auf dem Spielfeld , dessen Kartenname „Antik“ und „Antrieb“ enthält, um  300  Punkte . Jedes Mal, wenn ein Monster als Normalbeschwörung beschworen oder gesetzt wird, lege 1 Zählmarke auf diese Karte. Falls du ein Monster als Tributbeschwörung beschwörst,  dessen Kartenname „Antik“ und „Antrieb“ enthält,  kannst du die als Tribut anzubietenden Monster mit dieser Karte ersetzen, falls die Anzahl der Zählmarken gleich oder höher als die Anzahl der benötigten Tributmonster ist. 
+ Jedes offene   „Antiker Antrieb“- Monster  auf dem Spielfeld  erhält  300  ATK . Jedes Mal, wenn ein Monster als Normalbeschwörung beschworen oder gesetzt wird, lege 1 Zählmarke auf diese Karte. Falls du ein  „Antiker Antrieb“- Monster als Tributbeschwörung beschwörst, kannst du die als Tribut anzubietenden Monster mit dieser Karte ersetzen, falls die Anzahl der Zählmarken gleich oder höher als die Anzahl der benötigten Tributmonster ist. 
+ 
+ 
+         SOI-DE047 Shadow of Infinity     
+         SD10-DE023 Structure Deck: Machine Re-Volt     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/6e/AncientGearCastle-SOI-EN-SR-1E.jpg/revision/latest/scale-to-width-down/180?cb=20061109160606', 'https://static.wikia.nocookie.net/yugioh/images/6/60/AncientGearCastle-SD10-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20160418105319', 'https://static.wikia.nocookie.net/yugioh/images/4/42/AncientGearCastle-DR04-NA-SR-UE.png/revision/latest/scale-to-width-down/180?cb=20080530030310', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/da/AncientGearCastle-SD10-EN-C-UE.png/revision/latest/scale-to-width-down/180?cb=20140901180503', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/de/AncientGearCastle-SR03-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20170411220628', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1c/AncientGearCastle-SOI-DE-SR-1E.png/revision/latest/scale-to-width-down/180?cb=20170211035327', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b8/AncientGearCastle-SD10-DE-C-1E.png/revision/latest/scale-to-width-down/180?cb=20160927165649']
+Categories: Card Errata, Cards with 4 errata, Cards with 1 erratum, Cards with German errata

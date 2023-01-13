@@ -1,0 +1,204 @@
+Link: https://yugioh.fandom.com/wiki/Digit_Jamming
+
+
+ 
+ 
+ Digit Jamming 無 千 ジャミング 
+ 
+ English 
+Digit Jamming 
+ French 
+ Brouillage Chiffré Check translation 
+ German 
+ Ziffernstörung Check translation 
+ Italian 
+ Interferenza Cifra Check translation 
+ Korean 
+ 무천재밍 Check translation 
+ Portuguese 
+ Obstruir Dígitos Check translation 
+ Spanish 
+ Interferencia de Dígitos Check translation 
+ Japanese (kana) 
+ むせんジャミング Check translation 
+ Japanese (base) 
+ 無千ジャミング Check translation 
+ Japanese ( rōmaji ) 
+Musen Jamingu 
+ Japanese (translated) 
+Unlimited Free Radio Jamming 
+ Card type 
+ Spell   
+ Property 
+ Continuous   
+ Passcode 
+ 02263869 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+During  damage calculation , if a  monster   battles  while a monster with 1000 or more  ATK  is on the  field : The ATK of all monsters currently on the field becomes reduced by 1000 for every 1000 ATK they have, also their  DEF  becomes reduced by 1000 for every 1000 DEF they have. If this card is  destroyed : Apply the above ATK/DEF adjustments to all monsters currently on the field, until the end of this  turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Durant le calcul des dommages, si un monstre combat tant qu'un monstre avec min. 1000 ATK est sur le Terrain : l'ATK de tous les monstres actuellement sur le Terrain sera réduite de 1000 pour chaque 1000 ATK qu'ils ont, et aussi, leur DEF sera réduite de 1000 pour chaque 1000 DEF qu'ils ont. Si cette carte est détruite : jusqu'à la fin de ce tour, appliquez les ajustements d'ATK/DEF ci-dessus à tous les monstres actuellement sur le Terrain. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Während der Schadensberechnung, falls ein Monster kämpft, solange ein Monster mit 1000 oder mehr ATK auf dem Spielfeld liegt: Die ATK aller Monster, die sich derzeit auf dem Spielfeld befinden, werden für jede 1000 ATK, die sie haben, um 1000 reduziert, zusätzlich werden ihre DEF für jede 1000 DEF, die sie haben, um 1000 reduziert. Falls diese Karte zerstört wird: Wende die obigen ATK/DEF-Anpassungen bis zum Ende dieses Spielzugs auf alle Monster an, die sich derzeit auf dem Spielfeld befinden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Durante il calcolo dei danni, se un mostro combatte mentre un mostro con ATK 1000 o superiore è sul Terreno: l'ATK di tutti i mostri attualmente sul Terreno diventa ridotto di 1000 per ogni 1000 ATK che hanno, inoltre il loro DEF diventa ridotto di 1000 per ogni 1000 DEF che hanno. Se questa carta viene distrutta: applica le modifiche di ATK/DEF sopra indicate a tutti i mostri attualmente sul Terreno, fino alla fine di questo turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Durante o cálculo de dano, se um monstro batalhar enquanto um monstro com 1000 ou mais de ATK estiver no campo: o ATK de todos os monstros atualmente no campo é reduzido em 1000 para cada 1000 de ATK que eles tiverem e, além disso, suas DEF são reduzidas em 1000 para cada 1000 de DEF que eles tiverem. Se este card for destruído: até o final deste turno, aplique os ajustes de ATK/DEF acima a todos os monstros atualmente no campo. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Durante el cálculo de daño, si un monstruo batalla mientras un monstruo con 1000 ATK o más está en el Campo: el ATK de todos los monstruos en el Campo en este momento se reduce en 1000 por cada 1000 ATK que tengan, y además su DEF se reduce en 1000 por cada 1000 DEF que tengan. Si esta carta es destruida: aplica los ajustes de ATK/DEF mencionados arriba a todos los monstruos en el Campo en este momento, hasta el final de este turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：フィールドに攻撃力１０００以上のモンスターが存在する場合、モンスターが戦闘を行うダメージ計算時に発動する。フィールドの全てのモンスターは、攻撃力がその攻撃力１０００につき１０００下げた数値になり、守備力がその守備力１０００につき１０００下げた数値になる。②：このカードが破壊された場合に発動する。フィールドの全てのモンスターはターン終了時まで、攻撃力がその攻撃力１０００につき１０００下げた数値になり、守備力がその守備力１０００につき１０００下げた数値になる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 필드에 공격력 1000 이상의 몬스터가 존재할 경우, 몬스터가 전투를 실행하는 데미지 계산시에 발동한다. 필드의 모든 몬스터는, 공격력이 그 공격력 1000 당 1000 내린 수치가 되고, 수비력이 그 수비력 1000 당 1000 내린 수치가 된다. ②: 이 카드가 파괴되었을 경우에 발동한다. 필드의 모든 몬스터는 턴 종료시까지, 공격력이 그 공격력 1000 당 1000 내린 수치가 되고, 수비력이 그 수비력 1000 당 1000 내린 수치가 된다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2022-08-04 POTE-EN068 Power of the Elements Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2022-08-04 POTE-FR068 Power of the Elements Le Pouvoir des Éléments Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2022-08-04 POTE-DE068 Power of the Elements Power of the Elements Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2022-08-04 POTE-IT068 Power of the Elements Potere degli Elementi Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2022-08-04 POTE-PT068 Power of the Elements Poder dos Elementos Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2022-08-04 POTE-SP068 Power of the Elements Poder de los Elementos Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-04-23 POTE-JP068 Power of the Elements ＰＯＷＥＲ ＯＦ ＴＨＥ ＥＬＥＭＥＮＴＳ Normal Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2022-07-19 POTE-KR068 Power of the Elements 파워 오브 디 엘리멘츠 Normal Rare 
+ 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17470 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/cc/DigitJamming-POTE-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20220817173356', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Cards needing effect types, Duel Monsters cards, TCG cards, OCG cards

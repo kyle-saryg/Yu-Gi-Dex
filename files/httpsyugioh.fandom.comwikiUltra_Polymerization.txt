@@ -1,0 +1,269 @@
+Link: https://yugioh.fandom.com/wiki/Ultra_Polymerization
+
+
+ 
+ 
+ Ultra Polymerization 超 越 融 合 
+ 
+ English 
+Ultra Polymerization 
+ French 
+ Ultra Polymérisation Check translation 
+ German 
+ Ultra-Polymerisation Check translation 
+ Italian 
+ Ultra Polimerizzazione Check translation 
+ Korean 
+ 초월융합 Check translation 
+ Portuguese 
+ Ultra Polimerização Check translation 
+ Spanish 
+ Ultra Polimerización Check translation 
+ Japanese (kana) 
+ ちょうえつゆうごう Check translation 
+ Japanese (base) 
+ 超越融合 Check translation 
+ Japanese ( rōmaji ) 
+Chōetsu Yūgō 
+ Japanese (translated) 
+Transcendental Fusion 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 76647978 
+ Card effect types 
+ 
+ 
+ Cost 
+ Effect 
+ Condition 
+ Ignition-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Pay  2000  LP ;  Fusion Summon  1  Fusion Monster  from your  Extra Deck , using 2  monsters  you  control  as  Fusion Materials . Neither player can  activate  cards or  effects  in  response  to this card's activation. You can  banish  this card from your  GY , then  target  1 Fusion Monster that was Fusion Summoned with this card's effect;  Special Summon  all the Fusion Materials used for its Fusion Summon from your GY, but change their  ATK / DEF  to 0, also they have their effects  negated . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Payez 2000 LP ; Invoquez par Fusion 1 Monstre Fusion depuis votre Extra Deck, en utilisant 2 monstres que vous contrôlez comme Matériels Fusion. Aucun joueur ne peut activer ni de cartes ni d'effets en réponse à l'activation de cette carte. Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Fusion qui a été Invoqué par Fusion avec l'effet de cette carte ; Invoquez Spécialement tous les Matériels Fusion utilisés pour son Invocation Fusion depuis votre Cimetière, mais changez leur ATK/DEF à 0, et aussi, ils ont leurs effets annulés. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Zahle 2000 LP; beschwöre 1 Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck und verwende dafür 2 Monster, die du kontrollierst, als Fusionsmaterial. Kein Spieler kann Karten oder Effekte als Reaktion auf die Aktivierung dieser Karte aktivieren. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Fusionsmonster wählen, das durch den Effekt dieser Karte als Fusionsbeschwörung beschworen wurde; beschwöre alles Fusionsmaterial, das für seine Fusionsbeschwörung verwendet wurde, als Spezialbeschwörung von deinem Friedhof, aber ändere seine ATK/DEF zu 0, zusätzlich bleiben seine Effekte annulliert. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Paga 2000 LP; Evoca tramite Fusione 1 Mostro Fusione dal tuo Extra Deck, utilizzando 2 mostri che controlli come Materiali da Fusione. Nessun giocatore può attivare carte o effetti in risposta all'attivazione di questa carta. Puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 Mostro Fusione che è stato Evocato tramite Fusione con l'effetto di questa carta; Evoca Specialmente dal tuo Cimitero tutti i Materiali da Fusione utilizzati per la sua Evocazione tramite Fusione, ma cambia i loro ATK/DEF a 0, inoltre i loro effetti si annullano. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Pague 2000 PV; Invoque por Invocação-Fusão 1 Monstro de Fusão do seu Deck Adicional, usando 2 monstros que você controla como Matérias de Fusão. Nenhum duelista pode ativar cards ou efeitos em resposta à ativação deste card. Você pode banir este card do seu Cemitério e, depois, escolher 1 Monstro de Fusão que foi Invocado por Invocação-Fusão pelo efeito deste card; Invoque por Invocação-Especial do seu Cemitério todas as Matérias de Fusão usadas para sua Invocação-Fusão, mas mude o ATK/DEF delas para 0 e, além disso, elas tem seus efeitos negados. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Paga 2000 LP; Invoca por Fusión, desde tu Deck Extra, 1 Monstruo de Fusión, usando 2 monstruos que controles como Materiales de Fusión. Ningún jugador puede activar cartas o efectos en respuesta a la activación de esta carta. Puedes desterrar esta carta en tu Cementerio, y después selecciona 1 Monstruo de Fusión que fue Invocado por Fusión por efecto de esta carta; Invoca de Modo Especial, desde tu Cementerio, todos los Materiales de Fusión usados en su Invocación por Fusión, pero cambia a 0 su ATK/DEF, y además éstos ven sus efectos negados. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードの発動に対してカードの効果は発動できない。①：２０００ ＬＰ を払って発動できる。融合モンスターカードによって決められた融合素材モンスター２体を自分フィールドから墓地へ送り、その融合モンスター１体を ＥＸ デッキから融合召喚する。②：墓地のこのカードを除外し、このカードの効果で融合召喚したモンスター１体を対象として発動できる。そのモンスターの融合召喚に使用した融合素材モンスター一組を自分の墓地から特殊召喚する。この効果で特殊召喚したモンスターの攻撃力・守備力は０になり、効果は無効化される。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드의 발동에 대하여 카드의 효과는 발동할 수 없다. ①: 2000 LP를 지불하고 발동할 수 있다. 융합 몬스터 카드에 기재된 융합 소재 몬스터 2장을 자신 필드에서 묘지로 보내고, 그 융합 몬스터 1장을 엑스트라 덱에서 융합 소환한다. ②: 묘지의 이 카드를 제외하고, 이 카드의 효과로 융합 소환한 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 융합 소환에 사용한 융합 소재 몬스터 1세트를 자신 묘지에서 특수 소환한다. 이 효과로 특수 소환한 몬스터의 공격력 / 수비력은 0 이 되고, 효과는 무효화된다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2017-05-04 MACR-EN052 Maximum Crisis Secret Rare 2018-08-30 MP18-EN014 2018 Mega-Tin Mega Pack Secret Rare 2018-11-15 HISU-EN043 Hidden Summoners Super Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2017-05-04 MACR-FR052 Maximum Crisis La Crise Maximale Secret Rare 2018-08-30 MP18-FR014 2018 Mega-Tin Mega Pack 2018 Méga-Boîtes Méga Pack Secret Rare 2018-11-15 HISU-FR043 Hidden Summoners Les Invocateurs Cachés Super Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2017-05-04 MACR-DE052 Maximum Crisis Maximum Crisis Secret Rare 2018-08-30 MP18-DE014 2018 Mega-Tin Mega Pack 2018 Mega-Tin Mega Pack Secret Rare 2018-11-15 HISU-DE043 Hidden Summoners Hidden Summoners Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2017-05-04 MACR-IT052 Maximum Crisis Crisi Massima Secret Rare 2018-08-30 MP18-IT014 2018 Mega-Tin Mega Pack Mega-Tin 2018 Mega-Pack Secret Rare 2018-11-15 HISU-IT043 Hidden Summoners Evocatori Nascosti Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2017-05-04 MACR-PT052 Maximum Crisis Crise Máxima Secret Rare 2018-08-30 MP18-PT014 2018 Mega-Tin Mega Pack Mega-Pacote da Mega-Latas 2018 Secret Rare 2018-11-15 HISU-PT043 Hidden Summoners Invocadores Ocultos Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2017-05-04 MACR-SP052 Maximum Crisis Crisis Máxima Secret Rare 2018-08-30 MP18-SP014 2018 Mega-Tin Mega Pack Mega-Latas 2018 Mega-Pack Secret Rare 2018-11-15 HISU-SP043 Hidden Summoners Invocadores Ocultos Super Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2017-01-14 MACR-JP052 Maximum Crisis マキシマム・クライシス Ultra Rare 2017-01-14 MACR-JP052 Maximum Crisis マキシマム・クライシス Secret Rare 2017-01-14 MACR-JP052 Maximum Crisis マキシマム・クライシス Ultimate Rare 2018-08-04 DBHS-JP043 Deck Build Pack: Hidden Summoners デッキビルドパック －ヒドゥン・サモナーズ－ Common 2018-08-04 DBHS-JP043 Deck Build Pack: Hidden Summoners デッキビルドパック －ヒドゥン・サモナーズ－ Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2017-04-11 MACR-KR052 Maximum Crisis 맥시멈 크라이시스 Ultra Rare 2017-04-11 MACR-KR052 Maximum Crisis 맥시멈 크라이시스 Secret Rare 2017-04-11 MACR-KR052 Maximum Crisis 맥시멈 크라이시스 Ultimate Rare 2018-11-20 DBHS-KR043 Deck Build Pack: Hidden Summoners 덱 빌드 팩 히든 서머너즈 Common 2018-11-20 DBHS-KR043 Deck Build Pack: Hidden Summoners 덱 빌드 팩 히든 서머너즈 Normal Parallel Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Fusion Monster 
+ 
+ Archetypes  and  series   
+ Polymerization  
+ 
+ Actions  
+ Uses cards on the player's field as Fusion Materials 
+ Activates from your Graveyard 
+ 
+ Stat changes  
+ Reduces ATK to 0 
+ Reduces DEF to 0 
+ 
+ Monster / Spell / Trap  categories  
+ Prevents activation of Effect Monsters 
+ Prevents activation of Spell Cards 
+ Prevents activation of Trap Cards 
+ Prevents responding to its activation 
+ Negates the effects of your Effect Monsters 
+ 
+ Summoning  categories  
+ Performs a Fusion Summon 
+ Special Summons from your Extra Deck 
+ Special Summons from your Graveyard 
+ Special Summons Materials 
+ 
+ Banished  categories  
+ Banishes itself from Graveyard for cost 
+ 
+ LP   
+ Pays Life Points for cost 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12966 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Ultra Polymerization " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Polymerization " 「 融 合 」 Members 
+ The Dark - Hex-Sealed Fusion The Earth - Hex-Sealed Fusion The Light - Hex-Sealed Fusion 
+ A.I. Love Fusion Anti-Fusion Device Battle Fusion Branded Fusion De-Fusion Destruction Swordsman Fusion Dimension Fusion Dimension Fusion Destruction Face Card Fusion Final Fusion Flash Fusion Fossil Fusion Fusion Conscription Fusion Deployment Fusion Recycling Plant Fusion Sage Fusion Substitute Fusion Sword Murasame Blade Future Fusion Greater Polymerization Mispolymerization Non-Fusion Area Polymerization Polymerization Re-Fusion Revoke Fusion Super Polymerization Ultra Polymerization Vision Fusion 
+ Support 
+ Alba-Lenatus the Abyss Dragon Fluffal Dolphin Keeper of Dragon Magic Predaplant Chimerafflesia Predaplant Darlingtonia Cobra Predaplant Verte Anaconda Supreme King Gate Zero Synchro Fusionist Xtra HERO Wonder Driver 
+ Cyberdark Inferno Evil Mind Frightfur Factory Sabatiel - The Philosopher's Stone Wonders of Nature 
+ Related 
+ Amazoness Spiritualist Amazoness War Chief Ancient Gear Golem - Ultimate Pound Blue-Eyes Abyss Dragon Elemental HERO Blazeman Elemental HERO Spirit of Neos Elemental HERO Woodsman Fluffal Bear Fluffal Cat Fluffal Owl Guardian Chimera King of the Swamp Lunalight Black Sheep Lunalight Kaleido Chick Monster Eye Performapal Odd-Eyes Metal Claw Performapal Trump Witch Tamtam the Melodious Diva Vision HERO Vyon Wroughtweiler 
+ EN - Engage Neo Space Frightfur Patchwork Fusion Recovery Fusion Reserve Miracle Contact 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/64/UltraPolymerization-HISU-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20181116180113', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

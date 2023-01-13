@@ -1,0 +1,262 @@
+Link: https://yugioh.fandom.com/wiki/A.I._Challenge_You
+
+
+ 
+ 
+ A.I. Challenge You 果 たし－ Ａｉ － 
+ 
+ English 
+A.I. Challenge You 
+ French 
+ A.I. Vous Défie Check translation 
+ German 
+ A.I. fordert dich heraus Check translation 
+ Italian 
+ A.I. Ti Sfida Check translation 
+ Korean 
+ 하타시－ Ai － Check translation 
+ Portuguese 
+ Desafio I.A. Check translation 
+ Spanish 
+ Te Reto A.I. Check translation 
+ Japanese (kana) 
+ はたし－アイ－ Check translation 
+ Japanese (base) 
+ 果たし－Ａｉ－ Check translation 
+ Japanese ( rōmaji ) 
+Hatashi -Ai- 
+ Japanese (translated) 
+Duel - Ai 
+ Card type 
+ Trap   
+ Property 
+ Continuous   
+ Passcode 
+ 28645123 
+ Card effect types 
+ 
+ 
+ Continuous-like 
+ Continuous-like 
+ Trigger-like 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Monsters  your opponent  controls  lose 100  ATK  for each card you control. If your " @Ignister " monster  battles , your opponent cannot  activate  cards or  effects  until the end of the  Damage Step . When your "@Ignister" monster is  destroyed by battle : You can  target  1 other  Cyberse  monster with 2300  ATK  in your  GY ;  Special Summon  it. You can only use this effect of "A.I. Challenge You"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Les monstres contrôlés par votre adversaire perdent 100 ATK pour chaque carte que vous contrôlez. Si votre monstre "@Ignister" combat, votre adversaire ne peut activer ni de cartes ni d'effets jusqu'à la fin de la Damage Step. Lorsque votre monstre "@Ignister" est détruit au combat : vous pouvez cibler 1 autre monstre Cyberse avec 2300 ATK dans votre Cimetière ; Invoquez-le Spécialement. Vous ne pouvez utiliser cet effet de "A.I. Vous Défie" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Monster, die dein Gegner kontrolliert, verlieren für jede Karte, die du kontrollierst, 100 ATK. Falls dein „@Ignister“-Monster kämpft, kann dein Gegner bis zum Ende des Damage Steps weder Karten noch Effekte aktivieren. Wenn dein „@Ignister“-Monster durch Kampf zerstört wird: Du kannst 1 anderes Cyberse-Monster mit 2300 ATK in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Du kannst diesen Effekt von „A.I. fordert dich heraus“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ I mostri controllati dal tuo avversario perdono 100 ATK per ogni carta che controlli. Se un tuo mostro "@Ignister" combatte, il tuo avversario non può attivare carte o effetti fino alla fine del Damage Step. Quando un tuo mostro "@Ignister" viene distrutto in battaglia: puoi scegliere come bersaglio 1 altro mostro Cyberso con 2300 ATK nel tuo Cimitero; Evocalo Specialmente. Puoi utilizzare questo effetto di "A.I. Ti Sfida" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Os monstros que seu oponente controla perdem 100 de ATK para cada card que você controla. Se um monstro "@Ignister" seu batalhar, seu oponente não pode ativar cards ou efeitos até o final da Etapa de Dano. Quando um monstro "@Ignister" seu for destruído em batalha: você pode escolher 1 outro monstro Ciberso com 2300 de ATK no seu Cemitério; Invoque-o por Invocação-Especial. Você só pode usar este efeito de "Desafio I.A." uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Los monstruos que controle tu adversario pierden 100 ATK por cada carta que controles. Si tu monstruo "@Ignister" batalla, tu adversario no puede activar cartas o efectos hasta el final del Damage Step. Cuando tu monstruo "@Ignister" es destruido en batalla: puedes seleccionar otro monstruo Ciberso con 2300 ATK en tu Cementerio; Invócalo de Modo Especial. Sólo puedes usar este efecto de "Te Reto A.I." una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の③の効果は１ターンに１度しか使用できない。①：相手フィールドのモンスターの攻撃力は、自分フィールドのカードの数×１００ダウンする。②：自分の「＠イグニスター」モンスターが戦闘を行う場合、相手はダメージステップ終了時まで魔法・罠・モンスターの効果を発動できない。③：自分の「＠イグニスター」モンスターが戦闘で破壊された時、そのモンスター以外の自分の墓地の攻撃力２３００のサイバース族モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 상대 필드의 몬스터의 공격력은 자신 필드의 카드의 수 × 100 내린다. ②: 자신의 "＠(앳)이그니스터" 몬스터가 전투를 실행할 경우, 상대는 데미지 스텝 종료시까지 마법 / 함정 / 몬스터의 효과를 발동할 수 없다. ③: 자신의 "＠(앳)이그니스터" 몬스터가 전투로 파괴되었을 때, 그 몬스터 이외의 자신 묘지의 공격력 2300 인 사이버스족 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2021-06-03 LIOV-EN076 Lightning Overdrive Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2021-06-03 LIOV-FR076 Lightning Overdrive Foudre Amplifiée Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2021-06-03 LIOV-DE076 Lightning Overdrive Lightning Overdrive Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2021-06-03 LIOV-IT076 Lightning Overdrive Iperattività Fulmine Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2021-06-03 LIOV-PT076 Lightning Overdrive Exaustão Relâmpago Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2021-06-03 LIOV-SP076 Lightning Overdrive Furia de Relámpagos Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2021-01-16 LIOV-JP076 Lightning Overdrive ライトニング・オーバードライブ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2021-04-16 LIOV-KR076 Lightning Overdrive 라이트닝 오버드라이브 Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Cyberse 
+ 
+ Archetypes  and  series   
+ A.I. 
+ 
+ Supports   archetypes   
+ @Ignister 
+ 
+ Actions  
+ Activates if destroyed by battle 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Prevents activation of your opponent's Effect Monsters 
+ Prevents activation of your opponent's Spell Cards 
+ Prevents activation of your opponent's Trap Cards 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ 
+ Miscellaneous  
+ Requires control of specific archetype 
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 16037 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" @Ignister " 「 ＠ イグニスター」 Members 
+ Achichi @Ignister The Arrival Cyberse @Ignister Bururu @Ignister Danmari @Ignister Dark Infant @Ignister Dark Templar @Ignister Donyoribo @Ignister Doshin @Ignister Doyon @Ignister Earth Golem @Ignister Fire Phoenix @Ignister Gatchiri @Ignister Gussari @Ignister Hiyari @Ignister Light Dragon @Ignister Pikari @Ignister Water Leviathan @Ignister Wind Pegasus @Ignister 
+ Support 
+ Achichi @Ignister The Arrival Cyberse @Ignister Bururu @Ignister Danmari @Ignister Dark Infant @Ignister Dark Templar @Ignister Donyoribo @Ignister Doshin @Ignister Doyon @Ignister Fire Phoenix @Ignister Hiyari @Ignister Light Dragon @Ignister Linguriboh Pikari @Ignister Wind Pegasus @Ignister 
+ A.I. Challenge You A.I. Love Fusion A.I. Meet You A.I. Shadow A.I.'s Ritual A.I.'s Show A.I.Q A.I.dle Reborn FA.I.ghting Spirit Ignister A.I.Land TA.I. Strike 
+ Related 
+ Linkuriboh 
+ 
+   
+" A.I. " 「 Ａｉ 」 Members 
+ A.I. Challenge You A.I. Contact A.I. Love Fusion A.I. Meet You A.I. Shadow A.I.'s Ritual A.I.'s Show A.I.Q A.I.dle Reborn FA.I.ghting Spirit Ignister A.I.Land TA.I. Strike You and A.I. 
+ Support 
+ Donyoribo @Ignister Doyon @Ignister Pikari @Ignister 
+ A.I.dle Reborn 
+ Related 
+ Dark Infant @Ignister 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/bd/AIChallengeYou-LIOV-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20210725223717', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,522 @@
+Link: https://yugioh.fandom.com/wiki/Adhesive_Explosive
+
+For the character, see  Adhesive Explosive (character) .      
+ The  Croatian, Greek, Turkish  and  Thai                     names given are not official.  ( card names ) 
+ 
+ 
+ 
+ 
+ 
+ Adhesive Explosive 瞬 着 ボマー 
+ 
+ English 
+Adhesive Explosive 
+ French 
+ Explosif Adhésif Check translation 
+ German 
+ Haftender Sprengstoff Check translation 
+ Italian 
+ Esplosivo Adesivo Check translation 
+ Korean 
+ 순간접착 폭탄 Check translation 
+ Portuguese 
+ Explosivo Adesivo Check translation 
+ Spanish 
+ Explosivo Adhesivo Check translation 
+ Japanese (kana) 
+ しゅんちゃくボマー Check translation 
+ Japanese (base) 
+ 瞬着ボマー Check translation 
+ Japanese ( rōmaji ) 
+Shunchaku Bomā 
+ Japanese (translated) 
+Quick Adhesive Bomber 
+ Card type 
+ Monster   
+ Attribute 
+ WIND   
+ Types 
+ Machine  /  Effect 
+ Level 
+ 3   
+ ATK  /  DEF 
+ 1000  /  1000 
+ Passcode 
+ 53828396 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Continuous-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Before  damage calculation , if this card was  attacked  by an opponent's  monster  and was in  face-down   Defense Position  at the start of the  Damage Step :  Equip  this card to the attacking monster. Then, during your opponent's next  Standby Phase ,  destroy  the monster this card is equipped to. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Avant le calcul des dommages, si cette carte a été attaquée par un monstre de votre adversaire et était en Position de Défense face verso au début de la Damage Step : équipez cette carte au monstre attaquant. Puis, durant la prochaine Standby Phase de votre adversaire, détruisez le monstre équipé à cette carte. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Vor der Schadensberechnung, falls diese Karte von einem Monster deines Gegners angegriffen wurde und am Beginn des Damage Steps in verdeckter Verteidigungsposition lag: Rüste das angreifende Monster mit dieser Karte aus. Dann, während der nächsten Standby Phase deines Gegners, zerstöre das Monster, das diese Karte ausrüstet. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Prima del calcolo dei danni, se questa carta è stata attaccata da un mostro dell'avversario mentre era coperta in Posizione di Difesa all'inizio del Damage Step: equipaggia questa carta al mostro attaccante. Poi, durante la prossima Standby Phase del tuo avversario; distruggi il mostro a cui questa carta è equipaggiata. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Antes do  cálculo de dano , se este card foi  atacado  por um  monstro  do oponente e estava com a  face para baixo  em  Posição de Defesa  no começo da  Etapa de Dano :  equipe  este card no monstro atacante. Depois, durante a próxima  Fase de Apoio  do seu oponente,  destrua  o monstro no qual este card está equipado. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Antes del cálculo de daño, si esta carta fue atacada por un monstruo del adversario y estaba en Posición de Defensa boca abajo al comienzo del Damage Step: equipa esta carta al monstruo atacante. Después, durante la próxima Standby Phase de tu adversario, destruye el monstruo equipado con esta carta. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 裏側 守備表示 のこのカードを相手 モンスター が 攻撃 した場合、 ダメージ計算 を行わずこのカードは攻撃モンスターの 装備カード になる。次の相手ターンの スタンバイフェイズ 時、その 装備 モンスターを 破壊 する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 뒷면 수비 표시의 이 카드를 상대 몬스터가 공격했을 경우, 데미지 계산을 실행하지 않고 이 카드는 공격 몬스터의 장착 카드가 된다. 다음 상대 턴의 스텐바이 페이즈시, 그 장착 몬스터를 파괴한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2006-02-18  
+ SOI-EN011   
+ Shadow of Infinity 
+ Rare 
+ 
+ 
+ 2006-02-18  
+ SOI-EN011   
+ Shadow of Infinity 
+ Ultimate Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ 
+ North American English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2007-11-14  
+ DR04-EN131   
+ Dark Revelation Volume 4 
+ Common 
+ 
+ 
+ 2014-01-17  
+ BPW2-EN015   
+ War of the Giants: Round 2 
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—Europe 
+ 
+ 
+ 
+ European English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2014-01-17  
+ WGRT-EN015   
+ War of the Giants Reinforcements 
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2006-02-18  
+ SOI-FR011   
+ Shadow of Infinity 
+ L'Ombre de l'Infini  
+ Rare 
+ 
+ 
+ 2006-02-18  
+ SOI-FR011   
+ Shadow of Infinity 
+ L'Ombre de l'Infini  
+ Ultimate Rare 
+ 
+ 
+ 2014-01-17  
+ WGRT-FR015   
+ War of the Giants Reinforcements 
+ La Guerre des Géants Recommence  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2006-03-15  
+ SOI-DE011   
+ Shadow of Infinity 
+ Shadow of Infinity  
+ Rare 
+ 
+ 
+ 2006-03-15  
+ SOI-DE011   
+ Shadow of Infinity 
+ Shadow of Infinity  
+ Ultimate Rare 
+ 
+ 
+ 2014-01-16  
+ WGRT-DE015   
+ War of the Giants Reinforcements 
+ War of the Giants Reinforcements  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2006-02-18  
+ SOI-IT011   
+ Shadow of Infinity 
+ Ombra dell'Infinito  
+ Rare 
+ 
+ 
+ 2006-02-18  
+ SOI-IT011   
+ Shadow of Infinity 
+ Ombra dell'Infinito  
+ Ultimate Rare 
+ 
+ 
+ 2014-01-16  
+ WGRT-IT015   
+ War of the Giants Reinforcements 
+ Guerra dei Giganti – I Rinforzi  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2014-01-17  
+ WGRT-PT015   
+ War of the Giants Reinforcements 
+ Guerra dos Gigantes Reforços  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2006-02-18  
+ SOI-SP011   
+ Shadow of Infinity 
+ Sombra del Infinito  
+ Rare 
+ 
+ 
+ 2006-02-18  
+ SOI-SP011   
+ Shadow of Infinity 
+ Sombra del Infinito  
+ Ultimate Rare 
+ 
+ 
+ 2014-01-16  
+ WGRT-SP015   
+ War of the Giants Reinforcements 
+ Guerra de los Gigantes Refuerzos  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2005-11-17  
+ SOI-JP011   
+ Shadow of Infinity 
+ ＳＨＡＤＯＷ ＯＦ ＩＮＦＩＮＩＴＹ  
+ Rare 
+ 
+ 
+   
+ EE04-JP131   
+ Expert Edition Volume.4 
+   
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2007-07-03  
+ SOI-KR011   
+ Shadow of Infinity 
+ 무한의 그림자  
+ Rare 
+ 
+ 
+ 2007-07-03  
+ SOI-KR011   
+ Shadow of Infinity 
+ 무한의 그림자  
+ Ultimate Rare 
+ 
+ 
+   
+ HGP4-KR131   
+ Expert Edition Volume.4 
+   
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Online 
+ 
+ 
+ Pack 39 
+ 
+ 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+ Shadow of Infinity 
+ Machine Collection B 
+ Monster Destroy Collection 
+ All Effect Monsters  ( Common )
+ 
+ All at Random  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   GX Spirit Caller 
+ 
+ 
+ Other Cards 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Actions  
+ Equips self from field 
+ 
+ Monster / Spell / Trap  categories  
+ Treated as Equip Card 
+ Destroys your opponent's face-up Monster Cards 
+ Destroys equipped 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 6589 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Online 2005-11-04 – – – – – Unlimited Ultimate Masters: World Championship Tournament 2006 2006-02-23 – ??? – – – Unlimited GX Spirit Caller 2006-11-30 – ??? – – – Unlimited 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/96/AdhesiveExplosive-BPW2-NA-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20140307102909', 'https://static.wikia.nocookie.net/yugioh/images/0/01/WIND.svg/revision/latest/scale-to-width-down/28?cb=20170920205028', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Ruby_Japanese_chapter_name
+
+This property lists the Japanese name of a chapter, including furigana characters. This uses  text  values.
+ 
+ 
+ 
+ 
+Categories:

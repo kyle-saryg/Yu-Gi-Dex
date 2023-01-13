@@ -1,0 +1,74 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Acid_Trap_Hole
+
+
+ Acid Trap Hole 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Yu-Gi-Oh! The Duelists of the Roses Yu-Gi-Oh! Forbidden Memories Yu-Gi-Oh! Duel Monsters II: Dark duel Stories 
+ 
+ Contents 
+ 
+ 1   OCG Rulings 
+ 2   Previously Official Rulings 
+ 
+ 2.1   Mentions in Other Rulings 
+ 
+ 
+ 3   References 
+ 
+ 
+ OCG Rulings 
+ When your opponent Flip Summons " Man-Eater Bug " and targets your face-down " Hane-Hane ", you can chain " Acid Trap Hole " to the effect of " Man-Eater Bug " and  target  your " Hane-Hane ".  The effect of " Hane-Hane " cannot interrupt the current  Chain , so it does not activate yet.  " Acid Trap Hole " will destroy " Hane-Hane ", then the effect of " Man-Eater Bug " will resolve without effect - afterwards, the effect of " Hane-Hane "  activates . [1] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [2]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [3] [4] [5] [6] [7] [8] [9] [10] [11] 
+ 
+ A  face-down  " Jinzo " will be  destroyed  by this card. 
+ If the monster  flipped   face-up  has an effect that changes its  DEF , such as " Enraged Muka Muka ", calculate the current DEF, then determine if it will be destroyed or flipped back face-down. So if you had 4 cards in your  hand , " Enraged Muka Muka " would not be destroyed. 
+ If the  targeted  monster has a  Flip Effect , that Effect is activated whether the DEF is greater than 2000 or not. If the DEF of the selected monster is 2000 or less, such as a " Hane-Hane ", it can not select itself for its Flip Effect since it is destroyed. 
+ Mentions in Other Rulings 
+ Destruction Jammer : " Destruction Jammer " cannot be chained to effects that may or may not destroy a monster, like " Acid Trap Hole " .... 
+ Jinzo : If a face-down " Jinzo " is flipped by " Acid Trap Hole ", " Jinzo 's" effect is not applied if it is destroyed by " Acid Trap Hole ". 
+ My Body as a Shield : You cannot use " My Body as a Shield " against cards whose effects might or might not destroy a monster right away, such as " Earthshaker ", " Barrel Dragon ", " Acid Trap Hole ", or " Time Wizard ". 
+ Poison Draw Frog : If " Poison Draw Frog " is destroyed by "Acid Trap Hole", you can draw 1 card. 
+ Prime Material Dragon : You cannot use " Prime Material Dragon's " effect against cards whose effects may or may not destroy a monster right away, such as... " Acid Trap Hole "... 
+ Sand Moth : If a face-down " Sand Moth " is targeted by "Acid Trap Hole" its effect will not activate since it will be face-up when it is destroyed. 
+ 
+ 
+ 
+ References 
+ 
+ ↑   Konami FAQ  [Chain] When "Acid Trap Hole" is chained to your opponent's "Man-Eater Bug" and targets a face-down "Hane-Hane" 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

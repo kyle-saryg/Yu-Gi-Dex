@@ -1,0 +1,139 @@
+Link: https://yugioh.fandom.com/wiki/Black_Garden_(anime)
+
+Main card page: " Black Garden " 
+ Black Garden 
+ 
+ Japanese:   ブラック・ガーデン 
+ Romaji:   Burakku Gāden 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Field 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Trigger-like 
+ Ignition-like 
+ When a  monster  is  Normal  or  Special Summoned , except by the  effect  of "Black Garden", halve its  ATK  and Special Summon 1 " Rose Token " ( Plant - Type / DARK / Level  2/ATK 800/ DEF  800) in  Attack Position  to its  controller 's opponent's side of the  field . "Rose Tokens" cannot be  destroyed by battle  or declare an  attack . You can destroy this card and all  face-up  Plant-Type monsters on the field to Special Summon 1 monster from your Graveyard whose ATK is equal to or less than the total ATK of those monsters.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  016 ,  022 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ブラック・ガーデン 
+ 「ブラック・ガーデン」の効果以外の方法でモンスターが召喚・特殊召喚に成功した時、そのモンスターの攻撃力を半分にし、そのモンスターのコントローラーから見て相手のフィールド上に「ローズ・トークン」（植物族・闇・星２・攻／守８００）１体を攻撃表示で特殊召喚する。このトークンは戦闘で破壊されず、攻撃宣言を行う事ができない。 自分は、このカードとフィールド上に表側表示で存在するすべての植物族モンスターを破壊し、破壊したモンスターの攻撃力の合計と同じ攻撃力のモンスター１体を自分の墓地から選択して特殊召喚する事ができる。 
+ 
+ 
+ Burakku Gāden 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Akiza Izinski 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Plant 
+ 
+ Anti-supports   
+ Plant 
+ 
+ Related to  archetypes  and  series   
+ Rose 
+ 
+ Actions  
+ Activates upon Normal Summon 
+ Activates upon Special Summon 
+ 
+ Stat changes  
+ Your monsters lose ATK 
+ Your opponent's monsters lose ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ Destroys your Monster Cards 
+ Destroys your opponent's Monster Cards 
+ 
+ Summoning  categories  
+ Special Summons Tokens 
+ Special Summons to your opponent's field 
+ Special Summons from your Graveyard 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ Prevents your monsters from attacking 
+ Prevents your opponent's monsters from attacking 
+ 
+ 
+ 
+   " Black Garden " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+ Rose  ローズ a   r Members 
+ Bird of Roses Blue Rose Dragon Crystal Rose Spirit Regenerating Rose Regenerating Rose Token Revival Rose Rose Blizzard Rose Curse Rose Fairy Rose Flame Rose Tentacles Rose Token Splendid Rose Twilight Rose Knight Witch of the Black Rose 
+ Related 
+ Black Garden Thorn of Malice 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/dd/BlackGarden-JP-Anime-5D.png/revision/latest/scale-to-width-down/200?cb=20080829170009', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/63/BlackGarden-OW.png/revision/latest/scale-to-width-down/185?cb=20140125025246', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f2/BlackGarden-JP-Anime-5D-NC.png/revision/latest/scale-to-width-down/185?cb=20130504030331', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

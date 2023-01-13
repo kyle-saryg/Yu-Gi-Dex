@@ -1,0 +1,117 @@
+Link: https://yugioh.fandom.com/wiki/Destiny_Break
+
+
+ Destiny Break 
+ 
+ Japanese:   デステニー・ブレイク 
+ Romaji:   Desutenī Bureiku 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Continuous 
+ Condition 
+ During your opponent's  Battle Phase , when an opponent's  monster   declares  a  direct attack :  Draw  1 card and  reveal  it, then if it was a monster,  negate  that  attack , otherwise  send  the drawn card to the  Graveyard . At the end of the Battle Phase,  destroy  this card, then  Special Summon  any monsters drawn by this card's  effect  from your  hand . Their effects are  negated .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  106 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Italian 
+ Destino Spezzato 
+ 
+ 
+ 
+ Japanese 
+ デステニー・ブレイク 
+ 相手のバトルフェイズ時に発動できる。相手モンスターの直接攻撃宣言時に自分のデッキからカードを１枚ドローし、お互いに確認する。確認したカードがモンスターだった場合、その攻撃を無効にし、ドローしたカードを手札に加える。モンスター以外だった場合、ドローしたカードを墓地へ送る。バトルフェイズ終了時、このカードは破壊される。その後、このカードの効果でドローし手札に加えたモンスターを特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化される。 
+ 
+ 
+ Desutenī Bureiku 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Kite Tenjo 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Activates upon attack declaration 
+ You draw cards 
+ Shows the player's drawn cards 
+ Sends from your hand to your Graveyard 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ Negates the effects of your Effect Monsters 
+ 
+ Summoning  categories  
+ Special Summons from your hand 
+ 
+ Attack  categories  
+ Negates attacks 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/1f/DestinyBreak-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20130603034104', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/eb/DestinyBreak-OW.png/revision/latest/scale-to-width-down/185?cb=20150203042657', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

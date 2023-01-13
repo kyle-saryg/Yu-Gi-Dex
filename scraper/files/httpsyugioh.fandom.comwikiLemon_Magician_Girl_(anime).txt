@@ -1,0 +1,121 @@
+Link: https://yugioh.fandom.com/wiki/Lemon_Magician_Girl_(anime)
+
+Main card page: " Lemon Magician Girl " 
+ Lemon Magician Girl 
+ 
+ Japanese:   レモン・マジシャン・ガール 
+ Romaji:   Remon Majishan Gāru 
+ 
+ 
+ 
+<nomobile> 
+ en 
+ ja </nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Level 
+ 
+ 
+ 2   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Trigger 
+ [  Spellcaster  /  Effect  ] Once per turn , when this card is  attacked , you can  activate  the following  effect . 
+ ●  Special Summon  1  Spellcaster - Type   monster  from your  hand  whose  Level  is lower than this card. 
+● Special Summon 1 Spellcaster-Type monster from your hand whose Level is higher than this card with its effect  negated . 
+The opponent’s attacking monster must attack the monster Special Summoned by this card’s effect. At this time, that opponent’s attacking monster’s  ATK  is halved. [1] [2] 
+ 
+ 
+ 4K Media  lore<nomobile> ? :</nomobile> <mobile>(The English card uses the same lore as the OCG/TCG card. The Japanese card and reference sources state the effect differently.):</mobile>  Once per turn : You can  Tribute  1 " Magician Girl "  monster , except "Lemon Magician Girl";  add  1  Spellcaster - Type  monster from your  Deck  to your  hand . Once per  turn , if this card is  targeted  for an  attack : You can  Special Summon  1 Spellcaster-Type monster from your hand, but its  effects  (if any) are  negated , then change the  attack target  to it, and if you do, the attacking monster's  ATK  becomes half its current ATK. ATK  /  800     DEF  /  600   
+ Appearances
+ 
+ 
+ 
+ 
+ ' 
+ 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  The Dark Side of Dimensions ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yugi Mutou  
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Spellcaster 
+ 
+ Archetypes  and  series   
+ Magician Girl 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your Effect Monsters 
+ 
+ Summoning  categories  
+ Special Summons from your hand 
+ 
+ Attack  categories  
+ Manages attack targets 
+ Must attack 
+ 
+ Miscellaneous  
+ Limited activations 
+ Female 
+ 
+ 
+ 
+   " Lemon Magician Girl " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+ Magician Girl  マジシャン・ガール a   m   Members 
+ Apple Magician Girl Dark Magician Girl Dark Magician Girl the Dragon Knight Lemon Magician Girl Statue Dark Magician Girl Toon Dark Magician Girl 
+ Related 
+ Magical Pigeon 
+ 
+ References 
+ 
+ ↑   Yu-Gi-Oh! Duel Monsters Anime Complete Guide: Millennium Memory , page 199. 
+ 
+ ↑   "Dark Side of Dimensions Anime Card Effects, Japanese Card Text Translations" . YGOrganization.com .  https://ygorganization.com/kuwabaralikesstackingthings/ . 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/9e/LemonMagicianGirl-EN-Anime-MOV3.png/revision/latest/scale-to-width-down/200?cb=20170119171651', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LemonMagicianGirl-JP-Anime-MOV3-NC.png/revision/latest/scale-to-width-down/185?cb=20170314135354', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Cards with notes

@@ -1,0 +1,189 @@
+Link: https://yugioh.fandom.com/wiki/Wind-Up
+
+
+ 
+ Wind-Up 
+ ゼンマイ  ( Zenmai ) 
+ 
+ 
+ 
+ 
+ " Wind-Up Magician " and " Wind-Up Juggler " in the artwork of " Zenmairch ". 
+ 
+ 
+ Other names 
+ 
+ Chinese 
+ 發條 Translation:  Spring 
+ 
+ 
+ French 
+ Automate Translation:  Automaton 
+ 
+ 
+ German 
+ Aufzieh 
+ 
+ 
+ Italian 
+ a Molla 
+ 
+ 
+ Korean 
+ 태엽 胎葉   (Hanja)   Taeyeop   (romanized) Translation:  Spring 
+ 
+ 
+ Portuguese 
+ de Corda Translation:  of Cord 
+ 
+ 
+ Spanish 
+ de Cuerda Translation:  of Cord 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Generation Force Photon Shockwave Order of Chaos Secrets of Eternity Flames of Destruction 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Collectible Tins 2011 Wave 1 Battle Pack: Epic Dawn Turbo Pack: Booster Eight Collectible Tins 2012 Wave 1 Cosmo Blazer: Special Edition Battle Pack 3: Monster League King's Court Brothers of Legend 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Starter Deck 2011: Special Edition Duelist Box 2012 Gold Series 2012 X-Saber: Special Edition The Gold Box Extra Pack 2012 Winter Festival 2012 promotional cards Booster SP: Raging Masters 20th Anniversary Pack 2nd Wave Tournament Pack 2018 Vol.1 
+ 
+ 
+ 
+ 
+ China-Only Sets 
+ 
+ 
+ Starter Pack Volume 1 Special Promotional Pack 2015 Volume 1 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! ZEXAL 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support Anti-support 
+ 
+ 
+ 
+ 
+ " Wind-Up " (ゼンマイ  Zenmai ) is an  archetype  of wind-up toy-like  monsters  that premiered in  Generation Force  and received further support in  Photon Shockwave  and  Order of Chaos . Members have various  Attributes  and  Types , but the  Extra Deck  monsters of this archetype are all  Machine .
+ The effects of known "Wind-Up" monsters ranging from  Special Summon  and  swarm  tactics to  Level  and  ATK  manipulation to obtain benefits. Each non- Xyz  "Wind-Up" monster can only use its effect once while face-up on the field (" Wind-Up Shark " and " Wind-Up Honeybee " are the only exceptions so far). Many cards that support them revolve around flipping down or otherwise recycling.
+ 
+ Playing style 
+ A "Wind-Up" Deck uses a variety of single-use monster effects to control the field while " Wind-Up Factory " generates  hand advantage . You can use " Tour Guide From the Underworld " to  Xyz Summon  " Wind-Up Carrier Zenmaity " (Traditional Format only) and proceed to Summon whatever you need from your Deck. " Wind-Up Soldier " can change its  Level  to 5, allowing you to use " Cyber Dragon " or " Instant Fusion " to produce Rank 5  Xyz Monsters . " Wind-Up Kitten " works with " Junk Synchron " for Level  5  Synchro Summons .
+ "Wind-Up" is an excellent Deck for Xyz Summons, taking advantage of easily increasing their Levels with "Soldier", " Wind-Up Warrior ", " Wind-Up Dog " and " Wind-Up Shark ". Summoning any of the first three and then Summoning "Shark" allows for an easy Rank 5 Xyz Summon, using cards like " Wind-Up Arsenal Zenmaioh " to break  Set  monsters and Spell and Traps, " Number 61: Volcasaurus " and " Adreus, Keeper of Armageddon " to destroy any opponent's face-up monster (and, in the case of "Volcasaurus", deal massive damage) which you couldn't beat with ATK alone, or provide a monster which can survive a surprise " Mirror Force ", in the form of " Tiras, Keeper of Genesis ". If dominating, " Digvorzhak, King of Heavy Industry " is also an option, allowing destruction of up to 3 cards, but due to it needing quite some material, most Rank 5 Xyz Monsters outclass it, due to the amount of effort lost when it meets cards like " Bottomless Trap Hole ". " Shark Fortress " can provide both protection to more vulnerable low-ATK Xyz Monsters such as "Carrier Zenmaity" or " Number 16: Shock Master " and increased OTK potential through its double attack effect.
+ Any Rank 4 Xyz Monster can also easily be Summoned by the combo of "Shark" with any of the Level 4 monsters, and due to the speed, allows 3 material monsters like " Vylon Disigma ", and " Numbers " " 10 ", "16", " 32 " and " 69 " to be Summoned without loss in card advantage.
+ " Wind-Up Rat ", "Carrier Zenmaity" and " Wind-Up Hunter " can produce a loop that can result in your opponent sending from 2-6 cards from their hand to Graveyard. First, you must have "Hunter" in your Graveyard. Then, you must have "Carrier Zenmaity" on the field, and activate its effect to Special Summon a "Rat". Then activate the effect of "Rat" to Special Summon "Hunter" from the Graveyard. Use the effect of "Hunter" to Tribute "Carrier Zenmaity" and make your opponent send a random card from their hand to the Graveyard. Then use "Rat" and "Hunter" as Xyz Materials to get another "Carrier Zenmaity", and then repeat the loop twice by sending "Hunter" to the Graveyard to Special Summon another "Rat".
+ However, due to  limitation  of "Carrier Zenmaity" in  September 2012 Lists , most "Wind-Up" Decks have switched goals from depleting an opponent's hand to Xyz Summoning numerous Xyz Monster (mostly Rank 3 and 5's) in just one turn using cards like " Wind-Up Magician " and "Shark", bolstered with " Wind-Up Factory " to finish off the opponent (possibly in that same turn) or deny them options through cards like "Shock Master". The incredible swarming power of the Magician-Shark combo allows the "Wind-Up" player to swarm the field with many different combinations of Xyz Monsters to answer any threat, often ending the game right then and there. This tactic is no longer possible with "Carrier Zenmaity" banned and "Magician" limited in the  March 2013 Lists .
+ "Wind-Up Factory", "Carrier Zenmaity" and " Honeybee " can provide you with single-use monsters to address any situation. You can  toolbox  "Soldier" to kill low-Level beatsticks, " Juggler " to break walls, "Kitten" to deal with  Extra Deck  monsters and defuse  Flip Effects , "Rat" to produce Rank 3 Xyzs, " Rabbit " for reuse and deflection, or " Knight " for defense. This is no longer possible in  March 2013 Lists , as "Carrier Zenmaity" is banned.
+ With "Carrier Zenmaity" banned and "Magician" limited in  March 2013 Lists , there is another way to OTK is by using " Zenmairch " alongside " Zenmailstrom ", and utilizing "Soldier" and "Knight". Having both "Soldier" and "Knight" on the field, along with activatable "Zenmairch" and "Zenmailstrom" on the field is needed, together with either another "Knight" or "Soldier" in the hand. The combination lands for at least 9000 damage, but 9400 with an activated "Soldier".
+ 
+ 
+ Recommended Cards Monsters   
+ Monsters 
+ Wind-Up Bat 
+ Wind-Up Hunter 
+ Wind-Up Juggler 
+ Wind-Up Kitten 
+ Wind-Up Magician 
+ Wind-Up Rabbit 
+ Wind-Up Rat 
+ Wind-Up Shark 
+ Wind-Up Soldier 
+ Wind-Up Warrior 
+ Brotherhood of the Fire Fist - Bear 
+ Cyber Dragon 
+ Photon Thrasher 
+ Summoner Monk 
+ T.G. Warwolf 
+ Tragoedia Extra Deck   
+ Synchro Monsters 
+ Stardust Dragon 
+ Xyz Monsters 
+ Wind-Up Arsenal Zenmaioh 
+ Wind-Up Zenmaines 
+ Wind-Up Zenmaister 
+ Leviair the Sea Dragon 
+ Other  Rank 3  monsters 
+ Other  Rank 4  monsters 
+ Other  Rank 5  monsters 
+ Link Monsters 
+ Wind-Up Zenmaintenance 
+ The Arrival Cyberse @Ignister Spells   &  Traps   
+ Spells 
+ Legendary Wind-Up Key 
+ Weights & Zenmaisures 
+ Wind-Up Factory 
+ Zenmailfunction 
+ Mind Control 
+ Fire Formation - Tenki 
+ Traps 
+ Overwind 
+ Zenmaiday 
+ Zenmailstrom 
+ Zenmairch 
+ Pinpoint Guard 
+ Starlight Road 
+ Xyz Reborn 
+ 
+ 
+ Weaknesses 
+ While a very strong Deck theme as of the September 2012 ban list, it is not invulnerable and can be slowed or temporarily interrupted long enough to be defeated.
+ For "Wind-Up" Swarm players, cards that counteract field swarming or effects like " Torrential Tribute ", " Maxx "C" ", " Effect Veiler ", " Needle Ceiling " and even " Summon Limit " and " Summon Breaker " can stop the swarming chains if activated at the right time before they become too devastating. And due to most "Wind-Up" Decks being composed of different Types and Attributes (much like " Gladiator Beasts "), both " Rivalry of Warlords ", " Gozen Match " and " Battle of the Elements " can stop this Deck effectively.
+ In more specialized Decks both " King Tiger Wanghu " and " Skill Drain " can also hinder the "Wind-Up" Deck synergy very well, either by stopping many of the weak "Wind-Up" monsters from staying on the field long enough to activate their effects (including " Wind-Up Rabbit ", which is destroyed before it can save itself upon being Summoned) or by just outright stopping all effects from resolving on the field (but "Rabbit" can still be activated however as it resolves in the  Banished  Zone).
+ " Prohibition " and " Psi-Blocker " can also slow down a "Wind-Up" Deck if you correctly call " Wind-Up Magician ", " Wind-Up Rat " or " Wind-Up Shark " proactively at the right time to hinder your opponent's Deck options. In an opposing Deck with a high number of  WIND -attribute cards, " Mystic Fairy Elfuria " is also very effective at stopping almost all of the preferred  Xyz Summoning  options available to a Wind-Up Deck if Rank 3, 4 and 5 Summoning is blocked.
+ " Light of Intervention " can be a peculiar choice against "Wind-Up"s as it can halt them from being flipped face-down (i.e. via " Wind-Up Zenmaister ", " Legendary Wind-Up Key " and " Book of Moon ") in the hopes of re-using their effects.
+ Finally " Chain Disappearance " is an excellent way to remove the threats of "Magician" and "Rat" from being recycled repeatedly by your opponent.
+ 
+ Trivia 
+ An actual wind-up toy is wound up (Summoning it), does what the toy was made to do (activating the effect), then is completed (effect can only activate once). Returning to hand or flipping it face-down and back up signifies "winding-up" the monster. 
+ All "Wind-Up" members and support cards with "発条,  Zenmai " are spelled "Zenmai" in their  TCG  names. 
+   
+" Wind-Up " 「ゼンマイ」 Members 
+ Wind-Up Arsenal Zenmaioh Wind-Up Bat Wind-Up Carrier Zenmaity Wind-Up Dog Wind-Up Honeybee Wind-Up Hunter Wind-Up Juggler Wind-Up Kitten Wind-Up Knight Wind-Up Magician Wind-Up Rabbit Wind-Up Rat Wind-Up Shark Wind-Up Snail Wind-Up Soldier Wind-Up Warrior Wind-Up Zenmaines Wind-Up Zenmaintenance Wind-Up Zenmaister 
+ Legendary Wind-Up Key Wind-Up Factory 
+ Support 
+ Wind-Up Bat Wind-Up Carrier Zenmaity Wind-Up Honeybee Wind-Up Hunter Wind-Up Knight Wind-Up Magician Wind-Up Rabbit Wind-Up Rat Wind-Up Shark Wind-Up Warrior Wind-Up Zenmaintenance 
+ Legendary Wind-Up Key Overwind Weights & Zenmaisures Wind-Up Factory Zenmaiday Zenmailfunction Zenmailstrom Zenmairch 
+ Anti-support 
+ Wind-Up Factory 
+ 
+ v e 
+ Wind-Up  ゼンマイ a   Members 
+ Wind-Up Zenmaines Wind-Up Zenmaister 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/cd/Zenmairch-TF06-JP-VG.png/revision/latest/scale-to-width-down/350?cb=20111018070322']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Xyz Monster(s), Archetypes with Link Monster(s)

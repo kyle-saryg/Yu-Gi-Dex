@@ -1,0 +1,168 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_VRAINS_-_Episode_111
+
+
+ 
+ Yu-Gi-Oh! VRAINS - Episode 111 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kanji  
+ せめぎ合う意思 
+ 
+ 
+ Rōmaji 
+ Semegiau Ishi 
+ 
+ 
+ Japanese translation 
+ Wanting to Fight Each Other 
+ 
+ 
+ English 
+ Stronger Together 
+ 
+ 
+ Number 
+ 111 
+ 
+ 
+ Air date ( ja ) 
+ July 24, 2019 
+ 
+ 
+ Air date ( en ) 
+ August 31, 2021 
+ 
+ 
+ 
+ Music 
+ 
+ Opening ( ja ) 
+ " calling " 
+ 
+ 
+ Ending ( ja ) 
+ " Are you ready? " 
+ 
+ 
+ Opening ( en ) 
+ " Yu-Gi-Oh! VRAINS Theme " 
+ 
+ 
+ Ending ( en ) 
+ " Yu-Gi-Oh! VRAINS Theme " 
+ 
+ 
+ 
+ Staff 
+ 
+ Screenwriter 
+ Maekawa Atsushi 
+ 
+ 
+ Director 
+ Takahashi Masakazu 
+ 
+ 
+ Storyboard 
+ Ishiguro Tatsuya 
+ 
+ 
+ Animation  dir. 
+ Kaneko Yuji 
+ 
+ 
+ 
+ Chronology 
+ 
+ Listing 
+ Yu-Gi-Oh! VRAINS  episode listing  (season 3) 
+ 
+ 
+ 
+ Previous 
+ Next 
+ 
+ 
+ " Siblings and Circuits " 
+ " All Hail Roboppi! " 
+ 
+ 
+ 
+ 
+ 
+ " Stronger Together ", known as " Wanting to Fight Each Other " in the Japanese version, is the one-hundredth-and-eleventh episode of  Yu-Gi-Oh! VRAINS  anime. It aired in Japan on July 24, 2019. It aired in English on 9Go! on August 31, 2021.
+ Akira  and  Blue Maiden  work together to break through  Ai 's battle formation, but Ai then summons a new trump card and drives the two of them into a corner again. Despite Ai's intensifying attacks against them, the Zaizen siblings' bond remains strong, and they manage to summon forth a new ace monster.
+ 
+ Featured Duel: Ai vs. Akira & Blue Maiden 
+ Duel continues from the previous episode . 
+ Turn 3: Akira 
+Since there are three or more " Tindangle " monsters with different names in his  GY  including " Tindangle Base Gardna ", " Tindangle Acute Cerberus " gains 3000 ATK via its own effect ("Acute Cerberus": 0 → 3000 ATK). The other effect of "Acute Cerberus" further increases its ATK by 500 for every "Tindangle" monster it points to ("Acute Cerberus": 3000 → 3500 ATK).
+ "Acute Cerberus" attacks " Fire Phoenix @Ignister ". Akira activates the effect of " Marincess Decision " in the GY, banishing it and a " Marincess " monster from his GY to reduce the ATK of 1 monster Ai controls equal to the banished monster's original ATK. Akira banishes " Marincess Marbled Rock " and targets "Fire Phoenix" ("Fire Phoenix": 2300 → 0 ATK). The attack continues and "Fire Phoenix" is destroyed (Ai: 3900 → 400 LP). As a  FIRE  monster he controlled was destroyed by battle, Ai activates the effect of " Achichi @Ignister " in the GY, banishing it to destroy that monster. Since it was destroyed by a card effect and sent to the GY, the effect of "Fire Phoenix" lets Ai destroy 1 monster Akira controls. He targets " Tindangle Hound ", but as a monster Akira controls would be destroyed by a card effect, Akira banishes " Marincess Basilalima " from the GY instead via its own effect to prevent that monster from being destroyed. As it was banished, the other effect of "Basilalima" lets him target 1 monster he controls and increase its ATK by 600. Akira targets "Acute Cerberus" ("Acute Cerberus": 3500 → 4100 ATK). As "Acute Cerberus" attacked, Akira activates its effect to Special Summon a " Tindangle Token " (0/0) in Defense Position to a zone "Acute Cerberus" points to ("Acute Cerberus": 4100 → 4600 ATK). 
+ Turn 4: Ai 
+During Ai's  Standby Phase , he Special Summons "Fire Phoenix" from the GY via its own effect. Ai  Normal Summons  " Hiyari @Ignister " (300/400). Ai activates the effect of "Hiyari", tributing 1 other " @Ignister " monster to add " A.I.'s Ritual " from his Deck to his hand. Ai tributes "Fire Phoenix", and since he tributed a  Link Monster  to activate the effect, the effect of "Hiyari" also lets him add 1 "@Ignister"  Ritual Monster  from his Deck to his hand as well as increase the  Level  of "Hiyari" by the Tributed Monster's Link Rating ("Hiyari": Level 1 → 4). Ai activates "A.I.'s Ritual", letting him  Ritual Summon  any "@Ignister" Ritual Monster by tributing "@Ignister" monsters from his hand or field whose total Levels equal or exceed the Level of the Ritual Monster. As he controls a  WATER  "@Ignister" monster, he is allowed to also banish "@Ignister" monsters from the GY, so he Tributes the Level 4 "Hiyari" and banishes the Level 4 " Pikari @Ignister " from his GY to Ritual Summon the Level 8 " Water Leviathan @Ignister " (2300/1500) from his hand. As it was Ritual Summoned, the effect of "Water Leviathan" returns to the hand all monsters his opponents control whose original ATK is 2300 or less, so "Acute Cerberus" is returned to Akira's  Extra Deck . Ai activates the other effect of "Water Leviathan", returning all Link Monsters in his GY to the Extra Deck and reducing the ATK of 1 monster his opponents control by their combined Link Rating x 600. Ai targets "Hound" and returns "Fire Phoenix", " Dark Templar @Ignister " and " Linguriboh " ("Hound": 4700 → 500 ATK). 
+ "Water Leviathan" attacks "Hound", with the effect of "Water Leviathan" halving the ATK of any monster it battles with during damage calculation only ("Hound": 500 → 250 ATK). Akira activates Blue Maiden's set  Continuous Trap  " Marincess Bubble Circle ", increasing his LP equal to the total Link Rating of all "Marincess" Link Monsters in the GY x 100 (Akira & Blue Maiden: 1900 → 2200 LP). The attack continues and "Hound" is destroyed (Akira & Blue Maiden: 2200 → 150 LP). Ai sets a card. 
+ Turn 5: Blue Maiden 
+Blue Maiden Normal Summons " Marincess Blue Tang " (1500/1200). As it was Normal or Special Summoned, the effect of "Blue Tang" lets Blue Maiden send a "Marincess" monster with a different name from her Deck to the GY. She chooses " Marincess Sea Horse ". She then uses "Blue Tang" to Link Summon " Marincess Blue Slug " to the Extra Monster Zone. As it was Link Summoned, the effect of "Blue Slug" lets her add a "Marincess" monster from her GY to her hand. She chooses "Sea Horse". As it was used as material for the Link Summon of a WATER monster, the effect of "Blue Tang" lets Blue Maiden excavate the top 3 cards of her Deck and add one excavated "Marincess" card to her hand: she adds " Marincess Crown Tail " to her hand. Blue Maiden Special Summons "Sea Horse" (1400/1000) from her hand to the zone "Blue Slug" points to via its own effect, then uses "Blue Slug" and "Sea Horse" to Link Summon " Marincess Coral Anemone ". She then activates the effect of "Coral Anemone"; targeting 1 WATER monster in her GY and Special Summoning it to the zone it points to. She Special Summons "Blue Slug". Blue Maiden then uses "Coral Anemone" and "Blue Slug" to Link Summon "Marincess Marbled Rock". Since "Coral Anemone" was sent to the GY, its effect lets Blue Maiden return "Blue Tang" from her GY to her hand. Blue Maiden activates the effect of "Sea Horse" in the GY, banishing it from the GY to Special Summon 1 WATER monster from her hand to a zone a "Marincess" Link Monster points to. She Special Summons "Crown Tail" (600/2300) to the zone "Marbled Rock" points to, then uses "Crown Tail" and "Marbled Rock" to Link Summon " Marincess Great Bubble Reef " (2600/LINK-4/←↙↓→) to the Extra Monster Zone. 
+ Blue Maiden activates the effect of "Bubble Circle", letting her banish 1 Level 5 or higher "Marincess" monster from her GY to inflict 100 damage to Ai. She banishes "Crown Tail" (Ai: 400 → 300 LP). The effect of "Great Bubble Reef" increases its ATK by 600 until the End Phase every time a monster is banished from the hand or field ("Great Bubble Reef": 2600 → 3200 ATK). She activates the effect of the " Tindangle Returner " in the GY, returning it to her hand to return 1 banished monster back to the GY. She returns "Crown Tail" back to the GY, then banishes it again via the effect of "Bubble Circle" to inflict 100 damage (Ai: 300 → 200 LP) ("Great Bubble Reef": 3200 → 3800 ATK). Blue Maiden activates the other effect of "Great Bubble Reef", letting her send 1 "Marincess" card from her hand to the GY to Special Summon 1 banished "Marincess" monster. She sends "Sea Horse" and Special Summons "Crown Tail" in Defense Position. Blue Maiden activates the effect of "Returner" in her hand, tributing a monster to Special Summon it (???/3000) in Defense Position and increase the ATK of a different monster by the tributed monster's ATK. She tributes "Crown Tail" and targets "Great Bubble Reef" ("Great Bubble Reef: 3800 → 4400 ATK). Blue Maiden activates the effect of "Crown Tail" in the GY, banishing it to prevent herself from taking Battle Damage for the rest of the turn if it is equal to or less than the total Link Rating of all "Marincess" Link Monsters in her GY x 1000 ("Great Bubble Reef": 4400 → 5000 ATK). 
+ "Great Bubble Reef" attacks "Water Leviathan", with the effect of "Water Leviathan" activating ("Great Bubble Reef": 5000 → 2500 ATK). As his monster is battling on an opponent's turn where he took effect damage, Ai activates his set " HA.I. ", inflicting damage to the opponent equal to twice the difference in ATK between those battling monsters and then destroying the opponent's attacking monster. The difference in their ATK is 200, so Blue Maiden takes 400 damage (Akira & Blue Maiden: 150 → 0 LP). 
+ 
+ Featured cards 
+ The following cards appeared in this episode. Cards in italics debuted here.
+ 
+ 
+ Ai Monsters   
+ Effect Monsters 
+ Achichi @Ignister 
+ Hiyari @Ignister 
+ Pikari @Ignister 
+ Ritual Monsters 
+ Water Leviathan @Ignister Extra Deck   
+ Link Monsters 
+ Dark Templar @Ignister 
+ Fire Phoenix @Ignister 
+ Linguriboh Spells   &  Traps   
+ Spells 
+ A.I.'s Ritual 
+ Ignister A.I.Land 
+ Judgment Arrows 
+ Traps 
+ HA.I. 
+ 
+ Akira Zaizen Monsters   
+ Effect Monsters 
+ Tindangle Hound 
+ Tindangle Returner Extra Deck   
+ Link Monsters 
+ Tindangle Acute Cerberus Spells   &  Traps   
+ Spells 
+ Stairs of Mail 
+ 
+ Blue Maiden (Skye Zaizen) Monsters   
+ Effect Monsters 
+ Marincess Basilalima 
+ Marincess Blue Tang 
+ Marincess Crown Tail 
+ Marincess Sea Horse  x2 Extra Deck   
+ Link Monsters 
+ Marincess Blue Slug 
+ Marincess Coral Anemone 
+ Marincess Great Bubble Reef 
+ Marincess Marbled Rock Spells   &  Traps   
+ Traps 
+ Marincess Bubble Circle 
+ Marincess Decision 
+ v e 
+ Yu-Gi-Oh! VRAINS   season 3 episodes 
+ #104 " Your Reign is Over " #105 " Unlikely Alliance " #106 " Roboppi Mops Up " #107 " Cleaning House " #108 " Smash and Mash " #109 " Al vs Ai " #110 " Siblings and Circuits " #111 " Stronger Together " #112 " All Hail Roboppi! " #113 " Roboppi's World " #114 " The Chosen One " #115 " Unfinished Business " #116 " Stuck in the Past " #117 " Forced Hands " #118 " Alone Together " #119 " A Losing Battle " #120 " Journey's End " 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/54/Vrains_111.png/revision/latest/scale-to-width-down/350?cb=20190724143837']
+Categories: Yu-Gi-Oh! VRAINS episodes

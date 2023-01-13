@@ -1,0 +1,53 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Alsei,_the_Sylvan_High_Protector
+
+
+ Alsei, the Sylvan High Protector 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Contents 
+ 
+ 1   TCG Rulings 
+ 
+ 1.1   Judge Program Forum Rulings 
+ 
+ 
+ 2   OCG Rulings 
+ 3   Notes 
+ 4   References 
+ 
+ 
+ TCG Rulings 
+ Judge Program Forum Rulings 
+   These Ruling(s) have not  been confirmed as applicable to the TCG. [Notes 1] 
+ In place of declaring a FULL card name, a precise description of a card's stats, appearance, and/or effects, is considered acceptable so long as both players are in clear agreement over which card is being described. [1] 
+ OCG Rulings 
+ The  "Once per  turn : You can  declare  1 card name"  effect is an  Ignition Effect . The card name is declared when the effect is activated, but the card from the  Deck  is revealed when the effect resolves. The  "if it is the declared card,  add  it to your  hand . Otherwise,  send  it to the  Graveyard ."  is also performed when the effect resolves. [2] 
+ The  "Once per  turn : You can  declare  1 card name"  effect can be activated even if this card has no  Xyz Materials . [2] 
+ The  "place that target on either the top or bottom of the Deck."  effect is a  Trigger Effect . (This effect  targets  1 card on the field.)  [2] 
+ Detaching  1  Xyz Material  from this card is a  cost  to activate the  "place that target on either the top or bottom of the Deck."  effect. [2] 
+ The  "place that target on either the top or bottom of the Deck."  effect can be activated even if a card is sent from your  Deck  to the  Graveyard  by the effect of other cards. [2] 
+ Notes 
+ 
+ ↑   Konami Judge Program Rulings are considered  unverified , as their source(s) are not publicly viewable. They are not confirmed as applicable to the TCG until they have been officially published by Konami. 
+ 
+ 
+ References 
+ 
+ ↑   Konami Judge Program Forum : Question/Mind Crush/Prohibition/ETC vs. Card Names  
+ 
+ ↑  2.0   2.1   2.2   2.3   2.4   Konami OCG Card Database : Alsei, the Sylvan High Protector 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings, Card Rulings to be Investigated

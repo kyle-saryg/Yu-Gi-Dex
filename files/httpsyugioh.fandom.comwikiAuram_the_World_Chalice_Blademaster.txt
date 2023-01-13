@@ -1,0 +1,267 @@
+Link: https://yugioh.fandom.com/wiki/Auram_the_World_Chalice_Blademaster
+
+
+ 
+ 
+ Auram the World Chalice Blademaster 星 杯 剣 士 アウラム 
+ 
+ English 
+Auram the World Chalice Blademaster 
+ French 
+ Auram le Maître des Épées du Calice du Monde Check translation 
+ German 
+ Auram der Weltkelch-Schwertkämpfer Check translation 
+ Italian 
+ Auram lo Spadaccino Calice del Mondo Check translation 
+ Korean 
+ 성잔검사 아우람 Check translation 
+ Portuguese 
+ Auram, o Espadachim do Cálice Mundial Check translation 
+ Spanish 
+ Auram el Maestro de Espadas del Cáliz Mundial Check translation 
+ Japanese (kana) 
+ せいはいけんしアウラム Check translation 
+ Japanese (base) 
+ 星杯剣士アウラム Check translation 
+ Japanese ( rōmaji ) 
+Seihaikenshi Auramu 
+ Japanese (translated) 
+Auram the Star Chalice Swordsman 
+ Card type 
+ Monster   
+ Attribute 
+ FIRE   
+ Types 
+ Cyberse  /  Link  /  Effect 
+ Link Arrows 
+ Bottom-Left   ,  Bottom-Right   
+ ATK  /  LINK 
+ 2000  /  2 
+ Passcode 
+ 04709881 
+ Materials 
+2 "World Chalice" monsters 
+ Card effect types 
+ 
+ 
+ Continuous 
+ Ignition 
+ Condition 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+2 " World Chalice "  monsters Gains 300  ATK  for each " World Legacy " monster in your  GY  with a different name. You can  Tribute  1 "World Chalice" monster this card  points to , then  target  1 other monster in your GY;  Special Summon  it to your  zone  this card points to. You can only use this  effect  of "Auram the World Chalice Blademaster"  once per turn . If this card is  sent  from the  field  to the GY: You can Special Summon 1 "World Chalice" monster from your  hand . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 2 monstres "Calice du Monde" Gagne 300 ATK pour chaque monstre "Héritage du Monde" dans votre Cimetière de nom différent. Vous pouvez Sacrifier 1 monstre "Calice du Monde" pointé par cette carte, puis ciblez 1 autre monstre dans votre Cimetière ; Invoquez-le Spécialement dans votre zone pointée par cette carte. Vous ne pouvez utiliser cet effet de "Auram le Maître des Épées du Calice du Monde" qu'une fois par tour. Si cette carte est envoyée depuis le Terrain au Cimetière : vous pouvez Invoquer Spécialement 1 monstre "Calice du Monde" depuis votre main. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Erhält 300 ATK für jedes „Weltvermächtnis“-Monster mit unterschiedlichem Namen in deinem Friedhof. Du kannst 1 „Weltkelch“-Monster, auf das diese Karte zeigt, als Tribut anbieten und dann 1 anderes Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung in deine Zone, auf die diese Karte zeigt. Du kannst diesen Effekt von „Auram der Weltkelch-Schwertkämpfer“ nur einmal pro Spielzug verwenden. Falls diese Karte auf den Friedhof gelegt wird: Du kannst 1 „Weltkelch“-Monster als Spezialbeschwörung von deiner Hand beschwören. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 2 mostri "Calice del Mondo" Guadagna 300 ATK per ogni mostro "Eredità del Mondo" con nome diverso nel tuo Cimitero. Puoi offrire come Tributo 1 mostro "Calice del Mondo" puntato da questa carta, poi scegliere come bersaglio 1 altro mostro nel tuo Cimitero; Evocalo Specialmente nella tua zona puntata da questa carta. Puoi utilizzare questo effetto di "Auram lo Spadaccino Calice del Mondo" una sola volta per turno. Se questa carta viene mandata dal Terreno al Cimitero: puoi Evocare Specialmente 1 mostro "Calice del Mondo" dalla tua mano. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 2 monstros "Cálice Mundial" Ganha 300 de ATK para cada monstro "Legado Mundial" com um nome diferente no seu Cemitério. Você pode oferecer como Tributo 1 monstro "Cálice Mundial" para o qual este card apontar e, depois, escolher 1 outro monstro no seu Cemitério; Invoque-o por Invocação-Especial para a sua zona a qual este card apontar. Você só pode usar este efeito de "Auram, o Espadachim do Cálice Mundial" uma vez por turno. Se este card for enviado do campo para o Cemitério: você pode Invocar por Invocação-Especial 1 monstro "Cálice Mundial" da sua mão. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 2 monstruos "Cáliz Mundial" Gana 300ATK por cada carta "Legado Mundial" en tu Cementerio con nombre único. Puedes Sacrificar 1 monstruo "Cáliz Mundial" al que apunte esta carta, y después seleccionar otro monstruo en tu Cementerio; Invócalo de Modo Especial a una zona tuya a la que apunte esta carta. Sólo puedes usar este efecto de "Auram el Maestro de Espadas del Cáliz Mundial" una vez por turno. Si esta carta es mandada del Campo al Cmenterio: puedes Invocar de Modo Especial, desde tu mano, 1 monstruo "Cáliz Mundial". 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「星杯」モンスター２体 このカード名の②の効果は１ターンに１度しか使用できない。①：このカードの攻撃力は、自分の墓地の「星遺物」モンスターの種類×３００アップする。②：このカードのリンク先の自分の「星杯」モンスター１体をリリースし、そのモンスター以外の自分の墓地のモンスター１体を対象として発動できる。そのモンスターをこのカードのリンク先となる自分フィールドに特殊召喚する。③：このカードがフィールドから墓地へ送られた場合に発動できる。手札から「星杯」モンスター１体を特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "성잔" 몬스터 2장  이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ① : 이 카드의 공격력은, 자신 묘지의 "성유물" 몬스터의 종류 x 300 올린다. ② : 이 카드의 링크 앞의 자신의 "성잔" 몬스터 1장을 릴리스하고, 그 몬스터 이외의 자신 묘지의 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 이 카드의 링크 앞이 되는 자신 필드에 특수 소환한다. ③ : 이 카드가 필드에서 묘지로 보내졌을 경우에 발동할 수 있다. 패에서 "성잔" 몬스터 1장을 특수 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2017-08-03 COTD-EN049 Code of the Duelist Super Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2017-08-03 COTD-FR049 Code of the Duelist Code des Duellistes Super Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2017-08-03 COTD-DE049 Code of the Duelist Code of the Duelist Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2017-08-03 COTD-IT049 Code of the Duelist Codice del Duellante Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2017-08-22 COTD-PT049 Code of the Duelist Código do Duelista Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2017-08-03 COTD-SP049 Code of the Duelist Código del Duelista Super Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2017-04-15 COTD-JP049 Code of the Duelist コード・オブ・ザ・デュエリスト Super Rare 2017-04-15 COTD-JP049 Code of the Duelist コード・オブ・ザ・デュエリスト Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2017-07-13 COTD-KR049 Code of the Duelist 코드 오브 더 듀얼리스트 Super Rare 2017-07-13 COTD-KR049 Code of the Duelist 코드 오브 더 듀얼리스트 Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ World Chalice 
+ 
+ Supports   archetypes   
+ World Chalice 
+ World Legacy 
+ 
+ Actions  
+ Tributes for cost 
+ Activates from your Graveyard 
+ 
+ Stat changes  
+ This card gains ATK 
+ 
+ Summoning  categories  
+ 2 Link Materials 
+ Requires archetype specific Link Materials 
+ Special Summons from your Graveyard 
+ Special Summons from your hand 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 13088 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" World Chalice " 「 星 杯 」 Members 
+ Auram the World Chalice Blademaster Beckoned by the World Chalice Chosen by the World Chalice Crowned by the World Chalice Ib the World Chalice Justiciar Ib the World Chalice Priestess Imduk the World Chalice Dragon Lee the World Chalice Fairy Ningirsu the World Chalice Warrior World Chalice Guardragon World Chalice Guardragon Almarduke World Legacy - "World Chalice" 
+ Support 
+ Auram the World Chalice Blademaster Ib the World Chalice Justiciar Ib the World Chalice Priestess Imduk the World Chalice Dragon Lee the World Chalice Fairy Ningirsu the World Chalice Warrior World Legacy - "World Chalice" 
+ World Legacy Discovery World Legacy's Heart 
+ Related 
+ Crusadia Draco Crusadia Maximus Galatea, the Orcust Automaton Knightmare Corruptor Iblee Lib the World Key Blademaster Longirsu, the Orcust Orchestrator Mekk-Knight Avram Orcust Knightmare 
+ 
+   
+" World Legacy " 「 星 遺 物 」 Members 
+ World Legacy - "World Ark" World Legacy - "World Armor" World Legacy - "World Chalice" World Legacy - "World Crown" World Legacy - "World Key" World Legacy - "World Lance" World Legacy - "World Shield" World Legacy - "World Wand" World Legacy Guardragon Mardark World Legacy Token 
+ The World Legacy World Legacy Awakens World Legacy Bestowal World Legacy Clash World Legacy Cliffhanger World Legacy Collapse World Legacy Discovery World Legacy Guardragon World Legacy Key World Legacy Landmark World Legacy Monstrosity World Legacy Pawns World Legacy Scars World Legacy Struggle World Legacy Succession World Legacy Survivor World Legacy Trap Globe World Legacy Whispers World Legacy in Shadow World Legacy's Corruption World Legacy's Heart World Legacy's Memory World Legacy's Mind Meld World Legacy's Nightmare World Legacy's Secret World Legacy's Sorrow 
+ Support 
+ Auram the World Chalice Blademaster Crusadia Equimax Girsu, the Orcust Mekk-Knight Ib the World Chalice Justiciar Lib the World Key Blademaster Mekk-Knight of the Morning Star World Gears of Theurlogical Demiurgy World Legacy - "World Armor" World Legacy - "World Chalice" World Legacy - "World Crown" World Legacy - "World Key" World Legacy - "World Lance" World Legacy - "World Shield" World Legacy - "World Wand" 
+ Crusadia Krawler Crusadia Vanguard Orcustrated Attack Orcustrated Core Orcustrated Einsatz Orcustrated Return World Legacy Bestowal World Legacy Collapse World Legacy Key World Legacy Landmark World Legacy Scars World Legacy Survivor World Legacy Trap Globe World Legacy's Corruption World Reassembly 
+ Related 
+ Avida, Rebuilder of Worlds 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/32/AuramtheWorldChaliceBlademaster-COTD-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20170731001155', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/28?cb=20120918053839', 'https://static.wikia.nocookie.net/yugioh/images/f/f9/LM-BottomLeft.png/revision/latest?cb=20170326055136', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,76 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Advanced_Ritual_Art
+
+
+ Advanced Ritual Art 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ Select  1 Ritual Monster in your hand . Send  Normal Monsters from your Deck to the Graveyard whose total Levels are equal to that Ritual Monster's .  Ritual Summon  a card with the name  of  the  selected Ritual Monster from your hand. 
+ Choose  1 Ritual Monster in your hand ,  send  Normal Monsters from your Deck to the Graveyard whose total Levels  are  equal  to that Ritual Monster's , then  Ritual Summon  1  of  that  Ritual Monster  from your hand . 
+ This card can be used to Ritual Summon any  1 Ritual Monster  in your hand . You must also  send Normal Monsters from your Deck to the Graveyard whose total Levels equal  the Level  of that Ritual Monster. 
+ 
+ 
+       STON-EN045 Strike of Neos     
+       DT06-EN042 Duel Terminal 6a     
+       AP05-EN010 Astral Pack Five     
+ 
+ 
+ Third erratum 
+ Fourth erratum   
+ 
+ 
+ This card  can be  used to Ritual Summon any 1 Ritual Monster. You must also send Normal Monsters from your Deck to the  Graveyard  whose total Levels equal the Level of that Ritual Monster. 
+ This card  is  used to Ritual Summon any 1 Ritual Monster. You must also send Normal Monsters from your Deck to the  GY  whose total Levels equal the Level of that Ritual Monster. 
+ 
+ 
+         THSF-EN052 The Secret Forces     
+         GFP2-EN153 Ghosts From the Past: The 2nd Haunting     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ 手札の儀式モンスター１体を選択し、そのカードとレベルの合計が同じになるように自分のデッキから通常モンスターを 選択して 墓地 に 送る。選択した儀式モンスター１体を特殊召喚する。 
+ 手札の儀式モンスター１体を選 択し 、そのカードとレベルの合計が同じになるように 自分の デッキから通常モンスターを墓地 へ 送る。選 択した 儀式モンスター１体を特殊召喚する。 
+ 
+ 
+         STON-JP045 Strike of Neos     
+         DT11-JP042 Duel Terminal - Judgment of Omega!!     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ 手札の 儀式モンスター １体を選 び 、そ の カードと レベルの合計が同じになるようにデッキから通常モンスターを墓地へ送る。 その後、 選 んだ 儀式モンスター１体を特殊召喚する。 
+ 儀式モンスターの 降臨に必要。①： レベルの合計が 儀式召喚するモンスターと 同じになるように 、 デッキから通常モンスターを墓地へ送 り、手札から儀式モンスター１体を儀式召喚す る。 
+ 
+ 
+         DE01-JP102 Duelist Edition Volume 1     
+         20AP-JP039 20th Anniversary Pack 1st Wave     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d2/AdvancedRitualArt-STON-EN-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20070428025027', 'https://static.wikia.nocookie.net/yugioh/images/b/b3/AdvancedRitualArt-DT06-EN-DNPR-DT.png/revision/latest/scale-to-width-down/180?cb=20131018030418', 'https://static.wikia.nocookie.net/yugioh/images/9/94/AdvancedRitualArt-AP05-EN-SR-UE.png/revision/latest/scale-to-width-down/180?cb=20140905151530', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e0/AdvancedRitualArt-THSF-EN-SR-1E.png/revision/latest/scale-to-width-down/180?cb=20150214095109', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/AdvancedRitualArt-GFP2-EN-UR-1E.png/revision/latest/scale-to-width-down/180?cb=20220609044959', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/34/AdvancedRitualArt-STON-JP-C.jpg/revision/latest/scale-to-width-down/180?cb=20071009152052', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/49/AdvancedRitualArt-DT11-JP-DNPR-DT.jpg/revision/latest/scale-to-width-down/180?cb=20110825022200', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/9c/AdvancedRitualArt-DE01-JP-UR.jpg/revision/latest/scale-to-width-down/180?cb=20120511201428', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/7a/AdvancedRitualArt-20AP-JP-NPR.png/revision/latest/scale-to-width-down/180?cb=20161216145209']
+Categories: Card Errata, Cards with 4 errata, Cards with 3 errata, Cards with Japanese errata

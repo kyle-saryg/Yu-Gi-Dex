@@ -1,0 +1,481 @@
+Link: https://yugioh.fandom.com/wiki/Control_only_one
+
+This Property entry details every card with a  Condition  that prohibits you from having another card with its name on your side of the  field . It is also known as side-unique. This is a side-specific variation of  Field-Unique .
+ 
+ This means that if a "side-unique" card is  face-up  on any side of the field, and a new copy of that card would enter/become face-up on that side of the field, then all new copies are sent to the  Graveyard  as a state-based action instead. Also, a  face-up   Summon  may not be attempted if there is already one of those monsters face-up on the field.
+ Additional copies can exist  face-down  (you can  Set / Special Summon  face-down additional copies); however, the moment they become face-up, they also become subject to this rule and are then sent to the Graveyard. Also, they may not be  Flip Summoned  if another copy is already face-up on the field. 
+ If the attempted Summon is from the Graveyard or the so-called  Banished  Zone, such as with " Return from the Different Dimension ", then all illegal Summons will simply fail at resolution. 
+ Contents 
+ 
+ 1   All OCG/TCG "Control only one" cards 
+ 2   All Anime "Control only one" cards 
+ 3   All Manga "Control only one" cards 
+ 
+ 
+ All OCG/TCG "Control only one" cards 
+   Japanese name Card type Attribute Type Level Rank ATK DEF Alien Overlord エーリアン・リベンジャー Effect Monster Monster Card DARK Reptile 6 2200 1600 Amazoness Tiger アマゾネスペット虎 Effect Monster Monster Card EARTH Beast 4 1100 1500 Apollousa, Bow of the Goddess 召命の神弓－アポロウーサ Effect Monster Monster Card Link Monster WIND Fairy ? The Arrival Cyberse @Ignister ジ・アライバル・サイバース＠イグニスター Effect Monster Monster Card Link Monster DARK Cyberse 0 Artifact Caduceus アーティファクト－カドケウス Effect Monster Monster Card LIGHT Fairy 5 1600 2400 Blue Duston ブルー・ダストン Effect Monster Monster Card WATER Fiend 1 0 1000 Bujin Arasuda 武神－アラスダ Effect Monster Monster Card LIGHT Beast-Warrior 4 1600 1900 Bujin Hirume 武神－ヒルメ Effect Monster Monster Card LIGHT Beast-Warrior 4 2000 1000 Bujin Mikazuchi 武神－ミカヅチ Effect Monster Monster Card LIGHT Beast-Warrior 4 1900 1500 Bujin Yamato 武神－ヤマト Effect Monster Monster Card LIGHT Beast-Warrior 4 1800 200 Bujinki Amaterasu 武神姫－アマテラス Effect Monster Monster Card Xyz Monster LIGHT Beast-Warrior 4 2600 2500 Bujintei Kagutsuchi 武神帝－カグツチ Effect Monster Monster Card Xyz Monster LIGHT Beast-Warrior 4 2500 2000 Bujintei Susanowo 武神帝－スサノヲ Effect Monster Monster Card Xyz Monster LIGHT Beast-Warrior 4 2400 1600 Bujintei Tsukuyomi 武神帝－ツクヨミ Effect Monster Monster Card Xyz Monster LIGHT Beast-Warrior 4 1800 2300 Chronomaly Aztec Mask Golem 先史遺産アステカ・マスク・ゴーレム Effect Monster Monster Card EARTH Rock 4 1500 1000 Chronomaly Tula Guardian 先史遺産トゥーラ・ガーディアン Effect Monster Monster Card EARTH Rock 5 1800 900 D/D/D Deviser King Deus Machinex ＤＤＤ赦俿王デス・マキナ Effect Monster Monster Card Xyz Monster DARK Fiend 10 3000 3000 Dakki, the Graceful Mayakashi 麗の魔妖－妲姫 Effect Monster Monster Card FIRE Zombie 2 1000 0 Dovelgus, Generaider Boss of Iron 鉄の王 ドヴェルグス Effect Monster Monster Card EARTH Machine 9 1500 2500 Dragonecro Nethersoul Dragon 冥界龍 ドラゴネクロ Effect Monster Monster Card Fusion Monster DARK Dragon 8 3000 0 Eagle Shark イーグル・シャーク Effect Monster Monster Card WATER Fish 5 1000 1800 First of the Dragons 始祖竜ワイアーム Effect Monster Monster Card Fusion Monster DARK Dragon 9 2700 2000 Flame Administrator フレイム・アドミニスター Effect Monster Monster Card Link Monster FIRE Cyberse 1200 Frightfur Tiger デストーイ・シザー・タイガー Effect Monster Monster Card Fusion Monster DARK Fiend 6 1900 1200 Frodi, Generaider Boss of Swords 剣の王 フローディ Effect Monster Monster Card WIND Warrior 9 2500 2000 Gagaga Magician ガガガマジシャン Effect Monster Monster Card DARK Spellcaster 4 1500 1000 Gashadokuro, the Skeletal Mayakashi 骸の魔妖－餓者髑髏 Effect Monster Monster Card Synchro Monster DARK Zombie 11 3300 2600 Grandmaster of the Six Samurai 六武衆の師範 Effect Monster Monster Card EARTH Warrior 5 2100 800 Gravekeeper's Chief 墓守の長 Effect Monster Monster Card DARK Spellcaster 5 1900 1200 Green Duston グリーン・ダストン Effect Monster Monster Card WIND Fiend 1 0 1000 Guardian of Order ガーディアン・オブ・オーダー Effect Monster Monster Card LIGHT Warrior 8 2500 1200 Harr, Generaider Boss of Storms 轟の王ハール Effect Monster Monster Card DARK Spellcaster 9 3000 3000 Hela, Generaider Boss of Doom 死の王 ヘル Effect Monster Monster Card DARK Zombie 9 800 2800 Ido the Supreme Magical Force 超魔神イド Effect Monster Monster Card DARK Fiend 6 2200 800 Ignoble Knight of Black Laundsallyn 魔聖騎士ランスロット Effect Monster Monster Card DARK Warrior 5 2000 800 Ignoble Knight of High Laundsallyn 魔聖騎士皇ランスロット Effect Monster Monster Card Synchro Monster DARK Warrior 5 2100 900 Inari Fire 稲荷火 Effect Monster Monster Card FIRE Pyro 4 1500 200 Jester Confit ジェスター・コンフィ Effect Monster Monster Card DARK Spellcaster 1 0 0 Jigabyte ジゴバイト Effect Monster Monster Card WATER Reptile 4 1500 200 Jormungandr, Generaider Boss of Eternity 永の王 オルムガンド Effect Monster Monster Card Xyz Monster EARTH Reptile 9 ? ? Laevateinn, Generaider Boss of Shadows 影の王 レイヴァーテイン Effect Monster Monster Card Xyz Monster FIRE Fairy 9 2500 2500 Loptr, Shadow of the Generaider Bosses 王の影 ロプトル Effect Monster Monster Card FIRE Fairy 4 1500 1500 Mardel, Generaider Boss of Light 光の王 マルデル Effect Monster Monster Card LIGHT Plant 9 2400 2400 Miracle Flipper ミラクル・フリッパー Effect Monster Monster Card LIGHT Spellcaster 2 300 500 Mirrorjade the Iceblade Dragon 氷剣竜ミラジェイド Effect Monster Monster Card Fusion Monster DARK Wyrm 8 3000 2500 Naglfar, Generaider Boss of Fire 炎の王 ナグルファー Effect Monster Monster Card FIRE Beast-Warrior 9 3100 200 Nefarious Archfiend Eater of Nefariousness デーモン・イーター Effect Monster Monster Card EARTH Beast 4 1500 200 Nidhogg, Generaider Boss of Ice 氷の王 ニードヘッグ Effect Monster Monster Card WATER Wyrm 9 2100 2600 Number 52: Diamond Crab King Ｎｏ.５２ ダイヤモンド・クラブ・キング Effect Monster Monster Card Xyz Monster EARTH Rock 4 0 3000 Oboro-Guruma, the Wheeled Mayakashi 轍の魔妖－朧車 Effect Monster Monster Card Synchro Monster EARTH Zombie 3 800 2100 ... further results 
+   Japanese name Card type Property Ancient Gear Reborn 古代の機械蘇生 Trap Card Continuous Trap Card Continuous Trap Card Aquarium Lighting 水照明 Spell Card Continuous Spell Card Continuous Spell Card Castle of Dragon Souls 竜魂の城 Trap Card Continuous Trap Card Continuous Trap Card Crystal Brilliance 極宝玉玲瓏 Trap Card Continuous Trap Card Continuous Trap Card Don Thousand's Throne ドン・サウザンドの玉座 Spell Card Continuous Spell Card Continuous Spell Card Double-Edged Sword 脆刃の剣 Spell Card Equip Spell Card Equip Spell Card Field Barrier フィールドバリア Spell Card Continuous Spell Card Continuous Spell Card Imperial Custom 宮廷のしきたり Trap Card Continuous Trap Card Continuous Trap Card Inviting Rondo of the Mikanko 御巫の誘い輪舞 Spell Card Equip Spell Card Equip Spell Card Life Shaver 削りゆく命 Trap Card Continuous Trap Card Continuous Trap Card Magical Musket - Crooked Crown 魔弾－ブラッディ・クラウン Trap Card Continuous Trap Card Continuous Trap Card Magicalized Duston Mop ダストンのモップ Spell Card Equip Spell Card Equip Spell Card Miracle Stone 開運ミラクルストーン Spell Card Continuous Spell Card Continuous Spell Card Noble Arms - Arfeudutyr 聖剣アロンダイト Spell Card Equip Spell Card Equip Spell Card Noble Arms - Caliburn 聖剣カリバーン Spell Card Equip Spell Card Equip Spell Card Noble Arms - Clarent 聖剣クラレント Spell Card Equip Spell Card Equip Spell Card Noble Arms - Gallatin 聖剣ガラティーン Spell Card Equip Spell Card Equip Spell Card Noble Arms of Destiny 天命の聖剣 Spell Card Equip Spell Card Equip Spell Card Primordial Soup 原初のスープ Spell Card Continuous Spell Card Continuous Spell Card Red Vinegar Crossing 赤酢の踏切 Trap Card Continuous Trap Card Continuous Trap Card Runick Allure 神碑の誑かし Spell Card Continuous Spell Card Continuous Spell Card SPYRAL MISSION - Rescue ＳＰＹＲＡＬ ＭＩＳＳＩＯＮ－救出 Trap Card Continuous Trap Card Continuous Trap Card Salamangreat Claw 転生炎獣の烈爪 Spell Card Equip Spell Card Equip Spell Card Solitary Sword of Poison 孤毒の剣 Spell Card Equip Spell Card Equip Spell Card Soul Levy ソウル・レヴィ Trap Card Continuous Trap Card Continuous Trap Card Stoic Challenge ストイック・チャレンジ Spell Card Equip Spell Card Equip Spell Card Ursarctic Radiation ベアルクティ・ラディエーション Spell Card Continuous Spell Card Continuous Spell Card War Rock Ordeal ウォークライ・オーディール Spell Card Continuous Spell Card Continuous Spell Card The Weather Auroral Canvas オーロラの天気模様 Trap Card Continuous Trap Card Continuous Trap Card The Weather Cloudy Canvas 曇りの天気模様 Spell Card Continuous Spell Card Continuous Spell Card The Weather Rainbowed Canvas 虹の天気模様 Trap Card Continuous Trap Card Continuous Trap Card The Weather Rainy Canvas 雨の天気模様 Spell Card Continuous Spell Card Continuous Spell Card The Weather Snowy Canvas 雪の天気模様 Spell Card Continuous Spell Card Continuous Spell Card The Weather Sunny Canvas 晴れの天気模様 Spell Card Continuous Spell Card Continuous Spell Card The Weather Thundery Canvas 雷の天気模様 Trap Card Continuous Trap Card Continuous Trap Card The World Legacy 星遺物の導く先 Spell Card Continuous Spell Card Continuous Spell Card World Legacy's Corruption 星遺物が導く果て Spell Card Continuous Spell Card Continuous Spell Card Xyz Change Tactics エクシーズ・チェンジ・タクティクス Spell Card Continuous Spell Card Continuous Spell Card 
+ All Anime "Control only one" cards 
+   Japanese name Card type Attribute Type Level Rank ATK DEF Amazoness Tiger (anime) アマゾネスペット虎 Effect Monster EARTH Beast 4 0 0 0 0 0 ??? 0 0 0 0 1100 Flame Administrator (anime) フレイム・アドミニスター Link Monster FIRE Cyberse 0 0 0 0 0 ??? 0 0 0 0 1200 Gravekeeper's Chief (anime) 墓守の長 Effect Monster DARK Spellcaster 5 0 0 0 0 0 ??? 0 0 0 0 1900 Hand-Holding Genie (anime) 手をつなぐ魔人 Effect Monster DARK Fiend 4 0 0 0 0 0 ??? 0 0 0 0 1000 Jester Confit (anime) ジェスター・コンフィ Effect Monster DARK Spellcaster 1 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 Miracle Flipper (anime) ミラクル・フリッパー Effect Monster LIGHT Spellcaster 2 0 0 0 0 0 ??? 0 0 0 0 0 300 Secure Gardna (anime) セキュア・ガードナー Link Monster LIGHT Cyberse 0 0 0 0 0 ??? 0 0 0 0 1000 Toichi the Nefarious Debt Collector (anime) 地獄徴収官トイチ Effect Monster DARK Fiend 3 0 0 0 0 0 ??? 0 0 0 0 0 800 
+   Japanese name Card type Property CompromA.I.se ゆずり — Ａｉ — Spell Card Field Barrier (anime) フィールドバリア Spell Card Imperial Custom (anime) 宮廷のしきたり Trap Card Judgment Arrows 裁きの矢 Spell Card Judgment Arrows (later anime) 裁きの矢 Spell Card Marincess Bubble Blast 海晶乙女の泡撃 Spell Card Salamangreat Claw (anime) 転生炎獣の烈爪 Spell Card Salamangreat Fang 転生炎獣の烈牙 Spell Card Salamangreat Ring サラマングレイト・ヘイロー Trap Card 
+ All Manga "Control only one" cards 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Cards by effect properties

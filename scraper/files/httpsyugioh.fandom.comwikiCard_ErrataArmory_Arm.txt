@@ -1,0 +1,46 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Armory_Arm
+
+
+ Armory Arm 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ 1 Tuner + 1 or more non-Tuner monsters Once per turn, you can equip this card to  a monster  OR  unequip   it to  Special Summon  this card  in face-up Attack Position. While equipped  to a monster  by this effect, that  monster  gains 1000 ATK. When  the equipped monster  destroys a monster by battle and sends it to the Graveyard ,   inflict  damage to your opponent equal to the destroyed monster 's ATK . 
+ 1 Tuner + 1 or more non-Tuner monsters Once per turn, you can  either: Target 1 monster on the field;  equip this card to  that target,  OR :   Unequip   this card and  Special Summon  it  in  face-up  Attack Position. While equipped by this effect, that  target  gains 1000 ATK.  When   that target  destroys a monster by battle and sends it to the Graveyard :   Inflict  damage to your opponent equal to  the ATK of  the destroyed monster  in the Graveyard . 
+ 
+ 
+       DP08-EN016 Duelist Pack: Yusei     
+       TU06-EN010 Turbo Pack: Booster Six     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ 1 Tuner + 1 or more non-Tuner monsters Once per turn, you can either: Target 1 monster on the field; equip this card to that target, OR: Unequip this card and Special Summon it in Attack Position. While equipped by this effect, that target gains 1000 ATK.  If  that target destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard. 
+ 1 Tuner + 1+ non-Tuner monsters Once per turn, you can either: Target 1 monster on the field; equip this card to that target, OR: Unequip this card and Special Summon it in Attack Position. While equipped by this effect, that target gains 1000 ATK. If that target destroys a monster by battle and sends it to the GY: Inflict damage to your opponent equal to the destroyed monster's original ATK. 
+ 
+ 
+       LC5D-EN034 Legendary Collection 5D's Mega Pack     
+         HAC1-EN176 Hidden Arsenal: Chapter 1     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/55/ArmoryArm-DP08-EN-UR-1E.png/revision/latest/scale-to-width-down/180?cb=20091126032816', 'https://static.wikia.nocookie.net/yugioh/images/8/8f/ArmoryArm-TU06-EN-R-UE.jpg/revision/latest/scale-to-width-down/180?cb=20110904223310', 'https://static.wikia.nocookie.net/yugioh/images/3/35/ArmoryArm-LC5D-EN-ScR-1E.png/revision/latest/scale-to-width-down/180?cb=20141026141154', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/86/ArmoryArm-HAC1-EN-ScR-LE.png/revision/latest/scale-to-width-down/180?cb=20220311012821']
+Categories: Card Errata, Cards with 3 errata

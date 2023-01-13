@@ -1,0 +1,504 @@
+Link: https://yugioh.fandom.com/wiki/Limit_Reverse
+
+The  Arabic, Greek, Polish  and  Portuguese                     names given are not official.  
+ The  Portuguese                lore given is not official.  
+ 
+ 
+ 
+ Limit Reverse リミット・リバース 
+ 
+ English 
+Limit Reverse 
+ French 
+ Inverseur de Limite Check translation 
+ German 
+ Beschränkungsumkehr Check translation 
+ Italian 
+ Inversione di Limite Check translation 
+ Korean 
+ 리미트 리버스 Check translation 
+ Portuguese 
+ Reversão do Limite Check translation 
+ Spanish 
+ Invertir el Límite Check translation 
+ Japanese 
+ リミット・リバース Check translation 
+ Japanese ( rōmaji ) 
+Rimitto Ribāsu 
+ Card type 
+ Trap   
+ Property 
+ Continuous   
+ Passcode 
+ 00027551 
+ Card effect types 
+ 
+ 
+ Effect 
+ Continuous-like 
+ Continuous-like 
+ Continuous-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Target  1  monster  with 1000 or less  ATK  in your  Graveyard ;  Special Summon  it in  Attack Position . If the target is changed to  Defense Position ,  destroy  it and this card. When this card  leaves the field , destroy the target. When the target is destroyed, destroy this card. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Ciblez 1 monstre avec max. 1000 ATK dans votre Cimetière ; Invoquez-le Spécialement en Position d'Attaque. Si la cible est changée en Position de Défense, détruisez-la ainsi que cette carte. Lorsque cette carte quitte le Terrain, détruisez la cible. Lorsque la cible est détruite, détruisez cette carte. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wähle 1 Monster mit 1000 oder weniger ATK in deinem Friedhof; beschwöre es als Spezialbeschwörung in die Angriffsposition. Falls das gewählte Ziel in die Verteidigungsposition geändert wird, zerstöre es und diese Karte. Wenn diese Karte das Spielfeld verlässt, zerstöre das gewählte Ziel. Wenn das gewählte Ziel zerstört wird, zerstöre diese Karte. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Scegli come bersaglio  1 mostro con  ATK  di 1000 o inferiore nel tuo Cimitero;  Evocalo Specialmente  in  Posizione di Attacco . Se il bersaglio viene messo in  Posizione di Difesa , distruggi lui e questa carta. Quando questa carta  lascia il Terreno ,  distruggi  il bersaglio. Quando il bersaglio viene distrutto, distruggi questa carta. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Selecione 1 monstro com 1000 pontos ou menos de ATK no seu Cemitério e o Special Summon na Posição de Ataque. Se aquele monstro é mudado para a Posição de Defesa, destrua tanto o monstro quanto esta carta. Quando esta carta é removida do campo, destrua aquele monstro. Quando aquele monstro é destruído, destrua esta carta. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Selecciona  1  monstruo  en tu  Cementerio  con 1000  ATK  o menos;  Invócalo de Modo Especial  en  Posición de Ataque . Si el objetivo se cambia a  Posición de Defensa ,  destrúyelo  junto con esta carta. Cuando esta carta es  retirada del Campo , destruye el objetivo. Cuando el objetivo es destruido, destruye esta carta. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 自分の墓地の攻撃力１０００以下のモンスター１体を選択し、表側攻撃表示で特殊召喚する。そのモンスターが守備表示になった時、そのモンスターとこのカードを破壊する。このカードがフィールド上から離れた時、そのモンスターを破壊する。そのモンスターが破壊された時、このカードを破壊する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신의 묘지에서 공격력 1000 이하의 몬스터 1장을 선택하고, 공격 표시로 특수 소환한다. 그 몬스터가 수비 표시가 되었을 때, 그 몬스터와 이 카드를 파괴한다. 이 카드가 필드 위에서 벗어났을 때, 그 몬스터를 파괴한다. 그 몬스터가 파괴되었을 때, 이 카드를 파괴한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2008-05-03  
+ LODT-EN063   
+ Light of Destruction 
+ Common 
+ 
+ 
+ 2009-06-09  
+ 5DS2-EN037   
+ Starter Deck: Yu-Gi-Oh! 5D's 2009 
+ Common 
+ 
+ 
+ 2011-07-08  
+ YS11-EN039   
+ Starter Deck: Dawn of the Xyz 
+ Common 
+ 
+ 
+ 2012-04-13  
+ YS12-EN037   
+ Starter Deck: Xyz Symphony 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2008-05-13  
+ LODT-FR063   
+ Light of Destruction 
+ Lumière de la Destruction  
+ Common 
+ 
+ 
+ 2009-06-10  
+ 5DS2-FR037   
+ Starter Deck: Yu-Gi-Oh! 5D's 2009 
+ Deck de Démarrage: Yu-Gi-Oh! 5D's 2009  
+ Common 
+ 
+ 
+ 2011-07-08  
+ YS11-FR039   
+ Starter Deck: Dawn of the Xyz 
+ Deck de Démarrage: L’Avènement des Xyz  
+ Common 
+ 
+ 
+ 2012-04-12  
+ YS12-FR037   
+ Starter Deck: Xyz Symphony 
+ Deck de Démarrage: Symphonie Xyz  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2008-05-13  
+ LODT-DE063   
+ Light of Destruction 
+ Light of Destruction  
+ Common 
+ 
+ 
+ 2009-06-10  
+ 5DS2-DE037   
+ Starter Deck: Yu-Gi-Oh! 5D's 2009 
+ Starter Deck: Yu-Gi-Oh! 5D's 2009  
+ Common 
+ 
+ 
+ 2011-07-08  
+ YS11-DE039   
+ Starter Deck: Dawn of the Xyz 
+ Starter Deck: Dawn of the Xyz  
+ Common 
+ 
+ 
+ 2012-04-12  
+ YS12-DE037   
+ Starter Deck: Xyz Symphony 
+ Starter Deck: Xyz Symphony  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2008-05-13  
+ LODT-IT063   
+ Light of Destruction 
+ Luce della Distruzione  
+ Common 
+ 
+ 
+ 2009-06-10  
+ 5DS2-IT037   
+ Starter Deck: Yu-Gi-Oh! 5D's 2009 
+ Starter Deck: Yu-Gi-Oh! 5D's 2009  
+ Common 
+ 
+ 
+ 2011-07-08  
+ YS11-IT039   
+ Starter Deck: Dawn of the Xyz 
+ Starter Deck: Alba degli Xyz  
+ Common 
+ 
+ 
+ 2012-04-12  
+ YS12-IT037   
+ Starter Deck: Xyz Symphony 
+ Starter Deck: Sinfonia Xyz  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2008-05-13  
+ LODT-SP063   
+ Light of Destruction 
+ Luz de la Destrucción  
+ Common 
+ 
+ 
+ 2009-06-09, 2009-06-10  
+ 5DS2-SP037   
+ Starter Deck: Yu-Gi-Oh! 5D's 2009 
+ Baraja de Principiante: Yu-Gi-Oh! 5D's 2009  
+ Common 
+ 
+ 
+ 2011-07-08  
+ YS11-SP039   
+ Starter Deck: Dawn of the Xyz 
+ La Baraja de Principiante: El Amanecer de los Xyz  
+ Common 
+ 
+ 
+ 2012-04-12  
+ YS12-SP037   
+ Starter Deck: Xyz Symphony 
+ La Baraja de Principiante: Sinfonía Xyz  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2008-02-23  
+ LODT-JP063   
+ Light of Destruction 
+ ＬＩＧＨＴ ＯＦ ＤＥＳＴＲＵＣＴＩＯＮ  
+ Super Rare 
+ 
+ 
+ 2009-03-14  
+ YSD4-JP037   
+ Starter Deck 2009 
+ ＳＴＡＲＴＥＲ ＤＥＣＫ ２００９  
+ Common 
+ 
+ 
+ 2010-03-20  
+ YSD5-JP037   
+ Starter Deck 2010 
+ ＳＴＡＲＴＥＲ ＤＥＣＫ ２０１０  
+ Common 
+ 
+ 
+ 2011-03-19  
+ YSD6-JP039   
+ Starter Deck 2011 
+ ＳＴＡＲＴＥＲ ＤＥＣＫ ２０１１  
+ Common 
+ 
+ 
+ 2012-03-17  
+ ST12-JP037   
+ Starter Deck 2012 
+ ＳＴＡＲＴＥＲ ＤＥＣＫ ２０１２  
+ Common 
+ 
+ 
+ 2012-05-12  
+ DE02-JP150   
+ Duelist Edition Volume 2 
+ デュエリストエディション　Ｖｏｌｕｍｅ　２  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2008-06-02  
+ LODT-KR063   
+ Light of Destruction 
+ 파괴의 빛  
+ Super Rare 
+ 
+ 
+ 2009-10-21  
+ YSD4-KR037   
+ Starter Deck 2009 
+ STARTER   DECK  ２００９  
+ Common 
+ 
+ 
+ 2010-06-08  
+ YSD5-KR037   
+ Starter Deck 2010 
+ STARTER   DECK  ２０１０  
+ Common 
+ 
+ 
+ 2011-09-05  
+ YSD6-KR039   
+ Starter Deck 2011 
+ STARTER   DECK  ２０１１  
+ Common 
+ 
+ 
+ 2012-04-20  
+ ST12-KR037   
+ Starter Deck 2012 
+ STARTER   DECK  ２０１２  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Online 
+ 
+ 
+ Pack 48 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys Monster Cards 
+ Destroys your Monster Cards 
+ Destroys itself 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 7636 ( ja  ( rulings )   en   fr   de   it   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Online 2005-11-04 – – – – – Unlimited 
+ 
+ 
+ 
+   " Limit Reverse " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/eb/LimitReverse-YS12-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20120420230036', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Duel Monsters cards, TCG cards, OCG cards

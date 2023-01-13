@@ -1,0 +1,11 @@
+Link: https://yugioh.fandom.com/wiki/Talk:Yu-Gi-Oh!_episode_listing_(season_1)
+
+Episode 31 Missing 
+ I'm amazed that in over two years, no one has noticed this. When Deltaneos switched the listing to an inline query on March 27, 2010, Episode 31 disappeared from the list and has not returned. I know next to nothing about inline queries, so I have no idea how to fix this. Just putting out an advisory for you all.-- Martin III  ( talk  •  contribs ) 17:03, November 7, 2012 (UTC)
+ 
+ At the time I made that edit, every episode was still on the list. Inline queries get information from other pages and output them in the format you specify. This particular query gets all pages whose series is " Yu-Gi-Oh! " and whose season number is " 1 ". If an episode disappears from this list, it usually means one of those details has been changed on the episode page. In this case, the episode infobox was changed, so that it no longer converted stuff like "One" to "1". Episode 31 still used  season = One , so its season number became " One ". Golden Key fixed it with  this edit . --  Deltaneos  ( talk ) 13:25, November 8, 2012 (UTC) 
+ Sweet, thanks! Good information for my future reference.-- Martin III  ( talk  •  contribs ) 22:56, November 13, 2012 (UTC) 
+ 
+ 
+ 
+Categories:

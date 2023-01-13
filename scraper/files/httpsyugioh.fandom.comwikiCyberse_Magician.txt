@@ -1,0 +1,290 @@
+Link: https://yugioh.fandom.com/wiki/Cyberse_Magician
+
+
+ 
+ 
+ Cyberse Magician サイバース・マジシャン 
+ 
+ English 
+Cyberse Magician 
+ French 
+ Magicien Cyberse Check translation 
+ German 
+ Cyberse-Magier Check translation 
+ Italian 
+ Mago Cyberso Check translation 
+ Korean 
+ 사이버스 매지션 Check translation 
+ Portuguese 
+ Feiticeiro Ciberso Check translation 
+ Spanish 
+ Hechicero Ciberso Check translation 
+ Japanese 
+ サイバース・マジシャン Check translation 
+ Japanese ( rōmaji ) 
+Saibāsu Majishan 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Cyberse  /  Ritual  /  Effect 
+ Level 
+ 7   
+ ATK  /  DEF 
+ 2500  /  2000 
+ Passcode 
+ 24731391 
+ Ritual Spell Card  required 
+ 
+ 
+ " Cynet Ritual "  
+ Card effect types 
+ 
+ 
+ Summon 
+ Continuous 
+ Continuous 
+ Trigger 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+You can  Ritual Summon  this card with " Cynet Ritual ". Any damage you take is halved. (You cannot halve the same damage twice this way.) While you  control  a  Link Monster , monsters your opponent controls cannot  target   monsters  you control for  attacks , except this one, also your opponent cannot target monsters you control with  card effects , except this one. If this card  battles  a Link Monster, it gains 1000  ATK  during that  damage calculation  only. If this card in your  possession  is  destroyed  by an opponent’s card effect: You can  add  1  Cyberse  monster from your  Deck  to your  hand . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Vous pouvez Invoquer Rituellement cette carte avec "Cynet Rituel". Les dommages que vous recevez sont divisés par deux. (Vous ne pouvez pas rediviser par deux les mêmes dommages de cette façon.) Tant que vous contrôlez un Monstre Lien, les monstres contrôlés par votre adversaire ne peuvent pas cibler de monstres que vous contrôlez (celui-ci exclu) avec une attaque, et aussi, votre adversaire ne peut pas cibler de monstres que vous contrôlez (celui-ci exclu) avec des effets de carte. Si cette carte combat un Monstre Lien, il gagne 1000 ATK durant ce calcul des dommages uniquement. Si cette carte en votre possession est détruite par un effet de carte de l'adversaire : vous pouvez ajouter 1 monstre Cyberse depuis votre Deck à votre main. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Du kannst diese Karte mit „Cynet-Ritual“ als Ritualbeschwörung beschwören. Schaden, den du erhältst, wird halbiert. (Du kannst denselben Schaden nicht zweimal auf diese Art halbieren.) Solange du ein Linkmonster kontrollierst, können Monster, die dein Gegner kontrolliert, Monster, die du kontrollierst, nicht als Ziel für Angriffe wählen, außer diesem, zusätzlich kann dein Gegner Monster, die du kontrollierst, nicht als Ziel für Karteneffekte wählen, außer diesem. Falls diese Karte gegen ein Linkmonster kämpft, erhält sie nur während der Schadensberechnung 1000 ATK. Falls diese Karte, die dir gehört, durch einen Karteneffekt eines Gegners zerstört wird: Du kannst deiner Hand 1 Cyberse-Monster von deinem Deck hinzufügen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Puoi Evocare tramite Rituale questa carta con "Cynet Rituale". Qualsiasi danno che subisci viene dimezzato. (Non puoi dimezzare lo stesso danno due volte in questo modo.) Mentre controlli un Mostro Link, i mostri controllati dal tuo avversario non possono scegliere come bersaglio mostri che controlli per gli attacchi, eccetto questo, inoltre il tuo avversario non può scegliere come bersaglio mostri che controlli con gli effetti delle carte, eccetto questo. Se questa carta combatte con un Mostro Link, essa guadagna 1000 ATK solamente durante quel calcolo dei danni. Se questa carta sotto il tuo comando viene distrutta dall'effetto di una carta dell'avversario: puoi aggiungere 1 mostro Cyberso dal tuo Deck alla tua mano. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Você pode Invocar este card por Invocação-Ritual com "Cinet Ritual". Qualquer dano que você sofrer é reduzido pela metade. (Você não pode reduzir o mesmo dano pela metade duas vezes desta forma.) Enquanto você controlar um Monstro Link, os monstros que seu oponente controla não podem escolher monstros que você controla como alvo de ataques, exceto este e, além disso, seu oponente não pode escolher monstros que você controla como alvo de efeitos de card, exceto este. Se este card batalhar um Monstro Link, ele ganha 1000 de ATK apenas durante o cálculo de dano. Se este card em sua posse for destruído por um efeito de card do oponente: você pode adicionar 1 monstro Ciberso do seu Deck à sua mão. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Puedes Invocar esta carta por Ritual con "Cinet-Ritual". Cualquier daño que recibes se divide a la mitad. (No puedes dividir a la mitad el mismo daño dos veces de esta forma). Mientras controles un Monstruo de Enlace, los monstruos que controle tu adversario no pueden seleccionar monstruos que controles para ataques, excepto éste, y además tu adversario no puede seleccionar monstruos que controles con efectos de cartas, excepto éste. Si esta carta batalla con un Monstruo de Enlace, ésta gana 1000 ATK, sólo durante ese cálculo de daño. Si esta carta en tu posesión es destruida por el efecto de una carta del adversario: puedes añadir a tu mano 1 monstruo Ciberso en tu Deck. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「サイバネット・リチューアル」により降臨。 ①:このカードがモンスターゾーンに存在する限り、自分が受ける全てのダメージは半分になる。②:自分フィールドにリンクモンスターが存在する限り、相手は自分フィールドの他のモンスターを攻撃対象に選択できず、効果の対象にもできない。
+ 
+③:このカードがリンクモンスターと戦闘を行うダメージ計算時のみこのカードの攻撃力は1000アップする。④:このカードが相手の効果で破壊された場合に発動できる。デッキからサイバース族モンスター1体を手札に加える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "사이바넷 리추얼"에 의해 강림. ① : 이 카드가 몬스터 존에 존재하는 한, 자신이 받는 모든 데미지는 절반이 된다. ② : 자신 필드에 링크 몬스터가 존재하는 한, 상대는 자신 필드의 다른 몬스터를 공격 대상으로 할수 없고, 효과의 대상으로 할수 없다. ③ : 이 카드가 링크 몬스터와 전투를 행하는 데미지 계산시에만 이 카드의 공격력은 1000 오른다. ④ : 이 카드가 상대의 효과로 파괴되었을 경우에 발동할 수 있다. 덱에서 사이버스족 몬스터 1체를 패로 더한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2018-07-26 CYHO-EN026 Cybernetic Horizon Ultra Rare 2019-08-29 MP19-EN095 2019 Gold Sarcophagus Tin Mega Pack Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2018-07-26 CYHO-FR026 Cybernetic Horizon Horizon Cybernétique Ultra Rare 2019-08-29 MP19-FR095 2019 Gold Sarcophagus Tin Mega Pack Boîte Sarcophage Doré 2019 Méga Pack Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2018-07-26 CYHO-DE026 Cybernetic Horizon Cybernetic Horizon Ultra Rare 2019-08-29 MP19-DE095 2019 Gold Sarcophagus Tin Mega Pack 2019 Gold Sarcophagus Tin Mega Pack Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2018-07-26 CYHO-IT026 Cybernetic Horizon Orizzonte Cibernetico Ultra Rare 2019-08-29 MP19-IT095 2019 Gold Sarcophagus Tin Mega Pack Tin Sarcofago d'Oro 2019 Mega-Pack Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2018-07-27 CYHO-PT026 Cybernetic Horizon Horizonte Cibernético Ultra Rare 2019-08-30 MP19-PT095 2019 Gold Sarcophagus Tin Mega Pack Mega-Pacote da Lata Sarcófago Dourado 2019 Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2018-07-26 CYHO-SP026 Cybernetic Horizon Horizonte Cibernético Ultra Rare 2019-08-29 MP19-SP095 2019 Gold Sarcophagus Tin Mega Pack Lata Cofre de Oro Sellado 2019 Mega Pack Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2018-04-14 CYHO-JP026 Cybernetic Horizon サイバネティック・ホライゾン Ultra Rare 2018-04-14 CYHO-JP026 Cybernetic Horizon サイバネティック・ホライゾン Secret Rare 2018-04-14 CYHO-JP026 Cybernetic Horizon サイバネティック・ホライゾン Ultimate Rare 2018-04-14 CYHO-JP026 Cybernetic Horizon サイバネティック・ホライゾン Holographic Rare 2018-04-14 CYHO-JP026 Cybernetic Horizon サイバネティック・ホライゾン 20th Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2018-07-24 CYHO-KR026 Cybernetic Horizon 사이버네틱 호라이즌 Ultra Rare 2018-07-24 CYHO-KR026 Cybernetic Horizon 사이버네틱 호라이즌 Secret Rare 2018-07-24 CYHO-KR026 Cybernetic Horizon 사이버네틱 호라이즌 Ultimate Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Link Monster 
+ Cyberse 
+ 
+ Anti-supports   
+ Link Monster 
+ 
+ Archetypes  and  series   
+ Cyber 
+ 
+ Related to  archetypes  and  series   
+ Cynet 
+ 
+ Actions  
+ Activates if destroyed by card effect 
+ Adds from Deck to hand 
+ 
+ Stat changes  
+ This card gains ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Manages effect targets of Effect Monsters 
+ Manages effect targets of Spell Cards 
+ Manages effect targets of Trap Cards 
+ Cannot be targeted by card effects 
+ 
+ Attack  categories  
+ Manages attack targets 
+ 
+ LP   
+ Reduces battle damage 
+ Reduces effect damage 
+ 
+ Miscellaneous  
+ Requires control of specific Monster card type 
+ Cover card 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 13742 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Cyberse Magician " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Cyber " 「サイバー」 Members 
+ Armored Cybern The Arrival Cyberse @Ignister Attachment Cybern Cyber Angel Benten Cyber Angel Dakini Cyber Angel Idaten Cyber Angel Izana Cyber Angel Natasha Cyber Angel Vrash Cyber Archfiend Cyber Barrier Dragon Cyber Blader Cyber Dinosaur Cyber Dragon Cyber Dragon Core Cyber Dragon Drei Cyber Dragon Herz Cyber Dragon Infinity Cyber Dragon Nachster Cyber Dragon Nova Cyber Dragon Sieger Cyber Dragon Vier Cyber Dragon Zwei Cyber Egg Angel Cyber Eltanin Cyber End Dragon Cyber Esper Cyber Eternity Dragon Cyber Gymnast Cyber Harpie Lady Cyber Jar Cyber Kirin Cyber Larva Cyber Laser Dragon Cyber Ogre Cyber Ogre 2 Cyber Ouroboros Cyber Petit Angel Cyber Pharos Cyber Phoenix Cyber Prima Cyber Raider Cyber Shark Cyber Tutu Cyber Tutubon Cyber Twin Dragon Cyber Valley Cyberdark Cannon Cyberdark Chimera Cyberdark Claw Cyberdark Dragon Cyberdark Edge Cyberdark End Dragon Cyberdark Horn Cyberdark Keel Cyberdarkness Dragon Cyberse Accelerator Cyberse Clock Dragon Cyberse Converter Cyberse Disabwurm Cyberse Enchanter Cyberse Gadget Cyberse Integrator Cyberse Magician Cyberse Quantum Dragon Cyberse Reminder Cyberse Sage Cyberse Synchron Cyberse White Hat Cyberse Wicckid Cyberse Witch Cyberse Wizard Etoile Cyber The Fiend Megacyber Malefic Cyber End Dragon Proto-Cyber Dragon Psychic Megacyber Stegocyber T.G. Cyber Magician Toon Cyber Dragon 
+ Cyber Emergency Cyber Energy Shock Cyber Eternal Cyber Network Cyber Repair Plant Cyber Revsystem Cyber Shadow Gardna Cyber Shield Cyber Summon Blaster Cyberdark Impact! Cyberdark Inferno Cyberdark Invasion Cyberdark Realm Cyberload Fusion Cybernetic Horizon Cybersal Cyclone Cyberse Beacon 
+ Support 
+ Attachment Cybern Cyber Dragon Core Cyberdark Chimera 
+ Cyber Eternal Cybernetic Horizon Cybernetic Overflow 
+ Related 
+ Blade Skater Chimeratech Fortress Dragon Chimeratech Megafleet Dragon Chimeratech Overdragon Clock Wyvern Gadget Token Petit Angel Wing Egg Elf 
+ Attack Reflector Unit Born from Draconis Byroad Sacrifice Cybernetic Hidden Technology Cybernetic Revolution Cynet Ritual Evolution Burst Photon Generator Unit Power Bond Ritual Sanctuary 
+ 
+   
+" Cynet " 「サイバネット」 Members 
+ Cynet Backdoor Cynet Cascade Cynet Circuit Cynet Codec Cynet Conflict Cynet Crosswipe Cynet Fusion Cynet Mining Cynet Optimization Cynet Recovery Cynet Refresh Cynet Regression Cynet Ritual Cynet Rollback Cynet Storm Cynet Universe 
+ Support 
+ Cyberse Reminder Firewall Phantom Micro Coder 
+ Related 
+ Clock Spartoi Cyberse Magician Cyberse Sage Cyberse Witch Diplexer Chimera Paladin of Storm Dragon 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/5b/CyberseMagician-MP19-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20200121190607', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

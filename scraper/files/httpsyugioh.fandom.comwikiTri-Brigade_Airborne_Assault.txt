@@ -1,0 +1,246 @@
+Link: https://yugioh.fandom.com/wiki/Tri-Brigade_Airborne_Assault
+
+
+ 
+ 
+ Tri-Brigade Airborne Assault 鉄獣の凶襲 
+ 
+ English 
+Tri-Brigade Airborne Assault 
+ French 
+ Assaut Aéroporté Tri-Brigade Check translation 
+ German 
+ Luftangriff der Sta-Brigade Check translation 
+ Italian 
+ Assalto Aereo Tri-Brigata Check translation 
+ Korean 
+ 트라이브리게이드 에어본 Check translation 
+ Portuguese 
+ Ataque Aéreo da Tri-Brigada Check translation 
+ Spanish 
+ Tri-Brigada Asalto Aéreo Check translation 
+ Japanese (kana) 
+ トライブリゲード・エアボーン Check translation 
+ Japanese (base) 
+ 鉄獣の凶襲 Check translation 
+ Japanese ( rōmaji ) 
+Toraiburigēdo Eabōn 
+ Japanese (translated) 
+Tribrigade Airborne 
+ Card type 
+ Spell   
+ Property 
+ Quick-Play   
+ Passcode 
+ 51097887 
+ Card effect types 
+ 
+ 
+ Effect 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Target  1  Beast ,  Beast-Warrior , or  Winged Beast   monster  you  control ;  Special Summon  1 Beast, Beast-Warrior, or Winged Beast monster from your  Deck , in  Defense Position , with a different  Type  and with  ATK  less than or equal to that monster, but its  effects  are  negated  until the end of this  turn , also you cannot Special Summon monsters from the  Extra Deck  for the rest of this turn, except  Link Monsters . You can only  activate  1 "Tri-Brigade Airborne Assault" per turn. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Ciblez 1 monstre Bête, Bête-Guerrier ou Bête Ailée que vous contrôlez ; Invoquez Spécialement 1 monstre Bête, Bête-Guerrier ou Bête Ailée depuis votre Deck en Position de Défense, de Type différent et avec une ATK inférieure ou égale au monstre, mais ses effets sont annulés jusqu'à la fin de ce tour, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (Monstres Lien exclus) depuis l'Extra Deck le reste de ce tour. Vous ne pouvez activer qu'1 "Assaut Aéroporté Tri-Brigade" par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wähle 1 Ungeheuer-, Ungeheuer-Krieger- oder Geflügeltes Ungeheuer-Monster, das du kontrollierst; beschwöre 1 Ungeheuer-, Ungeheuer-Krieger- oder Geflügeltes Ungeheuer-Monster mit einem unterschiedlichen Typ, dessen ATK kleiner oder gleich denen des Monsters sind, als Spezialbeschwörung von deinem Deck in die Verteidigungsposition, aber seine Effekte werden bis zum Ende dieses Spielzugs annulliert, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung vom Extra Deck beschwören, außer Linkmonstern. Du kannst nur 1 „Luftangriff der Sta-Brigade“ pro Spielzug aktivieren. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Scegli come bersaglio 1 mostro Bestia, Guerriero-Bestia o Bestia Alata che controlli; Evoca Specialmente dal tuo Deck, in Posizione di Difesa, 1 mostro Bestia, Guerriero-Bestia o Bestia Alata con un Tipo diverso e con ATK pari o inferiore a quel mostro, ma i suoi effetti sono annullati fino alla fine di questo turno, inoltre non puoi Evocare Specialmente mostri dall'Extra Deck per il resto di questo turno, eccetto Mostri Link. Puoi attivare solo 1 "Assalto Aereo Tri-Brigata" per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Escolha 1 monstro Besta, Besta-Guerreira ou Besta Alada que você controla; Invoque por Invocação-Especial do seu Deck, em Posição de Defesa, 1 monstro Besta, Besta-Guerreira ou Besta Alada com um Tipo diferente e com ATK igual ou menor que o desse monstro, mas seus efeitos são negados até o final deste turno e, além disso, você não pode Invocar monstros por Invocação-Especial do Deck Adicional pelo resto deste turno, exceto Monstros Link. Você só pode ativar 1 "Ataque Aéreo da Tri-Brigada" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Selecciona 1 monstruo Bestia, Guerrero-Bestia o Bestia Alada que controlas; Invoca de Modo Especial, desde tu Deck en Posición de Defensa, 1 monstruo Bestia, Guerrero-Bestia o Bestia Alada con un Tipo diferente y ATK menor o igual al de ese monstruo, pero sus efectos son negados hasta el final de este turno, y además no puedes Invocar monstruos de Modo Especial desde el Deck Extra por el resto de este turno, excepto Monstruos de Enlace. Sólo puedes activar 1 "Tri-Brigada Asalto Aéreo" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドの獣族・獣戦士族・鳥獣族モンスター１体を対象として発動できる。そのモンスターの攻撃力以下で種族が異なる獣族・獣戦士族・鳥獣族モンスター１体をデッキから守備表示で特殊召喚する。この効果で特殊召喚したモンスターの効果はターン終了時まで無効化される。この効果の発動後、ターン終了時まで自分はリンクモンスターしか ＥＸ デッキから特殊召喚できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신 필드의 야수족 / 야수전사족 / 비행야수족 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 공격력 이하로 종족이 다른 야수족 / 야수전사족 / 비행야수족 몬스터 1장을 덱에서 수비 표시로 특수 소환한다. 이 효과로 특수 소환한 몬스터의 효과는 턴 종료시까지 무효화된다. 이 효과의 발동 후, 턴 종료시까지 자신은 링크 몬스터밖에 엑스트라 덱에서 특수 소환할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2020-10-31 PHRA-ENSP1 Phantom Rage Premiere! promotional card Ultra Rare 2020-11-05 PHRA-EN053 Phantom Rage Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2020-10-31 PHRA-FRSP1 Phantom Rage Premiere! promotional card La Raje Fantôme Premiere! Ultra Rare 2020-11-05 PHRA-FR053 Phantom Rage La Raje Fantôme Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2020-10-31 PHRA-DESP1 Phantom Rage Premiere! promotional card Phantom Rage Premiere! Ultra Rare 2020-11-05 PHRA-DE053 Phantom Rage Phantom Rage Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2020-10-31 PHRA-ITSP1 Phantom Rage Premiere! promotional card Rabbia Fantasma Premiere! Ultra Rare 2020-11-05 PHRA-IT053 Phantom Rage Rabbia Fantasma Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2020-10-31 PHRA-PTSP1 Phantom Rage Premiere! promotional card Fúria Fantasma Premiere! Ultra Rare 2020-11-05 PHRA-PT053 Phantom Rage Fúria Fantasma Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2020-10-31 PHRA-SPSP1 Phantom Rage Premiere! promotional card Ira Fantasma Premiere! Ultra Rare 2020-11-05 PHRA-SP053 Phantom Rage Ira Fantasma Secret Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2020-08-08 PHRA-JP053 Phantom Rage ファントム・レイジ Super Rare 2020-08-08 PHRA-JP053 Phantom Rage ファントム・レイジ Secret Rare 2020-08-08 PHRA-JP053 Phantom Rage ファントム・レイジ Prismatic Secret Rare 2020-08-08 PHRA-JP053 Phantom Rage +1 Bonus Pack ファントム レイジ＋１ボーナスパック Super Rare 2020-08-08 PHRA-JP053 Phantom Rage +1 Bonus Pack ファントム レイジ＋１ボーナスパック Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2020-11-10 PHRA-KR053 Phantom Rage 팬텀 레이지 Super Rare 2020-11-10 PHRA-KR053 Phantom Rage 팬텀 레이지 Secret Rare 2020-11-10 PHRA-KR053 Phantom Rage 팬텀 레이지 Prismatic Secret Rare 2020-11-10 PHRA-KR053 Phantom Rage +1 Bonus Pack 팬텀 레이지 스페셜 팩 Super Rare 2020-11-10 PHRA-KR053 Phantom Rage +1 Bonus Pack 팬텀 레이지 스페셜 팩 Prismatic Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Beast 
+ Beast-Warrior 
+ Winged Beast 
+ Link Monster 
+ 
+ Archetypes  and  series   
+ Tri-Brigade 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your Effect Monsters 
+ 
+ Summoning  categories  
+ Special Summons from your Deck 
+ Restricts the player's Special Summons from the Extra Deck 
+ 
+ Miscellaneous  
+ Requires control of specific Type 
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 15532 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Tri-Brigade " 「トライブリゲード」 Members 
+ Tri-Brigade Arms "Bucephalus II" Tri-Brigade Bearbrumm the Rampant Rampager Tri-Brigade Ferrijit the Barren Blossom Tri-Brigade Fraktall Tri-Brigade Kerass Tri-Brigade Kitt Tri-Brigade Mercourier Tri-Brigade Nervall Tri-Brigade Rugal the Silver Sheller Tri-Brigade Shuraig the Ominous Omen 
+ Tri-Brigade Airborne Assault Tri-Brigade Oath Tri-Brigade Rendezvous Tri-Brigade Revolt Tri-Brigade Showdown Tri-Brigade Stand-Off 
+ Support 
+ Brigrand the Glory Dragon Tri-Brigade Arms "Bucephalus II" Tri-Brigade Bearbrumm the Rampant Rampager Tri-Brigade Kitt Tri-Brigade Nervall 
+ Tri-Brigade Revolt Tri-Brigade Showdown 
+ Related 
+ Albaz the Ashen Fallen of Albaz Lindwurm the Hammer Dragon Springans Kitt 
+ Tribe Drive 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/dd/TriBrigadeAirborneAssault-PHRA-EN-ScR-1E.png/revision/latest/scale-to-width-down/300?cb=20201113174305', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/05/Quick-Play.svg/revision/latest/scale-to-width-down/28?cb=20120920115228']
+Categories: Duel Monsters cards, TCG cards, OCG cards

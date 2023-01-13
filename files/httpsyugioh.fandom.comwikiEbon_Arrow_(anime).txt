@@ -1,0 +1,104 @@
+Link: https://yugioh.fandom.com/wiki/Ebon_Arrow_(anime)
+
+Main card page: " Ebon Arrow " 
+ Ebon Arrow 
+ 
+ Japanese:   ブラック・アロー 
+ Romaji:   Burakku Arō 
+ Translated:  Black Arrow 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Select  1  face-up   monster  you  control . Until the  End Phase , it loses 500  ATK  and during  battle  between that  attacking  monster and a  Defense Position  monster whose  DEF  is lower than the selected monster's ATK, inflict the difference as  Battle Damage  to your opponent. When the selected monster  destroys  a monster  by battle  and  sends  it to the  Graveyard  this  turn , inflict  damage  to your opponent equal to the destroyed monster's  original DEF .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  031 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ブラック・アロー 
+ 自分フィールド上に表側表示で存在するモンスター１体を選択して発動する。エンドフェイズ時まで、選択したモンスターの攻撃力は５００ポイントダウンし、守備表示モンスターを攻撃した時、その守備力を攻撃力が 超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。選択したモンスターが戦闘によってモンスターを破壊し墓地へ送った時、破壊したモンスターの元々の守備力分のダメージを相手ライフに与える。 
+ 
+ 
+ Burakku Arō 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Crow Hogan 
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ Your monsters lose ATK 
+ 
+ Attack  categories  
+ Piercing 
+ 
+ LP   
+ Damages your opponent 
+ 
+ 
+ 
+   " Ebon Arrow " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/1a/EbonArrow-JP-Anime-5D.png/revision/latest/scale-to-width-down/200?cb=20151128024910', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/b/b6/EbonArrow-OW.png/revision/latest/scale-to-width-down/185?cb=20140604031941', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

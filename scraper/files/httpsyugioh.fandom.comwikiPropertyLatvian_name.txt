@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Latvian_name
+
+This property lists the primary Latvian Card Name of a card. It is a  string . It is primarily used for display of the correct Latvian card name.
+ 
+ 
+ 
+ 
+Categories:

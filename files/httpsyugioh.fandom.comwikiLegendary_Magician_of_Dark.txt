@@ -1,0 +1,271 @@
+Link: https://yugioh.fandom.com/wiki/Legendary_Magician_of_Dark
+
+
+ The Japanese (OCG) version of this card is not a member of the " Magician "  archetype , because its Japanese name does not contain  「 魔 術 師 」 .   As its English name contains "Magician", it  may  be treated a member of the "Magician" archetype at a TCG event, subject to local rulings.     
+ The  Chinese, Croatian  and  Greek                      names given are not official.  
+ The  Chinese                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Legendary Magician of Dark 伝説の闇の魔導師 
+ 
+ English 
+Legendary Magician of Dark 
+ Chinese 
+ 传说之黑魔术师 Check translation 
+ French 
+ Magicien Légendaire Sombre Check translation 
+ German 
+ Legendärer Magier des Dunklen Check translation 
+ Italian 
+ Mago Leggendario del Nero Check translation 
+ Korean 
+ 레전더리 매지션 오브 다크 Check translation 
+ Portuguese 
+ Lendário Mago de Negro Check translation 
+ Spanish 
+ Mago Legendario de Oscuridad Check translation 
+ Japanese (kana) 
+ レジェンダリー・マジシャン・オブ・ダーク Check translation 
+ Japanese (base) 
+ 伝説の闇の魔導師 Check translation 
+ Japanese ( rōmaji ) 
+Rejendarī Majishan Obu Dāku 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Spellcaster  /  Xyz  /  Effect 
+ Rank 
+ 7   
+ ATK  /  DEF 
+ 2500  /  2100 
+ Limitation text 
+This card cannot be used in a Duel. 
+ Materials 
+3 Level 7 monsters 
+ Card effect types 
+ 
+ 
+ Summon 
+ Condition Statuses Illegal   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+3  Level  7  monsters Must be  Xyz Summoned  and cannot be  Special Summoned  by other ways. If this card  attacks  your opponent  directly  and reduces their  LP  to 0, while it has an  Xyz Material   attached  that was originally  Spellcaster - Type , you win the  Match . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 3 monstres de Niveau 7 Uniquement Invocable par Xyz et non Invocable Spécialement autrement. Si cette carte attaque directement votre adversaire et réduit ses LP à 0, tant qu'elle a un Matériel Xyz attaché qui était de Type Magicien à l'origine, vous gagnez le Match. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 3 Monster der Stufe 7 Muss als Xyz-Beschwörung beschworen werden und kann nicht auf andere Art als Spezialbeschwörung beschworen werden. Falls diese Karte deinen Gegner direkt angreift und seine LP auf 0 reduziert, solange ein Xyz-Material, das ursprünglich Typ Hexer war, an sie angehängt ist, gewinnst du das Match. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 3 mostri di Livello 7 Deve essere Evocato Xyz e non può essere Evocato Specialmente in altri modi. Se questa carta attacca il tuo avversario direttamente e riduce i suoi LP a 0, mentre ha un Materiale Xyz attaccato che era originariamente di Tipo Incantatore, vinci la Partita. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 3 monstros de Nível 7 Deve ser Invocado por Invocação-Xyz e não pode ser Invocado por Invocação-Especial de nenhuma outra forma. Se este card atacar diretamente seu oponente e reduzir os PV dele a 0 enquanto tinha uma Matéria Xyz associada a ele que originalmente era do Tipo Mago, você vence a Partida. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 3 monstruos de Nivel 7 Debe ser Invocado Xyz y no puede ser Invocado de Modo Especial de otra forma. Si esta carta ataca a tu adversario directamente y reduce sus LP a 0, mientras tenga un Material Xyz acoplado a ella que originalmente era de Tipo Lanzador de Conjuros, ganas el Match. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ レベル７モンスター×３ このカードはエクシーズ召喚でしか特殊召喚できない。魔法使い族モンスターをエクシーズ素材として持っているこのカードが直接攻撃によって相手ライフを０した場合、このカードのコントローラーはマッチに勝利する。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 7 星 怪兽 ×3。这张卡不能作 XYZ召唤 以外的 特殊召唤 。有原本 种族 是 魔法师族 怪兽 的 XYZ素材 的状态，由于这张卡的 直接攻击 把对方 基本分 变成0的场合，这张卡的 控制 者得到比赛胜利。※这张卡不能在 决斗 中使用。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 레벨 7 몬스터 × 3 이 카드는 엑시즈 소환으로밖에 특수 소환할 수 없다. 마법사족 몬스터를 엑시즈 소재로서 가지고 있는 이 카드가 직접 공격에 의해서 상대 라이프를 0으로 했을 경우, 이 카드의 컨트롤러는 매치에 승리한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2012-08-11 2012-EN002 Yu-Gi-Oh! World Championship 2012 prize cards Ultra Rare 2015-04-16 WSUP-EN052 World Superstars Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2015-04-16 WSUP-FR052 World Superstars Les Superstars Mondiales Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2015-04-16 WSUP-DE052 World Superstars World Superstars Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2015-04-16 WSUP-IT052 World Superstars Superstar Mondiali Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2015-04-17 WSUP-PT052 World Superstars Estrelas Globais Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2015-04-16 WSUP-SP052 World Superstars Superestrellas Mundiales Prismatic Secret Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2013-05-18 EP13-JP052 Extra Pack: Sword of Knights ＥＸＴＲＡ ＰＡＣＫ －ＳＷＯＲＤ ＯＦ ＫＮＩＧＨＴＳ－ Extra Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2013-10-05 EXP6-KR052 Extra Pack: Sword of Knights EXTRA PACK  － 스워드 오브 나이트 － Extra Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Spellcaster 
+ 
+ Archetypes  and  series   
+ Match winner 
+ 
+ Related to  archetypes  and  series   
+ Dark Magician  
+ 
+ Actions  
+ Applies effects if specific Xyz Material is attached 
+ 
+ Monster / Spell / Trap  categories  
+ Does not have effects which detach Xyz Materials for cost 
+ 
+ Summoning  categories  
+ 3 Xyz Materials 
+ Does not require specific Xyz Materials 
+ Nomi 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 10322 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Dark Magician " 「ブラック・マジシャン」 Members 
+ Dark Magician Dark Magician Dark Magician Girl Dark Magician Girl the Dragon Knight Dark Magician Knight Dark Magician the Dragon Knight Dark Magician the Magical Knight of Dragons The Dark Magicians Toon Dark Magician Toon Dark Magician Girl 
+ Support 
+ The Eye of Timaeus 
+ Related 
+ Amulet Dragon Apprentice Illusion Magician Buster Blader Chronicle Magician Chronicle Sorceress Dark Cavalry Dark Eradicator Warlock Dark Flare Knight Dark Magician of Chaos Dark Paladin Dark Sage Ebon High Magician Ebon Illusion Magician Flame Swordsman Gaia The Fierce Knight Illusion of Chaos Legendary Magician of Dark Magi Magi ☆ Magician Gal Magician of Black Chaos Magician of Black Chaos MAX Magician of Chaos Magician of Dark Illusion Magician's Robe Magician's Rod Magician's Valkyria Magicians' Souls Magikuriboh Master of Chaos Mirage Knight Palladium Oracle Mahad Red-Eyes Black Dragon Red-Eyes Dark Dragoon Skilled Dark Magician Sorcerer of Dark Magic Timaeus the United Dragon Time Wizard 
+ Black Illusion Black Magic Ritual Bond Between Teacher and Student Chaos Form Dark Burning Magic Dark Magic Attack Dark Magic Curtain Dark Magic Expanded Dark Magic Inheritance Dark Magic Twin Burst Dark Magic Veil Dark Magical Circle Dark Renewal Dedication through Light and Darkness Destined Rivals Eternal Soul Fusion Weapon Illusion Magic Knight's Title Magic Formula Magical Dimension Magician Navigation Magician's Salvation Magicians' Combination Miracle Restoring Mystic Box Sage's Stone Secrets of Dark Magic Soul Servant Strength in Unity Thousand Knives Toon World 
+ 
+   
+ Match winner Members 
+ Aggiba, the Malevolent Sh'nn S'yo Amatsu-Okami of the Divine Peaks Armament of the Lethal Lords Chimaera, the Master of Beasts Emperor of Lightning E☆HERO Pit Boss Grandopolis, The Eternal Golden City Grizzly, the Red Star Beast Iron Knight of Revolution Juno, the Celestial Goddess Kaiser Eagle, the Heavens' Mandate King Landia the Goldfang King of Destruction - Xexex Kuzunoha, the Onmyojin Legendary Dragon of White Legendary Magician of Dark Leonardo's Silver Skyship Lorelei, the Symphonic Arsenal Meteo the Matchless Noritoshi in Darkest Rainment Queen Nereia the Silvercrown Queen of Fate - Eternia Sakyo, Swordmaster of the Far East Sanctity of Dragon Shelga, the Tri-Warlord Skuna, the Leonine Rakan Skyfaring Castle of the Black Forest Stardust Divinity Testament of the Arcane Lords The Twin Kings, Founders of the Empire Tyr, the Vanquishing Warlord Ulevo Victory Dragon 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/3/3a/LegendaryMagicianofDark-WSUP-EN-PScR-1E-RP.png/revision/latest/scale-to-width-down/300?cb=20150419004953', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

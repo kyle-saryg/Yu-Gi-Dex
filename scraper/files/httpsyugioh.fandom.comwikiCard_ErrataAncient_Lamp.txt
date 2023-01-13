@@ -1,0 +1,78 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Ancient_Lamp
+
+
+ Ancient Lamp 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Anime Manga Yu-Gi-Oh! Destiny Board Traveler 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ When this face-down Defense Position card is attacked by your opponent's monster, you can  make 1 opponent's  monster  (except the attacking monster)  be attacked instead. While this card is face-up on the field, you can Special Summon 1 "La Jinn the Mystical Genie of the Lamp" from your hand. 
+ When this face-down Defense Position card is attacked by your opponent's monster, you can  select another  monster  your opponent controls to  be attacked instead.  While this card is face-up on the field, you can Special Summon 1 "La Jinn the Mystical Genie of the Lamp" from your hand. 
+ 
+ 
+       SP2-EN001 Shadow of Infinity Sneak Peek Participation Card     
+       RP01-EN100 Retro Pack     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ While this card is face-up on the field,   during  your Main Phase ,   you  can Special Summon "La Jinn the Mystical Genie of the Lamp" from your hand.  When  this  face-down Defense Position  card is attacked,  select  1  opponent's  monster  ( except the attacking monster ).   The  attacking monster attacks  the selected monster  instead. 
+ During  your Main Phase :   You  can Special Summon "La Jinn the Mystical Genie of the Lamp" from your hand.  This card must be face-up on the field to activate and to resolve this effect. Before damage calculation, if  this card is  being  attacked  by an opponent's monster ,  and was face-down at the start of the Damage Step: You can target  1 monster  your opponent controls , except the attacking monster ;   the  attacking monster attacks  it  instead , and you proceed to damage calculation . 
+ 
+ 
+       DPKB-EN021 Duelist Pack: Kaiba ( 1st Edition )     
+         DPKB-EN021 Duelist Pack: Kaiba ( Unlimited Edition ) Silver Dragon Value Box     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ 裏側守備表示で相手からの攻撃を受けた時、その攻撃を相手モンスター１体にかわりに受けさせる事ができる。このカードがフィールド上に存在する 時 、「ランプの魔精・ラ・ジーン」を特殊召喚できる。 攻  900 守  1400 
+ 裏側守備表示で相手 モンスター からの 攻撃 を受け た 時 、その攻撃 を 他 の 相手モンスター１体 にかわりに受けさせ る事ができる。 このカードがフィールド上に存在する 場合 、「ランプの魔精・ラ・ジーン」 １体 を 手札から 特殊召喚 する事が できる。 ATK/  900  DEF/ 1400 
+ 
+ 
+         L3-08 Limited Edition 3     
+         SK2-013 Structure Deck: Kaiba Volume 2     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ 【魔法使い族 ・ 効果】 
+ 【魔法使い族 ／ 効果】 
+ 
+ 
+ 自分 の メインフェイズ 時、 このカードがフィールド 上 に表側表示で存在する場合、 自分の 手札から「ランプの魔精・ラ・ジーン」１体を特殊召喚する 事ができる 。 また、フィールド上に 裏側守備表示 で 存在する このカードが 相手モンスター に 攻撃 され た 場合 、 その ダメージ計算前に 攻撃 モンスター以外 の相手モンスター１体 を 選択 して発動 す る事が できる。 攻撃モンスター は選択 し たモンスターと戦闘を行い、 ダメージ計算を行う。 
+ ①： 自分メインフェイズ に発動できる。 このカードがフィールドに表側表示で存在する場合、手札から「ランプの魔精・ラ・ジーン」１体を特殊召喚する。 ②： 裏側守備表示 の このカードが相手モンスターに攻撃された ダメージ計算前に 、攻撃モンスター以外の相手モンスター１体を 対象と して発動できる。攻撃 対象をその相手 モンスター に移 し 替えて ダメージ計算を行う。 
+ 
+ 
+         TP10-JP008 Tournament Pack 2009 Vol.2     
+         SDKS-JP017 Structure Deck: Seto Kaiba     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/b5/AncientLamp-SP2-EN-UR-LE.jpg/revision/latest/scale-to-width-down/180?cb=20090220204308', 'https://static.wikia.nocookie.net/yugioh/images/a/ae/AncientLamp-RP01-EU-ScR-UE.png/revision/latest/scale-to-width-down/180?cb=20160523205310', 'https://static.wikia.nocookie.net/yugioh/images/5/56/AncientLamp-DPKB-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20100422145031', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/62/AncientLamp-DPKB-EN-C-UE.png/revision/latest/scale-to-width-down/180?cb=20131101184811', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/83/AncientLamp-L3-JP-UR.jpg/revision/latest/scale-to-width-down/180?cb=20061009200543', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/9d/AncientLamp-SK2-JP-C.jpg/revision/latest/scale-to-width-down/180?cb=20070420041200', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/95/AncientLamp-TP10-JP-C.jpg/revision/latest/scale-to-width-down/180?cb=20100111012422', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/95/AncientLamp-SDKS-JP-C.png/revision/latest/scale-to-width-down/180?cb=20160617154508']
+Categories: Card Errata, Cards with 3 errata, Cards with card type errata, Cards with Japanese errata

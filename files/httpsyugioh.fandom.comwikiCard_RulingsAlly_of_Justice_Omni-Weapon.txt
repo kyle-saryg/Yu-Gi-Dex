@@ -1,0 +1,55 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Ally_of_Justice_Omni-Weapon
+
+
+ Ally of Justice Omni-Weapon 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Contents 
+ 
+ 1   TCG Rulings 
+ 
+ 1.1   Related Rulings 
+ 
+ 
+ 2   OCG Rulings 
+ 3   References 
+ 
+ 
+ TCG Rulings 
+ Related Rulings 
+ Blackwing - Shura the Blue Flame 
+ CLARIFICATION: 
+ The effect of “ Blackwing – Shura the Blue Flame ” activates when monsters are destroyed and sent to the Graveyard at the end of the  Damage Step .  This is the same timing as the effects of cards like “ Hydrogeddon ,” “ Blue Thunder T-45 ,” “ Goyo Guardian ,” and  “ Elemental Hero Flame Wingman ”  [ sic ] . 
+ In order for its effect to activate, “ Blackwing – Shura the Blue Flame ” must be face-up on the field when the monster it destroyed by battle is sent to the Graveyard. This means:
+ If  Shura  and the other monster destroy each other by battle (equal ATK),  Shura’s  effect does not activate. 
+ If  Shura  is destroyed by a  Flip Effect  like “ Man-Eater Bug ,”  Shura’s  effect does not activate. 
+ If  Shura  is flipped face-down after damage calculation by a card effect, such as “ Desertapir ,”  Shura’s  effect does not activate. 
+ If  Shura  is  removed from play  [ sic ]  by battling “ D.D. Warrior ,”  Shura’s  effect does not activate. 
+ If  Shura  is destroyed by an effect after the monster it destroyed by battle was sent to the Graveyard, such as “ Michizure ,”  Shura’s  effect DOES activate, and you can Special Summon a monster. 
+ NOTE:  These rules also apply to any other monster with the text  “When this card destroys an opponent’s monster by battle and sends it to the Graveyard….”  (Examples: “ Hydrogeddon ,” “ Goyo Guardian ,” or  “ Elemental Hero Flame Wingman ”  [ sic ] .) 
+ These rules do NOT apply to monsters with the text  “When this card destroys an opponent’s monster by battle….”  (but does not specify “and sends it to the Graveyard”). (Example: “ Blue Thunder T-45 ”.) Monsters with that text will activate their effects in ALL of the above scenarios. 
+ OCG Rulings 
+ The effect of " Ally of Justice Omni-Weapon " which Special Summons the drawn monster is part of the effect which lets you draw.  It does not start an additional  Chain Link . [1] [2] 
+ The effect of " Ally of Justice Omni-Weapon "  activates  when the destroyed  LIGHT  monster is sent to the Graveyard. [2] 
+ If " Ally of Justice Omni-Weapon " is not face-up on the field when the opponent's destroyed monster is sent to the Graveyard, then you cannot activate the effect of " Ally of Justice Omni-Weapon ".  Thus, if " Ally of Justice Omni-Weapon " battles with a monster with equal ATK and both are destroyed by battle, then you cannot draw a card. [3] 
+ References 
+ 
+ ↑   Konami FAQ : Effect Monster > Ally of Justice Omni-Weapon 
+ 
+ ↑  2.0   2.1   Konami FAQ : Please explain the effect of "Ally of Justice Omni-Weapon" which draws a card. 
+ 
+ ↑   Konami FAQ : When "Ally of Justice Omni-Weapon" and the other battling monster are both destroyed by battle, then can you draw? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

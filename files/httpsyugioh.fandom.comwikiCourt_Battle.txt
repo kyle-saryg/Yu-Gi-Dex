@@ -1,0 +1,89 @@
+Link: https://yugioh.fandom.com/wiki/Court_Battle
+
+
+ This card's written lore in the manga was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Court Battle 
+ 
+ Japanese:   コート・バトル 
+ Romaji:   Kōto Batoru 
+ 
+ 
+ 
+ 
+ en 
+ ja 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell 
+ 
+ Property 
+ 
+ 
+ Field 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Continuous 
+ Trigger-like 
+ 
+ 
+ When  activated , each player gains one scale. When a player  destroys  an opponent's  monster , place that monster as a  counter  on their scale. The player who gains 3 counters first can remove all of their counters, then  attach  those cards to a  face-up   Xyz Monster (s) they  control  as  Xyz Materials . 
+ 
+ Appearances
+ 
+ 
+ 
+ 
+   ZEXAL :  033 ,  034 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Manga cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Kyoji Yagumo 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Xyz Monster 
+ 
+ Counters   
+ Counter 
+ 
+ Actions  
+ Attaches as Xyz Material 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/53/CourtBattle-EN-Manga-ZX-CA.png/revision/latest/scale-to-width-down/185?cb=20160218014907', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/5a/CourtBattle-JP-Manga-ZX-NC.png/revision/latest/scale-to-width-down/122?cb=20130821233056', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Manga cards, Manga cards with no OCG/TCG counterpart

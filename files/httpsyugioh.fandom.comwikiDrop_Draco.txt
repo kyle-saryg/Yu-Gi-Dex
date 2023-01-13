@@ -1,0 +1,83 @@
+Link: https://yugioh.fandom.com/wiki/Drop_Draco
+
+
+ Drop Draco 
+ 
+ Japanese:   ドロップドラコ 
+ Romaji:   Doroppudorako 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   DARK 
+ 
+ Level 
+ 
+ 
+ 5   
+ 
+ [  Dragon  /  Effect  ] If you  control  a  Link-3  or higher  monster , you can  Special Summon  this card (from your  hand ) in  Defense Position . If a card(s) is  sent  from your or your opponent's hand,  Deck , and/or  field  to the  GY : You can inflict 300  damage  to each player for each of those sent cards. You can only use each  effect  of "Drop Draco"  once per turn .
+ ATK  /  1000     DEF  /  2200   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  042 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ドロップドラコ 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドにリンク３以上のモンスターが存在する場合、このカードは手札から守備表示で特殊召喚できる。②：自分・相手の手札・デッキ・フィールドからカードが墓地へ送られた場合に発動できる。その墓地へ送られたカードの数×３００ダメージをお互いのプレイヤーに与える。 
+ 
+ 
+ Doroppudorako 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Varis 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/54/DropDraco-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180307140223', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/ee/DropDraco-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20180307140223', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

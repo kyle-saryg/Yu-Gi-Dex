@@ -1,0 +1,271 @@
+Link: https://yugioh.fandom.com/wiki/File:D-041_Duel_Disk_Battle.jpg
+
+For other uses, see  Yu-Gi-Oh! Duel Monsters  (disambiguation) .      
+         Yugi Muto  and  Joey Wheeler  playing  Duel Monsters     
+         Yugi Muto  playing  Duel Monsters  against  Ridley Sheldon  in the  Toei anime . The animation for this series suggests the game is still called  Magic & Wizards , indicated by the  MW  on the card backings. However, in dialogue, the characters refer to the game as  Duel Monsters .     
+ Duel Monsters  (デュエル モンスターズ,  De~yueru Monsutāzu ), originally known as  Magic & Wizards  (マジック ＆ ウィザーズ or  Ｍ＆Ｗ ,  Majikku ando Wizāzu ), is the card game played in the various  Yu-Gi-Oh!  manga and anime series. It was created by  Maximillion Pegasus , who based the card designs on ancient Egyptian carvings and hieroglyphs.
+ The name  Magic & Wizards  is used in the Japanese  Yu-Gi-Oh!  manga  and early portions of the English  Yu-Gi-Oh!  manga, while it was printed in  Shonen Jump . The  Toei anime  and the other anime series, and reprints and new portions of the English manga, use  Duel Monsters . Other dubs and localizations, such as the Swedish  Yu-Gi-Oh!  manga and anime, kept  Magic & Wizards  despite the change.
+ 
+ Contents 
+ 
+ 1   Rules 
+ 
+ 1.1   Basic 
+ 1.2   Standard 
+ 1.3   Expert 
+ 1.4   Super Expert 
+ 1.5   Master Rules 
+ 1.6   Variations 
+ 
+ 
+ 2   Real World 
+ 3   References 
+ 
+ 
+ Rules 
+ Basic 
+ The  Basic  rules were used during  Death-T  and earlier.
+ 
+ There are two players in each Duel. [1] 
+ Each player makes a Deck using 40 cards. [1]  The Decks are shuffled before a Duel. [2] 
+ There are two kinds of cards;  Monster Cards  and  Spell Cards . [3] 
+ Each player starts with 2000  Life Points . If a player runs out of Life Points they lose. [1] 
+ At the beginning of a Duel, each player draws five cards, which become their  hand . [4] 
+ The players take turns. Each turn the turn player draws one card from their Deck. [1] 
+ If a player cannot draw because there are no more cards in their Deck, they lose. 
+ The turn player can  Summon  cards from their hand in  Attack  or  Defense Mode . [1]  Attack Mode is vertical. Defense Mode is horizontal. [3] 
+ The turn player can  attack  with Attack Mode monsters. [3] 
+ If an Attack Mode monster battles another Attack Mode monster, the monster with the lower  ATK  is destroyed and its controller loses Life Points equal to the difference. [3] 
+ When Attack Mode monsters with equal ATK battle, both are destroyed. 
+ If an Attack Mode monster attacks a Defense Mode monster and its ATK is higher than the defending monster's  DEF , the defending monster is destroyed and no Life Points are lost. [3] 
+ If an Attack Mode monster attacks a Defense Mode monster and its ATK is lower than the defending monster's DEF, neither monster is destroyed and the controller of the attacking monster loses Life Points equal to the difference in the ATK and DEF. [3] 
+ If a player does not have a monster to defend from their opponent's monsters attack, the monster's  ATK  is deducted from the defenseless player's Life Points. [1] 
+ Destroyed cards go to the  Graveyard . [3] 
+ The turn player can activate Spell Cards from their hand. [4] 
+ Spell Cards  cannot battle, but can be used to affect other cards or the players. [3] 
+ Spell Cards can be played face-down on the  field  until they are ready to be used. [3] 
+ Spell Cards are sent to the Graveyard after they have been used. 
+ Some monsters have effects which alter gameplay. 
+ Standard 
+ The  Standard  rules contained the basic rules, with some additional ones. These were used during the  Japanese National Duel Monsters Championship  and the  Duelist Kingdom  tournament.
+ 
+ More types of cards were added, including  Equip , [5]   Trap [6] ,  Illusion [7]  and  Virus . [8]  Several hybrids, such as  Trap Spell , also exist.
+ Trap Cards can be activated during either players' turn in response to certain actions. Only one Trap Card can be used per turn. [9] 
+ Virus Cards are used to destroy cards in the opponent's Deck using a virus. [10] 
+ Monsters were divided into Monster and  Magic-User  Cards. [11]  This distinction is rarely mentioned. 
+         Chart showing each element's strength. Magic-Users are on top. Other monsters are below.     Monsters and Magic-Users have  Elements , each with strengths and weaknesses. [11] 
+ The Elements of Magic-Users are  Black Magic ,  White Magic ,  Demon Magic  and  Illusion Magic . Black Magic is strong against White Magic, White Magic is strong against Demon Magic, Demon Magic is strong against Illusion Magic, Illusion Magic is strong against Black Magic. [7] 
+ The monsters' Elements include  Earth ,  Lightning ,  Water ,  Fire  and  Wood . [12]  Lightning is strong against Water. [11] 
+ Some video games expand on this to show all the Elements strengths and weaknesses and use another Element,  Wind . Earth is strong against Lightning, Lightning is strong against Water, Water is strong against Fire, Fire is strong against Wood, Wood is strong against Wind and Wind is strong against Earth. 
+ What happens when monster of opposing Elements battle is inconsistent. Sometimes the monster of the weaker Element loses half its ATK. [11]  More often, nothing happens. 
+ Land based monsters (warriors, beasts, beast-warriors, insects, etc.) are also weak against flying Monsters (winged-beasts, dragons, etc.) and sea-based monsters (fish, sea serpents, aqua, etc.), even if they are boosted by a Field Power Bonus they can still lose if they are in the air or water. 
+ On the  Duelist Kingdom island , monsters received  Field Power Bonuses  depending on the terrain they were played in. [13] 
+ Forest  strengthened the Wood Element and the  Insect  and  Beast  Types. [12] 
+ Grassland  strengthened the Fire Element and the  Warrior  and  Beast-Warrior  Types. [12] 
+ Mountains  strengthened the Lightning Element and the  Winged Beast ,  Dragon  and Birdfolk Types. [12] 
+ Wasteland  strengthened the Earth Element and the  Dinosaur  and  Zombie  Types. [12] 
+ Ocean  strengthened the Water Element and the  Fish  and  Sea Serpent  Types. [12] 
+ Graveyard  strengthened the Zombie Type. [14] 
+ Monsters can be played in face-down Attack Mode. [11]  However, this is rarely done. 
+ Monsters can be  fused  together using the card " Polymerization ". [15]  "Polymerization" and the fused monsters are still in play after a Fusion. Unlike the  OCG  and  TCG , monsters are not taken from the  Extra Deck . [16] 
+ Ritual Spell Cards  can be used to  Ritual Summon  a monster by sacrificing monsters that meet a certain criteria. [17] 
+ Expert 
+           Dark Yugi  and  Kaiba  using the Expert rules.     
+ The  Expert  rules were used with the first version  Duel Disks . This alters many of the previous rules and adds more.
+ 
+ Each player can only hold five cards at a time. [16] 
+ If a player has five cards at the start of their turn, they cannot draw a card. [16] 
+ If a player has less than five cards at the start of their turn, they draw until they have five. 
+ The Duel Disk contains five stages; the main card stage and four sub card stages. The main card is played in the main stage. All the player's other cards in their hand are played in the sub stages. [10] 
+ Monsters in the main monster can be played in Attack or Defense Mode. Monsters in the sub stages are all in Attack Mode. [10] 
+ The main card gets special abilities and powers from the sub cards. [10] 
+ Sub cards are face-down until used or attacked. [10] 
+ Sub cards can be flipped face-down and shuffled. [10] 
+ A player's main monster can attack their opponent's main monster or any of the opponent's face-down cards. Normal rules of battle are applied if they attack a Monster Card. Spell, Trap or Virus Cards are automatically destroyed if they are attacked. [10] 
+ Super Expert 
+ The  Super Expert  rules were introduced in the  Battle City  tournament, as well as the course of  Yu-Gi-Oh! GX . They are based on the standard rules, contain additional rules and alter previous ones. The Expert rules do not apply in Super Expert.
+ 
+ Each player starts with 4000 Life Points. [18] 
+ A player's hand cannot contain more than seven cards, in the manga [18]  or 6 cards, in the anime, like in the real-world game. 
+ High  Level  monsters require sacrifices to be Summoned.
+ Level  5 and 6 monsters require one sacrifice. [18] 
+ Level 7 or higher monsters require two sacrifices. [18] 
+ Master Rules 
+ Main article:  Master Rules 
+ The  Master Rules  are a modified version of the Super Expert rules with some updated terminology used starting with  Yu-Gi-Oh! 5D's , and the addition of  Tuner  and  Synchro Monsters  for  Synchro Summoning . The Master Rules remain to be used in  Yu-Gi-Oh! ZEXAL ,  Yu-Gi-Oh! ARC-V  and  Yu-Gi-Oh! VRAINS  with changes with each new iteration of Master Rules. 
+ 
+ Variations 
+ Other ways of playing  Duel Monsters  have existed throughout the series, usually using one of the previous sets of rules played under particular circumstances with additional rules added. These include:
+ 
+ Tag-Team Duel 
+ Labyrinth Duel 
+ Deck Master 
+ Turbo Duel 
+ Concentration Duel 
+ Augmented Reality Duel 
+ Statue Duel 
+ Speed Duel 
+ Action Duel 
+ Rush Duel 
+ Real World 
+ The first actual  Duel Monsters  card game to be released was  Yu-Gi-Oh! Bandai's Official Card Game , released by Bandai in September 1998. Only three Booster Packs were released before the license to produce a card game was sold to  Konami . This game was never released outside Japan.
+ The video games  Yu-Gi-Oh! Monster Capsule: Breed and Battle  and  Yu-Gi-Oh! Duel Monsters  by  Konami  included  Duel Monsters  promotional cards, which are not a part of Konami's later version of  Duel Monsters  (see below).
+ The current version of  Duel Monsters  is Konami's  Yu-Gi-Oh! Official Card Game  ( OCG ). This uses far more complex rules which were introduced in later parts of the manga and anime. The  Yu-Gi-Oh! Trading Card Game  ( TCG ) is identical in structure and rules to the OCG. The TCG was manufactured by  Upper Deck Entertainment  under Konami's direction until 2009, where the rights were taken back by Konami. Both versions mostly contain the same cards, but there have been cards exclusive to the  OCG  and  TCG , and most cards, such as  Booster Packs ,  Starter  and  Structure Decks , are first released in the  OCG .
+ 
+ References 
+ 
+ ↑  1.0   1.1   1.2   1.3   1.4   1.5   Yu-Gi-Oh!   Duel 9: " The Cards with Teeth (Part 1) " 
+ 
+ ↑   Yu-Gi-Oh!   Duel 36: " Battle Beyond Hope " 
+ 
+ ↑  3.0   3.1   3.2   3.3   3.4   3.5   3.6   3.7   3.8   Yu-Gi-Oh!   Duel 10: " The Cards with Teeth (Part 2) " 
+ 
+ ↑  4.0   4.1   Yu-Gi-Oh!   Duel 37: " To the Death!! " 
+ 
+ ↑   Yu-Gi-Oh! Duelist  Duel 11: " Things that Don't Change " 
+ 
+ ↑   Yu-Gi-Oh! Duelist  Duel 1: " Challenge!! " 
+ 
+ ↑  7.0   7.1   Yu-Gi-Oh! Duelist  Duel 3: " Countdown!! " 
+ 
+ ↑   Yu-Gi-Oh! Duelist  Duel 51: " Toons Attack! " 
+ 
+ ↑   Yu-Gi-Oh! Duelist  Duel 151: " The Trap in the Temple! " 
+ 
+ ↑  10.0   10.1   10.2   10.3   10.4   10.5   10.6   Yu-Gi-Oh! Duelist  Duel 43: " A Close Fight! " 
+ 
+ ↑  11.0   11.1   11.2   11.3   11.4   Yu-Gi-Oh! Duelist  Duel 2: " Don't Draw That Card!! " 
+ 
+ ↑  12.0   12.1   12.2   12.3   12.4   12.5   Yu-Gi-Oh! Duelist  Duel 7: " The Trap " 
+ 
+ ↑   Yu-Gi-Oh! Duelist  Duel 6: " Let the Duel Begin! " 
+ 
+ ↑   Yu-Gi-Oh! Duelist  Duel 30: " Duel Without End " 
+ 
+ ↑   Yu-Gi-Oh! Duelist  Duel 9: " Demon Lightning " 
+ 
+ ↑  16.0   16.1   16.2   Yu-Gi-Oh! Duelist  Duel 46: " No Mercy " 
+ 
+ ↑   Yu-Gi-Oh! Duelist  Duel 59: " The Legendary Swordsman " 
+ 
+ ↑  18.0   18.1   18.2   18.3   Yu-Gi-Oh! Duelist  Duel 94: " Duel of Vengeance! " 
+ 
+ 
+ v e 
+ Manga   games 
+ Shadow Game  ( List ) 
+ Bluebeard's Attack 
+ Roshambo 
+ Money and Knife 
+ Dice game 
+ Silence game 
+ One finger BATTLE! 
+ Paper Crash! 
+ Carnival Games 
+ Griddle Ice Hockey 
+ Love jigsaw puzzle 
+ Dark Puzzle 
+ Coin in sneaker 
+ Duel Monsters 
+ Landmine Search Network 
+ Weighing of the Heart 
+ Question of Truth 
+ Tragoedia's 
+ Labyrinth Treasure Hunt 
+ Trial of the Mind 
+ Hell Quiz 
+ Concentration or Death 
+ Game of Death 
+ Digital Pets  ( battle ) 
+ Maze of Fire 
+ Capsule Monster Chess 
+ Dark Yugi VS Mokuba I 
+ Dark Yugi VS Mokuba II 
+ Virtual VS  ( Yugi VS Street Fighter ) 
+ Game of Death 
+ Russian Roulette Dinner 
+ 3D Simulation Ride 
+ Death-T 
+ Chess  ( Seto VS Gozaburo ) 
+ Stardust Shootout 
+ Electric Chair Ride 
+ bllood puzzle 
+ Jonouchi VS Chopman 
+ Rhythm Rock 
+ Sock Concentration 
+ Lovely Two 
+ Achievement Test Bingo Game 
+ Find the Keyring! 
+ The Get the Million Game 
+ Darts of Fortune 
+ The Electric Helmet 
+ The Wheel of Fate 
+ Red Paint Lottery 
+ Monster Fighter 
+ Yugi VS Jonouchi 
+ Yugi VS Nagumo 
+ Dark Yugi VS Nagumo 
+ Standard playing cards 
+ Clock solitaire 
+ "Time" Cards 
+ Dogs and jackals 
+ Dragon Cards 
+ Yugi VS Imori 
+ Dark Yugi VS Imori 
+ Super yo-yo 
+ Dark Bakura VS Karita 
+ Monster World 
+ Dark Bakura VS Yugi's group 
+ Labyrinth Coin 
+ Dice in cup 
+ Four Aces 
+ Dungeon Dice Monsters 
+ Yugi VS Ryuji 
+ Devil's Board Game 
+ Super Dancer 
+ Ka battle 
+ Room game 
+ Mind's Labyrinth 
+ Shadow RPG 
+ Spherium 
+ 
+ Duels 
+ Games 
+ Ka battles 
+ 
+ v e 
+ Yu-Gi-Oh!  (Toei anime)  games 
+ Game of Darkness  ( List ) 
+ Dark Yugi VS Ushio 
+ Dark Yugi VS Jiro 
+ Magic & Wizards 
+ Dark Yugi VS Shotaro 
+ Weighing of the Heart  ( Kanekura ) 
+ Dark Yugi VS Shadi I 
+ Dark Yugi VS Shadi II 
+ Digital Pets  ( battle ) 
+ Dark Yugi and Jonouchi VS Hirutani's gang 
+ Dark Yugi VS Ms. Chono 
+ Capsule Monster Chess 
+ Miho and Dark Yugi VS Warashibe 
+ Dark Yugi VS Mokuba 
+ Dark Yugi VS Ryuichi 
+ Dark Yugi VS Kokurano 
+ Dark Yugi VS bomber 
+ Dark Yugi VS Goyu 
+ Raijinhai  ( Dark Yugi VS Aileen ) 
+ Dragon Block 
+ Yugi VS Imori 
+ Dark Yugi VS Imori 
+ Dark Yugi VS Himekoji 
+ Jonouchi VS Dragon 1 
+ Death-T 
+ Dark Bakura VS Karita 
+ Monster World 
+ Dark Bakura VS Yugi's group 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/5f/DMx001_Duel_Monsters_at_school.jpg/revision/latest/scale-to-width-down/300?cb=20090831144630', 'https://static.wikia.nocookie.net/yugioh/images/e/e5/YugivsRidley.png/revision/latest/scale-to-width-down/298?cb=20200221120804', 'https://static.wikia.nocookie.net/yugioh/images/9/9b/Attributes_Fight.png/revision/latest/scale-to-width-down/180?cb=20140415120731', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/ca/D-041_Duel_Disk_Battle.jpg/revision/latest/scale-to-width-down/250?cb=20110909194117']
+Categories: Duel Monsters, Games

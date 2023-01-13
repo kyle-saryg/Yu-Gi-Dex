@@ -1,0 +1,103 @@
+Link: https://yugioh.fandom.com/wiki/Assemble_Drone
+
+
+ Assemble Drone 
+ 
+ Japanese:   アセンブル・ドローン 
+ Romaji:   Asenburu Dorōn 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Equip 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Effect 
+ Continuous-like 
+ Continuous-like 
+ Activate  this card by  targeting  1 " Drone "  Link Monster  in your  GY ;  Special Summon  it and  equip  it with this card. When this card  leaves the field ,  destroy  that  monster . The equipped monster gains 500  ATK , also it cannot  declare  an  attack  while you  control  " Drone Pawn ".
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  054 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ アセンブル・ドローン 
+ ①：自分の墓地の「ドローン」リンクモンスター１体を対象としてこのカードを発動できる。その対象のモンスターを特殊召喚し、このカードを装備する。このカードがフィールドから離れた時にそのモンスターは破壊される。②：装備モンスターの攻撃力は５００アップし、自分フィールドに「ドローン・ポーン」が存在する限り、装備モンスターは攻撃宣言できない。 
+ 
+ 
+ Asenburu Dorōn 
+ 
+ 
+ Decks 
+ 
+ 
+ Kenneth Drayden 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Drone  
+ 
+ Supports   archetypes   
+ Drone  
+ 
+ v e 
+" Drone " 「ドローン」 a   m   +   Members 
+ Assemble Drone Battledrone General Battledrone Sergeant Battledrone Warrant Blitz Drone Camouflage Drone Capture Drone Commandrone Double Sniper Demolition Drone Doron Drone Asteroid Drone Barricade Drone Carrier Drone Cordon Drone Corporal Drone Force Fusion Drone Force Tuning Drone Launcher Unit Drone Pawn Drone Recycler Drone Token Drone Unity Duplicate Drone Fortressdrone Beehive Medicdrone Dock Scud Drone Snatch Drone 
+ Support 
+ Assemble Drone Battledrone General Battledrone Sergeant Blitz Drone Camouflage Drone Capture Drone Drone Cordon Drone Force Fusion Drone Force Tuning Drone Unity Medicdrone Dock Mirror Coat Unit 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/66/AssembleDrone-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180530221307', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/9/90/Equip.svg/revision/latest/scale-to-width-down/18?cb=20120920115844']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

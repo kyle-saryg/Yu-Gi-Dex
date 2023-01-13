@@ -1,0 +1,70 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:A_Hero_Emerges
+
+
+ This card's  OCG  and  TCG  rulings contradict each other. 
+ 
+ Differences 
+ 
+In the  TCG , your opponent still chooses a card in your hand even if you cannot Special Summon (such as due to " Vanity's Emptiness "). In the  OCG , your opponent does not choose a card in this case.     
+ 
+ A Hero Emerges 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Yu-Gi-Oh! BAM 
+ 
+ OCG Rulings 
+ The effect does not  target . [1] 
+ If you have no cards in your hand, or if you have no Monster Cards in your hand, " A Hero Emerges " cannot be activated. [1] 
+ If the opponent's randomly chosen monster is " Tsukuyomi ", a  Special Summon Monster , etc., if it was a monster that cannot be Special Summoned by the effect of "A Hero Emerges", that monster is  sent  to the  Graveyard  without being Special Summoned. [1] 
+ If you only have LIGHT monsters in your Monster Zones while the effect of "Gozen Match" is applying, providing you have a LIGHT monster in your hand that can be Special Summoned by the effect of "A Hero Emerges", you can activate "A Hero Emerges". (For example, in this case, if you only have DARK monsters in your hand, you cannot activate "A Hero Emerges".) Furthermore, while " Each player can only control 1 Attribute of monster. Send all other face-up monsters they control to the Graveyard " is applying, if the opponent chose a LIGHT monster it is Special Summoned normally, but if the opponent chose a non-LIGHT monster or a Spell/Trap Card, the chosen card is sent to the Graveyard. [2] 
+ If " Vanity's Emptiness " is activated in  Chain  to the activation of " A Hero Emerges ", since the effect of "Vanity's Emptiness" prevents monsters from being Special Summoned, the effect of "A Hero Emerges" does not apply. (Your opponent does not randomly select a card in your hand.) [3] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [4]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [5] [6] [7] [8] [9] [10] [11] [12] [13] 
+ 
+ You can  Special Summon  a high-level monster, like " Dark Magician ", with " A Hero Emerges ". But if your opponent selects a  Special Summon-only monster  like " Dark Necrofear ", or a  Spirit Monster , it is sent to the  Graveyard . 
+ When " Guardian Elma " is selected for " A Hero Emerges ", and you have " Butterfly Dagger - Elma " on your side of the field, you can  Special Summon  her, but if you don't have it, then she is sent to the  Graveyard . 
+ You can activate " A Hero Emerges " even if you have only 1 card in your  hand . 
+ 
+ 
+ 
+ References 
+ 
+ ↑  1.0   1.1   1.2   Konami OCG Card Database : A Hero Emerges 
+ 
+ ↑   Konami OCG Card Database : While the effect of "Gozen Match" is applying, can you activate "A Hero Emerges"? 
+ 
+ ↑   Konami OCG Card Database : If "Vanity's Emptiness" is activated in Chain to the activation of "A Hero Emerges", how does it resolve? 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/ca/Emblem-contradict-blue.svg/revision/latest/scale-to-width-down/40?cb=20101025104631', 'https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Contradicting Rulings, Card Rulings

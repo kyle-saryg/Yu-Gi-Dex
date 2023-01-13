@@ -1,0 +1,98 @@
+Link: https://yugioh.fandom.com/wiki/Arrow_Break
+
+
+ Arrow Break 
+ 
+ Japanese:   マーカーズ・ブレイク 
+ Romaji:   Mākāzu Bureiku 
+ Translated:  Markers' Break 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Counter 
+ 
+ When your opponent  activates  a  Trap Card  while you  control  a  Link Monster :  Negate  the activation, and if you do,  destroy  that card. If you control a  Link -3 or higher Link Monster, you can  activate  this card the  turn  it was  Set . If you control a Link-4 or higher Link Monster, you can activate this card from your  hand .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  057 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ マーカーズ・ブレイク 
+ 自分フィールドのリンクモンスターのリンクマーカーの数が、３以上の場合、このカードはセットしたターンに発動でき、４以上の場合、このカードの発動は手札からもできる。①：自分フィールドにリンクモンスターが存在し、相手の罠カードが発動した場合に発動できる。その発動を無効にし破壊する。 
+ 
+ 
+ Mākāzu Bureiku 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Link Monster 
+ 
+ Actions  
+ Allows activation of Trap Cards the turn they were Set 
+ Allows activation of Trap Cards from your hand 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the activation of your opponent's Trap Cards 
+ Destroys your opponent's Trap Cards 
+ 
+ Miscellaneous  
+ Requires control of specific Monster card type 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/24/ArrowBreak-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180620131541', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/06/Counter.svg/revision/latest/scale-to-width-down/18?cb=20120920115210']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

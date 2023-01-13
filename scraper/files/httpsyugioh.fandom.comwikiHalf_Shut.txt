@@ -1,0 +1,467 @@
+Link: https://yugioh.fandom.com/wiki/Half_Shut
+
+
+ 
+ 
+ Half Shut ハーフ・シャット 
+ 
+ English 
+Half Shut 
+ French 
+ À Moitié Fermé Check translation 
+ German 
+ Halb Geschlossen Check translation 
+ Italian 
+ Mezza Chiusura Check translation 
+ Korean 
+ 하프 셧 Check translation 
+ Portuguese 
+ Meio Fechado Check translation 
+ Spanish 
+ Medio Cerrado Check translation 
+ Japanese 
+ ハーフ・シャット Check translation 
+ Japanese ( rōmaji ) 
+Hāfu Shatto 
+ Card type 
+ Spell   
+ Property 
+ Quick-Play   
+ Passcode 
+ 73048641 
+ Card effect types 
+ 
+ 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Target  1  face-up   monster  on the  field ; it cannot be  destroyed by battle  this  turn , also its  ATK  is halved until the end of this turn. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Ciblez 1 monstre face recto sur le Terrain ; il ne peut pas être détruit au combat ce tour, et aussi, son ATK est divisée par deux jusqu'à la fin de ce tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wähle 1 offenes Monster auf dem Spielfeld; es kann in diesem Spielzug nicht durch Kampf zerstört werden, zusätzlich werden seine ATK bis zum Ende dieses Spielzugs halbiert. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Scegli come bersaglio 1 mostro scoperto sul Terreno; esso non può essere distrutto in battaglia in questo turno, inoltre il suo ATK viene dimezzato fino alla fine di questo turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Escolha 1 monstro com a face para cima no campo; ele não pode ser destruído em batalha neste turno e, além disso, seu ATK é diminuído pela metade até o final deste turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Selecciona 1 monstruo boca arriba en el Campo; este turno, éste no puede ser destruido en batalla, y además, hasta el final de este turno, su ATK se reduce a la mitad. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターはターン終了時まで、攻撃力が半分になり、戦闘では破壊されない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고 발동한다. 선택한 몬스터는 이 턴에 전투로는 파괴되지 않으며, 공격력은 이 턴의 엔드 페이즈시까지 절반이 된다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2010-05-28  
+ 5DS3-EN019   
+ Starter Deck: Duelist Toolbox 
+ Common 
+ 
+ 
+ 2013-06-28  
+ BP02-EN158   
+ Battle Pack 2: War of the Giants 
+ Common 
+ 
+ 
+ 2013-06-28  
+ BP02-EN158   
+ Battle Pack 2: War of the Giants 
+ Mosaic Rare 
+ 
+ 
+ 2019-03-28  
+ SBLS-EN043   
+ Speed Duel: Arena of Lost Souls 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2010-05-27  
+ 5DS3-FR019   
+ Starter Deck: Duelist Toolbox 
+ Deck de Démarrage: L’Outil du Duelliste  
+ Common 
+ 
+ 
+ 2013-06-27  
+ BP02-FR158   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: La Guerre des Géants  
+ Common 
+ 
+ 
+ 2013-06-27  
+ BP02-FR158   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: La Guerre des Géants  
+ Mosaic Rare 
+ 
+ 
+ 2019-03-28  
+ SBLS-FR043   
+ Speed Duel: Arena of Lost Souls 
+ Speed Duel : L'Arène des Âmes Perdues  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2010-05-27  
+ 5DS3-DE019   
+ Starter Deck: Duelist Toolbox 
+ Starter Deck: Duelist Toolbox  
+ Common 
+ 
+ 
+ 2013-06-27  
+ BP02-DE158   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: War of the Giants  
+ Common 
+ 
+ 
+ 2013-06-27  
+ BP02-DE158   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: War of the Giants  
+ Mosaic Rare 
+ 
+ 
+ 2019-03-28  
+ SBLS-DE043   
+ Speed Duel: Arena of Lost Souls 
+ Speed Duel: Arena of Lost Souls  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2010-05-27  
+ 5DS3-IT019   
+ Starter Deck: Duelist Toolbox 
+ Starter Deck: Attrezzi del Duellante  
+ Common 
+ 
+ 
+ 2013-06-27  
+ BP02-IT158   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: Guerra dei Giganti  
+ Common 
+ 
+ 
+ 2013-06-27  
+ BP02-IT158   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: Guerra dei Giganti  
+ Mosaic Rare 
+ 
+ 
+ 2019-03-28  
+ SBLS-IT043   
+ Speed Duel: Arena of Lost Souls 
+ Speed Duel: L'Arena delle Anime Perdute  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2013-06-28  
+ BP02-PT158   
+ Battle Pack 2: War of the Giants 
+ Pacote de Batalha 2: Guerra dos Gigantes  
+ Common 
+ 
+ 
+ 2013-06-28  
+ BP02-PT158   
+ Battle Pack 2: War of the Giants 
+ Pacote de Batalha 2: Guerra dos Gigantes  
+ Mosaic Rare 
+ 
+ 
+ 2019-03-28  
+ SBLS-PT043   
+ Speed Duel: Arena of Lost Souls 
+ Speed Duel: Arena das Almas Perdidas  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2010-05-27  
+ 5DS3-SP019   
+ Starter Deck: Duelist Toolbox 
+ La Baraja de Principiante: Herramientas del Duelista  
+ Common 
+ 
+ 
+ 2013-06-27  
+ BP02-SP158   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: Guerra de los Gigantes  
+ Common 
+ 
+ 
+ 2013-06-27  
+ BP02-SP158   
+ Battle Pack 2: War of the Giants 
+ Battle Pack 2: Guerra de los Gigantes  
+ Mosaic Rare 
+ 
+ 
+ 2019-03-28  
+ SBLS-SP043   
+ Speed Duel: Arena of Lost Souls 
+ Speed Duel: La Arena de las Almas Perdidas  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2010-03-20  
+ YSD5-JP021   
+ Starter Deck 2010 
+ ＳＴＡＲＴＥＲ ＤＥＣＫ ２０１０  
+ Common 
+ 
+ 
+ 2017-07-01  
+ 17TP-JP309   
+ Tournament Pack 2017 Vol.3 
+ トーナメントパック２０１７　Ｖｏｌ．３  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2010-06-08  
+ YSD5-KR021   
+ Starter Deck 2010 
+ STARTER   DECK  ２０１０  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Stat changes  
+ Your monsters lose ATK 
+ Your opponent's monsters lose ATK 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 8863 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Half Shut " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/ce/HalfShut-SBLS-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20190509231550', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/05/Quick-Play.svg/revision/latest/scale-to-width-down/28?cb=20120920115228']
+Categories: Duel Monsters cards, TCG cards, OCG cards

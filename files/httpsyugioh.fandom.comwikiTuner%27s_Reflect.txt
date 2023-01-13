@@ -1,0 +1,106 @@
+Link: https://yugioh.fandom.com/wiki/Tuner%27s_Reflect
+
+
+ Tuner's Reflect 
+ 
+ Japanese:   チューナーズ・リフレクト 
+ Romaji:   Chūnāzu Rifurekuto 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Activate  only during the  turn  2 or more  face-up   Tuner monsters  you  control  were  destroyed .  Special Summon  2 of those  monsters  from your  Graveyard  in face-up  Attack Position . Then, inflict  damage  to your opponent equal to the combined  ATK  of those monsters.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  123 ,  124 ,  125 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ チューナーズ・リフレクト 
+ 自分フィールド上に表側表示で存在する チューナー が２体以上 破壊 されたターンに発動する事ができる。このターン破壊されたチューナー２体を自分の 墓地 から選択して、自分フィールド上に 表側 攻撃表示 で 特殊召喚 する。この効果で特殊召喚したチューナーの 攻撃力 の合計分の ダメージ を相手ライフに与える。 
+ 
+ 
+ Chūnāzu Rifurekuto 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Jack Atlas 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Tuner monster 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ 
+ LP   
+ Damages your opponent 
+ 
+ Miscellaneous  
+ Female 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/6b/TunersReflect-JP-Anime-5D.png/revision/latest?cb=20100902022445', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/9/99/TunersReflect-JP-Anime-5D-NC.png/revision/latest/scale-to-width-down/185?cb=20160929180849', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

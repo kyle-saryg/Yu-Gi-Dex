@@ -1,0 +1,40 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Advanced_Dark
+
+
+ Advanced Dark 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Yu-Gi-Oh! BAM 
+ 
+ OCG Rulings 
+ The effect that treats all " Crystal Beast " monsters on the field and in both  Graveyards  as DARK monsters does not start a chain. [1] 
+ The effect that negates the effects of a monster attacked by " Rainbow Dragon " or " Rainbow Dark Dragon " doesn't start a chain. [1] 
+ The effect that reduces the  Battle Damage  to 0 starts a chain. Furthermore, sending 1 " Crystal Beast " monster from the  Deck  to the  Graveyard  is a  cost . [1] 
+ The effect of " Advanced Dark " that reduces  Battle Damage  to 0 can only be activated by the player who controls " Advanced Dark ". Furthermore, the effect that negates the effects of a monster attacked by " Rainbow Dragon " or " Rainbow Dark Dragon " is also applied when a " Rainbow Dragon " or " Rainbow Dark Dragon " that the opponent controls attacks. [2] 
+ If a " Phantom of Chaos " or " Neo-Spacian Dark Panther " that has gained the name of " Rainbow Dragon " or " Rainbow Dark Dragon " attacks, the effect of " Advanced Dark " that negates the effects of the attacked monster is also applied. [3] 
+ " Chaos Sorcerer " can be  Special Summoned  from the  hand  by  banishing  1 " Crystal Beast " monster that is being treated as a DARK monster and 1 LIGHT monster from the  Graveyard . Also, even if a " Crystal Beast " monster whose original  Attribute  is LIGHT is treated as a DARK monster by the effect of " Advanced Dark ", " Chaos Sorcerer " can be  Special Summoned  from the  hand  by  banishing  1 LIGHT monster from the  Graveyard  and the 1 " Crystal Beast " monster that is treated as a DARK monster. [4] 
+ The effect of " Crystal Beast Sapphire Pegasus " that places itself on the  Spell & Trap Card Zone  as a  face-up   Continuous Spell Card  doesn't start a chain, so it does not activate. Therefore, even if " Advanced Dark " is treating " Crystal Beast Sapphire Pegasus " as a DARK monster and " Shadow-Imprisoning Mirror " is active, the effect of " Crystal Beast Sapphire Pegasus " is not negated and it can be placed in the  Spell & Trap Card Zone . [5] 
+ References 
+ 
+ ↑  1.0   1.1   1.2   Konami OCG FAQ : Spell Card > Advanced Dark 
+ 
+ ↑   Konami OCG FAQ : If you have "Advanced Dark" in your Field Card Zone, can the opponent apply its effects as well? 
+ 
+ ↑   Konami OCG FAQ : If a "Phantom of Chaos" or "Neo-Spacian Dark Panther" that has gained the name of "Rainbow Dragon" or "Rainbow Dark Dragon" attacks, is the effect of "Advanced Dark" that negates the effects of the attacked monster applied? 
+ 
+ ↑   Konami OCG FAQ : Can "Chaos Sorcerer" be Special Summoned from the hand by banishing a LIGHT "Crystal Beast" monster that is treated as a DARK monster by the effect of "Advanced Dark"? 
+ 
+ ↑   Konami OCG FAQ : If "Advanced Dark" and "Shadow-Imprisoning Mirror" are active, can a "Crystal Beast Sapphire Pegasus" that is destroyed in the Monster Card Zone be placed on the Spell & Trap Card Zone as a face-up Continuous Spell Card? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

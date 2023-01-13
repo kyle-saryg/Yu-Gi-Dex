@@ -1,0 +1,94 @@
+Link: https://yugioh.fandom.com/wiki/Cleanliness_General_-_Big_Tidy
+
+The  English                        name given is not official.  
+ 
+ Cleanliness General - Big Tidy 
+ 
+ Japanese:   潔癖大将ビッグ・タイディ 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   WATER 
+ 
+ Level 
+ 
+ 
+ 7   
+ 
+ [  Warrior  /  Effect  ] [Requirement] : During the  turn  this card was  Normal Summoned , you can change its  battle position . ( Attack Position  becomes  face-up   Defense Position , Defense Position becomes face-up Attack Position.) [Effect] :  Send  the top card of each player's  Deck  to the  GY . If any of those cards is a Monster Card, your opponent sends all cards from their  hand  to the GY, then they  draw  cards equal to (the number of cards sent to the GY by this  effect ).
+ ATK  /  1000     DEF  /  2600   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  SEVENS :  022 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  SEVENS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 潔癖大将ビッグ・タイディ 
+ 【条件】  このカードを召喚したターンに、このカードの表示形式を変更して発動できる（攻撃表示は表側守備表示に、守備表示は表側攻撃表示にする）。 【効果】 : お互いデッキの一番上のカードを墓地へ送る。そのどちらかのカードがモンスターカードだった場合、相手は手札を全て墓地へ送る。その後、相手は［この効果で墓地へ送った枚数］だけドローする。 
+ 
+ 
+ 
+ 
+ 
+ Images 
+ CleanlinessGeneralBigTidy-JP-Anime-SV-NC.png Non-card 
+ Decks 
+ 
+ 
+ Arata Arai 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Changes battle positions for cost 
+ Sends from the top of your Deck to your Graveyard 
+ Sends from the top of your opponent's Deck to your opponent's Graveyard 
+ Sends from your opponent's hand to your opponent's Graveyard 
+ Your opponent draws cards 
+ 
+ Miscellaneous  
+ Rush Duel 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/ec/CleanlinessGeneralBigTidy-JP-Anime-SV.png/revision/latest/scale-to-width-down/200?cb=20201101194039', 'https://static.wikia.nocookie.net/yugioh/images/4/40/WATER.svg/revision/latest/scale-to-width-down/28?cb=20120918052107', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

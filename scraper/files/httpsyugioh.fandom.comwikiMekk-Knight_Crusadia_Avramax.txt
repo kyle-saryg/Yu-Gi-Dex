@@ -1,0 +1,273 @@
+Link: https://yugioh.fandom.com/wiki/Mekk-Knight_Crusadia_Avramax
+
+
+ 
+ 
+ Mekk-Knight Crusadia Avramax 双穹の騎士  アストラム 
+ 
+ English 
+Mekk-Knight Crusadia Avramax 
+ French 
+ Avramax Mekk-Chevalier Croisédia Check translation 
+ German 
+ Mekk-Ritter Crusadia Avramax Check translation 
+ Italian 
+ Meck-Cavaliere Crociatia Avramax Check translation 
+ Korean 
+ 잭나이츠 파라디온 아스트람 Check translation 
+ Portuguese 
+ Mekk-Cavaleiro Crusadia Avramax Check translation 
+ Spanish 
+ Mekk-Caballero Cruzadia Avramax Check translation 
+ Japanese (kana) 
+ ジャックナイツ・パラディオン アストラム Check translation 
+ Japanese (base) 
+ 双穹の騎士 アストラム Check translation 
+ Japanese ( rōmaji ) 
+Jakkunaitsu Paradion Asutoramu 
+ Japanese (translated) 
+Jack-Knights Palladion Astram 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Cyberse  /  Link  /  Effect 
+ Link Arrows 
+ Left   ,  Bottom-Left   ,  Bottom-Right   ,  Right   
+ ATK  /  LINK 
+ 3000  /  4 
+ Passcode 
+ 21887175 
+ Materials 
+2+ monsters Special Summoned from the Extra Deck 
+ Card effect types 
+ 
+ 
+ Continuous 
+ Quick 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+2+  monsters   Special Summoned  from the  Extra Deck While this  Link Summoned  card is on the field, your opponent cannot  target  this card with  card effects , also their monsters cannot target monsters for  attacks , except this one. Once per  battle , during  damage calculation , if this card battles a Special Summoned monster ( Quick Effect ): You can make this card gain  ATK  equal to that opponent's monster's ATK during that damage calculation only. If this Link Summoned card you  control  is  sent  to the  GY  by an opponent's card: You can  shuffle  1 card on the  field  into the  Deck . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 2+ monstres Invoqués Spécialement depuis l'Extra Deck Tant que cette carte Invoquée par Lien est sur le Terrain, votre adversaire ne peut pas cibler cette carte avec des effets de carte, et aussi, ses monstres ne peuvent pas cibler de monstres (celui-ci exclu) avec une attaque. Une fois par combat, durant le calcul des dommages, si cette carte combat un monstre Invoqué Spécialement (Effet Rapide) : durant ce calcul des dommages uniquement, vous pouvez faire gagner à cette carte une ATK égale à l'ATK du monstre de l'adversaire. Si cette carte Invoquée par Lien que vous contrôlez est envoyée à votre Cimetière par une carte de l'adversaire : vous pouvez mélanger 1 carte sur le Terrain dans le Deck. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 2+ Monster, die als Spezialbeschwörung vom Extra Deck beschworen wurden Solange diese als Linkbeschwörung beschworene Karte auf dem Spielfeld liegt, kann dein Gegner diese Karte nicht als Ziel für Karteneffekte wählen, zusätzlich können seine Monster keine Monster als Angriffsziel wählen, außer diesem. Einmal pro Kampf, während der Schadensberechnung, falls diese Karte gegen ein als Spezialbeschwörung beschworenes Monster kämpft (Schnelleffekt): Du kannst diese Karte nur während der Schadensberechnung ATK in Höhe der ATK des Monsters des Gegners erhalten lassen. Falls diese als Linkbeschwörung beschworene Karte, die du kontrollierst, durch eine Karte eines Gegners auf deinen Friedhof gelegt wird: Du kannst 1 Karte auf dem Spielfeld ins Deck mischen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 2+ mostri Evocati Specialmente dall'Extra Deck Mentre questa carta Evocata Link è sul Terreno, il tuo avversario non può scegliere questa carta come bersaglio con gli effetti delle carte, inoltre i suoi mostri non possono scegliere come bersaglio mostri per gli attacchi, eccetto questo. Una volta per battaglia, durante il calcolo dei danni, se questa carta combatte con un mostro Evocato Specialmente (Effetto Rapido): puoi far guadagnare a questa carta ATK pari all'ATK di quel mostro dell'avversario solamente durante il calcolo dei danni. Se questa carta Evocata Link che controlli viene mandata al tuo Cimitero da una carta dell'avversario: puoi mischiare nel Deck 1 carta sul Terreno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 2+ monstros Invocados por Invocação-Especial do Deck Adicional Enquanto este card Invocado por Invocação-Link estiver no campo, seu oponente não pode escolher este card como alvo de efeitos de card e, além disso, os monstros dele não podem escolher monstros como alvo de ataques, exceto este. Uma vez por batalha, durante o cálculo de dano, se este card batalhar um monstro Invocado por Invocação-Especial (Efeito Rápido): você pode fazer com que este card ganhe ATK igual ao ATK desse monstro do oponente, apenas durante o cálculo de dano. Se este card Invocado por Invocação-Link que você controla for enviado para o seu Cemitério por um card do oponente: você pode embaralhar 1 card do campo no Deck. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 2+ monstruos Invocados de Modo Especial desde el Deck Extra Mientras esta carta Invocada por Enlace está en el Campo, tu adversario no puede seleccionar esta carta con efectos de cartas, y además sus monstruos no pueden seleccionar monstruos para ataques, excepto a éste. Una vez por batalla, durante el cálculo de daño, si esta carta batalla con un monstruo Invocado de Modo Especial (Efecto Rápido): puedes hacer que esta carta gane ATK igual al ATK de ese monstruo del adversario sólo durante el cálculo de daño. Si esta carta Invocada por Enlace que controlas es mandada a tu Cementerio por una carta del adversario: puedes barajar al Deck 1 carta en el Campo. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ＥＸ デッキから特殊召喚されたモンスター２体以上 ①:リンク召喚したこのカードがモンスターゾーンに存在する限り、このカードは相手の効果の対象にならず、相手は他のモンスターを攻撃対象に選択できない。②:このカードが特殊召喚されたモンスターと戦闘を行うダメージ計算時に１度、発動できる。このカードの攻撃力はそのダメージ計算時のみ、その相手モンスターの攻撃力分アップする。③:リンク召喚したこのカードが相手によって墓地へ送られた場合に発動できる。フィールドのカード１枚を選んで持ち主のデッキに戻す。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 엑스트라 덱에서 특수 소환된 몬스터 2장 이상 ①: 링크 소환한 이 카드가 몬스터 존에 존재하는 한, 이 카드는 상대 효과의 대상이 되지 않고, 상대는 다른 몬스터를 공격 대상으로 할 수 없다. ②: 이 카드가 특수 소환된 몬스터와 전투를 실행하는 데미지 계산시에 1번, 발동할 수 있다. 이 카드의 공격력은 그 데미지 계산시에만, 상대 몬스터의 공격력만큼 올린다. ③: 링크 소환된 이 카드가 상대에 의해 묘지로 보내졌을 경우에 발동할 수 있다. 필드의 카드 1장을 고르고 원래 주인의 덱으로 되돌린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2019-05-02 DANE-EN047 Dark Neostorm Secret Rare 2020-08-27 MP20-EN071 2020 Tin of Lost Memories Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2019-05-02 DANE-FR047 Dark Neostorm Néotempête des Ténèbres Secret Rare 2020-08-27 MP20-FR071 2020 Tin of Lost Memories Boîte des Mémories Perdues 2020 Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2019-05-02 DANE-DE047 Dark Neostorm Dark Neostorm Secret Rare 2020-08-27 MP20-DE071 2020 Tin of Lost Memories 2020 Tin of Lost Memories Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2019-05-02 DANE-IT047 Dark Neostorm Neotempesta Oscura Secret Rare 2020-08-27 MP20-IT071 2020 Tin of Lost Memories Tin delle Memorie Perdute 2020 Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2019-05-02 DANE-PT047 Dark Neostorm Neotempestade Negra Secret Rare 2020-08-27 MP20-PT071 2020 Tin of Lost Memories Lata das Memórias Perdidas 2020 Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2019-05-02 DANE-SP047 Dark Neostorm Neotormenta Oscura Secret Rare 2020-08-27 MP20-SP071 2020 Tin of Lost Memories 2020 Lata de Memorias Perdidas Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2019-01-12 DANE-JP047 Dark Neostorm ダーク・ネオストーム Ultra Rare 2019-01-12 DANE-JP047 Dark Neostorm ダーク・ネオストーム Secret Rare 2019-01-12 DANE-JP047 Dark Neostorm ダーク・ネオストーム 20th Secret Rare 2019-01-12 DANE-JP047 Dark Neostorm ダーク・ネオストーム Ultimate Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2019-04-16 DANE-KR047 Dark Neostorm 다크 네오스톰 Ultra Rare 2019-04-16 DANE-KR047 Dark Neostorm 다크 네오스톰 Secret Rare 2019-04-16 DANE-KR047 Dark Neostorm 다크 네오스톰 Ultimate Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Mekk-Knight 
+ Crusadia 
+ 
+ Actions  
+ Activates from your Graveyard 
+ Returns from field to Deck 
+ 
+ Stat changes  
+ This card gains ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Cannot be targeted by card effects 
+ 
+ Summoning  categories  
+ 2+ Link Materials 
+ Requires Special Summoned Extra Deck monsters as Link Materials 
+ 
+ Attack  categories  
+ Manages attack targets 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14297 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Mekk-Knight Crusadia Avramax " pages 
+ 
+ 
+ Manga 
+ 
+ 
+ 
+   
+" Crusadia " 「パラディオン」 Members 
+ Crusadia Arboria Crusadia Draco Crusadia Equimax Crusadia Leonis Crusadia Magius Crusadia Maximus Crusadia Reclusia Crusadia Regulex Crusadia Spatha Mekk-Knight Crusadia Avramax 
+ Crusadia Krawler Crusadia Power Crusadia Revival Crusadia Testament Crusadia Vanguard 
+ Support 
+ Crusadia Arboria Crusadia Draco Crusadia Equimax Crusadia Leonis Crusadia Magius Crusadia Maximus Crusadia Reclusia Crusadia Regulex Crusadia Spatha 
+ Crusadia Power Crusadia Revival Crusadia Testament Crusadia Vanguard 
+ Related 
+ Mekk-Knight Avram World Legacy - "World Crown" 
+ World Legacy's Mind Meld 
+ 
+   
+" Mekk-Knight " 「ジャックナイツ」 Members 
+ Girsu, the Orcust Mekk-Knight Mekk-Knight Avram Mekk-Knight Blue Sky Mekk-Knight Crusadia Avramax Mekk-Knight Green Horizon Mekk-Knight Indigo Eclipse Mekk-Knight Orange Sunset Mekk-Knight Purple Nightfall Mekk-Knight Red Moon Mekk-Knight Spectrum Supreme Mekk-Knight Yellow Star Mekk-Knight of the Morning Star 
+ Support 
+ Mekk-Knight Blue Sky Mekk-Knight Green Horizon Mekk-Knight Indigo Eclipse Mekk-Knight Orange Sunset Mekk-Knight Purple Nightfall Mekk-Knight Red Moon Mekk-Knight Spectrum Supreme Mekk-Knight Yellow Star Mekk-Knight of the Morning Star 
+ World Legacy Key World Legacy Scars World Legacy Whispers World Legacy's Memory World Legacy's Secret 
+ Related 
+ Chosen by the World Chalice Crowned by the World Chalice Crusadia Maximus Knightmare Cerberus Knightmare Goblin Knightmare Gryphon Knightmare Mermaid Knightmare Phoenix Knightmare Unicorn Krawler Soma Wattkinetic Puppeteer World Legacy - "World Shield" World Legacy Token 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/f6/MekkKnightCrusadiaAvramax-DANE-EN-ScR-1E.png/revision/latest/scale-to-width-down/300?cb=20200402163115', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/2/25/LM-Left.png/revision/latest?cb=20170326055237', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

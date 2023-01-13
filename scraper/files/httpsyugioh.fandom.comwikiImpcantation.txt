@@ -1,0 +1,245 @@
+Link: https://yugioh.fandom.com/wiki/Impcantation
+
+
+ 
+ Impcantation 
+ 魔神儀 「 デビリチャル 」  ( Debiricharu ) 
+ 
+ 
+ 
+ 
+ Clockwise: " Impcantation Bookstone ", " Candoll ", " Talismandra ", and " Penciplume " summoning " Chalislime " in the artwork of " Impcantation Inception ". 
+ 
+ 
+ Translation 
+ Deviritual 
+ 
+ 
+ Other names 
+ 
+ French 
+ Lutincantation 
+ 
+ 
+ German 
+ Mantrawichtel Translation:  Mantragnome 
+ 
+ 
+ Italian 
+ Impcantesimo 
+ 
+ 
+ Korean 
+ 마신의   Masin-ui   (romanized) 
+ 
+ 
+ Portuguese 
+ Diabretiço 
+ 
+ 
+ Spanish 
+ Diablihechizo 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Cybernetic Horizon Soul Fusion Savage Strike Dark Neostorm 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ 2019 Gold Sarcophagus Tin Mega Pack Genesis Impact OTS Tournament Pack 18 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Impcantation ", known as " Deviritual " ( 魔神儀   Debiricharu ) in the  OCG , is an  archetype  of  LIGHT  and  DARK   monsters  with various  Types  that support  Ritual Summoning , which made its debut in  Cybernetic Horizon . With the exception of " Impcantation Chalislime " and " Crealtar, the Impcantation Originator ", all of its members are  Effect Monsters  with 0  ATK  and  DEF .
+ 
+ Contents 
+ 
+ 1   Members 
+ 
+ 1.1   Effect 
+ 1.2   Ritual 
+ 
+ 
+ 2   Playing style 
+ 3   Recommended cards 
+ 
+ 
+ Members 
+ Effect 
+ 
+ 
+ Impcantation
+ 
+ Adds
+ 
+ From
+ 
+ Origin
+ 
+ 
+ Bookstone 
+ 
+ Ritual Spell
+ 
+ GY
+ 
+ Spellbook  +  Stone 
+ 
+ 
+ Candoll 
+ 
+ Deck
+ 
+ Candle  +  Doll 
+ 
+ 
+ Penciplume 
+ 
+ Ritual Monster
+ 
+ GY
+ 
+ Pencil  +  Plume 
+ 
+ 
+ Talismandra 
+ 
+ Deck
+ 
+ Talisman  +  Mandragora 
+ 
+ Ritual 
+ 
+ 
+ Impcantation
+ 
+ Special Summons
+ 
+ From
+ 
+ Origin
+ 
+ 
+ Chalislime 
+ 
+ Any Impcantation by discarding a card.
+ 
+ Deck
+ 
+ Chalice  +  Slime 
+ 
+ 
+ Crealtar 
+ 
+ Impcantations whose Levels equal 10 by discarding a card.
+ 
+ GY
+ 
+ Creator  +  Altar 
+ 
+ Playing style 
+ As mentioned above, the archetype largely exists to support Ritual Summoning decks, so it's hard to say too much about the playstyle of the archetype, as it largely depends in what Deck they are played in. The basis of their effects is to obtain  Ritual Monsters  when the player has  Ritual Spells , and vice versa. They therefore work well with other generic Ritual support like " Manju of the Ten Thousand Hands " in the event the player has neither a Ritual Spell or Ritual Monster.
+ The basic effects of the 4 Effect Impcantations trigger when they are  Special Summoned  from the Deck. They then add a Ritual Monster/Spell to the hand from the Deck/GY (see above table). If one ends up in your hand, it can, by revealing a card of the type in would normally add, Special Summon itself from your hand and any other Impcantation from your Deck. These effects are exclusive hard  once-per turn  effects, so the player cannot use any effect of an Impcantation with the same name on the same turn either the reveal effect or the adding effect is used. Nonetheless, this is an incredible effect combination from a  card advantage  standpoint, being an almost unheard-of +2, all without Normal Summoning. This helps many Ritual Decks overcome the traditional Ritual weakness of poor card advantage (as unlike  Extra Deck  mechanics, Ritual Summoning does not end in a +1 from the Extra Deck, and the Ritual Spell requirement makes it worse still) by simply gaining mass plus-ing effects to compensate the loss of Ritual Summoning.
+ They also make excellent Tribute fodder to help Summon the Ritual Monsters. As their Levels range from 3 to 6 and after their Summon the player will have two of them, their combined Levels make it easy to Summon any Ritual Monster from Levels 3-11. They are not designed to be left on the on the field however, as they have dismal ATK and DEF, as noted above, and they block their controller Summoning from the Extra Deck while they are on the field, an effect that also discourages non-Ritual Decks trying to use them. However, they can be Tributed for a Tribute Summon, especially for " Zaborg the Mega Monarch ", which will clear most Extra Decks of resources while allowing the player to use cards like " Herald of the Arc Light ". The player can also give the Impcantations to the opponent with cards like " Creature Swap " to impede their strategy.
+ Finally, in  Savage Strike  a new element to the Impcantation theme was released: their own Ritual Monster and Ritual Spell card. " Impcantation Chalislime " is a Level 7 Ritual Monster that's main purpose is to once per turn reveal itself from your hand, then discard any card from your hand (itself included) to Summon an Impcantation from the Deck. This can be used to access any Impcantation without needing to use the effect of one in your hand, allowing you an extra search/recover that turn, but there is a LP cost to this if you don't Ritual Summon afterwards that turn (again discouraging non-Ritual Decks). It can also be Ritual Summoned to send an Impcantation from your hand or field to the GY to a destroy a face-up monster your opponent controls. While not especially powerful, this can be useful in an emergency, either to avoid the LP cost or to provide reinforcements at the crucial time.
+ The Ritual Spell, " Impcantation Inception " is used to Ritual Summon any monster, not just "Chalislime", by Tributing Impcantations whose Levels equal or exceed the Level of the Summoned monster from hand or field. In this way it is similar to " Advanced Ritual Art ", but using Impcantations rather than Normal Monsters from the Deck. It can also once per turn add itself to your hand from the GY by sending any Impcantation from your hand or field to the GY and then Special Summon a replacement Impcantation from your Deck. This can be combined with "Chalislime" by using "Chalislime" to discard "Inception", then sending "Chalislime" to recover "Inception", getting two Impcantation effects off. By making the second Summoned monster be "Penciplume", you can even recover "Chalislime" to repeat this +3 combo every turn.
+ 
+ Recommended cards 
+ 
+ Deck Monsters   
+ Effect Monsters 
+ Impcantation Candoll 
+ Impcantation Talismandra 
+ Impcantation Bookstone 
+ Impcantation Penciplume 
+ Black Luster Soldier - Envoy of the Beginning 
+ Chaos Dragon Levianeer 
+ Darkest Diabolos, Lord of the Lair 
+ Gale Dogra 
+ Lonefire Blossom 
+ Sangan 
+ Sphere of Chaos 
+ Spirit Sculptor 
+ Umbramirage the Elemental Lord 
+ Witch of the Black Forest 
+ Zaborg the Mega Monarch 
+ Tuner monsters 
+ Chaos-End Master 
+ Ritual Monsters 
+ Impcantation Chalislime 
+ Crealtar, the Impcantation Originator 
+ Demise, King of Armageddon 
+ Saffira, Queen of Dragons 
+ Sauravis, the Ancient and Ascended 
+ Vennu, Bright Bird of Divinity Extra Deck   
+ Fusion Monsters 
+ Elder Entity N'tss 
+ Synchro Monsters 
+ Herald of the Arc Light 
+ PSY-Framelord Omega 
+ Xyz Monsters 
+ Toadally Awesome 
+ Link Monsters 
+ Nephthys, the Sacred Flame Spells   &  Traps   
+ Spells 
+ Celestial Observatory 
+ Creature Swap 
+ Impcantation Inception 
+ Impcantation Thanatosis 
+ Dark Eruption 
+ Extra-Foolish Burial 
+ Sacred Sword of Seven Stars 
+ Light of Redemption 
+ Pot of Dichotomy 
+ Preparation of Rites 
+ Pre-Preparation of Rites 
+ End of the World 
+ Cycle of the World 
+ Hymn of Light 
+ Primal Cry 
+ Red-Eyes Transmigration 
+ Psi-Impulse 
+ Recurring Nightmare 
+ Ritual Cage 
+ Samsara 
+ Sprite's Blessing 
+ Trial and Tribulation 
+ Traps 
+ Give and Take 
+ Jar of Avarice 
+ Renewal of the World 
+ Ritual Buster 
+ Trap Trick 
+ Urgent Ritual Art 
+   
+" Impcantation " 「 魔神儀 」 Members 
+ Crealtar, the Impcantation Originator Impcantation Bookstone Impcantation Candoll Impcantation Chalislime Impcantation Penciplume Impcantation Talismandra 
+ Impcantation Inception Impcantation Thanatosis 
+ Support 
+ Crealtar, the Impcantation Originator Impcantation Bookstone Impcantation Candoll Impcantation Chalislime Impcantation Penciplume Impcantation Talismandra 
+ Impcantation Inception Impcantation Thanatosis 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/fc/Impcantation.png/revision/latest/scale-to-width-down/350?cb=20181014043418']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Ritual Monster(s)

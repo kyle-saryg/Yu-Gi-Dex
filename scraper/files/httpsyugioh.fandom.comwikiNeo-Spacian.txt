@@ -1,0 +1,980 @@
+Link: https://yugioh.fandom.com/wiki/Neo-Spacian
+
+
+ 
+ Neo-Spacian 
+ Ｎ 「 ネオスペーシアン 」  ( Neosupēshian ) 
+ 
+ 
+ 
+ 
+ Clockwise from left to right: " Flare Scarab ", " Air Hummingbird ", " Aqua Dolphin ", " Grand Mole ", " Glow Moss " and " Dark Panther " 
+ 
+ 
+ Other names 
+ 
+ French 
+ Néo-Spacien 
+ 
+ 
+ German 
+ Neo-Weltraum Translation:  Neo-Space 
+ 
+ 
+ Italian 
+ Neo-Spaziale Translation:  Neo-Spatial 
+ 
+ 
+ Korean 
+ 네오스페이시언   Neoseupeisieon   (romanized) 
+ 
+ 
+ Portuguese 
+ Neoespecial Translation:  Neospatial 
+ 
+ 
+ Spanish 
+ Neo Espacial Translation:  Neo Spatial 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Power of the Duelist Strike of Neos Gladiator's Assault Tactical Evolution Phantom Darkness Duelist Pack: Jaden Yuki 2 Duelist Pack: Jaden Yuki 3 Savage Strike Power of the Elements 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Crossroads of Chaos Champion Pack: Game Eight Hobby League 7 participation card B Legendary Collection 2: The Duel Academy Years Mega Pack Ra Yellow Mega Pack Duel Terminal 7a HERO Strike Structure Deck Duelist Saga Cybernetic Horizon Battles of Legend: Relentless Revenge Shadows in Valhalla 2018 Mega-Tins Legendary Duelists: Magical Hero Legendary Duelists: Season 3 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Strike of Neos: Vendor Edition Starter Deck 2007 Duel Terminal - Sacred Star Knights!! Structure Deck: HERO's Strike 20th Anniversary Pack 1st Wave Duelist Edition Volume 1 Duelist Pack: Legend Duelist 6 Animation Chronicle 2022 Secret Utility Box 
+ 
+ 
+ 
+ 
+ Korea-Only Sets 
+ 
+ 
+ Precious Pack Volume 1 Precious Pack Volume 2 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! GX 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support Anti-support 
+ 
+ 
+ 
+ 
+ " Neo-Spacian " ( Ｎ   Neosupēshian ) is an  archetype  of  Level  3  monsters  related to the " Elemental HERO " archetype which focuses on the concept of  Contact Fusion  with " Elemental HERO Neos " to Summon " Neos "  Fusion Monsters . In the  Yu-Gi-Oh! GX  anime, the "Neo-Spacians" along with their infant " Chrysalis " counterparts were introduced by  Jaden Yuki , who created the concept of these cards when he was a little boy. There are six "Neo-Spacian" monsters, each with a different  Attribute  and  Type . This theme relies on "Elemental HERO Neos" and was designed to give Jaden an alternate strategy to his " Elemental HERO " monsters. With the exception of " Neo-Spacian Aqua Dolphin ", each "Neo-Spacian" monster has the same Type as its "Chrysalis" counterpart.
+ While the Japanese name of " NEX " is  ＮＥＸ  and would appear to be part of the archetype, it is not considered a "Neo-Spacian" card due to different superscripting. [1] 
+ 
+ Contents 
+ 
+ 1   Members 
+ 2   Strategy 
+ 
+ 2.1   Traditional Neo-Spacian 
+ 2.2   Neo-Spacian Draw Engine 
+ 2.3   Exodia OTK 
+ 
+ 
+ 3   Weaknesses 
+ 4   References 
+ 
+ 
+ Members 
+ 
+ 
+ Neo-Spacian
+ 
+ Elemental HERO
+ 
+ Chrysalis
+ 
+ 
+ Original
+ 
+ Evolved
+ 
+ Original
+ 
+ Evolved
+ 
+ 
+ Air Hummingbird 
+ 
+ N/A
+ 
+ Air Neos 
+ 
+ N/A
+ 
+ Chicky 
+ 
+ 
+ Aqua Dolphin 
+ 
+ Marine Dolphin 
+ 
+ Aqua Neos 
+ 
+ Marine Neos 
+ 
+ Dolphin 
+ 
+ 
+ Dark Panther 
+ 
+ N/A
+ 
+ Dark Neos 
+ 
+ N/A
+ 
+ Pantail 
+ 
+ 
+ Flare Scarab 
+ 
+ N/A
+ 
+ Flare Neos 
+ 
+ N/A
+ 
+ Larva 
+ 
+ 
+ Glow Moss 
+ 
+ Twinkle Moss 
+ 
+ Glow Neos 
+ 
+ N/A
+ 
+ Pinny 
+ 
+ 
+ Grand Mole 
+ 
+ N/A
+ 
+ Grand Neos 
+ 
+ N/A
+ 
+ Mole 
+ 
+ Strategy 
+ Traditional Neo-Spacian 
+       Each of the "Neo-Spacians" fused with " Neos "     
+ Unlike most Fusion Monsters, which must be  Fusion Summoned , most "Neos" Fusion Monsters are instead Summoned via  Contact Fusion , which only requires the  Fusion Materials  to be on the  field . However, the "Neos" Fusion Monsters (specifically the ones that fuse " Neos " with the "Neo-Spacians") also have an effect that returns themselves from the field to the  Extra Deck  during the  End Phase . To avoid this, the  Field Spell Card  " Neo Space " allows the Fusion Monsters to stay on the field as long as "Neo Space" does, and the  Equip Spell  " Instant Neo Space " allows the  equipped  Fusion Monster to stay on the field (as well as allowing the Special Summon of "Elemental HERO Neos" when the equipped monster leaves the field). There are the 6 primary "Neos" Fusion Monsters, 4 Summoned via Triple Contact Fusion (" Chaos ", " Magma ", " Storm ", and " Nebula ") and one summoned via Quadruple Contact Fusion (" Cosmo ") for a total of 11.
+ A good card to include is " Elemental HERO Prisma ". It can send "Neos" to your  Graveyard  and have its own name treated as "Elemental HERO Neos". You can then use it for the Summon of a "Neos", or use cards like " Wrath of Neos " on it. You can also use cards like " Birthright " and " O - Oversoul " to Special Summon "Elemental HERO Neos" from your Graveyard. Note that "Neo-Spacians" have low  ATK , so a Contact Fusion is optimal over just leaving on the field.
+ " Miracle Contact " is one of the decks' best card, as it can access your hand, your side of the field, or your Graveyard for the monsters you need to  Special Summon  your "Neos" Fusion Monsters (however, any monster Summoned by "Miracle Contact" does not count as properly Fusion Summoned, so they cannot be Special Summoned again through other cards or effects such as " Monster Reborn ").
+ " Contact Out " is especially useful in avoiding card effects that force your monsters to leave the field (such as those of your own "Neos" monsters), and can allow for multiple attacks after your original Fusion Monster has attacked.
+ " Elemental HERO Neos Alius " is a  Gemini monster  whose effect allows him to be treated as if his name was "Elemental HERO Neos." This is very useful in a "Neo-Spacian" Deck, as it gives you the option of having more than three "Neos" to use in Contact Fusion. It is also a  Level  4 monster with 1900  ATK . Given that "Neos Alius" is a Gemini monster, he can be supported by cards like " Supervise " and " Gemini Spark ". One popular strategy is to stick exclusively to arguably the most useful "Neo-Spacians": "Dark Panther", "Grand Mole", "Air Hummingbird" and "Flare Scarab".
+ " Neos Fusion " allows you to quickly Special Summon a "Neos" Fusion Monster by sending materials from your deck to the graveyard. This is essential in this deck as it allows you to set up your field quicker and by using less resources (it can also be easily searched by " Keeper of Dragon Magic "). It also allows you to protect a "Neos" fusion by banishing itself from the graveyard to prevent battle or effect destruction or the last effect of every primary fusion that returns itself to the Extra Deck. Bare in mind, however, that the usage of this card has a significant drawback in not allowing you to Special Summon for the rest of the turn.
+ " Neo Space Connector " is a monster that allows you to Special Summon a "Neo-Spacian" or "Neos" straight from the deck. You can then tribute her to Special Summon either "Neos" or a "Neo-Spacian" from your graveyard allowing for quick and easy Contact Fusions.
+ As for the "Neo-Spacians" themselves one of their best support cards is " Convert Contact " which allows you to send two "Neo-Spacians" (one from your hand, one from your deck) to the graveyard then draw 2 cards. This is excellent for loading up your graveyard for the effect of "Contact Gate" or for a "Triple Contact Fusion" so it's best to send them in pairs. Their other excellent support card is " NEXT " which can be activated from the hand and allows the user to Special Summon "Elemental HERO Neos" and/or "Neo-Spacian" monsters with different names. Incredibly useful for recovery tactics and for preventing your opponent from easily wiping you out as tends to be the case with this deck.
+ The Monster Card, " G.B. Hunter ", can also prevent the final effect of the " Neos " Fusion Monsters from applying, but will also stop further Contact Fusions
+ 
+ 
+ 
+ Recommended Cards Monsters   
+ Normal Monsters 
+ Elemental HERO Neos 
+ Effect Monsters 
+ Neo-Spacian Grand Mole 
+ Neo-Spacian Dark Panther 
+ Neo-Spacian Flare Scarab 
+ Neo-Spacian Glow Moss 
+ Neo Space Pathfinder 
+ Neo-Spacian Air Hummingbird 
+ Neo-Spacian Aqua Dolphin 
+ Cross Porter 
+ Elemental HERO Neos Alius 
+ Elemental HERO Prisma 
+ Elemental HERO Necroshade 
+ Elemental HERO Shadow Mist 
+ Elemental HERO Blazeman 
+ Honest 
+ Black Luster Soldier - Envoy of the Beginning 
+ Elemental HERO Honest Neos 
+ Neo Space Connector 
+ Keeper of Dragon Magic Extra Deck   
+ Fusion Monsters 
+ Elemental HERO Cosmo Neos 
+ Elemental HERO Nebula Neos 
+ Elemental HERO Grand Neos 
+ Elemental HERO Flare Neos 
+ Elemental HERO Magma Neos 
+ Elemental HERO Chaos Neos 
+ Elemental HERO Divine Neos 
+ Elemental HERO Storm Neos 
+ Elemental HERO Glow Neos 
+ Elemental HERO Dark Neos 
+ Elemental HERO Aqua Neos 
+ Elemental HERO Air Neos 
+ Elemental HERO Marine Neos 
+ Elemental HERO Darkbright 
+ Elemental HERO Brave Neos Spells   &  Traps   
+ Spells 
+ Convert Contact 
+ E - Emergency Call 
+ Instant Neo Space 
+ Miracle Contact 
+ Neo Space 
+ Neos Force 
+ O - Oversoul 
+ Foolish Burial  (Necroshade) 
+ The Warrior Returning Alive 
+ Wrath of Neos 
+ Reinforcement of the Army 
+ Miracle Fusion 
+ Common Soul 
+ Space Gift 
+ Soul Charge 
+ Fake Hero 
+ Neos Fusion 
+ Contact Gate 
+ Super Polymerization 
+ Traps 
+ Limit Reverse 
+ Hero Blast 
+ Call of the Haunted 
+ Jar of Avarice 
+ NEXT 
+ Neo-Spacian Draw Engine 
+ While the original purpose of the "Neo-Spacians" is to  Contact Fusion  with "Neos", with cards like " Convert Contact ", " Cross Porter " and " Space Gift ", they've become an interesting  Draw Engine ,  Deck Thinner  and Graveyard Filler disregarding "Neos". 
+ The " Chrysalis "  archetype  could help in this, but they are very likely to be  dead draws , so it's usually better just to avoid them. 
+ " Convert Contact " is the key card, thinning your Deck by 3 cards and sending two monsters to the Graveyard (one of your choice) without making you lose hand advantage. The other key card, " Cross Porter " can be used to keep hand advantage, as it can be easily sent to the Graveyard with cards like " Armageddon Knight ", " Foolish Burial " or " Dark World Dealings ". If revived (even with cards like  Junk Synchron ), it can provide an extra Neo-Spacian.
+ Once in the Graveyard, these monsters can then be used for different purposes, like the Special Summon of " Dark Simorgh "/" Chaos Sorcerer " or using cards like " The Beginning of the End ". Since both " Cross Porter " and " Armageddon Knight " are low-level  DARK   Warrior  monsters, and there is  one DARK Neo Spacian  and  one Warrior Neo Spacian , cards that support DARK monsters (like " Dark Eruption "/" Allure of Darkness ") and Warrior monsters (like " Reinforcement of the Army ") work quite well.
+ The first known competitive Deck to use this Engine was  Junk and Debris Deck .
+ 
+ 
+ Neo-Spacian Draw Engine Monsters   
+ Monsters 
+ Neo-Spacian Grand Mole 
+ Neo-Spacian Dark Panther 
+ Neo-Spacian Aqua Dolphin 
+ Neo-Spacian Glow Moss 
+ Neo-Spacian Flare Scarab 
+ Neo-Spacian Air Hummingbird 
+ Armageddon Knight 
+ Cross Porter 
+ Chaos Sorcerer 
+ Dark Armed Dragon 
+ Dark Simorgh Extra Deck   
+ Synchro Monsters 
+ See:  Junk and Debris Deck Spells   &  Traps   
+ Spells 
+ Dark World Dealings 
+ Convert Contact 
+ Creeping Darkness 
+ Dark Eruption 
+ Allure of Darkness 
+ Reinforcement of the Army 
+ Space Gift 
+ One Day of Peace 
+ Exodia OTK 
+ See:  Neo-Spacian Exodia OTK 
+ Weaknesses 
+ The main weakness of the "Neo-Spacians" is that their  Fusion Monsters   return  to the  Extra Deck  during the  End Phase  of the  turn . Relying on  Field  and  Equip Spell Cards  to keep  monsters  on the  field  can be easily thwarted with cards such as " Dust Tornado " and " Mystical Space Typhoon ". This is somewhat mitigated with the "Neos" Fusion Monsters that require three materials as they have powerful effects that activate when they return to the Extra Deck. " Contact Gate " also helps by Special Summoning a "Neo-Spacian" when the monster returns but this only goes part of the way to solve the problem. The main way around this flaw is by using " Contact Out " to Special Summon the specific Fusion Materials listed on the card so that you can hit your opponent for more damage or Contact Fuse something different. Alternatively, you can banish " Neos Fusion " from your GY to prevent the monster from going back into the Extra Deck. This effect can also be used to protect the monster from battle and destruction effects, similar to " Return of the Dragon Lords ".
+ "Neo-Spacians" are fairly weak on their own, with no specific support cards. Since "Elemental HERO Neos" is a Level 7 Normal Monster, specific cards to Summon it are needed such as " O - Oversoul ", " Neo Space Connector " or " NEXT ".
+ 
+ References 
+ 
+ ↑   Konami FAQ : Can the effect of "Convert Contact" send "NEX" to the Graveyard? 
+ 
+ 
+   
+" Neo-Spacian " 「 Ｎ 」 Members 
+ Neo-Spacian Air Hummingbird Neo-Spacian Aqua Dolphin Neo-Spacian Dark Panther Neo-Spacian Flare Scarab Neo-Spacian Glow Moss Neo-Spacian Grand Mole Neo-Spacian Marine Dolphin Neo-Spacian Twinkle Moss 
+ Support 
+ Cross Keeper Cross Porter Elemental HERO Brave Neos Elemental HERO Cosmo Neos Elemental HERO Divine Neos Neo Space Connector 
+ Cocoon Party Cocoon Rebirth Cocoon Veil Common Soul Contact Gate Convert Contact EN - Engage Neo Space EN Shuffle EN Wave Generation Next Get Your Game On! Instant Contact NEX NEXT Over Fusion Space Gift 
+ Anti-support 
+ Cocoon Rebirth 
+ Related 
+ Chrysalis Chicky Chrysalis Dolphin Chrysalis Larva Chrysalis Mole Chrysalis Pantail Chrysalis Pinny Elemental HERO Air Neos Elemental HERO Aqua Neos Elemental HERO Chaos Neos Elemental HERO Dark Neos Elemental HERO Flare Neos Elemental HERO Glow Neos Elemental HERO Grand Neos Elemental HERO Magma Neos Elemental HERO Marine Neos Elemental HERO Nebula Neos Elemental HERO Neos Elemental HERO Neos Alius Elemental HERO Storm Neos 
+ Contact Out Instant Neo Space Neo Space 
+ 
+ v e 
+" Neo-Spacian " 「 Ｎ 」 a   Members 
+ Neo-Spacian Air Hummingbird Neo-Spacian Aqua Dolphin Neo-Spacian Aqua Dolphin Neo-Spacian Dark Panther Neo-Spacian Flare Scarab Neo-Spacian Glow Moss Neo-Spacian Grand Mole Neo-Spacian Grand Mole Neo-Spacian Marine Dolphin Neo-Spacian Twinkle Moss 
+ Support 
+ Cocoon Party Cocoon Veil Common Soul Contact Soul Convert Contact Cross Change Cross Porter EN Shuffle Elemental Hero Divine Neos NEX Neo Signal Neos Energy Neospace Wave Space Gift 
+ Anti-support 
+ Neos Energy 
+ Related 
+ Chrysalis Chicky Chrysalis Dolphin Chrysalis Larva Chrysalis Mole Chrysalis Pantail Chrysalis Pinny Contact Contact Out Elemental Hero Air Neos Elemental Hero Aqua Neos Elemental Hero Chaos Neos Elemental Hero Dark Neos Elemental Hero Flare Neos Elemental Hero Glow Neos Elemental Hero Grand Neos Elemental Hero Magma Neos Elemental Hero Marine Neos Elemental Hero Neos Elemental Hero Neos Elemental Hero Storm Neos 
+ 
+ 
+ 
+ 
+ 
+ Six Attributes 
+ 
+ This box:  view edit 
+ DARK    
+ EARTH   
+ FIRE    
+ LIGHT   
+ WATER   
+ WIND    
+ 
+ 
+ /Assault Modes 
+ Red Dragon Archfiend  /  Colossal Fighter 
+ Hyper Psychic Blaster  /  T.G. Halberd Cannon 
+ Doomkaiser Dragon 
+ Arcanite Magician 
+ n/a 
+ Stardust Dragon 
+ 
+ 
+ @Ignisters    Base forms   Evolved forms 
+ Doyon     Dark Templar 
+ Doshin     Earth Golem 
+ Achichi     Fire Phoenix 
+ Pikari     Light Dragon 
+ Hiyari     Water Leviathan 
+ Bururu     Wind Pegasus 
+ 
+ 
+ Alchemy Beasts    Summoners     (Normal Spell Cards) 
+ Moonface the Silver     Silver Key 
+ Leon the Lead     Lead Compass 
+ Salamandra the Steel     Steel Lamp 
+ Ouroboros the Bronze     Bronze Scale 
+ Ekenas the Mercury     Mercury Hourglass 
+ Aretos the Tin     Tin Spell Circle 
+ 
+ 
+ Aliens 
+ Overlord  /  Mother  /  Psychic 
+ Shocktrooper  /  Infiltrator  /  Warrior 
+ Mars  /  Telepath 
+ Ammonite  /  Dog  /  Grey  /  Kid  /  Shocktrooper M-Frame 
+ Hunter  /  Hypno 
+ Skull 
+ 
+ 
+ Altergeists 
+ Primebanshee  /  Multifaker  /  Kidolga  /  Fifinellag  /  Dragvirion  /  Memorygant  /  Pookuery 
+ Kunquery 
+ Hexstia 
+ Marionetter 
+ Meluseek  /  Fijialert 
+ Silquitous  /  Pixiel 
+ 
+ 
+ Aromages 
+ Marjoram 
+ Cananga 
+ Bergamot 
+ Jasmine 
+ Rosemary 
+ Laurel 
+ 
+ 
+ Attribute Boosters   (500 ATK▲/400 DEF▼)    Link Monsters    (500 ATK▲/500 DEF▲)    Field Spells    (500 ATK▲/400 DEF▼)    Equip Spells    (400 ATK▲/200 DEF▼) 
+ Witch's Apprentice     Wee Witch's Apprentice     Mystic Plasma Zone     Sword of Dark Destruction 
+ Milus Radiant     Missus Radiant     Gaia Power     Invigoration 
+ Little Chimera     Duelittle Chimera     Molten Destruction     Burning Spear 
+ Hoshiningen     Hip Hoshiningen     Luminous Spark     Elf's Light 
+ Star Boy     Mistar Boy     Umiiruka     Steel Shell 
+ Bladefly     Greatfly     Rising Air Current     Gust Fan 
+ 
+ 
+ Attribute Knights 
+ Armageddon 
+ Dust 
+ Brushfire 
+ Dawn 
+ Shore 
+ Altitude 
+ 
+ 
+ Attribute Reptiles 
+ Umbral Soul 
+ Raging Earth 
+ Firestorm Prominence 
+ Radiant Spirit 
+ Silent Abyss 
+ Destruction Cyclone 
+ 
+ 
+ Attribute Sorcerers    (4/1500/0/Spellcasters) 
+ Dark 
+ n/a 
+ Fire 
+ Light 
+ Aqua 
+ n/a 
+ 
+ 
+ Attribute Spirits 
+ Luna the Dark Spirit 
+ The Rock Spirit 
+ Spirit of Flames 
+ Diana the Light Spirit 
+ Aqua Spirit 
+ Garuda the Wind Spirit 
+ 
+ 
+ Attribute Summoners 
+ Mystic Tomato 
+ Giant Rat 
+ UFO Turtle 
+ Shining Angel 
+ Mother Grizzly 
+ Flying Kamakiri #1 
+ 
+ 
+ B.E.S. 
+ Big Core 
+ Covered Core  /  Blaster Cannon Core 
+ Big Core MK-2 
+ Big Core MK-3 
+ Crystal Core 
+ Tetran 
+ 
+ 
+ Barrier Statues 
+ Abyss 
+ Drought 
+ Inferno 
+ Heavens 
+ Torrent 
+ Stormwinds 
+ 
+ 
+ Beast Gear World 
+ Catapult Devilkong 
+ Motor Wolf  /  Trike Fox  /  King Convoy Ligeon 
+ Buggy Dog 
+ n/a 
+ n/a 
+ Gyro Jackal 
+ 
+ 
+ Charmers     Familiar-Possessed     Cataclysmic Charmers     Spiritual Arts    Familiar   Possessed Familiars 
+ Dharc     Dharc     n/a     Greed     Meda Bat     n/a 
+ Aussa     Aussa     Avalanching Aussa     Kurogane     Marmot     Nefarious 
+ Hiita     Hiita     Blazing Hiita     Kurenai     Fox Fire     Inari Fire 
+ Lyna     Lyna     n/a     Hijiri     Happy Lover     n/a 
+ Eria     Eria     Raging Eria     Aoi     Gigobyte     Jigabyte 
+ Wynn     Wynn     Storming Wynn     Miyabi     Petit Dragon     Ranryu 
+ 
+ 
+ Chrysalis     Neo-Spacians    Evolved forms   Contact Fusions   Evolved forms   Advanced Contact Fusions 
+ Pantail     Dark Panther     n/a     Dark Neos     n/a     Chaos Neos 
+ Mole     Grand Mole     n/a     Grand Neos     n/a     Nebula Neos 
+ Larva     Flare Scarab     n/a     Flare Neos     n/a     Magma Neos 
+ Pinny     Glow Moss     Twinkle Moss     Glow Neos     n/a     Cosmo Neos 
+ Dolphin     Aqua Dolphin     Marine Dolphin     Aqua Neos     Marine Neos     n/a 
+ Chicky     Air Hummingbird     n/a     Air Neos     n/a     Storm Neos 
+ 
+ 
+ Code Talkers      (Link-3) 
+ Decode    ( Extended ) 
+ Transcode 
+ Powercode 
+ Encode 
+ Shootingcode 
+ Excode 
+ 
+ 
+ Color Ninjas    Dragon Ninjas 
+ Strike     Black 
+ Senior Silver     n/a 
+ n/a     Red 
+ White     White 
+ n/a     Blue 
+ Yellow     Yellow 
+ 
+ 
+ Cubic 
+ Vijam  /  Crimson Nova  ( Trinity ) 
+ Dark Garnex 
+ Blade Garoodia 
+ Duza  /  Buster Gundil  /  Indiora Doom Volt 
+ n/a 
+ Geira Guile 
+ 
+ 
+ CXyz 
+ Dark Fairy Cheer Girl  /  Mechquipped Djinn Angeneral 
+ Comics Hero Legend Arthur  /  Battleship Cherry Blossom  /  Zubaba Saikyo General 
+ Coach Lord Ultimatrainer 
+ Simon the Great Moral Leader  /  Barian Hope 
+ N.As.Ch. Knight 
+ Skypalace Babylon 
+ 
+ 
+ Dice Roll  Archfiends 
+ Terrorking  /  Masterking 
+ Vilepawn 
+ Infernalqueen 
+ Desrook 
+ Darkbishop 
+ Shadowknight 
+ 
+ 
+ Double Tributers     Effigies 
+ Double Coston     Dark 
+ The Trojan Horse     Earth 
+ Flame Ruler     n/a 
+ Kaiser Sea Horse     Light 
+ Unshaven Angler     n/a 
+ Whirlwind Prodigy     Wind 
+ 
+ 
+ Dragonmaids    Human forms   Dragon forms 
+ Chamber     n/a 
+ Nurse     Ernus 
+ Kitchen     Tinkhec 
+ House     Sheou 
+ Laundry     Nudyarl 
+ Parlor     Lorpar 
+ 
+ 
+ Dustons     (1/0/1000/Fiends) 
+ Star 
+ Yellow 
+ Red 
+ House  /  White 
+ Blue 
+ Green 
+ 
+ 
+ Elemental HERO    Fusion Monsters    (1 "HERO" + 1 matching Attribute) 
+ Escuridao 
+ Gaia 
+ Nova Master 
+ The Shining 
+ Absolute Zero 
+ Great Tornado 
+ 
+ 
+ Elemental Lords     Elementsabers 
+ Umbramirage     Molehu 
+ Grandsoil     Aina 
+ Pyrorex     Malo 
+ Phosphorage     Lapauila  ( Mana ) 
+ Moulinglacia     Nalu 
+ Windrose     Makani 
+ 
+ 
+ Empowered Warriors     Summoners 
+ Dragonox     n/a 
+ Terratiger     White Tiger 
+ Arnis     Red Sparrow 
+ Dragodies     Golden Dragon 
+ Hydrortoise      Green Turtle 
+ Ventdra     Blue Dragon 
+ 
+ 
+ Endymion 
+ Master Magician  /  Mighty Master of Magic 
+ Magister 
+ Rogue 
+ Crusader  /  Reflection 
+ Magistus of Mastery 
+ Servant 
+ 
+ 
+ Entities 
+ Azathot 
+ Nyarla 
+ Cthugua 
+ N'tss 
+ Norden 
+ Hastorr 
+ 
+ 
+ Fortune Fairies     Fortune Ladies 
+ Ann     Dark  /  Past 
+ Chee     Earth 
+ En     Fire 
+ Hikari     Light  /  Every 
+ Swee     Water 
+ Hu     Wind 
+ 
+ 
+ Fur Hire 
+ Seal  /  Folgo 
+ Beat  /  Dyna 
+ Bravo 
+ Rafale 
+ Helmer  /  Wiz 
+ Donpa  /  Recon  /  Sagitta 
+ 
+ 
+ Generaiders 
+ Hela  /  Harr 
+ Dovelgus  /  Jormungandr 
+ Naglfar  /  Loptr 
+ Mardel  /  Utgarda 
+ Nidhogg 
+ Frodi 
+ 
+ 
+ Gizmek 
+ Orochi 
+ Uka 
+ Kaku 
+ Yata 
+ Okami 
+ Mikoto 
+ 
+ 
+ Guardians    Weapons     (Equip Spell Cards) 
+ Baou  /  Dreadscythe     Wicked-Breaking Flamberge  /  Reaper Scythe 
+ Grarl     Gravity Axe 
+ Ceal     Shooting Star Bow 
+ Tryce     Twin Swords of Flashing Light 
+ Kay'est     Rod of Silence 
+ Elma  /  Eatos     Buttefly Dagger  /  Celestial Sword 
+ 
+ 
+ Invoked     (1 " Aleister the Invoker " + 1 matching Attribute) 
+ Caliga 
+ Magellanica 
+ Purgatrio 
+ Mechaba 
+ Cocytus 
+ Raidjin 
+ 
+ 
+ Kaiju 
+ Radian 
+ Kumongous 
+ Dogoran 
+ Jizukiru  /  Mecha-Dogoran  /  Thunder King  /  Mecha-Thunder-King 
+ Gameciel 
+ Gadarla 
+ 
+ 
+ Knightmare 
+ Iblee  /  Unicorn  /  Orcust  /  Idlee 
+ Cerberus 
+ Phoenix 
+ Gryphon 
+ Mermaid 
+ Goblin 
+ 
+ 
+ Legendary Planets 
+ Sun  /  Jupiter  /  Saturn  /  Pluto 
+ Terra Firma 
+ Mars 
+ Venus  /  Uranus 
+ Mercury  /  Neptune 
+ n/a 
+ 
+ 
+ Masked HEROes 
+ Dark Law  /  Anki 
+ Dian 
+ Goka 
+ Koga 
+ Vapor  /  Acid 
+ Divine Wind  /  Blast 
+ 
+ 
+ Magician Girls 
+ ( Toon )    Dark    ( Dragon Knight ) 
+ Berry 
+ Apple 
+ Lemon 
+ Chocolate 
+ Kiwi 
+ 
+ 
+ Magikey 
+ Clavkiys  /  Batosbuster  /  Ansyalabolas 
+ Garesglasser 
+ Transfurlmine 
+ Mafteal 
+ Vepartu 
+ Andrabime 
+ 
+ 
+ Magistus 
+ Grimoire Crowley 
+ Goddess Ninaruru 
+ Flame Zoroa  /  Dragon Vafram 
+ Verre Cendrillon  /  Maiden Artemis 
+ Master Endymion 
+ Saint Aiwass 
+ 
+ 
+ Mirror Force 
+ Dark 
+ Quaking 
+ Blazing 
+ Radiant 
+ Drowning 
+ Storming 
+ 
+ 
+ Monarchs    Mega Monarchs   Related  "Monarch"  Spell/Trap Cards    Vassals 
+ Caius  /  Erebus     Caius the Mega     Tenacity  /  The First     Lucius  /  Eidos 
+ Granmarg     Granmarg the Mega     Return     Landrobe  /  Samsara Kaiser 
+ Thestalos     Thestalos the Mega     Erupt     Berlineth 
+ Zaborg  /  Ehther     Zaborg the Mega     Strike  /  The Prime     Mithra  /  Edea 
+ Mobius     Mobius the Mega     Awaken     Escher 
+ Raiza     Raiza the Mega     Stormforth     Garum 
+ 
+ 
+ Musical  Djinns 
+ Maestroke 
+ Temtempo 
+ n/a 
+ Melomelody 
+ Humhumming 
+ Muzurhythm 
+ 
+ 
+ Mythyrian Numbers 
+ Djinn Buster 
+ Lion Heart  /  Ronin Raccoon Sandayu 
+ n/a 
+ Sky Pegasus  /  Dragluon 
+ Abyss Splash  /  Crystalzero 
+ n/a 
+ 
+ 
+ Nemeses 
+ Protos 
+ Keystone 
+ Flag 
+ Eschatos 
+ Umbrella 
+ Corridor 
+ 
+ 
+ Number 10X     Number C10X 
+ n/a     Umbral Horror Masquerade 
+ Giant Hand     Giant Red Hand 
+ Battlin' Boxer Star Cestus     Battlin' Boxer Comet Cestus 
+ Star Seraph Sentry  /  Masquerade  /  Galaxy-Eyes Tachyon Dragon     Archfiend Seraph  /  Neo Galaxy-Eyes Tachyon Dragon 
+ Silent Honor ARK  /  Ragnazero     Silent Honor DARK  /  Ragnafinity 
+ n/a     n/a 
+ 
+ 
+ Odd-Eyes Dragons 
+ Odd-Eyes  /  Pendulum  /  Rebellion  ( Overlord ) /  Persona  /  Phantom  /  Mirage  /  Performapal Metal Claw  /  Raging  /  Supreme King  /  Wing  /  Venom  /  Arc Pendulum  /  Advance  /  Wizard 
+ Gravity 
+ Meteorburst 
+ Saber  /  Lancer  /  Revolution  /  Pendulumgraph 
+ Absolute 
+ Vortex 
+ 
+ 
+ Pendulum  Magicians 
+ Stargazer  /  Timegazer  /  Xiangke  /  Timebreaker  /  Acrobatic  /  Dragoncaller  /  Harmonizing  /  Double Iris  /  Black Fang  /  Purple Poison  /  Performapal Celestial 
+ Dragonpulse 
+ Nobledragon 
+ Wisdom-Eye  /  Xiangsheng  /  Dharma-Eye  /  Performapal Five-Rainbow 
+ Dragonpit 
+ Oafdragon  /  White Wing 
+ 
+ 
+ Prediction Princesses 
+ Astromorrigan 
+ Coinorma  /  Petalelf 
+ n/a 
+ Tarotrei 
+ Crystaldine 
+ Arrowsylph 
+ 
+ 
+ Resonators 
+ Dark  /  Synkron  /  Crimson 
+ Clock 
+ Flare  /  Red  /  Double  /  Net 
+ Barrier  /  Chain  /  Mirror 
+ Force 
+ Creation 
+ 
+ 
+ Road Magic 
+ N/A 
+ Diastrophism 
+ Explosion 
+ Rays Alter 
+ Backflow 
+ Tempest 
+ 
+ 
+ El Shaddoll    Fusion Monsters    (1 "Shaddoll" + 1 matching Attribute) 
+ Winda 
+ Shekhinaga 
+ Grysta 
+ Construct 
+ Anoyatyllis 
+ Wendigo 
+ 
+ 
+ Signer Dragons 
+ Red Archfiend  /  Black-Winged 
+ Life Stream 
+ Black Rose 
+ Ancient Fairy 
+ n/a 
+ Stardust 
+ 
+ 
+ Six Samurai     Legendary Six Samurai     Secret Six Samurai 
+ Irou     Shi En     Doji 
+ Yariza     Kizan     Kizaru 
+ Kamon     Mizuho     Genba 
+ Zanji     Enishi     Rihan 
+ Yaichi     Shinai     Hatsume 
+ Nisashi     Kageki     Fuma 
+ 
+ 
+ Sky Striker Ace 
+ Raye  /  Zeke 
+ Kaina 
+ Kagari 
+ Roze 
+ Shizuku 
+ Hayate 
+ 
+ 
+ Sushi Angels 
+ Spider Roll 
+ Monkey Roll 
+ n/a 
+ Garibel  /  Agaribel 
+ Tiger Roll 
+ Dragon Roll 
+ 
+ 
+ Synchro  Warriors    Tuner  Synchrons 
+ Junk  /  Satellite     Junk  /  Satellite 
+ Drill     Drill 
+ Nitro  /  Jet     Nitro  /  Jet 
+ Road     Road 
+ n/a     Steam 
+ Turbo     Turbo 
+ 
+ 
+ Tenyi  Spirits 
+ Vishuda 
+ Adhara 
+ Mapura 
+ Ashuna  /  Sahasrara 
+ Sthana 
+ Nahata 
+ 
+ 
+ The Weathers    Canvas     (Continuous Spell/Trap Cards) 
+ Aurora     Auroral 
+ Snow     Snowy 
+ Sun     Sunny 
+ Thunder  /  Rainbow     Thundery  /  Rainbowed 
+ Rain     Rainy 
+ Cloud     Cloudy 
+ 
+ 
+ Timelords 
+ Vorpgate 
+ Kamion  /  Hailon 
+ Metaion  /  Lazion  /  Michion 
+ Sephylon  /  Sandaion 
+ Zaphion  /  Gabrion 
+ Sadion  /  Raphion 
+ 
+ 
+ True Draco and True King 
+ All Calamities 
+ Lithosazim  /  Dreiath III 
+ Agnimazud  /  Ignis Heat 
+ Master Peace  ( King ) /  Metaltron XII 
+ Bahrstos  /  Dinomight Knight 
+ Majesty Maiden  /  Mariamne 
+ 
+ 
+ Witchcrafters 
+ Haine 
+ Potterie 
+ Schmitta 
+ Edel  /  Madame Verre  /  Golem Aruru 
+ Pittore 
+ Genni 
+ 
+ 
+ World Chalice 
+ World Legacy 
+ Beckoned  /  Ningirsu 
+ Chosen  /  Auram 
+ Lee 
+ Crowned  / Ib ( Priestess / Justiciar ) 
+ Guardragon  /  Imduk  /  Almarduke 
+ 
+ 
+ Yang Zing 
+ Taotie  /  Jiaotu  /  Yazi 
+ Bi'an  /  Zefraxi  /  Zefraniu 
+ Suanni 
+ Chiwen  /  Baxia  /  Chaofeng  /  Denglong 
+ Bixi 
+ Pulao 
+ 
+ 
+ Yo-kai Girls 
+ Ghost Reaper & Winter Cherries 
+ Ghost Belle & Haunted Mansion 
+ Ash Blossom & Joyous Spring 
+ Ghost Ogre & Snow Rabbit 
+ Ghost Sister & Spooky Dogwood 
+ Ghost Mourner & Moonlit Chill 
+ 
+ 
+ ZW - 
+ Chimera Clad  /  Dragonic Halberd 
+ Ultimate Shield 
+ Phoenix Bow  /  Asura Strike 
+ Unicorn Spear  /  Lightning Blade  /  Leo Arms  /  Sleipnir Mail  /  Fenrir Sword  /  Pegasus Twin Saber  /  Sylphid Wing 
+ n/a 
+ Tornado Bringer  /  Eagle Claw 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/76/NEX-TF02-VG.png/revision/latest/scale-to-width-down/350?cb=20101111151112', 'https://static.wikia.nocookie.net/yugioh/images/3/3d/ElementalNeos.jpg/revision/latest/scale-to-width-down/200?cb=20070807012950', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/24?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/24?cb=20120918053843', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Fusion Monster(s)

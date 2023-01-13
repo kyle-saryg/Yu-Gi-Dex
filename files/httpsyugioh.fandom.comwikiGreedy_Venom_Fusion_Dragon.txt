@@ -1,0 +1,336 @@
+Link: https://yugioh.fandom.com/wiki/Greedy_Venom_Fusion_Dragon
+
+
+ 
+ 
+ Greedy Venom Fusion Dragon グリーディー・ヴェノム・フュージョン・ドラゴン 
+ 
+ English 
+Greedy Venom Fusion Dragon 
+ French 
+ Dragon Fusion Venin Avide Check translation 
+ German 
+ Giergift-Fusionsdrache Check translation 
+ Italian 
+ Drago Fusione Veleno Avido Check translation 
+ Korean 
+ 그리디 베놈 퓨전 드래곤 Check translation 
+ Portuguese 
+ Dragão Fusão de Peçonha Voraz Check translation 
+ Spanish 
+ Dragón de Fusión Codicioso Venenoso Check translation 
+ Japanese 
+ グリーディー・ヴェノム・フュージョン・ドラゴン Check translation 
+ Japanese ( rōmaji ) 
+Gurīdī Venomu Fyūjon Doragon 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Dragon  /  Fusion  /  Effect 
+ Level 
+ 10   
+ ATK  /  DEF 
+ 3300  /  2500 
+ Passcode 
+ 51570882 
+ Materials 
+1 "Predaplant" monster + 1 DARK monster whose original Level is 8 or higher 
+ Card effect types 
+ 
+ 
+ Summon 
+ Ignition 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+1 " Predaplant "  monster  + 1  DARK  monster whose  original   Level  is 8 or higher Must first be  Fusion Summoned .  Once per turn : You can  target  1  face-up  monster on the  field ; until the end of this  turn , change that target's  ATK  to 0, also that target has its  effects   negated . If this card is  destroyed  and  sent  to the  Graveyard : Destroy as many monsters on the field as possible, then you can  banish  1 Level 8 or higher DARK monster from your Graveyard and  Special Summon  this card from the Graveyard. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 1 monstre "Prédaplante" + 1 monstre TÉNÈBRES dont le Niveau d'origine est min. 8 Doit d'abord être Invoquée par Fusion. Une fois par tour : vous pouvez cibler 1 monstre face recto sur le Terrain ; jusqu'à la fin de ce tour, changez l'ATK de la cible à 0, et aussi, la cible a ses effets annulés. Si cette carte est détruite et envoyée au Cimetière : détruisez autant de monstres sur le Terrain que possible, puis vous pouvez bannir 1 monstre TÉNÈBRES de min. Niveau 8 depuis votre Cimetière et Invoquer Spécialement cette carte depuis le Cimetière. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 1 „Raubpflanze“-Monster + 1 FINSTERNIS Monster, dessen Grund-Stufe 8 oder höher ist Muss erst als Fusionsbeschwörung beschworen werden. Einmal pro Spielzug: Du kannst 1 offenes Monster auf dem Spielfeld wählen; bis zum Ende dieses Spielzugs ändere die ATK des gewählten Ziels zu 0, zusätzlich bleiben die Effekte des gewählten Ziels annulliert. Falls diese Karte zerstört und auf den Friedhof gelegt wird: Zerstöre so viele Monster auf dem Spielfeld wie möglich, dann kannst du 1 FINSTERNIS Monster der Stufe 8 oder höher von deinem Friedhof verbannen und diese Karte als Spezialbeschwörung vom Friedhof beschwören. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 1 mostro "Predapianta" + 1 mostro OSCURITÀ con Livello originale 8 o superiore Deve prima essere Evocata tramite Fusione. Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; fino alla fine di questo turno, cambia l'ATK di quel bersaglio a 0, inoltre gli effetti di quel bersaglio si annullano. Se questa carta viene distrutta e mandata al Cimitero: distruggi tanti mostri sul Terreni quanti possibile, poi puoi bandire 1 mostro OSCURITÀ di Livello 8 o superiore dal tuo Cimitero e Evocare Specialmente questa carta dal Cimitero. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 1 monstro "Predaplanta" + 1 monstro de TREVAS cujo Nível original seja 8 ou mais Primeiro deve ser Invocado por Invocação-Fusão. Uma vez por turno: você pode escolher 1 monstro com a face para cima no campo; até o final deste turno, mude o ATK do alvo para 0 e, além disso, o alvo tem seus efeitos negados. Se este card for destruído e enviado para o Cemitério: destrua tantos monstros no campo quanto possível e, depois, você pode banir 1 monstro de TREVAS de Nível 8 ou mais do seu Cemitério e Invocar este card por Invocação-Especial do Cemitério. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 1 Monstruo "Predaplanta" + 1 Monstruo de OSCURIDAD cuyo Nivel original sea 8 o mayor Debe ser primero Invocada por Fusión. Una vez por turno: puedes seleccionar 1 monstruo boca arriba en el Campo; hasta el final de este turno, cambia el ATK de ese objetivo a 0, y además ese objetivo ve negados sus efectos. Si esta carta es destruida y mandada al Cementerio: destruye tantos monstruos en el Campo como sea posible, y después puedes desterrar 1 monstruo de OSCURIDAD de Nivel 8 o mayor en tu Cementerio e Invocar esta carta de Modo Especial desde el Cementerio. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「捕食植物」モンスター＋元々のレベルが８以上の闇属性モンスター このカードは融合召喚でのみ ＥＸ デッキから特殊召喚できる。①：１ターンに１度、フィールドの表側表示モンスター１体を対象として発動できる。ターン終了時まで、そのモンスターの攻撃力は０になり、効果は無効化される。②：このカードが破壊され墓地へ送られた場合に発動する。フィールドのモンスターを全て破壊する。その後、自分の墓地のレベル８以上の闇属性モンスター１体を除外してこのカードを墓地から特殊召喚できる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "프레데터 플랜츠" 몬스터 ＋ 원래의 레벨이 8 이상인 어둠 속성 몬스터 이 카드는 융합 소환으로만 엑스트라 덱에서 특수 소환할 수 있다. ①: 1턴에 1번, 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 턴 종료시까지, 그 몬스터의 공격력은 0 이 되고, 효과는 무효화된다. ②: 이 카드가 파괴되어 묘지로 보내졌을 경우에 발동한다. 필드의 몬스터를 전부 파괴한다. 그 후, 자신 묘지의 레벨 8 이상인 어둠 속성 몬스터 1장을 제외하고 이 카드를 묘지에서 특수 소환할 수 있다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2017-02-23 FUEN-EN010 Fusion Enforcers Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2017-02-23 FUEN-FR010 Fusion Enforcers Les Executeurs Fusion Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2017-02-23 FUEN-DE010 Fusion Enforcers Fusion Enforcers Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2017-02-23 FUEN-IT010 Fusion Enforcers Esecutori Fusione Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2017-02-23 FUEN-PT010 Fusion Enforcers Dominadores da Fusão Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2017-02-23 FUEN-SP010 Fusion Enforcers Ejecutores de la Fusión Secret Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2016-11-12 SPFE-JP010 Booster SP: Fusion Enforcers ブースターＳＰ －フュージョン・エンフォーサーズ－ Secret Rare 2019-11-23 LVP3-JP073 LINK VRAINS Pack 3 ＬＩＮＫ　ＶＲＡＩＮＳ　ＰＡＣＫ　３ Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2017-03-21 SPFE-KR010 Booster SP: Fusion Enforcers 부스터-SP 퓨전 엔포서즈 Secret Rare 2020-02-13 LVP3-KR073 LINK VRAINS Pack 3 링크 브레인즈 팩 ３ Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ DARK 
+ 
+ Archetypes  and  series   
+ Venom 
+ Fusion  
+ Fusion Dragon 
+ 
+ Supports   archetypes   
+ Predaplant 
+ 
+ Related to  archetypes  and  series   
+ Four Dimension Dragons 
+ Predap 
+ Starving Venom 
+ 
+ Actions  
+ Activates if destroyed by battle 
+ Activates if destroyed by card effect 
+ Activates from your Graveyard 
+ 
+ Stat changes  
+ Reduces ATK to 0 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of Effect Monsters 
+ Destroys Monster Cards 
+ 
+ Summoning  categories  
+ 2 Fusion Materials 
+ Requires archetype specific Fusion Materials 
+ Requires Level specific Fusion Materials 
+ Requires Attribute specific Fusion Materials 
+ Special Summon-only monster 
+ Special Summons itself from your Graveyard 
+ 
+ Banished  categories  
+ Banishes from your Graveyard 
+ 
+ Miscellaneous  
+ Limited activations 
+ Cover card 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12836 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Greedy Venom Fusion Dragon " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+ Four Dimension Dragons   ４ ＤＤ Members 
+ Clear Wing Synchro Dragon Dark Rebellion Xyz Dragon Odd-Eyes Pendulum Dragon Starving Venom Fusion Dragon 
+ Related 
+ All-Eyes Phantom Dragon Astrograph Sorcerer Beast-Eyes Pendulum Dragon Brave-Eyes Pendulum Dragon Chronograph Sorcerer Clear Wing Fast Dragon Crystal Clear Wing Synchro Dragon Crystal Wing Synchro Dragon Dark Anthelion Dragon Dark Requiem Xyz Dragon Greedy Venom Fusion Dragon Hi-Speedroid Clear Wing Rider Odd-Eyes Dragon Odd-Eyes Pendulumgraph Dragon Odd-Eyes Phantasma Dragon Odd-Eyes Phantom Dragon Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Odd-Eyes Revolution Dragon Odd-Eyes Venom Dragon Odd-Eyes Wing Dragon Performapal Celestial Magician Rune-Eyes Pendulum Dragon Starving Venemy Dragon Starving Venemy Lethal Dose Dragon Supreme King Dragon Clear Wing Supreme King Dragon Dark Rebellion Supreme King Dragon Odd-Eyes Supreme King Dragon Starving Venom Supreme King Z-ARC 
+ Pendulum Dimension 
+ 
+   
+" Fusion " 「フュージョン」 Members 
+ Greedy Venom Fusion Dragon Purple Poison Magician Starving Venom Fusion Dragon Starving Venom Predapower Fusion Dragon 
+ Absorb Fusion Ancient Gear Fusion Battle Fusion Brilliant Fusion Confusion Chaff Cyberload Fusion Cybernetic Fusion Support Cynet Fusion D-Fusion Dark Fusion Dowsing Fusion El Shaddoll Fusion Final Fusion Fossil Fusion Fragment Fusion Frightfur Fusion Fullmetalfoes Fusion Fusion Destiny Fusion Fright Waltz Fusion Gate Fusion Guard Fusion Recovery Fusion Reserve Fusion Tag Fusion Weapon Fusion of Fire Future Fusion Gem-Knight Fusion Ghost Fusion Instant Fusion Lunalight Fusion Magicalized Fusion Metalfoes Fusion Miracle Fusion Miracle Synchro Fusion Myutant Fusion Necro Fusion Neos Fusion Nephe Shaddoll Fusion Odd-Eyes Fusion Over Fusion Overload Fusion Paradox Fusion Parallel World Fusion Parametalfoes Fusion Particle Fusion Pendulum Fusion Predaprime Fusion Pyroxene Fusion Ready Fusion ... further results 
+ Support 
+ Alba-Lenatus the Abyss Dragon Fluffal Dolphin Gem-Knight Quartz Keeper of Dragon Magic Predaplant Chimerafflesia Predaplant Darlingtonia Cobra Predaplant Verte Anaconda Supreme King Gate Zero Synchro Fusionist Xtra HERO Wonder Driver 
+ Cyberdark Inferno Evil Mind Frightfur Factory Sabatiel - The Philosopher's Stone Wonders of Nature 
+ Related 
+ Fusion Devourer Odd-Eyes Venom Dragon Performapal Trump Witch Relinquished 
+ Dark Calling Evolution Result Burst Fusion Substitute Miracle Contact Polymerization Power Bond 
+ 
+   
+" Fusion Dragon " 「フュージョン・ドラゴン」 Members 
+ Greedy Venom Fusion Dragon Purple Poison Magician Starving Venom Fusion Dragon Starving Venom Predapower Fusion Dragon 
+ Support 
+ Astrograph Sorcerer Chronograph Sorcerer 
+ The Supreme King's Soul 
+ Related 
+ Odd-Eyes Venom Dragon Starving Venemy Dragon Supreme King Dragon Starving Venom Supreme King Z-ARC 
+ Pendulum Dimension 
+ 
+   
+" Predap " 「プレデター」 Members 
+ Goyo Predator Predaplant Ambulomelides Predaplant Banksiogre Predaplant Bufolicula Predaplant Byblisp Predaplant Chimerafflesia Predaplant Chlamydosundew Predaplant Cordyceps Predaplant Darlingtonia Cobra Predaplant Dragostapelia Predaplant Drosophyllum Hydra Predaplant Flytrap Predaplant Heliamphorhynchus Predaplant Moray Nepenthes Predaplant Ophrys Scorpio Predaplant Pterapenthes Predaplant Sarraceniant Predaplant Spider Orchid Predaplant Spinodionaea Predaplant Squid Drosera Predaplant Triantis Predaplant Triphyoverutum Predaplant Verte Anaconda Starving Venom Predapower Fusion Dragon 
+ Predaplanet Predaplanning Predaplast Predaponics Predapractice Predaprime Fusion Predapruning 
+ Support 
+ Predaplant Ambulomelides Predaplant Sarraceniant 
+ Predaplanet Predaplast Predapractice 
+ Related 
+ Greedy Venom Fusion Dragon 
+ 
+   
+" Predaplant " 「 捕食植物 」 Members 
+ Predaplant Ambulomelides Predaplant Banksiogre Predaplant Bufolicula Predaplant Byblisp Predaplant Chimerafflesia Predaplant Chlamydosundew Predaplant Cordyceps Predaplant Darlingtonia Cobra Predaplant Dragostapelia Predaplant Drosophyllum Hydra Predaplant Flytrap Predaplant Heliamphorhynchus Predaplant Moray Nepenthes Predaplant Ophrys Scorpio Predaplant Pterapenthes Predaplant Sarraceniant Predaplant Spider Orchid Predaplant Spinodionaea Predaplant Squid Drosera Predaplant Triantis Predaplant Triphyoverutum Predaplant Verte Anaconda Starving Venom Predapower Fusion Dragon 
+ Support 
+ Greedy Venom Fusion Dragon Predaplant Ambulomelides Predaplant Byblisp Predaplant Chimerafflesia Predaplant Cordyceps Predaplant Darlingtonia Cobra Predaplant Drosophyllum Hydra Predaplant Ophrys Scorpio Predaplant Spinodionaea Starving Venom Predapower Fusion Dragon 
+ Predaplanet Predaplanning Predaplast Predaponics Predapractice Predaprime Fusion Predapruning 
+ Related 
+ Starving Venom Fusion Dragon 
+ 
+   
+" Starving Venom " 「スターヴ・ヴェノム」 Members 
+ Starving Venom Fusion Dragon Starving Venom Predapower Fusion Dragon Supreme King Dragon Starving Venom 
+ Support 
+ Odd-Eyes Venom Dragon 
+ Related 
+ Greedy Venom Fusion Dragon Odd-Eyes Pendulum Dragon Purple Poison Magician Starving Venemy Dragon Starving Venemy Lethal Dose Dragon 
+ 
+   
+" Venom " 「ヴェノム」 Members 
+ Greedy Venom Fusion Dragon Odd-Eyes Venom Dragon Starving Venom Fusion Dragon Starving Venom Predapower Fusion Dragon Supreme King Dragon Starving Venom Venom Boa Venom Cobra Venom Serpent Venom Snake 
+ Venom Burn Venom Shot Venom Swamp 
+ Support 
+ Ambush Fangs Snake Deity's Command Venom Shot Venom Swamp 
+ Related 
+ Odd-Eyes Pendulum Dragon Starving Venemy Dragon Vennominaga the Deity of Poisonous Snakes Vennominon the King of Poisonous Snakes 
+ Rise of the Snake Deity 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/4b/GreedyVenomFusionDragon-FUEN-EN-ScR-1E.png/revision/latest/scale-to-width-down/300?cb=20170223194250', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

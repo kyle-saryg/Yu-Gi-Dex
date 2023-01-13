@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Lithuanian_name
+
+This property lists the primary Lithuanian Card Name of a card. It is a  string . It is primarily used for display of the correct Lithuanian card name.
+ 
+ 
+ 
+ 
+Categories:

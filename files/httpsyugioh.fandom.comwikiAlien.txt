@@ -1,0 +1,865 @@
+Link: https://yugioh.fandom.com/wiki/Alien
+
+
+ 
+ Alien 
+ エーリアン  ( Ērian ) 
+ 
+ 
+ 
+ 
+ " Alien Grey " in the artwork of " Brainwashing Beam ". 
+ 
+ 
+ Other names 
+ 
+ Chinese 
+ 外星人 
+ 
+ 
+ French 
+ Alien 
+ 
+ 
+ German 
+ Außerirdisch Außerirdischer (formerly) Außerirdische (formerly) 
+ 
+ 
+ Italian 
+ Alieno 
+ 
+ 
+ Korean 
+ 에일리언   Eillieon   (romanized) 
+ 
+ 
+ Portuguese 
+ Alienígena 
+ 
+ 
+ Spanish 
+ Alienígena Alien (formerly) 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Power of the Duelist Cyberdark Impact Strike of Neos Force of the Breaker Tactical Evolution Gladiator's Assault Crimson Crisis Raging Battle Absolute Powerforce Invasion: Vengeance Dawn of Majesty 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Champion Pack: Game Eight Battle Pack 3: Monster League Duel Overload OTS Tournament Pack 16 Ghosts From the Past: The 2nd Haunting 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Extra Pack Volume 2 Duelist Edition Volume 1 Duelist Edition Volume 2 Duelist Edition Volume 3 LINK VRAINS Pack 2 
+ 
+ 
+ 
+ 
+ China-Only Sets 
+ 
+ 
+ Duel Starter Deck 
+ 
+ 
+ 
+ 
+ Korea-Only Sets 
+ 
+ 
+ Precious Pack Volume 1 Precious Pack Volume 2 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! ARC-V 
+ 
+ 
+ 
+ 
+ Manga appearances 
+ 
+ 
+ Yu-Gi-Oh! 5D's 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Alien " (Japanese: エーリアン  Ērian ) is an  archetype  of  Reptile   monsters  with various  Attributes  (primarily  LIGHT ). 
+ They were introduced in  Power of the Duelist , with further support added in  Cyberdark Impact ,  Strike of Neos ,  Force of the Breaker ,  Tactical Evolution ,  Gladiator's Assault ,  Crimson Crisis  and  Raging Battle .
+ "Alien" Decks focus heavily on exploiting  A-Counters , which weaken opposing  monsters  when they battle "Alien" monsters and facilitate the effects of "Alien" cards and related support.
+ 
+ Contents 
+ 
+ 1   Design 
+ 
+ 1.1   Appearance 
+ 1.2   Etymology 
+ 
+ 
+ 2   Playing style 
+ 3   Recommended cards 
+ 4   Weaknesses 
+ 
+ 
+ Design 
+ Appearance 
+ They seem to be based on many science-fiction views of aliens, and the way they operate in stories, making use of such tropes as brainwashing, genetic manipulation, and biological experimentation (as evidenced by " Interplanetary Invader "A" ", which appears to be a mutated, living, or even intelligent form of an A-Counter). Their appearance seems to draw inspiration from these as well, like  big eyes ,  tails   instead of feet ,  large   claws ,  long tentacles ,  slender bodies ,  multiple arms , etc. Some "Alien" monsters resemble the stereotypical  Grey aliens , while others are more reptilian in appearance.
+ 
+ Etymology 
+ The archetype's name comes from the term: " Space Alien ", an extraterrestrial being from outer space.
+ 
+ Playing style 
+ "Aliens" have a variety of lower- Level  monsters, such as " Alien Warrior " and " Alien Grey ", that generate those essential A-Counters. However, prior to  Crimson Crisis , they suffered from a distinct lack of effects to exploit these counters once created.  Cards like " Alien Telepath ", " Alien Hypno ", and " Alien Mars " have potentially disruptive, yet situational, effects. The powerful  field -clearing effect of " Cosmic Fortress Gol'gar ", as well as the revival engine provided by " Code A Ancient Ruins ", lends the Deck a more reliable means of converting A-Counters into  Card Advantage . "Crimson Crisis" introduced " Planet Pollutant Virus ", a card which doubles as mass-removal and lingering A-Counter generation.  Cards like " Alien Overlord " from "Crimson Crisis" and " Alien Dog " from the subsequent  Raging Battle  also gave "Aliens" a bit of  swarming  power. 
+ There are several different builds and play styles for the archetype. The "Alien" cards prior to " Crimson Crisis " emphasized lower-Level effect monsters like " Alien Psychic " and " Alien Hunter ", and monster manipulation in the form of " Brainwashing Beam " and " Mass Hypnosis ". A viable strategy, it is distinctly suboptimal when compared to modernized builds that emphasize "Gol'gar" and the easy destruction and revival it supplies through its quick counter generation for "Code A Ancient Ruins".  "Gol'gar" can further be paired with powerful  Continuous Spell Cards  like " Prohibition " or " Burden of the Mighty ", along with cards like " Ancient Forest " and " Swords of Revealing Light ," to create a strong control archetype that excels at A-Counter generation via the effect of "Gol'gar".
+ No monster in the archetype has over 2600  ATK , a value shared by "Gol'gar" and its underrated predecessor, " Cosmic Horror Gangi'el ", together the so-called "boss monsters" of the "Aliens".  The Reptile " Evil Dragon Ananta " is often included as a third "boss monster" and can often turn the tide of a duel via its field clearing abilities.  None of these monsters count as "Alien" monsters, per se, and hence do not weaken opposing monsters burdened with  A-Counters .  This drawback is largely irrelevant, however, especially in the case of "Gol'gar", which is the highest  ATK   Level 5 Monster Card  in the game and able to eliminate most threats from the field either by its effect or its  disproportionately high ATK.  
+ All "Alien" Decks ultimately rely on A-Counters to operate. A swarming "Alien" Deck needs ample A-Counters to Special Summon " Overlord " and activate " Code A Ancient Ruins ". "Alien" Decks that manipulate the opponent's monsters via " Alien Hypno ", " Brainwashing Beam ", and " Mass Hypnosis " require A-Counters to maintain control of pilfered monsters.  Another important effect of an "Alien" Deck is the A-Counter's ability to reduce the ATK and DEF of a monster by 300 points for every counter on it. The effect reduces the ATK of Monsters fighting "Aliens" for each "Alien" with that effect on the field. More easily explained, (Number of monsters with ability) X (Number of counters on monster fighting an "Alien") X 300 = Amount of ATK lost. Most "Alien" monsters have this effect built in. Some "Aliens" with powerful effects, like "Alien Hypno" and "Alien Dog", do not.
+ Gol'gar control  variants obviously exploit the effect of "Gol'gar" to both generate A-Counters and to instantly convert those counters into free removal. A popular combo involves " Cosmic Fortress Gol'gar " and " Swords of Revealing Light ": By using the effect of "Gol'gar" to return face up Spell and Trap cards of your choosing back to the owner's hand, you can return your "Swords of Revealing Light" back to your hand and play it back on the field. By repeating this you'll have unlimited "Swords of Revealing Light". Also you'll put A-counters on all face up monsters on the field including your own, and destroy pesky cards that your opponent controls (you can only use this combo once per-turn).
+ 
+ Recommended cards 
+ 
+ Recommended cards Monsters   
+ Normal Monsters 
+ Alien Shocktrooper 
+ Effect Monsters 
+ Alien Dog 
+ Alien Grey 
+ Alien Kid 
+ Alien Overlord 
+ Alien Stealthbuster 
+ Alien Telepath 
+ Alien Warrior 
+ Cosmic Horror Gangi'el 
+ Black Luster Soldier - Envoy of the Beginning 
+ Kagetokage 
+ Kinka-byo 
+ Razor Lizard 
+ Rescue Rabbit 
+ Yamorimori 
+ Gemini monsters 
+ Alien Hypno 
+ Tuner monsters 
+ Alien Ammonite Extra Deck   
+ Synchro Monsters 
+ Cosmic Fortress Gol'gar 
+ Ancient Sacred Wyvern 
+ Armades, Keeper of Boundaries 
+ Armory Arm 
+ Formula Synchron 
+ Old Entity Cthugua 
+ Old Entity Hastorr 
+ Puralis, the Purple Pyrotile 
+ Shooting Quasar Dragon 
+ T.G. Hyper Librarian 
+ Xyz Monsters 
+ King of the Feral Imps 
+ Outer Entity Nyarla 
+ Link Monsters 
+ Alien Shocktrooper M-Frame 
+ Cosmic Slicer Zer'oll Spells   &  Traps   
+ Spells 
+ "A" Cell Recombination Device 
+ "A" Cell Scatter Burst 
+ Code A Ancient Ruins 
+ Mysterious Triangle 
+ Burden of the Mighty 
+ Gemini Spark 
+ Messenger of Peace 
+ Ogdoadic Water Lily 
+ Supply Squad 
+ Symbols of Duty 
+ Viper's Rebirth 
+ Traps 
+ Alien Brain 
+ Mass Hypnosis 
+ Planet Pollutant Virus 
+ Call of the Haunted 
+ Crackdown 
+ Fiendish Chain 
+ Offering to the Snake Deity 
+ Weaknesses 
+ "Aliens" are weak against Decks with superior speed, such as " X-Saber ", " Legendary Six Samurai " or " Blackwing ". The Deck itself has little draw power outside of "Grey", which causes it to have trouble against faster Decks. Specialized  searchers  such as " Gold Sarcophagus ", " Oshaleon ", " Snake Whistle ", and " Damage = Reptile " can partially alleviate this problem by letting you retrieve your combo pieces more efficiently, but not all of them fit comfortably into the archetype and many of them can be situational as draws. You can also add " Pot of Duality " for more consistency to the deck. 
+ The deck is also weak against " Fire King " Decks, as Fire Kings rely upon the destruction of cards and Special Summoning from the Graveyard, as well as clearing the field of monsters and Spells, which can force Aliens to stall. It is difficult for Aliens to overcome a card with high ATK and no DEF.
+ The "Alien"-based Deck is also bad against " Gladiator Beast ", as they constantly tag out, preventing A-Counters from piling up. In this matchup, Aliens have to rely on pure power, which is not generally their focus. You can put a " G.B. Hunter " in your Side Deck to counter this.  
+ "Aliens" aren't much use against " Ghostrick " Decks, as most "Ghostricks" have the ability to flip themselves facedown, clearing away any counters on them and preventing more from being added. Additionally, their low attack power means it will be difficult to do damage even while a "Ghostrick"  Field Spell Card  is active.
+ "Aliens" also have no native, major offensive threat outside of "Gol'gar".  Although "Warrior" and "Shocktrooper" boast high ATK for  Level 4 Monster Cards , they quickly lose value after the few first turns of the game, when  Fusion Monsters ,  Synchro Monsters ,  Xyz Monsters  and other powerful cards begin hitting the field. Gol'gar helps to keep "Aliens" in the race. Other Synchros, like " Ally of Justice Catastor " (instantly Summonable by "Ammonite" and useful against "Lightsworns" in particular), also help the Deck to keep a solid footing against speedy Decks. " Counter Cleaner " and " Enervating Mist " can also seriously hamper "Alien" Decks if used correctly due to their high reliance on A-Counters.
+ 
+   
+" Alien " 「エーリアン」 Members 
+ Alien Ammonite Alien Dog Alien Grey Alien Hunter Alien Hypno Alien Infiltrator Alien Kid Alien Mars Alien Mother Alien Overlord Alien Psychic Alien Shocktrooper Alien Shocktrooper M-Frame Alien Skull Alien Stealthbuster Alien Telepath Alien Warrior 
+ Alien Brain 
+ Support 
+ Alien Ammonite Alien Dog Alien Grey Alien Kid Alien Overlord Alien Skull Alien Telepath Alien Warrior Cosmic Fortress Gol'gar Cosmic Horror Gangi'el Flying Saucer Muusik'i 
+ "A" Cell Recombination Device "A" Cell Scatter Burst Code A Ancient Ruins Crop Circles Mass Hypnosis Mysterious Triangle Orbital Bombardment Otherworld - The "A" Zone Planet Pollutant Virus 
+ Related 
+ Cosmic Slicer Zer'oll Interplanetary Invader "A" Zeta Reticulant 
+ "A" Cell Breeding Device "A" Cell Incubator Brainwashing Beam Cell Explosion Virus Corruption Cell "A" Detonator Circle "A" Interdimensional Warp 
+ 
+ 
+ 
+ 
+ 
+ Six Attributes 
+ 
+ This box:  view edit 
+ DARK    
+ EARTH   
+ FIRE    
+ LIGHT   
+ WATER   
+ WIND    
+ 
+ 
+ /Assault Modes 
+ Red Dragon Archfiend  /  Colossal Fighter 
+ Hyper Psychic Blaster  /  T.G. Halberd Cannon 
+ Doomkaiser Dragon 
+ Arcanite Magician 
+ n/a 
+ Stardust Dragon 
+ 
+ 
+ @Ignisters    Base forms   Evolved forms 
+ Doyon     Dark Templar 
+ Doshin     Earth Golem 
+ Achichi     Fire Phoenix 
+ Pikari     Light Dragon 
+ Hiyari     Water Leviathan 
+ Bururu     Wind Pegasus 
+ 
+ 
+ Alchemy Beasts    Summoners     (Normal Spell Cards) 
+ Moonface the Silver     Silver Key 
+ Leon the Lead     Lead Compass 
+ Salamandra the Steel     Steel Lamp 
+ Ouroboros the Bronze     Bronze Scale 
+ Ekenas the Mercury     Mercury Hourglass 
+ Aretos the Tin     Tin Spell Circle 
+ 
+ 
+ Aliens 
+ Overlord  /  Mother  /  Psychic 
+ Shocktrooper  /  Infiltrator  /  Warrior 
+ Mars  /  Telepath 
+ Ammonite  /  Dog  /  Grey  /  Kid  /  Shocktrooper M-Frame 
+ Hunter  /  Hypno 
+ Skull 
+ 
+ 
+ Altergeists 
+ Primebanshee  /  Multifaker  /  Kidolga  /  Fifinellag  /  Dragvirion  /  Memorygant  /  Pookuery 
+ Kunquery 
+ Hexstia 
+ Marionetter 
+ Meluseek  /  Fijialert 
+ Silquitous  /  Pixiel 
+ 
+ 
+ Aromages 
+ Marjoram 
+ Cananga 
+ Bergamot 
+ Jasmine 
+ Rosemary 
+ Laurel 
+ 
+ 
+ Attribute Boosters   (500 ATK▲/400 DEF▼)    Link Monsters    (500 ATK▲/500 DEF▲)    Field Spells    (500 ATK▲/400 DEF▼)    Equip Spells    (400 ATK▲/200 DEF▼) 
+ Witch's Apprentice     Wee Witch's Apprentice     Mystic Plasma Zone     Sword of Dark Destruction 
+ Milus Radiant     Missus Radiant     Gaia Power     Invigoration 
+ Little Chimera     Duelittle Chimera     Molten Destruction     Burning Spear 
+ Hoshiningen     Hip Hoshiningen     Luminous Spark     Elf's Light 
+ Star Boy     Mistar Boy     Umiiruka     Steel Shell 
+ Bladefly     Greatfly     Rising Air Current     Gust Fan 
+ 
+ 
+ Attribute Knights 
+ Armageddon 
+ Dust 
+ Brushfire 
+ Dawn 
+ Shore 
+ Altitude 
+ 
+ 
+ Attribute Reptiles 
+ Umbral Soul 
+ Raging Earth 
+ Firestorm Prominence 
+ Radiant Spirit 
+ Silent Abyss 
+ Destruction Cyclone 
+ 
+ 
+ Attribute Sorcerers    (4/1500/0/Spellcasters) 
+ Dark 
+ n/a 
+ Fire 
+ Light 
+ Aqua 
+ n/a 
+ 
+ 
+ Attribute Spirits 
+ Luna the Dark Spirit 
+ The Rock Spirit 
+ Spirit of Flames 
+ Diana the Light Spirit 
+ Aqua Spirit 
+ Garuda the Wind Spirit 
+ 
+ 
+ Attribute Summoners 
+ Mystic Tomato 
+ Giant Rat 
+ UFO Turtle 
+ Shining Angel 
+ Mother Grizzly 
+ Flying Kamakiri #1 
+ 
+ 
+ B.E.S. 
+ Big Core 
+ Covered Core  /  Blaster Cannon Core 
+ Big Core MK-2 
+ Big Core MK-3 
+ Crystal Core 
+ Tetran 
+ 
+ 
+ Barrier Statues 
+ Abyss 
+ Drought 
+ Inferno 
+ Heavens 
+ Torrent 
+ Stormwinds 
+ 
+ 
+ Beast Gear World 
+ Catapult Devilkong 
+ Motor Wolf  /  Trike Fox  /  King Convoy Ligeon 
+ Buggy Dog 
+ n/a 
+ n/a 
+ Gyro Jackal 
+ 
+ 
+ Charmers     Familiar-Possessed     Cataclysmic Charmers     Spiritual Arts    Familiar   Possessed Familiars 
+ Dharc     Dharc     n/a     Greed     Meda Bat     n/a 
+ Aussa     Aussa     Avalanching Aussa     Kurogane     Marmot     Nefarious 
+ Hiita     Hiita     Blazing Hiita     Kurenai     Fox Fire     Inari Fire 
+ Lyna     Lyna     n/a     Hijiri     Happy Lover     n/a 
+ Eria     Eria     Raging Eria     Aoi     Gigobyte     Jigabyte 
+ Wynn     Wynn     Storming Wynn     Miyabi     Petit Dragon     Ranryu 
+ 
+ 
+ Chrysalis     Neo-Spacians    Evolved forms   Contact Fusions   Evolved forms   Advanced Contact Fusions 
+ Pantail     Dark Panther     n/a     Dark Neos     n/a     Chaos Neos 
+ Mole     Grand Mole     n/a     Grand Neos     n/a     Nebula Neos 
+ Larva     Flare Scarab     n/a     Flare Neos     n/a     Magma Neos 
+ Pinny     Glow Moss     Twinkle Moss     Glow Neos     n/a     Cosmo Neos 
+ Dolphin     Aqua Dolphin     Marine Dolphin     Aqua Neos     Marine Neos     n/a 
+ Chicky     Air Hummingbird     n/a     Air Neos     n/a     Storm Neos 
+ 
+ 
+ Code Talkers      (Link-3) 
+ Decode    ( Extended ) 
+ Transcode 
+ Powercode 
+ Encode 
+ Shootingcode 
+ Excode 
+ 
+ 
+ Color Ninjas    Dragon Ninjas 
+ Strike     Black 
+ Senior Silver     n/a 
+ n/a     Red 
+ White     White 
+ n/a     Blue 
+ Yellow     Yellow 
+ 
+ 
+ Cubic 
+ Vijam  /  Crimson Nova  ( Trinity ) 
+ Dark Garnex 
+ Blade Garoodia 
+ Duza  /  Buster Gundil  /  Indiora Doom Volt 
+ n/a 
+ Geira Guile 
+ 
+ 
+ CXyz 
+ Dark Fairy Cheer Girl  /  Mechquipped Djinn Angeneral 
+ Comics Hero Legend Arthur  /  Battleship Cherry Blossom  /  Zubaba Saikyo General 
+ Coach Lord Ultimatrainer 
+ Simon the Great Moral Leader  /  Barian Hope 
+ N.As.Ch. Knight 
+ Skypalace Babylon 
+ 
+ 
+ Dice Roll  Archfiends 
+ Terrorking  /  Masterking 
+ Vilepawn 
+ Infernalqueen 
+ Desrook 
+ Darkbishop 
+ Shadowknight 
+ 
+ 
+ Double Tributers     Effigies 
+ Double Coston     Dark 
+ The Trojan Horse     Earth 
+ Flame Ruler     n/a 
+ Kaiser Sea Horse     Light 
+ Unshaven Angler     n/a 
+ Whirlwind Prodigy     Wind 
+ 
+ 
+ Dragonmaids    Human forms   Dragon forms 
+ Chamber     n/a 
+ Nurse     Ernus 
+ Kitchen     Tinkhec 
+ House     Sheou 
+ Laundry     Nudyarl 
+ Parlor     Lorpar 
+ 
+ 
+ Dustons     (1/0/1000/Fiends) 
+ Star 
+ Yellow 
+ Red 
+ House  /  White 
+ Blue 
+ Green 
+ 
+ 
+ Elemental HERO    Fusion Monsters    (1 "HERO" + 1 matching Attribute) 
+ Escuridao 
+ Gaia 
+ Nova Master 
+ The Shining 
+ Absolute Zero 
+ Great Tornado 
+ 
+ 
+ Elemental Lords     Elementsabers 
+ Umbramirage     Molehu 
+ Grandsoil     Aina 
+ Pyrorex     Malo 
+ Phosphorage     Lapauila  ( Mana ) 
+ Moulinglacia     Nalu 
+ Windrose     Makani 
+ 
+ 
+ Empowered Warriors     Summoners 
+ Dragonox     n/a 
+ Terratiger     White Tiger 
+ Arnis     Red Sparrow 
+ Dragodies     Golden Dragon 
+ Hydrortoise      Green Turtle 
+ Ventdra     Blue Dragon 
+ 
+ 
+ Endymion 
+ Master Magician  /  Mighty Master of Magic 
+ Magister 
+ Rogue 
+ Crusader  /  Reflection 
+ Magistus of Mastery 
+ Servant 
+ 
+ 
+ Entities 
+ Azathot 
+ Nyarla 
+ Cthugua 
+ N'tss 
+ Norden 
+ Hastorr 
+ 
+ 
+ Fortune Fairies     Fortune Ladies 
+ Ann     Dark  /  Past 
+ Chee     Earth 
+ En     Fire 
+ Hikari     Light  /  Every 
+ Swee     Water 
+ Hu     Wind 
+ 
+ 
+ Fur Hire 
+ Seal  /  Folgo 
+ Beat  /  Dyna 
+ Bravo 
+ Rafale 
+ Helmer  /  Wiz 
+ Donpa  /  Recon  /  Sagitta 
+ 
+ 
+ Generaiders 
+ Hela  /  Harr 
+ Dovelgus  /  Jormungandr 
+ Naglfar  /  Loptr 
+ Mardel  /  Utgarda 
+ Nidhogg 
+ Frodi 
+ 
+ 
+ Gizmek 
+ Orochi 
+ Uka 
+ Kaku 
+ Yata 
+ Okami 
+ Mikoto 
+ 
+ 
+ Guardians    Weapons     (Equip Spell Cards) 
+ Baou  /  Dreadscythe     Wicked-Breaking Flamberge  /  Reaper Scythe 
+ Grarl     Gravity Axe 
+ Ceal     Shooting Star Bow 
+ Tryce     Twin Swords of Flashing Light 
+ Kay'est     Rod of Silence 
+ Elma  /  Eatos     Buttefly Dagger  /  Celestial Sword 
+ 
+ 
+ Invoked     (1 " Aleister the Invoker " + 1 matching Attribute) 
+ Caliga 
+ Magellanica 
+ Purgatrio 
+ Mechaba 
+ Cocytus 
+ Raidjin 
+ 
+ 
+ Kaiju 
+ Radian 
+ Kumongous 
+ Dogoran 
+ Jizukiru  /  Mecha-Dogoran  /  Thunder King  /  Mecha-Thunder-King 
+ Gameciel 
+ Gadarla 
+ 
+ 
+ Knightmare 
+ Iblee  /  Unicorn  /  Orcust  /  Idlee 
+ Cerberus 
+ Phoenix 
+ Gryphon 
+ Mermaid 
+ Goblin 
+ 
+ 
+ Legendary Planets 
+ Sun  /  Jupiter  /  Saturn  /  Pluto 
+ Terra Firma 
+ Mars 
+ Venus  /  Uranus 
+ Mercury  /  Neptune 
+ n/a 
+ 
+ 
+ Masked HEROes 
+ Dark Law  /  Anki 
+ Dian 
+ Goka 
+ Koga 
+ Vapor  /  Acid 
+ Divine Wind  /  Blast 
+ 
+ 
+ Magician Girls 
+ ( Toon )    Dark    ( Dragon Knight ) 
+ Berry 
+ Apple 
+ Lemon 
+ Chocolate 
+ Kiwi 
+ 
+ 
+ Magikey 
+ Clavkiys  /  Batosbuster  /  Ansyalabolas 
+ Garesglasser 
+ Transfurlmine 
+ Mafteal 
+ Vepartu 
+ Andrabime 
+ 
+ 
+ Magistus 
+ Grimoire Crowley 
+ Goddess Ninaruru 
+ Flame Zoroa  /  Dragon Vafram 
+ Verre Cendrillon  /  Maiden Artemis 
+ Master Endymion 
+ Saint Aiwass 
+ 
+ 
+ Mirror Force 
+ Dark 
+ Quaking 
+ Blazing 
+ Radiant 
+ Drowning 
+ Storming 
+ 
+ 
+ Monarchs    Mega Monarchs   Related  "Monarch"  Spell/Trap Cards    Vassals 
+ Caius  /  Erebus     Caius the Mega     Tenacity  /  The First     Lucius  /  Eidos 
+ Granmarg     Granmarg the Mega     Return     Landrobe  /  Samsara Kaiser 
+ Thestalos     Thestalos the Mega     Erupt     Berlineth 
+ Zaborg  /  Ehther     Zaborg the Mega     Strike  /  The Prime     Mithra  /  Edea 
+ Mobius     Mobius the Mega     Awaken     Escher 
+ Raiza     Raiza the Mega     Stormforth     Garum 
+ 
+ 
+ Musical  Djinns 
+ Maestroke 
+ Temtempo 
+ n/a 
+ Melomelody 
+ Humhumming 
+ Muzurhythm 
+ 
+ 
+ Mythyrian Numbers 
+ Djinn Buster 
+ Lion Heart  /  Ronin Raccoon Sandayu 
+ n/a 
+ Sky Pegasus  /  Dragluon 
+ Abyss Splash  /  Crystalzero 
+ n/a 
+ 
+ 
+ Nemeses 
+ Protos 
+ Keystone 
+ Flag 
+ Eschatos 
+ Umbrella 
+ Corridor 
+ 
+ 
+ Number 10X     Number C10X 
+ n/a     Umbral Horror Masquerade 
+ Giant Hand     Giant Red Hand 
+ Battlin' Boxer Star Cestus     Battlin' Boxer Comet Cestus 
+ Star Seraph Sentry  /  Masquerade  /  Galaxy-Eyes Tachyon Dragon     Archfiend Seraph  /  Neo Galaxy-Eyes Tachyon Dragon 
+ Silent Honor ARK  /  Ragnazero     Silent Honor DARK  /  Ragnafinity 
+ n/a     n/a 
+ 
+ 
+ Odd-Eyes Dragons 
+ Odd-Eyes  /  Pendulum  /  Rebellion  ( Overlord ) /  Persona  /  Phantom  /  Mirage  /  Performapal Metal Claw  /  Raging  /  Supreme King  /  Wing  /  Venom  /  Arc Pendulum  /  Advance  /  Wizard 
+ Gravity 
+ Meteorburst 
+ Saber  /  Lancer  /  Revolution  /  Pendulumgraph 
+ Absolute 
+ Vortex 
+ 
+ 
+ Pendulum  Magicians 
+ Stargazer  /  Timegazer  /  Xiangke  /  Timebreaker  /  Acrobatic  /  Dragoncaller  /  Harmonizing  /  Double Iris  /  Black Fang  /  Purple Poison  /  Performapal Celestial 
+ Dragonpulse 
+ Nobledragon 
+ Wisdom-Eye  /  Xiangsheng  /  Dharma-Eye  /  Performapal Five-Rainbow 
+ Dragonpit 
+ Oafdragon  /  White Wing 
+ 
+ 
+ Prediction Princesses 
+ Astromorrigan 
+ Coinorma  /  Petalelf 
+ n/a 
+ Tarotrei 
+ Crystaldine 
+ Arrowsylph 
+ 
+ 
+ Resonators 
+ Dark  /  Synkron  /  Crimson 
+ Clock 
+ Flare  /  Red  /  Double  /  Net 
+ Barrier  /  Chain  /  Mirror 
+ Force 
+ Creation 
+ 
+ 
+ Road Magic 
+ N/A 
+ Diastrophism 
+ Explosion 
+ Rays Alter 
+ Backflow 
+ Tempest 
+ 
+ 
+ El Shaddoll    Fusion Monsters    (1 "Shaddoll" + 1 matching Attribute) 
+ Winda 
+ Shekhinaga 
+ Grysta 
+ Construct 
+ Anoyatyllis 
+ Wendigo 
+ 
+ 
+ Signer Dragons 
+ Red Archfiend  /  Black-Winged 
+ Life Stream 
+ Black Rose 
+ Ancient Fairy 
+ n/a 
+ Stardust 
+ 
+ 
+ Six Samurai     Legendary Six Samurai     Secret Six Samurai 
+ Irou     Shi En     Doji 
+ Yariza     Kizan     Kizaru 
+ Kamon     Mizuho     Genba 
+ Zanji     Enishi     Rihan 
+ Yaichi     Shinai     Hatsume 
+ Nisashi     Kageki     Fuma 
+ 
+ 
+ Sky Striker Ace 
+ Raye  /  Zeke 
+ Kaina 
+ Kagari 
+ Roze 
+ Shizuku 
+ Hayate 
+ 
+ 
+ Sushi Angels 
+ Spider Roll 
+ Monkey Roll 
+ n/a 
+ Garibel  /  Agaribel 
+ Tiger Roll 
+ Dragon Roll 
+ 
+ 
+ Synchro  Warriors    Tuner  Synchrons 
+ Junk  /  Satellite     Junk  /  Satellite 
+ Drill     Drill 
+ Nitro  /  Jet     Nitro  /  Jet 
+ Road     Road 
+ n/a     Steam 
+ Turbo     Turbo 
+ 
+ 
+ Tenyi  Spirits 
+ Vishuda 
+ Adhara 
+ Mapura 
+ Ashuna  /  Sahasrara 
+ Sthana 
+ Nahata 
+ 
+ 
+ The Weathers    Canvas     (Continuous Spell/Trap Cards) 
+ Aurora     Auroral 
+ Snow     Snowy 
+ Sun     Sunny 
+ Thunder  /  Rainbow     Thundery  /  Rainbowed 
+ Rain     Rainy 
+ Cloud     Cloudy 
+ 
+ 
+ Timelords 
+ Vorpgate 
+ Kamion  /  Hailon 
+ Metaion  /  Lazion  /  Michion 
+ Sephylon  /  Sandaion 
+ Zaphion  /  Gabrion 
+ Sadion  /  Raphion 
+ 
+ 
+ True Draco and True King 
+ All Calamities 
+ Lithosazim  /  Dreiath III 
+ Agnimazud  /  Ignis Heat 
+ Master Peace  ( King ) /  Metaltron XII 
+ Bahrstos  /  Dinomight Knight 
+ Majesty Maiden  /  Mariamne 
+ 
+ 
+ Witchcrafters 
+ Haine 
+ Potterie 
+ Schmitta 
+ Edel  /  Madame Verre  /  Golem Aruru 
+ Pittore 
+ Genni 
+ 
+ 
+ World Chalice 
+ World Legacy 
+ Beckoned  /  Ningirsu 
+ Chosen  /  Auram 
+ Lee 
+ Crowned  / Ib ( Priestess / Justiciar ) 
+ Guardragon  /  Imduk  /  Almarduke 
+ 
+ 
+ Yang Zing 
+ Taotie  /  Jiaotu  /  Yazi 
+ Bi'an  /  Zefraxi  /  Zefraniu 
+ Suanni 
+ Chiwen  /  Baxia  /  Chaofeng  /  Denglong 
+ Bixi 
+ Pulao 
+ 
+ 
+ Yo-kai Girls 
+ Ghost Reaper & Winter Cherries 
+ Ghost Belle & Haunted Mansion 
+ Ash Blossom & Joyous Spring 
+ Ghost Ogre & Snow Rabbit 
+ Ghost Sister & Spooky Dogwood 
+ Ghost Mourner & Moonlit Chill 
+ 
+ 
+ ZW - 
+ Chimera Clad  /  Dragonic Halberd 
+ Ultimate Shield 
+ Phoenix Bow  /  Asura Strike 
+ Unicorn Spear  /  Lightning Blade  /  Leo Arms  /  Sleipnir Mail  /  Fenrir Sword  /  Pegasus Twin Saber  /  Sylphid Wing 
+ n/a 
+ Tornado Bringer  /  Eagle Claw 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/8a/BrainwashingBeam-TF04-JP-VG.jpg/revision/latest/scale-to-width-down/350?cb=20120423190750', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/24?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/24?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/24?cb=20120918053839', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Link Monster(s)

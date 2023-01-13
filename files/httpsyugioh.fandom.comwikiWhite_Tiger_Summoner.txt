@@ -1,0 +1,367 @@
+Link: https://yugioh.fandom.com/wiki/White_Tiger_Summoner
+
+
+ 
+ 
+ White Tiger Summoner 白 虎 の 召 喚 士 
+ 
+ English 
+White Tiger Summoner 
+ French 
+ Invocateur Tigre Blanc Check translation 
+ German 
+ Weißer Tigerbeschwörer Check translation 
+ Italian 
+ Evocatore Tigre Bianca Check translation 
+ Korean 
+ 백호의 소환사 Check translation 
+ Portuguese 
+ Invocador do Tigre Branco Check translation 
+ Spanish 
+ Invocador del Tigre Blanco Check translation 
+ Japanese (kana) 
+ びゃっこのしょうかんし Check translation 
+ Japanese (base) 
+ 白虎の召喚士 Check translation 
+ Japanese ( rōmaji ) 
+Byakko no Shōkanshi 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Spellcaster  /  Effect 
+ Level 
+ 3   
+ ATK  /  DEF 
+ 1000  /  1700 
+ Passcode 
+ 28348939 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Continuous Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When this card is  Normal Summoned : You can  Special Summon  1  Level  4 or lower  Normal Monster  from your  hand . All  monsters  you control gain 100  ATK  and  DEF . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Lorsque cette carte est Invoquée Normalement : vous pouvez Invoquer Spécialement 1 Monstre Normal de max. Niveau 4 depuis votre main. Tous les monstres que vous contrôlez gagnent 100 ATK/DEF. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wenn diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 Normales Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand beschwören. Alle Monster, die du kontrollierst, erhalten 100 ATK und DEF. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando questa carta viene  Evocata Normalmente : puoi  Evocare Specialmente  1  Mostro Normale  di  Livello  4 o inferiore dalla tua  mano . Tutti i mostri che controlli guadagnano 100  ATK  e  DEF . 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Quando este card for Invocado por Invocação-Normal: você pode Invocar por Invocação-Especial 1 Monstro Normal de Nível 4 ou menos da sua mão. Todos os monstros que você controla ganham 100 de ATK e DEF. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando esta carta es Invocada de Modo Normal: puedes Invocar de Modo Especial, desde tu mano, 1 Monstruo Normal de Nivel 4 o menor. Todos los monstruos que controles ganan 100 ATK y DEF. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：このカードが召喚に成功した時に発動できる。手札からレベル４以下の通常モンスター１体を特殊召喚する。②：このカードがモンスターゾーンに存在する限り、自分フィールドのモンスターの攻撃力・守備力は１００アップする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ① : 이 카드가 일반 소환에 성공했을 때에 발동할 수 있다. 패에서 레벨 4 이하의 일반 몬스터 1장을 특수 소환한다. ② : 이 카드가 몬스터 존에 존재하는 한, 자신 필드의 몬스터의 공격력 / 수비력을 100 올린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-EN019   
+ Super Starter: Space-Time Showdown 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-FR019   
+ Super Starter: Space-Time Showdown 
+ Super Deck de Démarrage: La Confrontation de l'Espace-Temps  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-DE019   
+ Super Starter: Space-Time Showdown 
+ Super Starter: Space-Time Showdown  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-IT019   
+ Super Starter: Space-Time Showdown 
+ Super Starter: Resa dei Conti dello Spazio-Tempo  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2014-07-11  
+ YS14-PT019   
+ Super Starter: Space-Time Showdown 
+ Super Deck Inicial: Confronto Espaço-Tempo  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-SP019   
+ Super Starter: Space-Time Showdown 
+ Súper Baraja de Principiante: La Confrontación del Espacio-Tiempo  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2014-03-21  
+ ST14-JP019   
+ Starter Deck 2014 
+ ＳＴＡＲＴＥＲ ＤＥＣＫ ２０１４  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2014-07-08  
+ ST14-KR019   
+ Starter Deck 2014 
+ STARTER   DECK  2014  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Normal Monster 
+ 
+ Archetypes  and  series   
+ Summoner 
+ 
+ Related to  archetypes  and  series   
+ Empower 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ Your monsters gain DEF 
+ 
+ Summoning  categories  
+ Special Summons from your hand 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11144 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Empower  魔装 Members 
+ Aether, the Empowering Dragon Aether, the Evil Empowering Dragon Arnis, the Empowered Warrior Dragodies, the Empowered Warrior Dragonox, the Empowered Warrior Hydrotortoise, the Empowered Warrior Terratiger, the Empowered Warrior Ventdra, the Empowered Warrior 
+ Empowerment 
+ Related 
+ Blue Dragon Summoner Golden Dragon Summoner Green Turtle Summoner Red Sparrow Summoner White Tiger Summoner 
+ 
+   
+ Summoner   召 喚 士 Members 
+ Blue Dragon Summoner Golden Dragon Summoner Green Turtle Summoner Red Sparrow Summoner White Tiger Summoner 
+ Related 
+ Aether, the Empowering Dragon Arnis, the Empowered Warrior Hydrotortoise, the Empowered Warrior Terratiger, the Empowered Warrior Ventdra, the Empowered Warrior 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/db/WhiteTigerSummoner-YS14-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140711051514', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

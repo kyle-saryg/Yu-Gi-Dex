@@ -1,0 +1,506 @@
+Link: https://yugioh.fandom.com/wiki/True_King_Agnimazud,_the_Vanisher
+
+
+ 
+ 
+ True King Agnimazud, the Vanisher 真 竜 皇 アグニマズド Ｖ 
+ 
+ English 
+True King Agnimazud, the Vanisher 
+ French 
+ Roi Véritable Agnimazud le Volatil Check translation 
+ German 
+ Wahrer König Agnimazud, der Verschwindende Check translation 
+ Italian 
+ Vero Re Agnimazud, il Vaporizzatore Check translation 
+ Korean 
+ 진룡황 아그니마즈드 V Check translation 
+ Portuguese 
+ Verdadeiro Rei Agnimazud, o Voraz Check translation 
+ Spanish 
+ Rey Verdadero Agnizamud, el Vaporizador Check translation 
+ Japanese (kana) 
+ しんりゅうおうアグニマズドバニッシャー Check translation 
+ Japanese (base) 
+ 真竜皇アグニマズドＶ Check translation 
+ Japanese ( rōmaji ) 
+Shinryūō Agunimazudo Banisshā 
+ Japanese (translated) 
+True Dragon King Agnimazud, the Vanisher 
+ Card type 
+ Monster   
+ Attribute 
+ FIRE   
+ Types 
+ Wyrm  /  Effect 
+ Level 
+ 9   
+ ATK  /  DEF 
+ 2900  /  1900 
+ Passcode 
+ 96746083 
+ Card effect types 
+ 
+ 
+ Ignition 
+ Trigger 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If this card is in your  hand : You can  destroy  2 other  monsters  in your hand and/or  face-up   field , including a  FIRE  monster, and if you do,  Special Summon  this card, and if you do that, you can  banish  1 monster from your opponent's field or  GY , if both the destroyed monsters were FIRE. If this card is destroyed by  card effect : You can add 1 non-FIRE  Wyrm  monster from your GY to your hand. You can only use each effect of "True King Agnimazud, the Vanisher"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si cette carte est dans votre main : vous pouvez détruire 2 autres monstres (un monstre FEU inclus) dans votre main et/ou face recto sur votre Terrain, et si vous le faites, Invoquez Spécialement cette carte, et si vous faites ça, vous pouvez bannir 1 monstre depuis le Terrain ou Cimetière de votre adversaire, si les deux monstres détruits étaient FEU. Si cette carte est détruite par un effet de carte : vous pouvez ajouter 1 monstre non-FEU de Type Wyrm depuis votre Cimetière à votre main. Vous ne pouvez utiliser chaque effet de "Roi Véritable Agnimazud le Volatil" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls sich diese Karte in deiner Hand befindet: Du kannst 2 andere Monster in deiner Hand und/oder offen auf deiner Spielfeldseite zerstören, darunter ein FEUER Monster, und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung und falls du dies tust, kannst du 1 Monster von der Spielfeldseite oder dem Friedhof deines Gegners verbannen, falls beide zerstörte Monster FEUER waren. Falls diese Karte durch einen Karteneffekt zerstört wird: Du kannst deiner Hand 1 Nicht-FEUER Monster vom Typ Wyrm von deinem Friedhof hinzufügen. Du kannst jeden Effekt von „Wahrer König Agnimazud, der Verschwindende“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se questa carta è nella tua mano: puoi distruggere 2 altri mostri nella tua mano e/o scoperti sul tuo Terreno, compreso un mostro FUOCO, e, se lo fai, Evoca Specialmente questa carta e, se fai quello, puoi bandire 1 mostro dal Terreno o Cimitero del tuo avversario se entrambi i mostri distrutti erano FUOCO. Se questa carta viene distrutta dall'effetto di una carta: puoi aggiungere 1 mostro non-FUOCO di Tipo Wyrm dal tuo Cimitero alla tua mano. Puoi utilizzare ogni effetto di "Vero Re Agnimazud, il Vaporizzatore" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se este card estiver na sua mão: você pode destruir 2 outros monstros na sua mão e/ou com a face para cima no seu campo, incluindo um monstro FOGO e, se isso acontecer, Invoque este card por Invocação-Especial e, se isso acontecer, você pode banir 1 monstro do campo ou Cemitério do seu oponente, se os dois monstros destruídos eram de FOGO. Se este card for destruído por um efeito de card: você pode adicionar 1 monstro de não-FOGO do Tipo Wyrm do seu Cemitério à sua mão. Você só pode usar cada efeito de "Verdadeiro Rei Agnimazud, o Voraz" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si esta carta está en tu mano: puedes destruir otros 2 monstruos en tu mano y/o Campo boca arriba, incluyendo un monstruo de FUEGO y, si lo haces, Invoca esta carta de Modo Especial y, si haces eso, puedes desterrar 1 monstruo del Campo o Cementerio de tu adversario si ambos monstruos destruidos eran de FUEGO. Si esta carta es destruida por el efecto de una carta: puedes añadir a tu mano 1 monstruo Wyrm que no sea de FUEGO en tu Cementerio. Sólo puedes usar cada efecto de "Rey Verdadero Agnizamud, el Vaporizador" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「真竜皇アグニマズドＶ」の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分メインフェイズに発動できる。このカード以外の手札及び自分フィールドの表側表示モンスターの中から、炎属性モンスターを含むモンスター２体を破壊し、このカードを手札から特殊召喚し、炎属性モンスター２体を破壊した場合、相手のフィールド・墓地からモンスター１体を選んで除外できる。②：このカードが効果で破壊された場合に発動できる。自分の墓地から炎属性以外の幻竜族モンスター１体を選んで手札に加える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "진룡황 아그니마즈드V(버니셔)"의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 자신 메인 페이즈에 발동할 수 있다. 이 카드 이외의 패 및 자신 필드의 앞면 표시 몬스터 중에서, 화염 속성 몬스터를 포함하는 몬스터 2장을 파괴하여, 이 카드를 패에서 특수 소환하고, 화염 속성 몬스터 2장을 파괴했을 경우, 상대 필드 / 묘지에서 몬스터 1장을 골라 제외할 수 있다. ②: 이 카드가 효과로 파괴되었을 경우에 발동할 수 있다. 자신의 묘지에서 화염 속성 이외의 환룡족 몬스터 1장을 고르고 패에 넣는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2016-08-04  
+ TDIL-EN025   
+ The Dark Illusion 
+ Ultra Rare 
+ 
+ 
+ 2017-08-24  
+ MP17-EN080   
+ 2017 Mega-Tin Mega Pack 
+ Ultra Rare 
+ 
+ 
+ 2019-02-14  
+ SDSB-EN014   
+ Structure Deck: Soulburner 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2016-08-04  
+ TDIL-FR025   
+ The Dark Illusion 
+ L'Illusion des Ténèbres  
+ Ultra Rare 
+ 
+ 
+ 2017-08-24  
+ MP17-FR080   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Méga-Boîte Méga-Pack  
+ Ultra Rare 
+ 
+ 
+ 2019-02-14  
+ SDSB-FR014   
+ Structure Deck: Soulburner 
+ Deck de Structure : Soulburner  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2016-08-04  
+ TDIL-DE025   
+ The Dark Illusion 
+ The Dark Illusion  
+ Ultra Rare 
+ 
+ 
+ 2017-08-24  
+ MP17-DE080   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Mega-Tin Mega Pack  
+ Ultra Rare 
+ 
+ 
+ 2019-02-14  
+ SDSB-DE014   
+ Structure Deck: Soulburner 
+ Structure Deck: Soulburner  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2016-08-04  
+ TDIL-IT025   
+ The Dark Illusion 
+ L'Illusione Oscura  
+ Ultra Rare 
+ 
+ 
+ 2017-08-24  
+ MP17-IT080   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Mega-Tin Mega Pack  
+ Ultra Rare 
+ 
+ 
+ 2019-02-14  
+ SDSB-IT014   
+ Structure Deck: Soulburner 
+ Structure Deck: Soulburner  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2016-08-05  
+ TDIL-PT025   
+ The Dark Illusion 
+ A Ilusão Negra  
+ Ultra Rare 
+ 
+ 
+ 2017-08-24  
+ MP17-PT080   
+ 2017 Mega-Tin Mega Pack 
+ Mega-Pacote da Mega-Latas 2017  
+ Ultra Rare 
+ 
+ 
+ 2019-02-14  
+ SDSB-PT014   
+ Structure Deck: Soulburner 
+ Deck Estrutural: Queima-Almas  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2016-08-04  
+ TDIL-SP025   
+ The Dark Illusion 
+ La Ilusión Oscura  
+ Ultra Rare 
+ 
+ 
+ 2017-08-24  
+ MP17-SP080   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Mega-Lata Mega Pack  
+ Ultra Rare 
+ 
+ 
+ 2019-02-14  
+ SDSB-SP014   
+ Structure Deck: Soulburner 
+ Baraja de Estructura: Soulburner  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2016-04-09  
+ TDIL-JP025   
+ The Dark Illusion 
+ ザ・ダーク・イリュージョン  
+ Super Rare 
+ 
+ 
+ 2016-04-09  
+ TDIL-JP025   
+ The Dark Illusion 
+ ザ・ダーク・イリュージョン  
+ Secret Rare 
+ 
+ 
+ 2018-12-08  
+ SD35-JP011   
+ Structure Deck: Soulburner 
+ ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －ソウルバーナー－  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2016-07-21  
+ TDIL-KR025   
+ The Dark Illusion 
+ 더 다크 일루전  
+ Super Rare 
+ 
+ 
+ 2016-07-21  
+ TDIL-KR025   
+ The Dark Illusion 
+ 더 다크 일루전  
+ Secret Rare 
+ 
+ 
+ 2019-03-19  
+ SD35-KR011   
+ Structure Deck: Soulburner 
+ STRUCTURE   DECK  소울버너  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ DARK 
+ EARTH 
+ FIRE 
+ LIGHT 
+ WATER 
+ WIND 
+ Wyrm 
+ 
+ Archetypes  and  series   
+ True Draco and True King 
+ 
+ Related to  archetypes  and  series   
+ Metalfoes 
+ 
+ Actions  
+ Activates from your hand 
+ Activates if destroyed by card effect 
+ Adds from Graveyard to hand 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your face-up Monster Cards 
+ Destroys hand 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ 
+ Banished  categories  
+ Banishes from your opponent's field 
+ Banishes from your opponent's Graveyard 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12424 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Metalfoes " 「メタルフォーゼ」 Members 
+ Fullmetalfoes Alkahest Heavymetalfoes Amalgam Heavymetalfoes Electrumite Metalfoes Adamante Metalfoes Crimsonite Metalfoes Goldriver Metalfoes Mithrilium Metalfoes Orichalc Metalfoes Silverd Metalfoes Steelen Metalfoes Vanisher Metalfoes Volflame Parametalfoes Azortless Parametalfoes Melcaster Raremetalfoes Bismugear 
+ Fullmetalfoes Fusion Metalfoes Combination Metalfoes Counter Metalfoes Fusion Parametalfoes Fusion 
+ Support 
+ Fullmetalfoes Alkahest Heavymetalfoes Amalgam Metalfoes Adamante Metalfoes Crimsonite Metalfoes Goldriver Metalfoes Mithrilium Metalfoes Orichalc Metalfoes Silverd Metalfoes Steelen Metalfoes Vanisher Metalfoes Volflame Parametalfoes Azortless Parametalfoes Melcaster Raremetalfoes Bismugear 
+ Fullmetalfoes Fusion Metalfoes Combination Metalfoes Counter Metalfoes Fusion Metamorformation Parametalfoes Fusion 
+ Related 
+ True King Agnimazud, the Vanisher 
+ 
+   
+" True Draco and True King " 「真竜」 Members 
+ Dinomight Knight, the True Dracofighter Dreiath III, the True Dracocavalry General Ignis Heat, the True Dracowarrior Majesty Maiden, the True Dracocaster Mariamne, the True Dracophoenix Master Peace, the True Dracoslayer Master Peace, the True Dracoslaying King Metaltron XII, the True Dracombatant True King Agnimazud, the Vanisher True King Bahrastos, the Fathomer True King Lithosagym, the Disaster True King of All Calamities 
+ Disciples of the True Dracophoenix Forge of the True Dracos True Draco Apocalypse True Draco Heritage True King's Return 
+ Support 
+ Dinomight Knight, the True Dracofighter Dreiath III, the True Dracocavalry General Ignis Heat, the True Dracowarrior Majesty Maiden, the True Dracocaster True King of All Calamities 
+ Disciples of the True Dracophoenix Dragonic Diagram True Draco Apocalypse True Draco Heritage True King's Return 
+ Related 
+ Amorphactor Pain, the Imagination Dracoverlord Dinoster Power, the Mighty Dracoslayer Ignister Prominence, the Blasting Dracoslayer Lector Pendulum, the Dracoverlord Luster Pendulum, the Dracoslayer Majester Paladin, the Ascending Dracoslayer Master Pendulum, the Dracoslayer Metalfoes Vanisher Vector Pendulum, the Dracoverlord Zefra Metaltron 
+ Draco Face-Off 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/b9/TrueKingAgnimazudtheVanisher-MP17-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20170823081853', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/28?cb=20120918053839', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,102 @@
+Link: https://yugioh.fandom.com/wiki/Monster_Baton
+
+
+ Monster Baton 
+ 
+ Japanese:   モンスター・バトン 
+ Romaji:   Monsutā Baton 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Cost 
+ Quick-like 
+ Quick-like 
+ When you  activate  this card,  send  1  Effect Monster  from your  hand  to the  Graveyard . Once, you can activate that monster's  effect  as this card's effect. Then, while this card is  face-up  on the field, you can activate that monster's effect as this card's effect by sending 1 Effect Monster from your hand to the Graveyard whose  Level  is equal to the Level of the  monster  sent to the Graveyard by this card's effect.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  119 ,  121 ,  122 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ モンスター・バトン 
+ 手札の効果モンスター１体を墓地へ送って発動する。発動後このカードはその効果モンスターの効果を得て、１回発動する事ができる。その後は、このカードの効果で墓地へ送ったモンスターと同じレベルのモンスター１体を手札から墓地へ送る毎に、このカードが得たモンスター効果を１回発動する事ができる。 
+ 
+ 
+ Monsutā Baton 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Jack Atlas 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Effect Monster 
+ 
+ Actions  
+ Sends from your hand to your Graveyard for cost 
+ Resolves as another card's effect 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/0a/MonsterBaton-JP-Anime-5D.png/revision/latest/scale-to-width-down/200?cb=20100811104532', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a2/MonsterBaton-OW.png/revision/latest/scale-to-width-down/185?cb=20140129212258', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

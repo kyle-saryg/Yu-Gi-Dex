@@ -1,0 +1,105 @@
+Link: https://yugioh.fandom.com/wiki/Arrow_Charge
+
+
+ Arrow Charge 
+ 
+ Japanese:   マーカーズ・チャージ 
+ Romaji:   Mākāzu Chāji 
+ Translated:  Markers' Charge 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ If there are 2  Link Monsters  with the same  Link Rating  in the  Extra Monster Zones :  Draw  2 cards, and if you do,  show  them, but  banish  them during the  End Phase  of this  turn  if they are still in your  hand .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  011 ,  039 ,  045 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ マーカーズ・チャージ 
+ ①：ＥＸモンスターゾーンのリンクモンスター２体が持つリンクマーカーの数が同じ場合に発動できる。自分はデッキから２枚ドローし、お互いに確認する。このターンのエンドフェイズに、この効果でドローしたカードが手札にある場合にそのカードは除外される。 
+ 
+ 
+ Mākāzu Chāji 
+ 
+ 
+ Decks 
+ 
+ 
+ Varis   
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Link Monster 
+ 
+ Anti-supports   
+ Link Monster 
+ 
+ Actions  
+ You draw cards 
+ Shows the player's drawn cards 
+ 
+ Banished  categories  
+ Banishes from your hand 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/eb/ArrowCharge-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180328132651', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

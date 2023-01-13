@@ -1,0 +1,393 @@
+Link: https://yugioh.fandom.com/wiki/Abyss_Script_-_Fantasy_Magic
+
+
+ 
+ 
+ Abyss Script - Fantasy Magic 魔 界 台 本 「ファンタジー・マジック」 
+ 
+ English 
+Abyss Script - Fantasy Magic 
+ French 
+ Script des Abysses - Fantasme Magique Check translation 
+ German 
+ Abgrundskript - Fantasy-Magie Check translation 
+ Italian 
+ Sceneggiatura dell'Abisso - Fantasia Magica Check translation 
+ Korean 
+ 마계대본 "판타지 매직" Check translation 
+ Portuguese 
+ Script do Abismo - Fantasia Mágica Check translation 
+ Spanish 
+ Guión de Abismo - Fantasía Mágica Check translation 
+ Japanese (kana) 
+ まかいだいほん「ファンタジー・マジック」 Check translation 
+ Japanese (base) 
+ 魔界台本「ファンタジー・マジック」 Check translation 
+ Japanese ( rōmaji ) 
+Makai Daihon "Fantajī Majikku" 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 87390798 
+ Card effect types 
+ 
+ 
+ Effect 
+ Trigger-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Target  1 " Abyss Actor "  monster  you  control ; this  turn , every monster that  battles  it, but is not  destroyed ,  returns  to the  hand  at the end of the  Damage Step . If this  Set  card in its  owner 's control is destroyed by an opponent's card  effect , and you have a  face-up  "Abyss Actor"  Pendulum Monster  in your  Extra Deck : You can target 1 card your opponent controls; place it on top of the  Deck . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Ciblez 1 monstre "Acteur des Abysses" que vous contrôlez ; ce tour, chaque monstre qui le combat, mais qui n'est pas détruit, est renvoyé à la main à la fin de la Damage Step. Si cette carte Posée contrôlée par son propriétaire est détruite par un effet de carte de votre adversaire, et que vous avez un Monstre Pendule "Acteur des Abysses" face recto dans votre Extra Deck : vous pouvez cibler 1 carte contrôlée par votre adversaire ; placez-la au-dessus du Deck. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wähle 1 „Abgrundschauspieler“-Monster, das du kontrollierst; in diesem Spielzug kehrt jedes Monster, gegen das es kämpft, aber das nicht zerstört wird, am Ende des Damage Steps auf die Hand zurück. Falls diese gesetzte Karte, die ihr Besitzer kontrolliert, durch einen Karteneffekt deines Gegners zerstört wird und du ein offenes „Abgrundschauspieler“-Pendelmonster in deinem Extra Deck hast: Du kannst 1 Karte wählen, die dein Gegner kontrolliert; lege sie aufs Deck. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Scegli come bersaglio 1 mostro "Attore dell'Abisso" che controlli; in questo turno, ogni mostro che lo combatte, ma non viene distrutto, ritorna nella mano alla fine del Damage Step. Se questa carta Posizionata sotto il controllo del suo proprietario viene distrutta dall'effetto di una carta dell'avversario, e tu hai un Mostro Pendulum "Attore dell'Abisso" scoperto nel tuo Extra Deck: puoi scegliere come bersaglio 1 carta controllata dal tuo avversario; mettila in cima al Deck. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Escolha 1 monstro "Ator do Abismo" que você controla; neste turno, cada monstro que batalhar com ele, mas não for destruído, volta para a mão no final da Etapa de Dano. Se este card Baixado sob o controle do seu dono for destruído por um efeito de card do seu oponente e você tiver um Monstro Pêndulo "Ator do Abismo" com a face para cima no seu Deck Adicional: você pode escolher 1 card que seu oponente controla; coloque-o no topo do Deck. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Selecciona 1 monstruo "Actor del Abismo" que controles; en este turno, cada monstruo que batalle con él, pero no sea destruido, devuélvelo a la mano al final del Damage Step. Si esta carta Colocada controlada por su dueño es destruida por el efecto de una carta de tu adversario, y tienes un Monstruo de Péndulo "Actor del Abismo" boca arriba en tu Deck Extra: puedes seleccionar 1 carta que controle tu adversario; ponla en la parte superior del Deck. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：自分フィールドの「魔界劇団」モンスター１体を対象として発動できる。このターン、そのモンスターとの戦闘で破壊されなかったモンスターは、ダメージステップ終了時に持ち主の手札に戻る。②：自分のエクストラデッキに表側表示の「魔界劇団」Ｐモンスターが存在し、セットされたこのカードが相手の効果で破壊された場合、相手フィールドのカード１枚を対象として発動できる。そのカードを持ち主のデッキの一番上に戻す。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 자신 필드의 "마계극단" 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 턴에, 그 몬스터와의 전투로 파괴되지 않은 몬스터는, 데미지 스텝 종료시에 주인의 패로 되돌아간다. ②: 자신의 엑스트라 덱에 앞면 표시의 "마계극단" 펜듈럼 몬스터가 존재하고, 세트된 이 카드가 상대의 효과로 파괴되었을 경우, 상대 필드의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 주인의 덱 맨 위로 되돌린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2016-11-17  
+ DESO-EN023   
+ Destiny Soldiers 
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2016-11-17  
+ DESO-FR023   
+ Destiny Soldiers 
+ Les Soldats de la Destinée  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2016-11-17  
+ DESO-DE023   
+ Destiny Soldiers 
+ Destiny Soldiers  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2016-11-17  
+ DESO-IT023   
+ Destiny Soldiers 
+ Soldati del Destino  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2016-11-17  
+ DESO-PT023   
+ Destiny Soldiers 
+ Soldados do Destino  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2016-11-17  
+ DESO-SP023   
+ Destiny Soldiers 
+ Soldados del Destino  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2016-08-06  
+ SPDS-JP023   
+ Booster Special: Destiny Soldiers 
+ ブースターＳＰ －デステニー・ソルジャーズ－  
+ Common 
+ 
+ 
+ 2016-08-06  
+ SPDS-JP023   
+ Booster Special: Destiny Soldiers 
+ ブースターＳＰ －デステニー・ソルジャーズ－  
+ Normal Parallel Rare 
+ 
+ 
+ 2019-11-23  
+ LVP3-JP079   
+ LINK VRAINS Pack 3 
+ ＬＩＮＫ　ＶＲＡＩＮＳ　ＰＡＣＫ　３  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2016-11-22  
+ SPDS-KR023   
+ Booster Special: Destiny Soldiers 
+ 부스터-SP 데스티니 솔저스  
+ Common 
+ 
+ 
+ 2016-11-22  
+ SPDS-KR023   
+ Booster Special: Destiny Soldiers 
+ 부스터-SP 데스티니 솔저스  
+ Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Pendulum Monster 
+ 
+ Archetypes  and  series   
+ Abyss Script 
+ 
+ Supports   archetypes   
+ Abyss Actor 
+ 
+ Actions  
+ Returns from your opponent's field to your opponent's hand 
+ Activates if destroyed while Set 
+ Activates from your Graveyard 
+ Returns from your opponent's field to your opponent's Deck 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12717 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Abyss Script - Fantasy Magic " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Abyss Actor " 「 魔 界 劇 団 」 Members 
+ Abyss Actor - Comic Relief Abyss Actor - Curtain Raiser Abyss Actor - Evil Heel Abyss Actor - Extras Abyss Actor - Funky Comedian Abyss Actor - Hyper Director Abyss Actor - Leading Lady Abyss Actor - Liberty Dramatist Abyss Actor - Mellow Madonna Abyss Actor - Sassy Rookie Abyss Actor - Super Producer Abyss Actor - Superstar Abyss Actor - Trendy Understudy Abyss Actor - Twinkle Little Star Abyss Actor - Wild Hope 
+ Abyss Actors Back Stage Abyss Actors' Curtain Call Abyss Actors' Dress Rehearsal 
+ Support 
+ Abyss Actor - Comic Relief Abyss Actor - Curtain Raiser Abyss Actor - Evil Heel Abyss Actor - Extras Abyss Actor - Funky Comedian Abyss Actor - Hyper Director Abyss Actor - Leading Lady Abyss Actor - Mellow Madonna Abyss Actor - Sassy Rookie Abyss Actor - Super Producer Abyss Actor - Superstar Abyss Actor - Trendy Understudy Abyss Actor - Twinkle Little Star Abyss Actor - Wild Hope 
+ Abyss Actors Back Stage Abyss Actors' Curtain Call Abyss Actors' Dress Rehearsal Abyss Playhouse - Fantastic Theater Abyss Prop - Wild Wagon Abyss Script - Abysstainment Abyss Script - Dramatic Story Abyss Script - Fantasy Magic Abyss Script - Fire Dragon's Lair Abyss Script - Opening Ceremony Abyss Script - Rise of the Abyss King Abyss Script - Romantic Terror 
+ Related 
+ Set Rotation Stand In 
+ 
+   
+" Abyss Script " 「 魔 界 台 本 」 Members 
+ Abyss Script - Abysstainment Abyss Script - Dramatic Story Abyss Script - Fantasy Magic Abyss Script - Fire Dragon's Lair Abyss Script - Opening Ceremony Abyss Script - Rise of the Abyss King Abyss Script - Romantic Terror 
+ Support 
+ Abyss Actor - Comic Relief Abyss Actor - Curtain Raiser Abyss Actor - Evil Heel Abyss Actor - Leading Lady Abyss Actor - Liberty Dramatist Abyss Actor - Mellow Madonna Abyss Actor - Superstar 
+ Abyss Actors' Curtain Call Abyss Actors' Dress Rehearsal Abyss Playhouse - Fantastic Theater Abyss Script - Abysstainment Abyss Script - Rise of the Abyss King Abyss Script - Romantic Terror 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/09/AbyssScriptFantasyMagic-DESO-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20161117192035', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

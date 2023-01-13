@@ -1,0 +1,627 @@
+Link: https://yugioh.fandom.com/wiki/Xyz_Monster
+
+
+ 
+ Xyz Monster
+ 
+ 
+ 
+ " Daigusto Emeral ", " Number 30: Acid Golem of Destruction ", and " Lavalval Chain " in the artwork of  Overlay Regen .
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ Ｘ モンスター [Notes 1] 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ エクシーズ(モンスター) [Notes 2] 
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ Ｘモンスター
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Ekushīzu (Monsutā)
+ 
+ 
+ 
+ English
+ 
+ 
+ Xyz (Monster)
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : (Monstre) Xyz 
+ German : Xyz(-Monster) 
+ Italian : (Mostro) Xyz 
+ Portuguese : (Monstro) Xyz 
+ Spanish : (Monstruo) Xyz 
+ Korean : 엑시즈 (몬스터)  Eksijeu (Monseuteo) 
+ Traditional Chinese : 超量(怪獸)  Chāoliàng (Guàishòu) / Ciu1 leong6 (Gwaai3 sau3) 
+ Simplified Chinese : 超量(怪兽)  Chāoliàng (Guàishòu) 
+ 
+ 
+ 
+ 
+ 
+ Lists
+ 
+ 
+ 
+ 
+ members 
+ support 
+ anti-support 
+ 
+ Xyz Monsters  (pronounced ik-seez [1] ) (Japanese: エクシーズモンスター  Ekushīzu Monsutā ; usually abbreviated  Ｘ モンスター since  Duelist Alliance ) is a type of  Monster Card  that is colored  black . They are stored in the  Extra Deck . The card frame is also stylized by having it appear as if one is flying through space with many stars in the frame giving the appearance of one streaking by them and other stars appearing stationary due to relative distance (giving a realistic depiction of moving through space). 
+ Like other Extra Deck monsters, Xyz Monsters cannot exist in the  hand  or  Main Deck  (even with card effects). If an Xyz Monster would be moved to the hand or Main Deck, it is returned to the Extra Deck instead. If a card like " Transmigration Break " or " Degenerate Circuit " is applying, this will override the Xyz Monster's ability to return to the Extra Deck.
+ Like other Extra Deck monsters, if an Xyz Monster is not Xyz Summoned first, it cannot be  Special Summoned  from the  Graveyard  or while  banished  (unless it specifies another way to properly Special Summon it).
+ 
+ Contents 
+ 
+ 1   Ranks 
+ 2   Xyz Summoning 
+ 
+ 2.1   Xyz Materials 
+ 
+ 
+ 3   Commonalities 
+ 
+ 3.1   Effects 
+ 
+ 
+ 4   Xyz Evolution 
+ 
+ 4.1   Rank-Up 
+ 4.2   Rank-Down 
+ 
+ 
+ 5   In the anime 
+ 6   Examples 
+ 7   Trivia 
+ 8   Notes 
+ 9   References 
+ 
+ 
+ Ranks 
+ Xyz Monsters do not have  Levels , and instead have a  Rank . An Xyz Monster's Rank determines the required Levels of the Xyz Materials needed in order to  Xyz Summon  it. An Xyz Monster's Rank is depicted by a row of yellow stars in black orbs (as opposed to the yellow stars in red orbs used to depict a monster's Level) that extend outwards from the left-hand side of the card (the opposite side to Level stars).
+ Because they do not have Levels, Xyz Monsters cannot be used for  Ritual , Synchro, or Xyz Summons (unless otherwise specified). Effects that depend on a monster's Level, such as " Gravity Bind ", " Burden of the Mighty ", and " Roulette Barrel ", have no effect on Xyz Monsters.
+ 
+ Xyz Summoning 
+ Main article:  Xyz Summon 
+ A  Xyz Summon  is the act of Summoning an Xyz Monster from the Extra Deck using 2 or more monsters of the same  Level  as  Xyz Materials , with those monsters also being the same Level as the Xyz Monster's Rank.
+ During the  Main Phase , the turn player can Xyz Summon an Xyz Monster from the Extra Deck. When an Xyz Monster is Xyz Summoned, the Xyz Materials are stacked and  placed underneath  the Xyz Monster Card.
+ 
+ Xyz Materials 
+ Main article:  Xyz Material 
+ To perform an Xyz Summon, 2 or more monsters with the same Level must be used as the Xyz Materials.  Token Monsters  cannot be used as Xyz Materials. Monsters that do not have Levels (such as Xyz Monsters and  Link Monsters ) cannot be used as Xyz Materials unless specifically permitted (such as by " Number S0: Utopic ZEXAL "). While the majority of the Xyz Monsters require 2 Xyz Materials, many Xyz Monsters require more or can use a variable number of Materials.
+ While attached to an Xyz Monster (underneath the Xyz Monster Card), Xyz Materials are not treated as being on the  field . Cards being attached as an Xyz Material or used as an Xyz Material in an Xyz Summon are not considered to be  leaving the field .
+ If an Xyz Monster is no longer on the field, its Xyz Materials are  sent  to the  Graveyard . Xyz Materials remain attached if an Xyz Monster is  flipped   face-down .
+ 
+ Commonalities 
+ Effects 
+ Usually, Xyz Monsters need to detach an Xyz Material to activate their effects, meaning their effects often have a limited number of uses.
+ 
+ Xyz Evolution 
+ Main article:  Xyz Evolution 
+ See also:  Transfer 
+ Several Xyz Monsters can be Special Summoned by  Xyz Evolution , a kind of  Special Summon  treated as an Xyz Summon. Xyz Evolution allows an Xyz Monster to be Special Summoned using another Xyz Monster as its Xyz Material, also that Xyz Monster's Xyz Materials are  transferred  and attached to the Summoned Xyz Monster.
+ Unless stated specifically, like in most cards that perform Xyz Evolution, that the Xyz Materials will be  transferred  to the new Xyz Monsters, if an Xyz Monster is used in Xyz Summon (Such as due to the effect of " Xiangke Magician "), the Xyz Materials will be sent to Graveyard.
+ 
+ Rank-Up 
+ Main article:  Rank-Up 
+ " Rank-Up-Magic "  Spell Cards  can perform an Xyz Evolution, Special Summoning an Xyz Monster with a higher Rank than the original Xyz Monster.
+ Usually, Rank-Up Xyz Evoution Summons an Xyz Monster 1 Rank higher than the preceding Monster, but some cards Summons those 2 Ranks higer, or even more than 2.
+ 
+ Rank-Down 
+ Main article:  Rank-Down 
+ The  Spell Cards  " Rank-Down-Magic Numeron Fall " and " Rank-Down-Magic Utopia Fall " perform an Xyz Evolution, Special Summoning an Xyz Monster with a lower Rank than the original Xyz Monster.
+ 
+ In the anime 
+ Xyz Monsters are the main focus of  Yu-Gi-Oh! ZEXAL . Xyz Monsters are made of  antimatter , and have traveled to  Yuma 's dimension from the other side of a  black hole . [1]  The " Number " Xyz Monsters are claimed to be destined to destroy all universes.
+ 
+ Examples 
+ Non-Effect Xyz Monster Effect Xyz Monster Pendulum Xyz Monster 
+ Trivia 
+ Machine  is the Type with the largest variety of Ranks. There are Machine-Type Xyz Monsters of all Ranks from 3 to 12. 
+ " Number F0: Utopic Future ", " Number F0: Utopic Future Slash " and " Number S0: Utopic ZEXAL " are currently the only Xyz Monsters that do not have a printed Rank (although they are always treated as Rank 1). 
+ " Number Ci1000: Numerounius Numerounia " is currently the only released Xyz Monster with a printed Rank of 13 (and is treated as so). 
+ The background image (the black part) of an Xyz Monster card is similar to the card artwork of " Rank-Up-Magic Numeron Force ". 
+ Xyz Monsters can be seen as a conceptual evolution of  Dark Synchro Monsters  from  Yu-Gi-Oh! 5D's : 
+ This is most evident when comparing the two visually: both Dark Synchro and Xyz Monsters are black cards with a left-aligned row of modified star pips to represent an alternate property to standard Levels:  Negative Levels  or Ranks, respectively. Both have also been considered "opposite" to standard Synchro Monsters. 
+ Both  Iggy Arlo  and the  Stomptroopers  in the  Yu-Gi-Oh! ARC-V  anime mistakenly believed Xyz Monsters to be Level 0, because they do not have any Levels. 
+ Notes 
+ 
+ ↑   The frequently used abbreviated form. Simply substitute the furigana with the Latin letters for the full form. 
+ 
+ ↑   The parentheses here specify what part is not shown on the cards'  Type / Ability  line. 
+ 
+ 
+ References 
+ 
+ ↑  1.0   1.1   "Starter Deck: Dawn of the Xyz" .  Konami .  http://www.yugioh-card.com/en/products/starter2011.html .   Cite error: Invalid  <ref>  tag; name "SD11" defined multiple times with different content 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e0/GemKnightPearl-WIRA-EN-C-1E.png/revision/latest/scale-to-width-down/134?cb=20160213125536', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/12/EvilswarmOuroboros-PGL3-EN-GUR-1E.png/revision/latest/scale-to-width-down/138?cb=20160318214914', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2e/OddEyesRagingDragon-RATE-EN-UR-1E.png/revision/latest/scale-to-width-down/138?cb=20170209055042', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Pages with reference errors, Types of Monster Cards

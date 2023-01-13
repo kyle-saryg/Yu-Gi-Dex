@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<!-- <link rel="stylesheet" href="{{ url_for('static',filename='css/seragate.css') }}"> -->
+		<title>Yugi-Dex</title>
+	</head>
+
+	<body>
+		<p class="title">Yugi-Dex</p>
+		<div class="seragate">
+			{% for l in link %}
+			<h1>{{title}}</h1>
+			<h1>{{l}}</h1>
+			{% endfor %}
+            <a><img src="{{image}}" alt="No Image"></a>
+		</div>
+				
+	</body>	
+</html>

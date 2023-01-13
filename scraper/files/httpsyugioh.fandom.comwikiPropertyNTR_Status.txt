@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:NTR_Status
+
+This is for listing the NTR Status of Cards. It has type  string .
+ 
+ 
+ 
+ 
+Categories:

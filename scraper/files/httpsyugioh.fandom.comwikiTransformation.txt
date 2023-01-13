@@ -1,0 +1,96 @@
+Link: https://yugioh.fandom.com/wiki/Transformation
+
+
+ Transformation 
+ 
+ Japanese:   変身 
+ Kana:   へんしん 
+ Romaji:   Henshin 
+ 
+ 
+ 
+ 
+ en 
+ ja 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell 
+ 
+ Property 
+ 
+ 
+ Equip 
+ 
+ 
+ 
+ Equip  this card to a player.  Destroy  any  monster  that  attacks  the equipped player  directly , and the equipped player takes no  battle damage  from direct attacks. When this card is  sent  to the  Graveyard , the equipped player takes  damage  equal to the combined  attack points  of all monsters destroyed by this  effect . 
+ 
+ Appearances
+ 
+ 
+ 
+ 
+   GX :  008 ,  009 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Manga cards (Galleries:  GX ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 変 身 
+ このカードはプレイヤーに装備する。装備したプレイヤーを直接攻撃したモンスターは破壊される。このときのダメージは０。このカードが墓地に送られた時このカードの効果で破壊したモンスターの攻撃力の合計分ダメージを受ける 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Syrus Truesdale  
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Activates from your Graveyard 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your opponent's Monster Cards 
+ 
+ LP   
+ Prevents battle damage 
+ Damages you 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/71/Transformation-EN-Manga-GX.jpg/revision/latest/scale-to-width-down/200?cb=20170422210625', 'https://static.wikia.nocookie.net/yugioh/images/e/e1/Transformation-JP-Manga-GX-CA.png/revision/latest?cb=20141223045616', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/77/Transformation-JP-Manga-GX-NC.jpg/revision/latest/scale-to-width-down/116?cb=20120823204749', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Manga cards, Manga cards with no OCG/TCG counterpart

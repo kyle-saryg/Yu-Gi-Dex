@@ -1,0 +1,501 @@
+Link: https://yugioh.fandom.com/wiki/Unclassified_Effect
+
+Unclassified Effects  are  card effects  that do not fit into any effect category. Unlike  conditions , they are card effects, so they can potentially be  negated . They are similar to  Continuous Effects  as they do not  activate  (use a  Chain ), so cards that respond to activations like " Divine Wrath " and " Debunk " cannot respond to them.
+ In OCG rulings they are described by the following. " This effect does not have a classification. It is neither a  Continuous Effect  nor an  Ignition Effect  nor a  Trigger Effect  nor a  Quick Effect . "
+ Sometimes, these are colloquially referred to as  " Conditions  that can be negated" . However, unlike Continuous Effects, they can be applied while the card is not  face-up  on the  field , such as in the  hand  and  Graveyard , or in the case of the "Multiple Tributers", while  face-down  on the field as well.
+ 
+ Contents 
+ 
+ 1   Examples 
+ 2   Example 
+ 3   List of TCG and OCG Monsters with Unclassified Effects 
+ 4   References 
+ 
+ 
+ Examples 
+ " Summon effects "  such as " Cyber Dragon ", " Machina Fortress ", " Grapha, Dragon Lord of Dark World " and " Familiar-Possessed - Aussa ". As such, if " Dark Ruler Ha Des " destroys " Grapha, Dragon Lord of Dark World " by battle, "Grapha"'s Special Summoning effect cannot be used to Special Summon itself from the Graveyard. 
+ " Only-1-on-field "  such as " Solar Wind Jammer " and " Malefic " monsters. Note if " Skill Drain " is negating the effect of a face-up " Malefic Truth Dragon " on the field, you still cannot Summon another "Malefic" monster, since its effect is still active while it is in the hand. 
+ " Control only one "  such as " Bujin Yamato " and " Gagaga Magician ". Similar to the above restriction, you cannot Summon another copy if "Skill Drain" is negating the one on the field. 
+ "Substitute Effects"  such as " Destiny HERO - Departed " ( ... banish it instead ) and " Archlord Kristya " ( ... it returns to the top of the Deck, instead. ). 
+ " Treated as Continuous Spell Card "  such as " Pumprincess the Princess of Ghosts " and " Crystal Beast " monsters. 
+ " Multiple Tributers "  such as " Kaiser Sea Horse " and " Chronomaly Mayan Machine ". 
+ "Ritual Substitutes"  such as " Ritual Raven " and " Djinn of Rituals " monsters. 
+ " Fusion Substitute Monsters "  such as " Beastking of the Swamps " and " Mystical Sheep #1 ". 
+ "Graveyard effects"  such as " Phantom Beast Cross-Wing ", " Harpie Queen ", " Elemental HERO Necroshade " and  Gemini monsters . 
+ "Hand effects"  such as " Simorgh, Bird of Ancestry ". 
+ "Extra Deck Summon Level treat effects"  such as " Road Synchron " and " Star Drawing " 
+ " Summon cannot be negated "  such as " Obelisk the Tormentor " and " Star Eater ". 
+ "Grants effect when Tributed for a Tribute Summon"  such as " Hardened Armed Dragon ". 
+ "Grants effect when used for a Ritual Summon"  such as "Djinn of Rituals" monsters. 
+ " Grants effect as Synchro Material "  such as " Suanni, Fire of the Yang Zing " and " Torapart ". 
+ " Grants effect as Xyz Material  such as " Heroic Challenger - Extra Sword " and " Star Seraph Scepter ". 
+ " Set self from hand as Spell Card "  such as those of " Silver Sentinel " and most  Artifact  monsters. 
+ " Unconfirmed Effects  That Place a Condition on the Field"  such as " Constellar Pollux " and " Dodger Dragon ". 
+ Example 
+ 
+ List of TCG and OCG Monsters with Unclassified Effects 
+   Japanese name Rank Level Attribute Type Card type ATK DEF Abyss Shark アビス・シャーク 5 WATER Fish Effect Monster Monster Card 1,200 700 Alector, Sovereign of Birds 神禽王アレクトール 6 WIND Winged Beast Effect Monster Monster Card 2,400 2,000 Aleister the Invoker of Madness 暴走召喚師アレイスター DARK Spellcaster Effect Monster Monster Card Link Monster 1,800 Alien Hypno エーリアン・ヒュプノ 4 WATER Reptile Effect Monster Monster Card 1,600 700 Alien Overlord エーリアン・リベンジャー 6 DARK Reptile Effect Monster Monster Card 2,200 1,600 Altergeist Camouflage オルターガイスト・カモフラージュ Trap Card Normal Trap Card Altergeist Pookuery オルターガイスト・プークエリ 1 DARK Spellcaster Effect Monster Monster Card 300 100 Amazoness Baby Tiger アマゾネスペット仔虎 2 EARTH Beast Effect Monster Monster Card 500 500 Amazoness Princess アマゾネス王女 3 EARTH Warrior Effect Monster Monster Card 1,200 900 Amazoness Tiger アマゾネスペット虎 4 EARTH Beast Effect Monster Monster Card 1,100 1,500 ... further results 
+ References 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/b7/BlizzardPrincess-CT09-EN-SR-LE.png/revision/latest?cb=20141207231503']
+Categories: Gameplay

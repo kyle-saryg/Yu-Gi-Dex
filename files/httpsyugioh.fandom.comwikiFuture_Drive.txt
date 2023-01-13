@@ -1,0 +1,252 @@
+Link: https://yugioh.fandom.com/wiki/Future_Drive
+
+
+ 
+ 
+ Future Drive フューチャー・ドライブ 
+ 
+ English 
+Future Drive 
+ French 
+ Propulseur du Futur Check translation 
+ German 
+ Zukunftsschwung Check translation 
+ Italian 
+ Spinta Futura Check translation 
+ Korean 
+ 퓨처 드라이브 Check translation 
+ Portuguese 
+ Motivação Futura Check translation 
+ Spanish 
+ Motivación del Futuro Check translation 
+ Japanese 
+ フューチャー・ドライブ Check translation 
+ Japanese ( rōmaji ) 
+Fyūchā Doraibu 
+ Card type 
+ Spell   
+ Property 
+ Quick-Play   
+ Passcode 
+ 12508268 
+ Card effect types 
+ 
+ 
+ Effect 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Target  1 " Utopic Future "  Xyz Monster  you  control ; apply the following   effect (s) to that  monster  you control for the rest of this  turn . ● It can  attack  all monsters your opponent controls once each. ● If it  battles  an opponent's monster, that monster's effects are  negated  during the  Damage Step  only. ● Each time it  destroys  an opponent's monster  by battle , inflict  damage  to your opponent equal to the destroyed monster's original  ATK . You can only  activate  1 "Future Drive" per turn. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Ciblez 1 Monstre Xyz "Futur Utopique" que vous contrôlez ; le reste de ce tour, appliquez le ou les effets suivants au monstre que vous contrôlez. ● Il peut attaquer une fois tous les monstres contrôlés par votre adversaire. ● S'il combat un monstre de l'adversaire, les effets du monstre sont annulés durant la Damage Step uniquement. ● Chaque fois qu'il détruit un monstre de l'adversaire au combat, infligez des dommages à votre adversaire égaux à l'ATK d'origine du monstre détruit. Vous ne pouvez activer qu'1 "Propulseur du Futur" par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wähle 1 „Utopische Zukunft“-Xyz-Monster, das du kontrollierst; wende für den Rest dieses Spielzugs die folgenden Effekte auf jenes Monster an, das du kontrollierst. ● Es kann alle Monster, die dein Gegner kontrolliert, je einmal angreifen. ● Falls es gegen ein Monster eines Gegners kämpft, werden die Effekte jenes Monsters nur während des Damage Steps annulliert. ● Jedes Mal, wenn es ein Monster eines Gegners durch Kampf zerstört, füge deinem Gegner Schaden in Höhe der Grund-ATK des zerstörten Monsters zu. Du kannst nur 1 „Zukunftsschwung“ pro Spielzug aktivieren. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Scegli come bersaglio 1 Mostro Xyz "Futuro Utopico" che controlli; applica uno o più dei seguenti effetti a quel mostro che controlli per il resto di questo turno. ● Esso può attaccare tutti i mostri controllati dal tuo avversario una volta ciascuno. ● Se esso combatte con un mostro dell'avversario, gli effetti di quel mostro vengono annullati solamente durante il Damage Step. ● Ogni volta che distrugge un mostro dell'avversario in battaglia, infliggi al tuo avversario danno pari all'ATK originale del mostro distrutto. Puoi attivare solo 1 "Spinta Futura" per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Escolha 1 Monstro Xyz "Futuro Utópico" que você controla; aplique o(s) seguinte(s) efeito(s) a esse monstro que você controla pelo resto deste turno. ● Ele pode atacar todos os monstros que seu oponente controla uma vez cada. ● Se ele batalhar um monstro do oponente, os efeitos desse monstro são negados apenas durante a Etapa de Dano. ● Sempre que ele destruir um monstro do oponente em batalha, cause dano ao seu oponente igual ao ATK original do monstro destruído. Você só pode ativar 1 "Motivação Futura" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Selecciona 1 Monstruo Xyz "Futuro Utópico" que controles; por el resto de este turno, aplica el o los siguientes efectos a ese monstruo que controles. ● El monstruo puede atacar a todos los monstruos que controle tu adversario, una vez a cada uno. ● Si el monstruo batalla con un monstruo del adversario, los efectos de ese monstruo se niegan, sólo durante el Damage Step. ● Cada vez que el monstruo destruye un monstruo del adversario en batalla, inflige daño a tu adversario igual al ATK original del monstruo destruido. Sólo puedes activar 1 "Motivación del Futuro" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドの「未来皇ホープ」 Ｘ モンスター１体を対象として発動できる。このターン、その自分のモンスターに以下の効果を適用する。●そのモンスターは相手モンスター全てに１回ずつ攻撃できる。●そのモンスターが相手モンスターと戦闘を行うダメージステップの間、その相手モンスターの効果は無効化される。●そのモンスターが戦闘で相手モンスターを破壊する度に、その破壊されたモンスターの元々の攻撃力分のダメージを相手に与える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신 필드의 "미래황 호프" 엑시즈 몬스터 1장을 대상으로 하고 발동할 수 있다. 이 턴에, 그 자신 몬스터에 이하의 효과를 적용한다. ●그 몬스터는 상대 몬스터 전부에 1회씩 공격할 수 있다. ●그 몬스터가 상대 몬스터와 전투를 실행하는 데미지 스텝 동안, 그 상대 몬스터의 효과는 무효화된다. ●그 몬스터가 전투로 상대 몬스터를 파괴할 때마다, 그 파괴된 몬스터의 원래 공격력만큼의 데미지를 상대에게 준다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2020-01-16 LED6-EN038 Legendary Duelists: Magical Hero Rare 2022-07-21 LDS3-EN129 Legendary Duelists: Season 3 Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2020-01-16 LED6-FR038 Legendary Duelists: Magical Hero Duellistes Légendaires : Les Héros Magique Rare 2022-07-21 LDS3-FR129 Legendary Duelists: Season 3 Duellistes Légendaires : Saison 3 Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2020-01-16 LED6-DE038 Legendary Duelists: Magical Hero Legendary Duelists: Magical Hero Rare 2022-07-21 LDS3-DE129 Legendary Duelists: Season 3 Legendary Duelists: Season 3 Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2020-01-16 LED6-IT038 Legendary Duelists: Magical Hero Duellanti Leggendari: Eroe Magico Rare 2022-07-21 LDS3-IT129 Legendary Duelists: Season 3 Duellanti Leggendari: Stagione 3 Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2020-01-16 LED6-PT038 Legendary Duelists: Magical Hero Duelistas Lendários: Herói Mágico Rare 2022-07-21 LDS3-PT129 Legendary Duelists: Season 3 Duelistas Lendários: Temporada 3 Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2020-01-16 LED6-SP038 Legendary Duelists: Magical Hero Duelistas Legendarios: Héroe Mágico Rare 2022-07-21 LDS3-SP129 Legendary Duelists: Season 3 Duelistas Legendarios: Temporada 3 Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2019-11-09 DP23-JP038 Duelist Pack: Legend Duelist 6 デュエリストパック －レジェンドデュエリスト編６－ Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2020-02-05 DP23-KR038 Duelist Pack: Legend Duelist 6 듀얼리스트 팩 － 레전드듀얼리스트 편 6 － Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Xyz Monster 
+ 
+ Archetypes  and  series   
+ Signature move 
+ 
+ Supports   archetypes   
+ Utopic Future 
+ 
+ Actions  
+ Activates when it destroys a monster by battle 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your opponent's Effect Monsters 
+ 
+ Attack  categories  
+ Allows multiple attacks on monsters 
+ 
+ LP   
+ Damages your opponent 
+ 
+ Miscellaneous  
+ Requires control of specific archetype 
+ Requires control of specific Monster type 
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14924 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Signature move   必 殺 技 Members 
+ Ancient Gear Golem - Ultimate Pound Armityle the Chaos Phantasm - Phantom of Fury Cyber Slash Harpie Lady Firewall Dragon Darkfluid - Neo Tempest Terahertz Gandora Giga Rays the Dragon of Destruction Giltia the D. Knight - Soul Spear Harpie's Pet Dragon - Fearsome Fire Blast Kaiser Glider Golden Burst Meklord Emperor Wisel - Synchro Absorption Mystical Elf - White Lightning Number F0: Utopic Future Slash Raidraptor - Revolution Falcon - Air Raid Raviel, Lord of Phantasms - Shimmering Scraper 
+ Berserker Crush Blaze Cannon Burst Stream of Destruction Burst Stream of Destruction Cerulean Skyfire Chaos Scepter Blast Cosmic Flare Crimson Fire Cyber Energy Shock Dark Burning Attack Dark Burning Magic Dark Magic Attack Dark Magic Attack Decode Destruction Destruction Sword Flash Detonate Evolution Burst Evolution Result Burst Fist of Fate Fury of Kairyu-Shin Future Drive Hyper Blaze Inferno Fire Blast Inferno Fire Blast Light Wing Shield Magistery Alchemist Neutron Blast Obliterate!!! Photon Stream of Destruction Proton Blast Psychic Wave Rage of Kairyu-Shin Rainbow Refraction Rising Sun Slash Scrap Fist Silent Burning Silent Sword Slash Skydive Scorcher Soul Energy MAX!!! Spiral Flame Strike Spiral Spear Strike Super Strident Blaze Tachyon Transmigration Thunderforce Attack Torpedo Takedown Triangle Ecstasy Spark Vulcan Ignite Hyperdrive Wrath of Neos XYZ Hyper Cannon 
+ Related 
+ Ancient Gear Golem Armityle the Chaos Phantasm Barrel Dragon Blue-Eyes Ultimate Dragon Blue-Eyes White Dragon Blue-Eyes White Dragon Buster Blader Cyber Dragon Cyber End Dragon Cyber Harpie Lady Dark Magician Dark Magician Dark Magician Dark Magician Girl Dark Magician of Chaos Decode Talker Elemental HERO Electrum Elemental HERO Flame Wingman Elemental HERO Neos Exodia the Forbidden One Firewall Dragon Darkfluid Gaia The Fierce Knight Gaia the Dragon Champion Galaxy-Eyes Photon Dragon Gandora the Dragon of Destruction Giltia the D. Knight Hamon, Lord of Striking Thunder Harpie Lady Sisters Harpie's Pet Dragon Hyper Engine Vast Vulcan Jinzo Junk Warrior Kairyu-Shin Kaiser Glider Kuriboh Kuriboh Token Magician of Black Chaos Mystical Elf Number 39: Utopia Number F0: Utopic Future Number 107: Galaxy-Eyes Tachyon Dragon Odd-Eyes Pendulum Dragon Raidraptor - Revolution Falcon Rainbow Dark Dragon Rainbow Dragon Raviel, Lord of Phantasms Red Dragon Archfiend Red-Eyes Black Dragon Red-Eyes Black Dragon Silent Magician ... further results 
+ Magical Dimension Skyscraper 
+ 
+   
+" Utopic Future " 「 未 来 皇 ホープ」 Members 
+ Number F0: Utopic Draco Future Number F0: Utopic Future Number F0: Utopic Future Slash 
+ Support 
+ Gagagaga Magician 
+ Future Drive 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/03/FutureDrive-LDS3-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20220729193053', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/05/Quick-Play.svg/revision/latest/scale-to-width-down/28?cb=20120920115228']
+Categories: Duel Monsters cards, TCG cards, OCG cards

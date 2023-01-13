@@ -1,0 +1,489 @@
+Link: https://yugioh.fandom.com/wiki/GAOV-FR066
+
+The  Arabic, Chinese, Croatian  and  Greek                     names given are not official.  
+ The  Chinese                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Nitwit Outwit 奇 策 
+ 
+ English 
+Nitwit Outwit 
+ Chinese 
+ 奇策 Check translation 
+ French 
+ Nitwit Outwit Check translation 
+ German 
+ Tölpel übertölpeln Check translation 
+ Italian 
+ Furbizia Nitwit Check translation 
+ Korean 
+ 기책 Check translation 
+ Portuguese 
+ Tonto Astuto Check translation 
+ Spanish 
+ Tonto Astuto Check translation 
+ Japanese (kana) 
+ きさく Check translation 
+ Japanese (base) 
+ 奇策 Check translation 
+ Japanese ( rōmaji ) 
+Kisaku 
+ Japanese (translated) 
+Clever Scheme 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 49204190 
+ Card effect types 
+ 
+ 
+ Cost 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Discard  1  monster , then  target  1  face-up  monster on the  field ; it loses  ATK  equal to the discarded monster's  original ATK . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Défaussez 1 monstre, puis ciblez 1 monstre face recto sur le Terrain ; il perd une ATK égale à l'ATK d'origine du monstre défaussé. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wirf 1 Monster ab, um 1 offenes Monster auf dem Spielfeld zu wählen; es verliert ATK in Höhe der Grund-ATK des abgeworfenen Monsters. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Scarta 1 mostro, poi scegli come bersaglio 1 mostro scoperto sul Terreno; esso perde ATK pari all'ATK originale del mostro scartato. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Descarte 1 monstro e, depois, escolha 1 monstro com a face para cima no campo; ele perde ATK igual ao ATK original do monstro descartado. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Descarta 1 monstruo, y después selecciona 1 monstruo boca arriba en el Campo; éste pierde tanto ATK como el ATK original del monstruo descartado. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 手札からモンスター１体を捨て、フィールド上に表側表示で存在するモンスター１体を選択して発動できる。選択したモンスターの攻撃力は、捨てたモンスターの元々の攻撃力分ダウンする。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 稀有度：平卡N。效果：丢弃手卡中的一只怪兽，选择场上一只正面表示的怪兽发动此卡，选择的怪兽的攻击力下降[舍弃的那只怪兽的原本攻击力]的数值。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 패에서 몬스터 1장을 버리고, 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하여 발동할 수 있다. 선택한 몬스터의 공격력은, 버린 몬스터의 원래 공격력만큼 내린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2012-04-28  
+ GAOV-EN066   
+ Galactic Overlord 
+ Common 
+ 
+ 
+ 2013-03-01  
+ SP13-EN038   
+ Star Pack 2013 
+ Common 
+ 
+ 
+ 2013-03-01  
+ SP13-EN038   
+ Star Pack 2013 
+ Starfoil Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ 
+ North American English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2014-01-17  
+ BPW2-EN092   
+ War of the Giants: Round 2 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—Europe 
+ 
+ 
+ 
+ European English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2014-01-17  
+ WGRT-EN092   
+ War of the Giants Reinforcements 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-FR066   
+ Galactic Overlord 
+ Le Seigneur de la Galaxie  
+ Common 
+ 
+ 
+ 2013-02-28  
+ SP13-FR038   
+ Star Pack 2013 
+ Pack Étoile 2013  
+ Common 
+ 
+ 
+ 2013-02-28  
+ SP13-FR038   
+ Star Pack 2013 
+ Pack Étoile 2013  
+ Starfoil Rare 
+ 
+ 
+ 2014-01-17  
+ WGRT-FR092   
+ War of the Giants Reinforcements 
+ La Guerre des Géants Recommence  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-DE066   
+ Galactic Overlord 
+ Galactic Overlord  
+ Common 
+ 
+ 
+ 2013-02-28  
+ SP13-DE038   
+ Star Pack 2013 
+ Star Pack 2013  
+ Common 
+ 
+ 
+ 2013-02-28  
+ SP13-DE038   
+ Star Pack 2013 
+ Star Pack 2013  
+ Starfoil Rare 
+ 
+ 
+ 2014-01-16  
+ WGRT-DE092   
+ War of the Giants Reinforcements 
+ War of the Giants Reinforcements  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-IT066   
+ Galactic Overlord 
+ Sovrano Galattico  
+ Common 
+ 
+ 
+ 2013-02-28  
+ SP13-IT038   
+ Star Pack 2013 
+ Star Pack 2013  
+ Common 
+ 
+ 
+ 2013-02-28  
+ SP13-IT038   
+ Star Pack 2013 
+ Star Pack 2013  
+ Starfoil Rare 
+ 
+ 
+ 2014-01-16  
+ WGRT-IT092   
+ War of the Giants Reinforcements 
+ Guerra dei Giganti – I Rinforzi  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-SP066   
+ Galactic Overlord 
+ Señor Supremo Galáctico  
+ Common 
+ 
+ 
+ 2013-02-28  
+ SP13-SP038   
+ Star Pack 2013 
+ Sobre de Estrellas 2013  
+ Common 
+ 
+ 
+ 2013-02-28  
+ SP13-SP038   
+ Star Pack 2013 
+ Sobre de Estrellas 2013  
+ Starfoil Rare 
+ 
+ 
+ 2014-01-16  
+ WGRT-SP092   
+ War of the Giants Reinforcements 
+ Guerra de los Gigantes Refuerzos  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2012-02-18  
+ GAOV-JP066   
+ Galactic Overlord 
+ ＧＡＬＡＣＴＩＣ ＯＶＥＲＬＯＲＤ  
+ Common 
+ 
+ 
+ 2015-04-15  
+ EN01-JP017   
+ Entry Pack 
+ エントリーパック  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2012-05-21  
+ GAOV-KR066   
+ Galactic Overlord 
+ 갤럭틱 오버로드  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Actions  
+ Discards for cost 
+ 
+ Stat changes  
+ Your monsters lose ATK 
+ Your opponent's monsters lose ATK 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 10089 ( ja  ( rulings )   en   fr   de   it   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Nitwit Outwit " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/2b/NitwitOutwit-BPW2-NA-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140122120820', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

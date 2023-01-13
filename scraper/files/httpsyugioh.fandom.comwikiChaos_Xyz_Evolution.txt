@@ -1,0 +1,770 @@
+Link: https://yugioh.fandom.com/wiki/Chaos_Xyz_Evolution
+
+Xyz Evolution , known as  Xyz Change  (エクシーズ・チェンジ  Ekushīzu Chenji ) in Japanese, is term used in the  Yu-Gi-Oh! ZEXAL   and  Yu-Gi-Oh! ARC-V  series for an  Xyz Summon  performed using an  Xyz Monster  as the sole  Xyz Material .
+ This type of Xyz Summoning first appeared in the anime in  Yu-Gi-Oh! ZEXAL - Episode 018  when it was performed by  Yuma Tsukumo .
+ 
+ Contents 
+ 
+ 1   How to perform Xyz Evolution 
+ 2   Methods of performing Xyz Evolution 
+ 3   Examples 
+ 
+ 3.1   Example A: Via a Summoning condition on an appropriate Xyz Monster 
+ 3.2   Example B: Via a card effect 
+ 
+ 
+ 4   Types of Xyz Evolution in the anime and manga 
+ 
+ 4.1   Chaos Xyz Evolution 
+ 4.2   Non-"Rank-Up" methods 
+ 4.3   Rank-Up Xyz Evolution 
+ 4.4   Shining Xyz Evolution 
+ 4.5   Rank-Down Xyz De-Evolution 
+ 4.6   Other Xyz Evolution 
+ 
+ 
+ 5   List of monsters which can be Summoned via Xyz Evolution 
+ 
+ 5.1   OCG/TCG 
+ 5.2   Anime 
+ 5.3   Manga 
+ 
+ 
+ 6   List of cards that can perform Xyz Evolution 
+ 
+ 6.1   OCG/TCG 
+ 6.2   Anime 
+ 6.3   Manga 
+ 
+ 
+ 7   Trivia 
+ 
+ 
+ How to perform Xyz Evolution 
+ When performing an Xyz Evolution, an Xyz Monster on the field is used as the sole Xyz Material for the Xyz Summon of another Xyz Monster. Any Xyz Materials attached to the original Xyz Monster are  transferred  to the Summoned Xyz Monster.
+ Xyz Summons in which multiple Xyz Monsters are used as material (such as the regular Xyz Summon of " Number F0: Utopic Future ") are not Xyz Evolution, and hence Xyz Materials are not necessarily transferred.
+ 
+ Methods of performing Xyz Evolution 
+ An Xyz Evolution can be performed by utilizing the Summoning procedure of an Xyz Monster or by a card effect. 
+ Some Xyz Monsters have a Summoning procedure that allows it to be Xyz Summoned by using a single Xyz Monster as material, usually with some kind of restriction on the Xyz Monster that can be used. This is typically worded as  You can also Xyz Summon this card by using […] as material. (Transfer its materials to this card.) 
+ Many card effects can perform Xyz Evolution when they resolve. For example, " Noble Arms - Excaliburn " and most " Rank-Up-Magic "  Spell Cards  perform Xyz Evolution.
+ 
+ Examples 
+ Example A: Via a Summoning condition on an appropriate Xyz Monster 
+ An appropriate Xyz Monster to be used as Xyz Material (" Number 39: Utopia ") An Xyz Monster with an Xyz Evolution Summoning procedure (" Number C39: Utopia Ray ") 
+ Example B: Via a card effect 
+ An appropriate  Xyz Monster (" Number 39: Utopia ") + A card that performs Xyz Evolution (" Rank-Up-Magic Limited Barian's Force ") = An appropriate Xyz Monster (" Number C39: Utopia Ray V ") 
+ Types of Xyz Evolution in the anime and manga 
+ Chaos Xyz Evolution 
+       The Chaos Xyz Evolution's Overlay Network in the  Yu-Gi-Oh! ZEXAL II  arc     
+ Chaos Xyz Evolution (Japanese: カオスエクシーズ・チェンジ  Kaosu Ekushīzu Chenji ) is the first type of Xyz Evolution shown in the anime, debuting in  Episode 18  of  Yu-Gi-Oh! ZEXAL  when it was performed by  Yuma Tsukumo .
+ The method to Summon a "Number C" or "CXyz" Monster is the same as the  OCG / TCG . In addition the requirement to gain a  Number C  is for one to "carve a clear path" out of the  chaos  of confusion into the light. Later in the  Barian Invasion  arc, Chaos Xyz Evolution can be also achieved through a  Rank-Up-Magic  card (i.e. " Rank-Up-Magic Barian's Force "), the Field Spell Card " Chaos Field ", or the Continuous Spell Card " Don Thousand's Throne ".
+ Two additional one-off variations of Chaos Xyz Evolution were also seen in two episodes of  ZEXAL :
+ 
+ Episode 137 :  Vector  performed a  Direct Chaos Xyz Evolution  (Japanese: ダイレクト・カオスエクシーズ・チェンジ  Dairekuto Kaosu Ekushīzu Chenji ) using " Rank-Up-Magic Admiration of the Thousands " to Xyz Summon " Number C5: Chaos Chimera Dragon " without having to use its base counterpart, " Number 5: Doom Chimera Dragon " as Xyz Material. 
+ Episode 140 :  Don Thousand  performed an  Extermination Chaos Xyz Evolution  (Japanese: エクスターミネーション・カオスエクシーズ・チェンジ  Ekusutāminēshon Kaosu Ekushīzu Chenji ) to Xyz Summon " Number iC1000: Numeronius Numeronia " upon the destruction of " Number C1000: Numeronius " and attaching "Numeronius" to itself as an Xyz Material. 
+ Non-"Rank-Up" methods 
+ These cards can be Special Summoned normally via regular  Xyz Summon , but can also be Special Summoned by using certain other cards.
+ 
+ 
+ 
+ Monster
+ 
+ Japanese Name
+ 
+ Rank 
+ 
+ Attribute 
+ 
+ Type 
+ 
+ ATK 
+ 
+ DEF 
+ 
+ 
+ Number C1: Numeron Chaos Gate Sunya 
+ 
+ ＣＮｏ．１ ゲート・オブ・カオス・ヌメロン－シニューニャ
+ 
+ 2 
+ 
+ DARK 
+ 
+ Machine 
+ 
+ 2000 
+ 
+ 1000 
+ 
+ 
+ Number C32: Shark Drake Veiss 
+ 
+ ＣＮｏ．３２海咬龍シャーク・ドレイク・バイス
+ 
+ 4 
+ 
+ WATER 
+ 
+ Sea Serpent 
+ 
+ 2800 
+ 
+ 2100 
+ 
+ 
+ Number C39: Utopia Ray 
+ 
+ ＣＮｏ．３９希望皇ホープレイ
+ 
+ 4 
+ 
+ LIGHT 
+ 
+ Warrior 
+ 
+ 2500 
+ 
+ 2000 
+ 
+ Rank-Up  Xyz Evolution 
+ Rank-Up Xyz Evolution  (Japanese: ランクアップ・エクシーズ・チェンジ  Rankuappu Ekushīzu Chenji , Rank-Up Xyz Change) is the evolved form of  Xyz Summoning  in the  Yu-Gi-Oh! ZEXAL  and  ARC-V  anime. It was first seen in  Episode 119  of  Yu-Gi-Oh! ZEXAL  when it was performed by  Eliphas . 
+ Unlike Chaos Xyz Evolution, this method does not use the power of  Chaos . It is only possible through Rank-Up and cannot be performed simply by using a certain monster as Xyz Material. It also differs in the way that all Rank-Up Xyz Evolution counterparts need the same number of materials to be Summoned (if not Summoned via Rank-Up), whereas Chaos Xyz Evolution counterparts require 1 more material.
+ In  episode 146  of  Yu-Gi-Oh! ZEXAL ,  Astral  showcased a new type of Rank-Up Xyz Evolution called  Hyper Xyz Evolution  (Japanese: ランクアップ　ハイパーエクシーズチェンジ  Rankuappu Haipā Ekushīzu Chenji ), which was achieved through " Hyper-Rank-Up-Magic Ultimate Force ", allowing him to Rank-Up the Rank 1 " Number 39: Utopia Roots " all the way to the Rank 10 " Number 99: Utopic Dragon ".
+ In  chapter 42  of the  Yu-Gi-Oh! ZEXAL  manga,  Yuma Tsukumo  gained the ability to perform Rank-Up Xyz Evolution by creating " Rank-Up-Magic Shining Force " through the power of Destiny Draw. This allowed him to Rank-Up his Rank 4 " Number S39: Utopia One " into the Rank 5 " Number S39: Utopia the Lightning ".
+ This type of Summoning also appears in  Yu-Gi-Oh! ARC-V . 
+ 
+ Shining Xyz Evolution 
+       The first Shining Xyz Evolution in the Manga.     
+ Shining Xyz Evolution  (Japanese: シャイニングエクシーズ・チェンジ　 Shainingu Ekushīzu Chenji ) is a form of  Xyz Summoning  in the  Yu-Gi-Oh! ZEXAL  manga, similar to the Chaos Xyz Evolution. It was first used in  Rank 32  by  Yuma Tsukumo . 
+ In the  Yu-Gi-Oh! ZEXAL  manga,  Astral  first awakened to the ability to perform a Shining Xyz Evolution when the orbs of light that appeared in front of Yuma's,  Kaito 's and  Shark 's chests connected, representing the moment of the birth of Yuma's bonds with Kaito and Shark. According to Astral himself, the strengthening of their bonds managed to release some of his power, creating the "Shining  Number " in Yuma's  Extra Deck . At that moment, Astral shined so clearly that he became visible for an instant.
+ 
+ Rank-Down  Xyz De-Evolution 
+ Rank-Down Xyz De-Evolution  (ランクダウン・エクシーズ・チェンジ  Rankudaun Ekushīzu Chenji ) is a variant of Xyz Evolution in the  Yu-Gi-Oh! ZEXAL  anime used to Summon  Xyz Monsters  with a lower  Rank  than the Xyz Monster used as Xyz Material. It was first seen in the Duel between  Eliphas  and  Yuma Tsukumo , when Yuma used " Rank-Down-Magic Numeron Fall " to Rank-Down " Number 39: Utopia " into " Number 39: Utopia Roots ".
+ 
+ Other Xyz Evolution 
+ These cards have a  Summoning condition  allowing them to be Summoned by using one or more specific  Xyz Monsters  as  Xyz Material , in addition to their regular method of  Xyz Summoning  using monsters whose  Levels  match their  Ranks ; however, they do not go through any explicit  Chaos  or  Shining  Xyz Evolution. In the anime, this is not referred to as "Xyz Evolution", only being referred to as "Xyz Summon" like any other.
+ 
+ List of monsters which can be Summoned via Xyz Evolution 
+ OCG/TCG 
+   Japanese name Secondary type Attribute Type Rank ATK DEF Beatrice, Lady of the Eternal 永遠の淑女 ベアトリーチェ LIGHT Fairy 6 2500 2800 CXyz Barian Hope ＣＸ 冀望皇バリアン LIGHT Warrior 7 0 0 CXyz N.As.Ch. Knight ＣＸ－Ｎ・Ａｓ・Ｃｈ Ｋｎｉｇｈｔ WATER Aqua 6 2000 3000 Constellar Ptolemy M7 セイクリッド・トレミスＭ７ LIGHT Machine 6 2700 2000 Cyber Dragon Infinity サイバー・ドラゴン・インフィニティ LIGHT Machine 6 2100 1600 D/D/D Deviser King Deus Machinex ＤＤＤ赦俿王デス・マキナ DARK Fiend 10 3000 3000 D/D/D Marksman King Tell ＤＤＤ狙撃王テル DARK Fiend 5 2300 2000 Darktellarknight Batlamyus 煉獄の騎士 ヴァトライムス DARK Warrior 4 2600 550 Digital Bug Corebage 電子光虫－コアベージ LIGHT Insect 5 2200 1800 Digital Bug Rhinosebus 電子光虫－ライノセバス LIGHT Insect 7 2600 2200 Divine Arsenal AA-ZEUS - Sky Thunder 天霆號アーゼウス LIGHT Machine 12 3000 3000 Downerd Magician ダウナード・マジシャン DARK Spellcaster 4 2100 200 Drill Driver Vespenato 旋壊のヴェスペネイト EARTH Machine 5 2500 2100 Ebon Illusion Magician 幻想の黒魔導師 DARK Spellcaster 7 2500 2100 Full Armored Black Ray Lancer ＦＡ－ブラック・レイ・ランサー WATER Beast-Warrior 4 2100 600 Full Armored Crystalzero Lancer ＦＡ－クリスタル・ゼロ・ランサー WATER Warrior 6 2200 1600 Gaia Dragon, the Thunder Charger 迅雷の騎士ガイアドラグーン WIND Dragon 7 2600 2100 Galaxy-Eyes Cipher Blade Dragon 銀河眼の光波刃竜 LIGHT Dragon 9 3200 2800 Galaxy-Eyes Cipher X Dragon 銀河眼の極光波竜 LIGHT Dragon 10 4000 3000 Galaxy-Eyes Full Armor Photon Dragon ギャラクシーアイズ　ＦＡ・フォトン・ドラゴン LIGHT Dragon 8 4000 3500 Ghostrick Angel of Mischief ゴーストリックの駄天使 DARK Fairy 4 2000 2500 Madolche Puddingcess Chocolat-a-la-Mode マドルチェ・プディンセス・ショコ・ア・ラ・モード EARTH Fairy 5 2500 2200 Number 21: Frozen Lady Justice Ｎｏ.２１ 氷結のレディ・ジャスティス WATER Aqua 6 500 500 Number 27: Dreadnought Dreadnoid Ｎｏ.２７ 弩級戦 艦ードレッドノイド WATER Machine 4 2200 1000 Number 39: Utopia Double Ｎｏ.３９ 希望皇ホープ・ダブル LIGHT Warrior 4 0 2500 Number 77: The Seven Sins Ｎｏ.７７ ザ・セブン・シンズ DARK Fiend 12 4000 3000 Number 78: Number Archive Ｎｏ.７８ ナンバーズ・アーカイブ LIGHT Spellcaster 1 0 0 Number 84: Pain Gainer Ｎｏ.８４ ペイン・ゲイナー DARK Insect 11 0 0 Number 95: Galaxy-Eyes Dark Matter Dragon Ｎｏ.９５ ギャラクシーアイズ・ダークマター・ドラゴン DARK Dragon 9 4000 0 Number 99: Utopic Dragon Ｎｏ.９９ 希望皇龍ホープドラグーン LIGHT Dragon 10 4000 2000 Number F0: Utopic Draco Future ＦＮｏ.０ 未来龍皇ホープ LIGHT Warrior 0 3000 2000 Number F0: Utopic Future Slash ＦＮｏ.０ 未来皇ホープ－フューチャー・スラッシュ LIGHT Warrior 0 0 0 Number S0: Utopic ZEXAL ＳＮｏ.０ ホープ・ゼアル LIGHT Warrior 0 ? ? Number C1: Numeron Chaos Gate Sunya ＣＮｏ.１ ゲート・オブ・カオス・ヌメロン－シニューニャ DARK Machine 2 2000 1000 Number C32: Shark Drake Veiss ＣＮｏ.３２ 海咬龍シャーク・ドレイク・バイス WATER Sea Serpent 4 2800 2100 Number C39: Utopia Ray ＣＮｏ.３９ 希望皇ホープレイ LIGHT Warrior 4 2500 2000 Number S39: Utopia the Lightning ＳＮｏ.３９ 希望皇ホープ・ザ・ライトニング LIGHT Warrior 5 2500 2000 Odd-Eyes Rebellion Dragon Overlord 覇王黒竜オッドアイズ・リベリオン・ドラゴン－オーバーロード DARK Dragon 7 3000 2500 Outer Entity Azathot 外神アザトート DARK Fiend 5 2400 0 Raider's Knight レイダーズ・ナイト DARK Warrior 4 2000 0 Raidraptor - Revolution Falcon - Air Raid ＲＲ－レヴォリューション・ファルコン－エアレイド DARK Winged Beast 6 2000 3000 Salamangreat Blaze Dragon 転生炎獣ブレイズ・ドラゴン FIRE Cyberse 4 2300 1200 Stellarknight Constellar Diamond 星輝士 セイクリッド・ダイヤ LIGHT Wyrm 5 2700 2000 Superdreadnought Rail Cannon Juggernaut Liebe 超弩級砲塔列車ジャッガーノート・リーベ EARTH Machine 11 4000 4000 Tellarknight Ptolemaeus 星守の騎士 プトレマイオス LIGHT Warrior 4 550 2600 Zoodiac Boarbow 十二獣ワイルドボウ EARTH Beast-Warrior 4 ? ? Zoodiac Broadbull 十二獣ブルホーン EARTH Beast-Warrior 4 ? ? Zoodiac Chakanine 十二獣ライカ EARTH Beast-Warrior 4 ? ? Zoodiac Drident 十二獣ドランシア EARTH Beast-Warrior 4 ? ? Zoodiac Hammerkong 十二獣ハマーコング EARTH Beast-Warrior 4 ? ? ... further results (1 more) 
+ Anime 
+   Japanese name Secondary type Attribute Type Rank ATK DEF CXyz Barian Hope ＣＸ 冀望皇バリアン LIGHT Warrior 0 0 0 7 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 Constellar Ptolemy M7 セイクリッド・トレミスＭ７ LIGHT Machine 0 0 0 6 0 0 0 0 0 ??? 0 0 0 0 2700 Digital Bug Corebage 電子光虫－コアベージ LIGHT Insect 0 0 0 5 0 0 0 0 0 ??? 0 0 0 0 2200 Gaia Dragon, the Thunder Charger 迅雷の騎士ガイアドラグーン WIND Dragon 0 0 0 7 0 0 0 0 0 ??? 0 0 0 0 2600 Number C1: Numeron Chaos Gate Sunya ＣＮｏ．１ ゲート・オブ・カオス・ヌメロン－シニューニャ DARK Machine 0 0 0 2 0 0 0 0 0 ??? 0 0 0 0 2000 Number C32: Shark Drake Veiss ＣＮｏ.３２ 海咬龍シャーク・ドレイク・バイス WATER Sea Serpent 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 2800 Number C39: Utopia Ray ＣＮｏ.３９ 希望皇ホープレイ LIGHT Warrior 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 2500 Salamangreat Blaze Dragon 転生炎獣ブレイズ・ドラゴン FIRE Cyberse 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 2300 Zoodiac Hammerkong 十二獣ハマーコング EARTH Beast-Warrior 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 0 0 0 ? 
+ Manga 
+ List of cards that can perform Xyz Evolution 
+ OCG/TCG 
+   Japanese name Secondary type Attribute Type Rank ATK DEF Beatrice, Lady of the Eternal 永遠の淑女 ベアトリーチェ LIGHT Fairy 6 2500 2800 Bujin Hiruko 武神－ヒルコ LIGHT Beast-Warrior 4 1000 2000 CXyz Barian Hope ＣＸ 冀望皇バリアン LIGHT Warrior 7 0 0 CXyz N.As.Ch. Knight ＣＸ－Ｎ・Ａｓ・Ｃｈ Ｋｎｉｇｈｔ WATER Aqua 6 2000 3000 Constellar Ptolemy M7 セイクリッド・トレミスＭ７ LIGHT Machine 6 2700 2000 Cyber Dragon Infinity サイバー・ドラゴン・インフィニティ LIGHT Machine 6 2100 1600 D/D/D Deviser King Deus Machinex ＤＤＤ赦俿王デス・マキナ DARK Fiend 10 3000 3000 D/D/D Marksman King Tell ＤＤＤ狙撃王テル DARK Fiend 5 2300 2000 Darktellarknight Batlamyus 煉獄の騎士 ヴァトライムス DARK Warrior 4 2600 550 Digital Bug Corebage 電子光虫－コアベージ LIGHT Insect 5 2200 1800 Digital Bug Rhinosebus 電子光虫－ライノセバス LIGHT Insect 7 2600 2200 Divine Arsenal AA-ZEUS - Sky Thunder 天霆號アーゼウス LIGHT Machine 12 3000 3000 Downerd Magician ダウナード・マジシャン DARK Spellcaster 4 2100 200 Drill Driver Vespenato 旋壊のヴェスペネイト EARTH Machine 5 2500 2100 Ebon Illusion Magician 幻想の黒魔導師 DARK Spellcaster 7 2500 2100 Full Armored Black Ray Lancer ＦＡ－ブラック・レイ・ランサー WATER Beast-Warrior 4 2100 600 Full Armored Crystalzero Lancer ＦＡ－クリスタル・ゼロ・ランサー WATER Warrior 6 2200 1600 Gaia Dragon, the Thunder Charger 迅雷の騎士ガイアドラグーン WIND Dragon 7 2600 2100 Galaxy-Eyes Cipher Blade Dragon 銀河眼の光波刃竜 LIGHT Dragon 9 3200 2800 Galaxy-Eyes Cipher X Dragon 銀河眼の極光波竜 LIGHT Dragon 10 4000 3000 Galaxy-Eyes Full Armor Photon Dragon ギャラクシーアイズ　ＦＡ・フォトン・ドラゴン LIGHT Dragon 8 4000 3500 Ghostrick Angel of Mischief ゴーストリックの駄天使 DARK Fairy 4 2000 2500 Madolche Puddingcess Chocolat-a-la-Mode マドルチェ・プディンセス・ショコ・ア・ラ・モード EARTH Fairy 5 2500 2200 Number 21: Frozen Lady Justice Ｎｏ.２１ 氷結のレディ・ジャスティス WATER Aqua 6 500 500 Number 27: Dreadnought Dreadnoid Ｎｏ.２７ 弩級戦 艦ードレッドノイド WATER Machine 4 2200 1000 Number 39: Utopia Double Ｎｏ.３９ 希望皇ホープ・ダブル LIGHT Warrior 4 0 2500 Number 77: The Seven Sins Ｎｏ.７７ ザ・セブン・シンズ DARK Fiend 12 4000 3000 Number 78: Number Archive Ｎｏ.７８ ナンバーズ・アーカイブ LIGHT Spellcaster 1 0 0 Number 84: Pain Gainer Ｎｏ.８４ ペイン・ゲイナー DARK Insect 11 0 0 Number 95: Galaxy-Eyes Dark Matter Dragon Ｎｏ.９５ ギャラクシーアイズ・ダークマター・ドラゴン DARK Dragon 9 4000 0 Number 99: Utopic Dragon Ｎｏ.９９ 希望皇龍ホープドラグーン LIGHT Dragon 10 4000 2000 Number F0: Utopic Draco Future ＦＮｏ.０ 未来龍皇ホープ LIGHT Warrior 0 3000 2000 Number F0: Utopic Future Slash ＦＮｏ.０ 未来皇ホープ－フューチャー・スラッシュ LIGHT Warrior 0 0 0 Number S0: Utopic ZEXAL ＳＮｏ.０ ホープ・ゼアル LIGHT Warrior 0 ? ? Number C1: Numeron Chaos Gate Sunya ＣＮｏ.１ ゲート・オブ・カオス・ヌメロン－シニューニャ DARK Machine 2 2000 1000 Number C32: Shark Drake Veiss ＣＮｏ.３２ 海咬龍シャーク・ドレイク・バイス WATER Sea Serpent 4 2800 2100 Number C39: Utopia Ray ＣＮｏ.３９ 希望皇ホープレイ LIGHT Warrior 4 2500 2000 Number S39: Utopia the Lightning ＳＮｏ.３９ 希望皇ホープ・ザ・ライトニング LIGHT Warrior 5 2500 2000 Odd-Eyes Rebellion Dragon Overlord 覇王黒竜オッドアイズ・リベリオン・ドラゴン－オーバーロード DARK Dragon 7 3000 2500 Outer Entity Azathot 外神アザトート DARK Fiend 5 2400 0 Raider's Knight レイダーズ・ナイト DARK Warrior 4 2000 0 Raidraptor - Revolution Falcon - Air Raid ＲＲ－レヴォリューション・ファルコン－エアレイド DARK Winged Beast 6 2000 3000 Salamangreat Blaze Dragon 転生炎獣ブレイズ・ドラゴン FIRE Cyberse 4 2300 1200 Stellarknight Constellar Diamond 星輝士 セイクリッド・ダイヤ LIGHT Wyrm 5 2700 2000 Superdreadnought Rail Cannon Juggernaut Liebe 超弩級砲塔列車ジャッガーノート・リーベ EARTH Machine 11 4000 4000 Tellarknight Ptolemaeus 星守の騎士 プトレマイオス LIGHT Warrior 4 550 2600 Zoodiac Boarbow 十二獣ワイルドボウ EARTH Beast-Warrior 4 ? ? Zoodiac Broadbull 十二獣ブルホーン EARTH Beast-Warrior 4 ? ? Zoodiac Chakanine 十二獣ライカ EARTH Beast-Warrior 4 ? ? Zoodiac Drident 十二獣ドランシア EARTH Beast-Warrior 4 ? ? ... further results (2 more) 
+   Japanese name Card type Property Bug Signal 光虫信号 Spell Card Quick-Play Spell Card Quick-Play Spell Card Don Thousand's Throne ドン・サウザンドの玉座 Spell Card Continuous Spell Card Continuous Spell Card Eternal Galaxy 永遠なる銀河 Trap Card Normal Trap Card Normal Trap Card Ghostrick Renovation ゴーストリック・リフォーム Trap Card Normal Trap Card Normal Trap Card Noble Arms - Excaliburn 聖剣 ＥＸ－カリバーン Spell Card Equip Spell Card Equip Spell Card Outrigger Extension 超接地展開 Spell Card Continuous Spell Card Continuous Spell Card Phantom Knights' Rank-Up-Magic Force ＲＵＭ－ファントム・フォース Spell Card Quick-Play Spell Card Quick-Play Spell Card The Phantom Knights' Rank-Up-Magic Launch ＲＵＭ－幻影騎士団ラウンチ Spell Card Quick-Play Spell Card Quick-Play Spell Card Rank-Up-Magic Admiration of the Thousands ＲＵＭ－千死蛮巧 Spell Card Normal Spell Card Normal Spell Card Rank-Up-Magic Argent Chaos Force ＲＵＭ－アージェント・カオス・フォース Spell Card Normal Spell Card Normal Spell Card Rank-Up-Magic Astral Force ＲＵＭ－アストラル・フォース Spell Card Normal Spell Card Normal Spell Card Rank-Up-Magic Barian's Force ＲＵＭ－バリアンズ・フォース Spell Card Normal Spell Card Normal Spell Card Rank-Up-Magic Cipher Ascension ＲＵＭ－光波昇華 Spell Card Quick-Play Spell Card Quick-Play Spell Card Rank-Up-Magic Doom Double Force ＲＵＭ－デス・ダブル・フォース Spell Card Quick-Play Spell Card Quick-Play Spell Card Rank-Up-Magic Limited Barian's Force ＲＵＭ－リミテッド・バリアンズ・フォース Spell Card Normal Spell Card Normal Spell Card Rank-Up-Magic Numeron Force ＲＵＭ－ヌメロン・フォース Spell Card Normal Spell Card Normal Spell Card Rank-Up-Magic Quick Chaos ＲＵＭ－クイック・カオス Spell Card Quick-Play Spell Card Quick-Play Spell Card Rank-Up-Magic Raid Force ＲＵＭ－レイド・フォース Spell Card Normal Spell Card Normal Spell Card Rank-Up-Magic Raptor's Force ＲＵＭ－ラプターズ・フォース Spell Card Quick-Play Spell Card Quick-Play Spell Card Rank-Up-Magic Revolution Force ＲＵＭ－レヴォリューション・フォース Spell Card Quick-Play Spell Card Quick-Play Spell Card Rank-Up-Magic Skip Force ＲＵＭ－スキップ・フォース Spell Card Normal Spell Card Normal Spell Card Rank-Up-Magic Soul Shave Force ＲＵＭ－ソウル・シェイブ・フォース Spell Card Normal Spell Card Normal Spell Card Rank-Up-Magic Zexal Force ＲＵＭ－ゼアル・フォース Spell Card Normal Spell Card Normal Spell Card Resurgam Xyz リサーガム・エクシーズ Trap Card Continuous Trap Card Continuous Trap Card Xyz Revive Splash エクシーズ・リバイブ・スプラッシュ Trap Card Normal Trap Card Normal Trap Card Zenmaiday 発条の巻き上げ Trap Card Continuous Trap Card Continuous Trap Card 
+ Anime 
+   Japanese name Card type Property Chaos Field カオス・フィールド Spell Card Field Spell Card Don Thousand's Throne ドン・サウザンドの玉座 Spell Card Continuous Spell Card The Phantom Knights' Rank-Up-Magic Launch ＲＵＭ－幻影騎士団ラウンチ Spell Card Normal Spell Card Rank-Up-Magic - The Seventh One ＲＵＭ－七皇の剣 Spell Card Normal Spell Card Rank-Up-Magic Admiration of the Thousands ＲＵＭ－千死蛮巧 Spell Card Normal Spell Card Rank-Up-Magic Argent Chaos Force ＲＵＭ－アージェント・カオス・フォース Spell Card Normal Spell Card Rank-Up-Magic Astral Force ＲＵＭ－アストラル・フォース Spell Card Normal Spell Card Rank-Up-Magic Barian's Force ＲＵＭ－バリアンズ・フォース Spell Card Normal Spell Card Rank-Up-Magic Barian's Force ＲＵＭ－バリアンズ・フォース Spell Card Normal Spell Card Rank-Up-Magic Battle Up Force ＲＵＭ－バトル・アップ・フォース Spell Card Quick-Play Spell Card Rank-Up-Magic Cipher Ascension ＲＵＭ－光波昇華 Spell Card Normal Spell Card Rank-Up-Magic Cipher Pursuit ＲＵＭ－光波追撃 Spell Card Quick-Play Spell Card Rank-Up-Magic Cipher Shock ＲＵＭ－光波衝撃 Spell Card Quick-Play Spell Card Rank-Up-Magic Devotion Force ＲＵＭ－デヴォーション・フォース Spell Card Quick-Play Spell Card Rank-Up-Magic Doom Double Force ＲＵＭ－デス・ダブル・フォース Spell Card Quick-Play Spell Card Rank-Up-Magic Limited Barian's Force ＲＵＭ－リミテッド・バリアンズ・フォース Spell Card Normal Spell Card Rank-Up-Magic Limitover Force ＲＵＭ－リミット・オーバー・フォース Spell Card Quick-Play Spell Card Rank-Up-Magic Numeron Force ＲＵＭ－ヌメロン・フォース Spell Card Normal Spell Card Rank-Up-Magic Quick Chaos ＲＵＭ－クイック・カオス Spell Card Quick-Play Spell Card Rank-Up-Magic Raid Force ＲＵＭ－レイド・フォース Spell Card Normal Spell Card Rank-Up-Magic Raptor's Force ＲＵＭ－ラプターズ・フォース Spell Card Quick-Play Spell Card Rank-Up-Magic Revolution Force ＲＵＭ－レヴォリューション・フォース Spell Card Quick-Play Spell Card Rank-Up-Magic Skip Force ＲＵＭ－スキップ・フォース Spell Card Normal Spell Card Rank-Up-Magic Soul Shave Force ＲＵＭ－ソウル・シェイブ・フォース Spell Card Normal Spell Card 
+ Manga 
+   Japanese name Card type Property Rank-Up Spider Web ランクアップ・スパイダーウェブ Spell Card Continuous Spell Card Rank-Up-Magic Doom Double Force ＲＵＭ－デス・ダブル・フォース Spell Card Quick-Play Spell Card Rank-Up-Magic Shining Force ＲＵＭ－シャイニング・フォース Spell Card 
+ Trivia 
+ Xyz Evolution is comparable to an  Accel Synchro Summon  from the  Yu-Gi-Oh! 5D's  series, a method of  Synchro Summoning  using  Synchro Monsters  as  Synchro Materials . 
+ 
+ v e 
+ Yu-Gi-Oh! ZEXAL Anime 
+ Anime 
+ Characters 
+ Season 1 
+ Season 2 
+ DVDs 
+ Special episodes
+ 1 
+ 2 
+ Manga 
+ Manga 
+ Characters 
+ Chapters 
+ Special chapter 
+ Spin-off manga 
+ Chapters 
+ Arcs 
+ Pre-World Duel Carnival 
+ World Duel Carnival Preliminaries 
+ World Duel Carnival Finals 
+ Barian Invasion 
+ Mythyrian Number War 
+ Barian Emperor Onslaught 
+ Video games 
+ Duel Terminals 
+ Xyz Startup!! 
+ Sacred Star Knights!! 
+ Ouroboros, Wicked Dragon of Destruction!! 
+ Yu-Gi-Oh! ZEXAL World Duel Carnival (Yu-Gi-Oh! ZEXAL Clash! Duel Carnival!) 
+ Duel Terms 
+ Augmented Reality Duel 
+ Basket Rule (Vegetable Death Match) 
+ Duel Field 
+ Dueling Team  (manga) 
+ Overlay Network 
+ Rank-Down 
+ Rank-Up 
+ Speed Duel  (manga) 
+ Statue Duel 
+ Xyz Evolution (Xyz Change) 
+ Xyz Material (Overlay Unit) 
+ Xyz Monster 
+ Xyz Summon 
+ Items 
+ Astrite 
+ Baria Crystal (Variarite) 
+ Barian Emblem (Varian Emblem) 
+ Don Thousand's Emblem 
+ Emperor's Key 
+ Heart Piece 
+ Kastle twins' rings 
+ King's Coin (Conqueror's Coin) 
+ Misconduct Card 
+ Numbers 
+ Barian Number (Fake Number) 
+ Mythyrian Number (Legendary Numbers) 
+ Number C 
+ Number 10X 
+ Number C10X 
+ Numeron Code 
+ Stanley's sketchbook 
+ The Door 
+ Technology 
+ Baria Crystal (Varia Lapis) 
+ Barian Sphere Cube (Varian's Sphere Cube) 
+ Crashbug Virus (Bugman Virus) 
+ D-Network  (manga) 
+ Different Dimension Airship 
+ Fusionizer 
+ Dimensional Transporter 
+ Digital Stone  (manga) 
+ Duel Disk (D-Pad) 
+ Duel Coaster 
+ Duel Gazer (D-Gazer) 
+ Orbital 
+ Sphere Field 
+ Abilities 
+ Barian Battlemorph (Variarphose) 
+ Chaos Draw (Varian's Chaos Draw) 
+ Barian Pipe 
+ Chaos 
+ Crest 
+ Duel Anchor 
+ Energy ball 
+ Photon Hand (ability) 
+ Photon Transformation (Photon Change) 
+ Shining Draw 
+ ZEXAL 
+ Dark ZEXAL 
+ ZEXAL II 
+ ZEXAL III 
+ Shining Evolution (Re-Contract Universe) 
+ Tournaments 
+ Asia Duelist Championship 
+ Couples Duel tournament (Couple Duel Tournament) 
+ Duel Monsters Regional Cup  (manga) 
+ Duel Team Carnival  (manga) 
+ Friendship Games (Sports Duel Tournament) 
+ Mini Surf Expert Match 
+ National Duel Circuit 
+ Pro Duelist Spartancity Tournament 
+ T.F.E. Tournament 
+ Team Duel Tournament  (manga) 
+ World Duel Carnival 
+ Groups 
+ Barian (Varian) 
+ Barian Cosmic Crime Unit (Varian's Guardian) 
+ Comic Book Appreciation Club (Manga Research Club) 
+ Fearsome Four of the Dark Dueling World 
+ Floral Design Club (Ikebana Club) 
+ Heartland police 
+ Number holder 
+ Number Guardian 
+ Student Council 
+ Super Secret Number Card Investigation (Numbers Club) 
+ Seven Barian Emperors (Seven Varian Emperors) 
+ Team Air Force 
+ Team Fire Stars 
+ Team lswarm 
+ Team Shark 
+ Team ZEXAL 
+ Triad of Terror (Fallguys) 
+ United Lands of the Poseidon Ocean 
+ Vector's army 
+ Vetrix Family (Tron Family) 
+ Characters' Decks 
+ Kite Tenjo (Kaito Tenjo) 
+ Reginald Kastle (Ryoga Kamishiro) 
+ Yuma Tsukumo 
+ Other 
+ Astral glyphs 
+ Astral World 
+ Barian glyphs (Varian glyphs) 
+ Barian World (Varian World) 
+ Earth 
+ Interdimensional War 
+ Kattobingu 
+ King of Games (King of Duelists) 
+ Legend of the Dragons of Light and Time 
+ Numbers War  (manga) 
+ 
+ Locations 
+ Music 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/6a/Number39Utopia-YS13-EN-SR-1E.png/revision/latest/scale-to-width-down/126?cb=20141106204947', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/59/NumberC39UtopiaRay-SP14-EN-C-1E.png/revision/latest/scale-to-width-down/126?cb=20140224115142', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/6a/Number39Utopia-YS13-EN-SR-1E.png/revision/latest/scale-to-width-down/126?cb=20141106204947', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c4/RankUpMagicLimitedBariansForce-YS13-EN-UR-1E.png/revision/latest/scale-to-width-down/127?cb=20130629181230', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/94/NumberC39UtopiaRayV-YS13-EN-UR-1E.png/revision/latest/scale-to-width-down/127?cb=20130629181404', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c9/RankUpOverlayNetwork.png/revision/latest/scale-to-width-down/200?cb=20140612190337', 'https://static.wikia.nocookie.net/yugioh/images/3/35/NumberS39UtopiaPrime-EN-Manga-ZX-NC.png/revision/latest/scale-to-width-down/200?cb=20130723173121']
+Categories: Types of Summon

@@ -1,0 +1,560 @@
+Link: https://yugioh.fandom.com/wiki/Fusion_Material
+
+
+ 
+ Fusion Material
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 融 合 素 材 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ ゆうごうそざい
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 融合素材
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Yūgō Sozai
+ 
+ 
+ 
+ Japanese (translated)
+ 
+ 
+ Fusion Material
+ 
+ 
+ 
+ English
+ 
+ 
+ Fusion Material Formerly: Fusion-Material Monster, then Fusion Material Monster
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Matériel Fusion Formerly: Monstre-Matériel de Fusion, then Matériel de Fusion 
+ German : Fusionsmaterial Formerly: Fusionsmaterialmonster 
+ Italian : Materiale da Fusione Formerly: Mostro Materiale da Fusione 
+ Portuguese : Matéria de Fusão Formerly: Monstro-Matéria para a Fusão, then Monstro-Matéria de Fusão 
+ Spanish : Material de Fusión Formerly: Monstruo Material de Fusión 
+ Korean : 융합 소재 (融合素材)  Yunghap Sojae 
+ Traditional Chinese : 融合素材  Rónghé Sùcái / Jung4 hap6 Sou3 coi4 
+ 
+ 
+ Fusion Materials  (Japanese:  融 合 素 材   Yūgō Sozai ), formerly referred to as  Fusion-Material Monsters [1]  and then  Fusion Material Monsters , are  monsters  that are used for the  Fusion Summon  of a  Fusion Monster . Fusion Materials are listed on the first line of the Fusion Monster's  card text .
+ 
+ Contents 
+ 
+ 1   Listing 
+ 2   Usage 
+ 3   See also 
+ 4   References 
+ 
+ 
+ Listing 
+ While Fusion Materials can be specifically named monsters, they can also be more general. For example, " Five-Headed Dragon " simply requires 5  Dragon - Type  monsters, and " Chimeratech Overdragon " requires 1 " Cyber Dragon " and 1 or more  Machine -Type monsters.
+ Listed Fusion Materials are monsters specifically named on a Fusion Monster as materials; cards that specify listed Fusion Materials, such as " Centrifugal Field ", cannot affect Fusion Monsters that do not specifically name Fusion Materials, such as "Five-Headed Dragon".
+ 
+ Usage 
+ Fusion Materials can be used even if the Summon is not a  Fusion Summon . Cards in the  Hex-Sealed Fusion   series   Tribute  themselves and the other necessary Fusion Materials specified on a Fusion Monster to Special Summon it, but this Special Summon is not treated as a Fusion Summon.  Contact Fusion  is also a type of Special Summon that uses Fusion Materials to Summon a Fusion Monster, but is not a Fusion Summon.
+ Face-down  monsters on the field can be used as Fusion Materials, as long as they are controlled by the player performing the Fusion Summon and the card performing the Summon allows it. [2] 
+ Fusion Substitute Monsters  such as " King of the Swamp " can replace one named Fusion Material. If a Fusion Substitute Monster is used, all other Fusion Materials used in the Fusion Summon must be correct. However, monsters whose name is being treated as a listed Fusion Material (e.g. " Elemental HERO Prisma ") are treated as correct and not as Fusion Substitute Monsters. Fusion Substitute Monsters can only replace specifically named Fusion Materials; as such, a Fusion Substitute Monster cannot be used in the Fusion Summon of " Evil HERO Dark Gaia " as it does not name any monsters, and can only replace " UFOroid " in the Fusion Summon of " UFOroid Fighter ".
+ There are also several monsters which  cannot be used as a Fusion Material .
+ 
+ See also 
+ Extra Deck 
+ Fusion Monster 
+ Fusion Summon 
+ Fusion Substitute Monster 
+ Cannot be used as a Fusion Material 
+ References 
+ 
+ ↑   File:Rulebook v5.0.pdf 
+ 
+ ↑   Konami.  Yu-Gi-Oh! Official Card Game - Perfect Rulebook 2015 . p. 72 .  https://ygorganization.com/perfectrulebook/ . 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Material Monsters

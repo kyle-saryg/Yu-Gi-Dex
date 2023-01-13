@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:English_set_prefix
+
+This indicates what Prefix(es) an English TCG Set has. It has type  String .
+ 
+ 
+ 
+ 
+Categories:

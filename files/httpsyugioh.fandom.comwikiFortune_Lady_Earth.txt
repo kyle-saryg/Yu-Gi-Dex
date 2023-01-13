@@ -1,0 +1,382 @@
+Link: https://yugioh.fandom.com/wiki/Fortune_Lady_Earth
+
+The  Croatian  and  Greek                       names given are not official.  
+ 
+ 
+ 
+ 
+ 
+ Fortune Lady Earth フォーチュンレディ・アーシー 
+ 
+ English 
+Fortune Lady Earth 
+ French 
+ Gaïa, Demoiselle de Fortune Check translation 
+ German 
+ Schicksalsdame Erde Check translation 
+ Italian 
+ Terra, Signora della Fortuna Check translation 
+ Korean 
+ 포츈 레이디 어시 Check translation 
+ Portuguese 
+ Senhora Fortuna da Terra Check translation 
+ Spanish 
+ Adivinadora Tierra Check translation 
+ Japanese 
+ フォーチュンレディ・アーシー Check translation 
+ Japanese ( rōmaji ) 
+Fōchun Redi Āshī 
+ Japanese (translated) 
+Fortune Lady Earthy 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Spellcaster  /  Effect 
+ Level 
+ 6   
+ ATK  /  DEF 
+ ?  /  ? 
+ Passcode 
+ 82971335 
+ Card effect types 
+ 
+ 
+ Continuous 
+ Trigger 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+This card's  ATK  and  DEF  are equal to its  Level  x 400. During each of your  Standby Phases , increase the Level of this card by 1 (max 12). When the Level of this card increases, inflict 400  damage  to your opponent. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ L'ATK et la DEF de cette carte sont égales à son Niveau x 400. Durant chacune de vos Standby Phases, augmentez le Niveau de cette carte de 1 (max 12). Lorsque le Niveau de cette carte augmente, infligez 400 points de dommages à votre adversaire. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Die ATK und DEF dieser Karte entsprechen ihrer Stufe x 400. Während jeder deiner Standby Phasen, erhöhe die Stufe dieser Karte um 1 (maximal 12). Wenn die Stufe dieser Karte erhöht wird, füge deinem Gegner 400 Schaden zu. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ L'ATK e il DEF di questa carta sono pari al suo Livello x 400. Durante ogni tua Standby Phase, aumenta di 1 il Livello di questa carta (massimo 12). Quando il Livello di questa carta aumenta, infliggi 400 danni al tuo avversario. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ O ATK/DEF deste card se tornam seu Nível x 400. Uma vez por turno, durante sua Fase de Apoio: aumente em 1 o Nível deste card (máx. 12). Se o Nível deste card aumentar: cause 400 de dano ao seu oponente. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ El ATK y la DEF de esta carta son iguales a su Nivel x 400. Durante cada una de tus Standby Phases, incrementa en 1 el Nivel de esta carta (max. 12). Cuando el Nivel de esta carta sube, inflige 400 puntos de daño a tu adversario. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードの攻撃力・守備力は、このカードのレベル×４００ポイントになる。また、自分のスタンバイフェイズ時、このカードのレベルを１つ上げる（最大レベル１２まで）。このカードのレベルが上がった時、相手ライフに４００ポイントダメージを与える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드의 공격력/수비력은 이 카드의 레벨 × 400 포인트가 된다. 자신의 스텐바이 페이즈시, 이 카드의 레벨을 1개 올린다(최대 레벨 12까지). 이 카드의 레벨이 올랐을 때, 상대 라이프에 400 포인트 데미지를 준다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2009-11-17  
+ SOVR-EN012   
+ Stardust Overdrive 
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2009-11-12  
+ SOVR-FR012   
+ Stardust Overdrive 
+ Pouvoir de la Poussière d'Etoile  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2009-11-12  
+ SOVR-DE012   
+ Stardust Overdrive 
+ Stardust Overdrive  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2009-11-12  
+ SOVR-IT012   
+ Stardust Overdrive 
+ Potere della Polvere di Stelle  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2019-08-15  
+ OP11-PT029   
+ OTS Tournament Pack 11 
+ OTS Pacote de Torneio 11  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2009-11-12  
+ SOVR-SP012   
+ Stardust Overdrive 
+ Poder de Polvo de Estrellas  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2009-07-18  
+ SOVR-JP012   
+ Stardust Overdrive 
+ ＳＴＡＲＤＵＳＴ ＯＶＥＲＤＲＩＶＥ  
+ Rare 
+ 
+ 
+ 2012-08-11  
+ DE04-JP050   
+ Duelist Edition Volume 4 
+ デュエリストエディション　Ｖｏｌｕｍｅ　４  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2009-11-19  
+ SOVR-KR012   
+ Stardust Overdrive 
+ 광속의 스타더스트  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Fortune Lady 
+ 
+ Stat changes  
+ Changes own ATK value 
+ Changes own DEF value 
+ This card gains Levels 
+ 
+ LP   
+ Damages your opponent 
+ 
+ Miscellaneous  
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 8447 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Fortune Lady Earth " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Fortune Lady " 「フォーチュンレディ」 Members 
+ Fortune Lady Dark Fortune Lady Earth Fortune Lady Every Fortune Lady Fire Fortune Lady Light Fortune Lady Past Fortune Lady Water Fortune Lady Wind 
+ Fortune Lady Calling Fortune Lady Rewind 
+ Support 
+ Fortune Lady Dark Fortune Lady Fire Fortune Lady Light Fortune Lady Past Fortune Lady Water Fortune Lady Wind Solitaire Magician 
+ Bending Destiny Fortune Lady Calling Fortune Lady Rewind Fortune Vision Fortune's Future Inherited Fortune Time Passage 
+ Related 
+ Catoblepas and the Witch of Fate Fortune Fairy Ann Fortune Fairy Chee Fortune Fairy En Fortune Fairy Hikari Fortune Fairy Hu Fortune Fairy Swee Solitaire Magician 
+ Future Visions Slip of Fortune 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/48/FortuneLadyEarth-SOVR-EN-R-1E.jpg/revision/latest/scale-to-width-down/300?cb=20100722080835', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

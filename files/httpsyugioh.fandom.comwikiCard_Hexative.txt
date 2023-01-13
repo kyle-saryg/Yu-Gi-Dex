@@ -1,0 +1,85 @@
+Link: https://yugioh.fandom.com/wiki/Card_Hexative
+
+
+ Card Hexative 
+ 
+ Japanese:   カード・ヘキサチーフ 
+ Romaji:   Kādo Hekisachīfu 
+ 
+ 
+ 
+ 
+ en 
+ ja 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell 
+ 
+ 
+ 
+ Seals any  face-down  cards on your opponent's side of the  field  so they cannot be  activated . (Cards played after Card Hexative are not affected.) 
+ 
+ Appearances
+ 
+ 
+ 
+ 
+   R : Yu-Gi-Oh! R - Duel Round 014|014 Property "Yu-Gi-Oh R chapter appearances (linked)" (as page type) with input value "Yu-Gi-Oh! R - Duel Round 014|014" contains invalid characters or is incomplete and therefore can cause unexpected results during a query or annotation process. , Yu-Gi-Oh! R - Duel Round 034|034 Property "Yu-Gi-Oh R chapter appearances (linked)" (as page type) with input value "Yu-Gi-Oh! R - Duel Round 034|034" contains invalid characters or is incomplete and therefore can cause unexpected results during a query or annotation process. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Manga cards (Galleries:  R ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ カード・ヘキサチーフ 
+ 相手の場に伏せられたカードは固定され発動できない（このカード以降に伏せられたカードには無効とする） 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Willa Mette   
+ Keith Howard  
+ 
+ 
+ Search categories 
+ 
+ Monster / Spell / Trap  categories  
+ Prevents activation of your opponent's Spell Cards 
+ Prevents activation of your opponent's Trap Cards 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/db/CardHexative-EN-Manga-R.png/revision/latest/scale-to-width-down/200?cb=20150308221747', 'https://static.wikia.nocookie.net/yugioh/images/e/ea/CardHexative-JP-Manga-R-CA.png/revision/latest?cb=20160422051708', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/8c/CardHexative-JP-Manga-R-NC.png/revision/latest/scale-to-width-down/170?cb=20131225214759', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Manga cards, Manga cards with no OCG/TCG counterpart

@@ -1,0 +1,451 @@
+Link: https://yugioh.fandom.com/wiki/Two_Thousand_Needles
+
+The  Croatian  and  Greek                       names given are not official.  
+ 
+ 
+ 
+ 
+ 
+ Two Thousand Needles 針二千本 
+ 
+ English 
+Two Thousand Needles 
+ French 
+ Deux Mille Aiguilles Check translation 
+ German 
+ Zweitausend Nadeln Check translation 
+ Italian 
+ Duemila Punte Check translation 
+ Korean 
+ 이천개가시 고슴도치 Check translation 
+ Portuguese 
+ Duas Mil Agulhas Check translation 
+ Spanish 
+ Dos Mil Agujas Check translation 
+ Japanese (kana) 
+ ツーサウザンド・ニードル Check translation 
+ Japanese (base) 
+ 針二千本 Check translation 
+ Japanese ( rōmaji ) 
+Tsū Sauzando Nīdoru 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Beast  /  Effect 
+ Level 
+ 5   
+ ATK  /  DEF 
+ 2000  /  1800 
+ Passcode 
+ 83228073 
+ Card effect types 
+ 
+ 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When this  Defense Position  card is  attacked  and the  ATK  of the attacking  monster  is lower than the  DEF  of this card,  destroy  the attacking monster at the end of the  Damage Step . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Lorsque cette carte en Position de Défense est attaquée et que l'ATK du monstre attaquant est inférieure à la DEF de cette carte, détruisez le monstre attaquant après le calcul des dommages. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wenn diese Karte angegriffen wird, wenn sie sich in Verteidigungsposition befindet und die ATK des angreifenden Monsters kleiner als die DEF dieser Karte ist, zerstöre das angreifende Monster nach der Schadensberechnung. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando questa carta in Posizione di Difesa viene attaccata e l'ATK del mostro attaccante è inferiore del DEF di questa carta, distruggi il mostro attaccante dopo il calcolo dei danni. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Quando este card, em Posição de Defesa, é atacado e o ATK do monstro atacante é menor que o DEF deste card, depois do cálculo de dano destrúa o monstro atacante. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando esta carta en Posición de Defensa es atacada y el ATK del monstruo atacante es menor que la DEF de esta carta, destruye el monstruo atacante despúes del cálculo de daño. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 守備表示のこのカードが攻撃を受けた時、相手攻撃モンスターの攻撃力よりもこのカードの守備力が上回っていた場合、ダメージ計算後にその攻撃モンスターを破壊する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 수비 표시의 이 카드가 공격을 받았을 때, 이 카드의 수비력이 상대 공격 몬스터의  공격력을 넘었으면 ,데미지 계산후에 그 공격 몬스터를 파괴한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2005-10-20  
+ DR2-EN139   
+ Dark Revelation Volume 2 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ 
+ North American English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2004-06-01  
+ AST-027   
+ Ancient Sanctuary 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2004-06-01  
+ AST-FR027   
+ Ancient Sanctuary 
+ Sanctuaire Ancestra  
+ Common 
+ 
+ 
+ 2005-10-20  
+ DR2-FR139   
+ Dark Revelation Volume 2 
+ Sombre Révélation Volume 2  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2004-05-01  
+ AST-DE027   
+ Ancient Sanctuary 
+ Ancient Sanctuary  
+ Common 
+ 
+ 
+ 2005-10-01  
+ DR2-DE139   
+ Dark Revelation Volume 2 
+ Dark Revelation Volume 2  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2004-06-01  
+ AST-IT027   
+ Ancient Sanctuary 
+ Antico Santuario  
+ Common 
+ 
+ 
+ 2005-10-20  
+ DR2-IT139   
+ Dark Revelation Volume 2 
+ Rivelazione Oscura Volume 2  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2004-06-01  
+ AST-PT027   
+ Ancient Sanctuary 
+ Santuário Antigo  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2004-06-01  
+ AST-SP027   
+ Ancient Sanctuary 
+ Santuario Antiguo  
+ Common 
+ 
+ 
+ 2005-10-20  
+ DR2-SP139   
+ Dark Revelation Volume 2 
+ Revelación Oscura Volumen 2  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2003-11-20  
+ 308-027   
+ The Sanctuary in the Sky 
+ 天空の聖域  
+ Common 
+ 
+ 
+ 2005-03-17  
+ EE2-JP139   
+ Expert Edition Volume 2 
+ ＥＸＰＥＲＴ ＥＤＩＴＩＯＮ Ｖｏｌｕｍｅ．２  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Asian-English 
+ 
+ 
+ 
+ Asian-English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2004-10-08  
+ AST-AE027   
+ Ancient Sanctuary 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2005-08-27  
+ AST-KR027   
+ Ancient Sanctuary 
+ 천공의 성역  
+ Common 
+ 
+ 
+ 2006-11-17  
+ HGP2-KR139   
+ Expert Edition Volume 2 
+ 하이 그레이드 팩 Ｖｏｌ．２  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+ Ancient Sanctuary 
+ Monster Destroy Collection 
+ All Effect Monsters  ( Common )
+ 
+ All at Random  ( Common ) 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Thousand Needles  
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 5969 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Ultimate Masters: World Championship Tournament 2006 2006-02-23 – ??? – – – Unlimited 
+ 
+   
+ Thousand Needles   針千本 Members 
+ Thousand Needles Three Thousand Needles Two Thousand Needles 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/9e/TwoThousandNeedles-DR2-EN-C-UE.png/revision/latest/scale-to-width-down/300?cb=20160531181833', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

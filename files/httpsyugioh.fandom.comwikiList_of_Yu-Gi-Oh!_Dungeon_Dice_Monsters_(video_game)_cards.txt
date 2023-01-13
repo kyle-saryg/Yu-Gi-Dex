@@ -1,0 +1,68 @@
+Link: https://yugioh.fandom.com/wiki/List_of_Yu-Gi-Oh!_Dungeon_Dice_Monsters_(video_game)_cards
+
+      An example card information screen from the game. This is " B.eye White Dragon ", card number 001.     
+ This is a  list of cards in  Yu-Gi-Oh! Dungeon Dice Monsters . There are 124 cards accessible in the game, although the source code contains data for 202 cards. The additional 78 cards are not visible in normal gameplay.
+ English ,  French ,  German ,  Italian ,  Spanish  and  Japanese  galleries can also be viewed.
+ No numbering system is visible in the game. The " # " column below enumerates cards in the order they are listed in the game, starting at 001. The " I# " (index number) column lists the numbers used in the code.
+ 
+ 
+ # I# Card Type Movement Level HP ATK DEF 000 Die Master 1 30 0 0 001 001 B.eye White Dragon Dragon Flying 4 50 40 30 002 002 Mystical Elf Spellcaster 1 20 10 20 003 003 Hitotsu-me Giant Beast 2 10 20 10 004 004 Baby Dragon Dragon Flying 1 10 10 10 005 005 Ryu-kishin Spellcaster 2 10 10 10 006 006 Feral Imp Spellcaster 2 10 10 20 007 007 Winged Dragon #1 Dragon Flying 2 10 10 10 008 008 Mushroom Man Beast 1 10 10 10 009 009 Shadow Specter Zombie 1 10 10 10 010 Blackland Fire Dragon Dragon 2 20 20 20 011 Sword Arm of Dragon Beast 2 20 30 20 010 012 Swamp Battleguard Warrior 2 20 20 20 011 013 Battle Steer Beast 2 20 20 20 012 014 Flame Swordsman Warrior 2 20 20 20 013 015 Time Wizard Spellcaster 1 10 0 10 014 016 R Leg of Forbidden Spellcaster 3 10 10 0 015 017 L Leg of Forbidden Spellcaster 3 10 10 0 016 018 R Arm of Forbidden Spellcaster 3 10 10 0 017 019 L Arm of Forbidden Spellcaster 3 10 10 0 018 020 Exod. of Forbidden Spellcaster 4 20 20 20 019 021 Summoned Skull Spellcaster 4 40 40 20 022 The Wicked Worm Beast Beast 1 20 20 10 020 023 Battle Ox Beast 2 20 20 20 021 024 Beaver Warrior Beast 1 10 10 10 022 025 Rock Ogre Grotto #1 Spellcaster 1 10 10 10 026 Mountain Warrior Beast 1 20 10 10 023 027 Zombie Warrior Zombie 1 10 10 10 024 028 Koumori Dragon Dragon 2 20 10 20 029 Two-headed King Rex Beast 1 20 20 20 030 Judge Man Warrior 3 20 40 10 025 031 Saggi the Dark Clown Spellcaster 1 10 10 10 026 032 Dark Magician Spellcaster 4 30 40 20 027 033 The Snake Hair Zombie Flying 1 10 10 10 028 034 Gaia the Dragon Champion Dragon Flying 4 40 40 30 029 035 Gaia The Fierce Knight Warrior 4 40 40 20 030 036 Curse of Dragon Dragon Flying 3 20 20 20 031 037 Dragon Piper Spellcaster 1 10 0 10 032 038 Celtic Guardian Warrior 2 10 20 10 033 039 Faceless Mage Spellcaster 3 10 20 30 034 040 Karbonala Warrior Warrior 1 10 10 10 035 041 Rogue Doll Spellcaster 3 20 30 20 036 042 Sangan Spellcaster 1 10 10 10 043 Basic Insect Beast 1 10 10 10 044 Armored Lizard Beast 1 10 10 20 045 Hercules Beetle Beast 2 20 10 30 037 046 Killer Needle Beast 1 10 10 10 047 Gokibore Beast 1 20 10 20 038 048 Giant Flea Beast 1 10 20 10 039 049 Larvae Moth Beast 1 20 20 20 040 050 Great Moth Beast Flying 3 40 30 30 041 051 Kuriboh Spellcaster 1 10 10 10 042 052 Mammoth Graveyard Beast Tunneling 1 10 10 10 053 Great White Warrior 2 20 20 10 043 054 Harpie Lady Beast Flying 2 20 10 10 044 055 Harpie Lady Sisters Beast 3 20 20 20 056 Tiger Axe Beast 1 20 10 10 057 Silver Fang Beast 1 10 10 10 058 Kojikocy Warrior 1 10 20 10 045 059 Perfectly Ultimate Beast Flying 4 50 40 40 060 Garoozis Beast 2 20 20 10 046 061 Thousand Dragon Dragon 2 20 30 20 062 Fiend Kraken Beast 1 20 10 20 047 063 Jellyfish Beast 1 10 10 10 048 064 Cocoon of Evolution Beast 2 20 10 40 065 Kairyu-shin Beast 3 30 20 30 049 066 Giant Rock Soldier Spellcaster 2 20 10 30 067 Krokodilus Beast 1 20 10 20 068 Grappler Beast 1 10 20 10 069 Axe Raider Warrior 1 10 10 10 070 Uraby Beast 2 20 20 10 071 Crawling Dragon #2 Beast 1 20 10 20 050 072 Red-eyes B. Dragon Dragon Flying 4 30 40 20 051 073 Castle of D. Magic Spellcaster 2 20 10 20 074 Reaper of the Cards Spellcaster 2 20 10 20 075 King of Yamimakai Spellcaster 2 20 20 10 076 Dark Chimera Spellcaster Flying 2 10 10 10 052 077 Metal Guardian Spellcaster 2 20 10 30 078 Catapult Turtle Beast 2 20 10 30 079 Gyakutenno Megami Warrior 3 20 20 30 053 080 Mystic Horseman Beast 2 40 20 10 054 081 Rabid Horseman Beast 3 40 30 20 082 Zanki Warrior 2 0 0 0 083 Crawling Dragon Dragon 2 20 10 10 084 Crass Clown Spellcaster 1 10 10 10 085 Armored Zombie Zombie 2 10 20 10 086 Dragon Zombie Dragon Tunneling 2 30 10 10 055 087 Clown Zombie Zombie Tunneling 1 10 10 10 056 088 Pumpking the King of Ghosts Zombie 3 30 20 30 057 089 Battle Warrior Warrior 1 20 20 10 090 Spirit of the Winds Spellcaster Flying 3 20 20 10 091 Trial of Nightmares Spellcaster Tunneling 3 10 10 10 092 Ansatsu Warrior 2 20 20 10 058 093 The 13th Grave Zombie Tunneling 2 10 0 10 094 Akihiron Beast 3 30 20 20 095 Darkfire Dragon Dragon 1 20 20 10 059 096 Petit Dragon Dragon 1 10 10 10 097 Mabarrel Spellcaster 3 30 20 20 060 098 Aqua Madoor Spellcaster 1 10 10 20 061 099 B. Skull Dragon Dragon Flying 4 40 40 40 062 100 Beautiful Headhuntress Warrior 3 20 10 10 101 Dark Assailant Zombie Tunneling 3 20 10 20 102 Nekogal #1 Beast 2 10 10 10 103 Petit Moth Beast 1 10 10 10 104 Mystic Clown Spellcaster 3 10 30 10 105 Tao the Chanter Spellcaster 1 10 10 10 106 Gatekeeper Warrior 3 30 20 30 107 Masaki the Legendary Swordsman Warrior 3 20 30 20 063 108 Yaranzo Zombie 2 20 10 10 064 109 Kanan the Swordmistress Warrior 2 10 20 10 110 Takriminos Beast 2 10 20 20 065 111 Stuffed Animal Warrior 1 10 10 10 112 Megasonic Eye Spellcaster 2 10 10 10 113 Yamadron Dragon 2 10 10 20 066 114 Three-legged Zombies Zombie 1 10 20 10 067 115 Flying Penguin Beast 2 10 10 10 068 116 Millennium Shield Warrior 3 10 0 40 117 Fairy's Gift Spellcaster 2 10 10 10 069 118 Black Luster Soldier Warrior 4 50 40 30 070 119 Fiend's Mirror Spellcaster 2 10 10 10 120 Labyrinth Wall Spellcaster 3 20 30 30 071 121 Jirai Gumo Beast Tunneling 1 20 10 10 122 Shadow Ghoul Zombie 2 30 10 10 123 Labyrinth Tank Warrior Tunneling 3 30 20 30 072 124 Sanga of the Thunder Spellcaster 4 30 30 30 073 125 Kazejin Spellcaster 4 30 30 30 074 126 Suijin Beast 4 30 30 30 075 127 Gate Guardian Warrior 4 50 40 40 128 Dungeon Worm Beast Tunneling 2 0 0 0 129 Monster Tamer Warrior 2 10 10 10 076 130 Ryu-kishin Powered Spellcaster 2 20 30 20 131 Swordstalker Warrior 2 20 10 20 132 La Jinn The Mystical Spellcaster 2 20 30 20 077 133 B.eye Ultimate Dragon Dragon 4 60 50 40 134 Toon Alligator Beast 1 10 10 10 135 Rude Kaiser Beast 2 20 20 10 078 136 Parrot Dragon Dragon Flying 1 10 10 10 137 Dark Rabbit Beast 1 10 10 10 138 Harpie's Pet Dragon Dragon Flying 3 30 20 20 079 139 Mystic Lamp Spellcaster 1 10 10 10 080 140 Pendulum Machine Spellcaster 3 20 20 30 141 Giltia the D. Knight Warrior 2 20 20 10 142 Launcher Spider Spellcaster 3 30 20 20 081 143 Zoa Spellcaster 3 20 30 20 082 144 Metalzoa Spellcaster 4 30 30 30 083 145 Dancing Elf Warrior 1 20 20 10 146 Thunder Dragon Dragon 2 20 20 20 147 Magician of Faith Spellcaster 1 10 10 10 148 Goddess of Whim Warrior 1 10 10 10 149 Ancient Elf Spellcaster 3 20 20 10 150 Skull Red Bird Beast Flying 3 20 20 20 151 Armed Ninja Warrior 1 10 10 10 152 Cockroach Knight Beast Tunneling 1 10 10 10 084 153 Man-eater Bug Beast 1 10 10 10 154 Cannon Soldier Spellcaster 3 20 10 10 155 Muka Muka Spellcaster 1 10 10 10 085 156 Gemini Elf Spellcaster 3 10 40 10 086 157 Skelengel Warrior 1 10 10 10 087 158 Hane-Hane Beast 1 10 10 10 159 Mushroom Man #2 Warrior 1 10 10 10 160 Witch of the Black Forest Spellcaster 1 10 10 10 161 Little Chimera Beast Flying 1 10 20 10 088 162 Penguin Soldier Beast 1 10 10 10 089 163 Twin-headed Thunder Dragon Dragon 3 20 40 20 090 164 Witch's Apprentice Spellcaster 1 10 10 10 165 Blue-winged Crown Beast Flying 3 20 20 20 166 Serpent Night Dragon Dragon 4 30 30 20 091 167 Meteor Dragon Dragon Flying 3 30 30 30 092 168 Meteor B. Dragon Dragon Flying 4 30 40 20 169 Firewing Pegasus Beast Flying 3 20 30 20 093 170 Dokurorider Zombie 3 20 20 20 094 171 Magician of Black Chaos Spellcaster 4 40 40 30 095 172 Slot Machine Spellcaster 3 30 20 20 096 173 Red Archery Girl Warrior 1 10 10 10 097 174 Dark-eyes Illusionist Spellcaster 4 10 10 10 098 175 Relinquished Spellcaster 1 10 0 0 099 176 Thousand-eyes Restrict Spellcaster 4 10 10 10 100 177 Lord of D. Spellcaster 2 10 10 10 101 178 R.eye B. M. Dragon Dragon Flying 4 30 40 40 102 179 Barrel Dragon Dragon 4 40 30 30 103 180 Jinzo Warrior 3 10 10 10 104 181 D. Magician Girl Spellcaster 3 20 20 10 105 182 Twin-Headed Dragon Zombie Tunneling 1 20 10 10 106 183 Gator Dragon Dragon 2 30 10 10 107 184 Blast Lizard Beast 2 20 10 10 108 185 Knight of Twin Swords Warrior 2 30 10 10 109 186 Thunder Ball Spellcaster 3 30 10 10 110 187 Magician Dragon Dragon 3 40 20 10 111 188 Strike Ninja Warrior 3 20 20 10 112 189 Mighty Mage Spellcaster 4 50 30 20 113 190 Crocozaurus Beast 4 50 30 20 114 191 Orgoth the Relentless Warrior 3 30 20 20 115 192 Medical Aid Kit Item 2 116 193 Exploding Disc Item 3 117 194 Time Machine Item 1 118 195 Energy Disc Item 1 119 196 Trap Bandit Item 1 120 197 Declaration of Despair Item 1 121 198 Gluminizer Item 2 122 199 Resurrection Scroll Item 2 123 200 Warp Vortex Item 3 124 201 Crater Creator Item 4 
+ v e 
+ Video game  card lists 
+ Monster Capsule: Breed and Battle 
+ Duel Monsters 
+ Duel Monsters II 
+ Forbidden Memories  ( True Duel Monsters ) 
+ Monster Capsule GB 
+ Dark Duel Stories  ( Duel Monsters III ) 
+ Duel Monsters 4 
+ Dungeon Dice Monsters 
+ Duel Monsters 5 
+ The Duelists of the Roses  ( True Duel Monsters 2 ) 
+ Duel Monsters 6 
+ The Sacred Cards  ( Duel Monsters 7 ) 
+ The Eternal Duelist Soul 
+ The Falsebound Kingdom 
+ Reshef of Destruction  ( Duel Monsters 8 ) 
+ Stairway to the Destined Duel 
+ Power of Chaos 
+ World Championship Tournament 2004  ( Duel Monsters Expert 3 ) 
+ Destiny Board Traveler  ( Sugoroku no Sugoroku ) 
+ The Dawn of Destiny 
+ World Championship Tournament 2005  ( Duel Monsters International 2 ) 
+ Nightmare Troubadour 
+ Online 
+ GX Duel Academy  ( GX Mezase Duel King ) 
+ World Championship Tournament 2006  ( Duel Monsters Expert 2006 ) 
+ GX Tag Force 
+ GX Spirit Caller  ( GX Spirit Summoner ) 
+ World Championship 2007 
+ GX Tag Force 2 
+ World Championship 2008 
+ GX Tag Force Evolution  ( GX The Beginning of Destiny ) 
+ GX Tag Force 3 
+ 5D's World Championship 2009: Stardust Accelerator 
+ 5D's Wheelie Breakers 
+ 5D's Tag Force 4 
+ 5D's World Championship 2010: Reverse of Arcadia 
+ 5D's Tag Force 5 
+ 5D's Decade Duels 
+ 5D's Duel Transer 
+ 5D's World Championship 2011: Over the Nexus 
+ 5D's Tag Force 6 
+ BAM 
+ 5D's Decade Duels Plus 
+ Millennium Duels 
+ Duel Generation 
+ 
+ Card number comparison 
+ by number 
+ by card 
+ {{ Game card lists }} 
+ {{ Video game card galleries }} 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/81/BeyeWhiteDragon-DDM-EN-VG.png/revision/latest/scale-to-width-down/180?cb=20160819013133']
+Categories: Dungeon Dice Monsters (video game) cards, Yu-Gi-Oh! Dungeon Dice Monsters (video game), Video game card lists

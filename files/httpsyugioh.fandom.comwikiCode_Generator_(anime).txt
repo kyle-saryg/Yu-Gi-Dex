@@ -1,0 +1,108 @@
+Link: https://yugioh.fandom.com/wiki/Code_Generator_(anime)
+
+Main card page: " Code Generator " 
+ Code Generator 
+ 
+ Japanese:   コード・ジェネレーター 
+ Romaji:   Kōdo Jenerētā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   EARTH 
+ 
+ Level 
+ 
+ 
+ 3   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Unclassified 
+ Trigger 
+ Condition 
+ [  Cyberse  /  Effect  ] If a  Cyberse   monster  you  control  would be used as  Link Material  for a " Code Talker "  monster , this card in your  hand  can also be used as material. If this card is  sent  from the hand or  field  to the  GY  as  material  for the  Link Summon  of a "Code Talker" monster: You can send 1 Cyberse monster with 1200 or less ATK from your  Deck  to the GY, or, if this card on the field was used as material, you can  add  that monster from your Deck to your hand instead. You can only use each  effect  of "Code Generator"  once per turn .
+ ATK  /  1300     DEF  /  500   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  102 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Cyberse 
+ 
+ Supports   archetypes   
+ Code Talker  
+ 
+ Actions  
+ Uses cards in the hand as Link Materials 
+ Activates from your Graveyard 
+ Activates if used as Link Material 
+ Sends from your Deck to your Graveyard 
+ Adds from Deck to hand 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ 
+   " Code Generator " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+" Code Talker " 「コード・トーカー」 a   +   Members 
+ Accesscode Talker Code Talker Decode Talker Decode Talker Extended Encode Talker Excode Talker Powercode Talker Shootingcode Talker Transcode Talker Transcode Talker 
+ Support 
+ Code Generator Code Hack Cynet Codec Cynet Optimization Limit Code Micro Coder Recoded Alive Talkback Lancer Transcode Talker 
+ Related 
+ Dark Templar @Ignister Decode Destruction 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/21/CodeGenerator-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/200?cb=20190515132955', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

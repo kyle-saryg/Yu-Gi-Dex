@@ -1,0 +1,311 @@
+Link: https://yugioh.fandom.com/wiki/Advanced_Dark
+
+Not to be confused with  Dark Advance . 
+ The  Chinese  and  Greek                       names given are not official.  
+ The  Chinese                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Advanced Dark アドバンスド・ダーク 
+ 
+ English 
+Advanced Dark 
+ Chinese 
+ 高等暗黑结界 Check translation 
+ French 
+ Ténèbres Ultimes Check translation 
+ German 
+ Fortgeschrittene Finsternis Check translation 
+ Italian 
+ Oscurità Avanzata Check translation 
+ Korean 
+ 어드밴스드 다크 Check translation 
+ Portuguese 
+ Trevas Avançada Check translation 
+ Spanish 
+ Oscuridad Avanzada Check translation 
+ Japanese 
+ アドバンスド・ダーク Check translation 
+ Japanese ( rōmaji ) 
+Adobansudo Dāku 
+ Card type 
+ Spell   
+ Property 
+ Field   
+ Passcode 
+ 12644061 
+ Card effect types 
+ 
+ 
+ Continuous-like 
+ Continuous-like 
+ Trigger-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+All " Crystal Beast "  monsters  on the  field  and in the  GY  become  DARK . If an " Ultimate Crystal " monster  attacks ,  negate  the  effects  of the  attack target  during that  Battle Phase . During  damage calculation , if a "Crystal Beast" monster you  control   battles  and you would take  damage : You can  send  1 "Crystal Beast" monster from your  Deck  to the  GY ; you take no battle damage from that battle. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Tous les monstres "Bête Cristalline" sur le Terrain et dans le Cimetière deviennent TÉNÈBRES. Si un monstre "Cristal Ultime" attaque, annulez les effets de la cible de l'attaque durant cette Battle Phase. Durant le calcul des dommages, si un monstre "Bête Cristalline" que vous contrôlez combat et que vous allez recevoir des dommages : vous pouvez envoyer 1 monstre "Bête Cristalline" depuis votre Deck au Cimetière ; vous ne recevez aucun dommage de combat de ce combat. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Alle „Kristallungeheuer“-Monster auf dem Spielfeld und im Friedhof werden zu FINSTERNIS. Falls ein „Ultimativer Kristall“-Monster angreift, annulliere die Effekte des Angriffsziel während der Battle Phase. Während der Schadensberechnung, falls ein „Kristallungeheuer“-Monster kämpft, das du kontrollierst, und du Schaden erhalten würdest: Du kannst 1 „Kristallungeheuer“-Monster von deinem Deck auf den Friedhof legen; du erhältst aus dem Kampf keinen Kampfschaden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Tutti i mostri "Bestia Cristallo" sul Terreno e nel Cimitero diventano OSCURITÀ. Se un mostro "Cristallo Finale" attacca, annulla gli effetti del bersaglio dell'attacco durante quella Battle Phase. Durante il calcolo dei danni, se un mostro "Bestia Cristallo" che controlli combatte e tu stai per subire danno: puoi mandare 1 mostro "Bestia Cristallo" dal tuo Deck al Cimitero; non subisci danno da combattimento da quella battaglia. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Todos os monstros "Fera Cristalina" no campo e no Cemitério se tornam de TREVAS. Se um monstro "Cristalino(a) Definitivo(a)" atacar, negue os efeitos do alvo do ataque durante essa Fase de Batalha. Durante o cálculo de dano, se um monstro "Fera Cristalina" que você controla batalhar e você sofreria dano: você pode enviar 1 monstro "Fera Cristalina" do seu Deck para o Cemitério; você não sofre dano de batalha dessa batalha. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Todos los monstruos "Bestia de Cristal" en el Campo y el Cementerio se convierten en monstruos de OSCURIDAD. Si un monstruo "Cristal Definitivo/a" ataca, niega los efectos del objetivo del ataque durante esa Battle Phase. Durante el cálculo de daño, si un monstruo "Bestia de Cristal" que controlas batalla y tú fueras a recibir daño: puedes mandar al Cementerio 1 monstruo "Bestia de Cristal" en tu Deck; no recibes daño de batalla de esa batalla. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：フィールドの「宝玉獣」モンスター及び墓地の「宝玉獣」モンスターは全て闇属性になる。②：このカードがフィールドゾーンに存在する限り、「究極宝玉神」モンスターの攻撃対象になったモンスターの効果はそのバトルフェイズの間だけ無効化される。③：自分の「宝玉獣」モンスターの戦闘で自分が戦闘ダメージを受けるダメージ計算時に、デッキから「宝玉獣」モンスター１体を墓地へ送って発動できる。その戦闘で発生する自分への戦闘ダメージを０にする。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 场上和目的中的名字中带有【宝玉兽】的怪兽的属性都视为[暗]。名字中带有【究极宝玉神】的怪兽攻击时，可以使攻击对象怪兽的效果在战斗阶段期间无效。名字中带有【宝玉兽】的怪兽进行参加的战斗的伤害计算时，可以将自己卡组中一只名字中带有【宝玉兽】的怪兽送去墓地，使那次战斗给自己造成的战斗伤害变为0。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 필드의 "보옥수" 몬스터 및 묘지의 "보옥수" 몬스터는 전부 어둠 속성이 된다. ②: 이 카드가 필드 존에 존재하는 한, "궁극보옥신" 몬스터의 공격 대상이 된 몬스터의 효과는 그 배틀 페이즈 동안에만 무효화된다. ③: 자신의 "보옥수" 몬스터의 전투로 자신이 전투 데미지를 받는 데미지 계산시에, 덱에서 "보옥수" 몬스터 1장을 묘지로 보내고 발동할 수 있다. 그 전투로 발생하는 자신에게로의 전투 데미지를 0 으로 한다. 
+ 
+ 
+ 
+ 
+ 
+   GX Tag Force 3 
+ 
+ 
+The  Attribute  of any " Crystal Beast " monsters on the  field  or  Graveyard  is treated as  DARK . When calculating  Battle Damage  caused by a "Crystal Beast" monster, you can  send  1 "Crystal Beast" monster from your  Deck  to the  Graveyard , to reduce any  Battle Damage  you take to 0. If a " Rainbow Dragon " monster attacks, the effect of the monster it attacks is negated during the  Battle Phase . When this card is removed from the field, all  face-up  "Crystal Beast" monsters on the field are destroyed. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2012-08-24 REDU-EN094 Return of the Duelist Secret Rare 2018-08-16 SHVA-EN056 Shadows in Valhalla Super Rare 2020-07-02 LDS1-EN109 Legendary Duelists: Season 1 Common 2022-03-17 SGX1-ENI20 Speed Duel GX: Duel Academy Box Common 2022-09-29 SDCB-EN028 Structure Deck: Legend of the Crystal Beasts Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2012-08-23 REDU-FR094 Return of the Duelist Le Retour du Duelliste Secret Rare 2018-08-16 SHVA-FR056 Shadows in Valhalla Les Ombres au Walhalla Super Rare 2020-07-02 LDS1-FR109 Legendary Duelists: Season 1 Duellistes Légendaires : Saison 1 Common 2022-03-17 SGX1-FRI20 Speed Duel GX: Duel Academy Box Speed Duel GX: Boîte Duel Académie Common 2022-09-29 SDCB-FR028 Structure Deck: Legend of the Crystal Beasts Deck de Structure : la Légende des Bêtes Cristallines Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2012-08-23 REDU-DE094 Return of the Duelist Return of the Duelist Secret Rare 2018-08-16 SHVA-DE056 Shadows in Valhalla Shadows in Valhalla Super Rare 2020-07-02 LDS1-DE109 Legendary Duelists: Season 1 Legendary Duelists: Season 1 Common 2022-03-17 SGX1-DEI20 Speed Duel GX: Duel Academy Box Speed Duel GX: Duel Academy Box Common 2022-09-29 SDCB-DE028 Structure Deck: Legend of the Crystal Beasts Structure Deck: Legend of the Crystal Beasts Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2012-08-23 REDU-IT094 Return of the Duelist Il Ritorno del Duellante Secret Rare 2018-08-16 SHVA-IT056 Shadows in Valhalla Ombre nel Valhalla Super Rare 2020-07-02 LDS1-IT109 Legendary Duelists: Season 1 Duellanti Leggendari: Stagione 1 Common 2022-03-17 SGX1-ITI20 Speed Duel GX: Duel Academy Box Speed Duel GX: Confanetto Accademia del Duellante Common 2022-09-29 SDCB-IT028 Structure Deck: Legend of the Crystal Beasts Structure Deck: Leggenda delle Bestie Cristallo Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2018-08-16 SHVA-PT056 Shadows in Valhalla Sombras em Valhalla Super Rare 2020-07-02 LDS1-PT109 Legendary Duelists: Season 1 Duelistas Lendários: Temporada 1 Common 2022-03-17 SGX1-PTI20 Speed Duel GX: Duel Academy Box Speed Duel GX: Caixa da Academia de Duelos Common 2022-09-29 SDCB-PT028 Structure Deck: Legend of the Crystal Beasts Deck Estrutural : Lenda das Feras Cristalinas Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2012-08-23 REDU-SP094 Return of the Duelist El Regreso del Duelista Secret Rare 2018-08-16 SHVA-SP056 Shadows in Valhalla Sombras en Valhalla Super Rare 2020-07-02 LDS1-SP109 Legendary Duelists: Season 1 Duelistas Legendarios: Temporada 1 Common 2022-03-17 SGX1-SPI20 Speed Duel GX: Duel Academy Box Speed Duel GX: Caja de la Academia de Duelos Common 2022-09-29 SDCB-SP028 Structure Deck: Legend of the Crystal Beasts Baraja de Estructura : Leyenda de Las Bestias de Cristal Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2012-05-12 DE02-JP160 Duelist Edition Volume 2 デュエリストエディション　Ｖｏｌｕｍｅ　２ Secret Rare 2019-12-21 LGB1-JP016 Legendary Gold Box ＬＥＧＥＮＤＡＲＹ ＧＯＬＤ ＢＯＸ Normal Parallel Rare 2022-06-25 SD44-JP028 Structure Deck: Legend of the Crystals ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ 宝玉の伝説 Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2018-08-13 PP13-KR022 Premium Pack Vol.13 프리미엄 팩 Vol.13 Super Rare 2018-08-13 PP13-KR022 Premium Pack Vol.13 프리미엄 팩 Vol.13 Normal Parallel Rare 2020-09-24 LGB1-KR016 Legendary Gold Box Legendary   GOLD   SET Normal Parallel Rare 2022-09-16 SD44-KR028 Structure Deck: Legend of the Crystals STRUCTURE   DECK  보옥의 전설 Common 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   GX Tag Force 3 
+ 
+ 
+ Yu-Gi-Oh! GX Tag Force 3 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   archetypes   
+ Crystal Beast 
+ Ultimate Crystal 
+ 
+ Related to  archetypes  and  series   
+ Advanced Crystal Beast 
+ 
+ Actions  
+ Sends from your Deck to your Graveyard for cost 
+ 
+ Stat changes  
+ Changes Attribute 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your opponent's Effect Monsters 
+ 
+ LP   
+ Prevents battle damage 
+ 
+ Miscellaneous  
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 10214 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status GX Tag Force 3 2008-11-27 – – – – – Unlimited 
+ 
+ 
+ 
+   " Advanced Dark " pages 
+ 
+ 
+ Anime Yu-Gi-Oh! BAM 
+ 
+ 
+ 
+   
+" Advanced Crystal Beast " 「 Ａ 宝玉獣 」 Members 
+ Advanced Crystal Beast Amber Mammoth Advanced Crystal Beast Amethyst Cat Advanced Crystal Beast Cobalt Eagle Advanced Crystal Beast Emerald Tortoise Advanced Crystal Beast Ruby Carbuncle Advanced Crystal Beast Sapphire Pegasus Advanced Crystal Beast Topaz Tiger 
+ Support 
+ Advanced Crystal Beast Amber Mammoth Advanced Crystal Beast Amethyst Cat Advanced Crystal Beast Cobalt Eagle Advanced Crystal Beast Ruby Carbuncle Advanced Crystal Beast Sapphire Pegasus Advanced Crystal Beast Topaz Tiger 
+ Related 
+ Crystal Beast Amber Mammoth Crystal Beast Amethyst Cat Crystal Beast Cobalt Eagle Crystal Beast Emerald Tortoise Crystal Beast Ruby Carbuncle Crystal Beast Sapphire Pegasus Crystal Beast Topaz Tiger 
+ Advanced Dark 
+ 
+   
+" Crystal Beast " 「 宝 玉 獣 」 Members 
+ Advanced Crystal Beast Amber Mammoth Advanced Crystal Beast Amethyst Cat Advanced Crystal Beast Cobalt Eagle Advanced Crystal Beast Emerald Tortoise Advanced Crystal Beast Ruby Carbuncle Advanced Crystal Beast Sapphire Pegasus Advanced Crystal Beast Topaz Tiger Crystal Beast Amber Mammoth Crystal Beast Amethyst Cat Crystal Beast Cobalt Eagle Crystal Beast Emerald Tortoise Crystal Beast Rainbow Dragon Crystal Beast Ruby Carbuncle Crystal Beast Sapphire Pegasus Crystal Beast Token Crystal Beast Topaz Tiger 
+ Support 
+ Crystal Beast Amber Mammoth Crystal Beast Cobalt Eagle Crystal Beast Rainbow Dragon Crystal Beast Ruby Carbuncle Crystal Beast Sapphire Pegasus Crystal Keeper Crystal Master Rainbow Dragon Rainbow Overdragon Ultimate Crystal Rainbow Dragon Overdrive 
+ Advanced Dark Ancient City - Rainbow Ruins Awakening of the Crystal Ultimates Counter Gem Crystal Abundance Crystal Aegis Crystal Beacon Crystal Blessing Crystal Bond Crystal Boon Crystal Brilliance Crystal Conclave Crystal Miracle Crystal Pair Crystal Promise Crystal Raigeki Crystal Release Crystal Tree Rainbow Bridge of Salvation Rainbow Bridge of the Heart Rainbow Gravity Rainbow Path Rainbow Refraction Rare Value Ultimate Crystal Magic 
+ Anti-support 
+ Counter Gem 
+ Related 
+ Elemental HERO Neos Jesse Anderson - Bonder with the Crystal Beasts Jesse and Ruby - Unleashing the Legend 
+ Gem Flash Energy Last Resort 
+ 
+   
+" Ultimate Crystal " 「 究 極 宝 玉 神 」 Members 
+ Rainbow Dark Dragon Rainbow Dragon Rainbow Overdragon Ultimate Crystal Rainbow Dragon Overdrive 
+ Support 
+ Crystal Beast Rainbow Dragon Crystal Keeper Crystal Master Rainbow Neos Rainbow Overdragon Ultimate Crystal Rainbow Dragon Overdrive 
+ Advanced Dark Awakening of the Crystal Ultimates Rainbow Gravity Rainbow Path Ultimate Crystal Magic 
+ Related 
+ Elemental HERO Neos Malefic Rainbow Dragon 
+ Rainbow Refraction 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/8d/AdvancedDark-SDCB-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20220930035356', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/1/14/Field.svg/revision/latest/scale-to-width-down/28?cb=20120920120155']
+Categories: Duel Monsters cards, TCG cards, OCG cards

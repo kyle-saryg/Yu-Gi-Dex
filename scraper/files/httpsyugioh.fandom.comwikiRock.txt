@@ -1,0 +1,829 @@
+Link: https://yugioh.fandom.com/wiki/Rock
+
+
+ 
+ Rock
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 岩 石 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ がんせき
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 岩石
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Ganseki
+ 
+ 
+ 
+ English
+ 
+ 
+ Rock
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Rocher 
+ German : Fels 
+ Italian : Roccia 
+ Portuguese : Rocha 
+ Spanish : Roca 
+ Korean : 암석 (巖石)  Amseok 
+ Traditional Chinese : 岩石  Yánshí / Ngaam4 sek6 
+ Arabic : صخره 
+ 
+ 
+ 
+ 
+ 
+ Lists
+ 
+ 
+ 
+ 
+ members 
+ support 
+ anti-support 
+ 
+ Rock  ( 岩 石   Ganseki ) monsters are an often-overlooked  Type , though there were many released in  The Lost Millennium . Usually, Rock monsters belong to the  EARTH   Attribute  and possess high  DEF  and defense-related  card effects . A significant number of Rock monsters have effects related to Flip Summoning or have the ability to flip themselves face-down again.
+ Some of the more notable cards include: " Giant Soldier of Stone ", " Granmarg the Rock Monarch ", " Fossil Dyna Pachycephalo ", " Block Dragon ", " Gorgonic Guardian ", and " Morphing Jar ".
+ With the introduction of the " Koa'ki Meiru " archetype, Rock-Types gained some high-ATK monsters focused on heavy control. " Koa'ki Meiru Guardian " allows negation of monster effects, " Koa'ki Meiru Sandman " can negate Trap Cards, " Koa'ki Meiru Wall " can negate Spell Cards and " Koa'ki Meiru Overload " can negate Summons. Each with 1900  ATK  points, these three can be used to switch from the classic defensive builds to more aggressive builds. They can be searched with " Koa'ki Meiru Boulder ", also a Rock-type. With monster destruction available via " Mormolith ", and some  Anti-Meta  capabilities with " Fossil Dyna Pachycephalo ", Rock Decks can take the offensive or get a solid defense, easily switching between these strategies.
+ Five  Field Spell Cards  exist that work particularly well with Rock monsters. " Wasteland " increases the  ATK  and  DEF  of Rock monsters by 200, " Canyon " inflicts double  Battle Damage  to anyone attacking a  Defense Position  Rock monster with a weaker monster, " Catapult Zone " offers some protection against destruction. Rock-Type monsters are also weak against the card, " Breath of Light ".
+ They also have their own  Structure Deck ,  Structure Deck: Invincible Fortress .
+ The only main character in the anime to use a Rock Deck is  Jim Crocodile Cook , although other characters do use Rock-Type monsters.  Yugi Muto  uses the "Magnet Warriors",  Jaden Yuki  uses " Neo-Spacian Grand Mole ",  Yusei Fudo  uses " Rockstone Warrior ",  Jack Atlas  uses the "Piece Golems" and " Power Giant ",  Yuma Tsukumo  uses the " Gogogo " monsters, and  Trey  uses the " Chronomaly " monsters, which are a mix of Rock and  Machine  monsters.
+ " Megarock Dragon " and " Gaia Plate the Earth Giant " rely on banishing monsters in the Graveyard to special summon themselves, which can be extremely useful when mixed with " Release from Stone ", which special summons a rock monster from the banished zone. Cards that take away the ability to banish cards from the Graveyard pose a serious threat to some rock decks.
+ 
+ Contents 
+ 
+ 1   Archetype/Series 
+ 
+ 1.1   OCG/TCG 
+ 
+ 
+ 2   Play styles 
+ 
+ 2.1   Bouncing Rock Control Deck 
+ 2.2   Rock Anti-Meta (Rock Stun) 
+ 2.3   Catapult Rock Stun 
+ 2.4   Aggressive Rock Bounce Deck 
+ 2.5   Rock Swarm Deck 
+ 2.6   Rock Surge Deck 
+ 
+ 
+ 3   Examples 
+ 
+ 
+ Archetype/Series 
+ OCG/TCG 
+ Adamancipator 
+ Block 
+ Fossil 
+ Gorgonic 
+ Hex-Sealed Fusion 
+ Magna Warrior 
+ Magnet Warrior 
+ Megalith 
+ Monk 
+ Piece Golem 
+ Triamid 
+ Play styles 
+ Bouncing Rock Control Deck 
+ The point of this Deck is to restrain the opposition while supporting field advantage using the  bouncing   effects  and high  DEF  of Rock monsters, then attack for about 1000-2000 damage every turn. 
+ Many good cards are in  Structure Deck: Invincible Fortress . There are also several  Trap Cards  that destroy  face-up  monsters, and many Rock monsters can flip themselves  face-down . Keep in mind the opponent  will  attack high DEF monsters to keep them from Flip Summoning and activating effects, so punish them with cards like " Shifting Shadows " and " Canyon ". See  Stone Statue of the Aztecs (character)  for some good ideas.
+ Opponents may be intimidated from attacking, so " Battle Mania " can force them to do a lot of damage to themselves, particularly with cards like " Canyon " or " Continuous Destruction Punch ".
+ Beware mass monster removal cards like " Dark Armed Dragon " and " Dark Hole ". 
+ 
+ 
+ Bouncing Rock Control Monsters   
+ Monsters 
+ Dummy Golem 
+ Guardian Sphinx 
+ Guardian Statue 
+ Megarock Dragon 
+ Neo-Spacian Grand Mole 
+ Gigastone Omega 
+ Mine Golem 
+ Exxod, Master of The Guard 
+ Big Piece Golem 
+ Grandsoil the Elemental Lord Spells   &  Traps   
+ Spells 
+ Canyon 
+ Chorus of Sanctuary 
+ Continuous Destruction Punch 
+ Creature Swap 
+ Gaia Power 
+ Hammer Shot 
+ Messenger of Peace 
+ Shield & Sword 
+ Shifting Shadows 
+ Stumbling 
+ Wave-Motion Cannon  (Optional) 
+ Unity  (Optional) 
+ Traps 
+ Compulsory Evacuation Device 
+ Cross Counter 
+ Mind Crush 
+ Needle Ceiling 
+ Ordeal of a Traveler 
+ Minefield Eruption 
+ Rock Anti-Meta (Rock Stun) 
+ Rock  Anti-Meta  (commonly referred to as "Rock Stun") Decks use Rock-Type and other monsters that have meta-breaking effects to counter the current  Metagame .  The Deck can be played in a variety of ways. Some builds splash Rock monsters into a standard Anti-Meta build with cards such as " Thunder King Rai-Oh ", " King Tiger Wanghu " and " Doomcaliber Knight ". Other builds focus on a more aggressive play style, often using only Rock monsters and playing " Solidarity " to gain 2700 ATK " Koa'ki Meiru " monsters and a 2000 ATK " Fossil Dyna Pachycephalo ". Still other builds use a pseudo- Macro Cosmos Deck  to counter common effects that resolve in the Graveyard, while using cards such as " Release from Stone " and other cards like " Core Blast " to set up combos and gain field advantage, while using the "Koa'ki Meiru" monsters to hinder the opponent's strategies.
+ 
+ 
+ Rock Anti-Meta Monsters   
+ Monsters 
+ Barrier Statue of the Drought 
+ Block Golem 
+ Block Dragon 
+ Cyber Dragon 
+ D.D. Warrior Lady 
+ D.D. Assailant 
+ D.D. Crow 
+ Doki Doki 
+ Doomcaliber Knight 
+ Effect Veiler 
+ Fossil Dyna Pachycephalo 
+ Gaia Plate the Earth Giant 
+ Legendary Jujitsu Master 
+ Koa'ki Meiru Boulder 
+ Koa'ki Meiru Guardian 
+ Koa'ki Meiru Overload 
+ Koa'ki Meiru Sandman 
+ Koa'ki Meiru Wall 
+ Morphing Jar 
+ Neo-Spacian Grand Mole 
+ Power Giant 
+ Thunder King Rai-Oh Extra Deck   
+ Fusion Monsters 
+ Chimeratech Fortress Dragon 
+ Synchro Monsters 
+ Stardust Dragon 
+ Xyz Monsters 
+ Number 55: Gogogo Goliath 
+ Gallant Granite Spells   &  Traps   
+ Spells 
+ Burden of the Mighty 
+ Catapult Zone 
+ Diamond Core of Koa'ki Meiru 
+ Enemy Controller 
+ Forbidden Lance 
+ Magic Planter 
+ Moon Mirror Shield 
+ Pot of Duality 
+ Prohibition 
+ Seal of Orichalcos 
+ Shrink 
+ Smashing Ground 
+ Ties of the Brethren 
+ Traps 
+ Anti-Spell Fragrance  ( Pendulum ,  Harpie , etc.) 
+ Core Blast 
+ Light-Imprisoning Mirror 
+ Lose 1 Turn 
+ Mask of Restrict  (counter to the updated  Monarch  archtype) 
+ Pinpoint Guard 
+ Powerful Rebirth 
+ Quaking Mirror Force 
+ Skill Drain 
+ Shadow-Imprisoning Mirror 
+ Starlight Road 
+ Trap Stun 
+ Catapult Rock Stun 
+ With the release of " Catapult Zone " and " Block Golem " in " Return of the Duelist ", Rock Stun focuses not only on anti-meta, but also on controlling the field and filling the Graveyard with monsters for their ace monsters " Block Golem " and " Gaia Plate the Earth Giant ".
+ 
+ 
+ Catapult Rock Stun Monsters   
+ Monsters 
+ Fossil Dyna Pachycephalo 
+ Legendary Jujitsu Master 
+ Neo-Spacian Grand Mole 
+ Morphing Jar 2 
+ Koa'ki Meiru Guardian 
+ Koa'ki Meiru Wall 
+ Koa'ki Meiru Sandman 
+ Koa'ki Meiru Overload 
+ Maxx "C" 
+ Gaia Plate the Earth Giant 
+ Block Golem 
+ Revival Golem 
+ Grandsoil the Elemental Lord Extra Deck   
+ Xyz Monsters 
+ Number 30: Acid Golem of Destruction 
+ Soul of Silvermountain 
+ Giant Soldier of Steel 
+ Fairy King Albverdich 
+ Gem-Knight Pearl 
+ Number 52: Diamond Crab King 
+ Daigusto Emeral  ( Number 55: Gogogo Goliath  can recycle your Rock-Types without disrupting Block Golem's conditions) 
+ Gagaga Cowboy 
+ Number C106: Giant Red Hand Spells   &  Traps   
+ Spells 
+ Catapult Zone 
+ Terraforming 
+ Solidarity 
+ Attack the Moon! 
+ Traps 
+ Starlight Road 
+ Skill Drain 
+ Debunk 
+ Call of the Haunted 
+ Fiendish Chain 
+ Magic Cylinder 
+ Aggressive Rock Bounce Deck 
+ This deck uses the bounce effect of  Golem Sentry  to continually return the opponent's monsters back to their hand, leaving them open to attacks by stronger rock monsters.  Gigantes  works well because of its high 1900 ATK and its ability to be Special Summoned also working as a possible Spell and Trap removal. Also the Effect of  Mirage Dragon  will help allow Direct Attacks without worrying about  Traps .   Giant Rat  works to keep Monsters on your side of the Field.  Its ability to Special Summon  Golem Sentry ,  Criosphinx ,  Moai Interceptor Cannons  and  Neo-Spacian Grand Mole  gives you great flexibility.
+ 
+ 
+ Aggressive Rock Bounce Monsters   
+ Monsters 
+ Criosphinx 
+ Giant Rat 
+ Guardian Sphinx 
+ Guardian Statue 
+ Hieracosphinx 
+ Megarock Dragon 
+ Mirage Dragon 
+ Moai Interceptor Cannons 
+ Neo-Spacian Grand Mole 
+ Big-Tusked Mammoth Spells   &  Traps   
+ Spells 
+ Chorus of Sanctuary 
+ Fissure 
+ Hammer Shot 
+ Swords of Revealing Light 
+ D.D. Designator 
+ Messenger of Peace 
+ Wave-Motion Cannon 
+ Array of Revealing Light 
+ Venom Swamp 
+ Traps 
+ Ordeal of a Traveler 
+ Rock Swarm Deck 
+ This  Deck  utilizes the card powerful Rock beatsticks like:  Koa'ki Meiru Guardian ,  Koa'ki Meiru Wall ,  Gogogo Giant  and  Koa'ki Meiru Sandman . One of the major differences between this Rock Deck and other Rock Decks, is that it special summons. While most Rock decks rely on flip effects to take down the opponent, this deck relies on swarming the field with huge beatsticks and/or several rock floaters that provide both field advantage and a host of power plays. It's key card is  Block Golem . This card allows you to summon any two level four or lower rock type monsters from your graveyard by sending itself to the graveyard. From here you have access to rank 3 and 4 xyzs like  Acid Golem of Destruction ,  Gem-Knight Pearl  and the like. Its has two ace monsters:  Gaia Plate the Earth Giant  and  Grandsoil the Elemental Lord . other cards that may be useful for this deck due to their easy summoning requirements and/or deck thinning abilities are  Naturia Cliff ,  Naturia Rock ,  Chronomaly Crystal Bones ,and  Chronomaly Crystal Skull . It is recommended that the deck is comprised of EARTH monsters, as  Block Golem  cannot activate its effect if there are any other attributes in the graveyard. You can use several spell and trap cards to dump rocks from your deck to the graveyard to fulfill the summoning requirements for the ace cards in the deck. 
+ 
+ 
+ Rock Swarm Monsters   
+ Monsters 
+ Gaia Plate the Earth Giant 
+ Naturia Cliff 
+ Gogogo Golem 
+ Block Golem 
+ Block Dragon 
+ Koa'ki Meiru Guardian 
+ Koa'ki Meiru Sandman 
+ Koa'ki Meiru Wall 
+ Koa'ki Meiru Overload 
+ Chronomaly Crystal Skull 
+ Neo-Spacian Grand Mole 
+ Chronomaly Crystal Bones 
+ Naturia Rock 
+ Grandsoil the Elemental Lord 
+ Gem-Knight Crystal 
+ Gem-Knight Alexandrite 
+ Revival Golem Extra Deck   
+ Xyz Monsters 
+ Gem-Knight Pearl 
+ Fairy King Albverdich 
+ Giant Soldier of Steel 
+ Soul of Silvermountain 
+ Gagaga Cowboy 
+ Gallant Granite 
+ Link Monsters 
+ Missus Radiant Spells   &  Traps   
+ Spells 
+ Catapult Zone 
+ Ties of the Brethren 
+ Foolish Burial 
+ Traps 
+ Release from Stone 
+ Return from the Different Dimension 
+ Rock Bombardment 
+ Skill Drain 
+ Call of the Haunted 
+ Rock Surge Deck 
+ Surprisingly, a large number of monsters in a typical  Monster Surge  deck are  Earth . This  Deck  combines them with Rock Swarm for excellent synergy and versatility. Milling cards fill the graveyard with Rock and  Earth  monsters quickly for fast swarming setups and  Gaia Plate the Earth Giant , which will kill almost any beatstick. Earth tuners like  T.G. Striker  and  Glow-Up Bulb  enable access to  Naturia  Synchros - when combined with Rock Stun monsters, the opponent can get locked down hard. Remember to run few Spell Cards (only one recommended) so as not to interfere with  Witch of the Black Rose  or  Gallis the Star Beast .
+ 
+ 
+ Rock Surge Monsters   
+ Monsters 
+ Gaia Plate the Earth Giant 
+ Gigantes 
+ The Rock Spirit 
+ Koa'ki Meiru Guardian 
+ Koa'ki Meiru Wall 
+ Koa'ki Meiru Sandman 
+ Koa'ki Meiru Boulder 
+ Koa'ki Meiru Overload 
+ Neo-Spacian Grand Mole 
+ Golem Sentry 
+ Criosphinx 
+ Gogogo Golem 
+ Megarock Dragon 
+ Rockstone Warrior 
+ Guardian Sphinx 
+ Hieracosphinx Spells   &  Traps   
+ Spells 
+ Enemy Controller 
+ Solidarity 
+ Fissure 
+ Wave Motion Cannon 
+ Book of Moon 
+ Ties of the Brethren 
+ Traps 
+ Nightmare Wheel 
+ Threatening Roar 
+ Scrap-Iron Scarecrow 
+ Fiendish Chain 
+ Release from Stone 
+ Examples 
+ Normal Monster Effect Monster Ritual Monster Fusion Monster Synchro Monster Xyz Monster Pendulum Monster Link Monster 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e4/LabyrinthWall-LCJW-EN-C-1E.png/revision/latest/scale-to-width-down/137?cb=20131014110217', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b8/GaiaPlatetheEarthGiant-ANPR-EN-UR-1E.png/revision/latest/scale-to-width-down/138?cb=20091104102836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/80/MegalithPhaleg-IGAS-EN-C-1E.png/revision/latest/scale-to-width-down/136?cb=20200131045625', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/06/FossilDragonSkullgios-BLAR-EN-ScR-1E.png/revision/latest/scale-to-width-down/137?cb=20200725181806', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/27/Giganticastle-SHSP-EN-R-1E.png/revision/latest/scale-to-width-down/137?cb=20140725071908', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e0/GiantSoldierofSteel-BP03-EN-SHR-1E.png/revision/latest/scale-to-width-down/137?cb=20140803123129', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/28/ShaddollZefracore-CROS-EN-C-1E.png/revision/latest/scale-to-width-down/138?cb=20150518173258', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/53/GemKnightPhantomQuartz-EXFO-EN-SR-1E.png/revision/latest/scale-to-width-down/137?cb=20200406193459', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Types

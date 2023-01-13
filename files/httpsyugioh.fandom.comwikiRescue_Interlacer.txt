@@ -1,0 +1,244 @@
+Link: https://yugioh.fandom.com/wiki/Rescue_Interlacer
+
+
+ 
+ 
+ Rescue Interlacer レスキュー・インターレーサー 
+ 
+ English 
+Rescue Interlacer 
+ French 
+ Furet Interlaceur Check translation 
+ German 
+ Rettungs-Interlacer Check translation 
+ Italian 
+ Interlacciatore da Soccorso Check translation 
+ Korean 
+ 레스큐 인터레이서 Check translation 
+ Portuguese 
+ Entrelaçador de Socorro Check translation 
+ Spanish 
+ Entrelazador de Rescate Check translation 
+ Japanese 
+ レスキュー・インターレーサー Check translation 
+ Japanese ( rōmaji ) 
+Resukyū Intārēsā 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Cyberse  /  Effect 
+ Level 
+ 3   
+ ATK  /  DEF 
+ 1000  /  1200 
+ Passcode 
+ 63009228 
+ Card effect types 
+ 
+ 
+ Quick 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+During  damage calculation , if your  Cyberse   monster  is  attacked  ( Quick Effect ): You can  discard  this card; you take no  battle damage  from that  battle . You can only use this  effect  of "Rescue Interlacer"  once per turn . Once per  turn , during the  End Phase , if this card is in the  GY  because it was discarded there to  activate  this effect this turn:  Special Summon  this card. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Durant le calcul des dommages, si votre monstre Cyberse est attaqué (Effet Rapide) : vous pouvez défausser cette carte ; vous ne recevez aucun dommage de combat de ce combat. Vous ne pouvez utiliser cet effet de "Furet Interlaceur" qu'une fois par tour. Une fois par tour, durant la End Phase, si cette carte est dans le Cimetière parce qu'elle y a été défaussée pour activer cet effet ce tour : Invoquez Spécialement cette carte. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Während der Schadensberechnung, falls dein Cyberse-Monster angegriffen wird (Schnelleffekt): Du kannst diese Karte abwerfen; du erhältst aus dem Kampf keinen Kampfschaden. Du kannst diesen Effekt von „Rettungs-Interlacer“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug, während der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug dorthin abgeworfen wurde, um diesen Effekt zu aktivieren: Beschwöre diese Karte als Spezialbeschwörung. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Durante il calcolo dei danni, se un tuo mostro Cyberso viene attaccato (Effetto Rapido): puoi scartare questa carta; non subisci danno da combattimento da quella battaglia. Puoi utilizzare questo effetto di "Interlacciatore da Soccorso" una sola volta per turno. Una volta per turno, durante la End Phase, se questa carta è nel Cimitero perché è stata scartata lì per attivare questo effetto in questo turno: Evoca Specialmente questa carta. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Durante o cálculo de dano, se um monstro Ciberso seu for atacado (Efeito Rápido): você pode descartar este card; você não sofre dano de batalha dessa batalha. Você só pode usar este efeito de "Entrelaçador de Socorro" uma vez por turno. Uma vez por turno, durante a Fase Final, se este card estiver no Cemitério porque foi descartado para lá para ativar este efeito neste turno: Invoque este card por Invocação-Especial. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Durante el cálculo de daño, si tu monstruo Ciberso es atacado (Efecto Rápido): puedes descartar esta carta; no recibes daño de batalla de esa batalla. Sólo puedes usar este efecto de "Entrelazador de Rescate" una vez por turno. Una vez por turno, durante la End Phase, si esta carta está en el Cementerio porque este turno fue descartada ahí para activar este efecto: Invoca esta carta de Modo Especial. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①の効果は１ターンに１度しか使用できない。①：自分のサイバース族モンスターが攻撃されたダメージ計算時にこのカードを手札から捨てて発動できる。その戦闘で発生する自分への戦闘ダメージを０にする。②：このカードがこのカードの効果を発動するために墓地へ捨てられたターンのエンドフェイズに発動する。このカードを特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 자신의 사이버스족 몬스터가 공격받은 데미지 계산시에 이 카드를 패에서 버리고 발동할 수 있다. 그 전투로 발생하는 자신에게로의 전투 데미지를 0 으로 한다. ②: 이 카드가 이 카드의 효과를 발동하기 위해 묘지로 버려진 턴의 엔드 페이즈에 발동한다. 이 카드를 특수 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2019-07-25 RIRA-EN001 Rising Rampage Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2019-07-25 RIRA-FR001 Rising Rampage Le Soulèvement de la Fureur Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2019-07-25 RIRA-DE001 Rising Rampage Rising Rampage Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2019-07-25 RIRA-IT001 Rising Rampage Furia Crescente Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2019-07-25 RIRA-PT001 Rising Rampage Investida Crescente Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2019-07-25 RIRA-SP001 Rising Rampage Alzamiento de la Devastación Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2019-04-13 RIRA-JP001 Rising Rampage ライジング・ランペイジ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2019-07-09 RIRA-KR001 Rising Rampage 라이징 램페이지 Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Cyberse 
+ 
+ Actions  
+ Activates from your hand 
+ Discards itself for cost 
+ Activates from your Graveyard 
+ 
+ Summoning  categories  
+ Special Summons itself from your Graveyard 
+ 
+ LP   
+ Prevents battle damage 
+ 
+ Miscellaneous  
+ Only once per turn 
+ Limited activations 
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14449 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Rescue Interlacer " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/aa/RescueInterlacer-RIRA-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20190730074446', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

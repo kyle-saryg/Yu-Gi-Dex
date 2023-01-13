@@ -1,0 +1,294 @@
+Link: https://yugioh.fandom.com/wiki/Mayakashi
+
+
+ 
+ Mayakashi 
+ 魔妖 「 まやかし 」  ( Mayakashi ) 
+ 
+ 
+ 
+ 
+ " Oboro-Guruma ", " Gashadokuro ", " Yoko " and " Tengu " in the artwork of " Mayakashi Metamorphosis " (they appear to be in the process of their transformation) 
+ 
+ 
+ Other names 
+ 
+ French 
+ Mayakashi 
+ 
+ 
+ German 
+ Mayakashi 
+ 
+ 
+ Italian 
+ Mayakashi 
+ 
+ 
+ Korean 
+ 마요괴   Mayogoe   (romanized) 
+ 
+ 
+ Portuguese 
+ Mayakashi 
+ 
+ 
+ Spanish 
+ Mayakashi 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Dark Neostorm Ignition Assault 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Hidden Summoners Savage Strike Special Edition Duel Overload 2021 Tin of Ancient Battles Magnificent Mavens 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Deck Build Pack: Hidden Summoners 20th Secret Rare Challenge Pack LINK VRAINS Pack 3 World Premiere Pack 2020 Secret Shiny Box 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Mayakashi " ( 魔 妖   Mayakashi ) is an  archetype  of  Zombie  monsters with various  Attributes  (primarily  EARTH  and  WATER ) revolving around Synchro Summoning that debuted in  Deck Build Pack: Hidden Summoners  in the  OCG  and in  Hidden Summoners  in the  TCG  .
+ 
+ Contents 
+ 
+ 1   Design 
+ 
+ 1.1   Members 
+ 
+ 
+ 2   Playing Style 
+ 3   Weaknesses 
+ 4   Trivia 
+ 
+ 
+ Design 
+ The members of this archetype are based on  yōkai  from Japanese folklore and from Chinese mythology. The Main Deck monsters appear to be the humanoid form of the Synchro Monsters of the same kind of "Mayakashi" (e.g. " Dakki, the Graceful Mayakashi " transforms into " Yoko, the Graceful Mayakashi ").
+ The name "Mayakashi" perhaps derives from  ayakashi , on which the Japanese name of " Shiranui Squiresaga " is also based.
+ It may also be relevant that まやかし (mayakashi) is a Japanese word with meaning including "counterfeit, fake, deception". Japanese folklore contains many stories about magical beings who can take on human form, mirroring the link between this archetype's Main Deck monsters and their Extra Deck counterparts.
+ 
+ Members 
+ 
+ 
+ Attribute
+ 
+ Main Deck "Mayakashi"
+ 
+ Origin
+ 
+ Extra Deck counterpart(s)
+ 
+ Origin
+ 
+ 
+   EARTH 
+ 
+ Shafu 
+ 
+ Rickshaw 
+ 
+ Oboro-Guruma 
+ 
+ Oboroguruma 
+ 
+ 
+ Tsukahagi 
+ 
+ Yatsukahagi 
+ 
+ Tsuchigumo 
+ 
+ Tsuchigumo 
+ 
+ 
+   WIND 
+ 
+ Hajun 
+ 
+ Hajun / Mara 
+ 
+ Tengu 
+ 
+ Tengu 
+ 
+ 
+   FIRE 
+ 
+ Dakki 
+ 
+ Daji 
+ 
+ Yoko 
+ 
+ Kyubi / Huli jing 
+ 
+ 
+   DARK 
+ 
+ Yasha 
+ 
+ Yaksha 
+ 
+ Gashadokuro 
+ 
+ Gashadokuro 
+ 
+ 
+   WATER 
+ 
+ Yuki-Musume 
+ 
+ Yuki-onna 
+ 
+ Yuki-Onna  and  Absolute Zero 
+ 
+ Yuki-onna 
+ 
+ 
+   LIGHT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Playing Style 
+ The main strategy of this archetype is to rapidly climb through the Synchro Summons, from Level 3 to 11, and then climb down again, by reviving one Synchro after the other. The lynchpin of this mechanic is the effect of " Dakki, the Graceful Mayakashi ". It can be easily Special Summoned by " Hajun, the Winged Mayakashi ", enabling the first Synchro Summon. The said Synchro Monsters are  side-unique  and have 2 effects, following the pattern below: 
+ ● If your Synchro Monster whose original Level is [two Levels higher than its own original Level] is destroyed by battle or an opponent's card effect while this card is in your GY: You can banish 1 other Zombie monster from your GY, and if you do, Special Summon this card. 
+ ● If this card is Special Summoned from the GY: You can [...] 
+ The only exception to the first effect is " Gashadokuro, the Skeletal Mayakashi ", a Level 11 monster that requires a Link monster to be destroyed, instead. The archetype in fact has a Link monster, the Link-2 " Yuki-Onna, the Ice Mayakashi ", that cannot be targeted for attacks while pointing to a Synchro Monster and that halves the ATK/DEF of a monster when a Synchro Monster is destroyed by the opponent.
+ The second Trigger Effect of the "Mayakashi" monsters range from immunity against destruction/effects to card destruction and Deck milling. They can be used by being preemptively Special Summoned from the Graveyard by generic effects such as " Book of Life ", " Mezuki ", and " Call of the Haunted ", for example, or by " Mayakashi Metamorphosis ". The two latter can be used to disrupt the opponent's plays, by Special Summoning the "Mayakashi" during their turn. Also, if their second effect is triggered by their own  condition , they can be combined with " Shiranui " monsters, that can have their effects triggered when banished, especially " Shiranui Spiritmaster ".
+ “ Yuki-Musume, the Ice Mayakashi ” adds more versatility and consistency to the deck, as she makes it easier to quickly link summon “ Yuki-Onna, the Ice Mayakashi ” and continue climbing the Synchro ladder. In addition to that, her effect to send any Zombie of your choice from your deck to the GY once she’s special summoned from your hand or GY means that cards like “ Doomking Balerdroch ”, “ Glow-Up Bloom ”, and “ Necroworld Banshee ” are now more realistic options for the deck, and also allow a “ Zombie World ” engine to be more viable. 
+ “ Mayakashi Winter ” also helps with the OTK strategy by reducing the ATK of your opponent’s monsters, and it helps that multiple copies will stack on top of each other while on the field. Usually when you’re done climbing the Synchro ladder, you’re left with a “ Dakki, the Graceful Mayakashi ” on the field that’s not doing anything so you can use this card’s effect to send it to the GY to draw a new card. 
+ 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ Yasha, the Skeletal Mayakashi 
+ Shafu, the Wheeled Mayakashi 
+ Hajun, the Winged Mayakashi 
+ Yuki-Musume, the Ice Mayakashi 
+ Beast of the Pharaoh 
+ Doomking Balerdroch 
+ Elemental Grace Doriado 
+ Goblin Zombie 
+ Gozuki 
+ Hela, Generaider Boss of Doom 
+ Jack-o-Bolan 
+ Mezuki 
+ Necroworld Banshee 
+ Samurai Skull 
+ Shiranui Solitaire 
+ Shiranui Spiritmaster 
+ Soul-Absorbing Bone Tower 
+ Vampire Fraulein 
+ Zombie Master 
+ Tuner monsters 
+ Dakki, the Graceful Mayakashi 
+ Tsukahagi, the Poisonous Mayakashi 
+ Plaguespreader Zombie 
+ Glow-Up Bloom 
+ Shiranui Spectralsword 
+ Shinobi Necro 
+ Uni-Zombie Extra Deck   
+ Fusion Monsters 
+ Dragonecro Nethersoul Dragon 
+ Synchro Monsters 
+ Oboro-Guruma, the Wheeled Mayakashi 
+ Tsuchigumo, the Poisonous Mayakashi 
+ Tengu, the Winged Mayakashi 
+ Yoko, the Graceful Mayakashi 
+ Gashadokuro, the Skeletal Mayakashi 
+ PSY-Framelord Omega 
+ Link Monsters 
+ Yuki-Onna, the Absolute Zero Mayakashi 
+ Yuki-Onna, the Ice Mayakashi 
+ Yuki-Onna, the Icicle Mayakashi 
+ Avendread Savior 
+ Vampire Sucker 
+ Shiranui Skillsaga Supremacy Spells   &  Traps   
+ Spells 
+ Ghost Meets Girl - A Mayakashi's Manuscript 
+ Mayakashi Return 
+ Mayakashi Winter 
+ Book of Life 
+ Burial from a Different Dimension 
+ Call of the Mummy 
+ Foolish Burial 
+ Gold Sarcophagus 
+ Pot of Acquisitiveness 
+ Pot of Avarice 
+ Reasoning 
+ Super Polymerization 
+ Synchronized Realm 
+ Zombie Necronize 
+ Zombie Power Struggle 
+ Zombie World 
+ Traps 
+ Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga 
+ Mayakashi Mayhem 
+ Mayakashi Metamorphosis 
+ Fateful Hour 
+ Gravity Collapse 
+ Haunted Shrine 
+ Rivalry of Warlords 
+ Shiranui Style Swallow's Slash 
+ Vendread Revolution 
+ Weaknesses 
+ While it seems that rapid Synchro Summoning in one turn is great since it could bring the 3300-ATK "Gashadokuro" on the field easily, the Synchro Monsters actually unlock their full abilities when they are Special Summoned from the Graveyard; in other words, their existence on the field after their initial Synchro Summon is nothing but as monsters that rely on their ATKs only. Cards that shut down the Graveyard, such as " Necrovalley " and " Soul Drain " are obvious threats to this Deck and one-shot options such as " Called by the Grave ", " Ghost Belle & Haunted Mansion " and " D.D. Crow " can also be used against it.
+ The narrow variety of effects can also be a problem, as most Decks nowadays benefit from having their cards destroyed (" Tengu ", " Yoko ") or their Main Deck milled (" Tsuchigumo "), rendering the opponent still able to rebuild their strategy or even benefit from the effect of the "Mayakashi" monsters.
+ " Kaiju " monsters and similar removal mechanics, that bypass the requirement of the Synchro/Link Monsters to be  destroyed , can also be an efficient way to avoid the Synchro monsters lurking in the Graveyard, waiting for the on-field monster to be destroyed, leaving the player with no option to Special Summon them and trigger their effects, unless they have cards like "Call of the Haunted", "Mezuki" or "Book of Life", which in turn could still be countered by the likes of "Called by the Grave". “ Zombie World ” can help alleviate this problem as it prevents both players from tribute summoning monsters unless they’re Zombie types. 
+ Popular forms of non-targeting and non-destruction removal can also prove to be fatal, as a card like “ Knightmare Unicorn ” can bypass their activation conditions by shuffling the monster back into the extra deck. “ Doomking Balerdroch ” can help counter this situation however. A card like “ Evenly Matched ” can also devastate the deck by forcing you to banish the cards face down instead.
+ 
+ Trivia 
+ In terms of lore, the "Mayakashi" are related to the " Shiranui " archetype:
+ The shrine that appears in the artwork of " Mayakashi Return " is the same as in the artwork of " Shiranui Style Samsara ". 
+ " Dakki, the Graceful Mayakashi " appears in the artwork of " Ghost Meets Girl - A Shiranui's Story " alongside " Shiranui Squire ", presumably inside the said shrine. 
+ " Yoko, the Graceful Mayakashi " and " Shiranui Skillsaga Supremacy " also appear to be engaging a fight in the artwork of " Fateful Hour ". 
+ " Shiranui Solitaire " bears a strong resemblance with " Hajun, the Winged Mayakashi ". 
+ " Shiranui Skillsaga Supremacy ", " Yoko, the Graceful Mayakashi " and " Yuki-Onna, the Ice Mayakashi " appear to be fighting in “ Ghost Meets Girl - A Mayakashi's Manuscript ”.
+ The latter card shows the Yuki-Onna’s transformation into “ Yuki-Onna, the Absolute Zero Mayakashi ”. 
+   
+" Mayakashi " 「 魔 妖 」 Members 
+ Dakki, the Graceful Mayakashi Gashadokuro, the Skeletal Mayakashi Hajun, the Winged Mayakashi Oboro-Guruma, the Wheeled Mayakashi Shafu, the Wheeled Mayakashi Tengu, the Winged Mayakashi Tsuchigumo, the Poisonous Mayakashi Tsukahagi, the Poisonous Mayakashi Yasha, the Skeletal Mayakashi Yoko, the Graceful Mayakashi Yuki-Musume, the Ice Mayakashi Yuki-Onna, the Absolute Zero Mayakashi Yuki-Onna, the Ice Mayakashi Yuki-Onna, the Icicle Mayakashi 
+ Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga Ghost Meets Girl - A Mayakashi's Manuscript Mayakashi Mayhem Mayakashi Metamorphosis Mayakashi Return Mayakashi Winter 
+ Support 
+ Dakki, the Graceful Mayakashi Hajun, the Winged Mayakashi Shafu, the Wheeled Mayakashi Tsukahagi, the Poisonous Mayakashi Yasha, the Skeletal Mayakashi Yuki-Musume, the Ice Mayakashi Yuki-Onna, the Ice Mayakashi 
+ Ghost Meets Girl - A Masterful Mayakashi Shiranui Saga Mayakashi Mayhem Mayakashi Metamorphosis Mayakashi Return Mayakashi Winter 
+ Related 
+ Shiranui Skillsaga Supremacy Shiranui Solitaire Shiranui Squire 
+ Fateful Hour Ghost Meets Girl - A Shiranui's Story Shiranui Style Samsara 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/f5/MayakashiMetamorphosis-OW.png/revision/latest/scale-to-width-down/350?cb=20191006182010', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/24?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/0/01/WIND.svg/revision/latest/scale-to-width-down/24?cb=20170920205028', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/24?cb=20120918053839', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Synchro Monster(s), Archetypes with Link Monster(s)

@@ -1,0 +1,386 @@
+Link: https://yugioh.fandom.com/wiki/Amorphage
+
+
+ 
+ Amorphage 
+ アモルファージ  ( Amorufāji ) 
+ 
+ 
+ 
+ 
+ " Amorphage Wrath " and " Amorphage Pride " in the artwork of " Amorphage Lysis " 
+ 
+ 
+ Other names 
+ 
+ French 
+ Amorphage 
+ 
+ 
+ German 
+ Amorphage 
+ 
+ 
+ Italian 
+ Amorfago 
+ 
+ 
+ Korean 
+ 아모르파지   Amoreupaji   (romanized) 
+ 
+ 
+ Portuguese 
+ Amórfago(a) 
+ 
+ 
+ Spanish 
+ Amórfaga 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Shining Victories 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Fists of the Gadgets 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Amorphage " (アモルファージ  Amorufāji ) is an  archetype  of  EARTH   Dragon   Pendulum Monsters  that debuted in  Shining Victories . Like the " Igknight ", " Majespecter ", and " Dinomist " archetypes from the sets before them, they have a connection to the " Dracoslayer " archetype in terms of lore. Additionally, this archetype is strongly connected to the " Dracoverlord " archetype in both lore and gameplay.
+ 
+ Contents 
+ 
+ 1   Design 
+ 
+ 1.1   Appearance 
+ 1.2   Etymology 
+ 
+ 
+ 2   Members 
+ 3   Playing style 
+ 
+ 3.1   Exploring the Pendulum Effects 
+ 3.2   After the New Master Rules 
+ 
+ 
+ 4   Recommended cards 
+ 5   Official Decks 
+ 6   Weaknesses 
+ 7   References 
+ 
+ 
+ Design 
+ Appearance 
+ The "Amorphage" monsters appear as normal animals that are mutating into draconic monstrosities, with the Level 2, 4, and 6 monsters being in the process of transformation and the Level 8 already in full draconic appearance. Each monster bears small eye-like gouges in their bodies, as well as a protrusion that resembles the body of a  T4 virus . This also adorns the staff carried by " Vector Pendulum, the Dracoverlord " — who is also related to the "Dracoslayer" archetype—suggesting that the "Amorphages" are a result, if not  the  result, of the "Dragon Alchemy" employed by "Vector Pendulum" to create his minions.
+ The fact either their ATK or DEF is 0 seems to relate to the progress of the transformation. The monsters with more vital body parts left (like "Envy") have 0 ATK. This implies they might still be struggling and will only lash out when defending themselves (DEF), the monsters being unable to be hostile (ATK) or rather unwilling, due to the involuntary character of their transformation. The ones that have sufficiently functioning draconic bodies, like "Sloth" and the perfected "Goliath", to the contrary, seem unable to  end  their hostilities. The stage of transformation also seems to be linked to how reliant on the Pendulum Scales the monsters are; "Amorphage Sloth" and "Goliath" don't need to be Pendulum Summoned or Flipped face-up in order to forbid both players from Summoning non-"Amorphage" monsters from the Extra Deck.
+ The height of the monsters' ATK stat is also related to the stage in the transformation process; "Lechery" has a functioning draconic body, but retains too much of its original characteristics to move efficiently, resulting in a low ATK stat. This stands in contrast with "Sloth", which goes nearly unhindered by its animal form's last remains.
+ 
+ Etymology 
+ "Amorphage" is a portmanteau of "amorphous" and " bacteriophage ". 
+ The OCG names of the "Amorphage" monsters are derived from the  eight evil thoughts , precursors of the  Seven deadly sins , with some of the names in Greek and some in Latin. This could also mean that not only is their body mutated by the Dracoverlords, but their personas become one-dimensional and can only think of their corresponding evil thought all the time. Their TCG names are instead derived directly from the Seven deadly sins.
+ 
+ Members 
+ 
+ 
+ English name
+ 
+ Translated Japanese name
+ 
+ Origin of Japanese name
+ 
+ Scale
+ 
+ Level
+ 
+ Original form
+ 
+ Name origin
+ 
+ 
+ Greed 
+ 
+ Plest
+ 
+ Ἀπληστία ( aplēstía , Greek for "greed")
+ 
+ 3
+ 
+ 4
+ 
+ Hedgehog 
+ 
+ Greed 
+ 
+ 
+ Envy 
+ 
+ Cavum
+ 
+ Cavum (Latin for "cave")
+ 
+ 5
+ 
+ 4
+ 
+ Squid 
+ 
+ Acedia  (OCG) Envy  (TCG)
+ 
+ 
+ Gluttony 
+ 
+ Gastr
+ 
+ Γαστριμαργία ( gastrimargía , Greek for "gluttony")
+ 
+ 5
+ 
+ 2
+ 
+ Fly 
+ 
+ Gluttony 
+ 
+ 
+ Goliath 
+ 
+ Irritum
+ 
+ Irritum (Latin for "void")
+ 
+ 5
+ 
+ 8
+ 
+ Unknown
+ 
+ Vanity  (OCG) Goliath  (TCG)
+ 
+ 
+ Lechery 
+ 
+ Lux
+ 
+ Luxuria (Latin for "lust")
+ 
+ 5
+ 
+ 2
+ 
+ Scorpion 
+ 
+ Lust 
+ 
+ 
+ Sloth 
+ 
+ Notes
+ 
+ Νωθρότης ( nōthrótēs , Greek for "sloth")
+ 
+ 3
+ 
+ 6
+ 
+ Bear 
+ 
+ Sloth 
+ 
+ 
+ Wrath 
+ 
+ Orgre
+ 
+ Ὀργή ( orgḗ , Greek for "wrath")
+ 
+ 3
+ 
+ 4
+ 
+ Wolf 
+ 
+ Wrath 
+ 
+ 
+ Pride 
+ 
+ Hyper
+ 
+ Ὑπερηφανία ( huperēphanía , Greek for "pride")
+ 
+ 3
+ 
+ 4
+ 
+ Eagle 
+ 
+ Pride 
+ 
+ Playing style 
+ The "Amorphage" Pendulum Monsters have Pendulum Scales focused on Level 4 Summons and Pendulum Effects to cause widespread disruption. All of their monster effects prevent both players from Special Summoning from the Extra Deck, except for "Amorphage" monsters, while their Pendulum Effects require a monster to be  Tributed  during their controller's Standby Phase, or else they are destroyed. This activates the draw effect of " Amorphous Persona ", the searching effect of " Amorphage Infection ", and the Pendulum Scale-replacing effect of " Amorphage Lysis ".
+ The Pendulum Effects of the "Amorphage" monsters are a fast toolbox strategy to lockdown the opposing player's options:
+ 
+ Level 2
+ " Gluttony ": prevents monster effects from being activated, except "Amorphage" monsters. 
+ " Lechery ": prevents Spell cards and effects from being activated, except "Amorphage" Cards and effects. 
+ Their Levels are below the lowest Scale so they cannot be Pendulum Summoned; once tributed or destroyed, they will stay on the Extra Deck meaninglessly, therefore they are more useful as Pendulum Scales.
+ 
+ Level 4
+ " Envy ": prevents effects in a Chain. 
+ " Wrath : forbids both players from Tributing monsters, except "Amorphage" monsters. 
+ " Pride ": neutralizes effect damage to both players. 
+ " Greed ": prevents Trap Cards and effects from being activated, except "Amorphage" Trap Cards. 
+ They are useful in the Pendulum Zones but also are important in building the monster frontline due to their fair ATK/DEF stats and the possibility of being Pendulum Summoned from the Extra Deck once they are tributed to keep the Scales active.
+ 
+ Levels 6 and 8
+ " Sloth ": prevents both players from adding cards from the Deck to the hand, except by drawing them. 
+ " Goliath ": banishes every non-"Amorphage" card that would be sent to the Graveyard. 
+ They are beyond the highest Scale this archetype can offer, so they cannot be Pendulum Summoned and mainly serve as Pendulum Scales. They can be Tribute Summoned, though, and this can trigger "Amorphous Persona" and/or "Amorphage Infection" to provide more card advantage.
+ The boss monster of the archetype, " Amorphactor Pain, the Imagination Dracoverlord ", can be Ritual Summoned by the self-banishing effect of "Amorphous Persona" (note that it can also be Ritual Summoned with " Odd-Eyes Advent "). It skips the opponent's next  Main Phase 1  after being Ritual Summoned and negates the effects of all Extra Deck monsters on the field; this reiterates the disruptive strategy of this archetype by restricting the opponent's next moves and possibly disabling their front line. As a finishing move and with the right set-up, it can also be Special Summoned straight from the Deck with " Forge of the True Dracos ".
+ It is important to keep the effects of the "Amorphage" Pendulum Scales active by having at least two "Amorphage" monsters in the Monster Zone. This archetype can be mixed with different archetypes, primarily the "Dracoslayer" and "Dracoverlord" archetypes, with careful planning.
+ 
+ Exploring the Pendulum Effects 
+ The disruptive capabilities of the Pendulum Effects of the "Amorphage" monsters can be explored depending on the opponent's Deck, "Amorphage Lysis" can be used to switch them accordingly. Some combinations include:
+ "Sloth" + "Lechery": can entirely paralyze any Pendulum-reliant Deck, by preventing the opponent from activating Pendulum Spells in the first place and forbidding any search effect like that of " Performapal Skullcrobat Joker ", for example.
+ "Wrath" + "Gluttony": can shut down any Ritual-based deck, by constricting the Tributes and shutting down any monster effect, like " Manju of the Ten Thousand Hands ", " Senju of the Thousand Hands ", etc.
+ "Greed" + "Gluttony": restricts any Deck that heavily relies on a Trap line-up and monster effects, like " Traptrix ", " Artifact ", etc.
+ "Wrath" + "Goliath": can be fatal to a dedicated " Monarch " Deck, that even not being reliant on the Extra Deck, would be unable to perform Tribute Summons and any " Monarch " Spell/Trap Card as well as the " Vassals " would be banished, avoiding their Graveyard effects.
+ 
+ After the New Master Rules 
+ The "Amorphage" deck may appear to be crippled by Master Rule 4, which remains in place for  Pendulum Monsters  after the latest ruling revisions. It is now impossible to maintain two "Amorphage" monsters in the  Pendulum Zones  without the use of  Link Monsters  to ensure  Link Arrows  are in place to be able to  Pendulum Summon  two monsters from the  Extra Deck . However, Pendulum Monsters have since received new support in " Pendulum Paradox ", which is valued greatly by "Amorphage" since all their monsters have uniform  Pendulum Scale  values (of either 3 or 5) and allows for more flexibility in the kind of floodgates that can be employed over the course of the duel. 
+ 
+ Recommended cards 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ Dragon Dowser 
+ Frontline Observer 
+ Koa'ki Meiru Drago 
+ Majesty's Fiend 
+ Masked Dragon 
+ Spiritual Whisper 
+ Pendulum Monsters 
+ Amorphage Envy 
+ Amorphage Gluttony 
+ Amorphage Goliath 
+ Amorphage Greed 
+ Amorphage Lechery 
+ Amorphage Pride 
+ Amorphage Sloth 
+ Amorphage Wrath 
+ Lector Pendulum, the Dracoverlord 
+ Luster Pendulum, the Dracoslayer 
+ Master Pendulum, the Dracoslayer 
+ Supreme King Dragon Darkwurm 
+ Supreme King Gate Infinity 
+ Vector Pendulum, the Dracoverlord 
+ Odd-Eyes Revolution Dragon 
+ Ritual Monsters 
+ Amorphactor Pain, the Imagination Dracoverlord 
+ Odd-Eyes Gravity Dragon Spells   &  Traps   
+ Spells 
+ Amorphage Infection 
+ Amorphous Persona 
+ Draco Face-Off 
+ Draconnection 
+ Dragon Shrine 
+ Duelist Alliance 
+ Earth Chant 
+ Forge of the True Dracos 
+ Odd-Eyes Advent 
+ Pendulum Impenetrable 
+ Pendulum Paradox 
+ Pendulum Shift 
+ Pot of Riches 
+ Scapegoat 
+ Super Rejuvenation 
+ Terraforming 
+ Ties of the Brethren 
+ Traps 
+ Amorphage Lysis 
+ Echo Oscillation 
+ Extra Buck 
+ Gozen Match 
+ Pendulum Reborn 
+ Pendulum Switch 
+ Rivalry of Warlords 
+ Solomon's Lawbook 
+ Spiritual Earth Art - Kurogane 
+ Threatening Roar 
+ Thunder of Ruler 
+ Official Decks 
+ 
+ "Amorphage" Deck [1] Monsters   
+ Pendulum Monsters 
+ Amorphage Envy  x3 
+ Amorphage Gluttony  x3 
+ Amorphage Goliath  x2 
+ Amorphage Greed  x2 
+ Amorphage Lechery  x2 
+ Amorphage Pride  x3 
+ Amorphage Sloth  x3 
+ Amorphage Wrath  x3 
+ Ritual Monsters 
+ Amorphactor Pain, the Imagination Dracoverlord Spells   &  Traps   
+ Spells 
+ Amorphage Infection  x3 
+ Amorphous Persona  x3 
+ Dark Hole 
+ Harpie's Feather Duster 
+ Super Rejuvenation 
+ Ties of the Brethren  x2 
+ Traps 
+ Amorphage Lysis  x2 
+ Pendulum Reborn  x2 
+ Solemn Judgment 
+ Solemn Warning 
+ Weaknesses 
+ Cards that prevent Tributing, such as " Fog King " and " Mask of Restrict " can hinder this Deck, as each "Amorphage" monster as a Spell Card requires Tributes to stay in the Pendulum Zone. 
+ As all "Amorphage" monsters have either 0 ATK or 0 DEF, " Doom Donuts " can decimate an established field. 
+ All "Amorphage" Pendulum Effects include a stipulation that the controller must also control an "Amorphage" monster. Without that, none of their Pendulum Effects apply, and the Deck's biggest strength is gone. 
+ As any Pendulum-reliant strategy, this Deck is also vulnerable to " Anti-Spell Fragrance ". 
+ As the archetype is solely comprised of Pendulum Monsters with Pendulum Scales of 3 or 5, and contains several non-Level 4 monsters, non-"Amorphage" Pendulum Monsters or other cards to extricate "Amorphage" cards from the Extra Deck must be included in the Deck if the player wishes to retrieve or reuse any non-Level 4 "Amorphage" monsters. 
+ The introduction of Link rules and changes to the Pendulum zones makes this archetype very difficult to manage for several reasons:
+ Master Rule 4 prohibits the archetype's ability to resummon monsters to fuel the Pendulum scales. Currently the cards that recover Pendulum monsters (E.G.  Oafdragon Magician  and  Amazing Pendulum ) are archetype-restricted, so bypassing the lack of Link monsters is excessively difficult. 
+ The archetype is reliant on backrow, both for tutoring more Amorphage monsters and to generate tokens for tributing, which means the new Pendulum zones dramatically reduce a potential deck's longevity. As tokens tend to be extremely vulnerable, the standard method for utilizing them is to set a card like  Scapegoat  or  Fires of Doomsday , then activating that card at the end of your opponent's turn. WIth two backrow slots taken up by your Pendulum scales, and another two taken up by Amorphage Lysis/Infection, this leaves the deck's only backrow slot either dedicated to maintaining the scales or countering your opponent. 
+ The archetype has a built-in summoning restriction, so splashing non-archetype Link monsters is impossible without  Book of Eclipse  or  Skill Drain  to negate the effects. As Skill Drain is currently Limited and Book of Eclipse has a horrendous drawback, the deck isn't capable of maintaining the Pendulum scales for very long. 
+ References 
+ 
+ 
+ ↑   https://ygorganization.com/ocg-amorphage-deck-recipe/ 
+ 
+ 
+   
+" Amorphage " 「アモルファージ」 Members 
+ Amorphage Envy Amorphage Gluttony Amorphage Goliath Amorphage Greed Amorphage Lechery Amorphage Pride Amorphage Sloth Amorphage Wrath 
+ Amorphage Infection Amorphage Lysis 
+ Support 
+ Amorphage Envy Amorphage Gluttony Amorphage Goliath Amorphage Greed Amorphage Lechery Amorphage Pride Amorphage Sloth Amorphage Wrath 
+ Amorphage Infection Amorphage Lysis Amorphous Persona 
+ Related 
+ Amorphactor Pain, the Imagination Dracoverlord Lector Pendulum, the Dracoverlord Vector Pendulum, the Dracoverlord 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/66/AmorphageArchetype.png/revision/latest/scale-to-width-down/350?cb=20160219013150']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Pendulum Monster(s)

@@ -1,0 +1,50 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Arsenal_Bug
+
+
+ Arsenal Bug 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Yu-Gi-Oh! The Duelists of the Roses Yu-Gi-Oh! Destiny Board Traveler 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ If  there are  no  face-up  Insect-Type monsters  (except this monster) on your side of the field ,  both the  ATK and DEF  of this monster  become 1000  points . 
+ If  you control  no  other  Insect-Type monsters,  this card's  ATK and DEF become 1000. 
+ 
+ 
+       PGD-007 Pharaonic Guardian     
+       BP03-EN004 Battle Pack 3: Monster League     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ 自分 の フィールド上にこのカード以外の昆虫族モンスターが存在しなければ、攻撃力・守備力は１０００になる。 攻  2000 守  2000 
+ 自分フィールド上にこのカード以外の昆虫族モンスターが存在しなければ、 このカードの 攻撃力・守備力は それぞれ １０００ ポイント になる。 ATK/ 2000  DEF/ 2000 
+ 
+ 
+       PGD-007 Pharaonic Guardian     
+         DL5-094 Duelist Legacy Volume.5     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d7/ArsenalBug-PGD-NA-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20061226053632', 'https://static.wikia.nocookie.net/yugioh/images/2/25/ArsenalBug-BP03-EN-R-1E.png/revision/latest/scale-to-width-down/180?cb=20140801081356', 'https://static.wikia.nocookie.net/yugioh/images/d/d2/ArsenalBug-PH-JP-C.jpg/revision/latest/scale-to-width-down/180?cb=20070322000215', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/08/ArsenalBug-DL5-JP-C.jpg/revision/latest/scale-to-width-down/180?cb=20070322000147']
+Categories: Card Errata, Cards with 1 erratum, Cards with Japanese errata

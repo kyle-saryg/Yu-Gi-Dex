@@ -1,0 +1,306 @@
+Link: https://yugioh.fandom.com/wiki/D/D_Savant_Copernicus
+
+
+ 
+ 
+ D/D Savant Copernicus Ｄ Ｄ 魔 導 賢 者 コペルニクス 
+ 
+ English 
+D/D Savant Copernicus 
+ French 
+ D/D Savant Copernic Check translation 
+ German 
+ D/D-Gelehrter Copernicus Check translation 
+ Italian 
+ D/D Sapiente Copernicus Check translation 
+ Korean 
+ D D  마도현자 코페르니쿠스 Check translation 
+ Portuguese 
+ D/D Copernicus, o Erudito Check translation 
+ Spanish 
+ D/D Sabio Copernicus Check translation 
+ Japanese (kana) 
+ ディーディーまどうけんじゃコペルニクス Check translation 
+ Japanese (base) 
+ ＤＤ魔導賢者コペルニクス Check translation 
+ Japanese ( rōmaji ) 
+DīDī Madō Kenja Koperunikusu 
+ Japanese (translated) 
+D/D Magical Savant Copernicus 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Fiend  /  Pendulum  /  Effect 
+ Level 
+ 4   
+ Pendulum Scale 
+   1 
+ ATK  /  DEF 
+ 0  /  0 
+ Passcode 
+ 46796664 
+ Card effect types 
+ Pendulum Effect  
+ Continuous-like 
+ Condition 
+ Continuous-like 
+ Monster Effect 
+ Trigger 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Pendulum Effect : You cannot  Pendulum Summon   monsters , except " D/D " monsters. This  effect  cannot be  negated . Once, while this card is in your  Pendulum Zone , you can negate an  activated   Spell  effect that would inflict  damage  to you, then  destroy  this card. Monster Effect : If this card is  Normal  or  Special Summoned : You can  send  1 " D/D " or " Dark Contract " card from your  Deck  to the  GY , except "D/D Savant Copernicus". You can only use this  effect  of "D/D Savant Copernicus"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Effet Pendule  
+ Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres "D/D" exclus). Cet effet ne peut pas être annulé. Une fois, tant que cette carte est dans votre Zone Pendule, vous pouvez annuler un effet de Magie activé qui va vous infliger des dommages, puis détruisez cette carte. 
+ Effet de Monstre  
+   Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez envoyer 1 carte "D/D" ou "Contrat des Ténèbres" ("D/D Savant Copernic" exclu) depuis votre Deck au Cimetière. Vous ne pouvez utiliser cet effet de "D/D Savant Copernic" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Pendeleffekt 
+ Du kannst keine Monster als Pendelbeschwörung beschwören, außer „D/D“-Monstern. Dieser Effekt kann nicht annulliert werden. Einmal, solange diese Karte in deiner Pendelzone liegt, kannst du einen aktivierten Zaubereffekt annullieren, der dir Schaden zufügen würde, dann zerstöre diese Karte. 
+ Monstereffekt 
+   Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „D/D“- oder „Dunkler Vertrag“-Karte von deinem Deck auf den Friedhof legen, außer „D/D-Gelehrter Copernicus“. Du kannst diesen Effekt von „D/D-Gelehrter Copernicus“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Effetto Pendulum 
+ Non puoi Evocare Pendulum mostri, eccetto mostri "D/D". Questo effetto non può essere annullato. Una volta, mentre questa carta è nella tua Zona Pendulum, puoi annullare l'effetto di una Magia attivata che sta per infliggerti danno, poi distruggi questa carta. 
+ Effetto Mostro 
+   Se questa carta viene Evocata Normalmente o Specialmente: puoi mandare 1 carta "D/D" o "Contratto Oscuro" dal tuo Deck al Cimitero, eccetto "D/D Sapiente Copernicus". Puoi utilizzare questo effetto di "D/D Sapiente Copernicus" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Efeito de Pêndulo 
+ Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros "D/D". Este efeito não pode ser negado. Uma vez, enquanto este card estiver na sua Zona de Pêndulo, você pode negar um efeito de Magia ativado que causaria dano a você e, depois, destrua este card. 
+ Efeito de Monstro 
+   Se este card for Invocado por Invocação-Normal ou Especial: você pode enviar 1 card "D/D" ou "Pacto Obscuro" do seu Deck para o Cemitério, exceto "D/D Copernicus, o Erudito". Você só pode usar este efeito de "D/D Copernicus, o Erudito" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Efecto de Péndulo 
+ No puedes Invocar monstruos por Péndulo, excepto monstruos "D/D". Este efecto no puede ser negado. Una vez, mientras esta carta está en tu Zona de Péndulo, puedes negar un efecto de Mágica activado que te fuera a infligir daño, y después destruye esta carta. 
+ Efecto de Monstruo 
+   Si esta carta es Invocada de Modo Normal o Especial: puedes mandar al Cementerio 1 carta "D/D" o "Contrato Oscuro" en tu Deck, excepto "D/D Sabio Copernicus". Sólo puedes usar este efecto de "D/D Sabio Copernicus" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Ｐ 効 果 
+ ①：自分は「 Ｄ Ｄ 」モンスターしか Ｐ 召喚できない。この効果は無効化されない。②：このカードが Ｐ ゾーンに存在する限り１度だけ、自分にダメージを与える魔法カードの効果が発動した場合、その効果を無効にできる。その後、このカードを破壊する。 
+ モンスターの 効 果 
+   「 Ｄ Ｄ 魔導賢者コペルニクス」のモンスター効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「 Ｄ Ｄ 魔導賢者コペルニクス」以外の「 Ｄ Ｄ 」カードまたは「契約書」カード１枚を墓地へ送る。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 펜듈럼 효과 
+ ①: 자신은 "DD(디디)" 몬스터밖에 펜듈럼 소환할 수 없다. 이 효과는 무효화되지 않는다. ②: 이 카드가 펜듈럼 존에 존재하는 한 1번만, 자신에게 데미지를 주는 마법 카드의 효과가 발동했을 경우, 그 효과를 무효로 할 수 있다. 그 후, 이 카드를 파괴한다. 
+ 몬스터의 효과 
+   "DD(디디) 마도현자 코페르니쿠스"의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "DD(디디) 마도현자 코페르니쿠스" 이외의 "DD(디디)" 카드 또는 "계약서" 카드 1장을 묘지로 보낸다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2017-01-19 SDPD-EN003 Pendulum Domination Structure Deck Common 2022-05-05 GFP2-EN076 Ghosts From the Past: The 2nd Haunting Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2017-01-19 SDPD-FR003 Pendulum Domination Structure Deck Domination des Pendules Deck de Structure Common 2022-05-05 GFP2-FR076 Ghosts From the Past: The 2nd Haunting Fantômes du Passé : La 2e Incarnation Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2017-01-19 SDPD-DE003 Pendulum Domination Structure Deck Pendulum Domination Structure Deck Common 2022-05-05 GFP2-DE076 Ghosts From the Past: The 2nd Haunting Ghosts From the Past: The 2nd Haunting Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2017-01-19 SDPD-IT003 Pendulum Domination Structure Deck Dominazione Pendulum Structure Deck Common 2022-05-05 GFP2-IT076 Ghosts From the Past: The 2nd Haunting Fantasmi Dal Passato : La Seconda Apparizione Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2017-01-20 SDPD-PT003 Pendulum Domination Structure Deck Dominação Pêndulo Deck Estrutural Common 2022-05-05 GFP2-PT076 Ghosts From the Past: The 2nd Haunting Fantasmas Do Passado : A 2ª Assombração Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2017-01-19 SDPD-SP003 Pendulum Domination Structure Deck Dominio del Péndulo Baraja de Estructura Common 2022-05-05 GFP2-SP076 Ghosts From the Past: The 2nd Haunting Antasmas Del Pasado : La 2ª Aparición Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2015-12-12 SD30-JP003 Structure Deck: Pendulum Domination ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －ペンデュラム・ドミネーション－ Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2016-03-15 SD30-KR003 Structure Deck: Pendulum Domination ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ  － 펜듈럼 도미네이션 － Normal Parallel Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ D/D 
+ Prophecy 
+ 
+ Supports   archetypes   
+ D/D 
+ Dark Contract 
+ 
+ Actions  
+ Effect that cannot be negated 
+ Activates upon Normal Summon 
+ Activates upon Special Summon 
+ Sends from your Deck to your Graveyard 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of Spell Cards 
+ Destroys Spell Cards 
+ Destroys itself 
+ 
+ Summoning  categories  
+ Restricts the player's Pendulum Summons to archetype specific monsters 
+ 
+ Miscellaneous  
+ Once while face-up on the field 
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12227 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " D/D Savant Copernicus " pages 
+ 
+ 
+ Anime Manga 
+ 
+ 
+ 
+   
+" D/D " 「 Ｄ Ｄ 」 Members 
+ D/D Ark D/D Berfomet D/D Cerberus D/D Dog D/D Evil D/D Ghost D/D Gryphon D/D Lamia D/D Lilith D/D Necro Slime D/D Nighthowl D/D Orthros D/D Pandora D/D Proud Chevalier D/D Proud Ogre D/D Savant Copernicus D/D Savant Galilei D/D Savant Kepler D/D Savant Newton D/D Savant Nikola D/D Savant Thomas D/D Swirl Slime D/D Vice Typhon D/D/D Abyss King Gilgamesh D/D/D Chaos King Apocalypse D/D/D Cursed King Siegfried D/D/D Destiny King Zero Laplace D/D/D Deviser King Deus Machinex D/D/D Doom King Armageddon D/D/D Dragon King Pendragon D/D/D Dragonbane King Beowulf D/D/D Duo-Dawn King Kali Yuga D/D/D Flame High King Genghis D/D/D Flame King Genghis D/D/D Gust High King Alexander D/D/D Gust King Alexander D/D/D Marksman King Tell D/D/D Oblivion King Abyss Ragnarok D/D/D Oracle King d'Arc D/D/D Rebel King Leonidas D/D/D Stone King Darius D/D/D Super Doom King Bright Armageddon D/D/D Super Doom King Dark Armageddon D/D/D Super Doom King Purple Armageddon D/D/D Supersight King Zero Maxwell D/D/D Supreme King Kaiser D/D/D Vice King Requiem D/D/D Wave High King Caesar D/D/D Wave King Caesar D/D/D Wave Oblivion King Caesar Ragnarok Go! - D/D/D Divine Zero King Rage 
+ D/D Recruits D/D Reroll D/D/D Contract Change D/D/D Headhunt D/D/D Human Resources 
+ Support 
+ D/D Ark D/D Berfomet D/D Cerberus D/D Evil D/D Ghost D/D Gryphon D/D Lamia D/D Lilith D/D Nighthowl D/D Orthros D/D Proud Chevalier D/D Proud Ogre D/D Savant Copernicus D/D Savant Galilei D/D Savant Kepler D/D Savant Newton D/D Savant Nikola D/D Savant Thomas D/D Swirl Slime D/D Vice Typhon D/D/D Abyss King Gilgamesh D/D/D Chaos King Apocalypse D/D/D Cursed King Siegfried D/D/D Doom King Armageddon D/D/D Dragonbane King Beowulf D/D/D Duo-Dawn King Kali Yuga D/D/D Flame High King Genghis D/D/D Flame King Genghis D/D/D Gust High King Alexander D/D/D Gust King Alexander D/D/D Marksman King Tell D/D/D Oblivion King Abyss Ragnarok D/D/D Oracle King d'Arc D/D/D Super Doom King Bright Armageddon D/D/D Super Doom King Dark Armageddon D/D/D Wave High King Caesar D/D/D Wave Oblivion King Caesar Ragnarok Go! - D/D/D Divine Zero King Rage 
+ D/D Recruits D/D Reroll D/D/D Contract Change D/D/D Human Resources Dark Contract with Errors Dark Contract with Patent License Dark Contract with the Eternal Darkness Dark Contract with the Gate Dark Contract with the Swamp King Dark Contract with the Witch Dark Contract with the Yamimakai 
+ 
+   
+" Dark Contract " 「 契 約 書 」 Members 
+ Dark Contract with Errors Dark Contract with Patent License Dark Contract with the Entities Dark Contract with the Eternal Darkness Dark Contract with the Gate Dark Contract with the Swamp King Dark Contract with the Witch Dark Contract with the Yamimakai Forbidden Dark Contract with the Swamp King 
+ Support 
+ D/D Ghost D/D Gryphon D/D Lamia D/D Orthros D/D Savant Copernicus D/D Savant Galilei D/D Savant Kepler D/D Savant Newton D/D/D Cursed King Siegfried D/D/D Deviser King Deus Machinex D/D/D Duo-Dawn King Kali Yuga D/D/D Flame King Genghis D/D/D Marksman King Tell D/D/D Stone King Darius D/D/D Vice King Requiem D/D/D Wave High King Caesar D/D/D Wave King Caesar D/D/D Wave Oblivion King Caesar Ragnarok 
+ Contract Laundering D/D Recruits D/D Reroll Dark Contract with the Witch 
+ 
+   
+" Prophecy " 「 魔 導 」 Members 
+ Amores of Prophecy Ancient Sorcerer Apprentice Illusion Magician Armor Exe Breaker the Dark Magical Warrior Breaker the Magical Warrior Charioteer of Prophecy Crowley, the First Propheseer D/D Savant Copernicus D/D Savant Galilei D/D Savant Kepler D/D Savant Newton D/D Savant Nikola D/D Savant Thomas Dark Cavalry Dark Magician the Magical Knight of Dragons The Dark Magicians Dark Paladin Day-Breaker the Shining Magical Warrior Defender, the Magical Knight Ebon High Magician Ebon Illusion Magician Ebon Magician Curran Emperor of Prophecy Empress of Prophecy Endymion, the Master Magician Endymion, the Mighty Master of Magic The Fiend Megacyber Fool of Prophecy Gilti-Gearfried the Magical Steel Knight Giltia the D. Knight Giltia the D. Knight - Soul Spear Hermit of Prophecy Hierophant of Prophecy High Priestess of Prophecy The Illusory Gentleman Justice of Prophecy Magical Cavalry of Cxulub Magical Merchant Magical Scientist Master of Chaos Prophecy Destroyer Reaper of Prophecy Red-Eyes Dark Dragoon Silent Paladin Skilled Brown Magician Skilled White Magician Spellbook Magician of Prophecy Stoic of Prophecy Strength of Prophecy Supreme Arcanite Magician Temperance of Prophecy Testament of the Arcane Lords Time Wizard of Tomorrow Water Magician Wheel of Prophecy White Magician Pikeru World of Prophecy 
+ Dark Magical Circle The Grand Spellbook Tower Hidden Spellbook Mage Power Magical Contract Door Magical Mid-Breaker Field Mega Ton Magical Cannon Spellbook Library of the Crescent Spellbook Library of the Heliosphere Spellbook Organization Spellbook Star Hall Spellbook of Eternity Spellbook of Fate Spellbook of Judgment Spellbook of Knowledge Spellbook of Life Spellbook of Miracles Spellbook of Power Spellbook of Secrets Spellbook of Wisdom Spellbook of the Master Type Zero Magic Crusher 
+ Support 
+ Stoic of Prophecy 
+ Related 
+ Aleister the Invoker Aleister the Invoker of Madness Behegon Black Luster Soldier Buster Blader Crowley, the Magistus of Grimoires Dark Magician Dark Magician Dark Magician Girl Gearfried the Iron Knight Guardian of the Labyrinth Marine Beast Princess Curran Princess Pikeru Protector of the Throne Red-Eyes Black Dragon Time Wizard 
+ Trial of the Princesses 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/6a/DDSavantCopernicus-GFP2-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20220608002745', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

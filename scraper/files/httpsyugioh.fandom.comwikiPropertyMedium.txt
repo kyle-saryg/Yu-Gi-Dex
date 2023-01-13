@@ -1,0 +1,15 @@
+Link: https://yugioh.fandom.com/wiki/Property:Medium
+
+This defines what Medium a card is seen in, be it the OCG, TCG, Animes, Mangas, Video Games, or other assorted mediums. It has type  String .
+ 
+ 
+ 
+ 
+ Top 
+ 0–9 
+ A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z 
+ 
+ 
+ 
+ 
+Categories:

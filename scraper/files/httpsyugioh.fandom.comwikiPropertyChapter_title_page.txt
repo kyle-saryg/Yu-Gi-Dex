@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Chapter_title_page
+
+This property stores the filename of the image of the title page of a chapter. This uses a  Text .
+ 
+ 
+ 
+ 
+Categories:

@@ -1,0 +1,613 @@
+Link: https://yugioh.fandom.com/wiki/Victory_condition
+
+
+ 
+ Victory condition
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 勝 利 条 件 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ しょうりじょうけん
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 勝利条件
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Shōri Jōken
+ 
+ 
+ 
+ English
+ 
+ 
+ Victory Condition
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Condition de victoire 
+ German : Siegbedingung 
+ Italian : Condizione di Vittoria 
+ Portuguese : Condição de Vitória 
+ Spanish : Condición de Victoria 
+ Korean : 승리 조건 (勝利條件)  Seungni Jogeon 
+ Traditional Chinese : 勝利條件  Shènglì Tiáojiàn / Sing3 lei6 Tiu4 gin2 
+ Simplified Chinese : 胜利条件  Shènglì Tiáojiàn 
+ 
+ 
+ Victory conditions  ( 勝 利 条 件   Shōri Jōken ) refer to the various ways a player can win a  Duel  or  Match .
+ 
+ Contents 
+ 
+ 1   Standard victory conditions 
+ 
+ 1.1   Tournaments Rules 
+ 
+ 
+ 2   Alternate victory conditions 
+ 
+ 2.1   Duel winners 
+ 2.2   Match winners 
+ 2.3   In the anime 
+ 
+ 
+ 3   Removing or replacing victory conditions 
+ 4   Video game automatic surrender 
+ 5   Trivia 
+ 6   References 
+ 
+ 
+ Standard victory conditions 
+ There are three typical ways to win a  Duel  in the game's rules and mechanics.
+ 
+ The opponent's  LP  is reduced to 0. 
+ The opponent is required to  draw a card , but does not have enough cards left in their  Main Deck  (referred to as a " Deck out "). 
+ The opponent  surrenders . Surrenders cannot be refused. 
+ If both players satisfy a victory condition at the same time, then the Duel ends in a  DRAW .
+ If one of these victory conditions is met while an effect is still resolving (i.e. " Ring of Destruction " or " Flowerbot "), the Duel ends immediately without resolving the rest of that effect. [1] 
+ 
+ Tournaments Rules 
+ During Tournaments and events, a player may also be forced to concede the duel in the opponent's victory. 
+ 
+ The player is issued assued a " Game Loss " penalty in a tournament immediately loses the duel. Notable causes include.
+ Received a second Warning on the same infraction they have previously commited. 
+ An unrepairable game state. 
+ In timed tournaments/events (which is the majority), if time runs out and the current Duel has not ended, the player with more LP at the end of the current Phase wins.
+ If LP are tied, the Duel continues until the first change in LP happens (unofficially known as "sudden death"). 
+ 
+A  Match  is typically won by winning two Duels, making them best-of-3 contests. In tournaments, Matches can also be won by the opponent forfeiting the Match or receiving a  Match Loss  penalty, or by time running out when the player has won one Duel while the opponent has not. (If time runs out and both players have won an equal number of Duels, the current Duel is decided by LP or by "sudden death" if applicable.)
+ 
+ Alternate victory conditions 
+ If one of these special victory conditions is met while resolving a card effect, victory cannot be declared until after that effect completely resolves and the victory condition still remains true. [1] 
+ 
+ Duel winners 
+ Main article:  Duel winner 
+ Since the beginning of the game, there have existed cards with  conditions  that provide alternate ways to win a Duel without making your opponent's LP 0 or making them  Deck out . The first and arguably the most famous of these is " Exodia the Forbidden One ". There are currently a total of fifteen Duel winner cards in the  OCG  or  TCG  (not all of which are  legal  for tournament play).
+ 
+ Match winners 
+ Main article:  Match winner 
+ A  series  of  monsters , known as Match winners, share the condition that if one successfully attacks your opponent  directly  and makes their LP 0 by the  battle damage  it inflicted (sometimes with additional requirements), then you win the entire Match instead of just the Duel. All Match winners printed are  illegal  to use in official Duels, except for " Victory Dragon ", which is instead currently  Forbidden .
+ 
+ In the anime 
+ In the anime, five duels have been won using an alternate victory condition:  Yami Yugi  against  Seto Kaiba [2] ,  Seeker  against  Joey Wheeler [3] ,  Noah Kaiba  against Seto Kaiba [4] ,  Jaden Yuki  against  Harrington Rosewood [5] , and  Adrian Gecko  against  Aster Phoenix [6] .
+ Other Duelists such as  Yami Bakura , Seto Kaiba,  Dartz , Harrington Rosewood,  Thelonious Viper ,  Yubel  (through  Marcel Bonaparte ),  Quattro ,  Don Thousand , and  Nash  have attempted to win using an alternate victory condition, albeit unsuccessfully.
+ 
+ Removing or replacing victory conditions 
+ These cards have effects that remove or replace the standard victory conditions. Currently, no such effects exist in the  TCG  or  OCG .
+ 
+ " Divine Serpent Geh ": In the anime, while you control this face-up card, you cannot lose the Duel. 
+ " Relay Soul ": In the anime, this card's effect allows you to Special Summon a monster from your hand when your LP become 0, and makes destroying that monster your opponent's only victory condition, replacing all others. (This card has a different effect in the  TCG / OCG ; see "Duel winners" above.) 
+ " Deuce ": While this card is face-up on the field, neither player can lose the Duel if their LP become 0. Instead, a player wins the Duel if they damage their opponent twice in a row. This is an anime-only card. 
+ " Infernity Zero ": While you control this face-up card, you do not lose the Duel if your LP become 0. This card exists only in the anime and in the  Yu-Gi-Oh! Tag Force  series of video games from  Tag Force 5  onward. 
+ " Zero Gate of the Void ": Similar to " Relay Soul ", this card's effect allows you to Special Summon " Void Ogre Dragon " if your LP become 0 while your field and hand are empty, and your opponent's only victory condition becomes the destruction of that monster. This is a manga-only card. 
+ Video game automatic surrender 
+ " Yata-Garasu ": In most video games, if a player successfully inflicts battle damage to their opponent with "Yata-Garasu" while the opponent controls no cards and has no cards in their hand, then the opponent is programmed to automatically surrender the Duel at the start of their next turn, due to the  lock effect of "Yata-Garasu" . [7]  This forced surrender applies to both human and CPU players, and will occur even if not surrendering would have been beneficial (such as if the controller of "Yata-Garasu" had no cards left in their Deck and would have lost had the opponent not surrendered). 
+ Trivia 
+ Prior to March 20, 2015 in the  TCG , it was the rule that a Duel could not end in the middle of resolving a card effect. For example:
+ 
+ If a player  activated  " Berserker Soul " and  excavated  a Monster Card, lowering the opponent's LP to 0 as a result, that player would still be required to keep excavating cards until they excavated a non-Monster Card or excavated a total of 8 Monster Cards, before the opponent would actually lose. [8] 
+ On March 20, 2015, the rules were changed for standard victory conditions only, stating that a Duel ends immediately if a player's LP reaches 0 or they are forced to draw a card when there are no cards in their Deck (even while an effect is still resolving). This change does not carry over to alternate victory conditions (i.e. a player draws a fifth " Forbidden One " monster by the effect of " Dark World Dealings ", but cannot declare victory until after they discard). This change was presumably made in response to the then-new  erratum  of " Ring of Destruction " in the  TCG .
+ 
+ References 
+ 
+ ↑  1.0   1.1   Konami TCG Strategy Site : Updates: F&L Cards List, PGL2 Card Text, Rules for Winning During a Chain 
+ 
+ ↑   Yu-Gi-Oh!   episode 1: " The Heart of the Cards " 
+ 
+ ↑   Yu-Gi-Oh!   episode 55: " Stalked by the Rare Hunters " 
+ 
+ ↑   Yu-Gi-Oh!   episode 116: " Brothers in Arms, Part 3 " 
+ 
+ ↑   Yu-Gi-Oh! GX  episode 15: " Courting Alexis " 
+ 
+ ↑   Yu-Gi-Oh! GX  episode 145: " The Forbidden Ritual, Part 2 " 
+ 
+ ↑   http://www.youtube.com/watch?v=AezdHXC6nLg&t=3m27s 
+ 
+ ↑   Konami TCG Strategy Site : Drawing the Pharaoh’s Ire 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Gameplay

@@ -1,0 +1,34 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Ally_of_Justice_Decisive_Armor
+
+
+ Ally of Justice Decisive Armor 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ 1 Tuner + 2  or more  non-Tuner monsters Once per turn, if your opponent controls a face-up LIGHT monster (s),   you  can activate 1 of these effects: ●  Select  1 Set card your opponent controls  and  destroy  it . ● Send 1 card from your hand to the  Graveyard to  destroy all  Spell/Trap Cards  your opponent controls. ● Send  all cards in  your hand to the  Graveyard to  look at your opponent's hand and send all LIGHT monsters in their hand to the  Graveyard.   Then , inflict damage to your opponent equal to the total ATK of the opponent's monsters sent to the  Graveyard . 
+ 1 Tuner + 2 +  non-Tuner monsters Once per turn, if your opponent controls a LIGHT monster :   You  can activate 1 of these effects. ●  Target  1 Set card your opponent controls ;  destroy  that target . ● Send 1 card from your hand to the  GY;  destroy all  Spells and Traps  your opponent controls. ● Send your  entire  hand to the  GY;  look at your opponent's hand and send all LIGHT monsters in their hand to the  GY,   then , inflict damage to your opponent equal to the total ATK of those monsters sent to the  GY . 
+ 
+ 
+       DT03-EN090 Duel Terminal 3     
+       HAC1-EN092 Hidden Arsenal: Chapter 1     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/7c/AllyofJusticeDecisiveArmor-DT03-EN-DUPR-DT.jpg/revision/latest/scale-to-width-down/180?cb=20101028214100', 'https://static.wikia.nocookie.net/yugioh/images/e/e7/AllyofJusticeDecisiveArmor-HAC1-EN-DUPR-1E.png/revision/latest/scale-to-width-down/180?cb=20220404202140']
+Categories: Card Errata, Cards with 1 erratum

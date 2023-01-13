@@ -1,0 +1,235 @@
+Link: https://yugioh.fandom.com/wiki/Cattle_Call
+
+
+ 
+ 
+ Cattle Call 烏 合 無 象 
+ 
+ English 
+Cattle Call 
+ French 
+ Appel du Troupeau Check translation 
+ German 
+ Das Vieh herbeirufen Check translation 
+ Italian 
+ Richiamo della Mandria Check translation 
+ Korean 
+ 오합무상 Check translation 
+ Portuguese 
+ Chamado do Rebanho Check translation 
+ Spanish 
+ Llamando al Ganado Check translation 
+ Japanese (kana) 
+ うごうむそう Check translation 
+ Japanese (base) 
+ 烏合無象 Check translation 
+ Japanese ( rōmaji ) 
+Ugōmuzō 
+ Japanese (translated) 
+Crowd Disorder 
+ Card type 
+ Spell   
+ Property 
+ Quick-Play   
+ Passcode 
+ 50619462 
+ Card effect types 
+ 
+ 
+ Cost 
+ Effect 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Send  1  face-up   monster  you  control  to the  GY , whose original  Type  is  Beast ,  Beast-Warrior , or  Winged Beast ;  Special Summon  1 monster from your  Extra Deck  with the same original Type, but it cannot  attack , its  effects  are  negated , also it is  destroyed  during the  End Phase . You can only  activate  1 "Cattle Call" per  turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Envoyez 1 monstre face recto que vous contrôlez au Cimetière, dont le Type d'origine est Bête, Bête-Guerrier ou Bête Ailée ; Invoquez Spécialement 1 monstre du même Type d'origine depuis votre Extra Deck, mais il ne peut pas attaquer, ses effets sont annulés, et aussi, il est détruit durant la End Phase. Vous ne pouvez activer qu'1 "Appel du Troupeau" par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Lege 1 offenes Monster, das du kontrollierst und dessen Grund-Typ Ungeheuer, Ungeheuer-Krieger oder Geflügeltes Ungeheuer ist, auf den Friedhof; beschwöre 1 Monster mit demselben Grund-Typ als Spezialbeschwörung von deinem Extra Deck, aber es kann nicht angreifen, seine Effekte werden annulliert, zusätzlich wird es während der End Phase zerstört. Du kannst nur 1 „Das Vieh herbeirufen“ pro Spielzug aktivieren. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Manda al Cimitero 1 mostro scoperto che controlli il cui Tipo originale è Bestia, Guerriero-Bestia o Bestia Alata; Evoca Specialmente dal tuo Extra Deck 1 mostro con lo stesso Tipo originale, ma esso non può attaccare, i suoi effetti sono annullati, inoltre esso viene distrutto durante la End Phase. Puoi attivare solo 1 "Richiamo della Mandria" per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Envie para o Cemitério, 1 monstro com a face para cima que você controla, cujo Tipo original seja Besta, Besta-Guerreira ou Besta Alada; Invoque por Invocação-Especial 1 monstro do seu Deck Adicional com o mesmo Tipo original, mas ele não pode atacar, seus efeitos são negados e, além disso, ele é destruído durante a Fase Final. Você só pode ativar 1 "Chamado do Rebanho" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Manda al Cementerio 1 monstruo boca arriba que controles y cuyo Tipo original sea Bestia, Guerrero Bestia o Bestia Alada; Invoca de Modo Especial, desde tu Deck Extra, 1 monstruo con el mismo Tipo original, pero éste no puede atacar, sus efectos son negados, y además es destruido durante la End Phase. Sólo puedes activar 1 "Llamando al Ganado" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドから元々の種族が獣族・獣戦士族・鳥獣族の表側表示モンスター１体を墓地へ送って発動できる。元々の種族が墓地へ送ったそのモンスターと同じモンスター１体を ＥＸ デッキから特殊召喚する。この効果で特殊召喚したモンスターは攻撃できず、効果は無効化され、エンドフェイズに破壊される。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "오합무상"은 1턴에 1장밖에 발동할 수 없다. ①: 자신 필드에서 원래의 종족이 야수족 / 야수전사족 / 비행여수족인 앞면 표시 몬스터 1장을 묘지로 보내고 발동할 수 있다. 묘지로 보낸 그 몬스터와 원래의 종족이 같은 몬스터 1장을 엑스트라 덱에서 특수 소환한다. 이 효과로 특수 소환한 몬스터는 공격할 수 없으며, 효과는 무효화되고, 엔드 페이즈에 파괴된다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2016-05-05 SHVI-EN081 Shining Victories Super Rare 2020-10-08 OP14-EN020 OTS Tournament Pack 14 Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2016-05-05 SHVI-FR081 Shining Victories Les Victoires Scintillantes Super Rare 2020-10-08 OP14-FR020 OTS Tournament Pack 14 OTS Pack de Tournoi 14 Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2016-05-05 SHVI-DE081 Shining Victories Shining Victories Super Rare 2020-10-08 OP14-DE020 OTS Tournament Pack 14 OTS Tournament Pack 14 Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2016-05-05 SHVI-IT081 Shining Victories Vittorie Brillanti Super Rare 2020-10-08 OP14-IT020 OTS Tournament Pack 14 OTS Buste da Torneo 14 Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2016-05-06 SHVI-PT081 Shining Victories Conquistas Brilhantes Super Rare 2020-10-08 OP14-PT020 OTS Tournament Pack 14 OTS Pacote de Torneio 14 Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2016-05-05 SHVI-SP081 Shining Victories Victorias Brillantes Super Rare 2020-10-08 OP14-SP020 OTS Tournament Pack 14 OTS Sobre Torneo 14 Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2016-09-10 EP16-JP047 Extra Pack 2016 ＥＸＴＲＡ ＰＡＣＫ　２０１６ Rare 2020-07-01 20TP-JP315 Tournament Pack 2020 Vol.3 トーナメントパック ２０２０ Ｖｏｌ．３ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2017-02-03 EP16-KR037 Extra Pack 2016 EXTRA   PACK  ２０１６ Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Beast 
+ Beast-Warrior 
+ Winged Beast 
+ 
+ Actions  
+ Sends from field to Graveyard for cost 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your Effect Monsters 
+ Destroys your Monster Cards 
+ 
+ Summoning  categories  
+ Special Summons from your Extra Deck 
+ 
+ Attack  categories  
+ Prevents your monsters from attacking 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12384 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/0c/CattleCall-SHVI-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20160506080718', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/05/Quick-Play.svg/revision/latest/scale-to-width-down/28?cb=20120920115228']
+Categories: Duel Monsters cards, TCG cards, OCG cards

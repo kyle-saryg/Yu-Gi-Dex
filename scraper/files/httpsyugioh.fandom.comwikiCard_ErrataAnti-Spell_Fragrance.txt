@@ -1,0 +1,65 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Anti-Spell_Fragrance
+
+
+ Anti-Spell Fragrance 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Yu-Gi-Oh! The Duelists of the Roses 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ As long as this card remains face-up on the field,   both  players must  first  Set Spell Cards  when they use  them and cannot activate them until their next turn. 
+ Both  players must Set Spell Cards  before activating  them ,  and cannot activate them until their next turn. 
+ Both players must Set Spell Cards before activating them, and cannot activate them until their next turn  after Setting them . 
+ 
+ 
+       PCY-002 Yu-Gi-Oh! Power of Chaos: Yugi the Destiny promotional cards     
+       CP05-EN011 Champion Pack: Game Five     
+       BLLR-EN078 Battles of Legend: Light's Revenge     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ このカードがフィールド上に あ る限り、魔法カードは 一度フィールドに セットし、次の自分のターンが来るまで 使用 できない。 
+ このカードがフィールド上に 存在す る限り、 お互いに 魔法カードはセットし なければ発動できず 、 セットしたプレイヤーから見て 次の自分のターンが来るまで 発動 する事は できない。 
+ 
+ 
+         G4-07 Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist: Yugi Deck promotional cards     
+         DT08-JP050 Duel Terminal - Pulse of the Trishula!!     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ このカードが フィールド上 に存在する限り、お互いに魔法カードはセットしなければ発動できず、セットしたプレイヤーから見て次の自分のターンが来るまで発動できない。 
+ ①： このカードが 魔法＆罠ゾーン に存在する限り、お互いに魔法カードはセットしなければ発動できず、セットしたプレイヤーから見て次の自分ターンが来るまで発動できない。 
+ 
+ 
+         AT03-JP003 Advanced Tournament Pack 2013 Vol.3     
+         TRC1-JP049 The Rarity Collection     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/ca/AntiSpellFragrance-PCY-NA-PScR-UE.jpg/revision/latest/scale-to-width-down/180?cb=20060928021312', 'https://static.wikia.nocookie.net/yugioh/images/4/49/AntiSpellFragrance-CP05-EN-R-UE.png/revision/latest/scale-to-width-down/180?cb=20081206001126', 'https://static.wikia.nocookie.net/yugioh/images/0/07/AntiSpellFragrance-BLLR-EN-UR-1E.png/revision/latest/scale-to-width-down/180?cb=20170707111439', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c7/AntiSpellFragrance-G4-JP-UR.jpg/revision/latest/scale-to-width-down/180?cb=20061007234806', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d8/AntiSpellFragrance-DT08-JP-DNPR-DT.jpg/revision/latest/scale-to-width-down/180?cb=20100121104841', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/fc/AntiSpellFragrance-AT03-JP-NPR.png/revision/latest/scale-to-width-down/180?cb=20130709123111', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c8/AntiSpellFragrance-TRC1-JP-SR.png/revision/latest/scale-to-width-down/180?cb=20141220211707']
+Categories: Card Errata, Cards with 2 errata, Cards with 3 errata, Cards with Japanese errata

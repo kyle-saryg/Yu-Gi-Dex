@@ -1,0 +1,481 @@
+Link: https://yugioh.fandom.com/wiki/Summon_negation_window
+
+      "Horn of Heaven", a card that can be activated as Chain Link 1 in the Summon negation window     
+ The  Summon negation window  is an unofficial term for the activation timing of cards that negate the  Summon  of a monster, such as " Solemn Warning ", " Solemn Judgment ", " Black Horn of Heaven ", " Evolzar Laggia ", " Thunder King Rai-Oh ", " Royal Oppression ", etc.
+ This timing is before the  Summon response window . If the monster's Summon was negated in the Summon negation window, there will be no Summon response window afterwards.
+ Only cards that  negate Summons  can start the  Chain  during this window, so " Mystical Space Typhoon " cannot be  activated  as Chain Link 1 of the Summon negation window, but it can be activated as  Chain Link  2 if a card like " Royal Oppression " was activated first. Cards like " Bottomless Trap Hole ", " Trap Hole ", etc. that respond to the Summon of a monster cannot be activated during this window; they can only be activated in the  Summon response window .
+ The Summon negation window will only open if a monster would be  Normal   Flip ,  Synchro ,  Xyz ,  Pendulum , or  Link Summoned , or  Special Summoned  with a  Summon effect  or  Special Summoning condition , and only when they occur outside of a Chain. For example, the Normal Summon of a monster with " Ultimate Offering " cannot be negated if it was Chained to " Pot of Greed " (as the monster is Summoned in the middle of a Chain), but it can be negated if "Ultimate Offering" is activated as  Chain Link  1 (as the monster is Summoned immediately after the effect of "Ultimate Offering" resolves).
+ If a monster is  Special Summoned with a card effect , the monster is Summoned during the resolution of the effect, not an as action outside of a Chain, so this window never opens.
+ During the Summon negation window, a monster is not considered to be on the  field  as it has not yet been Summoned (even if it is being  Flip Summoned  or is a  Gemini monster  being  Normal Summoned  again), so any  Continuous Effects  it has are not yet active and it is unaffected by any effects that only apply to it while it is on the field (however, any  Equip Cards   equipped  to it are not  destroyed  and any effects applied to it are not be lost, unless the Summon is negated). If the monster is moved to a different location during this window, it is not considered to have been moved from the field; for example, if a monster's Summon is negated by " Forced Back " while " Degenerate Circuit " is active, that monster is  returned  to its  owner 's  hand  and not  banished , because it was not on the field when it was returned.
+ If a Summon is negated, the monster was not successfully Summoned, so  Special Summon-only  monsters cannot be Special Summoned by effects other than their specified method. However, the Summon still counts as the one Normal Summon/ Set  per turn even if negated.
+ In the Summon negation window, due to  Fast Effect Timing , the turn player can activate cards that negate the Summon of a monster before the opponent can, such as " Solemn Warning ", to negate the Summon of his own monster, though this is almost never seen.
+ If a monster would be Summoned in an  Extra Monster Zone , that monster's  possessor  does not  control  that zone until the Summon is successful.
+ 
+ Example 
+ Player A attempts to Summon " Black Luster Soldier - Envoy of the Beginning " from the  hand ,  banishing  1  DARK  and 1  LIGHT  monster from his/her  Graveyard .
+ The Summon negation window is open now, and player A can activate cards that negate the Summon of a monster, such as "Solemn Warning", "Solemn Judgment", "Black Horn of Heaven", etc. If player A passes doing so, then player B has the opportunity to do the same.
+ If player B successfully activates one of such cards, the Summon of "Black Luster Soldier - Envoy of the Beginning" will be negated, and it will not be considered to have been Summoned (so it cannot later be Special Summoned by a card like " Monster Reborn "). The monsters banished to Summon "Black Luster Soldier - Envoy of the Beginning" stay banished, even though the Summon was negated.
+ If player B passes without playing any such cards, "Black Luster Soldier - Envoy of the Beginning" will be successfully Summoned. Now the Summon negation window is closed and the Summon response window is opened.
+ There is only one Chain in the Summon negation window. After that, no card that negates the Summon of a monster (such as "Solemn Warning") can be activated.
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/38/HornofHeaven-LCJW-EN-UR-1E.png/revision/latest/scale-to-width-down/200?cb=20131015032600']
+Categories: Gameplay, Gaming Terms

@@ -1,0 +1,258 @@
+Link: https://yugioh.fandom.com/wiki/A.I.%27s_Show
+
+
+ 
+ 
+ A.I.'s Show Ａｉ － ＳＨＯＷ 
+ 
+ English 
+A.I.'s Show 
+ French 
+ Spectacle d'A.I. Check translation 
+ German 
+ A.I.-Show Check translation 
+ Italian 
+ Spettacolo delle A.I. Check translation 
+ Korean 
+ Ai －쇼 Check translation 
+ Portuguese 
+ Apresentação da I.A. Check translation 
+ Spanish 
+ Espectáculo de A.I. Check translation 
+ Japanese (kana) 
+ アイ－ショウ Check translation 
+ Japanese (base) 
+ Ａｉ－ＳＨＯＷ Check translation 
+ Japanese ( rōmaji ) 
+Ai - Shō 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 54374642 
+ Card effect types 
+ 
+ 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+While you  control  a  Link -3 or higher " @Ignister "  monster  in the  Extra Monster Zone , when an opponent's monster  declares  an  attack :  Special Summon  from your  Extra Deck  any number of non- Link   Cyberse  monster(s) with 2300  ATK , whose combined ATK is less than or equal to the attacking monster's ATK, then end the  Battle Phase . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Tant que vous contrôlez un monstre "@Ignister" de min. Link-3 dans la Zone Monstre Extra, lorsqu'un monstre de l'adversaire déclare une attaque : Invoquez Spécialement depuis votre Extra Deck un nombre de votre choix de monstres non-Lien Cyberse avec 2300 ATK, dont la somme des ATK est inférieure ou égale à l'ATK du monstre attaquant, puis terminez la Battle Phase. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Solange du ein „@Ignister“-Monster mit Link-3 oder höher in der Extra-Monsterzone kontrollierst, wenn ein Monster eines Gegners einen Angriff deklariert: Beschwöre eine beliebige Anzahl Cyberse-Nichtlink-Monster mit 2300 ATK, deren kombinierte ATK kleiner oder gleich den ATK des angreifenden Monsters sind, als Spezialbeschwörung von deinem Extra Deck, dann beende die Battle Phase. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Mentre controlli un mostro "@Ignister" Link-3 o superiore nella Zona Mostri Extra, quando un mostro dell'avversario dichiara un attacco: Evoca Specialmente dal tuo Extra Deck un qualsiasi numero di mostri non-Link Cyberso con ATK 2300, la cui somma degli ATK sia pari o inferiore all'ATK del mostro attaccante, poi termina la Battle Phase. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Enquanto você controlar um monstro "@Ignister" de Link-3 ou mais na Zona de Monstros Adicional, quando um monstro do oponente declarar um ataque: Invoque por Invocação-Especial do seu Deck Adicional qualquer número de monstros Ciberso que não sejam Link com 2300 de ATK, cujo ATK combinado seja igual ou menor que o ATK do monstro atacante e, depois, encerre a Fase de Batalha. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Mientras controles un monstruo "@Ignister" de Link-3 o mayor en la Zona de Monstruos Extra, cuando un monstruo del adversario declara un ataque: Invoca de Modo Especial, desde tu Deck Extra, cualquier número de monstruos Ciberso que no sean de Enlace con 2300 ATK cuyo ATK combinado sea igual o menor que el ATK del monstruo atacante, y después termina la Battle Phase. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①： ＥＸ モンスターゾーンに自分のリンク３以上の「 ＠ イグニスター」モンスターが存在する場合、相手モンスターの攻撃宣言時に発動できる。攻撃力の合計が、その攻撃モンスターの攻撃力以下になるように、リンクモンスター以外の攻撃力２３００のサイバース族モンスターを ＥＸ デッキから任意の数だけ選んで特殊召喚する。その後、バトルフェイズを終了する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 엑스트라 몬스터 존에 자신의 링크 3 이상의 "＠(앳)이그니스터" 몬스터가 존재할 경우, 상대 몬스터의 공격 선언시에 발동할 수 있다. 공격력의 합계가, 그 공격 몬스터의 공격력 이하가 되도록, 링크 몬스터 이외의 공격력 2300 의 사이버스족 몬스터를 엑스트라 덱에서 임의의 수만큼 고르고 특수 소환한다. 그 후, 배틀 페이즈를 종료한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2021-12-02 BROL-EN042 Brothers of Legend Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2021-12-02 BROL-FR042 Brothers of Legend Frères de Légende Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2021-12-02 BROL-DE042 Brothers of Legend Brothers of Legend Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2021-12-02 BROL-IT042 Brothers of Legend Fratelli della Leggenda Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2021-12-02 BROL-PT042 Brothers of Legend Irmãos das Lendas Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2021-12-02 BROL-SP042 Brothers of Legend Hermanos de Leyenda Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2021-06-12 AC01-JP042 Animation Chronicle 2021 ＡＮＩＭＡＴＩＯＮ ＣＨＲＯＮＩＣＬＥ ２０２１ Common 2021-06-12 AC01-JP042 Animation Chronicle 2021 ＡＮＩＭＡＴＩＯＮ ＣＨＲＯＮＩＣＬＥ ２０２１ Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2021-09-10 AC01-KR042 Animation Chronicle 2021 ANIMATION   CHRONICLE  2021 Common 2021-09-10 AC01-KR042 Animation Chronicle 2021 ANIMATION   CHRONICLE  2021 Normal Parallel Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Cyberse 
+ 
+ Archetypes  and  series   
+ A.I. 
+ 
+ Supports   archetypes   
+ @Ignister 
+ 
+ Actions  
+ Activates upon attack declaration 
+ Ends the Battle Phase 
+ 
+ Summoning  categories  
+ Special Summons from your Extra Deck 
+ 
+ Miscellaneous  
+ Requires control of specific Link Rating 
+ Requires control of specific archetype 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 16436 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " A.I.'s Show " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" @Ignister " 「 ＠ イグニスター」 Members 
+ Achichi @Ignister The Arrival Cyberse @Ignister Bururu @Ignister Danmari @Ignister Dark Infant @Ignister Dark Templar @Ignister Donyoribo @Ignister Doshin @Ignister Doyon @Ignister Earth Golem @Ignister Fire Phoenix @Ignister Gatchiri @Ignister Gussari @Ignister Hiyari @Ignister Light Dragon @Ignister Pikari @Ignister Water Leviathan @Ignister Wind Pegasus @Ignister 
+ Support 
+ Achichi @Ignister The Arrival Cyberse @Ignister Bururu @Ignister Danmari @Ignister Dark Infant @Ignister Dark Templar @Ignister Donyoribo @Ignister Doshin @Ignister Doyon @Ignister Fire Phoenix @Ignister Hiyari @Ignister Light Dragon @Ignister Linguriboh Pikari @Ignister Wind Pegasus @Ignister 
+ A.I. Challenge You A.I. Love Fusion A.I. Meet You A.I. Shadow A.I.'s Ritual A.I.'s Show A.I.Q A.I.dle Reborn FA.I.ghting Spirit Ignister A.I.Land TA.I. Strike 
+ Related 
+ Linkuriboh 
+ 
+   
+" A.I. " 「 Ａｉ 」 Members 
+ A.I. Challenge You A.I. Contact A.I. Love Fusion A.I. Meet You A.I. Shadow A.I.'s Ritual A.I.'s Show A.I.Q A.I.dle Reborn FA.I.ghting Spirit Ignister A.I.Land TA.I. Strike You and A.I. 
+ Support 
+ Donyoribo @Ignister Doyon @Ignister Pikari @Ignister 
+ A.I.dle Reborn 
+ Related 
+ Dark Infant @Ignister 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/4c/AIsShow-BROL-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20211218031051', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

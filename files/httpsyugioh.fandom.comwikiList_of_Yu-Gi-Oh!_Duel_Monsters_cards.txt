@@ -1,0 +1,215 @@
+Link: https://yugioh.fandom.com/wiki/List_of_Yu-Gi-Oh!_Duel_Monsters_cards
+
+  An example card information screen from the game. This is " Blue-Eyes White Dragon ", card number 1.   Card numbers are not listed directly on the card information screen; instead, they are found via the in-game card list. This screenshot shows the first list page, listing cards 1 through 5. 1/2 
+ This is a  list of cards in  Yu-Gi-Oh! Duel Monsters . The game features 365 cards, numbered from 1 to 365; cards 351 through 365 are secret cards.
+ A  gallery of cards  can also be viewed.
+ 
+ # Card Japanese name Card type Type ATK DEF {{ #pad: 001 B.eye White Dragon ブルーアイズ・ホワイトドラゴン Monster Dragon 3000 2500 {{ #pad: 002 Mystical Elf ホーリー・エルフ Monster Spellcaster 800 2000 {{ #pad: 003 Hitotsu-me Giant サイクロプス Monster Beast-Warrior 1200 1000 {{ #pad: 004 Baby Dragon ベビードラゴン Monster Dragon 1200 700 {{ #pad: 005 Ryu-kishin ガーゴイル Monster Fiend 1000 500 {{ #pad: 006 Feral Imp グレムリン Monster Fiend 1300 1400 {{ #pad: 007 Winged Dragon #1 とりでをまもるよくりゅう Monster Dragon 1400 1200 {{ #pad: 008 Mushroom Man きのこマン Monster Plant 800 600 {{ #pad: 009 Shadow Specter ヘルバウンド Monster Zombie 500 200 {{ #pad: 010 Blackland Fire Dra あんこくのドラゴン Monster Dragon 1500 800 {{ #pad: 011 Sword Arm of Drago ソードドラゴン Monster Dinosaur 1750 2030 {{ #pad: 012 Swamp Battleguard バーバリアン２ごう Monster Warrior 1800 1500 {{ #pad: 013 Tyhone タイホーン Monster Winged Beast 1200 1400 {{ #pad: 014 Battle Steer ぎゅうまじん Monster Beast-Warrior 1800 1300 {{ #pad: 015 Flame Swordsman ほのおのけんし Monster Warrior 1800 1600 {{ #pad: 016 Time Wizard ときのまじゅつし Monster Spellcaster 500 400 {{ #pad: 017 R Leg of Forbidden ふうされしもののみぎ Monster Spellcaster 200 300 {{ #pad: 018 L Leg of Forbidden ふうされしもののひだり Monster Spellcaster 200 300 {{ #pad: 019 R Arm of Forbidden ふうされしもののみぎ Monster Spellcaster 200 300 {{ #pad: 020 L Arm of Forbidden ふうされしもののひだり Monster Spellcaster 200 300 {{ #pad: 021 Exod. of Forbidden ふういんされしエクゾディア Monster Spellcaster 1000 1000 {{ #pad: 022 Summoned Skull デーモンのしょうかん Monster Fiend 2500 1200 {{ #pad: 023 The Wicked Worm B じゃあくなるワーム・ビースト Monster Beast 1400 700 {{ #pad: 024 Skull Servant ワイト Monster Zombie 300 200 {{ #pad: 025 Horn Imp インプ Monster Fiend 1300 1000 {{ #pad: 026 Battle Ox ミノタウルス Monster Beast-Warrior 1700 1000 {{ #pad: 027 Beaver Warrior ルイーズ Monster Beast-Warrior 1200 1500 {{ #pad: 028 Rock Ogre Grotto#1 がんくつまじんオーガ・ロック Monster Rock 800 1200 {{ #pad: 029 Mountain Warrior マウンテン・ウォーリアー Monster Beast-Warrior 600 1000 {{ #pad: 030 Zombie Warrior アンデット・ウォーリアー Monster Zombie 1200 900 {{ #pad: 031 Koumori Dragon デビル・ドラゴン Monster Dragon 1500 1200 {{ #pad: 032 Two-headed King Re にとうをもつキング・レックス Monster Dinosaur 1600 1200 {{ #pad: 033 Judge Man ジャッジ・マン Monster Warrior 2200 1500 {{ #pad: 034 Saggi the Dark Clo やみ・どうけしのサギー Monster Spellcaster 600 1500 {{ #pad: 035 D.Magician ブラック・マジシャン Monster Spellcaster 2500 2100 {{ #pad: 036 The Snake Hair メデューサのぼうれい Monster Zombie 1500 1200 {{ #pad: 037 Gaia the Dragon Ch りゅうきしガイア Monster Dragon 2600 2100 {{ #pad: 038 Gaia The Fierce Kn あんこくきしガイア Monster Warrior 2300 2100 {{ #pad: 039 Curse of Dragon カース・オブ・ドラゴン Monster Dragon 2000 1500 {{ #pad: 040 Dragon Piper つぼまじん Monster Pyro 200 1800 {{ #pad: 041 Celtic Guardian エルフのけんし Monster Warrior 1400 1200 {{ #pad: 042 Faceless Mage イリュージョニスト・ノー・フェイス Monster Spellcaster 1200 2200 {{ #pad: 043 Karbonala Warrior カルボナーラせんし Monster Warrior 1500 1200 {{ #pad: 044 Rogue Doll ホーリー・ドール Monster Spellcaster 1600 1000 {{ #pad: 045 Oscillo Hero #2 エレキッズ Monster Thunder 1000 500 {{ #pad: 046 Griffore グリフォール Monster Beast 1200 1500 {{ #pad: 047 Torike サイガー Monster Beast 1200 600 {{ #pad: 048 Sangan クリッター Monster Fiend 1000 600 {{ #pad: 049 Big Insect ビック・アント Monster Insect 1200 1500 {{ #pad: 050 Basic Insect ベーシック・インセクト Monster Insect 500 700 {{ #pad: 051 Armored Lizard アーマー・リザード Monster Reptile 1500 1200 {{ #pad: 052 Hercules Beetle ヘラクレス・ビートル Monster Insect 1500 2000 {{ #pad: 053 Killer Needle キラー・ビー Monster Insect 1200 1000 {{ #pad: 054 Gokibore ゴキボール Monster Insect 1200 1400 {{ #pad: 055 Giant Flea きゅうけつノミ Monster Insect 1500 1200 {{ #pad: 056 Larvae Moth ラーバモス Monster Insect 500 400 {{ #pad: 057 Great Moth グレート・モス Monster Insect 2600 2500 {{ #pad: 058 Kuriboh クリボー Monster Fiend 300 200 {{ #pad: 059 Mammoth Graveyard マンモスのはかば Monster Dinosaur 1200 800 {{ #pad: 060 Great White グレート・ホワイト Monster Fish 1600 800 {{ #pad: 061 Wolf オオカミ Monster Beast 1200 800 {{ #pad: 062 Harpie Lady ハーピィ・レディ Monster Winged Beast 1300 1400 {{ #pad: 063 Harpie Lady Sister ハーピィ・レディさんしまい Monster Winged Beast 1950 2100 {{ #pad: 064 Tiger Axe タイガー・アックス Monster Beast-Warrior 1300 1100 {{ #pad: 065 Silver Fang シルバー・フォング Monster Beast 1200 800 {{ #pad: 066 Kojikocy まもののかりうど Monster Warrior 1500 1200 {{ #pad: 067 Perfectly Ultimate きゅうきょくかんぜんたい・グレート・モス Monster Insect 3500 3000 {{ #pad: 068 Garoozis ガルーザス Monster Beast-Warrior 1800 1500 {{ #pad: 069 Thousand Dragon サウザンド・ドラゴン Monster Dragon 2400 2000 {{ #pad: 070 Fiend Kraken デビル・クラーケン Monster Aqua 1200 1400 {{ #pad: 071 Jellyfish くらげ－ジェリーフィッシュ－ Monster Aqua 1200 1500 {{ #pad: 072 Cocoon of Evolutio しんかのまゆ Monster Insect 0 2000 {{ #pad: 073 Kairyu-shin リバイアサン Monster Sea Serpent 1800 1500 {{ #pad: 074 Giant Rock Soldier がんせきのきょへい Monster Rock 1300 2000 {{ #pad: 075 Man-eating Plant ひとくいしょくぶつ Monster Plant 800 600 {{ #pad: 076 Krokodilus クロコダイラス Monster Reptile 1100 1200 {{ #pad: 077 Grappler グラップラー Monster Reptile 1300 1200 {{ #pad: 078 Axe Raider アックス・レイダー Monster Warrior 1700 1150 {{ #pad: 079 Megazowler メガザウラー Monster Dinosaur 1800 2000 {{ #pad: 080 Uraby ワイルド・ラプター Monster Dinosaur 1500 800 {{ #pad: 081 Crawling Dragon #2 しかばねをむさぼるりゅう Monster Dinosaur 1600 1200 {{ #pad: 082 Red-eyes B. Dragon レッドアイズ・ブラックドラゴン Monster Dragon 2400 2000 {{ #pad: 083 Castle of D. Magic やみくらましのしろ Monster Fiend 920 1930 {{ #pad: 084 Reaper of the Card カードをかるしにがみ Monster Fiend 1380 1930 {{ #pad: 085 King of Yamimakai やみまかいのはおう Monster Fiend 2000 1530 {{ #pad: 086 Barox バロックス Monster Fiend 1380 1530 {{ #pad: 087 Dark Chimera ダーク・キメラ Monster Fiend 1610 1460 {{ #pad: 088 Metal Guardian メタル・ガーディアン Monster Fiend 1150 2150 {{ #pad: 089 Catapult Turtle カタパルト・タートル Monster Aqua 1000 2000 {{ #pad: 090 Gyakutenno Megami ぎゃくてんのめがみ Monster Fairy 1800 2000 {{ #pad: 091 Mystic Horseman ケンタウロス Monster Beast 1300 1550 {{ #pad: 092 Rabid Horseman ミノケンタウロス Monster Beast-Warrior 2000 1700 {{ #pad: 093 Zanki よろいむしゃザンキ Monster Warrior 1500 1700 {{ #pad: 094 Crawling Dragon ちをはうドラゴン Monster Dragon 1600 1400 {{ #pad: 095 Crass Clown マーダーサーカス Monster Fiend 1350 1400 {{ #pad: 096 Armored Zombie よろいむしゃゾンビ Monster Zombie 1500 0 {{ #pad: 097 Dragon Zombie ドラゴン・ゾンビ Monster Zombie 1600 0 {{ #pad: 098 Clown Zombie マーダーサーカス・ゾンビ Monster Zombie 1350 0 {{ #pad: 099 Pumpking the King ゴーストおう－パンプキング－ Monster Zombie 1800 2000 {{ #pad: 100 Battle Warrior かくとうせんしアルティメーター Monster Warrior 700 1000 {{ #pad: 101 Wings of Wicked Fl じゃえんのつばさ Monster Pyro 700 600 {{ #pad: 102 Mask of Darkness やみのかめん Monster Fiend 900 400 {{ #pad: 103 Job-change Mirror てんしょくのまきょう Monster Fiend 800 1300 {{ #pad: 104 Curtain of the Dar くろまぞくのカーテン Monster Spellcaster 600 500 {{ #pad: 105 Tomozaurus トモザウルス Monster Dinosaur 500 400 {{ #pad: 106 Spirit of the Wind かぜのせいれい Monster Spellcaster 1700 1400 {{ #pad: 107 Kageningen シャドウ・ファイター Monster Warrior 800 600 {{ #pad: 108 Graveyard & Hand てまねきするはかば Monster Zombie 700 900 {{ #pad: 109 All-seeing Goddess しんがんのめがみ Monster Fairy 1200 1000 {{ #pad: 110 Hero of the East とうほうのえいゆう Monster Warrior 1100 1000 {{ #pad: 111 Doma The Angel of しのちんもくのてんし ドマ Monster Fairy 1600 1400 {{ #pad: 112 Life Eater いのちをしょくするもの Monster Fiend 1200 1000 {{ #pad: 113 Dark Gray ダーク・グレイ Monster Beast 800 900 {{ #pad: 114 White Magical Hat ホワイト・シーフ Monster Spellcaster 1000 700 {{ #pad: 115 Kamionwizard カオス・ウィザード Monster Spellcaster 1300 1100 {{ #pad: 116 Nightmare Scorpion ナイトメア・スコーピオン Monster Insect 900 800 {{ #pad: 117 Spirit of the Book ほんのせいれい ホーク・ビショップ Monster Winged Beast 1400 1200 {{ #pad: 118 Supporter in the S ものかげのきょうりょくしゃ Monster Warrior 1000 1000 {{ #pad: 119 Trial of Nightmare じごくのさいばん Monster Fiend 1300 900 {{ #pad: 120 Dream Clown ドリーム・ピエロ Monster Warrior 1200 900 {{ #pad: 121 Sleeping Lion ねむれるシシ Monster Beast 700 1700 {{ #pad: 122 Yamatano Dragon Sc ヤマタノドラゴンえまき Monster Dragon 900 300 {{ #pad: 123 Dark Plant ダーク・プラント Monster Plant 300 400 {{ #pad: 124 Ancient Tool アイアン・ハート Monster Machine 1700 1400 {{ #pad: 125 Faith Bird セイント・バード Monster Winged Beast 1500 1100 {{ #pad: 126 Orion the Battle K たたかいのかみ オリオン Monster Fairy 1800 1500 {{ #pad: 127 Ansatsu アサシン Monster Warrior 1700 1200 {{ #pad: 128 LaMoon ラムーン Monster Spellcaster 1200 1700 {{ #pad: 129 Nemuriko ねむりこ Monster Spellcaster 800 700 {{ #pad: 130 Weather Control ウェザー・コントロール Monster Fairy 600 400 {{ #pad: 131 Octoberser オクトバーサー Monster Aqua 1600 1400 {{ #pad: 132 The 13th Grave １３にんめのまいそうしゃ Monster Zombie 1200 900 {{ #pad: 133 Charubin the Fire ほのおのきし キラー Monster Pyro 1100 800 {{ #pad: 134 Mystical Capture C せいなるくさり Monster Fairy 700 700 {{ #pad: 135 Fiend's Hand ししゃのうで Monster Zombie 600 600 {{ #pad: 136 Witty Phantom まじんデスサタン Monster Fiend 1400 1300 {{ #pad: 137 Mystery Hand なぞのて Monster Fiend 500 500 {{ #pad: 138 Dragon Statue ドラゴン・ソウル・スタチュー Monster Warrior 1100 900 {{ #pad: 139 B.eye Silv. Zombie ブルーアイド・シルバーゾンビ Monster Zombie 900 700 {{ #pad: 140 Toad Master トードマスター Monster Aqua 1000 1000 {{ #pad: 141 Spiked Snail デビルツムリ Monster Insect 700 1300 {{ #pad: 142 Flame Manipulator ほのおをあやつるもの Monster Spellcaster 900 1000 {{ #pad: 143 Chronolord ときのまじんネクロランサ Monster Spellcaster 800 900 {{ #pad: 144 Wind Djinn かぜのばんにん ジン Monster Spellcaster 700 900 {{ #pad: 145 Phantom Thief みわくのかいとう Monster Spellcaster 700 700 {{ #pad: 146 Temple of Skulls ドクロのじいん Monster Zombie 900 1300 {{ #pad: 147 Monster Egg モンスター・エッグ Monster Warrior 600 900 {{ #pad: 148 Sinister Shadow やみをつかさどるかげ Monster Fiend 800 700 {{ #pad: 149 Lord of the Lamp ランプのまじん Monster Fiend 1400 1200 {{ #pad: 150 Akihiron カクタス Monster Aqua 1700 1400 {{ #pad: 151 Rhaimundos of the あかきけんのライムンドス Monster Warrior 1200 1300 {{ #pad: 152 The Melting Red Sh とろけるあかきかげ Monster Aqua 500 700 {{ #pad: 153 Dokuroizo the Grim しにがみのドクロイゾ Monster Zombie 900 1200 {{ #pad: 154 Fire Reaper ファイヤー・デビル Monster Zombie 700 500 {{ #pad: 155 Larvas ラーバス Monster Beast 800 1000 {{ #pad: 156 Hard Armor ハードアーマー Monster Warrior 300 1200 {{ #pad: 157 Firegrass かえんそう Monster Plant 700 600 {{ #pad: 158 Man Eater マンイーター Monster Plant 800 600 {{ #pad: 159 Dig Beak ディッグ・ビーク Monster Beast 500 800 {{ #pad: 160 M-warrior #1 マグネッツいちごう Monster Warrior 1000 500 {{ #pad: 161 M-warrior #2 マグネッツ２ごう Monster Warrior 500 1000 {{ #pad: 162 Tainted Wisdom あくまのちえ Monster Fiend 1250 800 {{ #pad: 163 Lisark サファイヤ・リサーク Monster Beast 1300 1300 {{ #pad: 164 Lord of Zemia ゼミアのかみ Monster Fiend 1300 1000 {{ #pad: 165 The Judgement Hand ジャジメント・ザ・ハンド Monster Warrior 1400 700 {{ #pad: 166 Mysterious Puppete なぞのくぐつし Monster Warrior 1000 1500 {{ #pad: 167 Ancient Jar たいこのつぼ Monster Rock 400 200 {{ #pad: 168 Darkfire Dragon あんこくかえんりゅう Monster Dragon 1500 1250 {{ #pad: 169 Dark King of the A しんえんのめいおう Monster Fiend 1200 800 {{ #pad: 170 Spirit of the Harp ハープのせい Monster Fairy 800 2000 {{ #pad: 171 Big Eye だいおうめだま Monster Fiend 1200 1000 {{ #pad: 172 Armaill アーメイル Monster Warrior 700 1300 {{ #pad: 173 Dark Prisoner ダーク・プリズナー Monster Fiend 600 1000 {{ #pad: 174 Hurricail ハリケル Monster Spellcaster 900 200 {{ #pad: 175 Ancient Brain まてんろう Monster Fiend 1000 700 {{ #pad: 176 Fire Eye ファイヤー・アイ Monster Pyro 800 600 {{ #pad: 177 Monsturtle モンスタートル Monster Aqua 800 1000 {{ #pad: 178 Claw Reacher キラー・ザ・クロー Monster Fiend 1000 800 {{ #pad: 179 Phantom Dewan サターナ Monster Spellcaster 700 600 {{ #pad: 180 Arlownay アルラウネ Monster Plant 800 1000 {{ #pad: 181 Dark Shade ダークシェイド Monster Fiend 1000 1000 {{ #pad: 182 Masked Clown かめんどうけ Monster Warrior 500 700 {{ #pad: 183 Lucky Trinket ホーリー・パワー Monster Spellcaster 600 800 {{ #pad: 184 Genin ジャグラー Monster Spellcaster 600 900 {{ #pad: 185 Eyearmor コピックス Monster Warrior 600 500 {{ #pad: 186 Fiend Reflection#2 ミラージュ Monster Winged Beast 1100 1400 {{ #pad: 187 Gate Deeg ヘルゲート・ディーグ Monster Beast 700 800 {{ #pad: 188 Synchar ファランクス Monster Beast 800 900 {{ #pad: 189 Fusionist フュージョニスト Monster Beast 900 700 {{ #pad: 190 Akakieisu レッド・エース Monster Spellcaster 1000 800 {{ #pad: 191 LaLa Li-oon ララ・ライウーン Monster Thunder 600 600 {{ #pad: 192 Key Mace キーメイス Monster Fairy 400 300 {{ #pad: 193 Turtle Tiger タートル・タイガー Monster Aqua 1000 1500 {{ #pad: 194 Terra the Terrible まじん テラ Monster Fiend 1200 1300 {{ #pad: 195 Doron ドローン Monster Warrior 900 500 {{ #pad: 196 Arma Knight アンモ・ナイト Monster Aqua 1000 1200 {{ #pad: 197 Mech Mole Zombie ゾンビランプ Monster Zombie 500 400 {{ #pad: 198 Happy Lover ハッピー・ラヴァー Monster Fairy 800 500 {{ #pad: 199 Penguin Knight ペンギン・ナイト Monster Aqua 900 800 {{ #pad: 200 Petit Dragon プチリュウ Monster Dragon 600 700 {{ #pad: 201 Frenzied Panda キラーパンダ Monster Beast 1200 1000 {{ #pad: 202 Air Marmot of Nefa デーモン・ビーバー Monster Beast 400 600 {{ #pad: 203 Phantom Ghost ゴースト Monster Zombie 600 800 {{ #pad: 204 Mabarrel マキャノン Monster Fiend 1700 1400 {{ #pad: 205 Dorover ドローバ Monster Aqua 900 800 {{ #pad: 206 Twin Long Rods#1 グロス Monster Aqua 900 700 {{ #pad: 207 Droll Bird スピック Monster Winged Beast 600 500 {{ #pad: 208 Petit Angel プチテンシ Monster Fairy 600 900 {{ #pad: 209 Winged Cleaver ダークキラー Monster Insect 700 700 {{ #pad: 210 Hinotama Soul スティング Monster Pyro 600 500 {{ #pad: 211 Kaminarikozou サンダー・キッズ Monster Thunder 700 600 {{ #pad: 212 Meotoko バビロン Monster Beast 700 600 {{ #pad: 213 Aqua Madoor アクア・マドール Monster Spellcaster 1200 2000 {{ #pad: 214 B. Flame Kagemusha シエンのかげむしゃ Monster Warrior 800 400 {{ #pad: 215 Flame Ghost フレイム・ゴースト Monster Zombie 1000 800 {{ #pad: 216 Dryad ドリアード Monster Spellcaster 1200 1400 {{ #pad: 217 B. Skull Dragon ブラック・デーモンズ・ドラゴン Monster Dragon 3200 2500 {{ #pad: 218 Two-mouth Darkrule ツーマウス・ダークルーラー Monster Dinosaur 900 700 {{ #pad: 219 Solitude ソリテュード Monster Beast-Warrior 1050 1000 {{ #pad: 220 Masked Sorcerer かめんまどうし Monster Spellcaster 900 1400 {{ #pad: 221 Kumootoko クモおとこ Monster Insect 700 1400 {{ #pad: 222 Midnight Fiend ミッドナイト・デビル Monster Fiend 800 600 {{ #pad: 223 Roaring Ocean Snak とどろきのおおうみへび Monster Aqua 2100 1800 {{ #pad: 224 Trap Master トラップ・マスター Monster Warrior 500 1100 {{ #pad: 225 Fiend Sword のろわれしまけん Monster Warrior 1400 800 {{ #pad: 226 Skull Stalker デス・ストーカー Monster Warrior 900 800 {{ #pad: 227 Hitodenchak ヒトデンチャク Monster Aqua 600 700 {{ #pad: 228 Wood Remains もりのしかばね Monster Zombie 1000 900 {{ #pad: 229 Hourglass of Life いのちのすなどけい Monster Fairy 700 600 {{ #pad: 230 Rare Fish レア・フィッシュ Monster Fish 1500 1200 {{ #pad: 231 Wood Clown ウッド・ジョーカー Monster Warrior 800 1200 {{ #pad: 232 Madjinn Gunn マジンガン Monster Fiend 600 800 {{ #pad: 233 Dark Titan of Terr あんこくまじん ナイトメア Monster Fiend 1300 1100 {{ #pad: 234 Beautiful Headhunt ざんしゅのびじょ Monster Warrior 1600 800 {{ #pad: 235 Wodan the Resident もりのじゅうにん ウダン Monster Warrior 900 1200 {{ #pad: 236 Guardian of the La めいかいのばんにん Monster Warrior 1000 1200 {{ #pad: 237 Haniwa はにわ Monster Rock 500 500 {{ #pad: 238 Yashinoki ヤシのき Monster Plant 800 600 {{ #pad: 239 Vishwar Randi ヴィシュワ・ランディー Monster Warrior 900 700 {{ #pad: 240 The Drdek デス・フット Monster Fiend 700 800 {{ #pad: 241 Dark Assailant やみのあんさつしゃ Monster Zombie 1200 1200 {{ #pad: 242 Candle of Destiny うんめいのろうそく Monster Fiend 600 600 {{ #pad: 243 Water Element ウォーター・エレメント Monster Aqua 900 700 {{ #pad: 244 Dissolverock マグマン Monster Rock 900 1000 {{ #pad: 245 Meda Bat ダーク・ナポレオン Monster Fiend 800 400 {{ #pad: 246 One Who Hunts Soul たましいをかるもの Monster Beast-Warrior 1100 1000 {{ #pad: 247 Root Water ルート・ウォーター Monster Fish 900 800 {{ #pad: 248 Master & Expert マスター・アン・エキスパート Monster Beast 1200 1000 {{ #pad: 249 Water Omotics みずのおどりこ Monster Aqua 1400 1200 {{ #pad: 250 Hyo ヒョウ Monster Warrior 800 1200 {{ #pad: 251 Enchanting Mermaid こうこつのマーメイド Monster Fish 1200 900 {{ #pad: 252 Nekogal #1 キャッツ・フェアリー Monster Beast 1100 900 {{ #pad: 253 Angelwitch エンジェル・まじょ Monster Spellcaster 800 1000 {{ #pad: 254 Embryonic Beast みじゅくなあくま Monster Fiend 500 750 {{ #pad: 255 Prevent Rat プリヴェント・ラット Monster Beast 500 2000 {{ #pad: 256 Dimensional Knight いじげんのせんし Monster Warrior 1200 1000 {{ #pad: 257 Stone Armadiller ストーン・アルマジラー Monster Rock 800 1200 {{ #pad: 258 Beastking of the S ぬまちのまじゅうおう Monster Aqua 1000 1100 {{ #pad: 259 Ancient Sorcerer こだいまどうし Monster Spellcaster 1000 1300 {{ #pad: 260 Lunar Queen Elzaim つきのめがみ エルザェム Monster Fairy 750 1100 {{ #pad: 261 Wicked Mirror デーモンズ・ミラー Monster Fiend 700 600 {{ #pad: 262 The Little Swordsm アイルのしょうけんし Monster Warrior 800 1300 {{ #pad: 263 Rock Ogre Grotto#2 ウォー・アース Monster Rock 700 1400 {{ #pad: 264 Wing Egg Elf ウィング・エッグ・エルフ Monster Fairy 500 1300 {{ #pad: 265 Sea King of Fury いかりのかいおう Monster Aqua 800 700 {{ #pad: 266 Princess of Tsurug つるぎのじょおう Monster Warrior 900 700 {{ #pad: 267 Unknown Warrior of あくのむめいせんし Monster Warrior 1000 500 {{ #pad: 268 Sectarian of Secre やみにしたがうもの Monster Spellcaster 700 500 {{ #pad: 269 Versago the Destro はかいしん ヴァサーゴ Monster Fiend 1100 900 {{ #pad: 270 Wetha ウェザ Monster Aqua 1000 900 {{ #pad: 271 Megirus Light メギラス・ライト Monster Fiend 900 600 {{ #pad: 272 Mavelus マブラス Monster Winged Beast 1300 900 {{ #pad: 273 Ancient Tree of En さとりのろうじゅ Monster Plant 600 1500 {{ #pad: 274 Green Phantom King りょくじゅのれいおう Monster Plant 500 1600 {{ #pad: 275 Terra Bugroth りくせんがた バグロス Monster Machine 1500 1000 {{ #pad: 276 Ray & Temperature きたかぜとたいよう Monster Fairy 1000 1000 {{ #pad: 277 Gorgon Egg ゴーゴン・エッグ Monster Fiend 300 1300 {{ #pad: 278 Petit Moth プチモス Monster Insect 300 200 {{ #pad: 279 King Fog キング・スモーク Monster Fiend 1000 900 {{ #pad: 280 Protector of the T おうざのしゅごしゃ Monster Warrior 800 1500 {{ #pad: 281 Mystic Clown バーサーカー Monster Fiend 1500 1000 {{ #pad: 282 Mystical Sheep #2 スリーピィ Monster Beast 800 1000 {{ #pad: 283 Holograh ホログラー Monster Machine 1100 700 {{ #pad: 284 Tao the Chanter おんみょうし タオ Monster Spellcaster 1200 900 {{ #pad: 285 Serpent Marauder デビル・スネーク Monster Reptile 700 600 {{ #pad: 286 Gatekeeper ゲート・キーパー Monster Machine 1500 1800 {{ #pad: 287 Ogre of the Black くろいかげのオーガ Monster Beast-Warrior 1200 1400 {{ #pad: 288 Dark Artist ダーク・アーティスト Monster Fiend 600 1400 {{ #pad: 289 Change Slime チェンジ・スライム Monster Aqua 400 300 {{ #pad: 290 Moon Envoy つきのししゃ Monster Warrior 1100 1000 {{ #pad: 291 Fireyarou ほのおのまじん Monster Pyro 1300 1000 {{ #pad: 292 Psychic Kappa サイコ・カッパー Monster Aqua 400 1000 {{ #pad: 293 Masaki the Legenda でんせつのけんごう マサキ Monster Warrior 1100 1100 {{ #pad: 294 Dragoness the Wick まそうきしドラゴネス Monster Warrior 1200 900 {{ #pad: 295 Bio Plant バイオ・プラント Monster Fiend 600 1300 {{ #pad: 296 One-eyed Shield Dr ワンアイド・シールドドラゴン Monster Dragon 700 1300 {{ #pad: 297 Cyber Soldier of D まかいのきかいへい Monster Machine 1400 1200 {{ #pad: 298 Wicked Dragon with まとうをもつじゃりゅう Monster Dragon 900 900 {{ #pad: 299 Sonic Maid オトメ Monster Warrior 1200 900 {{ #pad: 300 Kurama ドレイク Monster Winged Beast 800 800 {{ #pad: 301 Legendary Sword でんせつのけん Magic {{ #pad: 302 Sword of Ruin やみのはしんけん Magic {{ #pad: 303 Dark Energy やみ・エネルギー Magic {{ #pad: 304 Axe of Despair デーモンのおの Magic {{ #pad: 305 Lazer Cannon Armor レーザーキャノンアーマー Magic {{ #pad: 306 Insect Armor with かきつきインセクトアーマー Magic {{ #pad: 307 Elf's Light エルフのひかり Magic {{ #pad: 308 Beast Fangs もうじゅうのは Magic {{ #pad: 309 Steel Shell はがねのこうら Magic {{ #pad: 310 Vile Germs まきん Magic {{ #pad: 311 Black Pendant ブラック・ペンダント Magic {{ #pad: 312 Silver Bow & Arrow ぎんのゆみや Magic {{ #pad: 313 Horn of Light ひかりのつの Magic {{ #pad: 314 Horn of the Unicor いっかくじゅうのホーン Magic {{ #pad: 315 Dragon Treasure ドラゴンのひほう Magic {{ #pad: 316 Electro-whip でんげきむち Magic {{ #pad: 317 Cyber Shield サイバー・ボンテージ Magic {{ #pad: 318 Elegant Egotist まんげきょう－かれいなるぶんしん－ Magic {{ #pad: 319 Mystical Moon ましょうのつき Magic {{ #pad: 320 Stop Defense しゅびふうじ Magic {{ #pad: 321 Malevolent Nuzzler あくまのくちづけ Magic {{ #pad: 322 Violet Crystal むらさきすいしょう Magic {{ #pad: 323 Book of Secret Art ひじゅつのしょ Magic {{ #pad: 324 Invigoration かくせい Magic {{ #pad: 325 Machine Conversion きかいかいぞうこうじょう Magic {{ #pad: 326 Raise Body Heat たいおんのじょうしょう Magic {{ #pad: 327 Follow Wind フォロー・ウィンド Magic {{ #pad: 328 Power of Kaishin ポセイドンのちから Magic {{ #pad: 329 Dragon Capture Jar ドラゴンぞく・ふういんのつぼ Magic {{ #pad: 330 Forest もり Magic {{ #pad: 331 Wasteland こうや Magic {{ #pad: 332 Mountain やま Magic {{ #pad: 333 Sogen そうげん Magic {{ #pad: 334 Umi うみ Magic {{ #pad: 335 Yami やみ Magic {{ #pad: 336 Dark Hole ブラック・ホール Magic {{ #pad: 337 Raigeki サンダー・ボルト Magic {{ #pad: 338 Mooyan Curry モウヤンのカレー Magic {{ #pad: 339 Red Medicine レッド・ポーション Magic {{ #pad: 340 Goblin's Secret Re ゴブリンのひやく Magic {{ #pad: 341 Soul of the Pure てんしのいきち Magic {{ #pad: 342 Dian Keto the Cure ちりょうのかみ ディアン・ケト Magic {{ #pad: 343 Sparks ひのこ Magic {{ #pad: 344 Hinotama ファイヤー・ボール Magic {{ #pad: 345 Final Flame ひあぶりのけい Magic {{ #pad: 346 Ookazi ちゅうやのおおかじ Magic {{ #pad: 347 Tremendous Fire かえんじごく Magic {{ #pad: 348 Swords of Revealin ひかりのごふうけん Magic {{ #pad: 349 Spellbinding Circl ろくぼうせいのじゅばく Magic {{ #pad: 350 Dark-piercing Ligh やみをかきけすひかり Magic {{ #pad: 351 Yaranzo ヤランゾ Monster Zombie 1300 1500 {{ #pad: 352 Kanan the Swordmis おんなけんしカナン Monster Warrior 1400 1400 {{ #pad: 353 Takriminos タクリミノス Monster Sea Serpent 1500 1200 {{ #pad: 354 Stuffed Animal くいぐるみ Monster Warrior 1200 900 {{ #pad: 355 Megasonic Eye メガソニック・アイ Monster Machine 1500 1800 {{ #pad: 356 Super War-lion スーパー・ウォー・ライオン Monster Beast 2300 2100 {{ #pad: 357 Yamadron ヤマドラン Monster Dragon 1600 1800 {{ #pad: 358 Seiyaryu ホーリー・ナイト・ドラゴン Monster Dragon 2500 2300 {{ #pad: 359 Three-legged Zombi ２にん３きゃくゾンビ Monster Zombie 1100 800 {{ #pad: 360 Zera The Mant ゼラ Monster Fiend 2800 2300 {{ #pad: 361 Flying Penguin トビペンギン Monster Aqua 1200 1000 {{ #pad: 362 Millennium Shield せんねんのたて Monster Warrior 0 3000 {{ #pad: 363 Fairy's Gift ようせいのおくりもの Monster Spellcaster 1400 1000 {{ #pad: 364 Black Luster Soldi カオス・ソルジャー Monster Warrior 3000 2500 {{ #pad: 365 Fiend's Mirror デビルズ・ミラー Monster Fiend 2100 1800 
+ v e 
+ Yu-Gi-Oh! Duel Monsters  video game series 
+ 
+ 
+ # 
+ 
+ Game
+ 
+ Cards
+ 
+ Characters
+ 
+ Guide books
+ 
+ Promotional cards
+ 
+ 
+ 1
+ 
+ Duel Monsters 
+ 
+ List   ·   Gallery   ·   Fusions 
+ 
+ Characters 
+ 
+ Book 1   ·   Book 2 
+ 
+ Game   ·  Tournament ( attendance   ·   prize )
+ 
+ 
+ 2
+ 
+ Dark duel Stories 
+ 
+ List   ·   Gallery 
+ 
+ Characters 
+ 
+ Book 1   ·   Book 2 
+ 
+ Game   ·   Book 1   ·   Book 2  Tournament ( invitation   ·   attendance   ·   participation   ·   prize )
+ 
+ 
+ 3
+ 
+ Tri-Holy God Advent ( Dark Duel Stories ) 
+ 
+ List   ·  Gallery ( ja   ·   na   ·   eu   ·   fr   ·   de   ·   it   ·   es ) Parts   ·   Constructed  ( significant )
+ 
+ Characters 
+ 
+ ja  ( Book 1   ·   Book 2 )  ·   en 
+ 
+ Game ( OCG   ·   TCG )  ·   Book 1   ·   Book 2   ·   Tournament 
+ 
+ 
+ 4
+ 
+ Battle of Great Duelist 
+ 
+ List   ·   Gallery 
+ 
+ Characters 
+ 
+ Book 1   ·   Book 2 
+ 
+ Game  ( Yugi   ·   Kaiba   ·   Joey )  ·   Book 1   ·   Book 2 
+ 
+ 
+ 5
+ 
+ Expert 1 
+ 
+ List   ·   Gallery 
+ 
+ Characters 
+ 
+ Book 1   ·   Book 2 
+ 
+ Game   ·   Book 1   ·   Book 2 
+ 
+ 
+ Remake
+ 
+ The Eternal Duelist Soul 
+ 
+ List   ·   Gallery 
+ 
+ Characters 
+ 
+ Book 
+ 
+ Game 
+ 
+ 
+ 6
+ 
+ Expert 2 
+ 
+ List   ·   Gallery 
+ 
+ Characters 
+ 
+ Book 1   ·   Book 2 
+ 
+ Game   ·   Book 1   ·   Book 2 
+ 
+ 
+ Remake
+ 
+ International: Worldwide Edition ( Stairway to the Destined Duel ) 
+ 
+ List   ·  Gallery ( ja   ·   en   ·   fr   ·   de   ·   it   ·   es ) Glitch card 
+ 
+ Characters 
+ 
+ ja   ·   en 
+ 
+ Game ( OCG   ·   TCG )  ·   Book 
+ 
+ 
+ 7
+ 
+ The Duelcity Legend ( The Sacred Cards ) 
+ 
+ List   ·  Gallery ( ja   ·   na   ·   eu   ·   fr   ·   de   ·   it   ·   es )
+ 
+ Characters 
+ 
+ ja  ( Book 1   ·   Book 2 )  ·   en 
+ 
+ Game ( OCG   ·   TCG )  ·   Book 1   ·   Book 2 
+ 
+ 
+ 8
+ 
+ Reshef of Destruction 
+ 
+ List   ·  Gallery ( ja   ·   na   ·   eu   ·   fr   ·   de   ·   it   ·   es )
+ 
+ Characters 
+ 
+ ja  ( Book 1   ·   Book 2 )  ·   en 
+ 
+ Game ( OCG   ·   TCG )  ·   Book 1   ·   Book 2 
+ 
+ 
+ Category 
+ 
+ v e 
+ Video game  card lists 
+ Monster Capsule: Breed and Battle 
+ Duel Monsters 
+ Duel Monsters II 
+ Forbidden Memories  ( True Duel Monsters ) 
+ Monster Capsule GB 
+ Dark Duel Stories  ( Duel Monsters III ) 
+ Duel Monsters 4 
+ Dungeon Dice Monsters 
+ Duel Monsters 5 
+ The Duelists of the Roses  ( True Duel Monsters 2 ) 
+ Duel Monsters 6 
+ The Sacred Cards  ( Duel Monsters 7 ) 
+ The Eternal Duelist Soul 
+ The Falsebound Kingdom 
+ Reshef of Destruction  ( Duel Monsters 8 ) 
+ Stairway to the Destined Duel 
+ Power of Chaos 
+ World Championship Tournament 2004  ( Duel Monsters Expert 3 ) 
+ Destiny Board Traveler  ( Sugoroku no Sugoroku ) 
+ The Dawn of Destiny 
+ World Championship Tournament 2005  ( Duel Monsters International 2 ) 
+ Nightmare Troubadour 
+ Online 
+ GX Duel Academy  ( GX Mezase Duel King ) 
+ World Championship Tournament 2006  ( Duel Monsters Expert 2006 ) 
+ GX Tag Force 
+ GX Spirit Caller  ( GX Spirit Summoner ) 
+ World Championship 2007 
+ GX Tag Force 2 
+ World Championship 2008 
+ GX Tag Force Evolution  ( GX The Beginning of Destiny ) 
+ GX Tag Force 3 
+ 5D's World Championship 2009: Stardust Accelerator 
+ 5D's Wheelie Breakers 
+ 5D's Tag Force 4 
+ 5D's World Championship 2010: Reverse of Arcadia 
+ 5D's Tag Force 5 
+ 5D's Decade Duels 
+ 5D's Duel Transer 
+ 5D's World Championship 2011: Over the Nexus 
+ 5D's Tag Force 6 
+ BAM 
+ 5D's Decade Duels Plus 
+ Millennium Duels 
+ Duel Generation 
+ 
+ Card number comparison 
+ by number 
+ by card 
+ {{ Game card lists }} 
+ {{ Video game card galleries }} 
+ 
+ 
+ 
+ 
+Images: [None, None]
+Categories: Video game card lists, Yu-Gi-Oh! Duel Monsters (video game) cards

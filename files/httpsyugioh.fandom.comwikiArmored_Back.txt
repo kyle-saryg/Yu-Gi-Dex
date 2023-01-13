@@ -1,0 +1,121 @@
+Link: https://yugioh.fandom.com/wiki/Armored_Back
+
+
+ The Japanese (OCG) version of this card is not a member of the " Red "  archetype , because its Japanese name does not contain  「レッド」 .   As its English name contains "Red", it  may  be treated a member of the "Red" archetype at a TCG event, subject to local rulings.     
+ Armored Back 
+ 
+ Japanese:   アーマード・バック 
+ Romaji:   Āmādo Bakku 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Condition 
+ When a  monster  you  control   equipped  with an  Equip Spell Card  is  destroyed :  Special Summon  that monster from the  Graveyard , and if you do, equip it with the  Equip Card  it was equipped with. It cannot be  destroyed by battle  or by  card effects  this  turn .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  023 ,  024 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ German 
+ Gepanzerte Rückkehr 
+ 
+ 
+ 
+ Spanish 
+ Espalda Acorazada 
+ 
+ 
+ 
+ Japanese 
+ アーマード・バック 
+ 装備魔法カードを装備したモンスターが破壊された時に発動する事ができる。そのモンスター１体を墓地から特殊召喚し、そのモンスターに装備されていた装備カードをそのモンスターに装備し直す。このターンこの効果で特殊召喚したモンスター１体は破壊されない。 
+ 
+ 
+ Āmādo Bakku 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Kite Tenjo 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Equip Spell Card 
+ 
+ Actions  
+ Places cards from Graveyard in Spell & Trap Zone 
+ 
+ Monster / Spell / Trap  categories  
+ Cannot be destroyed by card effects 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/1/13/ArmoredBack-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20110921011424', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/ee/ArmoredBack-OW.png/revision/latest/scale-to-width-down/185?cb=20140131095403', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

@@ -1,0 +1,209 @@
+Link: https://yugioh.fandom.com/wiki/Topologic
+
+
+ 
+ Topologic 
+ トポロジック  ( Toporojikku ) 
+ 
+ 
+ 
+ 
+ " Topologic Zeroboros ", featured in the artwork of " Zero-Day Blaster ". 
+ 
+ 
+ Other names 
+ 
+ French 
+ Topologique 
+ 
+ 
+ German 
+ Topologik 
+ 
+ 
+ Italian 
+ Topologico(a) 
+ 
+ 
+ Korean 
+ 토폴로직   Topollojik   (romanized) 
+ 
+ 
+ Portuguese 
+ Topológico(a) 
+ 
+ 
+ Spanish 
+ Topológico(a) 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Code of the Duelist Flames of Destruction 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Battles of Legend: Relentless Revenge 2018 Mega-Tin Mega Pack Structure Deck: Rokket Revolt Battles of Legend: Armageddon 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Collectors Pack 2018 Structure Deck: Revolver Legendary Gold Box 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Topologic " (トポロジック  Toporojikku ) is an  archetype  ( series  in the anime) of  DARK   Cyberse   Link Monsters  used by  Ryoken Kogami (Varis)  and  Pandor  in  Yu-Gi-Oh! VRAINS . With the exception of " Topologic Trisbaena ", all of its members are  Link -4 monsters with 3000  ATK . They also all specifically require 2+  Effect Monsters  to be  Link Summoned .
+ 
+ Contents 
+ 
+ 1   Etymology 
+ 2   Playing style 
+ 3   Members 
+ 4   Recommended cards 
+ 5   Trivia 
+ 
+ 
+ Etymology 
+ In mathematics,  topology  is the study of the properties of space that are preserved under continuous deformations.
+ Network topology  refers to the arrangement of elements in a communication network, such as links and nodes. This most likely references how the Topologics are  Cyberse   Link Monsters  whose effects activate when linked.
+ 
+ Playing style 
+ "Topologic" monsters usually involve mass removal of cards whenever a monster is Special Summoned to a Zone a Link Monster points to. In addition, they inflict heavy effect damage.
+ 
+ Members 
+ 
+ 
+ Topologic
+ 
+ Effect
+ 
+ Origin
+ 
+ 
+ Destruction
+ 
+ Damage
+ 
+ 
+ Bomber Dragon 
+ 
+ Destroys all monsters in the Main Monster Zones.
+ 
+ Deals damage equal to the ATK of a monster it attacks.
+ 
+ Klein bottle ,  Mobius strip , Non-trivial  knot 
+ 
+ 
+ Gumblar Dragon 
+ 
+ Makes both players randomly discard up to 2 cards. Once per turn, if Extra Linked, it can make the opponent discard up to 2 cards.
+ 
+ Deals 3000 damage at the resolution of its second effect, if the opponent ends up having no cards in their hand as a result.
+ 
+ Infinity ,  Subset / Superset 
+ 
+ 
+ Trisbaena 
+ 
+ Banishes all cards in the Spell & Trap Zones.
+ 
+ Deals 500 damage for each of the opponent's cards banished by its effect.
+ 
+ Non-trivial  knot ,  Torus ,  Trefoil knot 
+ 
+ 
+ Zeroboros 
+ 
+ Banishes all cards on the field. On the next Standby Phase, if it is banished by its own effect, it returns to the field.
+ 
+ Gains 200 ATK for each banished card.
+ 
+ Trefoil knot 
+ 
+ Recommended cards 
+ 
+ Deck Monsters   
+ Effect Monsters 
+ Absorouter Dragon 
+ Background Dragon 
+ Checksum Dragon 
+ Chobham Armor Dragon 
+ Defrag Dragon 
+ DMZ Dragon 
+ Galactic Spiral Dragon 
+ Gateway Dragon 
+ Hibernation Dragon 
+ Noctovision Dragon 
+ Sniffer Dragon 
+ Stygian Street Patrol 
+ Triggering Wurm 
+ Unchained Soul of Disaster 
+ Tuner monsters 
+ Rokket Caliber 
+ Rokket Synchron 
+ Rokket Tracer Extra Deck   
+ Fusion Monsters 
+ Borreload Furious Dragon 
+ Synchro Monsters 
+ Borreload Savage Dragon 
+ Link Monsters 
+ Topologic Bomber Dragon 
+ Topologic Trisbaena 
+ Topologic Zeroboros 
+ Borrelcode Dragon 
+ Flash Charge Dragon 
+ Hieratic Seal of the Heavenly Spheres 
+ I:P Masquerena 
+ Triple Burst Dragon 
+ Twin Triangle Dragon 
+ Unchained Soul of Anguish 
+ Unchained Soul of Rage 
+ Vorticular Drumgon Spells   &  Traps   
+ Spells 
+ Quick Launch 
+ Rapid Trigger 
+ World Legacy Succession 
+ Traps 
+ Detonation Code 
+ Zero-Day Blaster 
+ Trivia 
+ The Topologics and their sister archetype, the  Topologina , are the only Cyberse monsters in  Yu-Gi-Oh! VRAINS  to not ultimately be in the service of an  Ignis . In, fact they outright join the  Knights of Hanoi  in killing the Ignis. Whether their anti-Ignis behavior is influenced by  Varis  in anyway is unknown. 
+   
+" Topologic " 「トポロジック」 Members 
+ Topologic Bomber Dragon Topologic Gumblar Dragon Topologic Trisbaena Topologic Zeroboros 
+ Support 
+ Borrelcode Dragon 
+ Detonation Code 
+ Related 
+ Zero-Day Blaster 
+ 
+ v e 
+ Topologic  トポロジック a   Members 
+ Topologic Bomber Dragon Topologic Gumblar Dragon Topologic Trisbaena Topologic Zeroboros 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c3/ZeroDayBlaster-SDRR-EN-SR-1E.png/revision/latest/scale-to-width-down/342?cb=20190828075833']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Link Monster(s)

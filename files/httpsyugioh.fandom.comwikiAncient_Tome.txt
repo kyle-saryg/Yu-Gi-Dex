@@ -1,0 +1,108 @@
+Link: https://yugioh.fandom.com/wiki/Ancient_Tome
+
+
+ The Japanese (OCG) version of this card is not a member of the " Ancient "  archetype , because its Japanese name does not contain  「 古代の 」 .   As its English name contains "Ancient", it  may  be treated a member of the "Ancient" archetype at a TCG event, subject to local rulings.     
+ 
+ Ancient Tome 
+ 
+ Japanese:   古の書物 
+ Kana:   いにしえのしょもつ 
+ Romaji:   Inishie no Shomotsu 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Once per  turn , during your  Main Phase , you can switch 1 card from your  hand  with the top card of your  Deck . During each of your  Standby Phases ,  send  1 card from your  hand  to the  Graveyard . If you do not,  destroy  this card.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh! :  188 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  Yu-Gi-Oh! ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 古 の 書 物 
+ 手札のカード１枚と、デッキの１番上のカードを交換する事ができる。自分のスタンバイフェイズに手札を１枚墓地に送る。そうしなかった場合このカードを破壊する。 
+ 
+ 
+ Inishie no Shomotsu 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Solomon Muto 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Ancient  
+ 
+ Actions  
+ Returns from your hand to your Deck 
+ Adds from Deck to hand 
+ Sends from your hand to your Graveyard 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ v e 
+ Ancient   古 a   m   Members 
+ Ancient City Ancient Dragon Ancient Gate Ancient Giant Ancient Key Ancient Tome Stone Giant 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/24/AncientTome-OW.png/revision/latest/scale-to-width-down/185?cb=20140220152405', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a8/AncientTome-JP-Anime-DM-NC.png/revision/latest/scale-to-width-down/185?cb=20141001222544', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

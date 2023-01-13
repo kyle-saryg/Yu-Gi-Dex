@@ -1,0 +1,237 @@
+Link: https://yugioh.fandom.com/wiki/Pendulum_Switch
+
+
+ 
+ 
+ Pendulum Switch ペンデュラム・スイッチ 
+ 
+ English 
+Pendulum Switch 
+ French 
+ Remplacement Pendule Check translation 
+ German 
+ Pendeltausch Check translation 
+ Italian 
+ Sostituzione Pendulum Check translation 
+ Korean 
+ 펜듈럼 스위치 Check translation 
+ Portuguese 
+ Troca de Pêndulo Check translation 
+ Spanish 
+ Trueque de Péndulo Check translation 
+ Japanese 
+ ペンデュラム・スイッチ Check translation 
+ Japanese ( rōmaji ) 
+Pendyuramu Suicchi 
+ Card type 
+ Trap   
+ Property 
+ Continuous   
+ Passcode 
+ 42378577 
+ Card effect types 
+ 
+ 
+ Quick-like 
+ Quick-like 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+You can  target  1 card in your  Pendulum Zone ;  Special Summon  it. You can target 1  Pendulum Monster  in your  Monster Zone ; place that Pendulum Monster in your Pendulum Zone. You can only use 1 "Pendulum Switch"  effect  per  turn , and only  once that turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Vous pouvez cibler 1 carte dans votre Zone Pendule ; Invoquez-la Spécialement. Vous pouvez cibler 1 Monstre Pendule dans votre Zone Monstre ; placez le Monstre Pendule dans votre Zone Pendule. Vous ne pouvez utiliser qu'1 effet de "Remplacement Pendule" par tour, et uniquement une fois le tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Du kannst 1 Karte in deiner Pendelzone wählen; beschwöre sie als Spezialbeschwörung. Du kannst 1 Pendelmonster in deiner Monsterzone wählen; lege jenes Pendelmonster in deine Pendelzone. Du kannst nur 1 Effekt von „Pendeltausch“ pro Spielzug verwenden und in jenem Spielzug nur einmal. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Puoi scegliere come bersaglio 1 carta nella tua Zona Pendulum; Evocala Specialmente. Puoi scegliere come bersaglio 1 Mostro Pendulum nella tua Zona Mostri; metti quel Mostro Pendulum nella tua Zona Pendulum. Puoi utilizzare solo 1 effetto di "Sostituzione Pendulum" per turno, e solo una volta in quel turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Você pode escolher 1 card na sua Zona de Pêndulo; Invoque-o por Invocação-Especial. Você pode escolher 1 Monstro Pêndulo na sua Zona de Monstros; coloque esse Monstro Pêndulo na sua Zona de Pêndulo. Você só pode usar 1 efeito de "Troca de Pêndulo" por turno e apenas uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Puedes seleccionar 1 carta en tu Zona de Péndulo; Invócala de Modo Especial. Puedes seleccionar 1 Monstruo de Péndulo en tu Zona de Monstruos; pon ese Monstruo de Péndulo en tu Zona de Péndulo. Sólo puedes usar 1 efecto de "Trueque de Péndulo" por turno, y sólo una vez ese turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：自分の Ｐ ゾーンのカード１枚を対象として発動できる。そのカードを特殊召喚する。②：自分のモンスターゾーンの Ｐ モンスター１体を対象として発動できる。その Ｐ モンスターを自分の Ｐ ゾーンに置く。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 ①②의 효과는 1턴에 1번, 어느 쪽이든 1개밖에 사용할 수 없다. ① : 자신의 펜듈럼 존의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 특수 소환한다. ② : 자신 몬스터 존의 펜듈럼 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 펜듈럼 몬스터를 자신의 펜듈럼 존에 놓는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2017-04-29 MACR-ENSP1 Maximum Crisis Sneak Peek Participation Card Ultra Rare 2017-05-04 MACR-EN000 Maximum Crisis Rare 2017-10-05 LEDD-ENC24 Legendary Dragon Decks Common 2022-08-25 TAMA-EN060 Tactical Masters Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2017-04-29 MACR-FRSP1 Maximum Crisis Sneak Peek Participation Card La Crise Maximale Sneak Peek Ultra Rare 2017-05-04 MACR-FR000 Maximum Crisis La Crise Maximale Rare 2017-10-05 LEDD-FRC24 Legendary Dragon Decks Decks du Dragon Legendaire Common 2022-08-25 TAMA-FR060 Tactical Masters Les Maîtres Tactiques Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2017-04-29 MACR-DESP1 Maximum Crisis Sneak Peek Participation Card Maximum Crisis Sneak Peek Ultra Rare 2017-05-04 MACR-DE000 Maximum Crisis Maximum Crisis Rare 2017-10-05 LEDD-DEC24 Legendary Dragon Decks Legendary Dragon Decks Common 2022-08-25 TAMA-DE060 Tactical Masters Tactical Masters Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2017-04-29 MACR-ITSP1 Maximum Crisis Sneak Peek Participation Card Crisi Massima Sneak Peek Ultra Rare 2017-05-04 MACR-IT000 Maximum Crisis Crisi Massima Rare 2017-10-05 LEDD-ITC24 Legendary Dragon Decks I Deck Drago Leggendario Common 2022-08-25 TAMA-IT060 Tactical Masters Maestri di Tattica Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2017-04-29 MACR-PTSP1 Maximum Crisis Sneak Peek Participation Card Crise Máxima Sneak Peek Ultra Rare 2017-05-04 MACR-PT000 Maximum Crisis Crise Máxima Rare 2017-10-05 LEDD-PTC24 Legendary Dragon Decks Decks de Dragões Lendários Common 2022-08-25 TAMA-PT060 Tactical Masters Mestres Táticos Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2017-04-29 MACR-SPSP1 Maximum Crisis Sneak Peek Participation Card Crisis Máxima Sneak Peek Ultra Rare 2017-05-04 MACR-SP000 Maximum Crisis Crisis Máxima Rare 2017-10-05 LEDD-SPC24 Legendary Dragon Decks Barajas Dragón Legendario Common 2022-08-25 TAMA-SP060 Tactical Masters Maestros de la Táctica Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2017-09-09 EP17-JP051 Extra Pack 2017 ＥＸＴＲＡ ＰＡＣＫ ２０１７ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2017-11-22 EP17-KR051 Extra Pack 2017 EXTRA PACK  ２０１７ Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Pendulum Monster 
+ 
+ Archetypes  and  series   
+ Pendulum  
+ 
+ Actions  
+ Places from field to Pendulum Zone 
+ 
+ Summoning  categories  
+ Special Summons from your Pendulum Zone 
+ 
+ Miscellaneous  
+ Only 1 effect once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 13020 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Pendulum " 「ペンデュラム」 Members 
+ Beast-Eyes Pendulum Dragon Beyond the Pendulum Brave-Eyes Pendulum Dragon Cosmic Compass Double Iris Magician Lector Pendulum, the Dracoverlord Luster Pendulum, the Dracoslayer Master Pendulum, the Dracoslayer Odd-Eyes Arc Pendulum Dragon Odd-Eyes Pendulum Dragon Odd-Eyes Pendulumgraph Dragon Pendulumucho Performapal Pendulum Sorcerer Rune-Eyes Pendulum Dragon Vector Pendulum, the Dracoverlord 
+ Amazing Pendulum Dragonic Pendulum Extra Pendulum Pendulum Area Pendulum Back Pendulum Call Pendulum Dimension Pendulum Encore Pendulum Fusion Pendulum Halt Pendulum Hole Pendulum Impenetrable Pendulum Paradox Pendulum Reborn Pendulum Rising Pendulum Scale Pendulum Shift Pendulum Storm Pendulum Switch Pendulum Transfer Pendulum Treasure Pendulum Xyz Soul Pendulum Star Pendulumgraph Time Pendulumgraph 
+ Support 
+ Duelist Alliance 
+ Related 
+ Amorphactor Pain, the Imagination Dracoverlord Dinoster Power, the Mighty Dracoslayer Ignister Prominence, the Blasting Dracoslayer Majester Paladin, the Ascending Dracoslayer Master Peace, the True Dracoslayer Master Peace, the True Dracoslaying King Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Odd-Eyes Venom Dragon Odd-Eyes Wing Dragon Supreme King Dragon Odd-Eyes 
+ Odd-Eyes Advent 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/1d/PendulumSwitch-TAMA-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20220826233117', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Duel Monsters cards, TCG cards, OCG cards

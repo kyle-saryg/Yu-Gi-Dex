@@ -1,0 +1,545 @@
+Link: https://yugioh.fandom.com/wiki/Crystal_Beast
+
+
+ 
+ Crystal Beast 
+ 宝玉獣 「 ほうぎょくじゅう 」  ( Hōgyokujū ) 
+ 
+ 
+ 
+ 
+ The seven "Crystal Beasts" appear in the artwork of " Crystal Conclave " 
+ 
+ 
+ Translation 
+ Gem Beast 
+ 
+ 
+ Other names 
+ 
+ French 
+ Bête Cristalline Translation:  Crystalline Beast 
+ 
+ 
+ German 
+ Kristallungeheuer 
+ 
+ 
+ Italian 
+ Bestia Cristallo 
+ 
+ 
+ Korean 
+ 보옥수 寶玉獸   (Hanja)   Bo-oksu   (romanized) Translation:  Gem Beast 
+ 
+ 
+ Portuguese 
+ Fera Cristalina Translation:  Crystalline Beast 
+ 
+ 
+ Spanish 
+ Bestia de Cristal 
+ 
+ 
+ Other names 
+ ; Arabic الوحش البلّوريّ Croatian Kristalna Zvijer Bulgarian Кристален Звяр 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Force of the Breaker Duelist Pack: Jesse Anderson Tactical Evolution Phantom Darkness 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Hobby League participation cards: Series 5 Collectible Tins 2007 Legendary Duelists: Ancient Millennium Legendary Duelists: Season 1 Speed Duel GX: Duel Academy Box Ghosts From the Past: The 2nd Haunting Structure Deck: Legend of the Crystal Beasts Battles of Legend: Crystal Revenge 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Secrets of Eternity Duelist Pack: Legend Duelist 2 Legendary Gold Box Structure Deck: Legend of the Crystals 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! GX 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support Anti-support 
+ 
+ 
+ 
+ 
+ " Crystal Beast ", known as " Gem Beast " ( 宝玉獣   Hōgyokujū ) in the  OCG , is an  archetype  of seven  Level  3-4  monsters  with various  Attributes  (primarily  EARTH  and  WIND ) and  Types  (primarily  Beast ) that all share the same  effect  of becoming  Continuous Spell Cards  upon their destruction. Although they have low  ATK  and  DEF , their aforementioned effects allow them to have great staying power. They are also  supported  by many cards as Continuous Spell Cards. When all 7 Crystals are either on the  field  or in the  Graveyard , their boss monster, " Rainbow Dragon ", can be Summoned. This archetype also contains one of the most powerful  OTK  setups with " Crystal Abundance ", as well as sturdy control with the five effects of their  Field Spell Card  " Ancient City - Rainbow Ruins ".
+ The "Crystal Beasts" made their first appearance in the  Yu-Gi-Oh! GX  anime, used by  Jesse Anderson . In the English dub, each of the "Crystal Beast" monsters, except " Ruby Carbuncle ", imitates the voice of a real life movie celebrity. Upgraded forms known as the " Advanced Crystal Beasts " were used in the anime, although they have not been released in the  TCG  or  OCG . However, their Field Spell Card " Advanced Dark " and their boss monster, " Rainbow Dark Dragon ," have.
+ In  Secrets of Eternity  (OCG only) and  Flames of Destruction   for TCG, the archetype received support in the form of Pendulum Monsters. They later received a new boss monster, " Rainbow Overdragon ," in  Legendary Duelists: Ancient Millennium .
+ 
+ Contents 
+ 
+ 1   Design 
+ 2   Members 
+ 3   Playing style 
+ 4   Notes 
+ 5   Deck types 
+ 
+ 5.1   Hamon Beatdown 
+ 5.2   Crystal Abundance OTK 
+ 5.3   Synchro-Crystal Beasts 
+ 
+ 5.3.1   Synchro-Crystal Beasts featuring Equip Spells 
+ 5.3.2   Synchro-Crystal Beasts featuring Brionac, Dragon of the Ice Barrier 
+ 
+ 
+ 5.4   CrystalSworn 
+ 5.5   Xyz Crystals 
+ 5.6   Hanzo Transform Crystal Beasts 
+ 
+ 
+ 6   Weaknesses 
+ 
+ 
+ Design 
+ The "Crystal Beasts", whose original name is "Gem Beasts", as their name says, are all animals which have each a different kind of gem in their bodies. Their different gems' colors form the seven colors of the  rainbow , reflecting the name and design of their ace, " Rainbow Dragon ". Their nomenclature is "Crystal Beast (gem) (animal)", and their  attack names  are "(gem) (part of their body/attack)".
+ In their  Advanced form , their attack names keep the same, with the addition of the word "dark" between the gem and the attack/part of their body.
+ 
+ 
+ Members 
+ 
+ 
+ Color
+ 
+ Crystal Beast
+ 
+ Unique effect
+ 
+ Origin
+ 
+ 
+ Gem
+ 
+ Animal
+ 
+ 
+ Red 
+ 
+ Ruby Carbuncle 
+ 
+ When this card is Special Summoned: You can Special Summon as many "Crystal Beast" Monster Cards as possible from your Spell & Trap Zones.
+ 
+ Ruby 
+ 
+ Carbuncle 
+ 
+ 
+ Orange 
+ 
+ Amber Mammoth 
+ 
+ When another face-up "Crystal Beast" monster you control is targeted for an attack: You can make this card the attack target instead.
+ 
+ Amber 
+ 
+ Mammoth 
+ 
+ 
+ Yellow 
+ 
+ Topaz Tiger 
+ 
+ If this card attacks an opponent's monster, it gains 400 ATK during the Damage Step only.
+ 
+ Topaz 
+ 
+ Tiger 
+ 
+ 
+ Green 
+ 
+ Emerald Tortoise 
+ 
+ Once per turn: You can target 1 monster you control that attacked this turn; change that target to Defense Position.
+ 
+ Emerald 
+ 
+ Tortoise 
+ 
+ 
+ Blue 
+ 
+ Cobalt Eagle 
+ 
+ Once per turn: You can target 1 face-up "Crystal Beast" card you control; return that target to the top of the Deck.
+ 
+ Cobalt 
+ 
+ Eagle 
+ 
+ 
+ Indigo 
+ 
+ Sapphire Pegasus 
+ 
+ When this card is Summoned: You can place 1 "Crystal Beast" monster from your hand, Deck, or GY face-up in your Spell & Trap Zone as a Continuous Spell.
+ 
+ Sapphire 
+ 
+ Pegasus 
+ 
+ 
+ Violet 
+ 
+ Amethyst Cat 
+ 
+ This card can attack your opponent directly, but when it uses this effect, any Battle Damage it inflicts to your opponent is halved.
+ 
+ Amethyst 
+ 
+ Cat 
+ 
+ Playing style 
+ "Crystal Beast" Decks tend to have a wide variety of searching options for putting "Crystal Beast" cards on the  field , either Summoned as  monsters  or placed in the  Spell & Trap Zone  as an effect-less  Continuous Spell Card , and they have a couple of extra  drawing  options to speed up the use of the Deck.  Because of these effects working together, "Crystal Beast" users can wind up many cards ahead of their opponent, and the various searching options facilitate the Summoning of " Rainbow Dragon " far quicker than would otherwise be possible. The  archetype  also supports come-from-behind wins quite easily due to the double whammy of " Crystal Abundance ", which wipes out everything on the field and then  swarms  the field with monsters from the  Graveyard , and the  Field Spell Card  of the set, " Ancient City - Rainbow Ruins ", gains a new effect for every Continuous Spell Card "Crystal Beasts" you  control . The archetype is also somewhat resistant to opponents who use Spell and Trap destruction effects, as a couple of cards can quickly put the "Crystal Beasts" in Spell form back onto the back row from the Graveyard, and the Field Spell Card resists being destroyed itself.
+ It should be noted that, although " Rainbow Dragon " is the boss monster of this archetype, its inclusion is more likely to be a hindrance, to bring it out quickly, you need a good strategy to get Crystal Beasts out in one turn; or two turns if your hand is not good. Because of this, " Hamon, Lord of Striking Thunder " is often used in its place, but " Malefic Cyber End Dragon "  avoids both the lengthy set-up and the hefty costs of the previous bosses, and boasting the same 4000 ATK but it can be removed easily from the field due to the fact that it gets destroyed once your Field Spell card is removed from the field. Malefic Cyber End Dragon requires a Field Spell to be  Summoned  and is the only monster to attack once it is on the field, so you may not want to put this card in your Deck.
+ One of the most viable "Crystal Beast" strategies is to create a Lockdown, preventing the opponent from making any moves. " Ancient City - Rainbow Ruins " can negate the opponent's Spells and Traps, while a simple  Xyz Summon  can have " Number 16: Shock Master " negate monsters. Alternatively, " Fossil Dyna Pachycephalo " can stop Special Summons, and " Number 39: Utopia " will prevent attacks.
+ With the introduction of  Xyz Monsters , "Crystal Beasts" have become a more difficult Deck to use. With impressive swarming abilities, a "Crystal Beast" player can easily  Xyz Summon  two or three times in one turn. However, when these Xyz Monsters are destroyed, all of those "Crystal Beasts" will be trapped in the Graveyard, requiring slow pick-up from " Sapphire " Summons, or risking " Crystal Blessing ", which will not always have targets. The key is to Xyz Summon only when absolutely necessary, as excessive overlaying will exhaust the Deck's longevity in no time.
+ 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ Crystal Beast Amber Mammoth 
+ Crystal Beast Amethyst Cat 
+ Crystal Beast Cobalt Eagle 
+ Crystal Beast Emerald Tortoise 
+ Crystal Beast Ruby Carbuncle 
+ Crystal Beast Sapphire Pegasus 
+ Crystal Beast Topaz Tiger 
+ Rainbow Dark Dragon 
+ Rainbow Dragon 
+ Crystal Beast Rainbow Dragon 
+ Pendulum Monsters 
+ Crystal Keeper 
+ Crystal Master 
+ Odd-Eyes Mirage Dragon 
+ Odd-Eyes Pendulum Dragon 
+ Odd-Eyes Persona Dragon Spells   &  Traps   
+ Spells 
+ Advanced Dark 
+ Ancient City - Rainbow Ruins 
+ Crystal Abundance 
+ Crystal Beacon 
+ Crystal Blessing 
+ Crystal Promise 
+ Crystal Release 
+ Crystal Tree 
+ Rainbow Refraction 
+ Foolish Burial 
+ Mage Power 
+ Rare Value 
+ Sky Iris 
+ Terraforming 
+ Traps 
+ Crystal Conclave 
+ Crystal Pair 
+ Crystal Raigeki 
+ Rainbow Gravity 
+ Rainbow Path 
+ Torrential Tribute 
+ Notes 
+ Crystal Beast support cards such as " Crystal Beacon " reference monsters in the  Spell & Trap Zone . Because these effects do not specify that the "Crystal Beasts" must be in their  Continuous Spell Card  form, you can use them even if they're being equipped by effects such as that of " Destiny HERO - Plasma ". 
+ If a card such as " Macro Cosmos " is preventing cards from reaching the  Graveyard , this will NOT prevent "Crystal Beasts" from using their effects (as they would never hit the Graveyard in the first place). 
+ While " Dimensional Fissure " is active, Crystal Beasts that are removed from the field by cards like " Rare Value " or " Mystical Space Typhoon " will be sent to the Graveyard, not  banished . 
+ Deck types 
+ Hamon Beatdown 
+ One of the most aggressive "Crystal Beast" Decks. Generally this Deck does not contain a " Rainbow Dragon " simply due to the fact that the games do not tend to last long enough for him to hit the field.  This Deck uses " Crystal Beast Sapphire Pegasus ", and " Crystal Tree " to fill the back row with Crystal Beasts, then Tributing them for " Hamon, Lord of Striking Thunder ".  Once you figure out the way you wish to build this Deck, you can OTK regularly.  With the release of  Absolute Powerforce , you can use " Dragon Queen of Tragic Endings " to add more  swarm  capabilities to the Deck along with " Hand Destruction " if you cannot pull off the Abundance OTK.  In addition to " Crystal Blessing ", another good recommendation is " Counter Gem " for those situations when you draw too many " Hamon, Lord of Striking Thunder " while not having enough Crystal Beasts in your back row to Summon them. Also, you can add " Emergency Provisions " to tribute extra Crystal Beasts for life points. If you don't have  Hamon, Lord of Striking Thunder  or  Gold Sarcophagus  in your hand to search for him, you can use the effect of " Ryko, Lightsworn Hunter " to destroy a troublesome card and thin the Deck. " Crystal Blessing " can recover any Crystal Beasts lost by this method and improve card presence.
+Also use " Crystal Beast Cobalt Eagle " effect to  recycle  " Crystal Beast Sapphire Pegasus " back to the top of the Deck to easily Summon " Hamon, Lord of Striking Thunder ".
+ 
+ 
+ Recommended cards Monsters   
+ Monsters 
+ Crystal Beast Sapphire Pegasus 
+ Hamon, Lord of Striking Thunder 
+ Dragon Queen of Tragic Endings 
+ Anteatereatingant  (optional) 
+ Crystal Beast Cobalt Eagle Extra Deck   
+ Fusion Monsters 
+ Armityle the Chaos Phantasm  (with Fusion Conscription) Spells   &  Traps   
+ Spells 
+ Ancient City - Rainbow Ruins 
+ Burden of the Mighty 
+ Crystal Blessing 
+ Crystal Tree 
+ Dimensional Fissure  (Used for anti-meta purposes, and can be used for "Hamon") 
+ Emergency Provisions 
+ Fusion Conscription  (with Armityle the Chaos Phantasm) 
+ Traps 
+ Counter Gem 
+ Last Resort 
+ Crystal Raigeki 
+ Crystal Abundance OTK 
+ The OTK is more competitive friendly. It utilizes the effect of " Crystal Abundance " to work, so a few copies of the card is essential to have in the Deck, as well as a way to search it out (" Different Dimension Capsule " or " Gold Sarcophagus " work nicely). There must be four Crystal Beasts in the Spell & Trap Zone, plus an open slot to activate " Crystal Abundance ". Wait until you have five Crystal Beasts on the field or in your Graveyard with ATK of 1600 or more to activate the card. Upon activating " Crystal Abundance ", if your opponent had at least five cards on his/her field, all five of your monsters can be Special Summoned. " Crystal Abundance " leaves your opponent open to a direct attack. Another way to achieve this outcome is by the use of the  Destiny Heroes . With the combination of the various normal spells and " Destiny Hero - Diamond Dude ", it can make a speedy Deck. A great way to speed up the process for " Crystal Abundance " is to play " Crystal Tree " because you just need to play it and ensure that two "Crystal Beast" are destroyed and become "Crystals" and then use " Crystal Tree " to finish the other required half for " Crystal Abundance .  Just be careful with Tree as it has an annoying side effect: if it has more counters than you have spaces, you can't send it to the graveyard.  As soon as it gets to 5 counters, you can't get rid of it. Keep " Mystical Space Typhoon " handy just in case.
+ The three Crystal Beasts you will most likely use in this build would be " Crystal Beast Sapphire Pegasus ", " Crystal Beast Amber Mammoth ", and " Crystal Beast Topaz Tiger " since they are the strongest and will make for an easy win.
+Another way to make the effect of " Crystal Abundance " work quickly is with " Crystal Beast Cobalt Eagle " and " Crystal Beast Sapphire Pegasus " together. It's possible to combine this with Synchros for example a " Stardust Dragon ", to eliminate threats to activating " Crystal Abundance ". However, there is no concern when " Stardust Dragon " is used against you because " Crystal Abundance " 'sends' cards to the Graveyard where the effect of " Stardust Dragon " stops cards that 'destroy'.
+ 
+ 
+ Recommended cards Monsters   
+ Monsters 
+ Crystal Beast Sapphire Pegasus 
+ Crystal Beast Topaz Tiger 
+ Crystal Beast Ruby Carbuncle 
+ Crystal Beast Amber Mammoth  (Optional) Spells   &  Traps   
+ Spells 
+ Crystal Abundance 
+ Ancient City - Rainbow Ruins 
+ Crystal Tree 
+ Raigeki  ( TCG  only) 
+ Smashing Ground 
+ Emergency Provisions 
+ Crystal Blessing 
+ United We Stand  (optional) 
+ Synchro-Crystal Beasts 
+ Basically, there are 3 types of "Crystal Beast" Synchro. The first is the one that uses  Psychic   Tuners  like " Krebons " and " Psychic Commander ", and " Emergency Teleport " to speed it up (the 'universal engine'). Then with the release of " X-Saber Airbellum " in the  Starter Deck 2009 , you can add a mini  Synchro Cat  engine to it, by adding " Crystal Beast Amethyst Cat ". Another option is " Jutte Fighter " or " Torapart " with " Reinforce Truth " which can help you to get out Synchro monsters faster.
+ You can also use " Flamvell Firedog " to easily search for " Flamvell Magician ". You can also use " Dragon Queen of Tragic Endings " with " Krebons " to Synchro for a  Level  8 Synchro Monster, and if you have any Crystal Beast in your Spell & Trap Zone, you can bring back " Dragon Queen of Tragic Endings " on the next turn. You can mainly abuse the powers of rescue cat in Synchro Summoning for this Deck. Mainly use Level 2 and 3 Tuner monsters and Level 5-7 Synchro monsters.
+ The introduction of " Key Mouse " in " The Shining Darkness " expansion adds another Beast-Type Tuner monster along side " X-Saber Airbellum " and can allow for the Synchro Summon of lower Level Synchro monsters such as " Armory Arm " and " Ally of Justice Catastor ".  Searching for " Key Mouse " with " Rescue Cat " also makes it easier to find, and the effect  Key Mouse  can find either " X-Saber Airbellum " or " Crystal Beast Amethyst Cat ".  The  Duelist Revolution  pack introduces " Lock Cat ", allowing for easy Summoning of Level 4 Synchro Monsters in conjunction with " Key Mouse ".
+ 
+ 
+ Recommended cards Monsters   
+ Monsters 
+ Crystal Beast Sapphire Pegasus 
+ Crystal Beast Topaz Tiger 
+ Crystal Beast Amber Mammoth 
+ Crystal Beast Amethyst Cat 
+ Crystal Beast Ruby Carbuncle 
+ Krebons 
+ Psychic Commander 
+ X-Saber Airbellum 
+ Summoner Monk 
+ Crystal Beast Emerald Tortoise 
+ Crystal Beast Cobalt Eagle 
+ Rainbow Dragon Extra Deck   
+ Synchro Monsters 
+ Stardust Dragon 
+ Red Dragon Archfiend 
+ Ally of Justice Catastor 
+ Armory Arm 
+ Naturia Leodrake Spells   &  Traps   
+ Spells 
+ Emergency Teleport 
+ Synchro Blast Wave 
+ Rare Value 
+ Traps 
+ Starlight Road 
+ Synchro-Crystal Beasts featuring Equip Spells 
+ A well-timed " Power Tool Dragon " can be a crucial Synchro target for "Crystal Beast" Decks utilizing " Mage Power " and possibly " United We Stand ". With most Crystal Beast Decks already utilizing " Crystal Release " it is very hard not to have 3  Equip Spells  to use with " Power Tool Dragon ". A full Spell/Trap card zone and " Power Tool Dragon " with just one "Mage Power" will equal a whopping 5300 ATK. However, for this style of Deck, " Hamon, Lord of Striking Thunder " is not a good card because its Special Summon cost will be very counter-productive towards using " Mage Power " effectively. " Flamvell Uruquizas " can also be very effective with multiple " Mage Powers " and " United We Stands " for a quick victory.
+ 
+ Synchro-Crystal Beasts featuring Brionac, Dragon of the Ice Barrier 
+ If you have an active " Ancient City - Rainbow Ruins " with 4 or more Crystal Beast Spells you can draw 1 card per turn, however, that 'once per turn' will no longer apply if " Ancient City - Rainbow Ruins " is removed from the field. Discard 1 card to activate the effect of " Brionac, Dragon of the Ice Barrier " then activate " Ancient City - Rainbow Ruins " and activate its fourth ability to draw another card. Repeat this as many times as you like. This loop is useful with " Exodia the Forbidden One " (See  Exodia OTK  for more details. For maximum results just send all powerful monsters to the Graveyard, save a " Crystal Abundance " (assuming you have four Crystal Beasts as Continuous Spells). Also until you have a " Mage Power ". Use " Crystal Abundance " then Special Summon your Beasts (works well if opponent has a minimum of 4 cards), mainly " Crystal Beast Sapphire Pegasus " for an automatic three Crystal Beast Spells and a 2000 ATK boost to a monster. Attack and enjoy your victory.
+ 
+ CrystalSworn 
+ This Deck is based upon getting " Rainbow Dragon " with ease with the help of  Lightsworn  monsters, " Charge of the Light Brigade " and " Solar Recharge "s. The milling helps to accumulate the seven Crystal Beasts in the Graveyard, making for the easy Summoning of " Rainbow Dragon ". It will require 3 " Rainbow Gravity "s and 3 " Monster Reincarnation "s. The choice of your Lightsworn monsters are completely up to you. Adding the stronger Lightsworns like ' Jain, Lightsworn Paladin ' to give this Deck more 'fire-power' also helps as you are able to keep attacking your opponent whilst being able to mill those 7 crucial Crystal Beasts in order to Summon  Rainbow Dragon .
+ As of April 2015, " Charge of the Light Brigade " is now limited to 2.
+ 
+ 
+ Recommended cards Monsters   
+ Monsters 
+ Jain, Lightsworn Paladin 
+ Ehren, Lightsworn Monk 
+ Ryko, Lightsworn Hunter 
+ Rainbow Dragon 
+ 7 Crystal Beast monsters Spells   &  Traps   
+ Spells 
+ Charge of the Light Brigade 
+ Solar Recharge 
+ Monster Reincarnation 
+ Traps 
+ Rainbow Gravity 
+ Counter Gem  (Only if using " Crystal Abundance ") 
+ Xyz Crystals 
+ This Deck utilizes  Rank  3 and 4  Xyz Monsters  to support the "Crystal Beasts". It especially focuses on " Number 39: Utopia " and " Number C39: Utopia Ray ". You can also overlay "Ruby Carbuncle" and "Amethyst Cat" to  Xyz Summon  " Number 17: Leviathan Dragon ".
+ This Deck may be ineffective as when the "Crystal Beasts" are  detached , they are  sent  to the  Graveyard  instead of going to the  Spell & Trap Zone , as their effects don't activate while overlaid. Adding " Crystal Blessing " may help resolve this problem.
+ 
+ 
+ Recommended cards Monsters   
+ Monsters 
+ Crystal Beast Sapphire Pegasus 
+ Crystal Beast Ruby Carbuncle 
+ Crystal Beast Amber Mammoth 
+ Crystal Beast Topaz Tiger 
+ Crystal Beast Amethyst Cat 
+ Crystal Beast Cobalt Eagle 
+ Summoner Monk 
+ Genex Ally Birdman Extra Deck   
+ Xyz Monsters 
+ Abyss Dweller 
+ Constellar Hyades 
+ Constellar Ptolemy M7 
+ Daigusto Emeral 
+ Diamond Dire Wolf 
+ Gagaga Cowboy 
+ Harpie's Pet Phantasmal Dragon 
+ Lightning Chidori 
+ Maestroke the Symphony Djinn 
+ Number 17: Leviathan Dragon 
+ Number 30: Acid Golem of Destruction 
+ Number 50: Blackship of Corn 
+ Number 82: Heartlandraco 
+ Number 91: Thunder Spark Dragon 
+ Number 101: Silent Honor ARK 
+ Number 103: Ragnazero 
+ Steelswarm Roach 
+ Wind-Up Zenmaines Spells   &  Traps   
+ Spells 
+ Crystal Beacon 
+ Rare Value 
+ Crystal Blessing 
+ Ancient City - Rainbow Ruins 
+ Crystal Promise 
+ Crystal Release 
+ Crystal Abundance 
+ Crystal Tree 
+ Traps 
+ Torrential Tribute 
+ Horn of the Phantom Beast 
+ Hanzo Transform Crystal Beasts 
+ This is a variant of Xyz Crystals with  Ninja Grandmaster Hanzo  -  Ninjitsu Art of Transformation  -  Crystal Beast Sapphire Pegasus  combo for a quick deck thinning and backrow filling.
+ Considering that  Ninja Grandmaster Hanzo  is a  DARK  monster and  Crystal Beast Ruby Carbuncle  is a  LIGHT  monster, you can also add some touch of Chaos in the deck.
+ 
+ 
+ Recommended cards Monsters   
+ Monsters 
+ Crystal Beast Sapphire Pegasus 
+ Crystal Beast Ruby Carbuncle 
+ Crystal Beast Topaz Tiger 
+ Ninja Grandmaster Hanzo 
+ Black Luster Soldier - Envoy of the Beginning 
+ Chaos Sorcerer 
+ Effect Veiler Extra Deck   
+ Xyz Monsters 
+ Diawolf, the Dire Dreadfang 
+ Number 39: Utopia 
+ Grenosaurus 
+ Steelswarm Roach 
+ Number 17: Leviathan Dragon 
+ Gagaga Cowboy 
+ Lightning Chidori 
+ Number 30: Acid Golem of Destruction 
+ Wind-Up Zenmaines 
+ Maestroke the Symphony Djinn 
+ Number 50: Blackship of Corn 
+ Number 16: Shock Master 
+ Leviair the Sea Dragon 
+ Daigusto Emeral Spells   &  Traps   
+ Spells 
+ Rare Value 
+ Crystal Blessing 
+ Ancient City - Rainbow Ruins 
+ Crystal Promise 
+ Armor Ninjitsu Art of Alchemy  or  Magic Planter  (to get rid of stuck Transformation) 
+ Reinforcement of the Army 
+ Traps 
+ Torrential Tribute 
+ Ninjitsu Art of Transformation 
+ Weaknesses 
+ The management of maintaining vacant Zones in the Spell/Trap Card Zones can be irksome sometimes for these kind of Decks due to the balance between "Crystal Beast"s in said Zone for certain support cards as well as regular Spell/Traps to help this Deck further, a possible annoyance that can be hustled via cards like " Xing Zhen Hu ", " Xing Zhen Hu Replica " and " Seismic Shockwave ".
+ Cards like " Banisher of the Light ", " Dimensional Fissure ", " Masked HERO Dark Law " and " Macro Cosmos  can cripple this Deck since you can't Summon " Rainbow Dragon " on  banished  Crystal Beasts, albeit they're easily counterable with " Imperial Iron Wall " and " Chaos Hunter ".  However, if "Rainbow Dragon" or "Hamon"  were  Summoned, they can easily be iced with " Torrential Tribute ", the " Solemn " Counter Traps and " Bottomless Trap Hole ".  Further,  " Fortune Lady Fire ", " Nitro Unit " and " Mini-Guts " can also threaten "Rainbow Dragon" and "Hamon" because of the massive  Burn  damage that's the result of these effects.  " Shield & Sword " and " Inverse Universe " can also force "Rainbow Dragon" off the Field through battle and regardless if its abilities are activated before then, that's still a foremost horsepower monster off the Field.
+ "Banisher of the Light", "Masked Hero Dark Law" and "Macro Cosmos" will also stop your opponent from activating "Crystal Abundance."
+ Beatsticks  and  Beatdown  Decks if used early on and powered up a bit, can possibly deter "Crystal Beast"s as a majority of them have inadequate  ATK  and  DEF .
+ 
+ v e 
+ Crystal  cards 
+   
+" Crystal " 「 宝 玉 」 Members 
+ Advanced Crystal Beast Amber Mammoth Advanced Crystal Beast Amethyst Cat Advanced Crystal Beast Cobalt Eagle Advanced Crystal Beast Emerald Tortoise Advanced Crystal Beast Ruby Carbuncle Advanced Crystal Beast Sapphire Pegasus Advanced Crystal Beast Topaz Tiger Crystal Beast Amber Mammoth Crystal Beast Amethyst Cat Crystal Beast Cobalt Eagle Crystal Beast Emerald Tortoise Crystal Beast Rainbow Dragon Crystal Beast Ruby Carbuncle Crystal Beast Sapphire Pegasus Crystal Beast Token Crystal Beast Topaz Tiger Crystal Keeper Crystal Master Rainbow Dark Dragon Rainbow Dragon Rainbow Overdragon Ultimate Crystal Rainbow Dragon Overdrive 
+ Awakening of the Crystal Ultimates Crystal Abundance Crystal Aegis Crystal Beacon Crystal Blessing Crystal Bond Crystal Boon Crystal Brilliance Crystal Conclave Crystal Miracle Crystal Pair Crystal Promise Crystal Raigeki Crystal Release Crystal Tree Ultimate Crystal Magic 
+ Support 
+ Crystal Master 
+ Rainbow Bridge Rainbow Bridge of the Heart 
+ Related 
+ Malefic Rainbow Dragon 
+ Rainbow Refraction 
+ 
+   
+" Crystal Beast " 「 宝 玉 獣 」 Members 
+ Advanced Crystal Beast Amber Mammoth Advanced Crystal Beast Amethyst Cat Advanced Crystal Beast Cobalt Eagle Advanced Crystal Beast Emerald Tortoise Advanced Crystal Beast Ruby Carbuncle Advanced Crystal Beast Sapphire Pegasus Advanced Crystal Beast Topaz Tiger Crystal Beast Amber Mammoth Crystal Beast Amethyst Cat Crystal Beast Cobalt Eagle Crystal Beast Emerald Tortoise Crystal Beast Rainbow Dragon Crystal Beast Ruby Carbuncle Crystal Beast Sapphire Pegasus Crystal Beast Token Crystal Beast Topaz Tiger 
+ Support 
+ Crystal Beast Amber Mammoth Crystal Beast Cobalt Eagle Crystal Beast Rainbow Dragon Crystal Beast Ruby Carbuncle Crystal Beast Sapphire Pegasus Crystal Keeper Crystal Master Rainbow Dragon Rainbow Overdragon Ultimate Crystal Rainbow Dragon Overdrive 
+ Advanced Dark Ancient City - Rainbow Ruins Awakening of the Crystal Ultimates Counter Gem Crystal Abundance Crystal Aegis Crystal Beacon Crystal Blessing Crystal Bond Crystal Boon Crystal Brilliance Crystal Conclave Crystal Miracle Crystal Pair Crystal Promise Crystal Raigeki Crystal Release Crystal Tree Rainbow Bridge of Salvation Rainbow Bridge of the Heart Rainbow Gravity Rainbow Path Rainbow Refraction Rare Value Ultimate Crystal Magic 
+ Anti-support 
+ Counter Gem 
+ Related 
+ Elemental HERO Neos Jesse Anderson - Bonder with the Crystal Beasts Jesse and Ruby - Unleashing the Legend 
+ Gem Flash Energy Last Resort 
+ 
+   
+" Advanced Crystal Beast " 「 Ａ 宝玉獣 」 Members 
+ Advanced Crystal Beast Amber Mammoth Advanced Crystal Beast Amethyst Cat Advanced Crystal Beast Cobalt Eagle Advanced Crystal Beast Emerald Tortoise Advanced Crystal Beast Ruby Carbuncle Advanced Crystal Beast Sapphire Pegasus Advanced Crystal Beast Topaz Tiger 
+ Support 
+ Advanced Crystal Beast Amber Mammoth Advanced Crystal Beast Amethyst Cat Advanced Crystal Beast Cobalt Eagle Advanced Crystal Beast Ruby Carbuncle Advanced Crystal Beast Sapphire Pegasus Advanced Crystal Beast Topaz Tiger 
+ Related 
+ Crystal Beast Amber Mammoth Crystal Beast Amethyst Cat Crystal Beast Cobalt Eagle Crystal Beast Emerald Tortoise Crystal Beast Ruby Carbuncle Crystal Beast Sapphire Pegasus Crystal Beast Topaz Tiger 
+ Advanced Dark 
+ 
+   
+" Ultimate Crystal " 「 究 極 宝 玉 神 」 Members 
+ Rainbow Dark Dragon Rainbow Dragon Rainbow Overdragon Ultimate Crystal Rainbow Dragon Overdrive 
+ Support 
+ Crystal Beast Rainbow Dragon Crystal Keeper Crystal Master Rainbow Neos Rainbow Overdragon Ultimate Crystal Rainbow Dragon Overdrive 
+ Advanced Dark Awakening of the Crystal Ultimates Rainbow Gravity Rainbow Path Ultimate Crystal Magic 
+ Related 
+ Elemental HERO Neos Malefic Rainbow Dragon 
+ Rainbow Refraction 
+ 
+ v e 
+ Crystal   宝 玉 a   Members 
+ Advanced Crystal Beast Amber Mammoth Advanced Crystal Beast Amethyst Cat Advanced Crystal Beast Cobalt Eagle Advanced Crystal Beast Emerald Tortoise Advanced Crystal Beast Ruby Carbuncle Advanced Crystal Beast Sapphire Pegasus Advanced Crystal Beast Topaz Tiger Amber Crystal Circle Crystal Beacon Crystal Flash Crystal Fortress Crystal Pair Crystal Release Crystal Spring Crystal Tree Cut Jewel Rainbow Dark Dragon Rainbow Dragon Tempt to the Crystal 
+ Related 
+ Malefic Rainbow Dragon Rainbow Blessing 
+ 
+ v e 
+" Crystal Beast " 「 宝 玉 獣 」 a   Members 
+ Advanced Crystal Beast Amber Mammoth Advanced Crystal Beast Amethyst Cat Advanced Crystal Beast Cobalt Eagle Advanced Crystal Beast Emerald Tortoise Advanced Crystal Beast Ruby Carbuncle Advanced Crystal Beast Sapphire Pegasus Advanced Crystal Beast Topaz Tiger Crystal Beast Amber Mammoth Crystal Beast Amethyst Cat Crystal Beast Cobalt Eagle Crystal Beast Emerald Turtle Crystal Beast Ruby Carbuncle Crystal Beast Sapphire Pegasus Crystal Beast Topaz Tiger 
+ Support 
+ Advanced Crystal Beast Amber Mammoth Advanced Crystal Beast Cobalt Eagle Advanced Crystal Beast Ruby Carbuncle Advanced Crystal Beast Sapphire Pegasus Advanced Dark Amber Crystal Circle Ancient City - Rainbow Ruins Counter Gem Crystal Beacon Crystal Beast Amber Mammoth Crystal Beast Cobalt Eagle Crystal Beast Ruby Carbuncle Crystal Beast Sapphire Pegasus Crystal Flash Crystal Fortress Crystal Pair Crystal Release Crystal Spring Crystal Tree Cut Jewel E Force G Force GEM Burst Golden Rule M Force Rainbow Dark Dragon Rainbow Dragon Rainbow Gravity Rainbow Path Rare Value Sapphire Revive Take Flight Tempt to the Crystal Trap Strap 
+ 
+ v e 
+" Advanced Crystal Beast " 「 Ａ 宝玉獣 」 a   Members 
+ Advanced Crystal Beast Amber Mammoth Advanced Crystal Beast Amethyst Cat Advanced Crystal Beast Cobalt Eagle Advanced Crystal Beast Emerald Tortoise Advanced Crystal Beast Ruby Carbuncle Advanced Crystal Beast Sapphire Pegasus Advanced Crystal Beast Topaz Tiger 
+ Support 
+ Advanced Dark Rainbow Dark Dragon 
+ Related 
+ Crystal Beast Amber Mammoth Crystal Beast Amethyst Cat Crystal Beast Cobalt Eagle Crystal Beast Emerald Turtle Crystal Beast Ruby Carbuncle Crystal Beast Sapphire Pegasus Crystal Beast Topaz Tiger 
+ 
+ v e 
+" Ultimate Crystal " 「 究 極 宝 玉 神 」 a   Members 
+ Rainbow Dark Dragon Rainbow Dragon 
+ Support 
+ Advanced Dark Rainbow Neos Rainbow Path 
+ Related 
+ Elemental Hero Neos Elemental Hero Neos Malefic Rainbow Dragon Rainbow Gravity 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/06/CrystalBeastsArchetype.png/revision/latest/scale-to-width-down/350?cb=20151016235312']
+Categories: Archetypes, TCG and OCG archetypes

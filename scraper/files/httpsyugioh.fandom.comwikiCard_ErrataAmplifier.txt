@@ -1,0 +1,53 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Amplifier
+
+
+ Amplifier 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Anime Manga 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ This  card  can only be equipped  to "Jinzo". As long as this card is equipped, the effects of Trap Cards controlled by the equipped monster's controller are not negated by the effect of the equipped monster. When this card is removed from the field, the equipped monster is destroyed. This card's activation and effect cannot be negated by any other card. 
+ You can  only  equip  this card  to "Jinzo".  As long as  this card is equipped, the effects of Trap Cards  controlled by the equipped monster's controller are not negated by the effect of the equipped monster . When this card is removed from the field, the equipped monster is destroyed. This card's activation and effect cannot be negated  by any other card . 
+ Equip  only to "Jinzo".  While  this card is equipped, the  equipped monster's  effect  does not negate the effects  of  its controller's  Trap Cards. When this card is removed from the field, destroy the equipped monster. This card's activation and effect cannot be negated. 
+ 
+ 
+       AST-040 Ancient Sanctuary     
+       DR2-EN152 Dark Revelation Volume 2     
+       CP06-EN017 Champion Pack: Game Six     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ 「人造人間－サイコ・ショッカー」のみ装備可能。このカードが装備されている限り、装備モンスターのコントローラーは装備モンスターの効果によって罠カードの効果を無効化されない。このカードがフィールド上から離れた時、装備モンスターを破壊する。 
+ 「人造人間－サイコ・ショッカー」のみ装備可能。このカードが装備されている限り、装備モンスターのコントローラーは装備モンスターの効果によって罠カードの効果を無効化されない。このカードがフィールド上から離れた時、装備モンスターを破壊する。 このカードの発動と効果は無効化されない。 
+ 
+ 
+         308-040 The Sanctuary in the Sky     
+         EE2-JP152 Expert Edition Volume 2     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/8f/Amplifier-AST-NA-SR-1E.png/revision/latest/scale-to-width-down/180?cb=20090621182603', 'https://static.wikia.nocookie.net/yugioh/images/a/a7/Amplifier-DR2-EN-R-UE.png/revision/latest/scale-to-width-down/180?cb=20160531183315', 'https://static.wikia.nocookie.net/yugioh/images/2/29/Amplifier-CP06-EN-C-UE.png/revision/latest/scale-to-width-down/180?cb=20081114035249', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/5f/Amplifier-308-JP-R.jpg/revision/latest/scale-to-width-down/180?cb=20070313023153', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/20/Amplifier-EE2-JP-R.jpg/revision/latest/scale-to-width-down/180?cb=20100309112147']
+Categories: Card Errata, Cards with 2 errata, Cards with 1 erratum, Cards with Japanese errata

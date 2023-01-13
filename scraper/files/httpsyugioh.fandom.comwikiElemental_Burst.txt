@@ -1,0 +1,448 @@
+Link: https://yugioh.fandom.com/wiki/Elemental_Burst
+
+
+ 
+ 
+ Elemental Burst エレメンタルバースト 
+ 
+ English 
+Elemental Burst 
+ French 
+ Explosion Elémentaire Check translation 
+ German 
+ Elementausbruch Check translation 
+ Italian 
+ Esplosione Elementale Check translation 
+ Korean 
+ 엘리멘틀버스트 Check translation 
+ Portuguese 
+ Rebentar do Elemento Check translation 
+ Spanish 
+ Estallido Elemental Check translation 
+ Japanese 
+ エレメンタルバースト Check translation 
+ Japanese ( rōmaji ) 
+Erementaru Bāsuto 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 61411502 
+ Card effect types 
+ 
+ 
+ Cost 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Tribute  1 each of  WIND ,  WATER ,  FIRE , and  EARTH   monsters  to  activate  this card.  Destroy  all cards on your opponent's side of the  field . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Sacrifiez 1 monstre de chacun des Attributs VENT, EAU, FEU et TERRE sur votre Terrain pour activer cette carte. Détruisez toutes les cartes sur le Terrain de votre adversaire. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Biete jeweils 1 WIND, WASSER, FEUER und ERDE Monster auf deiner Spielfeldseite als Tribut an um diese Karte zu aktivieren. Zerstöre alle Karten auf der Spielfeldseite deines Gegners. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Offri come Tributo 1 mostro per ognuno dei seguenti attributi VENTO, ACQUA, FUOCO e TERRA sul tuo Terreno per attivare questa carta. Distruggi tutte le carte sul terreno del tuo avversario. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Ofereça como tributo 1 Monstro de cada VENTO, ÁGUA, FOGO, e TERRA no seu Campo para activer esse card. Destrua todos os card no campo do seu adversârio. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Sacrifica 1 monstruo de VIENTO, AGUA, FUEGO y TIERRA en tu Campo para activar esta carta. Destruye todas las cartas en el Campo de tu adversario. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 自分フィールド上に存在する風・水・炎・地属性モンスターをそれぞれ生け贄に捧げる。相手フィールド上の全てのカードを破壊する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신 필드 위에 존재하는 바람 / 물 / 화염 / 땅 속성 몬스터를 1장씩 제물로 바치고 발동한다. 상대 필드 위에 존재하는 카드를 전부 파괴한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2005-02-26  
+ FET-EN059   
+ Flaming Eternity 
+ Common 
+ 
+ 
+ 2006-11-25  
+ DR3-EN179   
+ Dark Revelation Volume 3 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2005-03-01  
+ FET-FR059   
+ Flaming Eternity 
+ Éternité Brûlante  
+ Common 
+ 
+ 
+ 2006-11-25  
+ DR3-FR179   
+ Dark Revelation Volume 3 
+ Sombre Révélation Volume 3  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2005-03-01  
+ FET-DE059   
+ Flaming Eternity 
+ Flaming Eternity  
+ Common 
+ 
+ 
+ 2006-11-25  
+ DR3-DE179   
+ Dark Revelation Volume 3 
+ Dark Revelation Volume 3  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2005-03-01  
+ FET-IT059   
+ Flaming Eternity 
+ Eternità Fiammeggiante  
+ Common 
+ 
+ 
+ 2006-11-25  
+ DR3-IT179   
+ Dark Revelation Volume 3 
+ Rivelazione Oscura Volume 3  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2005-03-01  
+ FET-PT059   
+ Flaming Eternity 
+ Eternidade Flamejante  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2005-03-01  
+ FET-SP059   
+ Flaming Eternity 
+ Eternidad Llameante  
+ Common 
+ 
+ 
+ 2006-11-25  
+ DR3-SP179   
+ Dark Revelation Volume 3 
+ Revelación Oscura Volumen 3  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2004-11-25  
+ FET-JP059   
+ Flaming Eternity 
+ ＦＬＡＭＩＮＧ ＥＴＥＲＮＩＴＹ  
+ Common 
+ 
+ 
+   
+ EE3-JP179   
+ Expert Edition Volume.3 
+   
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Asian-English 
+ 
+ 
+ 
+ Asian-English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+   
+ FET-AE059   
+ Flaming Eternity 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2006-05-19  
+ FET-KR059   
+ Flaming Eternity 
+ 영원한 화염  
+ Common 
+ 
+ 
+   
+ HGP3-KR179   
+ Expert Edition Volume.3 
+   
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Nightmare Troubadour 
+ 
+ 
+ Devised Tactics 
+ 
+ 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+ Flaming Eternity 
+ All Traps  ( Common )
+ 
+ All at Random  ( Common ) 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ WIND 
+ WATER 
+ FIRE 
+ EARTH 
+ 
+ Actions  
+ Tributes for cost 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your opponent's Monster Cards 
+ Destroys your opponent's Spell Cards 
+ Destroys your opponent's Trap Cards 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 6285 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Nightmare Troubadour 2005-07-21 – ??? – – – Unlimited Ultimate Masters: World Championship Tournament 2006 2006-02-23 – 2600 – – – Unlimited 
+ 
+ 
+ 
+   " Elemental Burst " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d1/ElementalBurst-DR3-EN-C-UE.png/revision/latest/scale-to-width-down/300?cb=20160622145139', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

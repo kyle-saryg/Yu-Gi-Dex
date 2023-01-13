@@ -1,0 +1,554 @@
+Link: https://yugioh.fandom.com/wiki/Chain
+
+This article is about the gameplay mechanic. For the  archetype  known as "Chain" in the  OCG , see " Iron Chain ".      
+ 
+ 
+ Chain
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ チェーン
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Chēn
+ 
+ 
+ 
+ English
+ 
+ 
+ Chain
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Chaîne 
+ German : Kette 
+ Italian : Catena 
+ Portuguese : Corrente 
+ Spanish : Cadena 
+ Korean : 체인  Chein 
+ Traditional Chinese : 連鎖  Liánsuǒ / Lin4 so2 
+ Simplified Chinese : 连锁  Liánsuǒ 
+ 
+ 
+ A  Chain  (Japanese: チェーン  Chēn ) is a  stack  that determines the order of  resolution  of activated cards and  effects . Cards and effects go on a Chain if and only if they activate.
+ Chains are used when a card or effect is  activated  before another activated card or effect  resolves . Each player has the opportunity to  respond  to each activation by activating another card or effect (this is sometimes called "chaining"). Each activation is placed on the Chain as a  Chain Link , with the first activation being Chain Link 1. Players follow  Fast Effect Timing  rules when adding effects to the chain.
+ If neither player responds to the most recent Chain Link, the Chain resolves, with Chain Links resolving in the opposite order to which they were activated in.
+ Cards and effects can only be added to a Chain while it is being constructed. Once a Chain starts to resolve, cards and effects cannot be activated until the entire Chain has resolved.
+ 
+ Contents 
+ 
+ 1   Starting a Chain 
+ 2   Building a Chain 
+ 3   Resolving a Chain 
+ 4   Example 
+ 5   See also 
+ 
+ 
+ Starting a Chain 
+ Usually, the  turn player  has the right to start any Chain at any time during his or her  turn . However, this right will pass to the opponent under the following circumstances:
+ 
+ The turn player doesn't wish to take any actions while the  game state  is closed. 
+ The turn player wants to move to the next  Step / Phase . 
+ The opponent has a  Flip ,  Trigger  or  Trigger-like Effect  that meets its activation timing (this effect activation must be placed on the Chain first before placing any  fast effects ; see  SEGOC ). 
+ Building a Chain 
+ The card or effect that started the Chain (the first card or effect to be activated) is Chain Link 1 (チェーン１  Chēn Ichi  "Chain 1"). The next is Chain Link 2 (チェーン２  Chēn Ni  "Chain 2"), with each additional Chain Link being numbered incrementally, with these numbers corresponding to when it was activated relative to the other Chain Links.
+ Cards and effects can only be activated as a Chain Link 2 or higher if they have an equal or greater  Spell Speed  than the previous Chain Link.  Spell Speed 1  effects cannot be activated as a Chain Link 2 or higher, except for  Trigger  and  Trigger-like  effects  if they triggered simultaneously ; in this case, they must be placed on the Chain first before either player has the opportunity to activate  fast effects .
+ New Chain Links are activated in  response  to both the most recent activation (the immediately previous Chain Link) and the event which Chain Link 1 is responding to.
+ After placing all Spell Speed 1 effects on the Chain, or after any fast effect activation, the player who did not add the last current Chain Link on the Chain has the right add a new one or pass to their opponent. If their opponent then declines to add to the Chain, the Chain is now complete. Cards and effects cannot be resolved until the Chain is complete.
+ 
+ Resolving a Chain 
+ Once both players have decided not to add to the Chain, the Chain is completed. At this time, the Chain is resolved, starting with the card or effect which was activated most recently (the highest Chain Link). Each card in the Chain is then resolved until Chain Link 1 resolves. Cards and effects cannot be activated while the Chain is resolving.
+ Once the entire Chain resolves, if any of the following cards have not yet been moved to another location, they will be  sent  to the  Graveyard . (This is considered to happen simultaneously with the last part of the resolution of the effect of the last Chain Link that resolved).
+ 
+ Normal ,  Quick-Play  and  Ritual Spell Cards , except those that have an effect like " Swords of Revealing Light " that keeps them on the field. 
+ Normal  and  Counter Trap Cards , except those that have an effect like " Blast with Chain " that keeps them on the field. 
+ Spell  and  Trap Cards  whose activation has been  negated . 
+ Monsters  whose  Summons  have been negated. 
+ Example 
+ Player 1 activates " Raigeki " (Chain Link 1) 
+ Player 2 activates " Magic Jammer " in response to "Raigeki" by  discarding  1 card (Chain Link 2) 
+ Player 1 activates " Seven Tools of the Bandit " in response to "Magic Jammer" by  paying  1000 LP (Chain Link 3) 
+ The Chain is resolved in reverse activation order, starting with the last card that was activated.
+ 
+ (Chain Link 3) "Seven Tools of the Bandit"  negates  the activation of "Magic Jammer" and destroys it. 
+ (Chain Link 2) "Magic Jammer" has its activation negated, so nothing happens at this Chain Link. 
+ (Chain Link 1) The effect of "Raigeki"  resolves ,  destroying  all  monsters  Player 2  controls . 
+ The Chain ends with the remaining cards ("Seven Tools of the Bandit" and "Raigeki") going to the  Graveyard . (For timing purposes, this is considered to be done at the same time as the effect of "Raigeki" destroying all of Player 2's monsters.) 
+ See also 
+ Chains, Activation, and Resolution 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Gameplay

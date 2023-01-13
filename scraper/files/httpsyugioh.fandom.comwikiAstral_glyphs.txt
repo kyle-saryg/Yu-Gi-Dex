@@ -1,0 +1,712 @@
+Link: https://yugioh.fandom.com/wiki/Astral_glyphs
+
+        " Number 83: Galaxy Queen  ( DARK )" written in Astral (top) and Japanese (bottom).     
+ Astral glyphs  are the writing system used by those in  Astral World  in the  Yu-Gi-Oh! ZEXAL  anime.
+ In reality, the glyphs are a  cipher  of Japanese. With the exception of numbers and a few special characters, each glyph is a stylized version of a  katakana . A word written in Japanese phonology can be converted to Astral glyphs, by converting each syllable of the word to its katakana and then replacing each katakana with its corresponding Astral glyph. The long vowel marker, "ー", is replaced with the vowel it is prolonging. The syntax of the first line of an  Xyz Monster 's card text is: <required Attribute><number of stars equal to the  monster 's  Rank > × <number of a digit which identifies the number of Xyz Materials, equal to the number of Xyz Materials>; for example, the material requirements for " Number C39: Utopia Ray " would be written as: ヒカリ／☆☆☆☆　×　３３３.
+ 
+ Contents 
+ 
+ 1   Conversion 
+ 
+ 1.1   Syllables 
+ 1.2   Numbers 
+ 1.3   Symbols 
+ 1.4   Words 
+ 
+ 
+ 2   Cards 
+ 
+ 
+ Conversion 
+ Syllables 
+ 
+ 
+ 
+ 
+ a
+ 
+ i
+ 
+ u
+ 
+ e
+ 
+ o
+ 
+ 
+ -
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ア
+ 
+ イ
+ 
+ ウ
+ 
+ エ
+ 
+ オ
+ 
+ 
+ k-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ カ
+ 
+ キ
+ 
+ ク
+ 
+ ケ
+ 
+ コ
+ 
+ 
+ g-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ガ
+ 
+ ギ
+ 
+ グ
+ 
+ ゲ
+ 
+ ゴ
+ 
+ 
+ s-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ サ
+ 
+ シ
+ 
+ ス
+ 
+ セ
+ 
+ ソ
+ 
+ 
+ z-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ザ
+ 
+ ジ
+ 
+ ズ
+ 
+ ゼ
+ 
+ ゾ
+ 
+ 
+ t-
+ 
+ 
+ 
+ chi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ タ
+ 
+ チ
+ 
+ ツ
+ 
+ テ
+ 
+ ト
+ 
+ 
+ d-
+ 
+ 
+ 
+ ji 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ダ
+ 
+ ヂ
+ 
+ ヅ
+ 
+ デ
+ 
+ ド
+ 
+ 
+ n-
+ 
+ 
+ 
+ ni 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ナ
+ 
+ ニ
+ 
+ ヌ
+ 
+ ネ
+ 
+ ノ
+ 
+ 
+ h-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ he 
+ 
+ 
+ 
+ 
+ ハ
+ 
+ ヒ
+ 
+ フ
+ 
+ ヘ
+ 
+ ホ
+ 
+ 
+ b-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ be 
+ 
+ 
+ 
+ 
+ バ
+ 
+ ビ
+ 
+ ブ
+ 
+ ベ
+ 
+ ボ
+ 
+ 
+ p-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ pe 
+ 
+ 
+ 
+ 
+ パ
+ 
+ ピ
+ 
+ プ
+ 
+ ペ
+ 
+ ポ
+ 
+ 
+ m-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ マ
+ 
+ ミ
+ 
+ ム
+ 
+ メ
+ 
+ モ
+ 
+ 
+ y-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ヤ
+ 
+ 
+ 
+ ユ
+ 
+ 
+ 
+ ヨ
+ 
+ 
+ r-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ラ
+ 
+ リ
+ 
+ ル
+ 
+ レ
+ 
+ ロ
+ 
+ 
+ w-
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ we 
+ 
+ wo 
+ 
+ 
+ ワ
+ 
+ ヰ
+ 
+ 
+ 
+ ヱ
+ 
+ ヲ
+ 
+ 
+ 
+ n
+ 
+ 
+ 
+ 
+ 
+ ン
+ 
+ 
+ Numbers 
+ Each number is represented by a ten spoked wheel, with a dot outside. Counting the number of spokes clockwise from the top of the circle, until the dot is reached gives the number it represents.
+ 
+ 
+ 
+ 0
+ 
+ 1
+ 
+ 2
+ 
+ 3
+ 
+ 4
+ 
+ 5
+ 
+ 6
+ 
+ 7
+ 
+ 8
+ 
+ 9
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Symbols 
+ 
+ 
+ ×
+ 
+ ·
+ 
+ ☆
+ 
+ /
+ 
+ [
+ 
+ ]
+ 
+ “
+ 
+ ”
+ 
+ ,
+ 
+ .
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ×
+ 
+ ・
+ 
+ ☆
+ 
+ ／
+ 
+ 【
+ 
+ 】
+ 
+ 「
+ 
+ 」
+ 
+ 、
+ 
+ 。
+ 
+ Words 
+ 
+ 
+ Number 
+ 
+ Number C 
+ 
+ LIGHT 
+ 
+ DARK 
+ 
+ WATER 
+ 
+ EARTH 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Ｎｏ． 
+ 
+ Ｃ Ｎｏ． 
+ 
+ 光
+ 
+ 闇
+ 
+ 水
+ 
+ 地
+ 
+ Cards 
+ The following cards have been shown in Astral glyphs.
+ 
+ Number 17: Leviathan Dragon Number 25: Force Focus Number 39: Utopia Number C39: Utopia Ray Number 54: Lion Heart Number 64: Ronin Raccoon Sandayu Number 83: Galaxy Queen 
+ v e 
+ Yu-Gi-Oh! ZEXAL Anime 
+ Anime 
+ Characters 
+ Season 1 
+ Season 2 
+ DVDs 
+ Special episodes
+ 1 
+ 2 
+ Manga 
+ Manga 
+ Characters 
+ Chapters 
+ Special chapter 
+ Spin-off manga 
+ Chapters 
+ Arcs 
+ Pre-World Duel Carnival 
+ World Duel Carnival Preliminaries 
+ World Duel Carnival Finals 
+ Barian Invasion 
+ Mythyrian Number War 
+ Barian Emperor Onslaught 
+ Video games 
+ Duel Terminals 
+ Xyz Startup!! 
+ Sacred Star Knights!! 
+ Ouroboros, Wicked Dragon of Destruction!! 
+ Yu-Gi-Oh! ZEXAL World Duel Carnival (Yu-Gi-Oh! ZEXAL Clash! Duel Carnival!) 
+ Duel Terms 
+ Augmented Reality Duel 
+ Basket Rule (Vegetable Death Match) 
+ Duel Field 
+ Dueling Team  (manga) 
+ Overlay Network 
+ Rank-Down 
+ Rank-Up 
+ Speed Duel  (manga) 
+ Statue Duel 
+ Xyz Evolution (Xyz Change) 
+ Xyz Material (Overlay Unit) 
+ Xyz Monster 
+ Xyz Summon 
+ Items 
+ Astrite 
+ Baria Crystal (Variarite) 
+ Barian Emblem (Varian Emblem) 
+ Don Thousand's Emblem 
+ Emperor's Key 
+ Heart Piece 
+ Kastle twins' rings 
+ King's Coin (Conqueror's Coin) 
+ Misconduct Card 
+ Numbers 
+ Barian Number (Fake Number) 
+ Mythyrian Number (Legendary Numbers) 
+ Number C 
+ Number 10X 
+ Number C10X 
+ Numeron Code 
+ Stanley's sketchbook 
+ The Door 
+ Technology 
+ Baria Crystal (Varia Lapis) 
+ Barian Sphere Cube (Varian's Sphere Cube) 
+ Crashbug Virus (Bugman Virus) 
+ D-Network  (manga) 
+ Different Dimension Airship 
+ Fusionizer 
+ Dimensional Transporter 
+ Digital Stone  (manga) 
+ Duel Disk (D-Pad) 
+ Duel Coaster 
+ Duel Gazer (D-Gazer) 
+ Orbital 
+ Sphere Field 
+ Abilities 
+ Barian Battlemorph (Variarphose) 
+ Chaos Draw (Varian's Chaos Draw) 
+ Barian Pipe 
+ Chaos 
+ Crest 
+ Duel Anchor 
+ Energy ball 
+ Photon Hand (ability) 
+ Photon Transformation (Photon Change) 
+ Shining Draw 
+ ZEXAL 
+ Dark ZEXAL 
+ ZEXAL II 
+ ZEXAL III 
+ Shining Evolution (Re-Contract Universe) 
+ Tournaments 
+ Asia Duelist Championship 
+ Couples Duel tournament (Couple Duel Tournament) 
+ Duel Monsters Regional Cup  (manga) 
+ Duel Team Carnival  (manga) 
+ Friendship Games (Sports Duel Tournament) 
+ Mini Surf Expert Match 
+ National Duel Circuit 
+ Pro Duelist Spartancity Tournament 
+ T.F.E. Tournament 
+ Team Duel Tournament  (manga) 
+ World Duel Carnival 
+ Groups 
+ Barian (Varian) 
+ Barian Cosmic Crime Unit (Varian's Guardian) 
+ Comic Book Appreciation Club (Manga Research Club) 
+ Fearsome Four of the Dark Dueling World 
+ Floral Design Club (Ikebana Club) 
+ Heartland police 
+ Number holder 
+ Number Guardian 
+ Student Council 
+ Super Secret Number Card Investigation (Numbers Club) 
+ Seven Barian Emperors (Seven Varian Emperors) 
+ Team Air Force 
+ Team Fire Stars 
+ Team lswarm 
+ Team Shark 
+ Team ZEXAL 
+ Triad of Terror (Fallguys) 
+ United Lands of the Poseidon Ocean 
+ Vector's army 
+ Vetrix Family (Tron Family) 
+ Characters' Decks 
+ Kite Tenjo (Kaito Tenjo) 
+ Reginald Kastle (Ryoga Kamishiro) 
+ Yuma Tsukumo 
+ Other 
+ Astral glyphs 
+ Astral World 
+ Barian glyphs (Varian glyphs) 
+ Barian World (Varian World) 
+ Earth 
+ Interdimensional War 
+ Kattobingu 
+ King of Games (King of Duelists) 
+ Legend of the Dragons of Light and Time 
+ Numbers War  (manga) 
+ 
+ Locations 
+ Music 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/0d/AstralGlyphs-GalaxyQueen.png/revision/latest/scale-to-width-down/300?cb=20130210231222', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/21/Number17LeviathanDragon-BROL-EN-StR-1E.png/revision/latest/scale-to-width-down/125?cb=20220111152208', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/96/Number25ForceFocus-JP-Anime-ZX-Astral.png/revision/latest/scale-to-width-down/165?cb=20111227010324', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f2/Number39Utopia-BLAR-EN-StR-1E.png/revision/latest/scale-to-width-down/127?cb=20200725184028', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/01/NumberC39UtopiaRay-JP-Anime-ZX-Astral.png/revision/latest/scale-to-width-down/127?cb=20111014141921', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/0e/Number54LionHeart-JP-Anime-ZX-Astral.png/revision/latest/scale-to-width-down/180?cb=20131117173629', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/0c/Number64RoninRaccoonSandayu-JP-Anime-ZX-Astral.png/revision/latest/scale-to-width-down/170?cb=20131215091104', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e0/Number83GalaxyQueen-JP-Anime-ZX-Astral.png/revision/latest/scale-to-width-down/127?cb=20130205194729', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Writing systems

@@ -1,0 +1,100 @@
+Link: https://yugioh.fandom.com/wiki/Skull_Dice_(manga)
+
+Main card page: " Skull Dice " 
+ Skull Dice 
+ 
+ Japanese:   悪魔のサイコロ 
+ Romaji:   Akuma no Saikoro 
+ Translated:  Demon's Dice 
+ 
+ 
+ 
+ 
+ en 
+ ja 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap 
+ 
+ 
+ 
+ When an enemy  monster   attacks , roll a die, and treat the result as 𝑥. The  ATK  of the enemy becomes  1 ⁄ 𝑥 . 
+ 
+ Viz Media  lore<nomobile> ? :</nomobile> <mobile>(The English manga by Viz Media sometimes uses lores which are inconsistent with the Japanese lore or how the card worked.):</mobile> Roll 1 six-sided die. Divide one  monster 's  ATK  and  DEF  by the result.
+ 
+ 
+ Appearances
+ 
+ 
+ 
+ 
+   Duelist :  097 ,  120 ,  138 
+   R : Yu-Gi-Oh! R - Duel Round 036|036 Property "Yu-Gi-Oh R chapter appearances (linked)" (as page type) with input value "Yu-Gi-Oh! R - Duel Round 036|036" contains invalid characters or is incomplete and therefore can cause unexpected results during a query or annotation process. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Manga cards (Galleries:  Yu-Gi-Oh!  ·  R ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 悪魔のサイコロ 
+ 敵モンスターが攻撃を宣言した時、サイコロをふり、出た目を𝑥とする。相手の攻撃力が １ ⁄ 𝑥 となる。 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Katsuya Jonouchi's Battle City Deck    
+ Brainwashed Jonouchi's Deck   
+ Katsuya Jonouchi's Project R.A. Deck 
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ 
+ Miscellaneous  
+ Die roll 
+ 
+ 
+ 
+   " Skull Dice " pages 
+ 
+ 
+ Anime Manga Yu-Gi-Oh! BAM Yu-Gi-Oh! Dungeon Dice Monsters 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a2/SkullDice-EN-Manga-R.png/revision/latest/scale-to-width-down/200?cb=20150417184820', 'https://static.wikia.nocookie.net/yugioh/images/2/29/SkullDice-JP-Manga-DM-CA.png/revision/latest?cb=20140706171636', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/ba/SkullDice-JP-Manga-DM-NC.png/revision/latest/scale-to-width-down/185?cb=20140706172121', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Manga cards

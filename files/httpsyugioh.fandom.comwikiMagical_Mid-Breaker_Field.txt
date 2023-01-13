@@ -1,0 +1,237 @@
+Link: https://yugioh.fandom.com/wiki/Magical_Mid-Breaker_Field
+
+
+ 
+ 
+ Magical Mid-Breaker Field 半 魔 導 帯 域 
+ 
+ English 
+Magical Mid-Breaker Field 
+ French 
+ Champ Magique de Mi-Destruction Check translation 
+ German 
+ Magisches Brecherfeld Check translation 
+ Italian 
+ Campo Spezza-Mezzo Magico Check translation 
+ Korean 
+ 반마도대역 Check translation 
+ Portuguese 
+ Campo Mágico de Dissociação Check translation 
+ Spanish 
+ Campo Mágico a la Mitad Check translation 
+ Japanese (kana) 
+ はんまどうたいいき Check translation 
+ Japanese (base) 
+ 半魔導帯域 Check translation 
+ Japanese ( rōmaji ) 
+Hanmadō Tai'iki 
+ Japanese (translated) 
+Magical Semiconductor Field 
+ Card type 
+ Spell   
+ Property 
+ Field   
+ Passcode 
+ 71650854 
+ Card effect types 
+ 
+ 
+ Activation requirement 
+ Continuous-like 
+ Continuous-like Statuses Unlimited  ( OCG ) Limited  ( TCG   Advanced  and  Traditional ) 
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Activate  this card at the start of your  Main Phase 1  or  2 . During each player's Main Phase 1,  monsters  on the  field  cannot be  destroyed  by their opponent's card  effects , also neither player can  target  monsters their opponent  controls . You cannot activate or  Set   Field Spell Cards . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Activez cette carte au début de votre Main Phase 1 ou 2. Durant la Main Phase 1 de chaque joueur, les monstres sur le Terrain ne peuvent pas être détruits par des effets de carte de leur adversaire, et aussi, aucun joueur ne peut cibler de monstres contrôlés par son adversaire. Vous ne pouvez ni activer ni Poser de Cartes Magie de Terrain. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Aktiviere diese Karte am Beginn deiner Main Phase 1 oder 2. Während der Main Phase 1 jedes Spielers können Monster auf dem Spielfeld nicht durch Karteneffekte seines Gegners zerstört werden, zusätzlich kann kein Spieler Monster, die sein Gegner kontrolliert, als Ziel wählen. Du kannst Spielfeldzauberkarten weder aktivieren noch setzen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Attiva questa carta all'inizio della tua Main Phase 1 o 2. Durante la Main Phase 1 di ogni giocatore, i mostri sul Terreno non possono essere distrutti dagli effetti delle carte del suo avversario, inoltre nessun giocatore può scegliere come bersaglio mostri controllati dal suo avversario. Non puoi attivare o Posizionare Carte Magia Terreno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Ative este card no começo da sua Fase Principal 1 ou 2. Durante a Fase Principal 1 de cada duelista, monstros no campo não podem ser destruídos por efeitos de card do seu oponente e, além disso, nenhum duelista pode escolher como alvo monstros que seu oponente controla. Você não pode ativar ou Baixar Cards de Magia de Campo. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Activa esta carta al comienzo de tu Main Phase 1 o 2. Durante la Main Phase 1 de cada jugador, los monstruos en el Campo no pueden ser destruidos por los efectos de las cartas del adversario, y además ningún jugador puede seleccionar monstruos que controle su adversario. No puedes activar ni Colocar Cartas Mágicas de Campo. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 自分のメインフェイズ１・メインフェイズ２の開始時にこのカードを発動できる。①：お互いのメインフェイズ１の間、フィールドのモンスターは、それぞれの相手の効果の対象にならず、それぞれの相手の効果では破壊されない。②：このカードがフィールドゾーンに存在する限り、自分はフィールド魔法カードを発動・セットできない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신의 메인 페이즈 1 / 메인 페이즈 2 의 개시시에 이 카드를 발동할 수 있다. ①: 서로의 메인 페이즈 1 동안, 필드의 몬스터는, 각각 상대의 효과 대상이 되지 않으며, 각각 상대의 효과로는 파괴되지 않는다. ②: 이 카드가 필드 존에 존재하는 한, 자신은 필드 마법 카드를 발동 / 세트할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2016-08-04 TDIL-EN067 The Dark Illusion Common 2017-08-24 MP17-EN106 2017 Mega-Tin Mega Pack Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2016-08-04 TDIL-FR067 The Dark Illusion L'Illusion des Ténèbres Common 2017-08-24 MP17-FR106 2017 Mega-Tin Mega Pack 2017 Méga-Boîte Méga-Pack Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2016-08-04 TDIL-DE067 The Dark Illusion The Dark Illusion Common 2017-08-24 MP17-DE106 2017 Mega-Tin Mega Pack 2017 Mega-Tin Mega Pack Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2016-08-04 TDIL-IT067 The Dark Illusion L'Illusione Oscura Common 2017-08-24 MP17-IT106 2017 Mega-Tin Mega Pack 2017 Mega-Tin Mega Pack Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2016-08-05 TDIL-PT067 The Dark Illusion A Ilusão Negra Common 2017-08-24 MP17-PT106 2017 Mega-Tin Mega Pack Mega-Pacote da Mega-Latas 2017 Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2016-08-04 TDIL-SP067 The Dark Illusion La Ilusión Oscura Common 2017-08-24 MP17-SP106 2017 Mega-Tin Mega Pack 2017 Mega-Lata Mega Pack Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2016-04-09 TDIL-JP067 The Dark Illusion ザ・ダーク・イリュージョン Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2016-07-21 TDIL-KR067 The Dark Illusion 더 다크 일루전 Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Anti-supports   
+ Field Spell Card 
+ 
+ Archetypes  and  series   
+ Prophecy 
+ 
+ Monster / Spell / Trap  categories  
+ Cannot be targeted by card effects 
+ Cannot be destroyed by card effects 
+ Prevents activation of your Spell Cards 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12466 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Prophecy " 「 魔 導 」 Members 
+ Amores of Prophecy Ancient Sorcerer Apprentice Illusion Magician Armor Exe Breaker the Dark Magical Warrior Breaker the Magical Warrior Charioteer of Prophecy Crowley, the First Propheseer D/D Savant Copernicus D/D Savant Galilei D/D Savant Kepler D/D Savant Newton D/D Savant Nikola D/D Savant Thomas Dark Cavalry Dark Magician the Magical Knight of Dragons The Dark Magicians Dark Paladin Day-Breaker the Shining Magical Warrior Defender, the Magical Knight Ebon High Magician Ebon Illusion Magician Ebon Magician Curran Emperor of Prophecy Empress of Prophecy Endymion, the Master Magician Endymion, the Mighty Master of Magic The Fiend Megacyber Fool of Prophecy Gilti-Gearfried the Magical Steel Knight Giltia the D. Knight Giltia the D. Knight - Soul Spear Hermit of Prophecy Hierophant of Prophecy High Priestess of Prophecy The Illusory Gentleman Justice of Prophecy Magical Cavalry of Cxulub Magical Merchant Magical Scientist Master of Chaos Prophecy Destroyer Reaper of Prophecy Red-Eyes Dark Dragoon Silent Paladin Skilled Brown Magician Skilled White Magician Spellbook Magician of Prophecy Stoic of Prophecy Strength of Prophecy Supreme Arcanite Magician Temperance of Prophecy Testament of the Arcane Lords Time Wizard of Tomorrow Water Magician Wheel of Prophecy White Magician Pikeru World of Prophecy 
+ Dark Magical Circle The Grand Spellbook Tower Hidden Spellbook Mage Power Magical Contract Door Magical Mid-Breaker Field Mega Ton Magical Cannon Spellbook Library of the Crescent Spellbook Library of the Heliosphere Spellbook Organization Spellbook Star Hall Spellbook of Eternity Spellbook of Fate Spellbook of Judgment Spellbook of Knowledge Spellbook of Life Spellbook of Miracles Spellbook of Power Spellbook of Secrets Spellbook of Wisdom Spellbook of the Master Type Zero Magic Crusher 
+ Support 
+ Stoic of Prophecy 
+ Related 
+ Aleister the Invoker Aleister the Invoker of Madness Behegon Black Luster Soldier Buster Blader Crowley, the Magistus of Grimoires Dark Magician Dark Magician Dark Magician Girl Gearfried the Iron Knight Guardian of the Labyrinth Marine Beast Princess Curran Princess Pikeru Protector of the Throne Red-Eyes Black Dragon Time Wizard 
+ Trial of the Princesses 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c5/MagicalMidBreakerField-MP17-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170823082444', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/1/14/Field.svg/revision/latest/scale-to-width-down/28?cb=20120920120155']
+Categories: Duel Monsters cards, TCG cards, OCG cards

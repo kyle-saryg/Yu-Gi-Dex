@@ -1,0 +1,101 @@
+Link: https://yugioh.fandom.com/wiki/Absurd_Charge_Hole
+
+The  English                        name given is not official.  
+ 
+ Absurd Charge Hole 
+ 
+ Japanese:   不条理の虚孔 
+ Kana:   アブサード・チャージホール 
+ Romaji:   Abusādo Chāji Hōru 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ [Requirement] : When an opponent's  monster  declares an  attack  on a  face-up  monster ( Cyberse ) you  control . [Effect] : For this battle, monsters you control cannot be  destroyed , also if you take  battle damage , gain  LP  equal to double that amount. Then, end the  Battle Phase .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  SEVENS :  025 ,  026 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  SEVENS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 不条理の虚孔 
+ 【条件】  自分フィールドの表側表示モンスター（サイバース族）が攻撃を受ける相手モンスターの攻撃宣言時に発動できる。 【効果】 : この戦闘で、自分フィールドのモンスターは破壊されず、自分が戦闘ダメージを受けた場合、自分はその数値の倍だけ自分のＬＰを回復する。その後、バトルフェイズを終了する。 
+ 
+ 
+ Abusādo Chāji Hōru 
+ 
+ 
+ Decks 
+ 
+ 
+ Nail Saionji 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Cyberse 
+ 
+ Actions  
+ Activates upon attack declaration 
+ Ends the Battle Phase 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ LP   
+ You gain Life Points 
+ 
+ Miscellaneous  
+ Rush Duel 
+ Requires control of specific Type 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e1/AbsurdChargeHole-JP-Anime-SV.png/revision/latest/scale-to-width-down/200?cb=20201128195514', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

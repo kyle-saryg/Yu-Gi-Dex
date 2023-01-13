@@ -1,0 +1,121 @@
+Link: https://yugioh.fandom.com/wiki/Dimension_Sphinx_(anime)
+
+Main card page: " Dimension Sphinx " 
+ Dimension Sphinx 
+ 
+ Japanese:   ディメンション・スフィンクス 
+ Romaji:   Dimenshon Sufinkusu 
+ 
+ 
+ 
+<nomobile> 
+ en 
+ ja </nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Activate  by  targeting  1  Attack Position   monster  you  control . When the targeted monster is  attacked  by an opponent's monster with double or more than its  ATK , inflict  damage  to your opponent equal to the difference between their ATK. When the target  leaves the field ,  destroy  this card. [1] [2] 
+ 
+ 4K Media  lore<nomobile> ? :</nomobile> <mobile>(The English card uses the same lore as the OCG/TCG card. The Japanese card and reference sources state the effect differently.):</mobile>  Activate  this card by  targeting  1  face-up   Attack Position   monster  you  control . Once per  battle , during the  Battle Step , if it is  attacked  by an opponent's monster with higher  ATK : You can inflict  damage  to your opponent equal to the difference between the attacking monster's ATK and the targeted monster's. If the targeted monster  leaves the field ,  destroy  this card. 
+ Appearances
+ 
+ 
+ 
+ 
+ ' 
+ 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  The Dark Side of Dimensions ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ディメンション・スフィンクス 
+ 自分フィールドの攻撃表示モンスター１体を対象としてこのカードを発動できる。①：対象のモンスターが、そのモンスターの倍以上の攻撃力の相手モンスターに攻撃された毎に１度、そのバトルステップにこの効果を発動できる。その攻撃モンスターと対象のモンスターの攻撃力の差分のダメージを相手に与える。②：対象のモンスターがフィールドから離れた場合にこのカードは破壊される。 
+ 
+ 
+ Dimenshon Sufinkusu 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yugi Mutou  
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Dimension  
+ sphinx 
+ 
+ Actions  
+ Activates upon attack declaration 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ LP   
+ Damages your opponent 
+ 
+ 
+ 
+   " Dimension Sphinx " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+ Dimension  ディメンション a   m   Members 
+ Dimension Guardian Dimension Mirage Dimension Reflector Dimension Sphinx 
+ 
+ v e 
+ sphinx  スフィンクス a   m   Members 
+ Andro Sphinx Chronomaly Winged Sphinx Dimension Sphinx Guardian Sphinx Sphinx Teleia Theinen the Great Sphinx 
+ Related 
+ Pyramid of Light 
+ 
+ References 
+ 
+ ↑   Yu-Gi-Oh! Duel Monsters Anime Complete Guide: Millennium Memory , page 196. 
+ 
+ ↑   "Dark Side of Dimensions Anime Card Effects, Japanese Card Text Translations" . YGOrganization.com .  https://ygorganization.com/kuwabaralikesstackingthings/ . 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/3c/DimensionSphinx-EN-Anime-MOV3.png/revision/latest/scale-to-width-down/200?cb=20180826041721', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/9a/DimensionSphinx-JP-Anime-MOV3-NC.png/revision/latest/scale-to-width-down/185?cb=20170314124659', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Cards with notes

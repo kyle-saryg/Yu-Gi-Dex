@@ -1,0 +1,259 @@
+Link: https://yugioh.fandom.com/wiki/Rage_of_Kairyu-Shin
+
+
+ 
+ 
+ Rage of Kairyu-Shin 海竜神 の 怒 り 
+ 
+ English 
+Rage of Kairyu-Shin 
+ French 
+ Rage de Kairyu-Shin Check translation 
+ German 
+ Zorn von Kairyu-Shin Check translation 
+ Italian 
+ Rabbia di Kairyu-Shin Check translation 
+ Korean 
+ 리바이어던의 분노 Check translation 
+ Portuguese 
+ Fúria de Kairyu-Shin Check translation 
+ Spanish 
+ Furia de Kairyu-Shin Check translation 
+ Japanese (kana) 
+ リバイアサンのいかり Check translation 
+ Japanese (base) 
+ 海竜神の怒り Check translation 
+ Japanese ( rōmaji ) 
+Ribaiasan no Ikari 
+ Japanese (translated) 
+Rage of Leviathan 
+ Card type 
+ Spell   
+ Property 
+ Quick-Play   
+ Passcode 
+ 82685480 
+ Card effect types 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If " Umi " is on the  field :  Target   monsters  your opponent  controls , up to the number of  WATER  monsters you control whose  original Levels  are 5 or higher;  destroy  them, and if you do, the  zones  they were in cannot be used until the end of the next  turn . You can only  activate  1 "Rage of Kairyu-Shin" per  turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si "Umi" est sur le Terrain : ciblez un nombre de monstres contrôlés par votre adversaire, inférieur ou égal au nombre de monstres EAU que vous contrôlez dont le Niveau d'origine est min. 5 ; détruisez-les, et si vous le faites, les zones dans lesquelles ils étaient ne peuvent pas être utilisées jusqu'à la fin du prochain tour. Vous ne pouvez activer qu'1 "Rage de Kairyu-Shin" par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls sich „Umi“ auf dem Spielfeld befindet: Wähle Monster, die dein Gegner kontrolliert, bis zur Anzahl der WASSER Monster, die du kontrollierst und deren Grund-Stufe 5 oder höher ist; zerstöre sie und falls du dies tust, können die Zonen, in denen sie lagen, bis zum Ende des nächsten Spielzugs nicht verwendet werden. Du kannst nur 1 „Zorn von Kairyu-Shin“ pro Spielzug aktivieren. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se "Umi" è sul Terreno: scegli come bersaglio mostri controllati dal tuo avversario, fino al numero di mostri ACQUA con Livello originale 5 o superiore che controlli; distruggili e, se lo fai, le zone in cui erano non possono essere utilizzate fino alla fine del prossimo turno. Puoi attivare solo 1 "Rabbia di Kairyu-Shin" per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se "Umi" estiver no campo: escolha monstros que seu oponente controla, até o número de monstros de ÁGUA que você controla cujo Nível original seja 5 ou mais; destrua-os e, se isso acontecer, as zonas onde eles estavam não podem ser usadas até o final do próximo turno. Você só pode ativar 1 "Fúria de Kairyu-Shin" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si "Umi" está en el Campo: selecciona hasta tantos monstruos que controle tu adversario como el número de monstruos de AGUA que tú controles cuyo Nivel original sea 5 o mayor; destrúyelos y, si lo haces, hasta el final del próximo turno las zonas en las que estaban no pueden ser usadas. Sólo puedes activar 1 "Furia de Kairyu-Shin" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名のカードは１ターンに１枚しか発動できない。①：フィールドに「海」が存在する場合、自分フィールドの元々のレベルが５以上の水属性モンスターの数まで、相手フィールドのモンスターを対象として発動できる。そのモンスターを破壊する。次のターンの終了時まで、そのモンスターが存在していたゾーンは使用できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 필드에 "바다"가 존재할 경우, 자신 필드의 원래 레벨이 5 이상인 물 속성 몬스터의 수까지, 상대 필드의 몬스터를 대상으로 하고 발동할 수 있다. 그 몬스터를 파괴한다. 다음 턴의 종료시까지, 그 몬스터가 존재하고 있던 존은 사용할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2017-09-07 LEDU-EN017 Legendary Duelists Rare 2020-07-02 LDS1-EN028 Legendary Duelists: Season 1 Common 2022-06-16 LED9-EN027 Legendary Duelists: Duels from the Deep Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2017-09-07 LEDU-FR017 Legendary Duelists Duellistes Legendaires Rare 2020-07-02 LDS1-FR028 Legendary Duelists: Season 1 Duellistes Légendaires : Saison 1 Common 2022-06-16 LED9-FR027 Legendary Duelists: Duels from the Deep Duellistes Légendaires : Duels des Profondeurs Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2017-09-07 LEDU-DE017 Legendary Duelists Legendary Duelists Rare 2020-07-02 LDS1-DE028 Legendary Duelists: Season 1 Legendary Duelists: Season 1 Common 2022-06-16 LED9-DE027 Legendary Duelists: Duels from the Deep Legendary Duelists: Duels from the Deep Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2017-09-07 LEDU-IT017 Legendary Duelists Duellanti Leggendari Rare 2020-07-02 LDS1-IT028 Legendary Duelists: Season 1 Duellanti Leggendari: Stagione 1 Common 2022-06-16 LED9-IT027 Legendary Duelists: Duels from the Deep Duellanti Leggendari: Duelli delle Profondità Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2017-09-07 LEDU-PT017 Legendary Duelists Duelistas Lendários Rare 2020-07-02 LDS1-PT028 Legendary Duelists: Season 1 Duelistas Lendários: Temporada 1 Common 2022-06-16 LED9-PT027 Legendary Duelists: Duels from the Deep Duelistas Lendários: Duelos Das Profundezas Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2017-09-07 LEDU-SP017 Legendary Duelists Duelistas Legendarios Rare 2020-07-02 LDS1-SP028 Legendary Duelists: Season 1 Duelistas Legendarios: Temporada 1 Common 2022-06-16 LED9-SP027 Legendary Duelists: Duels from the Deep Duelistas Legendarios: Duelos De Las Profundidades Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2017-06-03 DP18-JP017 Duelist Pack: Legend Duelist デュエリストパック －レジェンドデュエリスト編－ Common 2021-11-20 DP26-JP028 Duelist Pack: Duelists of the Abyss デュエリストパック －深淵のデュエリスト編－ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2017-09-07 DP18-KR017 Duelist Pack: Legend Duelist 듀얼리스트 팩 -레전드 듀얼리스트 편- Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Umi 
+ WATER 
+ 
+ Archetypes  and  series   
+ Kairyu-Shin  
+ Signature move 
+ 
+ Related to  archetypes  and  series   
+ Umi  
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your opponent's Monster Cards 
+ Restricts Monster Zones 
+ 
+ Miscellaneous  
+ Requires control of specific card 
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 13178 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Kairyu-Shin " 「リバイアサン」 Members 
+ Kairyu-Shin Ocean Dragon Lord - Kairyu-Shin 
+ Fury of Kairyu-Shin Kairyu-Shin's Dark Reef Rage of Kairyu-Shin 
+ Support 
+ Ocean Dragon Lord - Kairyu-Shin 
+ Related 
+ Torrential Tribute 
+ 
+   
+ Signature move   必 殺 技 Members 
+ Ancient Gear Golem - Ultimate Pound Armityle the Chaos Phantasm - Phantom of Fury Cyber Slash Harpie Lady Firewall Dragon Darkfluid - Neo Tempest Terahertz Gandora Giga Rays the Dragon of Destruction Giltia the D. Knight - Soul Spear Harpie's Pet Dragon - Fearsome Fire Blast Kaiser Glider Golden Burst Meklord Emperor Wisel - Synchro Absorption Mystical Elf - White Lightning Number F0: Utopic Future Slash Raidraptor - Revolution Falcon - Air Raid Raviel, Lord of Phantasms - Shimmering Scraper 
+ Berserker Crush Blaze Cannon Burst Stream of Destruction Burst Stream of Destruction Cerulean Skyfire Chaos Scepter Blast Cosmic Flare Crimson Fire Cyber Energy Shock Dark Burning Attack Dark Burning Magic Dark Magic Attack Dark Magic Attack Decode Destruction Destruction Sword Flash Detonate Evolution Burst Evolution Result Burst Fist of Fate Fury of Kairyu-Shin Future Drive Hyper Blaze Inferno Fire Blast Inferno Fire Blast Light Wing Shield Magistery Alchemist Neutron Blast Obliterate!!! Photon Stream of Destruction Proton Blast Psychic Wave Rage of Kairyu-Shin Rainbow Refraction Rising Sun Slash Scrap Fist Silent Burning Silent Sword Slash Skydive Scorcher Soul Energy MAX!!! Spiral Flame Strike Spiral Spear Strike Super Strident Blaze Tachyon Transmigration Thunderforce Attack Torpedo Takedown Triangle Ecstasy Spark Vulcan Ignite Hyperdrive Wrath of Neos XYZ Hyper Cannon 
+ Related 
+ Ancient Gear Golem Armityle the Chaos Phantasm Barrel Dragon Blue-Eyes Ultimate Dragon Blue-Eyes White Dragon Blue-Eyes White Dragon Buster Blader Cyber Dragon Cyber End Dragon Cyber Harpie Lady Dark Magician Dark Magician Dark Magician Dark Magician Girl Dark Magician of Chaos Decode Talker Elemental HERO Electrum Elemental HERO Flame Wingman Elemental HERO Neos Exodia the Forbidden One Firewall Dragon Darkfluid Gaia The Fierce Knight Gaia the Dragon Champion Galaxy-Eyes Photon Dragon Gandora the Dragon of Destruction Giltia the D. Knight Hamon, Lord of Striking Thunder Harpie Lady Sisters Harpie's Pet Dragon Hyper Engine Vast Vulcan Jinzo Junk Warrior Kairyu-Shin Kaiser Glider Kuriboh Kuriboh Token Magician of Black Chaos Mystical Elf Number 39: Utopia Number F0: Utopic Future Number 107: Galaxy-Eyes Tachyon Dragon Odd-Eyes Pendulum Dragon Raidraptor - Revolution Falcon Rainbow Dark Dragon Rainbow Dragon Raviel, Lord of Phantasms Red Dragon Archfiend Red-Eyes Black Dragon Red-Eyes Black Dragon Silent Magician ... further results 
+ Magical Dimension Skyscraper 
+ 
+   
+ Umi   海 Members 
+ Forgotten Temple of the Deep A Legendary Ocean Lemuria, the Forgotten City Magellanica, the Deep Sea City Pacifis, the Phantasm City Umi 
+ Related 
+ Amazon of the Seas Amphibious Bugroth MK-11 Amphibious Bugroth MK-3 Cannonball Spear Shellfish Codarus Deepsea Warrior Doom Kraken Electric Jellyfish Elemental HERO Ocean Kairyu-Shin The Legendary Fisherman The Legendary Fisherman II Levia-Dragon - Daedalus Maiden of the Aqua Mega Fortress Whale Mermaid Knight Ocean Dragon Lord - Kairyu-Shin Ocean Dragon Lord - Neo-Daedalus Orca Mega-Fortress of Darkness Torpedo Fish Warrior of Atlantis Yorishiro of the Aqua 
+ Abyss-strom Fish Sonar Kairyu-Shin's Dark Reef Phantasm Spiral Assault Phantasm Spiral Battle Phantasm Spiral Power Rage of Kairyu-Shin Sea Stealth Attack Sea Stealth II Tornado Wall 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/b2/RageofKairyuShin-LED9-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20220620223739', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/05/Quick-Play.svg/revision/latest/scale-to-width-down/28?cb=20120920115228']
+Categories: Duel Monsters cards, TCG cards, OCG cards

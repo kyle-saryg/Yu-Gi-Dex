@@ -1,0 +1,238 @@
+Link: https://yugioh.fandom.com/wiki/Crossout_Designator
+
+
+ 
+ 
+ Crossout Designator 抹 殺 の 指 名 者 
+ 
+ English 
+Crossout Designator 
+ French 
+ Désignateur de la Suppression Check translation 
+ German 
+ Auslöschungsinformant Check translation 
+ Italian 
+ Designatore del Depennamento Check translation 
+ Korean 
+ 말살의 지명자 Check translation 
+ Portuguese 
+ Designador de Crossout Check translation 
+ Spanish 
+ Designador de Crossout Check translation 
+ Japanese (kana) 
+ まっさつのしめいしゃ Check translation 
+ Japanese (base) 
+ 抹殺の指名者 Check translation 
+ Japanese ( rōmaji ) 
+Massatsu no Shimeisha 
+ Japanese (translated) 
+Crossout Designator 
+ Card type 
+ Spell   
+ Property 
+ Quick-Play   
+ Passcode 
+ 65681983 
+ Card effect types 
+ 
+ 
+ Effect 
+ Condition Statuses Limited  ( OCG ) Unlimited  ( TCG   Advanced  and  Traditional ) 
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Declare  1 card name;  banish  1 of that declared card from your  Main Deck , and if you do,  negate  its  effects , as well as the  activated  effects and effects on the  field  of cards with the same original name, until the end of this  turn . You can only activate 1 "Crossout Designator" per turn. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Déclarez 1 nom de carte ; bannissez 1 carte déclarée depuis votre Main Deck, et si vous le faites, annulez ses effets, ainsi que les effets activés et effets sur le Terrain de cartes du même nom d'origine jusqu'à la fin de ce tour. Vous ne pouvez activer qu'1 "Désignateur de la Suppression" par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Deklariere 1 Kartennamen; verbanne 1 der deklarierten Karte von deinem Main Deck und falls du dies tust, annulliere bis zum Ende dieses Spielzugs ihre Effekte sowie die aktivierten Effekte und Effekte auf dem Spielfeld von Karten mit demselben Grund-Namen. Du kannst nur 1 „Auslöschungsinformant“ pro Spielzug aktivieren. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Dichiara il nome di 1 carta; bandisci 1 di quella carta dichiarata dal tuo Main Deck e, se lo fai, annulla i suoi effetti, così come gli effetti attivati e gli effetti sul Terreno delle carte con lo stesso nome originale, fino alla fine di questo turno. Puoi attivare solo 1 "Designatore del Depennamento" per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Declare 1 nome de card; bana 1 dos cards declarado do seu Deck Principal e, se isso acontecer, até o final deste turno, negue seus efeitos, assim como os efeitos ativados e efeitos no campo de cards com o mesmo nome original. Você só pode ativar 1 "Designador de Crossout" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Declara 1 nombre de carta; destierra de tu Deck Principal 1 de esa carta declarada y, si lo haces, hasta el final de este turno niega sus efectos, así como los efectos activados y los efectos en el Campo de cartas con el mismo nombre original. Sólo puedes activar 1 "Designador de Crossout" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名のカードは１ターンに１枚しか発動できない。①：カード名を１つ宣言して発動できる。宣言したカード１枚をデッキから除外する。ターン終了時まで、この効果で除外したカード及びそのカードと元々のカード名が同じカードの効果は無効化される。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 카드명을 1개 선언하고 발동할 수 있다. 선언한 카드 1장을 덱에서 제외한다. 턴 종료시까지, 이 효과로 제외한 카드 및 그 카드와 원래의 카드명이 같은 카드의 효과는 무효화된다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2021-09-30 MP21-EN258 2021 Tin of Ancient Battles Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2021-09-30 MP21-FR258 2021 Tin of Ancient Battles Boîte des Batailles Anciennes 2021 Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2021-09-30 MP21-DE258 2021 Tin of Ancient Battles 2021 Tin of Ancient Battles Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2021-09-30 MP21-IT258 2021 Tin of Ancient Battles Tin delle Battaglie Antiche 2021 Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2021-09-30 MP21-PT258 2021 Tin of Ancient Battles Lata das Batalhas Antigas 2021 Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2021-09-30 MP21-SP258 2021 Tin of Ancient Battles 2021 Lata de Antiguas Batallas Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2019-05-21 VJMP-JP164 V Jump July 2019 promotional card Ｖジャンプ ２０１９年 ７月号 付録カード Ultra Rare 2020-02-08 RC03-JP044 Rarity Collection Premium Gold Edition ＲＡＲＩＴＹ　ＣＯＬＬＥＣＴＩＯＮ　ＰＲＥＭＩＵＭ　ＧＯＬＤ　ＥＤＩＴＩＯＮ Super Rare 2020-02-08 RC03-JP044 Rarity Collection Premium Gold Edition ＲＡＲＩＴＹ　ＣＯＬＬＥＣＴＩＯＮ　ＰＲＥＭＩＵＭ　ＧＯＬＤ　ＥＤＩＴＩＯＮ Secret Rare 2020-02-08 RC03-JP044 Rarity Collection Premium Gold Edition ＲＡＲＩＴＹ　ＣＯＬＬＥＣＴＩＯＮ　ＰＲＥＭＩＵＭ　ＧＯＬＤ　ＥＤＩＴＩＯＮ Collector's Rare 2020-11-21 SD40-JP034 Structure Deck: Ice Barrier of the Frozen Prison ストラクチャーデッキ －凍獄の氷結界－ Common 2020-12-28 21PP-JP022 Premium Pack 2021 ＰＲＥＭＩＵＭ　ＰＡＣＫ　２０２１ Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2019-09-24 PP14-KRB35 Premium Pack Vol.14 2nd Wave 프리미엄 팩 Vol.14 2nd WAVE Normal Parallel Rare 2019-09-24 PP14-KRB35 Premium Pack Vol.14 2nd Wave 프리미엄 팩 Vol.14 2nd WAVE Extra Secret Rare 2020-06-05 RC03-KR044 Rarity Collection Premium Gold Edition 레어리티 컬렉션 2020 Super Rare 2020-06-05 RC03-KR044 Rarity Collection Premium Gold Edition 레어리티 컬렉션 2020 Secret Rare 2020-06-05 RC03-KR044 Rarity Collection Premium Gold Edition 레어리티 컬렉션 2020 Collector's Rare 2021-03-09 SD40-KR034 Structure Deck: Ice Barrier of the Frozen Prison 스트럭처 덱 -동옥의 빙결계- Common 2021-07-07 PP16-KR022 Premium Pack Vol.16 프리미엄 팩 Vol.16 Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Designator 
+ 
+ Actions  
+ Declares a card name 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of Effect Monsters 
+ Negates the effects of Spell Cards 
+ Negates the effects of Trap Cards 
+ 
+ Banished  categories  
+ Banishes from your Deck 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14627 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Designator   指 名 者 Members 
+ Abyssal Designator Appointer of the Red Lotus Armageddon Designator Called by the Grave Crossout Designator D.D. Designator Dark Designator 
+ Related 
+ Herald of the Abyss Lullaby of Obedience 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/46/CrossoutDesignator-VJMP-JP-UR.png/revision/latest/scale-to-width-down/300?cb=20190901152046', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/05/Quick-Play.svg/revision/latest/scale-to-width-down/28?cb=20120920115228']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,97 @@
+Link: https://yugioh.fandom.com/wiki/Balance_Shooter
+
+
+ Balance Blaster 
+ 
+ Japanese:   バランス・シューター 
+ Romaji:   Baransu Shūtā 
+ Translated:  Balance Shooter 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Level 
+ 
+ 
+ 1   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Trigger 
+ [  Warrior  /  Effect  ] When the  ATK  of a  face-up   monster  you  control  would change, inflict  damage  to your opponent equal to the amount of ATK that would have been changed, instead.
+ ATK  /  0     DEF  /  0   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  145 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ バランス・シューター 
+ 自分フィールド上に存在するモンスター１体の攻撃力がカードの効果で数値が下がる場合にモンスターの攻撃力を変化させずに変化する数値分だけ相手プレイヤーにダメージを与える。 
+ 
+ 
+ Baransu Shūtā 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yusei Fudo 
+ 
+ 
+ Search categories 
+ 
+ LP   
+ Damages your opponent 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/27/BalanceBlaster-JP-Anime-5D.png/revision/latest/scale-to-width-down/200?cb=20161116042335', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/BalanceBlaster-JP-Anime-5D-NC.png/revision/latest/scale-to-width-down/185?cb=20120706213459', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

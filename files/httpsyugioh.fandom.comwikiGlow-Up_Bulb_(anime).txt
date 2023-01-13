@@ -1,0 +1,112 @@
+Link: https://yugioh.fandom.com/wiki/Glow-Up_Bulb_(anime)
+
+Main card page: " Glow-Up Bulb " 
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Glow-Up Bulb 
+ 
+ Japanese:   グローアップ・バルブ 
+ Romaji:   Gurōappu Barubu 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   EARTH 
+ 
+ Level 
+ 
+ 
+ 1   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Trigger 
+ Ignition 
+ [  Plant  /  Tuner  ] During your  Standby Phase , if this card is in your  Graveyard , increase this card's  Level  by 1. You can  send  cards from the top of your  Deck  to the Graveyard equal to this card's  Level  to  Special Summon  this card from the Graveyard.
+ ATK  /  100     DEF  /  100   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  099 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ グローアップ・バルブ 
+ このカードが自分の スタンバイフェイズ 時に 墓地 に存在する場合、このカードの レベル を１つ上げる。その後、このカードのレベルと同じ枚数のカードを自分の デッキ の上から墓地へ 送り 、墓地に存在するこのカードを自分フィールド上に 特殊召喚 する事ができる。 
+ 
+ 
+ Gurōappu Barubu 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Akiza Izinski 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Activates from your Graveyard 
+ Sends from the top of your Deck to your Graveyard 
+ 
+ Stat changes  
+ This card gains Levels 
+ 
+ Summoning  categories  
+ Special Summons itself from your Graveyard 
+ 
+ 
+ 
+   " Glow-Up Bulb " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d7/GlowUpBulb-OW.png/revision/latest/scale-to-width-down/185?cb=20140102105934', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a6/GlowUpBulb-JP-Anime-5D-NC.png/revision/latest/scale-to-width-down/185?cb=20120610002654', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

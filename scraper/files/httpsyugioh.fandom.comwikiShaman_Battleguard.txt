@@ -1,0 +1,137 @@
+Link: https://yugioh.fandom.com/wiki/Shaman_Battleguard
+
+
+ The Japanese (OCG) version of this card is not a member of the " Guard "  archetype , because its Japanese name does not contain  「 Ｇ 」 .   As its English name contains "Guard", it  may  be treated a member of the "Guard" archetype at a TCG event, subject to local rulings.     
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Shaman Battleguard 
+ 
+ Japanese:   バーバリアン・マッド・シャーマン 
+ Romaji:   Bābarian Maddo Shāman 
+ Translated:  Barbarian Mad Shaman 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   DARK 
+ 
+ Level 
+ 
+ 
+ 10   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Summon 
+ Ignition 
+ Trigger 
+ Continuous 
+ [  Warrior  /  Effect  ] You can  Special Summon  this card (from your  hand ) by  Tributing  3  monsters , including at least 1 " Battleguard " monster. Once per  turn : You can  target  1 monster your opponent  controls ; take control of it. (You can only control 1 monster at a time with this  effect .) When your opponent  Summons  a monster(s) with a higher  ATK  than the monster you are controlling with this effect: You can target 1 of those monsters and the monster you are controlling with this effect; switch control of both monsters. While you control a monster with this card's effects, your opponent cannot target this card for an  attack .
+ ATK  /  2000     DEF  /  3000   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ARC-V :  030 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ARC-V ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ バーバリアン・マッド・シャーマン 
+ ①：このカードは「バーバリアン」モンスターを含むモンスター３体をリリースして手札から特殊召喚できる。②：１ターンに１度、相手フィールドのモンスター１体を対象[。。。] 
+ 
+ 
+ Bābarian Maddo Shāman 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Grizzlepike Jones 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Barian  
+ Battleguard 
+ Shaman 
+ 
+ Supports   archetypes   
+ Battleguard 
+ 
+ Actions  
+ Changes control 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ 
+ Attack  categories  
+ Manages attack targets 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ v e 
+" Barian " 「バリアン」 a   m   Members 
+ Barian Explosion Barian's Battle Buster Barian's Gateway Battleguard Howling Battleguard King Battleguard Magic Battleguard Rage Battleguard Sorcery Boulder Battleguard CXyz Barian Hope Granite Battleguard Lava Battleguard Rank-Up-Magic Barian's Force Rank-Up-Magic Barian's Force Rank-Up-Magic Limited Barian's Force Shaman Battleguard Swamp Battleguard 
+ Anti-support 
+ Barian Explosion 
+ 
+ v e 
+" Battleguard " 「バーバリアン」 a   m   +   Members 
+ Battleguard Howling Battleguard King Battleguard Magic Battleguard Rage Battleguard Sorcery Boulder Battleguard Granite Battleguard Lava Battleguard Shaman Battleguard Swamp Battleguard 
+ Support 
+ Battleguard Howling Battleguard King Battleguard Rage Battleguard Sorcery Boulder Battleguard Shaman Battleguard 
+ 
+ v e 
+" Shaman " 「シャーマン」 a   m   Members 
+ Elemental Hero Necroid Shaman Green Shaman The Legendary Fisherman The Legendary Fisherman III Orange Shaman Rainbow Shaman Red Shaman Shaman Battleguard Shaman Call 
+ Support 
+ Green Shaman Orange Shaman Red Shaman Shaman Call 
+ Related 
+ Elemental Hero Necroshade Elemental Hero Wildheart Umi Umi 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/61/ShamanBattleguard-JP-Anime-AV-NC.png/revision/latest/scale-to-width-down/185?cb=20141102155527', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

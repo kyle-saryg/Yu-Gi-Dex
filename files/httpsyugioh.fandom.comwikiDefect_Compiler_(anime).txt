@@ -1,0 +1,120 @@
+Link: https://yugioh.fandom.com/wiki/Defect_Compiler_(anime)
+
+Main card page: " Defect Compiler " 
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Defect Compiler 
+ 
+ Japanese:   ディフェクト・コンパイラー 
+ Romaji:   Difekuto Konpairā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Level 
+ 
+ 
+ 3   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Continuous 
+ Quick 
+ [  Cyberse  /  Effect  ] Once per turn , if you would take  damage  from an opponent's  card effect , place 1  Defect Counter  on this card instead (max. 1). Once per  turn  ( Quick Effect ): You can remove 1 Defect Counter from this card, then  target  1  Cyberse   monster  you  control ; it gains 800  ATK  until the end of this turn.
+ ATK  /  1000     DEF  /  1000   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  007 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ディフェクト・コンパイラー 
+ ①：１ターンに１度、相手の効果で自分がダメージを受ける場合、 
+ 代わりに、このカードにディフェクトカウンターを１つ置く。（最大１つまで） 
+②：１ターンに１度、このカードのディフェクトカウンターを１つ取り除き、 
+自分フィールドのサイバース族モンスター１体を対象として発動できる。 
+そのモンスターの攻撃力はターン終了時まで８００アップする。 
+ 
+この効果は相手ターンでも発動できる。 
+ 
+ 
+ Difekuto Konpairā 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Cyberse 
+ 
+ Counters   
+ Defect Counter 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ 
+   " Defect Compiler " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/c/cc/DefectCompiler-JP-Anime-VR.png/revision/latest?cb=20170621133650', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/8b/DefectCompiler-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20170621133650', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

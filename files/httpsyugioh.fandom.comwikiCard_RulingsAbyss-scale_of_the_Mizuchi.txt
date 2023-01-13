@@ -1,0 +1,36 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Abyss-scale_of_the_Mizuchi
+
+
+ Abyss-scale of the Mizuchi 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ OCG Rulings 
+ The effect " When a  Spell   effect  that was  activated  on your opponent's side of the  field   resolves ,  negate  that effect, then  send  this card to the  Graveyard . " does not start a Chain Link. When the effect of an opponent's  Spell Card  resolves, the effect of " Abyss-scale of the Mizuchi " is applied immediately. [1] 
+ After this card has been equipped, if the opponent activates a  Spell Card , this effect must be applied immediately when that effect resolves. [1] 
+ This effect is applied even during the  Damage Step  or  damage calculation . [1] 
+ When your opponent activates " Gateway to Chaos ", the effect of " Abyss-scale of the Mizuchi " is applied, and the effect " When this card is  activated :  Add  1 " Black Luster Soldier "  Ritual Monster  or 1 " Gaia The Fierce Knight "  monster  from your  Deck  to your  hand . " that is applied at the time of the activation is negated. Even in this case, " Gateway to Chaos " is placed in the Field Zone normally. After the activation of " Gateway to Chaos " resolves, since " Abyss-scale of the Mizuchi " was sent to the Graveyard by its own effect, the effect " When a  Spell   effect  that was  activated  on your opponent's side of the  field   resolves ,  negate  that effect " is no longer applied. Therefore, the effects " Each time a Monster Card(s) is  sent  from the hand or  field  to the  Graveyard , place 1  Spell Counter  on this card for each of those cards (max. 6). " and " Once per turn : You can remove 3 Spell Counters from this card; add 1  Ritual Spell Card  from your Deck to your hand. " of " Gateway to Chaos " are applied normally. [2] 
+ When your opponent activates " Qliphort Scout " as a Spell Card, the effect of " Abyss-scale of the Mizuchi " is applied, and any effect that is applied at the time of the activation is negated. Even in this case, " Qliphort Scout " is placed in the Pendulum Zone normally. After the activation of " Qliphort Scout " resolves, since " Abyss-scale of the Mizuchi " was sent to the Graveyard by its own effect, the effect " When a  Spell   effect  that was  activated  on your opponent's side of the  field   resolves ,  negate  that effect " is no longer applied. Therefore, the effect " Once per turn : You can  pay  800  LP ;  add  1 "Qli" card from your  Deck  to your  hand , except "Qliphort Scout". " of " Qliphort Scout " can be activated and it resolves normally. [3] 
+ If " Swords of Revealing Light " is negated by the effect of " Abyss-scale of the Mizuchi ", the effect " Flip  all  monsters  your opponent  controls   face-up . " is negated and " Abyss-scale of the Mizuchi " is sent to the Graveyard. Even in this case, " Swords of Revealing Light " remains on the field for 3 of your opponent's turns and the effect " While this card is face-up on the field, monsters your opponent controls cannot  declare  an  attack . " is applied normally. [4] 
+ References 
+ 
+ ↑  1.0   1.1   1.2   Konami OCG Card Database : Abyss-scale of the Mizuchi 
+ 
+ ↑   Konami OCG Card Database : If "Gateway to Chaos" is activated in the Field Zone while you control "Abyss-scale of the Mizuchi", how do you resolve the effect? 
+ 
+ ↑   Konami OCG Card Database : If "Qliphort Scout" is activated in the Pendulum Zone while you control "Abyss-scale of the Mizuchi", how do you resolve the effect? 
+ 
+ ↑   Konami OCG Card Database : If "Swords of Revealing Light" is negated by "Abyss-scale of the Mizuchi", how do you resolve the effect? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

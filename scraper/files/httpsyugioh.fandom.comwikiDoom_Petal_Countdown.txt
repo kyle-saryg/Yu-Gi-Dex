@@ -1,0 +1,108 @@
+Link: https://yugioh.fandom.com/wiki/Doom_Petal_Countdown
+
+
+ Doom Petal Countdown 
+ 
+ Japanese:   デス・ペタル・カウントダウン 
+ Romaji:   Desu Petaru Kauntodaun 
+ Translated:  Death Petal Countdown 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Trigger-like 
+ Continuous 
+ During your  End Phase , you can  remove from play  1  Plant - Type   monster  from your  Graveyard  to inflict 300  damage  to your opponent. When you remove from play a monster to  activate  this  effect , if there are no Plant-Type monsters in your Graveyard, inflict 300 damage to your opponent for each Plant-Type monster removed by this card's effect. If there are no Plant-Type monsters in your Graveyard,  destroy  this card.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  041 ,  075 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ デス・ペタル・カウントダウン 
+ 自分のターンの エンドフェイズ 時に自分の 墓地 に存在する 植物族 モンスター １体を ゲームから除外して 、相手ライフに３００ポイント ダメージ を与える。このカードの効果で自分の墓地に植物族モンスターが存在しなくなった時、ゲームから除外した植物族モンスターの数×３００ポイントダメージを相手ライフに与える。自分の墓地に植物族モンスターが存在しない時、このカードを 破壊 する。 
+ 
+ 
+ Desu Petaru Kauntodaun 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Akiza Izinski 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Plant 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ Banished  categories  
+ Banishes from your Graveyard 
+ Banishes from Graveyard for cost 
+ 
+ LP   
+ Damages your opponent 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/30/DoomPetalCountdown-JP-Anime-5D.png/revision/latest/scale-to-width-down/200?cb=20121108020516', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/8f/DoomPetalCountdown-OW.png/revision/latest/scale-to-width-down/185?cb=20140111174447', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

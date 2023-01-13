@@ -1,0 +1,105 @@
+Link: https://yugioh.fandom.com/wiki/Doppler_Phase_Coating
+
+
+ Doppler Phase Coating 
+ 
+ Japanese:   ドップラー・フェーズ・コーティング 
+ Romaji:   Doppurā Fēzu Kōtingu 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Effect 
+ Continuous-like 
+ Trigger-like 
+ Target  1  Cyberse   monster  you  control ;  equip  this card to it. The first time the equipped monster would be  destroyed by battle  each  turn , it is not  destroyed . If this card is  sent  from the  field  to the  GY  during the  Battle Phase : End the Battle Phase.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  019 ,  020 ,  021 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ドップラー・フェーズ・コーティング 
+ ①：自分フィールドのサイバース族モンスター１体を対象として発動できる。このカードを装備カード扱いとしてそのモンスターに装備する。装備モンスターは１ターンに１度だけ戦闘では破壊されない。②：自分・相手のバトルフェイズにこのカードがフィールドから墓地へ送られた場合に発動する。そのバトルフェイズを終了する。 
+ 
+ 
+ Doppurā Fēzu Kōtingu 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Cyberse 
+ 
+ Actions  
+ Equips self from field 
+ Activates from your Graveyard 
+ Ends the Battle Phase 
+ 
+ Monster / Spell / Trap  categories  
+ Treated as Equip Card 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/78/DopplerPhaseCoating-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20170920131346', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

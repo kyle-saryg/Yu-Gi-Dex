@@ -1,0 +1,155 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:A_Legendary_Ocean
+
+
+ A Legendary Ocean 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Anime Yu-Gi-Oh! BAM 
+ 
+ Contents 
+ 
+ 1   TCG Rulings 
+ 
+ 1.1   Mentions in Other Rulings 
+ 
+ 
+ 2   OCG Rulings 
+ 
+ 2.1   On Being "Umi" 
+ 
+ 2.1.1   In Other Rulings 
+ 
+ 
+ 2.2   On Decreasing Levels 
+ 
+ 2.2.1   In Other Rulings 
+ 
+ 
+ 
+ 
+ 3   Previously Official Rulings 
+ 
+ 3.1   On Being "Umi" 
+ 
+ 3.1.1   In Other Rulings 
+ 
+ 
+ 3.2   On Decreasing Levels 
+ 
+ 3.2.1   In Other Rulings 
+ 
+ 
+ 
+ 
+ 4   References 
+ 
+ 
+ TCG Rulings 
+ Mentions in Other Rulings 
+ Codarus : If you control " A Legendary Ocean " and " Forgotten Temple of the Deep " you only need to send 1 of them to the  Graveyard  to activate its effect. 
+ Forgotten Temple of the Deep : If you control this card and " A Legendary Ocean " you can send either to the  Graveyard  to activate the effect of " Codarus ." 
+ Psychic Tuning : Calculate damage for “ Psychic Tuning ” based on the  Level  of the monster when it was Summoned (before any effects on the field are applied). (If you Special Summon a Level 5  WATER  monster and “ A Legendary Ocean ” is active,  you take 2000 damage for “ Psychic Tuning ”.) 
+ Sea Dragon Lord Gishilnodon : “ Sea Dragon Lord Gishilnodon ” activates its effect when a monster is sent to the Graveyard that was Level 3 or lower on the field and Level 3 or lower in the Graveyard. If a Level 4 monster that is Level 3 because of “ A Legendary Ocean ” is sent to the Graveyard, the effect of “ Sea Dragon Lord Gishilnodon ” does not activate. 
+ OCG Rulings 
+ On Being " Umi " 
+ In Other Rulings 
+ Codarus : You can also send to the Graveyard " A Legendary Ocean " or a " Forgotten Temple of the Deep " which has its effect active as a  cost  to  activate  the effect of " Codarus ". [1] 
+ Codarus : If you control multiple cards like " A Legendary Ocean " and " Forgotten Temple of the Deep " that are all treated as " Umi ", then you can activate the effect of " Codarus " or " Levia-Dragon - Daedalus " or " Ocean Dragon Lord - Neo-Daedalus " by only sending one of those cards to the Graveyard; you do not send all of them. [2] 
+ Warrior of Atlantis : " Warrior of Atlantis " can add " A Legendary Ocean " from your Deck to your hand, even though the name of " A Legendary Ocean " is treated as " Umi " while in the Deck. [3] 
+ Warrior of Atlantis : Discarding " Warrior of Atlantis " from the hand to the Graveyard is a  cost  to activate its effect which adds " A Legendary Ocean " to your hand. [4] 
+ On Decreasing Levels 
+ In Other Rulings 
+ Blind Destruction : " Blind Destruction " looks at the monster's current Level.  If " A Legendary Ocean " is active, you look at the monster's new Level to see if it will be destroyed. [5] 
+ Give and Take : " Give and Take " increases your monster's Level by the Level of the Summoned monster while the Summoned monster is on the field.  If " A Legendary Ocean " is active and " Give and Take "  targets  a WATER monster that is Level 4 while in the Graveyard, the monster's Level is 3 while on the field, so you increase the Level of the other  target  by 3. [6] 
+ Montage Dragon : When Summoning " Montage Dragon ", " A Legendary Ocean " has no effect when determining its  Original ATK . [7] 
+ Relieve Monster : If a monster's Level becomes 4 by the effect of something like " Cost Down " or " A Legendary Ocean ", then you can use the effect of " Relieve Monster " to Special Summon it to the field. [8] 
+ Ritual Spell Cards : When using  Ritual Spell Cards , " A Legendary Ocean " will not reduce the number of Levels that you need to Tribute.  However, " A Legendary Ocean " will reduce the Level of the monsters being Tributed (so that you will have to Tribute more monsters to complete the Ritual Summon). [5] 
+ Sea Dragon Lord Gishilnodon : The effect of " Sea Dragon Lord Gishilnodon " will not activate if a monster is not Level 3 or lower while in the Graveyard, even if the monster is Level 3 or lower monster before being sent to the Graveyard. [9] 
+ Example: " A Legendary Ocean " turns " Mother Grizzly " into a Level 3 monster.  When it is sent to the Graveyard, the effect of " Sea Dragon Lord Gishilnodon " will not activate and its ATK will not become 3000 because " Mother Grizzly " is Level 4 while in the Graveyard. [9] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [10]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [11] [12] [13] [14] [15] [16] [17] [18] [19] 
+ 
+ On Being " Umi " 
+ You can have 3 cards total in your  Deck  between " A Legendary Ocean " and " Umi ", because this card’s name is treated as " Umi ". So you cannot have 3 copies of " Umi " and 3 copies of " A Legendary Ocean " in your Deck. 
+ The name of " A Legendary Ocean " is treated as " Umi " always and for all purposes. If " Imperial Order " is active, the card name is still treated as " Umi ". If the opponent activates " Cursed Seal of the Forbidden Spell "  targeting  " Umi ", you cannot activate " Umi " or " A Legendary Ocean " for the rest of the  Duel . 
+ When " A Legendary Ocean " is active, you may activate " Tornado Wall ". 
+ When " A Legendary Ocean " is active, " The Legendary Fisherman " on the field is unaffected by  Spell  Cards, so it does not receive the  ATK / DEF  bonus or have its  Level  reduced by 1. It still is treated as  Level  4 in your  hand , so you may Summon it without  Tribute . 
+ " A Legendary Ocean " does not have the effect of " Umi " that increases/decreases the  ATK  and  DEF  of specific monster  Types . 
+ In Other Rulings 
+ Levia-Dragon - Daedalus : You can send " A Legendary Ocean " to the  Graveyard  to  activate  " Levia-Dragon - Daedalus '" effect, but you can't send " Maiden of the Aqua ". 
+ Levia-Dragon - Daedalus : You can't send a  face-down ..." A Legendary Ocean " to  activate  " Levia-Dragon - Daedalus '" effect. 
+ Prohibition : .... " A Legendary Ocean " cannot be declared with " Prohibition ", because its name is treated as " Umi ". 
+ Tornado Wall : " Tornado Wall " may be  activated  when..." A Legendary Ocean " is  face-up  on the field. 
+ On Decreasing Levels 
+ When " A Legendary Ocean " is active, you may  Summon  or  Set   Level  5  WATER  Monsters from your hand, since they are treated as being Level 4 monsters. If you Set a Level 5  WATER  monster you do not have to show your opponent. 
+ When the effect of " Cyber Jar " is activated and " A Legendary Ocean " is on the field, you cannot  Special Summon  Level 5  WATER  monsters  picked-up  by the effect of " Cyber Jar ". This is because the effect of " A Legendary Ocean " does not include  Monster Cards  in the  Deck . 
+ If " A Legendary Ocean " and " Gravity Bind " are active, you may attack with Level 4  WATER  monsters (being treated as  Level  3). If " A Legendary Ocean " is destroyed after an attack is declared, a  replay  occurs because the  Level  4  WATER  monster can no longer attack. 
+ If " A Legendary Ocean " and " Infinite Dismissal " are active, and you Summon a  Level  4  WATER  monster (being treated as  Level  3), it will be  destroyed  during the  End Phase . 
+ In Other Rulings 
+ Ante : When " A Legendary Ocean " is active and you activate " Ante ", when you check the  Level , treat the  Levels  of  WATER  monsters in the  hand  as 1 lower for purposes of " Ante ". 
+ Cloudian - Nimbusman : If “ Cloudian - Nimbusman 's”  Level  is reduced to 4 or less by another card effect (“ A Legendary Ocean ”, “ Level Conversion Lab ,” etc.), you will not be able to  Tribute  any monsters when it is  Normal Summoned  because you do not offer Tributes to Normal Summon a Level 4 or lower monster. 
+ Cost Down : While " A Legendary Ocean " and 1 " Cost Down " are  active , your  WATER   monsters  are reduced by 3  Stars . 
+ D - Time : If you have " A Legendary Ocean " on the field and " Elemental Hero Bubbleman " is  destroyed , you can  activate  " D - Time " and add a  Level  4 or lower  monster  to your  hand . If " Elemental Hero Bubbleman " is returned to the  hand , then you can only add a  Level  3 or lower  monster  to your  hand  because the effect of " A Legendary Ocean " still applies to " Elemental Hero Bubbleman " while he's in your  hand . 
+ Level Conversion Lab : If you  activate  " Level Conversion Lab " and change " Levia-Dragon - Daedalus " to a  Level  5  monster , and " A Legendary Ocean " is on the  field , then " Levia-Dragon - Daedalus " is  Level  4. 
+ Metamorphosis : " Metamorphosis " vs. " A Legendary Ocean ": if you want to  Special Summon  a  Level  6  Fusion Monster  from your  Fusion Deck , you have to  Tribute  a  Level  7  WATER   monster  on the field because it is treated as a  Level  6. 
+ Montage Dragon : If you send a  WATER  monster from your hand to the Graveyard while " A Legendary Ocean " is active, the original Level of the monster is used and not the reduced Level. 
+ Ninjitsu Art of Transformation : If " A Legendary Ocean " is  active , your  WATER   monsters  in your  hand  are lowered by 1  level  so if you  Special Summon  from your  hand  using " Ninjitsu Art of Transformation ", you can  Summon  at 1 level lower (effectively making it  Level  +4 if looking at the original  Level ). 
+ Physical Double : If a  Field Spell Card  was  active  before  resolution  of " Physical Double " that applied to the  targeted   monster , it applies to the original  monster  and to the " Mirage Token ". So if a  Field Spell Card  was increasing  ATK  by +500, the original would get +500  ATK  and the " Mirage Token " would get an additional +500  ATK , for a +1000  ATK  bonus total for the " Mirage Token " over the printed  ATK  of the original  monster . Likewise, when " A Legendary Ocean " is  active , and you  activate  " Physical Double "  targeting  a  WATER   monster , the " Mirage Token 's"  Level  Stars are 2 fewer than the printed  Level  Stars of the original  targeted   monster . 
+ The League of Uniform Nomenclature : A  Normal Monster  on the field that has its  level  lowered to 2 or less by..." A Legendary Ocean "...is a proper  target  for " The League of Uniform Nomenclature "... 
+ Thousand Energy : If you have " A Legendary Ocean " reducing  Level  3's to  Level  2, and the effect of " Thousand Energy " is applied, and then " A Legendary Ocean " is  destroyed , the  levels  are returned to  Level  3, the  ATK / DEF  bonus from " Thousand Energy " is lost, and those  monsters  are not  destroyed  during the  End Phase . 
+ 
+ 
+ 
+ References 
+ 
+ ↑   Konami FAQ : Effect Monster > Codarus 
+ 
+ ↑   Konami FAQ : Must you send both "A Legendary Ocean" and "Forgotten Temple of the Deep" to the Graveyard to activate the effect of "Codarus"? 
+ 
+ ↑   Konami FAQ : Can "Warrior of Atlantis" add to your hand an "A Legendary Ocean" whose name is treated as "Umi"? 
+ 
+ ↑   Konami FAQ : Effect Monster > Warrior of Atlantis 
+ 
+ ↑  5.0   5.1   Konami FAQ : [Basic Rules] For cards which refer to the monster's Level, do you apply effects? 
+ 
+ ↑   Konami FAQ : When the Level of the monster Special Summoned by "Give and Take" changes, what happens to the Level of your monster? 
+ 
+ ↑   Konami FAQ : When sending monsters with altered Levels to the Graveyard to Special Summon "Montage Dragon", what does his ATK become? 
+ 
+ ↑   Konami OCG FAQ : With the effect of "Relieve Monster", can you Special Summon a monster whose Level is 4 because of some effect? 
+ 
+ ↑  9.0   9.1   Konami FAQ : Does the effect of "Sea Dragon Lord Gishilnodon" activate when a monster whose Level is reduced to 3 by "A Legendary Ocean" is sent to the Graveyard? 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

@@ -1,0 +1,567 @@
+Link: https://yugioh.fandom.com/wiki/Ritual_Spell_Card
+
+
+ 
+ Ritual Spell Card
+ 
+ 
+ 
+ Ritual Icon
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 儀 式 魔 法 カード
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ ぎしきまほうカード
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 儀式魔法カード
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Gishiki Mahō Kādo
+ 
+ 
+ 
+ Japanese (translated)
+ 
+ 
+ Ritual Magic Card
+ 
+ 
+ 
+ English
+ 
+ 
+ Ritual Spell Card Formerly: Ritual Magic Card
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Carte Magie Rituelle 
+ German : Ritualzauberkarte 
+ Italian : Carta Magia Rituale 
+ Portuguese : Card de Magia de Ritual 
+ Spanish : Carta Mágica de Ritual 
+ Korean : 의식 마법 카드 (儀式魔法 Card)  Uising Mabeop Kadeu 
+ Traditional Chinese : 儀式魔法卡  Yíshì Mófákǎ / Ji4 sik1 Mo1 faat3 kaat1 
+ Simplified Chinese : 仪式魔法卡  Yíshì Mófákǎ 
+ 
+ 
+ 
+ 
+ 
+ Lists
+ 
+ 
+ 
+ 
+ members 
+ support 
+ anti-support 
+ 
+ Ritual Spell Cards  (Japanese:  儀 式 魔 法 カード  Gishiki Mahō Kādo ), known as  Ritual Magic Cards   in the TCG prior to  Magician's Force  and the  OCG , are a type of  Spell Card  used to  Ritual Summon   Ritual Monsters .
+ Ritual Spell Cards typically require the following conditions to be met in order to be  activated :
+ 
+ A free  Spell & Trap Zone  to activate the Ritual Spell Card in, if the Ritual Spell Card is not already  Set . 
+ The corresponding Ritual Monster in your hand. Or in the stated zone, if any, and stated otherwise. 
+ Monsters in your hand and/or on your side of the  field  whose total  Levels  are at least the Level of the Ritual Monster. (Some Ritual Spell Cards require the total Levels to be exactly equal to the Level of the Ritual Monster.) 
+ A free  Monster Zone  into which to  Summon  the Ritual Monster, or at least one monster on the field that you are planning to  Tribute  for the Ritual Summon. 
+ Playing style 
+ Ritual Spell Cards tend to be demanding to use, due to their highly specific activation requirements and heavy cost, and for that reason they are arguably the least used type of Spell Cards. To make up for these design flaws, they contain numerous generic support cards to search them, such as  Pre-Preparation of Rites ,  Manju of the Ten Thousand Hands , and  Herald of the Arc Light . 
+ Historically, " Advanced Ritual Art " was often used over other Ritual Spell Cards due to its ability to use monsters from the  Main Deck  instead of the field or hand. While the aforementioned generic support cards have made it less necessary, decks like  Blue-Eyes Chaos MAX Dragon   OTK  still utilise it for its synergy with  Normal Monsters .
+ Some Ritual Spell Cards, such as those for " Divine Grace - Northwemko " and " Garlandolf, King of Destruction ", " Ritual of Grace " and " Ritual of Destruction " respectively, have secondary effects that can be activated by  banishing  the Ritual Spell Card from the Graveyard.  Gishki Aquamirror  infamously allowed itself to be returned to the deck to recover a Gishki Ritual Monster from the graveyard, allowing for  GishKill   FTK  to become possible; this would lead to the introduction of the "hard"  once per turn  restriction on modern cards. When the  Nekroz  archetype was released, graveyard effects on Ritual Spells became a staple in their design, with each of the Nekroz Ritual Spells having the ability to banish themselves and a Nekroz Ritual Monster to get another Ritual Spell. 
+ The " Impcantation ", " Gishki " and " Nekroz " archetypes support Ritual Monsters and Ritual Spell Cards in general. In addition, the " Djinn of Rituals " series of monsters supports Ritual Spell Cards by being able to banish themselves from the Graveyard in place of or in addition to the monsters required by the Ritual Spell Card.
+ 
+ Example 
+ 
+ Trivia 
+ " Forbidden Arts of the Gishki " is the only Ritual Spell Card that allows its controller to Tribute the opponent's monsters. 
+ " Gishki Photomirror " is the only Ritual Spell Card that requires its controller to pay Life Points instead of Tributing monsters. 
+ " Nekroz Kaleidoscope " is the only Ritual Spell Card that can Ritual Summon multiple Ritual Monsters simultaneously. 
+ " Machine Angel Absolute Ritual " is the only Ritual Spell that allows the player to return  Fairy  and  Warrior  monsters from the Graveyard to the deck in place of Tributes. 
+ In some early video games, Ritual Spell Cards were colored blue like Ritual Monsters in the  OCG / TCG , instead of the usual green. 
+ There are multiple Traps that function as Ritual Spells, altough they are not called "Ritual Traps"; examples are " Renewal of the World " and " Vendread Reunion ". 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/70/Ritual.png/revision/latest?cb=20140609024036', 'https://static.wikia.nocookie.net/yugioh/images/4/4a/BlackLusterRitual-YGLD-EN-C-1E.png/revision/latest/scale-to-width-down/360?cb=20170813172536']
+Categories: Types of Spell Cards

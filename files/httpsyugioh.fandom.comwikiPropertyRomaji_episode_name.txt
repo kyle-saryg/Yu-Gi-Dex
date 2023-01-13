@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Romaji_episode_name
+
+This property lists the Romaji name of an episode. This uses a  String .
+ 
+ 
+ 
+ 
+Categories:

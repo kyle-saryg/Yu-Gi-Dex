@@ -1,0 +1,47 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Fake_Explosion
+
+
+ Fake Explosion 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Anime 
+ 
+ TCG Rulings 
+ If an effect is active that prevents you from  Special Summoning , you can still activate “ Fake Explosion ” to prevent monsters from being  destroyed by battle . But you cannot Special Summon in that case. [1] 
+ If you do not have “ Summon Reactor ・SK ” in your hand or Graveyard, you can still activate “ Fake Explosion ” to prevent monsters from being destroyed by battle. However, if you are unable to Special Summon “ Summon Reactor ・SK ” because you do not have it in your hand or Graveyard, your opponent can check your hand to confirm. [1] 
+ You can only Special Summon “ Summon Reactor ・SK ” if  damage calculation  occurs. If there is a  replay , or a battle involving “ Neo-Spacian Gran Mole ”  [ sic ] , or another situation in which the opponent’s monster attacked but there was no damage calculation, you cannot Special Summon “ Summon Reactor ・SK ”. [1] 
+ The effect of “ Fake Explosion ” that Special Summons after damage calculation begins a new  chain . [1] 
+ You can activate “ Fake Explosion ” when your opponent’s monster attacks directly. [1] 
+ OCG Rulings 
+ When you activate " Fake Explosion " in response to a direct attack, after  damage calculation  you can activate the effect of " Gorz the Emissary of Darkness " in  Chain  to the effect of " Fake Explosion " which Special Summons " Summon Reactor・SK ". [2] 
+ The effect of " Fake Explosion " which Special Summons " Summon Reactor・SK " starts a  Chain . [3] 
+ The effect of " Fake Explosion " will also prevent your opponent's monster from being destroyed by battle. [4] 
+ You can activate " Fake Explosion " when your opponent declares an attack, even though no monster will be destroyed by battle. [5] 
+ If you have no " Summon Reactor・SK " in your hand/Graveyard, then you can activate " Fake Explosion ".  However, after  damage calculation ", the effect to Special Summon " Summon Reactor・SK " is not applied, and your opponent can verify your hand to confirm that you have no " Summon Reactor・SK ". [6] 
+ You can summon  Summon Reactor・SKin  face up defense or attack position. 
+ References 
+ 
+ ↑  1.0   1.1   1.2   1.3   1.4   Konami Gameplay FAQ : Crimson Crisis -- Card Rulings (version 2.0) 
+ 
+ ↑   Konami FAQ : Can "Gorz the Emissary of Darkness" be Special Summoned in chain to the effect of "Fake Explosion"? 
+ 
+ ↑   Konami FAQ : Does the effect of "Fake Explosion" which Special Summons "Summon Reactor・SK" start a Chain? 
+ 
+ ↑   Konami FAQ : Will the opponent's monster not be destroyed by battle when the effect of "Fake Explosion" is applied? 
+ 
+ ↑   Konami FAQ : Can "Fake Explosion" be activated when the opponent's monster attacks directly? 
+ 
+ ↑   Konami FAQ : Can "Fake Explosion" be activated when there is no "Summon Reactor・SK" in the hand or Graveyard? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

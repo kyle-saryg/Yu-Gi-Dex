@@ -1,0 +1,276 @@
+Link: https://yugioh.fandom.com/wiki/Superheavy_Samurai_Stealth_Ninja
+
+
+ 
+ 
+ Superheavy Samurai Stealth Ninja 超 重 忍 者 シノビ－ Ａ ・ Ｃ 
+ 
+ English 
+Superheavy Samurai Stealth Ninja 
+ French 
+ Ninja Furtif Samouraï Supralourd Check translation 
+ German 
+ Superstarker Samurai Schleichninja Check translation 
+ Italian 
+ Samurai Superpesante Furtivo Ninja Check translation 
+ Korean 
+ 초중첩자 시노비－A・C Check translation 
+ Portuguese 
+ Samurai Superpesado Ninja Furtivo Check translation 
+ Spanish 
+ Samurai Superpesado Ninja Sigiloso Check translation 
+ Japanese (kana) 
+ ちょうじゅうにんじゃシノビ－ア・シー Check translation 
+ Japanese (base) 
+ 超重忍者シノビ－Ａ・Ｃ Check translation 
+ Japanese ( rōmaji ) 
+Chōjū Ninja Shinobi-A Shī 
+ Japanese (translated) 
+Superheavy Ninja Shinobi-AC 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Machine  /  Synchro  /  Effect 
+ Level 
+ 7   
+ ATK  /  DEF 
+ 1200  /  2800 
+ Passcode 
+ 50065971 
+ Materials 
+1 Machine-Type Tuner + 1 or more non-Tuner Machine-Type monsters 
+ Card effect types 
+ 
+ 
+ Continuous 
+ Ignition 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+1  Machine - Type   Tuner  + 1 or more non-Tuner Machine-Type  monsters This card can  attack  while in  face-up   Defense Position . If it does, apply its  DEF  for  damage calculation . If you have no  Spell / Trap Cards  in your  Graveyard : You can halve this card's  original DEF  until the end of this  turn , and if you do, this card can attack your opponent  directly  this turn.  Once per turn , during the next  Standby Phase  after this card was  destroyed  by a card  effect  and  sent  to the Graveyard: You can  Special Summon  this card. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 1 Syntoniseur de Type Machine + 1 monstre non-Syntoniseur de Type Machine ou plus Cette carte peut attaquer tant qu'elle est en Position de Défense face recto. Si elle le fait, appliquez sa DEF pour le calcul des dommages. Si vous n'avez aucune Carte Magie/Piège dans votre Cimetière : vous pouvez diviser par deux la DEF d'origine de cette carte jusqu'à la fin de ce tour, et si vous le faites, cette carte peut attaquer directement votre adversaire ce tour. Une fois par tour, durant la prochaine Standby Phase après que cette carte a été détruite par un effet de carte et envoyée au Cimetière : vous pouvez Invoquer Spécialement cette carte. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 1 Empfänger vom Typ Maschine + 1 oder mehr Nicht-Empfänger-Monster vom Typ Maschine Diese Karte kann angreifen, solange sie sich in offener Verteidigungsposition befindet. Falls sie dies tut, verwende ihre DEF für die Schadensberechnung. Falls du keine Zauber-/Fallenkarten in deinem Friedhof hast: Du kannst die Grund-DEF dieser Karte bis zum Ende dieses Spielzugs halbieren und falls du dies tust, kann diese Karte deinen Gegner in diesem Spielzug direkt angreifen. Einmal pro Spielzug, während der nächsten Standby Phase, nachdem diese Karte durch einen Karteneffekt zerstört und auf den Friedhof gelegt wurde: Du kannst diese Karte als Spezialbeschwörung beschwören. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 1 Tuner di Tipo Macchina + 1 o più mostri non-Tuner di Tipo Macchina Questa carta può attaccare mentre è scoperta in Posizione di Difesa. Se lo fa, applica il suo DEF per il calcolo dei danni. Se non hai nessuna Carta Magia/Trappola nel tuo Cimitero: puoi dimezzare il DEF originale di questa carta fino alla fine di questo turno e, se lo fai, questa carta può attaccare il tuo avversario direttamente in questo turno. Una volta per turno, durante la prossima Standby Phase dopo che questa carta è stata distrutta dall'effetto di una carta e mandata al Cimitero: puoi Evocare Specialmente questa carta. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 1 Regulador do Tipo Máquina + 1 ou mais monstros não-Reguladores do Tipo Máquina Este card pode atacar enquanto estiver com a face para cima em Posição de Defesa. Se o fizer, use sua DEF para o cálculo de dano. Se você não tiver nenhum Card de Magia/Armadilha no seu Cemitério: até o final deste turno, você pode diminuir pela metade a DEF original deste card e, se isso acontecer, este card pode atacar diretamente seu oponente neste turno. Uma vez por turno, durante a próxima Fase de Apoio depois que este card for destruído por um efeito de card e enviado para o Cemitério: você pode Invocar este card por Invocação-Especial. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 1 Cantante de Tipo Máquina + 1 o más monstruos de Tipo Máquina que no sean Cantantes Esta carta puede atacar mientras esté en Posición de Defensa boca arriba. Si lo hace, aplica su DEF para el cálculo de daño. Si no tienes Cartas Mágicas/de Trampa en tu Cementerio: puedes dividir a la mitad la DEF original de esta carta hasta el final de este turno y, si lo haces, este turno esta carta puede atacar a tu adversario directamente. Una vez por turno, durante la próxima Standby Phase después de que esta carta fue destruida por efecto de una carta y mandada al Cementerio: puedes Invocar esta carta de Modo Especial. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 機械族チューナー＋チューナー以外の機械族モンスター１体以上 このカードはルール上「超重武者」カードとしても扱う。①：このカードは表側守備表示のままで攻撃できる。その場合、このカードは守備力を攻撃力として扱いダメージ計算を行う。②：自分の墓地に魔法・罠カードが存在しない場合に発動できる。このカードの元々の守備力はターン終了時まで半分になり、このターンこのカードは直接攻撃できる。③：このカードが効果で破壊され墓地へ送られた場合、次のスタンバイフェイズに発動できる。このカードを墓地から特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 기계족 튜너 + 튜너 이외의 기계족 몬스터 1장 이상 이 카드는 룰상 "초중무사" 카드로도 취급한다. ①: 이 카드는 앞면 수비 표시 그대로 공격할 수 있다. 그 경우, 이 카드는 수비력을 공격력으로 취급하고 데미지 계산을 실행한다. ②: 자신 묘지에 마법 / 함정 카드가 존재하지 않을 경우에 발동할 수 있다. 이 카드의 원래 수비력은 턴 종료시까지 절반이 되고, 이 턴에 이 카드는 직접 공격할 수 있다. ③: 이 카드가 효과로 파괴되어 묘지로 보내졌을 경우, 다음 스탠바이 페이즈에 발동할 수 있다. 이 카드를 묘지에서 특수 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2017-02-09 RATE-EN044 Raging Tempest Rare 2017-08-24 MP17-EN203 2017 Mega-Tin Mega Pack Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2017-02-09 RATE-FR044 Raging Tempest Tempête de Rage Rare 2017-08-24 MP17-FR203 2017 Mega-Tin Mega Pack 2017 Méga-Boîte Méga-Pack Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2017-02-09 RATE-DE044 Raging Tempest Raging Tempest Rare 2017-08-24 MP17-DE203 2017 Mega-Tin Mega Pack 2017 Mega-Tin Mega Pack Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2017-02-09 RATE-IT044 Raging Tempest Tempesta Furiosa Rare 2017-08-24 MP17-IT203 2017 Mega-Tin Mega Pack 2017 Mega-Tin Mega Pack Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2017-02-10 RATE-PT044 Raging Tempest Tempestade Furiosa Rare 2017-08-24 MP17-PT203 2017 Mega-Tin Mega Pack Mega-Pacote da Mega-Latas 2017 Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2017-02-09 RATE-SP044 Raging Tempest Tempestad Furiosa Rare 2017-08-24 MP17-SP203 2017 Mega-Tin Mega Pack 2017 Mega-Lata Mega Pack Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2016-10-08 RATE-JP044 Raging Tempest レイジング・テンペスト Super Rare 2016-10-08 RATE-JP044 Raging Tempest レイジング・テンペスト Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2017-01-10 RATE-KR044 Raging Tempest 레이징 템피스트 Super Rare 2017-01-10 RATE-KR044 Raging Tempest 레이징 템피스트 Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Machine 
+ 
+ Archetypes  and  series   
+ Superheavy Samurai 
+ Ninja 
+ 
+ Actions  
+ Activates from your Graveyard 
+ 
+ Stat changes  
+ Changes DEF value 
+ 
+ Summoning  categories  
+ 1+ non-Tuner Synchro Materials 
+ Requires Type specific Tuner Synchro Materials 
+ Requires Type specific non-Tuner Synchro Materials 
+ Special Summons itself from your Graveyard 
+ 
+ Attack  categories  
+ Defense Position attacker 
+ Applies DEF for damage calculation 
+ Direct attacker 
+ 
+ Miscellaneous  
+ Archetype condition 
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12779 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Superheavy Samurai Stealth Ninja " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Ninja " 「 忍 者 」 Members 
+ Air Armor Ninja Aqua Armor Ninja Armed Ninja Baku the Beast Ninja Black Dragon Ninja Blade Armor Ninja Blue Dragon Ninja Crimson Ninja Earth Armor Ninja Flame Armor Ninja Goe Goe the Gallant Ninja Green Ninja Jio the Stacked Ninja Kagero the Cannon Ninja Karakuri Ninja mdl 339 "Sazank" Karakuri Ninja mdl 7749 "Nanashick" Karakuri Ninja mdl 919 "Kuick" Lady Ninja Yae Masked Ninja Ebisu Meizen the Battle Ninja Mitsu the Insect Ninja Nazuki the Vaylantz Ninja Ninja Grandmaster Hanzo Ninja Grandmaster Saizo Ninja Grandmaster Sasuke Number 2: Ninja Shadow Mosquito Number 12: Crimson Shadow Armor Ninja Penguin Ninja Red Dragon Ninja Senior Silver Ninja Strike Ninja Superheavy Samurai Ninja Sarutobi Superheavy Samurai Stealth Ninja Tobari the Sky Ninja Twilight Ninja Getsuga, the Shogun Twilight Ninja Jogen Twilight Ninja Kagen Twilight Ninja Nichirin, the Chunin Twilight Ninja Shingetsu Upstart Golden Ninja White Dragon Ninja White Ninja Yaguramaru the Armored Ninja Yellow Dragon Ninja Yellow Ninja 
+ Support 
+ Air Armor Ninja Aqua Armor Ninja Baku the Beast Ninja Black Dragon Ninja Blade Armor Ninja Blue Dragon Ninja Flame Armor Ninja Kagero the Cannon Ninja Masked Ninja Ebisu Meizen the Battle Ninja Mitsu the Insect Ninja Ninja Grandmaster Hanzo Ninja Grandmaster Saizo Number 12: Crimson Shadow Armor Ninja Red Dragon Ninja Senior Silver Ninja Tobari the Sky Ninja Twilight Ninja Getsuga, the Shogun Twilight Ninja Jogen Twilight Ninja Kagen Twilight Ninja Nichirin, the Chunin Twilight Ninja Shingetsu Upstart Golden Ninja Yaguramaru the Armored Ninja Yellow Dragon Ninja Yellow Ninja 
+ Armor Ninjitsu Art of Freezing Armor Ninjitsu Art of Rust Mist Fuhma Shuriken Hidden Village of Ninjitsu Arts Ninjitsu Art Notebook Ninjitsu Art Notebook of Mystery Ninjitsu Art Tool - Iron Digger Ninjitsu Art of Dancing Leaves Ninjitsu Art of Decoy Ninjitsu Art of Duplication Ninjitsu Art of Mirage-Transformation Ninjitsu Art of Shadow Sealing Ninjitsu Art of Super-Transformation Ninjitsu Art of Transformation A World Shrouded in Darkness 
+ Related 
+ Ansatsu Kunoichi Nin-Ken Dog 
+ Armor Ninjitsu Art of Alchemy Ninjitsu Art of Mosquito Marching 
+ 
+   
+" Superheavy Samurai " 「 超 重 武 者 」 Members 
+ Superheavy Samurai Battleball Superheavy Samurai Beast Kyubi Superheavy Samurai Big Benkei Superheavy Samurai Big Waraji Superheavy Samurai Blowtorch Superheavy Samurai Blue Brawler Superheavy Samurai Drum Superheavy Samurai Fist Superheavy Samurai Flutist Superheavy Samurai General Coral Superheavy Samurai General Jade Superheavy Samurai Gigagloves Superheavy Samurai Helper Superheavy Samurai Kabuto Superheavy Samurai Magnet Superheavy Samurai Ninja Sarutobi Superheavy Samurai Ogre Shutendoji Superheavy Samurai Prepped Defense Superheavy Samurai Scales Superheavy Samurai Scarecrow Superheavy Samurai Soulbang Cannon Superheavy Samurai Soulbeads Superheavy Samurai Soulbreaker Armor Superheavy Samurai Soulbuster Gauntlet Superheavy Samurai Soulclaw Superheavy Samurai Soulfire Suit Superheavy Samurai Soulhorns Superheavy Samurai Soulpeacemaker Superheavy Samurai Soulpiercer Superheavy Samurai Soulshield Wall Superheavy Samurai Stealth Ninja Superheavy Samurai Steam Train King Superheavy Samurai Swordmaster Musashi Superheavy Samurai Swordsman Superheavy Samurai Thief Superheavy Samurai Transporter Superheavy Samurai Trumpeter Superheavy Samurai Wagon Superheavy Samurai Warlord Susanowo 
+ Support 
+ Superheavy Samurai Battleball Superheavy Samurai Beast Kyubi Superheavy Samurai Big Benkei Superheavy Samurai Blowtorch Superheavy Samurai Drum Superheavy Samurai Fist Superheavy Samurai Flutist Superheavy Samurai General Coral Superheavy Samurai General Jade Superheavy Samurai Gigagloves Superheavy Samurai Helper Superheavy Samurai Kabuto Superheavy Samurai Magnet Superheavy Samurai Ninja Sarutobi Superheavy Samurai Ogre Shutendoji Superheavy Samurai Scales Superheavy Samurai Scarecrow Superheavy Samurai Soulbang Cannon Superheavy Samurai Soulbeads Superheavy Samurai Soulbreaker Armor Superheavy Samurai Soulbuster Gauntlet Superheavy Samurai Soulclaw Superheavy Samurai Soulfire Suit Superheavy Samurai Soulhorns Superheavy Samurai Soulpeacemaker Superheavy Samurai Soulpiercer Superheavy Samurai Soulshield Wall Superheavy Samurai Steam Train King Superheavy Samurai Swordsman Superheavy Samurai Thief Superheavy Samurai Transporter Superheavy Samurai Trumpeter Superheavy Samurai Warlord Susanowo 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/91/SuperheavySamuraiStealthNinja-MP17-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20170823085159', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

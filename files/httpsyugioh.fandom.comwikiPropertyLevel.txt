@@ -1,0 +1,9 @@
+Link: https://yugioh.fandom.com/wiki/Property:Level
+
+This  number  property lists the  Level  for a  Monster Card .
+ See also  Property:?Level ,  Property:Level string ,  Property:Rank ,  Property:?Rank ,  Property:Rank string ,  Property:Stars ,  Property:?Stars ,  Property:Stars string 
+ 
+ 
+ 
+ 
+Categories:

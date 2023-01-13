@@ -1,0 +1,9 @@
+Link: https://yugioh.fandom.com/wiki/Property:Level_string
+
+This property is a  string  equivalent to  Property:Level , combined with  Property:?Level .
+ See also  Property:Level ,  Property:?Level ,  Property:Rank ,  Property:?Rank ,  Property:Rank string ,  Property:Stars ,  Property:?Stars ,  Property:Stars string 
+ 
+ 
+ 
+ 
+Categories:

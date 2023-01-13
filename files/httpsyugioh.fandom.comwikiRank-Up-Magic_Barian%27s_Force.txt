@@ -1,0 +1,321 @@
+Link: https://yugioh.fandom.com/wiki/Rank-Up-Magic_Barian%27s_Force
+
+The  Croatian                        name given is not official.  ( card names ) 
+ 
+ This card's written lore in the Chinese has not yet been transcribed; if you are able to read Japanese, please help out by adding an accurate Japanese lore from  this image  to this page. The current Chinese lore listed here is only a reconstruction and may not be fully correct.     
+ 
+ 
+ 
+ 
+ 
+ Rank-Up-Magic Barian's Force ＲＵＭ －バリアンズ・フォース 
+ 
+ English 
+Rank-Up-Magic Barian's Force 
+ Chinese 
+ 升階魔法－巴利安之力 Check translation 
+ French 
+ Force de Barian Magie-Rang-Plus Check translation 
+ German 
+ Rangsteigerungszauber Barians Kraft Check translation 
+ Italian 
+ Alza-Rango-Magico Forza di Barian Check translation 
+ Korean 
+ RUM －바리언즈 포스 Check translation 
+ Portuguese 
+ Magia de Aumento de Classe Força de Barian Check translation 
+ Spanish 
+ Magia de Subida de Rango Fuerza de Barian Check translation 
+ Japanese (kana) 
+ ランクアップマジック－バリアンズ・フォース Check translation 
+ Japanese (base) 
+ ＲＵＭ－バリアンズ・フォース Check translation 
+ Japanese ( rōmaji ) 
+Rankuappu Majikku - Barianzu Fōsu 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 47660516 
+ Card effect types 
+ 
+ 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Target  1  face-up   Xyz Monster  you  control ;  Special Summon  from your  Extra Deck , 1 " Number C " or " CXyz "  monster  with the same  Type  as that monster you control but 1  Rank  higher, by using it as the  Xyz Material . (This Special Summon is treated as an  Xyz Summon . Xyz Materials  attached  to it also become Xyz Materials on the  Summoned  monster.) Then, if possible,  detach  1 Xyz Material from a monster your opponent controls and attach it to the Summoned monster as an Xyz Material. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Ciblez 1 Monstre Xyz face recto que vous contrôlez ; Invoquez Spécialement 1 monstre "Numéro C" ou "CXyz" du même Type que le monstre que vous contrôlez mais avec 1 Rang de plus depuis votre Extra Deck, en l'utilisant comme le Matériel Xyz. (Cette Invocation Spéciale est traitée comme une Invocation Xyz. Les Matériels Xyz attachés au monstre deviennent aussi des Matériels Xyz du monstre Invoqué.) Puis, si possible, détachez 1 Matériel Xyz d'un monstre contrôlé par votre adversaire et attachez-le au monstre Invoqué comme Matériel Xyz. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wähle 1 offenes Xyz-Monster, das du kontrollierst; beschwöre 1 „Nummer C“- oder „CXyz“-Monster mit demselben Typ wie das Monster, das du kontrollierst, aber einem um 1 höheren Rang als Spezialbeschwörung von deinem Extra Deck, indem du es als Xyz-Material verwendest. (Diese Spezialbeschwörung wird als Xyz-Beschwörung behandelt. Daran angehängtes Xyz-Material wird ebenfalls zu Xyz-Material des beschworenen Monsters.) Hänge dann, falls möglich, 1 Xyz-Material von einem Monster ab, das dein Gegner kontrolliert, und hänge es als Xyz-Material an das beschworene Monster an. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Scegli come bersaglio 1 Mostro Xyz scoperto che controlli; Evoca Specialmente dal tuo Extra Deck 1 mostro "Numero C" o "CXyz" con lo stesso Tipo di quel mostro che controlli ma di 1 Rango superiore, utilizzandolo come Materiale Xyz. (Questa Evocazione Speciale viene considerata una Evocazione Xyz. I Materiali Xyz attaccati ad esso diventano Materiali Xyz anche sul Mostro Evocato.) Poi, se possibile, stacca 1 Materiale Xyz da un mostro controllato dal tuo avversario e attaccalo al mostro Evocato come Materiale Xyz. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Escolha 1 Monstro Xyz com a face para cima que você controla; Invoque por Invocação-Especial do seu Deck Adicional, 1 "Número C" ou monstro "CXyz" com o mesmo Tipo que esse monstro que você controla, mas de 1 Classe maior, usando-o como Matéria Xyz. (Esta Invocação-Especial é considerada uma Invocação-Xyz. Matérias Xyz associadas ao monstro também se tornam Matérias Xyz no monstro Invocado.) Depois, se possível, desassocie 1 Matéria Xyz de um monstro que seu oponente controla e associe-a ao monstro Invocado como uma Matéria Xyz. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Selecciona 1 Monstruo Xyz boca arriba que controles; Invoca de Modo Especial, desde tu Deck Extra, 1 monstruo "Número C" o "CXyz" con el mismo Tipo que ese monstruo que controlas pero 1 Rango mayor, usando val monstruo como el Material Xyz (esta Invocación Especial se trata como una Invocación Xyz. Los Materiales Xyz acoplados a ese monstruo también se convierten en Materiales Xyz del monstruo Invocado) y después, si es posible, desacopla 1 Material Xyz de un monstruo que controle tu adversario y acóplaselo al monstruo Invocado como Material Xyz. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 自分フィールド上のエクシーズモンスター１体を選択して発動できる。選択したモンスターと同じ種族でランクが１つ高い「 Ｃ Ｎｏ． 」または「 ＣＸ 」と名のついたモンスター１体を、選択したモンスターの上に重ねてエクシーズ召喚扱いとしてエクストラデッキから特殊召喚する。その後、相手フィールド上にエクシーズ素材が存在する場合、相手フィールド上のエクシーズ素材１つを、この効果で特殊召喚したエクシーズモンスターの下に重ねてエクシーズ素材とする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신 필드 위의 엑시즈 몬스터 1장을 선택하고 발동할 수 있다. 선택한 몬스터와 같은 종족으로 랭크가 1개 높은 "CNo.(카오즈 넘버즈)" 또는 "CX(카오스엑시즈)"라는 이름이 붙은 몬스터 1장을, 선택한 몬스터 위에 겹쳐 엑시즈 소환 취급하여 엑스트라 덱에서 특수 소환한다. 그 후, 상대 필드 위에 엑시즈 소재가 존재할 경우, 상대 필드 위의 엑시즈 소재 1개를, 이 효과로 특수 소환한 엑시즈 몬스터의 아래에 겹쳐 엑시즈 소재로 한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2013-05-17 LTGY-EN060 Lord of the Tachyon Galaxy Ultra Rare 2013-05-17 LTGY-EN060 Lord of the Tachyon Galaxy Ultimate Rare 2013-11-22 CT10-EN015 2013 Collectible Tins Wave 2 Super Rare 2014-08-28 MP14-EN036 2014 Mega-Tin Mega Pack Ultra Rare 2015-03-19 PGL2-EN058 Premium Gold: Return of the Bling Gold Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2013-05-16 LTGY-FR060 Lord of the Tachyon Galaxy Le Seigneur de la Galaxie Tachyon Ultra Rare 2013-05-16 LTGY-FR060 Lord of the Tachyon Galaxy Le Seigneur de la Galaxie Tachyon Ultimate Rare 2013-11-21 CT10-FR015 2013 Collectible Tins Wave 2 Boîtes à Collectionner 2013 Vague 2 Super Rare 2014-08-28 MP14-FR036 2014 Mega-Tin Mega Pack 2014 Méga-Boîte Méga-Pack Ultra Rare 2015-03-19 PGL2-FR058 Premium Gold: Return of the Bling Gold Premium 2 Gold Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2013-05-16 LTGY-DE060 Lord of the Tachyon Galaxy Lord of the Tachyon Galaxy Ultra Rare 2013-05-16 LTGY-DE060 Lord of the Tachyon Galaxy Lord of the Tachyon Galaxy Ultimate Rare 2013-11-21 CT10-DE015 2013 Collectible Tins Wave 2 Sammel-Tins 2013 Wave 2 Super Rare 2014-08-28 MP14-DE036 2014 Mega-Tin Mega Pack 2014 Mega-Tin Mega Pack Ultra Rare 2015-03-19 PGL2-DE058 Premium Gold: Return of the Bling Premium Gold 2 Gold Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2013-05-16 LTGY-IT060 Lord of the Tachyon Galaxy Il Signore della Galassia Tachionica Ultra Rare 2013-05-16 LTGY-IT060 Lord of the Tachyon Galaxy Il Signore della Galassia Tachionica Ultimate Rare 2013-11-21 CT10-IT015 2013 Collectible Tins Wave 2 Tin da Collezione 2013 Emissione 2 Super Rare 2014-08-28 MP14-IT036 2014 Mega-Tin Mega Pack 2014 Mega-Tin Mega Pack Ultra Rare 2015-03-19 PGL2-IT058 Premium Gold: Return of the Bling Premium Oro 2 Gold Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2013-05-17 LTGY-PT060 Lord of the Tachyon Galaxy Senhor da Galáxia Táquion Ultra Rare 2013-05-17 LTGY-PT060 Lord of the Tachyon Galaxy Senhor da Galáxia Táquion Ultimate Rare 2013-11-22 CT10-PT015 2013 Collectible Tins Wave 2 Lata Colecionável 2013 Super Rare 2014-08-29 MP14-PT036 2014 Mega-Tin Mega Pack Mega-Pacote da Mega-Latas 2014 Ultra Rare 2015-03-20 PGL2-PT058 Premium Gold: Return of the Bling Première Ouro 2: Um Mar de Ouro Gold Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2013-05-16 LTGY-SP060 Lord of the Tachyon Galaxy Señor de la Galaxia Taquiónica Ultra Rare 2013-05-16 LTGY-SP060 Lord of the Tachyon Galaxy Señor de la Galaxia Taquiónica Ultimate Rare 2013-11-21 CT10-SP015 2013 Collectible Tins Wave 2 Latas Coleccionables 2013 Lanzamiento 2 Super Rare 2014-08-28 MP14-SP036 2014 Mega-Tin Mega Pack 2014 Mega-Lata Mega Pack Ultra Rare 2015-03-19 PGL2-SP058 Premium Gold: Return of the Bling Dorada Premium 2 Gold Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2013-02-16 LTGY-JP060 Lord of the Tachyon Galaxy ＬＯＲＤ ＯＦ ＴＨＥ ＴＡＣＨＹＯＮ ＧＡＬＡＸＹ Ultra Rare 2013-02-16 LTGY-JP060 Lord of the Tachyon Galaxy ＬＯＲＤ ＯＦ ＴＨＥ ＴＡＣＨＹＯＮ ＧＡＬＡＸＹ Ultimate Rare 
+ 
+ 
+ 
+ 
+ 
+   Traditional Chinese 
+ 
+ 
+ Release date Card code Set Traditional Chinese name Rarity March 5, 2016 LTGY-TC060 Lord of the Tachyon Galaxy 銀河帝王 Ultra Rare March 5, 2016 LTGY-TC060 Lord of the Tachyon Galaxy 銀河帝王 Secret Rare March 5, 2016 LTGY-TC060 Lord of the Tachyon Galaxy 銀河帝王 Ultimate Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2013-05-01 LTGY-KR060 Lord of the Tachyon Galaxy 로드 오브 더 타키온 갤럭시 Ultra Rare 2013-05-01 LTGY-KR060 Lord of the Tachyon Galaxy 로드 오브 더 타키온 갤럭시 Ultimate Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Xyz Monster 
+ 
+ Anti-supports   
+ Xyz Monster 
+ 
+ Archetypes  and  series   
+ Barian's 
+ Rank-Up-Magic 
+ 
+ Supports   archetypes   
+ CXyz 
+ Number C 
+ 
+ Related to  archetypes  and  series   
+ Xyz 
+ Number 
+ 
+ Actions  
+ Transfers 
+ Detaches Xyz Materials for effect 
+ Attaches as Xyz Material 
+ 
+ Summoning  categories  
+ Rank-Up by 1 Rank 
+ Special Summons from your Extra Deck 
+ Treats Special Summon as Xyz Summon 
+ Xyz Evolution 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 10541 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Rank-Up-Magic Barian's Force " pages 
+ 
+ 
+ Anime Anime Yu-Gi-Oh! D Team ZEXAL 
+ 
+ 
+ 
+   
+" Barian's " 「バリアンズ」 Members 
+ Barian's Chaos Draw Bariantopia Rank-Up-Magic Barian's Force Rank-Up-Magic Limited Barian's Force 
+ Support 
+ Seventh Ascension 
+ 
+   
+" CXyz " 「 ＣＸ 」 Members 
+ CXyz Barian Hope CXyz Battleship Cherry Blossom CXyz Coach Lord Ultimatrainer CXyz Comics Hero Legend Arthur CXyz Dark Fairy Cheer Girl CXyz Mechquipped Djinn Angeneral CXyz N.As.Ch. Knight CXyz Simon the Great Moral Leader CXyz Skypalace Babylon 
+ Support 
+ Bariantopia Rank-Up-Magic Admiration of the Thousands Rank-Up-Magic Argent Chaos Force Rank-Up-Magic Barian's Force Resurgam Xyz 
+ Related 
+ Battlecruiser Dianthus Coach King Giantrainer Comics Hero King Arthur Fairy Cheer Girl Mechquipped Angineer N.As.H. Knight Norito the Moral Leader Skypalace Gangaridai Zubaba General 
+ 
+   
+" Number " 「 Ｎｏ. 」 Members 
+ Number 1: Numeron Gate Ekam Number 2: Ninja Shadow Mosquito Number 2: Numeron Gate Dve Number 3: Cicada King Number 3: Numeron Gate Trini Number 4: Numeron Gate Catvari Number 4: Stealth Kragen Number 5: Doom Chimera Dragon Number 6: Chronomaly Atlandis Number 7: Lucky Straight Number 8: Heraldic King Genom-Heritage Number 9: Dyson Sphere Number 10: Illumiknight Number 11: Big Eye Number 12: Crimson Shadow Armor Ninja Number 13: Embodiment of Crime Number 14: Greedy Sarameya Number 15: Gimmick Puppet Giant Grinder Number 16: Shock Master Number 17: Leviathan Dragon Number 18: Heraldry Patriarch Number 19: Freezadon Number 20: Giga-Brilliant Number 21: Frozen Lady Justice Number 22: Zombiestein Number 23: Lancelot, Dark Knight of the Underworld Number 24: Dragulas the Vampiric Dragon Number 25: Force Focus Number 26: Spaceway Octobypass Number 27: Dreadnought Dreadnoid Number 28: Titanic Moth Number 29: Mannequin Cat Number 30: Acid Golem of Destruction Number 31: Embodiment of Punishment Number 32: Shark Drake Number 33: Chronomaly Machu Mech Number 34: Terror-Byte Number 35: Ravenous Tarantula Number 36: Chronomaly Chateau Huyuk Number 37: Hope Woven Dragon Spider Shark Number 38: Hope Harbinger Dragon Titanic Galaxy Number 39: Utopia Number 39: Utopia Beyond Number 39: Utopia Double Number 39: Utopia Rising Number 39: Utopia Roots Number 40: Gimmick Puppet of Strings Number 41: Bagooska the Terribly Tired Tapir Number 42: Galaxy Tomahawk Number 43: Manipulator of Souls Number 44: Sky Pegasus Number 45: Crumble Logos the Prophet of Demolition Number 46: Dragluon Number 47: Nightmare Shark Number 48: Shadow Lich Number 49: Fortune Tune Number 50: Blackship of Corn Number 51: Finisher the Strong Arm Number 52: Diamond Crab King Number 53: Heart-eartH Number 54: Lion Heart Number 55: Gogogo Goliath Number 56: Gold Rat Number 57: Tri-Head Dust Dragon Number 58: Burner Visor Number 59: Crooked Cook Number 60: Dugares the Timeless Number 61: Volcasaurus Number 62: Galaxy-Eyes Prime Photon Dragon Number 63: Shamoji Soldier Number 64: Ronin Raccoon Sandayu Number 65: Djinn Buster Number 66: Master Key Beetle Number 67: Pair-a-Dice Smasher Number 68: Sanaphond the Sky Prison Number 69: Heraldry Crest Number 70: Malevolent Sin Number 71: Rebarian Shark Number 72: Shogi Rook Number 73: Abyss Splash Number 74: Master of Blades Number 75: Bamboozling Gossip Shadow Number 76: Harmonizer Gradielle Number 77: The Seven Sins Number 78: Number Archive Number 79: Battlin' Boxer Nova Kaiser Number 80: Rhapsody in Berserk Number 81: Superdreadnought Rail Cannon Super Dora Number 82: Heartlandraco Number 83: Galaxy Queen Number 84: Pain Gainer Number 85: Crazy Box Number 86: Heroic Champion - Rhongomyniad Number 87: Queen of the Night Number 88: Gimmick Puppet of Leo Number 89: Diablosis the Mind Hacker Number 90: Galaxy-Eyes Photon Lord Number 91: Thunder Spark Dragon Number 92: Heart-eartH Dragon Number 93: Utopia Kaiser ... further results 
+ Support 
+ Abyss Shark Astral Kuriboh CXyz Barian Hope CXyz N.As.Ch. Knight Chronomaly Tuspa Rocket Crystal Shark Don Thousand/Monster A Galaxy Satellite Dragon Galaxy-Eyes Afterglow Dragon N.As.H. Knight Number 6: Chronomaly Atlandis Number 39: Utopia Rising Number 43: Manipulator of Souls Number 71: Rebarian Shark Number 75: Bamboozling Gossip Shadow Number 78: Number Archive Number 93: Utopia Kaiser Number 97: Draglubion Number 99: Utopia Dragonar Number 99: Utopic Dragon Number F0: Utopic Future Slash Number S0: Utopic ZEXAL Number 100: Numeron Dragon Number C106: Giant Red Hand Stealth Kragen Spawn ZS - Ouroboros Sage ZS - Utopic Sage 
+ Barian's Chaos Draw Bariantopia Chronomaly Temple - Trilithon Don Thousand's Throne Don Thousand/Spell B Glorious Numbers Last Hope Numbers Memories of Hope Number Wall Numbers Evaille Numbers Overlay Boost Numbers Protection Numeron Chaos Ritual Numeron Creation Purge Ray Rank-Up-Magic - The Seventh One Rank-Up-Magic Quick Chaos Seventh Eternity Winning Formula Zexal Alliance 
+ Anti-support 
+ N.As.H. Knight Number F0: Utopic Future Slash Number C6: Chronomaly Chaos Atlandis Numeral Hunter Tellarknight Ptolemaeus 
+ Galaxy Hundred Xyz Universe 
+ Related 
+ Astraltopia DZW - Chimera Clad Don Thousand/Monster B Don Thousand/Monster C Full Armored Crystalzero Lancer Galaxy-Eyes Photon Dragon Numeral Hunter SZW - Fenrir Sword V Salamander ZW - Asura Strike ZW - Dragonic Halberd ZW - Eagle Claw ZW - Leo Arms ZW - Lightning Blade ZW - Phoenix Bow ZW - Sleipnir Mail ZW - Tornado Bringer ZW - Ultimate Shield ZW - Unicorn Spear 
+ The Door of Destiny Last Counter Ninjitsu Art of Mosquito Marching Numeron Network Rank-Down-Magic Numeron Fall Rank-Up-Magic Barian's Force Rank-Up-Magic Limited Barian's Force Rank-Up-Magic Numeron Force 
+ 
+   
+" Number C " 「 ＣＮｏ. 」 Members 
+ Number C1: Numeron Chaos Gate Sunya Number C5: Chaos Chimera Dragon Number C6: Chronomaly Chaos Atlandis Number C9: Chaos Dyson Sphere Number C15: Gimmick Puppet Giant Hunter Number C32: Shark Drake Veiss Number C39: Utopia Ray Number C39: Utopia Ray V Number C39: Utopia Ray Victory Number C40: Gimmick Puppet of Dark Strings Number C43: High Manipulator of Chaos Number C62: Neo Galaxy-Eyes Prime Photon Dragon Number C65: King Overfiend Number C69: Heraldry Crest of Horror Number C73: Abyss Supra Splash Number C80: Requiem in Berserk Number C88: Gimmick Puppet Disaster Leo Number C92: Heart-eartH Chaos Dragon Number C96: Dark Storm Number C1000: Numerounius Number C101: Silent Honor DARK Number C102: Archfiend Seraph Number C103: Ragnafinity Number C104: Umbral Horror Masquerade Number C105: Battlin' Boxer Comet Cestus Number C106: Giant Red Hand Number C107: Neo Galaxy-Eyes Tachyon Dragon Ultimate Dragonic Utopia Ray Ultimate Leo Utopia Ray 
+ Support 
+ Bariantopia Don Thousand's Throne Rank-Up-Magic - The Seventh One Rank-Up-Magic Admiration of the Thousands Rank-Up-Magic Argent Chaos Force Rank-Up-Magic Barian's Force Rank-Up-Magic Limited Barian's Force Rank-Up-Magic Numeron Force Rank-Up-Magic Quick Chaos Resurgam Xyz 
+ Related 
+ CXyz Barian Hope CXyz N.As.Ch. Knight DZW - Chimera Clad Don Thousand/Monster A Don Thousand/Monster B Don Thousand/Monster C Galaxy-Eyes Photon Dragon N.As.H. Knight Number 5: Doom Chimera Dragon Number 6: Chronomaly Atlandis Number 9: Dyson Sphere Number 15: Gimmick Puppet Giant Grinder Number 32: Shark Drake Number 39: Utopia Number 40: Gimmick Puppet of Strings Number 43: Manipulator of Souls Number 62: Galaxy-Eyes Prime Photon Dragon Number 65: Djinn Buster Number 69: Heraldry Crest Number 73: Abyss Splash Number 80: Rhapsody in Berserk Number 88: Gimmick Puppet of Leo Number 92: Heart-eartH Dragon Number 96: Dark Mist Number 101: Silent Honor ARK Number 102: Star Seraph Sentry Number 103: Ragnazero Number 104: Masquerade Number 105: Battlin' Boxer Star Cestus Number 106: Giant Hand Number 107: Galaxy-Eyes Tachyon Dragon Number iC1000: Numerounius Numerounia V Salamander ZW - Asura Strike ZW - Dragonic Halberd ZW - Eagle Claw ZW - Leo Arms ZW - Lightning Blade ZW - Phoenix Bow ZW - Sleipnir Mail ZW - Tornado Bringer ZW - Ultimate Shield ZW - Unicorn Spear 
+ Winning Formula 
+ 
+   
+" Rank-Up-Magic " 「 ＲＵＭ 」 Members 
+ Hyper Rank-Up-Magic Utopiforce Phantom Knights' Rank-Up-Magic Force The Phantom Knights' Rank-Up-Magic Launch Rank-Up-Magic - The Seventh One Rank-Up-Magic Admiration of the Thousands Rank-Up-Magic Argent Chaos Force Rank-Up-Magic Astral Force Rank-Up-Magic Barian's Force Rank-Up-Magic Cipher Ascension Rank-Up-Magic Doom Double Force Rank-Up-Magic Limited Barian's Force Rank-Up-Magic Numeron Force Rank-Up-Magic Quick Chaos Rank-Up-Magic Raid Force Rank-Up-Magic Raptor's Force Rank-Up-Magic Revolution Force Rank-Up-Magic Skip Force Rank-Up-Magic Soul Shave Force Rank-Up-Magic Zexal Force 
+ Support 
+ Number 71: Rebarian Shark Number 99: Utopic Dragon Number S0: Utopic ZEXAL Number C88: Gimmick Puppet Disaster Leo Raidraptor - Necro Vulture Raidraptor - Revolution Falcon - Air Raid Raidraptor - Tribute Lanius Raidraptor - Wise Strix ZS - Ascended Sage 
+ Bariantopia Puppet Parade Raider's Unbreakable Mind Rank-Up-Magic Raid Force Raptor's Ultimate Mace Resurgam Xyz Seventh Ascension Zexal Construction 
+ Related 
+ Don Thousand's Throne Marshalling Field Outrigger Extension Rank-Down-Magic Numeron Fall Xyz Revive Splash 
+ 
+   
+" Xyz " 「エクシーズ」 Members 
+ Arc Rebellion Xyz Dragon Black Fang Magician CXyz Barian Hope CXyz Battleship Cherry Blossom CXyz Coach Lord Ultimatrainer CXyz Comics Hero Legend Arthur CXyz Dark Fairy Cheer Girl CXyz Mechquipped Djinn Angeneral CXyz N.As.Ch. Knight CXyz Simon the Great Moral Leader CXyz Skypalace Babylon Dark Rebellion Xyz Dragon Dark Requiem Xyz Dragon Xyz Agent Xyz Avenger Xyz Remora Xyz Slidolphin Xyz-Raypierce 
+ Pendulum Xyz Resurgam Xyz Wonder Xyz Xyz Bento Xyz Block Xyz Burst Xyz Change Tactics Xyz Dimension Splash Xyz Double Back Xyz Effect Xyz Encore Xyz Energy Xyz Gift Xyz Import Xyz Override Xyz Reborn Xyz Reception Xyz Reflect Xyz Revenge Xyz Revenge Shuffle Xyz Reversal Xyz Revive Splash Xyz Shift Xyz Soul Xyz Territory Xyz Tribalrivals Xyz Unit Xyz Universe Xyz Veil Xyz Wrath Xyz Xtreme !! 
+ Support 
+ Astraltopia 
+ Generation Force 
+ Related 
+ Battlecruiser Dianthus Coach King Giantrainer Comics Hero King Arthur Dark Anthelion Dragon Fairy Cheer Girl Mechquipped Angineer Norito the Moral Leader Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Skypalace Gangaridai Supreme King Dragon Dark Rebellion Zubaba General 
+ Don Thousand/Trap A Rank-Up-Magic Barian's Force 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/1/14/RankUpMagicBariansForce-PGL2-EN-GUR-1E.png/revision/latest/scale-to-width-down/300?cb=20150320145220', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Card pages with a lore in need of transcription, Duel Monsters cards, TCG cards, OCG cards

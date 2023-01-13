@@ -1,0 +1,383 @@
+Link: https://yugioh.fandom.com/wiki/The_Accumulator
+
+
+ 
+ 
+ The Accumulator ザ・アキュムレーター 
+ 
+ English 
+The Accumulator 
+ French 
+ L'Accumulateur Check translation 
+ German 
+ Der Akkumulator Check translation 
+ Italian 
+ L'Accumulatore Check translation 
+ Korean 
+ 더 어큐뮬레이터 Check translation 
+ Portuguese 
+ O Acumulador Check translation 
+ Spanish 
+ El Acumulador Check translation 
+ Japanese 
+ ザ・アキュムレーター Check translation 
+ Japanese ( rōmaji ) 
+Za Akyumurētā 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Thunder  /  Effect 
+ Level 
+ 1   
+ ATK  /  DEF 
+ 0  /  0 
+ Passcode 
+ 70410002 
+ Card effect types 
+ 
+ 
+ Continuous Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Gains  ATK  equal to the combined  Link Ratings  of all  Link Monsters  on the  field  x 300. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Gagne une ATK égale à la somme des Classifications Lien de tous les Monstres Lien sur le Terrain x 300. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Erhält ATK in Höhe der Summe der Linkzahlen aller Linkmonster auf dem Spielfeld x 300. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Guadagna ATK pari alla somma delle Classificazioni Link di tutti i Mostri Link sul Terreno x 300. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Ganha ATK igual ao Valor Link combinada de todos os Monstros Link no campo x 300. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Gana ATK igual a los Rating de Enlace combinados de todos los Monstruos de Enlace en el Campo x 300. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：このカードの攻撃力は、フィールドのリンクモンスターのリンクマーカーの数×３００アップする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ① : 이 카드의 공격력은, 필드의 링크 몬스터의 링크 마커의 수 × 300 올린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2017-10-19  
+ CIBR-EN031   
+ Circuit Break 
+ Common 
+ 
+ 
+ 2018-08-30  
+ MP18-EN120   
+ 2018 Mega-Tin Mega Pack 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2017-10-19  
+ CIBR-FR031   
+ Circuit Break 
+ Le Coupe-Circuit  
+ Common 
+ 
+ 
+ 2018-08-30  
+ MP18-FR120   
+ 2018 Mega-Tin Mega Pack 
+ 2018 Méga-Boîtes Méga Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2017-10-19  
+ CIBR-DE031   
+ Circuit Break 
+ Circuit Break  
+ Common 
+ 
+ 
+ 2018-08-30  
+ MP18-DE120   
+ 2018 Mega-Tin Mega Pack 
+ 2018 Mega-Tin Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2017-10-19  
+ CIBR-IT031   
+ Circuit Break 
+ Distruzione del Circuito  
+ Common 
+ 
+ 
+ 2018-08-30  
+ MP18-IT120   
+ 2018 Mega-Tin Mega Pack 
+ Mega-Tin 2018 Mega-Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2017-10-19  
+ CIBR-PT031   
+ Circuit Break 
+ Ruptura de Circuito  
+ Common 
+ 
+ 
+ 2018-08-30  
+ MP18-PT120   
+ 2018 Mega-Tin Mega Pack 
+ Mega-Pacote da Mega-Latas 2018  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2017-10-19  
+ CIBR-SP031   
+ Circuit Break 
+ Destrucción del Circuito  
+ Common 
+ 
+ 
+ 2018-08-30  
+ MP18-SP120   
+ 2018 Mega-Tin Mega Pack 
+ Mega-Latas 2018 Mega-Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2017-07-08  
+ CIBR-JP031   
+ Circuit Break 
+ サーキット・ブレイク  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2017-09-27  
+ CIBR-KR031   
+ Circuit Break 
+ 서킷 브레이크  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Link Monster 
+ 
+ Anti-supports   
+ Link Monster 
+ 
+ Stat changes  
+ This card gains ATK 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 13247 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/af/TheAccumulator-CIBR-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20171020172041', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836']
+Categories: Duel Monsters cards, TCG cards, OCG cards

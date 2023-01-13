@@ -1,0 +1,199 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_-_Episode_067
+
+
+ 
+ Yu-Gi-Oh! - Episode 067 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kanji  
+ 神 を 越 えろ！  究極 の 無限 ループ 
+ 
+ 
+ Rōmaji 
+ Kami wo Koero! Kyūkyoku no Mugen Rūpu 
+ 
+ 
+ Japanese translation 
+ Surpass the God! Ultimate Infinite Loop 
+ 
+ 
+ English 
+ Mime Control, Part 3 
+ 
+ 
+ Number 
+ 067 
+ 
+ 
+ Air date ( ja ) 
+ August 7, 2001 
+ 
+ 
+ Air date ( en ) 
+ March 15, 2003 
+ 
+ 
+ 
+ Music 
+ 
+ Opening ( ja ) 
+ " S H U F F L E " 
+ 
+ 
+ Ending ( ja ) 
+ " The Afternoon of that Day " 
+ 
+ 
+ Opening ( en ) 
+ " Season two theme " 
+ 
+ 
+ Ending ( en ) 
+ " Season two theme " 
+ 
+ 
+ 
+ Staff 
+ 
+ Screenwriter 
+ Atsushi Maekawa 
+ 
+ 
+ Director 
+ Johei Matsura 
+ 
+ 
+ Storyboard 
+ Johei Matsura 
+ 
+ 
+ Animation  dir. 
+ Masaki Kudo 
+ 
+ 
+ Art director 
+ Mitsuharu Miyamae 
+ 
+ 
+ 
+ Chronology 
+ 
+ Listing 
+ Yu-Gi-Oh!  episode listing  (season 2) 
+ 
+ 
+ 
+ Previous 
+ Next 
+ 
+ 
+ " Mime Control, Part 2 " 
+ " Legendary Fisherman, Part 1 " 
+ 
+ 
+ 
+ 
+
+" Mime Control, Part 3 ", known as " Surpass the God! Ultimate Infinite Loop " in the Japanese version, is the sixty-seventh episode of the  Yu-Gi-Oh!  anime . It first aired in Japan on August 7, 2001, and in the United States on March 15, 2003.
+ 
+ Contents 
+ 
+ 1   Major Events 
+ 2   Featured Duel: Yami Yugi vs. Strings, Part 3 
+ 3   Epilogue 
+ 4   Changes to the dub 
+ 5   Trivia 
+ 6   Featured cards 
+ 7   Notes 
+ 
+ 
+ Major Events 
+ Strings Duels with " Slifer the Sky Dragon ". 
+ Yami Yugi wins by forcing Strings to  Deck Out , thus winning "Slifer". 
+ Featured Duel: Yami Yugi vs. Strings, Part 3 
+ Duel continues from the previous episode . 
+ Yami Yugi  has 2100  Life Points  remaining and controls no cards.
+ Strings  has 3000 Life Points remaining and controls " Revival Jam " (1500/500) in Defense Position and " Slifer the Sky Dragon " (9000/9000) in Attack Position and " Jam Defender ", " Card of Safe Return ", " Infinite Cards ".
+ Turn 18: Yami Yugi 
+ Yami Yugi 's hand contains " Berfomet ", " Big Shield Gardna ", and " Alpha The Magnet Warrior ". Yami Yugi draws " Monster Reborn " and subsequently  Sets  it. He then  Normal Summons  "Big Shield Gardna" (100/2600) in  Defense Position . Since "Big Shield Gardna" was summoned in Defense Position, the effect of " Slifer the Sky Dragon " activates, decreasing the DEF of "Big Shield Gardna" by 2000 ("Big Shield Gardna": 100/2600 → 600).
+ Turn 19: Strings 
+Strings draws ("Slifer": 9000 → 10000/9000 → 10000). During Strings' Standby Phase, the effect of " Lightforce Sword " expires, letting  Strings  return the card that "Lightforce Sword"  removed from play  back to his  hand  ("Slifer": 10000 → 11000/10000 → 11000). "Slifer"  attacks  and  destroys  "Big Shield Gardna".
+ Turn 20: Yami Yugi 
+ Yami Yugi  draws " Brain Control ". He then  activates  his face-down "Monster Reborn" to revive " Buster Blader " (2600 → 3100/2300) in  Attack Position . The effect of " Card of Safe Return " then activates ("Slifer": 11000 → 14000/11000 → 14000). Since "Buster Blader" was  Summoned  in  Attack Position , the effect of "Slifer" activates, decreasing the  ATK  of "Buster Blader" by 2000 ("Buster Blader": 3100 → 1100/2300).
+ "Buster Blader"  attacks  "Slifer", but the effect of " Jam Defender " redirects the attack to " Revival Jam ". "Buster Blader" destroys "Revival Jam", but "Revival Jam" revives itself (1500/500) in Defense Position due to its effect. The effect of "Card of Safe Return" then activates ("Slifer": 14000 → 17000/14000 → 17000).
+ 
+       The infinite loop in effect: attack, revive, draw three, repeat.     
+ By anime mechanics,  Yami Yugi   activates  "Brain Control" to take  control  of " Revival Jam " as it is reviving,  Special Summoning  it to his side of the field instead of Strings'. As a monster was Summoned to Yami Yugi's field, the effect of "Slifer" activates, decreasing the DEF of "Revival Jam" by 2000 ("Revival Jam": 1500/500 → 0) and destroying it as its DEF was dropped to 0. "Revival Jam" revives itself (1500/500), by anime mechanics, back to Yami Yugi's side of the field in Defense Position due to its effect. The effect of "Card of Safe Return" activates ("Slifer": 17000 → 20000/17000 → 20000). (Note: From this scene, it can be conjectured that "Slifer's" anime effect does not activate if a new monster enters Yugi's field without being Summoned there, but rather "Brain Control's" anime mechanics allow it to take control of a monster that is in the middle of being Special Summoned. If the former were true, Yugi could have activated "Brain Control" immediately after drawing it, without having to Summon a monster to attack "Revival Jam".)
+ As a monster was Summoned to Yami Yugi's field, the effect of "Slifer" activates, decreasing the DEF of "Revival Jam" by 2000 and then destroying it as before. "Revival Jam" revives itself (1500/500) to Yami Yugi's side of the field in Defense Position due to its effect. The effect of "Card of Safe Return" activates ("Slifer": 20000 → 23000/20000 → 23000).
+ 
+       Strings Decks out.     
+ As a monster was Summoned to Yami Yugi's field, the effect of "Slifer" activates, decreasing the DEF of "Revival Jam" by 2000 and then destroying it as before. "Revival Jam" revives itself (1500/500) to Yami Yugi's side of the field in Defense Position due to its effect. The effect of "Card of Safe Return" activates ("Slifer": 23000 → 26000/23000 → 26000).
+ As a monster was Summoned to Yami Yugi's field, the effect of "Slifer" activates, decreasing the DEF of "Revival Jam" by 2000 and then destroying it as before. "Revival Jam" revives itself (1500/500) to Yami Yugi's side of the field in Defense Position due to its effect. The effect of "Card of Safe Return" activates ("Slifer": 26000 → .../26000 → ...).
+ The above  infinite loop  continues until Strings  Decks out . (For dramatic effect, "Slifer" is shown collapsing as though defeated, though it was never touched.)
+ 
+ Epilogue 
+ Yami Yugi " obtains " Slifer the Sky Dragon " and a Locator Card from  Strings  as per the Battle City Rules. Kaiba then demands a Duel to see who gets to keep "Slifer the Sky Dragon", but Marik briefly regains control of Strings to tell Yami Yugi that he is on his way to Battle City and that he is now going to target Yugi's own friends to turn them into his mind slaves and get what he wants. Yami Yugi calls off his Duel with Kaiba for the moment, so he can find his friends before Marik does so first.
+ 
+ Changes to the dub 
+ In the original, Yami tells Marik that Slifer's attack power is not infinite because its limit is determined by the number of cards in the holder's deck. In the dub, he claims that Slifer's weakness lies in its Second Mouth attack. 
+ When Téa teases Joey about being scared of Dueling Kaiba, in a scene with his back to her as she hold up one finger, the first yellow marks of being annoyed do not appear in the dub, although the second smaller yellow marks do appear in both versions during a scene with his face shown to her as she turns her head to  Solomon . 
+ The final shot of Marik riding away up the street is overlaid with a shot of Marik and Yugi facing each other in the dub. 
+ Trivia 
+ If Strings was using the minimum  Deck  size of 40 cards, "Slifer's" maximum ATK would have been 28,000 before Strings Decked out (Strings had 5 cards on his field and 7 in his Graveyard that he already played, leaving all the rest in his hand). The manga did the math correctly by replacing " Pot of Greed " with the card " Lightforce Sword " banished. 
+ The highest "Slifer's" ATK is shown increasing to is 23,000, which would have been the highest displayed finite ATK of any monster in the series until " Cyber End Dragon " achieved 36,900 ATK in  episode 52  of  Yu-Gi-Oh! GX . 
+ Featured cards 
+ The following cards appeared in this episode. Cards in italics debuted here.
+ 
+ 
+ Yugi Muto/Yami Yugi Monsters   
+ Normal Monsters 
+ Alpha The Magnet Warrior [Notes 1] 
+ Effect Monsters 
+ Berfomet [Notes 1] 
+ Big Shield Gardna 
+ Buster Blader Magic   &  Traps   
+ Magic 
+ Brain Control 
+ Monster Reborn 
+ 
+ Strings Monsters   
+ Normal Monsters 
+ Humanoid Slime [Notes 2] 
+ Effect Monsters 
+ Revival Jam 
+ Slifer the Sky Dragon Fusion Deck   
+ Fusion Monsters 
+ Humanoid Worm Drake [Notes 3] Magic   &  Traps   
+ Magic 
+ Card of Safe Return  x2 [Notes 3] 
+ Infinite Cards 
+ Jam Breeding Machine [Notes 2] [Notes 3] 
+ Traps 
+ Jam Defender  x2 [Notes 2] [Notes 3] 
+ Notes 
+ 
+ ↑  1.0   1.1   This card can be seen in  Yugi 's hand. 
+ 
+ ↑  2.0   2.1   2.2   This card can be seen after Strings lost the Duel. 
+ 
+ ↑  3.0   3.1   3.2   3.3   This card can be seen after Strings drops his cards. 
+ 
+ 
+ v e 
+ Yu-Gi-Oh!   season 2 episodes 
+ #050 " The Mystery Duelist, Part 1 " #051 " The Mystery Duelist, Part 2 " #052 " The Past is Present " #053 " Steppin' Out " #054 " Obelisk the Tormentor " #055 " Stalked by the Rare Hunters " #056 " Yugi vs. The Rare Hunter, Part 1 " #057 " Yugi vs. The Rare Hunter, Part 2 " #058 " Espa Roba - The ESP Duelist, Part 1 " #059 " Espa Roba - The ESP Duelist, Part 2 " #060 " The Master of Magicians, Part 1 " #061 " The Master of Magicians, Part 2 " #062 " The Master of Magicians, Part 3 " #063 " Playing with a Parasite, Part 1 " #064 " Playing with a Parasite, Part 2 " #065 " Mime Control, Part 1 " #066 " Mime Control, Part 2 " #067 " Mime Control, Part 3 " #068 " Legendary Fisherman, Part 1 " #069 " Legendary Fisherman, Part 2 " #070 " Double Duel, Part 1 " #071 " Double Duel, Part 2 " #072 " Double Duel, Part 3 " #073 " Double Duel, Part 4 " #074 " The Rescue " #075 " Friends 'Til the End, Part 1 " #076 " Friends 'Til the End, Part 2 " #077 " Friends 'Til the End, Part 3 " #078 " Friends 'Til the End, Part 4 " #079 " Shadow of a Duel " #080 " Lights, Camera, Duel " #081 " Let the Finals Begin! " #082 " The Dark Spirit Revealed, Part 1 " #083 " The Dark Spirit Revealed, Part 2 " #084 " The Dark Spirit Revealed, Part 3 " #085 " Rage of the Egyptian Gods " #086 " Awakening of Evil, Part 1 " #087 " Awakening of Evil, Part 2 " #088 " Awakening of Evil, Part 3 " #089 " Awakening of Evil, Part 4 " #090 " Mind Game: Mai Vs. Marik, Part 1 " #091 " Mind Game: Mai Vs. Marik, Part 2 " #092 " Mind Game: Mai Vs. Marik, Part 3 " #093 " A Duel with Destiny: Kaiba Vs. Ishizu, Part 1 " #094 " A Duel with Destiny: Kaiba Vs. Ishizu, Part 2 " #095 " The Tomb-Keeper's Secret " #096 " Showdown in the Shadows, Part 1 " #097 " Showdown in the Shadows, Part 2 " 
+ 
+ 
+ << S1 
+ S3 >>  •   S4 >>  •   S5 >> 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/81/Yugioh_episode_67.png/revision/latest/scale-to-width-down/350?cb=20171126174858', 'https://static.wikia.nocookie.net/yugioh/images/1/10/Infinite_loop.gif/revision/latest/scale-to-width-down/150?cb=20150209081853', 'https://static.wikia.nocookie.net/yugioh/images/d/da/Deck_Out.png/revision/latest/scale-to-width-down/150?cb=20150209073305']
+Categories: Yu-Gi-Oh! episodes

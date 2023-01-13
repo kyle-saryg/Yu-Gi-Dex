@@ -1,0 +1,121 @@
+Link: https://yugioh.fandom.com/wiki/Driven_Daredevil_(anime)
+
+Main card page: " Driven Daredevil " 
+ The Japanese (OCG) version of this card is not a member of the " Red "  archetype , because its Japanese name does not contain  「レッド」 .   As its English name contains "Red", it  may  be treated a member of the "Red" archetype at a TCG event, subject to local rulings.     
+ Driven Daredevil 
+ 
+ Japanese:   不退の荒武者 
+ Romaji:   Futai no Aramusha 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   EARTH 
+ 
+ Level 
+ 
+ 
+ 7   
+ 
+ Synchro Material 
+ 
+ 
+ 
+ 1  Warrior - Type   Tuner  + 1 or more non-Tuner Warrior-Type  monsters 
+ 
+ [  Warrior  /  Synchro  /  Effect  ] 
+ 1  Warrior - Type   Tuner  + 1 or more non-Tuner Warrior-Type  monsters 
+ If this card  battles  an opponent's monster that has more  ATK  than this card, it cannot be  destroyed by battle . Then,  destroy  the monster that battled this card at the end of the  Damage Step .
+ ATK  /  2400     DEF  /  2100   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  093 ,  106 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 不退の荒武者 
+ 
+ 戦士族 チューナー ＋チューナー以外の戦士族モンスター１体以上
+ 
+ このカードの 攻撃力 よりも高い攻撃力を持つモンスターに 攻撃 を受けた場合、このカードは破壊されず、 ダメージ計算 後、相手の攻撃モンスターを 破壊 する。 
+ 
+ 
+ Futai no Aramusha 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Elsworth 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Warrior 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your opponent's Monster Cards 
+ Destroys battling monster after damage calculation 
+ 
+ Summoning  categories  
+ 1 or more non-Tuner Synchro Materials 
+ Requires Type specific Tuner Synchro Materials 
+ Requires Type specific non-Tuner Synchro Materials 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ 
+ 
+   " Driven Daredevil " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/13/DrivenDaredevil-OW.png/revision/latest/scale-to-width-down/185?cb=20140118051030', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/55/DrivenDaredevil-JP-Anime-5D-NC.png/revision/latest/scale-to-width-down/185?cb=20120609125605', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

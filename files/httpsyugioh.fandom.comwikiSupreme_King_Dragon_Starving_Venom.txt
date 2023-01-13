@@ -1,0 +1,319 @@
+Link: https://yugioh.fandom.com/wiki/Supreme_King_Dragon_Starving_Venom
+
+
+ 
+ 
+ Supreme King Dragon Starving Venom 覇 王 眷 竜 スターヴ・ヴェノム 
+ 
+ English 
+Supreme King Dragon Starving Venom 
+ French 
+ Venin Affamé, Roi Suprême du Dragon Check translation 
+ German 
+ Oberster König Drache Hungergift Check translation 
+ Italian 
+ Re Supremo Drago Veleno Affamato Check translation 
+ Korean 
+ 패왕권룡 스타브 베놈 Check translation 
+ Portuguese 
+ Rei Supremo Dragão de Peçonha Insaciável Check translation 
+ Spanish 
+ Rey Supremo Dragón Hambriento Venenoso Check translation 
+ Japanese (kana) 
+ はおうけんりゅうスターヴ・ヴェノム Check translation 
+ Japanese (base) 
+ 覇王眷竜スターヴ・ヴェノム Check translation 
+ Japanese ( rōmaji ) 
+Haōkenryū Sutāvu Venomu 
+ Japanese (translated) 
+Supreme King Servant Dragon Starve Venom 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Dragon  /  Fusion  /  Effect 
+ Level 
+ 8   
+ ATK  /  DEF 
+ 2800  /  2000 
+ Passcode 
+ 43387895 
+ Materials 
+2 DARK Pendulum Monsters 
+ Card effect types 
+ 
+ 
+ Summon 
+ Ignition Statuses Unlimited  ( OCG ) Forbidden  ( TCG   Advanced ) 
+ Limited  ( TCG   Traditional ) 
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+2  DARK   Pendulum Monsters Must be either  Fusion Summoned , or  Special Summoned  by  Tributing  the above cards you  control  (in which case you do not use " Polymerization ").  Once per turn : You can  target  1 other  monster  on the  field  or in the  GY ; until the  End Phase , this card's name becomes that monster's original name, and replace this  effect  with that monster's original effects, also for the rest of this  turn , if your monster attacks a  Defense Position  monster, inflict  piercing   battle damage  to your opponent. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 2 Monstres Pendule TÉNÈBRES Uniquement Invocable par Fusion, ou Spécialement en Sacrifiant les cartes ci-dessus que vous contrôlez (auquel cas vous n'utilisez pas "Polymérisation"). Une fois par tour : vous pouvez cibler 1 autre monstre sur le Terrain ou dans le Cimetière ; jusqu'à la End Phase, le nom de cette carte devient le nom d'origine du monstre et remplacez cet effet avec les effets d'origine du monstre, et aussi, le reste de ce tour, si votre monstre attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 2 FINSTERNIS Pendelmonster Muss entweder als Fusionsbeschwörung beschworen werden, oder als Spezialbeschwörung beschworen werden, indem du die oben aufgeführten Karten, die du kontrollierst, als Tribut anbietest (in diesem Fall wird „Polymerisation“ nicht verwendet). Einmal pro Spielzug: Du kannst 1 anderes Monster auf dem Spielfeld oder im Friedhof wählen; bis zur End Phase wird der Name dieser Karte derselbe wie der Grund-Name des Monsters und ersetze diesen Effekt durch die Grund-Effekte des Monsters, zusätzlich falls dein Monster für den Rest dieses Spielzugs ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 2 Mostri Pendulum OSCURITÀ Deve essere Evocato tramite Fusione, oppure Evocato Specialmente offrendo come Tributo le carte sopra indicate che controlli (nel qual caso non utilizzi "Polimerizzazione"). Una volta per turno: puoi scegliere come bersaglio 1 altro mostro sul Terreno o nel Cimitero; fino alla End Phase, il nome di questa carta diventa il nome originale di quel mostro, e sostituisci questo effetto con gli effetti originali di quel mostro, inoltre per il resto di questo turno, se un tuo mostro attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 2 Monstros Pêndulo de TREVAS Deve ser Invocado por Invocação-Fusão, ou Invocado por Invocação-Especial ao oferecer como Tributo os cards acima que você controla (e nesse caso, você não usa "Polimerização"). Uma vez por turno: você pode escolher 1 outro monstro no campo ou no Cemitério; até a Fase Final, o nome deste card se torna o nome original desse monstro e troque este efeito pelos efeitos originais desse monstro e, além disso, pelo resto deste turno, se um monstro seu atacar um monstro em Posição de Defesa, cause dano de batalha perfurante ao seu oponente. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 2 Monstruos de Péndulo de OSCURIDAD Debe ser Invocado por Fusión o Invocado de Modo Especial Sacrificando las cartas mencionadas arriba que controles (en cuyo caso no usas "Polimerización"). Una vez por turno: puedes seleccionar otro monstruo en el Campo o el Cementerio; hasta la End Phase, el nombre de esta carta se convierte en el nombre original de ese monstruo, y remplaza este efecto con los efectos originales de ese monstruo, y además, por el resto de este turno, si tu monstruo ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 闇属性 Ｐ モンスター×２ このカードは融合召喚及び以下の方法でのみ特殊召喚できる。●自分フィールドの上記カードをリリースした場合に ＥＸ デッキから特殊召喚できる（「融合」は必要としない）。①：１ターンに１度、このカード以外の自分または相手のフィールド・墓地のモンスター１体を対象として発動できる。エンドフェイズまで、このカードはそのモンスターと同じ、元々のカード名・効果を得る。このターン、自分のモンスターが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えた分だけ相手に戦闘ダメージを与える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 어둠 속성 펜듈럼 몬스터 × 2 이 카드는 융합 소환 및 이하의 방법으로만 특수 소환할 수 있다. ●자신 필드의 상기 카드를 릴리스했을 경우에 엑스트라 덱에서 특수 소환할 수 있다("융합"은 필요로 하지 않는다). ①: 1턴에 1번, 이 카드 이외의 자신 또는 상대의 필드 / 묘지의 몬스터 1장을 대상으로 하고 발동할 수 있다. 엔드 페이즈까지, 이 카드는 그 몬스터와 같은, 원래의 카드명 / 효과를 얻는다. 이 턴에, 자신 몬스터가 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘은 만큼만 상대에게 전투 데미지를 준다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2017-08-03 COTD-EN038 Code of the Duelist Rare 2017-10-05 LEDD-ENC26 Legendary Dragon Decks Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2017-08-03 COTD-FR038 Code of the Duelist Code des Duellistes Rare 2017-10-05 LEDD-FRC26 Legendary Dragon Decks Decks du Dragon Legendaire Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2017-08-03 COTD-DE038 Code of the Duelist Code of the Duelist Rare 2017-10-05 LEDD-DEC26 Legendary Dragon Decks Legendary Dragon Decks Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2017-08-03 COTD-IT038 Code of the Duelist Codice del Duellante Rare 2017-10-05 LEDD-ITC26 Legendary Dragon Decks I Deck Drago Leggendario Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2017-08-22 COTD-PT038 Code of the Duelist Código do Duelista Rare 2017-10-05 LEDD-PTC26 Legendary Dragon Decks Decks de Dragões Lendários Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2017-08-03 COTD-SP038 Code of the Duelist Código del Duelista Rare 2017-10-05 LEDD-SPC26 Legendary Dragon Decks Barajas Dragón Legendario Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2017-04-15 COTD-JP038 Code of the Duelist コード・オブ・ザ・デュエリスト Rare 2019-11-09 DP23-JP054 Duelist Pack: Legend Duelist 6 デュエリストパック －レジェンドデュエリスト編６－ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2017-07-13 COTD-KR038 Code of the Duelist 코드 오브 더 듀얼리스트 Rare 2020-02-05 DP23-KR054 Duelist Pack: Legend Duelist 6 듀얼리스트 팩 － 레전드듀얼리스트 편 6 － Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ DARK 
+ Pendulum Monster 
+ 
+ Archetypes  and  series   
+ Starving Venom 
+ Supreme King 
+ Supreme King Dragon 
+ Venom 
+ 
+ Related to  archetypes  and  series   
+ Four Dimension Dragons 
+ Fusion Dragon 
+ 
+ Actions  
+ Tributes Fusion Materials for Contact Fusion 
+ 
+ Stat changes  
+ Changes own name while on the field 
+ Copies name 
+ Copies effects 
+ 
+ Summoning  categories  
+ 2 Fusion Materials 
+ Requires Attribute specific Fusion Materials 
+ Requires Pendulum Monsters as Fusion Materials 
+ Nomi 
+ Special Summons itself from your Extra Deck 
+ Can be Special Summoned either by Fusion Summon or Contact Fusion 
+ 
+ Attack  categories  
+ Piercing 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 13077 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Supreme King Dragon Starving Venom " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+ Four Dimension Dragons   ４ ＤＤ Members 
+ Clear Wing Synchro Dragon Dark Rebellion Xyz Dragon Odd-Eyes Pendulum Dragon Starving Venom Fusion Dragon 
+ Related 
+ All-Eyes Phantom Dragon Astrograph Sorcerer Beast-Eyes Pendulum Dragon Brave-Eyes Pendulum Dragon Chronograph Sorcerer Clear Wing Fast Dragon Crystal Clear Wing Synchro Dragon Crystal Wing Synchro Dragon Dark Anthelion Dragon Dark Requiem Xyz Dragon Greedy Venom Fusion Dragon Hi-Speedroid Clear Wing Rider Odd-Eyes Dragon Odd-Eyes Pendulumgraph Dragon Odd-Eyes Phantasma Dragon Odd-Eyes Phantom Dragon Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Odd-Eyes Revolution Dragon Odd-Eyes Venom Dragon Odd-Eyes Wing Dragon Performapal Celestial Magician Rune-Eyes Pendulum Dragon Starving Venemy Dragon Starving Venemy Lethal Dose Dragon Supreme King Dragon Clear Wing Supreme King Dragon Dark Rebellion Supreme King Dragon Odd-Eyes Supreme King Dragon Starving Venom Supreme King Z-ARC 
+ Pendulum Dimension 
+ 
+   
+" Fusion Dragon " 「フュージョン・ドラゴン」 Members 
+ Greedy Venom Fusion Dragon Purple Poison Magician Starving Venom Fusion Dragon Starving Venom Predapower Fusion Dragon 
+ Support 
+ Astrograph Sorcerer Chronograph Sorcerer 
+ The Supreme King's Soul 
+ Related 
+ Odd-Eyes Venom Dragon Starving Venemy Dragon Supreme King Dragon Starving Venom Supreme King Z-ARC 
+ Pendulum Dimension 
+ 
+   
+" Starving Venom " 「スターヴ・ヴェノム」 Members 
+ Starving Venom Fusion Dragon Starving Venom Predapower Fusion Dragon Supreme King Dragon Starving Venom 
+ Support 
+ Odd-Eyes Venom Dragon 
+ Related 
+ Greedy Venom Fusion Dragon Odd-Eyes Pendulum Dragon Purple Poison Magician Starving Venemy Dragon Starving Venemy Lethal Dose Dragon 
+ 
+   
+" Supreme King " 「 覇 王 」 Members 
+ Demise, Supreme King of Armageddon Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Odd-Eyes Venom Dragon Odd-Eyes Wing Dragon Supreme King Dragon Clear Wing Supreme King Dragon Dark Rebellion Supreme King Dragon Darkwurm Supreme King Dragon Odd-Eyes Supreme King Dragon Starving Venom Supreme King Gate Infinity Supreme King Gate Zero Supreme King Z-ARC 
+ Supreme King's Castle The Supreme King's Soul Supreme Rage 
+ Related 
+ Astrograph Sorcerer Chronograph Sorcerer Clear Wing Synchro Dragon Dark Rebellion Xyz Dragon Odd-Eyes Pendulum Dragon Performapal Celestial Magician Starving Venom Fusion Dragon 
+ 
+   
+" Supreme King Dragon " 「 覇 王 眷 竜 」 Members 
+ Supreme King Dragon Clear Wing Supreme King Dragon Dark Rebellion Supreme King Dragon Darkwurm Supreme King Dragon Odd-Eyes Supreme King Dragon Starving Venom 
+ Support 
+ Performapal Greatest Duelist Supreme King Dragon Clear Wing Supreme King Dragon Dark Rebellion Supreme King Dragon Odd-Eyes Supreme King Z-ARC 
+ Supreme Rage 
+ Related 
+ Clear Wing Synchro Dragon Dark Rebellion Xyz Dragon Odd-Eyes Pendulum Dragon Starving Venom Fusion Dragon 
+ 
+   
+" Venom " 「ヴェノム」 Members 
+ Greedy Venom Fusion Dragon Odd-Eyes Venom Dragon Starving Venom Fusion Dragon Starving Venom Predapower Fusion Dragon Supreme King Dragon Starving Venom Venom Boa Venom Cobra Venom Serpent Venom Snake 
+ Venom Burn Venom Shot Venom Swamp 
+ Support 
+ Ambush Fangs Snake Deity's Command Venom Shot Venom Swamp 
+ Related 
+ Odd-Eyes Pendulum Dragon Starving Venemy Dragon Vennominaga the Deity of Poisonous Snakes Vennominon the King of Poisonous Snakes 
+ Rise of the Snake Deity 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/ca/SupremeKingDragonStarvingVenom-LEDD-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20171005220548', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

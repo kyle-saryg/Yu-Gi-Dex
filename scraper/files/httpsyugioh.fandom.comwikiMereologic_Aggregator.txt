@@ -1,0 +1,91 @@
+Link: https://yugioh.fandom.com/wiki/Mereologic_Aggregator
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Mereologic Aggregator メレオロジック・アグリゲーター 
+ 
+ English 
+Mereologic Aggregator 
+ Japanese 
+ メレオロジック・アグリゲーター Check translation 
+ Japanese ( rōmaji ) 
+Mereorojikku Agurigētā 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Cyberse  /  Xyz  /  Effect 
+ Rank 
+ 9   
+ ATK  /  DEF 
+ 2600  /  3000 
+ Passcode 
+ 09940036 
+ Materials 
+2+ Level 9 monsters Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+2+  Level  9  monsters If this card is  Xyz Summoned : You can  send  1 monster from your  Extra Deck  to the  GY . You can  target  monsters in your GY up to the number of  materials   attached  to this card;  detach  materials from this card equal to the number targeted, and if you do, attach the targeted monsters to this card as material. If this card is  sent  to the GY: You can target 1  face-up  card on the  field ;  negate  its  effects  until the end of this  turn . You can only use each  effect  of "Mereologic Aggregator"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ レベル９モンスター×２体以上 このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが Ｘ 召喚に成功した場合に発動できる。 ＥＸ デッキからモンスター１体を墓地へ送る。②：このカードの Ｘ 素材の数まで自分の墓地のモンスターを対象として発動できる。対象の数だけこのカードの Ｘ 素材を取り除き、対象のモンスターをこのカードの下に重ねて Ｘ 素材とする。③：このカードが墓地へ送られた場合、フィールドの表側表示のカード１枚を対象として発動できる。そのカードの効果をターン終了時まで無効にする。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-07-16 DABL-JP046 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Ultra Rare 2022-07-16 DABL-JP046 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Secret Rare 2022-07-16 DABL-JP046 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Ultimate Rare 2022-07-16 DABL-JP046 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Prismatic Secret Rare 2022-07-16 DABL-JP046 Darkwing Blast +1 Bonus Pack ダークウィング・ブラスト ＋１ボーナスパック Ultra Rare 2022-07-16 DABL-JP046 Darkwing Blast +1 Bonus Pack ダークウィング・ブラスト ＋１ボーナスパック Prismatic Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Summoning  categories  
+ 2+ Xyz Materials 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17801 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e3/MereologicAggregator-DABL-JP-UR.png/revision/latest/scale-to-width-down/300?cb=20220719184440', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/9/9d/Rank_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052957', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

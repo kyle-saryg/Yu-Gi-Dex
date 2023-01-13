@@ -1,0 +1,428 @@
+Link: https://yugioh.fandom.com/wiki/Lunalight_Sabre_Dancer
+
+
+ 
+ 
+ Lunalight Sabre Dancer 月光舞剣虎姫 
+ 
+ English 
+Lunalight Sabre Dancer 
+ French 
+ Danseuse aux Épées Clair de Lune Check translation 
+ German 
+ Lunalicht Schwerttänzerin Check translation 
+ Italian 
+ Danzatrice Scimitarre della Lucelunare Check translation 
+ Korean 
+ 문라이트 사벨 댄서 Check translation 
+ Portuguese 
+ Dançarina de Lâminas Luzlunar Check translation 
+ Spanish 
+ Bailarín de Espada de la Lunaluz Check translation 
+ Japanese (kana) 
+ ムーンライト・サーベル・ダンサー Check translation 
+ Japanese (base) 
+ 月光舞剣虎姫 Check translation 
+ Japanese ( rōmaji ) 
+Mūnraito Sāberu Dansā 
+ Japanese (translated) 
+Moonlight Sabre Dancer 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Beast-Warrior  /  Fusion  /  Effect 
+ Level 
+ 9   
+ ATK  /  DEF 
+ 3000  /  2600 
+ Passcode 
+ 88753594 
+ Materials 
+3 "Lunalight" monsters 
+ Card effect types 
+ 
+ 
+ Summon 
+ Continuous 
+ Continuous 
+ Ignition 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+3 " Lunalight "  monsters Must be  Fusion Summoned . Gains 200  ATK  for each  Beast-Warrior  monster that is  banished  or in the  GYs . Your opponent cannot  target  this card with  card effects . During your  Main Phase , except the  turn  this card was  sent  to the GY: You can banish this card from your GY, then target 1  Fusion Monster  you  control ; it gains 3000 ATK until the end of this turn. You can only use this effect of "Lunalight Sabre Dancer"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 3 monstres "Clair de Lune" Uniquement Invocable par Fusion. Gagne 200 ATK pour chaque monstre Bête-Guerrier qui est banni ou dans les Cimetières. Votre adversaire ne peut pas cibler cette carte avec des effets de carte. Durant votre Main Phase, sauf le tour où cette carte a été envoyée au Cimetière : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Fusion que vous contrôlez ; jusqu'à la fin de ce tour, il gagne 3000 ATK. Vous ne pouvez utiliser cet effet de "Danseuse aux Épées Clair de Lune" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 3 „Lunalicht“-Monster Muss als Fusionsbeschwörung beschworen werden. Erhält 200 ATK für jedes Ungeheuer-Krieger-Monster, das verbannt ist oder sich in den Friedhöfen befindet. Dein Gegner kann diese Karte nicht als Ziel für Karteneffekte wählen. Während deiner Main Phase, außer in dem Spielzug, in dem diese Karte auf den Friedhof gelegt wurde: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Fusionsmonster wählen, das du kontrollierst; es erhält bis zum Ende dieses Spielzugs 3000 ATK. Du kannst diesen Effekt von „Lunalicht Schwerttänzerin“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 3 mostri "Lucelunare" Deve essere Evocata tramite Fusione. Guadagna 200 ATK per ogni mostro Guerriero-Bestia che è bandito o nei Cimiteri. Il tuo avversario non può scegliere questa carta come bersaglio con gli effetti delle carte. Durante la tua Main Phase, eccetto nel turno in cui questa carta è stata mandata al Cimitero: puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 Mostro Fusione che controlli; esso guadagna 3000 ATK, fino alla fine di questo turno. Puoi utilizzare questo effetto di "Danzatrice Scimitarre della Lucelunare" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 3 monstros "Luzlunar" Deve ser Invocado por Invocação-Fusão. Ganha 200 de ATK para cada monstro Besta-Guerreira que estiver banido ou nos Cemitérios. Seu oponente não pode escolher este card como alvo de efeitos de card. Durante sua Fase Principal, exceto no turno em que este card foi enviado para o Cemitério: você pode banir este card do seu Cemitério e, depois, escolher 1 Monstro de Fusão que você controla; ele ganha 3000 de ATK até o final deste turno. Você só pode usar este efeito de "Dançarina de Lâminas Luzlunar" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 3 monstruos "Lunaluz" Debe ser Invocada por Fusión. Gana 200 ATK por cada monstruo Guerrero-Bestia que esté desterrado o en los Cementerios. Tu adversario no puede seleccionar esta carta con efectos de cartas. Durante tu Main Phase, excepto en el turno en el que esta carta fue mandada al Cementerio: puedes desterrar esta carta en tu Cementerio, y después selecciona 1 Monstruo de Fusión que controles; hasta el final de este turno, éste gana 3000 ATK. Sólo puedes usar este efecto de "Bailarín de Espada de la Lunaluz" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「ムーンライト」モンスター×３ このカードは融合召喚でしか特殊召喚できない。このカード名の③の効果は１ターンに１度しか使用できない。①：このカードの攻撃力は、お互いの墓地の獣戦士族モンスター及び除外されている獣戦士族モンスターの数×２００アップする。②：このカードは相手の効果の対象にならない。③：墓地のこのカードを除外し、自分フィールドの融合モンスター１体を対象として発動できる。そのモンスターの攻撃力はターン終了時まで３０００アップする。この効果はこのカードが墓地へ送られたターンには発動できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "문라이트" 몬스터 x 3 이 카드는 융합 소환으로밖에 특수 소환할 수 없다. 이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ① : 이 카드명의 공격력은, 서로의 묘지의 야수전사족 몬스터 및 제외되어 있는 야수전사족 몬스터의 수 x 200 올린다. ② : 이 카드는 상대 효과의 대상이 되지 않는다. ③ : 묘지의 이 카드를 제외하고, 자신 필드의 융합 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터의 공격력은 턴 종료시까지 3000 올린다. 이 효과는 이 카드가 묘지로 보내진 턴에는 발동할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2019-01-10  
+ LED4-EN045   
+ Legendary Duelists: Sisters of the Rose 
+ Super Rare 
+ 
+ 
+ 2021-01-21  
+ LDS2-EN129   
+ Legendary Duelists: Season 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2019-01-10  
+ LED4-FR045   
+ Legendary Duelists: Sisters of the Rose 
+ Duellistes Légendaires: Les Sœurs de la Rose  
+ Super Rare 
+ 
+ 
+ 2021-01-21  
+ LDS2-FR129   
+ Legendary Duelists: Season 2 
+ Duellistes Légendaires : Saison 2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2019-01-10  
+ LED4-DE045   
+ Legendary Duelists: Sisters of the Rose 
+ Legendary Duelists: Sisters of the Rose  
+ Super Rare 
+ 
+ 
+ 2021-01-21  
+ LDS2-DE129   
+ Legendary Duelists: Season 2 
+ Legendary Duelists: Season 2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2019-01-10  
+ LED4-IT045   
+ Legendary Duelists: Sisters of the Rose 
+ Duellanti Leggendari: Sorelle della Rosa  
+ Super Rare 
+ 
+ 
+ 2021-01-21  
+ LDS2-IT129   
+ Legendary Duelists: Season 2 
+ Duellanti Leggendari: Stagione 2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2019-01-10  
+ LED4-PT045   
+ Legendary Duelists: Sisters of the Rose 
+ Duelistas Lendários: Irmãs da Rosa  
+ Super Rare 
+ 
+ 
+ 2021-01-21  
+ LDS2-PT129   
+ Legendary Duelists: Season 2 
+ Duelistas Lendários: Temporada 2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2019-01-10  
+ LED4-SP045   
+ Legendary Duelists: Sisters of the Rose 
+ Duelistas Legendarios: Hermanas de la Rosa  
+ Super Rare 
+ 
+ 
+ 2021-01-21  
+ LDS2-SP129   
+ Legendary Duelists: Season 2 
+ Duelistas Legendarios: Temporada 2  
+ 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2018-11-10  
+ DP21-JP045   
+ Duelist Pack: Legend Duelist 4 
+ デュエリストパック －レジェンドデュエリスト編４－  
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2019-02-19  
+ DP21-KR045   
+ Duelist Pack: Legend Duelist 4 
+ 듀얼리스트 팩 －레전드 듀얼리스트 편 ４-  
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Beast-Warrior 
+ Fusion Monster 
+ 
+ Archetypes  and  series   
+ Lunalight 
+ 
+ Supports   archetypes   
+ Lunalight 
+ 
+ Actions  
+ Activates from your Graveyard 
+ 
+ Stat changes  
+ This card gains ATK 
+ Your monsters gain ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Cannot be targeted by card effects 
+ 
+ Summoning  categories  
+ 3 Fusion Materials 
+ Requires archetype specific Fusion Materials 
+ Nomi 
+ 
+ Banished  categories  
+ Banishes itself from Graveyard for cost 
+ 
+ Miscellaneous  
+ Only once per turn 
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14185 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Lunalight " 「 月光 」 Members 
+ Lunalight Black Sheep Lunalight Blue Cat Lunalight Cat Dancer Lunalight Crimson Fox Lunalight Emerald Bird Lunalight Kaleido Chick Lunalight Leo Dancer Lunalight Panther Dancer Lunalight Purple Butterfly Lunalight Sabre Dancer Lunalight Tiger Lunalight White Rabbit Lunalight Wolf Lunalight Yellow Marten 
+ Lunalight Fusion Lunalight Reincarnation Dance Lunalight Serenade Dance 
+ Support 
+ Lunalight Black Sheep Lunalight Blue Cat Lunalight Cat Dancer Lunalight Crimson Fox Lunalight Emerald Bird Lunalight Kaleido Chick Lunalight Leo Dancer Lunalight Panther Dancer Lunalight Purple Butterfly Lunalight Sabre Dancer Lunalight Tiger Lunalight White Rabbit Lunalight Wolf Lunalight Yellow Marten 
+ Luna Light Perfume Lunalight Fusion Lunalight Reincarnation Dance Lunalight Serenade Dance 
+ Related 
+ Polymerization Wonders of Nature 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/bf/LunalightSabreDancer-LED4-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20190113221723', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

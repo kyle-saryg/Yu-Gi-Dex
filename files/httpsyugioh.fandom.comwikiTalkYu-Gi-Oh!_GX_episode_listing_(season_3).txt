@@ -1,0 +1,45 @@
+Link: https://yugioh.fandom.com/wiki/Talk:Yu-Gi-Oh!_GX_episode_listing_(season_3)
+
+
+ 
+ 
+ This is the talk page for discussing the page, Yu-Gi-Oh! GX episode listing (season 3).
+ 
+ 
+ 
+ 
+ This page is for discussion about the article, not general talk about its subject.
+ See the  Forums  for general discussion. 
+ Please sign and date your posts  by typing four tildes ( ~~~~ ). 
+ Put new text under old text.  Click here to start a new topic . 
+ 
+ 
+ Please try to
+ 
+ Be polite 
+ Assume good faith 
+ Be welcoming 
+ 
+ Is there a reason why episodes 150-156 have the wrong dub titles?
+ -- 8th Mizukage  05:10, 11 August 2008 (UTC)
+ 
+ If you know they're wrong, then please fix them. --  Deltaneos  ( talk ) 11:20, 11 August 2008 (UTC) 
+ Episode 156 
+ Where does that title for Episode 156 come from?
+ -- 8th Mizukage  06:32, 14 August 2008 (UTC)
+ 
+ Is it true? 
+ Is it true that they will be dubbing the last episode of season 3 in September?-- Thanonyx  03:38, April 23, 2010 (UTC)
+ 
+ Bug 
+ something is wrong with the table. I have no idea what it is with that, but could somebody fix it?  Poseidome  ( talk  •  contribs ) 12:55, January 16, 2011 (UTC)
+ 
+ What kind of bug do you see on your side? It look fine on my side. -- F red C at   Ta.P.  •  F.P.  •  J.R.  •  W.S.  •  Th.P.  •  S.C.  12:59, January 16, 2011 (UTC)
+ I'm getting it here too. A bunch of redlinks, with the parameters of the table showing up on the page as opposed to what the parameters are meant to translate to. I don't know how to fix it.  Cheesedude  ( talk  •  contribs ) 15:27, January 16, 2011 (UTC)
+ if it still appears broken, try adding "#action=purge" to the end of the url and then refreshing the page. If that doesn't work, try editing the article and saving the page without changing anything. One of those should jog the system into updating.  Cheesedude  ( talk  •  contribs ) 01:02, January 17, 2011 (UTC)
+ That should be "&action=purge" (if that just gives you a different, uncreated page, go back and try "?action=purge" instead).  「 ダイノ ガイ 千？！ 」 ?  ·  ☎ Dinoguy1000  01:26, January 17, 2011 (UTC)
+ They appeared to be blue on my side, maybe should be different site skin problem. I suggest you to follow with what Dino said. -- F red C at   Ta.P.  •  F.P.  •  J.R.  •  W.S.  •  Th.P.  •  S.C.  01:32, January 17, 2011 (UTC) 
+ 
+ 
+ 
+Categories:

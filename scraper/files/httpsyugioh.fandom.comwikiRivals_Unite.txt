@@ -1,0 +1,104 @@
+Link: https://yugioh.fandom.com/wiki/Rivals_Unite
+
+
+ Rivals Unite 
+ 
+ Japanese:   好敵手の絆 
+ Kana:   ボンズ・オブ・ライバル 
+ Romaji:   Bonzu obu Raibaru 
+ Translated:  Bonds of Rival 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ When the  attack  of a  monster  you  control  is  negated :  Target  the  attack target ;  equip  this card to that target. Take control of the equipped monster. It cannot attack. When that target  leaves the field ,  destroy  this card. When this card is destroyed, return control of the equipped monster to its  owner .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  061 ,  062 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Italian 
+ Unione dei Rivali 
+ 
+ 
+ 
+ Japanese 
+ 好敵手の絆 
+ 自分フィールド上のモンスター１体の攻撃が無効になった時、そのモンスターが攻撃対象にした相手モンスター１体を選択して発動できる。このカードを装備カード扱いとして選択したモンスターに装備し、そのコントロールを得る。装備モンスターは攻撃できない。装備モンスターがフィールド上から離れた時、このカードを破壊する。このカードが破壊された時、装備モンスターのコントロールは、元々の持ち主に戻る。 
+ 
+ 
+ Bonzu obu Raibaru 
+ 
+ 
+ Decks 
+ 
+ 
+ Yuma Tsukumo 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Equips self from field 
+ Takes control of equipped 
+ Changes control 
+ 
+ Monster / Spell / Trap  categories  
+ Treated as Equip Card 
+ Destroys itself 
+ 
+ Attack  categories  
+ Prevents equipped monster from attacking 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a8/RivalsUnite-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20120702190240', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/18?cb=20120920115206']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

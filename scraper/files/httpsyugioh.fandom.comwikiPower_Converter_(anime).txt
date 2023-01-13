@@ -1,0 +1,105 @@
+Link: https://yugioh.fandom.com/wiki/Power_Converter_(anime)
+
+Main card page: " Power Converter " 
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Power Converter 
+ 
+ Japanese:   パワー・コンバーター 
+ Romaji:   Pawā Konbātā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Equip 
+ 
+ During either player's  turn , you can  send  this  face-up  card to the  Graveyard  to gain  Life Points  equal to the  equipped   monster 's  ATK . If you do, the equipped monster's ATK becomes 0 until the  End Phase .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  050 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ パワー・コンバーター 
+ 装備されたこのカードを 墓地 へ送る事で、自分は装備モンスターの 攻撃力 分の ライフポイント を回復する。この効果を使用したターン、装備モンスターの攻撃力は０になる。 
+ 
+ 
+ Pawā Konbātā 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Leo 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Sends itself from field to Graveyard for cost 
+ 
+ Stat changes  
+ Reduces ATK to 0 
+ Changes ATK value of equipped 
+ 
+ LP   
+ You gain Life Points 
+ 
+ 
+ 
+   " Power Converter " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/e/ec/PowerConverter-JP-Anime-5D.png/revision/latest/scale-to-width-down/200?cb=20151113001520', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/ce/PowerConverter-JP-Anime-5D-NC.png/revision/latest/scale-to-width-down/185?cb=20160314181233', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

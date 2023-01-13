@@ -1,0 +1,590 @@
+Link: https://yugioh.fandom.com/wiki/Master_Rules
+
+
+ 
+ Master Rules
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ マスタールール
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Masutā Rūru
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ Korean : 마스터 롤  Maseuteo Rul 
+ Simplified Chinese : 大师规则  Dàshī Guīzé 
+ 
+ 
+ The  Master Rules  (Japanese: マスタールール  Masutā Rūru ) are a series of card rules that were applied in the  OCG  at the beginning of  Yu-Gi-Oh! 5D's . The Master Rules codify the rules along with some well-known Dueling terms. In the  TCG , rule changes don't have formal names like they do in the  OCG .
+ 
+ Contents 
+ 
+ 1   Master Rules 
+ 2   Master Rules 2 
+ 3   Master Rules 3 
+ 4   New Master Rules 
+ 5   Master Rules 2020/2021 
+ 6   References 
+ 
+ 
+ Master Rules 
+ The  Master Rules  came into effect in the  OCG  with the release of  Starter Deck 2008 .
+ 
+ Introduced  Tuner monsters ,  Synchro Monsters  and  Synchro Summons . 
+ Introduced terminology changes:
+ Sacrifice Summon →  Tribute Summon  (Advance Summon) 
+ Sacrifice →  Release 
+ Fusion Deck →  Extra Deck 
+ Introduced limitations on the number of cards allowed in the Deck.
+ Main Deck : 40-60 cards 
+ Extra Deck : 0-15 cards 
+ Side Deck : 0-15 cards 
+ Master Rules 2 
+ The  Master Rules 2  came into effect in the  OCG  with the release of  Starter Deck 2011 . [1] 
+ 
+ Introduced  Xyz Monsters ,  Ranks  and  Xyz Summons . 
+ Removed the  Ignition Effect Priority . 
+ Introduced terminology changes:
+ Release →  Tribute 
+ Advance Summon →  Tribute Summon 
+ Master Rules 3 
+ The  Master Rules 3  came into effect in the  OCG  with the release of  Starter Deck 2014 . [2] [3] 
+ 
+ Introduced  Pendulum Zones ,  Pendulum Monsters ,  Pendulum Scales  and  Pendulum Summons . 
+ Introduced terminology changes:
+ Monster Card Zone →  Monster Zone 
+ Spell & Trap Card Zone →  Spell & Trap Zone 
+ Field Card Zone →  Field Zone 
+ Introduced a new standardization of the card texts similar to the  TCG   Problem-Solving Card Text . 
+ Change in rules:
+ The first player no longer draws during their first Draw Phase. 
+ Each player can control 1 face-up Field Spell Card on their field.
+ If a player places a Field Spell Card on their field, the previous Field Spell Card is sent to the Graveyard instead of being destroyed. 
+ Simplified the  Damage Step  into 5 timings:
+ Start of the Damage Step 
+ Before damage calculation 
+ During damage calculation 
+ After damage calculation 
+ End of the Damage Step 
+ New Master Rules 
+ The  New Master Rules , known as "Master Rules 4" in Asian-English, came into effect in the  OCG  with the release of  Starter Deck 2017 [4] [5]  and in the  TCG  with the equivalent  Starter Deck: Link Strike .
+ 
+ Introduced  Link Monsters ,  Link Markers ,  Link Summons  and  Linked States . 
+ Changed the layout of the  playing field .
+ The  Pendulum Zones  were moved into the  Spell & Trap Zones . 
+ The existing  Monster Zones  were classified as  Main Monster Zones . 
+ 2 new Monster Zones, the  Extra Monster Zones , were introduced, located in the 2nd and 4th  columns  between the 2 sides of the field, and are exclusively used for the Summoning of monsters from the  Extra Deck .
+ While an Extra Monster Zone is unoccupied, it does not belong to either player's field. 
+ Monsters Special Summoned from the Extra Deck must be Summoned to either an Extra Monster Zone or a Main Monster Zone a Link Monster  points to . 
+ Master Rules 2020/2021 
+ These rules take place starting from April 1, 2020 (OCG), November 24, 2021 (TCG). [6] [7] [8] 
+ 
+ Fusion ,  Synchro  and  Xyz Monsters  may be  Special Summoned  from the  Extra Deck  directly to  Main Monster Zones .
+ They may also be Summoned to  Extra Monster Zone , at the player's decision. 
+ This rule  does not  apply to Link and Pendulum Monsters, however, they still have to follow the old rule.  
+ This specific rule was in effect in TCG from April 1, 2020. 
+ Unless it is specifically referenced in the text, monsters that are returned to the Extra Deck face-down cannot activate their effects (this includes mandatory effects).
+ This means that sending a card with an effect that triggers when it "leaves the field" back to the Extra Deck face down does not trigger their effect. 
+ Do note that cards returned to the Main Deck already  cannot  activate those effects before the rule change (regardless of region). 
+ In card texts, cards refer to their effect activation requirement as well as their effect activation location. (For example, if it is an effect that activates when the monster itself is Normal Summoned, it activates on the field, if it is a Trap Card whose effect is activated if it is sent to the GY, it activates in the GY.) If a card moves location from its activation location to a different location before its effect activated, its effect cannot be activated (including mandatory effects).
+ If a card is being sent to the Graveyard and has an effect that activates when being sent to the Graveyard, but it is then removed from the Graveyard as part of a chain before its effect's activation then it can no longer activate nor resolve. 
+ Cards with text such as “During the turn you activate this effect, you cannot Special Summon monsters, except [blank] monsters” or “During the turn you activate this card, you cannot Summon monsters, except with this card’s effect”, which have activation requirements for whether or not you Summoned certain monsters during the turn, will now check whether or not the Summoning of the monster described in the text was successful for their activation requirements.
+ This means that even if a Summon that would violate this condition was negated prior in the turn, a card with one of the above effects can still be played, whereas prior to this rule change, it would still not be considered a valid play that turn. 
+ Cards with effects such as "You can only Special Summon [blank] once per turn” now only apply if the Summon was successful. 
+ Continuous Trap cards that Special Summon themselves to the Monster Zone by their own effects now also do not occupy a Spell/Trap Zone (But they are still treated as Trap cards). 
+ References 
+ 
+ ↑   yugioh-card.com/japan  Master Rule 2  (Japanese) 
+ 
+ ↑   yugioh-card.com/japan  Master Rule 3  (Japanese) 
+ 
+ ↑   yugioh-card.com/hk  Master Rule 3  (Asian English) 
+ 
+ ↑   yugioh-card.com/japan  New Master Rule  (Japanese) 
+ 
+ ↑   yugioh-card.com/hk  New Master Rule  (Asian English) 
+ 
+ ↑   https://www.yugioh-card.com/japan/howto/masterrule2020/ 
+ 
+ ↑   https://ygorganization.com/whyarentyoubuyingddcrowsrightnow/ 
+ 
+ ↑   https://www.yugioh-card.com/en/gameplay/2021_rules_update.html/ 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Gameplay

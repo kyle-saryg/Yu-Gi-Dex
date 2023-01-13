@@ -1,0 +1,109 @@
+Link: https://yugioh.fandom.com/wiki/Stonehenge_Shield
+
+
+ Stonehenge Shield 
+ 
+ Japanese:   環状列石の結界 
+ Kana:   ストーンヘンジ・シールド 
+ Romaji:   Sutōnhenji Shīrudo 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Continuous 
+ When an opponent's  monster  with an original  ATK  of 3000 or more  declares  an  attack :  Target  that monster;  negate  the attack, that target's ATK becomes 0, and its  effects  are negated. When the target  leaves the field ,  destroy  this card.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  042 ,  043 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 環状列石の結界 
+ フィールド上の元々の攻撃力が３０００以上のモンスター１体を選択して発動する。選択したモンスターの攻撃力を0にし、その攻撃とモンスター効果を無効にする。選択したモンスターがフィールド上から離れた時、このカードを破壊する。 
+ 
+ 
+ Sutōnhenji Shīrudo 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Trey 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Activates upon attack declaration 
+ 
+ Stat changes  
+ Reduces ATK to 0 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your opponent's Effect Monsters 
+ Destroys itself 
+ 
+ Attack  categories  
+ Negates attacks 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/cb/StonehengeShield-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20120207012249', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/bb/StonehengeShield-OW.png/revision/latest/scale-to-width-down/185?cb=20131220134841', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b7/StonehengeShield-JP-Anime-ZX-NC.png/revision/latest/scale-to-width-down/185?cb=20120207200614', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

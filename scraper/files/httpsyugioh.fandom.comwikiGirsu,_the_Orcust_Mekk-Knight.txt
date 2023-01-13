@@ -1,0 +1,275 @@
+Link: https://yugioh.fandom.com/wiki/Girsu,_the_Orcust_Mekk-Knight
+
+
+ 
+ 
+ Girsu, the Orcust Mekk-Knight 宵星の騎士 ギルス 
+ 
+ English 
+Girsu, the Orcust Mekk-Knight 
+ French 
+ Girsu, le Mekk-Chevalier Orcust Check translation 
+ German 
+ Girsu, der Orcust-Mekk-Ritter Check translation 
+ Italian 
+ Girsu, l'Orcusestra Meck-Cavaliere Check translation 
+ Korean 
+ 잭나이츠 오르페골 기르수 Check translation 
+ Portuguese 
+ Girsu, o Mekk-Cavaleiro Orcust Check translation 
+ Spanish 
+ Girsu, el Mekk-Caballero Orcust Check translation 
+ Japanese (kana) 
+ ジャックナイツ・オルフェゴールギルス Check translation 
+ Japanese (base) 
+ 宵星の騎士ギルス Check translation 
+ Japanese ( rōmaji ) 
+Jakku Naitsu Orufegōru Girusu 
+ Japanese (translated) 
+Jack-Knights Orphegel Girsu 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Machine  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1800  /  0 
+ Passcode 
+ 69811710 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Ignition 
+ Condition Statuses Limited  ( OCG ) Unlimited  ( TCG   Advanced  and  Traditional ) 
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If this card is  Normal  or  Special Summoned : You can  send  1 " Orcust " or " World Legacy " card from your  Deck  to the  GY , then, if there are 2 or more other cards in this card's  column , treat this card as a  Tuner  this  turn . If you  control  no other  monsters : You can Special Summon 1 " World Legacy Token " ( Machine / DARK / Level  1/ ATK  0/ DEF  0) to both players'  fields  in  Defense Position . You can only use each  effect  of "Girsu, the Orcust Mekk-Knight"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez envoyer 1 carte "Orcust" ou "Héritage du Monde" depuis votre Deck au Cimetière, puis, s'il y a min. 2 autres cartes dans la colonne de cette carte, traitez cette carte comme un Syntoniseur ce tour. Si vous ne contrôlez aucun autre monstre : vous pouvez Invoquer Spécialement 1 "Jeton Héritage du Monde" (Machine/TÉNÈBRES/Niveau 1/ATK 0/DEF 0) sur chaque Terrain en Position de Défense. Vous ne pouvez utiliser chaque effet de "Girsu, le Mekk-Chevalier Orcust" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „Orcust“- oder „Weltvermächtnis“-Karte von deinem Deck auf den Friedhof legen, dann, falls 2 oder mehr andere Karten in der Spalte dieser Karte liegen, behandle diese Karte in diesem Spielzug als Empfänger. Falls du keine anderen Monster kontrollierst: Du kannst 1 „Weltvermächtnis-Spielmarke“ (Maschine/FINSTERNIS/Stufe 1/ATK 0/DEF 0) als Spezialbeschwörung auf die Spielfeldseiten beider Spieler in die Verteidigungsposition beschwören. Du kannst jeden Effekt von „Girsu, der Orcust-Mekk-Ritter“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se questa carta viene Evocata Normalmente o Specialmente: puoi mandare 1 carta "Orcusestra" o "Eredità del Mondo" dal tuo Deck al Cimitero, poi, se ci sono 2 o più altre carte nella colonna di questa carta, considera questa carta come un Tuner in questo turno. Se non controlli nessun altro mostro: puoi Evocare Specialmente 1 "Segna-Eredità del Mondo" (Macchina/OSCURITÀ/Livello 1/ATK 0/DEF 0) sul Terreno di entrambi i giocatori in Posizione di Difesa. Puoi utilizzare ogni effetto di "Girsu, l'Orcusestra Meck-Cavaliere" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se este card for Invocado por Invocação-Normal ou Especial: você pode enviar 1 card "Orcust" ou "Legado Mundial" do seu Deck para o Cemitério e, depois, se houver 2 ou mais outros cards na coluna deste card, considere este card como um Regulador neste turno. Se você não controlar nenhum outro monstro: você pode Invocar por Invocação-Especial 1 "Ficha de Legado Mundial" (Máquina/TREVAS/Nível 1/ATK 0/DEF 0) no campo dos dois duelistas em Posição de Defesa. Você só pode usar cada efeito de "Girsu, o Mekk-Cavaleiro Orcust" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si esta carta es Invocada de Modo Normal o Especial: puedes mandar al Cementerio 1 carta "Orcust" o "Legado Mundial" en tu Deck, y después, si hay 2 o más cartas en la columna de esta carta, este turno trata esta carta como un Cantante. Si no controlas otros monstruos: puedes Invocar de Modo Especial 1 "Ficha Legado Mundial" (Máquina/OSCURIDAD/Nivel 1/ATK 0/DEF 0) a los Campos de ambos jugadores en Posición de Defensa. Sólo puedes usar cada efecto de "Girsu, el Mekk-Caballero Orcust" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合に発動できる。デッキから「オルフェゴール」カードまたは「星遺物」カード１枚を墓地へ送る。このカードと同じ縦列に他のカードが２枚以上存在する場合、さらにこのターン、このカードをチューナーとして扱う。②：自分フィールドに他のモンスターが存在しない場合に発動できる。お互いのフィールドに「星遺物トークン」（機械族・闇・星１・攻／守０）を１体ずつ守備表示で特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우에 발동할 수 있다. 덱에서 "오르페골" 카드 또는 "성유물" 카드 1장을 묘지로 보낸다. 이 카드와 같은 세로열에 다른 카드가 2장 이상 존재할 경우, 추가로 이 턴에, 이 카드를 튜너로서 취급한다. ②: 자신 필드에 다른 몬스터가 존재하지 않을 경우에 발동할 수 있다. 서로의 필드에 "성유물 토큰"(기계족 / 어둠 / 레벨 1 / 공 0 / 수 0)을 1장씩 수비 표시로 특수 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2020-04-30 ETCO-EN024 Eternity Code Secret Rare 2021-09-30 MP21-EN056 2021 Tin of Ancient Battles Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2020-04-30 ETCO-FR024 Eternity Code Le Code de l'Éternité Secret Rare 2021-09-30 MP21-FR056 2021 Tin of Ancient Battles Boîte des Batailles Anciennes 2021 Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2020-04-30 ETCO-DE024 Eternity Code Eternity Code Secret Rare 2021-09-30 MP21-DE056 2021 Tin of Ancient Battles 2021 Tin of Ancient Battles Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2020-04-30 ETCO-IT024 Eternity Code Codice Eternità Secret Rare 2021-09-30 MP21-IT056 2021 Tin of Ancient Battles Tin delle Battaglie Antiche 2021 Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2020-04-30 ETCO-PT024 Eternity Code Código da Eternidade Secret Rare 2021-09-30 MP21-PT056 2021 Tin of Ancient Battles Lata das Batalhas Antigas 2021 Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2020-04-30 ETCO-SP024 Eternity Code Código de Eternidad Secret Rare 2021-09-30 MP21-SP056 2021 Tin of Ancient Battles 2021 Lata de Antiguas Batallas Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2020-01-11 ETCO-JP024 Eternity Code エターニティ・コード Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2020-04-14 ETCO-KR024 Eternity Code 이터니티 코드 Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Mekk-Knight 
+ Orcust 
+ 
+ Supports   archetypes   
+ Orcust 
+ World Legacy 
+ 
+ Actions  
+ Activates upon Normal Summon 
+ Activates upon Special Summon 
+ Sends from your Deck to your Graveyard 
+ 
+ Stat changes  
+ Treats itself as a Tuner monster 
+ 
+ Summoning  categories  
+ Special Summons Tokens 
+ Special Summons to your opponent's field 
+ 
+ Miscellaneous  
+ Column 
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 15010 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Mekk-Knight " 「ジャックナイツ」 Members 
+ Girsu, the Orcust Mekk-Knight Mekk-Knight Avram Mekk-Knight Blue Sky Mekk-Knight Crusadia Avramax Mekk-Knight Green Horizon Mekk-Knight Indigo Eclipse Mekk-Knight Orange Sunset Mekk-Knight Purple Nightfall Mekk-Knight Red Moon Mekk-Knight Spectrum Supreme Mekk-Knight Yellow Star Mekk-Knight of the Morning Star 
+ Support 
+ Mekk-Knight Blue Sky Mekk-Knight Green Horizon Mekk-Knight Indigo Eclipse Mekk-Knight Orange Sunset Mekk-Knight Purple Nightfall Mekk-Knight Red Moon Mekk-Knight Spectrum Supreme Mekk-Knight Yellow Star Mekk-Knight of the Morning Star 
+ World Legacy Key World Legacy Scars World Legacy Whispers World Legacy's Memory World Legacy's Secret 
+ Related 
+ Chosen by the World Chalice Crowned by the World Chalice Crusadia Maximus Knightmare Cerberus Knightmare Goblin Knightmare Gryphon Knightmare Mermaid Knightmare Phoenix Knightmare Unicorn Krawler Soma Wattkinetic Puppeteer World Legacy - "World Shield" World Legacy Token 
+ 
+   
+" Orcust " 「オルフェゴール」 Members 
+ Dingirsu, the Orcust of the Evening Star Galatea, the Orcust Automaton Girsu, the Orcust Mekk-Knight Longirsu, the Orcust Orchestrator Orcust Brass Bombard Orcust Cymbal Skeleton Orcust Harp Horror Orcust Knightmare Orcustrion 
+ Orcust Crescendo Orcustrated Attack Orcustrated Babel Orcustrated Core Orcustrated Einsatz Orcustrated Release Orcustrated Return 
+ Support 
+ Dingirsu, the Orcust of the Evening Star Galatea, the Orcust Automaton Girsu, the Orcust Mekk-Knight Longirsu, the Orcust Orchestrator Orcust Brass Bombard Orcust Cymbal Skeleton Orcust Harp Horror Orcustrion World Legacy - "World Wand" 
+ Orcust Crescendo Orcustrated Attack Orcustrated Babel Orcustrated Core Orcustrated Einsatz Orcustrated Return 
+ Related 
+ Crowned by the World Chalice Ib the World Chalice Priestess World Legacy Token 
+ 
+   
+" World Legacy " 「 星 遺 物 」 Members 
+ World Legacy - "World Ark" World Legacy - "World Armor" World Legacy - "World Chalice" World Legacy - "World Crown" World Legacy - "World Key" World Legacy - "World Lance" World Legacy - "World Shield" World Legacy - "World Wand" World Legacy Guardragon Mardark World Legacy Token 
+ The World Legacy World Legacy Awakens World Legacy Bestowal World Legacy Clash World Legacy Cliffhanger World Legacy Collapse World Legacy Discovery World Legacy Guardragon World Legacy Key World Legacy Landmark World Legacy Monstrosity World Legacy Pawns World Legacy Scars World Legacy Struggle World Legacy Succession World Legacy Survivor World Legacy Trap Globe World Legacy Whispers World Legacy in Shadow World Legacy's Corruption World Legacy's Heart World Legacy's Memory World Legacy's Mind Meld World Legacy's Nightmare World Legacy's Secret World Legacy's Sorrow 
+ Support 
+ Auram the World Chalice Blademaster Crusadia Equimax Girsu, the Orcust Mekk-Knight Ib the World Chalice Justiciar Lib the World Key Blademaster Mekk-Knight of the Morning Star World Gears of Theurlogical Demiurgy World Legacy - "World Armor" World Legacy - "World Chalice" World Legacy - "World Crown" World Legacy - "World Key" World Legacy - "World Lance" World Legacy - "World Shield" World Legacy - "World Wand" 
+ Crusadia Krawler Crusadia Vanguard Orcustrated Attack Orcustrated Core Orcustrated Einsatz Orcustrated Return World Legacy Bestowal World Legacy Collapse World Legacy Key World Legacy Landmark World Legacy Scars World Legacy Survivor World Legacy Trap Globe World Legacy's Corruption World Reassembly 
+ Related 
+ Avida, Rebuilder of Worlds 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c1/GirsutheOrcustMekkKnight-MP21-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20211030233427', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,106 @@
+Link: https://yugioh.fandom.com/wiki/Alchemy_Cycle_(anime)
+
+Main card page: " Alchemy Cycle " 
+ Alchemy Cycle 
+ 
+ Japanese:   アルケミー・サイクル 
+ Romaji:   Arukemī Saikuru 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Counter 
+ 
+ Activate  only when a  face-up   Attack Position   monster  you  control   battles . The  ATK  of that monster becomes 0, and the  targeted  monster cannot be  destroyed by battle . After  damage calculation ,  remove  the targeted monster from play and  draw  1 card.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  GX :  155 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  GX ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ アルケミー・サイクル 
+ 戦闘 を行う自分 フィールド 上の 表側 攻撃表示 モンスター １体の 攻撃力 を０にする。対象となったモンスターは、この 戦闘で破壊 されない。戦闘終了後、このモンスターを ゲームから除外 して デッキ からカードを１枚 ドロー する。 
+ 
+ 
+ Arukemī Saikuru 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Jaden Yuki 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ You draw cards 
+ 
+ Stat changes  
+ Reduces ATK to 0 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ Banished  categories  
+ Banishes from your field 
+ 
+ 
+ 
+   " Alchemy Cycle " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/2b/AlchemyCycle-JP-Anime-GX.png/revision/latest/scale-to-width-down/200?cb=20150130033605', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/95/AlchemyCycle-OW.png/revision/latest/scale-to-width-down/185?cb=20140220044630', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

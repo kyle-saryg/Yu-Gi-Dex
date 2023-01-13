@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:English_chapter_name
+
+This property lists the English name of a chapter. This uses a  String .
+ 
+ 
+ 
+ 
+Categories:

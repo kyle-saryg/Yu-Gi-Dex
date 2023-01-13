@@ -1,0 +1,24 @@
+Link: https://yugioh.fandom.com/wiki/Uses_cards_from_hand_as_Synchro_Material
+
+This Property entry details every card that uses a card(s) in the hand as a  Synchro Material (s).
+ 
+ Contents 
+ 
+ 1   All  OCG / TCG  cards that use cards in the hand as Synchro Materials 
+ 2   All anime cards that use cards in the hand as Synchro Materials 
+ 3   All manga cards that use cards in the hand as Synchro Materials 
+ 
+ 
+ All  OCG / TCG  cards that use cards in the hand as Synchro Materials 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Eccentric Boy エキセントリック・ボーイ Effect Monster Tuner monster WIND Spellcaster 3 800 200 Malefic Parallel Gear Ｓｉｎ パラレルギア Effect Monster Tuner monster DARK Machine 2 0 0 Mara of the Nordic Alfar 極星霊スヴァルトアールヴ Effect Monster Tuner monster DARK Spellcaster 2 1000 500 Mecha Phantom Beast Blue Impala 幻獣機ブルーインパラス Effect Monster Tuner monster WIND Machine 3 1400 1100 T.G. Cyber Magician ＴＧ サイバー・マジシャン Effect Monster Tuner monster LIGHT Spellcaster 1 0 0 Tatsunecro タツネクロ Effect Monster Tuner monster DARK Zombie 3 500 1700 Tatsunoko たつのこ Effect Monster Synchro Monster Tuner monster WATER Wyrm 3 1700 500 
+ 
+ 
+ All anime cards that use cards in the hand as Synchro Materials 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Eccentric Boy エキセントリック・ボーイ Effect Monster Tuner monster WIND Spellcaster 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 800 T.G. Cyber Magician ＴＧ サイバー・マジシャン  SC-01 Effect Monster Tuner monster LIGHT Spellcaster 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 Tatsunoko たつのこ Synchro Monster Tuner monster WATER Wyrm 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 1700 
+   Japanese name Card type Property D/D/D Synchro ＤＤＤ シンクロ Spell Card Normal Spell Card Vision Synchro 幻影調和 Trap Card Normal Trap Card 
+ All manga cards that use cards in the hand as Synchro Materials 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Dragon Force ドラゴンフォース 
+ 
+ 
+ 
+Categories: Cards by effect properties

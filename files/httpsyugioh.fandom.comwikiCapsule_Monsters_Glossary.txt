@@ -1,0 +1,73 @@
+Link: https://yugioh.fandom.com/wiki/Capsule_Monsters_Glossary
+
+      Index     
+ Contents 
+ 
+ 1   Team 
+ 2   King 
+ 3   Monster Cost 
+ 4   Hit Points 
+ 5   Damage Value 
+ 6   Special Ability 
+ 7   Faction 
+ 8   Move and Attack 
+ 
+ 8.1   Range 
+ 8.2   Cost 
+ 8.3   Patterns 
+ 
+ 
+ 9   Special Ability 
+ 10   Monster Points 
+ 11   Action Points 
+ 12   Level-2 Monsters 
+ 
+ 
+ Team 
+ Your team is the set of monsters you are using.
+ 
+ King 
+ In the beginning you have to choose what king you want,  Dark  or  Light  light helps light, electric and dark helps  Earth .
+ 
+ Monster Cost 
+ MP is Monster Cost in the start of the game you have to choose which monsters you want and how many MP amount you will have.
+ 
+ Hit Points 
+ Is how much damage a monster can sustain before being destroyed.
+ 
+ Damage Value 
+ It is how many HP lost the other monster lost from an attack.
+ 
+ Special Ability 
+ Monsters have Special Abilities.
+ 
+ Faction 
+ Factions are types such as Dark, Light, Electric, and Earth; some take +1 bonus damage when the other Electric, Light, Earth, and Dark Earth attack a monster that is weak against.
+ 
+ Move and Attack 
+ Range 
+ Is the amount of spaces that your monster can attack from.
+ 
+ Cost 
+ Is the amount of action points used to attack or move.
+ 
+ Patterns 
+ A monster with the (+) symbol  means that it moves in a horizontal and vertical direction. The (X) symbol means that it moves in a diagonal direction. The (O) symbol means that it moves in all directions.
+ 
+ Special Ability 
+ Monsters have special effects like the Yugioh Card game.
+ 
+ Monster Points 
+ You start off with ... Monster Points, You pay these to summon a monster the by the amount stated as Monster points. This is long MP.
+ 
+ Action Points 
+ You start off with 40 action points you pay these to attack and move.
+ 
+ Level-2 Monsters 
+ Level-2 Monsters  are identified by having  (2)  at the end of their names. These can only be included on your team if they have the same  Faction  as your  King .
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/cd/CapMonCardIndex.png/revision/latest/scale-to-width-down/500?cb=20080113003154']
+Categories: Capsule Monsters

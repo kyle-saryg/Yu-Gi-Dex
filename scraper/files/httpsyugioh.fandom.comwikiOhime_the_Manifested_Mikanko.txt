@@ -1,0 +1,106 @@
+Link: https://yugioh.fandom.com/wiki/Ohime_the_Manifested_Mikanko
+
+
+ 
+ 
+ Ohime the Manifested Mikanko オオヒメの 御巫 
+ 
+ English 
+Ohime the Manifested Mikanko 
+ Japanese (kana) 
+ オオヒメのみかんこ Check translation 
+ Japanese (base) 
+ オオヒメの御巫 Check translation 
+ Japanese ( rōmaji ) 
+Oohime no Mikanko 
+ Japanese (translated) 
+Mikanko of the Oohime 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Fairy  /  Ritual  /  Effect 
+ Level 
+ 6   
+ ATK  /  DEF 
+ 0  /  0 
+ Passcode 
+ 81260679 
+ Ritual Spell Card  required 
+ 
+ 
+ " Mikanko Kagura "  Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+You can  Ritual Summon  this card with " Mikanko Kagura ". Cannot be  destroyed by battle , also your opponent takes any  battle damage  you would take from  battles  involving this card instead. You can only use each of the following  effects  of "Ohime the Manifested Mikanko"  once per turn . You can  reveal  this card in your  hand ;  add  1 " Mikanko " card from your  Deck  to your hand, except "Ohime the Manifested Mikanko", then  discard  1 card. ( Quick Effect ): You can  target  1  Equip Spell  in your  GY ;  equip  it to an appropriate  monster  on the  field . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「御巫神楽」により降臨。このカード名の①③の効果はそれぞれ１ターンに１度しか使用できない。①：手札のこのカードを相手に見せて発動できる。デッキから「オオヒメの御巫」以外の「御巫」カード１枚を手札に加える。その後、自分の手札を１枚選んで捨てる。②：このカードは戦闘では破壊されず、このカードの戦闘で発生する自分への戦闘ダメージは代わりに相手が受ける。③：自分・相手ターンに、自分の墓地の装備魔法カード１枚を対象として発動できる。そのカードを装備可能なフィールドのモンスター１体に装備する。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-08-20 DBAD-JP027 Deck Build Pack: Amazing Defenders デッキビルドパック アメイジング・ディフェンダーズ Ultra Rare 2022-08-20 DBAD-JP027 Deck Build Pack: Amazing Defenders デッキビルドパック アメイジング・ディフェンダーズ Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Mikanko 
+ 
+ Supports   archetypes   
+ Mikanko 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 18017 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Mikanko " 「 御巫 」 Members 
+ Hare the Sword Mikanko Nini the Mirror Mikanko Ohime the Manifested Mikanko 
+ Arabesque of the Mikanko Blazing Dance of the Mikanko Doorway of the Celestial Mikanko The Great Mikanko of Legend Inviting Rondo of the Mikanko Mikanko Catfight Mikanko Kagura Mikanko Promise Purifying Dance of the Mikanko 
+ Support 
+ Hare the Sword Mikanko Nini the Mirror Mikanko Ohime the Manifested Mikanko 
+ Arabesque of the Mikanko Blazing Dance of the Mikanko Doorway of the Celestial Mikanko The Great Mikanko of Legend Inviting Rondo of the Mikanko Mikanko Catfight Mikanko Kagura Mikanko Promise Purifying Dance of the Mikanko 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/42/OhimetheManifestedMikanko-AMDE-EN-1E-OP.png/revision/latest?cb=20221101000224', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

@@ -1,0 +1,484 @@
+Link: https://yugioh.fandom.com/wiki/Caius_the_Mega_Monarch
+
+
+ 
+ 
+ Caius the Mega Monarch 怨 邪 帝 ガイウス 
+ 
+ English 
+Caius the Mega Monarch 
+ French 
+ Caius le Méga Monarque Check translation 
+ German 
+ Caius der Megamonarch Check translation 
+ Italian 
+ Caius il Mega Monarca Check translation 
+ Korean 
+ 원사 제왕 가이우스 Check translation 
+ Portuguese 
+ Caius, o Mega Monarca Check translation 
+ Spanish 
+ Caius el Mega Monarca Check translation 
+ Japanese (kana) 
+ おんじゃていガイウス Check translation 
+ Japanese (base) 
+ 怨邪帝ガイウス Check translation 
+ Japanese ( rōmaji ) 
+Onjatei Gaiusu 
+ Japanese (translated) 
+Gaius the Grudge Wicked Monarch 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Fiend  /  Effect 
+ Level 
+ 8   
+ ATK  /  DEF 
+ 2800  /  1000 
+ Passcode 
+ 87288189 
+ Card effect types 
+ 
+ 
+ Summon 
+ Trigger 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+You can  Tribute Summon  this card by  Tributing  1 Tribute Summoned  monster . If this card is Tribute Summoned:  Target  1 card on the  field ;  banish  it, and if you do, inflict 1000  damage  to your opponent, then, if it is a  DARK  Monster Card,  banish  all cards with that name from the  hand ,  Main Deck ,  Extra Deck , and  GY  of the player who  controlled  it. If this card was Tribute Summoned by Tributing a DARK monster, add this additional  effect . ● You can target 2 cards, instead. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Vous pouvez Invoquer par Sacrifice cette carte en Sacrifiant 1 monstre Invoqué par Sacrifice. Si cette carte est Invoquée par Sacrifice : ciblez 1 carte sur le Terrain ; bannissez-la, et si vous le faites, infligez 1000 points de dommages à votre adversaire, puis, si c'est une Carte Monstre TÉNÈBRES, bannissez toutes les cartes de ce nom depuis la main, Main Deck, Extra Deck et Cimetière du joueur qui la contrôlait. Si cette carte a été Invoquée par Sacrifice en Sacrifiant un monstre TÉNÈBRES, ajoutez cet effet supplémentaire. ● Vous pouvez cibler 2 cartes à la place. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Du kannst diese Karte als Tributbeschwörung beschwören, indem du 1 als Tributbeschwörung beschworenes Monster als Tribut anbietest. Falls diese Karte als Tributbeschwörung beschworen wird: Wähle 1 Karte auf dem Spielfeld; verbanne sie und falls du dies tust, füge deinem Gegner 1000 Schaden zu, dann, falls es eine FINSTERNIS Monsterkarte ist, verbanne alle Karten mit demselben Namen von der Hand, dem Main Deck, dem Extra Deck und dem Friedhof des Spielers, der sie kontrolliert hat. Falls diese Karte als Tributbeschwörung beschworen wurde, indem ein FINSTERNIS Monster als Tribut angeboten wurde, füge diesen zusätzlichen Effekt hinzu. ● Du kannst stattdessen 2 Karten wählen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Puoi  Evocare tramite Tributo  questa carta  offrendo come Tributo  1 mostro Evocato tramite Tributo. Se questa carta viene Evocata tramite Tributo:  scegli come bersaglio  1 carta sul  Terreno ;  bandiscila  e, se lo fai, infliggi 1000  danni  al tuo avversario, poi, se era una Carta Mostro  OSCURITÀ ,  bandisci  tutte le carte con quel nome dalla  mano ,  Main Deck ,  Extra Deck , e  Cimitero  del giocatore che la  controllava . Se questa carta è stata Evocata tramite Tributo offrendo come Tributo un mostro OSCURITÀ, aggiungi questo  effetto  addizionale. ● Puoi invece scegliere come bersaglio 2 carte. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Você pode  Invocar  este card por  Invocação-Tributo  ao  oferecer como Tributo  1  monstro  Invocado por Invocação-Tributo. Se este card for Invocado por Invocação-Tributo:  escolha  1 card no  campo ;  bana-o(s)  e, se isso acontecer, cause 1000 de  dano  ao seu oponente e, depois, se ele (qualquer um deles) era um Card de Monstro de  TREVAS , bana todos os cards com aquele nome da  mão ,  Deck Principal ,  Deck Adicional  e  Cemitério  do duelista que o  controlava . Se este card foi Invocado por Invocação-Tributo pelo Tributo de um monstro de TREVAS, adicione este  efeito  adicional. ● Em vez disso, você pode escolher 2 cards. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Puedes Invocar esta carta por Sacrificio Sacrificando 1 monstruo Invocado por Sacrificio. Si esta carta es Invocada por Sacrificio: selecciona 1 carta en el Campo; destiérrala y, si lo haces, inflige 1000 puntos de daño a tu adversario y después, si es una Carta de Monstruo de OSCURIDAD, destierra todas las cartas con ese mismo nombre en la mano, Deck Principal, Deck Extra y Cementerio del jugador que la controlaba. Si esta carta fue Invocada por Sacrificio Sacrificando un monstruo de OSCURIDAD, añade este efecto adicional. ● En su lugar, puedes seleccionar 2 cartas. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードはアドバンス召喚したモンスター１体をリリースしてアドバンス召喚できる。①：このカードがアドバンス召喚に成功した場合、フィールドのカード１枚を対象として発動する。そのカードを除外し、相手に１０００ダメージを与える。除外したカードが闇属性モンスターカードだった場合、そのコントローラーの手札・デッキ・エクストラデッキ・墓地から同名カードを全て除外する。このカードが闇属性モンスターをリリースしてアドバンス召喚に成功した場合、その時の効果に以下の効果を加える。●この効果の対象を２枚にできる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드는 어드밴스 소환한 몬스터 1장을 릴리스하고 어드밴스 소환할 수 있다. ① : 이 카드가 어드밴스 소환에 성공했을 경우, 필드의 카드 1장을 대상으로 하고 발동한다. 그 카드를 제외하고, 상대에게 1000 데미지를 준다. 제외한 카드가 어둠 속성 몬스터 카드였을 경우, 그 컨트롤러의 패 / 덱 / 엑스트라 덱 / 묘지에서 같은 이름의 카드를 전부 제외한다. 이 카드가 어둠 속성 몬스터를 릴리스하고 어드밴스 소환에 성공했을 경우, 그때의 효과에 이하의 효과를 넣는다. ●이 효과의 대상을 2장으로 할 수 있다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2015-01-15  
+ SECE-EN035   
+ The Secret of Evolution 
+ Ultra Rare 
+ 
+ 
+ 2015-09-17  
+ MP15-EN215   
+ 2015 Mega-Tin Mega Pack 
+ Ultra Rare 
+ 
+ 
+ 2018-04-19  
+ SR06-EN008   
+ Structure Deck: Lair of Darkness 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2015-01-15  
+ SECE-FR035   
+ The Secret of Evolution 
+ Les Secrets de L'Eternite  
+ Ultra Rare 
+ 
+ 
+ 2015-09-17  
+ MP15-FR215   
+ 2015 Mega-Tin Mega Pack 
+ 2015 Méga-Boîte Méga-Pack  
+ Ultra Rare 
+ 
+ 
+ 2018-04-19  
+ SR06-FR008   
+ Structure Deck: Lair of Darkness 
+ Deck de Structure : L'Antre des Ténèbres  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2015-01-15  
+ SECE-DE035   
+ The Secret of Evolution 
+ Secrets of Eternity  
+ Ultra Rare 
+ 
+ 
+ 2015-09-17  
+ MP15-DE215   
+ 2015 Mega-Tin Mega Pack 
+ 2015 Mega-Tin Mega Pack  
+ Ultra Rare 
+ 
+ 
+ 2018-04-19  
+ SR06-DE008   
+ Structure Deck: Lair of Darkness 
+ Structure Deck: Lair of Darkness  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2015-01-15  
+ SECE-IT035   
+ The Secret of Evolution 
+ Segreti dell'Eternità  
+ Ultra Rare 
+ 
+ 
+ 2015-09-17  
+ MP15-IT215   
+ 2015 Mega-Tin Mega Pack 
+ 2015 Mega-Tin Mega Pack  
+ Ultra Rare 
+ 
+ 
+ 2018-04-19  
+ SR06-IT008   
+ Structure Deck: Lair of Darkness 
+ Structure Deck: Tana dell'Oscurità  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2015-01-16  
+ SECE-PT035   
+ The Secret of Evolution 
+ Segredos da Eternidade  
+ Ultra Rare 
+ 
+ 
+ 2015-09-17  
+ MP15-PT215   
+ 2015 Mega-Tin Mega Pack 
+ Mega-Pacote da Mega-Latas 2015  
+ Ultra Rare 
+ 
+ 
+ 2018-04-20  
+ SR06-PT008   
+ Structure Deck: Lair of Darkness 
+ Deck Estrutural: Covil das Trevas  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2015-01-15  
+ SECE-SP035   
+ The Secret of Evolution 
+ Secretos de la Eternidad  
+ Ultra Rare 
+ 
+ 
+ 2015-09-17  
+ MP15-SP215   
+ 2015 Mega-Tin Mega Pack 
+ 2015 Mega-Lata Mega Pack  
+ Ultra Rare 
+ 
+ 
+ 2018-04-19  
+ SR06-SP008   
+ Structure Deck: Lair of Darkness 
+ Baraja de Estructura: Guarida de la Oscuridad  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2014-11-15  
+ SECE-JP035   
+ The Secret of Evolution 
+ ザ・シークレット・オブ・エボリューション  
+ Super Rare 
+ 
+ 
+ 2014-11-15  
+ SECE-JP035   
+ The Secret of Evolution 
+ ザ・シークレット・オブ・エボリューション  
+ Secret Rare 
+ 
+ 
+ 2018-03-10  
+ SR06-JP008   
+ Structure Deck R: Curse of the Dark 
+ ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ Ｒ －闇黒の呪縛－  
+ Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2015-02-13  
+ SECE-KR035   
+ The Secret of Evolution 
+ 더 시크릿 오브 에볼루션  
+ Super Rare 
+ 
+ 
+ 2015-02-13  
+ SECE-KR035   
+ The Secret of Evolution 
+ 더 시크릿 오브 에볼루션  
+ Secret Rare 
+ 
+ 
+ 2018-06-15  
+ SR06-KR008   
+ Structure Deck R: Curse of the Dark 
+ ＳＴＲＵＣＴＵＲＥ　ＤＥＣＫ 　Ｒ　-　암흑의 주박　-  
+ Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ DARK 
+ 
+ Anti-supports   
+ DARK 
+ 
+ Archetypes  and  series   
+ Monarch 
+ 
+ Actions  
+ Activates upon Tribute Summon 
+ 
+ Summoning  categories  
+ Normal Summon with 1 Tribute 
+ 
+ Banished  categories  
+ Banishes from your field 
+ Banishes from your opponent's field 
+ Banishes from your opponent's hand 
+ Banishes from your opponent's Deck 
+ Banishes from your opponent's Extra Deck 
+ Banishes from your opponent's Graveyard 
+ 
+ LP   
+ Damages your opponent 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11555 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Monarch " 「 帝 」 Members 
+ Angmarl the Fiendish Monarch Caius the Mega Monarch Caius the Shadow Monarch Delg the Dark Monarch Edea the Heavenly Squire Ehther the Heavenly Monarch Eidos the Underworld Squire Erebus the Underworld Monarch Granmarg the Mega Monarch Granmarg the Rock Monarch Kuraz the Light Monarch Mobius the Frost Monarch Mobius the Mega Monarch Raiza the Mega Monarch Raiza the Storm Monarch Tenmataitei Thestalos the Firestorm Monarch Thestalos the Mega Monarch Zaborg the Mega Monarch Zaborg the Thunder Monarch 
+ Related 
+ Berlineth the Firestorm Vassal Emperor of Lightning Escher the Frost Vassal Garum the Storm Vassal Ice Knight Illusory Snatcher Landrobe the Rock Vassal Lucius the Shadow Vassal Majesty's Fiend Mithra the Thunder Vassal Psychic Emperor Samsara Kaiser Tlakalel, His Malevolent Majesty 
+ By Order of the Emperor Dark Advance Domain of the True Monarchs Escalation of the Monarchs The First Monarch Frost Blast of the Monarchs March of the Monarchs The Monarchs Awaken The Monarchs Erupt The Monarchs Stormforth Pantheism of the Monarchs The Prime Monarch Restoration of the Monarchs Return of the Monarchs Strike of the Monarchs Tenacity of the Monarchs 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/41/CaiustheMegaMonarch-SR06-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180421154416', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,283 @@
+Link: https://yugioh.fandom.com/wiki/Borreload_Dragon
+
+
+ 
+ 
+ Borreload Dragon ヴァレルロード・ドラゴン 
+ 
+ English 
+Borreload Dragon 
+ French 
+ Dragon Chargeborrelle Check translation 
+ German 
+ Kalliberlade-Drache Check translation 
+ Italian 
+ Drago Callibrocarica Check translation 
+ Korean 
+ 바렐로드 드래곤 Check translation 
+ Portuguese 
+ Dragão Callibregado Check translation 
+ Spanish 
+ Dragón Borrecarga Check translation 
+ Japanese 
+ ヴァレルロード・ドラゴン Check translation 
+ Japanese ( rōmaji ) 
+Varerurōdo Doragon 
+ Japanese (translated) 
+Varrelload Dragon 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Dragon  /  Link  /  Effect 
+ Link Arrows 
+ Left   ,  Bottom-Left   ,  Bottom-Right   ,  Right   
+ ATK  /  LINK 
+ 3000  /  4 
+ Passcode 
+ 31833038 
+ Materials 
+3+ Effect Monsters 
+ Card effect types 
+ 
+ 
+ Continuous 
+ Quick 
+ Condition 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+3+  Effect Monsters Neither player can  target  this card with  monster effects .  Once per turn  ( Quick Effect ): You can target 1  face-up   monster  on the  field ; it loses 500  ATK / DEF . Your opponent cannot  activate  cards or  effects  in  response  to this effect's activation. At the start of the  Damage Step , if this card  attacks  an opponent's monster: You can place that opponent's monster in a  zone  this card  points to  and take  control  of it, but  send  it to the  GY  during the  End Phase  of the next  turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 3+ Monstres à Effet Aucun joueur ne peut cibler cette carte avec des effets de monstre. Une fois par tour (Effet Rapide) : vous pouvez cibler 1 monstre face recto sur le Terrain ; il perd 500 ATK/DEF. Votre adversaire ne peut ni activer de cartes ni d'effets en réponse à l'activation de cet effet. Au début de la Damage Step, si cette carte attaque un monstre de l'adversaire : vous pouvez placer le monstre de l'adversaire dans une zone pointée par cette carte et en prendre le contrôle, mais envoyez-le au Cimetière durant la End Phase du prochain tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 3+ Effektmonster Kein Spieler kann diese Karte als Ziel für Monstereffekte wählen. Einmal pro Spielzug (Schnelleffekt): Du kannst 1 offenes Monster auf dem Spielfeld wählen; es verliert 500 ATK/DEF. Dein Gegner kann weder Karten noch Effekte als Reaktion auf die Aktivierung dieses Effekts aktivieren. Am Beginn des Damage Steps, falls diese Karte ein Monster eines Gegners angreift: Du kannst das Monster eines Gegners in eine Zone legen, auf die diese Karte zeigt, und die Kontrolle darüber übernehmen, aber lege es während der End Phase des nächsten Spielzugs auf den Friedhof. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 3+ Mostri con Effetto Nessun giocatore può scegliere come bersaglio questa carta con gli effetti dei mostri. Una volta per turno (Effetto Rapido): puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; esso perde 500 ATK e DEF. Il tuo avversario non può attivare carte o effetti in risposta all'attivazione di questo effetto. All'inizio del Damage Step, se questa carta attacca un mostro dell'avversario: puoi mettere quel mostro dell'avversario in una zona puntata da questa carta e prenderne il controllo, ma mandalo al Cimitero durante la End Phase del prossimo turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 3+ Monstros de Efeito Nenhum duelista pode escolher este card como alvo de efeitos de monstro. Uma vez por turno (Efeito Rápido): você pode escolher 1 monstro com a face para cima no campo; ele perde 500 de ATK/DEF. Seu oponente não pode ativar cards ou efeitos em resposta à ativação deste efeito. No começo da Etapa de Dano, se este card atacar um monstro do oponente: você pode colocar esse monstro do oponente em uma zona para a qual este card apontar e tomar o controle dele, mas envie-o para o Cemitério durante a Fase Final do próximo turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 3+ Monstruos de Efecto Ningún jugador puede seleccionar esta carta con efectos de monstruo. Una vez por turno (Efecto Rápido): puedes seleccionar 1 monstruo boca arriba en el Campo; éste pierde 500 ATK/DEF. Tu adversario no puede activar cartas o efectos en respuesta a la activación de este efecto. Al comienzo del Damage Step, si esta carta ataca a un monstruo del adversario: puedes poner ese monstruo de tu adversario en una zona a la que apunte esta carta y tomar su control, pero mándalo al Cementerio durante la End Phase del próximo turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 効果モンスター３体以上 ①：このカードはモンスターの効果の対象にならない。②：１ターンに１度、フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力・守備力は５００ダウンする。この効果の発動に対して相手はカードの効果を発動できない。この効果は相手ターンでも発動できる。③：このカードが相手モンスターに攻撃するダメージステップ開始時に発動できる。その相手モンスターをこのカードのリンク先に置いてコントロールを得る。そのモンスターは次のターンのエンドフェイズに墓地へ送られる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 효과 몬스터 3장 이상 ①: 이 카드는 몬스터의 효과의 대상이 되지 않는다. ②: 1턴에 1번, 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 공격력 / 수비력은 500 내린다. 이 효과의 발동에 대하여 상대는 카드의 효과를 발동할 수 없다. 이 효과는 상대 턴에도 발동할 수 있다. ③: 이 카드가 상대 몬스터에 공격하는 데미지 스텝 개시시에 발동할 수 있다. 그 상대 몬스터를 이 카드의 링크 앞에 놓고 컨트롤을 얻는다. 그 몬스터는 다음 턴의 엔드 페이즈에 묘지로 보내진다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2017-10-19 CIBR-EN042 Circuit Break Secret Rare 2018-08-30 MP18-EN131 2018 Mega-Tin Mega Pack Secret Rare 2019-04-03 DUPO-EN074 Duel Power Ultra Rare 2019-08-16 SDRR-EN044 Structure Deck: Rokket Revolt Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2017-10-19 CIBR-FR042 Circuit Break Le Coupe-Circuit Secret Rare 2018-08-30 MP18-FR131 2018 Mega-Tin Mega Pack 2018 Méga-Boîtes Méga Pack Secret Rare 2019-04-04 DUPO-FR074 Duel Power Le Pouvoir du Duel Ultra Rare 2019-08-16 SDRR-FR044 Structure Deck: Rokket Revolt Deck de Structure : la Révolte Rokkette Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2017-10-19 CIBR-DE042 Circuit Break Circuit Break Secret Rare 2018-08-30 MP18-DE131 2018 Mega-Tin Mega Pack 2018 Mega-Tin Mega Pack Secret Rare 2019-04-04 DUPO-DE074 Duel Power Duel Power Ultra Rare 2019-08-16 SDRR-DE044 Structure Deck: Rokket Revolt Structure Deck: Rokket Revolt Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2017-10-19 CIBR-IT042 Circuit Break Distruzione del Circuito Secret Rare 2018-08-30 MP18-IT131 2018 Mega-Tin Mega Pack Mega-Tin 2018 Mega-Pack Secret Rare 2019-04-04 DUPO-IT074 Duel Power l Potere del Duello Ultra Rare 2019-08-16 SDRR-IT044 Structure Deck: Rokket Revolt Structure Deck: Rivolta dei Mizzile Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2017-10-19 CIBR-PT042 Circuit Break Ruptura de Circuito Secret Rare 2018-08-30 MP18-PT131 2018 Mega-Tin Mega Pack Mega-Pacote da Mega-Latas 2018 Secret Rare 2019-04-04 DUPO-PT074 Duel Power O Poder do Duelo Ultra Rare 2019-08-16 SDRR-PT044 Structure Deck: Rokket Revolt Deck Estrutural: Revolta do Foguette Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2017-10-19 CIBR-SP042 Circuit Break Destrucción del Circuito Secret Rare 2018-08-30 MP18-SP131 2018 Mega-Tin Mega Pack Mega-Latas 2018 Mega-Pack Secret Rare 2019-04-04 DUPO-SP074 Duel Power El Poder del Duelo Ultra Rare 2019-08-16 SDRR-SP044 Structure Deck: Rokket Revolt Baraja de Estructura: Rebelión de los Cohettes Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2017-07-08 CIBR-JP042 Circuit Break サーキット・ブレイク Ultra Rare 2017-07-08 CIBR-JP042 Circuit Break サーキット・ブレイク Secret Rare 2017-07-08 CIBR-JP042 Circuit Break サーキット・ブレイク Ultimate Rare 2017-07-08 CIBR-JP042 Circuit Break サーキット・ブレイク Holographic Rare 2017-12-23 LVB1-JPS04 LINK VRAINS Box ＬＩＮＫ ＶＲＡＩＮＳ ＢＯＸ Extra Secret Rare 2019-06-22 SD36-JPP03 Structure Deck: Revolver Extra Deck Enhancement Pack ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ リボルバ― エクストラデッキ強化パック Normal Parallel Rare 2021-07-17 BODE-JPS01 Burst of Destiny +1 Bonus Pack バースト・オブ・デスティニー＋１ボーナスパック Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2017-09-27 CIBR-KR042 Circuit Break 서킷 브레이크 Ultra Rare 2017-09-27 CIBR-KR042 Circuit Break 서킷 브레이크 Secret Rare 2017-09-27 CIBR-KR042 Circuit Break 서킷 브레이크 Ultimate Rare 2017-12-19 CIBR-KRGE1 Circuit Break: Giant Edition 서킷 브레이크 자이언트 에디션 Super Rare 2018-06-26 LVB1-KRS04 LINK VRAINS Box LINK   VRAINS   BOX Extra Secret Rare 2019-10-11 SD36-KRP03 Structure Deck: Revolver Extra Deck Enhancement Pack ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ  － 리볼버 － 강화 팩 Normal Parallel Rare 2021-10-26 BODE-KRS01 Burst of Destiny +1 Bonus Pack 버스트 오브 데스티니 스페셜 팩 Prismatic Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Effect Monster 
+ 
+ Archetypes  and  series   
+ Borrel 
+ 
+ Related to  archetypes  and  series   
+ Rokket 
+ 
+ Actions  
+ Changes control 
+ Sends from your field to your Graveyard 
+ 
+ Stat changes  
+ Your monsters lose ATK 
+ Your monsters lose DEF 
+ Your opponent's monsters lose ATK 
+ Your opponent's monsters lose DEF 
+ 
+ Monster / Spell / Trap  categories  
+ Cannot be targeted by card effects 
+ Prevents responding to its activation 
+ 
+ Summoning  categories  
+ 3+ Link Materials 
+ Requires Effect Monsters as Link Materials 
+ 
+ Miscellaneous  
+ Limited activations 
+ Cover card 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 13258 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Borreload Dragon " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Borrel " 「ヴァレル」 Members 
+ Borrelcode Dragon Borrelend Dragon Borrelguard Dragon Borreload Dragon Borreload Furious Dragon Borreload Riot Dragon Borreload Savage Dragon Borreload eXcharge Dragon Borrelsword Dragon Miniborrel Dragon Quadborrel Dragon 
+ Borrel Cooling Borrel Regenerator Borrel Supplier 
+ Support 
+ Borreload Riot Dragon Borreload eXcharge Dragon Miniborrel Dragon Rokket Coder 
+ Bayonet Punisher Borrel Cooling Borrel Supplier Execute Protocols 
+ Related 
+ Double Disrupter Dragon 
+ Prisoners of Destiny Rapid Trigger Zero-Day Blaster 
+ 
+   
+" Rokket " 「ヴァレット」 Members 
+ Anesthrokket Dragon Autorokket Dragon Exploderokket Dragon Magnarokket Dragon Metalrokket Dragon Rokket Caliber Rokket Coder Rokket Recharger Rokket Synchron Rokket Tracer Shelrokket Dragon Silverrokket Dragon 
+ Support 
+ Absorouter Dragon Anesthrokket Dragon Autorokket Dragon Booster Dragon Borrelend Dragon Borreload Riot Dragon Dillingerous Dragon Double Disrupter Dragon Exploderokket Dragon Magnarokket Dragon Metalrokket Dragon Miniborrel Dragon Overburst Dragon Quadborrel Dragon Rokket Tracer Shelrokket Dragon Silverrokket Dragon Speedburst Dragon Striker Dragon 
+ Boot Sector Launch Borrel Cooling Borrel Regenerator Borrel Supplier Heavy Interlock Link Turret Quick Launch Squib Draw Tactical Exchanger 
+ Related 
+ Borreload Dragon Chobham Armor Dragon Flash Charge Dragon Noctovision Dragon Triggering Wurm Triple Burst Dragon Vorticular Drumgon 
+ Rapid Trigger 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/ba/BorreloadDragon-SDRR-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20211029130751', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/2/25/LM-Left.png/revision/latest?cb=20170326055237', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

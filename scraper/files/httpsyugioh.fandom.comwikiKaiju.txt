@@ -1,0 +1,989 @@
+Link: https://yugioh.fandom.com/wiki/Kaiju
+
+
+ 
+ Kaiju 
+ 壊獣 「 かいじゅう 」  ( Kaijū ) 
+ 
+ 
+ 
+ 
+ " Radian " and " Gameciel " in the artwork of " Kaiju Capture Mission ". 
+ 
+ 
+ Other names 
+ 
+ French 
+ Kaiju 
+ 
+ 
+ German 
+ Kaiju 
+ 
+ 
+ Italian 
+ Kaiju 
+ 
+ 
+ Korean 
+ 파괴수 破壞獸   (Hanja)   Pagoesu   (romanized) Translation:  Destruction Beast 
+ 
+ 
+ Portuguese 
+ Kaiju 
+ 
+ 
+ Spanish 
+ Kaiju 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Structure Deck: Soulburner 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Clash of Rebellions Dimension of Chaos Breakers of Shadow Shining Victories OTS Tournament Pack 2 2016 Mega-Tin Mega Pack OTS Tournament Pack 4 OTS Tournament Pack 5 Structure Deck: Mechanized Madness 2020 Tin of Lost Memories Brothers of Legend Structure Deck: Albaz Strike Speed Duel GX: Midterm Paradox 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Extra Pack 2016 Rarity Collection Premium Gold Edition Structure Deck R: Machiners Command Structure Deck: Sacred Beasts of Chaos Structure Deck: Alba Strike Structure Deck: Forest of the Traptrix 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! VRAINS 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support Anti-support 
+ 
+ 
+ 
+ 
+ " Kaiju " ( 壊 獣   Kaijū ) is an  archetype  of high- Level   monsters  with various  Attributes  and  Types  (primarily  LIGHT  &  Machine ) introduced in  Clash of Rebellions . It is one of two  TCG -exclusive  archetypes that premiered in that set, the other being the " Kozmo " archetype.
+ The archetype has become infamous for its ability to provide cheap and generic monster removal while bypassing almost any protection the target may have. However, due to Master Rule 4, Kaiju monsters cannot get rid of monsters in the  Extra Monster Zone  if that player's  Main Monster Zone  is full.
+ 
+ Contents 
+ 
+ 1   Design 
+ 
+ 1.1   Appearance 
+ 1.2   Etymology 
+ 
+ 
+ 2   Members 
+ 3   Support 
+ 4   Playing style 
+ 
+ 4.1   Cyber Dragon Kaiju 
+ 4.2   Graydle Kaiju 
+ 
+ 
+ 5   Weaknesses 
+ 
+ 
+ Design 
+ Appearance 
+ Each "Kaiju" monster is based on a monster from different  kaiju  franchises, such as  Godzilla ,  Ultraman ,  Pacific Rim  and  Gamera . Their Field Spell represents a common setting for the movies, while the other Spell/Trap Cards seem to be common scenes in these movies.
+ 
+ Etymology 
+ Kaiju is a Japanese term meaning "strange beast" or "monster", frequently used to describe giant monsters from movies. However, the Japanese archetype name is a pun, as it is written as 「壊獣」 instead of 「怪獣」 , with a Kanji for "destruction" replacing the one for "strange". This pun isn't visible in  TCG  languages; in Korean, the pun doesn't work either, and the name simply translates to "destruction beast".
+ 
+ Members 
+ 
+ 
+ Monster 
+ Origin
+ 
+ 
+ Dogoran, the Mad Flame Kaiju 
+ Burning Godzilla ; named after  Dogora 
+ 
+ 
+ Gadarla, the Mystery Dust Kaiju 
+ Mothra / Megaguirus 
+ 
+ 
+ Gameciel, the Sea Turtle Kaiju 
+ Gamera 
+ 
+ 
+ Jizukiru, the Star Destroying Kaiju 
+ Legion 
+ 
+ 
+ Kumongous, the Sticky String Kaiju 
+ Kumonga 
+ 
+ 
+ Radian, the Multidimensional Kaiju 
+ Dark Lugiel ; named after  Rodan 
+ 
+ 
+ Super Anti-Kaiju War Machine Mecha-Dogoran 
+ MechaGodzilla / Kiryu 
+ 
+ 
+ Super Anti-Kaiju War Machine Mecha-Thunder-King 
+ Mecha-King Ghidorah 
+ 
+ 
+ Thunder King, the Lightningstrike Kaiju 
+ King Ghidorah ; named after  Eleking 
+ 
+ Support 
+ 
+ 
+ Card 
+ Origin
+ 
+ 
+ Interrupted Kaiju Slumber 
+ Breach 
+ 
+ 
+ Kaiju Capture Mission 
+ G-Force 
+ 
+ 
+ The Kaiju Files 
+ 
+ 
+ Kyoutou Waterfront 
+ Kyoto / Tokyo ,  Japan 
+ 
+ Playing style 
+ Each member with the exception of " Mecha-Dogoran ", can Tribute an opponent's monster to Summon it to their side of the field, similar to " Volcanic Queen " or " Lava Golem ", and can be Special Summoned from the hand if the opponent controls a "Kaiju" monster, most likely symbolizing the obsession these monsters have with fighting each other in movies. " Kyoutou Waterfront " is a very important card to the archetype as it both provides  Kaiju Counters  to use the "Kaiju" monsters' effects and searches those monsters from the Deck. Numerous Normal Spell Cards, such as " Upstart Goblin ", are recommended to put Kaiju Counters on "Waterfront" and increase consistency. The " Ninja " engine is also very helpful as of  Clash of Rebellions , as it helps to Summon the few monsters in the archetype with ease, while also putting counters on "Waterfront" with cards such as " Reinforcement of the Army " and the "Ninjitsu Transformation" cards.
+ A very useful card to add to this archetype is " Neo-Spacian Grand Mole ". If a monster your opponent controls that is owned by you is returned to the hand, it returns to your hand, not your opponent's. Therefore, you can Tribute an opponent's monster to Summon a Kaiju to their field, then Summon a Kaiju to your field, and Normal Summon Grand Mole. Attack the enemy Kaiju with Grand Mole and return both to your hand, then either attack another opponent's monster or attack directly. This combination essentially allows you to Summon a massive, powerful beatstick for free, and Tribute an opponent's monster (thereby getting around any anti-destruction or targeting effects it has too) in the process.
+ " Castel, the Skyblaster Musketeer " is another card with high utility. He can be summoned easily with " Summoner Monk " and any of several Level 4 staples (" Electromagnetic Turtle ", " Planet Pathfinder ", etc.), and his first effect can be used to flip Kaijus you control face-down in order to summon more, plus he has additional utility in a tricky situation to get rid of a problematic card.
+ 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ Dogoran, the Mad Flame Kaiju 
+ Gameciel, the Sea Turtle Kaiju 
+ Gadarla, the Mystery Dust Kaiju 
+ Jizukiru, the Star Destroying Kaiju 
+ Kumongous, the Sticky String Kaiju 
+ Radian, the Multidimensional Kaiju 
+ Super Anti-Kaiju War Machine Mecha-Dogoran 
+ Thunder King, the Lightningstrike Kaiju 
+ Cardcar D 
+ Lava Golem 
+ Planet Pathfinder 
+ Santa Claws 
+ Volcanic Queen 
+ Ninja Grandmaster Hanzo 
+ Upstart Golden Ninja 
+ Neo-Spacian Grand Mole Extra Deck   
+ Xyz Monsters 
+ Castel, the Skyblaster Musketeer 
+ Number 38: Hope Harbinger Dragon Titanic Galaxy Spells   &  Traps   
+ Spells 
+ Interrupted Kaiju Slumber 
+ Kyoutou Waterfront 
+ The Kaiju Files 
+ Creature Swap 
+ Kaiser Colosseum 
+ Owner's Seal 
+ Terraforming 
+ Magic Planter 
+ Trade-In 
+ Reinforcement of the Army 
+ Upstart Goblin  (for adding Kaiju Counters) 
+ Traps 
+ Kaiju Capture Mission 
+ Jar of Greed  /  Legacy of Yata-Garasu  /  Reckless Greed  (for adding Kaiju Counters) 
+ Remove Brainwashing 
+ Ninjitsu Art of Transformation 
+ Ninjitsu Art of Super-Transformation 
+ Cyber Dragon Kaiju 
+ "Kaiju" monsters can also work around " Cyber Dragon " decks dedicated to " Cyber Dragon Infinity " due to the fact that they are Special Summoned in  Attack Position  via their own effects, and can therefore be taken back as Xyz Material for "Cyber Dragon Infinity" immediately, therefore getting over an opponent's monster that would otherwise be immune to targeting (such as " Blue-Eyes Shining Dragon " or certain " Kozmo " monsters), or avoiding their negation effects (such as those of " Shooting Quasar Dragon ", " Stardust Sifr Divine Dragon ", and " Crystal Wing Synchro Dragon "). This tactic will cause also the last effect of "Shooting Quasar Dragon" to miss its timing, preventing your opponent from negating the effect "Cyber Dragon Infinity" with "Quasar" or Special Summoning " Shooting Star Dragon " after it is tributed.
+ " Jizukiru, the Star Destroying Kaiju " can also be used in conjunction with " Chimeratech Fortress Dragon " if you control " Cyber Dragon " or  any   of   the   monsters  that have their name treated as "Cyber Dragon" while face-up on the field to get rid of an opponent's monster, then immediately be used as Fusion Material for "Chimeratech Fortress Dragon". "Chimeratech Fortress Dragon" can then be used with a Level 8 "Kaiju" monster to Xyz Summon " Number 38: Hope Harbinger Dragon Titanic Galaxy ", " Divine Dragon Knight Felgrand ", or any other Rank 8 Xyz Monster you wish.
+ " Cyber Repair Plant " can not only search your "Cyber Dragon" monsters, " Electromagnetic Turtle ", or " Galaxy Soldier ", but "Jizukiru, the Star Destroying Kaiju" as well.
+ 
+ 
+ Recommended Cards Monsters   
+ Effect Monsters 
+ Gameciel, the Sea Turtle Kaiju 
+ Gadarla, the Mystery Dust Kaiju 
+ Jizukiru, the Star Destroying Kaiju 
+ Thunder King, the Lightningstrike Kaiju 
+ Cyber Dragon 
+ Cyber Dragon Drei 
+ Cyber Dragon Core 
+ Cyber Dragon Zwei 
+ Electromagnetic Turtle 
+ Swift Scarecrow 
+ Galaxy Soldier Extra Deck   
+ Fusion Monsters 
+ Barbaroid, the Ultimate Battle Machine  /  Cyber End Dragon  /  Cyber Twin Dragon  (use with the last effect of "Cyber Dragon Nova") 
+ Chimeratech Fortress Dragon 
+ Chimeratech Rampage Dragon 
+ Chimeratech Overdragon 
+ Panzer Dragon  /  Pair Cycroid 
+ Xyz Monsters 
+ Cyber Dragon Nova 
+ Cyber Dragon Infinity 
+ Constellar Pleiades 
+ Number 61: Volcasaurus 
+ Gaia Dragon, the Thunder Charger 
+ Number 38: Hope Harbinger Dragon Titanic Galaxy 
+ Divine Dragon Knight Felgrand Spells   &  Traps   
+ Spells 
+ Interrupted Kaiju Slumber 
+ Galaxy Expedition 
+ Cyber Repair Plant 
+ Power Bond 
+ Foolish Burial 
+ Limiter Removal 
+ Overload Fusion 
+ Twin Twisters  /  Cosmic Cyclone 
+ Instant Fusion 
+ Traps 
+ Royal Decree  /  Trap Stun 
+ Threatening Roar 
+ Solemn Strike 
+ Solemn Warning 
+ Graydle Kaiju 
+ The "Kaiju" monsters hybridize well with the " Graydle " archetype, as the "Graydle" monsters focus on taking control of the opponent's monsters, allowing the "Kaiju" monsters to be used as quick spot removal and then reclaimed. The effect of " Graydle Dragon " can also revive " Gameciel, the Sea Turtle Kaiju " from the Graveyard when it is destroyed. Due to the heavy use of the "Graydles", which will often be used to take control of more than just "Kaiju", "Owner's Seal" and "Remove Brainwashing" are more detrimental than helpful. The "Graydle" monsters also give access to Level 8 Synchro Monsters and Rank 3 and 8 Xyz Monsters (the latter through use of overlaying both Level 8 Synchros and "Kaiju".)
+ 
+ 
+ Recommended Cards Monsters   
+ Effect Monsters 
+ Dogoran, the Mad Flame Kaiju 
+ Gameciel, the Sea Turtle Kaiju 
+ Gadarla, the Mystery Dust Kaiju 
+ Jizukiru, the Star Destroying Kaiju 
+ Kumongous, the Sticky String Kaiju 
+ Radian, the Multidimensional Kaiju 
+ Super Anti-Kaiju War Machine Mecha-Dogoran 
+ Thunder King, the Lightningstrike Kaiju 
+ Graydle Slime 
+ Graydle Alligator 
+ Graydle Cobra 
+ Graydle Eagle 
+ Cardcar D 
+ Lava Golem 
+ Planet Pathfinder 
+ Santa Claws 
+ Volcanic Queen Extra Deck   
+ Synchro Monsters 
+ Graydle Dragon 
+ Level 8   Synchro Monsters 
+ Xyz Monsters 
+ Rank 8   Xyz Monsters 
+ Number 47: Nightmare Shark Spells   &  Traps   
+ Spells 
+ Interrupted Kaiju Slumber 
+ Kyoutou Waterfront 
+ The Kaiju Files 
+ Graydle Impact 
+ Creature Swap 
+ Kaiser Colosseum 
+ Terraforming 
+ Magic Planter 
+ Trade-In 
+ Upstart Goblin  (for adding Kaiju Counters) 
+ Traps 
+ Kaiju Capture Mission 
+ Graydle Parasite 
+ Graydle Split 
+ Oasis of Dragon Souls 
+ Jar of Greed  /  Legacy of Yata-Garasu  /  Reckless Greed  (for adding Kaiju Counters) 
+ Weaknesses 
+ This Deck focuses entirely on Special Summoning "Kaiju" monsters in order to win, so cards that disable or counter Special Summoning, like " Fossil Dyna Pachycephalo " or " Black Horn of Heaven ", can greatly hinder this Deck.
+ " Fog King " and " Mask of Restrict " can also be used to hinder the Summons of "Kaiju" monsters, as their Special Summons require Tributes of the opponent's monsters. However, these cards cannot prevent " Interrupted Kaiju Slumber " from being used. 
+ "Kyoutou Waterfront" is a key element of the Deck, as it can search out "Kaiju" monsters from the Deck once it has 3 or more Kaiju Counters (which can be easily accumulated in most situations). It can be difficult to eliminate, as it can also remove 1 Kaiju Counter from itself to prevent its destruction. However, Decks that are capable of Rank 4 Xyz Summons can use " Castel, the Skyblaster Musketeer " to dispatch it with ease. An alternate option is " Spiritualism ", which can avoid negation by the effect of " Gameciel, the Sea Turtle Kaiju ".
+ " Gate Blocker " can also be somewhat effective, as its effect will negate "Kyoutou Waterfront" and remove its counters as a result. While it may use up one's Normal Summon and be vulnerable in Attack Position, it also has some merit against the "Kaiju- Graydle " hybrid Deck by drawing the effects of "Graydle" monsters to itself. 
+ " Cursed Seal of the Forbidden Spell " and " Prohibition " can disable "Kyoutou Waterfront" near-permanently. " Spell Vanishing " is another option, although some "Kaiju" players will use cards that recover Spells from their Graveyard to counter attempts to destroy their Field Spell. 
+ Another option is to use a card effect to banish cards that would normally be sent to the Graveyard (for instance, " Banisher of the Light ", " Macro Cosmos ", or the Pendulum effect of " Amorphage Goliath "). This will prevent "Kyoutou Waterfront" from accumulating Kaiju Counters, as well as limit the "Kaiju" player's ability to use the second effect of "Interrupted Kaiju Slumber" to search their Deck for more "Kaiju" monsters. 
+ As all of the "Kaiju" monsters are high-Level monsters, cards like " Gravity Bind " and " Level Limit - Area B " can easily prevent them from attacking.
+ Since each player can only control 1 "Kaiju" monster at a time, cards like " Scrap-Iron Scarecrow " can be effective at stopping their attacks. However, these options can still be countered with the effects of " Radian, the Multidimensional Kaiju " and "Gameciel, the Sea Turtle Kaiju". 
+ "Kaiju" monsters can activate their effects by using Kaiju Counters from  anywhere  on the field, so your opponent can easily use their effects against you (although " Kaiju Capture Mission " can hinder them by forcing the "Kaiju" into face-down Defense Position before its effect can resolve).
+ In general, careful thought must be made when deciding which "Kaiju" monster you're going to give to the opponent - always make sure that you have a way to retake it or destroy it before your opponent can use it against you. 
+   
+" Kaiju " 「 壊 獣 」 Members 
+ Dogoran, the Mad Flame Kaiju Gadarla, the Mystery Dust Kaiju Gameciel, the Sea Turtle Kaiju Jizukiru, the Star Destroying Kaiju Kumongous, the Sticky String Kaiju Radian, the Multidimensional Kaiju Super Anti-Kaiju War Machine Mecha-Dogoran Super Anti-Kaiju War Machine Mecha-Thunder-King Thunder King, the Lightningstrike Kaiju 
+ Interrupted Kaiju Slumber Kaiju Capture Mission The Kaiju Files 
+ Support 
+ Super Anti-Kaiju War Machine Mecha-Dogoran Super Anti-Kaiju War Machine Mecha-Thunder-King 
+ Interrupted Kaiju Slumber Kaiju Capture Mission The Kaiju Files Kyoutou Waterfront 
+ Anti-support 
+ Dogoran, the Mad Flame Kaiju Gadarla, the Mystery Dust Kaiju Gameciel, the Sea Turtle Kaiju Jizukiru, the Star Destroying Kaiju Kumongous, the Sticky String Kaiju Radian, the Multidimensional Kaiju Super Anti-Kaiju War Machine Mecha-Dogoran Super Anti-Kaiju War Machine Mecha-Thunder-King Thunder King, the Lightningstrike Kaiju 
+ 
+ v e 
+" Kaiju " 「 壊 獣 」 a   Members 
+ Gameciel, the Sea Turtle Kaiju 
+ Anti-support 
+ Gameciel, the Sea Turtle Kaiju 
+ 
+ v e 
+ Kaiju   壊 獣 m   Members 
+ Gameciel, the Sea Turtle Kaiju 
+ 
+ 
+ 
+ 
+ 
+ Six Attributes 
+ 
+ This box:  view edit 
+ DARK    
+ EARTH   
+ FIRE    
+ LIGHT   
+ WATER   
+ WIND    
+ 
+ 
+ /Assault Modes 
+ Red Dragon Archfiend  /  Colossal Fighter 
+ Hyper Psychic Blaster  /  T.G. Halberd Cannon 
+ Doomkaiser Dragon 
+ Arcanite Magician 
+ n/a 
+ Stardust Dragon 
+ 
+ 
+ @Ignisters    Base forms   Evolved forms 
+ Doyon     Dark Templar 
+ Doshin     Earth Golem 
+ Achichi     Fire Phoenix 
+ Pikari     Light Dragon 
+ Hiyari     Water Leviathan 
+ Bururu     Wind Pegasus 
+ 
+ 
+ Alchemy Beasts    Summoners     (Normal Spell Cards) 
+ Moonface the Silver     Silver Key 
+ Leon the Lead     Lead Compass 
+ Salamandra the Steel     Steel Lamp 
+ Ouroboros the Bronze     Bronze Scale 
+ Ekenas the Mercury     Mercury Hourglass 
+ Aretos the Tin     Tin Spell Circle 
+ 
+ 
+ Aliens 
+ Overlord  /  Mother  /  Psychic 
+ Shocktrooper  /  Infiltrator  /  Warrior 
+ Mars  /  Telepath 
+ Ammonite  /  Dog  /  Grey  /  Kid  /  Shocktrooper M-Frame 
+ Hunter  /  Hypno 
+ Skull 
+ 
+ 
+ Altergeists 
+ Primebanshee  /  Multifaker  /  Kidolga  /  Fifinellag  /  Dragvirion  /  Memorygant  /  Pookuery 
+ Kunquery 
+ Hexstia 
+ Marionetter 
+ Meluseek  /  Fijialert 
+ Silquitous  /  Pixiel 
+ 
+ 
+ Aromages 
+ Marjoram 
+ Cananga 
+ Bergamot 
+ Jasmine 
+ Rosemary 
+ Laurel 
+ 
+ 
+ Attribute Boosters   (500 ATK▲/400 DEF▼)    Link Monsters    (500 ATK▲/500 DEF▲)    Field Spells    (500 ATK▲/400 DEF▼)    Equip Spells    (400 ATK▲/200 DEF▼) 
+ Witch's Apprentice     Wee Witch's Apprentice     Mystic Plasma Zone     Sword of Dark Destruction 
+ Milus Radiant     Missus Radiant     Gaia Power     Invigoration 
+ Little Chimera     Duelittle Chimera     Molten Destruction     Burning Spear 
+ Hoshiningen     Hip Hoshiningen     Luminous Spark     Elf's Light 
+ Star Boy     Mistar Boy     Umiiruka     Steel Shell 
+ Bladefly     Greatfly     Rising Air Current     Gust Fan 
+ 
+ 
+ Attribute Knights 
+ Armageddon 
+ Dust 
+ Brushfire 
+ Dawn 
+ Shore 
+ Altitude 
+ 
+ 
+ Attribute Reptiles 
+ Umbral Soul 
+ Raging Earth 
+ Firestorm Prominence 
+ Radiant Spirit 
+ Silent Abyss 
+ Destruction Cyclone 
+ 
+ 
+ Attribute Sorcerers    (4/1500/0/Spellcasters) 
+ Dark 
+ n/a 
+ Fire 
+ Light 
+ Aqua 
+ n/a 
+ 
+ 
+ Attribute Spirits 
+ Luna the Dark Spirit 
+ The Rock Spirit 
+ Spirit of Flames 
+ Diana the Light Spirit 
+ Aqua Spirit 
+ Garuda the Wind Spirit 
+ 
+ 
+ Attribute Summoners 
+ Mystic Tomato 
+ Giant Rat 
+ UFO Turtle 
+ Shining Angel 
+ Mother Grizzly 
+ Flying Kamakiri #1 
+ 
+ 
+ B.E.S. 
+ Big Core 
+ Covered Core  /  Blaster Cannon Core 
+ Big Core MK-2 
+ Big Core MK-3 
+ Crystal Core 
+ Tetran 
+ 
+ 
+ Barrier Statues 
+ Abyss 
+ Drought 
+ Inferno 
+ Heavens 
+ Torrent 
+ Stormwinds 
+ 
+ 
+ Beast Gear World 
+ Catapult Devilkong 
+ Motor Wolf  /  Trike Fox  /  King Convoy Ligeon 
+ Buggy Dog 
+ n/a 
+ n/a 
+ Gyro Jackal 
+ 
+ 
+ Charmers     Familiar-Possessed     Cataclysmic Charmers     Spiritual Arts    Familiar   Possessed Familiars 
+ Dharc     Dharc     n/a     Greed     Meda Bat     n/a 
+ Aussa     Aussa     Avalanching Aussa     Kurogane     Marmot     Nefarious 
+ Hiita     Hiita     Blazing Hiita     Kurenai     Fox Fire     Inari Fire 
+ Lyna     Lyna     n/a     Hijiri     Happy Lover     n/a 
+ Eria     Eria     Raging Eria     Aoi     Gigobyte     Jigabyte 
+ Wynn     Wynn     Storming Wynn     Miyabi     Petit Dragon     Ranryu 
+ 
+ 
+ Chrysalis     Neo-Spacians    Evolved forms   Contact Fusions   Evolved forms   Advanced Contact Fusions 
+ Pantail     Dark Panther     n/a     Dark Neos     n/a     Chaos Neos 
+ Mole     Grand Mole     n/a     Grand Neos     n/a     Nebula Neos 
+ Larva     Flare Scarab     n/a     Flare Neos     n/a     Magma Neos 
+ Pinny     Glow Moss     Twinkle Moss     Glow Neos     n/a     Cosmo Neos 
+ Dolphin     Aqua Dolphin     Marine Dolphin     Aqua Neos     Marine Neos     n/a 
+ Chicky     Air Hummingbird     n/a     Air Neos     n/a     Storm Neos 
+ 
+ 
+ Code Talkers      (Link-3) 
+ Decode    ( Extended ) 
+ Transcode 
+ Powercode 
+ Encode 
+ Shootingcode 
+ Excode 
+ 
+ 
+ Color Ninjas    Dragon Ninjas 
+ Strike     Black 
+ Senior Silver     n/a 
+ n/a     Red 
+ White     White 
+ n/a     Blue 
+ Yellow     Yellow 
+ 
+ 
+ Cubic 
+ Vijam  /  Crimson Nova  ( Trinity ) 
+ Dark Garnex 
+ Blade Garoodia 
+ Duza  /  Buster Gundil  /  Indiora Doom Volt 
+ n/a 
+ Geira Guile 
+ 
+ 
+ CXyz 
+ Dark Fairy Cheer Girl  /  Mechquipped Djinn Angeneral 
+ Comics Hero Legend Arthur  /  Battleship Cherry Blossom  /  Zubaba Saikyo General 
+ Coach Lord Ultimatrainer 
+ Simon the Great Moral Leader  /  Barian Hope 
+ N.As.Ch. Knight 
+ Skypalace Babylon 
+ 
+ 
+ Dice Roll  Archfiends 
+ Terrorking  /  Masterking 
+ Vilepawn 
+ Infernalqueen 
+ Desrook 
+ Darkbishop 
+ Shadowknight 
+ 
+ 
+ Double Tributers     Effigies 
+ Double Coston     Dark 
+ The Trojan Horse     Earth 
+ Flame Ruler     n/a 
+ Kaiser Sea Horse     Light 
+ Unshaven Angler     n/a 
+ Whirlwind Prodigy     Wind 
+ 
+ 
+ Dragonmaids    Human forms   Dragon forms 
+ Chamber     n/a 
+ Nurse     Ernus 
+ Kitchen     Tinkhec 
+ House     Sheou 
+ Laundry     Nudyarl 
+ Parlor     Lorpar 
+ 
+ 
+ Dustons     (1/0/1000/Fiends) 
+ Star 
+ Yellow 
+ Red 
+ House  /  White 
+ Blue 
+ Green 
+ 
+ 
+ Elemental HERO    Fusion Monsters    (1 "HERO" + 1 matching Attribute) 
+ Escuridao 
+ Gaia 
+ Nova Master 
+ The Shining 
+ Absolute Zero 
+ Great Tornado 
+ 
+ 
+ Elemental Lords     Elementsabers 
+ Umbramirage     Molehu 
+ Grandsoil     Aina 
+ Pyrorex     Malo 
+ Phosphorage     Lapauila  ( Mana ) 
+ Moulinglacia     Nalu 
+ Windrose     Makani 
+ 
+ 
+ Empowered Warriors     Summoners 
+ Dragonox     n/a 
+ Terratiger     White Tiger 
+ Arnis     Red Sparrow 
+ Dragodies     Golden Dragon 
+ Hydrortoise      Green Turtle 
+ Ventdra     Blue Dragon 
+ 
+ 
+ Endymion 
+ Master Magician  /  Mighty Master of Magic 
+ Magister 
+ Rogue 
+ Crusader  /  Reflection 
+ Magistus of Mastery 
+ Servant 
+ 
+ 
+ Entities 
+ Azathot 
+ Nyarla 
+ Cthugua 
+ N'tss 
+ Norden 
+ Hastorr 
+ 
+ 
+ Fortune Fairies     Fortune Ladies 
+ Ann     Dark  /  Past 
+ Chee     Earth 
+ En     Fire 
+ Hikari     Light  /  Every 
+ Swee     Water 
+ Hu     Wind 
+ 
+ 
+ Fur Hire 
+ Seal  /  Folgo 
+ Beat  /  Dyna 
+ Bravo 
+ Rafale 
+ Helmer  /  Wiz 
+ Donpa  /  Recon  /  Sagitta 
+ 
+ 
+ Generaiders 
+ Hela  /  Harr 
+ Dovelgus  /  Jormungandr 
+ Naglfar  /  Loptr 
+ Mardel  /  Utgarda 
+ Nidhogg 
+ Frodi 
+ 
+ 
+ Gizmek 
+ Orochi 
+ Uka 
+ Kaku 
+ Yata 
+ Okami 
+ Mikoto 
+ 
+ 
+ Guardians    Weapons     (Equip Spell Cards) 
+ Baou  /  Dreadscythe     Wicked-Breaking Flamberge  /  Reaper Scythe 
+ Grarl     Gravity Axe 
+ Ceal     Shooting Star Bow 
+ Tryce     Twin Swords of Flashing Light 
+ Kay'est     Rod of Silence 
+ Elma  /  Eatos     Buttefly Dagger  /  Celestial Sword 
+ 
+ 
+ Invoked     (1 " Aleister the Invoker " + 1 matching Attribute) 
+ Caliga 
+ Magellanica 
+ Purgatrio 
+ Mechaba 
+ Cocytus 
+ Raidjin 
+ 
+ 
+ Kaiju 
+ Radian 
+ Kumongous 
+ Dogoran 
+ Jizukiru  /  Mecha-Dogoran  /  Thunder King  /  Mecha-Thunder-King 
+ Gameciel 
+ Gadarla 
+ 
+ 
+ Knightmare 
+ Iblee  /  Unicorn  /  Orcust  /  Idlee 
+ Cerberus 
+ Phoenix 
+ Gryphon 
+ Mermaid 
+ Goblin 
+ 
+ 
+ Legendary Planets 
+ Sun  /  Jupiter  /  Saturn  /  Pluto 
+ Terra Firma 
+ Mars 
+ Venus  /  Uranus 
+ Mercury  /  Neptune 
+ n/a 
+ 
+ 
+ Masked HEROes 
+ Dark Law  /  Anki 
+ Dian 
+ Goka 
+ Koga 
+ Vapor  /  Acid 
+ Divine Wind  /  Blast 
+ 
+ 
+ Magician Girls 
+ ( Toon )    Dark    ( Dragon Knight ) 
+ Berry 
+ Apple 
+ Lemon 
+ Chocolate 
+ Kiwi 
+ 
+ 
+ Magikey 
+ Clavkiys  /  Batosbuster  /  Ansyalabolas 
+ Garesglasser 
+ Transfurlmine 
+ Mafteal 
+ Vepartu 
+ Andrabime 
+ 
+ 
+ Magistus 
+ Grimoire Crowley 
+ Goddess Ninaruru 
+ Flame Zoroa  /  Dragon Vafram 
+ Verre Cendrillon  /  Maiden Artemis 
+ Master Endymion 
+ Saint Aiwass 
+ 
+ 
+ Mirror Force 
+ Dark 
+ Quaking 
+ Blazing 
+ Radiant 
+ Drowning 
+ Storming 
+ 
+ 
+ Monarchs    Mega Monarchs   Related  "Monarch"  Spell/Trap Cards    Vassals 
+ Caius  /  Erebus     Caius the Mega     Tenacity  /  The First     Lucius  /  Eidos 
+ Granmarg     Granmarg the Mega     Return     Landrobe  /  Samsara Kaiser 
+ Thestalos     Thestalos the Mega     Erupt     Berlineth 
+ Zaborg  /  Ehther     Zaborg the Mega     Strike  /  The Prime     Mithra  /  Edea 
+ Mobius     Mobius the Mega     Awaken     Escher 
+ Raiza     Raiza the Mega     Stormforth     Garum 
+ 
+ 
+ Musical  Djinns 
+ Maestroke 
+ Temtempo 
+ n/a 
+ Melomelody 
+ Humhumming 
+ Muzurhythm 
+ 
+ 
+ Mythyrian Numbers 
+ Djinn Buster 
+ Lion Heart  /  Ronin Raccoon Sandayu 
+ n/a 
+ Sky Pegasus  /  Dragluon 
+ Abyss Splash  /  Crystalzero 
+ n/a 
+ 
+ 
+ Nemeses 
+ Protos 
+ Keystone 
+ Flag 
+ Eschatos 
+ Umbrella 
+ Corridor 
+ 
+ 
+ Number 10X     Number C10X 
+ n/a     Umbral Horror Masquerade 
+ Giant Hand     Giant Red Hand 
+ Battlin' Boxer Star Cestus     Battlin' Boxer Comet Cestus 
+ Star Seraph Sentry  /  Masquerade  /  Galaxy-Eyes Tachyon Dragon     Archfiend Seraph  /  Neo Galaxy-Eyes Tachyon Dragon 
+ Silent Honor ARK  /  Ragnazero     Silent Honor DARK  /  Ragnafinity 
+ n/a     n/a 
+ 
+ 
+ Odd-Eyes Dragons 
+ Odd-Eyes  /  Pendulum  /  Rebellion  ( Overlord ) /  Persona  /  Phantom  /  Mirage  /  Performapal Metal Claw  /  Raging  /  Supreme King  /  Wing  /  Venom  /  Arc Pendulum  /  Advance  /  Wizard 
+ Gravity 
+ Meteorburst 
+ Saber  /  Lancer  /  Revolution  /  Pendulumgraph 
+ Absolute 
+ Vortex 
+ 
+ 
+ Pendulum  Magicians 
+ Stargazer  /  Timegazer  /  Xiangke  /  Timebreaker  /  Acrobatic  /  Dragoncaller  /  Harmonizing  /  Double Iris  /  Black Fang  /  Purple Poison  /  Performapal Celestial 
+ Dragonpulse 
+ Nobledragon 
+ Wisdom-Eye  /  Xiangsheng  /  Dharma-Eye  /  Performapal Five-Rainbow 
+ Dragonpit 
+ Oafdragon  /  White Wing 
+ 
+ 
+ Prediction Princesses 
+ Astromorrigan 
+ Coinorma  /  Petalelf 
+ n/a 
+ Tarotrei 
+ Crystaldine 
+ Arrowsylph 
+ 
+ 
+ Resonators 
+ Dark  /  Synkron  /  Crimson 
+ Clock 
+ Flare  /  Red  /  Double  /  Net 
+ Barrier  /  Chain  /  Mirror 
+ Force 
+ Creation 
+ 
+ 
+ Road Magic 
+ N/A 
+ Diastrophism 
+ Explosion 
+ Rays Alter 
+ Backflow 
+ Tempest 
+ 
+ 
+ El Shaddoll    Fusion Monsters    (1 "Shaddoll" + 1 matching Attribute) 
+ Winda 
+ Shekhinaga 
+ Grysta 
+ Construct 
+ Anoyatyllis 
+ Wendigo 
+ 
+ 
+ Signer Dragons 
+ Red Archfiend  /  Black-Winged 
+ Life Stream 
+ Black Rose 
+ Ancient Fairy 
+ n/a 
+ Stardust 
+ 
+ 
+ Six Samurai     Legendary Six Samurai     Secret Six Samurai 
+ Irou     Shi En     Doji 
+ Yariza     Kizan     Kizaru 
+ Kamon     Mizuho     Genba 
+ Zanji     Enishi     Rihan 
+ Yaichi     Shinai     Hatsume 
+ Nisashi     Kageki     Fuma 
+ 
+ 
+ Sky Striker Ace 
+ Raye  /  Zeke 
+ Kaina 
+ Kagari 
+ Roze 
+ Shizuku 
+ Hayate 
+ 
+ 
+ Sushi Angels 
+ Spider Roll 
+ Monkey Roll 
+ n/a 
+ Garibel  /  Agaribel 
+ Tiger Roll 
+ Dragon Roll 
+ 
+ 
+ Synchro  Warriors    Tuner  Synchrons 
+ Junk  /  Satellite     Junk  /  Satellite 
+ Drill     Drill 
+ Nitro  /  Jet     Nitro  /  Jet 
+ Road     Road 
+ n/a     Steam 
+ Turbo     Turbo 
+ 
+ 
+ Tenyi  Spirits 
+ Vishuda 
+ Adhara 
+ Mapura 
+ Ashuna  /  Sahasrara 
+ Sthana 
+ Nahata 
+ 
+ 
+ The Weathers    Canvas     (Continuous Spell/Trap Cards) 
+ Aurora     Auroral 
+ Snow     Snowy 
+ Sun     Sunny 
+ Thunder  /  Rainbow     Thundery  /  Rainbowed 
+ Rain     Rainy 
+ Cloud     Cloudy 
+ 
+ 
+ Timelords 
+ Vorpgate 
+ Kamion  /  Hailon 
+ Metaion  /  Lazion  /  Michion 
+ Sephylon  /  Sandaion 
+ Zaphion  /  Gabrion 
+ Sadion  /  Raphion 
+ 
+ 
+ True Draco and True King 
+ All Calamities 
+ Lithosazim  /  Dreiath III 
+ Agnimazud  /  Ignis Heat 
+ Master Peace  ( King ) /  Metaltron XII 
+ Bahrstos  /  Dinomight Knight 
+ Majesty Maiden  /  Mariamne 
+ 
+ 
+ Witchcrafters 
+ Haine 
+ Potterie 
+ Schmitta 
+ Edel  /  Madame Verre  /  Golem Aruru 
+ Pittore 
+ Genni 
+ 
+ 
+ World Chalice 
+ World Legacy 
+ Beckoned  /  Ningirsu 
+ Chosen  /  Auram 
+ Lee 
+ Crowned  / Ib ( Priestess / Justiciar ) 
+ Guardragon  /  Imduk  /  Almarduke 
+ 
+ 
+ Yang Zing 
+ Taotie  /  Jiaotu  /  Yazi 
+ Bi'an  /  Zefraxi  /  Zefraniu 
+ Suanni 
+ Chiwen  /  Baxia  /  Chaofeng  /  Denglong 
+ Bixi 
+ Pulao 
+ 
+ 
+ Yo-kai Girls 
+ Ghost Reaper & Winter Cherries 
+ Ghost Belle & Haunted Mansion 
+ Ash Blossom & Joyous Spring 
+ Ghost Ogre & Snow Rabbit 
+ Ghost Sister & Spooky Dogwood 
+ Ghost Mourner & Moonlit Chill 
+ 
+ 
+ ZW - 
+ Chimera Clad  /  Dragonic Halberd 
+ Ultimate Shield 
+ Phoenix Bow  /  Asura Strike 
+ Unicorn Spear  /  Lightning Blade  /  Leo Arms  /  Sleipnir Mail  /  Fenrir Sword  /  Pegasus Twin Saber  /  Sylphid Wing 
+ n/a 
+ Tornado Bringer  /  Eagle Claw 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/8a/Kaiju.png/revision/latest/scale-to-width-down/350?cb=20151225105931', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/24?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/24?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/24?cb=20120918053839', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Archetypes, TCG and OCG archetypes

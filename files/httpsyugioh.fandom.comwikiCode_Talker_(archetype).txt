@@ -1,0 +1,966 @@
+Link: https://yugioh.fandom.com/wiki/Code_Talker_(archetype)
+
+
+ 
+ Code Talker 
+ コード・トーカー  ( Kōdo Tōkā ) 
+ 
+ 
+ 
+ 
+ Clockwise from top left: " Decode Talker ", " Encode Talker ", " Excode Talker ", " Powercode Talker ", " Shootingcode Talker ", and " Transcode Talker ". 
+ 
+ 
+ Other names 
+ 
+ French 
+ Codeur Bavard Translation:  Talky Coder 
+ 
+ 
+ German 
+ Kodier-Sprecher 
+ 
+ 
+ Italian 
+ Codificatore Trasmittente Translation:  Transmitting Codifier 
+ 
+ 
+ Korean 
+ 코드 토커   Kodeu Tokeo   (romanized) 
+ 
+ 
+ Portuguese 
+ Codificar Transmissor Translation:  Transmitter Codify 
+ 
+ 
+ Spanish 
+ Codificador Hablador Translation:  Talkative Codifier 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Structure Deck: Cyberse Link Extreme Force Structure Deck: Powercode Link Eternity Code Cyberstorm Access 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Starter Deck: Link Strike Duel Power Fists of the Gadgets 2021 Tin of Ancient Battles Maximum Gold: El Dorado Ghosts From the Past: The 2nd Haunting Battles of Legend: Crystal Revenge 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Starter Deck 2017 Structure Deck: Master Link 20th Anniversary Duelist Box Starter Deck 2019 The Valuable Book 21 promotional cards LINK VRAINS Duelist Set Legendary Gold Box History Archive Collection Secret Utility Box Cyberstorm Access +1 Bonus Pack 
+ 
+ 
+ 
+ 
+ Korea-Only Sets 
+ 
+ 
+ LINK VRAINS Box Premium Pack Vol.14 2nd Wave 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Code Talker " (コード・トーカー  Kōdo Tōkā ) is an  archetype  of  Cyberse   Link Monsters  used by  Yusaku Fujiki (Playmaker)  in  Yu-Gi-Oh! VRAINS .
+ Starting with  Structure Deck: Master Link , the series received more support from the " Cynet " archetype.
+ 
+ Contents 
+ 
+ 1   Design 
+ 
+ 1.1   Appearance 
+ 1.2   Etymology 
+ 
+ 
+ 2   Playing style 
+ 3   Members 
+ 4   Support 
+ 5   Recommended cards 
+ 6   Trivia 
+ 
+ 
+ Design 
+ Appearance 
+ The "Code Talkers" resemble warrior-like cybernetic humanoids whose armor is colored after their corresponding  Attribute . They also each wield a different weapon to use in battle. Their bodies underneath the armor appear similar to the  Ignis , especially  Ai  and  Flame  with their black designs.
+ 
+ Etymology 
+ The archetype's name is derived from  code talkers , individuals (typically of Navajo origin) who were recruited by the United States Marine Core during World War II a means of encrypting and decrypting communications by using obscure languages that were not widespread, and were difficult to translate.
+ 
+ Playing style 
+ Each member of this archetype have  Link Arrows  that aid their effects, regardless of being in the  Extra  or  Main Monster Zone , and are compatible with  co-linked  related effects. Through Link Arrows, they share "power-up" effects that can apply to either themselves or ally monsters. 
+ The archetype typically synergizes strongly with Cyberse support, but also has some support cards of its own. The Deck typically requires a near-pure Cyberse Deck to function well, due to their summoning requirements (typically Cyberse monsters) and effects (often functioning best with Cyberse monsters). Due to the raw number of Cyberse monsters and support cards, one should more carefully choose which ones to include than with other archetypes, which are typically smaller and more straightforward. This is especially true for the  Extra Deck , which is already cramped with its 15-card limit and the "Code Talkers" taking up the majority of the slots, which typically require 7 to 9 slots if running one copy of each "Code Talker" and duplicates of several ones (such as "Transcode" and the Link-2 " Code Talker ").  
+ Their vast numbers and the tendency to have ' hard ' " once per turn " clauses on their effects also discourages running 3 copies of the 'best' Cyberse monsters. As is the case with most orientations of Cyberse Decks, a "Code Talker" oriented Cyberse Deck has a strong  toolbox  character. 
+ With the help of " Recoded Alive ", you can switch your "Code Talker" monster with ones in the Extra Deck for the first effect and with the second effect revive ones used for the first effect.
+ " Limit Code " is an equipping Trap that summons a "Code Talker" from the Extra Deck if there are any Cyberse Link Monsters in your GY, allowing for both a combo start or extension of combos.
+ Several " Cynet " Spells and Traps support the archetype directly and indirectly:
+ 
+ " Optimization " has a second effect that prevents the opponent from responding to a "Code Talker's" attacks in a fashion similar to " Armades, Keeper of Boundaries ". In addition, its generic Cyberse-supporting effect greatly aids the summoning of "Code Talkers", working well with monsters added through "Codec". 
+ " Codec " allows for several searches in the Deck per turn for more Cyberse monsters with Attributes corresponding to your summoned "Code Talkers", allowing for long consecutive Link Summoning of "Code Talkers". This way, it also encourages using different Attributes of Cyberse monsters and "Code Talkers". This includes ones that would otherwise be less likely to be used, such as "Encode Talker" whose lackluster effects are compensated by its Attribute granting "Codec" access to useful LIGHT Cyberse monsters such as " Cyberse White Hat ", " Backup Secretary " and " Balancer Lord ". For useful monsters for each Attribute, check 'Recommended cards' below. 
+ " Conflict " serves as the archetype's 'negate and destroy'-card with a small touch of " Called by the Grave ", banishing negated cards and preventing other cards of the same name from activating until the end of the next turn. 
+ Several monsters also serve the archetype. 
+ 
+ " Micro Coder " and " Code Radiator " can be used as materials from the hand as long as a Cyberse monster on the field is being used for the "Code Talker's" summon, then triggering other strong effects after the summon. 
+ " Talkback Lancer " is a useful card to revive fallen "Code Talkers", especially late-game. This is especially useful if it revives "Transcode Talker", which can revive another "Code Talker" consecutively. 
+ The archetype has a fair amount of synergy with " Cynet Fusion " and " Cyberse Clock Dragon ". Once some momentum has been built, it is simple for the Deck to control two or even three Link-3 "Code Talkers" without controlling any in the Extra Monster Zones, mainly thanks to "Transcode Talker's" effect to revive its brethren. This can potentially bring "Cyberse Clock Dragon" to ATK values of 10,000. Its required Fusion Material " Clock Wyvern " is typically already present in the Deck, being a staple for most Cyberse Decks and the easy-to-summon " Clock Spartoi " can search "Cynet Fusion" easily, rendering a single copy of it sufficient for the Fusion engine to work. This is not equally true for " Cyberse Witch " and the  Ritual Monster  " Cyberse Magician ", as it requires dedicating more card slots in the Deck to the engine and can provide  dead draws  with just a single Ritual Monster or  Ritual Spell .
+ 
+ Members 
+ 
+ 
+ Monster 
+ Stat changing effect 
+ Origin
+ 
+ 
+ Accesscode Talker 
+ Gains 1000 ATK x the Link Rating of 1 Link Monster that was used as material for this card's Link Summon. 
+ Microsoft Access 
+ 
+ 
+ Code Talker 
+ Gains 500 ATK for each monster it points to. 
+ Code talker 
+ 
+ 
+ Decode Talker 
+ Decoding 
+ 
+ 
+ Decode Talker Extended 
+ Decode Talker +  Extend 
+ 
+ 
+ Decode Talker Heatsoul 
+ Decode Talker +  Heat Soul 
+ 
+ 
+ Code Talker Inverted 
+ N/A 
+ Code Talker +  Invert 
+ 
+ 
+ Encode Talker 
+ After damage calculation when a monster this card points to battled an opponent's monster, either this card or 1 monster it points to gains ATK equal to the ATK of the battled opponent's monster until the end of that turn. 
+ Encoding 
+ 
+ 
+ Excode Talker 
+ Monsters this card points to gain 500 ATK and cannot be destroyed by card effects. 
+ Xcode 
+ 
+ 
+ Powercode Talker 
+ Tribute 1 monster this card points to during damage calculation when it battles an opponent's monster; this card's ATK becomes double its original ATK during that damage calculation only. 
+ PowerPoint 
+ 
+ 
+ Shootingcode Talker 
+ This card can make attacks on your opponent's monsters up to the number of monsters it currently points to +1 at the start of your Battle Phase, but loses 400 ATK when it attacks your opponent's only monster during that damage calculation only. 
+ Troubleshooting 
+ 
+ 
+ Transcode Talker 
+ While co-linked, this card and its co-linked monsters gain 500 ATK, and your opponent cannot target any of them with card effects. 
+ Transcoding 
+ 
+ Support 
+ 
+ 
+ Monster
+ 
+ Link Material effect
+ 
+ Origin
+ 
+ 
+ Sent from hand to GY
+ 
+ Sent from field to GY
+ 
+ 
+ Code Exporter 
+ 
+ Add 1 Level 4 or lower Cyberse monster from your GY to your hand.
+ 
+ Special Summon 1 Level 4 or lower Cyberse monster from your GY, but its effects are negated.
+ 
+ Export 
+ 
+ 
+ Code Generator 
+ 
+ Send 1 Cyberse monster with 1200 or less ATK from your Deck to the GY.
+ 
+ Add 1 Cyberse monster with 1200 or less ATK from your Deck to your hand.
+ 
+ Generator 
+ 
+ 
+ Code Radiator 
+ 
+ Target 1 face-up monster your opponent controls; its ATK becomes 0 and its effects are negated.
+ 
+ Target 2 face-up monsters your opponent controls; their ATK become 0 and their effects are negated.
+ 
+ Radiator 
+ 
+ 
+ Micro Coder 
+ 
+ Add 1 "Cynet" Spell/Trap from your Deck to your hand.
+ 
+ Add 1 Level 4 Cyberse monster from your Deck to your hand.
+ 
+ Microcomputer 
+ 
+ Recommended cards 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ Backup Secretary 
+ Balancer Lord 
+ Bitrooper 
+ Catche Eve L2 
+ Clock Wyvern 
+ Code Exporter 
+ Code Generator 
+ Code Radiator 
+ Cyberse Converter 
+ Cyberse Gadget 
+ Degrade Buster 
+ Dotscaper 
+ Firewall Guardian 
+ Garbage Collector 
+ Lady Debug 
+ Latency 
+ Link Infra-Flier 
+ Micro Coder 
+ Proxy Horse 
+ ROM Cloudia 
+ Sea Archiver 
+ SIMM Tablir 
+ Swap Cleric 
+ Widget Kid Extra Deck   
+ Fusion Monsters 
+ Cyberse Clock Dragon 
+ Link Monsters 
+ Accesscode Talker 
+ Code Talker 
+ Code Talker Inverted 
+ Decode Talker 
+ Decode Talker Extended 
+ Decode Talker Heatsoul 
+ Encode Talker 
+ Excode Talker 
+ Powercode Talker 
+ Shootingcode Talker 
+ Transcode Talker 
+ Firewall Dragon 
+ Linkuriboh 
+ Talkback Lancer Spells   &  Traps   
+ Spells 
+ Cynet Backdoor 
+ Cynet Codec 
+ Cynet Optimization 
+ Cynet Fusion 
+ Cynet Mining 
+ Cynet Storm 
+ Decode Destruction 
+ Gold Sarcophagus 
+ One-Time Passcode 
+ Terraforming 
+ World Legacy Succession 
+ Traps 
+ Cynet Conflict 
+ Limit Code 
+ Recoded Alive 
+ Call of the Haunted 
+ Trivia 
+ This is the first  archetype / series  composed entirely of  Cyberse  monsters, as well as the first one made purely of  Link Monsters . 
+ The six primary "Code Talkers" could possibly represent the  Ignis  on account of their different  Attributes . 
+ The  attack names  of all "Code Talkers" in the Japanese version contain a conclusive word in addition to the "code" portion of their names, with the exception of "Powercode Talker" and "Shootingcode Talker" who simply have the portion before the "code" part of their names.
+ "Decode Talker" - Decode End 
+ "Encode Talker" - Final Encode 
+ "Excode Talker" - Excode Close 
+ "Powercode Talker" - Power Termination Smash 
+ "Shootingcode Talker" - Shooting Complete 
+ "Transcode Talker" - Transcode Finish 
+ Most of this archetype's members are  Link -3 monsters with 2300  ATK . 
+ With the exception of "Powercode Talker", all members of this archetype require either Cyberse or  Effect Monsters  as  Link Material . 
+   
+" Code Talker " 「コード・トーカー」 Members 
+ Accesscode Talker Code Talker Code Talker Inverted Decode Talker Decode Talker Extended Decode Talker Heatsoul Encode Talker Excode Talker Powercode Talker Protectcode Talker Shootingcode Talker Transcode Talker 
+ Support 
+ Code Exporter Code Generator Code Radiator Micro Coder Talkback Lancer 
+ Cynet Codec Cynet Conflict Cynet Optimization Limit Code Recoded Alive 
+ Related 
+ Decode Destruction 
+ 
+ v e 
+" Code Talker " 「コード・トーカー」 a   Members 
+ Accesscode Talker Code Talker Decode Talker Decode Talker Extended Encode Talker Excode Talker Powercode Talker Shootingcode Talker Transcode Talker Transcode Talker 
+ Support 
+ Code Generator Code Hack Cynet Codec Cynet Optimization Limit Code Micro Coder Recoded Alive Talkback Lancer Transcode Talker 
+ Related 
+ Dark Templar @Ignister Decode Destruction 
+ 
+ 
+ 
+ 
+ 
+ Six Attributes 
+ 
+ This box:  view edit 
+ DARK    
+ EARTH   
+ FIRE    
+ LIGHT   
+ WATER   
+ WIND    
+ 
+ 
+ /Assault Modes 
+ Red Dragon Archfiend  /  Colossal Fighter 
+ Hyper Psychic Blaster  /  T.G. Halberd Cannon 
+ Doomkaiser Dragon 
+ Arcanite Magician 
+ n/a 
+ Stardust Dragon 
+ 
+ 
+ @Ignisters    Base forms   Evolved forms 
+ Doyon     Dark Templar 
+ Doshin     Earth Golem 
+ Achichi     Fire Phoenix 
+ Pikari     Light Dragon 
+ Hiyari     Water Leviathan 
+ Bururu     Wind Pegasus 
+ 
+ 
+ Alchemy Beasts    Summoners     (Normal Spell Cards) 
+ Moonface the Silver     Silver Key 
+ Leon the Lead     Lead Compass 
+ Salamandra the Steel     Steel Lamp 
+ Ouroboros the Bronze     Bronze Scale 
+ Ekenas the Mercury     Mercury Hourglass 
+ Aretos the Tin     Tin Spell Circle 
+ 
+ 
+ Aliens 
+ Overlord  /  Mother  /  Psychic 
+ Shocktrooper  /  Infiltrator  /  Warrior 
+ Mars  /  Telepath 
+ Ammonite  /  Dog  /  Grey  /  Kid  /  Shocktrooper M-Frame 
+ Hunter  /  Hypno 
+ Skull 
+ 
+ 
+ Altergeists 
+ Primebanshee  /  Multifaker  /  Kidolga  /  Fifinellag  /  Dragvirion  /  Memorygant  /  Pookuery 
+ Kunquery 
+ Hexstia 
+ Marionetter 
+ Meluseek  /  Fijialert 
+ Silquitous  /  Pixiel 
+ 
+ 
+ Aromages 
+ Marjoram 
+ Cananga 
+ Bergamot 
+ Jasmine 
+ Rosemary 
+ Laurel 
+ 
+ 
+ Attribute Boosters   (500 ATK▲/400 DEF▼)    Link Monsters    (500 ATK▲/500 DEF▲)    Field Spells    (500 ATK▲/400 DEF▼)    Equip Spells    (400 ATK▲/200 DEF▼) 
+ Witch's Apprentice     Wee Witch's Apprentice     Mystic Plasma Zone     Sword of Dark Destruction 
+ Milus Radiant     Missus Radiant     Gaia Power     Invigoration 
+ Little Chimera     Duelittle Chimera     Molten Destruction     Burning Spear 
+ Hoshiningen     Hip Hoshiningen     Luminous Spark     Elf's Light 
+ Star Boy     Mistar Boy     Umiiruka     Steel Shell 
+ Bladefly     Greatfly     Rising Air Current     Gust Fan 
+ 
+ 
+ Attribute Knights 
+ Armageddon 
+ Dust 
+ Brushfire 
+ Dawn 
+ Shore 
+ Altitude 
+ 
+ 
+ Attribute Reptiles 
+ Umbral Soul 
+ Raging Earth 
+ Firestorm Prominence 
+ Radiant Spirit 
+ Silent Abyss 
+ Destruction Cyclone 
+ 
+ 
+ Attribute Sorcerers    (4/1500/0/Spellcasters) 
+ Dark 
+ n/a 
+ Fire 
+ Light 
+ Aqua 
+ n/a 
+ 
+ 
+ Attribute Spirits 
+ Luna the Dark Spirit 
+ The Rock Spirit 
+ Spirit of Flames 
+ Diana the Light Spirit 
+ Aqua Spirit 
+ Garuda the Wind Spirit 
+ 
+ 
+ Attribute Summoners 
+ Mystic Tomato 
+ Giant Rat 
+ UFO Turtle 
+ Shining Angel 
+ Mother Grizzly 
+ Flying Kamakiri #1 
+ 
+ 
+ B.E.S. 
+ Big Core 
+ Covered Core  /  Blaster Cannon Core 
+ Big Core MK-2 
+ Big Core MK-3 
+ Crystal Core 
+ Tetran 
+ 
+ 
+ Barrier Statues 
+ Abyss 
+ Drought 
+ Inferno 
+ Heavens 
+ Torrent 
+ Stormwinds 
+ 
+ 
+ Beast Gear World 
+ Catapult Devilkong 
+ Motor Wolf  /  Trike Fox  /  King Convoy Ligeon 
+ Buggy Dog 
+ n/a 
+ n/a 
+ Gyro Jackal 
+ 
+ 
+ Charmers     Familiar-Possessed     Cataclysmic Charmers     Spiritual Arts    Familiar   Possessed Familiars 
+ Dharc     Dharc     n/a     Greed     Meda Bat     n/a 
+ Aussa     Aussa     Avalanching Aussa     Kurogane     Marmot     Nefarious 
+ Hiita     Hiita     Blazing Hiita     Kurenai     Fox Fire     Inari Fire 
+ Lyna     Lyna     n/a     Hijiri     Happy Lover     n/a 
+ Eria     Eria     Raging Eria     Aoi     Gigobyte     Jigabyte 
+ Wynn     Wynn     Storming Wynn     Miyabi     Petit Dragon     Ranryu 
+ 
+ 
+ Chrysalis     Neo-Spacians    Evolved forms   Contact Fusions   Evolved forms   Advanced Contact Fusions 
+ Pantail     Dark Panther     n/a     Dark Neos     n/a     Chaos Neos 
+ Mole     Grand Mole     n/a     Grand Neos     n/a     Nebula Neos 
+ Larva     Flare Scarab     n/a     Flare Neos     n/a     Magma Neos 
+ Pinny     Glow Moss     Twinkle Moss     Glow Neos     n/a     Cosmo Neos 
+ Dolphin     Aqua Dolphin     Marine Dolphin     Aqua Neos     Marine Neos     n/a 
+ Chicky     Air Hummingbird     n/a     Air Neos     n/a     Storm Neos 
+ 
+ 
+ Code Talkers      (Link-3) 
+ Decode    ( Extended ) 
+ Transcode 
+ Powercode 
+ Encode 
+ Shootingcode 
+ Excode 
+ 
+ 
+ Color Ninjas    Dragon Ninjas 
+ Strike     Black 
+ Senior Silver     n/a 
+ n/a     Red 
+ White     White 
+ n/a     Blue 
+ Yellow     Yellow 
+ 
+ 
+ Cubic 
+ Vijam  /  Crimson Nova  ( Trinity ) 
+ Dark Garnex 
+ Blade Garoodia 
+ Duza  /  Buster Gundil  /  Indiora Doom Volt 
+ n/a 
+ Geira Guile 
+ 
+ 
+ CXyz 
+ Dark Fairy Cheer Girl  /  Mechquipped Djinn Angeneral 
+ Comics Hero Legend Arthur  /  Battleship Cherry Blossom  /  Zubaba Saikyo General 
+ Coach Lord Ultimatrainer 
+ Simon the Great Moral Leader  /  Barian Hope 
+ N.As.Ch. Knight 
+ Skypalace Babylon 
+ 
+ 
+ Dice Roll  Archfiends 
+ Terrorking  /  Masterking 
+ Vilepawn 
+ Infernalqueen 
+ Desrook 
+ Darkbishop 
+ Shadowknight 
+ 
+ 
+ Double Tributers     Effigies 
+ Double Coston     Dark 
+ The Trojan Horse     Earth 
+ Flame Ruler     n/a 
+ Kaiser Sea Horse     Light 
+ Unshaven Angler     n/a 
+ Whirlwind Prodigy     Wind 
+ 
+ 
+ Dragonmaids    Human forms   Dragon forms 
+ Chamber     n/a 
+ Nurse     Ernus 
+ Kitchen     Tinkhec 
+ House     Sheou 
+ Laundry     Nudyarl 
+ Parlor     Lorpar 
+ 
+ 
+ Dustons     (1/0/1000/Fiends) 
+ Star 
+ Yellow 
+ Red 
+ House  /  White 
+ Blue 
+ Green 
+ 
+ 
+ Elemental HERO    Fusion Monsters    (1 "HERO" + 1 matching Attribute) 
+ Escuridao 
+ Gaia 
+ Nova Master 
+ The Shining 
+ Absolute Zero 
+ Great Tornado 
+ 
+ 
+ Elemental Lords     Elementsabers 
+ Umbramirage     Molehu 
+ Grandsoil     Aina 
+ Pyrorex     Malo 
+ Phosphorage     Lapauila  ( Mana ) 
+ Moulinglacia     Nalu 
+ Windrose     Makani 
+ 
+ 
+ Empowered Warriors     Summoners 
+ Dragonox     n/a 
+ Terratiger     White Tiger 
+ Arnis     Red Sparrow 
+ Dragodies     Golden Dragon 
+ Hydrortoise      Green Turtle 
+ Ventdra     Blue Dragon 
+ 
+ 
+ Endymion 
+ Master Magician  /  Mighty Master of Magic 
+ Magister 
+ Rogue 
+ Crusader  /  Reflection 
+ Magistus of Mastery 
+ Servant 
+ 
+ 
+ Entities 
+ Azathot 
+ Nyarla 
+ Cthugua 
+ N'tss 
+ Norden 
+ Hastorr 
+ 
+ 
+ Fortune Fairies     Fortune Ladies 
+ Ann     Dark  /  Past 
+ Chee     Earth 
+ En     Fire 
+ Hikari     Light  /  Every 
+ Swee     Water 
+ Hu     Wind 
+ 
+ 
+ Fur Hire 
+ Seal  /  Folgo 
+ Beat  /  Dyna 
+ Bravo 
+ Rafale 
+ Helmer  /  Wiz 
+ Donpa  /  Recon  /  Sagitta 
+ 
+ 
+ Generaiders 
+ Hela  /  Harr 
+ Dovelgus  /  Jormungandr 
+ Naglfar  /  Loptr 
+ Mardel  /  Utgarda 
+ Nidhogg 
+ Frodi 
+ 
+ 
+ Gizmek 
+ Orochi 
+ Uka 
+ Kaku 
+ Yata 
+ Okami 
+ Mikoto 
+ 
+ 
+ Guardians    Weapons     (Equip Spell Cards) 
+ Baou  /  Dreadscythe     Wicked-Breaking Flamberge  /  Reaper Scythe 
+ Grarl     Gravity Axe 
+ Ceal     Shooting Star Bow 
+ Tryce     Twin Swords of Flashing Light 
+ Kay'est     Rod of Silence 
+ Elma  /  Eatos     Buttefly Dagger  /  Celestial Sword 
+ 
+ 
+ Invoked     (1 " Aleister the Invoker " + 1 matching Attribute) 
+ Caliga 
+ Magellanica 
+ Purgatrio 
+ Mechaba 
+ Cocytus 
+ Raidjin 
+ 
+ 
+ Kaiju 
+ Radian 
+ Kumongous 
+ Dogoran 
+ Jizukiru  /  Mecha-Dogoran  /  Thunder King  /  Mecha-Thunder-King 
+ Gameciel 
+ Gadarla 
+ 
+ 
+ Knightmare 
+ Iblee  /  Unicorn  /  Orcust  /  Idlee 
+ Cerberus 
+ Phoenix 
+ Gryphon 
+ Mermaid 
+ Goblin 
+ 
+ 
+ Legendary Planets 
+ Sun  /  Jupiter  /  Saturn  /  Pluto 
+ Terra Firma 
+ Mars 
+ Venus  /  Uranus 
+ Mercury  /  Neptune 
+ n/a 
+ 
+ 
+ Masked HEROes 
+ Dark Law  /  Anki 
+ Dian 
+ Goka 
+ Koga 
+ Vapor  /  Acid 
+ Divine Wind  /  Blast 
+ 
+ 
+ Magician Girls 
+ ( Toon )    Dark    ( Dragon Knight ) 
+ Berry 
+ Apple 
+ Lemon 
+ Chocolate 
+ Kiwi 
+ 
+ 
+ Magikey 
+ Clavkiys  /  Batosbuster  /  Ansyalabolas 
+ Garesglasser 
+ Transfurlmine 
+ Mafteal 
+ Vepartu 
+ Andrabime 
+ 
+ 
+ Magistus 
+ Grimoire Crowley 
+ Goddess Ninaruru 
+ Flame Zoroa  /  Dragon Vafram 
+ Verre Cendrillon  /  Maiden Artemis 
+ Master Endymion 
+ Saint Aiwass 
+ 
+ 
+ Mirror Force 
+ Dark 
+ Quaking 
+ Blazing 
+ Radiant 
+ Drowning 
+ Storming 
+ 
+ 
+ Monarchs    Mega Monarchs   Related  "Monarch"  Spell/Trap Cards    Vassals 
+ Caius  /  Erebus     Caius the Mega     Tenacity  /  The First     Lucius  /  Eidos 
+ Granmarg     Granmarg the Mega     Return     Landrobe  /  Samsara Kaiser 
+ Thestalos     Thestalos the Mega     Erupt     Berlineth 
+ Zaborg  /  Ehther     Zaborg the Mega     Strike  /  The Prime     Mithra  /  Edea 
+ Mobius     Mobius the Mega     Awaken     Escher 
+ Raiza     Raiza the Mega     Stormforth     Garum 
+ 
+ 
+ Musical  Djinns 
+ Maestroke 
+ Temtempo 
+ n/a 
+ Melomelody 
+ Humhumming 
+ Muzurhythm 
+ 
+ 
+ Mythyrian Numbers 
+ Djinn Buster 
+ Lion Heart  /  Ronin Raccoon Sandayu 
+ n/a 
+ Sky Pegasus  /  Dragluon 
+ Abyss Splash  /  Crystalzero 
+ n/a 
+ 
+ 
+ Nemeses 
+ Protos 
+ Keystone 
+ Flag 
+ Eschatos 
+ Umbrella 
+ Corridor 
+ 
+ 
+ Number 10X     Number C10X 
+ n/a     Umbral Horror Masquerade 
+ Giant Hand     Giant Red Hand 
+ Battlin' Boxer Star Cestus     Battlin' Boxer Comet Cestus 
+ Star Seraph Sentry  /  Masquerade  /  Galaxy-Eyes Tachyon Dragon     Archfiend Seraph  /  Neo Galaxy-Eyes Tachyon Dragon 
+ Silent Honor ARK  /  Ragnazero     Silent Honor DARK  /  Ragnafinity 
+ n/a     n/a 
+ 
+ 
+ Odd-Eyes Dragons 
+ Odd-Eyes  /  Pendulum  /  Rebellion  ( Overlord ) /  Persona  /  Phantom  /  Mirage  /  Performapal Metal Claw  /  Raging  /  Supreme King  /  Wing  /  Venom  /  Arc Pendulum  /  Advance  /  Wizard 
+ Gravity 
+ Meteorburst 
+ Saber  /  Lancer  /  Revolution  /  Pendulumgraph 
+ Absolute 
+ Vortex 
+ 
+ 
+ Pendulum  Magicians 
+ Stargazer  /  Timegazer  /  Xiangke  /  Timebreaker  /  Acrobatic  /  Dragoncaller  /  Harmonizing  /  Double Iris  /  Black Fang  /  Purple Poison  /  Performapal Celestial 
+ Dragonpulse 
+ Nobledragon 
+ Wisdom-Eye  /  Xiangsheng  /  Dharma-Eye  /  Performapal Five-Rainbow 
+ Dragonpit 
+ Oafdragon  /  White Wing 
+ 
+ 
+ Prediction Princesses 
+ Astromorrigan 
+ Coinorma  /  Petalelf 
+ n/a 
+ Tarotrei 
+ Crystaldine 
+ Arrowsylph 
+ 
+ 
+ Resonators 
+ Dark  /  Synkron  /  Crimson 
+ Clock 
+ Flare  /  Red  /  Double  /  Net 
+ Barrier  /  Chain  /  Mirror 
+ Force 
+ Creation 
+ 
+ 
+ Road Magic 
+ N/A 
+ Diastrophism 
+ Explosion 
+ Rays Alter 
+ Backflow 
+ Tempest 
+ 
+ 
+ El Shaddoll    Fusion Monsters    (1 "Shaddoll" + 1 matching Attribute) 
+ Winda 
+ Shekhinaga 
+ Grysta 
+ Construct 
+ Anoyatyllis 
+ Wendigo 
+ 
+ 
+ Signer Dragons 
+ Red Archfiend  /  Black-Winged 
+ Life Stream 
+ Black Rose 
+ Ancient Fairy 
+ n/a 
+ Stardust 
+ 
+ 
+ Six Samurai     Legendary Six Samurai     Secret Six Samurai 
+ Irou     Shi En     Doji 
+ Yariza     Kizan     Kizaru 
+ Kamon     Mizuho     Genba 
+ Zanji     Enishi     Rihan 
+ Yaichi     Shinai     Hatsume 
+ Nisashi     Kageki     Fuma 
+ 
+ 
+ Sky Striker Ace 
+ Raye  /  Zeke 
+ Kaina 
+ Kagari 
+ Roze 
+ Shizuku 
+ Hayate 
+ 
+ 
+ Sushi Angels 
+ Spider Roll 
+ Monkey Roll 
+ n/a 
+ Garibel  /  Agaribel 
+ Tiger Roll 
+ Dragon Roll 
+ 
+ 
+ Synchro  Warriors    Tuner  Synchrons 
+ Junk  /  Satellite     Junk  /  Satellite 
+ Drill     Drill 
+ Nitro  /  Jet     Nitro  /  Jet 
+ Road     Road 
+ n/a     Steam 
+ Turbo     Turbo 
+ 
+ 
+ Tenyi  Spirits 
+ Vishuda 
+ Adhara 
+ Mapura 
+ Ashuna  /  Sahasrara 
+ Sthana 
+ Nahata 
+ 
+ 
+ The Weathers    Canvas     (Continuous Spell/Trap Cards) 
+ Aurora     Auroral 
+ Snow     Snowy 
+ Sun     Sunny 
+ Thunder  /  Rainbow     Thundery  /  Rainbowed 
+ Rain     Rainy 
+ Cloud     Cloudy 
+ 
+ 
+ Timelords 
+ Vorpgate 
+ Kamion  /  Hailon 
+ Metaion  /  Lazion  /  Michion 
+ Sephylon  /  Sandaion 
+ Zaphion  /  Gabrion 
+ Sadion  /  Raphion 
+ 
+ 
+ True Draco and True King 
+ All Calamities 
+ Lithosazim  /  Dreiath III 
+ Agnimazud  /  Ignis Heat 
+ Master Peace  ( King ) /  Metaltron XII 
+ Bahrstos  /  Dinomight Knight 
+ Majesty Maiden  /  Mariamne 
+ 
+ 
+ Witchcrafters 
+ Haine 
+ Potterie 
+ Schmitta 
+ Edel  /  Madame Verre  /  Golem Aruru 
+ Pittore 
+ Genni 
+ 
+ 
+ World Chalice 
+ World Legacy 
+ Beckoned  /  Ningirsu 
+ Chosen  /  Auram 
+ Lee 
+ Crowned  / Ib ( Priestess / Justiciar ) 
+ Guardragon  /  Imduk  /  Almarduke 
+ 
+ 
+ Yang Zing 
+ Taotie  /  Jiaotu  /  Yazi 
+ Bi'an  /  Zefraxi  /  Zefraniu 
+ Suanni 
+ Chiwen  /  Baxia  /  Chaofeng  /  Denglong 
+ Bixi 
+ Pulao 
+ 
+ 
+ Yo-kai Girls 
+ Ghost Reaper & Winter Cherries 
+ Ghost Belle & Haunted Mansion 
+ Ash Blossom & Joyous Spring 
+ Ghost Ogre & Snow Rabbit 
+ Ghost Sister & Spooky Dogwood 
+ Ghost Mourner & Moonlit Chill 
+ 
+ 
+ ZW - 
+ Chimera Clad  /  Dragonic Halberd 
+ Ultimate Shield 
+ Phoenix Bow  /  Asura Strike 
+ Unicorn Spear  /  Lightning Blade  /  Leo Arms  /  Sleipnir Mail  /  Fenrir Sword  /  Pegasus Twin Saber  /  Sylphid Wing 
+ n/a 
+ Tornado Bringer  /  Eagle Claw 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/13/Code_Talkers.png/revision/latest/scale-to-width-down/350?cb=20200321175255', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/24?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/24?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/24?cb=20120918053839', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Link Monster(s)

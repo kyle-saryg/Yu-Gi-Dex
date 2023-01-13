@@ -1,0 +1,512 @@
+Link: https://yugioh.fandom.com/wiki/Engine
+
+An  engine  is a combination of cards that work well together, but contains too few cards to make a full Deck. If an engine focuses on raising consistency and draw power, it is called a  Draw Engine .
+ 
+ Contents 
+ 
+ 1   Examples 
+ 
+ 1.1   Rank 3 engine 
+ 1.2   Plant engine 
+ 1.3   Diva engine 
+ 1.4   "Machina" engine 
+ 1.5   "Dragon Ruler" engine 
+ 1.6   "Fairy Tail - Snow" engine 
+ 1.7   "Brilliant Fusion" engine 
+ 1.8   "Sky Striker" engine 
+ 1.9   "Kaiju" Engine 
+ 1.10   "Invoked" Engine 
+ 
+ 
+ 
+ 
+ Examples 
+ Rank 3 engine 
+ These engines use the effect of a specific monster to quickly  Xyz Summon  Rank 3 monsters such as " Leviair the Sea Dragon ", " Wind-Up Zenmaines ", " Dante, Traveler of the Burning Abyss ", " M-X-Saber Invoker ", and " Totem Bird " (if using  WIND  monsters. There are three notable variants.
+ " Tour Guide From the Underworld " is used to Summon Level 3 Fiend-Type monster from the Deck. This engine was largely replaced by " Speedroid Terrortop " and " Speedroid Taketomborg ", which could achieve the same purpose without wasting a Normal Summon. After "Terrortop's" Limiting, the " Predaplant Ophrys Scorpio " and " Predaplant Darlingtonia Cobra " engine became more prominent; while it uses up the Normal Summon, once per Duel it can also search out a " Fusion " or " Polymerization " Spell Card. Terrortop, however,  has remained the standard choice for combo-heavy decks like  Gouki , however the banning of  M-X-Saber Invoker  has once again hurt this variant's viability, as their main Monster of choice to Summon no longer exists in the format.
+ 
+ Plant engine 
+ It consists of " Glow-Up Bulb ", " Spore ", " Lonefire Blossom ", " Dandylion ", " Debris Dragon " and " One for One " and allows for fast Synchro Summoning.
+ 
+ Diva engine 
+ The Diva Engine is similar to the Tour Guide engine. " Deep Sea Diva " is used to Special Summon another  Sea Serpent  monster, setting up a Synchro or Xyz Summon. It is more commonly used in " Mermail " Decks, where is possible to search an " Atlantean " monster, specially " Neptabyss, the Atlantean Prince ", and provide access to other combos.
+ 
+ "Machina" engine 
+ The "Machina" engine consists of " Machina Fortress " and " Machina Gearframe ". It gives more power to  Machine  Decks, Including " Gimmick Puppets ", " Gadgets ", " Geargia " and " Karakuri ". " Gear Gigant X " and " Machina Peacekeeper " can be used to search "Gearframe", but the latter is rather not used due to its slow speed.
+ 
+ "Dragon Ruler" engine 
+ When the infamous " Dragon Rulers " were Limited, they were commonly used as engines on Decks of their corresponding Attributes. For example, " Redox, Dragon Ruler of Boulders " could be used to revive " Scrap " or "Karakuri" monsters; " Tidal, Dragon Ruler of Waterfalls " could trigger the effect of "Atlantean" monsters while setting up the Graveyard, and " Tempest, Dragon Ruler of Storms " could fit in any Dragon-oriented Deck, mainly " Dragunity ".
+ 
+ "Fairy Tail - Snow" engine 
+ In Decks that rely on filling the Graveyard, specially " Lightsworn " builds, it has been common to use copies of " Fairy Tail - Snow ", that can be used as free Xyz/Synchro/Link materials, while banishing useless cards from the Graveyard or cards that trigger their effects upon being banished. Also, since it can be Special Summoned during the opponent's turn, it can also be used as a way to frustrate an opponent's move, acting like a " Book of Moon ".
+ 
+ "Brilliant Fusion" engine 
+ This engine consists in Fusion Summoning " Gem-Knight Seraphinite " with " Brilliant Fusion ", thinning the Deck with the Fusion Materials while also allowing 1 extra Normal Summon. Depending on the game state, it can provide materials for Link, Synchro, Fusion and/or Xyz Summons. The most popular and consistent way to accomplish this combo is by Normal Summoning " Predaplant Ophrys Scorpio ", whose effect is used to Special Summon " Predaplant Darlingtonia Cobra ". Then, the effect of "Darlingtonia Cobra" is used to search "Brilliant Fusion", which is finally used to Fusion Summon "Seraphinite". " Performage Trick Clown " is the most common LIGHT Fusion Material used for this Summon, since its effect can be triggered, Special Summoning itself from the Graveyard. This combo results in -4 cards in the Deck, 4 monsters on the field and an additional Normal Summon. The monsters can be used for a variety of Summons, especially of monsters like " Saryuja Skull Dread ", " Firewall Dragon ", etc. Also, if there was already a Link monster pointing to a Main Monster Zone(s) when "Seraphinite" was Summoned, it is possible to Xyz Summon a Rank 3 monster with the " Predaplant " monsters.
+ 
+ " Sky Striker " engine 
+ This popular engine utilises the power of  Sky Striker Mecha - Hornet Drones  to make free Link Summons without having to Normal Summon. If you have no monsters in your  Main Monster Zones , Hornet Drones will give you a free  Token  that can be used to make  Sky Striker Ace - Kagari , recovering the Hornet Drones for re-use and giving you essentially a free Link-2 off 1 card. Since the Token and Kagari have different characteristics, they can be used for a wide variety Link Monsters, including  Aleister the Invoker of Madness ,  Knightmare  monsters and even acting as a stepping stone for bigger monsters like  Borreload Dragon . The only other Sky Striker card that was standard in this engine was the mighty search/draw power of  Sky Striker Mobilize - Engage! , but with the Limiting of Hornet Drones, it has become more standard to play other cards like  Afterburners  and  Widow Anchor , to prevent other Engages becoming  dead draws . This has hurt the engine's splashability, but it is still fairly popular.
+ 
+ "Kaiju" Engine 
+ Generally very popular in  Cyber Dragon  decks and is useful for clearing an opponent's board and/or removing a boss monster by tributing them. An engine like this could be relatively small, by using 3 of "Interrupted Kaiju Slumber", and 4  Kaiju  monsters (with a 2/1/1 ratio) ie. 2 Gameciel (2200 Atk), 1 Radian (2800 Atk) and 1 Jizukiru (3300 Atk). The Gameciel is for the opponents side of the board and depending on if the Jizukiru has been used, the Radian or Jizukiru is for your side of the board to beat over it. Jizukiru is helpful for Cyber Dragons as it's another Light Machine type monster. You can add to the engine with other spell/trap cards to include Kaiju counters to activate their effects for other forms of negation or removal as well, but being mindful that if the opponent has your Kaiju they can activate the effects also.
+ 
+ "Invoked" Engine 
+Generally useless on its own, with only 1 Main Deck monster and its support doesn't help it on its own. However, this archetype sees a very large amount of play in  Duel Links , generally ran with  Elementsabers . The engine consists of 3  Aleister the Invokers  and 2  Invocations . When Aleister the Invoker is drawn (via means of Sorcery Conduit or otherwise) you can either use an opponent's monster in their graveyard (if they meet the Attribute requirements) or an Elementsaber in your Graveyard, using its effect to change its Attribute until the end of that turn to  Fusion Summon  an Invoked monster from your Extra Deck. v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Gaming Terms

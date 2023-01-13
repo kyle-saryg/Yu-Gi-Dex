@@ -1,0 +1,382 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_Online:_Duel_Evolution
+
+
+ 
+ Yu-Gi-Oh! Online: Duel Evolution 
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh! Online: Duel Evolution 
+ 
+ 
+ English  
+ Yu-Gi-Oh! Online: Duel Evolution 
+ 
+ 
+ Developer(s) 
+ Konami 
+ 
+ 
+ Publisher(s) 
+ Konami 
+ 
+ 
+ Platform(s) 
+ PC 
+ 
+ 
+ Release date(s) 
+  January 1, 2007  January 1, 2007 
+ 
+ 
+ Genre 
+ Card Battle 
+ 
+ 
+ Ratings 
+ E 
+ 
+ 
+ Yu-Gi-Oh! Online: Duel Evolution  was a major update from " Yu-Gi-Oh! Online ", that changed many aspects of the game. Players now have their own avatars and can explore portions of  Domino City  from the original  Yu-Gi-Oh!  series and the  Duel Academy  from the  Yu-Gi-Oh! GX  series. The dueling screen and the Deck editor have also been redesigned and improved.
+ One of the latest improvements of this game are the NPCs. They exist in both Domino City and Duel Academy. NPCs are both characters that are featured in the series such as  Yami Yugi ,  Seto Kaiba ,  Jaden Yuki ,  Alexis Rhodes  and characters that aren't featured in the series.
+ In December of 2009, a new version called  Yu-Gi-Oh! Online 3: Duel Accelerator  replaced  Duel Evolution , making it defunct.
+ 
+ Contents 
+ 
+ 1   System Requirements 
+ 2   Cards 
+ 3   Ranking 
+ 4   Events 
+ 
+ 4.1   Seasonal Championships 
+ 4.2   Anniversary Trials 
+ 
+ 
+ 5   Payment 
+ 
+ 5.1   Duelpass 150 
+ 5.2   USB Duelpass Key 
+ 5.3   SMS Duelpass 
+ 
+ 
+ 6   More Information 
+ 7   Other versions 
+ 8   External links 
+ 
+ 
+ System Requirements 
+ OS:  Windows 2000/XP.  Konami  does not guarantee that the game will run on Windows Vista, although it usually runs fine on Vista. 
+ CPU:  Pentium III 600 and above 
+ RAM:  256 MB or more 
+ Hard Drive:  2.0 GB or more free space 
+ Video Card:  DirectX 9.0c compatible 
+ Sound Card:  DirectX 9.0c compatible 
+ Internet Connection:  256 kbit/s or faster 
+ Cards 
+ Players would duel using cards, in the same way as in the Yu-Gi-Oh! Trading Card Game. Each player starts with a 40-60 card starter Deck. After that, players needed to duel to get more cards. Whenever a single game (1 duel) is played, both players get 1 card from a card pack of their choice. Whenever a match game (2 or 3 duels, first to win twice wins) is played, both players get 3 cards from a card pack of their choice.
+ 
+       Main Screen     
+ Cards could also be obtained through trading (only if the player has played 36 or more duels) or exchanging Mileage Points ( MP ).  MP  is earned in amounts for claiming duel pass codes, and could be used to buy some of the game's more sought-after cards (such as  Doomcaliber Knight , and  Grandmaster of the Six Samurai ). Since the update to Duel Evolution,  MP  is being done in the form of a Duel Shop, where packs, single cards and custom parts for your avatar can be purchased. Buying packs through these stores gives you 5 random cards from that pack, rather than the usual 1 or 3.
+ 
+ 
+         Packs Selection     
+ The game includes cards from  OCG  boosters up to and including  Light of Destruction , as well as a variety of OCG promos.
+ 
+ Ranking 
+ There are 30 player Levels, Levels 1 through 30. Once a player has played at least 36 duels, he or she can advance beyond Level 1, and must to move from the beginner's lobby to the other lobbies where all players Level 2 and above play.
+ 
+         Player Look Editing     
+ The player's Level is decided by their score. Each time a player wins a duel, that player's score increases, and whenever a player loses a duel, their score decreases. The amount of points received or deducted depends on the player's level and the opponent's level. For example, a Level 2 player winning from a Level 5 player would gain more points than a Level 6 player winning from a Level 3 player.
+ 
+ Events 
+ Duelist Trial 
+ Gunslinger 
+ Evolution Duels 
+ Ultimate Match 
+ Seasonal Championships 
+ These championships are held once every season (excluding Fall). A preliminary tournament is held and the top 16 duelists go into the Final Tournament where they play a knock-out tournament until they lose. Qualifiers are awarded with cards based on what place they arrived in.
+ 
+         Duel Field     
+ Anniversary Trials 
+ These are held yearly and offers prize cards depending on how many times you win over a 24 hour period.
+ 
+ Payment 
+ To duel, players must spend  Duelpass Points  ( DP ). It costs 1 DP for 1 duel. Duelpass points are obtained by purchasing Duelpasses. Purchasing a Duelpass gains the player 30 Duelpass Points, 1 card in the game, and 10 Mileage (that players can exchange for cards). Ten Duelpass points are given for free to every account when they are first created.
+There are currently four formats for obtaining Duelpasses. A Duelpass Point is approximately 10 US Cents.
+ Generation I
+ 
+ Duelpass: Phase Two 
+ Duelpass: Phase Three 
+ Duelpass: Phase Four 
+ Duelpass: Phase Five 
+ Duelpass: Phase Six 
+ Generation II 
+ 
+ Duelpass: Phase Seven     :  E-Hero 
+ Duelpass: Phase Eight     :  Spellcasters Unity 
+ Duelpass: Phase Nine      :  The Lost Guardian 
+ Duelpass: Phase Ten       :  Legend Ojamaster 
+ Duelpass: Phase Eleven    :  Dinosaur's Roar 
+ Duelpass: Phase Twelve    :  Rainbow Explosion 
+ Duelpass: Phase Thirteen  :  Divine Judgement 
+ Duelpass: Phase Fourteen  :  Absolute Darkness 
+ Duelpass: Phase Fifteen   :  Dragon's Dominion 
+ Duelpass: Phase Sixteen   :  Advent of the Emperor 
+ Duelpass: Phase Seventeen :  Ultimate Selection 
+ Duelpass 150 
+ This is an online purchase that is equivalent to 5 Duelpasses (150 Duelpass points). The 5 cards gained from this type of Duelpass are chosen randomly from a set. At one point, sale of the Duelpass 150 was suspended in the United States due to fraud, but since the release of Duel Evolution, the Duelpass 150 is available in United States again.
+ 
+ USB Duelpass Key 
+ The  USB Duelpass Key  is equivalent to 3 Duelpasses (90 Duelpass points). It is a USB device that is sold in retail stores in the United States, such as Toys 'R' Us and Target. It works like a standard USB flash drive, except it only contains the information necessary to transfer game credits to your account. A CD-ROM with the full version of the game is included in the packaging for the USB Duelpass Key. The flashdrive itself has only 128K or so of memory, unusable for anything but the duel pass credits. The 3 cards gained from this type of duelpass are chosen randomly from a set. The USB Duelpass Key is sold only in the United States and Mexico. Players in other locations must get duelpasses from one of the other methods or buy them from a third party.
+ 
+ SMS Duelpass 
+ The  SMS Duelpass  is available in the United Kingdom to date and for a charge of £1 you gain 15 Duel Points and 10MP. It's a quick and popular way of obtaining Duel Points.
+ 
+ More Information 
+ Yu-Gi-Oh! Online: Booster Packs 
+ Yu-Gi-Oh! Online: Gunslinger 
+ Other versions 
+ Yu-Gi-Oh! Online 
+ Yu-Gi-Oh! Online 3: Duel Accelerator 
+ External links 
+ Yu-Gi-Oh! Online Official Site 
+ v e 
+ Yu-Gi-Oh! Manga 
+ Series 
+ Yu-Gi-Oh! 
+ characters 
+ bunkōban 
+ volumes 
+ Subseries 
+ Yu-Gi-Oh! 
+ chapters 
+ volumes 
+ Duelist 
+ chapters 
+ volumes 
+ Millennium World 
+ chapters 
+ volumes 
+ Spin-offs 
+ R 
+ chapters 
+ volumes 
+ GX 
+ chapters 
+ 5D's 
+ chapters 
+ ZEXAL 
+ chapters 
+ D Team 
+ ARC-V 
+ chapters 
+ The Strongest Duelist Yuya!! 
+ Yu-Gi-Oh! OCG Structures 
+ chapters 
+ SEVENS 
+ chapters 
+ Luke! Legend of Exploding Military Rule!! 
+ 
+ Anime 
+ Series 
+ Yu-Gi-Oh!  (Toei) 
+ characters 
+ cards 
+ episodes 
+ VHS 
+ Yu-Gi-Oh!  ( Duel Monsters ) 
+ episodes
+ season 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ DVD 
+ Capsule Monsters 
+ episodes 
+ Films 
+ Yu-Gi-Oh! 
+ Pyramid of Light 
+ VS. GX   (canceled) 
+ Bonds Beyond Time 
+ The Dark Side of Dimensions 
+ Spin-offs 
+ GX 
+ characters 
+ episodes
+ season 1 
+ 2 
+ 3 
+ 4 
+ 5D's 
+ characters 
+ episodes
+ season 1 
+ 2 
+ ZEXAL 
+ characters 
+ episodes
+ season 1 
+ 2 
+ ARC-V 
+ characters 
+ episodes
+ season 1 
+ 2 
+ 3 
+ VRAINS 
+ characters 
+ episodes
+ season 1 
+ 2 
+ 3 
+ Yu-Gi-Oh! SEVENS 
+ characters 
+ episodes
+ season 1 
+ 2 
+ Yu-Gi-Oh! GO RUSH!! 
+ characters 
+ episodes
+ season 1 
+ 
+ Storylines 
+ Manga 
+ School 
+ Death-T 
+ Monster World 
+ Duelist Kingdom 
+ Dungeon Dice Monsters 
+ Battle City 
+ Tournament Finals 
+ King's Memories 
+ Ceremonial Battle 
+ TRANSCEND GAME 
+ Anime 
+ Duelist Kingdom 
+ Domino City Battles 
+ Battle City (part 1) 
+ Virtual World 
+ Battle City (part 2) 
+ Waking the Dragons 
+ Grand Championship 
+ Pharaoh's Memories 
+ Ceremonial Battle 
+ 
+ Plot elements 
+ Millennium Items 
+ Egyptian Gods 
+ Wicked Gods 
+ Orichalcos 
+ Legendary Dragons 
+ Games 
+ Bandai's Official Card Game 
+ Konami's  Yu-Gi-Oh! Duel Monsters 
+ Official Card Game 
+ Trading Card Game 
+ Capsule Monster Chess 
+ Digital Pets 
+ Dragon Cards 
+ Monster World 
+ Dungeon Dice Monsters 
+ Capsule Monsters Video games 
+ Others 
+ Earth 
+ Duel Monsters Spirit World 
+ Solid Vision 
+ Dueling Arena 
+ KaibaCorp 
+ King of Games (King of Duelists) 
+ 
+ Music 
+ 
+ v e 
+ Video games Duel Monsters 
+ Duel Monsters 
+ II: Dark duel Stories 
+ Dark Duel Stories  ( III: Tri-Holy God Advent ) 
+ 4: Battle of Great Duelist 
+ The Eternal Duelist Soul  ( 5 Expert 1 ) 
+ 6 Expert 2 
+ The Sacred Cards  ( 7: The Duelcity Legend ) 
+ Reshef of Destruction  ( 8: Reshef of Destruction ) 
+ Worldwide Edition: Stairway to the Destined Duel  ( International ) 
+ Online 
+ Online 
+ Duel Evolution 
+ 3: Duel Accelerator 
+ Power of Chaos 
+ Yugi the Destiny 
+ Kaiba the Revenge 
+ Joey the Passion 
+ Tag Force 
+ GX 1 
+ GX 2 
+ GX Evolution  ( GX The Beginning of Destiny ) 
+ GX 3 
+ 5D's 4 
+ 5D's 5 
+ 5D's 6 
+ ARC-V Special 
+ True Duel Monsters 
+ Forbidden Memories  ( Sealed Memories ) 
+ The Duelists of the Roses  ( 2: Succeeded Memories ) 
+ World Championship 
+ Tournament 2004  ( Duel Monsters Expert 3 ) 
+ 7 Trials to Glory: Tournament 2005   ( Day of the Duelist: Tournament 2005  /   Duel Monsters International 2 ) 
+ Ultimate Masters: Tournament 2006  ( Duel Monsters Expert 2006 ) 
+ 2007 
+ 2008 
+ 5D's 2009: Stardust Accelerator 
+ 5D's 2010: Reverse of Arcadia 
+ 5D's 2011: Over the Nexus 
+ Browser, PC, or mobile 
+ 5D's Mobile 
+ BAM 
+ Pocket 
+ Duel Arena 
+ Duel Generation 
+ Duel Links 
+ Cross Duel 
+ Other handheld 
+ Monster Capsule GB 
+ Dungeon Dice Monsters 
+ Destiny Board Traveler  ( Sugoroku no Sugoroku ) 
+ Nightmare Troubadour 
+ GX Duel Academy  ( GX Mezase Duel King! ) 
+ Double Pack 
+ 2 
+ GX Spirit Caller  ( GX Spirit Summoner ) 
+ GX Card Almanac 
+ ZEXAL World Duel Carnival 
+ Saikyo Card Battle 
+ Other console 
+ Monster Capsule: Breed and Battle 
+ The Falsebound Kingdom 
+ The Dawn of Destiny 
+ Capsule Monster Coliseum 
+ 5D's Wheelie Breakers 
+ 5D's Decade Duels 
+ Plus 
+ 5D's Duel Transer  ( 5D's Master of the Cards ) 
+ Millennium Duels 
+ Rush Duel 
+ Multi-Platform games 
+ Legacy of the Duelist 
+ Legacy of the Duelist: Link Evolution 
+ Master Duel 
+ Other 
+ Multi-Master 
+ Duel Terminal 
+ Duel Dash 
+ 
+ {{ Game guides }} 
+ {{ Video game promotional cards }} 
+ {{ Game guide promotional cards }} 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d7/Yugioh_online_duel_evolution-_logo.png/revision/latest/scale-to-width-down/350?cb=20140609033142', 'https://static.wikia.nocookie.net/yugioh/images/a/a4/Flag_of_the_United_States.svg/revision/latest/scale-to-width-down/20?cb=20081119225336', 'https://static.wikia.nocookie.net/yugioh/images/9/9e/Flag_of_Japan.svg/revision/latest/scale-to-width-down/20?cb=20081119225453', 'https://static.wikia.nocookie.net/yugioh/images/5/57/MainScreen-YGOOEV.jpg/revision/latest/scale-to-width-down/180?cb=20101024145035', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/ad/Packs-YGOOEV.png/revision/latest/scale-to-width-down/180?cb=20101024145309', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e2/PlayerLook-YGOOEV.jpg/revision/latest/scale-to-width-down/180?cb=20101024145848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/45/DuelField-YGOOEV.jpg/revision/latest/scale-to-width-down/180?cb=20101024150046']
+Categories: Video games

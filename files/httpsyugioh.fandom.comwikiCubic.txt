@@ -1,0 +1,1020 @@
+Link: https://yugioh.fandom.com/wiki/Cubic
+
+
+ 
+ Cubic 
+ 方界 「 ほうかい 」  ( Hōkai ) 
+ 
+ 
+ 
+ 
+ " Crimson Nova Trinity the Dark Cubic Lord " 
+ 
+ 
+ Translation 
+ Direction World 
+ 
+ 
+ Other names 
+ 
+ French 
+ Cubique 
+ 
+ 
+ German 
+ Kubisch 
+ 
+ 
+ Italian 
+ Cubico 
+ 
+ 
+ Korean 
+ 방계 方界   (Hanja)   Banggye   (romanized) 
+ 
+ 
+ Portuguese 
+ Cúbico(a) 
+ 
+ 
+ Spanish 
+ Cúbico/a 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack: Gold Edition Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack Special Edition Duel Overload 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Weekly Shōnen Jump 2016, Issue 19 promotional card 20th Anniversary Legend Collection 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! The Dark Side of Dimensions 
+ 
+ 
+ 
+ 
+ Manga appearances 
+ 
+ 
+ TRANSCEND GAME (part 1) TRANSCEND GAME (part 2) 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Cubic ", known in the  OCG  as " Houkai " ( 方 界 ,  Hōkai  lit. "Direction World") is an  archetype  of  monsters  with various  Attributes  (primarily  LIGHT  and  DARK ) and  Types  (primarily  Beast ,  Fairy , and  Fiend ), used by  Aigami  in the  Yu-Gi-Oh! The Dark Side of Dimensions  film and by  Sera  in  TRANSCEND GAME .
+ 
+ Contents 
+ 
+ 1   Etymology 
+ 2   Members 
+ 3   Support 
+ 4   Playing style 
+ 5   Weaknesses 
+ 6   Recommended cards 
+ 7   Official Deck 
+ 8   References 
+ 
+ 
+ Etymology 
+ The Japanese name of the archetype, " Hōkai ", is written with the characters for "Direction World" (方界). It seems to be a reference to the Buddhist term "worlds of the ten directions" (十方世界,  Jippō Sekai ), or the "Dasa-Dikpala". The individual "Cubic"  monsters  are based on the  Dikpāla , the "Guardians of the Directions" in Hinduism.
+ The kanji 方 can be used to form the word "cube" (立方,  Rippō ), a geometric shape that appears on some "Cubic" cards and that is frequently seen being summoned and manipulated by Aigami. The English name of the archetype may be based on this.
+ The cube and multiple worlds motif is referenced by the film's title,  The Dark Side of Dimensions .
+ 
+ Members 
+ 
+ 
+ Monster
+ 
+ Origin
+ 
+ 
+ Blade Garoodia the Cubic Beast 
+ 
+ Garuda 
+ 
+ 
+ Buster Gundil the Cubic Behemoth 
+ 
+ Gandharva 
+ 
+ 
+ Crimson Nova the Dark Cubic Lord 
+ 
+ Shiva 
+ 
+ 
+ Crimson Nova Trinity the Dark Cubic Lord 
+ 
+ Trimurti 
+ 
+ 
+ Dark Garnex the Cubic Beast 
+ 
+ Ganesha 
+ 
+ 
+ Duza the Meteor Cubic Vessel 
+ 
+ Dyaus Pita 
+ 
+ 
+ Geira Guile the Cubic King 
+ 
+ Vayu 
+ 
+ 
+ Indiora Doom Volt the Cubic Emperor 
+ 
+ Indra 
+ 
+ 
+ Vijam the Cubic Seed 
+ 
+ Vishnu 
+ 
+ 
+ Vulcan Dragni the Cubic King 
+ 
+ Agni 
+ 
+ Support 
+ 
+ 
+ Card
+ 
+ Origin
+ 
+ 
+ Cubic Ascension 
+ 
+ Moksha 
+ 
+ 
+ Cubic Causality 
+ 
+ Satkaryavada 
+ 
+ 
+ Cubic Dharma 
+ 
+ Dharma 
+ 
+ 
+ Cubic Karma 
+ 
+ Karma 
+ 
+ 
+ Cubic Mandala 
+ 
+ Mandala 
+ 
+ 
+ Cubic Rebirth 
+ 
+ Saṃsāra 
+ 
+ 
+ Cubic Wave 
+ 
+ Aura 
+ 
+ 
+ Unification of the Cubic Lords 
+ 
+ Tridevi 
+ 
+ Playing style 
+ The monsters in the "Cubic" archetype can be largely divided into three series, the Beast "Cubic Beast" series (with the inclusion of " Buster Gundil the Cubic Behemoth "), the Fiend "Cubic Lord" series, and the Fairy "Cubic King" series (with the inclusion of " Indiora Doom Volt the Cubic Emperor "). In particular, the "Cubic Beast" and "Cubic King" series form the backbone of the archetype, with a few threads of commonality between their members. Both series emphasize a strategy of engaging the opponent’s monsters in battle or destroying them by battle in order to fulfill their respective listed conditions and Special Summon their higher Leveled monsters.
+ Both series are comprised of monsters with 0 ATK and DEF, with each series having a single monster in each of the Levels from 2-4. Additionally, the monsters in both series have summoning conditions that require the controller to send from the field to the Graveyard, a number of "Cubic" monsters equal to one less of their respective Levels, before Special Summoning them from the hand. However, all monsters, except " Vijam the Cubic Seed " and " Duza the Meteor Cubic Vessel ", are Special Summon-only monsters.
+ Each of the monsters in both series have three effects with common characteristics among them. The first effect is applied if the monster is Special Summoned via its own summoning conditions, bolstering the monster’s ATK by the product of one less than its Level and an amount common to the series (1000 for the "Cubic Beast" series and 800 for the "Cubic King" series). 
+ The second effect is unique to the series, enabling members of the "Cubic Beast" series (except " Dark Garnex the Cubic Beast ") to attack a number of times per Battle Phase equal to one less of their Levels, and members of the "Cubic King" series to inflict 800 damage to the opponent when they are Special Summoned from the hand. 
+ For the Level 2 and 3 monsters, the third effect entails sending themselves to the Graveyard once a condition unique to their series (destroying the opponent's monsters by battle for the "Cubic Beast" series and battling the opponent's monsters for the "Cubic King" series) is met, then Special Summoning from the Graveyard, a number of copies of " Vijam the Cubic Seed " equal to their respective Levels, and finally, adding to the hand from the Deck, the monster in the series that is one Level higher than themselves, setting the controller up to Special Summon the added monster by sending the Summoned copies of "Vijam" to the Graveyard. The third effect of the Level 4 monsters instead Special Summon 3 "Cubic" monsters from the Graveyard if the monster is sent there by an opponent's card, and then allow the controller to add a "Cubic" card from their Deck to their hand.
+ "Vijam" is at the core of the majority of the archetype's strategies, as the effects of monsters from both series are dependent upon Special Summoning copies of it from the Graveyard to fuel their Special Summons. "Vijam" itself focuses on battling the opponent's monsters and then going to the Spell & Trap Zone as a Continuous Spell Card in order to place  Cubic Counters  on them, which prevent them from attacking and negates their effects, keeping the opponent from battling "Cubic" monsters or using monster effects on them at a time that is inopportune to the controller. Following this, "Vijam" can simply Special Summon itself from the Spell & Trap Zone and battle another monster, repeating the process for as many times as the controller wishes, leaving the opponent's monsters vulnerable to attacks from members of both series once "Vijam" is used to Special Summon any of them. 
+ As both series are oriented towards battle in order to summon their higher Leveled monsters, several of the archetype's Spell and Trap Cards are focused on decreasing the ATK opponent's monsters in order to make this task easier. Another common trait shared by several Spell and Trap Cards is the placement of Cubic Counters on the opponent's monsters. In particular, " Cubic Wave " doubles the ATK of one of the controller's "Cubic" monsters and halves that of an opponent's monster, while also possessing an effect that lets the controller banish it and any number of "Cubic" monsters from the Graveyard, placing a number of Cubic Counters on opponent's monsters equal to the number of banished monsters. " Cubic Karma " sends copies of "Vijam" from the Deck to the Graveyard, while also giving one of the controller's "Cubic" monsters, except "Vijam", 800 ATK per sent monster. It also halves the opponent's LP by sending itself to the Graveyard when "Vijam" is Special Summoned by a "Cubic" monster's effect during the opponent's turn, and can banish itself form the Graveyard to allow the controller to add a "Cubic" monster from their Deck to their hand.
+ " Unification of the Cubic Lords " is essential for the Summon of the archetype's boss monster, " Crimson Nova Trinity the Dark Cubic Lord ", and can Fusion Summon it if the controller sends its Fusion Materials to the Graveyard for the hand or field. It can also banish itself from the Graveyard to enable the controller to Special Summon a Level 4 or lower "Cubic" monster from the hand or Deck, ignoring the summoning conditions and granting the summoned monster immunity to battle and effect destruction for the turn. " Cubic Mandala " lets the controller target the opponent's destroyed monsters in the Graveyard that were sent there that turn and Special Summon them to the opponent's field, whilst reducing their ATK to 0 and placing a Cubic Counter on each. The card also plays a key role in further locking down the opponent's other monster effects, negating any activated ones while the opponent controls the summoned monsters. " Cubic Rebirth " was supposed to punish the opponent for declaring direct attacks by Special Summoning their other copies of the attacking monster from their hand, Deck, and Graveyard, then striping those monsters of all their ATK and placing Cubic Counters on them, but since Master Rule 4 this effect only enables the opponent to make high-Link Summons in their Main Phase 2. It then allows the controller to Special Summon a Level 4 or lower "Cubic" monster from the hand or Deck, ignoring the summoning conditions, which does not make up for the disadvantage. 
+ " Duza the Meteor Cubic Vessel " is an important combo piece in the archetype, as it sends a "Cubic" card from the Deck to the Graveyard upon its Normal or Special Summon, enabling the "Cubic Beast" and "Cubic King" series to have copies of "Vijam" there to Special Summon with their third effects, should it be sent. Alternatively, the effect of "Duza" can also be used to send "Wave", "Unification", or "Karma", allowing the controller to banish them for their effects without having to activate and send them to the Graveyard first. "Duza" also takes advantage of the tendency for the "Cubic Beast" and "Cubic King" series to send their monsters to the Graveyard, using this influx of monsters to boost its own ATK by 200 multiplied by the number of differently named "Cubic" monsters in the Graveyard for the turn. Duza can also serve as an immense beatstick, in the right circumstances: by summoning Duza and using  Cubic Karma  to send all Vijam in the deck to the Graveyard as well as a  Unification of the Cubic Lords , you can boost Duza's attack to at least 4200, and even use  Cubic Wave  to increase attack further to 8400, while  Unification of the Cubic Lords  serves as a failsafe.
+ The archetype's boss monsters are contained in the "Cubic Lord" series, which is comprised of Nomi monsters with high ATK, in stark contrast to the rest of the archetype's members, except "Duza". As the controller may possibly amass "Cubic Beast" and "Cubic King" monsters without any means of summoning them, " Crimson Nova the Dark Cubic Lord " can utilize that to its advantage, Special Summoning itself from the hand if the controller reveals three other differently named "Cubic" cards in the hand. Owing to the fact that it is both unaffected by activated monster effects whose ATK is equal to or below its original ATK of 3000, and has the capability of attacking again if it destroys a monster by battle, it can serve as a formidable beatstick. This trait is also shared with "Crimson Nova Trinity", which can be summoned by fusing three copies of "Crimson Nova" using the aforementioned " Unification of the Cubic Lords ". "Crimson Nova Trinity" also shares the multiple attack ability of its Fusion Material, whilst also being untargetable and indestructible by card effects. It is also capable of halving the opponent's LP each time it attacks and punishes the opponent should they attempt to skirt around it by inflicting effect damage to the controller, as it also inflicts the same amount of effect damage to the opponent in turn.
+ 
+ Weaknesses 
+ As both the "Cubic Beast" and "Cubic King" monsters, along with "Karma", are heavily dependent on "Vijam" to use their effects, any effects that prevent "Vijam" from being used, such as " Psi-Blocker " and " Prohibition ", can severely cripple the archetype's ability to make combos and access its higher Leveled monsters. To a lesser extent, the same debilitating effects can also occur if a specific Level 3 or 4 "Cubic Beast" or "Cubic Emperor" monster is prevented from being used, as it would block the ability of the affected series from summoning it to make power plays. The problem of "Psi-Blocker" can be be addressed, however, by using the effect of "Wave" to place a Cubic Counter on it.
+ Also, as both series focus on Special Summoning "Vijam" and to a lesser extent, other "Cubic" monsters from the Graveyard, effects that banish cards which would go to the Graveyard, such as " Dimensional Fissure " and " Macro Cosmos ", or otherwise prevent cards from being sent there, have a similar ability to shut down the archetype's combos by harming its recursive capabilities, especially if "Vijam" is banished with no way for the controller to retrieve it from the Banished Zone.
+ Given that both series also require the controller to add their higher Leveled monsters from the Deck to the hand when using their third effects, the archetype is also disadvantaged if the controller has to duel against a  Mill Deck . As monsters in both series, along with "Crimson Nova", are either Nomi or Special Summon only monsters, being sent directly from the Deck to the Graveyard precludes them from being Special Summoned through their summoning conditions. While "Samsara" and "Unification" can summon "Cubic Beast" and "Cubic King" monsters by  ignoring their Summoning conditions , they can only do so from the hand or Deck, rendering their effects useless if the monsters are milled. Any means the controller may have of retrieving such monsters sent to the Graveyard by a Mill Deck may also be milled as well, exacerbating the problem.
+ As both series rely on interaction with the opponent's monsters through battle in order to advance their position by Summoning their higher Leveled monsters, cards that prevent the controller from initiating battle, such as " Nightmare's Steelcage ", " Swords of Revealing Light ", and " Threatening Roar ", will cause the archetype to slow to a crawl by preventing that advancement. This weakness can, however, be alleviated by using the effects of "Samsara" and "Unification" to Summon the monsters regardless.
+ 
+ Recommended cards 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ Crimson Nova the Dark Cubic Lord 
+ Blade Garoodia the Cubic Beast 
+ Buster Gundil the Cubic Behemoth 
+ Dark Garnex the Cubic Beast 
+ Duza the Meteor Cubic Vessel 
+ Geira Guile the Cubic King 
+ Indiora Doom Volt the Cubic Emperor 
+ Vijam the Cubic Seed 
+ Vulcan Dragni the Cubic King 
+ Predaplant Chlamydosundew 
+ Mystic Tomato 
+ Summoner Monk 
+ Tuner monsters 
+ Stygian Security Extra Deck   
+ Fusion Monsters 
+ Crimson Nova Trinity the Dark Cubic Lord 
+ Phantasm Emperor Trilojig 
+ Greedy Venom Fusion Dragon 
+ Starving Venom Fusion Dragon 
+ Synchro Monsters 
+ PSY-Framelord Omega 
+ Xyz Monsters 
+ Superdreadnought Rail Cannon Gustav Max Spells   &  Traps   
+ Spells 
+ Cubic Karma 
+ Cubic Wave 
+ Creature Swap 
+ Foolish Burial 
+ Inferno Reckless Summon 
+ One for One 
+ Polymerization / Fusion Substitute 
+ Recurring Nightmare 
+ Zerozerock 
+ Traps 
+ Cubic Mandala 
+ Cubic Rebirth 
+ Unification of the Cubic Lords 
+ Spirit Barrier 
+ Subsurface Stage Divers 
+ Official Deck 
+ 
+ Official Cubic Deck [1] Monsters   
+ Effect Monsters 
+ Blade Garoodia the Cubic Beast  x2 
+ Buster Gundil the Cubic Behemoth  x2 
+ Crimson Nova the Dark Cubic Lord 
+ Dark Garnex the Cubic Beast  x2 
+ Duza the Meteor Cubic Vessel  x3 
+ Geira Guile the Cubic King  x2 
+ Indiora Doom Volt the Cubic Emperor 
+ Sangan 
+ Stygian Security  x2 
+ Vijam the Cubic Seed  x3 
+ Vulcan Dragni the Cubic King Extra Deck   
+ Fusion Monsters 
+ Crimson Nova Trinity the Dark Cubic Lord Spells   &  Traps   
+ Spells 
+ Burden of the Mighty  x2 
+ Cubic Karma  x2 
+ Cubic Wave  x3 
+ Dark Eruption 
+ Draw Muscle  x2 
+ Foolish Burial 
+ One for One 
+ Traps 
+ Breakthrough Skill  x2 
+ Call of the Haunted  x2 
+ Cubic Mandala 
+ Cubic Rebirth 
+ Unification of the Cubic Lords 
+ Wall of Disruption 
+ 
+ Dimension Duel! “Cubic” Deck [2] Monsters   
+ Effect Monsters 
+ Buster Gundil the Cubic Behemoth  x2 
+ Crimson Nova the Dark Cubic Lord  x3 
+ Dark Garnex the Cubic Beast 
+ Duza the Meteor Cubic Vessel  x3 
+ Geira Guile the Cubic King  x3 
+ Indiora Doom Volt the Cubic Emperor 
+ Vijam the Cubic Seed  x3 
+ Vulcan Dragni the Cubic King Extra Deck   
+ Fusion Monsters 
+ Crimson Nova Trinity the Dark Cubic Lord  x2 
+ Link Monsters 
+ Linkuriboh  x2 Spells   &  Traps   
+ Spells 
+ Card Destruction 
+ Cubic Dharma  x3 
+ Cubic Karma  x3 
+ Cubic Wave  x2 
+ Foolish Burial 
+ Foolish Burial Goods  x2 
+ Monster Gate 
+ Mystical Space Typhoon  x3 
+ Recurring Nightmare  x2 
+ Traps 
+ Cubic Ascension  x2 
+ Cubic Causality 
+ Heavy Storm Duster 
+ Needlebug Nest 
+ Unification of the Cubic Lords  x3 
+ References 
+ 
+ ↑   https://ygorganization.com/ocg-mvp1-related-deck-lists/ 
+ 
+ ↑   https://ygorganization.com/thestagebeyondtimeinthedarkdimension/ 
+ 
+ 
+ v e 
+ Cubic  cards 
+   
+" Cubic " 「 方 界 」 Members 
+ Blade Garoodia the Cubic Beast Buster Gundil the Cubic Behemoth Crimson Nova Trinity the Dark Cubic Lord Crimson Nova the Dark Cubic Lord Dark Garnex the Cubic Beast Duza the Meteor Cubic Vessel Geira Guile the Cubic King Indiora Doom Volt the Cubic Emperor Vijam the Cubic Seed Vulcan Dragni the Cubic King 
+ Cubic Ascension Cubic Causality Cubic Dharma Cubic Karma Cubic Mandala Cubic Rebirth Cubic Wave Unification of the Cubic Lords 
+ Support 
+ Blade Garoodia the Cubic Beast Buster Gundil the Cubic Behemoth Crimson Nova the Dark Cubic Lord Duza the Meteor Cubic Vessel Geira Guile the Cubic King Indiora Doom Volt the Cubic Emperor Vulcan Dragni the Cubic King 
+ Cubic Causality Cubic Dharma Cubic Karma Cubic Mandala Cubic Rebirth Cubic Wave Unification of the Cubic Lords 
+ 
+ v e 
+" Cubic " 「 方 界 」 a   Members 
+ Blade Garoodia the Cubic Beast Buster Gundil the Cubic Behemoth Crimson Nova Trinity the Dark Cubic Lord Crimson Nova the Dark Cubic Lord Cubic Ascension Cubic Defense Cubic Karma Cubic Mandala Cubic Rebirth Cubic Wave Dark Garnex the Cubic Beast Geira Guile the Cubic King Indiora Doom Volt the Cubic Emperor Unification of the Cubic Lords Vijam the Cubic Seed Vulcan Dragni the Cubic King 
+ Support 
+ Cubic Karma Cubic Rebirth Cubic Wave Unification of the Cubic Lords 
+ 
+ v e 
+" Cubic Seed " 「 方 界 胤 」 a   Members 
+ Vijam the Cubic Seed 
+ Support 
+ Blade Garoodia the Cubic Beast Buster Gundil the Cubic Behemoth Cubic Karma Dark Garnex the Cubic Beast Geira Guile the Cubic King Indiora Doom Volt the Cubic Emperor Vulcan Dragni the Cubic King 
+ 
+ v e 
+ Cubic   方 界 m   Members 
+ Duza the Meteor Cubic Vessel 
+ 
+ 
+ 
+ 
+ 
+ 
+ Six Attributes 
+ 
+ This box:  view edit 
+ DARK    
+ EARTH   
+ FIRE    
+ LIGHT   
+ WATER   
+ WIND    
+ 
+ 
+ /Assault Modes 
+ Red Dragon Archfiend  /  Colossal Fighter 
+ Hyper Psychic Blaster  /  T.G. Halberd Cannon 
+ Doomkaiser Dragon 
+ Arcanite Magician 
+ n/a 
+ Stardust Dragon 
+ 
+ 
+ @Ignisters    Base forms   Evolved forms 
+ Doyon     Dark Templar 
+ Doshin     Earth Golem 
+ Achichi     Fire Phoenix 
+ Pikari     Light Dragon 
+ Hiyari     Water Leviathan 
+ Bururu     Wind Pegasus 
+ 
+ 
+ Alchemy Beasts    Summoners     (Normal Spell Cards) 
+ Moonface the Silver     Silver Key 
+ Leon the Lead     Lead Compass 
+ Salamandra the Steel     Steel Lamp 
+ Ouroboros the Bronze     Bronze Scale 
+ Ekenas the Mercury     Mercury Hourglass 
+ Aretos the Tin     Tin Spell Circle 
+ 
+ 
+ Aliens 
+ Overlord  /  Mother  /  Psychic 
+ Shocktrooper  /  Infiltrator  /  Warrior 
+ Mars  /  Telepath 
+ Ammonite  /  Dog  /  Grey  /  Kid  /  Shocktrooper M-Frame 
+ Hunter  /  Hypno 
+ Skull 
+ 
+ 
+ Altergeists 
+ Primebanshee  /  Multifaker  /  Kidolga  /  Fifinellag  /  Dragvirion  /  Memorygant  /  Pookuery 
+ Kunquery 
+ Hexstia 
+ Marionetter 
+ Meluseek  /  Fijialert 
+ Silquitous  /  Pixiel 
+ 
+ 
+ Aromages 
+ Marjoram 
+ Cananga 
+ Bergamot 
+ Jasmine 
+ Rosemary 
+ Laurel 
+ 
+ 
+ Attribute Boosters   (500 ATK▲/400 DEF▼)    Link Monsters    (500 ATK▲/500 DEF▲)    Field Spells    (500 ATK▲/400 DEF▼)    Equip Spells    (400 ATK▲/200 DEF▼) 
+ Witch's Apprentice     Wee Witch's Apprentice     Mystic Plasma Zone     Sword of Dark Destruction 
+ Milus Radiant     Missus Radiant     Gaia Power     Invigoration 
+ Little Chimera     Duelittle Chimera     Molten Destruction     Burning Spear 
+ Hoshiningen     Hip Hoshiningen     Luminous Spark     Elf's Light 
+ Star Boy     Mistar Boy     Umiiruka     Steel Shell 
+ Bladefly     Greatfly     Rising Air Current     Gust Fan 
+ 
+ 
+ Attribute Knights 
+ Armageddon 
+ Dust 
+ Brushfire 
+ Dawn 
+ Shore 
+ Altitude 
+ 
+ 
+ Attribute Reptiles 
+ Umbral Soul 
+ Raging Earth 
+ Firestorm Prominence 
+ Radiant Spirit 
+ Silent Abyss 
+ Destruction Cyclone 
+ 
+ 
+ Attribute Sorcerers    (4/1500/0/Spellcasters) 
+ Dark 
+ n/a 
+ Fire 
+ Light 
+ Aqua 
+ n/a 
+ 
+ 
+ Attribute Spirits 
+ Luna the Dark Spirit 
+ The Rock Spirit 
+ Spirit of Flames 
+ Diana the Light Spirit 
+ Aqua Spirit 
+ Garuda the Wind Spirit 
+ 
+ 
+ Attribute Summoners 
+ Mystic Tomato 
+ Giant Rat 
+ UFO Turtle 
+ Shining Angel 
+ Mother Grizzly 
+ Flying Kamakiri #1 
+ 
+ 
+ B.E.S. 
+ Big Core 
+ Covered Core  /  Blaster Cannon Core 
+ Big Core MK-2 
+ Big Core MK-3 
+ Crystal Core 
+ Tetran 
+ 
+ 
+ Barrier Statues 
+ Abyss 
+ Drought 
+ Inferno 
+ Heavens 
+ Torrent 
+ Stormwinds 
+ 
+ 
+ Beast Gear World 
+ Catapult Devilkong 
+ Motor Wolf  /  Trike Fox  /  King Convoy Ligeon 
+ Buggy Dog 
+ n/a 
+ n/a 
+ Gyro Jackal 
+ 
+ 
+ Charmers     Familiar-Possessed     Cataclysmic Charmers     Spiritual Arts    Familiar   Possessed Familiars 
+ Dharc     Dharc     n/a     Greed     Meda Bat     n/a 
+ Aussa     Aussa     Avalanching Aussa     Kurogane     Marmot     Nefarious 
+ Hiita     Hiita     Blazing Hiita     Kurenai     Fox Fire     Inari Fire 
+ Lyna     Lyna     n/a     Hijiri     Happy Lover     n/a 
+ Eria     Eria     Raging Eria     Aoi     Gigobyte     Jigabyte 
+ Wynn     Wynn     Storming Wynn     Miyabi     Petit Dragon     Ranryu 
+ 
+ 
+ Chrysalis     Neo-Spacians    Evolved forms   Contact Fusions   Evolved forms   Advanced Contact Fusions 
+ Pantail     Dark Panther     n/a     Dark Neos     n/a     Chaos Neos 
+ Mole     Grand Mole     n/a     Grand Neos     n/a     Nebula Neos 
+ Larva     Flare Scarab     n/a     Flare Neos     n/a     Magma Neos 
+ Pinny     Glow Moss     Twinkle Moss     Glow Neos     n/a     Cosmo Neos 
+ Dolphin     Aqua Dolphin     Marine Dolphin     Aqua Neos     Marine Neos     n/a 
+ Chicky     Air Hummingbird     n/a     Air Neos     n/a     Storm Neos 
+ 
+ 
+ Code Talkers      (Link-3) 
+ Decode    ( Extended ) 
+ Transcode 
+ Powercode 
+ Encode 
+ Shootingcode 
+ Excode 
+ 
+ 
+ Color Ninjas    Dragon Ninjas 
+ Strike     Black 
+ Senior Silver     n/a 
+ n/a     Red 
+ White     White 
+ n/a     Blue 
+ Yellow     Yellow 
+ 
+ 
+ Cubic 
+ Vijam  /  Crimson Nova  ( Trinity ) 
+ Dark Garnex 
+ Blade Garoodia 
+ Duza  /  Buster Gundil  /  Indiora Doom Volt 
+ n/a 
+ Geira Guile 
+ 
+ 
+ CXyz 
+ Dark Fairy Cheer Girl  /  Mechquipped Djinn Angeneral 
+ Comics Hero Legend Arthur  /  Battleship Cherry Blossom  /  Zubaba Saikyo General 
+ Coach Lord Ultimatrainer 
+ Simon the Great Moral Leader  /  Barian Hope 
+ N.As.Ch. Knight 
+ Skypalace Babylon 
+ 
+ 
+ Dice Roll  Archfiends 
+ Terrorking  /  Masterking 
+ Vilepawn 
+ Infernalqueen 
+ Desrook 
+ Darkbishop 
+ Shadowknight 
+ 
+ 
+ Double Tributers     Effigies 
+ Double Coston     Dark 
+ The Trojan Horse     Earth 
+ Flame Ruler     n/a 
+ Kaiser Sea Horse     Light 
+ Unshaven Angler     n/a 
+ Whirlwind Prodigy     Wind 
+ 
+ 
+ Dragonmaids    Human forms   Dragon forms 
+ Chamber     n/a 
+ Nurse     Ernus 
+ Kitchen     Tinkhec 
+ House     Sheou 
+ Laundry     Nudyarl 
+ Parlor     Lorpar 
+ 
+ 
+ Dustons     (1/0/1000/Fiends) 
+ Star 
+ Yellow 
+ Red 
+ House  /  White 
+ Blue 
+ Green 
+ 
+ 
+ Elemental HERO    Fusion Monsters    (1 "HERO" + 1 matching Attribute) 
+ Escuridao 
+ Gaia 
+ Nova Master 
+ The Shining 
+ Absolute Zero 
+ Great Tornado 
+ 
+ 
+ Elemental Lords     Elementsabers 
+ Umbramirage     Molehu 
+ Grandsoil     Aina 
+ Pyrorex     Malo 
+ Phosphorage     Lapauila  ( Mana ) 
+ Moulinglacia     Nalu 
+ Windrose     Makani 
+ 
+ 
+ Empowered Warriors     Summoners 
+ Dragonox     n/a 
+ Terratiger     White Tiger 
+ Arnis     Red Sparrow 
+ Dragodies     Golden Dragon 
+ Hydrortoise      Green Turtle 
+ Ventdra     Blue Dragon 
+ 
+ 
+ Endymion 
+ Master Magician  /  Mighty Master of Magic 
+ Magister 
+ Rogue 
+ Crusader  /  Reflection 
+ Magistus of Mastery 
+ Servant 
+ 
+ 
+ Entities 
+ Azathot 
+ Nyarla 
+ Cthugua 
+ N'tss 
+ Norden 
+ Hastorr 
+ 
+ 
+ Fortune Fairies     Fortune Ladies 
+ Ann     Dark  /  Past 
+ Chee     Earth 
+ En     Fire 
+ Hikari     Light  /  Every 
+ Swee     Water 
+ Hu     Wind 
+ 
+ 
+ Fur Hire 
+ Seal  /  Folgo 
+ Beat  /  Dyna 
+ Bravo 
+ Rafale 
+ Helmer  /  Wiz 
+ Donpa  /  Recon  /  Sagitta 
+ 
+ 
+ Generaiders 
+ Hela  /  Harr 
+ Dovelgus  /  Jormungandr 
+ Naglfar  /  Loptr 
+ Mardel  /  Utgarda 
+ Nidhogg 
+ Frodi 
+ 
+ 
+ Gizmek 
+ Orochi 
+ Uka 
+ Kaku 
+ Yata 
+ Okami 
+ Mikoto 
+ 
+ 
+ Guardians    Weapons     (Equip Spell Cards) 
+ Baou  /  Dreadscythe     Wicked-Breaking Flamberge  /  Reaper Scythe 
+ Grarl     Gravity Axe 
+ Ceal     Shooting Star Bow 
+ Tryce     Twin Swords of Flashing Light 
+ Kay'est     Rod of Silence 
+ Elma  /  Eatos     Buttefly Dagger  /  Celestial Sword 
+ 
+ 
+ Invoked     (1 " Aleister the Invoker " + 1 matching Attribute) 
+ Caliga 
+ Magellanica 
+ Purgatrio 
+ Mechaba 
+ Cocytus 
+ Raidjin 
+ 
+ 
+ Kaiju 
+ Radian 
+ Kumongous 
+ Dogoran 
+ Jizukiru  /  Mecha-Dogoran  /  Thunder King  /  Mecha-Thunder-King 
+ Gameciel 
+ Gadarla 
+ 
+ 
+ Knightmare 
+ Iblee  /  Unicorn  /  Orcust  /  Idlee 
+ Cerberus 
+ Phoenix 
+ Gryphon 
+ Mermaid 
+ Goblin 
+ 
+ 
+ Legendary Planets 
+ Sun  /  Jupiter  /  Saturn  /  Pluto 
+ Terra Firma 
+ Mars 
+ Venus  /  Uranus 
+ Mercury  /  Neptune 
+ n/a 
+ 
+ 
+ Masked HEROes 
+ Dark Law  /  Anki 
+ Dian 
+ Goka 
+ Koga 
+ Vapor  /  Acid 
+ Divine Wind  /  Blast 
+ 
+ 
+ Magician Girls 
+ ( Toon )    Dark    ( Dragon Knight ) 
+ Berry 
+ Apple 
+ Lemon 
+ Chocolate 
+ Kiwi 
+ 
+ 
+ Magikey 
+ Clavkiys  /  Batosbuster  /  Ansyalabolas 
+ Garesglasser 
+ Transfurlmine 
+ Mafteal 
+ Vepartu 
+ Andrabime 
+ 
+ 
+ Magistus 
+ Grimoire Crowley 
+ Goddess Ninaruru 
+ Flame Zoroa  /  Dragon Vafram 
+ Verre Cendrillon  /  Maiden Artemis 
+ Master Endymion 
+ Saint Aiwass 
+ 
+ 
+ Mirror Force 
+ Dark 
+ Quaking 
+ Blazing 
+ Radiant 
+ Drowning 
+ Storming 
+ 
+ 
+ Monarchs    Mega Monarchs   Related  "Monarch"  Spell/Trap Cards    Vassals 
+ Caius  /  Erebus     Caius the Mega     Tenacity  /  The First     Lucius  /  Eidos 
+ Granmarg     Granmarg the Mega     Return     Landrobe  /  Samsara Kaiser 
+ Thestalos     Thestalos the Mega     Erupt     Berlineth 
+ Zaborg  /  Ehther     Zaborg the Mega     Strike  /  The Prime     Mithra  /  Edea 
+ Mobius     Mobius the Mega     Awaken     Escher 
+ Raiza     Raiza the Mega     Stormforth     Garum 
+ 
+ 
+ Musical  Djinns 
+ Maestroke 
+ Temtempo 
+ n/a 
+ Melomelody 
+ Humhumming 
+ Muzurhythm 
+ 
+ 
+ Mythyrian Numbers 
+ Djinn Buster 
+ Lion Heart  /  Ronin Raccoon Sandayu 
+ n/a 
+ Sky Pegasus  /  Dragluon 
+ Abyss Splash  /  Crystalzero 
+ n/a 
+ 
+ 
+ Nemeses 
+ Protos 
+ Keystone 
+ Flag 
+ Eschatos 
+ Umbrella 
+ Corridor 
+ 
+ 
+ Number 10X     Number C10X 
+ n/a     Umbral Horror Masquerade 
+ Giant Hand     Giant Red Hand 
+ Battlin' Boxer Star Cestus     Battlin' Boxer Comet Cestus 
+ Star Seraph Sentry  /  Masquerade  /  Galaxy-Eyes Tachyon Dragon     Archfiend Seraph  /  Neo Galaxy-Eyes Tachyon Dragon 
+ Silent Honor ARK  /  Ragnazero     Silent Honor DARK  /  Ragnafinity 
+ n/a     n/a 
+ 
+ 
+ Odd-Eyes Dragons 
+ Odd-Eyes  /  Pendulum  /  Rebellion  ( Overlord ) /  Persona  /  Phantom  /  Mirage  /  Performapal Metal Claw  /  Raging  /  Supreme King  /  Wing  /  Venom  /  Arc Pendulum  /  Advance  /  Wizard 
+ Gravity 
+ Meteorburst 
+ Saber  /  Lancer  /  Revolution  /  Pendulumgraph 
+ Absolute 
+ Vortex 
+ 
+ 
+ Pendulum  Magicians 
+ Stargazer  /  Timegazer  /  Xiangke  /  Timebreaker  /  Acrobatic  /  Dragoncaller  /  Harmonizing  /  Double Iris  /  Black Fang  /  Purple Poison  /  Performapal Celestial 
+ Dragonpulse 
+ Nobledragon 
+ Wisdom-Eye  /  Xiangsheng  /  Dharma-Eye  /  Performapal Five-Rainbow 
+ Dragonpit 
+ Oafdragon  /  White Wing 
+ 
+ 
+ Prediction Princesses 
+ Astromorrigan 
+ Coinorma  /  Petalelf 
+ n/a 
+ Tarotrei 
+ Crystaldine 
+ Arrowsylph 
+ 
+ 
+ Resonators 
+ Dark  /  Synkron  /  Crimson 
+ Clock 
+ Flare  /  Red  /  Double  /  Net 
+ Barrier  /  Chain  /  Mirror 
+ Force 
+ Creation 
+ 
+ 
+ Road Magic 
+ N/A 
+ Diastrophism 
+ Explosion 
+ Rays Alter 
+ Backflow 
+ Tempest 
+ 
+ 
+ El Shaddoll    Fusion Monsters    (1 "Shaddoll" + 1 matching Attribute) 
+ Winda 
+ Shekhinaga 
+ Grysta 
+ Construct 
+ Anoyatyllis 
+ Wendigo 
+ 
+ 
+ Signer Dragons 
+ Red Archfiend  /  Black-Winged 
+ Life Stream 
+ Black Rose 
+ Ancient Fairy 
+ n/a 
+ Stardust 
+ 
+ 
+ Six Samurai     Legendary Six Samurai     Secret Six Samurai 
+ Irou     Shi En     Doji 
+ Yariza     Kizan     Kizaru 
+ Kamon     Mizuho     Genba 
+ Zanji     Enishi     Rihan 
+ Yaichi     Shinai     Hatsume 
+ Nisashi     Kageki     Fuma 
+ 
+ 
+ Sky Striker Ace 
+ Raye  /  Zeke 
+ Kaina 
+ Kagari 
+ Roze 
+ Shizuku 
+ Hayate 
+ 
+ 
+ Sushi Angels 
+ Spider Roll 
+ Monkey Roll 
+ n/a 
+ Garibel  /  Agaribel 
+ Tiger Roll 
+ Dragon Roll 
+ 
+ 
+ Synchro  Warriors    Tuner  Synchrons 
+ Junk  /  Satellite     Junk  /  Satellite 
+ Drill     Drill 
+ Nitro  /  Jet     Nitro  /  Jet 
+ Road     Road 
+ n/a     Steam 
+ Turbo     Turbo 
+ 
+ 
+ Tenyi  Spirits 
+ Vishuda 
+ Adhara 
+ Mapura 
+ Ashuna  /  Sahasrara 
+ Sthana 
+ Nahata 
+ 
+ 
+ The Weathers    Canvas     (Continuous Spell/Trap Cards) 
+ Aurora     Auroral 
+ Snow     Snowy 
+ Sun     Sunny 
+ Thunder  /  Rainbow     Thundery  /  Rainbowed 
+ Rain     Rainy 
+ Cloud     Cloudy 
+ 
+ 
+ Timelords 
+ Vorpgate 
+ Kamion  /  Hailon 
+ Metaion  /  Lazion  /  Michion 
+ Sephylon  /  Sandaion 
+ Zaphion  /  Gabrion 
+ Sadion  /  Raphion 
+ 
+ 
+ True Draco and True King 
+ All Calamities 
+ Lithosazim  /  Dreiath III 
+ Agnimazud  /  Ignis Heat 
+ Master Peace  ( King ) /  Metaltron XII 
+ Bahrstos  /  Dinomight Knight 
+ Majesty Maiden  /  Mariamne 
+ 
+ 
+ Witchcrafters 
+ Haine 
+ Potterie 
+ Schmitta 
+ Edel  /  Madame Verre  /  Golem Aruru 
+ Pittore 
+ Genni 
+ 
+ 
+ World Chalice 
+ World Legacy 
+ Beckoned  /  Ningirsu 
+ Chosen  /  Auram 
+ Lee 
+ Crowned  / Ib ( Priestess / Justiciar ) 
+ Guardragon  /  Imduk  /  Almarduke 
+ 
+ 
+ Yang Zing 
+ Taotie  /  Jiaotu  /  Yazi 
+ Bi'an  /  Zefraxi  /  Zefraniu 
+ Suanni 
+ Chiwen  /  Baxia  /  Chaofeng  /  Denglong 
+ Bixi 
+ Pulao 
+ 
+ 
+ Yo-kai Girls 
+ Ghost Reaper & Winter Cherries 
+ Ghost Belle & Haunted Mansion 
+ Ash Blossom & Joyous Spring 
+ Ghost Ogre & Snow Rabbit 
+ Ghost Sister & Spooky Dogwood 
+ Ghost Mourner & Moonlit Chill 
+ 
+ 
+ ZW - 
+ Chimera Clad  /  Dragonic Halberd 
+ Ultimate Shield 
+ Phoenix Bow  /  Asura Strike 
+ Unicorn Spear  /  Lightning Blade  /  Leo Arms  /  Sleipnir Mail  /  Fenrir Sword  /  Pegasus Twin Saber  /  Sylphid Wing 
+ n/a 
+ Tornado Bringer  /  Eagle Claw 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/29/CrimsonNovaTrinitytheDarkCubicLord-JP-Anime-MOV3-NC.png/revision/latest/scale-to-width-down/350?cb=20170315132739', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/24?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/24?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/24?cb=20120918053839', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Fusion Monster(s)

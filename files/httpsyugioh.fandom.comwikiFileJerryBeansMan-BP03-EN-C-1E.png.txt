@@ -1,0 +1,916 @@
+Link: https://yugioh.fandom.com/wiki/File:JerryBeansMan-BP03-EN-C-1E.png
+
+
+ 
+ Level
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 星 [Note 1] Formerly sometimes:  星 の 数 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ レベル [Note 2] Formerly sometimes: ほしのかず
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 星 Formerly sometimes: 星の数
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Reberu Formerly sometimes: hoshi no kazu
+ 
+ 
+ 
+ Japanese (translated)
+ 
+ 
+ Level Formerly sometimes: star count
+ 
+ 
+ 
+ English
+ 
+ 
+ Level Formerly sometimes: Level Star
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Niveau 
+ German : Stufe 
+ Italian : Livello 
+ Portuguese : Nível 
+ Spanish : Nivel 
+ Korean : 레벨  Rebel 
+ Traditional Chinese : 等級  Děngjí / Dang2 kap1 
+ Simplified Chinese : 等级   Děngjí 
+ 
+ 
+ A  Level  (レベル  Reberu , abbreviated as  星 [Note 3] in the  card text  of  Trap Monster  Cards and cards that  Summon  a  Token ), formerly  Level Star  ( 星 の 数   hoshi no kazu ) in the card text of  Ritual Monster  Cards and  Ritual Spell Cards , is a property of  monsters .
+ The  original Level  of a Monster Card is represented by a number of stars   in the top-right (except for " Ultimaya Tzolkin " and " Phantasmal Lord Ultimitl Bishbaalkin ", which each have a  Level condition  that determines their  original Level  instead of their marked Level of 0).
+ In the  OCG  and  TCG , monsters' original Levels can range from 0 to 12, with a monster's original Level providing a rough indication of how powerful it is.  Card effects  can freely raise a monster's Level to arbitrarily large values in excess of 12, but cannot reduce a monster's Level to be less than 1. In the  Yu-Gi-Oh! 5D's  anime and  manga , as well as in the  Yu-Gi-Oh! Tag Force  series of video games,  Dark Synchro Monsters  can have  negative Levels . A monster can only have a single Level at a time. [1] 
+ Not all monsters have Levels.  Xyz Monsters  have  Ranks  and  Link Monsters  have  Link Ratings , instead.  Spell / Trap Cards   Special Summoned  as monsters by the effect of " Magical Hats ", as well as  Boss Duel  monsters, do not have Levels.
+ 
+ Contents 
+ 
+ 1   Normal Summoning 
+ 2   Role in Special Summons 
+ 3   Patterns 
+ 4   Play style 
+ 5   Gallery 
+ 6   Notes 
+ 7   References 
+ 
+ 
+ Normal Summoning 
+ Excluding monsters with  Summoning conditions  that specify otherwise,
+ 
+ Level 1 to 4 monsters can be  Normal Summoned  without  Tributes 
+ Level 5 and 6 monsters require 1 Tribute to be Normal Summoned (this is a  Tribute Summon ) 
+ Level 7 and higher monsters require 2 Tributes to be Normal Summoned (this is a Tribute Summon) 
+ If the Level of a monster in the hand is changed (such as due to the effect of " Cost Down " or " Star Blast "), the modified Level is considered when Normal Summoning the monster.
+ 
+ Role in Special Summons 
+ A monster's Level is also important in  Ritual ,  Synchro ,  Xyz , and  Pendulum Summoning .
+ 
+ Most  Ritual Spell Cards  require monsters to be  Tributed  who total Levels are greater than or equal to the Level of the  Ritual Monster  to be Ritual Summoned. 
+ To Synchro Summon a Synchro Monster, the player must use  Synchro Materials  whose total Levels exactly equal the Synchro Monster's Level. 
+ To Xyz Summon an Xyz Monster, the player must use 2 or more  Xyz Materials  whose Levels all equal the Xyz Monster's Rank. 
+ Pendulum Summoning allows the player to Special Summon multiple monsters who each have a Level that is between the  Pendulum Scales  of the cards in the  Pendulum Zones . 
+ Patterns 
+ A common guideline is that Level 3 monsters generally have no more than 1750  ATK , Level 4 monsters have  no more than 2000 ATK , Level 6 monsters have no more than 2600 ATK, Level 8 monsters have  no more than 3000 ATK , Level 10 monsters have no more than 4000 ATK, and Level 12 monsters have no more than 5000 ATK. Monsters that break this rule generally have  negative effects  or restrictive Summoning conditions that make them harder to use.
+ 
+ Play style 
+ Due to the higher requirements involved in Summoning them, higher-Level monsters are typically not as numerous as lower-Level monsters in a player's Deck, assuming the Deck is properly balanced. While high-Level monsters are usually considered the most effective in combat, it is often the low-Level monsters that perform the most important roles, due to their ease of use and often versatile card  effects  such as  searching  other cards out of the player's Deck. In addition, many low-Level monsters possess effects that can change their ATK, which in a well-supported Deck can often give them far higher ATK than any high-Level monster. For example, " Copycat " and " Relinquished " base their ATK upon the opponent's monster, the " Meklord Emperors " can take the ATK power of the opponent's Synchro Monsters, and " King of the Skull Servants " can have an enormous ATK in the right Deck.
+ 
+ Gallery 
+ A  Level 0 monster A  Level 1 monster A  Level 2 monster A  Level 3 monster A  Level 4 monster A  Level 5 monster A  Level 6 monster A  Level 7 monster A  Level 8 monster A  Level 9 monster A  Level 10 monster A  Level 11 monster A  Level 12 monster 
+ Notes 
+ 
+ ↑   Abbreviation. 
+ 
+ ↑   Full form, and annotative furigana for the abbreviation. 
+ 
+ ↑   The kanji here means "star". 
+ 
+ 
+ References 
+ 
+ ↑   Konami.  Yu-Gi-Oh! Official Card Game - Perfect Rulebook 2015 . p. 48 .  https://ygorganization.com/perfectrulebook/ . 
+ 
+ 
+ v e 
+Monsters and  Monster Cards Level 
+ ? † 
+ ??? † 
+ -8 † 
+ -7 † 
+ -6 † 
+ -5 † 
+ -4 † 
+ 0 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ Rank 
+ 0 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 
+ 12 
+ 13 
+ Monster type 
+ Normal 
+ Effect 
+ Fusion 
+ Ritual 
+ Synchro 
+ Pendulum 
+ Dark Synchro † 
+ Accel Synchro † 
+ Delta Accel Synchro † 
+ Limit Over Accel Synchro † 
+ Xyz 
+ Link 
+ Token 
+ Monster subtype 
+ Tuner 
+ Special Summon 
+ Dark Tuner † 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Ability 
+ Toon 
+ Union 
+ Spirit 
+ Gemini 
+ Flip 
+ Alignment † 
+ Black Magic 
+ Demon Magic 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Illusion Magic 
+ Thunder 
+ Water 
+ White Magic 
+ Wind 
+ Attribute 
+ DARK 
+ EARTH 
+ FIRE 
+ LIGHT 
+ WATER 
+ WIND 
+ DIVINE 
+ ? † 
+ ??? † 
+ Type 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Black Magic † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Dragon Magic † 
+ Fairy 
+ Fiend 
+ Fish 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Beast † 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ White Magic † 
+ Winged Beast 
+ Wyrm 
+ Yokai † 
+ Zombie 
+ ??? † 
+ ATK 
+ ? 
+ ??? 
+ ???? 
+ X000 
+ ∞ 
+ 0 1 
+ 100 
+ 150 
+ 200 
+ 250 
+ 300 
+ 350 
+ 400 
+ 450 
+ 500 
+ 550 
+ 600 
+ 650 
+ 666 
+ 700 
+ 750 
+ 800 
+ 850 
+ 900 
+ 920 
+ 950 
+ 1000 1050 
+ 1100 
+ 1150 
+ 1200 
+ 1250 
+ 1300 
+ 1350 
+ 1380 
+ 1400 
+ 1450 
+ 1460 
+ 1500 
+ 1530 
+ 1550 
+ 1600 
+ 1610 
+ 1650 
+ 1700 
+ 1750 
+ 1800 
+ 1850 
+ 1900 
+ 1930 
+ 1950 
+ 2000 2050 
+ 2100 
+ 2150 
+ 2200 
+ 2250 
+ 2300 
+ 2350 
+ 2400 
+ 2450 
+ 2500 
+ 2501 
+ 2510 
+ 2550 
+ 2600 
+ 2650 
+ 2700 
+ 2750 
+ 2800 
+ 2850 
+ 2900 
+ 2950 
+ 3000 3100 
+ 3200 
+ 3300 
+ 3400 
+ 3450 
+ 3500 
+ 3600 
+ 3700 
+ 3750 
+ 3800 
+ 4000 4200 
+ 4400 
+ 4500 
+ 4600 
+ 5000 
+ 10000 
+ 100000 
+ DEF 
+ ? 
+ ??? 
+ ???? 
+ X000 
+ ∞ 
+ 0 1 
+ 100 
+ 150 
+ 200 
+ 250 
+ 300 
+ 350 
+ 400 
+ 450 
+ 500 
+ 550 
+ 600 
+ 650 
+ 666 
+ 700 
+ 750 
+ 800 
+ 850 
+ 900 
+ 950 
+ 1000 1050 
+ 1100 
+ 1150 
+ 1200 
+ 1250 
+ 1300 
+ 1350 
+ 1400 
+ 1450 
+ 1460 
+ 1500 
+ 1530 
+ 1550 
+ 1600 
+ 1650 
+ 1700 
+ 1750 
+ 1800 
+ 1850 
+ 1900 
+ 1930 
+ 1950 
+ 2000 2030 
+ 2050 
+ 2100 
+ 2150 
+ 2200 
+ 2250 
+ 2300 
+ 2350 
+ 2400 
+ 2450 
+ 2500 
+ 2550 
+ 2600 
+ 2700 
+ 2800 
+ 2900 
+ 2950 
+ 3000 3100 
+ 3200 
+ 3300 
+ 3400 
+ 3450 
+ 3500 
+ 3600 
+ 3700 
+ 3800 
+ 3850 
+ 4000 4100 
+ 4500 
+ 4800 
+ 5000 
+ 100000 
+ Pendulum Scale 
+ 0 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 11 † 
+ 12 
+ 13 
+ Link Rating 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ Link Arrow 
+ Top-Left 
+ Top 
+ Top-Right 
+ Left 
+ Right 
+ Bottom-Left 
+ Bottom 
+ Bottom-Right 
+ Rules 
+ Rule of 3000 ATK and DEF 
+ Level 4 ATK and DEF Rules 
+ 
+ †  Does not exist in the  OCG  or  TCG  (ATK and DEF not marked) See also {{ Card types }} and {{ Card lists }}
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/bd/UltimayaTzolkin-JUMP-EN-UR-LE.png/revision/latest/scale-to-width-down/126?cb=20150521171228', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/81/PulaoWindoftheYangZing-DUEA-EN-SR-1E.png/revision/latest/scale-to-width-down/127?cb=20140817194006', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/97/ConductorofNephthys-PHRA-EN-SR-1E.png/revision/latest/scale-to-width-down/127?cb=20201109195832', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e9/JerryBeansMan-BP03-EN-C-1E.png/revision/latest/scale-to-width-down/126?cb=20140801084200', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/8f/ArmoryArm-TU06-EN-R-UE.jpg/revision/latest/scale-to-width-down/126?cb=20110904223310', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/af/StargazerMagician-YS14-EN-SR-1E.png/revision/latest/scale-to-width-down/126?cb=20140711050949', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e5/SaffiraQueenofDragons-DUEA-EN-UR-1E.png/revision/latest/scale-to-width-down/127?cb=20140816144135', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/5e/ElementalHERONeos-SDHS-EN-C-1E.png/revision/latest/scale-to-width-down/126?cb=20150131130730', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/41/GalaxyEyesPhotonDragon-LED3-EN-SR-1E.png/revision/latest/scale-to-width-down/126?cb=20180928170355', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/57/FirstoftheDragons-NECH-EN-SR-LE.png/revision/latest/scale-to-width-down/126?cb=20141205210825', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4d/AllEyesPhantomDragon-BLHR-EN-ScR-1E.png/revision/latest/scale-to-width-down/127?cb=20200127192659', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/06/StarEater-MP14-EN-ScR-1E.png/revision/latest/scale-to-width-down/126?cb=20140829073642', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/ec/MeklordAstroMekanikle-LC5D-EN-ScR-1E.png/revision/latest/scale-to-width-down/126?cb=20141028133341', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Gameplay

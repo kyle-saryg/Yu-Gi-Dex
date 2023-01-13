@@ -1,0 +1,68 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Allure_of_Darkness
+
+
+ Allure of Darkness 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Manga Yu-Gi-Oh! BAM 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ Draw 2 cards, then remove from play 1 DARK monster from your hand. If you  don't  have any DARK monsters in your hand to remove, send all cards in your hand to the Graveyard. 
+ Draw 2 cards, then  remove from play  1 DARK monster from your hand .   If  you  do not  have any  DARK monsters  in your hand  to remove , send all cards in your hand to the Graveyard. 
+ Draw 2 cards, then  banish  1 DARK monster from your hand , or,   if  you  don't  have any in your hand, send  all cards in  your hand to the Graveyard. 
+ 
+ 
+       PTDN-EN084 Phantom Darkness     
+       SDMA-EN028 Structure Deck: Marik     
+       SDGU-EN027 Gates of the Underworld Structure Deck     
+ 
+ 
+ Third erratum 
+ Fourth erratum   
+ 
+ 
+ Draw 2 cards, then banish 1 DARK monster from your hand, or, if you  do not  have any in your hand, send your  entire  hand to the  Graveyard . 
+ Draw 2 cards, then banish 1 DARK monster from your hand, or, if you do not have any in your hand, send your entire hand to the  GY . 
+ 
+ 
+         OP01-EN025 OTS Tournament Pack 1     
+         SR06-EN024 Structure Deck: Lair of Darkness     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ 自分のデッキからカードを２枚ドローし、その後手札の闇属性モンスター１体をゲームから除外する。手札に闇属性モンスターがない場合、手札を全て墓地へ送る。 
+ 自分 の デッキから カードを ２枚ドローし、その後手札の闇属性モンスター１体を 選択して ゲームから 除外する。手札に闇属性モンスターが な い場合、手札を全て墓地へ送る。 
+ ①： 自分 は デッキから２枚ドローし、その後手札の闇属性モンスター１体を除外する。手札に闇属性モンスターが 無 い場合、手札を全て墓地へ送る。 
+ 
+ 
+         EXP1-JP027 Extra Pack     
+         SD21-JP027 Structure Deck: Devil's Gate     
+         TRC1-JP042 The Rarity Collection     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/5f/AllureofDarkness-PTDN-EN-UR-1E.png/revision/latest/scale-to-width-down/180?cb=20080526034255', 'https://static.wikia.nocookie.net/yugioh/images/c/c6/AllureofDarkness-SDMA-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20160411222047', 'https://static.wikia.nocookie.net/yugioh/images/c/c4/AllureofDarkness-SDGU-EN-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20111020044241', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/75/AllureofDarkness-OP01-EN-C-UE.png/revision/latest/scale-to-width-down/180?cb=20160823202802', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/48/AllureofDarkness-SR06-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20180421154244', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d9/AllureofDarkness-EXP1-JP-SR.jpg/revision/latest/scale-to-width-down/180?cb=20090730135712', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f9/AllureofDarkness-SD21-JP-C.png/revision/latest/scale-to-width-down/180?cb=20140320214013', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/22/AllureofDarkness-TRC1-JP-SR.png/revision/latest/scale-to-width-down/180?cb=20141220211443']
+Categories: Card Errata, Cards with 4 errata, Cards with 2 errata, Cards with Japanese errata

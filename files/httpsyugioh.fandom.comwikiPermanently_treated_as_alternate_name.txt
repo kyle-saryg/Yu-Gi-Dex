@@ -1,0 +1,478 @@
+Link: https://yugioh.fandom.com/wiki/Permanently_treated_as_alternate_name
+
+This property entry details every card with a  condition  that permanently treats its name as that of another card, regardless of location. This applies during  Deck  building as well.
+ 
+ Contents 
+ 
+ 1   All  OCG / TCG  cards with a name condition 
+ 2   All anime cards with a name condition 
+ 3   All manga cards with a name condition 
+ 
+ 
+ All  OCG / TCG  cards with a name condition 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Cyber Harpie Lady ハーピィ・レディ・ＳＢ Effect Monster WIND Winged Beast 4 1800 1300 Harpie Lady 1 ハーピィ・レディ１ Effect Monster WIND Winged Beast 4 1300 1400 Harpie Lady 2 ハーピィ・レディ２ Effect Monster WIND Winged Beast 4 1300 1400 Harpie Lady 3 ハーピィ・レディ３ Effect Monster WIND Winged Beast 4 1300 1400 Neo-Spacian Marine Dolphin Ｎ・マリン・ドルフィン Effect Monster Fusion Monster WATER Warrior 4 900 1100 Neo-Spacian Twinkle Moss Ｎ・ティンクル・モス Effect Monster Fusion Monster LIGHT Plant 4 500 1100 Ultimate Dragonic Utopia Ray 竜装合体 ドラゴニック・ホープレイ Effect Monster Xyz Monster LIGHT Warrior 5 2500 2000 Ultimate Leo Utopia Ray 獣装合体 ライオ・ホープレイ Effect Monster Xyz Monster LIGHT Warrior 5 2500 2000 
+   Japanese name Card type Property The Claw of Hermos ヘルモスの爪 Spell Card Normal Spell Card Normal Spell Card The Eye of Timaeus ティマイオスの眼 Spell Card Normal Spell Card Normal Spell Card The Fang of Critias クリティウスの牙 Spell Card Normal Spell Card Normal Spell Card Fusion Substitute 置換融合 Spell Card Normal Spell Card Normal Spell Card A Legendary Ocean 伝説の都 アトランティス Spell Card Field Spell Card Field Spell Card Lemuria, the Forgotten City 忘却の都 レミューリア Spell Card Field Spell Card Field Spell Card Magellanica, the Deep Sea City 深海の都 マガラニカ Spell Card Field Spell Card Field Spell Card Pacifis, the Phantasm City 幻煌の都 パシフィス Spell Card Field Spell Card Field Spell Card 
+ All anime cards with a name condition 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Advanced Crystal Beast Amber Mammoth Ａ宝玉獣 アンバー・マンモス Effect Monster EARTH Beast 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1700 Advanced Crystal Beast Amethyst Cat Ａ宝玉獣 アメジスト・キャット Effect Monster EARTH Beast 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 1200 Advanced Crystal Beast Cobalt Eagle Ａ宝玉獣 コバルト・イーグル Effect Monster WIND Winged Beast 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1400 Advanced Crystal Beast Emerald Tortoise Ａ宝玉獣 エメラルド・タートル Effect Monster WATER Aqua 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 600 Advanced Crystal Beast Ruby Carbuncle Ａ宝玉獣 ルビー・カーバンクル Effect Monster LIGHT Fairy 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 300 Advanced Crystal Beast Sapphire Pegasus Ａ宝玉獣 サファイア・ペガサス Effect Monster WIND Beast 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1800 Advanced Crystal Beast Topaz Tiger Ａ宝玉獣 トパーズ・タイガー Effect Monster EARTH Beast 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1600 Cyber Harpie ハーピィ・レディ・ＳＢ Effect Monster WIND Winged Beast 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1800 Neo-Spacian Marine Dolphin Ｎ・マリン・ドルフィン Fusion Monster WATER Warrior 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 0 900 Neo-Spacian Twinkle Moss Ｎ・ティンクル・モス Fusion Monster LIGHT Plant 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 0 500 
+   Japanese name Card type Property A Legendary Ocean 伝説の都 アトランティス Spell Card Field Spell Card A Legendary Ocean 伝説の都 アトランティス Spell Card Field Spell Card Power Bond パワー・ボンド Spell Card Normal Spell Card 
+ All manga cards with a name condition 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Cards by effect properties

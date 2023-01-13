@@ -1,0 +1,577 @@
+Link: https://yugioh.fandom.com/wiki/Special_Summon#Built-in_Special_Summon
+
+This article is about the game mechanic. For the monster  Ability , see  Special Summon Monster . For the set, see  Special Summon Evolution .     
+ 
+ 
+ Special Summon
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 特 殊 召 喚 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ とくしゅしょうかん
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 特殊召喚
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Tokushu Shōkan
+ 
+ 
+ 
+ English
+ 
+ 
+ Special Summon
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Invocation Spéciale Verb: Invoquer Spécialement 
+ German : Spezialbeschwörung Verb: beschwören als Spezialbeschwörung 
+ Italian : Evocazione Speciale Verb: Evocare Specialmente (formerly: Evocare tramite Evocazione Speciale) 
+ Portuguese : Invocação-Especial Verb: Invocar por Invocação-Especial 
+ Spanish : Invocación Especial Verb: Invocar de Modo Especial (formerly Invocar mediante una Invocación Especial) 
+ Korean : 특수 소환 (特殊召喚)  Teuksu Sohwan 
+ Traditional Chinese : 特殊召喚  Tèshū Zhàohuàn / Dak6 syu4 Ziu6 wun6 
+ Simplified Chinese : 特殊召唤  Tèshū Zhàohuàn 
+ 
+ 
+ Special Summon  ( 特 殊 召 喚   Tokushu Shōkan ) is any  Summon  other than  Normal Summon  or  Flip Summon . They only occur due to game mechanics,  card effect  or  Summoning condition .
+ There is no restriction on the number of times a player can Special Summon in a turn—Special Summons do not take up the  turn player 's Normal Summon/ Set . Also, unless otherwise specified, Special Summoning does not require  Tributes  for high- Level  monsters.
+ Ritual Summons ,  Fusion Summons ,  Synchro Summons ,  Xyz Summons ,  Pendulum Summons , and  Link Summons  are all considered Special Summons.
+ 
+ Contents 
+ 
+ 1   Special Summon types 
+ 
+ 1.1   Built-in Special Summon 
+ 
+ 1.1.1   By Condition 
+ 1.1.2   By Effect that does not activate 
+ 
+ 
+ 1.2   Special Summon with a card effect 
+ 
+ 
+ 2   Summon response window 
+ 
+ 
+ Special Summon types 
+ There are two different types of Special Summon. The type indicates which cards and effects can respond to or negate the Special Summon. Cards printed with  Problem-Solving Card Text  can easily have their method of Special Summon determined: effects that contain a colon or semicolon are Special Summons due to a card effect (and thus start a  Chain ), and cards that are not built-in Special Summons.
+ 
+ Built-in Special Summon 
+ Built-in Special Summons  (also unofficially known as  inherent Special Summons ) are Special Summons that are done by a game mechanics, or the monsters' own  Summoning condition  (e.g.  Contact Fusion ) or  Summon effect . These Special Summons  do not  start a chain.
+ Normally, the player can only perform such a Summon during an open  game state  in their  Main Phase . They are never performed as part of an  effect   resolution ; effects that cause the player to perform one of these Summons instead have the player perform the Summon immediately after they resolve (e.g. " Formula Synchron ", " Advanced Heraldry Art "), or are actually Special Summons with a card effect that treat the Summon as a Built-in Special Summon (e.g. " Rank-Up-Magic ").
+ There are two sub-types of Built-in Special Summon: Summon by conditions and by effect that does not activate.
+ 
+ By Condition 
+         Photon Thrasher     
+ Japanese:  条 件 による 特 殊 召 喚  ( Jōken ni yoru Tokushu Shōkan )
+ These Special Summon are exclusive for Special Summon Monsters. Special Summon monsters must be Summoned by following their condition(s) first to be considered properly Special Summoned.
+ These Special Summons are not card's effect, so cards like " Vampire Grace " cannot be used. 
+ Synchro Summons ,  Xyz Summons ,  Pendulum Summons ,  Link Summons  and  Contact Fusions  are all considered Special Summons By Condition. In addition, all  Nomi  and  Semi-Nomi  monsters (collectively known in Japanese as "Special Summon monster") are summoned wih their Summoning conditions.
+ 
+ By Effect that does not activate 
+         Cyber Dragon     
+ Main article:  Summon effect 
+ Japanese:  発 動 しない 効 果 による 特 殊 召 喚  ( Hatsudō-shinai Kōka ni yoru Tokushu Shōkan )
+ Summon monster effects are effect that present on  Normal Summon Monsters , so that they can also be Special Summoned. These Special Summons are optional.
+ These effects are  Unclassified Effect , as they do not activate (like  Ignition  or  Trigger ), and they are not  Continuous Effects .
+ 
+ Special Summon with a card effect 
+ Japanese:  発 動 する 効 果 による 特 殊 召 喚  ( Hatsudō-suru Kōka ni yoru Tokushu Shōkan )
+ Special Summons with a card effect  are any Special Summon that occurs during the  resolution  of an  activated  card effect (e.g. " Monster Reborn " and " Gorz the Emissary of Darkness ").  Ritual Summons  and  Fusion Summons  are both types of Special Summoning with a card effect.
+ These Special Summons cannot be negated. However, they can be prevented from occurring in the first place by negating the effect that would perform the Special Summon, and/or the activation itself.
+ While they are rare, Special Summons as the result of an  activated  card or effect that do not occur during that effect's resolution, except Synchro, Xyz and Link Summons, also fall into this category. Cards such as " Revival Jam " and " Memory of an Adversary " can perform this kind of Special Summon.
+ Some effects that Special Summon can  ignore the Summoning conditions  of the Summoned monster, allowing it to Special Summon monsters regardless of their  Summoning conditions .
+ 
+ Summon response window 
+ Main article:  Summon response window 
+ The Summon response window is an unofficial term used to describe the timing in which cards and effects can be activated in  response  to a successful Summon. Cards and effects that can be activated in response to a successful Special Summon, such as " Torrential Tribute " and " Bottomless Trap Hole ", can be activated after any of these Special Summons, regardless of whether it is built-in or with a card effect. However, they cannot be activated if a monster is Special Summoned by a card effect that is  Chain Link  2 or higher, unless the activation of all other cards and effects that would resolve after it are negated. This is because cards and effects cannot be activated in the middle of a resolving Chain, and whichever effect resolves last (as Chain Link 1) would cause these cards to  miss the timing .
+ Furthermore, if the card effect that Special Summoned the monster performed another action during its resolution after Special Summoning the monster (e.g. " Magical Dimension ", " Drill Warrior ", " Telekinetic Power Well ", " Trojan Gladiator Beast ", etc.), then this window does not occur and any cards that can be activated in response to a Summon  miss the timing .
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/54/PhotonThrasher-YS17-EN-C-1E.png/revision/latest/scale-to-width-down/122?cb=20170718195011', 'https://static.wikia.nocookie.net/yugioh/images/7/7f/CyberDragon-BP01-EN-C-1E.png/revision/latest/scale-to-width-down/123?cb=20120616113201']
+Categories: Types of Summon

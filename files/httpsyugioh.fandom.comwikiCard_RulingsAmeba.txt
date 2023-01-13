@@ -1,0 +1,55 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Ameba
+
+
+ Ameba 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Yu-Gi-Oh! The Duelists of the Roses Yu-Gi-Oh! Forbidden Memories Yu-Gi-Oh! Destiny Board Traveler Yu-Gi-Oh! Duel Monsters II: Dark duel Stories 
+ 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [1]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [2] [3] [4] [5] [6] [7] [8] [9] [10] 
+ 
+ This card’s effect is not activated when  equipped  to an opponent’s " Relinquished " or " Thousand-Eyes Restrict ". 
+ If your opponent uses " Change of Heart " on a face-down " Ameba " and  Flip Summons  it, when it returns to you during the  End Phase , its effect activates and you take 2000 damage. 
+ Mentions in Other Rulings 
+ Barrel Behind the Door : You can activate " Barrel Behind the Door " against  Trigger Effects  like..." Ameba ". 
+ Possessed Dark Soul : If the opponent has more Level 3 or lower monsters on the field than you have empty Monster Card Zones after you  Tribute  this card (the Zone it occupied is now empty), you choose which ones to gain control of and the rest are destroyed. If you choose to destroy " Griggle " or "Ameba" in this manner, their effects do not activate since they never came to your side of the field. 
+ Remove Brainwashing : When " Remove Brainwashing " is already active on the field and a switching effect is activated, or "Remove Brainwashing" is chained to a switching effect and is thus active before the switching effect resolves, control switches due to the effect but then switches back to the original owner because of "Remove Brainwashing". So for " Creature Swap ", control is changed but then control goes back to the original owners. This means that if you give control of "Griggle" or "Ameba" to your opponent, their effect IS activated even though "Griggle"/"Ameba" then returns to the original owner's control afterwards. 
+ 
+ 
+ 
+ References 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

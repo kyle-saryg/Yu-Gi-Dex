@@ -1,0 +1,142 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Blue-Eyes_White_Dragon
+
+
+ Blue-Eyes White Dragon 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Anime Bandai Bandai Bandai Sealdass Konami's Yu-Gi-Oh! Duel Monsters Labyrinth Battle Game Manga Toei anime Yu-Gi-Oh! Monster Capsule: Breed and Battle Yu-Gi-Oh! The Duelists of the Roses Yu-Gi-Oh! Forbidden Memories Yu-Gi-Oh! BAM Yu-Gi-Oh! BAM Yu-Gi-Oh! Capsule Monsters Collectible Figure Game Yu-Gi-Oh! Capsule Monsters Collectible Figure Game Yu-Gi-Oh! Dark Duel Stories Yu-Gi-Oh! Destiny Board Traveler Yu-Gi-Oh! Duel Monsters (video game) Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelist Yu-Gi-Oh! Duel Monsters 5 Expert 1 Yu-Gi-Oh! Duel Monsters 5 Expert 1 Yu-Gi-Oh! Duel Monsters II: Dark duel Stories Yu-Gi-Oh! Dungeon Dice Monsters Yu-Gi-Oh! Dungeon Dice Monsters (video game) 
+ 
+ Contents 
+ 
+ 1   OCG Rulings 
+ 
+ 1.1   Mentions in Other Rulings 
+ 
+ 
+ 2   Previously Official Rulings 
+ 
+ 2.1   TCG Rulings 
+ 
+ 2.1.1   Mentions in Other Rulings 
+ 2.1.2   Judge List Rulings 
+ 2.1.3   Out of Date 
+ 
+ 2.1.3.1   Mentions in Other Rulings 
+ 
+ 
+ 
+ 
+ 2.2   OCG Rulings 
+ 
+ 
+ 3   Notes 
+ 4   References 
+ 
+ 
+ OCG Rulings 
+ Mentions in Other Rulings 
+ Black Garden : When " Shrink " targets a monster affected by " Black Garden ", " Shrink " will halve the monster's Original ATK, not the monster's halved ATK.  During the End Phase, the monster's ATK will return to its Original ATK. [1] 
+ Example: " Blue-Eyes White Dragon " (ATK 3000) is Summoned, and its ATK is halved to 1500.  " Shrink " will make its ATK 1500.  During the End Phase, " Blue-Eyes White Dragon "'s ATK returns to 3000. 
+ Black Garden : When " Megamorph " targets a monster affected by " Black Garden ", " Megamorph " will halve/double the monster's Original ATK, not the monster's halved ATK.  If " Megamorph "'s effect disappears, the monster's ATK returns to its halved ATK. [1] 
+ Example: " Blue-Eyes White Dragon " (ATK 3000) is Summoned, and its ATK is halved to 1500.  " Megamorph " will make its ATK 1500 or 6000.  If " Megamorph "'s effect disappears, " Blue-Eyes White Dragon "'s ATK returns to 1500. 
+ Bottomless Trap Hole : " Bottomless Trap Hole " only destroys and removes from play the monster(s) whose Summon(s) provided the correct timing for " Bottomless Trap Hole " to be activated. [2] 
+ Example: " Monster Reborn " is activated and  targets  " Dark Magician " (2500 ATK).  " Birthright " is  chained  and  targets  " Blue-Eyes White Dragon " (3000 ATK).  " Birthright " resolves first and Special Summons " Blue-Eyes White Dragon ", and then " Dark Magician " is Special Summoned as Chain Link 1.  If " Bottomless Trap Hole " is activated, then only " Dark Magician " is destroyed and removed from play because its Summon allowed " Bottomless Trap Hole  to be activated. [2] 
+ Bottomless Trap Hole : If " Bottomless Trap Hole " is activated when multiple monsters are Special Summoned simultaneously, then all Summoned monsters with 1500+ ATK are destroyed. [2] 
+ Example: Two copies of " Blue-Eyes White Dragon " are Special Summoned by " Dimension Fusion ".  If " Bottomless Trap Hole " is activated, then both copies of " Blue-Eyes White Dragon " are destroyed. [2] 
+ Malefic : You cannot Special Summon a  Synchro Monster  if it was not properly  Synchro Summoned  previously, such as if it was removed from play directly from the  Extra Deck .  Thus, you cannot use an effect like " D.D.R. - Different Dimension Reincarnation " or " Return from the Different Dimension " to Special Summon a " Stardust Dragon " which was removed from play to Special Summon " Malefic Stardust Dragon ".  Also, " Blue-Eyes White Dragon " and " Red-Eyes Black Dragon " are  Normal Summon monsters , so they may be Special Summoned even if they are removed from play directly from the Deck. [3] 
+ Reptilianne Gorgon : After the effect of " Reptilianne Gorgon " makes the ATK of a monster become 0, if the monster is affected by " Shrink ", then the ATK of the monster becomes half of its  Original ATK . [4] 
+ Example: If " Reptilianne Gorgon " battles " Blue-Eyes White Dragon " and makes its ATK 0, then the ATK of " Blue-Eyes White Dragon " will be 1500 (half its  Original ATK ) when it is affected by " Shrink ". [4] 
+ Rocket Pilder : If a monster has its ATK decreased by the effect of " Rocket Pilder " and is then affected by " Shrink ", then the affected monster's ATK becomes half its  Original ATK . [5] 
+ Example: " Blue-Eyes White Dragon " (3000 ATK) has its ATK decreased by 2300 by " Rocket Pilder ", to 700 ATK.  If " Blue-Eyes White Dragon " is affected by " Shrink ", then its ATK becomes 1500. [5] 
+ Tragoedia : If " Tragoedia " changes its Level by its own effect and then the effect of " Level Eater " lowers the Level of " Tragoedia " by 1, then during the End Phase when the effect of " Tragoedia " disappears the effect of " Level Eater " is still applied. [6] 
+ Example: " Tragoedia " is Level 8 because it activated its effect and removed from play  [ sic ]  " Blue-Eyes White Dragon " (Level 8).  Then, the effect of " Level Eater "  activates  and reduces the Level of " Tragoedia " by 1, to Level 7.  When the effect of " Tragoedia " is no longer applied, the Level of " Tragoedia " becomes 9 (its original Level of 10, reduced by 1 by the effect of " Level Eater "). [6] 
+ Previously Official Rulings 
+ TCG Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [8]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [9] [10] [11] [12] [13] [14] [15] [16] [17] 
+ 
+ Mentions in Other Rulings 
+ Bottomless Trap Hole : If the opponent has " Lord of D. " on the field and activates " The Flute of Summoning Dragon " to Special Summon 2 copies of " Blue-Eyes White Dragon ", you can activate this card and both will be removed from play. " Lord of D. " does not protect the Dragons because " Bottomless Trap Hole " does not target. The same situation would occur if only 1 " Blue-Eyes White Dragon " was Special Summoned, " Bottomless Trap Hole " still does not  target . 
+ Burst Stream of Destruction : If you  activate  " Burst Stream of Destruction ", and the " Blue-Eyes White Dragon " is removed from the  field  with " Interdimensional Matter Transporter " or " Compulsory Evacuation Device ", or  flipped   face-down  with " Book of Moon ", or  destroyed  by " Ring of Destruction ", " Burst Stream of Destruction 's" effect still  resolves . 
+ Burst Stream of Destruction : If " Burst Stream of Destruction 's"  activation  is  negated  by " Magic Jammer ", then " Blue-Eyes White Dragon " can  attack . 
+ Burst Stream of Destruction : NO copies of " Blue-Eyes White Dragon " can  attack  the turn that " Burst Stream of Destruction 's" effect is applied, even if they are  Summoned  after " Burst Stream of Destruction " is played. 
+ Destiny Hero - Diamond Dude : Since you are only  activating  the  Normal Spell Card's  effect, and not the  Normal Spell Card  itself, you do not  pay   costs  and you do not have to meet any  activation  requirements. For example, you would not  pay  1000  Life Points  for " Confiscation ", or  discard  1 card for " Monster Reincarnation ", or need a " Blue-Eyes White Dragon " on the  field  to  activate  the effect of " Burst Stream of Destruction ". 
+ Double Attack : If you use “ Cost Down ” so that your “ Blue-Eyes White Dragon ” in your hand is  Level  6, then you cannot discard it to activate “ Double Attack ” and target your Level 7 “ Dark Magician ” on the field. 
+ Inferno Tempest : If you attack " Blue-Eyes White Dragon " with " Ojama Green " or some other 0 ATK monster, you can activate " Inferno Tempest " after damage calculation. Then " Ojama Green " is sent to the Graveyard after " Inferno Tempest " resolves. 
+ Last Turn : You CAN Special Summon a high-level monster that has no Special Summoning restrictions for “ Last Turn ”, such as “ Blue-Eyes White Dragon ” or “ Dark Magician of Chaos ”. 
+ Mirror Wall : If you have 2 copies of " Mirror Wall ", and a monster attacks, its ATK is one-quarter. So “ Blue-Eyes White Dragon ” would have 750 ATK, for example. If 1 of the " Mirror Wall " copies leaves play, then the ATK is increased to half (if both copies leave play, the ATK is restored to full.) 
+ Pole Position : If " Pole Position " is active, and your opponent controls " Blue-Eyes White Dragon " and " Skull Servant ", and you activate " Smashing Ground ", " Blue-Eyes White Dragon " is  unaffected by Spell Cards , so the effect of " Smashing Ground " disappears. 
+ Pole Position : If you control " Dark Magician " and your opponent controls " Blue-Eyes White Dragon ", and you activate " Flint " targeting " Blue-Eyes White Dragon ", and your opponent chains " Pole Position ", then " Flint " is equipped meaninglessly to " Blue-Eyes White Dragon ". If " Blue-Eyes White Dragon " is destroyed, " Flint " can be equipped to " Dark Magician " meaninglessly if you choose (even if other monsters are on the field). 
+ Pole Position : EXAMPLE #2: The opponent has " Blue-Eyes White Dragon " (3000 ATK) and “ Pole Position  face-up on the field. I have " Gemini Elf " (1900 ATK), and an " Opticlops " (1800 ATK) equipped with " Axe of Despair "(+1000 ATK; 2800 total) face-up on the field, and a Set " Ring of Destruction ". If I activate " Ring of Destruction " to destroy " Blue-Eyes White Dragon ", then “ Opticlops ” will be the highest ATK monster on the field, and cause an infinite loop (it is the highest, it isn’t, it is, it isn’t, etc.). Therefore, I cannot target “ Blue-Eyes White Dragon ” with “ Ring of Destruction ”. 
+ Precious Cards from Beyond : If you Tribute Summon " Blue-Eyes White Dragon " for 1 Tribute using " Cost Down ", you can't activate " Precious Cards from Beyond "'s effect. 
+ Silent Swordsman LV5 : If you control “ Blue-Eyes White Dragon ” and “ Silent Swordsman LV5 ”, and your opponent activates “ Fissure ”, the monster with the lowest ATK is “ Silent Swordsman LV5 ”, but it is  unaffected by Spell Cards , so the effect of “ Fissure ” disappears. 
+ Skill Drain : " Skill Drain " does not stop you from activating  Ignition Effects , but it does negate their effects as long as the Effect Monster remains on the field. ... If you Tribute " Paladin of White Dragon " to activate its effect while " Skill Drain " is active, it is no longer on the field and you can  Special Summon  " Blue-Eyes White Dragon ". ... 
+ Waboku : SCENARIO 3: Player A activates " Waboku ". Player A's " Blue-Eyes White Dragon " then attacks Player B's " Sanga of the Thunder ". Player B uses " Sanga of the Thunder "'s effect (during the  Damage Step ). RESULT: Player A's " Blue-Eyes White Dragon " (ATK 0) is not destroyed, nor does Player A lose any Life Points, because of Player A's " Waboku ". 
+ Judge List Rulings 
+ Cloak and Dagger : You cannot declare " Sheep Token ", " Slime Token ", etc. because you must declare existing  Monster Card  names, like " Blue-Eyes White Dragon ", " Kuriboh ", etc. [7] 
+ Out of Date 
+ Mentions in Other Rulings 
+ Burst Stream of Destruction : It is an effect of " Burst Stream of Destruction " that " Blue-Eyes White Dragon " cannot  attack , so if " Non-Spellcasting Area " is on the  field , " Blue-Eyes White Dragon " CAN  attack . If " Imperial Order " is  activated  later, " Burst Stream of Destruction's " effect is  negated  and " Blue-Eyes White Dragon " CAN  attack . [Notes 1] 
+ 
+ 
+ 
+ OCG Rulings 
+   These OCG rulings were issued by  Konami's old official website . They are not considered as official to the OCG now since that website has been replaced by Konami with the  current new website . They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. 
+ 
+ If the " You can Tribute this card; Special Summon 1 " Blue-Eyes White Dragon " from your hand or Deck, but " Blue-Eyes White Dragons " cannot attack for the rest of this turn. " effect of " Paladin of White Dragon " is used, then no " Blue-Eyes White Dragon " can attack this tun even if they were already face-up on the field. [18] 
+ 
+ Notes 
+ 
+ ↑   The latest print of "Burst Stream of Destruction" has  Problem-Solving Card Text  which indicates that the restriction on "Blue-Eyes White Dragon" attacking is a condition that does not affect "Blue-Eyes White Dragons", so it cannot be negated by "Non-Spellcasting Area" or "Imperial Order". 
+ 
+ 
+ References 
+ 
+ ↑  1.0   1.1   Konami FAQ : When a monster's ATK is halved by "Black Garden", when the effect of "Shrink" or "Megamorph" is applied, what is the monster's ATK? 
+ 
+ ↑  2.0   2.1   2.2   2.3   Konami FAQ : If "Bottomless Trap Hole" is activated when multiple monsters are Special Summoned simultaneously, then are all monsters destroyed and removed from play? 
+ 
+ ↑   Konami FAQ : Can "D.D.R. - Different Dimension Reincarnation" Special Summon a "Stardust Dragon" which was removed from play to Summon "Malefic Stardust Dragon"? 
+ 
+ ↑  4.0   4.1   Konami FAQ : If a monster affected by "Reptilianne Gorgon" is affected by "Shrink", then what will its ATK be? 
+ 
+ ↑  5.0   5.1   Konami FAQ : After applying the effect of "Rocket Pilder", if the ATKs change, then what does the ATK become? 
+ 
+ ↑  6.0   6.1   Konami FAQ : After the Level of "Tragoedia" changes, if the effect of "Level Eater" is applied, then what does its Level become during the End Phase? 
+ 
+ ↑   UDE Judge List : Cloak and Dagger versus tokens 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ ↑   Old Konami OCG FAQ : If the " You can Tribute this card; Special Summon 1 "Blue-Eyes White Dragon" from your hand or Deck, but "Blue-Eyes White Dragons" cannot attack for the rest of this turn. " effect of "Paladin of White Dragon" is used, then can "Blue-Eyes White Dragons" that were already face-up on the field still attack? 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

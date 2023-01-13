@@ -1,0 +1,135 @@
+Link: https://yugioh.fandom.com/wiki/Galaxy_Rebirth
+
+
+ Galaxy Rebirth 
+ 
+ Japanese:   銀河再誕 
+ Kana:   リギャラクシー 
+ Romaji:   Rigyarakushī 
+ Translated:  Re-Galaxy 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Quick-Play 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Effect 
+ Continuous 
+ Trigger-like 
+ Continuous 
+ Target  1 " Galaxy "  monster  in your  Graveyard ;  Special Summon  it and  equip  it with this card. Its  ATK  is halved. During your  End Phase , if the equipped monster did not inflict  battle damage  to your opponent this  turn :  Destroy  it. If the equipped monster is used as an  Xyz Material  for an  Xyz Summon , you can treat this card as a monster with a  Level  equal to the equipped monster's Level and use it as an Xyz Material for that Xyz Summon.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  134 ,  135 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 銀河再誕 
+ 自分の墓地から「ギャラクシー」と名のついたモンスター１体を特殊召喚し、このカードを装備カード扱いとして装備する。この効果によってこのカードが装備カード扱いとして装備されている場合、装備モンスターの攻撃力は半分になり、装備モンスターが自分のターンで相手ライフに戦闘ダメージを与えられなかった場合、装備モンスターはそのターンのエンドフェイズ時に破壊される。また、装備モンスターをエクシーズ召喚の素材とする場合、装備カード扱いとして装備されたこのカードを装備モンスターと同じレベルの素材にできる。 
+ 
+ 
+ Rigyarakushī 
+ 
+ 
+ Decks 
+ 
+ 
+ Mizar   
+ Kite Tenjo 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Galaxy 
+ 
+ Supports   archetypes   
+ Galaxy 
+ 
+ Related to  archetypes  and  series   
+ Spell Monster 
+ 
+ Actions  
+ Equips self from field 
+ Uses Spell Cards as Xyz Materials 
+ 
+ Stat changes  
+ Equipped loses ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Treated as Equip Card 
+ Destroys your Monster Cards 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ Equips to Summoned monster 
+ 
+ v e 
+" Galaxy " 「ギャラクシー」 a   m   +   Members 
+ Galaxy Burst Galaxy Dragon Maelstrom Galaxy Expedition Galaxy Knight Galaxy Mirror Sage Galaxy Queen's Light Galaxy Rebirth Galaxy Shockwave Galaxy Stealth Dragon Galaxy Storm Galaxy Tyranno Galaxy Wizard Galaxy Zero Galaxy-Eyes Cipher Dragon Galaxy-Eyes Nova Galaxy-Eyes Photon Dragon Miracle Galaxy Neo Galaxy-Eyes Cipher Dragon Neo Galaxy-Eyes Photon Dragon Number 62: Galaxy-Eyes Prime Photon Dragon Number 107: Galaxy-Eyes Tachyon Dragon Number C107: Neo Galaxy-Eyes Tachyon Dragon Superdimensional Robot Galaxy Destroyer 
+ Support 
+ Galactic Charity Galaxy Rebirth Galaxy Shockwave 
+ Related 
+ Paladin of Photon Dragon Starliege Lord Galaxion 
+ 
+ v e 
+ Spell Monster   魔 法 モンスター a   r Members 
+ Blizzard Vision Gagaga x Gagaga Hologram Projection Kazejin Mimiclay The Phantom Knights of Shadow Veil The Rival's Name Sage's Stone Sanga of the Thunder Shutter Layer 1 Suijin Xyz Plant 
+ Related 
+ Aqua Mirage Critical Overlay Critical Tuning D/D/D Fusion D/D/D Synchro Doppleganger Gagagamirror Galaxy Rebirth Mysterious Monolith Parallel Unit Solid Overlay 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/f8/GalaxyRebirth-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20131230060123', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/05/Quick-Play.svg/revision/latest/scale-to-width-down/18?cb=20120920115228']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

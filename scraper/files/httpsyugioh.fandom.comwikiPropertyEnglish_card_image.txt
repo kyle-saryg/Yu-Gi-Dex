@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:English_card_image
+
+This property contains the file names of English card images. It uses  string  values.
+ 
+ 
+ 
+ 
+Categories:

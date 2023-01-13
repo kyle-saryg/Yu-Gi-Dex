@@ -1,0 +1,547 @@
+Link: https://yugioh.fandom.com/wiki/Battle_Step
+
+
+ 
+ Battle Step
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ バトルステップ
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Batoru Suteppu
+ 
+ 
+ 
+ English
+ 
+ 
+ Battle Step
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Battle Step 
+ German : Battle Step 
+ Italian : Battle Step 
+ Portuguese : Etapa de Batalha Formerly: Battle Step 
+ Spanish : Battle Step 
+ Korean : 배틀 스텝  Baeteul Seutep 
+ Traditional Chinese : 戰鬥步驟  Zhàndòu Bùzhòu / Zin3 dau3 Bou6 zaau6 
+ Simplified Chinese : 战斗步骤  Zhàndòu Bùzhòu 
+ 
+ 
+       Order of a  turn .     
+ The  Battle Step  (Japanese: バトルステップ  Batoru Suteppu ) is one of the four steps of the  Battle Phase . In particular, it is the step in which  attacks  are  declared . Immediately after the  Start Step  or  Damage Step  ends, the game proceeds to the Battle Step, regardless of the  turn player 's intention to  declare  an  attack .
+ 
+ Contents 
+ 
+ 1   Breakdown of the Battle Step 
+ 
+ 1.1   Attack Declaration Window 
+ 1.2   Before Damage Step 
+ 
+ 
+ 2   References 
+ 
+ 
+ Breakdown of the Battle Step 
+ The turn player is not required to declare an attack during the Battle Step, [1]  unless a card effect specifies otherwise, such as those of " Berserk Gorilla " and " Evil HERO Malicious Fiend ". If the  attack target   leaves the field  or a monster is placed on the opponent's field (from the perspective of the turn player) at any point during the Battle Step while an attack is occurring, a  replay  occurs. Once an attack has been declared, the Battle Step does not end until an open  game state  is reached and both players have agreed to move on from the Battle Step (as per the rules of  fast effect timing ).
+ 
+ Attack Declaration Window 
+ Japanese:  攻 撃 宣 言 時  ( Kōgeki Sengenji )
+ During the Battle Step, the turn player can declare an attack by choosing 1 face-up  Attack Position  monster they control (or  Defense Position Attacker ) to attack with, and a valid  attack target : their opponent or a monster their opponent controls. If the opponent controls monsters, the turn player cannot declare a direct attack unless a  card effect  allows them to do so, such as that of " Wattkey " or " The Legendary Fisherman ". [1] 
+ Upon an attack being declared, players can activate cards or effects in  response  to the attack, as per the rules of  fast effect timing . As such, there can only be one  Chain  made in response to the attack. All cards and effects in this one Chain are in response to both the attack and the preceding  Chain Link , so cards such as " Mirror Force " and " Dimensional Prison " can be activated at separate  Chain Links  in this Chain. [2] 
+ 
+ Before Damage Step 
+ After the Attack Declaration Window, or if neither player activated a card or effect in response to the attack, there are still opportunities to activate cards and effects during this Battle Step (as per the rules of  fast effect timing ). However, it is no longer possible to activate cards or effects in response to the attack, so cards such as "Mirror Force" and "Dimensional Prison" can no longer be activated in response to this attack. [3] [4] [5] 
+ Once both players have agreed to move on, if an attack is still occurring, the  Damage Step  is entered. If there is no attack occurring, the  End Step  is entered instead.
+ 
+ References 
+ 
+ ↑  1.0   1.1   Konami.  Yu-Gi-Oh! Trading Card Game - Official Rulebook Version 9.1 . pp. 34 .  http://yugioh.wikia.com/wiki/File:Rulebook_v9.1.pdf . 
+ 
+ ↑   Michael Kohanim (2 April 2012).  "How to Get Around Wind-Up Rabbit" . Konami .  https://yugiohblog.konami.com/articles/?p=3743 . Retrieved 27 January 2016 . "For example, if your opponent attacks with Wind-Up Rabbit and you use Dimensional Prison to try to banish it, your opponent will most likely Chain Wind-Up Rabbit's effect in order to escape your Prison. But then you can Chain Mirror Force or a second Dimensional Prison to the Rabbit's effect." 
+ 
+ ↑   Konami Judge Program Forum : Chains / Cadenas 
+ 
+ ↑   Konami Judge Program Forum : battle phase timming 
+ 
+ ↑   Konami Judge Program Forum : Attack response 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/bb/TurnStructure.svg/revision/latest?cb=20150823015631', '/extensions-ucp/v2/ImageMap/resources/desc-20.png']
+Categories: Phases and Steps

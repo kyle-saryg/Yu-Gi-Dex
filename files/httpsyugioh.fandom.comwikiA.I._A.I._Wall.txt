@@ -1,0 +1,129 @@
+Link: https://yugioh.fandom.com/wiki/A.I._A.I._Wall
+
+
+ A.I. A.I. Wall 
+ 
+ Japanese:   ＡｉＡｉ ウォール 
+ Kana:   アイアイ ウォール 
+ Romaji:   Ai Ai Wōru 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Effect 
+ Condition 
+ Continuous-like 
+ Continuous-like 
+ Continuous-like 
+ Continuous-like 
+ Activate  this card by  targeting  1  FIRE   Link Monster  you  control ; place  counters  on this card equal to that monster's  Link Rating . While this card has a counter, apply these  effects . ● Your opponent cannot target this card with card effects, also it cannot be  destroyed  by your opponent's card effects. ● Neither player can  declare   attacks . ●  Once per turn , if your opponent  Link Summons , place 1 counter on this card. ● Once per turn, during the  End Phase , remove 1 counter from this card.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  106 ,  107 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ Ａｉ Ａｉ  ウォール 
+ ①：自分フィールドの炎属性リンクモンスター１体を対象としてこのカードを発動できる。そのリンクマーカーの数だけこのカードにカウンターを置く。②：このカードにカウンターが置かれている場合、以下の効果を通用する。●このカードは相手の効果の対象にならず、相手の効果では破壊されない。●お互いのプレイヤーは攻撃できない。●１ターンに１度、相手がリンク召喚に成功した場合、このカードにカウンターを１つ置く。●自分・相手のエンドフェイズに、このカードのカウンターを１つ取り除く。 
+ 
+ 
+ Ai Ai Wōru 
+ 
+ 
+ Decks 
+ 
+ 
+ Ai 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ FIRE 
+ Link Monster 
+ 
+ Anti-supports   
+ Link Monster 
+ 
+ Archetypes  and  series   
+ A.I. 
+ 
+ Counters   
+ Places counters on itself 
+ Removes counters from itself 
+ 
+ Actions  
+ Activates upon Link Summon 
+ 
+ Monster / Spell / Trap  categories  
+ Cannot be targeted by card effects 
+ Cannot be destroyed by card effects 
+ 
+ Attack  categories  
+ Prevents attacks 
+ 
+ Miscellaneous  
+ Variable effects 
+ Limited activations 
+ 
+ v e 
+" A.I. " 「 Ａｉ 」 a   m   Members 
+ A.I. A.I. Wall A.I. Contact A.I. Love Fusion A.I. Mine A.I. Shadow A.I.'s Hymn A.I.'s Ritual A.I.'s Show A.I.Q A.I.dle Reborn CompromA.I.se FA.I.ghting Spirit HA.I. Ignister A.I.Land TA.I. Strike TA.I.med Technique 
+ Support 
+ A.I.dle Reborn 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/bb/AIAIWall-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20190612145157', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/18?cb=20120920115206']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

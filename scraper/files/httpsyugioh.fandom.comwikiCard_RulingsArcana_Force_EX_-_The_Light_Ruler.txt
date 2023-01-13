@@ -1,0 +1,86 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Arcana_Force_EX_-_The_Light_Ruler
+
+
+ Arcana Force EX - The Light Ruler 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ Contents 
+ 
+ 1   TCG Rulings 
+ 
+ 1.1   Related Rulings 
+ 
+ 
+ 2   OCG Rulings 
+ 3   Previously Official Rulings 
+ 4   References 
+ 
+ 
+ TCG Rulings 
+ Related Rulings 
+ Blackwing - Shura the Blue Flame 
+ CLARIFICATION: 
+ The effect of “ Blackwing – Shura the Blue Flame ” activates when monsters are destroyed and sent to the Graveyard at the end of the  Damage Step .  This is the same timing as the effects of cards like “ Hydrogeddon ,” “ Blue Thunder T-45 ,” “ Goyo Guardian ,” and  “ Elemental Hero Flame Wingman ”  [ sic ] . 
+ In order for its effect to activate, “ Blackwing – Shura the Blue Flame ” must be face-up on the field when the monster it destroyed by battle is sent to the Graveyard. This means:
+ If  Shura  and the other monster destroy each other by battle (equal ATK),  Shura’s  effect does not activate. 
+ If  Shura  is destroyed by a  Flip Effect  like “ Man-Eater Bug ,”  Shura’s  effect does not activate. 
+ If  Shura  is flipped face-down after damage calculation by a card effect, such as “ Desertapir ,”  Shura’s  effect does not activate. 
+ If  Shura  is  removed from play  [ sic ]  by battling “ D.D. Warrior ,”  Shura’s  effect does not activate. 
+ If  Shura  is destroyed by an effect after the monster it destroyed by battle was sent to the Graveyard, such as “ Michizure ,”  Shura’s  effect DOES activate, and you can Special Summon a monster. 
+ NOTE:  These rules also apply to any other monster with the text  “When this card destroys an opponent’s monster by battle and sends it to the Graveyard….”  (Examples: “ Hydrogeddon ,” “ Goyo Guardian ,” or  “ Elemental Hero Flame Wingman ”  [ sic ] .) 
+ These rules do NOT apply to monsters with the text  “When this card destroys an opponent’s monster by battle….”  (but does not specify “and sends it to the Graveyard”). (Example: “ Blue Thunder T-45 ”.) Monsters with that text will activate their effects in ALL of the above scenarios. 
+ OCG Rulings 
+ You cannot send  Monster Tokens  or a face-up " Dark Magician of Chaos " to the Graveyard to Special Summon " Arcana Force EX - The Light Ruler ". [1] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [2]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [3] [4] [5] [6] [7] [8] [9] [10] [11] 
+ 
+ While the tails effect of " Arcana Force EX - The Light Ruler " is being applied, it is mandatory. If you activate a Spell, Trap, or Effect Monster's effect that targets your " Arcana Force EX - The Light Ruler " while its tails effect is being applied, it will negate the effect of your Spell, Trap, or Effect Monster Card and destroy it. 
+ If the heads or tails effect of " Arcana Force EX - The Light Ruler " is activated and an effect is chained that removes it from the field, the effect of " Arcana Force EX - The Light Ruler " still resolves. 
+ The tails effect of " Arcana Force EX - The Light Ruler " can chain multiple times in the same Chain.
+ Example: When " Arcana Force EX - The Light Ruler " is targeted by " Shrink ", its effect activates. If " Ring of Destruction " is chained to its effect, its effect activates again. 
+ If an effect targets " Arcana Force EX - The Light Ruler " while its ATK is less than 1000 and its tails effect is being applied, " Arcana Force EX - The Light Ruler 's" tails effect still activates. If " Arcana Force EX - The Light Ruler 's" ATK is less than 1000 when its tails effect resolves, its effect disappears. 
+ If " Reverse Trap  "  [ sic ]  is being applied while the tails effect of " Arcana Force EX - The Light Ruler " is being applied, " Arcana Force EX - The Light Ruler " will gain 1000 ATK instead of losing 1000 ATK when its effect resolves. After the turn ends, all gained ATK becomes an ATK loss. 
+ If " Skill Drain " is activated after " Arcana Force EX - The Light Ruler " is Special Summoned, the effect of " Arcana Force EX - The Light Ruler " is negated. If " Skill Drain " is later negated or removed from the field, the effect of " Arcana Force EX - The Light Ruler " is not reapplied. 
+ When " Arcana Force EX - The Light Ruler " is Special Summoned and its effect activates, if an effect is chained that flips it face-down or removes it from the field, the effect of " Arcana Force EX - The Light Ruler " disappears and you do not toss a coin. 
+ 
+ 
+ 
+ References 
+ 
+ ↑   Konami FAQ : When Special Summoning "Arcana Force EX - The Light Ruler, can you send a monster which is not sent to the Graveyard, like "Dark Magician of Chaos" or a Monster Token? 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

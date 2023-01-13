@@ -1,0 +1,99 @@
+Link: https://yugioh.fandom.com/wiki/Transaction_Rollback
+
+
+ Transaction Rollback 
+ 
+ Japanese:   トランザクション・ロールバック 
+ Romaji:   Toranzakushon Rōrubakku 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Pay half your  LP , then  target  1  Normal Trap Card  in your opponent's  GY ; this card gains that Normal Trap Card's  effects .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  045 ,  046 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ トランザクション・ロールバック 
+ ①：﻿ＬＰを半分払い、相手の墓地の通常罠カード１枚を対象として発動できる。このカードはその通常罠カードと同じ効果を得る。 
+ 
+ 
+ Toranzakushon Rōrubakku 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Normal Trap Card 
+ 
+ Anti-supports   
+ Normal Trap Card 
+ 
+ Actions  
+ Resolves as another card's effect 
+ Activates from your Graveyard 
+ 
+ Banished  categories  
+ Banishes itself from Graveyard for cost 
+ 
+ LP   
+ Pays Life Points for cost 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/f8/TransactionRollback-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180328132046', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

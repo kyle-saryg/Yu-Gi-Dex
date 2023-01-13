@@ -1,0 +1,380 @@
+Link: https://yugioh.fandom.com/wiki/Majesty%27s_Pegasus
+
+
+ 
+ 
+ Majesty's Pegasus マジェスティック Ｐ 
+ 
+ English 
+Majesty's Pegasus 
+ French 
+ Pégase de Majesté Check translation 
+ German 
+ Pegasus der Majestät Check translation 
+ Italian 
+ Pegaso della Maestosità Check translation 
+ Korean 
+ 마제스틱 P Check translation 
+ Portuguese 
+ Pégaso da Majestade Check translation 
+ Spanish 
+ Pegaso de la Majestuosidad Check translation 
+ Japanese (kana) 
+ マジェスティックペガサス Check translation 
+ Japanese (base) 
+ マジェスティックＰ Check translation 
+ Japanese ( rōmaji ) 
+Majesutikku Pegasasu 
+ Japanese (translated) 
+Majestic Pegasus 
+ Card type 
+ Spell   
+ Property 
+ Field   
+ Passcode 
+ 76473843 
+ Card effect types 
+ 
+ 
+ Continuous-like 
+ Ignition-like 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+All " Majespecter "  monsters  on the  field  gain 300  ATK  and  DEF . You can  Tribute  1  WIND   Spellcaster - Type  monster;  Special Summon  1  Level  4 or lower " Majespecter " monster from your  Deck . You can only use this  effect  of "Majesty's Pegasus"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Tous les monstres "Majesspectre" sur le Terrain gagnent 300 ATK/DEF. Vous pouvez Sacrifier 1 monstre VENT de Type Magicien ; Invoquez Spécialement 1 monstre "Majesspectre" de max. Niveau 4 depuis votre Deck. Vous ne pouvez utiliser cet effet de "Pégase de Majesté" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Alle „Majespenst“-Monster auf dem Spielfeld erhalten 300 ATK und DEF. Du kannst 1 WIND Monster vom Typ Hexer als Tribut anbieten; beschwöre 1 „Majespenst“-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Deck. Du kannst diesen Effekt von „Pegasus der Majestät“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Tutti i mostri "Maestospettro" sul Terreno guadagnano 300 ATK e DEF. Puoi offrire come Tributo 1 mostro VENTO di Tipo Incantatore; Evoca Specialmente 1 mostro "Maestospettro" di Livello 4 o inferiore dal tuo Deck. Puoi utilizzare questo effetto di "Pegaso della Maestosità" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Todos os  monstros  " Majespectro " no  campo  ganham 300 de  ATK  e  DEF . Você pode oferecer como  Tributo  1 monstro de  VENTO  do  Tipo   Mago :  Invoque  por  Invocação-Especial  1 monstro "Majespectro" de  Nível  4 ou menos do seu  Deck . Você só pode usar este  efeito  de "Pégaso da Majestade"  uma vez por turno . 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Todos los monstruos "Majespectro" en el Campo ganan 300 ATK y DEF. Puedes Sacrificar 1 monstruo de VIENTO de Tipo Lanzador de Conjuros; Invoca de Modo Especial, desde tu Deck, 1 monstruo "Majespectro" de Nivel 4 o menor. Sólo puedes usar este efecto de "Pegaso de la Majestuosidad" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「マジェスティックＰ」の②の効果は１ターンに１度しか使用できない。①：フィールドの「マジェスペクター」モンスターの攻撃力・守備力は３００アップする。②：自分フィールドの魔法使い族・風属性モンスター１体をリリースして発動できる。デッキからレベル４以下の「マジェスペクター」モンスター１体を特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "마제스틱P(페가수스)"의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ① : 필드의 "마제스펙터" 몬스터의 공격력 / 수비력은 300 올린다. ② : 자신 필드의 마법사족 / 바람 속성 몬스터 1장을 릴리스하고 발동할 수 있다. 덱에서 레벨 4 이하의 "마제스펙터" 몬스터 1장을 특수 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2015-11-05  
+ DOCS-EN058   
+ Dimension of Chaos 
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2015-11-05  
+ DOCS-FR058   
+ Dimension of Chaos 
+ La Dimension du Chaos  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2015-11-05  
+ DOCS-DE058   
+ Dimension of Chaos 
+ Dimension of Chaos  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2015-11-05  
+ DOCS-IT058   
+ Dimension of Chaos 
+ Dimensione del Chaos  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2015-11-06  
+ DOCS-PT058   
+ Dimension of Chaos 
+ Dimensão do Caos  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2015-11-05  
+ DOCS-SP058   
+ Dimension of Chaos 
+ Dimensión del Caos  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2015-07-18  
+ DOCS-JP058   
+ Dimension of Chaos 
+ ディメンション・オブ・カオス  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2015-11-06  
+ DOCS-KR058   
+ Dimension of Chaos 
+ 디멘션 오브 카오스  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ WIND 
+ Spellcaster 
+ 
+ Supports   archetypes   
+ Majespecter 
+ 
+ Related to  archetypes  and  series   
+ Dracoslayer 
+ 
+ Actions  
+ Tributes for cost 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ Your monsters gain DEF 
+ Your opponent's monsters gain ATK 
+ Your opponent's monsters gain DEF 
+ 
+ Summoning  categories  
+ Special Summons from your Deck 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12002 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Dracoslayer " 「 竜 剣 士 」 Members 
+ Dinomight Powerload, the Dracoslayer Dinoster Power, the Mighty Dracoslayer Ignis Phoenix, the Dracoslayer Ignister Prominence, the Blasting Dracoslayer Luster Pendulum, the Dracoslayer Majester Paladin, the Ascending Dracoslayer Majesty Pegasus, the Dracoslayer Master Peace, the True Dracoslayer Master Pendulum, the Dracoslayer 
+ Support 
+ Dinomight Powerload, the Dracoslayer Dinoster Power, the Mighty Dracoslayer Ignis Phoenix, the Dracoslayer Ignister Prominence, the Blasting Dracoslayer Luster Pendulum, the Dracoslayer Majester Paladin, the Ascending Dracoslayer Majesty Pegasus, the Dracoslayer Master Peace, the True Dracoslayer 
+ Draco Face-Off Dragonic Pendulum Forge of the True Dracos 
+ Related 
+ Dinomight Knight, the True Dracofighter Dinomist Plesios Dinomist Stegosaur Igknight Margrave Ignis Heat, the True Dracowarrior Majespecter Unicorn - Kirin Majesty Maiden, the True Dracocaster Master Peace, the True Dracoslaying King Vector Pendulum, the Dracoverlord 
+ Dinomic Powerload Ignition Phoenix Majesty's Pegasus 
+ 
+   
+" Majespecter " 「マジェスペクター」 Members 
+ Majespecter Cat - Nekomata Majespecter Crow - Yata Majespecter Fox - Kyubi Majespecter Raccoon - Bunbuku Majespecter Toad - Ogama Majespecter Unicorn - Kirin Majesty Pegasus, the Dracoslayer 
+ Majespecter Cyclone Majespecter Gust Majespecter Sonics Majespecter Storm Majespecter Supercell Majespecter Tempest Majespecter Tornado 
+ Support 
+ Majespecter Cat - Nekomata Majespecter Crow - Yata Majespecter Fox - Kyubi Majespecter Raccoon - Bunbuku Majespecter Toad - Ogama Majesty Pegasus, the Dracoslayer 
+ Majespecter Gust Majespecter Sonics Majespecter Supercell Majesty's Pegasus 
+ Related 
+ Luster Pendulum, the Dracoslayer Majester Paladin, the Ascending Dracoslayer Majesty Maiden, the True Dracocaster Master Pendulum, the Dracoslayer 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/ab/MajestysPegasus-DOCS-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20151105184753', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/1/14/Field.svg/revision/latest/scale-to-width-down/28?cb=20120920120155']
+Categories: Duel Monsters cards, TCG cards, OCG cards

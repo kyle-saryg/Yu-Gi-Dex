@@ -1,0 +1,80 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Acid_Trap_Hole
+
+
+ Acid Trap Hole 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Yu-Gi-Oh! The Duelists of the Roses Yu-Gi-Oh! Forbidden Memories Yu-Gi-Oh! Duel Monsters II: Dark duel Stories 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Flip  1 face-down Defense Position monster  face-up .  If  the  monster's  DEF is 2000 points or less, the monster  is destroyed . If the DEF is more than 2000 points, return the monster to  its  face-down Defense Position. 
+ Select  1 face-down Defense Position monster .   Flip  it face-up , and   if  the DEF  of the monster  is 2000  points  or less,  destroy   the monster . If the DEF is more than 2000  points ,  return  the monster to face-down Defense Position. 
+ 
+ 
+       DDS-005 Yu-Gi-Oh! Dark Duel Stories promotional cards     
+       SOI-ENSE1 Shadow of Infinity: Special Edition     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ Select  1 face-down Defense Position monster  and   flip  it face-up .   If   the  monster's  DEF is 2000 or less , destroy  it .   If   the  monster's  DEF is more than 2000 ,  flip  the monster to face-down Defense Position . 
+ Target  1 face-down Defense Position monster  on the field;  flip it face-up , then destroy it   if   its  DEF is 2000 or less , or return it face-down   if   its  DEF is more than 2000. 
+ 
+ 
+       SDMA-EN029 Structure Deck: Marik     
+         LCYW-EN283 Legendary Collection 3: Yugi's World Mega Pack     
+ 
+ 
+ Italian 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ Buco Trappola Acido 
+ Acid Trap Hole 
+ Buco Trappola Acido 
+ 
+ 
+         SOI-ENSE1 Shadow of Infinity: Special Edition     
+         LCYW-IT283 Legendary Collection 3: Yugi's World Mega Pack     
+         MIL1-IT044 Millennium Pack     
+ 
+ 
+ Spanish 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Agujero - Trampa de Ácido 
+ Agujero   Trampa de Ácido 
+ 
+ 
+         SDMA-SP029 Structure Deck: Marik     
+         MIL1-SP044 Millennium Pack     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/72/AcidTrapHole-DDS-NA-PScR-UE.png/revision/latest/scale-to-width-down/180?cb=20090116053600', 'https://static.wikia.nocookie.net/yugioh/images/0/02/AcidTrapHole-SOI-EN-UR-LE.jpg/revision/latest/scale-to-width-down/180?cb=20061026222343', 'https://static.wikia.nocookie.net/yugioh/images/4/41/AcidTrapHole-SDMA-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20160411222108', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/38/AcidTrapHole-LCYW-EN-R-1E.png/revision/latest/scale-to-width-down/180?cb=20121006004739', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/db/AcidTrapHole-SOI-IT-UR-LE.jpg/revision/latest/scale-to-width-down/180?cb=20071122185042', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/dc/AcidTrapHole-LCYW-IT-R-1E.jpg/revision/latest/scale-to-width-down/180?cb=20121013171635', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/46/AcidTrapHole-MIL1-IT-R-1E.png/revision/latest/scale-to-width-down/180?cb=20161211001133', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/aa/AcidTrapHole-SDMA-SP-C-1E.png/revision/latest/scale-to-width-down/180?cb=20180525195158', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/03/AcidTrapHole-MIL1-SP-R-1E.png/revision/latest/scale-to-width-down/180?cb=20170831212813']
+Categories: Card Errata, Cards with 3 errata, Cards with name errata, Cards with 2 errata, Cards with Italian errata, Cards with 1 erratum, Cards with Spanish errata

@@ -1,0 +1,129 @@
+Link: https://yugioh.fandom.com/wiki/Gergonne%27s_End_(anime)
+
+Main card page: " Gergonne's End " 
+ Gergonne's End 
+ 
+ Japanese:   ジェルゴンヌの終焉 
+ Kana:   ジェルゴンヌのしゅうえん 
+ Romaji:   Jerugonnu no Shūen 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Effect 
+ Continuous-like 
+ Quick-like 
+ Target  1 " Tindangle "  Link Monster  you  control ;  equip  this card to it. It cannot be  destroyed by battle  or card  effects , also your opponent cannot  target  it with card effects. If in every  zone  the  monster  equipped with this card by this effect  points to , there is a monster: You can  destroy  this card and as many monsters the equipped monster points to as possible, and if you do, inflict  damage  to your opponent equal to the equipped monster's  ATK .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  019 ,  020 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ジェルゴンヌの 終 焉 
+ ①：自分フィールドの「ティンダングル」リンクモンスター１体を対象としてこのカードを発動できる。このカードを装備カード扱いとしてそのモンスターに装備する。装備モンスターは戦闘・効果では破壊されず、相手の効果の対象にならない。②：このカードの効果でこのカードを装備した対象のリンクモンスターのリンク先全てにモンスターが存在する場合に発動できる。装備モンスターのリンク先のモンスターとこのカードを全て破壊し、相手に装備モンスターの攻撃力分のダメージを与える。 
+ 
+ 
+ Jerugonnu no Shūen 
+ 
+ 
+ Decks 
+ 
+ 
+ Akira Zaizen 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Link Monster 
+ 
+ Supports   archetypes   
+ Tindangle 
+ 
+ Actions  
+ Equips self from field 
+ 
+ Monster / Spell / Trap  categories  
+ Treated as Equip Card 
+ Equipped cannot be destroyed by card effects 
+ Cannot be targeted by card effects 
+ Destroys itself 
+ Destroys Monster Cards 
+ 
+ Attack  categories  
+ Equipped cannot be destroyed by battle 
+ 
+ LP   
+ Damages your opponent 
+ 
+ 
+ 
+   " Gergonne's End " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+" Tindangle " 「ティンダングル」 a   +   Members 
+ Tindangle Acute Cerberus Tindangle Acute Cerberus Tindangle Angel Tindangle Base Gardna Tindangle Delaunay Tindangle Hound Tindangle Intruder Tindangle Returner Tindangle Token 
+ Support 
+ Euler's Circuit Gergonne's End Lemoine Point Morley's Shield Nagel's Protection Stairs of Mail Tindangle Base Gardna Tindangle Delaunay Tindangle Intruder 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/8e/GergonnesEnd-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20170920131349', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520']
+Categories: Anime cards

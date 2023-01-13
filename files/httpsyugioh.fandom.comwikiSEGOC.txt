@@ -1,0 +1,557 @@
+Link: https://yugioh.fandom.com/wiki/SEGOC
+
+Simultaneous Effect Go On Chain  (Japanese:  複 数 の 効 果 が 同 時 に 発 動 する 場 合 ,  Fukusū no Kōka ga Dōji ni Hatsudō-suru Bāi ), commonly abbreviated as  SEGOC , is a process used to deal with multiple  Trigger  and/or  Trigger-like Effects  meeting their activation timing at the same time. If this occurs, all of the Trigger and Trigger-like Effects that are activated are placed on a  Chain . For example, if " Mystic Tomato " attacks and destroys another "Mystic Tomato" by battle, both of their Trigger Effects meet their activation timings at the same time.
+ This does not apply to effects that activate " During the […] Phase… " or " At the end of the […] Phase… ", such as " Gladiator Beast " monsters. Instead, each effect activates as  Chain Link  1 of its own Chain.
+ If a Trigger or Trigger-like Effect meets its activation timing during the activation or resolution of a Chain, its effect cannot be activated until that Chain has fully resolved. If that effect did not  miss the timing , it starts a new Chain immediately after the previous Chain fully resolves. If multiple Trigger and/or Trigger-like Effects do so, they all form a Chain using the "SEGOC" rules. [1] 
+ 
+ Contents 
+ 
+ 1   Order 
+ 2   Examples 
+ 
+ 2.1   Example 1 
+ 2.2   Example 2 
+ 2.3   Example 3 
+ 
+ 
+ 3   Limitation 
+ 
+ 3.1   Example 1 
+ 3.2   Example 2 
+ 
+ 
+ 4   Tips 
+ 
+ 4.1   Chain Blocking 
+ 4.2   Example 
+ 
+ 
+ 5   References 
+ 
+ 
+ Order 
+ Trigger and Trigger-like Effects that would be activated at the same time are activated in the following order:
+ 
+ Turn player's  mandatory effects 
+ Non-turn player's mandatory effects 
+ Turn player's  optional effects 
+ Non-turn player's optional effects 
+ If multiple effects fall into the same category, the player that activates them chooses the order in which they are activated. [1] 
+ 
+ Examples 
+       Sangan     
+ Example 1 
+ Each player control a copy of " Sangan " and " Peten the Dark Clown ". The turn player activates " Dark Hole " to simultaneously destroy all of those monsters, so all four monsters' effects would activate at the same time.
+ The turn player's only mandatory effect is the effect of their "Sangan", so it becomes Chain Link 1. 
+ The non-turn player's only mandatory effect is the effect of their "Sangan", so it becomes Chain Link 2. 
+ The turn player's only optional effect is the effect of their "Peten the Dark Clown", so it would become Chain Link 3 if they choose to activate it. 
+ The non-turn player's only optional effect is the effect of their "Peten the Dark Clown", so it would become Chain Link 4 if they choose to activate it. 
+ Afterwards, players can add  fast effects  to the Chain normally. 
+ If a player has two or more effects in the same category (for example, the turn player controls two mandatory effects), then that player decides to order to activate them in.
+ 
+ Example 2 
+ The turn player controls " Sangan " and " Witch of the Black Forest ". The non-turn player controls " Dandylion ". The turn player activates " Dark Hole " to simultaneously destroy all of those monsters, so all three monsters' effects would activate at the same time.
+ The turn player's mandatory effects are the effects of their "Sangan" and "Witch of the Black Forest". These effects will be Chain Links 1 and 2, the turn player deciding the order in which they activate. 
+ The non-turn player's only mandatory effect is the effect of their "Dandylion", so it becomes Chain Link 3. 
+ The turn player has no optional effects, so none are added. 
+ The non-turn player has no optional effects, so none are added. 
+ Afterwards, players can add  fast effects  to the Chain normally. 
+ Example 3 
+ Even if one effect meets its activation requirements strictly after another effect, if they are in the same category they can be activated in any order, given the appropriate timing. [1] 
+ 
+ The turn player controls " Sangan ". If the turn player Tribute Summons " Zaborg the Thunder Monarch " by  Tributing  "Sangan", then both monsters' effects activate at the same time.
+ The turn player's mandatory effects are the effects of "Sangan" and "Zaborg the Thunder Monarch". These effects will be Chain Links 1 and 2, the turn player decides the order in which they activate (even though "Sangan" was sent to the Graveyard strictly before "Zaborg the Thunder Monarch" was Tribute Summoned). 
+ The non-turn player has no mandatory effects, so none are added. 
+ The turn player has no optional effects, so none are added. 
+ The non-turn player has no optional effects, so none are added. 
+ Afterwards, players can add  fast effects  to the Chain normally. 
+ Limitation 
+ Each player can only activate 1 Trigger Effect of a monster that could Special Summon the monster itself from the hand per Chain.
+ 
+ Example 1 
+ Even if the player has both " Battle Fader " and " Ogre of the Scarlet Sorrow " in their hand when their opponent declares their second direct attack during a given turn, they can only activate the effect of one of those cards. [2] 
+ Example 2 
+ When a face-up  Beast - Type  monster the player  controls  is destroyed and sent to the Graveyard, even if there are multiple copies of " Green Baboon, Defender of the Forest " in their hand and/or Graveyard, they can only activate the effect of one of them. This applies even if all copies are in the Graveyard. [3] [4] 
+ Tips 
+ Chain Blocking 
+ As per Chain rule, only the last card in the chain may be responded to. As SEGOC allows players to choose the effect's activation order given they have the same priority, it is highly advised that players place the more important effects as earlier Chain Links, and  the less important or harder to counter  effects as the last.
+ 
+ Example 
+ Turn player controls " Return of the Monarchs ", " Edea the Heavenly Squire ", and " Eidos the Underworld Squire ". The opponent has " Solemn Strike "  Set  and " Ash Blossom & Joyous Spring " in their hand.
+ The turn player tributes "Edea" and "Eidos" to Summon " Ehther the Heavenly Monarch ". Activating the effect of all three cards in the same priority level as they are all Mandatory. 
+ The turn player decides "Ehther" as Chain Link 1, and immediately sends 2 " Monarch "  Spell / Trap  from their  Main Deck  to the  GY . 
+ Then turn player decides "Edea" as  Chain Link 2. 
+ Then turn player decides "Return", so it becomes Chain Link 3. 
+ As the last effect in the chain is "Return of the Monarchs", "Solemn Strike" misses the timing as the last effect in the chain is not a Monster Effect, but a Spell Effect. The opponent however can respond with " Ash Blossom & Joyous Spring " as the effect of "Return" fulfills its activation condition. 
+ References 
+ 
+ ↑  1.0   1.1   1.2   Konami.  Yu-Gi-Oh! Trading Card Game - Official Rulebook Version 10 . p. 50 .  http://www.yugioh-card.com/en/rulebook/SD_RuleBook_EN_V10.pdf . 
+ 
+ ↑   Konami (February 5, 2010).  Absolute Powerforce – Card Rulings (version 1.0) . Ogre of the Scarlet Sorrow. Archived from  the original  on November 6, 2015 .  http://web.archive.org/web/20151106174559/http://www.yugioh-card.com/en/gameplay/rulings/ABPF_sneak_ruling.pdf . 
+ 
+ ↑   Konami (January 5, 2010).  Current Errata . Important Rule Change .  http://www.yugioh-card.com/en/gameplay/errata/YGOErrata100105.pdf . Retrieved June 20, 2016 . 
+ 
+ ↑   Konami OCG Card Database : When a Beast-Type monster is destroyed, can you Special Summon multiple "Green Baboon, Defender of the Forest"? 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/15/Sangan-YS17-EN-C-1E.png/revision/latest/scale-to-width-down/250?cb=20170718195057']
+Categories: Gameplay

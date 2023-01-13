@@ -1,0 +1,102 @@
+Link: https://yugioh.fandom.com/wiki/Trash_Hacker
+
+
+ Trash Hacker 
+ 
+ Japanese:   トラッシュ・ハッカー 
+ Romaji:   Torasshu Hakkā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   DARK 
+ 
+ Level 
+ 
+ 
+ 1   
+ 
+ [  Cyberse  /  Effect  ] When an  attack  is  declared  involving your  Cyberse   monster  and an opponent's monster: You can  banish  this card from your  GY ;  negate  that opponent's monster's  effects , also for the rest of this  turn , that opponent's monster cannot be  destroyed by battle , and any  battle damage  your opponent takes from that  battle  is doubled.
+ ATK  /  0     DEF  /  0   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  054 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ トラッシュ・ハッカー 
+ ①：自分のサイバース族モンスターが相手モンスターと戦闘を行う攻撃宣言時、墓地のこのカードを除外して発動できる。その相手モンスターの効果は無効になる。このターン、その相手モンスターは戦闘では破壊されず、その戦闘で発生する相手への戦闘ダメージは倍になる。 
+ 
+ 
+ Torasshu Hakkā 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Cyberse 
+ 
+ Actions  
+ Activates from your Graveyard 
+ Activates upon attack declaration 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your opponent's Effect Monsters 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ Banished  categories  
+ Banishes itself from Graveyard 
+ 
+ LP   
+ Increases battle damage 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e3/TrashHacker-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180530211917', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

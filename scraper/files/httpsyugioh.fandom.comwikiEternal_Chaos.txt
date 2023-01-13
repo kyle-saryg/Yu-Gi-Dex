@@ -1,0 +1,238 @@
+Link: https://yugioh.fandom.com/wiki/Eternal_Chaos
+
+
+ 
+ 
+ Eternal Chaos エターナル・カオス 
+ 
+ English 
+Eternal Chaos 
+ French 
+ Chaos Éternel Check translation 
+ German 
+ Ewiges Chaos Check translation 
+ Italian 
+ Chaos Eterno Check translation 
+ Korean 
+ 이터널 카오스 Check translation 
+ Portuguese 
+ Chaos Eterno Check translation 
+ Spanish 
+ Caos Eterno Check translation 
+ Japanese 
+ エターナル・カオス Check translation 
+ Japanese ( rōmaji ) 
+Etānaru Kaosu 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 25750986 
+ Card effect types 
+ 
+ 
+ Effect 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Target  1  face-up   monster  your opponent  controls ;  send  1  LIGHT  and 1  DARK  monster from your  Deck  to the  GY , whose combined  ATK  is less than or equal to that monster's, also for the rest of this  turn  after this card  resolves , you can only  activate  1  monster effect  in the GY. You can only activate 1 "Eternal Chaos" per turn. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Ciblez 1 monstre face recto contrôlé par votre adversaire ; envoyez 1 monstre LUMIÈRE et 1 monstre TÉNÈBRES depuis votre Deck au Cimetière, dont la somme des ATK est inférieure ou égale à celle du monstre, et aussi, vous ne pouvez activer qu'1 effet de monstre dans le Cimetière le reste de ce tour après la résolution de cette carte. Vous ne pouvez activer qu'1 "Chaos Éternel" par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wähle 1 offenes Monster, das dein Gegner kontrolliert; lege 1 LICHT und 1 FINSTERNIS Monster, deren kombinierte ATK kleiner oder gleich denen des Monsters sind, von deinem Deck auf den Friedhof, zusätzlich kannst du für den Rest dieses Spielzugs, nachdem diese Karte aufgelöst wurde, nur 1 Monstereffekt im Friedhof aktivieren. Du kannst nur 1 „Ewiges Chaos“ pro Spielzug aktivieren. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Scegli come bersaglio 1 mostro scoperto controllato dal tuo avversario; manda dal tuo Deck al Cimitero 1 mostro LUCE e 1 mostro OSCURITÀ la cui somma degli ATK è pari o inferiore a quella di quel mostro, inoltre, per il resto di questo turno dopo che questa carta si è risolta, puoi attivare solo 1 effetto di mostro nel Cimitero. Puoi attivare solo 1 "Chaos Eterno" per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Escolha 1 monstro com a face para cima que seu oponente controla; envie 1 monstro de LUZ e 1 de TREVAS do seu Deck para o Cemitério, cuja soma do ATK seja menor ou igual que o desse monstro e, além disso, pelo resto deste turno depois que este card resolver, você só pode ativar 1 efeito de monstro no Cemitério. Você só pode ativar 1 "Caos Eterno" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Selecciona 1 monstruo boca arriba que controle tu adversario; manda al Cementerio 1 monstruo de LUZ y 1 de OSCURIDAD en tu Deck cuyo ATK combinado sea menor o igual al del monstruo seleccionado, y además por el resto de este turno después de que esta carta se resuelva, sólo puedes activar 1 efecto de monstruo en el Cementerio. Sólo puedes activar 1 "Caos Eterno" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名のカードは１ターンに１枚しか発動できない。①：相手フィールドの表側表示モンスター１体を対象として発動できる。攻撃力の合計がそのモンスターの攻撃力以下になるように、デッキから光属性と闇属性のモンスターを１体ずつ墓地へ送る。このカードの発動後、ターン終了時まで自分は墓地のモンスターの効果を１度しか発動できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 공격력의 합계가 그 몬스터의 공격력 이하가 되도록, 덱에서 빛 속성과 어둠 속성의 몬스터를 1장씩 묘지로 보낸다. 이 카드의 발동 후, 턴 종료시까지 자신은 묘지의 몬스터의 효과를 1번밖에 발동할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2020-06-18 TOCH-EN010 Toon Chaos Super Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2020-06-18 TOCH-FR010 Toon Chaos Le Chaos Toon Super Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2020-06-18 TOCH-DE010 Toon Chaos Toon Chaos Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2020-06-18 TOCH-IT010 Toon Chaos Chaos Toon Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2020-06-18 TOCH-PT010 Toon Chaos Caos Toon Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2020-06-18 TOCH-SP010 Toon Chaos Caos Toon Super Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2020-10-03 WPP1-JP015 World Premiere Pack 2020 ＷＯＲＬＤ ＰＲＥＭＩＥＲＥ ＰＡＣＫ ２０２０ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2021-01-12 WPP1-KR015 World Premiere Pack 2020 월드 프리미어 팩 2020 Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ LIGHT 
+ DARK 
+ 
+ Archetypes  and  series   
+ Chaos 
+ 
+ Actions  
+ Sends from your Deck to your Graveyard 
+ 
+ Monster / Spell / Trap  categories  
+ Prevents activation of your Effect Monsters 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 15479 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Chaos " 「カオス」 Members 
+ Black Luster Soldier Black Luster Soldier Black Luster Soldier - Envoy of the Beginning Black Luster Soldier - Envoy of the Evening Twilight Black Luster Soldier - Sacred Soldier Black Luster Soldier - Soldier of Chaos Black Luster Soldier - Super Soldier Blue-Eyes Chaos Dragon Blue-Eyes Chaos MAX Dragon CXyz Barian Hope CXyz Battleship Cherry Blossom CXyz Coach Lord Ultimatrainer CXyz Comics Hero Legend Arthur CXyz Dark Fairy Cheer Girl CXyz Mechquipped Djinn Angeneral CXyz N.As.Ch. Knight CXyz Simon the Great Moral Leader CXyz Skypalace Babylon Chaos Ancient Gear Giant Chaos Archfiend Chaos Beast Chaos Betrayer Chaos Command Magician Chaos Core The Chaos Creator Chaos Daedalus Chaos Emperor Dragon - Envoy of the End Chaos Emperor, the Dragon of Armageddon Chaos Goddess Chaos Grepher Chaos Hunter Chaos King Archfiend Chaos Mirage Dragon Chaos Necromancer Chaos Nephthys Chaos Ruler, the Chaotic Magical Dragon Chaos Sorcerer Chaos Witch Chaos-End Master Chaosrider Gustaph Contrast HERO Chaos Core of Chaos D/D/D Chaos King Apocalypse Elemental HERO Chaos Neos Illusion of Chaos Kamionwizard The Legendary Swordmaster Black Luster Soldier Magician of Black Chaos Magician of Black Chaos MAX Magician of Chaos Master of Chaos Morphing Jar #2 Number C1: Numeron Chaos Gate Sunya Number C5: Chaos Chimera Dragon Number C6: Chronomaly Chaos Atlandis Number C9: Chaos Dyson Sphere Number C15: Gimmick Puppet Giant Hunter Number C32: Shark Drake Veiss Number C39: Utopia Ray Number C39: Utopia Ray V Number C39: Utopia Ray Victory Number C40: Gimmick Puppet of Dark Strings Number C43: High Manipulator of Chaos Number C65: King Overfiend Number C69: Heraldry Crest of Horror Number C73: Abyss Supra Splash Number C80: Requiem in Berserk Number C88: Gimmick Puppet Disaster Leo Number C92: Heart-eartH Chaos Dragon Number C96: Dark Storm Number C1000: Numerounius Number C101: Silent Honor DARK Number C102: Archfiend Seraph Number C103: Ragnafinity Number C104: Umbral Horror Masquerade Number C105: Battlin' Boxer Comet Cestus Number C106: Giant Red Hand Number C107: Neo Galaxy-Eyes Tachyon Dragon Number iC1000: Numerounius Numerounia Phantom of Chaos Shell of Chaos Sphere of Chaos Toon Black Luster Soldier Ultimate Dragonic Utopia Ray Ultimate Leo Utopia Ray 
+ Barian's Chaos Draw Black Luster Ritual Black Magic Ritual Chaos Burst Chaos End Chaos Form Chaos Greed Chaos Infinity Chaos Phantasm Chaos Space Chaos Trap Hole Chaos Zone Eternal Chaos Gateway to Chaos Numeron Chaos Ritual Rank-Up-Magic Argent Chaos Force Rank-Up-Magic Quick Chaos Tachyon Chaos Hole Yellow Luster Shield 
+ Support 
+ Chaos Archfiend Magician of Chaos Master of Chaos 
+ Chaos Form 
+ Related 
+ Battlecruiser Dianthus Beginning Knight Black Dragon Collapserpent Blue-Eyes Ultimate Dragon Blue-Eyes White Dragon Chaos Dragon Levianeer Chaos Valkyria Coach King Giantrainer Comics Hero King Arthur The Creator Curtain of the Dark Ones Dark End Dragon Dark Magician Dark Magician Girl Dark Magician of Chaos Darkflare Dragon Demise, Agent of Armageddon Demise, King of Armageddon Demise, Supreme King of Armageddon Dragon Master Knight Dunames Dark Witch Dwarf Star Dragon Planeter Eclipse Wyvern Elemental HERO Neos Envoy of Chaos Evening Twilight Knight Fairy Cheer Girl Gaia, the Mid-Knight Sun Gaia, the Polar Knight Galaxy-Eyes Photon Dragon Levia-Dragon - Daedalus Light End Dragon Light and Darkness Dragon Lightpulsar Dragon Lightray Sorcerer Magician of Dark Illusion Mechquipped Angineer Mirage Dragon Mystical Elf N.As.H. Knight Neo-Spacian Dark Panther Neo-Spacian Glow Moss Norito the Moral Leader Number 6: Chronomaly Atlandis Number 9: Dyson Sphere Number 32: Shark Drake Number 39: Utopia Number 43: Manipulator of Souls Number 62: Galaxy-Eyes Prime Photon Dragon Number 65: Djinn Buster ... further results 
+ Beginning of Heaven and Earth Chaos Scepter Blast Chaos Seed Dedication through Light and Darkness Dragon's Rebirth End of the World Exchange of Night and Day Marshalling Field Primal Seed Rank-Up-Magic - The Seventh One Super Soldier Ritual Super Soldier Synthesis 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/eb/EternalChaos-TOCH-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20201123201840', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

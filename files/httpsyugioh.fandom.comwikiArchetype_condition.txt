@@ -1,0 +1,639 @@
+Link: https://yugioh.fandom.com/wiki/Archetype_condition
+
+        " Axe of Despair " from  Battle Pack 2: War of the Giants . The archetype condition is visible at the beginning of its  card text .     
+ An  archetype condition  is a  condition  that specifies a card as being a member of an  archetype  when the card's name does not.
+ Most occurrences are on non-Japanese prints of cards where the card's name was established before the archetype was; the most common usages are on old " Archfiend " cards such as " Summoned Skull " and " Axe of Despair " for which the localized name is well-known and it would not be appropriate to  rename  the card.
+ For  Effect Monsters , archetype conditions are always listed at the beginning of the  card text  (but after  Materials , if any);  non-Effect Monsters  instead list it at the very bottom of the text box. On Japanese cards, they are simply written as a regular sentence as part of the main body; on non-Japanese cards, they are always in parentheses and on a separate line from the rest of the card text.
+ Because an archetype condition is a condition and not an  effect , it is unaffected by cards such as " Skill Drain ". It is also the only text that can be printed in the lore box of a  Normal Monster  that can affect gameplay in any way (and is therefore not italicized). For a  Pendulum Monster , it is the only text in the lore box that can affect gameplay while the card is placed in a  Pendulum Zone .
+ As an archetype condition includes information that would normally be contained within a card's name, if a card such as " Phantom of Chaos " copies the name of a card with an archetype condition, it would also copy the card's archetype condition and consequently also be treated as a member of the archetype listed in the copied card's archetype condition while it is copying the card's name.
+ 
+ Contents 
+ 
+ 1   Purpose 
+ 2   Text 
+ 
+ 2.1   For inclusion 
+ 
+ 2.1.1   Cards 
+ 2.1.2   Monsters 
+ 
+ 
+ 2.2   For exclusion 
+ 
+ 
+ 3   History 
+ 4   Cards with archetype conditions 
+ 
+ 4.1   TCG/OCG 
+ 4.2   Anime 
+ 
+ 
+ 5   See also 
+ 
+ 
+ Purpose 
+ Archetype membership is ordinarily determined by a card's name: an archetype's  support  (and  anti-support ) cards list a specific string in their effect, and a given card is a member of that archetype if its name includes that string. Because  Yu-Gi-Oh!  is originally a Japanese franchise, most such support is determined by Japanese names, and when cards are localized for non-Japanese regions, a suitable translation is chosen to name the archetype and be used in the names of all of that archetype's members and the effects of its support cards, and no other cards ever use that string in their names.
+ There are two cases where this system may break down: where the first support cards are released much later than the first members, and those members were localized without the archetype's string in their names (sometimes including anime localizations); and where previously-localized non-members were given names that contain the archetype's string. In both cases, there are two possible solutions: rename the card, or specify its membership status; both ways have been used in the past. For example: the English card text of " Arsenal Summoner " specifies that " Celtic Guardian ", " Winged Dragon, Guardian of the Fortress #1 ", " Winged Dragon, Guardian of the Fortress #2 ", " Guardian of the Labyrinth " and " The Reliable Guardian " are not " Guardian " cards; and "Oscillo Hero #2" had its English name changed to " Wattkid " to include it in the " Watt " archetype. Archetype conditions can be considered a formalized type of the first method, used where a card cannot be renamed because its current name is well-established and well-known by fans and players, as is the case for "Summoned Skull" and "Axe of Despair", or it is not feasible to rename the card to exclude it from the archetype while preserving the meaning across European languages, as is the case for "T.G. Wonder Magician" in French and "Kozmoll Dark Lady" in Italian.
+ Archetype conditions will also address  exclusion  of monsters from archetypes, such as " Hardened Armed Dragon " from " Armed Dragon " or " Valkyrie of the Nordic Ascendant " from " Valkyrie ".
+ 
+ Text 
+ For inclusion 
+ Cards 
+ 
+ 
+ Language
+ 
+ Text
+ 
+ Translation
+ 
+ 
+ English
+ 
+ (This card is always treated as a(n) "[archetype]" card.)
+ 
+ 
+ French
+ 
+ (Cette carte est toujours traitée comme une carte "[archetype]".)
+ 
+ (This card is always treated as a(n) "[archetype]" card.)
+ 
+ 
+ German
+ 
+ (Diese Karte wird  immer  als „[archetype]“-Karte behandelt.) Formerly: (Diese Karte wird  jederzeit  als „[archetype]“-Karte behandelt.)
+ 
+ 
+ Italian
+ 
+ (Questa carta  viene  sempre considerata come una carta "[archetype]".) Formerly: (Questa carta  è  sempre considerata come una carta "[archetype]".)
+ 
+ (This card is always considered as a(n) "[archetype]" card.)
+ 
+ 
+ Portuguese
+ 
+ (Este card  é tratado  como um card "[archetype]".) Formerly: (Este card  deve ser sempre considerado  como um card "Arquidemônio".)
+ 
+ (This card is treated as a(n) "[archetype]" card.) Formerly: (This card must always be considered as a(n) "[archetype]" card.)
+ 
+ 
+ Spanish
+ 
+ (Esta carta se trata siempre como una carta "[archetype]").
+ 
+ (This card is always treated as a(n) "[archetype]" card).
+ 
+ 
+ Japanese
+ 
+ このカードはルール 上 「[archetype]」カードとしても 扱 う。 Kono kādo wa rūru jō " [archetype] " kādo to shite mo atsukau. Formerly: このカードはルール 上 、 「[archetype]」 と 名 のついた カードとしても 扱 う。 Kono kādo wa rūru jō, " [archetype] " to na no tsuita kādo to shite mo atsukau. 
+ 
+ As a rule, this card is treated as a(n) "[archetype]" card. Formerly: As a rule, this card is treated as a card with "[archetype]" in its name.
+ 
+ 
+ Korean
+ 
+ 이 카드는 룰 상 "[archetype]" 카드로도 취급한다. I kadeuneul lul sang " [archetype] " kadeurodo chwigeuphanda. Formerly: 이 카드는 룰 상 "[archetype]" 카드로 서 도 취급한다. I kadeuneul lul sang " [archetype] " kadeuroseodo chwigeuphanda. 
+ 
+ Monsters 
+ 
+ 
+ Language
+ 
+ Text
+ 
+ Translation
+ 
+ 
+ English
+ 
+ (This monster is always treated as a(n) "[archetype]" monster.)
+ 
+ 
+ French
+ 
+ (Ce monstre est toujours traité comme un monstre "[archetype]".)
+ 
+ (This monster is always treated as a(n) "[archetype]" monster.)
+ 
+ 
+ German
+ 
+ (Dieses Monster wird immer als ein „[archetype]“-Monster behandelt.)
+ 
+ 
+ Italian
+ 
+ (Questo mostro viene sempre considerato come un mostro "[archetype]".)
+ 
+ (This monster is always considered as a(n) "[archetype]" monster.)
+ 
+ 
+ Spanish
+ 
+ (Este monstruo se trata siempre como un monstruo "[archetype]").
+ 
+ (This monster is always treated as a(n) "[archetype]" monster).
+ 
+ 
+ Japanese
+ 
+ このカードはルール 上 「[archetype]」モンスターとしても 扱 う。 Kono kādo wa rūru jō " [archetype] " monsutā to shite mo atsukau. 
+ 
+ As a rule, this card is treated as a(n) "[archetype]" monster.
+ 
+ 
+ Korean
+ 
+ 이 카드는 룰 상 "[archetype]" 몬스터로도 취급한다. I kadeuneul lul sang " [archetype] " monseuteorodo chwigeuphanda. 
+ 
+ For exclusion 
+ 
+ 
+ Language
+ 
+ Text
+ 
+ 
+ English
+ 
+ (This card is not treated as a(n) "[archetype]" card.)
+ 
+ History 
+ This type of condition was first seen in  Absolute Powerforce  on " Chimera the Flying Mythical Beast ". While " Archfiend " cards without "Archfiend" in their name had long been listed on the official website and in rulebooks, the condition text was not added to them until  Battle Pack 2: War of the Giants .
+ The first Japanese card with an archetype condition was " Number 39: Utopia Beyond ", a  Master Guide 4  promotional card . In  TCG  languages, this card does not include any archetype condition, as its localized name contained the required string whereas its original name did not.
+ In the  TCG , archetype conditions have been used to include cards in the " Phantom Beast ", " Archfiend ", " Noble Arms ", " Elemental HERO ", " Dark Magician Girl ", and " Gadget " archetypes; in the  OCG , archetype conditions have been used to include cards in the " Utopia ", "Elemental HERO", " Superheavy Samurai ", " Frightfur ", " Ninja ", " Blue-Eyes ", " Celtic Guard ", " Raidraptor ", " Fusion Dragon ", " Synchro Dragon ", " Xyz Dragon ", and " Pendulum Dragon " archetypes.
+ In  OCG  languages, if a card has an archetype condition then it has that archetype condition in all  OCG  languages. In  TCG  languages, only the Portuguese print of " Archfiend Soldier ", the German card database entry for " Gadget Soldier ", the Italian card database entry for " Dark Magician Girl the Dragon Knight ", and non-English  TCG  prints of " Spiritual Beast Tamer Winda " have an archetype condition that does not appear in other  TCG  languages; additionally, the Italian card database entry for " A Deal with Dark Ruler " does not include the archetype condition the card has in every other  TCG  language due to it having a database-only rename. " Edge Imp Frightfuloid ", " Contrast HERO Chaos ", and " Dragon Spirit of White " are the only cards to have archetype conditions in both the  OCG  and  TCG .
+ 
+ Cards with archetype conditions 
+ TCG/OCG 
+   Japanese name Translated name Archetype(s) Archfiend Soldier デーモン・ソルジャー Daemon Soldier Archfiend Archfiend's Ascent デーモンの超越 Daemon's Transcendence Archfiend Summoned Skull (series) Archfiend's Awakening デーモンの降臨 Daemon’s Advent Archfiend Summoned Skull (series) Archfiend's Call デーモンの招来 Daemon's Invitation Archfiend Summoned Skull (series) Archfiend's Manifestation デーモンの顕現 Daemon's Manifestation Archfiend Summoned Skull (series) Aussa the Earth Charmer, Immovable 崔嵬の地霊使い アウス Auth the Aloft Earth-Spirit Charmer Charmer Familiar-Possessed Possessed Beast of Talwar タルワール・デーモン Talwar Daemon Archfiend Black Fang Magician 黒牙の魔術師 Magician (archetype) Xyz Xyz Dragon Black Skull Dragon ブラック・デーモンズ・ドラゴン Black Daemons Dragon Archfiend Brave Beauty of Ruby Regard - Bradamante 紅恋の麗傑－ブラダマンテ Noble Knight Infernoble Knight Brilliant Rose ブリリアント・ローズ Rose Gem- Gem-Knight Celtic Guard of Noble Arms エルフの聖剣士 Elf Holy Swordsman Celtic Guard Noble Arms Chimera the Flying Mythical Beast 有翼幻獣キマイラ Chimaera the Winged Phantom Beast Phantom Beast Contrast HERO Chaos Ｃ・ＨＥＲＯ カオス Chaos Elemental HERO HERO Dark Armed Dragon ダーク・アームド・ドラゴン Armed Dragon Dark counterpart Dharc the Dark Charmer 闇霊使いダルク Dharc the Dark-Spirit Charmer Charmer Dharc the Dark Charmer, Gloomy 暗影の闇霊使いダルク Dharc the Umbral Dark Spirit Charmer Charmer Familiar-Possessed Possessed Dinomight Powerload, the Dracoslayer 竜剣士ダイナマイトＰ Dinomight Powerload, the Dragon Swordsman Dracoslayer Dinomist Double Iris Magician 虹彩の魔術師 Iris Magician Magician (archetype) Pendulum (archetype) Pendulum Dragon Dragon Spirit of White 白き霊龍 Blue-Eyes Edge Imp Frightfuloid エッジインプ・ＤＴモドキ Edge Imp DT Modoki Frightfur Edge Imp Eria the Water Charmer, Gentle 清冽の水霊使いエリア Eria the Clear Water Spirit Charmer Charmer Familiar-Possessed Possessed The Executor of the Underworld - Pluto 冥府の執行者 プルート The Agent Fiend Skull Dragon デス・デーモン・ドラゴン Death Daemon Dragon Archfiend Fortune Chariot 運命の戦車 Valkyrie Gadget Soldier ガジェット・ソルジャー Gadget Gaia the Magical Knight 魔道騎士ガイア Gaia the Sorcery Knight Gaia The Fierce Knight (archetype) Galakuriboh ギャラクリボー Kuriboh (archetype) Galaxy Gazelle the King of Mythical Beasts 幻獣王ガゼル Phantom Beast King Gazelle Phantom Beast Hiita the Fire Charmer, Ablaze 灼熱の火霊使いヒータ Heata the Scorching Fire Spirit Charmer Charmer Familiar-Possessed Possessed Ignis Phoenix, the Dracoslayer 竜剣士イグニスＰ Ignis Phoenix, the Dragon Swordsman Igknight Dracoslayer Kuribah クリバー Kuriboh (archetype) Kuribee クリビー Kuriboh (archetype) Kuribeh クリベー Kuriboh (archetype) Kuriboo クリブー Kuriboh (archetype) Lesser Fiend レッサー・デーモン Lesser Daemon Archfiend Lyna the Light Charmer, Lustrous 照耀の光霊使いライナ Lyna the Shining Light Spirit Charmer Charmer Familiar-Possessed Possessed Majesty Pegasus, the Dracoslayer 竜剣士マジェスティＰ Majesty Pegasus, the Dragon Swordsman Dracoslayer Majespecter Manga Ryu-Ran トゥーン・ドラゴン・エッガー Toon Dragon Egger Toon Number 39: Utopia Beyond Ｎｏ.３９ 希望皇ビヨンド・ザ・ホープ Numbers 39: King of Wishes, Beyond the Hope Utopic Number Utopia (archetype) Number F0: Utopic Draco Future ＦＮｏ.０ 未来龍皇ホープ Future Numbers 0: Future Dragon King, Hope Utopic Number Utopic Future Purple Poison Magician 紫毒の魔術師 Magician (archetype) Fusion (archetype) Fusion Dragon Raider's Knight レイダーズ・ナイト Phantom Knights The Phantom Knights Raidraptor Raider's Raider's Wing レイダーズ・ウィング Phantom Knights The Phantom Knights Raidraptor Raider's Rainbow Dark Dragon 究極宝玉神 レインボー・ダーク・ドラゴン Ultimate Gem God - Rainbow Dark Dragon Dark counterpart Crystal Ultimate Crystal Rainbow Dragon 究極宝玉神 レインボー・ドラゴン Ultimate Gem God - Rainbow Dragon Crystal Ultimate Crystal Rainbow Overdragon 究極宝玉神 レインボー・オーバー・ドラゴン Ultimate Gem God - Rainbow Over Dragon Crystal Ultimate Crystal Sephylon, the Ultimate Timelord 究極時械神セフィロン Sephylon, the Ultimate Time Machine God Timelord Shadow Tamer デーモン・テイマー Daemon Tamer Archfiend Spiritual Beast Tamer Winda 精霊獣使い ウィンダ Ritual Beast Ritual Beast Tamer Spiritual Beast ... further results 
+   Japanese name Translated name Archetype(s) A.I. Love Fusion Ａｉラブ融合 Ai Love Fusion Polymerization (archetype) A.I. ALERT! ＡＬＥＲＴ！ Rescue-ACE Axe of Despair デーモンの斧 Daemon's Axe Archfiend Burning Draw 逆巻く炎の宝札 Salamangreat CONTAIN! ＣＯＮＴＡＩＮ！ Rescue-ACE Celestial Sword - Eatos 女神の聖剣－エアトス Holy Sword of the Goddess - Eatos Noble Arms Cybernetic Horizon (card) サイバネティック・ホライゾン Cyber Cybernetic Cyberdark (Spell/Trap archetype) A Deal with Dark Ruler デーモンとの駆け引き A Deal with a Daemon Archfiend EXTINGUISH! ＥＸＴＩＮＧＵＩＳＨ！ Rescue-ACE Fire Fortress atop Liang Peak 炎傑の梁山閣 Mount Liang Tower of the Flame Heroes Fire Formation Fury of Fire フューリー・オブ・ファイア Salamangreat Fusion of Fire フュージョン・オブ・ファイア Fusion (archetype) Salamangreat Gravity Balance 重力均衡 G Golem Last Hope Numbers 最後の希望 Utopic Galaxy Galaxy-Eyes Number (Spell/Trap archetype) Ninjitsu Art Tool - Iron Digger 忍法装具 鉄土竜 Ninjitsu Art Equipment - Kanamugura Ninjitsu Art Numeron Creation ヌメロン・クリエイション Galaxy Galaxy-Eyes Numeron Ojamuscle おジャマッスル Ojama RESCUE! ＲＥＳＣＵＥ！ Rescue-ACE Raider's Unbreakable Mind レイダーズ・アンブレイカブル・マインド Phantom Knights The Phantom Knights Raidraptor Raider's Raidraptor Replica Ｒ・Ｒ・Ｒ Raid Raptors Replica Raidraptor Rank-Up-Magic Limited Barian's Force ＲＵＭ－リミテッド・バリアンズ・フォース Barian's Rank-Up-Magic Ride of the Valkyries Ｗａｌｋｕｒｅｎ Ｒｉｔｔ Valkyrie's Ride Valkyrie Rising Fire ライジング・オブ・ファイア Rising of Fire Salamangreat Toy Parade トイ・パレード Frightfur U.A. Hyper Stadium Ｕ．Ａ．ハイパー・スタジアム Ultra Athlete Hyper Stadium U.A. F.A. U.A. Locker Room Ｕ．Ａ．ロッカールーム Ultra Athlete Locker Room U.A. F.A. U.A. Man of the Match Ｕ．Ａ．マン・オブ・ザ・マッチ Ultra Athlete Man of the Match U.A. F.A. A World Shrouded in Darkness 天地晦冥 Ninjitsu Art Zektrike Kou-Ou ゼクトライク－紅黄 Zektrike - Crimson and Yellow Inzektor 
+ Anime 
+   Japanese name Translated name Archetype(s) Superheavy Samurai Beast Kyubi (anime) 超重魔獣キュウ－Ｂ Superheavy Demon Beast Kyu-B Superheavy Samurai Superheavy Superheavy Samurai General Coral (anime) 超重輝将サン－５ Superheavy General San-5 Superheavy Samurai Superheavy Superheavy Samurai General Jade (anime) 超重輝将ヒス－Ｅ Superheavy General Hisu-E Superheavy Samurai Superheavy Superheavy Samurai Ninja Sarutobi (anime) 超重忍者サルト－Ｂ Superheavy Ninja Saruto-B Ninja Superheavy Samurai Superheavy Superheavy Samurai Ogre Shutendoji (anime) 超重神鬼シュテンドウ－Ｇ Superheavy God Oni Shutendo-G Superheavy Samurai Superheavy Superheavy Samurai Stealth Ninja (anime) 超重忍者シノビ－Ａ・Ｃ Superheavy Ninja Shinobi-AC Ninja Superheavy Samurai Superheavy Superheavy Samurai Steam Train King (anime) 超重蒸鬼テツドウ－Ｏ Superheavy Steam Oni Tetsudo-O Superheavy Samurai Superheavy Superheavy Samurai Ward Chief Heavystrong 超重武神フドウミョウ－Ｏ Superheavy War God Fudomyo-O Superheavy Samurai Superheavy Superheavy Samurai Warlord Susanowo (anime) 超重荒神スサノ－Ｏ Superheavy Koujin Susano-O Superheavy Samurai Superheavy 
+ See also 
+ Archetype-exclusion condition 
+ Name condition 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/0a/AxeofDespair-BP02-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20130705173554']
+Categories: Gameplay

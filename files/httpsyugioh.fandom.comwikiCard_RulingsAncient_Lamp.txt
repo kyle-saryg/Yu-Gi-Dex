@@ -1,0 +1,77 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Ancient_Lamp
+
+
+ Ancient Lamp 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Anime Manga Yu-Gi-Oh! Destiny Board Traveler 
+ 
+ Contents 
+ 
+ 1   OCG Rulings 
+ 2   Previously Official Rulings 
+ 
+ 2.1   Mentions in Other Rulings 
+ 
+ 
+ 3   References 
+ 
+ 
+ OCG Rulings 
+ Damage inflicted by " Armory Arm " is inflicted to the opponent of the controller of " Armory Arm ".  When the equipped monster attacks and destroys your own monster because of " Ancient Lamp ", then " Armory Arm " will still inflict damage to your opponent. [1] 
+ When this card is flipped face-up by an opponent's attack, the effect activates (and starts a  Chain ). [2] 
+ You can only Special Summon a " La Jinn the Mystical Genie of the Lamp " from your hand. [2] 
+ The effect which Special Summons " La Jinn the Mystical Genie of the Lamp " is an  Ignition Effect  which can only be activated during your Main Phase, and can only be used by the controller of " Ancient Lamp " [3] 
+ If " Drillroid " attacks a face-down " Ancient Lamp ", then the effect of " Drillroid " activates as the first link in the Chain, and then the effect of " Ancient Lamp " activates.  Resolving backwards, you first resolve the effect of " Ancient Lamp ".  The effect of " Ancient Lamp " makes you perform  damage calculation , so the effect of " Drillroid " cannot destroy " Ancient Lamp ". [4] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [5]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [6] [7] [8] [9] [10] [11] [12] [13] [14] 
+ 
+ Mentions in Other Rulings 
+ Neo-Spacian Glow Moss : If a monster attacks a face-down " Ancient Lamp ", and " Ancient Lamp " re-directs the  attack  to " Neo-Spacian Glow Moss ", the effect of " Neo-Spacian Glow Moss " will not activate, because the effect of " Ancient Lamp " causes it to  miss the timing . 
+ Shield Warrior : If a monster you control is forced to battle another  monster  you control by the effect of your opponent's " Ancient Lamp ", when you activate " Shield Warrior 's" effect during  damage calculation , both of your monsters are not  destroyed . 
+ 
+ 
+ 
+ References 
+ 
+ ↑   Konami FAQ : When your monster equipped with "Armory Arm" destroys your own monster by battle, does either player take damage? 
+ 
+ ↑  2.0   2.1   Konami FAQ : Effect Monster > Ancient Lamp 
+ 
+ ↑   Konami FAQ : When your opponent controls "Ancient Lamp", can you Special Summon "La Jinn the Mystical Genie of the Lamp"? 
+ 
+ ↑   Konami FAQ : If "Drillroid" attacks a face-down "Ancient Lamp", then how do you resolve the effects? 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

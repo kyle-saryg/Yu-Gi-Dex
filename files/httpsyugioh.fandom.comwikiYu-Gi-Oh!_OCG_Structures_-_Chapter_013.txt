@@ -1,0 +1,128 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_OCG_Structures_-_Chapter_013
+
+
+ 
+ Yu-Gi-Oh! OCG Structures - Chapter 013
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kanji
+ 
+ 
+ 堕 天 使 威 ＶＳ サイコ・ショッカー
+ 
+ 
+ 
+ Japanese translation
+ 
+ 
+ Fallen Angel VS Psycho Shocker
+ 
+ 
+ 
+ Number
+ 
+ 
+ 13
+ 
+ 
+ 
+ Release date(s)
+ 
+ 
+  June 20, 2020 
+ 
+ 
+ Chapter listing
+ 
+ Yu-Gi-Oh! OCG Structures chapter listing 
+ 
+ 
+ Previous
+ 
+ Team Battle 
+ 
+ 
+ Next
+ 
+ A Duel You Cannot Lose 
+ 
+ "Fallen Angel VS Psycho Shocker"  is the thirteenth chapter of the  Yu-Gi-Oh! OCG Structures .
+ 
+ 
+ Contents 
+ 
+ 1   Summary 
+ 2   Featured Duel: Light Tsukiko vs. Ms. Guide 
+ 3   Featured cards 
+ 4   Trivia 
+ 
+ 
+ Summary 
+ Featured Duel: Light Tsukiko vs. Ms. Guide 
+ Turn 2: Light Tsukiko 
+Light Tsukiko plays " Cosmos Channelling "  Continuous Spell Card , by sending " Darklord Ixchel " to the  GY . The effect allows her to  Special Summon  " Jinzo " from her GY in  Attack Position . She then  sets  a card. Light Tsukiko's  hand  contains " Armageddon Knight ".
+ Turn 3: Miss Guide 
+During Miss Guide's  Draw Phase , Light Tsukiko activates the effect of "Cosmos Channeling", declaring that the drawn card was a monster. Miss Guide reveals the drawn card to be " Darklord Ukoback ", and since Light Tsukiko guessed correctly, she sends "Cosmos Channeling" to the GY to  draw a card . Miss Guide  Normal Summons  "Ukoback" ( Level  3/700/1000), then uses its effect to send " Darklord Uprising " from her  Deck  to the GY. Next, she uses "Ukoback" and "Superbia" to  Link Summon  " Condemned Darklord " (1600/ Link -2/↙↘). She plays its effect to discard " Darklord Nasten " from her hand to add " Darklord Morningstar " from her Deck to her hand.
+ Miss Guide uses the effect of " Darklord Amdusc " in her hand, discarding it and a "Darklord" card (she chooses " Darklord Tezcatlipoca ") to add "Darklord Contact" from her GY, then activates it to Special Summon "Superbia" from her GY in  Defense Position . Its effect lets Miss Guide Special Summon "Tezcatlipoca" from her GY in Attack Position (Level 9/2800/2100). She plays its effect,  paying  1000 LP (Miss Guide: 8000 → 7000 LP) to activate the effect of " Darklord Contact "  Normal Spell Card  in her GY. This lets her Special Summon "Ixchel" in her GY, but "Darklord Contact" is then shuffled into her Deck. Ms. Guide then activates the effect of "Ixchel", paying 1000  LP  to use an effect of  Spell Card  in her GY. She targets "Darklord Uprising"  Normal Trap Card  (Ms. Guide: 7000 → 6000 LP), which lets her  Fusion Summon  one "Darklord" monster.
+ Using "Morningstar" in her hand, along with "Ixchel" and "Superbia" on her field as  Fusion Materials , Ms. Guide Fusion Summons "The First Darklord" (Level 12/4000/4000) in Attack Position. The effect of "Ixchel" causes the used "Darklord Uprising" in the GY to be shuffled into the Deck. The effect of Fusion Summoned "The First Darklord" (which used "Darklord Morningstar" as material) lets Ms. Guide destroy all of Light Tsukiko's monsters, but Light Tsukiko activates her set card, " Everlasting Alloy "  Quick-Play Spell Card , which protects her "Jinzo" monsters from being  destroyed  by card effects. Regardless, "The First Darklord" attacks "Jinzo", while "Darklord Tezcatlipoca" attacks " Jinzo - Layered " and "Condemned Darklord" attacks Light Tsukiko directly (Light Tsukiko: 8000 → 6400 → 6000 → 4400 LP). During the  End Phase  of her turn, Ms. Guide plays the effect of "Condemned Darklord", gaining 500 LP for each  Fairy  monster on her field (Ms. Guide: 6000 → 7500 LP).
+ Turn 4: Light Tsukiko 
+Ms. Guide activates the  Quick Effect  of "The First Darklord": she Special Summons "Superbia" from her GY by paying 1000 LP (Ms. Guide: 7500 → 6500 LP). The effect of "Superbia" lets her Special Summon "Ukoback", whose effect is triggered: upon Special Summoned from the GY, Ms. Guide is allowed to send " Darklord Rebellion " from her Deck to the GY. Light Tsukiko Normal Summons " Armageddon Knight " (Level 4/1400/1200), whose effect lets her send a  DARK  monster from her Deck to the GY. She sends " Jinzo - Returner ", whose effect lets her Special Summon "Jinzo - Jector" from her GY in Attack Position, its name being treated as "Jinzo". Ms. Guide plays the Quick Effect of "Tezcatlipoca", paying 1000 LP to activate a Spell Card in her GY. She targets "Darklord Rebellion" Normal Trap Card, whose effect can target "Jinzo - Jector" and destroy it (Ms. Guide: 6500 → 5500 LP).
+ Light Tsukiko chains the effect with " Inferno Reckless Summon ": as "Jinzo - Jector" has been Special Summoned, yet has less than 1500  ATK , it allows Light Tsukiko to Special Summon three "Jinzo" monsters from her Deck and GY (since "Jinzo - Jector" has the effect to let it be treated as "Jinzo"). The other effect of "Inferno Reckless Summon" lets Ms. Guide Special Summon a monster of her own choosing, which shares the name with one of her own monsters on the field: she chooses "Darklord Superbia". Due to the effect of "Tezcatlipoca" (who copied the effect of "Darklord Rebellion), Ms. Guide destroys one of the "Jinzo", while "Darklord Rebellion" is shuffled into her Deck. Light Tsukiko then tributes "Jinzo - Jector" to add " Jinzo the Machine Menace ", then, as Ms. Guide has " Darklord Descent "  Trap Card  in her GY, Light Tsukiko Special Summons "The Menacing Machine" in Attack Position.
+ "Jinzo the Machine Menace" attacks "The First Darklord", but Light Tsukiko also plays " Limiter Removal " Quick-Play Spell Card to double the ATK of all her  Machine  monsters ("Jinzo": 2400 → 4800 ATK; "Jinzo the Machine Menace": 2400 → 4800 ATK). "The First Darklord" is destroyed (Ms. Guide: 5500 → 4700 LP), then the two other "Jinzo" attack and destroy "Darklord Tezcatlipoca" and "Condemned Darklord" (Ms. Guide: 4700 → 2700 → 0 LP).
+ 
+ Featured cards 
+ The following cards appeared in this chapter. Cards in italics debuted here.
+ 
+ 
+ Light Tsukiko Monsters   
+ Effect Monsters 
+ Armageddon Knight 
+ Black Potan 
+ Jinzo the Machine Menace  x2 
+ Jinzo  x3 
+ Jinzo - Returner 
+ Jinzo - Jector 
+ White Potan Extra Deck   
+ Xyz Monsters 
+ Jinzo - Layered Spells   &  Traps   
+ Spells 
+ Cosmos Channelling 
+ Everlasting Alloy 
+ Inferno Reckless Summon 
+ Limiter Removal 
+ 
+ Ms. Guide Monsters   
+ Effect Monsters 
+ Darklord Amdusc 
+ Darklord Ixchel 
+ Darklord Morningstar 
+ Darklord Superbia  x2 
+ Darklord Tezcatlipoca 
+ Darklord Ukoback Extra Deck   
+ Fusion Monsters 
+ The First Darklord 
+ Link Monsters 
+ Condemned Darklord Spells   &  Traps   
+ Spells 
+ Darklord Contact 
+ Traps 
+ Darklord Descent 
+ Darklord Rebellion 
+ Darklord Uprising 
+ Trivia 
+ Light Tsukiko's face that has the veins bursted out resembles that of  Lyman Banner , who was acting as Amnael. 
+ v e 
+ Yu-Gi-Oh! OCG Structures   chapters 
+ #001 " Struct Start!! " #002 " Tenyi VS Simorgh " #003 " Light and Dark " #004 " Tenyi vs Mathmech " #005 " The Four Kings Assemble!! " #006 " God Phoenix vs Thunder Dragon " #007 " Duel Date!? " #008 " God Phoenix VS Declarer " #009 " Ageha's True Skills " #010 " The New Master Rules " #011 " Knight Gaia vs Adamancipator " #012 " Team Battle " #013 " Fallen Angel VS Psycho Shocker " #014 " A Duel You Cannot Lose " #015 " Pressure...!! " #016 " Virtual World VS Eldlich " #017 " ? " #018 " ? " #019 " ? " #020 " ? " 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/95/OCG_Structures_013.png/revision/latest/scale-to-width-down/300?cb=20201127173824', 'https://static.wikia.nocookie.net/yugioh/images/9/9e/Flag_of_Japan.svg/revision/latest/scale-to-width-down/20?cb=20081119225453']
+Categories: Yu-Gi-Oh! OCG Structures chapters

@@ -1,0 +1,657 @@
+Link: https://yugioh.fandom.com/wiki/Banish
+
+
+ 
+ Banish
+ 
+ 
+ 
+ Various "Gem-Knight" monsters banished by "Fragment Fusion" in Yu-Gi-Oh! ARC-V
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 除 外 
+Formerly: ゲームから 取 り 除 く, then ゲームから 除 外 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ じょがい 
+Formerly: ゲームからとりのぞく, then ゲームからじょがい
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 除外 
+Formerly: ゲームから取り除く, then ゲームから除外
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ jogai 
+Formerly: gēmu kara torinozoku, then gēmu kara jogai
+ 
+ 
+ 
+ Japanese (translated)
+ 
+ 
+ exclude 
+Formerly: remove from the game, then exclude from the game
+ 
+ 
+ 
+ English
+ 
+ 
+ banish 
+Formerly: remove from play
+ 
+ 
+ 
+ English (anime)
+ 
+ 
+ remove from the game
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : bannir 
+ Formerly: retirer du jeu
+ 
+ German : verbannen 
+ Formerly: aus dem Spiel entfernen
+ 
+ Italian : bandire 
+ Formerly: rimuovere dal gioco
+ 
+ Portuguese : banir 
+ Formerly: remover de jogo
+ 
+ Spanish : desterrar 
+ Formerly: retirar del juego
+ 
+ Korean : 제외 (除外)  je-oe 
+ Formerly: 게임에서 제거 (game ?? 除去 ??)  geim-eseon jegeo , then 게임에서 제외 (game ?? 除外)  geim-eseon je-oe 
+ 
+ Traditional Chinese : 從遊戲中除外  cóng yóuxì zhōng chúwài / cung4 jau4 hei3 zung1 ceoi4 ngoi6 
+ Formerly: 從遊戲中移除  cóng yóuxì zhōng yíchú / cung4 jau4 hei3 zung1 ji4 ceoi4 
+ 
+ 
+ 
+ Banish  (Japanese:  除 外   Jogai , lit. "exclude"), known as  remove from play  prior to the  Problem-Solving Card Text , is a term used to describe the act of putting a card away from the game. Banished cards are not in any particular  zone . Cards can only be banished by a card that uses the word "Banish" (or older terms).
+ Because banished cards are not in any particular  zone , a player can place their banished cards anywhere in the play area that is not a zone. They are typically placed either above or to the right of the  Graveyard Zone , or just under the field (directly in front of the player). Most video games place it to the right or above of the Graveyard.
+ 
+ Contents 
+ 
+ 1   Mechanics 
+ 
+ 1.1   Banishing Face-down 
+ 
+ 
+ 2   Temporary Banish 
+ 
+ 2.1   Info on cards affected by Temporary Banish 
+ 
+ 2.1.1   Info lost 
+ 2.1.2   Info not lost 
+ 
+ 2.1.2.1   Monster cards 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3   History 
+ 4   Deck theme 
+ 5   Anime 
+ 6   References 
+ 
+ 
+ Mechanics 
+ 
+ Banishing a card(s) causes them to  leave the field , and is stacked  face-up  (by default, unless stated otherwise) in a special pile outside the playing field. These face-up cards, and the total number of Banished cards are  Public knowledge . Banishing a card also does not specify the place the card(s) will end up.
+ If a Token Monster(s) would be banished, it simply disappears, and is not stacked with banished cards.
+ Banished cards cannot be  destroyed .  Returning  a banished card to the  Graveyard  is not considered to be  sending  that card to the Graveyard, and can be done even if a card like " Dimensional Fissure " is active.
+ 
+ Banishing Face-down 
+ Main article:  Banishes face-down 
+ In addition to normal face-up banishes, several cards can banish cards face-down. Cards banished face-down are not public knowledge, and any of its properties cannot be specified.
+ Cards banished face-down can only be looked at by its  possessor , but the number of banished face-down cards owned by either player is still public knowledge. They are also unaffected by cards that specify properties of the banished card, other than the card that banished it.
+ Token Monsters cannot be banished face-down, and cannot be targeted with such Effects.
+ If a card is banished face-down, it cannot activate its own " Leaves the field " effect.
+ 
+ Temporary Banish 
+ A Temporary banish can be identified with a timing statement directly behind the word "banish", telling when to return the card. Returning a banished card(s) to the field does not start a chain.
+ If a temporarily banished card will not be able to return to the field, due to having no appropriate open zone to place in, or is prevented (such as by " Prohibition "), then it will be placed in the Graveyard when it would return. 
+ If a card  controlled  by a player that is not its  owner  is temporarily banished by a card like " Interdimensional Matter Transporter ", it will be in the  owner's   possession , but it will return to the player who control it when it was banished. However, if the effect that gave temporary control of that card to the opponent is no longer active, it will then return to the original owner. [1] 
+ If a card would be banished when it leaves the field is temporarily banished by another card effect, it will not return to the field when it should.
+ If an effect that banishes temporarily targets a face-down card, the target will be banished face-down, and will return to the field face-down.
+ 
+ Info on cards affected by Temporary Banish 
+ When a card stops being face-up, in this case, because of being temporarily banished, it will lose some specific information/applications on it. [2] 
+ 
+ Info lost 
+ Whether if it was placed on the field by specific method or not ( Special Summoned  by certain effect, Tributing a certain monster for  Tribute Summon , etc). 
+ Any previously applied effects. 
+ Info not lost 
+ Monster cards 
+ Material used for its Summon. 
+ Its time of Summon. 
+ Its place before being Summoned. 
+ History 
+ Originally, there were few cards which could banish other cards (called "remove from play" at the time), with some of the first being " Soul Release " and " Banisher of the Light ". The first card to recover banished cards was " Miracle Dig ".
+ However, over time, banishing cards has become a popular theme with several cards to go with it (such as  Chaos  and " D.D. " cards). In turn, more cards were created to bring banished cards back, including " D.D.M. - Different Dimension Master ", " Dimension Fusion ", " Dimension Explosion ", " Burial from a Different Dimension ", and " Leviair the Sea Dragon ".
+ In the  Problem-Solving Card Text  update, "remove from play" was renamed "banish". This was both to make card text easier to understand and to distinguish it from the similarly-named "removed from the field", which was renamed " leaves the field " in the same update for this reason. [3] 
+ Thematically, cards which banish tend to either imply that the card's soul is being removed (e.g. " Kycoo the Ghost Destroyer ", " Bazoo the Soul-Eater ") or are sent to another dimension (e.g. the " D.D. "  series ).
+ While the location that banished cards are placed does not have an official name, official sources occasionally refer to it as the Banished Zone [4]  or banished pile [5]  (removed zone [6]  or removed from play pile [7]  prior to the Problem-Solving Card Text update), despite it not being a  zone . These terms are never used in  card texts  or official ruling materials; cards in this location are simply referred to as "banished cards".
+ 
+ Deck theme 
+ Main article:  Macro 
+ Since many Decks rely on the Graveyard, Decks that rely on the effects of " Dimensional Fissure ", " Macro Cosmos ", " Banisher of the Light ", and " Banisher of the Radiance " have grown in power. Being able to shut down an opponents Graveyard plus having " D.D. Survivor ", an 1800  ATK  monster that keeps returning every time it's banished while face-up, have shown themselves to be powerful Decks. " D.D. Scout Plane " is also incredibly useful in these Decks: if it is banished from your hand or Deck, it will be  Special Summoned . The main weakness of these Decks is the fact that it is not difficult to remove the card that banishes other cards, and cards like " Imperial Iron Wall " and " Chaos Hunter " counter such Decks with ease.
+ Structure Deck: Advent of the Emperor / The Dark Emperor Structure Deck  revolves around banishing.
+ 
+ Anime 
+ In  Yu-Gi-Oh! , if a  Duel Disk  is connected to a  Dueling Arena , the banished cards were put where the  Graveyard Zone  of the Dueling Arena is. If not, the banished cards were placed in the Duelist's pockets.
+ In  Yu-Gi-Oh! 5D's , cards being banished are depicted as being sucked into a black vortex.
+ In  Yu-Gi-Oh! ZEXAL , monsters being banished or Special Summoned while banished sometimes enter in and emerge from portals identical to the Graveyard's one, but green.
+ In  Yu-Gi-Oh! ARC-V , cards banished from the Graveyard disintegrate with a vortex, cards banished from the field disintegrate and scatter, and cards banished from the hand disintegrate into a purple sphere. However, it is unclear where these cards are kept in a duel disk.
+ In  Yu-Gi-Oh! VRAINS , cards banished from the GY are disintegrated within a high-tech-appearing vortex interface.
+ 
+ References 
+ 
+ ↑   
+ Konami.  Yu-Gi-Oh! Official Card Game - Perfect Rulebook 2015 . p. 45 .  https://ygorganization.com/perfectrulebook/ . 
+ 
+ ↑   https://ygorganization.com/learnrulingspart13/ 
+ 
+ ↑   Tewart, Kevin  (May 23, 2011).  "Problem-Solving Card Text, Part 2: New Words & Phrases" .  Konami .  https://yugiohblog.konami.com/articles/?p=2915 . Retrieved July 28, 2011 . 
+ 
+ ↑   YCS Mexico City: Top 8 Feature Match: Ismael Campos Altamirano vs. Salvador Molina Ochoa 
+ 
+ ↑   Yu-Gi-Oh! TRADING CARD GAME » Round 5 Feature Match: Astro Marc Hahn vs. Botanist Willie Newsome 
+ 
+ ↑   Public Event Prize Card Playoffs Semifinal: Jack Hoyt VS Matthew Abrams 
+ 
+ ↑   Yu-Gi-Oh! TRADING CARD GAME » Round 6 Feature Match: William Erker vs. David Sanville 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e1/BanishedGemKnights.png/revision/latest/scale-to-width-down/300?cb=20141214153720', 'https://static.wikia.nocookie.net/yugioh/images/6/6f/DimensionalPrison-SDCR-EN-C-1E.png/revision/latest/scale-to-width-down/150?cb=20140208125107']
+Categories: Gameplay

@@ -1,0 +1,108 @@
+Link: https://yugioh.fandom.com/wiki/Han-Shi_Kyudo_Spirit
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Han-Shi Kyudo Spirit キュウドウ 魂   ＨＡＮ–ＳＨＩ 
+ 
+ English 
+Han-Shi Kyudo Spirit 
+ Japanese (kana) 
+ キュウドウスピリット ハンシ Check translation 
+ Japanese (base) 
+ キュウドウ魂 ＨＡＮ–ＳＨＩ Check translation 
+ Japanese ( rōmaji ) 
+Kyūdō Supiritto Han-Shi 
+ Card type 
+ Monster   
+ Attribute 
+ WIND   
+ Types 
+ Warrior  /  Pendulum  /  Spirit  /  Effect 
+ Level 
+ 5   
+ Pendulum Scale 
+   9 
+ ATK  /  DEF 
+ 2400  /  1000 
+ Passcode 
+ 53270092 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Pendulum Effect : If a  monster(s)  is  Pendulum Summoned :  Return  this card to the  hand . Monster Effect : When this card is  Normal Summoned : You can  return  as many of your cards in the same  columns  as your cards in the  Pendulum Zone  as possible to the  hand , then you can  add  1 monster with 2400  ATK /1000  DEF  from your  Deck  to your hand, except "Han-Shi Kyudo Spirit".  Once per turn , during the  End Phase , if this card was Normal Summoned or  flipped   face-up  this  turn : Return it to the hand. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Ｐ 効 果 
+ ①：フィールドにモンスターが Ｐ 召喚された場合に発動する。このカードを持ち主の手札に戻す。 
+ モンスターの 効 果 
+   ①：このカードが召喚に成功した時に発動できる。自分の Ｐ ゾーンのカードと同じ縦列の自分のカードを全て持ち主の手札に戻す。その後、デッキから「キュウドウ 魂   ＨＡＮ–ＳＨＩ 」以外の攻撃力２４００／守備力１０００のモンスター１体を手札に加える事ができる。②：このカードが召喚・リバースしたターンのエンドフェイズに発動する。このカードを持ち主の手札に戻す。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-07-16 DABL-JP032 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Martial Arts Spirit 
+ 
+ Actions  
+ Returns itself from field to hand 
+ Activates upon Normal Summon 
+ Activates upon Pendulum Summon 
+ Adds from Deck to hand 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17787 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Martial Arts Spirit Members 
+ Han-Shi Kyudo Spirit Kai-Den Kendo Spirit Kuro-Obi Karate Spirit Yoko-Zuna Sumo Spirit 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/03/HanShiKyudoSpirit-DABL-JP-C.png/revision/latest/scale-to-width-down/300?cb=20220718230750', 'https://static.wikia.nocookie.net/yugioh/images/0/01/WIND.svg/revision/latest/scale-to-width-down/28?cb=20170920205028', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

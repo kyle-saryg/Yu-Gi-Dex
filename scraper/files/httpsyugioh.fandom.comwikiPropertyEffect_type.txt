@@ -1,0 +1,11 @@
+Link: https://yugioh.fandom.com/wiki/Property:Effect_type
+
+This property stores all effect types of cards as  page  values. Unlike  Property:Effect types , it only lists one instance of each effect type.
+ 
+ 
+ Contents:      Top    ·    0–9    ·    A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z 
+ 
+ 
+ 
+ 
+Categories:

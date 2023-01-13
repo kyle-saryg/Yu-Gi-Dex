@@ -1,0 +1,737 @@
+Link: https://yugioh.fandom.com/wiki/File:GogogoGolem-SP14-EN-C-1E.png
+
+
+ 
+ Xyz Summon
+ 
+ 
+ 
+ An Xyz Summon in Yu-Gi-Oh! VRAINS
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ Ｘ 召 喚 [Notes 1] 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ エクシーズしょうかん
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ Ｘ召喚
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Ekushīzu Shōkan
+ 
+ 
+ 
+ English
+ 
+ 
+ Xyz Summon
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Invocation Xyz Verb: Invoquer par Xyz 
+ German : Xyz-Beschwörung Verb: beschwören als Xyz-Beschwörung 
+ Italian : Evocazione Xyz Verb: Evocare Xyz 
+ Portuguese : Invocação-Xyz Verb: Invocar por Invocação-Xyz 
+ Spanish : Invocación Xyz Verb: Invocar Xyz 
+ Korean : 엑시즈 소환 (Xyz 召喚)  Eksijeu Sohwan 
+ Traditional Chinese : 超量召喚  Chāoliàng Zhàohuàn / Ciu1 leong6 Ziu6 wun6  (Exceeding Summon) 
+ Simplified Chinese : 超量召唤  Chāoliàng Zhàohuàn 
+ 
+ 
+ An  Xyz Summon  (pronounced ik-seez [1] ) (エクシーズ 召 喚   Ekushīzu Shōkan ; usually abbreviated  Ｘ 召 喚  since  Duelist Alliance ) is the act of  Special Summoning  an  Xyz Monster  from the  Extra Deck  by overlaying at least 2 monsters with the same  Level .
+ 
+ Contents 
+ 
+ 1   How to Xyz Summon 
+ 2   Example 
+ 3   Advanced rulings 
+ 4   Alternate methods 
+ 5   Anime 
+ 6   Trivia 
+ 7   See also 
+ 8   Notes 
+ 9   References 
+ 
+ 
+ How to Xyz Summon 
+ During their  Main Phase , the  turn player  can Xyz Summon an  Xyz Monster  from their  Extra Deck  by vertically stacking two (or more, if required/possible)  face-up  monsters with the same  Level  as the Xyz Monster's  Rank , that are listed on it as  Xyz Materials . After that, the player Summons the Xyz Monster from the Extra Deck in face-up  Attack  or  Defense Position  to an unoccupied  Main Monster Zone  or an  Extra Monster Zone , placing it on top of the stacked Xyz Materials.  The Materials used are  attached  (stacking) under the Xyz Monster, until later  detached  by Card  Effects .
+ Monsters that do not have Levels, such as Xyz Monsters and Link Monsters, cannot normally be used as Xyz Materials for an Xyz Summon, unless played otherwise.
+ Even if all appropriate Monster Zones are occupied, an Xyz Monster can still be Xyz Summoned as long as at least one of the Xyz Materials used is in one of these Zones, so that there is an available Zone when the Xyz Monster is Summoned.
+ 
+ Example 
+ A  Level 4  monster (" Gagaga Magician ") + A Level 4 monster (" Gogogo Golem ") = A Rank 4 Xyz Monster, with two Materials  attached  (" Number 39: Utopia ") 
+ Advanced rulings 
+ An Xyz Summon is a kind of  built-in Special Summon , like  Contact Fusion ,  Pendulum Summon ,  Synchro Summon  or the Special Summon of a monster like " Black Luster Soldier - Envoy of the Beginning ", therefore it does not start a  Chain . 
+ Xyz Monsters frequently have effects that require you to remove an Xyz Material(s) from beneath it, known as  detaching . When this happens, take the necessary Xyz Materials, and put them in the Graveyard. 
+ Xyz Materials currently  attached  to an Xyz Monster are neither treated as  monsters , nor treated as being on the field.
+ If "Dimensional Fissure" is active, all cards detached from Xyz Monsters will be placed in the Graveyard and not banished, even if that card is originally a Monster card. 
+ Trap Monsters  and  Pseudo-Trap Monsters  can be used as Xyz Materials. 
+ Tokens  cannot be used as Xyz Materials, as Tokens cannot be in any state other than being on the field. 
+ The  battle positions  of the monsters to be used as Xyz Material does not matter as long as they are in face-up position. However, once you have Xyz Summoned your Xyz Monster, ensure that the entire stack is neatly aligned in face-up Attack Position, regardless of which  Battle position  the Xyz Monster is currently in. 
+ An Xyz Monster Special Summoned via any means other than an Xyz Summon will not have any Xyz Materials (unless given to it by a card effect, such as " Xyz Reborn "). 
+ If an Xyz Monster  leaves the field  or otherwise ceases to be a monster (such as being treated as an  Equip Card  by " Destiny HERO - Plasma ", or being treated as an Xyz Material by the effect of " Number 101: Silent Honor ARK " or for the Xyz Summon of " Number F0: Utopic Future "), its Xyz Materials are sent to the Graveyard, unless the card effect says otherwise, such as those of the " Rank-Up-Magic " archetype. 
+ If an Xyz Monster is flipped  face-down , its Xyz Materials remain attached to it. 
+ If a card effect banishes all cards that would be sent to the Graveyard (such as " Macro Cosmos " or " Banisher of the Radiance "), then when an Xyz Monster leaves the field, its Xyz Materials will be banished. An Xyz Monster can still detach its Materials while such an effect is active; the Xyz Materials will be banished instead of being sent to the Graveyard. 
+ Alternate methods 
+ Apart from the basic method of performing an Xyz Summon outlined above, certain cards allow the controller to perform an Xyz Summon outside of its parameters. Usually through " Rank-Up-Magic " cards or " Xyz Evolution ".
+ 
+ See list  Performs an Xyz Summon . 
+ Anime 
+         A normal Xyz Summon in  ZEXAL .     
+ In the anime, using monsters to perform an Xyz Summon is known as  overlaying  them. 
+ When an Xyz Summon is performed, the Xyz Materials then turn into forms of energy whose colors match their Attributes (Spell Cards being used as Xyz Material become green) before shooting into the air, sometimes spiraling around each other. A red-colored spiral portal known as an  Overlay Network  then appears, and the energy forms enter the portal. The newly Summoned Xyz Monster then emerges from the portal, its Xyz Materials, now colored in accordance with its Attribute, orbiting around it. The emergence from the portal differs between  Yu-Gi-Oh! ZEXAL  and  Yu-Gi-Oh! ARC-V ; in  ZEXAL , the portal twists shut and explodes with light; in  ARC-V  a column of blue energy emerges from the portal (although the color of the energy is different for some monsters, such as " Odd-Eyes Raging Dragon " for which red energy emerged).
+ Certain monsters, especially " Number " monsters, may have unique or specially designed Overlay Networks of a different color or shape. The idea of a spiral-shaped portal is derived from Konami's statement that Xyz Monsters entered our universe through a black hole. However, in  Yu-Gi-Oh! ARC-V , all Xyz Summons used the galaxy-style spiral portal used largely by "Number" cards from  Yu-Gi-Oh! ZEXAL .
+ In the  Yu-Gi-Oh! ARC-V  anime, an Xyz Summon performed using monsters that have been  Pendulum Summoned  is referred to as a "Pendulum-Xyz Summon".
+ Shay Obsidian  also refers to an Xyz Summon performed using an Xyz Monster and a non-Xyz Monster as materials as a " Cross Xyz Summon ".
+ In  Yu-Gi-Oh! VRAINS  when a Duelist declares an overlay during a  Speed Duel , they will first hold out both their arms (palms flat and facing downward) while declaring the Levels and names of the Xyz Materials, before placing their hands over one another, seemingly to represent stacking the cards on top of one another, before the Overlay Network appears behind them rather than in front of them like in previous spin-offs. The Xyz Materials become data and enter nodes on the Overlay Network (similar to the Arrowhead portal when performing a  Link Summon ). Once they are set, energy flows in four beams past the Duelist creating a portal in front of them from which the newly formed Xyz Monster emerges. During a  Master Duel  the Overlay Network appears underneath the selected materials and the portal from which the Xyz Monster emerges appears above the Duelist.
+ Theodore Hamilton  introduces a new type of Xyz Summon called "Reincarnation Xyz Summon" which works similar to his " Reincarnation Link Summon " in that he can summon an Xyz Monster using a copy with the same name.
+ 
+ Xyz Summon in  Yu-Gi-Oh! ZEXAL ... in  Yu-Gi-Oh! ARC-V ... in  Yu-Gi-Oh! VRAINS 
+ Trivia 
+ When Xyz Summons were revealed in the  OCG , they were at first mistranslated as "Exceed Summons" by fans. This was likely because "Xyz" is not an actual word and has no immediately obvious pronunciation. The word "Exceed" was likely the closest English equivalent to the Japanese エクシーズ  Ekushīzu .
+ This term has fallen into official use in the Chinese  OCG , where the term for "Xyz" is 超量  Chāoliàng  or literally "Exceeding". This could also be due in part to the Chinese language having no phonetic script for easy transliteration, forcing developers to adopt an equivalent, translatable term. 
+ See also 
+ Xyz Evolution 
+ Rank-Up 
+ Rank-Down 
+ Notes 
+ 
+ ↑   The frequently used abbreviated form. Simply substitute the furigana with the Latin letters for the full form. 
+ 
+ 
+ References 
+ 
+ ↑   "Starter Deck: Dawn of the Xyz" .  Konami .  http://www.yugioh-card.com/en/products/starter2011.html . 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ v e 
+ Yu-Gi-Oh! ZEXAL Anime 
+ Anime 
+ Characters 
+ Season 1 
+ Season 2 
+ DVDs 
+ Special episodes
+ 1 
+ 2 
+ Manga 
+ Manga 
+ Characters 
+ Chapters 
+ Special chapter 
+ Spin-off manga 
+ Chapters 
+ Arcs 
+ Pre-World Duel Carnival 
+ World Duel Carnival Preliminaries 
+ World Duel Carnival Finals 
+ Barian Invasion 
+ Mythyrian Number War 
+ Barian Emperor Onslaught 
+ Video games 
+ Duel Terminals 
+ Xyz Startup!! 
+ Sacred Star Knights!! 
+ Ouroboros, Wicked Dragon of Destruction!! 
+ Yu-Gi-Oh! ZEXAL World Duel Carnival (Yu-Gi-Oh! ZEXAL Clash! Duel Carnival!) 
+ Duel Terms 
+ Augmented Reality Duel 
+ Basket Rule (Vegetable Death Match) 
+ Duel Field 
+ Dueling Team  (manga) 
+ Overlay Network 
+ Rank-Down 
+ Rank-Up 
+ Speed Duel  (manga) 
+ Statue Duel 
+ Xyz Evolution (Xyz Change) 
+ Xyz Material (Overlay Unit) 
+ Xyz Monster 
+ Xyz Summon 
+ Items 
+ Astrite 
+ Baria Crystal (Variarite) 
+ Barian Emblem (Varian Emblem) 
+ Don Thousand's Emblem 
+ Emperor's Key 
+ Heart Piece 
+ Kastle twins' rings 
+ King's Coin (Conqueror's Coin) 
+ Misconduct Card 
+ Numbers 
+ Barian Number (Fake Number) 
+ Mythyrian Number (Legendary Numbers) 
+ Number C 
+ Number 10X 
+ Number C10X 
+ Numeron Code 
+ Stanley's sketchbook 
+ The Door 
+ Technology 
+ Baria Crystal (Varia Lapis) 
+ Barian Sphere Cube (Varian's Sphere Cube) 
+ Crashbug Virus (Bugman Virus) 
+ D-Network  (manga) 
+ Different Dimension Airship 
+ Fusionizer 
+ Dimensional Transporter 
+ Digital Stone  (manga) 
+ Duel Disk (D-Pad) 
+ Duel Coaster 
+ Duel Gazer (D-Gazer) 
+ Orbital 
+ Sphere Field 
+ Abilities 
+ Barian Battlemorph (Variarphose) 
+ Chaos Draw (Varian's Chaos Draw) 
+ Barian Pipe 
+ Chaos 
+ Crest 
+ Duel Anchor 
+ Energy ball 
+ Photon Hand (ability) 
+ Photon Transformation (Photon Change) 
+ Shining Draw 
+ ZEXAL 
+ Dark ZEXAL 
+ ZEXAL II 
+ ZEXAL III 
+ Shining Evolution (Re-Contract Universe) 
+ Tournaments 
+ Asia Duelist Championship 
+ Couples Duel tournament (Couple Duel Tournament) 
+ Duel Monsters Regional Cup  (manga) 
+ Duel Team Carnival  (manga) 
+ Friendship Games (Sports Duel Tournament) 
+ Mini Surf Expert Match 
+ National Duel Circuit 
+ Pro Duelist Spartancity Tournament 
+ T.F.E. Tournament 
+ Team Duel Tournament  (manga) 
+ World Duel Carnival 
+ Groups 
+ Barian (Varian) 
+ Barian Cosmic Crime Unit (Varian's Guardian) 
+ Comic Book Appreciation Club (Manga Research Club) 
+ Fearsome Four of the Dark Dueling World 
+ Floral Design Club (Ikebana Club) 
+ Heartland police 
+ Number holder 
+ Number Guardian 
+ Student Council 
+ Super Secret Number Card Investigation (Numbers Club) 
+ Seven Barian Emperors (Seven Varian Emperors) 
+ Team Air Force 
+ Team Fire Stars 
+ Team lswarm 
+ Team Shark 
+ Team ZEXAL 
+ Triad of Terror (Fallguys) 
+ United Lands of the Poseidon Ocean 
+ Vector's army 
+ Vetrix Family (Tron Family) 
+ Characters' Decks 
+ Kite Tenjo (Kaito Tenjo) 
+ Reginald Kastle (Ryoga Kamishiro) 
+ Yuma Tsukumo 
+ Other 
+ Astral glyphs 
+ Astral World 
+ Barian glyphs (Varian glyphs) 
+ Barian World (Varian World) 
+ Earth 
+ Interdimensional War 
+ Kattobingu 
+ King of Games (King of Duelists) 
+ Legend of the Dragons of Light and Time 
+ Numbers War  (manga) 
+ 
+ Locations 
+ Music 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/23/GagagaMagician-YS13-EN-C-1E.png/revision/latest/scale-to-width-down/127?cb=20130629174144', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/53/GogogoGolem-SP14-EN-C-1E.png/revision/latest/scale-to-width-down/126?cb=20140225155858', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/6a/Number39Utopia-YS13-EN-SR-1E.png/revision/latest/scale-to-width-down/126?cb=20141106204947', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/96/XyzOverlayNetwork.png/revision/latest/scale-to-width-down/200?cb=20130502122510', 'https://static.wikia.nocookie.net/yugioh/images/f/f1/ZEXAL_Xyz.gif/revision/latest/scale-to-width-down/185?cb=20180605011442', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/42/ARC-V_Xyz.gif/revision/latest/scale-to-width-down/185?cb=20180605011454', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/cd/VRAINS_Xyz.png/revision/latest/scale-to-width-down/185?cb=20181219153356', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Types of Summon

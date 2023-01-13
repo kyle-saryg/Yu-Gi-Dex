@@ -1,0 +1,510 @@
+Link: https://yugioh.fandom.com/wiki/Broken
+
+Broken  is a subjective term used to refer to any card or strategy that gives its user an excessive advantage, or a card or strategy that defines the competitive metagame in a negative or imbalanced manner, these cards are often regarded as unhealthy for the game and only have negative effects on it. Most cards that are considered or found broken are usually  Forbidden  or  Limited  shortly afterward, though not necessarily always.
+ In general, the two primary factors for gauging a card or strategy's balance is its  cost  and its consistency. For example, some  FTK  and  OTK  setups can enable their user to instantly  win  the  Duel  without their opponent being able to respond when performed correctly; however, they are very often inconsistent (and leave their user in a highly losing position if failed), making them not broken. (On the other hand, FTK/OTK setups that are discovered to be highly consistent will be deemed broken, and generally their key card(s) made Forbidden or Limited.)
+ It is sometimes the case that existing cards or strategies become retroactively unbalanced due to the release of newer cards or mechanics. Other times, cards or strategies may become broken due to an unexpected and/or unintended interaction with other cards, strategies, or mechanics. An alternate definition of "broken" can refer to cards/strategies that become heavily used outside of their intended design due to an exploitation or loophole in said design, thus "breaking" the design.
+ 
+ 
+ Examples of non-Forbidden cards considered broken 
+ " Mind Control " - When released, was considered a bad/situational card and was  Unlimited  due to a "stolen" opponent's monster being able to do little else other than use its  effects . With the advent of  Synchro Summoning ,  Xyz Summoning , and  Link Summoning , mechanics that the card did not prevent (i.e. loopholes), the usability of the card increased drastically, making it immediately  Limited  due to its newfound power. 
+ " Raigeki " - One of the first cards released very early in the game, where it was difficult to predict how important field presence would be later on. The card was a costless nuke of your opponent's field which immediately gives you an inherent advantage over the opponent. Was one of the first cards included on the banlist and remained there for over 10 years before being limited to 1, and wouldn't come back at 1 in the  OCG  for another 4 years. 
+ " Imperial Order " - Considered broken by both possible definitions due to its intended upkeep  cost  being exploitable to actually make the card much more powerful than it would be without it. As the cost is  optional  and kicks in only at the beginning of the player's turn, and as the card is a  Trap Card  that can be activated during either player's turn, and as  Spell Cards  are almost always used during one's own turn and rarely during the opponent's turn, a user of this card can activate it during the opponent's turn (even in immediate response to a Spell they just played), then  intentionally  not pay the cost and allow the card to self-destruct during their own turn, thus locking the opponent out of all Spells for a turn while not affecting their own Spells at all, with all this at zero cost. The card was eventually taken off the list and given an errata to make the cost mandatory, and therefore, riskier to use, but the card is still Limited as it is a popular side deck option against meta decks that heavily rely on their spell cards. 
+ " Self-Destruct Button " - When released, was considered only useful in an emergency to get out of a hopelessly losing situation with a result not as bad as a loss. However, its effect became abusable in timed tournament Duels, as a player could use this card to legally  stall   Matches  until time ran out, thus completely undermining the intended best-of-3 mechanic and potentially abusing the "sudden death" mechanic to an undesirable degree. This card is  Forbidden  in the  TCG  but  Unlimited  in the  OCG . (For more information, see the  Victory condition  page on tournament time limit mechanics and the "Self-Destruct Button"  Card Tips  page.) 
+ " Called by the Grave " - A  Quick-Play Spell Card  that is usually cited as one of the best counters to floating effects of cards or hand traps, pretty much any card that activates in the graveyard, by negating them and any additional copies on the spot, and as a Quick-Play card, you can activate it from your hand during your turn, safe from destruction. Was semi-limited on the banlist for a brief time before becoming unlimited once more. 
+ Yo-kai Girl  - Pretty much any card in this series can be considered powerful or arguably broken.  Ghost Reaper & Winter Cherries  is strictly a side-deck option as it requires knowing what cards your opponent has in their extra deck, but banishing their key monster can potentially turn the game around.  Ghost Ogre & Snow Rabbit  is probably the most fair card in the series, as it doesn't actually negate the cards but rather destroys them.  Ash Blossom & Joyous Spring  is regarded as arguably the most broken, it can negate pretty much any search or draw card, or any attempts at milling, all at the simple cost of discarding this card from the hand, making it difficult to negate. Its power left it semi-limited in the OCG.  Ghost Belle & Haunted Mansion  is also more suitable for the side-deck as it is very situational and doesn't negate relevant searches Ash Blossom can negate, but it's one of the best counters to resurrection cards like the aforementioned Monster Reborn or Soul Charge. 
+ " Infinite Impermanence " - A literal Hand Trap, this card is considered to be arguably better than  Effect Veiler , because it can be used at any time, not just your opponent's Main Phase 1, and can also negate every other card in the same column, and if the right conditions are met, this card can be activated straight from the hand, making it much harder to negate. 
+ " Chaos Emperor Dragon - Envoy of the End " - This card, along with Yata-Garasu and Victory Dragon listed below, played a crucial role in the game's history as they were the reason a banlist was created in the first place. An easily  Topdeckable  summoning (only requiring a  LIGHT  and  DARK  monster in the  Graveyard ) with high stats, and can wipe the entire field and hand of both players at the same time while inflicting (usually) massive  burn  damage for only 1000  Life Points , and because you deal damage for every card sent including your own, you could deal upwards of 3,000+ damage and leave the field clear for a direct attack, guaranteeing you a win. As a result, this card was nearly impossible to stop unless you could negate the summon first (with something like " Solemn Judgment "). This card, along with the aforementioned Yata-Garasu, is widely considered to be the most broken card in the entire game due to their incredible synergy, and both are also among the many reasons why the Ban List exists in the first place. The card eventually came off the list with its OCG errata, but its effect is still so powerful that it is limited to 2. 
+ " Cyber-Stein " - This card's effect seems absolutely insane at first, with a massive 5000 life point cost to special summon any fusion monster from your extra Deck, it was seen as way too risky back then, until an OTK was discovered with this card, where you could pay the 5000 to special summon a  Blue-Eyes Ultimate Dragon  and equip it with  Megamorph  for a massive 9000 atk that could easily finish off the opponent in 1-2 turns if they couldn't stop it. 
+ " Harpie's Feather Duster " - A costless nuke of your opponent's backrow, able to clear the opponent's field of any threats you may be wary of, and even being able to destroy  Pendulum Scales , while leaving your field untouched without any form of drawbacks. One of the first cards included on the banlist and has remained there since (the card was recently limited to 1 in the  OCG  though). 
+ " Machine Duplication " - Considered a bad/situational card at the time of release, mainly because it didn't have a home in any competitive deck and because it had almost no good targets to use with. The card would not cause any problems until the unexpected rise of one of the few Tier 0 decks in the game's history, which was " SPYRAL ", often ranked as one of the best archetypes in the game's history. This card would be used on " SPYRAL Quik-Fix " to summon two more copies and search 3 cards, as his effect wasn't once per turn, and it was also used on " SPYRAL GEAR - Drone " as well. The deck's ability to attain massive card advantage and field presence was so powerful an Emergency banlist had to be put in place to put both cards to 1 copy, and leaving this card untouched. " Cyber Dragon " Decks are currently the only semi-competitive deck that can use this card. It is often cited as a card that can ruin future card design, as Konami has to be careful on designing  Machine  monsters with 500 or less ATK, lest they be abused with this card. 
+ " Snake Rain " - Often cited as an example of a card that has the potential to be  abused with the right future support. This card is a weaker version of " Painful Choice " (regarded as one of the most broken cards in the game) as it requires a discard cost and it only works on  Reptile  monsters. It can send any 4 Reptile monsters of your choice from the deck to the graveyard. It has existed for several years without issue because it has very few good targets and no competitive decks can make use of it, it doesn't have a home in any deck outside of  Venom  decks. It is often accused of ruining the future of card design for Reptiles, because Konami doesn't want to create any good Reptile support because this card exists. 
+ " Isolde, Two Tales of the Noble Knights " and " Divine Sword - Phoenix Blade " - Isolde is a generic  Warrior  support card that is meant to fix the consistency issues with the  Noble Knight  archetype, but because she is not restricted to her archetype (only requiring 2 Warrior monsters as material), she has been a key component in  Gouki  and  DARK  Warrior decks. Not only can she freely search any Warrior upon summon (with the restriction of being unable to use it the turn it's searched) but can allow for massive deck thinning, by sending any number of generic  Equip Spell Cards  from your deck to the graveyard to summon any warrior monster with a level that matches the amount of cards sent. With the banning and limiting of several key cards in both decks, this card went untouched by the banlist, but with future support, this card could see competitive play again.
+ In the OCG, this card got Phoenix Blade banned, as it can keep adding itself from your graveyard to your hand by simply banishing two warrior monsters from your graveyard without a once per turn clause, essentially providing you with free card advantage and discard fodder whenever you need it. 
+ " Super Rejuvenation " - When this card was first released, it was considered too situational and slow for the time, as it required you to discard and tribute several  Dragon  monsters just to draw a few cards to replace them, which required you to waste several resources just to break even in card advantage. Several years later however, this card saw newfound power with the release of the " Dragon Ruler " archetype, which is centered around constantly tributing and discarding themselves for massive field advantage. This led to "Dragon Ruler" decks abusing this card to attain massive card advantage, especially if you chained a second copy to itself to draw even more cards, while not losing any card advantage because the "Dragon Rulers" can easily replace themselves. Was quickly emergency banned and moved from Unlimited to Forbidden alongside the "Dragon Ruler" archetype. 
+ " The Phantom Knights of Rusty Bardiche " and " The Phantom Knights' Rank-Up-Magic Launch " - Both of these cards were designed to support the  The Phantom Knights  archetype but there was an inherent design flaw with them. Rank-Up Magic Launch was searchable by Rusty Bardiche and was generic enough that it could be used on any  DARK   Xyz Monster , with the only restriction being it has to be activated only during the Main Phase and the monster can't have Xyz materials. These restrictions were circumvented with " Time Thief Redoer ", who can detach all of his materials for his effects at once, and was a generic rank 4. This meant that you could use the Rank-Up Magic card during your opponent's Main Phase to Xyz Summon " Outer Entity Azathot " an lock them out of monster effects for a turn. A degenerate strategy that was considered practically free, because if you happened to draw into Rank-Up Magic Launch, you could search for another Phantom Knight card instead. This card was eventually banned in the following banlist.
+ Rusty Bardiche continued to cause problems even after the Rank-Up Magic spell was banned, as it was too generic (only requiring 2+ DARK monsters as material) and allowed you to freely deck thin by sending " The Phantom Knights of Ancient Cloak " and " The Phantom Knights of Silent Boots " to the graveyard and search several of their spells and traps like " Phantom Knights' Fog Blade " for practically free interruptions, as it was an easy to summon Link monster in an  Orcust  Deck, leading the card to eventually be banned as well. 
+ Examples of Forbidden cards considered broken 
+ " Wind-Up " Loop - A possibly unexpected lengthy combo involving using multiple copies of " Wind-Up Carrier Zenmaity " to repeatedly bring back and reuse the effect of " Wind-Up Hunter ", which could wipe out an opponent's entire starting hand on the first turn, giving the user an overwhelming starting advantage with little to no chance for the opponent to respond. Soon after its discovery, "Wind-Up Carrier Zenmaity" was Limited and then Forbidden in the  TCG ; in the  OCG , "Wind-Up Hunter" was moved directly from Unlimited to Forbidden instead. 
+ " Pot of Greed " - Released when the game was very new and it was likely difficult to anticipate the importance of  card advantage  in the future competitive metagame. Effectively gives the user an immediate unconditional costless +1 in card advantage, and makes it objectively superior to every other  topdeck  in the game, thus giving Deck constructors zero reason to not run the maximum number of copies possible in their Deck. Was made Limited and then Forbidden due to needlessly reducing Deck diversity and giving an arbitrary advantage to whoever drew it first. It's still regarded as the only true  Staple  left in the game at this point. No matter what ratio of cards you're running between 40 and 60, you'd absolutely have to run this card, there's no reason not to (unless your deck uses " Sekka's Light "). 
+ " Graceful Charity " - As stated above with "Pot of Greed", this card is one of the earliest cards in the game, it was hard to predict the importance of card advantage in the future. This card was an effective way to do some  Deck Thinning  while also refreshing a lackluster hand, because you could draw 3 new cards and discard 2 cards that were either useless at the moment or cards that you wanted in the graveyard. Because this card discards as an effect and not a cost, it's a popular example of a phenomena known as reverse power creep, as this card kept getting better as it aged. Archetypes like " Fabled ", " Dark World ", and " Danger! " are all about discarding themselves for effects while other decks like " Zombie " and " Lightsworn " do not mind dumping cards into the graveyard. This card has been banned along with "Pot of Greed" since the first banlist. 
+ " Soul Charge " - A resurrection card that is arguably better than  Monster Reborn , this card is often abused in special summon spam decks that bring out swarms of monsters for more Extra Deck materials, despite the hefty drawback of losing 1,000 life points for each monster that's resurrected, making it a popular card for OTK decks that plan to win in that same turn, or next turn since you can't conduct your battle phase the same turn you activate this. Its power left it limited to 1 copy per deck on the banlist, but as it was still too powerful even then, it was eventually banned. 
+ " Victory Dragon " - Likely not intended by design, the ability for the card to interfere with something outside of the current Duel (namely, the result of a future Duel) made intentionally  surrendering  (or even intentionally breaking the rules to get a  Game Loss  penalty, in the event surrendering is not allowed) an actual viable strategy, anecdotally leading to a number of undesirable ruling disputes and arguments over "unsportsmanlike behavior" at tournaments. The card was later moved directly from Unlimited to Forbidden. (For more information, see the "Victory Dragon"  Card Tips  page. 
+ " Mass Driver " - Likely intended only as a last ditch method to inflict chip damage on the opponent by giving up large amounts of field advantage, its effect and the ability to activate it an unlimited number of times per turn led to the creation of a nearly unstoppable FTK strategy years later, with the advent of strategies that could use loops to  Summon  an unlimited number of weak monsters to the field (which would otherwise be not nearly as useful, with the natural 5- Monster Card Zone  limit). Was soon moved directly from Unlimited to Forbidden. 
+ " Change of Heart " - Even back when this card was released, it was considered to be too powerful (this is even pointed out in the anime), and  Brain Control  was subsequently released to be a more "balanced" version, though the only difference in card design was that the latter required an 800 life point cost, and both were still made forbidden. This card was a costless way to steal an opponent's monster and do whatever you want with it. While it wasn't as searchable as  Snatch Steal , being an equip spell that can be searched by  Power Tool Dragon  or  Hidden Armory , this card was much harder to stop in its tracks. 
+ " Delinquent Duo " - This card, and pretty much any card that allowed you to disrupt your opponent's hand and/or also look at their hand like  Confiscation ,  The Forceful Sentry , and  Trap Dustshoot  (all forbidden), were considered too broken because you inherently had the advantage already when you played those cards first, leaving your opponent at a disadvantage by plucking at their resources, especially with this card in particular. By paying a mere 1000 life points you could randomly discard 1 card from their hand while forcing them to discard 1 more card of their choice. If this card was played during the first turn of the duel, your opponent was already at a disadvantage because they would have to start their turn with only 4 cards. 
+ " Butterfly Dagger - Elma " - This card's broken effect was likely completely unintentional, because there doesn't seem to be anything really special about it at first, as it only gives a mere 300 ATK boost and it returns to your hand if it's destroyed while equipped to something, which only gave it an edge over cards like  Axe of Despair  that required more specific conditions to recover it. The problem is that this card wasn't a once per turn effect or something that returned during the end phase, it was immediate, which meant this card could keep returning to your hand in the same turn if it kept getting destroyed. This meant that it could be combined with  Gearfried the Iron Knight , a monster that destroys any equip cards equipped to it, resulting in an infinite loop if the opponent couldn't stop it. Again, at first glance that doesn't seem very useful at all as a strategy, until you combined it with one of the three strategies:
+ Magical Marionette  - keep using a spell card to continuously give this card infinite ATK for an easy OTK. 
+ " Fire Princess " and " Spell Absorption " - continuously gaining life points and continuously inflicting damage at the same time. 
+ " Royal Magical Library " and " Exodia " - continuously accumulating spell counters to keep drawing cards until you drew all 5 pieces of Exodia. 
+ Because this card could create infinite loops, it was subsequently banned, shutting down all of these combos in Advanced format, and leaving " Guardian Elma " nearly impossible to summon in Advanced format for any dedicated  Guardian  users. 
+ " Magical Scientist " - This card is essentially the monster card version of  Instant Fusion , albeit with more options as it can target Level 6 or lower Fusion monsters to special summon. At the time, this card was banned because although the summoned monsters could not attack directly, there were no other restrictions on what you could do with those monsters and because it doesn't have a once per turn clause, you could keep summoning as many monsters as you could, given you had to pay 1000 life points. Most of the time, those Fusion monsters were used for tribute fodder to summon monsters or for card effects. This card is often cited as an example of reverse power creep, as this card kept getting better with age, in the  Synchro Monster  era you could just summon several synchro materials to bring out whatever you needed, in the  Xyz Monster  era you could just summon a ton of Xyz materials, and now with  Link Monsters  you can just summon a ton of Link materials in 1 turn, giving this card more of a reason to remain banned unless errata'd to be once per turn. 
+ " Yata-Garasu " - Infamous for being one half of the  Yata-Garasu Lockdown , and as previously mentioned, one of the cards responsible for the creation of a banlist. This infamous lockdown involves using Chaos Emperor Dragon's effect to clear an opponent's field and hand, making sure that the opponent could not counter your Yata-Garasu with anything they already had, but because you also nuke your field and hand as well, you risked destroying your own Yata-Garasu if you happened to already have it. This is where " Sangan " and/or " Witch of the Black Forest " came into play in the lockdown, because once they were sent from the field to the GY, you could search for Yata-Garasu and add it to your hand, and as the coast is now clear, you can summon Yata-Garasu, and continuously attack the opponent. This leaves them stuck in an infinite loop where they are unable to draw cards, forcing them to forfeit the game and essentially resulting in an instant win. Effects like this are why other cards like " Time Seal " were banned, because skipping a draw phase was considered to be too powerful (the card " Fenrir " is excluded because of its very specific summoning and activation conditions). Witch of the Black Forest, Sangan, and Chaos Emperor Dragon - Envoy of the End have since received an errata to balance their effects, making this combo more difficult to pull off now in  Traditional Format , though Yata-Garasu has yet to be unbanned. 
+ " Royal Oppression " - An old continuous trap card released early in the game where it was difficult to predict how prevalent and important special summoning would be later on. Unlike  Vanity's Emptiness , another banned card with a similar effect that was much easier for you to shut off for your own special summons to go off again, this card had a much more broken method of stopping special summoning. Each player could pay 800 life points to negate a special summon at any time, as many times as you wanted. This card would be abused in the first turn especially, when the opponent has already finished special summoning their key cards and setting up their field, then they could set this card, ready to use it against their opponent to stop all of their attempts to special summon. 
+ " Mirage of Nightmare " - This card is a continuous spell that you can activate on your turn, though it doesn't do anything until your opponent's turn, when you're allowed to draw until you have 4 cards in your hand, so if you played this on the first turn, you'd get to drew an almost entire new hand basically, but you'd have to discard those cards once it was your turn again. At first glance, this card appears to have only niche uses, as you can only keep the cards for one turn (your opponent's that is) before they were discarded on your next turn, but as was demonstrated in real life and in the anime, you could combo this card with cards like  Emergency Provisions  or  Mystical Space Typhoon  to destroy this card first, its effect doesn't resolve anymore, and you get to keep the cards you drew, a combo that led to this card being banned for the ways you could abuse this card to attain massive card advantage. This card is also a popular example of reverse power creep, where it gets better with age, as many new meta decks don't mind dumping cards into the graveyard, and even benefit from graveyard resources, like  Lightsworn  decks for instance. 
+ " Sixth Sense " - Often cited as a very poorly designed card for the game, despite being one of the oldest cards in the game's history, and not having a TCG release for about 10 years after its initial OCG release. This card is infamous for being the only gamble card to be on the forbidden list, for being the only gamble card to have no real drawbacks objectively, and because it is the only card in the TCG that was never unlimited at some point, as it was limited to 1 as soon as it was finally released, before its emergency ban. A normal trap card that you could set, and once activated you had to roll a six-sided die and declare 2 numbers from 1 to 6. If the result matches one of your choices, you'd draw that many cards, but if not, you'd have to mill cards equal to the result. Back in the day, milling cards was seen as a real drawback because of how much the game has grown since then, but because of the potential to go +4 or +5 (players who used this card always declared numbers 5 and 6), it was still seen as too powerful and banned in the OCG. This card is a prime example of reverse power creep, as it ages well and gets better the more new graveyard mechanics are introduced. Lots of meta decks in modern Yu-Gi-Oh! don't mind milling cards and it is actually an advantage instead to do so. 
+ " Fiber Jar " - This card isn't banned for being broken necessarily, but rather for being an unhealthy gimmick card that threw out normal game mechanics for its effect. This is a  Plant  type  Flip effect  monster that essentially resets the game, excluding banished cards, life points, and  Pendulum Monsters , by shuffling all cards in both players hands, field, and graveyard into the deck and then drawing 5 cards. This card was often abused in hopelessly losing situations by basically forcing both players to start over once this card was flipped face-up. This effect, along with being a cheap gimmick, was considered to have an unsportsmanlike effect, as it was seen as cheating your opponent out of their fair win. This was one of the first cards to be banned and has remained there since. 
+ " Last Turn " - Just like the above mentioned Fiber Jar, this card was banned for a multitude of reasons, but primarily for being a gimmick card that completely casts aside normal game mechanics for its effect. If your life points were 1,000 or less, all other cards in both player's hands and fields were sent to the graveyard and the opponent had to special summon 1 monster from their deck to battle your 1 monster left on the field in some sort of winner-take-all death match (no battle damage is calculated for this battle). Whoever had 1 monster left on the field was declared the winner, any other case resulted in a DRAW. This resulted in players finding loopholes with this card's wording to abuse the effect for a cheap win or to force a DRAW in hopelessly losing situations. One way that players forced a win was to have a face-up  Jowgen the Spiritualist , or in some cases  The Last Warrior from Another Planet , so that the opponent couldn't special summon anything or respond with anything as all their cards are gone, and with that monster remaining on the field, you'd be the winner by default. How players forced a DRAW was to have a face-up  D.D. Warrior Lady  on the field, and both monsters would be banished during the battle, resulting in a DRAW by default as no monsters are left on the field, or the opponent would intentionally summon a monster with equal attack so both monsters would be destroyed. As Konami infamously hates ties, and this card is one of the few cards that can force a tie, it  was banned on the first banlist. 
+ " Card of Safe Return " - This card went under the radar at first, because it only allowed you to draw cards when you special summoned from your graveyard, and at the time of its release not many cards could do that constistently, making the card too slow for the time. However, as new archetypes and cards were released later on that could special summon constantly from the graveyard, such as the later  Zombie  support and aforementioned cards like "Soul Charge", this card was moved directly from Unlimited to Forbidden because of the many ways you can abuse it to maintain massive card advantage. 
+ " Summon Sorceress " - A somewhat generic Link-3 monster that only requires 2+ monsters with the same type except tokens as material, that has been a key component in several meta decks and FTK/OTK strategies. It has the effect of special summoning one monster from your deck that has the same type as a monster it points to, but its effects are negated. The first effect even allowed you to setup its second effect by special summoning a monster from your hand to its upwards pointing arrow. It's very rare that a card can freely special summon theoretically any monster from your deck, without any drawbacks or restrictions, and aside from negating the special summoned monster's effects, there were no other restrictions on what you could do with the monster, allowing you to facilitate several extra deck plays for little cost. 
+ " Knightmare Goblin " - A card that is cited as an example of poor design, it was an easy to summon link monster that provided you with a free extra normal summon as long as it had a free space next to its link arrow. This extra normal summon added to the degenerate link spam strategies of several meta decks at the time of release including " Gouki " decks, leading to the card being banned on the next banlist soon after release. 
+ " Topologic Gumblar Dragon " - A key component in "Gouki" link spam decks, this card was degenerate because it could be used to obliterate the opponent's hand before they got a turn. Although it required you to discard an equal amount of cards, it wasn't an issue with the way Gouki extra link decks could replenish their resources and with the free discard fodder in Divine Sword - Phoenix Blade. The card was eventually banned alongside with the aforementioned Firewall Dragon and Knightmare Goblin, finally killing off the Gouki extra link deck for good. 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Gaming Terms

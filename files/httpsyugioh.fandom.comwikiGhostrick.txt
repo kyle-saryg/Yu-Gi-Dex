@@ -1,0 +1,527 @@
+Link: https://yugioh.fandom.com/wiki/Ghostrick
+
+
+ 
+ Ghostrick 
+ ゴーストリック  ( Gōsutorikku ) 
+ 
+ 
+ 
+ 
+ "Ghostrick" monsters in the artwork of " Ghostrick Parade ". 
+ 
+ 
+ Other names 
+ 
+ French 
+ Fantôruse 
+ 
+ 
+ German 
+ Geistertrick 
+ 
+ 
+ Italian 
+ Fantasmatrucco 
+ 
+ 
+ Korean 
+ 고스트릭   Goseuteurik   (romanized) 
+ 
+ 
+ Portuguese 
+ Fantardil 
+ 
+ 
+ Spanish 
+ Fantastruco 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Shadow Specters Legacy of the Valiant Primal Origin The New Challengers Extreme Force Ignition Assault Battle of Chaos 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Shadow Specters Sneak Peek Participation Card Battle Pack 3: Monster League 2014 Mega-Tin Mega Pack World Superstars Wing Raiders Yu-Gi-Oh! Advent Calendar 2018 OTS Tournament Pack 18 Ghosts From the Past: The 2nd Haunting 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Duelist Card Protector EX: Ghostrick Extra Pack: Knights of Order Battle of Chaos +1 Bonus Pack Secret Utility Box 
+ 
+ 
+ 
+ 
+ Korea-Only Sets 
+ 
+ 
+ Advanced Event Pack 2014 Vol.1 Advanced Event Pack 2014 Vol.2 Extra Pack 2015 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! ARC-V 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support Anti-support 
+ 
+ 
+ 
+ 
+ " Ghostrick " (ゴーストリック  Gōsutorikku ) is an  archetype  of  DARK   monsters  with  Types  that vary between  Fairy ,  Fiend ,  Spellcaster , and  Zombie . This archetype debuted in  Shadow Specters .
+ 
+ Contents 
+ 
+ 1   Design 
+ 
+ 1.1   Appearance 
+ 1.2   Etymology 
+ 
+ 
+ 2   Members 
+ 3   Commonalities 
+ 4   Playing style 
+ 5   Recommended cards 
+ 
+ 5.1   Basic Ghostrick 
+ 5.2   Zombie Ghostrick 
+ 5.3   Ghostrick Burn 
+ 5.4   Ghostrick Mill 
+ 5.5   "Ghostrick" Deck recipes sample 
+ 
+ 
+ 6   Weaknesses 
+ 7   Trivia 
+ 
+ 
+ Design 
+ Appearance 
+ "Ghostrick" monsters are based on, and named after, various characters of folklore and Halloween monsters (with " Ghostrick Festival " as an exception).
+ 
+ Etymology 
+ "Ghostrick" is a portmanteau of the words "ghost" and "trick".
+ 
+ Members 
+ 
+ 
+ Ghostrick
+ 
+ Origin
+ 
+ 
+ Alucard 
+ Count Alucard / Dracula 
+ 
+ 
+ Angel of Mischief 
+ Fallen angel 
+ 
+ 
+ Doll 
+ Bisque doll 
+ 
+ 
+ Dullahan 
+ Dullahan 
+ 
+ 
+ Fairy 
+ Fairy 
+ 
+ 
+ Festival 
+ Festival 
+ 
+ 
+ Ghoul 
+ Ghoul 
+ 
+ 
+ Jackfrost 
+ Jack Frost 
+ 
+ 
+ Jiangshi 
+ Jiangshi 
+ 
+ 
+ Lantern 
+ Jack-o'-lantern 
+ 
+ 
+ Mary 
+ Bloody Mary 
+ 
+ 
+ Mummy 
+ Mummy 
+ 
+ 
+ Nekomusume 
+ Nekomusume 
+ 
+ 
+ Skeleton 
+ Grim Reaper 
+ 
+ 
+ Siren 
+ Siren 
+ 
+ 
+ Socuteboss 
+ Succubus 
+ 
+ 
+ Specter 
+ Ghost 
+ 
+ 
+ Stein 
+ Frankenstein's monster 
+ 
+ 
+ Warwolf 
+ Werewolf 
+ 
+ 
+ Witch 
+ Witch 
+ 
+ 
+ Yeti 
+ Yeti 
+ 
+ 
+ Yuki-onna 
+ Yuki-onna 
+ 
+ Commonalities 
+ All of the Main Deck monsters have a common effect:   "Cannot be Normal Summoned, unless you control a "Ghostrick" monster. Once per turn: You can change this card to face-down Defense Position" .  
+Also, the Xyz Monsters, except for " Ghostrick Socuteboss " and " Ghostrick Angel of Mischief ", share the following common effect:  
+ "If this card is sent to the Graveyard: You can target 1 other "Ghostrick" card in your Graveyard; add that target to your hand" .
+ 
+ Playing style 
+ With the exception of the  Link -1 "Ghostrick Festival", the Levels and Ranks of "Ghostrick" monsters are either 1, 2, 3 or 4, with their Types differing based on their Level/Rank, being Fiend, Spellcaster, Zombie, and Fairy, respectively.
+ They feature a variety of effects, mostly revolving around flipping monsters face-down (both yours and your opponent's) and protecting themselves as long as they are face-down. The three strata of monsters each follow a set of general effect guidelines:
+ 
+ The Level 1 Fiend monsters have effects that trigger while in the hand, and they react to destruction, attacks and damage, providing bonuses and acting like hand traps; design-wise, they share a prankster, infantile appearance, maybe hinting to the "tricks" they play against the attacks of the opponent's monsters. 
+ The Level 2 Spellcaster monsters have effects related to Battle Position control, allowing its controller to  search  for a monster or  stall  the opponent's moves; they share a feminine, delicate, appearance. 
+ The Level 3 Zombie monsters all provide useful bonuses while they are face-up or when flipped face-up. Their effects range from  searching  to  burning , or even  milling the opponent's deck  or  giving bulk  to a "Ghostrick" monster; their motif is basically of male figures of Halloween and Folklore. 
+ " Ghostrick Siren " is the first Level 4 "Ghostrick" Fairy Main Deck monster that can either searches for "Ghostrick" Spells/Traps or changes the opponent's Effect Monster to face-down Defense Position. 
+ The deck's main goal is to produce strong attackers over a prolonged game, which can attack directly using the field spells " Ghostrick Mansion ", " Ghostrick Museum " though the archetype also contains elements of milling, burning, lockdown and most recently an  Alternative Win Condition .
+ Most of the "Ghostrick" monsters aren't strong by themselves, thus they're left relying heavily on getting " Ghostrick Mansion " on the board as soon as possible in order to launch several consecutive direct attacks early in the game. Since "Mansion" also protects any face-down monsters from attacks, it is easy to repeatedly activate "Ghostrick" monster's effects like " Ghostrick Jiangshi " and " Ghostrick Witch ". " Ghostrick Scare ", " Floodgate Trap Hole " and " Swords of Concealing Light " are also useful in this deck to provide disruptions and lockdown.
+ The support provided by the on-theme Spell/Trap Cards is also diverse, with effects that range from  protecting  "Ghostrick" monsters from targeting and destroying effects,  switching  the battle position of opposing monsters,  reviving  "Ghostrick" monsters and  locking  the opponent from Flip Summoning. The only Spell Cards of the Deck are a trio of Field Spell Cards that share the common effect of allowing a player from attacking direcly if all opposing monsters are in face-down Defense Position. They can either  search  for resources,  halve  the battle damage and  manipulating  the battle position of the opponent's monsters.
+ 
+ Recommended cards 
+ Basic Ghostrick 
+ 
+ Recommended Cards Monsters   
+ Effect Monsters 
+ Ghostrick Fairy 
+ Ghostrick Ghoul 
+ Ghostrick Jackfrost 
+ Ghostrick Jiangshi 
+ Ghostrick Lantern 
+ Ghostrick Mary 
+ Ghostrick Mummy 
+ Ghostrick Nekomusume 
+ Ghostrick Siren 
+ Ghostrick Skeleton 
+ Ghostrick Specter 
+ Ghostrick Stein 
+ Ghostrick Warwolf 
+ Ghostrick Witch 
+ Ghostrick Yuki-onna 
+ Ghostrick Yeti 
+ Dark Armed Dragon 
+ Kinka-byo 
+ Tuner monsters 
+ Masked Chameleon Extra Deck   
+ Xyz Monsters 
+ Ghostrick Alucard 
+ Ghostrick Angel of Mischief 
+ Ghostrick Dullahan 
+ Ghostrick Socuteboss 
+ Downerd Magician 
+ Mechquipped Angineer 
+ Number 13: Embodiment of Crime 
+ Number 17: Leviathan Dragon 
+ Number 31: Embodiment of Punishment 
+ Number 39: Utopia Roots 
+ Number 54: Lion Heart 
+ Slacker Magician 
+ Link Monsters 
+ Ghostrick Festival Spells   &  Traps   
+ Spells 
+ Ghostrick Shot 
+ Ghostrick Mansion 
+ Ghostrick Museum 
+ Ghostrick Parade 
+ Allure of Darkness 
+ Book of Moon 
+ Creature Swap 
+ Dark Eruption 
+ Nobleman of Crossout 
+ Recurring Nightmare 
+ Swords of Concealing Light 
+ Ties of the Brethren 
+ Traps 
+ Ghostrick Break 
+ Ghostrick Night 
+ Ghostrick Reform 
+ Ghostrick Scare 
+ Ghostrick Vanish 
+ Ghostrick-Go-Round 
+ Ghostrick or Treat 
+ Floodgate Trap Hole 
+ Gozen Match 
+ Needle Ceiling 
+ Quaking Mirror Force 
+ Zombie Ghostrick 
+ Most of Ghostrick monsters are Zombies, so it's possible to use support for it in this Deck. " Skull Conductor " can be used to summon "Mummy" + "Des Lacooda" or "Jiangshi" / "Plaguespreader" / "Painter" + "Stein" / "Bone Crusher" for a Xyz or Synchro Summon.
+ 
+ 
+ Recommended Cards Monsters   
+ Effect Monsters 
+ Ghostrick Ghoul 
+ Ghostrick Jiangshi 
+ Ghostrick Mary 
+ Ghostrick Mummy 
+ Ghostrick Skeleton 
+ Ghostrick Specter 
+ Ghostrick Stein 
+ Ghostrick Warwolf 
+ Ghostrick Yeti 
+ Bone Crusher 
+ Dark Armed Dragon 
+ Des Lacooda 
+ Goblin Zombie 
+ Humpty Grumpty 
+ Mezuki 
+ Mystic Tomato 
+ Skull Conductor 
+ Spirit Reaper 
+ Tour Guide From the Underworld 
+ Zombie Master 
+ Tuner monsters 
+ Pain Painter 
+ Plaguespreader Zombie Extra Deck   
+ Synchro Monsters 
+ Archfiend Zombie-Skull 
+ Revived King Ha Des 
+ Xyz Monsters 
+ Ghostrick Alucard 
+ Ghostrick Dullahan 
+ Evilswarm Nightmare 
+ Full Armored Black Ray Lancer 
+ Number 66: Master Key Beetle 
+ Other  Rank 3 Monster Cards Spells   &  Traps   
+ Spells 
+ Ghostrick Mansion 
+ Ghostrick Museum 
+ Allure of Darkness 
+ Book of Life 
+ Book of Moon 
+ Creature Swap 
+ Dark Eruption 
+ Recurring Nightmare 
+ Swords of Concealing Light 
+ Ties of the Brethren 
+ Zombie World 
+ Traps 
+ Ghostrick Scare 
+ Ghostrick Vanish 
+ Ghostrick-Go-Round 
+ Needle Ceiling 
+ Ghostrick Burn 
+ This Deck focus on lock your opponent's moves and causing  effect damage . " Ghostrick Museum " is the only recommended Field as it's the only to not affect the damage.
+ 
+ 
+ Recommended Cards Monsters   
+ Effect Monsters 
+ Ghostrick Jiangshi 
+ Ghostrick Mary 
+ Ghostrick Mummy 
+ Ghostrick Specter 
+ Ghostrick Stein 
+ Ghostrick Warwolf 
+ Des Koala 
+ Prediction Princess Astromorrigan 
+ Princess of Tsurugi 
+ Shadowpriestess of Ohm 
+ Stealth Bird Extra Deck   
+ Xyz Monsters 
+ Ghostrick Alucard 
+ Ghostrick Angel of Mischief 
+ Ghostrick Dullahan 
+ Number 13: Embodiment of Crime 
+ Number 31: Embodiment of Punishment 
+ Number 30: Acid Golem of Destruction  (with  Creature Swap ) 
+ Number 54: Lion Heart Spells   &  Traps   
+ Spells 
+ Ghostrick Museum 
+ Allure of Darkness 
+ Book of Moon 
+ Dark Eruption 
+ Recurring Nightmare 
+ Swords of Concealing Light 
+ Ties of the Brethren 
+ Traps 
+ Ghostrick-Go-Round 
+ Ghostrick Night 
+ Ghostrick Vanish 
+ Blazing Mirror Force 
+ Quaking Mirror Force 
+ Ceasefire 
+ Just Desserts  /  Secret Barrel  /  Secret Blast 
+ Nightmare Wheel 
+ Ojama Trio 
+ Ring of Destruction 
+ Ghostrick Mill 
+ This Deck focus on  milling  your opponent's Deck and win by  Deck out . " Ghostrick Parade " is the only recommended Field because of its searching effect and damage to your opponent is unecessary. Note that sending cards to your opponent's Graveyard may help their strategy, so " Ghostrick Skeleton " and " Masked HERO Dark Law " are used to banish the cards instead.
+ 
+ 
+ Recommended Cards Monsters   
+ Effect Monsters 
+ Ghostrick Jiangshi 
+ Ghostrick Mary 
+ Ghostrick Mummy 
+ Ghostrick Skeleton 
+ Ghostrick Specter 
+ Ghostrick Stein 
+ A/D Changer 
+ Dark Bug 
+ Delg the Dark Monarch 
+ Hiro's Shadow Scout 
+ Needle Worm 
+ Tuner monsters 
+ Junk Synchron Extra Deck   
+ Fusion Monsters 
+ Masked HERO Dark Law 
+ Synchro Monsters 
+ Dark Diviner 
+ Iron Chain Dragon 
+ Xyz Monsters 
+ Ghostrick Alucard 
+ Ghostrick Angel of Mischief 
+ Ghostrick Dullahan 
+ Pilgrim Reaper Spells   &  Traps   
+ Spells 
+ Ghostrick Parade 
+ Allure of Darkness 
+ Book of Eclipse 
+ Book of Moon 
+ Book of Taiyou 
+ Dark Eruption 
+ Dark World Dealings  /  Hand Destruction 
+ Mask Change II 
+ One Day of Peace 
+ Recurring Nightmare 
+ Swords of Concealing Light 
+ The Shallow Grave 
+ Ties of the Brethren 
+ Traps 
+ Ghostrick Night 
+ Ghostrick Scare 
+ Ghostrick Vanish 
+ Ghostrick-Go-Round 
+ Quaking Mirror Force 
+ Crush Card Virus 
+ Deck Devastation Virus 
+ Ojama Trio 
+ "Ghostrick" Deck recipes sample 
+ 
+ Deck Monsters   
+ Effect Monsters 
+ Ghostrick Jiangshi  x3 
+ Ghostrick Stein 
+ Ghostrick Yuki-onna  x3 
+ Ghostrick Witch  x2 
+ Ghostrick Specter  x3 
+ Ghostrick Lantern  x2 
+ Crane Crane  x2 
+ Penguin Soldier  x2 
+ Kinka-byo  x2 Extra Deck   
+ Xyz Monsters 
+ Ghostrick Alucard  x2 
+ Wind-Up Zenmaines 
+ Gachi Gachi Gantetsu 
+ Slacker Magician Spells   &  Traps   
+ Spells 
+ Ghostrick Mansion  x3 
+ Terraforming 
+ Book of Eclipse 
+ Monster Reborn 
+ Mystical Space Typhoon  x3 
+ Heavy Storm 
+ Book of Moon 
+ Nobleman of Crossout  x2 
+ Traps 
+ Ghostrick Vanish  x2 
+ Ghostrick Scare  x2 
+ Torrential Tribute  x2 
+ Solemn Judgment 
+ Weaknesses 
+ Despite this archetype's unorthodox "bait and switch"—like tactics, "Ghostricks" have many weaknesses.  
+ 
+ Firstly, cards like " Dark Simorgh ", " Searchlightman ", and " Light of Intervention " will prevent "Ghostrick" monsters from being Set or flipped face-down in first place. Cards like " Jurrac Velphito " and " Search Striker " are also dangerous to "Ghostricks" because they destroy face-down monsters immediately without them ever flipping face-up. 
+ Other cards which prevent battle position changes, whether of the "Ghostrick" player's monsters or the opponent's, such as " Gaap the Divine Soldier " and " Gravity Axe - Grarl " can halt most, though often not all, of the "Ghostrick" player's moves. In addition, a monster Summoned by " Raging Cloudian " will be nearly impossible for the "Ghostrick" player to get rid of.
+ The debut of  Link Monsters  and Master Rule 4 have further aggravated this, as not only do they share battle postition immunity akin to " Raging Cloudian ", but their essentiality to most swarm Decks nowadays makes avoiding them near close to impossible (though " Ghostrick Ghoul " and " Ghostrick Dullahan " can make quick work of them.) 
+ " Goblin Fan " is a continuous trap that can destroy any monster card that is Level 2 or below the second it's Flip-summoned. This includes about 2/3 of the Ghostrick monsters, and since many of them rely on their Flip effects, rather than raw power, this one trap card can be devastating to any Ghostrick user's strategy. 
+ Most "Ghostricks" depends on their  Field Spell Cards , " Ghostrick Mansion " and " Ghostrick Museum ", to deal damage, and will struggle to do much  Battle damage  to your opponent without it, due to most of them having low ATK stats.  This can be even worse with cards like " Spell Shattering Arrow " and " Eradicator Epidemic Virus " around.
+ Cards like " Stardust Dragon ", " Malefic Stardust Dragon " or " Stardust Spark Dragon " can be used to protect it. 
+ Ancient Gear Decks in particular will chew through Ghostricks, due to their ability to prevent the activation of the trap cards and effects that Ghostricks heavily rely on. 
+ Trivia 
+ See also their history in the  Gagaga Academy Tospedia . 
+ The "Ghostrick" monster's battle-flipping effects resemble the activities of children pranksters or mischievous spirits: popping out and scaring people, then running away and hiding. This is underscored by the archetype name "Ghostrick" a blatant portmanteau of the words "ghost" and "trick". 
+ The "Ghostrick" archetype was originally released in  Shadow Specters , which debuted in the U.S. in November 2013, and may have been intended to coincide with the celebration of  Halloween . The "Ghostrick" monsters are largely based on mythological creatures that children in the western world would dress up as for Halloween (witch, ghost, Jack-O'-Lantern, Frankenstein's Monster, Mummy, etc.), and their playstyle (as described above) mirrors the tradition of trick-or-treating. 
+ "Ghostrick" monsters' artworks share the background scheme with the " Lightsworn "s, as they have the same concept of patterning. 
+ While most  archetypes  receive one supporting  Field Spell Card , the Ghostrick archetype is notable for having three; " Ghostrick Mansion ", " Ghostrick Museum ", and " Ghostrick Parade ". 
+   
+" Ghostrick " 「ゴーストリック」 Members 
+ Ghostrick Alucard Ghostrick Angel of Mischief Ghostrick Doll Ghostrick Dullahan Ghostrick Fairy Ghostrick Festival Ghostrick Ghoul Ghostrick Jackfrost Ghostrick Jiangshi Ghostrick Lantern Ghostrick Mary Ghostrick Mummy Ghostrick Nekomusume Ghostrick Siren Ghostrick Skeleton Ghostrick Socuteboss Ghostrick Specter Ghostrick Stein Ghostrick Warwolf Ghostrick Witch Ghostrick Yeti Ghostrick Yuki-onna 
+ Ghostrick Break Ghostrick Mansion Ghostrick Museum Ghostrick Night Ghostrick Parade Ghostrick Renovation Ghostrick Scare Ghostrick Shot Ghostrick Vanish Ghostrick or Treat Ghostrick-Go-Round 
+ Support 
+ Ghostrick Alucard Ghostrick Angel of Mischief Ghostrick Doll Ghostrick Dullahan Ghostrick Fairy Ghostrick Festival Ghostrick Ghoul Ghostrick Jackfrost Ghostrick Jiangshi Ghostrick Lantern Ghostrick Mary Ghostrick Mummy Ghostrick Nekomusume Ghostrick Siren Ghostrick Skeleton Ghostrick Socuteboss Ghostrick Specter Ghostrick Stein Ghostrick Warwolf Ghostrick Witch Ghostrick Yeti Ghostrick Yuki-onna 
+ Ghostrick Break Ghostrick Mansion Ghostrick Museum Ghostrick Night Ghostrick Parade Ghostrick Renovation Ghostrick Scare Ghostrick Shot Ghostrick Vanish Ghostrick or Treat Ghostrick-Go-Round 
+ Anti-support 
+ Ghostrick Festival Ghostrick Ghoul Ghostrick Socuteboss 
+ Related 
+ Jack-In-The-Hand 
+ 
+ v e 
+" Ghostrick " 「ゴーストリック」 a   Members 
+ Ghostrick Museum 
+ Support 
+ Ghostrick Museum 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/08/GhostrickParade-DAR-EN-VG-Field.png/revision/latest/scale-to-width-down/350?cb=20151018121221']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Xyz Monster(s), Archetypes with Link Monster(s)

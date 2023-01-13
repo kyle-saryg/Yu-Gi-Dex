@@ -1,0 +1,94 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Advanced_Ritual_Art
+
+
+ Advanced Ritual Art 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Contents 
+ 
+ 1   TCG Rulings 
+ 
+ 1.1   Mentions in Other Rulings 
+ 
+ 
+ 2   OCG Rulings 
+ 
+ 2.1   Mentions in Other Rulings 
+ 
+ 
+ 3   Previously Official Rulings 
+ 4   References 
+ 
+ 
+ TCG Rulings 
+ Mentions in Other Rulings 
+ Djinn of Rituals : You cannot use this card for a  Ritual Summon  conducted with “ Advanced Ritual Art .” 
+ OCG Rulings 
+ The Normal Monsters are sent from the Deck to the Graveyard when this effect resolves. [1] 
+ The monster  Special Summoned  by this card is treated as properly  Ritual Summoned . [1] 
+ This effect does not  target . [1] 
+ " Nekroz of Valkyrus " is a  Ritual Monster  with the text " Must be Ritual Summoned without using any Level 8 monsters, and cannot be Special Summoned by other ways ". It can be Ritual Summoned by the effect of " Advanced Ritual Art ", but you cannot send a Level 8  Normal Monster  from the Deck to the Graveyard. (You can send Normal Monsters of other Levels, as long as their total Levels add up to 8.) [2] 
+ When  Ritual Summoning  with " Advanced Ritual Art ", you can only send  Normal Monsters  to the Graveyard. You cannot send monsters like " Ritual Raven " or " Djinn Releaser of Rituals " to the Graveyard. Furthermore, you may not banish a monster like " Djinn Releaser of Rituals " from your Graveyard when  Ritual Summoning  with " Advanced Ritual Art ". [3] 
+ You can  Ritual Summon  " Evigishki Levianima ", etc. with the effect of "Advanced Ritual Art". Also, you can Ritual Summon " Demise, King of Armageddon " and " Black Luster Soldier " with " Contract with the Abyss " and " Earth Chant ". [4] 
+ If " Advanced Ritual Art " is activated while " Macro Cosmos " is applying, the chosen  Normal Monsters  are  banished  without being sent the Graveyard, but the Ritual Monster can still be Ritual Summoned. [5] 
+ If " Divine Grace - Northwemko " is  Ritual Summoned  by " Advanced Ritual Art ", then the Normal Monsters sent from the Deck to the Graveyard will count towards " the number of monsters used to Ritual Summon this card ". [6] 
+ Mentions in Other Rulings 
+ Amorphactor Pain : You can Ritual Summon " Amorphactor Pain, the Imagination Dracoverlord " with " Advanced Ritual Art " or " Earth Chant ". [7] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [8]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [9] [10] [11] [12] [13] [14] [15] [16] [17] 
+ 
+ This effect does not  target  anything. 
+ You choose the  Ritual Monster  you want to  Ritual Summon  when the effect  resolves . 
+ 
+ 
+ 
+ References 
+ 
+ ↑  1.0   1.1   1.2   Konami OCG Card Database : Advanced Ritual Art 
+ 
+ ↑   Konami OCG Card Database : When Ritual Summoning "Nekroz of Valkyrus", can you use "Advanced Ritual Art"? 
+ 
+ ↑   Konami OCG Card Database : Can you send "Djinn Releaser of Rituals" from the Deck to the Graveyard when Ritual Summoning with the effect of "Advanced Ritual Art"? 
+ 
+ ↑   Konami OCG Card Database : Can you Ritual Summon "Evigishki Levianima", etc. with the effect of "Advanced Ritual Art"? 
+ 
+ ↑   Konami OCG Card Database : Can you Ritual Summon with the effect of "Advanced Ritual Art" even if the monsters sent to the Graveyard are banished? 
+ 
+ ↑   Konami OCG Card Database : When a Normal Monster is sent from the Deck to the Graveyard by "Advanced Ritual Art", is it counted as a monster used to Ritual Summon "Divine Grace - Northwemko"? 
+ 
+ ↑   Konami OCG Card Database : Can you Ritual Summon "Amorphactor Pain, the Imagination Dracoverlord" by the effect of "Advanced Ritual Art" or "Earth Chant"? 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

@@ -1,0 +1,57 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Archlord_Kristya
+
+
+ Archlord Kristya 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Manga Yu-Gi-Oh! BAM 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ If you have exactly 4 Fairy-Type monsters in your Graveyard, you can Special Summon this card from your hand. When you do , add  1 Fairy-Type monster from your Graveyard to your hand. Neither player can Special Summon monsters. If this face-up card would be sent from the field to the Graveyard, it returns to the top of the  owner's  Deck, instead. 
+ If you have exactly 4 Fairy-Type monsters in your Graveyard, you can Special Summon this card  ( from your hand ) .  When you do : Target  1 Fairy-Type monster in your Graveyard ; add that target  to your hand. Neither player can Special Summon monsters. If this face-up card would be sent from the field to the Graveyard, it returns to the top of the Deck, instead. 
+ If you have exactly 4 Fairy-Type monsters in your Graveyard, you can Special Summon this card (from your hand).  If Summoned this way : Target 1 Fairy-Type monster in your Graveyard; add that target to your hand. Neither player can Special Summon monsters. If this face-up card would be sent from the field to the Graveyard, place it on top of the Deck, instead. 
+ 
+ 
+       SOVR-EN096 Stardust Overdrive     
+       CT08-EN010 Collectible Tins 2011 Wave 1     
+       DESO-EN050 Destiny Soldiers     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ 【天使族 ・ 効果】 
+ 【天使族 ／ 効果】 
+ 
+ 
+ 自分の墓地 に存在する 天使族モンスターが４体のみの場合、このカードは手札から特殊召喚 する事が できる。この 効果で 特殊召喚に成功した 時 、自分の墓地 に存在する 天使族モンスター１体を手札に加える。このカードが フィ ー ルド上 に 表側表示で 存在する限り、お互いにモンスターを特殊召喚 する事は できない。このカードが フィールド上から 墓地へ送られる場合、墓地へは行かず持ち主のデッキの一番上に戻る。 
+ ①： 自分の墓地 の 天使族モンスターが４体のみの場合、このカードは手札から特殊召喚できる。 ②： この カードの①の方法 で特殊召喚に成功した 場合 、自分の墓地 の 天使族モンスター１体を 対象として発動する。その天使族モンスターを 手札に加える。 ③： このカードが モンスタ ー ゾーン に存在する限り、お互いにモンスターを特殊召喚できない。 ④：フィールドの表側表示の このカードが墓地へ送られる場合、墓地へは行かず持ち主のデッキの一番上に戻る。 
+ 
+ 
+         VJMP-JP038 V Jump March 2009 promotional card     
+         TRC1-JP014 The Rarity Collection     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/83/ArchlordKristya-SOVR-EN-ScR-1E.jpg/revision/latest/scale-to-width-down/180?cb=20091130072044', 'https://static.wikia.nocookie.net/yugioh/images/3/3e/ArchlordKristya-CT08-EN-SR-LE.jpg/revision/latest/scale-to-width-down/180?cb=20110831191710', 'https://static.wikia.nocookie.net/yugioh/images/1/1e/ArchlordKristya-DESO-EN-SR-1E.png/revision/latest/scale-to-width-down/180?cb=20161117191134', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1a/ArchlordKristya-VJMP-JP-GUR.jpg/revision/latest/scale-to-width-down/180?cb=20100405234121', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/7f/ArchlordKristya-TRC1-JP-SR.png/revision/latest/scale-to-width-down/180?cb=20141220174311']
+Categories: Card Errata, Cards with 2 errata, Cards with card type errata, Cards with 1 erratum, Cards with Japanese errata

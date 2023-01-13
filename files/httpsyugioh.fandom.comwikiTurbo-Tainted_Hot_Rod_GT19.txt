@@ -1,0 +1,101 @@
+Link: https://yugioh.fandom.com/wiki/Turbo-Tainted_Hot_Rod_GT19
+
+The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Turbo-Tainted Hot Rod GT19 魔界造車 － Ｇ Ｔ １ ９ 
+ 
+ English 
+Turbo-Tainted Hot Rod GT19 
+ Japanese (kana) 
+ デスチューン－ジーティイチキュー Check translation 
+ Japanese (base) 
+ 魔界造車－ＧＴ１９ Check translation 
+ Japanese ( rōmaji ) 
+Desu Chūn - Jī Ti Ichi Kyū 
+ Japanese (translated) 
+Death Tune - GT19 
+ Card type 
+ Monster   
+ Attribute 
+ FIRE   
+ Types 
+ Machine  /  Flip  /  Tuner  /  Effect 
+ Level 
+ 3   
+ ATK  /  DEF 
+ 500  /  1500 
+ Passcode 
+ 16769305 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ FLIP : You can  declare  a  Level  from 1 to 9; this card becomes the declared Level until the end of this  turn . During the  Main Phase , if this card was  flipped   face-up  ( Quick Effect ): You can  target  1 other face-up  monster  on the  field ; immediately after this  effect   resolves ,  Synchro Summon  using only that monster and this card. You can only use 1 of these  effects  of "Turbo-Tainted Hot Rod GT19" per  turn , and only  once that turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果は１ターンに１度、いずれか１つしか使用できない。①：このカードがリバースした場合、１～９までの任意のレベルを宣言して発動できる。このカードのレベルはターン終了時まで宣言したレベルになる。②：リバースしたこのカードが表側表示で存在する場合、自分・相手のメインフェイズに、このカード以外の自分・相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターとこのカードのみを素材としてS召喚する。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-07-16 DABL-JP034 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Actions  
+ Activates upon Flip Summon 
+ Activates upon being flipped face-up 
+ Uses itself as a Synchro Material 
+ Uses cards on the field as Fusion Materials 
+ 
+ Stat changes  
+ Changes Levels 
+ 
+ Summoning  categories  
+ Performs a Synchro Summon 
+ 
+ Miscellaneous  
+ Only 1 effect once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17789 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/2a/TurboTaintedHotRodGT19-DABL-JP-C.png/revision/latest/scale-to-width-down/300?cb=20220718230838', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/28?cb=20120918053839', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

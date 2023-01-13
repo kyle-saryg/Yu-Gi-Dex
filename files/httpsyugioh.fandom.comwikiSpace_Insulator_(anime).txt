@@ -1,0 +1,167 @@
+Link: https://yugioh.fandom.com/wiki/Space_Insulator_(anime)
+
+Main card page: " Space Insulator " 
+ Space Insulator 
+ 
+ Japanese:   スペース・インシュレイター 
+ Romaji:   Supēsu Inshureitā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   DARK 
+ 
+ Link Arrows 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Top ,  Bottom 
+ Effect type
+ 
+ 
+ 
+ 
+ Continuous 
+ Trigger 
+ Material 
+ 
+ 
+ 
+ 2  monsters 
+ 
+ [  Cyberse  /  Link  /  Effect  ] 
+ 2  monsters 
+ Monsters this card  points to  lose 800  ATK / DEF . When a  Cyberse   Link Monster  is  Link Summoned  to your  field  while this card is in your  GY , except the  turn  this card was  sent  to the GY: You can  Special Summon  this card to your  zone  that monster points to, but it cannot be used as  material  for a Link Summon, also  banish  it when it  leaves the field .
+ ATK  /  1200     LINK  –  2   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  028 ,  030 ,  038 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ スペース・インシュレイター 
+ 
+ モンスター２体
+ 
+ ①：このカードのリンク先のモンスターの攻撃力・守備力は８００ダウンする。②：このカードが墓地に存在し、自分フィールドにサイバース族リンクモンスターがリンク召喚された時に発動できる。そのモンスターのリンク先となる自分フィールドにこのカードを特殊召喚する。この効果で特殊召喚したこのカードはリンク素材にできず、フィールドから離れた場合に除外される。この効果はこのカードが墓地へ送られたターンには発動できない。 
+ 
+ 
+ Supēsu Inshureitā 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Cyberse 
+ Link Monster 
+ 
+ Actions  
+ Activates from your Graveyard 
+ 
+ Stat changes  
+ Your monsters lose ATK 
+ Your monsters lose DEF 
+ Your opponent's monsters lose ATK 
+ Your opponent's monsters lose DEF 
+ 
+ Summoning  categories  
+ 2 Link Materials 
+ Does not require specific Link Materials 
+ Special Summons itself from your Graveyard 
+ Cannot be used as a Link Material 
+ 
+ Banished  categories  
+ Banishes itself from your field 
+ 
+ 
+ 
+   " Space Insulator " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/8a/SpaceInsulator-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20171122142317', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/dc/SpaceInsulator-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20171122142318', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

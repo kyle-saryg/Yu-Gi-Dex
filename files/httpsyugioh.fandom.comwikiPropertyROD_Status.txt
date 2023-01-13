@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:ROD_Status
+
+This is for listing the ROD Status of Cards. It has type  string .
+ 
+ 
+ 
+ 
+Categories:

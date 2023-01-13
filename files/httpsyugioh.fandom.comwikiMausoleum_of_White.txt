@@ -1,0 +1,263 @@
+Link: https://yugioh.fandom.com/wiki/Mausoleum_of_White
+
+
+ 
+ 
+ Mausoleum of White 光 の 霊 堂 
+ 
+ English 
+Mausoleum of White 
+ French 
+ Mausolée Blanc Check translation 
+ German 
+ Mausoleum des Weißen Check translation 
+ Italian 
+ Mausoleo del Bianco Check translation 
+ Korean 
+ 빛의 영당 Check translation 
+ Portuguese 
+ Mausoléu de Branco Check translation 
+ Spanish 
+ Mausoleo de Blanco Check translation 
+ Japanese (kana) 
+ ひかりのれいどう Check translation 
+ Japanese (base) 
+ 光の霊堂 Check translation 
+ Japanese ( rōmaji ) 
+Hikari no Reidō 
+ Japanese (translated) 
+Mausoleum of Light 
+ Card type 
+ Spell   
+ Property 
+ Field   
+ Passcode 
+ 24382602 
+ Card effect types 
+ 
+ 
+ Continuous-like 
+ Ignition-like 
+ Ignition-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+During your  Main Phase , you can  Normal Summon  1  Level  1  LIGHT   Tuner  in addition to your Normal Summon/ Set . (You can only gain this  effect   once per turn .) Once per  turn : You can  target  1  face-up   monster  you  control ;  send  1  Normal Monster  from your  hand  or  Deck  to the  GY , and if you do, the targeted monster gains  ATK / DEF  equal to the Level of the monster sent to the GY x 100, until the end of this turn (even if this card  leaves the field ). You can  banish  this card from your GY;  add  1 " Burst Stream of Destruction " from your Deck to your hand. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Durant votre Main Phase, vous pouvez Invoquer Normalement 1 Syntoniseur LUMIÈRE de Niveau 1 en plus de votre Invocation Normale ou Pose Normale. (Vous ne pouvez gagner cet effet qu'une fois par tour.) Une fois par tour : vous pouvez cibler 1 monstre face recto que vous contrôlez ; envoyez 1 Monstre Normal depuis votre main ou Deck au Cimetière, et si vous le faites, le monstre ciblé gagne une ATK/DEF égales au Niveau du monstre envoyé au Cimetière x 100 jusqu'à la fin de ce tour (même si cette carte quitte le Terrain). Vous pouvez bannir cette carte depuis votre Cimetière ; ajoutez 1 "Flot Rugissant de Destruction" depuis votre Deck à votre main. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Während deiner Main Phase kannst du zusätzlich zu deiner Normalbeschwörung/deinem Normalen Setzen 1 LICHT Empfänger der Stufe 1 als Normalbeschwörung beschwören. (Du kannst diesen Effekt nur einmal pro Spielzug erhalten.) Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das du kontrollierst; lege 1 Normales Monster von deiner Hand oder deinem Deck auf den Friedhof und falls du dies tust, erhält das als Ziel gewählte Monster bis zum Ende dieses Spielzugs ATK und DEF in Höhe der Stufe des auf den Friedhof gelegten Monsters x 100 (selbst falls diese Karte das Spielfeld verlässt). Du kannst diese Karte von deinem Friedhof verbannen; füge deiner Hand 1 „Drachenodem der Zerstörung“ von deinem Deck hinzu. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Durante la tua Main Phase, puoi Evocare Normalmente 1 Tuner LUCE di Livello 1 in aggiunta alla tua Evocazione Normale/Posizionamento. (Puoi guadagnare questo effetto una sola volta per turno.) Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto che controlli; manda 1 Mostro Normale dalla tua mano o Deck al Cimitero e, se lo fai, il mostro scelto come bersaglio guadagna ATK e DEF pari al Livello del mostro mandato al Cimitero x 100, fino alla fine di questo turno (anche se questa carta lascia il Terreno). Puoi bandire questa carta dal tuo Cimitero; aggiungi 1 "Soffio Esplosivo di Distruzione" dal tuo Deck alla tua mano. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Durante sua Fase Principal, você pode Invocar por Invocação-Normal 1 Regulador de LUZ de Nível 1 em adição à sua Invocação-Normal/Baixar (padrão). (Você só pode se aproveitar deste efeito uma vez por turno.) Uma vez por turno: você pode escolher 1 monstro com a face para cima que você controla; envie 1 Monstro Normal da sua mão ou do Deck para o Cemitério e, se isso acontecer, até o final deste turno, o monstro alvo ganha ATK e DEF igual ao Nível do monstro enviado para o Cemitério x 100 (mesmo que este card deixe o campo). Você pode banir este card do seu Cemitério; adicione 1 "Raio Explosivo de Destruição" do seu Deck à sua mão. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Durante tu Main Phase, puedes Invocar de Modo Normal 1 Cantante de LUZ de Nivel 1 además de tu Invocación Normal/Colocación. (Sólo puedes ganar este efecto una vez por turno). Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controles; manda al Cementerio 1 Monstruo Normal en tu mano o Deck y, si lo haces, hasta el final de este turno el monstruo seleccionado gana ATK/DEF igual al Nivel del monstruo mandado al Cementerio x 100 (aún si esta carta deja el Campo). Puedes desterrar esta carta en tu Cementerio; añade a tu mano 1 "Rayo Explosivo de Destrucción" en tu Deck. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：このカードがフィールドゾーンに存在する限り、自分は通常召喚に加えて１度だけ、自分メインフェイズに光属性・レベル１チューナー１体を召喚できる。②：１ターンに１度、自分フィールドの表側表示モンスター１体を対象として発動できる。手札・デッキから通常モンスター１体を墓地へ送る。対象のモンスターの攻撃力・守備力はターン終了時まで、墓地へ送ったモンスターのレベル×１００アップする。③：墓地のこのカードを除外して発動できる。デッキから「滅びの爆裂疾風弾」１枚を手札に加える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 이 카드가 필드 존에 존재하는 한, 자신은 통상 소환 외에도 1번만, 자신 메인 페이즈에 빛 속성 / 레벨 1 튜너 1장을 일반 소환할 수 있다. ②: 1턴에 1번, 자신 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 패 / 덱에서 일반 몬스터 1장을 묘지로 보낸다. 대상 몬스터의 공격력 / 수비력은 턴 종료시까지, 묘지로 보낸 몬스터의 레벨 × 100 올린다. ③: 묘지의 이 카드를 제외하고 발동할 수 있다. 덱에서 "멸망의 폭렬질풍탄" 1장을 패에 넣는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2016-05-05 SHVI-EN059 Shining Victories Rare 2016-10-06 LDK2-ENK21 Legendary Decks II Common 2017-08-24 MP17-EN030 2017 Mega-Tin Mega Pack Rare 2018-03-08 LCKC-EN036 Legendary Collection Kaiba Mega Pack Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2016-05-05 SHVI-FR059 Shining Victories Les Victoires Scintillantes Rare 2016-10-06 LDK2-FRK21 Legendary Decks II Decks Legendaires II Common 2017-08-24 MP17-FR030 2017 Mega-Tin Mega Pack 2017 Méga-Boîte Méga-Pack Rare 2018-03-08 LCKC-FR036 Legendary Collection Kaiba Mega Pack Collection Légendaire Kaiba Méga-Pack Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2016-05-05 SHVI-DE059 Shining Victories Shining Victories Rare 2016-10-06 LDK2-DEK21 Legendary Decks II Legendary Decks II Common 2017-08-24 MP17-DE030 2017 Mega-Tin Mega Pack 2017 Mega-Tin Mega Pack Rare 2018-03-08 LCKC-DE036 Legendary Collection Kaiba Mega Pack Legendary Collection Kaiba Mega Pack Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2016-05-05 SHVI-IT059 Shining Victories Vittorie Brillanti Rare 2016-10-06 LDK2-ITK21 Legendary Decks II I Deck Leggendari II Common 2017-08-24 MP17-IT030 2017 Mega-Tin Mega Pack 2017 Mega-Tin Mega Pack Rare 2018-03-08 LCKC-IT036 Legendary Collection Kaiba Mega Pack Collezione Leggendaria Kaiba Mega Pack Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2016-05-06 SHVI-PT059 Shining Victories Conquistas Brilhantes Rare 2016-10-07 LDK2-PTK21 Legendary Decks II Decks Lendários II Common 2017-08-24 MP17-PT030 2017 Mega-Tin Mega Pack Mega-Pacote da Mega-Latas 2017 Rare 2018-03-09 LCKC-PT036 Legendary Collection Kaiba Mega Pack Coleção Lendária Kaiba Mega Pack Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2016-05-05 SHVI-SP059 Shining Victories Victorias Brillantes Rare 2016-10-06 LDK2-SPK21 Legendary Decks II Barajas Legendarias II Common 2017-08-24 MP17-SP030 2017 Mega-Tin Mega Pack 2017 Mega-Lata Mega Pack Rare 2018-03-08 LCKC-SP036 Legendary Collection Kaiba Mega Pack Colección Legendaria Kaiba Mega Pack Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2016-01-09 SHVI-JP059 Shining Victories シャイニング・ビクトリーズ Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2016-05-17 SHVI-KR059 Shining Victories 샤이닝 빅토리즈 Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ LIGHT 
+ Tuner monster 
+ Normal Monster 
+ Burst Stream of Destruction 
+ 
+ Related to  archetypes  and  series   
+ Blue-Eyes 
+ with Eyes of Blue 
+ 
+ Actions  
+ Sends from your hand to your Graveyard 
+ Sends from your Deck to your Graveyard 
+ Activates from your Graveyard 
+ Adds from Deck to hand 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ 
+ Summoning  categories  
+ Allows multiple Normal Summons 
+ 
+ Banished  categories  
+ Banishes itself from Graveyard for cost 
+ 
+ Miscellaneous  
+ Gain this effect once per turn 
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12331 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Blue-Eyes " 「ブルーアイズ」 Members 
+ Blue-Eyes Abyss Dragon Blue-Eyes Alternative Ultimate Dragon Blue-Eyes Alternative White Dragon Blue-Eyes Chaos Dragon Blue-Eyes Chaos MAX Dragon Blue-Eyes Jet Dragon Blue-Eyes Shining Dragon Blue-Eyes Solid Dragon Blue-Eyes Spirit Dragon Blue-Eyes Toon Dragon Blue-Eyes Twin Burst Dragon Blue-Eyes Tyrant Dragon Blue-Eyes Ultimate Dragon Blue-Eyes White Dragon Dragon Spirit of White Malefic Blue-Eyes White Dragon Neo Blue-Eyes Ultimate Dragon 
+ Support 
+ Blue-Eyes Spirit Dragon Deep-Eyes White Dragon Dictator of D. Master with Eyes of Blue Neo Blue-Eyes Ultimate Dragon Priestess with Eyes of Blue Protector with Eyes of Blue Sage with Eyes of Blue The White Stone of Ancients 
+ Beacon of White Bingo Machine, Go!!! Majesty with Eyes of Blue The Ultimate Creature of Destruction Vision with Eyes of Blue 
+ Related 
+ Azure-Eyes Silver Dragon Black Luster Soldier Black Luster Soldier Chronicle Magician Chronicle Sorceress Dragon Master Knight Kaibaman Legendary Dragon of White Maiden with Eyes of Blue Mystical Elf Mystical Elf - White Lightning Paladin of White Dragon Rider of the Storm Winds White Night Dragon The White Stone of Legend 
+ Black Luster Ritual Burst Stream of Destruction Chaos Form Destined Rivals Mausoleum of White The Melody of Awakening Dragon Neutron Blast Rage with Eyes of Blue Silver's Cry Strength in Unity Toon World True Light Ultimate Fusion White Dragon Ritual 
+ 
+   
+ with Eyes of Blue   青 き 眼 の Members 
+ Maiden with Eyes of Blue Master with Eyes of Blue Priestess with Eyes of Blue Protector with Eyes of Blue Sage with Eyes of Blue 
+ Majesty with Eyes of Blue Rage with Eyes of Blue Vision with Eyes of Blue 
+ Related 
+ Blue-Eyes White Dragon Rider of the Storm Winds 
+ Mausoleum of White 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/05/MausoleumofWhite-LCKC-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20180323163055', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/1/14/Field.svg/revision/latest/scale-to-width-down/28?cb=20120920120155']
+Categories: Duel Monsters cards, TCG cards, OCG cards

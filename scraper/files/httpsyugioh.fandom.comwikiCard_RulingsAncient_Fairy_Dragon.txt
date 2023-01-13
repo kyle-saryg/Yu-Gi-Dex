@@ -1,0 +1,40 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Ancient_Fairy_Dragon
+
+
+ Ancient Fairy Dragon 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ TCG Rulings 
+ The effect to destroy a  Field Spell Card  does not  target . [1] 
+ If you activate the effect of “ Ancient Fairy Dragon ” to destroy a  Field Spell Card , you must both destroy a Field Spell Card and gain 1000  Life Points  in order to add a Field Spell Card to your hand. [1] 
+ The effect of “ Ancient Fairy Dragon ” can destroy  Set  Field Spell Cards. [1] 
+ If there are 2 Field Spell Cards on the field the effect of “ Ancient Fairy Dragon ” will destroy both of them. [1] 
+ OCG Rulings 
+ The effect of " Ancient Fairy Dragon " which destroys the  Field Spell Card  does not  target . [2] 
+ If the effect of " Ancient Fairy Dragon " does not destroy the Field Spell Card - such as if " Ancient City - Rainbow Ruins " has its " 1+ " effect active - then do not resolve the other effects of " Ancient Fairy Dragon ".  Do not add another Field Spell Card from your Deck to your hand, and do not gain 1000 Life Points. [3] 
+ The effects " destroy a Field Spell Card " and " gain 1000 Life Points " of " Ancient Fairy Dragon " are considered to resolve simultaneously.  However, if you choose to resolve the " add 1 Field Spell Card to your hand " effect, then that occurs afterwards. [4] 
+ Example: If " Geartown " is destroyed by the effect of " Ancient Fairy Dragon " and you choose not to add a  Field Spell Card  to your hand, then you can activate the effect of " Geartown ".  However, if you add a  Field Spell Card  to your hand, then you  miss the timing  and cannot activate the effect of " Geartown ". [4] 
+ References 
+ 
+ ↑  1.0   1.1   1.2   1.3   Konami Gameplay FAQ : Ancient Prophecy -- Card Rulings (version 1.0) 
+ 
+ ↑   Konami FAQ : Synchro Monster > Ancient Fairy Dragon 
+ 
+ ↑   Konami FAQ : Do you still recover 1000 Life Points and add a Field Spell Card to your hand when "Ancient Fairy Dragon" cannot destroy the Field Spell Card? 
+ 
+ ↑  4.0   4.1   Konami FAQ : When "Ancient Fairy Dragon" destroys "Geartown", can you Special Summon an "Ancient Gear" monster? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

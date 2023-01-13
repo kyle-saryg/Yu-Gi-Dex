@@ -1,0 +1,9 @@
+Link: https://yugioh.fandom.com/wiki/Property:Non-physical_card
+
+This property denotes whether "cards" have physical cards.
+ It uses  string  values.
+ 
+ 
+ 
+ 
+Categories:

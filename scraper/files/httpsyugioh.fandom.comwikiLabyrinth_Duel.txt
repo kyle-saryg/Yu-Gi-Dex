@@ -1,0 +1,68 @@
+Link: https://yugioh.fandom.com/wiki/Labyrinth_Duel
+
+      The Labyrinth Duel in the anime.     
+ A  Labyrinth Duel  in the  Duelist Kingdom  part of the anime and manga is an altered set of rules to  Duel Monsters  that occurs when " Labyrinth Wall " is put into play. The gameplay of  Yu-Gi-Oh! The Duelists of the Roses  is similar.
+ One such Duel occurred when  Yugi Muto  and  Joey Wheeler  Dueled the  Paradox Brothers .
+ 
+ Contents 
+ 
+ 1   Manga and anime rules 
+ 2   Real life game 
+ 
+ 2.1   Setup 
+ 2.2   Rules 
+ 
+ 2.2.1   Moving 
+ 2.2.2   Battling 
+ 
+ 
+ 2.3   Cards 
+ 
+ 
+ 
+ 
+ Manga and anime rules 
+ A Labyrinth Duel is considered part of the  Duelist Kingdom  rules, so all the basic rules from that tournament still apply.
+ Additional or altered rules included:
+ 
+ When " Labyrinth Wall " is Summoned, the  Field  becomes a 9x9 grid with walls along the lines of some squares forming a maze. 
+ Monsters  can move a number of squares equal to their  Level . Monsters can  attack  monsters within 1 square of each other. Flying monsters may not move through the maze. 
+ " Shadow Ghoul " may be fused with the "Labyrinth Wall" to Summon " Wall Shadow ". The field and maze still remain when "Wall Shadow" is Summoned or destroyed. "Wall Shadow" may attack monsters anywhere on the grid adjacent to a wall. 
+ Activating " Magical Labyrinth " randomly rearranges the walls. 
+ " Dungeon Worm " can tunnel under the grid. 
+ The monster equipped with " Salamandra " can attack any monster anywhere in the labyrinth with a flying fire attack. 
+ Real life game 
+ Yu-Gi-Oh! Duelist   volume 4  included rules for a  Duel Monsters Labyrinth Battle Game . At the end of the volume there was a set of rules along with pictures of cards and a grid which could be photocopied and cut out.
+ 
+ Setup 
+       The field.     
+ The game requires:
+ 
+ 2 players 
+ An enlarged copy of the 16x11 grid provided. 
+ 2 photocopies of the cards provided. 
+ Each player gets 1 copy of the photocopied cards. They choose up to 7 of the cards so that the total number of Level Stars is 20. Each player places their 7 monsters in their provided Card Base on the grid.
+ 
+ Rules 
+ Each player takes turns moving their cards around the grid and battling their opponent's cards. A player wins when they remove all of their opponent's cards.
+ 
+ Moving 
+ A player can move a monster a number of spaces equal to its Level. A monster cannot move more or fewer spaces than its Level. 
+ A player can move up to 3 monsters per turn. 
+ Only 1 card can exist in a single space at a time. 
+ A player may move monsters over their own monsters, but not their opponent's. 
+ After moving a monster, the monster is placed in either Attack or Defense Mode. An Attack Mode card is positioned vertically. A Defense Mode card is positioned horizontally. 
+ Battling 
+ When a player's card is in Attack Mode and stops next to an opponent's card they may battle. Cards that lose a battle are removed from the game.
+ 
+ When two Attack Mode cards battle, the card with lower ATK is removed. If they have the same ATK, both are removed. 
+ If an Attack Mode card battles a Defense Mode card and has higher ATK than its DEF, the Defense Mode card is removed. 
+ If an Attack Mode card battles a Defense Mode card and the Attack Mode card has the same ATK as the opposing monster's DEF, then the Defense Mode card is removed. 
+ If 2 or more of a player's Attack Mode cards are adjacent to an opponent's card, the player may attack the opponent's card with more than one of their adjacent cards at once. In this case, their ATK is equal to the sum of their individual ATK values. 
+ Cards 
+ Blackland Fire Dragon (Labyrinth) Blue-Eyes White Dragon (Labyrinth) Brain Slime Celtic Swordsman (Labyrinth) Curse of Dragon (Labyrinth) Dark Eye Dark Magician (Labyrinth) Dragon Capture Jar (Labyrinth) Feral Imp (Labyrinth) Gaia the Fierce Knight (Labyrinth) Gate Guardian (Labyrinth) Gimmick Gust (monster) Hercules Beetle (Labyrinth) Killer Needle (Labyrinth) Kuriboh (Labyrinth) Mystical Elf (Labyrinth) Red-Eyes Black Dragon (Labyrinth) Summoned Skull (Labyrinth) Time Magician (Labyrinth) Winged Dragon, Guardian of the Fortress (Labyrinth) 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/dc/Labyrinth-Wall-Anime-Diff-Angle.jpg/revision/latest/scale-to-width-down/300?cb=20090823021118', 'https://static.wikia.nocookie.net/yugioh/images/9/9e/Labyrinth_game_grid.png/revision/latest/scale-to-width-down/200?cb=20121019200706']
+Categories: Games, Games (real world)

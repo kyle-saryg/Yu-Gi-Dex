@@ -1,0 +1,390 @@
+Link: https://yugioh.fandom.com/wiki/Ritual_Beast_Tamer_Lara
+
+
+ 
+ 
+ Ritual Beast Tamer Lara 霊 獣 使 い レラ 
+ 
+ English 
+Ritual Beast Tamer Lara 
+ French 
+ Lara, Dompteur Bête Spirituelle Check translation 
+ German 
+ Geistungeheuer-Zähmerin Lara Check translation 
+ Italian 
+ Domatore Bestia Spirito Lara Check translation 
+ Korean 
+ 령수사 레라 Check translation 
+ Portuguese 
+ Domador da Besta Espiritual Lara Check translation 
+ Spanish 
+ Domador del Espíritu Bestia Lara Check translation 
+ Japanese (kana) 
+ れいじゅうつかい レラ Check translation 
+ Japanese (base) 
+ 霊獣使い レラ Check translation 
+ Japanese ( rōmaji ) 
+Reijūtsukai Rera 
+ Japanese (translated) 
+Spirit Beast Tamer Rera 
+ Card type 
+ Monster   
+ Attribute 
+ WIND   
+ Types 
+ Psychic  /  Effect 
+ Level 
+ 1   
+ ATK  /  DEF 
+ 100  /  2000 
+ Passcode 
+ 87118301 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If this card is  Normal Summoned : You can  target  1 " Ritual Beast "  monster  in your  Graveyard ;  Special Summon  it. You can only Special Summon "Ritual Beast Tamer Lara(s)" once per  turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si cette carte est Invoquée Normalement : vous pouvez cibler 1 monstre "Bête Spirituelle" dans votre Cimetière ; Invoquez-le Spécialement. Vous ne pouvez Invoquer Spécialement un ou plusieurs "Lara, Dompteur Bête Spirituelle" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 „Geistungeheuer“-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. Du kannst nur einmal pro Spielzug ein oder mehr „Geistungeheuer-Zähmerin Lara“ als Spezialbeschwörung beschwören. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se questa carta viene  Evocata Normalmente : puoi  scegliere come bersaglio  1 mostro " Bestia Spirito " nel tuo  Cimitero ;  Evocalo Specialmente . Puoi Evocare Specialmente uno o più "Domatore Bestia Spirito Lara"  una sola volta per turno . 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se este card for  Invocado  por  Invocação-Normal : você pode  escolher  1  monstro  " Besta Espiritual " no seu  Cemitério ; Invoque-o por  Invocação-Especial . Você só pode Invocar "Domador(es) da Besta Espiritual Lara" por Invocação-Especial uma vez por  turno . 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si esta carta es Invocada de Modo Normal: puedes seleccionar 1 monstruo "Espíritu Bestia" en tu Cementerio; Invócalo de Modo Especial. Sólo puedes Invocar de Modo Especial uno o más "Domador del Espíritu Bestia Lara" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 自分は「霊獣使い レラ」を１ターンに１度しか特殊召喚できない。①：このカードが召喚に成功した場合、自分の墓地の「霊獣」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신은 "령수사 레라"를 1턴에 1번밖에 특수 소환할 수 없다. ① : 이 카드가 일반 소환에 성공했을 경우, 자신의 묘지의 "령수" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2015-02-13  
+ THSF-EN022   
+ The Secret Forces 
+ Secret Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2015-02-12  
+ THSF-FR022   
+ The Secret Forces 
+ Les Forces Secrètes  
+ Secret Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2015-02-12  
+ THSF-DE022   
+ The Secret Forces 
+ The Secret Forces  
+ Secret Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2015-02-12  
+ THSF-IT022   
+ The Secret Forces 
+ Le Forze Segrete  
+ Secret Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2015-02-13  
+ THSF-PT022   
+ The Secret Forces 
+ As Forças Secretas  
+ Secret Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2015-02-12  
+ THSF-SP022   
+ The Secret Forces 
+ Las Fuerzas Secretas  
+ Secret Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2014-10-11  
+ SPTR-JP022   
+ Booster Special: Tribe Force 
+ ブースターＳＰ －トライブ・フォース－  
+ Common 
+ 
+ 
+ 2014-10-11  
+ SPTR-JP022   
+ Booster Special: Tribe Force 
+ ブースターＳＰ －トライブ・フォース－  
+ Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2015-01-26  
+ SPTR-KR022   
+ Booster Special: Tribe Force 
+ 부스터-SP 트라이브포스  
+ Common 
+ 
+ 
+ 2015-01-26  
+ SPTR-KR022   
+ Booster Special: Tribe Force 
+ 부스터-SP 트라이브포스  
+ Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Ritual Beast Tamer 
+ Ritual Beast 
+ 
+ Supports   archetypes   
+ Ritual Beast 
+ 
+ Actions  
+ Activates upon Normal Summon 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ Special Summon once per turn 
+ 
+ Miscellaneous  
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11492 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Ritual Beast " 「 霊 獣 」 Members 
+ Ritual Beast Tamer Elder Ritual Beast Tamer Lara Ritual Beast Tamer Wen Ritual Beast Tamer Zeframpilica Ritual Beast Tamer Zefrawendi Ritual Beast Ulti-Apelio Ritual Beast Ulti-Cannahawk Ritual Beast Ulti-Gaiapelio Ritual Beast Ulti-Kimunfalcos Ritual Beast Ulti-Pettlephin Spiritual Beast Apelio Spiritual Beast Cannahawk Spiritual Beast Pettlephin Spiritual Beast Rampengu Spiritual Beast Tamer Winda 
+ Ritual Beast Ambush Ritual Beast Return Ritual Beast Steeds Ritual Beast's Bond 
+ Support 
+ Ritual Beast Tamer Elder Ritual Beast Tamer Lara Ritual Beast Tamer Wen Ritual Beast Tamer Zeframpilica Ritual Beast Tamer Zefrawendi Ritual Beast Ulti-Cannahawk Ritual Beast Ulti-Kimunfalcos Spiritual Beast Apelio Spiritual Beast Cannahawk Spiritual Beast Pettlephin Spiritual Beast Rampengu Spiritual Beast Tamer Winda 
+ Ritual Beast Ambush Ritual Beast Return Ritual Beast Steeds Ritual Beast's Bond 
+ Related 
+ Daigusto Laplampilica El Shaddoll Wendigo El Shaddoll Winda Gusto Falco Kamui, Hope of Gusto Leo, the Keeper of the Sacred Tree Naturia Gaiastrio Pilica, Descendant of Gusto Reeshaddoll Wendi Shaddoll Falco Winda, Priestess of Gusto 
+ 
+   
+" Ritual Beast Tamer " 「 霊 獣 使 い」 Members 
+ Ritual Beast Tamer Elder Ritual Beast Tamer Lara Ritual Beast Tamer Wen Ritual Beast Tamer Zeframpilica Ritual Beast Tamer Zefrawendi Spiritual Beast Tamer Winda 
+ Support 
+ Ritual Beast Ulti-Apelio Ritual Beast Ulti-Cannahawk Ritual Beast Ulti-Gaiapelio Ritual Beast Ulti-Kimunfalcos Ritual Beast Ulti-Pettlephin 
+ Ritual Beast Ambush 
+ Related 
+ Daigusto Laplampilica El Shaddoll Wendigo El Shaddoll Winda Pilica, Descendant of Gusto Reeshaddoll Wendi Winda, Priestess of Gusto 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/07/RitualBeastTamerLara-THSF-EN-ScR-1E.png/revision/latest/scale-to-width-down/300?cb=20150213182003', 'https://static.wikia.nocookie.net/yugioh/images/0/01/WIND.svg/revision/latest/scale-to-width-down/28?cb=20170920205028', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836']
+Categories: Duel Monsters cards, TCG cards, OCG cards

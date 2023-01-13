@@ -1,0 +1,53 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:All-Out_Attacks
+
+
+ All-Out Attacks 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ All   monsters   that are  Special Summoned  are   changed  to face-up Attack Position and must attack, if able, during the turn they are Special Summoned. 
+ If a   monster (s) is  Special Summoned  while this card is face-up on the field:   Change   that monster  to face-up Attack Position ,  and must attack, if able, during the turn they are Special Summoned. 
+ 
+ 
+       PTDN-EN075 Phantom Darkness     
+   File:AllOutAttacks-OP11-EN-C-UE.png     OP11-EN022 OTS Tournament Pack 11     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ 特殊召喚に成功したモンスター は 表側攻撃表示に なる 。そのモンスターが攻撃可能な モンスターだった 場合 、そのターン に攻撃しなければならない。 
+ このカードがフィールド上に存在する場合にモンスターが 特殊召喚に成功した 時、その モンスター を 表側攻撃表示に する 。 そのターン そのモンスターが攻撃可能な場合に は 攻撃しなければならない。 
+ 
+ 
+ Successfully  Special Summoned monsters are changed to face-up Attack Position. Those monsters must attack that turn, if able. 
+ When a monster is Special Summoned  while this card is on the field , that monster is changed to face-up Attack Position. Those monsters must attack that turn, if able. 
+ 
+ 
+       PTDN-JP075 Phantom Darkness     
+       DE02-JP107 Duelist Edition Volume 2     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/5b/AllOutAttacks-PTDN-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20080526034254', 'https://static.wikia.nocookie.net/yugioh/images/b/bc/AllOutAttacks-PTDN-JP-C.jpg/revision/latest/scale-to-width-down/180?cb=20080202152825', 'https://static.wikia.nocookie.net/yugioh/images/7/76/AllOutAttacks-DE02-JP-C.jpg/revision/latest/scale-to-width-down/180?cb=20120714025324']
+Categories: Card Errata, Cards with 1 erratum, Errata table transclusions using translated lore parameters, Cards with Japanese errata

@@ -1,0 +1,57 @@
+Link: https://yugioh.fandom.com/wiki/Forum_talk:Index
+
+
+ 
+ 
+ 
+   This page is for discussing how the forums are organized. If you wish to create a new forum thread, click one of the topics in the left column  here . Then enter the name of the forum in the box labeled "add new topic".  
+ 
+ 
+ Contents 
+ 
+ 1   Splitting Forum:Yu-Gi-Oh! Wiki Discussion 
+ 2   "Sticky Threads" 
+ 3   The Forum:Yu-Gi-Oh! Wiki Discussion section has been split 
+ 4   Changing the name of Forum:Yu-Gi-Oh! Lists Discussion 
+ 5   Broken button 
+ 
+ 
+ Splitting  Forum:Yu-Gi-Oh! Wiki Discussion 
+ Per some of the comments on  Forum:Sidebar links , I'd like to split the  YGO Wiki Discussion forum  into at least two separate fora, one specifically for discussing wiki-related issues, and another for more general discussion. Thoughts?  「 ダイノ ガイ 千？！ 」 ?  ·  Talk⇒Dinoguy1000  06:14, June 22, 2010 (UTC)
+ 
+ I have no objections.--  HHTurtle    (Talk)  09:16, June 22, 2010 (UTC) 
+ I'm in favour as you can see from the sidebar forum. It should be a lot easier to keep track of forums about changes to the wiki. 
+ I think the general discussion forum should be called "General Yu-Gi-Oh! Discussion" or "Yu-Gi-Oh! Discussion". The wiki discussion one should be "Yu-Gi-Oh! Wikia Discussion" or something like "Yu-Gi-Oh! Wiki Community Discussion". I don't think calling it "Yu-Gi-Oh! Wiki Discussion" would be a bit messy. (Maybe we should lowercase the first letter in the common nouns.) 
+ Whatever way they're renamed, I think we should hack  Template:Forumheader , so  {{ Forumheader | Yu-Gi-Oh! Wiki Discussion }}  will point to "General Yu-Gi-Oh! Discussion" (or whatever we call it), so we don't have to edit and screw-up the "last edit" date. And change the few forums that are actual wiki discussion to  {{ Forumheader | Yu-Gi-Oh! Wiki Community Discussion }}  (or whatever it's called). That will screw-up the "last edit" dates, but not as many. 
+ Since the index pages, rely on what category the forums are in, we'll either have to null edit 1,800+ pages (bots) or plea with the techs to clear the job queue. Or is there a way to get them to list pages from two categories? --  Deltaneos  ( talk ) 12:58, July 5, 2010 (UTC) 
+ "Sticky Threads" 
+ Just to add to the functionality of the Forums, is there a way to make sticky threads? You know, threads that are always at the top so that vital threads are easier to look for. For example, the Deck Guide is very useful but it always get buried under a lot of general discussion.--  HHTurtle    (Talk)  15:05, July 5, 2010 (UTC)
+ 
+ I believe  LiquidThreads  has that or similar functionality, but there's no telling when it'll be ready for use on the Wikimedia wikis, let alone when the techs here'll be willing to install it.  「 ダイノ ガイ 千？！ 」 ?  ·  Talk⇒Dinoguy1000  15:21, July 5, 2010 (UTC) 
+ I haven't heard of LiquidThreads before, but it is kind of possible to make sticky threads given what we already have. The indexes look at forums from a particular category and order them by most recently edited. So if you make a separate category. [[Category:Yu-Gi-Oh! Deck Help (stickied)]] for example. You can have two lists on  Forum:Yu-Gi-Oh! Deck Help . One for the stickied category and one for the non-stickied. When we want to sticky or unsticky a forum, we just change its category. --  Deltaneos  ( talk ) 16:05, July 5, 2010 (UTC) 
+ Alternatively, these topics could simply be linked in the forum's descriptions, if there are a set number of them.  「 ダイノ ガイ 千？！ 」 ?  ·  Talk⇒Dinoguy1000  16:14, July 5, 2010 (UTC) 
+ Considering the fact the devs have apparently told us "sorry, do it yourself" in the face of a job queue with 15,000+ items, I doubt adding another 1,800 items (many of which are already in the queue due to my past edits to {{ Forumheader }}) is going to convince them otherwise. 
+ Personally, I'm not particularly worried about the last edited dates, but if they're that important, I'm wondering if Dantman couldn't write a pywikipediabot script to do the job, which would place the last edited information (time, date, and author) in its edit summaries automatically...  「 ダイノ ガイ 千？！ 」 ?  ·  Talk⇒Dinoguy1000  15:21, July 5, 2010 (UTC) 
+ Considering the forums are ordered by last edit, if we were to make an edit updating the pages, we would have to start at the bottom and work up. Doing it randomly, alphabetically or from top to bottom would mess up the order that they're displayed. --  Deltaneos  ( talk ) 16:05, July 5, 2010 (UTC) 
+ I still don't think it would be much worse than when Fallensilence went through and commented on a bunch of forum discussions about a month ago...  「 ダイノ ガイ 千？！ 」 ?  ·  Talk⇒Dinoguy1000  16:12, July 5, 2010 (UTC) 
+ The  Forum:Yu-Gi-Oh! Wiki Discussion  section has been split 
+ The forum has been split; General Discussion should hopefully start self-populating.  「 ダイノ ガイ 千？！ 」 ?  ·  Talk⇒Dinoguy1000  06:21, July 30, 2010 (UTC)
+ I love what you've done. Just hope people like Fallensilence (No offense) will know the difference between the 2 new sections.--  HHTurtle    (Talk)  07:54, July 30, 2010 (UTC)
+ 
+ Well, if he insists on continuing to comment in a whole bunch of topics that have been inactive for some time, it'd be nice if he would at least update  {{ Forumheader | Yu-Gi-Oh! Wiki Discussion }}  to  {{ Forumheader | General Yu-Gi-Oh! Discussion }}  (but I'm not holding my breath).  「 ダイノ ガイ 千？！ 」 ?  ·  Talk⇒Dinoguy1000  08:00, July 30, 2010 (UTC) 
+ Changing the name of  Forum:Yu-Gi-Oh! Lists Discussion 
+ I'm asking if we should change the name of this section because people keep thinking it is a section for the discussion of lists like "Top Ten Favourite Monsters" or "Top Ten Favourite Characters". I think it should be changed to "Yu-Gi-Oh! Forbidden & Limited Lists Discussion". What do you think about it?--  HHTurtle    (Talk)  06:13, August 2, 2010 (UTC)
+ 
+ I agree in principle, but then we'd need a similar cleanout to what happened with  Forum:Yu-Gi-Oh! Wiki Discussion  - most of the threads would end up in  Forum:General Yu-Gi-Oh! Discussion , meaning that to prevent the most date-changing edits possible, we'd have to make  {{ Forumheader |Forum:Yu-Gi-Oh! Lists Discussion}}  behave like it were  {{ Forumheader |Forum:General Yu-Gi-Oh! Discussion}} : trivial, but not particularly pretty. 
+ To make the change itself, though, I'd first create the new forum and give you and others time to look through old topics, moving them as necessary, before updating {{ Forumheader }} and making a bot run to null-edit all remaining topics so they'll move to the general discussion forum. Anyone have any thoughts?  「 ダイノ ガイ 千？！ 」 ?  ·  Talk⇒Dinoguy1000  08:10, August 2, 2010 (UTC) 
+ I'm not too sure you understand what I mean. I'm just asking for the name of the section to be changed so that it will be easier for other people to understand what that section is for. The only change I'm asking for is: [[Forum:Yu-Gi-Oh! Lists Discussion]] >>>> [[Yu-Gi-Oh! Forbidden & Limited Lists Discussion]]. If the change was made, the threads will still remain in the newly named section and there won't be any date-changing edits.--  HHTurtle    (Talk)  10:19, August 2, 2010 (UTC) 
+ As for topics that don't belong there, their Forumheaders can just be changed so they will be in the correct sections.--  HHTurtle    (Talk)  10:24, August 2, 2010 (UTC) 
+ No, I understood exactly what you were talking about, but I felt like rambling. =) The problem with editing the forumheader on each topic to move topics that don't belong in the forum comes down to how many topics there are that belong there versus how many that don't, and how long it's been since the last comment/edit on them. We should try to edit as few topics as possible in the course of an update, which means that if most of the topics in the list discussion forum belong in the general discussion forum, the current list forum header will have to be indefinitely sequestered for the general forum (just as the "wiki discussion" header is) - otherwise we'll end up with a very large number of topics with incorrect last edit timestamps. In the meantime, I'd strongly recommend moving errant topics to the correct forum *as they are posted* to prevent any more mixing.  「 ダイノ ガイ 千？！ 」 ?  ·  Talk⇒Dinoguy1000  00:37, August 3, 2010 (UTC) 
+ Broken button 
+ The New Topic button for all the forums is broken. Would someone mind fixing it? Thanks  Kdawgprime  ( talk  •  contribs ) 09:04, 25 January 2021 (UTC)
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/79/Icon-Warning-Red.svg/revision/latest/scale-to-width-down/40?cb=20081228002152']
+Categories:

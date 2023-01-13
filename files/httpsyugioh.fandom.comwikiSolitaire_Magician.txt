@@ -1,0 +1,355 @@
+Link: https://yugioh.fandom.com/wiki/Solitaire_Magician
+
+
+ The Japanese (OCG) version of this card is not a member of the " Magician "  archetype , because its Japanese name does not contain  「 魔 術 師 」 .   As its English name contains "Magician", it  may  be treated a member of the "Magician" archetype at a TCG event, subject to local rulings.     
+ The  Arabic, Croatian, Portuguese  and  Greek                     names given are not official.  
+ The  Portuguese                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Solitaire Magician ソリテア・マジカル 
+ 
+ English 
+Solitaire Magician 
+ French 
+ Magicienne Solitaire Check translation 
+ German 
+ Solitär-Magierin Check translation 
+ Italian 
+ Mago Solitario Check translation 
+ Korean 
+ 솔리테어 매지컬 Check translation 
+ Portuguese 
+ Maga Solitária Check translation 
+ Spanish 
+ Maga Solitaria Check translation 
+ Japanese 
+ ソリテア・マジカル Check translation 
+ Japanese ( rōmaji ) 
+Soritea Majikaru 
+ Japanese (translated) 
+Solitaire Magical 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Spellcaster  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1600  /  1300 
+ Passcode 
+ 28966434 
+ Card effect types 
+ 
+ 
+ Ignition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Once per  turn , you can  select  1  face-up  " Fortune Lady "  monster  you  control  and 1 other face-up monster on the  field . Reduce the  Level  of the selected "Fortune Lady" monster by 3, and  destroy  the other selected monster. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Une fois par tour, vous pouvez sélectionner 1 monstre "Demoiselle de Fortune" que vous contrôlez et 1 autre monstre face recto sur le Terrain. Réduisez le Niveau du monstre "Demoiselle de Fortune" sélectionné de 3, et détruisez l'autre monstre sélectionné. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Einmal pro Spielzug kannst du 1 offenes „Schicksalsdame“-Monster, das du kontrollierst, und 1 anderes offenes Monster auf dem Spielfeld wählen. Reduziere die Stufe des gewählten „Schicksalsdame“-Monsters um 3 und zerstöre das andere gewählte Monster. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Una volta per turno, puoi scegliere 1 mostro "Signora della Fortuna" scoperto che controlli e 1 altro mostro scoperto sul Terreno. Riduci di 3 il Livello del mostro "Signora della Fortuna" scelto, e distruggi l'altro mostro scelto. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Uma vez por turno: você pode escolher 1 monstro "Senhora da Fortuna" com a para cima que você controla e 1 outro monstro com a para cima no campo; reduza o Nível do alvo primeiro em 3 e, se isso acontecer, destrua o alvo segundo. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Una vez por turno puedes seleccionar 1 monstruo "Adivinadora" boca arriba que controles y otro monstruo boca arriba en el Campo. Reduce en 3 el Nivel del monstruo "Adivinadora" seleccionado y destruye al otro monstruo. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 自分フィールド上に表側表示で存在する「フォーチュンレディ」と名のついたモンスター１体と、フィールド上に表側表示で存在するモンスター１体を選択して発動する。選択した「フォーチュンレディ」と名のついたモンスターのレベルを３つ下げ、選択したもう１体のモンスターを破壊する。この効果は１ターンに１度しか使用できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신 필드 위에 앞면 표시로 존재하는 "포츈 레이디"라는 이름이 붙은 몬스터 1장과 필드 위에 앞면 표시로 존재하는 몬스터 1장을 선택하고 발동한다. 선택한 "포츈 레이디"라는 이름이 붙은 몬스터의 레벨을 3개 내리고, 1장 더 선택한 몬스터는 파괴한다. 이 효과는 1턴에 1번밖에 사용할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2009-11-17  
+ SOVR-EN013   
+ Stardust Overdrive 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2009-11-12  
+ SOVR-FR013   
+ Stardust Overdrive 
+ Pouvoir de la Poussière d'Etoile  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2009-11-12  
+ SOVR-DE013   
+ Stardust Overdrive 
+ Stardust Overdrive  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2009-11-12  
+ SOVR-IT013   
+ Stardust Overdrive 
+ Potere della Polvere di Stelle  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2009-11-12  
+ SOVR-SP013   
+ Stardust Overdrive 
+ Poder de Polvo de Estrellas  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2009-07-18  
+ SOVR-JP013   
+ Stardust Overdrive 
+ ＳＴＡＲＤＵＳＴ ＯＶＥＲＤＲＩＶＥ  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2009-11-19  
+ SOVR-KR013   
+ Stardust Overdrive 
+ 광속의 스타더스트  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   archetypes   
+ Fortune Lady 
+ 
+ Related to  archetypes  and  series   
+ Fortune Lady 
+ Fortune Fairy 
+ 
+ Stat changes  
+ Your monsters lose Levels 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys Monster Cards 
+ 
+ Miscellaneous  
+ Limited activations 
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 8448 ( ja  ( rulings )   en   fr   de   it   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Fortune Fairy " 「 占 い 魔 女 」 Members 
+ Fortune Fairy Ann Fortune Fairy Chee Fortune Fairy En Fortune Fairy Hikari Fortune Fairy Hu Fortune Fairy Swee 
+ Support 
+ Lucky Loan Miracle Stone Unacceptable Result 
+ Related 
+ Solitaire Magician 
+ 
+   
+" Fortune Lady " 「フォーチュンレディ」 Members 
+ Fortune Lady Dark Fortune Lady Earth Fortune Lady Every Fortune Lady Fire Fortune Lady Light Fortune Lady Past Fortune Lady Water Fortune Lady Wind 
+ Fortune Lady Calling Fortune Lady Rewind 
+ Support 
+ Fortune Lady Dark Fortune Lady Fire Fortune Lady Light Fortune Lady Past Fortune Lady Water Fortune Lady Wind Solitaire Magician 
+ Bending Destiny Fortune Lady Calling Fortune Lady Rewind Fortune Vision Fortune's Future Inherited Fortune Time Passage 
+ Related 
+ Catoblepas and the Witch of Fate Fortune Fairy Ann Fortune Fairy Chee Fortune Fairy En Fortune Fairy Hikari Fortune Fairy Hu Fortune Fairy Swee Solitaire Magician 
+ Future Visions Slip of Fortune 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/7/78/SolitaireMagician-SOVR-EN-C-UE.jpg/revision/latest?cb=20091121171938', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

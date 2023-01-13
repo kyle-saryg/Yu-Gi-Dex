@@ -1,0 +1,9 @@
+Link: https://yugioh.fandom.com/wiki/Property:English_(EN)_release_date
+
+This property documents the dates sets were released in English, with EN as the language ID in the set numbers.
+ This property uses  date  values.
+ 
+ 
+ 
+ 
+Categories:

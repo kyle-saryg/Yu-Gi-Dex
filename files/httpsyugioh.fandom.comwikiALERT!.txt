@@ -1,0 +1,106 @@
+Link: https://yugioh.fandom.com/wiki/ALERT!
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ ALERT! ＡＬＥＲＴ ！ 
+ 
+ English 
+ALERT! 
+ Japanese (kana) 
+ アラート！ Check translation 
+ Japanese (base) 
+ ＡＬＥＲＴ！ Check translation 
+ Japanese ( rōmaji ) 
+Arāto! 
+ Card type 
+ Spell   
+ Property 
+ Quick-Play   
+ Passcode 
+ 26372118 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+(This card is always treated as a " Rescue-ACE " card.) Add  1 "Rescue-ACE"  monster  from your  GY  to your  hand , or, if you  control  " Rescue-ACE Hydrant ", you can add 1 "Rescue-ACE" monster from your  Deck  to your hand instead. You can only  activate  1 "ALERT!" per  turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名はルール上「 Ｒ－ＡＣＥ 」カードとしても扱う。このカード名のカードは１ターンに１枚しか発動できない。①：自分の墓地から「 Ｒ－ＡＣＥ 」モンスター１体を選んで手札に加える。自分フィールドに「 Ｒ－ＡＣＥ ハイドラント」が存在する場合、代わりにデッキから「 Ｒ－ＡＣＥ 」モンスター１体を加える事もできる。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-08-20 DBAD-JP010 Deck Build Pack: Amazing Defenders デッキビルドパック アメイジング・ディフェンダーズ Common 2022-08-20 DBAD-JP010 Deck Build Pack: Amazing Defenders デッキビルドパック アメイジング・ディフェンダーズ Normal Parallel Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Rescue-ACE Hydrant 
+ 
+ Archetypes  and  series   
+ Rescue-ACE 
+ 
+ Supports   archetypes   
+ Rescue-ACE 
+ 
+ Actions  
+ Adds from Graveyard to hand 
+ Adds from Deck to hand 
+ 
+ Miscellaneous  
+ Archetype condition 
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 18000 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Rescue-ACE " 「 Ｒ－ＡＣＥ 」 Members 
+ Rescue-ACE Air Hoister Rescue-ACE Fire Attacker Rescue-ACE Fire Engine Rescue-ACE Hydrant Rescue-ACE Impulse Rescue-ACE Intruder Rescue-ACE Turbulence 
+ ALERT! CONTAIN! EXTINGUISH! RESCUE! Rescue-ACE Headquarters 
+ Support 
+ Rescue-ACE Air Hoister Rescue-ACE Fire Attacker Rescue-ACE Fire Engine Rescue-ACE Hydrant Rescue-ACE Impulse Rescue-ACE Intruder Rescue-ACE Turbulence 
+ ALERT! CONTAIN! EXTINGUISH! RESCUE! Rescue-ACE Headquarters 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/11/ALERT-DBAD-JP-C.png/revision/latest/scale-to-width-down/300?cb=20220825231602', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/05/Quick-Play.svg/revision/latest/scale-to-width-down/28?cb=20120920115228']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

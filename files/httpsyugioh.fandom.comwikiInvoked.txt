@@ -1,0 +1,916 @@
+Link: https://yugioh.fandom.com/wiki/Invoked
+
+
+ 
+ Invoked 
+ 召喚獣 「 しょうかんじゅう 」  ( Shōkanjū ) 
+ 
+ 
+ 
+ 
+ " Aleister the Invoker " summoning " Invoked Cocytus " in the artwork of " Invocation " 
+ 
+ 
+ Translation 
+ Invoked Beast 
+ 
+ 
+ Other names 
+ 
+ French 
+ Invokhé 
+ 
+ 
+ German 
+ Beschworen Translation:  Summon 
+ 
+ 
+ Italian 
+ Invokato 
+ 
+ 
+ Korean 
+ 소환수 召喚獸   (Hanja)   Sohwansu   (romanized) 
+ 
+ 
+ Portuguese 
+ Invokado(a) 
+ 
+ 
+ Spanish 
+ Invokado/a 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Eternity Code 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Fusion Enforcers OTS Tournament Pack 6 Shadows in Valhalla Battles of Legend: Armageddon Genesis Impact 2021 Tin of Ancient Battles Maximum Gold: El Dorado 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Booster SP: Fusion Enforcers LINK VRAINS Pack 20th Secret Rare Challenge Pack Selection 5 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Invoked ", known as " Invoked Beast " ( 召 喚 獣   Shōkanjū ) in the  OCG , is an  archetype  of  Fusion Monsters  debuting in  Booster SP: Fusion Enforcers .
+ It's related to the " Prophecy " archetype (" Crowley, the First Propheseer ") and the " Magistus " archetype (" Crowley, the Magistus of Grimoires ").
+ 
+ Design 
+ Design-wise, the archetype consists of "Invoked"  Fusion Monsters  who are seemingly Summoned through  magic powers  by  sorcerers .
+ Individually, each "Invoked" represents a different  Attribute , with their  Fusion Materials  being " Aleister the Invoker " plus one monster of their specific Attribute, and are named after historical or mythological elements related to said Attribute. They also contain the staff of "Aleister" somewhere in their artworks, but much brighter than the original.
+ 
+ 
+ 
+ Invoked Support
+ 
+ Origin
+ 
+ 
+ Aleister the Invoker  /  Aleister the Invoker of Madness 
+ 
+ Aleister Crowley 
+ 
+ 
+ Invocation 
+ 
+ Invocation 
+ 
+ 
+ Magical Meltdown 
+ 
+ Unicursal hexagram 
+ 
+ 
+ The Book of the Law 
+ 
+ The Book of the Law 
+ 
+ 
+ Omega Summon 
+ 
+ To Mega Therion 
+ 
+ 
+ 
+ Level
+ 
+ Attribute
+ 
+ Type
+ 
+ Invoked
+ 
+ Origin
+ 
+ 
+ 4
+ 
+ DARK 
+ 
+ Beast 
+ 
+ Caliga 
+ 
+ Caligula 
+ 
+ 
+ 5
+ 
+ WIND 
+ 
+ Warrior 
+ 
+ Raidjin 
+ 
+ Raijin 
+ 
+ 
+ 6
+ 
+ WATER 
+ 
+ Dragon 
+ 
+ Cocytus 
+ 
+ Cocytus 
+ 
+ 
+ 7
+ 
+ FIRE 
+ 
+ Fiend 
+ 
+ Purgatrio 
+ 
+ Purgatory 
+ 
+ 
+ 8
+ 
+ EARTH 
+ 
+ Rock 
+ 
+ Magellanica 
+ 
+ Terra Australis 
+ 
+ 
+ 9
+ 
+ LIGHT 
+ 
+ Machine 
+ 
+ Mechaba 
+ 
+ Merkabah 
+ 
+ 
+ 10
+ 
+ All
+ 
+ Fairy 
+ 
+ Elysium 
+ 
+ Elysium 
+ 
+ Playing Style 
+ This archetype's plays start with either the Field Spell " Magical Meltdown " to search " Aleister the Invoker " who searches for this archetype's Fusion Spell card called " Invocation ", this can Fusion Summon any monster using Materials from the hand, and can also  banish   Fusion Materials  from  either  GY or one's own field if Summoning one of the Invoked monsters. It can also recycle itself to the Deck and a banished "Aleister the Invoker" to the hand. Aleister can also act as a  handtrap , giving any Fusion Monster +1000 ATK until the end of the turn.
+ This traits give the Invoked strategy a lot of versatility for many reasons. Firstly, they can access generic Fusion Monsters without needing  Polymerization  or other off-archetype cards. Secondly, only one Aleister is needed to produce an unending stream of Invoked monsters. Thirdly, the ability to banish monsters from either GY means it is possible to deny your opponent a chance to recycle important monsters while possibly gaining an unusual  Attribute  for your Summon. Finally, the ability to banish other monsters from one's own GY means it is possible to use the monsters on the field for a  Link Summon , before getting a second use from them.
+ However, it is rare to see "pure" Invoked Decks, as the deck lacks Main Deck components; Aleister is the only Main Deck monster, and most builds only use Magical Meltdown and Invocation. Due to this, to summon the Extra Deck monsters consistently, outside support is necessary. As a result, Invoked are most commonly seen as an  engine  in other Decks, particularly those with little to no Normal Summon reliance or otherwise play cards like  Brilliant Fusion  to get an extra one. These Decks can give up the Normal Summon to Aleister while successfully executing their main strategy, using the Invoked to provide either offensive firepower or defence to help their plays go off. Examples of Decks that have historically used Invoked successfully include  Windwitch ,  Mekk-Knights ,  Thunder Dragons , and  Trickstars . As of 2022, Invoked has seen more extensive use, particularly alongside  Dogmatika  and  Shaddoll , forming the "IDS" build.
+ The Invoked Fusion monsters are naturally not all viewed as equally strong, and choosing to play them often revolves around which can be Summoned in a Deck.  Caliga ,  Magellanica  and  Cocytus  are viewed as being comparatively weak, but they can still be viable especially if their Attribute is strong in the current meta, as their Summoning will often be far easier.  Elysium  is often viewed as practically infeasible to Summon, and as not giving enough rewards for the large investment made in it, so is nearly never played.
+ Invoked Raidjin  is a highly versatile option that effectively provides a  Book of Moon  every turn. The fact it is a Warrior and can be Summoned off Instant Fusion also makes it popular in Decks that Summon  Isolde, Two Tales of the Noble Knights .  Invoked Purgatrio  is a highly dangerous monster that gains ATK for each card the opponent controls and can attack all monsters the opponent controls. As it also does  piercing  damage, it can  OTK  the opponent in a flash, making for a startling contrast to the Deck's mainly control-focused options. Finally,  Invoked Mechaba  has an awesome negation effect that can negate any effect in the game once per turn by discarding the same type of card as the opponent activated (Monster/Spell/Trap), and then banish whatever was on the receiving end of this effect. If one can Summon multiple Mechaba, the opponent will have a hard time doing anything with the right cards in hand.
+ With the release of  Aleister the Invoker of Madness  as a dedicated Link Monster for this archetype, Decks that play Invoked Monsters now can Fusion Summon even more often, and can even use the Invoker of Madness himself for a last Summon, as his name becomes Aleister the Invoker on the field. He also gives better support to the archetype's Spell/Trap cards, so the other non-direct Fusion cards are more effective now.
+ 
+ 
+ Recommended Cards Monsters   
+ Normal Monsters 
+ Gem-Knight Garnet 
+ Effect Monsters 
+ Aleister the Invoker 
+ Genex Ally Changer 
+ Homunculus the Alchemic Being 
+ King of the Swamp 
+ Predaplant Darlingtonia Cobra 
+ Predaplant Ophrys Scorpio 
+ Spellbook Magician of Prophecy Extra Deck   
+ Fusion Monsters 
+ Invoked Caliga 
+ Invoked Cocytus 
+ Invoked Elysium 
+ Invoked Magellanica 
+ Invoked Mechaba 
+ Invoked Purgatrio 
+ Invoked Raidjin 
+ Mudragon of the Swamp 
+ Starving Venom Fusion Dragon 
+ Gem-Knight Seraphinite 
+ Xyz Monsters 
+ Generic Rank 4 Monsters
+ 
+ Link Monsters 
+ Aleister the Invoker of Madness 
+ Borreload Dragon 
+ Saryuja Skull Dread 
+ Knightmare  monsters Spells   &  Traps   
+ Spells 
+ Invocation 
+ Magical Meltdown 
+ The Book of the Law 
+ Brilliant Fusion 
+ Fusion Conscription 
+ Fusion Substitute  /  Polymerization 
+ Instant Fusion 
+ Spellbook of Secrets 
+ Spellbook of Knowledge 
+ Super Polymerization 
+ Terraforming 
+ Traps 
+ Omega Summon 
+ Fuh-Rin-Ka-Zan 
+ Fusion Reserve 
+ Royal Decree 
+ Weaknesses 
+ Cards like " Non-Fusion Area ", " Fossil Dyna Pachycephalo " and " Dimensional Barrier " can be used to prevent Fusion Summons or slow down the "Invoked" strategy. 
+ " Chain Disappearance " can be used to banish all copies of "Aleister" at the time it is Normal Summoned. Bear in mind, though, that if "Invocation" is sent to the GY, by a card like " Twin Twisters ", " Foolish Burial Goods ", etc, those copies can be easily retrieved. 
+ " Mistake " or " Thunder King Rai-Oh " can shut down key cards like " Terraforming ", "Magical Meltdown" and, most importantly, "Aleister" itself. 
+ " Imperial Iron Wall " can be used to prevent the "Invoked" player from banishing monsters from their opponent's GY, and can also disable the powerful effect of "Invoked Mechaba", since it will not be able to banish the card it would have negated. " Artifact Lancea " can also be used as a one-turn  hand trap . 
+   
+" Invoked " 「 召 喚 獣 」 Members 
+ Invoked Augoeides Invoked Caliga Invoked Cocytus Invoked Elysium Invoked Magellanica Invoked Mechaba Invoked Purgatrio Invoked Raidjin 
+ Support 
+ Invoked Elysium 
+ The Book of the Law Invocation Omega Summon 
+ Related 
+ Aleister the Invoker Aleister the Invoker of Madness Crowley, the First Propheseer Crowley, the Magistus of Grimoires 
+ Alpha Summon Magical Meltdown 
+ 
+ 
+ 
+ Six Attributes 
+ 
+ This box:  view edit 
+ DARK    
+ EARTH   
+ FIRE    
+ LIGHT   
+ WATER   
+ WIND    
+ 
+ 
+ /Assault Modes 
+ Red Dragon Archfiend  /  Colossal Fighter 
+ Hyper Psychic Blaster  /  T.G. Halberd Cannon 
+ Doomkaiser Dragon 
+ Arcanite Magician 
+ n/a 
+ Stardust Dragon 
+ 
+ 
+ @Ignisters    Base forms   Evolved forms 
+ Doyon     Dark Templar 
+ Doshin     Earth Golem 
+ Achichi     Fire Phoenix 
+ Pikari     Light Dragon 
+ Hiyari     Water Leviathan 
+ Bururu     Wind Pegasus 
+ 
+ 
+ Alchemy Beasts    Summoners     (Normal Spell Cards) 
+ Moonface the Silver     Silver Key 
+ Leon the Lead     Lead Compass 
+ Salamandra the Steel     Steel Lamp 
+ Ouroboros the Bronze     Bronze Scale 
+ Ekenas the Mercury     Mercury Hourglass 
+ Aretos the Tin     Tin Spell Circle 
+ 
+ 
+ Aliens 
+ Overlord  /  Mother  /  Psychic 
+ Shocktrooper  /  Infiltrator  /  Warrior 
+ Mars  /  Telepath 
+ Ammonite  /  Dog  /  Grey  /  Kid  /  Shocktrooper M-Frame 
+ Hunter  /  Hypno 
+ Skull 
+ 
+ 
+ Altergeists 
+ Primebanshee  /  Multifaker  /  Kidolga  /  Fifinellag  /  Dragvirion  /  Memorygant  /  Pookuery 
+ Kunquery 
+ Hexstia 
+ Marionetter 
+ Meluseek  /  Fijialert 
+ Silquitous  /  Pixiel 
+ 
+ 
+ Aromages 
+ Marjoram 
+ Cananga 
+ Bergamot 
+ Jasmine 
+ Rosemary 
+ Laurel 
+ 
+ 
+ Attribute Boosters   (500 ATK▲/400 DEF▼)    Link Monsters    (500 ATK▲/500 DEF▲)    Field Spells    (500 ATK▲/400 DEF▼)    Equip Spells    (400 ATK▲/200 DEF▼) 
+ Witch's Apprentice     Wee Witch's Apprentice     Mystic Plasma Zone     Sword of Dark Destruction 
+ Milus Radiant     Missus Radiant     Gaia Power     Invigoration 
+ Little Chimera     Duelittle Chimera     Molten Destruction     Burning Spear 
+ Hoshiningen     Hip Hoshiningen     Luminous Spark     Elf's Light 
+ Star Boy     Mistar Boy     Umiiruka     Steel Shell 
+ Bladefly     Greatfly     Rising Air Current     Gust Fan 
+ 
+ 
+ Attribute Knights 
+ Armageddon 
+ Dust 
+ Brushfire 
+ Dawn 
+ Shore 
+ Altitude 
+ 
+ 
+ Attribute Reptiles 
+ Umbral Soul 
+ Raging Earth 
+ Firestorm Prominence 
+ Radiant Spirit 
+ Silent Abyss 
+ Destruction Cyclone 
+ 
+ 
+ Attribute Sorcerers    (4/1500/0/Spellcasters) 
+ Dark 
+ n/a 
+ Fire 
+ Light 
+ Aqua 
+ n/a 
+ 
+ 
+ Attribute Spirits 
+ Luna the Dark Spirit 
+ The Rock Spirit 
+ Spirit of Flames 
+ Diana the Light Spirit 
+ Aqua Spirit 
+ Garuda the Wind Spirit 
+ 
+ 
+ Attribute Summoners 
+ Mystic Tomato 
+ Giant Rat 
+ UFO Turtle 
+ Shining Angel 
+ Mother Grizzly 
+ Flying Kamakiri #1 
+ 
+ 
+ B.E.S. 
+ Big Core 
+ Covered Core  /  Blaster Cannon Core 
+ Big Core MK-2 
+ Big Core MK-3 
+ Crystal Core 
+ Tetran 
+ 
+ 
+ Barrier Statues 
+ Abyss 
+ Drought 
+ Inferno 
+ Heavens 
+ Torrent 
+ Stormwinds 
+ 
+ 
+ Beast Gear World 
+ Catapult Devilkong 
+ Motor Wolf  /  Trike Fox  /  King Convoy Ligeon 
+ Buggy Dog 
+ n/a 
+ n/a 
+ Gyro Jackal 
+ 
+ 
+ Charmers     Familiar-Possessed     Cataclysmic Charmers     Spiritual Arts    Familiar   Possessed Familiars 
+ Dharc     Dharc     n/a     Greed     Meda Bat     n/a 
+ Aussa     Aussa     Avalanching Aussa     Kurogane     Marmot     Nefarious 
+ Hiita     Hiita     Blazing Hiita     Kurenai     Fox Fire     Inari Fire 
+ Lyna     Lyna     n/a     Hijiri     Happy Lover     n/a 
+ Eria     Eria     Raging Eria     Aoi     Gigobyte     Jigabyte 
+ Wynn     Wynn     Storming Wynn     Miyabi     Petit Dragon     Ranryu 
+ 
+ 
+ Chrysalis     Neo-Spacians    Evolved forms   Contact Fusions   Evolved forms   Advanced Contact Fusions 
+ Pantail     Dark Panther     n/a     Dark Neos     n/a     Chaos Neos 
+ Mole     Grand Mole     n/a     Grand Neos     n/a     Nebula Neos 
+ Larva     Flare Scarab     n/a     Flare Neos     n/a     Magma Neos 
+ Pinny     Glow Moss     Twinkle Moss     Glow Neos     n/a     Cosmo Neos 
+ Dolphin     Aqua Dolphin     Marine Dolphin     Aqua Neos     Marine Neos     n/a 
+ Chicky     Air Hummingbird     n/a     Air Neos     n/a     Storm Neos 
+ 
+ 
+ Code Talkers      (Link-3) 
+ Decode    ( Extended ) 
+ Transcode 
+ Powercode 
+ Encode 
+ Shootingcode 
+ Excode 
+ 
+ 
+ Color Ninjas    Dragon Ninjas 
+ Strike     Black 
+ Senior Silver     n/a 
+ n/a     Red 
+ White     White 
+ n/a     Blue 
+ Yellow     Yellow 
+ 
+ 
+ Cubic 
+ Vijam  /  Crimson Nova  ( Trinity ) 
+ Dark Garnex 
+ Blade Garoodia 
+ Duza  /  Buster Gundil  /  Indiora Doom Volt 
+ n/a 
+ Geira Guile 
+ 
+ 
+ CXyz 
+ Dark Fairy Cheer Girl  /  Mechquipped Djinn Angeneral 
+ Comics Hero Legend Arthur  /  Battleship Cherry Blossom  /  Zubaba Saikyo General 
+ Coach Lord Ultimatrainer 
+ Simon the Great Moral Leader  /  Barian Hope 
+ N.As.Ch. Knight 
+ Skypalace Babylon 
+ 
+ 
+ Dice Roll  Archfiends 
+ Terrorking  /  Masterking 
+ Vilepawn 
+ Infernalqueen 
+ Desrook 
+ Darkbishop 
+ Shadowknight 
+ 
+ 
+ Double Tributers     Effigies 
+ Double Coston     Dark 
+ The Trojan Horse     Earth 
+ Flame Ruler     n/a 
+ Kaiser Sea Horse     Light 
+ Unshaven Angler     n/a 
+ Whirlwind Prodigy     Wind 
+ 
+ 
+ Dragonmaids    Human forms   Dragon forms 
+ Chamber     n/a 
+ Nurse     Ernus 
+ Kitchen     Tinkhec 
+ House     Sheou 
+ Laundry     Nudyarl 
+ Parlor     Lorpar 
+ 
+ 
+ Dustons     (1/0/1000/Fiends) 
+ Star 
+ Yellow 
+ Red 
+ House  /  White 
+ Blue 
+ Green 
+ 
+ 
+ Elemental HERO    Fusion Monsters    (1 "HERO" + 1 matching Attribute) 
+ Escuridao 
+ Gaia 
+ Nova Master 
+ The Shining 
+ Absolute Zero 
+ Great Tornado 
+ 
+ 
+ Elemental Lords     Elementsabers 
+ Umbramirage     Molehu 
+ Grandsoil     Aina 
+ Pyrorex     Malo 
+ Phosphorage     Lapauila  ( Mana ) 
+ Moulinglacia     Nalu 
+ Windrose     Makani 
+ 
+ 
+ Empowered Warriors     Summoners 
+ Dragonox     n/a 
+ Terratiger     White Tiger 
+ Arnis     Red Sparrow 
+ Dragodies     Golden Dragon 
+ Hydrortoise      Green Turtle 
+ Ventdra     Blue Dragon 
+ 
+ 
+ Endymion 
+ Master Magician  /  Mighty Master of Magic 
+ Magister 
+ Rogue 
+ Crusader  /  Reflection 
+ Magistus of Mastery 
+ Servant 
+ 
+ 
+ Entities 
+ Azathot 
+ Nyarla 
+ Cthugua 
+ N'tss 
+ Norden 
+ Hastorr 
+ 
+ 
+ Fortune Fairies     Fortune Ladies 
+ Ann     Dark  /  Past 
+ Chee     Earth 
+ En     Fire 
+ Hikari     Light  /  Every 
+ Swee     Water 
+ Hu     Wind 
+ 
+ 
+ Fur Hire 
+ Seal  /  Folgo 
+ Beat  /  Dyna 
+ Bravo 
+ Rafale 
+ Helmer  /  Wiz 
+ Donpa  /  Recon  /  Sagitta 
+ 
+ 
+ Generaiders 
+ Hela  /  Harr 
+ Dovelgus  /  Jormungandr 
+ Naglfar  /  Loptr 
+ Mardel  /  Utgarda 
+ Nidhogg 
+ Frodi 
+ 
+ 
+ Gizmek 
+ Orochi 
+ Uka 
+ Kaku 
+ Yata 
+ Okami 
+ Mikoto 
+ 
+ 
+ Guardians    Weapons     (Equip Spell Cards) 
+ Baou  /  Dreadscythe     Wicked-Breaking Flamberge  /  Reaper Scythe 
+ Grarl     Gravity Axe 
+ Ceal     Shooting Star Bow 
+ Tryce     Twin Swords of Flashing Light 
+ Kay'est     Rod of Silence 
+ Elma  /  Eatos     Buttefly Dagger  /  Celestial Sword 
+ 
+ 
+ Invoked     (1 " Aleister the Invoker " + 1 matching Attribute) 
+ Caliga 
+ Magellanica 
+ Purgatrio 
+ Mechaba 
+ Cocytus 
+ Raidjin 
+ 
+ 
+ Kaiju 
+ Radian 
+ Kumongous 
+ Dogoran 
+ Jizukiru  /  Mecha-Dogoran  /  Thunder King  /  Mecha-Thunder-King 
+ Gameciel 
+ Gadarla 
+ 
+ 
+ Knightmare 
+ Iblee  /  Unicorn  /  Orcust  /  Idlee 
+ Cerberus 
+ Phoenix 
+ Gryphon 
+ Mermaid 
+ Goblin 
+ 
+ 
+ Legendary Planets 
+ Sun  /  Jupiter  /  Saturn  /  Pluto 
+ Terra Firma 
+ Mars 
+ Venus  /  Uranus 
+ Mercury  /  Neptune 
+ n/a 
+ 
+ 
+ Masked HEROes 
+ Dark Law  /  Anki 
+ Dian 
+ Goka 
+ Koga 
+ Vapor  /  Acid 
+ Divine Wind  /  Blast 
+ 
+ 
+ Magician Girls 
+ ( Toon )    Dark    ( Dragon Knight ) 
+ Berry 
+ Apple 
+ Lemon 
+ Chocolate 
+ Kiwi 
+ 
+ 
+ Magikey 
+ Clavkiys  /  Batosbuster  /  Ansyalabolas 
+ Garesglasser 
+ Transfurlmine 
+ Mafteal 
+ Vepartu 
+ Andrabime 
+ 
+ 
+ Magistus 
+ Grimoire Crowley 
+ Goddess Ninaruru 
+ Flame Zoroa  /  Dragon Vafram 
+ Verre Cendrillon  /  Maiden Artemis 
+ Master Endymion 
+ Saint Aiwass 
+ 
+ 
+ Mirror Force 
+ Dark 
+ Quaking 
+ Blazing 
+ Radiant 
+ Drowning 
+ Storming 
+ 
+ 
+ Monarchs    Mega Monarchs   Related  "Monarch"  Spell/Trap Cards    Vassals 
+ Caius  /  Erebus     Caius the Mega     Tenacity  /  The First     Lucius  /  Eidos 
+ Granmarg     Granmarg the Mega     Return     Landrobe  /  Samsara Kaiser 
+ Thestalos     Thestalos the Mega     Erupt     Berlineth 
+ Zaborg  /  Ehther     Zaborg the Mega     Strike  /  The Prime     Mithra  /  Edea 
+ Mobius     Mobius the Mega     Awaken     Escher 
+ Raiza     Raiza the Mega     Stormforth     Garum 
+ 
+ 
+ Musical  Djinns 
+ Maestroke 
+ Temtempo 
+ n/a 
+ Melomelody 
+ Humhumming 
+ Muzurhythm 
+ 
+ 
+ Mythyrian Numbers 
+ Djinn Buster 
+ Lion Heart  /  Ronin Raccoon Sandayu 
+ n/a 
+ Sky Pegasus  /  Dragluon 
+ Abyss Splash  /  Crystalzero 
+ n/a 
+ 
+ 
+ Nemeses 
+ Protos 
+ Keystone 
+ Flag 
+ Eschatos 
+ Umbrella 
+ Corridor 
+ 
+ 
+ Number 10X     Number C10X 
+ n/a     Umbral Horror Masquerade 
+ Giant Hand     Giant Red Hand 
+ Battlin' Boxer Star Cestus     Battlin' Boxer Comet Cestus 
+ Star Seraph Sentry  /  Masquerade  /  Galaxy-Eyes Tachyon Dragon     Archfiend Seraph  /  Neo Galaxy-Eyes Tachyon Dragon 
+ Silent Honor ARK  /  Ragnazero     Silent Honor DARK  /  Ragnafinity 
+ n/a     n/a 
+ 
+ 
+ Odd-Eyes Dragons 
+ Odd-Eyes  /  Pendulum  /  Rebellion  ( Overlord ) /  Persona  /  Phantom  /  Mirage  /  Performapal Metal Claw  /  Raging  /  Supreme King  /  Wing  /  Venom  /  Arc Pendulum  /  Advance  /  Wizard 
+ Gravity 
+ Meteorburst 
+ Saber  /  Lancer  /  Revolution  /  Pendulumgraph 
+ Absolute 
+ Vortex 
+ 
+ 
+ Pendulum  Magicians 
+ Stargazer  /  Timegazer  /  Xiangke  /  Timebreaker  /  Acrobatic  /  Dragoncaller  /  Harmonizing  /  Double Iris  /  Black Fang  /  Purple Poison  /  Performapal Celestial 
+ Dragonpulse 
+ Nobledragon 
+ Wisdom-Eye  /  Xiangsheng  /  Dharma-Eye  /  Performapal Five-Rainbow 
+ Dragonpit 
+ Oafdragon  /  White Wing 
+ 
+ 
+ Prediction Princesses 
+ Astromorrigan 
+ Coinorma  /  Petalelf 
+ n/a 
+ Tarotrei 
+ Crystaldine 
+ Arrowsylph 
+ 
+ 
+ Resonators 
+ Dark  /  Synkron  /  Crimson 
+ Clock 
+ Flare  /  Red  /  Double  /  Net 
+ Barrier  /  Chain  /  Mirror 
+ Force 
+ Creation 
+ 
+ 
+ Road Magic 
+ N/A 
+ Diastrophism 
+ Explosion 
+ Rays Alter 
+ Backflow 
+ Tempest 
+ 
+ 
+ El Shaddoll    Fusion Monsters    (1 "Shaddoll" + 1 matching Attribute) 
+ Winda 
+ Shekhinaga 
+ Grysta 
+ Construct 
+ Anoyatyllis 
+ Wendigo 
+ 
+ 
+ Signer Dragons 
+ Red Archfiend  /  Black-Winged 
+ Life Stream 
+ Black Rose 
+ Ancient Fairy 
+ n/a 
+ Stardust 
+ 
+ 
+ Six Samurai     Legendary Six Samurai     Secret Six Samurai 
+ Irou     Shi En     Doji 
+ Yariza     Kizan     Kizaru 
+ Kamon     Mizuho     Genba 
+ Zanji     Enishi     Rihan 
+ Yaichi     Shinai     Hatsume 
+ Nisashi     Kageki     Fuma 
+ 
+ 
+ Sky Striker Ace 
+ Raye  /  Zeke 
+ Kaina 
+ Kagari 
+ Roze 
+ Shizuku 
+ Hayate 
+ 
+ 
+ Sushi Angels 
+ Spider Roll 
+ Monkey Roll 
+ n/a 
+ Garibel  /  Agaribel 
+ Tiger Roll 
+ Dragon Roll 
+ 
+ 
+ Synchro  Warriors    Tuner  Synchrons 
+ Junk  /  Satellite     Junk  /  Satellite 
+ Drill     Drill 
+ Nitro  /  Jet     Nitro  /  Jet 
+ Road     Road 
+ n/a     Steam 
+ Turbo     Turbo 
+ 
+ 
+ Tenyi  Spirits 
+ Vishuda 
+ Adhara 
+ Mapura 
+ Ashuna  /  Sahasrara 
+ Sthana 
+ Nahata 
+ 
+ 
+ The Weathers    Canvas     (Continuous Spell/Trap Cards) 
+ Aurora     Auroral 
+ Snow     Snowy 
+ Sun     Sunny 
+ Thunder  /  Rainbow     Thundery  /  Rainbowed 
+ Rain     Rainy 
+ Cloud     Cloudy 
+ 
+ 
+ Timelords 
+ Vorpgate 
+ Kamion  /  Hailon 
+ Metaion  /  Lazion  /  Michion 
+ Sephylon  /  Sandaion 
+ Zaphion  /  Gabrion 
+ Sadion  /  Raphion 
+ 
+ 
+ True Draco and True King 
+ All Calamities 
+ Lithosazim  /  Dreiath III 
+ Agnimazud  /  Ignis Heat 
+ Master Peace  ( King ) /  Metaltron XII 
+ Bahrstos  /  Dinomight Knight 
+ Majesty Maiden  /  Mariamne 
+ 
+ 
+ Witchcrafters 
+ Haine 
+ Potterie 
+ Schmitta 
+ Edel  /  Madame Verre  /  Golem Aruru 
+ Pittore 
+ Genni 
+ 
+ 
+ World Chalice 
+ World Legacy 
+ Beckoned  /  Ningirsu 
+ Chosen  /  Auram 
+ Lee 
+ Crowned  / Ib ( Priestess / Justiciar ) 
+ Guardragon  /  Imduk  /  Almarduke 
+ 
+ 
+ Yang Zing 
+ Taotie  /  Jiaotu  /  Yazi 
+ Bi'an  /  Zefraxi  /  Zefraniu 
+ Suanni 
+ Chiwen  /  Baxia  /  Chaofeng  /  Denglong 
+ Bixi 
+ Pulao 
+ 
+ 
+ Yo-kai Girls 
+ Ghost Reaper & Winter Cherries 
+ Ghost Belle & Haunted Mansion 
+ Ash Blossom & Joyous Spring 
+ Ghost Ogre & Snow Rabbit 
+ Ghost Sister & Spooky Dogwood 
+ Ghost Mourner & Moonlit Chill 
+ 
+ 
+ ZW - 
+ Chimera Clad  /  Dragonic Halberd 
+ Ultimate Shield 
+ Phoenix Bow  /  Asura Strike 
+ Unicorn Spear  /  Lightning Blade  /  Leo Arms  /  Sleipnir Mail  /  Fenrir Sword  /  Pegasus Twin Saber  /  Sylphid Wing 
+ n/a 
+ Tornado Bringer  /  Eagle Claw 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/bd/Invocation.png/revision/latest?cb=20170310121545', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/24?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/24?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/24?cb=20120918053839', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Fusion Monster(s)

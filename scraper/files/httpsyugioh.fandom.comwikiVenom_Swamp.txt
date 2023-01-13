@@ -1,0 +1,256 @@
+Link: https://yugioh.fandom.com/wiki/Venom_Swamp
+
+The  Arabic, Croatian, Greek, Portuguese  and  Vietnamese                    names given are not official.  
+ The  Portuguese                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Venom Swamp ヴェノム・スワンプ 
+ 
+ English 
+Venom Swamp 
+ French 
+ Marais Venin Check translation 
+ German 
+ Giftsumpf Check translation 
+ Italian 
+ Palude Veleno Check translation 
+ Korean 
+ 베놈 스왐프 Check translation 
+ Portuguese 
+ Pântano Peçonhento Check translation 
+ Spanish 
+ Pantano Venenoso Check translation 
+ Japanese 
+ ヴェノム・スワンプ Check translation 
+ Japanese ( rōmaji ) 
+Venomu Suwanpu 
+ Card type 
+ Spell   
+ Property 
+ Field   
+ Passcode 
+ 54306223 
+ Card effect types 
+ 
+ 
+ Trigger-like 
+ Continuous-like 
+ Continuous-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+During each player's  End Phase : Place 1  Venom Counter  on each  face-up   monster , except " Venom " monsters. Monsters lose 500  ATK  for each Venom Counter on them.  Destroy  a monster if its ATK becomes 0 by this  effect . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Les monstres perdent 500 points d'ATK pour chaque Compteur Venin placé sur eux. Détruisez un monstre si son ATK devient 0 par cet effet. Durant la End Phase de chaque joueur, placez 1 Compteur Venin sur chaque monstre face recto, excepté les monstres "Venin". 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Während der End Phase jedes Spielers: Lege 1 Gift-Zählmarke auf jedes offene Monster, außer „Gift“-Monstern. Monster verlieren 500 ATK für jede Gift-Zählmarke auf ihnen. Zerstöre ein Monster, falls seine ATK durch diesen Effekt zu 0 werden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Durante ogni End Phase: metti 1 Segnalino Veleno su ogni mostro scoperto, eccetto i mostri "Veleno". I mostri perdono 500 ATK per ogni Segnalino Veleno su di essi. Distruggi i mostri se il loro ATK diventa 0 per questo effetto. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Durante a End Phase de cada jogador, coloque 1 "Venom Counter" em cada monstro virado para cima no campo, exceto em monstros com "Venom" no nome. Para cada "Venom Counter", o monstro perde 500 pontos de ATK. Se o ATK do monstro é reduzido a 0 por este efeito, ele é destruído. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Los Monstruos pierden 500 ATK por cada Contador de Veneno que tengan. Destruye al monstruo si su ATK se convierte en 0 por este efecto. Durante la End Phase de cada jugador, pon 1 Contador de Veneno en cada monstruo boca arriba, excepto monstruos "Venenoso/a". 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ お互いのターンのエンドフェイズ毎に、フィールド上に表側表示で存在する「ヴェノム」と名のついたモンスター以外の表側表示で存在する全てのモンスターにヴェノムカウンターを１つ置く。ヴェノムカウンター１つにつき、攻撃力は５００ポイントダウンする。この効果で攻撃力が０になったモンスターは破壊される。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 서로 턴의 엔드 페이즈마다, 필드 위에 앞면 표시로 존재하는 "베놈"이라는 이름이 붙은 몬스터 이외의 앞면 표시로 존재하는 모든 몬스터에 베놈 카운터를 1개 놓는다. 베놈 카운터 1개당, 공격력은 500 포인트 내린다. 이 효과로 공격력이 0 이 된 몬스터는 파괴된다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2007-08-15 TAEV-EN051 Tactical Evolution Common 2011-10-04 LCGX-EN216 Legendary Collection 2: The Duel Academy Years Mega Pack Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2007-08-04 TAEV-FR051 Tactical Evolution Évolution Tactique Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2007-08-15 TAEV-DE051 Tactical Evolution Tactical Evolution Common 2011-10-20 LCGX-DE216 Legendary Collection 2: The Duel Academy Years Mega Pack Legendary Collection 2: Mega-Pack Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2007-08-15 TAEV-IT051 Tactical Evolution Evoluzione Tattica Common 2011-10-20 LCGX-IT216 Legendary Collection 2: The Duel Academy Years Mega Pack Collezione Leggendaria 2: Mega-Pack Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2007-08-15 TAEV-SP051 Tactical Evolution Evolución Táctica Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2007-05-12 TAEV-JP051 Tactical Evolution ＴＡＣＴＩＣＡＬ ＥＶＯＬＵＴＩＯＮ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2007-06-08 TAEV-KR051 Tactical Evolution 전술의 발전 Common 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Online 
+ 
+ 
+ Pack 45 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Venom 
+ 
+ Supports   archetypes   
+ Venom 
+ 
+ Counters   
+ Venom Counter 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ Your monsters lose ATK 
+ All monsters lose ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys Monster Cards 
+ Destroys face-up Monster Cards 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 7164 ( ja  ( rulings )   en   fr   de   it   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Online 2005-11-04 – – – – – Unlimited 
+ 
+ 
+ 
+   " Venom Swamp " pages 
+ 
+ 
+ Anime Anime 
+ 
+ 
+ 
+   
+" Venom " 「ヴェノム」 Members 
+ Greedy Venom Fusion Dragon Odd-Eyes Venom Dragon Starving Venom Fusion Dragon Starving Venom Predapower Fusion Dragon Supreme King Dragon Starving Venom Venom Boa Venom Cobra Venom Serpent Venom Snake 
+ Venom Burn Venom Shot Venom Swamp 
+ Support 
+ Ambush Fangs Snake Deity's Command Venom Shot Venom Swamp 
+ Related 
+ Odd-Eyes Pendulum Dragon Starving Venemy Dragon Vennominaga the Deity of Poisonous Snakes Vennominon the King of Poisonous Snakes 
+ Rise of the Snake Deity 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e7/VenomSwamp-LCGX-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20210108184253', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/1/14/Field.svg/revision/latest/scale-to-width-down/28?cb=20120920120155']
+Categories: Duel Monsters cards, TCG cards, OCG cards

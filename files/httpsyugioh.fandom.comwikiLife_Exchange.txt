@@ -1,0 +1,106 @@
+Link: https://yugioh.fandom.com/wiki/Life_Exchange
+
+
+ Life Exchange 
+ 
+ Japanese:   ライフ・エクスチェンジ 
+ Romaji:   Raifu Ekusuchenji 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Activate  only when there is a  card effect  that changes your opponent's  Life Points . That change is applied to your Life Points, instead. Then, apply an appropriate effect: ● If you gained Life Points: Inflict 1000  damage  to your opponent. ● If you lost Life Points:  Destroy  1  face-up   monster  your opponent  controls .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  063 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ライフ・エクスチェンジ 
+ カード効果によって相手 ライフ が変化する場合に発動する事ができる。その効果の対象を自分にし、ライフの増減によって以下の効果を得る。●自分のライフが増えた場合：相手ライフに１０００ポイント ダメージ を与える。●自分のライフが減った場合：相手フィールド上に 表側表示 で存在する モンスター １体を 破壊 する。 
+ 
+ 
+ Raifu Ekusuchenji 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Crow Hogan 
+ 
+ 
+ Search categories 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your opponent's face-up Monster Cards 
+ 
+ LP   
+ You gain Life Points 
+ You lose Life Points 
+ Damages you 
+ Damages your opponent 
+ 
+ Miscellaneous  
+ Variable effects 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/be/LifeExchange-JP-Anime-5D.png/revision/latest/scale-to-width-down/200?cb=20160516144514', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/0a/LifeExchange-OW.png/revision/latest/scale-to-width-down/185?cb=20150828002045', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

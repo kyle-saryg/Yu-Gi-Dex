@@ -1,0 +1,136 @@
+Link: https://yugioh.fandom.com/wiki/Decode_Destruction_(anime)
+
+Main card page: " Decode Destruction " 
+ Decode Destruction 
+ 
+ Japanese:   デコード・エンド 
+ Romaji:   Dekōdo Endo 
+ Translated:  Decode End 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Target  1 " Decode Talker " you  control ; apply these  effects  this  turn , depending on the number of  monsters  it  points to . ● 1+: That monster gains 500  ATK  for each monster it points to. ● 2+:  Banish  any monster  destroyed by battle  with that monster after  damage calculation . ● 3: After damage calculation, if that monster destroyed an opponent's monster by battle:  Destroy  all cards your opponent controls. You can only  activate  1 "Decode Destruction" per  turn .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  093 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ デコード・エンド 
+ このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドの「デコード・トーカー」１体を対象として発動できる。そのモンスターのリンク先のモンスターの数によって、このターン以下の効果を適用する。●１体以上：そのモンスターの攻撃力は、そのリンク先のモンスターの数×５００アップする。●２体以上：そのモンスターが戦闘で破壊したモンスターはダメージ計算後に除外される。●３体：そのモンスターが戦闘で相手モンスターを破壊したダメージ計算後に発動する。相手フィールドのカードを全て破壊する。 
+ 
+ 
+ Dekōdo Endo 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Decode Talker  
+ 
+ Archetypes  and  series   
+ Signature move 
+ 
+ Related to  archetypes  and  series   
+ Code Talker  
+ 
+ Actions  
+ Activates when it destroys a monster by battle 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your opponent's Monster Cards 
+ Destroys your opponent's Spell Cards 
+ Destroys your opponent's Trap Cards 
+ 
+ Banished  categories  
+ Banishes cards that would be sent to the Graveyard 
+ Banishes battling monster after damage calculation 
+ 
+ Miscellaneous  
+ Requires control of specific card 
+ Variable effects 
+ Only once per turn 
+ 
+ 
+ 
+   " Decode Destruction " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+" Code Talker " 「コード・トーカー」 a   r Members 
+ Accesscode Talker Code Talker Decode Talker Decode Talker Extended Encode Talker Excode Talker Powercode Talker Shootingcode Talker Transcode Talker Transcode Talker 
+ Support 
+ Code Generator Code Hack Cynet Codec Cynet Optimization Limit Code Micro Coder Recoded Alive Talkback Lancer Transcode Talker 
+ Related 
+ Dark Templar @Ignister Decode Destruction 
+ 
+ v e 
+ Signature move   必 殺 技 a   m   Members 
+ Ancient Sunshine Burst Stream of Destruction Crimson Fire Decode Destruction Inferno Fire Blast Psychic Wave 
+ Related 
+ Ancient Fairy Dragon Blue-Eyes White Dragon Jinzo Jinzo Red Dragon Archfiend Red-Eyes B. Dragon Regulus 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/88/DecodeDestruction-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20190313134859', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429']
+Categories: Anime cards

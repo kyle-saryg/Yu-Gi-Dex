@@ -1,0 +1,51 @@
+Link: https://yugioh.fandom.com/wiki/Summon_Crest
+
+Summon Crests  allow you to Summon your monsters and/or items to the  Dungeon  in the game of  Dungeon Dice Monsters .
+ The number written in each Summon Crest represents the  Level  of the Dice, which determines the difficulty of the Summon.
+ During your turn, if you roll at least 2 Summon Crests of the same Level, you can choose 1 of the dice that resulted in a Summon Crest and  dimension  it. After that, you can Summon 1 of your monsters that has the same  Type  and  Level  as the dimensioned die.
+ Summon crests are  not  stored in your   Crest Counter ; they must be used OR discarded on the same turn that they were rolled.
+ Relevant Icons:           
+ 
+ v e 
+ Dungeon Dice Monsters Pieces 
+ Dice and Cards 
+ Monsters and Items 
+ Lists
+ Manga 
+ Anime 
+ Video game 
+ Terminology 
+ Battle 
+ Dimension 
+ Dungeon 
+ Dungeon Path 
+ Dungeon Master Zone 
+ HP 
+ Crest Counter 
+ Crest Pool 
+ Damage Counter 
+ Life Points 
+ Monster Lord 
+ Movement 
+ Flying 
+ Tunnel 
+ Shelled Ground 
+ Crests 
+ Attack 
+ Defense 
+ Magic 
+ Progress 
+ Summon 
+ Trap 
+ 
+ Category 
+ {{ DDM card }} 
+ {{ Manga DDM card }} 
+ {{ Anime DDM card }} 
+ {{ VG DDM card }} 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/bb/SummonCrestIconLV1.png/revision/latest/scale-to-width-down/40?cb=20070209083529', 'https://static.wikia.nocookie.net/yugioh/images/6/67/SummonCrestIconLV2.png/revision/latest/scale-to-width-down/40?cb=20070209083324', 'https://static.wikia.nocookie.net/yugioh/images/2/2f/SummonCrestIconLV3.png/revision/latest/scale-to-width-down/40?cb=20070209083344', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: DDM Gameplay

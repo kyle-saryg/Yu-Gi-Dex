@@ -1,0 +1,104 @@
+Link: https://yugioh.fandom.com/wiki/Seis_the_Mighty_King_of_Bestial_Wings_(anime)
+
+The  English                        name given is not official.  
+ Main card page: " Seis the Mighty King of Bestial Wings " 
+ Seis the Mighty King of Bestial Wings 
+ 
+ Japanese:   獣翼剛王セイス 
+ Romaji:   Jūyokugōō Seisu 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   WIND 
+ 
+ Level 
+ 
+ 
+ 7   
+ 
+ [  Beast  /  Effect  ] [Requirement] : If [the number of  face-up   monsters  your opponent  controls ] and [the number of  Spells / Traps  you control] are the same, you can  send  up to 3 Spells/Traps you control to the  GY . [Effect] : Choose 1 face-up monster your opponent controls. It loses  ATK / DEF  equal to [the number of cards sent to the GY by the  requirement  of this effect] x 1000, until the end of this  turn .
+ ATK  /  1900     DEF  /  2500   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  SEVENS :  030 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  SEVENS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 獣翼剛王セイス 
+ 【条件】  ［相手フィールドの表側表示モンスターの数］と［自分フィールドの魔法・罠カードの数］が同じ場合、自分フィールドの魔法・罠カードを３枚まで墓地へ送って発動できる。 【効果】 : 相手フィールドの表側表示モンスター１体を選び、その攻撃力・守備力をターン終了時まで、［この効果の条件で墓地へ送ったカードの数］×１０００ダウンする。 
+ 
+ 
+ Jūyokugōō Seisu 
+ 
+ 
+ Images 
+ SeistheMightyKingofBestialWings-JP-Anime-SV-NC.png Non-card 
+ Decks 
+ 
+ 
+ Yuga Ohdo 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Sends from field to Graveyard for cost 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ Your opponent's monsters lose DEF 
+ 
+ Miscellaneous  
+ Rush Duel 
+ 
+ 
+ 
+   " Seis the Mighty King of Bestial Wings " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/38/SeistheMightyKingofBestialWings-JP-Anime-SV.png/revision/latest/scale-to-width-down/200?cb=20210111021111', 'https://static.wikia.nocookie.net/yugioh/images/0/01/WIND.svg/revision/latest/scale-to-width-down/28?cb=20170920205028', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

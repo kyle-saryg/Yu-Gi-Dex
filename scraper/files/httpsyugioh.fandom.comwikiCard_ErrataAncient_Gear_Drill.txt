@@ -1,0 +1,62 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Ancient_Gear_Drill
+
+
+ Ancient Gear Drill 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ You can  only  activate this card  by discarding 1 card from your hand while a  monster that includes  "Ancient Gear"  in its card name  is  face-up  on your side of the field. Select 1 Spell Card from your Deck and Set it on your side of the field. You cannot use that Spell Card this turn. 
+ Activate  only  by discarding 1 card from your hand  while a  face-up  "Ancient Gear"  monster   is on your side of the field . Select 1 Spell Card from your Deck and Set it  on your side of the field . You cannot use that Spell Card this turn. 
+ 
+ 
+       SOI-EN040 Shadow of Infinity     
+       SD10-EN022 Structure Deck: Machine Re-Volt ( 1st Edition )     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ Activate only while   you control   a   face-up  "Ancient Gear" monster .   Discard 1 card  from your hand.   Select  1 Spell Card from your Deck  and Set it .  You cannot use  that Spell Card  this turn . 
+ If  you control  an  "Ancient Gear" monster :  Discard 1 card ; Set  1 Spell Card  directly  from your Deck.  This turn,  that Spell Card  cannot be activated . 
+ 
+ 
+       DR04-EN160 Dark Revelation Volume 4     
+         SD10-EN022 Structure Deck: Machine Re-Volt ( Unlimited Edition ) Machine Madness Value Box     
+ 
+ 
+ German 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Du kannst diese Karte nur aktivieren, indem du 1 Karte von deiner Hand  abgeworfen wird , solange sich ein offenes Monster auf deiner Spielfeldseite befindet , dessen Kartenname „Antik“ und „Antrieb“ enthält . Wähle 1 Zauberkarte von deinem Deck und setze sie auf deiner Spielfeldseite. Du kannst diese Zauberkarte in diesem Spielzug nicht benutzen. 
+ Du kannst diese Karte nur aktivieren, indem du 1 Karte von deiner Hand  abwirfst , solange sich ein offenes  „Antiker Antrieb“- Monster auf deiner Spielfeldseite befindet. Wähle 1 Zauberkarte von deinem Deck und setze sie auf deiner Spielfeldseite. Du kannst diese Zauberkarte in diesem Spielzug nicht benutzen. 
+ 
+ 
+         SOI-DE040 Shadow of Infinity     
+         SD10-DE022 Structure Deck: Machine Re-Volt     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/07/AncientGearDrill-SOI-EN-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20061109160306', 'https://static.wikia.nocookie.net/yugioh/images/1/1f/AncientGearDrill-SD10-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20160418105308', 'https://static.wikia.nocookie.net/yugioh/images/a/a6/AncientGearDrill-DR04-NA-R-UE.png/revision/latest/scale-to-width-down/180?cb=20080530030312', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/ae/AncientGearDrill-SD10-EN-C-UE.png/revision/latest/scale-to-width-down/180?cb=20141020095045', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b2/AncientGearDrill-SOI-DE-C-1E.png/revision/latest/scale-to-width-down/180?cb=20170211045823', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a4/AncientGearDrill-SD10-DE-C-1E.png/revision/latest/scale-to-width-down/180?cb=20160927165640']
+Categories: Card Errata, Cards with 3 errata, Cards with 1 erratum, Cards with German errata

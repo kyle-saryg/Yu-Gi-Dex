@@ -1,0 +1,588 @@
+Link: https://yugioh.fandom.com/wiki/Special_Summoning_condition
+
+Special Summoning conditions  refer to specific restrictions under which certain monsters are allowed to be  Special Summoned .
+ 
+ Contents 
+ 
+ 1   Cannot be Special Summoned 
+ 2   Cannot be Special Summoned from... 
+ 3   Cannot be Special Summoned unless... 
+ 4   Must first be Special Summoned... 
+ 5   Must be Special Summoned... 
+ 
+ 
+ Cannot be Special Summoned 
+ This is a blanket Summon Condition that forbids the card from being  Special Summoned  by any means, be it from the  hand ,  Deck ,  Graveyard , or  Banished  Zone.
+ 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ This card cannot be Special Summoned. 
+ Cannot be Special Summoned. 
+ 
+ 
+       Legacy of Darkness     
+       Generation Force     
+ 
+ 
+ Cannot be Special Summoned from... 
+ A less limiting restriction than the one above. This allows cards to be Special Summoned from any place except the one or ones mentioned in the text. This restriction usually applies on the  Graveyard , and because you cannot Special Summon from it, you have no choose but to move those cards from the Graveyard by using cards like " Monster Reincarnation " or " Pot of Avarice " for example.
+ 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ This card cannot be Special Summoned from... 
+ Neither player can Special Summon this card from... 
+ 
+ 
+       Legacy of Darkness     
+         Pharaonic Guardian     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ This card cannot be Special Summoned from... 
+ Cannot be Special Summoned from... 
+ 
+ 
+         Rise of Destiny     
+   File:IceQueen-LCGX-EN-UR-1E.jpg     Legendary Collection 2: The Duel Academy Years Mega Pack     
+ 
+ 
+ Cannot be Special Summoned unless... 
+ This allows cards to be Special Summoned from anywhere, but only if the condition is met.
+ 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ This card cannot be summoned unless... 
+ This card can only be Special Summoned while... 
+ Cannot be Special Summoned unless... 
+ 
+ 
+         Magic Ruler     
+         Dark Beginning 1     
+         Legendary Collection 3: Yugi's World Mega Pack     
+ 
+ 
+ Must first be Special Summoned... 
+ This refers places a restriction on how the card must be  first   Special Summoned . The card cannot be Special Summoned by an external effect until the summoning condition has been properly fulfilled, after which, the monster in question may be Summoned with cards such as " Monster Reborn ". If the card was sent to the  Graveyard  before being Summoned correctly, it cannot be Special Summoned; likewise, if the card was Special Summoned correctly the first time, but is then sent from the field or the Graveyard back to the  hand ,  Deck  or  Extra Deck , the Summoning Conditions are then reset. These cards are referred to as  Special Summon-only monsters  or sometimes referred to as  Semi-Nomi  monsters.
+ 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ This [monster/card] can only be Special Summoned... 
+ Must first be Special Summoned... 
+ 
+ 
+         Metal Raiders     
+         Generation Force     
+ 
+ 
+ Must be Special Summoned... 
+ This is much like the first example, but this time, it prevents the card from being  Special Summoned  by any effect other than the one on its effect, preventing it from being Special Summoned by cards such as " Monster Reborn ". " LV " monsters' support cards, such as " Level Modulation ", get around this by including  Ignoring its Summoning conditions  in their card text. However, even with this restriction lifted, such cards can only Special Summoned from the Graveyard if they have been properly Summoned first. " Level Up! " is able to bypass this completely, since it Special Summons directly from the Deck. These cards are referred to as  Nomi  monsters. Cards such as " Dark Armed Dragon " and " Destiny HERO - Plasma " are Nomi monsters and can only be Special Summoned with its Summoning Condition from the hand. " Stardust Dragon/Assault Mode " is also a Nomi monster and can only be Special Summoned from the Deck with " Assault Mode Activate ".
+ 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ This card can only be Special Summoned... 
+ This card cannot be Special Summoned except... 
+ 
+ 
+         Magician's Force     
+         Ancient Sanctuary     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ Must be Special Summoned... and cannot be Special Summoned by other ways. 
+ Must be Special Summoned... 
+ 
+ 
+         Generation Force     
+         Battles of Legend: Light's Revenge     
+ 
+ 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/ee/YataGarasu-LOD-NA-ScR-1E.jpg/revision/latest/scale-to-width-down/180?cb=20100709021805', 'https://static.wikia.nocookie.net/yugioh/images/1/15/Jawsman-GENF-EN-R-1E.jpg/revision/latest/scale-to-width-down/180?cb=20120211221850', 'https://static.wikia.nocookie.net/yugioh/images/d/d7/DarkRulerHaDes-LOD-NA-UR-1E.jpg/revision/latest/scale-to-width-down/180?cb=20061119232929', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f7/Helpoemer-PGD-NA-UR-1E.jpg/revision/latest/scale-to-width-down/180?cb=20061226061749', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d2/TheCreator-RDS-EN-UR-1E.jpg/revision/latest/scale-to-width-down/180?cb=20090128202835', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c0/BlueEyesToonDragon-MRL-NA-ScR-1E.jpg/revision/latest/scale-to-width-down/180?cb=20070216005228', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4d/BlueEyesToonDragon-DB1-EN-SR-UE.jpg/revision/latest/scale-to-width-down/180?cb=20070416025707', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e6/BlueEyesToonDragon-LCYW-EN-R-1E.png/revision/latest/scale-to-width-down/180?cb=20130911184807', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/8e/GateGuardian-MRD-NA-ScR-UE.png/revision/latest/scale-to-width-down/180?cb=20150419195602', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/02/SuperCrashbug-GENF-EN-SR-1E.jpg/revision/latest/scale-to-width-down/180?cb=20130510041503', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1c/DarkPaladin-MFC-NA-UR-1E.png/revision/latest/scale-to-width-down/180?cb=20160609163808', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/5f/ArchlordZerato-AST-NA-UR-1E.png/revision/latest/scale-to-width-down/180?cb=20090621182603', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4a/MaskedHEROGoka-GENF-EN-R-1E.jpg/revision/latest/scale-to-width-down/180?cb=20110821055435', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a7/JudgmentDragon-BLLR-EN-UR-1E.png/revision/latest/scale-to-width-down/180?cb=20170707110532']
+Categories: Cards with 1 erratum, Cards with 3 errata, Cards with 2 errata, Gameplay

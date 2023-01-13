@@ -1,0 +1,54 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Abare_Ushioni
+
+
+ Abare Ushioni 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ OCG Rulings 
+ An example of using the effect of " Lucky Chance ": the effect of " Abare Ushioni " activates, and then the effect of " Lucky Chance " is  chained .  First, you resolve " Lucky Chance " and declare "tails".  Next, the effect of " Abare Ushioni " resolves.  The coin lands on "tails", so after resolving the effect of " Abare Ushioni " you draw 1 card. [1] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [2]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [3] [4] [5] [6] [7] [8] [9] [10] [11] 
+ 
+ If you call the coin toss wrong for “ Abare Ushioni ” you can still prevent the  damage  with “ Pikeru’s Circle of Enchantment ”, etc. 
+ You cannot  chain  “ Barrel Behind the Door ” to the effect of “ Abare Ushioni ” because you don’t know yet if you will take  damage  or not from the effect. 
+ 
+ 
+ 
+ References 
+ 
+ ↑   Konami FAQ : Please explain the details of resolving the effect of "Lucky Chance". 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

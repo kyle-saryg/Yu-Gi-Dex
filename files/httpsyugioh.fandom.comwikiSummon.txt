@@ -1,0 +1,579 @@
+Link: https://yugioh.fandom.com/wiki/Summon
+
+This article is about the action. For the mechanics, see  Summoning mechanics . For the condition, see  Summoning condition .     
+ 
+ 
+ Summon
+ 
+ 
+ 
+ Artwork of " A Hero Emerges ", an example of a card that Summons a monster
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 召 喚 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ しょうかん
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 召喚
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Shōkan
+ 
+ 
+ 
+ English
+ 
+ 
+ Summon
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Invocation Verb: Invoquer 
+ German : Beschwörung Verb: beschwören 
+ Italian : Evocazione Verb: Evocare 
+ Portuguese : Invocação Verb: Invocar 
+ Spanish : Invocación Verb: Invocar 
+ Korean : 소환 (召喚)  Sohwan 
+ Traditional Chinese : 召喚  Zhàohuàn/ Ziu6 wun6 
+ Simplified Chinese : 召唤  Zhàohuàn 
+ 
+ 
+ A  Summon  ( 召 喚   Shōkan ) is an action which places a  monster  onto a  Monster Zone . It can be performed either manually or with a card effect.
+ Monsters are always Summoned  face-up , unless Special Summoning with an effect like " Morphing Jar 2 " which states that the monster is Special Summoned  face-down .
+ If a player conduct a Summon, due to any method, the player conducting that Summon will be the one who choose which appropriate Monster Zone the Monster would be placed on (unless specified otherwise).
+ 
+ Contents 
+ 
+ 1   Kinds of Summon 
+ 
+ 1.1   Unofficial names for Summoning methods 
+ 
+ 1.1.1   Anime, Manga or Video Game exclusive Summons 
+ 
+ 
+ 
+ 
+ 2   Summoning limits 
+ 
+ 
+ Kinds of Summon 
+ There are a number of different types of Summons.
+ 
+ Normal Summon 
+ Tribute Summon 
+ Flip Summon 
+ Special Summon 
+ Fusion Summon 
+ Ritual Summon 
+ Synchro Summon 
+ Xyz Summon 
+ Pendulum Summon 
+ Link Summon 
+ Tribute Summons are a kind of Normal Summon. Fusion, Ritual, Synchro, Xyz, Pendulum, and Link Summons are all kinds of Special Summon. 
+ 
+ Unofficial names for Summoning methods 
+ There are also other terms referring to ways of Summoning monsters, but these are not official names in the  TCG / OCG , and as such are never mentioned in functional card text. These names come from anime, manga, video games,  Normal Monster  card text, and vernacular used by players.
+ 
+ Gemini Summon : Normal Summoning a  Gemini monster  that is currently face-up on the field in order to have it gain its effect. 
+ Contact Fusion : Special Summoning a  Fusion Monster  using its  Fusion Materials , but without using a  Fusion Summoning  effect like " Polymerization " since it is not a Fusion Summon. 
+ Double Tuning : Synchro Summoning using 2 Tuner monsters. 
+ Xyz Evolution : Special Summoning an  Xyz Monster  by using an Xyz Monster on the field as the only  Xyz Material ,  transferring  its Xyz Materials to the Summoned monster. 
+ Anime, Manga or Video Game exclusive Summons 
+ Transformation Summon : Special Summoning a Fusion Monster using its specific card, and without using any Fusion Materials (manga-only). 
+ Accel Synchro Summon : Synchro Summoning an  Accel Synchro Monster  using a  Tuner Synchro Monster  and non-Tuner Synchro Monster while in a state of  Clear Mind  (anime-only). 
+ Delta Accel Synchro Summon : Synchro Summoning a  Delta Accel Synchro Monster  using a Tuner Synchro Monster and 2 non-Tuner Synchro Monsters while in a state of  Top Clear Mind  (anime-only). 
+ Limit Over Accel Synchro Summon : Synchro Summoning a  Limit Over Accel Synchro Monster  using a Tuner Synchro Monster and 2 or more non-Tuner Synchro Monsters while in a state of  Over Top Clear Mind  (anime-only). 
+ Dark Synchro Summon : Synchro Summoning a  Dark Synchro Monster  by subtracting the Level of a  Dark Tuner monster  from the Level of 1 non-Tuner monster (only exists in the anime, manga, and  Yu-Gi-Oh! Tag Force  video games). 
+ Overscale Pendulum :  Pendulum Summon  monster(s) regardless of  Pendulum Scale  (manga-only) 
+ Transcendent Pendulum Summon : Pendulum Summon a monster when a Monster is Pendulum Summoned, and the sum of Pendulum Scales exceed the Level of the Summoned monster (manga-only). 
+ Summoning limits 
+ Each player can only perform 1 Normal Summon/ Set  and 1 Pendulum Summon per turn (even if that Summon is negated), excluding card effects.
+ There are no restrictions on the number of Flip Summons or Special Summons a player can perform per turn (except Pendulum Summons).
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/73/AHeroEmerges-TF04-JP-VG.jpg/revision/latest/scale-to-width-down/300?cb=20120425191152']
+Categories: Types of Summon

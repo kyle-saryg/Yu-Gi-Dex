@@ -1,0 +1,112 @@
+Link: https://yugioh.fandom.com/wiki/Heavy_Mech_Support_Platform_(anime)
+
+Main card page: " Heavy Mech Support Platform " 
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Heavy Mech Support Platform 
+ 
+ Japanese:   強化支援メカ・ヘビーウェポン 
+ Romaji:   Kyōka Shien Meka Hebī Wepon 
+ Translated:  Strengthening Support Mecha - Heavy Weapon 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   DARK 
+ 
+ Level 
+ 
+ 
+ 3   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Ignition 
+ Continuous 
+ Condition 
+ Continuous 
+ [  Machine  /  Union  ] Once per  turn , you can either:  Target  1  Machine - Type   monster  you  control ,  equip  this card to that target, OR:  Unequip  this card and  Special Summon  it in  Attack Position . While equipped by this  effect , the equipped monster gains 500  ATK  and  DEF . (A monster can only be equipped with 1  Union Monster  at a time. If the equipped monster would be  destroyed , destroy this card instead.)
+ ATK  /  500     DEF  /  500   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  GX :  051 ,  065 
+ Yu-Gi-Oh!  5D's :  035 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  GX  ·  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Decks 
+ 
+ 
+ Zane Truesdale 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Machine 
+ 
+ Anti-supports   
+ Union monster 
+ 
+ Actions  
+ Equips self from field 
+ 
+ Stat changes  
+ Equipped gains ATK 
+ Equipped gains DEF 
+ 
+ Monster / Spell / Trap  categories  
+ Treated as Equip Card 
+ Redirects destruction 
+ Destroys itself 
+ 
+ Summoning  categories  
+ Special Summons itself from your Spell & Trap Card Zone 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ 
+   " Heavy Mech Support Platform " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/c/c7/HeavyMechSupportPlatform-JP-Anime-GX.png/revision/latest/scale-to-width-down/200?cb=20140705184900', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

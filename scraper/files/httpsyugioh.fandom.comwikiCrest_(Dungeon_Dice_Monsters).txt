@@ -1,0 +1,86 @@
+Link: https://yugioh.fandom.com/wiki/Crest_(Dungeon_Dice_Monsters)
+
+Crests  form one of the basics of Gameplay in  Dungeon Dice Monsters .
+ 
+ Contents 
+ 
+ 1   Summon Crests 
+ 2   Attack Crests 
+ 3   Defense Crests 
+ 4   Trap Crests 
+ 5   Spell Crests 
+ 6   Movement Crests 
+ 
+ 
+ Summon Crests 
+ 
+ These crests allow a player to summon monsters. There are 4  Levels  of summoning, based on how many Summon Crests are on a die. A  Level  1 Summon die has 4 Crests, and a  Level  4 has only 1. So a Level 4 monster, while hard to summon, is very strong. By contrast, the easy to summon Level 1 monsters are pitifully weak. A player must roll 2  Summon Crests  of the same  Level  to summon a monster. If a player rolls a Level 2 Crest and a Level 4 Crest, they do not summon because the Crests are different Levels.
+ Most Summon Crests are rolled for monsters, but there are also items that can be summoned using Summoned Crests. Items cannot move, and are usually activated when a monster lands on the item, although some items, like the Warp Vortex, activate upon being played. In the Game Boy game Dungeon Dice Monsters, the opposing player cannot see an item played by the player. So they must be careful, because some items destroy Crests in the Crest Pool, some damage monsters, and some even destroy all monsters in play!
+ 
+ Attack Crests 
+ 
+ Attack Crests let monsters attack. An attack by a monster requires 1 Attack Crest, and a monster can only attack once per turn. Attacking does damage based on the attacked monster's Defense, and the attacking monsters' Attack. For example, if a monster with an Attack of 30 attacks a monster with 2 Health points, and the monster does not defend, the monster loses 3 Health points and is destroyed. Attacking Dungeon Master only does 1 point of damage, regardless of Attack power.
+ 
+ 
+ Defense Crests 
+ 
+ When a monster is attacked, its  controller  may use a  Defense Crest . Take the recent example above under Attack Crests. Say the monster has a Defense of 20. When it is attacked, its owner can use a Defense Crest. The Defense stat is subtracted from the Attack stat to determine the damage done. Therefore, 30 Attack minus 20 Defense does only 1 point of damage, and the monster will survive with 1 Health point intact. It is very easy to destroy monsters without Defense Crests, and they should be considered as important as Attack Crests, if not more so.
+ 
+ 
+ Trap Crests 
+ 
+ Some monster abilities can only be used when attacked. Thus, Trap Crests are often used for these powers, much like Trap cards can be played during an opponent's turn in the Yu-Gi-Oh! Trading Card Game.
+ 
+ 
+ Spell Crests 
+ 
+ Spell Crests  are used to activate monsters' abilities, just like  Trap Crests .
+ 
+ 
+ Movement Crests 
+ 
+ Monsters must be able to move about the board. Otherwise, the game will be very difficult!  Movement Crests  allow monsters to move. A monster can move any number of times in a turn, so a monster can move, attack, and move again. For each square passed, 1 Movement Crest is used. A Flying monster uses 2 Crests for each square. Movement Crests are also called  Progress Crests .
+ 
+ v e 
+ Dungeon Dice Monsters Pieces 
+ Dice and Cards 
+ Monsters and Items 
+ Lists
+ Manga 
+ Anime 
+ Video game 
+ Terminology 
+ Battle 
+ Dimension 
+ Dungeon 
+ Dungeon Path 
+ Dungeon Master Zone 
+ HP 
+ Crest Counter 
+ Crest Pool 
+ Damage Counter 
+ Life Points 
+ Monster Lord 
+ Movement 
+ Flying 
+ Tunnel 
+ Shelled Ground 
+ Crests 
+ Attack 
+ Defense 
+ Magic 
+ Progress 
+ Summon 
+ Trap 
+ 
+ Category 
+ {{ DDM card }} 
+ {{ Manga DDM card }} 
+ {{ Anime DDM card }} 
+ {{ VG DDM card }} 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/67/SummonCrestIconLV2.png/revision/latest/scale-to-width-down/33?cb=20070209083324', 'https://static.wikia.nocookie.net/yugioh/images/e/e6/AttackCrest-DDM.jpg/revision/latest?cb=20070914220912', 'https://static.wikia.nocookie.net/yugioh/images/4/4b/DefenseCrest-DDM.jpg/revision/latest?cb=20070914220942', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: DDM Gameplay

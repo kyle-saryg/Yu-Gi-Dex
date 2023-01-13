@@ -1,0 +1,106 @@
+Link: https://yugioh.fandom.com/wiki/Cross_Draw_of_Destiny
+
+
+ Cross Draw of Destiny 
+ 
+ Japanese:   運命のクロス・ドロー 
+ Kana:   うんめいのクロス・ドロー 
+ Romaji:   Unmei no Kurosu Dorō 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Effect 
+ Both players  draw  1 card and  reveal  it, then if either of those cards was a  monster , each player  Special Summons  their monster to their opponent's side of the  field  in  face-up   Defense Position , and if either player does, the  Summoning  player(s) gains  Life Points  equal to the  ATK  of the monster they Summoned.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  126 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 運 命 のクロス・ドロー 
+ お互いのプレイヤーはデッキからカードを１枚ドローする。ドローしたカードがモンスターだった場合、そのモンスターを相手プレイヤーのフィールド上に表側守備表示で特殊召喚し、自分はその攻撃力分のライフポイントを回復する。 
+ 
+ 
+ Unmei no Kurosu Dorō 
+ 
+ 
+ Decks 
+ 
+ 
+ Nash 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ You draw cards 
+ Your opponent draws cards 
+ Shows the player's drawn cards 
+ Shows the opponent's drawn cards 
+ 
+ Summoning  categories  
+ Special Summons from your hand to your opponent's field 
+ Special Summons from your opponent's hand 
+ 
+ LP   
+ You gain Life Points 
+ Your opponent gains Life Points 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/14/CrossDrawofDestiny-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20131020164133', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

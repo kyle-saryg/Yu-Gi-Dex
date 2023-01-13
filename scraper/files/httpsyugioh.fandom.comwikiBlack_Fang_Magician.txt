@@ -1,0 +1,301 @@
+Link: https://yugioh.fandom.com/wiki/Black_Fang_Magician
+
+
+ 
+ 
+ Black Fang Magician 黒 牙 の 魔 術 師 
+ 
+ English 
+Black Fang Magician 
+ French 
+ Magicien Croc Noir Check translation 
+ German 
+ Schwarzzahn-Magier Check translation 
+ Italian 
+ Mago Zanna Nera Check translation 
+ Korean 
+ 흑아의 마술사 Check translation 
+ Portuguese 
+ Mago de Presa Negra Check translation 
+ Spanish 
+ Mago Colmillo Negro Check translation 
+ Japanese (kana) 
+ こくがのまじゅつし Check translation 
+ Japanese (base) 
+ 黒牙の魔術師 Check translation 
+ Japanese ( rōmaji ) 
+Kokuga no Majutsushi 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Spellcaster  /  Pendulum  /  Effect 
+ Level 
+ 4   
+ Pendulum Scale 
+   8 
+ ATK  /  DEF 
+ 1700  /  800 
+ Passcode 
+ 75672051 
+ Card effect types 
+ Pendulum Effect  
+ Ignition-like 
+ Monster Effect 
+ Condition 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Pendulum Effect :  Once per turn : You can  target  1  face-up   monster  your opponent  controls ; its  ATK  becomes half its current ATK (until the end of this  turn ), then  destroy  this card. Monster Effect : (This card is always treated as an " Xyz Dragon " card.) If this card is  destroyed by battle  or card  effect : You can  target  1  DARK   Spellcaster - Type   monster  in your  Graveyard ;  Special Summon  it. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Effet Pendule  
+ Une fois par tour : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; son ATK devient la moitié de son ATK actuelle (jusqu'à la fin de ce tour), puis détruisez cette carte. 
+ Effet de Monstre  
+   (Cette carte est toujours traitée comme une carte "Dragon Xyz".) Si cette carte est détruite au combat ou par un effet de carte : vous pouvez cibler 1 monstre TÉNÈBRES de Type Magicien dans votre Cimetière ; Invoquez-le Spécialement. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Pendeleffekt 
+ Einmal pro Spielzug: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; seine ATK werden (bis zum Ende dieses Spielzugs) gleich der Hälfte seiner derzeitigen ATK, dann zerstöre diese Karte. 
+ Monstereffekt 
+   (Diese Karte wird immer als „Xyz-Drache“-Karte behandelt.) Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 FINSTERNIS Monster vom Typ Hexer in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Effetto Pendulum 
+ Una volta per turno: puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; il suo ATK diventa la metà del suo ATK attuale (fino alla fine di questo turno), poi distruggi questa carta. 
+ Effetto Mostro 
+   (Questa carta viene sempre considerata come una carta "Drago Xyz".) Se questa carta viene distrutta in battaglia o dall'effetto di una carta: puoi scegliere come bersaglio 1 mostro OSCURITÀ di Tipo Incantatore nel tuo Cimitero; Evocalo Specialmente. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Efeito de Pêndulo 
+ Uma vez por turno: você pode escolher 1 monstro com a face para cima que seu oponente controla; seu ATK se torna metade do seu ATK atual (até o final deste turno) e, depois, destrua este card. 
+ Efeito de Monstro 
+   (Este card deve ser sempre considerado como um card "Dragão Xyz".) Se este card for destruído em batalha ou por um efeito de card: você pode escolher 1 monstro de TREVAS do Tipo Mago no seu Cemitério; Invoque-o por Invocação-Especial. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Efecto de Péndulo 
+ Una vez por turno: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; su ATK se convierte en la mitad de su ATK en este momento (hasta el final de este turno), y después destruye esta carta. 
+ Efecto de Monstruo 
+   (Esta carta se trata siempre como una carta "Dragón Xyz"). Si esta carta es destruida en batalla o por efecto de una carta: puedes seleccionar 1 monstruo de OSCURIDAD de Tipo Lanzador de Conjuros en tu Cementerio; Invócalo de Modo Especial. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Ｐ 効 果 
+ ①：１ターンに１度、相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力をターン終了時まで半分にする。その後、このカードを破壊する。 
+ モンスターの 効 果 
+   このカードはルール上「エクシーズ・ドラゴン」カードとしても扱う。①：このカードが戦闘・効果で破壊された場合、自分の墓地の魔法使い族・闇属性モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 펜듈럼 효과 
+ ①: 1턴에 1번, 상대 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 공격력을 턴 종료시까지 절반으로 한다. 그 후, 이 카드를 파괴한다. 
+ 몬스터의 효과 
+   이 카드는 룰상 "엑시즈 드래곤" 카드로도 취급한다. ①: 이 카드가 전투 / 효과로 파괴되었을 경우, 자신 묘지의 마법사족 / 어둠 속성 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2017-06-22 PEVO-EN004 Pendulum Evolution Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2017-06-22 PEVO-FR004 Pendulum Evolution Évolution des Pendules Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2017-06-22 PEVO-DE004 Pendulum Evolution Pendulum Evolution Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2017-06-22 PEVO-IT004 Pendulum Evolution Evoluzione Pendulum Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2017-06-22 PEVO-PT004 Pendulum Evolution Evolução Pêndulo Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2017-06-22 PEVO-SP004 Pendulum Evolution Evolución del Péndulo Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2016-12-23 SD31-JP004 Structure Deck: Pendulum Evolution ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －ペンデュラム・エボリューション－ Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2017-03-14 SD31-KR004 Structure Deck: Pendulum Evolution ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ  － 펜듈럼 에볼루션 － Super Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ DARK 
+ Spellcaster 
+ 
+ Archetypes  and  series   
+ Magician  
+ Xyz 
+ Xyz Dragon 
+ 
+ Actions  
+ Activates if destroyed by battle 
+ Activates if destroyed by card effect 
+ 
+ Stat changes  
+ Changes ATK value 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ 
+ Miscellaneous  
+ Archetype condition 
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12909 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Magician " 「 魔 術 師 」 Members 
+ Acrobatic Magician Apprentice Magician Black Fang Magician Blast Magician Dark Magician of Chaos Dharma-Eye Magician Doomstar Magician Double Iris Magician Dragoncaller Magician Dragonpit Magician Dragonpulse Magician Eda the Sun Magician Harmonizing Magician Magician of Hope Milla the Temporal Magician Night Wing Sorceress Nobledragon Magician Oafdragon Magician Old Vindictive Magician Performapal Celestial Magician Performapal Five-Rainbow Magician Purple Poison Magician Rapid-Fire Magician Silent Magician Skilled Dark Magician Stargazer Magician The Stern Mystic Time Wizard Timebreaker Magician Timegazer Magician Timestar Magician Tuning Magician White Wing Magician Wisdom-Eye Magician Xiangke Magician Xiangsheng Magician 
+ Magician's Left Hand Magician's Restage Magician's Right Hand 
+ Support 
+ Dharma-Eye Magician Dragonpit Magician Dragonpulse Magician Enlightenment Paladin Harmonizing Magician Nobledragon Magician Oafdragon Magician Performapal Parrotrio Performapal Skullcrobat Joker Performapal Sky Magician Performapal Smile Sorcerer Performapal Springoose Performapal U Go Golem Stargazer Magician Timegazer Magician Timestar Magician Tuning Magician Wisdom-Eye Magician 
+ Amazing Pendulum Magician's Restage Pendulum Call Performapal Popperup Sky Iris Star Pendulumgraph Time Pendulumgraph 
+ Related 
+ Astrograph Sorcerer Baby Dragon Chronograph Sorcerer Dark Sage Thousand Dragon Time Magic Hammer Time Wizard of Tomorrow 
+ Assault Mode Activate The Claw of Hermos Dedication through Light and Darkness Magical Star Illusion 
+ 
+   
+" Xyz " 「エクシーズ」 Members 
+ Arc Rebellion Xyz Dragon Black Fang Magician CXyz Barian Hope CXyz Battleship Cherry Blossom CXyz Coach Lord Ultimatrainer CXyz Comics Hero Legend Arthur CXyz Dark Fairy Cheer Girl CXyz Mechquipped Djinn Angeneral CXyz N.As.Ch. Knight CXyz Simon the Great Moral Leader CXyz Skypalace Babylon Dark Rebellion Xyz Dragon Dark Requiem Xyz Dragon Xyz Agent Xyz Avenger Xyz Remora Xyz Slidolphin Xyz-Raypierce 
+ Pendulum Xyz Resurgam Xyz Wonder Xyz Xyz Bento Xyz Block Xyz Burst Xyz Change Tactics Xyz Dimension Splash Xyz Double Back Xyz Effect Xyz Encore Xyz Energy Xyz Gift Xyz Import Xyz Override Xyz Reborn Xyz Reception Xyz Reflect Xyz Revenge Xyz Revenge Shuffle Xyz Reversal Xyz Revive Splash Xyz Shift Xyz Soul Xyz Territory Xyz Tribalrivals Xyz Unit Xyz Universe Xyz Veil Xyz Wrath Xyz Xtreme !! 
+ Support 
+ Astraltopia 
+ Generation Force 
+ Related 
+ Battlecruiser Dianthus Coach King Giantrainer Comics Hero King Arthur Dark Anthelion Dragon Fairy Cheer Girl Mechquipped Angineer Norito the Moral Leader Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Skypalace Gangaridai Supreme King Dragon Dark Rebellion Zubaba General 
+ Don Thousand/Trap A Rank-Up-Magic Barian's Force 
+ 
+   
+" Xyz Dragon " 「エクシーズ・ドラゴン」 Members 
+ Arc Rebellion Xyz Dragon Black Fang Magician Dark Rebellion Xyz Dragon Dark Requiem Xyz Dragon 
+ Support 
+ Astrograph Sorcerer Chronograph Sorcerer Raider's Knight 
+ Phantom Knights' Rank-Up-Magic Force Raidraptor's Phantom Knights Claw The Supreme King's Soul 
+ Related 
+ Dark Anthelion Dragon Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Supreme King Dragon Dark Rebellion Supreme King Z-ARC 
+ Pendulum Dimension 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/be/BlackFangMagician-PEVO-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20170621140931', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

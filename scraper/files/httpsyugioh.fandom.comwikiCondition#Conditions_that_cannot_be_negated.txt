@@ -1,0 +1,499 @@
+Link: https://yugioh.fandom.com/wiki/Condition#Conditions_that_cannot_be_negated
+
+
+ This article  may require  cleanup  to meet this wiki's standards.   You can help out by re-organizing or re-writing parts of it or checking grammar and spelling.   
+ A  condition , called a  Rule effect  (ルール効果,  Rūru Kōka ) in the  OCG , is a part of  card text .
+ While sometimes appearing to be  Continuous   Effects , conditions are not part of  card effects  and cannot be  negated .
+ 
+ Contents 
+ 
+ 1   Kinds of conditions 
+ 2   Lists 
+ 
+ 2.1   List of OCG/TCG monsters with conditions 
+ 2.2   List of OCG/TCG Spell/Trap Cards with conditions 
+ 
+ 
+ 
+ 
+ Kinds of conditions 
+ The following are some examples of kinds of conditions that are used on cards. This list only includes common conditions, and does not attempt to classify every condition that exists.
+ 
+ Summoning conditions  such as those of " Helpoemer " ( Cannot be Special Summoned from the Graveyard ), " Rare Metal Dragon " ( This card cannot be Normal Summoned or Set ), and " Judgement Dragon " ( Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by ) 
+ Material limitations  such as those of " Eccentric Boy " ( When using this card as a Synchro Material Monster, the other Synchro Material Monster is 1 monster in your hand ), " Chimeratech Fortress Dragon " ( Cannot be used as Fusion Material ), and " Majestic Dragon " ( Cannot be used as a Synchro Material, except for the Synchro Summon of a "Majestic" monster ) 
+ Activation limitations  such as those of " Chaos Sorcerer " ( This card cannot attack the turn you activate this effect ) and " Scapegoat " ( You cannot Summon other monsters the turn you activate this card (but you can Normal Set) ) 
+ Synchro Material Substitution  conditions  such as those of " Quickdraw Synchron " and " Vanadis of the Nordic Ascendant " 
+ Match winner  conditions  such as that of " Victory Dragon " 
+ Victory conditions  such as those of " Exodia the Forbidden One ", " Vennominaga the Deity of Poisonous Snakes " and " Holactie the Creator of Light " 
+ Name conditions  such as those of " Cyber Harpie Lady " and " A Legendary Ocean " 
+ Archetype conditions  such as those of " Axe of Despair " and " Contrast HERO Chaos " 
+ Level  and  Rank  conditions  such as those of " Number F0: Utopic Future ", " Number S0: Utopic ZEXAL ", and " Ultimaya Tzolkin " 
+ Lists 
+ List of OCG/TCG monsters with conditions 
+ Summoning conditions  are not included in this list.
+ 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Abominable Unchained Soul 雙極の破械神 Effect Monster DARK Fiend 8 3000 1500 Absolute King Back Jack 絶対王 バック・ジャック Effect Monster DARK Fiend 1 0 0 Absorouter Dragon アブソルーター・ドラゴン Effect Monster DARK Dragon 7 1200 2800 Abyss Actor - Curtain Raiser 魔界劇団－カーテン・ライザー Effect Monster Pendulum Monster DARK Fiend 4 1100 1000 Abyss Actor - Extras 魔界劇団－エキストラ Effect Monster Pendulum Monster DARK Fiend 1 100 100 Abyss Actor - Funky Comedian 魔界劇団－ファンキー・コメディアン Effect Monster Pendulum Monster DARK Fiend 1 300 200 Abyss Actor - Hyper Director 魔界劇団－ハイパー・ディレクター Effect Monster Link Monster DARK Fiend 800 Abyss Actor - Mellow Madonna 魔界劇団－メロー・マドンナ Effect Monster Pendulum Monster DARK Fiend 7 1800 2500 Abyss Actor - Trendy Understudy 魔界劇団－ダンディ・バイプレイヤー Effect Monster Pendulum Monster DARK Fiend 2 700 700 Abyss Actor - Twinkle Little Star 魔界劇団－ティンクル・リトルスター Effect Monster Pendulum Monster DARK Fiend 4 1000 1000 ... further results (2498 more) 
+ List of OCG/TCG Spell/Trap Cards with conditions 
+ Note: This list is incomplete 
+   Japanese name Card type Property "Infernoble Arms - Durendal" 『焔聖剣－デュランダル』 Spell Card Equip Spell Card Equip Spell Card "Infernoble Arms - Hauteclere" 「焔聖剣－オートクレール」 Spell Card Equip Spell Card Equip Spell Card "Infernoble Arms - Joyeuse" 「焔聖剣－ジョワユーズ」 Spell Card Equip Spell Card Equip Spell Card 1st Movement Solo 独奏の第１楽章 Spell Card Normal Spell Card Normal Spell Card 7 Completed ７カード Spell Card Equip Spell Card Equip Spell Card A.I. Challenge You 果たし－Ａｉ－ Trap Card Continuous Trap Card Continuous Trap Card A.I. Contact Ａｉ－コンタクト Spell Card Normal Spell Card Normal Spell Card A.I. Love Fusion Ａｉラブ融合 Spell Card Normal Spell Card Normal Spell Card A.I. Meet You めぐり－Ａｉ－ Spell Card Normal Spell Card Normal Spell Card A.I. Shadow Ａｉシャドー Trap Card Continuous Trap Card Continuous Trap Card ... further results (1343 more) 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/90/Broom_icon.png/revision/latest/scale-to-width-down/35?cb=20070612131135']
+Categories: Articles needing cleanup, Gameplay

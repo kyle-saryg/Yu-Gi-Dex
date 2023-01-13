@@ -1,0 +1,143 @@
+Link: https://yugioh.fandom.com/wiki/Armored_Cybern_(anime)
+
+Main card page: " Armored Cybern " 
+ Armored Cybern 
+ 
+ Japanese:   アーマード・サイバーン 
+ Romaji:   Āmādo Saibān 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   WIND 
+ 
+ Level 
+ 
+ 
+ 4   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Ignition 
+ Ignition 
+ Condition 
+ Continuous 
+ [  Machine  /  Union  ] Once per  turn , you can  equip  this card to a " Cyber "  Machine - Type   monster  you  control , OR  unequip  it to  Special Summon  this card in  face-up   Attack Position . During your  Main Phase , you can decrease the equipped monster's  ATK  by 1000 and  destroy  1 card your opponent controls until the  End Phase  of this turn. (A monster can only be equipped with 1  Union Monster  at a time. If the equipped monster would be  destroyed by battle , destroy this card instead.)
+ ATK  /  0     DEF  /  2000   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  GX :  146 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  GX ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ アーマード・サイバーン 
+ １ターンに１度だけ自分のメインフェイズに装備カード扱いとして自分の「サイバー」と名のつく機械族モンスターに装備、または装備を解除して表側攻撃表示で元に戻す事が可能。このターンのエンドフェイズまで、装備モンスターの攻撃力を１０００ポイント下げ、相手フィールド上のカード１体を破壊する事ができる。この効果はメインフェイズにしか使用できない。（１体のモンスターが装備できるユニオンは１枚まで。装備モンスターが戦闘によって破壊される場合は、代わりにこのカードを破壊する。） 
+ 
+ 
+ Āmādo Saibān 
+ 
+ 
+ Images 
+ ArmoredCybern-OW.png Artwork  Non-card 
+ Decks 
+ 
+ 
+ Zane Truesdale 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Machine 
+ 
+ Anti-supports   
+ Union monster 
+ 
+ Archetypes  and  series   
+ Cyber 
+ 
+ Supports   archetypes   
+ Cyber 
+ 
+ Actions  
+ Equips self from field 
+ 
+ Stat changes  
+ Equipped loses ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Treated as Equip Card 
+ Destroys your opponent's Monster Cards 
+ Destroys your opponent's Spell Cards 
+ Destroys your opponent's Trap Cards 
+ Redirects destruction 
+ Destroys itself 
+ 
+ Summoning  categories  
+ Special Summons itself from your Spell & Trap Card Zone 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ 
+   " Armored Cybern " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+" Cyber " 「サイバー」 a   m   +   Members 
+ Armored Cybern The Arrival Cyberse @Ignister Cyber Angel Benten Cyber Angel Dakini Cyber Angel Idaten Cyber Angel Natasha Cyber Angel Vrash Cyber Barrier Dragon Cyber Blader Cyber Blader Cyber Dragon Cyber Dragon Nova Cyber End Dragon Cyber Esper Cyber Gymnast Cyber Harpie Cyber Jar Cyber Kirin Cyber Laser Dragon Cyber Ogre Cyber Ogre 2 Cyber Ouroboros Cyber Petit Angel Cyber Phoenix Cyber Prima Cyber Prima Cyber Raider Cyber Repairer Cyber Shadow Gardna Cyber Shield Cyber Summon Blaster Cyber Tutu Cyber Tutubon Cyber Twin Dragon Cyber Valley Cyberdark Dragon Cyberdark Dragon Cyberdark Edge Cyberdark Horn Cyberdark Impact! Cyberdark Keel Cybersal Cyclone Cyberse Annihilation Cyberse Beacon Cyberse Bridge Cyberse Cache Cyberse Clock Dragon Cyberse Gadget Cyberse Magician Cyberse Pride Cyberse Quantum Dragon Cyberse Shatter Cyberse Synchron Cyberse White Hat Cyberse Wicckid Cyberse Witch Cyberse Wizard Etoile Cyber Etoile Cyber The Fiend Megacyber ... further results 
+ Support 
+ Armored Cybern Cyber Angel Natasha Cybernetic Hidden Technology Machine Angel Absolute Ritual 
+ Related 
+ Attack Reflector Unit Blade Skater Cynet Ritual Machine Angel Ritual Photon Generator Unit Prima Light 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/2f/ArmoredCybern-JP-Anime-GX.png/revision/latest/scale-to-width-down/200?cb=20080129221722', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/63/ArmoredCybern-JP-Anime-GX-NC.png/revision/latest/scale-to-width-down/185?cb=20150117000403', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

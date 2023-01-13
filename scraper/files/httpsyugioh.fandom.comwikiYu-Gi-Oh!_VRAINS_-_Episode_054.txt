@@ -1,0 +1,199 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_VRAINS_-_Episode_054
+
+
+ 
+ Yu-Gi-Oh! VRAINS - Episode 054 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kanji  
+ 戦 慄 のバトルドローン 
+ 
+ 
+ Rōmaji 
+ Senritsu no Batoru Dorōn 
+ 
+ 
+ Japanese translation 
+ Terrifying Battledrone 
+ 
+ 
+ English 
+ Game of Drones 
+ 
+ 
+ Number 
+ 054 
+ 
+ 
+ Air date ( ja ) 
+ May 30, 2018 
+ 
+ 
+ Air date ( en ) 
+ October 27, 2019 
+ 
+ 
+ 
+ Music 
+ 
+ Opening ( ja ) 
+ " go forward " 
+ 
+ 
+ Ending ( ja ) 
+ " BOY " 
+ 
+ 
+ Opening ( en ) 
+ " Yu-Gi-Oh! VRAINS Theme " 
+ 
+ 
+ Ending ( en ) 
+ " Yu-Gi-Oh! VRAINS Theme " 
+ 
+ 
+ 
+ Staff 
+ 
+ Screenwriter 
+ Hirota Mitsutaka 
+ 
+ 
+ Director 
+ Eran 
+ 
+ 
+ Storyboard 
+ Takahashi Masakazu 
+ 
+ 
+ Animation  dir. 
+ Kaneko Yuji, Toyota Akiko 
+ 
+ 
+ 
+ Cards 
+ 
+ Galleries 
+ Japanese 
+ 
+ 
+ 
+ Chronology 
+ 
+ Listing 
+ Yu-Gi-Oh! VRAINS  episode listing  (season 2) 
+ 
+ 
+ 
+ Previous 
+ Next 
+ 
+ 
+ " The Shepherd " 
+ " A Windy Welcome " 
+ 
+ 
+ 
+ 
+ " Game of Drones ", known as " Terrifying Battledrone " in the original version, is the fifty-forth episode of the  Yu-Gi-Oh! VRAINS  anime. It aired in Japan on May 30, 2018, and became available with official subtitles via Crunchyroll on the same day. It aired on October 27, 2019 on Teletoon.
+ The Shepherd  has thoroughly studied  Playmaker's   Deck , and Playmaker is completely helpless before his  Drone  Deck. Having been driven into a corner, Playmaker decides to use his  trump card  to turn things around.
+ 
+ Contents 
+ 
+ 1   Featured Duel: Playmaker vs. The Shepherd 
+ 2   Featured cards 
+ 3   Differences in adaptions 
+ 4   Trivia 
+ 
+ 
+ Featured Duel: Playmaker vs. The Shepherd 
+ Duel continues from the previous episode . 
+ Turn 3: The Shepherd 
+Shepard activates the effect of " Battledrone General ", allowing him to Special Summon a "Drone" monster from his GY to the zone "Battledrone General" points to. He Special Summons " Drone Pawn " (600/0). Then he activates the Equip Spell Card " Drone Launcher Unit ", equipping it to "Battledrone General". Shepard activates the effect of "Drone Launcher Unit", inflicting damage to Playmaker equal to the combined Link Rating of all Link Monsters on the field x100, which in this case is 7 (Playmaker: 4000 → 3300 LP).
+ Shepard sets a card, then he activates the other effect of "Battledrone General", allowing him to target a Level 4 or lower Drone monster with ATK 1000 or less that he controls and allow it to attack directly. He targets "Drone Pawn". "Drone Pawn" attacks Playmaker directly (Playmaker: 3300 → 2700 LP). As a "Drone" monster inflicted Battle Damage by attacking directly, Shepard activates the effect of "Battledrone General", allowing him to tribute that monster to inflict damage equal to its ATK. He tributes "Drone Pawn" (Playmaker: 2700 → 2100 LP).
+ As a "Drone" Monster inflicted Battle Damage by attacking directly, Shepard activates the effect of "Battledrone Sergeant", allowing it to attack directly. "Battledrone Sergeant" attacks Playmaker directly (Playmaker: 2100 → 1300 LP). As "Battledrone Sergeant" inflicted Battle Damage by attacking directly, Shepard activates the effect of "Battledrone General", tributing it to inflict damage equal to its ATK (Playmaker: 1300 → 500 LP). 
+ "Battledrone General" attacks " Clock Wyvern ", but Playmaker activates his face-down Trap Card " Cure Conversion ". allowing him to tribute "Clock Wyvern" to end the Battle Phase and allow him to draw a card. If it is a monster, he will gain LP equal to its ATK. The drawn card is " Cyberse Wizard " (1800/800) (Playmaker: 500 → 2300 LP).
+ Turn 4: Playmaker 
+Playmaker activates the Spell Card " Cyberse Bridge ", allowing him to send 1 Cyberse monster from his hand to the GY to target 1 monster he controls in the Extra Monster Zone and move it to the Main Monster Zone. Playmaker sends "Cyberse Wizard" from his hand to the GY to move " Shootingcode Talker " to the Leftmost Main Monster Zone. The other effect of "Cyberse Bridge" allows Playmaker to draw a card, if it is a monster, Playmaker can Special Summon 1 Cyberse monster from his GY with the same Level as that monster. Otherwise, it will be sent to the GY. Playmaker draws " Bitrooper ", allowing him to Special Summon "Clock Wyvern" from his GY (1800/1000). Playmaker activates its effect as it was Normal or Special Summoned, halving its ATK ("Clock Wyvern": 1800 → 900 ATK) to Special Summon a "Clock Token" (0/0). He then uses "Clock Wyvern" and "Clock Token" to Link Summon " Cyberse Witch " (800/LINK-2/↙↓).
+ Playmaker activates the effect of "Bitrooper" in his hand, sending a Level 2 or lower monster from his hand to the GY to Special Summon it. He sends the Level 1 " Trash Hacker " from his hand to the GY and Special Summons "Bitrooper" (1500/2000). As a monster was Special Summoned to a zone "Cyberse Witch" points to, he activates its effect, banishing "Cyberse Bridge" from his GY to add " Cyberse Magician " and  Cynet Ritual " from his Deck to his hand and allowing him to Special Summon "Cyberse Wizard" from his GY. He activates the Ritual Spell "Cynet Ritual" from his hand, tributing his "Cyberse Wizard" and "Bitrooper" to Ritual Summon "Cyberse Magician" (2500/2000). Playmaker sets a card.
+ "Cyberse Magician" attacks "Battledrone General". As a Cyberse monster attacks a monster, Playmaker banishes "Trash Hacker" from his GY to activate its effect, for the rest of turn "Battledrone General" cannot be destroyed by battle, but its effects are negated, also the battle damage during that battle will be doubled. "Cyberse Magician" gains 1000 ATK when it battles a Link Monster due to its effect ("Cyberse Magician": 2500 → 3500 ATK). Shepard activates his face-down Trap Card " Demolition Drone ", allowing him to tribute a "Drone" monster to halve all Battle Damage he takes this turn. Shepard tributes "Battledrone General". A replay occurs and Playmaker choose to attack directly with "Cyberse Magician", while "Demolition Drone" halves the battle damage (Shepard: 4000 → 2750 LP).
+ Turn 5: The Shepherd 
+Shepard uses the effect of "Capture Drone", Special Summoning "Drone Tokens" (0/0) equal to the Link Rating of the monster targeted by this effect. "Shootingcode Talker" is a LINK-3 monster, so three "Drone Tokens" are summoned. He uses his one "Drone Token" to Link Summon another copy of "Battledrone Sergeant" (800/LINK-1/↓). Then he used his two "Drone Tokens" to Link Summon " Medicdrone Dock " (1000/LINK-2/←→). Then he activates the Equip Spell Card " Assemble Drone ", allowing him to Special Summon "Battledrone General" from his GY while equipping it with this card. The effect of "Assemble Drone" makes the equipped monster gain 500 ATK ("Battledrone General": 2400 → 2900 ATK). Shepherd activates the effect of "Battledrone General", Special Summoning "Drone Pawn" from his GY to the zone "Battledrone General" points to. 
+ Shepard sets a card, then he activates the effect of "Battledrone General" to allow "Drone Pawn" to attack Playmaker directly, with "Cyberse Magician" halving the damage Playmaker takes (Playmaker: 2300 → 2000 LP). Shepard activate the effect of "Battledrone General", tributing "Drone Pawn" to inflict damage equal to its ATK while "Cyberse Magician" halves the damage (Playmaker: 2000 → 1700 LP). Shepard activates the effect of "Battledrone Sergeant" to attack Playmaker directly while "Cyberse Magician" halves the damage (Playmaker: 1700 → 1300 LP). Then he tributes "Battledrone Sergeant" to activate the effect of "Battledrone General" while "Cyberse Magician" halves the damage (Playmaker: 1300 → 900 LP). Shepard activates his  Skill  "Drone Craft Force" to make "Cyberse Magician" lose 200 ATK for every "Drone" card in his GY, which in this case is 5 ("Cyberse Magician": 2500 → 1500 ATK), and "Battledrone General" gains ATK equal to the same amount ("Battledrone General": 2900 → 3900 ATK).
+ "Battledrone General" attacks "Cyberse Magician", with "Cyberse Magician" gaining 1000 ATK when it battles a Link Monster due to its own effect ("Cyberse Magician": 1500 → 2500 ATK). The attack continues and "Cyberse Magician" is destroyed while the battle damage is halved by "Cyberse Magician"'s effect (Playmaker: 900 → 200 LP). "Medicdrone Dock" attacks "Cyberse Witch", but Playmaker activates his face-down Trap Card " Excess Lesser Linker ", making the ATK of "Cyberse Witch" become the same ATK as "Medicdrone Dock" ("Cyberse Witch": 800 → 1000 ATK). The attack continues and both monsters are destroyed. Shepard activates the effect of "Medicdrone Dock", making Playmaker gain 1000 LP (Playmaker: 200 → 1200 LP).
+ Turn 6: Playmaker 
+Playmaker draws and subsequently activates the Continuous Spell Card " Dimension Link ", by paying half of his LP (Playmaker: 1200 → 600 LP) to banish a Link Monster he controls, He banishes "Shootingcode Talker". As "Shootingcode Talker" left the field, " Capture Drone " is destroyed. Shepard activates his face-down Continuous Trap Card " Drone Cordon ", to prevent his "Drone" monsters from being targeted with card effects, also Playmaker's Link Monsters cannot attack. At this point, Playmaker enters the Data Storm. Playmaker activates his Skill "Storm Access", which allows him to randomly access a Link Monster from a Data Storm when his LP is 1000 or less. Playmaker obtains " Clock Spartoi " and adds it to his Extra Deck.
+ Playmaker activates the effect of "Cynet Ritual" from his GY, allowing him to banish it and "Cyberse Magician" (A Ritual Monster) from his GY to Special Summon two "Cynet Tokens" (0/0). He then uses the two "Cynet Tokens" to Link Summon "Clock Spartoi" (800/LINK-2/↓↘). Playmaker activates the effect of "Clock Spartoi", adding " Cynet Fusion " from his Deck to his hand. Playmaker activate the other effect of "Dimension Link", allowing him to send it to the GY to Special Summon "Shootingcode Talker" with its effect negated and ATK increased by 600 ("Shootingcode Talker": 2300 → 2900 ATK). As a monster was Special Summoned to a zone "Clock Spartoi" points to, he activates its effect, allowing him to Special Summon "Clock Wyvern" from his GY with its effects negated at the cost of being unable to Special Summon other monster for the rest of the turn, besides  Fusion Monsters .
+ Playmaker activates "Cynet Fusion", fusing "Clock Wyvern", "Shootingcode Talker" and "Clock Spartoi" to Fusion Summon " Cyberse Clock Dragon " (2500/2000). The effect of "Cyberse Clock Dragon" activates, allowing Playmaker to send cards from the top of his Deck to the GY equal to the combined Link Rating of the Fusion Materials used for its Fusion Summon, and "Cyberse Clock Dragon" gains 1000 ATK for each card sent to the GY by this effect, which in this case is 5 ("Cyberse Clock Dragon": 2500 → 7500 ATK) [The cards sent were " RAM Clouder ", " Cyberse Gadget ", " Dual Assembwurm ", " Bitron " and " Linkslayer "].
+ "Cyberse Clock Dragon" attacks and destroys "Battledrone General" (Shepherd: 2700 → 0 LP).
+ 
+ Featured cards 
+ The following cards appeared in this episode. Cards in italics debuted here.
+ 
+ 
+ Playmaker (Yusaku Fujiki) Monsters   
+ Normal Monsters 
+ Bitron 
+ Effect Monsters 
+ Bitrooper 
+ Clock Wyvern 
+ Cyberse Gadget 
+ Cyberse Wizard 
+ Dual Assembwurm 
+ Linkslayer 
+ RAM Clouder 
+ Trash Hacker 
+ Ritual Monsters 
+ Cyberse Magician Extra Deck   
+ Fusion Monsters 
+ Cyberse Clock Dragon 
+ Link Monsters 
+ Clock Spartoi 
+ Cyberse Witch 
+ Shootingcode Talker Spells   &  Traps   
+ Spells 
+ Cyberse Bridge 
+ Cynet Fusion 
+ Cynet Ritual 
+ Dimension Link 
+ Traps 
+ Cure Conversion 
+ Excess Lesser Linker 
+ 
+ The Shepherd (Kenneth Drayden) Monsters   
+ Effect Monsters 
+ Drone Pawn Extra Deck   
+ Link Monsters 
+ Battledrone General 
+ Battledrone Sergeant  x2 
+ Medicdrone Dock Spells   &  Traps   
+ Spells 
+ Assemble Drone 
+ Drone Launcher Unit 
+ Traps 
+ Capture Drone 
+ Demolition Drone 
+ Drone Cordon 
+ Differences in adaptions 
+ The camera zooming in on "Cyberse Witch's" buttocks during her summoning is cut in the English dub. 
+ The aftermath of Kenneth's car accident was removed in the English dub, cutting straight to the hospital after the explosion. 
+ In the Japanese version, a doctor tells Kenneth that his mother suffered injuries to her spinal cord in the accident and may never walk again, while in the English dub, the doctor ambiguously states that "his mother may never recover." 
+ Trivia 
+ This episode's dub name is a reference to the American fantasy TV show Game of Thrones. 
+ The Shepherd explains that both players gain 1000 LP when "Medicdrone Dock" is destroyed, yet only Playmaker was shown gaining LP.  It didn't matter since The Shepherd took more than 3750 damage when "Cyberse Clock Dragon" attacked "Battledrone General". 
+ v e 
+ Yu-Gi-Oh! VRAINS   season 2 episodes 
+ #047 " LINK VRAINS 2.0 " #048 " Shed Some Light " #049 " Bring the Heat " #050 " A Common Cause " #051 " Bounty Hunting " #052 " Tapping Out " #053 " The Shepherd " #054 " Game of Drones " #055 " A Windy Welcome " #056 " Blue Gal Battles! " #057 " Bohman Returns " #058 " Memory Games " #059 " Return of the Hanoi " #060 " Sidekick Showdown " #061 " Darkness Dawns " #062 " Fearing the Worst " #063 " Scare Tactics " #064 " The Beginning " #065 " Pieces of the Puzzle " #066 " Contact " #067 " Choosing Sides " #068 " The Doorway " #069 " Coexistence " #070 " A Storm Brews " #071 " A Logical Decision " #072 " Strategy Shift " #073 " Weathering the Storm " #074 " Brain Hack " #075 " Earthfall " #076 " Awakened Memories " #077 " A Family Reunion " #078 " From One Hunter To Another " #079 " The Hunt Is On " #080 " Lightning Strikes " #081 " Heart of Darkness " #082 " Gored " #083 " Reaching Out " #084 " Payback " #085 " My Brother’s Keeper " #086 " The Weakest Link " #087 " The Ultimate Connection " #088 " A Breezy Battle " #089 " Fan the Flames " #090 " For a Friend " #091 " From the Heart " #092 " Fight with a Friend " #093 " A Fighting Promise " #094 " No Matter What It Takes " #095 " From the Ashes " #096 " I Know Your Secret " #097 " Outsmart, Outwit, Outthink! " #098 " Lightning Storm " #099 " Bohman’s End Game " #100 " I Know Everything " #101 " Ai of the Beholder " #102 " The Final Turn " #103 " Reflections " 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/6b/Vrains_054.png/revision/latest/scale-to-width-down/350?cb=20180530223335']
+Categories: Yu-Gi-Oh! VRAINS episodes

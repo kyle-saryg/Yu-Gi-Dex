@@ -1,0 +1,175 @@
+Link: https://yugioh.fandom.com/wiki/Encode_Talker_(anime)
+
+Main card page: " Encode Talker " 
+ Encode Talker 
+ 
+ Japanese:   エンコード・トーカー 
+ Romaji:   Enkōdo Tōkā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Link Arrows 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Top ,  Bottom ,  Bottom-Right 
+ Effect type
+ 
+ 
+ 
+ 
+ Trigger 
+ Material 
+ 
+ 
+ 
+ 2+  Cyberse   monsters 
+ 
+ [  Cyberse  /  Link  /  Effect  ] 
+ 2+  Cyberse   monsters 
+ Once per turn , before  damage calculation , if your monster this card  points to   battles  an opponent's monster with higher  ATK  than it: You can make that monster unable to be  destroyed by that battle , also you take no  battle damage  from that battle. After that damage calculation, have this card or 1 monster it points to gain  ATK  equal to the ATK of that battled opponent's monster, until the end of this  turn .
+ ATK  /  2300     LINK  –  3   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  007 ,  008 ,  010 ,  011 ,  012 ,  013 ,  018 ,  029 ,  038 ,  046 ,  102 ,  104 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ エンコード・トーカー 
+ 
+ サイバース族モンスター２体以上
+ 
+ ①：１ターンに１度、このカードのリンク先の自分のモンスターが、そのモンスターより攻撃力が高い相手モンスターと戦闘を行うダメージ計算前に発動できる。その自分のモンスターはその戦闘では破壊されず、その戦闘で発生する自分への戦闘ダメージは０になる。そのダメージ計算後、このカードまたはこのカードのリンク先の自分のモンスター１体を選び、その攻撃力をターン終了時まで、その戦闘を行った相手モンスターの攻撃力分アップする。 
+ 
+ 
+ Enkōdo Tōkā 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Cyberse 
+ 
+ Archetypes  and  series   
+ Code Talker  
+ 
+ Stat changes  
+ This card gains ATK 
+ Your monsters gain ATK 
+ 
+ Summoning  categories  
+ 2+ Link Materials 
+ Requires Type specific Link Materials 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ LP   
+ Prevents battle damage 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ 
+   " Encode Talker " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+" Code Talker " 「コード・トーカー」 a   m   Members 
+ Accesscode Talker Code Talker Decode Talker Decode Talker Extended Encode Talker Excode Talker Powercode Talker Shootingcode Talker Transcode Talker Transcode Talker 
+ Support 
+ Code Generator Code Hack Cynet Codec Cynet Optimization Limit Code Micro Coder Recoded Alive Talkback Lancer Transcode Talker 
+ Related 
+ Dark Templar @Ignister Decode Destruction 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e7/EncodeTalker-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20170719124354', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/70/EncodeTalker-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20170621133649', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

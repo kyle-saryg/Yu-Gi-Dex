@@ -1,0 +1,408 @@
+Link: https://yugioh.fandom.com/wiki/Agave_Dragon
+
+
+ 
+ 
+ Agave Dragon 竜 絶 蘭 
+ 
+ English 
+Agave Dragon 
+ French 
+ Dragon Agave Check translation 
+ German 
+ Agavendrache Check translation 
+ Italian 
+ Drago Agave Check translation 
+ Korean 
+ 용절란 Check translation 
+ Portuguese 
+ Dragão Agave Check translation 
+ Spanish 
+ Dragón de Agave Check translation 
+ Japanese (kana) 
+ りゅうぜつらん Check translation 
+ Japanese (base) 
+ 竜絶蘭 Check translation 
+ Japanese ( rōmaji ) 
+Ryūzetsuran 
+ Japanese (translated) 
+Dragon Agave 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Wyrm  /  Link  /  Effect 
+ Link Arrows 
+ Bottom-Left   ,  Bottom-Right   ,  Left   ,  Right   
+ ATK  /  LINK 
+ 3000  /  4 
+ Passcode 
+ 02411269 
+ Materials 
+2+ non-Token monsters 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+2+ monsters, except  Tokens If this card is  Link Summoned : You can apply these  effects  in sequence, depending on the  Types  of  monsters  in the  GYs  (skip over any that do not apply). You can only use this  effect  of "Agave Dragon"  once per turn . ● Inflict 100  damage  to your opponent for each  Dragon . ● This card gains 200  ATK  for each  Dinosaur . ● All monsters your opponent currently  controls  lose 300 ATK for each  Sea Serpent . ● You gain 400  LP  for each  Wyrm . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 2+ monstres (Jetons exclus) Si cette carte est Invoquée par Lien : vous pouvez appliquer ces effets dans l'ordre, selon les Types des monstres dans les Cimetières (ignorez ceux qui ne s'appliquent pas). Vous ne pouvez utiliser cet effet de "Dragon Agave" qu'une fois par tour. ● Infligez 100 points de dommages à votre adversaire pour chaque Dragon. ● Cette carte gagne 200 ATK pour chaque Dinosaure. ● Tous les monstres actuellement contrôlés par votre adversaire perdent 300 ATK pour chaque Serpent de Mer. ● Vous gagnez 400 LP pour chaque Wyrm. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 2+ Monster, außer Spielmarken Falls diese Karte als Linkbeschwörung beschworen wird: Du kannst diese Effekte nacheinander ausführen, abhängig von den Typen der Monster in den Friedhöfen (überspringe alle, die nicht zutreffen). Du kannst diesen Effekt von „Agavendrache“ nur einmal pro Spielzug verwenden. ● Füge deinem Gegner für jeden Drachen 100 Schaden zu. ● Diese Karte erhält für jeden Dinosaurier 200 ATK. ● Alle Monster, die dein Gegner derzeit kontrolliert, verlieren für jede Seeschlange 300 ATK. ● Du erhältst für jeden Wyrm 400 LP. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 2+ mostri, eccetto i Segna-Mostro Se questa carta viene Evocata Link: puoi applicare questi effetti in ordine, a seconda dei Tipi di mostri nei Cimiteri (salta quelli che non si applicano). Puoi utilizzare questo effetto di "Drago Agave" una sola volta per turno. ● Infliggi 100 danni al tuo avversario per ogni Drago. ● Questa carta guadagna 200 ATK per ogni Dinosauro. ● Tutti i mostri attualmente controllati dal tuo avversario perdono 300 ATK per ogni Serpente Marino. ● Tu guadagni 400 LP per ogni Wyrm. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 2+ monstros, exceto Fichas Se este card for Invocado por Invocação-Link: você pode aplicar esses efeitos em sequência, dependendo dos Tipos de monstros nos Cemitérios (ignore os que não se aplicam). Você só pode usar este efeito de "Dragão Agave" uma vez por turno. ● Cause 100 de dano ao seu oponente para cada Dragão. ● Este card ganha 200 de ATK para cada Dinossauro. ● Todos os monstros que seu oponente controla atualmente perdem 300 de ATK para cada Serpente Marinha. ● Você ganha 400 PV para cada Wyrm. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 2+ monstruos, excepto Fichas Si esta carta es Invocada por Enlace: puedes aplicar estos efectos en secuencia, dependiendo de los Tipos de monstruos en los Cementerios (sáltate cualquiera que no se aplique). Sólo puedes usar este efecto de "Dragón de Agave" una vez por turno. ● Inflige 100 puntos de daño a tu adversario por cada Dragón. ● Esta carta gana 200 ATK por cada Dinosaurio. ● Todos los monstruos que controle tu adversario en este momento pierden 300 ATK por cada Serpiente Marina. ● Ganas 400 LP por cada Wyrm. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ トークン以外のモンスター２体以上 このカード名の効果は１ターンに１度しか使用できない。①：このカードがリンク召喚に成功した場合に発動できる。お互いの墓地のモンスターの種族とその数によって以下の効果を適用する。●ドラゴン族：その数×１００ダメージを相手に与える。●恐竜族：このカードの攻撃力はその数×２００アップする。●海竜族：相手フィールドの全てのモンスターの攻撃力はその数×３００ダウンする。●幻竜族：自分はその数×４００ＬＰ回復する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 토큰 이외의 몬스터 2장 이상 이 카드명의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 링크 소환에 성공했을 경우에 발동할 수 있다. 서로 묘지의 몬스터의 종족과 그 수에 따라 이하의 효과를 적용한다. ●드래곤족: 그 수 × 100 데미지를 상대에게 준다. ●공룡족: 이 카드의 공격력은 그 수 × 200 올린다. ●해룡족: 상대 필드의 모든 몬스터의 공격력은 그 수 × 300 내린다. ●환룡족: 자신은 그 수 × 400 LP 회복한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2018-10-18  
+ SOFU-EN048   
+ Soul Fusion 
+ Common 
+ 
+ 
+ 2019-08-29  
+ MP19-EN191   
+ 2019 Gold Sarcophagus Tin Mega Pack 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2018-10-18  
+ SOFU-FR048   
+ Soul Fusion 
+ La Fusion de L'ame  
+ Common 
+ 
+ 
+ 2019-08-29  
+ MP19-FR191   
+ 2019 Gold Sarcophagus Tin Mega Pack 
+ Boîte Sarcophage Doré 2019 Méga Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2018-10-18  
+ SOFU-DE048   
+ Soul Fusion 
+ Soul Fusion  
+ Common 
+ 
+ 
+ 2019-08-29  
+ MP19-DE191   
+ 2019 Gold Sarcophagus Tin Mega Pack 
+ 2019 Gold Sarcophagus Tin Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2018-10-18  
+ SOFU-IT048   
+ Soul Fusion 
+ Fusione delle Anime  
+ Common 
+ 
+ 
+ 2019-08-29  
+ MP19-IT191   
+ 2019 Gold Sarcophagus Tin Mega Pack 
+ Tin Sarcofago d'Oro 2019 Mega-Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2018-10-18  
+ SOFU-PT048   
+ Soul Fusion 
+ Fusão de Alma  
+ Common 
+ 
+ 
+ 2019-08-30  
+ MP19-PT191   
+ 2019 Gold Sarcophagus Tin Mega Pack 
+ Mega-Pacote da Lata Sarcófago Dourado 2019  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2018-10-18  
+ SOFU-SP048   
+ Soul Fusion 
+ Fusión de Alma  
+ Common 
+ 
+ 
+ 2019-08-29  
+ MP19-SP191   
+ 2019 Gold Sarcophagus Tin Mega Pack 
+ Lata Cofre de Oro Sellado 2019 Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2018-07-14  
+ SOFU-JP048   
+ Soul Fusion 
+ ソウル・フュージョン  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2018-10-23  
+ SOFU-KR048   
+ Soul Fusion 
+ 소울 퓨전  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Dragon 
+ Dinosaur 
+ Sea Serpent 
+ Wyrm 
+ 
+ Anti-supports   
+ Dragon 
+ Dinosaur 
+ Sea Serpent 
+ Wyrm 
+ 
+ Actions  
+ Activates upon Link Summon 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ Your monsters gain ATK 
+ 
+ Summoning  categories  
+ 2+ Link Materials 
+ Cannot use Tokens as Link Materials for its Summon 
+ 
+ LP   
+ You gain Life Points 
+ Damages your opponent 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 13935 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/b4/AgaveDragon-SOFU-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20181018175008', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/f/f9/LM-BottomLeft.png/revision/latest?cb=20170326055136', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

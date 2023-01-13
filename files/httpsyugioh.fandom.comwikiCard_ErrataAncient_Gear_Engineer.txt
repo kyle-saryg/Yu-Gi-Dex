@@ -1,0 +1,70 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Ancient_Gear_Engineer
+
+
+ Ancient Gear Engineer 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Anime Yu-Gi-Oh! BAM 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Negate  the   effect   of any Trap Card  that targets this card, and destroy that Trap Card. If this card attacks, your opponent cannot activate any Spell  or  Trap Cards until the end of Damage Step.  When  this card  attacks , destroy  1 Spell  or  Trap Card  on  your  opponent's   side of the field at the end of the Damage Step . 
+ Negate  any Trap   effects  that targets this card, and  if you do,  destroy that Trap Card. If this card attacks, your opponent cannot activate any Spell / Trap Cards until the end of the Damage Step.  At the end of the Damage Step, if  this card  attacked  and is still on the field : Target  1 Spell / Trap Card your  opponent   controls; destroy that target . 
+ 
+ 
+       SD10-EN003 Structure Deck: Machine Re-Volt ( 1st Edition )     
+       SD10-EN003 Structure Deck: Machine Re-Volt ( Unlimited Edition ) Machine Madness Value Box     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ Negate any Trap effects that target this card, and if you do, destroy that Trap Card. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. At the end of the Damage Step, if this card attacked: Target 1 Spell/Trap  Card  your opponent controls; destroy that target. 
+ Negate any Trap effects that target this card, and if you do, destroy that Trap Card. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. At the end of the Damage Step, if this card attacked: Target 1 Spell/Trap your opponent controls; destroy that target. 
+ 
+ 
+       SR03-EN008 Machine Reactor Structure Deck     
+         SGX1-END09 Speed Duel GX: Duel Academy Box     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ 【機械族・効果】 
+ 【機械族 ・ 効果】 
+ 【機械族 ／ 効果】 
+ 
+ 
+ このカードを対象にする罠カードの効果を無効にし破壊する。このカードが攻撃する場合、相手はダメージステップ終了時まで魔法・罠カードを発動できない。このカードが攻撃したダメージステップ終了時、相手フィールド上 の 魔法 または 罠カード１枚を破壊する。 
+ このカードが フィ ー ルド上 に 表側表示で 存在する限り、 このカードを対象 に する罠カードの効果 を 無効 にし 破壊 す る。このカードが攻撃する場合、相手はダメージステップ終了時まで魔法・罠カードを発動 する事が できない。 また、 このカードが攻撃したダメージステップ終了時、相手フィールド 上 に存在する 魔法 ・ 罠カード１枚を 選択 して 破壊する。 
+ ①： このカードが モンスターゾ ー ン に存在する限り、このカードを対象 と する罠カードの効果 は 無効 化され 破壊 され る。 ②： このカードが攻撃する場合、相手はダメージステップ終了時まで魔法・罠カードを発動できない。 ③： このカードが攻撃したダメージステップ終了時、相手フィールド の 魔法・罠カード１枚を 対象と して 発動する。その相手の魔法・罠カードを 破壊する。 
+ 
+ 
+         SD10-JP003 Structure Deck: Machine Re-Volt     
+         TP18-JP007 Tournament Pack 2011 Vol.2     
+         SR03-JP008 Structure Deck R: Machine Dragon Re-Volt     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/de/AncientGearEngineer-SD10-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20160418105045', 'https://static.wikia.nocookie.net/yugioh/images/0/09/AncientGearEngineer-SD10-EN-C-UE.png/revision/latest/scale-to-width-down/180?cb=20140405133439', 'https://static.wikia.nocookie.net/yugioh/images/b/b5/AncientGearEngineer-SR03-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20170411220331', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a6/AncientGearEngineer-SGX1-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20220414205617', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/01/AncientGearEngineer-SD10-JP-C.jpg/revision/latest/scale-to-width-down/180?cb=20070113021919', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/26/AncientGearEngineer-TP18-JP-C.jpg/revision/latest/scale-to-width-down/180?cb=20120203022111', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c1/AncientGearEngineer-SR03-JP-C.png/revision/latest/scale-to-width-down/180?cb=20160923151040']
+Categories: Card Errata, Cards with 3 errata, Cards with card type errata, Cards with 2 errata, Cards with Japanese errata

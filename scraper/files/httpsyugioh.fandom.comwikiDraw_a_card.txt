@@ -1,0 +1,546 @@
+Link: https://yugioh.fandom.com/wiki/Draw_a_card
+
+This article is about the action. For the Duel result, see  DRAW .      
+ 
+ 
+ Draw a card
+ 
+ 
+ 
+ Artwork of " Defense Draw ", an example of a card that draws cards.
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ ドロー
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ dorō
+ 
+ 
+ 
+ English
+ 
+ 
+ draw
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : piocher 
+ German : ziehen 
+ Italian : pescare 
+ Portuguese : comprar 
+ Spanish : robar 
+ Korean : 드로우  deurou 
+ Traditional Chinese : 抽牌  chōupái / cau1 paai2 
+ Simplified Chinese : 抽(牌)  chōu(pái) 
+ 
+ 
+ To  draw a card  (Japanese: ドロー  dorō ) is to take the top card of your  Main Deck  and  add  it to your hand.
+ Drawing a card is a form of " adding a card  from the Deck". If " Blackwing - Breeze the Zephyr " was drawn by a card effect, then you can Special Summon it. This is why " Thunder King Rai-Oh " distinctly states its exception in its monster effect, and " Drastic Drop Off " clarifies that drawing is considered adding a card to the hand.
+ Every turn during your  Draw Phase , you must  normally draw  1 card from your Deck. The player going first cannot do this on their first turn.
+ Some card effects can also let you draw cards, such as " Pot of Greed ", " Royal Magical Library ", and " Jar of Greed ".
+ Incidentally, there is a difference between "number of draws" and "number of cards drawn". The number of draws refers to the number of times any number of cards are drawn. For example, " Pot of Greed " allows the player to draw 2 cards, but the number of draws is only 1 because both cards are drawn at the same time. However, cards like " Heart of the Underdog " only facilitate drawing one card per effect activation, but the effect itself can be activated any number of times.
+ If a player is unable to draw because they do not have enough cards left in their Deck, that player loses the  Duel  (known as  Decking Out ).
+ 
+ Contents 
+ 
+ 1   List 
+ 
+ 1.1   OCG / TCG 
+ 1.2   Anime 
+ 1.3   Manga 
+ 
+ 
+ 2   See also 
+ 
+ 
+ List 
+ OCG / TCG 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF 3-Hump Lacooda みつこぶラクーダ Effect Monster EARTH Beast 3 500 1500 Absorbing Jar アブソーブポッド Effect Monster Flip monster EARTH Rock 3 600 500 Adamancipator Crystal - Dragite 魔救の奇石－ドラガイト Effect Monster WATER Rock 4 0 2200 Ahrima, the Wicked Warden 悪王アフリマ Effect Monster DARK Fiend 4 1700 0 Airknight Parshath 天空騎士パーシアス Effect Monster LIGHT Fairy 5 1900 1400 Albion the Shrouded Dragon 黒衣竜アルビオン Effect Monster DARK Dragon 8 2500 2000 Alien Grey エーリアン・グレイ Effect Monster Flip monster LIGHT Reptile 2 300 800 Ally of Justice Field Marshal Ａ・Ｏ・Ｊ フィールド・マーシャル Effect Monster Synchro Monster DARK Machine 9 2900 2600 Ally of Justice Omni-Weapon Ａ・Ｏ・Ｊ リーサル・ウェポン Effect Monster DARK Machine 5 2200 800 Amaterasu 天照大神 Effect Monster Spirit monster LIGHT Fairy 9 3000 3000 Anchamoufrite アンカモフライト Effect Monster Pendulum Monster LIGHT Spellcaster 5 1800 0 Ancient Pixie Dragon 妖精竜 エンシェント Effect Monster Synchro Monster DARK Dragon 7 2100 3000 Ancient Warriors - Virtuous Liu Xuan 戦華の徳－劉玄 Effect Monster WIND Beast-Warrior 4 1400 1200 Antialian アンチエイリアン Effect Monster EARTH Cyberse 4 1900 600 Appliancer Celtopus 充電機塊セルトパス Effect Monster Link Monster DARK Machine 0 Armed Dragon Thunder LV3 アームド・ドラゴン・サンダーＬＶ３ Effect Monster WIND Dragon 3 1200 900 Aromage Jasmine アロマージ－ジャスミン Effect Monster LIGHT Plant 2 100 1900 Artifact Caduceus アーティファクト－カドケウス Effect Monster LIGHT Fairy 5 1600 2400 Artifact Durendal アーティファクト－デュランダル Effect Monster Xyz Monster LIGHT Fairy 5 2400 2100 Attolashoot Highdron アトラシュート・ハイドロン Effect Monster LIGHT Cyberse 8 2500 0 Attron アトロン Effect Monster LIGHT Cyberse 3 1000 100 Avatar of The Pot 壺魔神 Effect Monster EARTH Rock 3 1200 1300 Awakening of the Possessed - Gagigobyte 憑依覚醒－ガギゴバイト Effect Monster WATER Reptile 5 2000 200 Baobaboon バオバブーン Effect Monster DARK Plant 3 1200 1000 Batteryman Micro-Cell 電池メン－ボタン型 Effect Monster Flip monster LIGHT Thunder 1 100 100 Bee List Soldier ハチビー Effect Monster WIND Insect 1 500 400 The Bistro Butcher 悪魔の調理師 Effect Monster DARK Fiend 4 1800 1000 Blackbeard, the Plunder Patroll Captain 海造賊－キャプテン黒髭 Effect Monster Link Monster WATER Fiend 1600 Blizzed, Defender of the Ice Barrier 氷結界の番人ブリズド Effect Monster WATER Aqua 1 300 500 Bluebeard, the Plunder Patroll Shipwright 海造賊－青髭の海技士 Effect Monster WATER Fiend 4 500 1000 Bountiful Artemis 豊穣のアルテミス Effect Monster LIGHT Fairy 4 1600 1700 Brotherhood of the Fire Fist - Snake 雄炎星－スネイリン Effect Monster FIRE Beast-Warrior 4 1800 600 Broww, Huntsman of Dark World 暗黒界の狩人 ブラウ Effect Monster DARK Fiend 3 1400 800 Bujin Arasuda 武神－アラスダ Effect Monster LIGHT Beast-Warrior 4 1600 1900 Bujintei Tsukuyomi 武神帝－ツクヨミ Effect Monster Xyz Monster LIGHT Beast-Warrior 4 1800 2300 CXyz Coach Lord Ultimatrainer ＣＸ 熱血指導神アルティメットレーナー Effect Monster Xyz Monster FIRE Warrior 9 3800 2300 CXyz Dark Fairy Cheer Girl ＣＸ ダーク・フェアリー・チア・ガール Effect Monster Xyz Monster DARK Fairy 5 2500 1900 Caam, Serenity of Gusto ガスタの静寂 カーム Effect Monster WIND Psychic 4 1700 1100 Capshell カプシェル Effect Monster DARK Fiend 2 0 0 Caravan of the Ice Barrier 氷結界の輸送部隊 Effect Monster WATER Sea Serpent 1 500 200 Card Trooper カードガンナー Effect Monster EARTH Machine 3 400 400 Cardcar D カードカー・Ｄ Effect Monster EARTH Machine 2 800 400 Celtic Guard of Noble Arms エルフの聖剣士 Effect Monster EARTH Warrior 4 2100 700 Chainsaw Insect 電動刃虫 Effect Monster EARTH Insect 4 2400 0 Chemical Cure Purple ケミカルキュア・パープル Effect Monster Fusion Monster DARK Psychic 7 2600 900 Chocolate Magician Girl チョコ・マジシャン・ガール Effect Monster WATER Spellcaster 4 1600 1000 Clear Effector クリア・エフェクター Effect Monster LIGHT Spellcaster 2 0 900 Clear Kuriboh クリアクリボー Effect Monster LIGHT Fairy 1 300 200 Coach Goblin 鬼ゴブリン Effect Monster EARTH Fiend 4 1200 1500 Coach King Giantrainer 熱血指導王ジャイアントレーナー Effect Monster Xyz Monster FIRE Warrior 8 2800 2000 ... further results (328 more) 
+   Japanese name Card type Property 7 ７ Spell Card Continuous Spell Card Continuous Spell Card 7 Chance ７チャンス Trap Card Normal Trap Card Normal Trap Card A.I. Contact Ａｉ－コンタクト Spell Card Normal Spell Card Normal Spell Card A.I. Shadow Ａｉシャドー Trap Card Continuous Trap Card Continuous Trap Card Abyss Script - Opening Ceremony 魔界台本「オープニング・セレモニー」 Spell Card Normal Spell Card Normal Spell Card Accumulated Fortune 積み上げる幸福 Trap Card Normal Trap Card Normal Trap Card Advance Draw アドバンスドロー Spell Card Normal Spell Card Normal Spell Card Advance Zone アドバンス・ゾーン Spell Card Continuous Spell Card Continuous Spell Card Alchemy Cycle アルケミー・サイクル Trap Card Normal Trap Card Normal Trap Card Allure of Darkness 闇の誘惑 Spell Card Normal Spell Card Normal Spell Card Amaze Attraction Wonder Wheel Ａ・Ɐ・ＷＷ Trap Card Normal Trap Card Normal Trap Card Amorphous Persona アモルファスＰ Spell Card Field Spell Card Field Spell Card Ancient City - Rainbow Ruins 虹の古代都市－レインボー・ルイン Spell Card Field Spell Card Field Spell Card Ancient Leaf エンシェント・リーフ Spell Card Normal Spell Card Normal Spell Card Apple of Enlightenment フライアのリンゴ Trap Card Normal Trap Card Normal Trap Card Appropriate 便乗 Trap Card Continuous Trap Card Continuous Trap Card Arcane Barrier 魔法族の結界 Spell Card Continuous Spell Card Continuous Spell Card Armor Ninjitsu Art of Alchemy 機甲忍法ゴールド・コンバージョン Spell Card Normal Spell Card Normal Spell Card Arrive in Light 光来する奇跡 Spell Card Continuous Spell Card Continuous Spell Card Art of Masked Fiery Noodle Drawing-Out-The-Rich-Tasty-Flavor Reversal 火麺ドローっと濃厚返しの術 Spell Card Normal Spell Card Normal Spell Card Artifacts Unleashed アーティファクトの解放 Spell Card Quick-Play Spell Card Quick-Play Spell Card Assault Teleport バスター・テレポート Spell Card Normal Spell Card Normal Spell Card Asymmetaphys アシンメタファイズ Spell Card Continuous Spell Card Continuous Spell Card At One With the Sword 身剣一体 Trap Card Normal Trap Card Normal Trap Card Awakening of the Possessed 憑依覚醒 Spell Card Continuous Spell Card Continuous Spell Card Back Beat バックビート Spell Card Normal Spell Card Normal Spell Card Backup Squad 補充部隊 Spell Card Continuous Spell Card Continuous Spell Card Backup Team 補強要員 Trap Card Normal Trap Card Normal Trap Card Balance of Judgment 裁きの天秤 Trap Card Normal Trap Card Normal Trap Card Bandaged Bowing オジギプス Spell Card Normal Spell Card Normal Spell Card The Beginning of the End 終わりの始まり Spell Card Normal Spell Card Normal Spell Card The Big Cattle Drive 烏合の行進 Spell Card Normal Spell Card Normal Spell Card Black and White Wave 黒白の波動 Spell Card Quick-Play Spell Card Quick-Play Spell Card Blackboost ブラック・ブースト Trap Card Normal Trap Card Normal Trap Card Blackwing - Boobytrap ＢＦ－マイン Trap Card Normal Trap Card Normal Trap Card Blaze Accelerator Reload ブレイズ・キャノン・マガジン Trap Card Continuous Trap Card Continuous Trap Card Book of Eclipse 皆既日蝕の書 Spell Card Quick-Play Spell Card Quick-Play Spell Card Boon of the Meklord Emperor 機皇帝の賜与 Spell Card Normal Spell Card Normal Spell Card Borrel Regenerator ヴァレル・リロード Spell Card Equip Spell Card Equip Spell Card Break! Draw! ブレイク・ドロー Spell Card Equip Spell Card Equip Spell Card Breaking of the World ブレイク・オブ・ザ・ワールド Spell Card Field Spell Card Field Spell Card Bright Future ブライト・フューチャー Trap Card Normal Trap Card Normal Trap Card Brutal Beast Battle 獣烈な争い Trap Card Normal Trap Card Normal Trap Card Burning Draw 逆巻く炎の宝札 Spell Card Normal Spell Card Normal Spell Card By Order of the Emperor エンペラー・オーダー Trap Card Continuous Trap Card Continuous Trap Card Card Destruction 手札抹殺 Spell Card Normal Spell Card Normal Spell Card Card Destruction 手札抹殺 Spell Card Normal Spell Card Normal Spell Card Card Trader カードトレーダー Spell Card Continuous Spell Card Continuous Spell Card Card of Demise 命削りの宝札 Spell Card Normal Spell Card Normal Spell Card Card of Last Will 遺言の札 Trap Card Normal Trap Card Normal Trap Card ... further results (297 more) 
+ Anime 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Airknight Parshath 天空騎士パーシアス Effect Monster LIGHT Fairy 0 0 0 5 0 0 0 0 0 ??? 0 0 0 0 1900 Arcana Force EX - The Light Ruler アルカナフォースＥＸ＿ＴＨＥ ＬＩＧＨＴ ＲＵＬＥＲ Effect Monster LIGHT Fairy 0 0 10 0 0 0 0 0 ??? 0 0 0 0 4000 Attron アトロン Effect Monster LIGHT Cyberse 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 1000 The Big Server 伝説のビッグサーバー Effect Monster EARTH Warrior 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 300 Brain Dragon 大統龍 ブレーンドラゴン Effect Monster LIGHT Dragon 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 2800 Broww, Huntsman of Dark World 暗黒界の狩人 ブラウ Effect Monster DARK Fiend 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 1400 CXyz Coach Lord Ultimatrainer ＣＸ 熱血指導神アルティメットレーナー Xyz Monster ??? Warrior 0 0 0 9 0 0 0 0 0 ??? 0 0 0 0 3800 CXyz Dark Fairy Cheer Girl ＣＸ ダーク・フェアリー・チア・ガール Xyz Monster DARK Fairy 0 0 0 5 0 0 0 0 0 ??? 0 0 0 0 2500 Card Trooper カードガンナー Effect Monster EARTH Machine 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 400 Cardcar D カードカー・Ｄ Effect Monster EARTH Machine 0 0 0 2 0 0 0 0 0 ??? 0 0 0 0 0 800 Celtic Guard of Noble Arms エルフの聖剣士 Effect Monster EARTH Warrior 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 2100 Chainsaw Insect 電動刃虫 Effect Monster EARTH Insect 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 2400 Cleanliness General - Big Tidy 潔癖大将ビッグ・タイディ Effect Monster WATER Warrior 0 0 0 7 0 0 0 0 0 ??? 0 0 0 0 1000 Clear Effector クリア・エフェクター Effect Monster LIGHT Spellcaster 0 0 0 2 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 Clear Kuriboh クリアクリボー Effect Monster LIGHT Fairy 0 0 0 0 0 ??? 0 0 0 0 0 300 Coach King Giantrainer 熱血指導王ジャイアントレーナー Xyz Monster EARTH Warrior 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 2800 Cosmic Compass クラスター・ペンデュラム Effect Monster EARTH Machine 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 0 100 Cyber Ouroboros サイバー・ウロボロス Effect Monster DARK Machine 0 0 0 2 0 0 0 0 0 ??? 0 0 0 0 0 100 Cyber Phoenix サイバー・フェニックス Effect Monster FIRE Machine 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1200 Cyber Valley サイバー・ヴァリー Effect Monster LIGHT Machine 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 D/D Pandora ＤＤパンドラ Effect Monster DARK Fiend 0 0 0 5 0 0 0 0 0 ??? 0 0 0 0 1700 D/D/D Stone King Darius ＤＤＤ磐石王ダリウス Xyz Monster EARTH Fiend 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 1900 Daigusto Emeral ダイガスタ・エメラル Xyz Monster WIND Rock 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1800 Dark Tinker ダーク・リペアラー Effect Monster Tuner monster DARK Fiend 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 1000 Dark Tuner Dark Ape ＤＴ ダーク・エイプ Effect Monster Dark Tuner monster DARK Beast 0 0 0 2 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 Darksea Float ダークシー・フロート Effect Monster DARK Machine 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 Darksea Rescue ダークシー・レスキュー Effect Monster DARK Machine 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 Dekoichi the Battlechanted Locomotive 魔装機関車 デコイチ Effect Monster Flip monster DARK Machine 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1400 Destiny Hero - Defender Ｄ－ＨＥＲＯ ディフェンドガイ Effect Monster DARK Warrior 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 0 100 Destiny Hero - Disk Commander Ｄ－ＨＥＲＯ ディスクガイ Effect Monster DARK Warrior 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 0 300 Dragon Queen of Tragic Endings バッド・エンド・クイーン・ドラゴン Effect Monster DARK Dragon 0 0 0 6 0 0 0 0 0 ??? 0 0 0 0 1900 Draw Slime ドロー・スライム Effect Monster WATER Aqua 0 0 0 2 0 0 0 0 0 ??? 0 0 0 0 0 300 Drill Synchron ドリル・シンクロン Effect Monster Tuner monster EARTH Machine 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 800 Edge Imp Saw エッジインプ・ソウ Effect Monster DARK Fiend 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 500 Electric Snake エレクトリック・スネーク Effect Monster LIGHT Thunder 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 800 Elemental Hero Bubbleman Ｅ・ＨＥＲＯ バブルマン Effect Monster WATER Warrior 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 0 800 Evil Hero Infernal Prodigy Ｅ－ＨＥＲＯ ヘル・ブラット Effect Monster DARK Fiend 0 0 0 2 0 0 0 0 0 ??? 0 0 0 0 0 300 Fairy Cheer Girl フェアリー・チア・ガール Xyz Monster LIGHT Fairy 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1900 Fairy Cheer Girl フェアリー・チア・ガール Xyz Monster LIGHT Fairy 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1900 Fiber Jar ファイバーポッド Effect Monster Flip monster EARTH Plant 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 0 500 Flame Bufferlo フレイム・バッファロー Effect Monster FIRE Cyberse 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 1400 Flick Clown フリック・クラウン Effect Monster DARK Cyberse 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1000 Flower Cardian Cherry Blossom with Curtain 花札衛－桜に幕－ Effect Monster DARK Warrior 0 0 0 3 0 0 0 0 0 ??? 0 0 0 0 2000 Flower Cardian Clover with Boar 花札衛－萩に猪－ Effect Monster DARK Warrior 0 0 0 7 0 0 0 0 0 ??? 0 0 0 0 1000 Flower Cardian Maple with Deer 花札衛－紅葉に鹿－ Effect Monster DARK Warrior 0 0 10 0 0 0 0 0 ??? 0 0 0 0 1000 Flower Cardian Paulownia 花札衛－桐－ Effect Monster DARK Warrior 0 0 12 0 0 0 0 0 ??? 0 0 0 0 0 100 Flower Cardian Paulownia with Phoenix 花札衛－桐に鳳凰－ Effect Monster DARK Warrior 0 0 12 0 0 0 0 0 ??? 0 0 0 0 2000 Flower Cardian Peony with Butterfly 花札衛－牡丹に蝶－ Effect Monster Tuner monster DARK Warrior 0 0 0 6 0 0 0 0 0 ??? 0 0 0 0 1000 Flower Cardian Pine 花札衛－松－ Effect Monster DARK Warrior 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 0 100 Flower Cardian Pine with Crane 花札衛－松に鶴－ Effect Monster DARK Warrior 0 0 0 1 0 0 0 0 0 ??? 0 0 0 0 2000 ... further results (81 more) 
+   Japanese name Card type Property A.I. Contact — Ａｉ — コンタクト Spell Card Normal Spell Card A.I. Mine Ａｉ マイン Spell Card Normal Spell Card A.I. Shadow Ａｉ シャドー Trap Card Continuous Trap Card Abyss Stage - Treasure Boat of the Lucky Seven 魔界舞台「七福神の宝船」 Spell Card Continuous Spell Card Acrobatic Tower アクロバット・タワー Trap Card Normal Trap Card Advance Draw アドバンスドロー Spell Card Normal Spell Card Akashic Record アカシックレコード Spell Card Normal Spell Card Alchemy Cycle アルケミー・サイクル Trap Card Counter Trap Card Ancient City - Rainbow Ruins 虹の古代都市－レインボー・ルイン Spell Card Field Spell Card Ancient Gear Inspection 古代の機械点検 Spell Card Normal Spell Card Angel Wing エンジェル・ウィング Spell Card Equip Spell Card Apple of Enlightenment フライアのリンゴ Trap Card Normal Trap Card Appropriate 便乗 Trap Card Continuous Trap Card Armor Ninjitsu Art of Alchemy 機甲忍法ゴールド・コンバージョン Spell Card Normal Spell Card Arrow Charge マーカーズ・チャージ Spell Card Normal Spell Card Art of Masked Fiery Noodle Drawing-Out-The-Rich-Tasty-Flavor Reversal 火麺ドローっと濃厚返しの術 Spell Card Normal Spell Card Astral Shift アストラルシフト Trap Card Normal Trap Card Aurora Draw オーロラ・ドロー Spell Card Normal Spell Card Awakening from Beyond 死の床からの目覚め Spell Card Normal Spell Card Bandaged Bowing オジギプス Spell Card Normal Spell Card Beast Burial Ritual 神事の獣葬 Trap Card Normal Trap Card Berserker Soul 狂戦士の魂 Spell Card Quick-Play Spell Card Black Process - Negledo 黒の過程－ニグレド Spell Card Normal Spell Card Blackboost ブラック・ブースト Trap Card Normal Trap Card Blackwing - Boobytrap ＢＦ・マイン Trap Card Normal Trap Card Blaster Cartridge バレット＆カートリッジ Spell Card Normal Spell Card Blasting Vein ブラスティング・ヴェイン Spell Card Normal Spell Card Book of Eclipse 皆既日蝕の書 Spell Card Quick-Play Spell Card Boon of the Meklord Emperor 機皇帝の賜与 Spell Card Normal Spell Card Break! Draw! ブレイク・ドロー Spell Card Equip Spell Card The Bridge on the River Klean 洗浄に架ける橋 Spell Card Normal Spell Card Bubble Rod バブル・ロッド Spell Card Equip Spell Card Burning Draw 逆巻く炎の宝札 Spell Card Normal Spell Card Card Defense カード・ディフェンス Trap Card Normal Trap Card Card Destruction 手札抹殺 Spell Card Normal Spell Card Card Destruction 手札抹殺 Spell Card Normal Spell Card Card Loan カードローン Spell Card Normal Spell Card Card from a Different Dimension 異次元からの宝札 Spell Card Normal Spell Card Card of Adversity 逆境の宝札 Spell Card Normal Spell Card Card of Burial Magic 埋葬呪文の宝札 Spell Card Normal Spell Card Card of Demise 命削りの宝札 Spell Card Normal Spell Card Card of Endurance 自虐 の宝札 Spell Card Quick-Play Spell Card Card of Last Will 遺言の札 Trap Card Normal Trap Card Card of Puppets からくりの宝札 Spell Card Normal Spell Card Card of Reversal 逆転の宝札 Spell Card Normal Spell Card Card of Sacrifice 捨て身の宝札 Trap Card Normal Trap Card Card of Safe Return 生還の宝札 Spell Card Continuous Spell Card Card of Sanctity 天よりの宝札 Spell Card Normal Spell Card Card of Spell Containment 魔封印の宝札 Spell Card Normal Spell Card Card of Variation 流転の宝札 Spell Card Normal Spell Card ... further results (223 more) 
+ Manga 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Absolute King Back Jack 絶対王 バック・ジャック Normal Monster Tuner monster DARK Fiend 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 Ancient Pixie Dragon 妖精竜 エンシェント Synchro Monster DARK Dragon 0 0 0 7 0 0 0 0 2100 0 0 0 0 3000 Celestial Mage 天輪の魔導士 Normal Monster 0 0 0 2 0 0 0 0 1400 0 0 0 0 0 100 Electrode Beast Anion 電極獣アニオン Normal Monster 0 0 0 2 0 0 0 0 0 300 0 0 0 0 0 ??? Elemental Hero Bubbleman Ｅ・ＨＥＲＯ バブルマン Normal Monster WATER Warrior 0 0 0 4 0 0 0 0 0 800 0 0 0 0 1200 Gagaga Head ガガガヘッド Effect Monster DARK Spellcaster 0 0 0 6 0 0 0 0 2100 0 0 0 0 2000 Learning Elf ラーニング・エルフ Effect Monster Fairy 0 0 0 3 0 0 0 0 1400 0 0 0 0 1500 Ma'at マアト Fusion Monster LIGHT Fairy 0 0 10 0 0 0 0 0 0 0 ? 0 0 0 0 0 0 0 ? Masked Hero Divine Wind Ｍ・ＨＥＲＯカミカゼ Fusion Monster WIND Warrior 0 0 0 8 0 0 0 0 2700 0 0 0 0 1900 No. 10: Illumiknight Ｎｏ.１０ 白輝士イルミネーター Xyz Monster LIGHT Warrior 0 0 0 4 0 0 0 0 2400 0 0 0 0 2400 Onmoraki 陰魔羅鬼 Effect Monster Yokai 0 0 0 4 0 0 0 0 1200 0 0 0 0 1000 Power Tool Mecha Dragon 機械竜 パワー・ツール Synchro Monster DARK Machine 0 0 0 7 0 0 0 0 2300 0 0 0 0 2500 Rose Shaman 薔薇占術師 Normal Monster 0 0 0 4 0 0 0 0 1700 0 0 0 0 0 200 Stardust Charge Warrior スターダスト・チャージ・ウォリアー Synchro Monster WIND Warrior 0 0 0 6 0 0 0 0 2000 0 0 0 0 1300 Tankroid タンクロイド Effect Monster Machine 0 0 0 4 0 0 0 0 1500 0 0 0 0 1900 
+   Japanese name Card type Property Backlash バック・ラッシュ Trap Card Block Draw ブロックドロー Spell Card The Body's Hidden Mantra 屍の中の真言 Spell Card Normal Spell Card Card Destruction 手札抹殺 Spell Card Card of Compensation 代償の宝札 Spell Card Card of Demise 命削りの宝札 Spell Card Card of Desperation 絶望の宝札 Spell Card Normal Spell Card Card of Heaven and Earth 天地の宝札 Spell Card Card of Last Will 遺言の札 Trap Card Card of Safe Return 生還の宝札 Spell Card Continuous Spell Card Card of Sanctity 天よりの宝札 Spell Card Celestial Bell Tower 天輪鐘楼 Spell Card Continuous Spell Card Celestial Profit 天輪増札 Trap Card Champion's Ambition 王者の覇気 Trap Card Cyber Roar サイバー・ローアー Spell Card Equip Spell Card Dark Bribe 魔宮の賄賂 Trap Card Counter Trap Card Despair Struggle ディスペアー・ストラグル Trap Card Dragon's Charge 竜の進撃 Spell Card Quick-Play Spell Card Dual-Colored Eyes 二色の眼 Spell Card Duel デュエル Spell Card Normal Spell Card Endless Bond 永遠の絆 Spell Card Continuous Spell Card Excavation Work 発掘作業 Spell Card Normal Spell Card Flawless Perfection of the Tenyi 天威無崩の地 Spell Card Field Spell Card Gift of the Weak 弱者の贈り物 Spell Card Normal Spell Card Graceful Charity 天使の施し Spell Card Heaven's Lost Property 天の落とし物 Spell Card Normal Spell Card Hell Gift 地獄宝札 Spell Card Hero's Legacy ＨＥＲＯの遺産 Spell Card Normal Spell Card Hopeful Future 希望の未来 Trap Card Normal Trap Card Kuji-Kiri Curse 九字切りの呪符 Spell Card Normal Spell Card Memories of Hope 希望の記憶 Spell Card Normal Spell Card Michizure of Doom 墓穴の道連れ Spell Card Mokusatsu 目殺 Trap Card Continuous Trap Card Monster Recovery モンスター回収 Spell Card Normal Spell Card Multiple Destruction 死なばもろとも Trap Card Pendulum Halt ペンデュラム・ホルト Spell Card Field Spell Card Pendulum Halt ペンデュラム・ホルト Spell Card Photon Wind 光子風 Spell Card Quick-Play Spell Card Pot of Greed 強欲な壺 Spell Card Reaction Draw リアクション・ドロー Spell Card Reload リロード Spell Card Quick-Play Spell Card Shining Horizon シャイニング・ホライゾン Spell Card Shock Draw ショック・ドロー Trap Card Spell Books from the Pot 壺の中の魔術書 Spell Card Normal Spell Card Spirit Foresight スピリット・フォアサイト Spell Card Quick-Play Spell Card Spirit XYZ Spark スピリット・エクシーズ・スパーク Spell Card Quick-Play Spell Card Stardust Re-Spark 星墜つる地に立つ閃珖 Trap Card Synchro Creed シンクロ・クリード Spell Card Trick Barrier トリック・バリア Trap Card Normal Trap Card XYZ Spiral エクシーズ・スパイラル Spell Card Quick-Play Spell Card ... further results (4 more) 
+ See also 
+ Add a card 
+ Normal draw 
+ Draw Count 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/33/DefenseDraw-TF04-JP-VG.png/revision/latest/scale-to-width-down/300?cb=20160914000230']
+Categories: Gameplay

@@ -1,0 +1,104 @@
+Link: https://yugioh.fandom.com/wiki/Power_Stream
+
+
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Power Stream 
+ 
+ Japanese:   パワー・ストリーム 
+ Romaji:   Pawā Sutorīmu 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Quick-Play 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Effect 
+ Condition 
+ Target  1  WATER   Xyz Monster  that was  Special Summoned  during this  turn 's  Battle Phase ;  attach  this card to it as an  Xyz Material . If that target  attacks  this turn, it gains 1000  ATK  during  damage calculation  only.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  126 ,  136 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ パワー・ストリーム 
+ このターンのバトルフェイズ中に特殊召喚した水属性モンスターエクシーズ１体を選択して発動できる。選択したモンスターエクシーズの下にこのカードを重ねてエクシーズ素材にする。選択したモンスターがこのターンに攻撃する場合、選択したモンスターの攻撃力はダメージ計算時のみ１０００ポイントアップする。 
+ 
+ 
+ Pawā Sutorīmu 
+ 
+ 
+ Decks 
+ 
+ 
+ Nash 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ WATER 
+ Xyz Monster 
+ 
+ Actions  
+ Attaches itself as Xyz Material 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ Your opponent's monsters gain ATK 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/d/de/PowerStream-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20131020164425', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

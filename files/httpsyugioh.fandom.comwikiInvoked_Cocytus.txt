@@ -1,0 +1,254 @@
+Link: https://yugioh.fandom.com/wiki/Invoked_Cocytus
+
+
+ 
+ 
+ Invoked Cocytus 召 喚 獣 コキュートス 
+ 
+ English 
+Invoked Cocytus 
+ French 
+ Cocyte l'Invokhé Check translation 
+ German 
+ Beschworener Cocytus Check translation 
+ Italian 
+ Cocito Invokato Check translation 
+ Korean 
+ 소환수 코키토스 Check translation 
+ Portuguese 
+ Cócito, o Invokado Check translation 
+ Spanish 
+ Cocito Invokado Check translation 
+ Japanese (kana) 
+ しょうかんじゅうコキュートス Check translation 
+ Japanese (base) 
+ 召喚獣コキュートス Check translation 
+ Japanese ( rōmaji ) 
+Shōkanjū Kokyūtosu 
+ Japanese (translated) 
+Invoked Beast Cocytus 
+ Card type 
+ Monster   
+ Attribute 
+ WATER   
+ Types 
+ Dragon  /  Fusion  /  Effect 
+ Level 
+ 6   
+ ATK  /  DEF 
+ 1800  /  2900 
+ Passcode 
+ 85908279 
+ Fusion Material 
+" Aleister the Invoker " 
+ Materials 
+"Aleister the Invoker" + 1 WATER monster 
+ Card effect types 
+ 
+ 
+ Continuous 
+ Continuous 
+ Continuous Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+" Aleister the Invoker " + 1  WATER   monster Cannot be  destroyed  by your opponent's  card effects . Your opponent cannot  target  this card with card effects. This card can  attack  while in  face-up   Defense Position . If it does, apply its  ATK  for  damage calculation . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ "Aleister l'Invokhateur" + 1 monstre EAU Non destructible par des effets de carte de votre adversaire. Votre adversaire ne peut pas cibler cette carte avec des effets de carte. Cette carte peut attaquer tant qu'elle est en Position de Défense face recto. Si elle le fait, appliquez son ATK pour le calcul des dommages. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ „Aleister der Beschwörer“ + 1 WASSER Monster Kann nicht durch Karteneffekte deines Gegners zerstört werden. Dein Gegner kann diese Karte nicht als Ziel für Karteneffekte wählen. Diese Karte kann angreifen, solange sie in offener Verteidigungsposition liegt. Falls sie dies tut, verwende ihre ATK für die Schadensberechnung. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ "Aleister l'Invocatore" + 1 mostro ACQUA Non può essere distrutto dagli effetti delle carte del tuo avversario. Il tuo avversario non può scegliere questa carta come bersaglio con gli effetti delle carte. Questa carta può attaccare mentre è scoperta in Posizione di Difesa. Se lo fa, applica il suo ATK per il calcolo dei danni. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ "Aleister, Aquele que Invoka" + 1 monstro de ÁGUA Não pode ser destruído pelos efeitos de card do seu oponente. Seu oponente não pode escolher este card como alvo de efeitos de card. Este card pode atacar enquanto estiver com a face para cima em Posição de Defesa. Se o fizer, aplique seu ATK no cálculo de dano. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ "Aleister, el que Invoka" + 1 monstruo de AGUA No puede ser destruido por efectos de cartas de tu adversario. Tu adversario no puede seleccionar esta carta con efectos de cartas. Esta carta puede atacar mientras esté en Posición de Defensa boca arriba. Si lo hace, aplica su ATK para el cálculo de daño. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「召喚師アレイスター」＋水属性モンスター ①：このカードは相手の効果の対象にならず、相手の効果では破壊されない。②：このカードは表側守備表示のままで攻撃できる。その場合、攻撃力の数値を適用してダメージ計算を行う。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "소환사 알레이스터" + 물 속성 몬스터 ①: 이 카드는 상대 효과의 대상이 되지 않으며, 상대 효과로는 파괴되지 않는다. ②: 이 카드는 앞면 수비 표시 그대로 공격할 수 있다. 그 경우, 공격력의 수치를 적용하고 데미지 계산을 실행한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2017-02-23 FUEN-EN029 Fusion Enforcers Secret Rare 2020-12-04 GEIM-EN055 Genesis Impact Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2017-02-23 FUEN-FR029 Fusion Enforcers Les Executeurs Fusion Secret Rare 2020-12-03 GEIM-FR055 Genesis Impact l'Impact de la Genèse Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2017-02-23 FUEN-DE029 Fusion Enforcers Fusion Enforcers Secret Rare 2020-12-03 GEIM-DE055 Genesis Impact Genesis Impact Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2017-02-23 FUEN-IT029 Fusion Enforcers Esecutori Fusione Secret Rare 2020-12-03 GEIM-IT055 Genesis Impact Impatto Origini Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2017-02-23 FUEN-PT029 Fusion Enforcers Dominadores da Fusão Secret Rare 2020-12-03 GEIM-PT055 Genesis Impact Impacto Gênesis Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2017-02-23 FUEN-SP029 Fusion Enforcers Ejecutores de la Fusión Secret Rare 2020-12-03 GEIM-SP055 Genesis Impact Impacto del Génesis Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2016-11-12 SPFE-JP029 Booster SP: Fusion Enforcers ブースターＳＰ －フュージョン・エンフォーサーズ－ Common 2016-11-12 SPFE-JP029 Booster SP: Fusion Enforcers ブースターＳＰ －フュージョン・エンフォーサーズ－ Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2017-03-21 SPFE-KR029 Booster SP: Fusion Enforcers 부스터-SP 퓨전 엔포서즈 Common 2017-03-21 SPFE-KR029 Booster SP: Fusion Enforcers 부스터-SP 퓨전 엔포서즈 Normal Parallel Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ WATER 
+ 
+ Archetypes  and  series   
+ Invoked 
+ 
+ Monster / Spell / Trap  categories  
+ Cannot be destroyed by card effects 
+ Cannot be targeted by card effects 
+ 
+ Summoning  categories  
+ 2 Fusion Materials 
+ Requires specific Effect Monsters as Fusion Materials 
+ Requires Attribute specific Fusion Materials 
+ 
+ Attack  categories  
+ Defense Position attacker 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12846 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Invoked " 「 召 喚 獣 」 Members 
+ Invoked Augoeides Invoked Caliga Invoked Cocytus Invoked Elysium Invoked Magellanica Invoked Mechaba Invoked Purgatrio Invoked Raidjin 
+ Support 
+ Invoked Elysium 
+ The Book of the Law Invocation Omega Summon 
+ Related 
+ Aleister the Invoker Aleister the Invoker of Madness Crowley, the First Propheseer Crowley, the Magistus of Grimoires 
+ Alpha Summon Magical Meltdown 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/72/InvokedCocytus-FUEN-EN-ScR-1E.png/revision/latest/scale-to-width-down/300?cb=20170223194656', 'https://static.wikia.nocookie.net/yugioh/images/4/40/WATER.svg/revision/latest/scale-to-width-down/28?cb=20120918052107', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

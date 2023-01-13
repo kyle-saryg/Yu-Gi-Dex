@@ -1,0 +1,349 @@
+Link: https://yugioh.fandom.com/wiki/Sprite%27s_Blessing
+
+
+ 
+ 
+ Sprite's Blessing 精 霊 の 祝 福 
+ 
+ English 
+Sprite's Blessing 
+ French 
+ Bénédiction des Lutins Check translation 
+ German 
+ Segen des Kobolds Check translation 
+ Italian 
+ Benedizione del Folletto Check translation 
+ Korean 
+ 정령의 축복 Check translation 
+ Portuguese 
+ Benção dos Duendes Check translation 
+ Spanish 
+ Bendición del Hadita Check translation 
+ Japanese (kana) 
+ せいれいのしゅくふく Check translation 
+ Japanese (base) 
+ 精霊の祝福 Check translation 
+ Japanese ( rōmaji ) 
+Seirei no Shukufuku 
+ Card type 
+ Spell   
+ Property 
+ Ritual   
+ Passcode 
+ 37626500 
+ Card effect types 
+ 
+ 
+ Condition 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+This card can be used to  Ritual Summon  any  LIGHT   Ritual Monster . You must also  Tribute   monsters  from your  hand  or  field  whose total  Levels  exactly equal the Level of the Ritual Monster you Ritual Summon. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Cette carte peut être utilisée pour Invoquer Rituellement un Monstre Rituel LUMIÈRE. Vous devez aussi Sacrifier des monstres depuis votre main ou Terrain dont le Niveau total est exactement égal au Niveau du Monstre Rituel que vous Invoquez Rituellement. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Diese Karte kann verwendet werden, um ein beliebiges LICHT Ritualmonster als Ritualbeschwörung zu beschwören. Du musst zusätzlich Monster von deiner Hand oder Spielfeldseite als Tribut anbieten, deren gemeinsame Stufe genau der Stufe des Ritualmonsters entspricht, das du als Ritualbeschwörung beschwörst. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Questa carta può essere utilizzata per Evocare tramite Rituale qualsiasi Mostro Rituale LUCE. Devi anche offrire come Tributo, dalla tua mano o Terreno, mostri il cui Livello totale sia esattamente pari al Livello del Mostro Rituale che stai Evocando tramite Rituale. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Este card pode ser usado para a Invocação-Ritual de qualquer Monstro Ritual de LUZ. Você também deve oferecer como Tributo monstros da sua mão ou do campo cuja soma dos Níveis seja exatamente igual ao Nível do Monstro Ritual que você Invocou por Invocação-Ritual. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Esta carta puede ser usada para Invocar por Ritual a cualquier Monstruo de Ritual de LUZ. También debes Sacrificar monstruos en tu mano o Campo cuyos Niveles totales sean exactamente iguales al Nivel del Monstruo Ritual que estés Invocando por Ritual. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 光属性の儀式モンスターの降臨に必要。①：レベルの合計が儀式召喚するモンスターと同じになるように、自分の手札・フィールドのモンスターをリリースし、手札から光属性の儀式モンスター１体を儀式召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 빛 속성 의식 몬스터의 의식 소환에 필요. ①: 레벨의 합계가 의식 소환할 몬스터와 같아지도록, 자신의 패 / 필드의 몬스터를 릴리스하고, 패에서 빛 속성의 의식 몬스터 1장을 의식 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2016-11-03  
+ INOV-EN064   
+ Invasion of Venom 
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-EN156   
+ 2017 Mega-Tin Mega Pack 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2016-11-03  
+ INOV-FR064   
+ Invasion of Venom 
+ Invasion : Vengeance  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2016-11-03  
+ INOV-DE064   
+ Invasion of Venom 
+ Invasion: Vengeance  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2016-11-03  
+ INOV-IT064   
+ Invasion of Venom 
+ Invasione: Vendetta  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2016-11-04  
+ INOV-PT064   
+ Invasion of Venom 
+ Invasão: Vingança  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2016-11-03  
+ INOV-SP064   
+ Invasion of Venom 
+ Invasión: Venganza  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2016-07-09  
+ INOV-JP064   
+ Invasion of Venom 
+ インベイジョン・オブ・ヴェノム  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2016-10-20  
+ INOV-KR064   
+ Invasion of Venom 
+ 인베이전 오브 베놈  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ LIGHT 
+ Ritual Monster 
+ 
+ Actions  
+ Tributes as an effect 
+ 
+ Summoning  categories  
+ Special Summons from your hand 
+ 
+ Miscellaneous  
+ Nonspecific Ritual Spell Card 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12654 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/41/SpritesBlessing-MP17-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170823083845', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/f/f5/Ritual.svg/revision/latest/scale-to-width-down/28?cb=20120920115233']
+Categories: Duel Monsters cards, TCG cards, OCG cards

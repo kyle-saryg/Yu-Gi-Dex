@@ -1,0 +1,589 @@
+Link: https://yugioh.fandom.com/wiki/File:Pendulum_Summon_Chart.png
+
+
+ 
+ Pendulum Summon
+ 
+ 
+ 
+ A Pendulum Summon in the anime
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ Ｐ 召 喚 [Notes 1] 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ ペンデュラムしょうかん
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ Ｐ召喚
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Pendyuramu Shōkan
+ 
+ 
+ 
+ English
+ 
+ 
+ Pendulum Summon
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Invocation Pendule Verb: Invoquer par Pendulation 
+ German : Pendelbeschwörung Verb: beschwören als Pendelbeschwörung 
+ Italian : Evocazione Pendulum Verb: Evocare Pendulum 
+ Portuguese : Invocação-Pêndulo Verb: Invocar por Invocação-Pêndulo 
+ Spanish : Invocación por Péndulo Verb: Invocar por Péndulo 
+ Korean : 펜듈럼 소환 (Pendulum 召喚)  Pendyulleom Sohwan 
+ Simplified Chinese : 灵摆召唤  Língbǎi Zhàohuàn 
+ 
+ 
+ A  Pendulum Summon  (Japanese ペンデュラム 召 喚   Pendyuramu Shōkan ; usually abbreviated  Ｐ 召 喚 ) is a form of  Special Summon  introduced in  Yu-Gi-Oh! ARC-V . [1]  Pendulum Summoning allows the player to Summon multiple monsters simultaneously. [2] [3] 
+ 
+ Contents 
+ 
+ 1   Mechanics 
+ 2   Advanced Rulings 
+ 3   Anime 
+ 4   Manga 
+ 5   See also 
+ 6   Trivia 
+ 7   Notes 
+ 8   References 
+ 9   External links 
+ 
+ 
+ Mechanics 
+ Once per  turn , during the  Main Phase , if the turn player has a card with a  Pendulum Scale  in each of their two  Pendulum Zones  (for a total of 2 cards), that player can Pendulum Summon any number of monsters from their  hand , and/or any number of face-up Pendulum Monsters in their  Extra Deck , whose individual  Levels  or the Level written in the condition, if any, of an  Xyz Pendulum Monster   [4]  are exclusively between the Pendulum Scales of the cards in their Pendulum Zones (i.e. monsters whose individual Levels/Ranks are between the Pendulum Scales and not the same as the Pendulum Scales' values).
+ When performing a Pendulum Summon,  Pendulum Monster (s) that are  face-up  in the  Extra Deck  must be Summoned to an unoccupied  Main Monster Zone  that a  Link Monster   points to  or an  Extra Monster Zone . Monsters that are Pendulum Summoned from the hand are Summoned to any  Main Monster Zones .
+ 
+ Advanced Rulings 
+ Due to Levels and Ranks restrictions, no monsters can be Pendulum Summoned if cards in Pendulum Zones have Pendulum Scales that differ by one or less (i.e. 4 and 4, 3 and 4). However, this has no impact on Pendulum Effects.
+ A Pendulum Summon is a  built-in Special Summon , so it can be  negated  by cards like " Solemn Warning " and " Thunder King Rai-Oh "; however, if more than 1 monster would be Pendulum Summoned at the same time, cards like " Black Horn of Heaven " (which specify they can only be activated when  exactly 1  monster would be Summoned) cannot be activated.
+ Pendulum Summoning is unrelated to the effects of the Pendulum Monsters in the Pendulum Zones, and can be performed even if their effects are negated (such as due to the effect of " Vector Pendulum, the Dracoverlord ").
+ 
+ Using Pendulum Scales of 1 and 8 to Pendulum Summon three monsters: A Level 6, a Level 5, and a Level 3. 
+ Anime 
+ When a Pendulum Summon is performed in the anime, a portal opens between the two Pendulum Zones and streaks of light emerge from these zones, representing the monsters. The color of the light streaks appears to depend on the number of monsters that are being Summoned; three monsters for example results in a green, blue and a red streak, while two results in a green and a blue streak.  
+ On occasion, the energy changes. Declan's monsters vary between a surge of purple light or purple streaks, whereas " Mayosenju Daibak " appears from the portal in the form of a green tornado. In addition,  Yuya Sakaki 's Pendulum Summons have an enlarged version of  his pendant  swinging between the zones.
+ When a Pendulum Summon of five monsters is performed, the colors representing the monsters merge together into a multi-colored spiral of light before appearing on the field, symbolizing the powerful Summon. 
+ 
+ Pendulum Summon in  Yu-Gi-Oh! ARC-V 
+ Manga 
+ In the manga, when a Pendulum Summon occurs,  Yuya 's pendant breaks and a monster appears from it.
+ 
+ See also 
+ Pendulum Zone 
+ Pendulum Scale 
+ Pendulum Monster 
+ Pendulum Effect 
+ Trivia 
+ Pendulum Summoning was stated by producer Akiko Hirayama to be the brainchild of  Aikawa , who she referred to as the "godfather" of Pendulum Summoning. [5] 
+ Notes 
+ 
+ ↑   The frequently used abbreviated form. Simply substitute the furigana with the Latin letters for the full form. 
+ 
+ 
+ References 
+ 
+ ↑   YGOrganization  Yugioh Arc-V News 
+ 
+ ↑   "4K Media debuts Yu-Gi-Oh! ARC-V at Kidscreen Summit" .  http://www.ltwmag.com/news/latest_news/4k_media_debuts_yugioh_arcv_at_kidscreen_summit.aspx . 
+ 
+ ↑   Lombardi, Nancy (February 13, 2014).  "Jeffrey Katzenberg to Give Licensing Show Keynote" .  http://www.anbmedia.com/anb-media-news/2014/02/anb-media-news-february-13-2014/ . 
+ 
+ ↑   Konami.  Yu-Gi-Oh! Official Card Game - Perfect Rulebook 2015 . p. 9. 
+ 
+ ↑   [1]  Yugioh ARC-V Producer Interview 
+ 
+ 
+ External links 
+ yugioh-card.com/japan   Master Rule 3: Overview   (Japanese) 
+ yugioh-card.com/hk   Master Rule 3: Overview   (Asian English) 
+ yugioh-card.com/hk   Master Rule 3: Overview   (Chinese) 
+ yugioh-card.com/en    Learn How to Pendulum Summon Tutorial Video   (English) 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/2f/PendulumSummon.png/revision/latest/scale-to-width-down/300?cb=20141206190924', 'https://static.wikia.nocookie.net/yugioh/images/7/71/Pendulum_Summon_Chart.png/revision/latest/scale-to-width-down/700?cb=20140326231747', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/12/ARC-V_Pendulum.gif/revision/latest/scale-to-width-down/185?cb=20180605013950', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Types of Summon

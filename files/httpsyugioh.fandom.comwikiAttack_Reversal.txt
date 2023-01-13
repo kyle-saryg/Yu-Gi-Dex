@@ -1,0 +1,93 @@
+Link: https://yugioh.fandom.com/wiki/Attack_Reversal
+
+
+ Attack Reversal 
+ 
+ Japanese:   リバーサル・アタック 
+ Romaji:   Ribāsaru Atakku 
+ Translated:  Reversal Attack 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Quick-Play 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Effect 
+ Target  1  monster  you  control  and 1 monster your opponent controls; switch the  ATK  of those targets until the end of the  Battle Phase .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ARC-V :  130 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ARC-V ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ リバーサル・アタック 
+ ①：自分フィールドのモンスター１体と相手フィールドのモンスター１体を対象として発動できる。その自分のモンスターの攻撃力と、その相手モンスターの攻撃力を、バトルフェイズ終了時まで入れ替える。 
+ 
+ 
+ Ribāsaru Atakku 
+ 
+ 
+ Decks 
+ 
+ 
+ Kite Tenjo  
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ Changes ATK value 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d5/AttackReversal-JP-Anime-AV.png/revision/latest/scale-to-width-down/200?cb=20161106155928', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/05/Quick-Play.svg/revision/latest/scale-to-width-down/18?cb=20120920115228']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

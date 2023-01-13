@@ -1,0 +1,340 @@
+Link: https://yugioh.fandom.com/wiki/Buten
+
+The  Chinese  and  Croatian                       names given are not official.  
+ 
+ 
+ 
+ 
+ 
+ Buten ブーテン 
+ 
+ English 
+Buten 
+ Chinese 
+ 天使猪仔 Check translation 
+ French 
+ Buten Check translation 
+ German 
+ Buten Check translation 
+ Italian 
+ Buten Check translation 
+ Korean 
+ 부텐 Check translation 
+ Spanish 
+ Buten Check translation 
+ Japanese 
+ ブーテン Check translation 
+ Japanese ( rōmaji ) 
+Būten 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Fairy  /  Tuner 
+ Level 
+ 1   
+ ATK  /  DEF 
+ 200  /  300 
+ Passcode 
+ 83991690 
+ Card effect types 
+ 
+ 
+ Ignition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+During your  Main Phase : You can  banish  this card from the  Graveyard  to  target  1  face-up   Level  4 or lower  LIGHT   Fairy - Type  monster you  control ; it is treated as a  Tuner monster  while face-up on the  field . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Durant votre Main Phase : vous pouvez bannir cette carte depuis le Cimetière pour cibler 1 monstre LUMIÈRE de Type Elfe de max. Niveau 4 face recto que vous contrôlez ; il est traité comme un monstre Syntoniseur tant qu'il est face recto sur le Terrain. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Während deiner Main Phase: Du kannst diese Karte vom Friedhof verbannen, um 1 offenes LICHT Monster vom Typ Fee der Stufe 4 oder niedriger zu wählen, das du kontrollierst; es wird als Empfänger-Monster behandelt, solange es offen auf dem Spielfeld liegt. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Durante la tua  Main Phase : puoi  bandire  questa carta dal  Cimitero  per  scegliere come bersaglio  1  mostro   LUCE  di  Tipo   Fata  di  Livello  4 o inferiore  scoperto  che  controlli ; esso viene considerato come un  mostro Tuner  mentre è scoperto sul  Terreno . 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Durante tu Main Phase: puedes desterrar esta carta en el Cementerio para seleccionar 1 monstruo de LUZ de Tipo Hada de Nivel 4 o menor boca arriba que controles; éste se trata como un monstruo Cantante mientras esté boca arriba en el Campo. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 自分のメインフェイズ時に、墓地に存在するこのカードをゲームから除外し、自分フィールド上に表側表示で存在するレベル４以下の天使族・光属性モンスター１体を選択して発動する事ができる。選択したモンスターはフィールド上に表側表示で存在する限りチューナーとして扱う。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 在自己的主要阶段，可以把墓地中的这张卡除外，然后选择自己场上正面表示的一只等级4以下的光属性天使族怪兽，被选择的怪兽在场上正面表示时，可以当做调整怪兽看待。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신의 메인 페이즈시에 묘지에 존재하는 이 카드를 게임에서 제외하고 자신 필드 위에 앞면 표시로 존재하는 레벨 4 이하의 천사족 / 빛속성 몬스터 1장을 선택하고 발동 할 수 있다. 선택한 몬스터는 필드 위에 앞면 표시로 존재하는 한, 튜너로 취급한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2012-04-28  
+ GAOV-EN095   
+ Galactic Overlord 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-FR095   
+ Galactic Overlord 
+ Le Seigneur de la Galaxie  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-DE095   
+ Galactic Overlord 
+ Galactic Overlord  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-IT095   
+ Galactic Overlord 
+ Sovrano Galattico  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-SP095   
+ Galactic Overlord 
+ Señor Supremo Galáctico  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2010-12-18  
+ JF11-JP007   
+ Jump Festa 2011 - Promotion Pack 
+ ジャンプフェスタ ２０１１ プロモーションパック  
+ Normal Parallel Rare 
+ 
+ 
+ 2011-02-11  
+ PR02-JP007   
+ Promotion Pack 2 
+ プロモーションパック　２０１１  
+ Common 
+ 
+ 
+ 2011-12-17  
+ JF12-JPA02   
+ Jump Festa 2012 - 17th Distribution Promotion Pack 
+ ジャンプフェスタ ２０１２ １７日配布 プロモーションパック  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2011-04-28  
+ WC11-KR007   
+ Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus promotional cards 
+ 유희왕5D's WORLD CHAMPIONSHIP 2011 － OVER THE NEXUS －  
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ LIGHT 
+ Fairy 
+ Tuner monster 
+ 
+ Actions  
+ Activates from your Graveyard 
+ 
+ Stat changes  
+ Treats monsters as Tuner monsters 
+ 
+ Banished  categories  
+ Banishes itself from Graveyard for cost 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 9578 ( ja  ( rulings )   en   fr   de   it   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/f0/Buten-GAOV-EN-C-UE.png/revision/latest/scale-to-width-down/300?cb=20131205175450', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836']
+Categories: Duel Monsters cards, TCG cards, OCG cards

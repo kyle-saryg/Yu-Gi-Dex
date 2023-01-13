@@ -1,0 +1,124 @@
+Link: https://yugioh.fandom.com/wiki/String_of_Destiny
+
+
+ String of Destiny 
+ 
+ Japanese:   デステニー・ストリングス 
+ Romaji:   Desutenī Sutoringusu 
+ Translated:  Destiny Strings 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Equip 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Effect 
+ Trigger 
+ Equip  only to a " Gimmick Puppet "  monster . Once per  turn , when the equipped monster  declares  an  attack :  Send  the top card of your  Deck  to the  Graveyard ; if that card is a Monster Card, during this turn, the equipped monster's maximum number of attacks is equal to the  Level  of the sent monster, also if the equipped monster battles an  Attack Position  monster, that monster is not  destroyed by battle . Otherwise,  negate  the attack and end the  Battle Phase .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  057 ,  058 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Italian 
+ Corde del Destino 
+ 
+ 
+ 
+ Japanese 
+ デステニー・ストリングス 
+ 「ギミック・パペット」と名のついたモンスターにのみ装備可能。装備モンスターの攻撃宣言時、自分のデッキの上からカードを１枚墓地へ送る。墓地へ送ったカードがモンスターカードだった場合、攻撃対象になった相手モンスターは破壊されず、墓地へ送ったモンスターのレベルの数まで連続攻撃できる。墓地へ送ったカードが魔法・罠カードだった場合、攻撃を無効にしてバトルフェイズを終了する。 
+ 
+ 
+ Desutenī Sutoringusu 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Quattro 
+ 
+ 
+ Search categories 
+ 
+ Supports   archetypes   
+ Gimmick Puppet 
+ 
+ Actions  
+ Sends from the top of your Deck to your Graveyard for cost 
+ Ends the Battle Phase 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ Allows multiple attacks 
+ Negates attacks 
+ 
+ Miscellaneous  
+ Equips only to a specific target 
+ Limited activations 
+ 
+ v e 
+" Gimmick Puppet " 「ギミック・パペット」 a   +   Members 
+ Gimmick Puppet Des Troy Gimmick Puppet Dreary Doll Gimmick Puppet Egg Head Gimmick Puppet Gear Changer Gimmick Puppet Humpty Dumpty Gimmick Puppet Magnet Doll Gimmick Puppet Nightmare Gimmick Puppet Princess Gimmick Puppet Scarecrow Gimmick Puppet Scissor Arms Gimmick Puppet Shadow Feeler Gimmick Puppet Twilight Joker Number 15: Gimmick Puppet Giant Grinder Number 40: Gimmick Puppet of Strings Number 88: Gimmick Puppet of Leo Number C15: Gimmick Puppet Giant Hunter Number C40: Gimmick Puppet of Dark Strings Number C88: Gimmick Puppet Disaster Leo 
+ Support 
+ Attack Gimmick Card of Puppets Celestial Strings Gimmick Puppet Des Troy Gimmick Puppet Gear Changer Gimmick Puppet Humpty Dumpty Gimmick Puppet Ritual Gimmick Puppet Twilight Joker Gimmick Shield Gimmick Vengeance Junk Puppet String of Destiny 
+ Related 
+ Gimmick Box Triangle Gimmick Box 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/89/StringofDestiny-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20120528171413', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/63/StringofDestiny-OW.png/revision/latest/scale-to-width-down/185?cb=20131215214307', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

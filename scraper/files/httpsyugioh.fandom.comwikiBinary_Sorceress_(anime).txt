@@ -1,0 +1,156 @@
+Link: https://yugioh.fandom.com/wiki/Binary_Sorceress_(anime)
+
+Main card page: " Binary Sorceress " 
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Binary Sorceress 
+ 
+ Japanese:   バイナル・ソーサレス 
+ Romaji:   Bainaru Sōsaresu 
+ Translated:  Binal Sorceress 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   EARTH 
+ 
+ Link Arrows 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Left ,  Right 
+ Material 
+ 
+ 
+ 
+ 2  monsters , except  Tokens 
+ 
+ [  Cyberse  /  Link  /  Effect  ] 
+ 2  monsters , except  Tokens 
+ This card gains these  effects  based on the number of monsters  co-linked  to this card. ● 1+: When a monster co-linked to this card  battles  your opponent's monster and inflicts  battle damage  to them: You can gain that much  LP . ● 2:  Once per turn  ( Quick Effect ): You can target 2  face-up  monsters you control; until the end of this  turn , halve the  ATK  of 1 monster, and if you do, add that lost ATK to the other monster.
+ ATK  /  1600     LINK  –  2   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  035 ,  036 ,  037 ,  065 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ バイナル・ソーサレス 
+ 
+ トークン以外のモンスター２体
+ 
+ ①：このカードと相互リンクしているモンスターの数によって以下の効果を得る。●１体以上：このカードと相互リンクしているモンスターが相手モンスターとの戦闘で相手に戦闘ダメージを与えた時に発動できる。その数値分だけ自分のＬＰを回復する。●２体：１ターンに１度、自分フィールドの表側表示モンスター２体を対象として発動できる。ターン終了時まで、そのモンスター２体の内１体の攻撃力を半分にし、その数値分もう１体の攻撃力をアップする。この効果は相手ターンでも発動できる。 
+ 
+ 
+ Bainaru Sōsaresu 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ Changes ATK value 
+ 
+ Summoning  categories  
+ 2 Link Materials 
+ Cannot use Tokens as Link Materials for its Summon 
+ 
+ LP   
+ You gain Life Points 
+ 
+ Miscellaneous  
+ Co-link 
+ Variable effects 
+ Limited activations 
+ Female 
+ 
+ 
+ 
+   " Binary Sorceress " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/8/82/BinarySorceress-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180822204205', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/6f/BinarySorceress-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20180117142228', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

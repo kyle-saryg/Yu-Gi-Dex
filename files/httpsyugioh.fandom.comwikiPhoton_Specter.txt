@@ -1,0 +1,141 @@
+Link: https://yugioh.fandom.com/wiki/Photon_Specter
+
+
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Photon Specter 
+ 
+ Japanese:   フォトン・スペクター 
+ Romaji:   Foton Supekutā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Level 
+ 
+ 
+ 1   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Trigger 
+ Condition 
+ Condition 
+ [  Spellcaster  /  Effect  ] When your opponent's  monster   declares  a  direct attack : You can  banish  this card from your  Graveyard , then  target  1 " Photon " monster in your Graveyard;  Special Summon  that target in  face-up   Attack Position . It loses 1000  ATK , also its  effects  are  negated . It cannot be  destroyed by battle  this  turn .
+ ATK  /  0     DEF  /  0   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  083 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Italian 
+ Spettro Fotonico 
+ 
+ 
+ 
+ Japanese 
+ フォトン・スペクター 
+ 相手モンスターの直接攻撃宣言時、自分の墓地に存在するこのカードをゲームから除外して発動できる。自分の墓地から「光子」または「フォトン」と名のついたモンスター１体を自分フィールド上に攻撃表示で特殊召喚する。この効果で特殊召喚したモンスターの効果は無効化され、攻撃力が１０００ポイントダウンする。さらにこのターン、そのモンスターは戦闘では破壊されない。 
+ 
+ 
+ Foton Supekutā 
+ 
+ 
+ Decks 
+ 
+ 
+ Kite Tenjo 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Photon 
+ 
+ Supports   archetypes   
+ Photon 
+ Photon  
+ 
+ Actions  
+ Activates upon attack declaration 
+ Activates from your Graveyard 
+ 
+ Stat changes  
+ Your monsters lose ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your Effect Monsters 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ Banished  categories  
+ Banishes itself from Graveyard for cost 
+ 
+ v e 
+" Photon " 「フォトン」 a   m   +   Members 
+ Kuriphoton Photon Alexandra Queen Photon Caesar Photon Cerberus Photon Chargeman Photon Circle Photon Crusher Photon Delta Wing Photon Escape Photon Generator Unit Photon Hurricane Photon Lead Photon Leo Photon Lizard Photon Papilloperative Photon Pirate Photon Prevent Photon Satellite Photon Shock Photon Slasher Photon Spear Photon Specter Photon Strike Bounzer Photon Sublimation Photon Thrasher Photon Trade Photon Veil Photon Wind Photon Wing Photon World Twin Photon Lizard 
+ Support 
+ Galaxy Burst Kuriphoton Photon Escape Photon Lizard Photon Pirate Photon Prevent Photon Shock Photon Spear Photon Specter Photon Sublimation Photon Trade Photon Wing Photon World 
+ Related 
+ Cyber Laser Dragon 
+ 
+ v e 
+" Photon " 「 光子 」 a   +   Members 
+ Galaxy-Eyes Photon Dragon Neo Galaxy-Eyes Photon Dragon Number 62: Galaxy-Eyes Prime Photon Dragon Paladin of Photon Dragon Photon Wind Photon World 
+ Support 
+ Galaxy Burst Kuriphoton Photon Escape Photon Prevent Photon Shock Photon Specter Photon Trade Photon Wing Photon World 
+ Related 
+ Galaxy Expedition Galaxy Tyranno Luminous Dragon Ritual Starliege Lord Galaxion 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/f/f0/PhotonSpecter-JP-Anime-ZX.jpg/revision/latest/scale-to-width-down/200?cb=20121216102625', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

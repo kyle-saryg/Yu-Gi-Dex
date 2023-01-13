@@ -1,0 +1,9 @@
+Link: https://yugioh.fandom.com/wiki/Category:Unnamed_characters
+
+This category is for characters with no official name.
+ Do not manually add articles to this category. Instead, add the line  | unnamed = true  to {{ Infobox character }}.
+ 
+ 
+ 
+ 
+Categories: Characters

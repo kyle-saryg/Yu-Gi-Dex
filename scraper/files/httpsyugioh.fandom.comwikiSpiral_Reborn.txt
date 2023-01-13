@@ -1,0 +1,256 @@
+Link: https://yugioh.fandom.com/wiki/Spiral_Reborn
+
+
+ 
+ 
+ Spiral Reborn 螺旋蘇生 
+ 
+ English 
+Spiral Reborn 
+ French 
+ Renaissance Spirale Check translation 
+ German 
+ Spiral-Wiedergeburt Check translation 
+ Italian 
+ Spirale Resuscitata Check translation 
+ Korean 
+ 스파이럴 리본 Check translation 
+ Portuguese 
+ Espiral Renascido Check translation 
+ Spanish 
+ Renacido Espiral Check translation 
+ Japanese (kana) 
+ スパイラル・リボーン Check translation 
+ Japanese (base) 
+ 螺旋蘇生 Check translation 
+ Japanese ( rōmaji ) 
+Supairaru Ribōn 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 56461575 
+ Card effect types 
+ 
+ 
+ Effect 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Target  1  Level  7 or lower  Dragon   monster  in your  GY ;  Special Summon  it. If you Special Summoned a " Gaia the Dragon Champion " by this  effect , your opponent cannot target it with card effects, and it cannot be  destroyed  by their card effects. You can only  activate  1 "Spiral Reborn" per  turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Ciblez 1 monstre Dragon de max. Niveau 7 dans votre Cimetière ; Invoquez-le Spécialement. Si vous Invoquez Spécialement "Gaïa le Dragon Champion" par cet effet, votre adversaire ne peut pas le cibler avec des effets de carte, et il ne peut pas être détruit par ses effets de carte. Vous ne pouvez activer qu'1 "Renaissance Spirale" par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wähle 1 Drache-Monster der Stufe 7 oder niedriger in deinem Friedhof; beschwöre es als Spezialbeschwörung. Falls du durch diesen Effekt einen „Drachenmeister Gaia“ als Spezialbeschwörung beschworen hast, kann dein Gegner ihn nicht als Ziel für Karteneffekte wählen und er kann nicht durch seine Karteneffekte zerstört werden. Du kannst nur 1 „Spiral-Wiedergeburt“ pro Spielzug aktivieren. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Scegli come bersaglio 1 mostro Drago di Livello 7 o inferiore nel tuo Cimitero; Evocalo Specialmente. Se hai Evocato Specialmente un "Gaia il Dragone" con questo effetto, il tuo avversario non può sceglierlo come bersaglio con gli effetti delle carte ed esso non può essere distrutto dagli effetti delle sue carte. Puoi attivare solo 1 "Spirale Resuscitata" per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Escolha 1 monstro Dragão de Nível 7 ou menos no seu Cemitério; Invoque-o por Invocação-Especial. Se você Invocou por Invocação-Especial um "Gaia, o Matador de Dragões" com este efeito, seu oponente não pode escolhê-lo como alvo de efeitos de card e ele não pode ser destruído pelos efeitos de card dele. Você só pode ativar 1 "Espiral Renascido" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Selecciona 1 monstruo Dragón de Nivel 7 o menor en tu Cementerio; Invócalo de Modo Especial. Si Invocaste de Modo Especial "Gaia el Campeón Dragón" por este efecto, tu adversario no puede seleccionarlo con efectos de cartas, y éste no puede ser destruido por sus efectos de cartas. Sólo puedes activar 1 "Renacido Espiral" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名のカードは１ターンに１枚しか発動できない。①：自分の墓地のレベル７以下のドラゴン族モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。この効果で「竜騎士ガイア」を特殊召喚した場合、そのモンスターは相手の効果の対象にならず、相手の効果では破壊されない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신 묘지의 레벨 7 이하의 드래곤족 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 특수 소환한다. 이 효과로 "용기사 가이아"를 특수 소환했을 경우, 그 몬스터는 상대 효과의 대상이 되지 않으며, 상대 효과로는 파괴되지 않는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2020-08-06 ROTD-EN069 Rise of the Duelist Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2020-08-06 ROTD-FR069 Rise of the Duelist l'Ascension du Duelliste Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2020-08-06 ROTD-DE069 Rise of the Duelist Rise of the Duelist Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2020-08-06 ROTD-IT069 Rise of the Duelist Ascesa del Duellante Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2020-08-06 ROTD-PT069 Rise of the Duelist Ascensão do Duelista Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2020-08-06 ROTD-SP069 Rise of the Duelist Alzamiento del Duelista Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2020-04-18 ROTD-JP069 Rise of the Duelist ライズ・オブ・ザ・デュエリスト Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2020-07-25 ROTD-KR069 Rise of the Duelist 라이즈 오브 더 듀얼리스트 Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Dragon 
+ Gaia the Dragon Champion 
+ 
+ Related to  archetypes  and  series   
+ Gaia Knight 
+ Gaia The Fierce Knight  
+ 
+ Monster / Spell / Trap  categories  
+ Cannot be targeted by card effects 
+ Cannot be destroyed by card effects 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 15303 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Spiral Reborn " pages 
+ 
+ 
+ Manga 
+ 
+ 
+ 
+   
+ Gaia Knight   騎 士 ガイア Members 
+ Gaia Dragon, the Thunder Charger Gaia Drake, the Universal Force Gaia Knight, the Force of Earth Gaia Saber, the Lightning Shadow Gaia the Dragon Champion Gaia the Magical Knight of Dragons Gaia, the Mid-Knight Sun Gaia, the Polar Knight Sky Galloping Gaia the Dragon Champion 
+ Related 
+ Charging Gaia the Fierce Knight Curse of Dragon Curse of Dragon, the Cursed Dragon Curse of Dragon, the Magical Knight Dragon Curse of Dragonfire Dark Magician the Magical Knight of Dragons Gaia The Fierce Knight 
+ Galloping Gaia Spiral Discharge Spiral Fusion Spiral Reborn Spiral Spear Strike 
+ 
+   
+" Gaia The Fierce Knight " 「 暗 黒 騎 士 ガイア」 Members 
+ Arisen Gaia the Fierce Knight Charging Gaia the Fierce Knight Gaia The Fierce Knight Gaia the Fierce Knight Origin Gaia the Magical Knight Lord Gaia the Fierce Knight Soldier Gaia The Fierce Knight Swift Gaia the Fierce Knight 
+ Support 
+ Artillery Catapult Turtle Black Luster Soldier - Super Soldier Envoy of Chaos Gaia the Magical Knight of Dragons Skilled Blue Magician Sky Galloping Gaia the Dragon Champion 
+ Beginning of Heaven and Earth Galloping Gaia Gateway to Chaos 
+ Related 
+ Curse of Dragon Curse of Dragon, the Cursed Dragon Curse of Dragon, the Magical Knight Dragon Curse of Dragonfire Dark Cavalry Dark Magician Dark Magician Dark Magician the Magical Knight of Dragons Gaia Dragon, the Thunder Charger Gaia Drake, the Universal Force Gaia Knight, the Force of Earth Gaia Saber, the Lightning Shadow Gaia the Dragon Champion Gaia, the Mid-Knight Sun Gaia, the Polar Knight 
+ Spiral Discharge Spiral Fusion Spiral Reborn Spiral Spear Strike 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/fe/SpiralReborn-ROTD-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20200811162258', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

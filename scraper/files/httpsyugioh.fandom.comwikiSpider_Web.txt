@@ -1,0 +1,333 @@
+Link: https://yugioh.fandom.com/wiki/Spider_Web
+
+For the  anime-only  card, see  "Spider Web" (anime) .      
+ The  Arabic, Croatian, Greek  and  Portuguese                     names given are not official.  
+ The  Portuguese                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Spider Web スパイダー・ウェブ 
+ 
+ English 
+Spider Web 
+ French 
+ Toile d'Araignée Check translation 
+ German 
+ Spinnennetz Check translation 
+ Italian 
+ Tela del Ragno Check translation 
+ Korean 
+ 스파이더 웹 Check translation 
+ Portuguese 
+ Teia de Aranha Check translation 
+ Spanish 
+ Telaraña Check translation 
+ Japanese 
+ スパイダー・ウェブ Check translation 
+ Japanese ( rōmaji ) 
+Supaidā Webu 
+ Card type 
+ Spell   
+ Property 
+ Field   
+ Passcode 
+ 69408987 
+ Card effect types 
+ 
+ 
+ Continuous-like 
+ Continuous-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If a  monster  declares an  attack , it is changed to  Defense Position  at the end of the  Damage Step . It cannot change its  battle position  until the  End Phase  of its controller's next turn, while this card remains on the  field . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si un monstre déclare une attaque, il est changé en Position de Défense à la fin de la Damage Step. Il ne peut pas changer sa position de combat jusqu'à la prochaine End Phase de son contrôleur, tant que cette carte reste sur le Terrain. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls ein Monster angreift, wird es am Ende des Damage Steps in die Verteidigungsposition geändert. Es kann seine Kampfposition bis zur End Phase des nächsten Spielzugs seines Beherrschers nicht ändern, solange diese Karte auf dem Spielfeld verbleibt. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se un mostro dichiara un  attacco , esso viene messo in  Posizione di Difesa  alla fine del  Damage Step . Esso non può cambiare  Posizione  fino alla prossima  End Phase  del suo controllore, fino a quando questa carta rimane sul  Terreno . 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se um monstro declara um ataque, ele é alterado para a Posição de Defesa no fim da Damage Step. A Posição de Batalha daquele monstro não pode ser alterada até a End Phase do próximo turno do controlador daquele monstro, enquanto esta carta estiver virada para cima no campo. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si un  monstruo  declara un  ataque , se cambia a  Posición de Defensa  al final de  Damage Step . No puede cambiar su  posición de batalla  hasta la  End Phase  del próximo turno de su controlador mientras esta carta permanezca en el Campo. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ モンスターが攻撃宣言をした場合、そのモンスターは ダメージステップ 終了時に 守備表示 になり、そのモンスターの コントローラー から見て次の自分のターンの エンドフェイズ 時まで 表示形式 を変更する事ができない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 몬스터가 공격 선언을 했을 경우, 그 몬스터는 데미지 스텝 종료시에 수비 표시가 되어, 그 몬스터의 컨트롤러에서 보고 다음 자신의 턴의 엔드 페이즈시까지 표시 형식을 변경할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2009-11-17  
+ SOVR-EN045   
+ Stardust Overdrive 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2009-11-12  
+ SOVR-FR045   
+ Stardust Overdrive 
+ Pouvoir de la Poussière d'Etoile  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2009-11-12  
+ SOVR-DE045   
+ Stardust Overdrive 
+ Stardust Overdrive  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2009-11-12  
+ SOVR-IT045   
+ Stardust Overdrive 
+ Potere della Polvere di Stelle  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2009-11-12  
+ SOVR-SP045   
+ Stardust Overdrive 
+ Poder de Polvo de Estrellas  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2009-07-18  
+ SOVR-JP045   
+ Stardust Overdrive 
+ ＳＴＡＲＤＵＳＴ ＯＶＥＲＤＲＩＶＥ  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2009-11-19  
+ SOVR-KR045   
+ Stardust Overdrive 
+ 광속의 스타더스트  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Spider 
+ 
+ Actions  
+ Changes battle positions 
+ Prevents battle position changes 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 8480 ( ja  ( rulings )   en   fr   de   it   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Spider Web " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+ Spider  スパイダー Members 
+ Dark Spider Ground Spider Informer Spider Mother Spider Relinquished Spider Spyder Spider 
+ Spider Egg Spider Web Spiders' Lair 
+ Related 
+ Lair Wire 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a0/SpiderWeb-SOVR-EN-C-UE.png/revision/latest/scale-to-width-down/300?cb=20120504222040', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/1/14/Field.svg/revision/latest/scale-to-width-down/28?cb=20120920120155']
+Categories: Duel Monsters cards, TCG cards, OCG cards

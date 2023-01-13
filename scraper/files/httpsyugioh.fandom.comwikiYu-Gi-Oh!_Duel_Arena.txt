@@ -1,0 +1,479 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_Duel_Arena
+
+
+ This Convert to new format with {{ VGInfobox }}  may require  cleanup  to meet this wiki's standards.   You can help out by re-organizing or re-writing parts of it or checking grammar and spelling.   
+         The game's official logo.     
+ Yu-Gi-Oh! Duel Arena  was an official online  Yu-Gi-Oh! Trading Card Game  simulator. It had an automatic Duel system, allowing users to Duel opponents through the internet.
+ The cards used in the simulator were periodically updated to match the latest cards appearing in the  Trading Card Game .
+ The Open Beta version of this game opened on May 30th, 2014. Any user data gained during the Open Beta version would not be transferred to the commercial version of the game when it opened. The Open Beta ended on June 19th details to the full release were announced. The official version was released on June 26th, 2014. [1]  On January 28, 2015, it was announced the game would go offline, which it did on March 27, 2015.
+ 
+ Contents 
+ 
+ 1   Partners 
+ 
+ 1.1   Partner Decks 
+ 1.2   Partner Recruiting 
+ 
+ 
+ 2   Dueling 
+ 
+ 2.1   Single Play 
+ 
+ 2.1.1   Quest Mode 
+ 2.1.2   Virtual Arena 
+ 
+ 
+ 2.2   Arena 
+ 2.3   Duel with Friend 
+ 2.4   (Duel Initiation) 
+ 
+ 
+ 3   In-Game Currency 
+ 4   Friends 
+ 5   Home Page Background Gallery 
+ 6   External links 
+ 7   References 
+ 
+ 
+ Partners 
+         Yugi Muto , the player's first Partner.     
+ In  Yu-Gi-Oh! Duel Arena , the game offers Partners as a way of accommodating new players who lack the skills and/or cards to build viable Decks, as well as offering these Partners as a form of personal customization. Partners consist of a mixture of monsters and characters, with each Partner having a unique Partner Deck. Whenever a player acquires a new Partner, they permanently gain the ability to rent its Partner Deck. Players can also set any of their Partners as their Leader, which serves as the player's avatar image in-game and represents the player in the Virtual Arena. Players can only set 1 Partner as their Leader at any given time.
+ 
+ Partner Decks 
+ By "renting" a Partner Deck for a Duel/Match, a player is allowed to use the entirety of that Deck ( Main Deck ,  Extra Deck , and  Side Deck  combined) for that specific Duel/Match. However, because players do not actually "own" the cards that the Partner Decks contain, they can neither modify the Partner Deck's contents nor use any of that Deck's cards for other purposes (i.e. using them in other Decks, or attempting to convert them into DP).
+ 
+   A full 5 Rental Point gauge.   An empty 5 Rental Point gauge. 1/2 
+ Each time a player Duels with a Partner Deck, this will use up 1 Rental Point for that Deck, even if either player gets disconnected or surrenders. The number of Rental Points a Partner initially has is determined by its Rarity. Normal Partners start with 3 Rental Points, Rare Partners with 4 Rental Points, Super Rare Partners with 5 Rental Points, and Legend Rare Partners with 6 Rental Points. When a Partner's Rental Points are used up, the player cannot use its Partner Deck until they refill its Rental Points.
+ When a Partner Deck's Rental Points run out after a player wins, loses (including surrenders), or ties a Duel/Match, that player is immediately offered the option of renewing those Rental Points to their default maximum. Doing so costs 1000 DP. If a player declines, or was disconnected, they can renew them again at any later point. Rental Points can alternatively be restored by obtaining another copy of that Partner. When this is done, the Rental Points are simultaneously refreshed (if depleted by any amount) and have their maximum amount increased by 1. All Partners can potentially have a maximum of 8 Rental Points this way. If a player obtains a Partner again that already has 8 unused Rental Points, they will receive a message from  Dark Magician Girl  stating, "I’m so sorry... It looks like this partner has maxed out it’s  [ sic ]  Rental Points and is fully recovered."
+ 
+ Partner Recruiting 
+           
+ All players automatically receive  Yugi Muto  as a partner when they enter  Duel Arena  for the first time. Additional Partners can be obtained through Partner Recruiting, special in-game events, and the first stage of Quests.
+ There are two types of Partner Recruiting: Normal and Premium. Once per day, the first time each player uses Normal Partner Recruiting, it is accomplished for free. Additional uses of Normal Partner Recruiting during the same day costs 2000 DP each time. Premium Partner Recruiting costs 1000 Miniclip Credits each time, but guarantees the player a Partner that is classified as Rare or higher. The Partners received this way are random, and any Partner can be obtained through either method of Partner Recruiting, except for the ones that are Quest-exclusive and promotion/event-exclusive.
+ 
+   Normal Partner Recruiting.   Premium Partner Recruiting. 1/2 
+ Dueling 
+ There are many ways to conduct a Duel in  Yu-Gi-Oh! Duel Arena . However in order to Duel, a player must meet three conditions:
+ 
+ Have a Deck that can be used to play a Duel. If a player is renting a Partner Deck, then that Partner Deck must have Rental Points remaining. 
+ This Deck must comply with the current Forbidden & Limited Card List for  Yu-Gi-Oh! Duel Arena , which usually reflects the current  TCG  one. This condition is waived for Friend Duels. 
+ Have at least 100 Stamina. 
+         An Energy Drink     
+Each time a player Duels, this will consume 100 Stamina, even if either player gets disconnected or surrenders. Each player's Stamina refreshes by 1 unit every 3 minutes, disregarding their online status, to a maximum of 500 Stamina. If a player has 99 or less Stamina, 500 Stamina can be instantly restored by spending 1000 Miniclip Credits, or by using an Energy Drink (awarded from various promotions/achievements in-game). This can temporarily increase a player's Stamina above the 500 unit threshold, but they will not gain additional stamina until it drops below 500 again. 
+ Players have 300 seconds to think and make their moves during each turn in a Duel, with a 10 second delay after each action. If a player runs out of time, they immediately lose the Duel/Match.
+ If a player wins a Duel, they earn 200 DP. If they lose a Duel (without surrendering or disconnecting), they earn 100 DP instead. After completing a Match, the players receive these same rewards, but accumulate them based on the victories/losses they endured for each Duel in that Match. Upon completing their first Duel/Match each day, players receive a 1000 DP bonus, in addition to any other rewards they earned from that Duel/Match.
+ 
+ Single Play 
+           
+ Duels in Single Play are conducted between a player and an AI opponent. Only "Single Round" Duels can be done in Single Play.
+ 
+ Quest Mode 
+ In this mode, the player can play against pre-determined AI opponents. Each individual Duel in this mode is called a "Quest." As the player progresses through Stages, the opponents readily become more difficult. In order to progress to the next Stage of Quests, a player must complete all 5 Normal Quests on their highest unlocked Stage (in any order) by winning those Duels, which will unlock the Boss Quest for that Stage. Until this occurs, the Boss will remain silhouetted. Once the player completes the Boss Quest by winning their Duel, the next Stage is unlocked.
+ Upon clearing a Boss Quest for the first time, the player will receive an Energy Drink, and either 1000 DP or a total of 500 DP x the Stage level of the Boss Quest (whichever is higher). When a new Stage of Quests is released in-game, these rewards are temporarily doubled for that Stage until the next in-game maintenance (usually 7 days later).
+ Any Quest in any Stage can be played again to potentially earn the Single Play DP reward.
+ For the list of Quests, see  List of Yu-Gi-Oh! Duel Arena Quests . 
+ 
+ Virtual Arena 
+           
+ In the Virtual Arena, the player can Duel other players' Leaders (specifically chosen Partners) that are controlled by an AI. This can be done with any Deck that complies with the current Forbidden & Limited Card List for  Yu-Gi-Oh! Duel Arena . Unless the player chooses a specific Leader Deck for their own Leader, that Leader will use its own Partner Deck in Duels when it defends itself against other challenging players in the Virtual Arena. Even if the defending player is online when their Leader is defending itself, their Leader will be controlled by an AI. If a Leader is paired with a Deck that does not comply with the current in-game Forbidden & Limited Card List, it will not appear as an opponent in the Virtual Arena.
+ The normal Single Play DP rewards apply for challenging a Leader in the Virtual Arena, but the player whom the defending Leader represents will only earn 50 DP from that Duel, regardless of victory or loss. This occurs even if the defending player is offline.
+ At one point, a variant of Virtual Arena mode was introduced in the form of  Duel Monsters Arena , which coexisted with the regular Virtual Arena from October 22, 2014 through November 5, 2014.
+ 
+ Arena 
+           
+ Dueling in the Arena allows the player to Duel other random live players through single Duels and Matches. If one of the players disconnects (regardless of intention) or surrenders, the remaining player is given 30 seconds to decide whether or not they want to continue the Duel/Match. If the player accepts, the Duel will carry on from the same moment their opponent left the Duel, except with an AI representing the opponent with the Deck they were using. The standard DP rewards will apply as well. However, if the player declines, their Stamina will be refunded and the Duel/Match will not be recorded in their Duel History.
+ If a player disconnects, they will not earn any DP, and will also receive a warning regardless of their intentions. If a player does this twice within sixty minutes, they will be barred from being logged into  Yu-Gi-Oh! Duel Arena  until four hours have passed since their most recent disconnection. If a player surrenders their Duel, they will not earn any DP, but they will not receive a warning either.
+ Players also earn an additional accumulative reward for each Duel they complete in the Arena each day, starting with 50 DP. For each additional Duel completed during the same day, their bonus reward increases by 50, to a maximum of 500 DP (which they can continue to earn from subsequent Arena Duels for the rest of that day). However, this bonus reward resets at the beginning of each day (0:00 GMT).
+ 
+         The loading screen (click to view animation)     
+ Duel with Friend 
+ Players can also Duel people in their Friend List, by sending them a Duel/Match request if they are online and not Dueling. To send the request, the player must navigate their way to a specific friend's profile page and clicking the "Invite for Duel with Friend" button, where they will be prompted to choose to engage in either a Single Duel or a Match, as well as providing a brief message. Once the request is sent, the initiating player is taken to a loading screen while they wait for their opponent to join.
+ 
+         The notification bar     
+ In the meantime, the opponent is immediately informed about the request through their "Duel with Friend Notification Bar" flashing yellow and a repetitive alert sound (which can have its volume adjusted). To accept the Duel, the opponent can click on the bar, where they will be subsequently redirected to their "My Friends" page. The opponent must then find their friend, which will redirect them to their friend's profile page. At this point, the opponent can change their mind and decline the request on their friend's profile page, or choose to accept the request. Both players are then led to the standard Deck selection screen.
+ 
+ 
+ 
+ The Duel request alert sound ( file ) 
+ https://yugioh.fandom.com/wiki/File:DuelArena-FriendDuel.ogg 
+ 
+ 
+ If their opponent has not yet joined, the initiating player can end the request at any time by clicking "Cancel" on the loading screen. Alternatively, their opponent can also decline the Duel request by attempting to engage in a different Duel, where they will be prompted that doing so will reject their friend's Duel request. Players can avoid potential friend Duel requests in the first place by setting their Login info to "Private."
+ Standard penalties for disconnecting are applied after both players have joined. Neither player earns any reward from friend Duels, and must also have at least 100 Stamina to spend in initiating or accepting a friend Duel. If there is a promotion in-game that waives Stamina usage for friend Duels, players must still have at least 100 Stamina minimum to engage in such a Duel.
+ 
+ (Duel Initiation) 
+ Once both players have been paired with each other, a Deck selection screen appears, where players can choose to use a Partner Deck (if it has any remaining Rental Points), one of their potential 20 custom Decks, or a quick-select of their designated "Favorite Decks" (which can include a total of 3 Partner and/or custom Decks). Both players have 60 seconds to decide. After a player has selected their Deck, they are taken to a "Rock-Paper-Scissors" screen, which both players will use to decide who goes first.
+ In a Match, after one of the Duels has been concluded with no definitive winner for the Match yet, both players will be taken to a Siding Screen. During the subsequent 180 seconds, either player can take the time to swap cards from their Main Deck and/or Extra Deck with their Side Deck. Once they are done, they can click on "Swap Done" to be taken to the next loading screen, where the loser of the previous Duel chooses whether or not to go first. Regardless, once 180 seconds have passed, both players are forcibly taken to that screen; if one or both players did not click "Swap Done", that player(s) will use the same Main Deck and Extra Deck they used in the previous Duel, regardless of any changes they managed to make during siding.
+ 
+ In-Game Currency 
+         DP     
+ Duel Points (DP) are the most common form of currency in-game. They can be obtained by completing Duels without surrendering or disconnecting (except friend Duels), by defeating a Boss Quest for the first time, sending/receiving Greetings, or by converting one's own cards into DP. The conversion rate is 1 card for 50 DP, regardless of the card's rarity. DP can be used to buy or use the following: 
+ 
+ Booster packs: normally 4000 DP each, but 6000 DP each for applicable  Yu-Gi-Oh! Duel Arena -exclusive booster packs 
+ Normal Partner Recruiting: 2000 DP 
+ Rental Point replenishment: 1000 DP, regardless of any remaining unused Rental Points. 
+ A player can only have a maximum of 99,999 DP at any given time.
+ 
+         MC     
+ Miniclip Credits (MC) serve as a secondary form of currency in-game. They are points that cost real money, which can be shared over multiple Miniclip games, and can be used to buy certain in-game content. The cost of Miniclip Credits varies depending on the quantity they are bought in, becoming less expensive per Credit as more are bought in one single purchase. Miniclip Credits can be used to buy or use the following:
+ 
+ Booster packs: normally 2000 Miniclip Credits each, but 3000 Miniclip Credits each for  Yu-Gi-Oh! Duel Arena -exclusive booster packs (unless these packs could not be purchased with DP, in which case the price was 2000). 
+ Special Editions (bundles of 3 booster packs with a random but guaranteed Super Rare card or higher from that set as a bonus): 6000 Miniclip Credits. 
+ Structure/Starter Decks: 16,000 Miniclip Credits, with the exception of  Noble Knights of the Round Table Structure Deck . 
+ Double Packs (bundles of 2 of the same Starter/Structure Deck, with bonus cards): 31,000 Miniclip Credits, with the exception of  Noble Knights of the Round Table Structure Deck: Double Pack . 
+ Triple Packs (bundles of 3 of the same Starter/Structure Deck(s), with bonus cards): 45,000 Miniclip Credits, with the exception of  Noble Knights of the Round Table Structure Deck: Triple Pack  and  Cyber Dragon Revolution and Onslaught of the Fire Kings Structure Deck: Triple Pack . 
+ Premium Partner Recruiting: 1000 Miniclip Credits. 
+ Stamina replenishing (by 500 units): 1000 Miniclip Credits. 
+         Coins     
+ In the beta, Coins served as the interim substitute for Miniclip Credits, with equal value. However, these were free and allocated in amounts of 10,000 Coins upon completion of a player's first completed Duel per day (without surrendering or disconnecting). This amount was later increased to 50,000 Coins after the announcement declaring that the beta was closing. These Coins could not be used in other Miniclip games.
+ 
+ 
+ Friends 
+         A sample of a player's personal view of their profile.     
+ By being "friends" with another player in-game, this allows the player to exchange "mail" and "greetings" with them, as well as initiate or receive "Duel with Friend" requests.
+ To become "friends" with another player in-game, one of two methods involves the player accessing the potential friend's profile page and selecting the "Friend Request" button, where they must wait for the recipient to read their request mail and select the "Add as Friend" option, which will automatically send back an acceptance mail to the original sender. To cancel the request, the player can visit the recipient's profile page to withdraw it. The recipient can alternatively select the "Don't Add as Friend" option in the mail they receive. To avoid receiving friend requests, the player can set their profile information to "Private", which hides the "Add as Friend" button on their profile.
+ The second method requires both players to input each other's Duelist Code via the "Verify Duelist Code" feature. Alternative means outside the game are required in order to exchange Duelist Codes, as each player's Duelist Code on their profile page cannot be seen by other players. Players will not be notified if another player inputs their Duelist Code via the "Verify Duelist Code" feature. If a player changes their name during this process of making friends, this will change their Duelist Code, requiring a restart of the process in order to become friends. To cancel the process, the player who inputted the Duelist Code can go to their "My Friends" list and navigate to the inputted Duelist Code to withdraw it.
+ Players can only have a maximum total of 100 friends and/or pending Friend Requests that were sent, at any given time. Once a player accepts their 100th friend, all pending Friend Requests that they have received will become invalid, and will not become valid again even if the player has less than 100 friends at some later point. If a player wishes to add additional friends, they must navigate to at least one of their current friends' profile pages and select the "Unfriend" button, which will allow both players to send/receive friend requests again. However, the "unfriended" friend will not be notified of this process.
+ Having friends is encouraged in-game, as "friends" can send each other greetings (with a 30-character limit), which earns the sender and recipient 10 DP (each) by doing so. If a player sends greetings to all their friends, and all of those friends send greetings to them in return, a maximum of 200 DP can be earned daily by this method.
+ 
+ Home Page Background Gallery 
+ Normal widescreen home page background (post-Mar. 25, 2015) Pendulum Summon  home page background (post-Mar. 15, 2015 and pre-Mar. 18, 2015) " Cyber " home page background (post-Mar. 4, 2015 and pre-Mar. 15, 2015) " Tour Guide From the Underworld " home page background (post-Feb. 25, 2015 and pre-Mar. 4, 2015) " Jinzo " home page background (post-Feb. 22, 2015 and pre-Feb. 25, 2015) " Infernoid " home page background (post-Feb. 14, 2015 and pre-Feb. 22, 2015) " HERO " home page background (post-Feb. 4, 2015) " Qliphort " home page background (post-Jan. 25, 2015 and pre-Feb. 4, 2015) " Shaddoll " home page background (post-Jan. 16, 2015 and pre-Jan. 25, 2015) New Year's Day home page background (post-Jan. 1, 2015 and pre-Jan. 7, 2015) Winter home page background (post-Dec. 26, 2014 and pre-Jan. 1, 2015, & post-Jan. 7, 2015 and pre-Jan. 16, 2015) Xmas home page background (post-Dec. 17 and pre-Dec. 26, 2014) Pendulum Summon  home page background (post-Dec. 5 and pre-Dec. 17, 2014) " Jinzo " home page background - #2 (post-Nov. 26 and pre-Dec. 5, 2014) " Jinzo " home page background - #1 (post-Nov. 26 and pre-Dec. 5, 2014) " Noble Knight " home page background (post-Nov. 21 and pre-Nov.26, 2014) Normal home page background (post-Nov. 12 and pre-Nov. 21, 2014) Normal home page background (post-Nov. 1 and pre-Nov. 12, 2014, & post-Mar. 18, 2015 and pre-Mar. 25, 2015) Halloween home page background (post-Oct. 1 and pre-Nov. 1, 2014) World Championship 2014  home page background Normal home page background (post-June 19, 2014 and pre-Oct. 1, 2014) Beta home page background (pre-June 19, 2014) 
+ External links 
+ Yu-Gi-Oh! Duel Arena  - Official website 
+ References 
+ 
+ ↑   konami-digital-entertainment.co.jp  Yu-Gi-Oh! Series PC Browser Game "Yu-Gi-Oh! Duel Arena" Available in North America and Europe from June 26! 
+ 
+ 
+ v e 
+ Yu-Gi-Oh! Duel Arena   characters Partners 
+ 001–020 
+ 001  Yugi Muto 
+ 002  Yami Yugi 
+ 003  Seto Kaiba 
+ 004  Joey Wheeler 
+ 005  Jaden Yuki 
+ 006  Chazz Princeton 
+ 007  Alexis Rhodes 
+ 008  Yusei Fudo 
+ 009  Jack Atlas 
+ 010  Akiza Izinski 
+ 011  Yuma Tsukumo 
+ 012  Reginald Kastle 
+ 013  Kite Tenjo 
+ 014  Tori Meadows 
+ 015  Gorz the Emissary of Darkness 
+ 016  Stardust Dragon 
+ 017  Red Dragon Archfiend 
+ 018  Legendary Six Samurai - Shi En 
+ 019  Wind-Up Soldier 
+ 020  Eclipse Wyvern 
+ 021–040 
+ 021  Constellar Ptolemy M7 
+ 022  Evilswarm Ouroboros 
+ 023  Number 32: Shark Drake 
+ 024  Hieratic Sun Dragon Overlord of Heliopolis 
+ 025  Blue-Eyes White Dragon 
+ 026  Exodia 
+ 027  Dark Magician 
+ 028  Red-Eyes B. Dragon 
+ 029  Black Luster Soldier 
+ 030  Jinzo 
+ 031  Dark Magician Girl 
+ 032  Gilford the Lightning 
+ 033  Dark Paladin 
+ 034  Ancient Gear Golem 
+ 035  Cyber Dragon 
+ 036  Arcana Knight Joker 
+ 037  Elemental HERO Neos 
+ 038  Super Vehicroid Jumbo Drill 
+ 039  Reign-Beaux, Overlord of Dark World 
+ 040  X-Saber Urbellum 
+ 041–060 
+ 041  Ryko, Lightsworn Hunter 
+ 042  Junk Warrior 
+ 043  Dark Simorgh 
+ 044  Black Rose Dragon 
+ 045  Blackwing Armor Master 
+ 046  Phoenixian Cluster Amaryllis 
+ 047  Ancient Sacred Wyvern 
+ 048  Black-Winged Dragon 
+ 049  The Agent of Mystery - Earth 
+ 050  T.G. Wonder Magician 
+ 051  Number 39: Utopia 
+ 052  Gagaga Magician 
+ 053  Number 17: Leviathan Dragon 
+ 054  Galaxy-Eyes Photon Dragon 
+ 055  Inzektor Giga-Mantis 
+ 056  High Priestess of Prophecy 
+ 057  Madolche Puddingcess 
+ 058  Time Wizard 
+ 059  Summoned Skull 
+ 060  Skull Servant 
+ 061–080 
+ 061  Celtic Guardian 
+ 062  Kuriboh 
+ 063  Penguin Soldier 
+ 064  Insect Queen 
+ 065  Gearfried the Iron Knight 
+ 066  Des Koala 
+ 067  Ojama Trio 
+ 068  Nightmare Penguin 
+ 069  White Magician Pikeru 
+ 070  Marshmallon 
+ 071  Mokey Mokey 
+ 072  Mobius the Frost Monarch 
+ 073  Green Gadget 
+ 074  Harpie Girl 
+ 075  Winged Kuriboh 
+ 076  Elemental HERO Flame Wingman 
+ 077  Elemental HERO Bubbleman 
+ 078  Jerry Beans Man 
+ 079  Ebon Magician Curran 
+ 080  Elemental HERO Shining Flare Wingman 
+ 081–100 
+ 081  VWXYZ-Dragon Catapult Cannon 
+ 082  Armed Dragon LV10 
+ 083  Dandylion 
+ 084  Neo-Spacian Grand Mole 
+ 085  D.D. Crow 
+ 086  Honest 
+ 087  Road Warrior 
+ 088  Junk Synchron 
+ 089  Dark Resonator 
+ 090  Morphtronic Celfon 
+ 091  Naturia Beetle 
+ 092  Debris Dragon 
+ 093  Morphtronic Remoten 
+ 094  Sunny Pixie 
+ 095  Magicat 
+ 096  Witch of the Black Rose 
+ 097  Laval Forest Sprite 
+ 098  Zubaba Knight 
+ 099  Gogogo Golem 
+ 100  Rescue Rabbit 
+ 101–120 
+ 101  Kurivolt 
+ 102  Gagaga Girl 
+ 103  Number 12: Crimson Shadow Armor Ninja 
+ 104  Tin Goldfish 
+ 105  Melomelody the Brass Djinn 
+ 106  Mermail Abysslinde 
+ 113  Goyo Guardian 
+ 114  Mai Valentine 
+ 115  Brotherhood of the Fire Fist - Tiger King 
+ 116  Bujintei Susanowo 
+ 117  Archfiend Heiress 
+ 118  Vampire Lord 
+ 119  Gaia The Fierce Knight 
+ 120  Buster Blader 
+ 121-142 
+ 124  Mai Valentine (Orichalcos) 
+ 125  Exodia Necross 
+ 126  Maximillion Pegasus 
+ 127  Noble Knight Artorigus 
+ 128  Yami Marik 
+ 129  Number 11: Big Eye 
+ 130  Odd-Eyes Pendulum Dragon 
+ 131  El Shaddoll Construct 
+ 132  Baxia, Brightness of the Yang Zing 
+ 133  Stellarknight Delteros 
+ 134  Saffira, Queen of Dragons 
+ 135  Téa Gardner 
+ 141  Tour Guide From the Underworld 
+ 142  Contrast HERO Chaos 
+ 
+ Opponents 
+ Stage 1 
+ Yami Yugi  (1, 2, and 3) 
+ Jaden 
+ Yusei 
+ Yuma 
+ Stage 2 
+ Harpie Girl 
+ White Magician Pikeru 
+ Ebon Magician Curran 
+ Time Wizard 
+ Gearfried the Iron Knight 
+ Insect Queen 
+ Stage 3 
+ Mokey Mokey 
+ Ojama Trio 
+ VWXYZ-Dragon Catapult Cannon 
+ Armed Dragon LV10 
+ Super Vehicroid Jumbo Drill 
+ Ancient Gear Golem 
+ Stage 4 
+ Neo-Spacian Grand Mole 
+ Junk Synchron 
+ Morphtronic Celfon 
+ Sunny Pixie 
+ Dark Resonator 
+ T.G. Wonder Magician 
+ Stage 5 
+ Kurivolt 
+ Melomelody the Brass Djinn 
+ Gogogo Golem 
+ Tin Goldfish 
+ Number 12: Crimson Shadow Armor Ninja 
+ Number 17: Leviathan Dragon 
+ Stage 6 
+ Penguin Soldier 
+ Marshmallon 
+ Jinzo 
+ Des Koala 
+ Phoenixian Cluster Amaryllis 
+ Exodia 
+ Stage 7 
+ Dark Magician Girl 
+ Dark Magician 
+ Witch of the Black Rose 
+ Gagaga Girl 
+ Gagaga Magician 
+ Dark Paladin 
+ Stage 8 
+ Black Luster Soldier 
+ Gilford the Lightning 
+ Elemental HERO Shining Flare Wingman 
+ Elemental HERO Neos 
+ Junk Warrior 
+ Number 39: Utopia 
+ Stage 9 
+ Red-Eyes B. Dragon 
+ Blue-Eyes White Dragon 
+ Cyber Dragon 
+ Black Rose Dragon 
+ Galaxy-Eyes Photon Dragon 
+ Stardust Dragon 
+ Stage 10 
+ Winged Kuriboh 
+ Ancient Sacred Wyvern 
+ Ryko, Lightsworn Hunter 
+ The Agent of Mystery - Earth 
+ Hieratic Sun Dragon Overlord of Heliopolis 
+ Constellar Ptolemy M7 
+ Stage 11 
+ Skull Servant 
+ Summoned Skull 
+ Reign-Beaux, Overlord of Dark World 
+ Black-Winged Dragon 
+ Evilswarm Ouroboros 
+ Inzektor Giga-Mantis 
+ Stage 12 
+ Deepsea Warrior 
+ Nightmare Penguin 
+ Judge Man 
+ Robotic Knight 
+ Jinzo 
+ Five-Headed Dragon 
+ Stage 13 
+ Odd-Eyes Pendulum Dragon 
+ El Shaddoll Construct 
+ Saffira, Queen of Dragons 
+ Baxia, Brightness of the Yang Zing 
+ Stellarknight Delteros 
+ Apoqliphort Towers 
+ Duel Monsters Arena 
+ Yugi Muto 
+ Yami Yugi 
+ Seto Kaiba 
+ Joey Wheeler 
+ Mai Valentine 
+ Gaia The Fierce Knight 
+ Saggi the Dark Clown 
+ Rocket Warrior 
+ Pumpking the King of Ghosts 
+ Insect Queen 
+ 
+ Other 
+ Dark Magician Girl 
+ 
+ v e 
+ Video games Duel Monsters 
+ Duel Monsters 
+ II: Dark duel Stories 
+ Dark Duel Stories  ( III: Tri-Holy God Advent ) 
+ 4: Battle of Great Duelist 
+ The Eternal Duelist Soul  ( 5 Expert 1 ) 
+ 6 Expert 2 
+ The Sacred Cards  ( 7: The Duelcity Legend ) 
+ Reshef of Destruction  ( 8: Reshef of Destruction ) 
+ Worldwide Edition: Stairway to the Destined Duel  ( International ) 
+ Online 
+ Online 
+ Duel Evolution 
+ 3: Duel Accelerator 
+ Power of Chaos 
+ Yugi the Destiny 
+ Kaiba the Revenge 
+ Joey the Passion 
+ Tag Force 
+ GX 1 
+ GX 2 
+ GX Evolution  ( GX The Beginning of Destiny ) 
+ GX 3 
+ 5D's 4 
+ 5D's 5 
+ 5D's 6 
+ ARC-V Special 
+ True Duel Monsters 
+ Forbidden Memories  ( Sealed Memories ) 
+ The Duelists of the Roses  ( 2: Succeeded Memories ) 
+ World Championship 
+ Tournament 2004  ( Duel Monsters Expert 3 ) 
+ 7 Trials to Glory: Tournament 2005   ( Day of the Duelist: Tournament 2005  /   Duel Monsters International 2 ) 
+ Ultimate Masters: Tournament 2006  ( Duel Monsters Expert 2006 ) 
+ 2007 
+ 2008 
+ 5D's 2009: Stardust Accelerator 
+ 5D's 2010: Reverse of Arcadia 
+ 5D's 2011: Over the Nexus 
+ Browser, PC, or mobile 
+ 5D's Mobile 
+ BAM 
+ Pocket 
+ Duel Arena 
+ Duel Generation 
+ Duel Links 
+ Cross Duel 
+ Other handheld 
+ Monster Capsule GB 
+ Dungeon Dice Monsters 
+ Destiny Board Traveler  ( Sugoroku no Sugoroku ) 
+ Nightmare Troubadour 
+ GX Duel Academy  ( GX Mezase Duel King! ) 
+ Double Pack 
+ 2 
+ GX Spirit Caller  ( GX Spirit Summoner ) 
+ GX Card Almanac 
+ ZEXAL World Duel Carnival 
+ Saikyo Card Battle 
+ Other console 
+ Monster Capsule: Breed and Battle 
+ The Falsebound Kingdom 
+ The Dawn of Destiny 
+ Capsule Monster Coliseum 
+ 5D's Wheelie Breakers 
+ 5D's Decade Duels 
+ Plus 
+ 5D's Duel Transer  ( 5D's Master of the Cards ) 
+ Millennium Duels 
+ Rush Duel 
+ Multi-Platform games 
+ Legacy of the Duelist 
+ Legacy of the Duelist: Link Evolution 
+ Master Duel 
+ Other 
+ Multi-Master 
+ Duel Terminal 
+ Duel Dash 
+ 
+ {{ Game guides }} 
+ {{ Video game promotional cards }} 
+ {{ Game guide promotional cards }} 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/74/DuelArenaLogo.png/revision/latest/scale-to-width-down/180?cb=20140914050350', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/fc/YugiMuto-DAR.png/revision/latest/scale-to-width-down/150?cb=20141022192807', None, None, 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4a/DuelArena-PartnerRecruiting.png/revision/latest?cb=20150324031605', None, None, 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/55/DuelArena-EnergyDrink.png/revision/latest/scale-to-width-down/100?cb=20150325020716', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/57/DuelArena-SinglePlay.png/revision/latest?cb=20150324221021', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2c/DuelArena-VirtualArena.png/revision/latest?cb=20150325013719', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/43/DuelArena-Arena.png/revision/latest?cb=20150324221426', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/ef/DuelArena-OpponentMatchingScreen.gif/revision/latest/scale-to-width-down/200?cb=20140824231934', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/bc/DuelArena-FriendDuel.gif/revision/latest?cb=20150326213623', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d5/DuelArena-DuelPoints.png/revision/latest/scale-to-width-down/150?cb=20150325022926', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4a/DuelArena-MiniclipCredits.png/revision/latest?cb=20140820205619', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e2/DuelArena-Coins.png/revision/latest?cb=20150325212040', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/db/DuelArenaYourProfile.png/revision/latest/scale-to-width-down/300?cb=20140609124902', 'https://static.wikia.nocookie.net/yugioh/images/f/f4/DuelArena-HomePageWideBackground.png/revision/latest/scale-to-width-down/185?cb=20150325005834', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f5/DuelArena-PendulumBackground2.png/revision/latest/scale-to-width-down/185?cb=20150315051730', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/90/DuelArena-CyberBackground.png/revision/latest/scale-to-width-down/185?cb=20150304020949', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c4/DuelArena-TourGuideBackground.png/revision/latest/scale-to-width-down/185?cb=20150226151318', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/19/DuelArena-JinzoBackground.png/revision/latest/scale-to-width-down/185?cb=20150222172156', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/91/DuelArena-InfernoidBackground.png/revision/latest/scale-to-width-down/185?cb=20150215034810', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/84/DuelArena-HEROBackground.png/revision/latest/scale-to-width-down/185?cb=20150204190632', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/9e/DuelArena-QliphortBackground.png/revision/latest/scale-to-width-down/185?cb=20150125164050', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a5/DuelArena-ShaddollBackground.png/revision/latest/scale-to-width-down/185?cb=20150117033123', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2c/DuelArena-NewYear2015Background.png/revision/latest/scale-to-width-down/185?cb=20150101024135', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/08/DuelArena-WinterBackground.png/revision/latest/scale-to-width-down/185?cb=20141228003343', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/07/DuelArena-XmasBackground.png/revision/latest/scale-to-width-down/185?cb=20141218162727', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/64/DuelArena-PendulumBackground.png/revision/latest/scale-to-width-down/185?cb=20141205184042', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f4/DuelArena-JinzoBackground2.png/revision/latest/scale-to-width-down/185?cb=20141126161454', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DuelArena-JinzoBackground1.png/revision/latest/scale-to-width-down/185?cb=20141126161347', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/20/DuelArena-NobleKnightBackground.png/revision/latest/scale-to-width-down/185?cb=20141121005542', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/64/DuelArena-HomePageBackground3.png/revision/latest/scale-to-width-down/185?cb=20141121030804', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/ad/DuelArena-HomePageBackground2.png/revision/latest/scale-to-width-down/185?cb=20141105131534', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4a/DuelArena-HalloweenBackground.png/revision/latest/scale-to-width-down/185?cb=20141001142643', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b6/DuelArena-WCS2014Background.png/revision/latest/scale-to-width-down/185?cb=20141001142505', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/ff/DuelArena-HomePageBackground.png/revision/latest/scale-to-width-down/185?cb=20140918223726', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/30/DuelArena-BetaHomePageBackground.png/revision/latest/scale-to-width-down/185?cb=20150325011919', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Articles needing cleanup, Yu-Gi-Oh! Duel Arena, Video games

@@ -1,0 +1,117 @@
+Link: https://yugioh.fandom.com/wiki/Kashtira_Overlap
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Kashtira Overlap クシャトリラ・オーバーラップ 
+ 
+ English 
+Kashtira Overlap 
+ Japanese 
+ クシャトリラ・オーバーラップ Check translation 
+ Japanese ( rōmaji ) 
+Kushatorira Ōbārappu 
+ Japanese (translated) 
+Kshatri-La Overlap 
+ Card type 
+ Spell   
+ Property 
+ Quick-Play   
+ Passcode 
+ 08953369 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Target  1  monster  on the  field ;  banish  1 monster with 1500  ATK /2100  DEF  from the field, your  hand , or your  GY , and if you do, the targeted monster gains 1500 ATK. If this card becomes banished and you  control  a " Kashtira " monster: You can target 1  Effect Monster  your opponent  controls ;  negate  its  effects  until the end of this  turn . You can only use each effect of "Kashtira Overlap"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：フィールドのモンスター１体を対象として発動できる。自分の手札・墓地及び自分・相手フィールドの表側表示モンスターの中から、攻撃力１５００／守備力２１００のモンスター１体を選んで除外し、対象のモンスターの攻撃力を１５００アップする。②：このカードが除外された場合、自分フィールドに「クシャトリラ」モンスターが存在していれば、相手フィールドの効果モンスター１体を対象として発動できる。そのモンスターの効果をターン終了時まで無効にする。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-10-15 PHHY-JP057 Photon Hypernova ＰＨＯＴＯＮ ＨＹＰＥＲＮＯＶＡ Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Anti-supports   
+ Effect Monster 
+ 
+ Archetypes  and  series   
+ Kashtira 
+ 
+ Supports   archetypes   
+ Kashtira 
+ 
+ Actions  
+ Activates while banished 
+ 
+ Stat changes  
+ Your monsters gains ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your opponent's Effect Monsters 
+ 
+ Banished  categories  
+ Banishes from field for cost 
+ Banishes from hand for cost 
+ Banishes from Graveyard for cost 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 18202 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Kashtira " 「クシャトリラ」 Members 
+ Kashtira Arise-Heart Kashtira Fenrir Kashtira Ogre Kashtira Riseheart Kashtira Shangri-Ira Kashtira Unicorn Scareclaw Kashtira Tearlaments Kashtira 
+ Kashtira Big Bang Kashtira Birth Kashtira Overlap Kashtira Papiyas Kashtira Preparations 
+ Support 
+ Kashtira Arise-Heart Kashtira Fenrir Kashtira Ogre Kashtira Riseheart Kashtira Shangri-Ira Kashtira Unicorn Scareclaw Kashtira Tearlaments Kashtira 
+ Kashtira Big Bang Kashtira Birth Kashtira Overlap Kashtira Papiyas Kashtira Preparations Prime Planet Paraisos 
+ Related 
+ Visas Starfrost 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e6/KashtiraOverlap-PHHY-JP-C.png/revision/latest/scale-to-width-down/300?cb=20221107235528', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/05/Quick-Play.svg/revision/latest/scale-to-width-down/28?cb=20120920115228']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

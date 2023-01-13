@@ -1,0 +1,106 @@
+Link: https://yugioh.fandom.com/wiki/Sunavalon_Glorious_Growth
+
+
+ Sunavalon Glorious Growth 
+ 
+ Japanese:   聖天樹の輝常緑 
+ Kana:   サンアバロン・グローリアス・グロース 
+ Romaji:   San Abaron Gurōriasu Gurōsu 
+ Translated:  San Avalon Glorious Growth 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Trigger-like 
+ Trigger-like 
+ Continuous-like 
+ Activate  this card if you take  battle  or  effect damage :  Special Summon  1 " Sunvine Token " ( Plant / EARTH / Level  1/ ATK  0/ DEF  0), and if you do, immediately after this  effect   resolves ,  Link Summon  1 " Sunavalon "  Link Monster , then gain  LP  equal to the damage you took. If you gain LP: Inflict that much damage to your opponent.  Once per turn , when an opponent's  monster  declares a  direct attack : You can  target  the  attacking  monster;  negate  the attack, then that monster must attack again in a row, on 1 of your " Sunvine " monsters. If a "Sunavalon" monster you control is  destroyed , destroy this card.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  036 ,  037 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 聖天樹の輝常緑 
+ ①：自分が戦闘・効果ダメージを受けた場合にこのカードを発動できる。「聖蔓トークン」（植物族・地・星１・攻／守０）１体を自分フィールドに特殊召喚し、「聖天樹」リンクモンスター１体をリンク召喚する。その後、受けたダメージの数値分だけ自分のＬＰを回復する。②：自分のＬＰが回復した場合に発動する。その数値分だけ相手にダメージを与える。③：１ターンに１度、相手モンスターの直接攻撃宣言時に、その攻撃モンスター１体を対象として発動できる。その攻撃を無効にする。その後、対象のモンスターはもう１度攻撃可能になり、自分フィールドの「聖蔓」モンスターに続けて攻撃しなければならない。④：自分フィールドの「聖天樹」モンスターが破壊された場合にこのカードは破壊される。 
+ 
+ 
+ San Abaron Gurōriasu Gurōsu 
+ 
+ 
+ Decks 
+ 
+ 
+ Specter 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Sunavalon 
+ 
+ v e 
+" Sunavalon " 「 聖天樹 」 a   m   Members 
+ Sunavalon Bloom Sunavalon Cursed Reborn Sunavalon Daphne Sunavalon Dryades Sunavalon Dryanome Sunavalon Dryas Sunavalon Dryatrentiay Sunavalon Force Sunavalon Glorious Growth Sunavalon Melias 
+ Support 
+ Sunavalon Dryades Sunavalon Melias Sunbloom Doom Sunseed Twin Sunvine Burial Sunvine Gardna Sunvine Healer Sunvine Plunder Sunvine Shrine Sunvine Thrasher 
+ Related 
+ Sunseed Genius Loci Sunseed Shadow Sunseed Twin 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a1/SunavalonGloriousGrowth-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180124140155', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/18?cb=20120920115206']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

@@ -1,0 +1,115 @@
+Link: https://yugioh.fandom.com/wiki/Battle_Buffer
+
+
+ Battle Buffer 
+ 
+ Japanese:   バトル・バッファ 
+ Romaji:   Batoru Baffa 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Continuous-like 
+ Trigger-like 
+ Continuous-like 
+ Activate  this card by  targeting   monsters  your opponent  controls , up to the number of  co-linked  monsters you control; those monsters cannot activate their  effects  while you control co-linked monsters, also  destroy  this card during the  End Phase  of this  turn . After  damage calculation , if your  Cyberse   Link Monster   battled : Place 1  Battle Buffer Counter  on this card. The  ATK  of all Cyberse Link Monsters you control become their  original ATK  + the number of Battle Buffer Counters on this card x 700. [Note 1] 
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  012 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ バトル・バッファ 
+ ①：自分フィールドの相互リンクしているモンスターの数まで、相手フィールドのモンスターを対象としてこのカードを発動できる。自分フィールドに相互リンクしているモンスターが存在する限り、そのモンスターは効果を発動できない。このカードはこのターンのエンドフェイズに破壊される。②：自分のサイバース族リンクモンスターが戦闘を行ったダメージ計算後にこの効果を発動する。このカードにバトル・バッファ・カウンターを１つ置く。自分フィールドのサイバース族リンクモンスターの攻撃力は、その元々の攻撃力＋このカードのバトル・バッファ・カウンターの数×７００になる。 
+ 
+ 
+ Batoru Baffa 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Cyberse 
+ Link Monster 
+ 
+ Counters   
+ Battle Buffer Counter 
+ Places counters on itself 
+ 
+ Stat changes  
+ Changes ATK value 
+ Your monsters gain ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Prevents activation of your opponent's Effect Monsters 
+ Destroys itself 
+ 
+ Miscellaneous  
+ Co-link 
+ 
+ Notes 
+ 
+ ↑   Although the Japanese text mentions original ATK, the actual usage of the card ignores that completely. The last effect is treated as "All Cyberse Link Monsters you control gain 700 ATK for each Battle Buffer Counter on this card," in the anime. 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/83/BattleBuffer-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20170802130648', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/18?cb=20120920115206']
+Categories: Anime cards, Cards with notes, Anime cards with no OCG/TCG counterpart

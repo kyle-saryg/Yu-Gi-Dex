@@ -1,0 +1,113 @@
+Link: https://yugioh.fandom.com/wiki/Link_Processing_Failure
+
+
+ Link Processing Failure 
+ 
+ Japanese:   リンク・プロセッシング・フェイルアー 
+ Romaji:   Rinku Purosesshingu Feiruā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Condition 
+ Continuous-like 
+ Continuous-like 
+ Destroy  this card during your 2nd  Standby Phase  after  activation . Activate this card by  targeting  1  Link Monster  you  control ; while this card is  face-up  on the  field , monsters that are not Link Monsters, and Link Monsters with a  Link Rating  lower than or equal to that target's, cannot  attack . When that monster  leaves the field , destroy this card.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  037 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ リンク・プロセッシング・フェイルアー 
+ このカードは発動後、２回目の自分スタンバイフェイズに破壊される。①：自分フィールドのリンクモンスター１体を対象として発動できる。このカードが魔法＆罠ゾーンに存在する限り、リンクモンスター以外のモンスター及び、対象のモンスターのリンクマーカーの数以下のリンクマーカーを持つリンクモンスターは攻撃できない。対象のモンスターがフィールドから離れた時にこのカードは破壊される。 
+ 
+ 
+ Rinku Purosesshingu Feiruā 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Link Monster 
+ 
+ Anti-supports   
+ Link Monster 
+ 
+ Archetypes  and  series   
+ Link  
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ Attack  categories  
+ Prevents attacks 
+ 
+ Miscellaneous  
+ Requires control of specific Monster card type 
+ 
+ v e 
+ Link  リンク a   m   Members 
+ Castle Link Dimension Link Link Atrocity Link Back Link Bound Link Bumper Link Burst Link Cancel Link Coin Link Devotee Link Disciple Link Drive Link Fire's Return Link Infra-Flier Link Pressure Link Processing Failure Link Protection Link Ration Link Recovery Link Restart Link Restart Link Rush Link Satellite Link Short Link Spider Link Surge Counter Link Token Link Turret Linkbelt Wall Dragon Linkross Linkslayer Linkuriboh Packet Link Urgent Link Zero Extra Link 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/11/LinkProcessingFailure-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180131162518', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/18?cb=20120920115206']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

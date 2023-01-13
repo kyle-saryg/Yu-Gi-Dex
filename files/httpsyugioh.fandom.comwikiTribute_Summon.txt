@@ -1,0 +1,567 @@
+Link: https://yugioh.fandom.com/wiki/Tribute_Summon
+
+
+ 
+ Tribute Summon
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ アドバンス 召 喚 Formerly:  生 け 贄 召 喚 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ アドバンスしょうかん Formerly: いけにえしょうかん
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ アドバンス召喚 Formerly: 生け贄召喚
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Adobansu Shōkan Formerly:  Ikenie Shōkan
+ 
+ 
+ 
+ Japanese (translated)
+ 
+ 
+ Advance Summon Formerly: Sacrifice Summon
+ 
+ 
+ 
+ English
+ 
+ 
+ Tribute Summon Formerly: Sacrifice Summon
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Invocation Sacrifice Verb: Invoquer par Sacrifice 
+ German : Tributbeschwörung Verb: beschwören als Tributbeschwörung 
+ Italian : Evocazione tramite Tributo Verb: Evocare tramite Tributo 
+ Portuguese : Invocação-Tributo Verb: Invocar por Invocação-Tributo 
+ Spanish : Invocación por Sacrificio Verb: Invocar por Sacrificio 
+ Korean : 어드밴스 소환 (Advance 召喚)  Eodeubaenseu Sohwan Formerly: 제물 소환 (祭物召喚)  Jemul Sohwan 
+ Traditional Chinese : 升級召喚  Shēngjí Zhàohuàn / Sing1 kap1 Ziu6 wun6 
+ Simplified Chinese : 上级召唤  Shàngjí Zhàohuàn 
+ 
+ 
+ Tribute Summon  called  Advance Summon  (Japanese: アドバンス 召 喚   Adobansu Shōkan  "Advance Summon") in the  OCG  and the post- Yu-Gi-Oh! GX  anime series, is a form of  Normal Summoning  a  Level  5 or higher  monster  by  Tributing  at least one monster you  control . It was previously referred to as a  Sacrifice Summon  ( 生 け 贄 召 喚   Ikenie Shōkan ) in the OCG and the  Yu-Gi-Oh!  and  Yu-Gi-Oh! GX  anime series.
+ 
+ Contents 
+ 
+ 1   Mechanics 
+ 
+ 1.1   Tribute Set 
+ 1.2   Other Tribute requirements 
+ 
+ 1.2.1   Three Tributes 
+ 1.2.2   Substitute Spell/Trap for Tributes 
+ 1.2.3   Summon with less Tribute than required 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mechanics 
+ By default, Level 5 and 6 monsters require one Tribute, while Level 7 and higher require two Tributes. Tribute Summon counts toward the turn's Normal Summon/Set limit.
+ Tributing a monster for a Tribute Summon is part of a  Summoning condition . Therefore, if the Tribute Summon is  negated , the Tributed monster(s) will not return to the field.
+ If no cards are Tributed to perform the Normal Summon of a Level 5 or higher monster (as in the case of " Mausoleum of the Emperor "), the Summon is not a Tribute Summon, unless a card specifies otherwise (such as " Tribute Burial ").
+ 
+ Tribute Set 
+ Main article:  Tribute Set Tribute Set  is to Set a Level 5 or higher monster. 
+ Other Tribute requirements 
+ Three Tributes 
+ Main article:  Normal Summon with 3 Tributes 
+ Some Level 8 or higher monsters can be Normal Summoned with three Tributes, instead of just two, and activate a further effect when Tribute Summoned this way.
+ Some monsters can only be Normal Summoned with three Tributes, some of which even specify the Tribute requirements (such as " Steelswarm Hercules ", and most  Main Deck   Match winners ). Many of those monsters  cannot be Special Summoned .
+ 
+ Substitute Spell/Trap for Tributes 
+ Main article:  Uses Spell/Trap Cards as Tributes for Normal Summon 
+ Some monsters allow  Spell  or  Trap Cards  to be Tributed in place of monsters, such as " Dinomight Knight, the True Dracofighter " and " Ancient Gear Castle ". 
+ 
+ Summon with less Tribute than required 
+ See also:  Normal Summon without Tribute  and  Normal Summon with 1 Tribute 
+ Some high-Level monsters are allowed to be Normal Summoned with fewer or no Tributes. " Fog King " can be Tribute Summoned with 1 Tribute, or Normal Summoned without a Tribute. " Mausoleum of the Emperor " allows either player to  pay   Life Points  instead of Tributing monsters. Depending on their stats, these monsters usually have a negative effect when summoned by their reduced Tribute requirement, such as having less ATK, leaving the field at the end of the turn, or not being allowed to attack.
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Types of Summon

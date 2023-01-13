@@ -1,0 +1,135 @@
+Link: https://yugioh.fandom.com/wiki/Recycle_Rhinobot
+
+
+ Recycle Rhinobot 
+ 
+ Japanese:   リサイクル・リライノボット 
+ Romaji:   Risaikuru Rirainobotto 
+ Translated:  Recycle Rerhinobot 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   EARTH 
+ 
+ Rank 
+ 
+ 
+ 4   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Ignition 
+ Trigger 
+ Xyz Material 
+ 
+ 
+ 
+ 3  Level  4  EARTH   Machine - Type   monsters 
+ 
+ [  Machine  /  Xyz  /  Effect  ] 
+ 3  Level  4  EARTH   Machine - Type   monsters 
+ You can  detach  1  Xyz Material  from this card, then  target  1 other  face-up  monster you  control ; it gains 500  ATK . During your  End Phase , if this card has no Xyz Material:  Destroy  the monster you control with the lowest ATK (if it's a tie, you get to choose), and if you do, inflict  damage  to both players equal to its  original ATK .
+ ATK  /  2700     DEF  /  2000   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  021 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Italian 
+ Rinobot da Riciclaggio 
+ 
+ 
+ 
+ Spanish 
+ Rinobot de Reciclaje 
+ 
+ 
+ 
+ Japanese 
+ リサイクル・リライノボット 
+ 
+ 機械族・地属性レベル４モンスター×３
+ 
+ このカードのエクシーズ素材１つを取り除いて発動する事ができる。自分フィールド上に存在するこのカード以外のモンスター１体の攻撃力は５００ポイントアップする。エンドフェイズ時にこのカードのエクシーズ素材が無い場合、自分フィールド上に存在する攻撃力がー最低いモンスター１体を破壊して破壊する。この時、お互いのプレイヤーはこの効果でたモンスターの元々の攻撃力自分のダメージを受ける。 
+ 
+ 
+ Risaikuru Rirainobotto 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Lillybot 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ EARTH 
+ Machine 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your face-up Monster Cards 
+ 
+ Summoning  categories  
+ 3 Xyz Materials 
+ Requires Attribute specific Xyz Materials 
+ Requires Type specific Xyz Materials 
+ 
+ LP   
+ Damages you 
+ Damages your opponent 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/17/RecycleRhinobot-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20130730132559', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2a/RecycleRhinobot-OW.png/revision/latest/scale-to-width-down/185?cb=20131215192355', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/af/RecycleRhinobot-JP-Anime-ZX-NC.png/revision/latest/scale-to-width-down/185?cb=20110831032502', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

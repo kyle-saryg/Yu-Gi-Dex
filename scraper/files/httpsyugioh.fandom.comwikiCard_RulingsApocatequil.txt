@@ -1,0 +1,51 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Apocatequil
+
+
+ Apocatequil 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Contents 
+ 
+ 1   TCG Rulings 
+ 
+ 1.1   Mentions in Other Rulings 
+ 
+ 
+ 2   OCG Rulings 
+ 3   References 
+ 
+ 
+ TCG Rulings 
+ The effect to  Special Summon  1 " Oracle of the Sun "  targets  the " Oracle of the Sun ." [1] 
+ This effect to  Special Summon  activates even during the  Damage Step . [1] 
+ If " Apocatequil " is  Level  5 due to its effect and you choose to lower it to  Special Summon  " Level Eater ," " Apocatequil " becomes  Level  4. If the  Tuner  is removed from the field, it becomes  Level  3. If you  Summon  another  Tuner , " Apocatequil " becomes  Level  5 again. [1] 
+ Mentions in Other Rulings 
+ Garlandolf, King of Destruction : Destroying the monsters and increasing the  ATK  of " Garlandolf, King of Destruction " occur simultaneously. If " Apocatequil " is destroyed by this effect, you can activate its effect. 
+ OCG Rulings 
+ The effect of " Apocatequil " will  activate  even if " Apocatequil " is destroyed during the  Damage Step . [2] 
+ The effect of " Apocatequil " which  Special Summons  " Oracle of the Sun "  targets  one " Oracle of the Sun " in your  Graveyard . [2] 
+ If " Apocatequil " is face-down on the field and is destroyed by a card effect while it is face-down, then you can still Special Summon a " Oracle of the Sun " from your Graveyard. [3] 
+ If " Apocatequil " is being treated as  Level  5 and its Level is lowered by 1 by the effect of " Level Eater ", then the Level of " Apocatequil " becomes 4.  Afterwards, if all  Tuner monsters  are removed from the field, then the Level of " Apocatequil " becomes 3.  Furthermore, if a  Tuner monster  is later Normal Summoned to the field, then the Level of " Apocatequil " will become 5 again. [4] 
+ References 
+ 
+ ↑  1.0   1.1   1.2   Konami Gameplay FAQ : Absolute Powerforce - Card Rulings (Version 1.0) 
+ 
+ ↑  2.0   2.1   Konami FAQ : Effect Monster > Apocatequil 
+ 
+ ↑   Konami FAQ : Can "Oracle of the Sun" be Special Summoned if "Apocatequil" is destroyed while face-down? 
+ 
+ ↑   Konami FAQ : If you target "Apocatequil" to Special Summon "Level Eater", then what does the Level of "Apocatequil"? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

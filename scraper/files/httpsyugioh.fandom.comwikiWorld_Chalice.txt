@@ -1,0 +1,945 @@
+Link: https://yugioh.fandom.com/wiki/World_Chalice
+
+
+ 
+ World Chalice 
+ 星杯 「 せいはい 」  ( Seihai ) 
+ 
+ 
+ 
+ 
+ In the artwork of " World Legacy Discovery " (clockwise from top-right): " Beckoned ", " Chosen ", " Guardragon ", " Crowned ", and " World Legacy - "World Chalice" ". 
+ 
+ 
+ Translation 
+ Star Chalice 
+ 
+ 
+ Other names 
+ 
+ French 
+ Calice du Monde 
+ 
+ 
+ German 
+ Weltkelch 
+ 
+ 
+ Italian 
+ Calice del Mondo 
+ 
+ 
+ Korean 
+ 성잔 星盞   (Hanja)   Seongjan   (romanized) Translation:  Star Chalice 
+ 
+ 
+ Portuguese 
+ Cálice Mundial 
+ 
+ 
+ Spanish 
+ Cáliz Mundial 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Code of the Duelist Circuit Break Soul Fusion Dark Neostorm 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ OTS Tournament Pack 7 Battles of Legend: Relentless Revenge 2018 Mega-Tin Mega Pack Structure Deck: Rokket Revolt 2020 Tin of Lost Memories 
+ 
+ 
+ 
+ 
+ Korea-Only Sets 
+ 
+ 
+ Advanced Event Pack 2017 Vol.2 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " World Chalice ", known as " Star Chalice " ( 星 杯   Seihai ) in Japanese, is an  archetype  introduced in  Code of the Duelist . The archetype is related to, and is supported by, the " World Legacy " archetype.
+ 
+ Contents 
+ 
+ 1   Design 
+ 2   Members 
+ 3   Playing style 
+ 4   Recommended cards 
+ 5   Official Decklist 
+ 6   References 
+ 
+ 
+ Design 
+ The main "World Chalice" monsters seem to be based on character archetypes, seemingly evolving into stronger, armored  Link Monsters —possibly due to the " World Legacy " items unlocked by them per the request of " Lee the World Chalice Fairy ", as mentioned in the flavor text of " Chosen by the World Chalice ", to fight against the " Krawler " monsters.
+ As more sets progressed, each Main Deck member of the this archetype would  indirectly be placed onto another archetype , supporting other related archetypes of the World Legacy archetype itself.
+ 
+ 
+ Members 
+ 
+ 
+ Monster
+ 
+ Role in Party
+ 
+ Related Archetype
+ 
+ 
+ Main Deck version
+ 
+ Extra Deck version
+ 
+ "Final" version
+ 
+ 
+ Beckoned by the World Chalice 
+ 
+ Ningirsu the World Chalice Warrior 
+ 
+ Girsu, the Orcust Mekk-Knight 
+ 
+ Warrior
+ 
+ Orcust / Mekk-Knight 
+ 
+ 
+ Chosen by the World Chalice 
+ 
+ Auram the World Chalice Blademaster 
+ 
+ Mekk-Knight Crusadia Avramax 
+ 
+ Hero
+ 
+ Crusadia / Mekk-Knight 
+ 
+ 
+ Crowned by the World Chalice 
+ 
+ Ib the World Chalice Priestess 
+ 
+ Lib the World Key Blademaster 
+ 
+ Healer/Mage
+ 
+ Knightmare / Orcust 
+ 
+ 
+ Lee the World Chalice Fairy 
+ 
+ N/A
+ 
+ Knightmare Incarnation Idlee 
+ 
+ Guide
+ 
+ Knightmare / Orcust 
+ 
+ 
+ World Chalice Guardragon 
+ 
+ Imduk the World Chalice Dragon 
+ 
+ World Chalice Guardragon Almarduke 
+ 
+ Companion
+ 
+ Guardragon / Crusadia 
+ 
+ Playing style 
+ Being one of the first archetypes to focus on  Link Summoning , the "World Chalice" archetype explores the intricacies of the newly-introduced mechanic. To that end, the archetype focuses on initiating multiple Link Summons in quick succession, all while promoting combos that extend the longevity of this style of play, namely through helping the controller amass more monsters in the hand or on the field to use as  Link Materials . The archetype also encourages the controller carefully consider the placement of cards on their field, particularly by emphasizing the  linking  of Link Monsters with other monsters in order to gain boons via their effects.
+ The archetype's main strategy is the rapid amassing of  Link Materials  on the field to Link Summon  Link Monsters , mainly by using  Normal Monsters  as a medium. To that end, several of its Main Deck monsters are Normal Monsters, namely " Beckoned by the World Chalice ", " Chosen by the World Chalice ", and " Crowned by the World Chalice ", all of which possess different Levels, Attributes, and Types, and either 0 ATK or DEF.
+ The archetype's Main Deck Effect Monsters are designed to further this strategy. The first effect of " World Chalice Guardragon " allows the controller to send it from the hand or field to the GY in order to negate the activation of a card that targets a  linked  monster and destroy it, thus offering protection to the controller from threats to the archetypes' Link Monsters. This also places "Guardragon" in the GY to enable its second effect, banishing it from the GY to Special Summon a Normal Monster from the GY to one of the controller's zones that a Link Monster points to. " Lee the World Chalice Fairy " enables the controller to add a "World Chalice" monster from their Deck to their hand if Normal or Special Summoned, assisting the player in providing monsters to Special Summon with the common effect of the archetype's Link Monsters. "Lee" also allows the controller to recover it from the GY to their hand if they send a monster from their hand or field to the GY. Both monsters have great synergy with each other as a result, given that the latter can place monsters in the GY in the process of recurring itself, which the former can then Special Summon for the controller to continue their combos. 
+ The archetype's Link Monsters all possess a common effect wherein if they are sent to the GY, the controller can Special Summon a "World Chalice" monster from their hand, thus preventing the controller from losing field advantage should the monster be sent to the GY. Additionally, these effects also encourage the controller to use the Link Monsters as Link Materials themselves. This is reinforced by the archetype's Link Monsters all possessing  Link Ratings  in successive numbers from 1 to 3. As another thread of commonality, they also all possess effects that apply when the monster is linked to other monsters, thus emphasizing a need to consider where the Link Monsters can be best summoned in order to fully benefit from their effects.
+ The Link 1 " Imduk the World Chalice Dragon " often serves as a combo piece by which the archetype can initiate this tactic of laddering Link Monsters, as it allows the controller to Normal Summon a "World Chalice" monster in addition to the controller's Normal Summon/Set for the turn. "Imduk" also has an effect wherein it can destroy any monster it battles that is linked to it at the start of the Damage Step, though such an effect is only applicable if "Imduk" is in its controller's  Extra Monster Zone  or a Main Monster Zone in the same column as an Extra Monster Zone, as it only has a singular Top  Link Arrow .
+ The Link 2 " Ib the World Chalice Priestess " cannot be destroyed by battle or card effects should it be linked, and also prevents the opponent from targeting it with card effects while it is linked. "Ib" also protects the monsters linked to it by allowing the controller to send it to the GY should any of of its linked monsters be destroyed by card effects. However, for any of its unique effects to have any applications, it must be located in a  Main Monster Zone , as it only has Left and Right Link Arrows.
+ Also possessing a Link Rating of 2, " Auram the World Chalice Blademaster " gains 300  ATK  for each " World Legacy " monster with a different name in the controller's GY. Additionally, "Auram" has an effect by which the controller can Tribute a "World Chalice" monster linked to it in order to Special Summon another one from their GY to one of the zones that "Auram" points to, allowing the controller an easy way to trigger the common effect of the Link Monsters while also granting an easy way for the controller to selectively choose what monsters to utilize next. Due to "Aurum" possessing Bottom-Left and Bottom-Right Link Arrows, however, this effect would only find use if "Auram" was inhabiting its controller's Extra Monster Zone.
+ The Link 3 " Ningirsu the World Chalice Warrior " enables the controller to draw a card for each "World Chalice" monster that is linked to it upon its Link Summon. Due to the placement of its Link Arrows, namely Top, Left, and Right, this effect is best utilized if "Ningirsu" was Link Summoned to a Main Monster Zone that shares a column with an Extra Monster Zone. "Ningirsu" also has an effect whereby the controller can send one card on each side of the field to the GY, allowing the controller to simultaneously remove a problematic card the opponent controls, while also either triggering the common effect of the archetype's Link Monsters, or placing one of the archetype's Effect Monsters or " World Legacy's Heart " in the GY for later utilization of its effect.
+ Given that the archetype is related to the " World Legacy " archetype, it also enjoys some support from that archetype's cards. The archetype's associated "World Legacy" monster, " World Legacy - "World Chalice" ", can Tribute itself if a monster is Special Summoned from the Extra Deck in order to send that monster to the GY, which gives the controller remarkable flexibility in either choosing to eliminate the opponent's Extra Deck Special Summoned monsters, or to enable the archetype's Link Monsters to trigger their common effects. The first effect of "World Chalice" also allows it to enable its second effect, wherein if it leaves the field after being Normal Summoned or Set, allows the controller to Special Summon 2 other "World Chalice" monsters from their Deck, further bolstering their field presence and providing monsters to fuel more Link Summons. The third and last effect of "World Chalice" lets the controller banish it from the GY on any turn subsequent to it being sent there, in order for the controller to add a "World Legacy" card from their Deck to their hand. Given that the archetype is dependent on the "World Legacy" archetype to support its plays, this effect is instrumental to enabling further combos.
+ The archetype's associated "World Legacy" Field Spell, " World Legacy Discovery " has an shared effect with other "World Legacy" Field Spells in that it bolsters the ATK and DEF of the associated archetype's monsters by 300. Additionally, "Discovery" has a unique effect wherein the controller can Special Summon a "World Chalice" monster from their GY in Defense Position, should a face-up "World Chalice" monster they control leave their field due to an opponent's card effect or being destroyed by battle, thus preventing the controller from losing field presence through the loss of their monsters.
+ " World Legacy's Heart " allows the controller to return 2 "World Chalice" monsters from their GY to their hand, to further enable the common effects of the archetype's Link Monsters. The card also has an effect whereby the controller can avert the destruction by battle of a linked Link Monster they control, by banishing the card itself from their GY.
+ Because the archetype often focuses on Summoning low level Normal Monsters, it benefits greatly from cards that support such plays or aid in the advancing the placement of Normal Monsters in the hand. In particular, the effect of " Enchanting Fitting Room " and " Unexpected Dai " can assist the controller in more quickly Special Summoning Normal Monsters. " Dark Factory of Mass Production " can be used as an alternative to "Heart" by retrieving monsters from the GY to the hand to Summon via the common effects of the archetype's Link Monsters. As the archetype's Normal Monsters have different Types, they can be easily searched through Type specific support, such as " Emergency Teleport " for "Chosen" and " Reinforcement of the Army " for "Beckoned". 
+ " Brilliant Fusion " is a very powerful card to be played in this deck as it provides consistency and resources the deck needed. Opening with " Brilliant Fusion " lets you Fusion Summon " Gem-Knight Seraphinite " and get key  LIGHT  monsters out of your Deck and into your GY, readily available for use once revived using either "Auram's" or " World Legacy Succession 's" effects. This simple yet effective combo allows the player to search for cards like " The Agent of Creation - Venus " or " Archlord Kristya " for continuing your Link plays or locking out your opponent from the Extra Deck. " The Agent of Creation - Venus " can also provide the controller with a steady source of the Normal Monster " Mystical Shine Ball " in order to fuel the archetype's Link Summons or provide monsters that work with any Normal Monster-related support the controller chooses to include in the Deck.
+ 
+ Recommended cards 
+ 
+ Recommended cards Monsters   
+ Normal Monsters 
+ Crowned by the World Chalice 
+ Chosen by the World Chalice 
+ Beckoned by the World Chalice 
+ Mystical Shine Ball 
+ Effect Monsters 
+ World Chalice Guardragon 
+ Lee the World Chalice Fairy 
+ World Legacy - "World Chalice" 
+ Archlord Kristya 
+ Gem-Knight Lazuli 
+ Herald of Orange Light 
+ " Kaiju " monsters 
+ Knightmare Corruptor Iblee 
+ Rescue Ferret 
+ Rescue Rabbit 
+ The Agent of Creation - Venus 
+ Treasure Panda 
+ Tuner monsters 
+ Galaxy Serpent Extra Deck   
+ Fusion Monsters 
+ World Chalice Guardragon Almarduke 
+ First of the Dragons 
+ Link Monsters 
+ Auram the World Chalice Blademaster 
+ Ib the World Chalice Priestess 
+ Imduk the World Chalice Dragon 
+ Ningirsu the World Chalice Warrior 
+ Borreload Dragon 
+ Decode Talker 
+ Link Spider 
+ Firewall Dragon 
+ Salamangreat Almiraj 
+ Saryuja Skull Dread 
+ Topologic Bomber Dragon 
+ Tri-Gate Wizard Spells   &  Traps   
+ Spells 
+ World Legacy's Heart 
+ World Legacy Discovery 
+ World Legacy Succession 
+ World Legacy Survivor 
+ Enchanting Fitting Room 
+ Emergency Teleport 
+ Kyoutou Waterfront 
+ Reinforcement of the Army 
+ Scapegoat 
+ Super Polymerization 
+ Terraforming 
+ Transmodify 
+ Unexpected Dai 
+ Traps 
+ World Legacy's Sorrow 
+ World Legacy Landmark 
+ World Legacy Struggle 
+ World Legacy Trap Globe 
+ The Phantom Knights of Shade Brigandine 
+ Official Decklist 
+ 
+ "World Chalice" Deck  [1] Monsters  (20) 
+ Normal Monsters 
+ Crowned by the World Chalice  x3 
+ Chosen by the World Chalice  x3 
+ Beckoned by the World Chalice  x3 
+ Effect Monsters 
+ World Chalice Guardragon  x3 
+ Lee the World Chalice Fairy  x3 
+ World Legacy - "World Chalice"  x3 
+ Rescue Ferret 
+ Rescue Rabbit Extra Deck  (15) 
+ Link Monsters 
+ Imduk the World Chalice Dragon  x2 
+ Ib the World Chalice Priestess  x2 
+ Auram the World Chalice Blademaster  x2 
+ Ningirsu the World Chalice Warrior  x2 
+ Firewall Dragon  x2 
+ Gaia Saber, the Lightning Shadow 
+ Decode Talker 
+ Honeybot 
+ Link Spider 
+ Proxy Dragon Spells  (15) &  Traps  (5) 
+ Spells 
+ World Legacy Discovery  x2 
+ World Legacy's Heart  x3 
+ Monster Reborn 
+ Soul Charge 
+ Painful Decision 
+ Unexpected Dai 
+ Emergency Teleport 
+ One for One 
+ Reinforcement of the Army 
+ Foolish Burial 
+ Pot of Avarice 
+ Harpie's Feather Duster 
+ Traps 
+ World Legacy Landmark  x2 
+ Break Off Trap Hole 
+ Heavy Storm Duster 
+ Back to the Front 
+ References 
+ 
+ 
+ ↑   YGOrganization Konami's "World Chalice" Deck 
+ 
+ 
+   
+" World Chalice " 「 星 杯 」 Members 
+ Auram the World Chalice Blademaster Beckoned by the World Chalice Chosen by the World Chalice Crowned by the World Chalice Ib the World Chalice Justiciar Ib the World Chalice Priestess Imduk the World Chalice Dragon Lee the World Chalice Fairy Ningirsu the World Chalice Warrior World Chalice Guardragon World Chalice Guardragon Almarduke World Legacy - "World Chalice" 
+ Support 
+ Auram the World Chalice Blademaster Ib the World Chalice Justiciar Ib the World Chalice Priestess Imduk the World Chalice Dragon Lee the World Chalice Fairy Ningirsu the World Chalice Warrior World Legacy - "World Chalice" 
+ World Legacy Discovery World Legacy's Heart 
+ Related 
+ Crusadia Draco Crusadia Maximus Galatea, the Orcust Automaton Knightmare Corruptor Iblee Lib the World Key Blademaster Longirsu, the Orcust Orchestrator Mekk-Knight Avram Orcust Knightmare 
+ 
+ v e 
+" World Chalice " 「 星 杯 」 m   Members 
+ Ib the World Chalice Justiciar 
+ Support 
+ Ib the World Chalice Justiciar 
+ 
+ 
+ 
+ 
+ 
+ Six Attributes 
+ 
+ This box:  view edit 
+ DARK    
+ EARTH   
+ FIRE    
+ LIGHT   
+ WATER   
+ WIND    
+ 
+ 
+ /Assault Modes 
+ Red Dragon Archfiend  /  Colossal Fighter 
+ Hyper Psychic Blaster  /  T.G. Halberd Cannon 
+ Doomkaiser Dragon 
+ Arcanite Magician 
+ n/a 
+ Stardust Dragon 
+ 
+ 
+ @Ignisters    Base forms   Evolved forms 
+ Doyon     Dark Templar 
+ Doshin     Earth Golem 
+ Achichi     Fire Phoenix 
+ Pikari     Light Dragon 
+ Hiyari     Water Leviathan 
+ Bururu     Wind Pegasus 
+ 
+ 
+ Alchemy Beasts    Summoners     (Normal Spell Cards) 
+ Moonface the Silver     Silver Key 
+ Leon the Lead     Lead Compass 
+ Salamandra the Steel     Steel Lamp 
+ Ouroboros the Bronze     Bronze Scale 
+ Ekenas the Mercury     Mercury Hourglass 
+ Aretos the Tin     Tin Spell Circle 
+ 
+ 
+ Aliens 
+ Overlord  /  Mother  /  Psychic 
+ Shocktrooper  /  Infiltrator  /  Warrior 
+ Mars  /  Telepath 
+ Ammonite  /  Dog  /  Grey  /  Kid  /  Shocktrooper M-Frame 
+ Hunter  /  Hypno 
+ Skull 
+ 
+ 
+ Altergeists 
+ Primebanshee  /  Multifaker  /  Kidolga  /  Fifinellag  /  Dragvirion  /  Memorygant  /  Pookuery 
+ Kunquery 
+ Hexstia 
+ Marionetter 
+ Meluseek  /  Fijialert 
+ Silquitous  /  Pixiel 
+ 
+ 
+ Aromages 
+ Marjoram 
+ Cananga 
+ Bergamot 
+ Jasmine 
+ Rosemary 
+ Laurel 
+ 
+ 
+ Attribute Boosters   (500 ATK▲/400 DEF▼)    Link Monsters    (500 ATK▲/500 DEF▲)    Field Spells    (500 ATK▲/400 DEF▼)    Equip Spells    (400 ATK▲/200 DEF▼) 
+ Witch's Apprentice     Wee Witch's Apprentice     Mystic Plasma Zone     Sword of Dark Destruction 
+ Milus Radiant     Missus Radiant     Gaia Power     Invigoration 
+ Little Chimera     Duelittle Chimera     Molten Destruction     Burning Spear 
+ Hoshiningen     Hip Hoshiningen     Luminous Spark     Elf's Light 
+ Star Boy     Mistar Boy     Umiiruka     Steel Shell 
+ Bladefly     Greatfly     Rising Air Current     Gust Fan 
+ 
+ 
+ Attribute Knights 
+ Armageddon 
+ Dust 
+ Brushfire 
+ Dawn 
+ Shore 
+ Altitude 
+ 
+ 
+ Attribute Reptiles 
+ Umbral Soul 
+ Raging Earth 
+ Firestorm Prominence 
+ Radiant Spirit 
+ Silent Abyss 
+ Destruction Cyclone 
+ 
+ 
+ Attribute Sorcerers    (4/1500/0/Spellcasters) 
+ Dark 
+ n/a 
+ Fire 
+ Light 
+ Aqua 
+ n/a 
+ 
+ 
+ Attribute Spirits 
+ Luna the Dark Spirit 
+ The Rock Spirit 
+ Spirit of Flames 
+ Diana the Light Spirit 
+ Aqua Spirit 
+ Garuda the Wind Spirit 
+ 
+ 
+ Attribute Summoners 
+ Mystic Tomato 
+ Giant Rat 
+ UFO Turtle 
+ Shining Angel 
+ Mother Grizzly 
+ Flying Kamakiri #1 
+ 
+ 
+ B.E.S. 
+ Big Core 
+ Covered Core  /  Blaster Cannon Core 
+ Big Core MK-2 
+ Big Core MK-3 
+ Crystal Core 
+ Tetran 
+ 
+ 
+ Barrier Statues 
+ Abyss 
+ Drought 
+ Inferno 
+ Heavens 
+ Torrent 
+ Stormwinds 
+ 
+ 
+ Beast Gear World 
+ Catapult Devilkong 
+ Motor Wolf  /  Trike Fox  /  King Convoy Ligeon 
+ Buggy Dog 
+ n/a 
+ n/a 
+ Gyro Jackal 
+ 
+ 
+ Charmers     Familiar-Possessed     Cataclysmic Charmers     Spiritual Arts    Familiar   Possessed Familiars 
+ Dharc     Dharc     n/a     Greed     Meda Bat     n/a 
+ Aussa     Aussa     Avalanching Aussa     Kurogane     Marmot     Nefarious 
+ Hiita     Hiita     Blazing Hiita     Kurenai     Fox Fire     Inari Fire 
+ Lyna     Lyna     n/a     Hijiri     Happy Lover     n/a 
+ Eria     Eria     Raging Eria     Aoi     Gigobyte     Jigabyte 
+ Wynn     Wynn     Storming Wynn     Miyabi     Petit Dragon     Ranryu 
+ 
+ 
+ Chrysalis     Neo-Spacians    Evolved forms   Contact Fusions   Evolved forms   Advanced Contact Fusions 
+ Pantail     Dark Panther     n/a     Dark Neos     n/a     Chaos Neos 
+ Mole     Grand Mole     n/a     Grand Neos     n/a     Nebula Neos 
+ Larva     Flare Scarab     n/a     Flare Neos     n/a     Magma Neos 
+ Pinny     Glow Moss     Twinkle Moss     Glow Neos     n/a     Cosmo Neos 
+ Dolphin     Aqua Dolphin     Marine Dolphin     Aqua Neos     Marine Neos     n/a 
+ Chicky     Air Hummingbird     n/a     Air Neos     n/a     Storm Neos 
+ 
+ 
+ Code Talkers      (Link-3) 
+ Decode    ( Extended ) 
+ Transcode 
+ Powercode 
+ Encode 
+ Shootingcode 
+ Excode 
+ 
+ 
+ Color Ninjas    Dragon Ninjas 
+ Strike     Black 
+ Senior Silver     n/a 
+ n/a     Red 
+ White     White 
+ n/a     Blue 
+ Yellow     Yellow 
+ 
+ 
+ Cubic 
+ Vijam  /  Crimson Nova  ( Trinity ) 
+ Dark Garnex 
+ Blade Garoodia 
+ Duza  /  Buster Gundil  /  Indiora Doom Volt 
+ n/a 
+ Geira Guile 
+ 
+ 
+ CXyz 
+ Dark Fairy Cheer Girl  /  Mechquipped Djinn Angeneral 
+ Comics Hero Legend Arthur  /  Battleship Cherry Blossom  /  Zubaba Saikyo General 
+ Coach Lord Ultimatrainer 
+ Simon the Great Moral Leader  /  Barian Hope 
+ N.As.Ch. Knight 
+ Skypalace Babylon 
+ 
+ 
+ Dice Roll  Archfiends 
+ Terrorking  /  Masterking 
+ Vilepawn 
+ Infernalqueen 
+ Desrook 
+ Darkbishop 
+ Shadowknight 
+ 
+ 
+ Double Tributers     Effigies 
+ Double Coston     Dark 
+ The Trojan Horse     Earth 
+ Flame Ruler     n/a 
+ Kaiser Sea Horse     Light 
+ Unshaven Angler     n/a 
+ Whirlwind Prodigy     Wind 
+ 
+ 
+ Dragonmaids    Human forms   Dragon forms 
+ Chamber     n/a 
+ Nurse     Ernus 
+ Kitchen     Tinkhec 
+ House     Sheou 
+ Laundry     Nudyarl 
+ Parlor     Lorpar 
+ 
+ 
+ Dustons     (1/0/1000/Fiends) 
+ Star 
+ Yellow 
+ Red 
+ House  /  White 
+ Blue 
+ Green 
+ 
+ 
+ Elemental HERO    Fusion Monsters    (1 "HERO" + 1 matching Attribute) 
+ Escuridao 
+ Gaia 
+ Nova Master 
+ The Shining 
+ Absolute Zero 
+ Great Tornado 
+ 
+ 
+ Elemental Lords     Elementsabers 
+ Umbramirage     Molehu 
+ Grandsoil     Aina 
+ Pyrorex     Malo 
+ Phosphorage     Lapauila  ( Mana ) 
+ Moulinglacia     Nalu 
+ Windrose     Makani 
+ 
+ 
+ Empowered Warriors     Summoners 
+ Dragonox     n/a 
+ Terratiger     White Tiger 
+ Arnis     Red Sparrow 
+ Dragodies     Golden Dragon 
+ Hydrortoise      Green Turtle 
+ Ventdra     Blue Dragon 
+ 
+ 
+ Endymion 
+ Master Magician  /  Mighty Master of Magic 
+ Magister 
+ Rogue 
+ Crusader  /  Reflection 
+ Magistus of Mastery 
+ Servant 
+ 
+ 
+ Entities 
+ Azathot 
+ Nyarla 
+ Cthugua 
+ N'tss 
+ Norden 
+ Hastorr 
+ 
+ 
+ Fortune Fairies     Fortune Ladies 
+ Ann     Dark  /  Past 
+ Chee     Earth 
+ En     Fire 
+ Hikari     Light  /  Every 
+ Swee     Water 
+ Hu     Wind 
+ 
+ 
+ Fur Hire 
+ Seal  /  Folgo 
+ Beat  /  Dyna 
+ Bravo 
+ Rafale 
+ Helmer  /  Wiz 
+ Donpa  /  Recon  /  Sagitta 
+ 
+ 
+ Generaiders 
+ Hela  /  Harr 
+ Dovelgus  /  Jormungandr 
+ Naglfar  /  Loptr 
+ Mardel  /  Utgarda 
+ Nidhogg 
+ Frodi 
+ 
+ 
+ Gizmek 
+ Orochi 
+ Uka 
+ Kaku 
+ Yata 
+ Okami 
+ Mikoto 
+ 
+ 
+ Guardians    Weapons     (Equip Spell Cards) 
+ Baou  /  Dreadscythe     Wicked-Breaking Flamberge  /  Reaper Scythe 
+ Grarl     Gravity Axe 
+ Ceal     Shooting Star Bow 
+ Tryce     Twin Swords of Flashing Light 
+ Kay'est     Rod of Silence 
+ Elma  /  Eatos     Buttefly Dagger  /  Celestial Sword 
+ 
+ 
+ Invoked     (1 " Aleister the Invoker " + 1 matching Attribute) 
+ Caliga 
+ Magellanica 
+ Purgatrio 
+ Mechaba 
+ Cocytus 
+ Raidjin 
+ 
+ 
+ Kaiju 
+ Radian 
+ Kumongous 
+ Dogoran 
+ Jizukiru  /  Mecha-Dogoran  /  Thunder King  /  Mecha-Thunder-King 
+ Gameciel 
+ Gadarla 
+ 
+ 
+ Knightmare 
+ Iblee  /  Unicorn  /  Orcust  /  Idlee 
+ Cerberus 
+ Phoenix 
+ Gryphon 
+ Mermaid 
+ Goblin 
+ 
+ 
+ Legendary Planets 
+ Sun  /  Jupiter  /  Saturn  /  Pluto 
+ Terra Firma 
+ Mars 
+ Venus  /  Uranus 
+ Mercury  /  Neptune 
+ n/a 
+ 
+ 
+ Masked HEROes 
+ Dark Law  /  Anki 
+ Dian 
+ Goka 
+ Koga 
+ Vapor  /  Acid 
+ Divine Wind  /  Blast 
+ 
+ 
+ Magician Girls 
+ ( Toon )    Dark    ( Dragon Knight ) 
+ Berry 
+ Apple 
+ Lemon 
+ Chocolate 
+ Kiwi 
+ 
+ 
+ Magikey 
+ Clavkiys  /  Batosbuster  /  Ansyalabolas 
+ Garesglasser 
+ Transfurlmine 
+ Mafteal 
+ Vepartu 
+ Andrabime 
+ 
+ 
+ Magistus 
+ Grimoire Crowley 
+ Goddess Ninaruru 
+ Flame Zoroa  /  Dragon Vafram 
+ Verre Cendrillon  /  Maiden Artemis 
+ Master Endymion 
+ Saint Aiwass 
+ 
+ 
+ Mirror Force 
+ Dark 
+ Quaking 
+ Blazing 
+ Radiant 
+ Drowning 
+ Storming 
+ 
+ 
+ Monarchs    Mega Monarchs   Related  "Monarch"  Spell/Trap Cards    Vassals 
+ Caius  /  Erebus     Caius the Mega     Tenacity  /  The First     Lucius  /  Eidos 
+ Granmarg     Granmarg the Mega     Return     Landrobe  /  Samsara Kaiser 
+ Thestalos     Thestalos the Mega     Erupt     Berlineth 
+ Zaborg  /  Ehther     Zaborg the Mega     Strike  /  The Prime     Mithra  /  Edea 
+ Mobius     Mobius the Mega     Awaken     Escher 
+ Raiza     Raiza the Mega     Stormforth     Garum 
+ 
+ 
+ Musical  Djinns 
+ Maestroke 
+ Temtempo 
+ n/a 
+ Melomelody 
+ Humhumming 
+ Muzurhythm 
+ 
+ 
+ Mythyrian Numbers 
+ Djinn Buster 
+ Lion Heart  /  Ronin Raccoon Sandayu 
+ n/a 
+ Sky Pegasus  /  Dragluon 
+ Abyss Splash  /  Crystalzero 
+ n/a 
+ 
+ 
+ Nemeses 
+ Protos 
+ Keystone 
+ Flag 
+ Eschatos 
+ Umbrella 
+ Corridor 
+ 
+ 
+ Number 10X     Number C10X 
+ n/a     Umbral Horror Masquerade 
+ Giant Hand     Giant Red Hand 
+ Battlin' Boxer Star Cestus     Battlin' Boxer Comet Cestus 
+ Star Seraph Sentry  /  Masquerade  /  Galaxy-Eyes Tachyon Dragon     Archfiend Seraph  /  Neo Galaxy-Eyes Tachyon Dragon 
+ Silent Honor ARK  /  Ragnazero     Silent Honor DARK  /  Ragnafinity 
+ n/a     n/a 
+ 
+ 
+ Odd-Eyes Dragons 
+ Odd-Eyes  /  Pendulum  /  Rebellion  ( Overlord ) /  Persona  /  Phantom  /  Mirage  /  Performapal Metal Claw  /  Raging  /  Supreme King  /  Wing  /  Venom  /  Arc Pendulum  /  Advance  /  Wizard 
+ Gravity 
+ Meteorburst 
+ Saber  /  Lancer  /  Revolution  /  Pendulumgraph 
+ Absolute 
+ Vortex 
+ 
+ 
+ Pendulum  Magicians 
+ Stargazer  /  Timegazer  /  Xiangke  /  Timebreaker  /  Acrobatic  /  Dragoncaller  /  Harmonizing  /  Double Iris  /  Black Fang  /  Purple Poison  /  Performapal Celestial 
+ Dragonpulse 
+ Nobledragon 
+ Wisdom-Eye  /  Xiangsheng  /  Dharma-Eye  /  Performapal Five-Rainbow 
+ Dragonpit 
+ Oafdragon  /  White Wing 
+ 
+ 
+ Prediction Princesses 
+ Astromorrigan 
+ Coinorma  /  Petalelf 
+ n/a 
+ Tarotrei 
+ Crystaldine 
+ Arrowsylph 
+ 
+ 
+ Resonators 
+ Dark  /  Synkron  /  Crimson 
+ Clock 
+ Flare  /  Red  /  Double  /  Net 
+ Barrier  /  Chain  /  Mirror 
+ Force 
+ Creation 
+ 
+ 
+ Road Magic 
+ N/A 
+ Diastrophism 
+ Explosion 
+ Rays Alter 
+ Backflow 
+ Tempest 
+ 
+ 
+ El Shaddoll    Fusion Monsters    (1 "Shaddoll" + 1 matching Attribute) 
+ Winda 
+ Shekhinaga 
+ Grysta 
+ Construct 
+ Anoyatyllis 
+ Wendigo 
+ 
+ 
+ Signer Dragons 
+ Red Archfiend  /  Black-Winged 
+ Life Stream 
+ Black Rose 
+ Ancient Fairy 
+ n/a 
+ Stardust 
+ 
+ 
+ Six Samurai     Legendary Six Samurai     Secret Six Samurai 
+ Irou     Shi En     Doji 
+ Yariza     Kizan     Kizaru 
+ Kamon     Mizuho     Genba 
+ Zanji     Enishi     Rihan 
+ Yaichi     Shinai     Hatsume 
+ Nisashi     Kageki     Fuma 
+ 
+ 
+ Sky Striker Ace 
+ Raye  /  Zeke 
+ Kaina 
+ Kagari 
+ Roze 
+ Shizuku 
+ Hayate 
+ 
+ 
+ Sushi Angels 
+ Spider Roll 
+ Monkey Roll 
+ n/a 
+ Garibel  /  Agaribel 
+ Tiger Roll 
+ Dragon Roll 
+ 
+ 
+ Synchro  Warriors    Tuner  Synchrons 
+ Junk  /  Satellite     Junk  /  Satellite 
+ Drill     Drill 
+ Nitro  /  Jet     Nitro  /  Jet 
+ Road     Road 
+ n/a     Steam 
+ Turbo     Turbo 
+ 
+ 
+ Tenyi  Spirits 
+ Vishuda 
+ Adhara 
+ Mapura 
+ Ashuna  /  Sahasrara 
+ Sthana 
+ Nahata 
+ 
+ 
+ The Weathers    Canvas     (Continuous Spell/Trap Cards) 
+ Aurora     Auroral 
+ Snow     Snowy 
+ Sun     Sunny 
+ Thunder  /  Rainbow     Thundery  /  Rainbowed 
+ Rain     Rainy 
+ Cloud     Cloudy 
+ 
+ 
+ Timelords 
+ Vorpgate 
+ Kamion  /  Hailon 
+ Metaion  /  Lazion  /  Michion 
+ Sephylon  /  Sandaion 
+ Zaphion  /  Gabrion 
+ Sadion  /  Raphion 
+ 
+ 
+ True Draco and True King 
+ All Calamities 
+ Lithosazim  /  Dreiath III 
+ Agnimazud  /  Ignis Heat 
+ Master Peace  ( King ) /  Metaltron XII 
+ Bahrstos  /  Dinomight Knight 
+ Majesty Maiden  /  Mariamne 
+ 
+ 
+ Witchcrafters 
+ Haine 
+ Potterie 
+ Schmitta 
+ Edel  /  Madame Verre  /  Golem Aruru 
+ Pittore 
+ Genni 
+ 
+ 
+ World Chalice 
+ World Legacy 
+ Beckoned  /  Ningirsu 
+ Chosen  /  Auram 
+ Lee 
+ Crowned  / Ib ( Priestess / Justiciar ) 
+ Guardragon  /  Imduk  /  Almarduke 
+ 
+ 
+ Yang Zing 
+ Taotie  /  Jiaotu  /  Yazi 
+ Bi'an  /  Zefraxi  /  Zefraniu 
+ Suanni 
+ Chiwen  /  Baxia  /  Chaofeng  /  Denglong 
+ Bixi 
+ Pulao 
+ 
+ 
+ Yo-kai Girls 
+ Ghost Reaper & Winter Cherries 
+ Ghost Belle & Haunted Mansion 
+ Ash Blossom & Joyous Spring 
+ Ghost Ogre & Snow Rabbit 
+ Ghost Sister & Spooky Dogwood 
+ Ghost Mourner & Moonlit Chill 
+ 
+ 
+ ZW - 
+ Chimera Clad  /  Dragonic Halberd 
+ Ultimate Shield 
+ Phoenix Bow  /  Asura Strike 
+ Unicorn Spear  /  Lightning Blade  /  Leo Arms  /  Sleipnir Mail  /  Fenrir Sword  /  Pegasus Twin Saber  /  Sylphid Wing 
+ n/a 
+ Tornado Bringer  /  Eagle Claw 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d8/WorldLegacyDiscovery-CA.png/revision/latest/scale-to-width-down/350?cb=20191006183112', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/24?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/24?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/24?cb=20120918053839', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Fusion Monster(s), Archetypes with Synchro Monster(s), Archetypes with Link Monster(s)

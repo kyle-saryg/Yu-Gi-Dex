@@ -1,0 +1,122 @@
+Link: https://yugioh.fandom.com/wiki/Krystal_Avatar_(anime)
+
+Main card page: " Krystal Avatar " 
+ Krystal Avatar 
+ 
+ Japanese:   クリスタル・アバター 
+ Romaji:   Kurisutaru Abatā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Trigger-like 
+ When an opponent's  monster   declares  a  direct attack  while you have 2000 or less  LP :  Special Summon  this card in  Attack Position  as an  Effect Monster  ( Warrior - Type / LIGHT / Level  4/ATK ?/ DEF  0) that has ATK equal to your LP, then change the  attack target  to this card. (This card is also still a  Trap Card .) If this card  Summoned  this way is  destroyed by battle , after  damage calculation : Inflict  damage  to your opponent equal to its ATK.
+ 
+ 4K Media  lore<nomobile> ? :</nomobile> <mobile>(The English card uses the same lore as the OCG/TCG card. The Japanese card and reference sources state the effect differently.):</mobile> When an opponent's  monster   declares  a  direct attack , if its  ATK  is greater than or equal to your  LP :  Special Summon  this card in  Attack Position  as an  Effect Monster  ( Warrior - Type / LIGHT / Level  4/ATK ?/ DEF  0) that has ATK equal to your LP, then change the  attack target  to this card. (This card is also still a  Trap Card .) If this card  Summoned  this way is  destroyed by battle , after  damage calculation : Inflict  damage  to your opponent equal to its ATK. 
+ Appearances
+ 
+ 
+ 
+ 
+ ' 
+ 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  The Dark Side of Dimensions ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ クリスタル・アバター 
+ ①：自分のＬＰが２０００以下の場合、相手モンスターの直接攻撃宣言時に発動できる。このカードは発動後、自分のＬＰの数値と同じ攻撃力の効果モンスター（戦士族・光・星４・攻？／守０）となり、モンスターゾーンに攻撃表示で特殊召喚する。その後、攻撃対象をこのカードに移し替える。このカードは罠カードとしても扱う。②：このカードの効果で特殊召喚したこのカードが戦闘で破壊されたダメージ計算後に発動する。このカードの攻撃力分のダメージを相手に与える。 
+ 
+ 
+ Kurisutaru Abatā 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Seto Kaiba  
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Trap Monster 
+ 
+ Actions  
+ Activates upon attack declaration 
+ Activates from your Graveyard 
+ 
+ Stat changes  
+ Changes own ATK value 
+ 
+ Summoning  categories  
+ Special Summons itself from your Spell & Trap Card Zone 
+ 
+ Attack  categories  
+ Manages attack targets 
+ 
+ LP   
+ Damages your opponent 
+ 
+ 
+ 
+   " Krystal Avatar " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+ Trap Monster   罠 モンスター a   m   Members 
+ Copy Knight Cyber Shadow Gardna Depth Gardna Dimension Reflector The Door of Destiny Embodiment of Apophis Gimmick Box Instant Shutter Jirai Gumo King Scarlet Krystal Avatar Metalhold the Moving Blockade Metamorphortress Stronghold the Moving Fortress Uluru the Guardian Spirit Zoma the Spirit 
+ Related 
+ Dragon Capture Jar 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/79/KrystalAvatar-JP-Anime-MOV3.png/revision/latest/scale-to-width-down/200?cb=20170311015846', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d3/KrystalAvatar-JP-Anime-MOV3-NC.png/revision/latest/scale-to-width-down/185?cb=20170315132841', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

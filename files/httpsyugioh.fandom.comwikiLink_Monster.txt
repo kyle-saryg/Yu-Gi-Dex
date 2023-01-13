@@ -1,0 +1,564 @@
+Link: https://yugioh.fandom.com/wiki/Link_Monster
+
+
+ 
+ Link Monster
+ 
+ 
+ 
+ " Firewall Dragon "
+ 
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ リンク(モンスター) [Notes 1] 
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Rinku (Monsutā)
+ 
+ 
+ 
+ English
+ 
+ 
+ Link (Monster)
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : (Monstre) Lien 
+ German : Link(monster) 
+ Italian : (Mostro) Link 
+ Portuguese : (Monstro) Link 
+ Spanish : (Monstruo de) Enlace 
+ Korean : 링크 (몬스터)  Ringkeu (Monseuteo) 
+ Simplified Chinese : 连接(怪兽)  Liánjiē (Guàishòu) 
+ 
+ 
+ 
+ 
+ 
+ Lists
+ 
+ 
+ 
+ 
+ members 
+ support 
+ anti-support 
+ 
+ A  Link Monster  (Japanese: リンクモンスター  Rinku Monsutā ) is a type of  Monster Card . The color of their card frame is dark blue, which is similar to that of a  Ritual Monster , but with a hexagonal pattern similar to a honeycomb structure. They first appeared in the  Yu-Gi-Oh! VRAINS  anime, and were introduced to the  OCG  and  TCG  in the  Structure Deck: Cyberse Link .
+ These cards are placed in the  Extra Deck . Like other Extra Deck monsters, Link Monsters cannot exist in either the  hand  or the  Main Deck  (even with card effects). If a Link Monster would be moved to the hand or Main Deck, it is returned to the Extra Deck instead. If a card like " Transmigration Break " or " Degenerate Circuit " is applying, the Link Monster would be  banished  rather than returning to the Extra Deck.
+ If a Link Monster is not  Link Summoned  first, it cannot be  Special Summoned  from the  Graveyard  or while  banished  (unless it specifies another way to properly Special Summon it).
+ 
+ Contents 
+ 
+ 1   Link Ratings and lack of DEF 
+ 2   Link Arrows 
+ 3   Link Summoning 
+ 4   Playing style 
+ 5   Examples 
+ 6   Notes 
+ 
+ 
+ Link Ratings and lack of DEF 
+ Main article:  Link Rating 
+ Link Monsters have a  Link Rating  in place of a  Level  or  Rank . A Link Monster's Link Rating determines the total number of  Link Materials  required to  Link Summon  it. A Link Monster's Link Rating is also equal to the number of  Link Arrows  it has. A Link Monster's Link Rating can be found next to its  ATK , in place of the traditional  DEF  value.
+ Link Monsters do not possess Levels or Ranks, therefore they cannot be used as material for a  Ritual ,  Synchro , or  Xyz Summon . Also, Level or Rank-modifying cards such as " Harmonic Waves ", " Feedback Warrior ", or " Xiangsheng Magician " do not affect Link Monsters. The same thing can be said for Spells/Traps that affect Levels/Ranks such as " Gravity Bind ", " Level Limit - Area B " or " Planckton ".
+ Link Monsters can only exist in  face-up   Attack Position  (they do not have a DEF value) and cannot be placed in or changed to  Defense Position  (either manually or through a card effect). Because of this, Link Monsters are unaffected by effects that account for a monster's DEF or change  battle positions , and are unable to be placed  face-down , and cannot be Summoned by an effect that would Special Summon monsters only in Defense Position (such as " Back to the Front ").
+ 
+ Link Arrows 
+ Main article:  Link Arrow 
+ Link Monsters also have  Link Arrows , indicated by red arrows radiating outward from the art frame. These indicators denote which  zones  and  monsters  that Link Monster  points to .
+ Monsters in the Extra Deck ( Fusion ,  Synchro ,  Xyz , face-up  Pendulum , and Link Monsters) can be Special Summoned from the Extra Deck to a  Main Monster Zone  a Link Monster points to. From  Master Rule 5  and onward, if you already occupy an  Extra Monster Zone , you must Special Summon a Pendulum or Link monster from the Extra Deck to a zone a Link Monster points to. If a Link Monster points to a monster, the monsters are considered to be " linked " to each other.
+ 
+ Link Summoning 
+ Main article:  Link Summon 
+ A Link Summon is the act of Summoning a Link Monster from the Extra Deck using the requisite number of Link Materials listed on its Link Rating. During the  Main Phase , the turn player can Link Summon by sending the  face-up  Link Materials from their field to the Graveyard.
+ 
+ Playing style 
+ Link Monsters commonly grant benefits to monsters they point to or gain more powerful effects depending on the number of monsters they point to. As such, Decks focused around Link Monsters require methods to quickly Summon monsters in order to Summon Link Monsters as well as into the zones where the Link Monsters point to. When attempting to Summon multiple Link Monsters, it is important to decide which order to Summon them in, as their Link Arrows will dictate where the others can be Summoned and what monsters will be Linked to them.
+ Link Monsters with higher Link Ratings can be  Special Summoned  more quickly by Link Summoning multiple weaker Link Monsters first. This also helps to place them in locations that will take better advantage of their Link Arrows.
+ Powerful Link Monsters are typically balanced by having a higher Link Rating and forward-pointing Link Arrows, allowing the opponent to summon more Extra Deck monsters. For example, " Decode Talker ", " Firewall Dragon ", " Topologic Bomber Dragon " and " Encode Talker " all have Link Arrows that point towards the opponent's field when they are placed in the Extra Monster Zone, while weaker Link Monsters such as " Missus Radiant ", " Gaia Saber, the Lightning Shadow " and " Link Spider " do not.
+ 
+ Examples 
+ Non-Effect Link Monster Effect Link Monster 
+ Notes 
+ 
+ ↑   The parentheses here specify what part is not shown on the cards'  Type / Ability  line. 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a6/FirewallDragon-JP-Commercial-VR.png/revision/latest/scale-to-width-down/300?cb=20170418150237', 'https://static.wikia.nocookie.net/yugioh/images/f/fb/GaiaSabertheLightningShadow-COTD-EN-ScR-1E.png/revision/latest/scale-to-width-down/137?cb=20170731001122', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/19/DecodeTalker-YS17-EN-UR-1E.png/revision/latest/scale-to-width-down/137?cb=20170721183341', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Types of Monster Cards

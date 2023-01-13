@@ -1,0 +1,360 @@
+Link: https://yugioh.fandom.com/wiki/Blind_Spot_Strike
+
+The  Croatian, Greek  and  Portuguese                      names given are not official.  ( card names ) 
+ 
+ 
+ 
+ 
+ 
+ Blind Spot Strike 死 角 からの 一 撃 
+ 
+ English 
+Blind Spot Strike 
+ French 
+ Attaque en Angle Mort Check translation 
+ German 
+ Schlag aus dem Hinterhalt Check translation 
+ Italian 
+ Colpo Punto Cieco Check translation 
+ Korean 
+ 사각에서의 일격 Check translation 
+ Portuguese 
+ Golpe do Ponto Cego Check translation 
+ Spanish 
+ Golpe del Punto Ciego Check translation 
+ Japanese (kana) 
+ しかくからのいちげき Check translation 
+ Japanese (base) 
+ 死角からの一撃 Check translation 
+ Japanese ( rōmaji ) 
+Shikaku kara no Ichigeki 
+ Card type 
+ Spell   
+ Property 
+ Quick-Play   
+ Passcode 
+ 49267971 
+ Card effect types 
+ 
+ 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Select  1  face-up   Defense Position   monster  your opponent  controls  and 1 face-up  Attack Position  monster you control. The monster you control gains  ATK  equal to the opponent's monster's  DEF , until the  End Phase . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Sélectionnez 1 monstre en Position de Défense face recto contrôlé par votre adversaire et 1 monstre en Position d'Attaque face recto que vous contrôlez. Le monstre que vous contrôlez gagne un montant d'ATK égal à la DEF du monstre de l'adversaire, jusqu'à la End Phase. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wähle 1 Monster in offener Verteidigungsposition, das dein Gegner kontrolliert, und 1 Monster in offener Angriffsposition, das du kontrollierst. Das Monter, das du kontrollierst, erhält bis zur End Phase ATK in Höhe der Def des Monsters deines Gegners. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Scegli 1 mostro scoperto in Posizione di Difesa controllato dal tuo avversario e 1 mostro scoperto in Posizione di Attacco che controlli. Il mostro che controlli guadagna ATK pari al DEF del mostro dell'avversario, fino alla End Phase. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Selecciona 1 monstruo en Posición de Defensa boca arriba que controle tu adversario y un monstruo en Posición de Ataque boca arriba que controles. El monstruo que controles gana ATK igual a la DEF del monstruo de tu adversario, hasta la End Phase. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 相手フィールド上に表側守備表示で存在するモンスター１体と、自分フィールド上に表側攻撃表示で存在するモンスター１体を選択して発動する。選択した自分のモンスターの攻撃力はエンドフェイズ時まで、選択した相手モンスターの守備力の数値分アップする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 상대 필드 위에 앞면 수비 표시로 존재하는 몬스터 1장과 자신 필드 위에 앞면 공격 표시로 존재하는 몬스터 1장을 선택하고 발동한다. 선택한 자신 몬스터의 공격력은 엔드 페이즈시까지 선택한 상대 몬스터의 수비력 수치만큼 올린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2010-08-07  
+ DREV-EN045   
+ Duelist Revolution 
+ Common 
+ 
+ 
+ 2011-01-21  
+ DP10-EN021   
+ Duelist Pack: Yusei Edition 3 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2010-08-12  
+ DREV-FR045   
+ Duelist Revolution 
+ Révolution des Duellistes  
+ Common 
+ 
+ 
+ 2011-01-20  
+ DP10-FR021   
+ Duelist Pack: Yusei Edition 3 
+ Pack du Duelliste: Yusei 3  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2010-08-12  
+ DREV-DE045   
+ Duelist Revolution 
+ Duelist Revolution  
+ Common 
+ 
+ 
+ 2011-01-20  
+ DP10-DE021   
+ Duelist Pack: Yusei Edition 3 
+ Duelist Pack: Yusei 3  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2010-08-12  
+ DREV-IT045   
+ Duelist Revolution 
+ La Rivoluzione del Duellante  
+ Common 
+ 
+ 
+ 2011-01-20  
+ DP10-IT021   
+ Duelist Pack: Yusei Edition 3 
+ Duelist Pack: Yusei 3  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2010-08-12  
+ DREV-SP045   
+ Duelist Revolution 
+ La Revolución de los Duelistas  
+ Common 
+ 
+ 
+ 2011-01-20  
+ DP10-SP021   
+ Duelist Pack: Yusei Edition 3 
+ Sobre de Duelista: Yusei 3  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2010-04-17  
+ DREV-JP045   
+ Duelist Revolution 
+ ＤＵＥＬＩＳＴ ＲＥＶＯＬＵＴＩＯＮ  
+ Common 
+ 
+ 
+ 2010-10-16  
+ DP10-JP021   
+ Duelist Pack: Yusei Edition 3 
+ デュエリストパック －遊星編３－  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2010-07-17  
+ DREV-KR045   
+ Duelist Revolution 
+ 듀얼리스트의 혁명  
+ Common 
+ 
+ 
+ 2011-03-08  
+ DP10-KR021   
+ Duelist Pack: Yusei Edition 3 
+ ＤＵＥＬＩＳＴ ＰＡＣＫ  —유성 편 ３—  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 8976 ( ja  ( rulings )   en   fr   de   it   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Blind Spot Strike " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e1/BlindSpotStrike-DP10-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20201028162708', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/05/Quick-Play.svg/revision/latest/scale-to-width-down/28?cb=20120920115228']
+Categories: Duel Monsters cards, TCG cards, OCG cards

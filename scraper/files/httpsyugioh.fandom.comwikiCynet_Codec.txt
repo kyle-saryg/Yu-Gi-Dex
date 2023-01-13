@@ -1,0 +1,267 @@
+Link: https://yugioh.fandom.com/wiki/Cynet_Codec
+
+
+ 
+ 
+ Cynet Codec サイバネット・コーデック 
+ 
+ English 
+Cynet Codec 
+ French 
+ Cynet Codec Check translation 
+ German 
+ Cynet-Codec Check translation 
+ Italian 
+ Cynet Codec Check translation 
+ Korean 
+ 사이바넷 코덱 Check translation 
+ Portuguese 
+ Codec Cinet Check translation 
+ Spanish 
+ Cinet-Códec Check translation 
+ Japanese 
+ サイバネット・コーデック Check translation 
+ Japanese ( rōmaji ) 
+Saibanetto Kōdekku 
+ Japanese (translated) 
+Cybenet Codec 
+ Card type 
+ Spell   
+ Property 
+ Continuous   
+ Passcode 
+ 60018643 
+ Card effect types 
+ 
+ 
+ Trigger-like 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If a " Code Talker "  monster (s) is  Special Summoned  from the  Extra Deck  to your  field  (except during the  Damage Step ): You can  target  1 of those monsters;  add  1  Cyberse  monster with the same  Attribute  from your  Deck  to your  hand , also you cannot Special Summon monsters from the Extra Deck for the rest of this  turn , except Cyberse monsters (even if this card  leaves the field ). You cannot add other monsters with that same Attribute to your hand by the  effect  of "Cynet Codec" this turn, and you can only  activate  the effect of "Cynet Codec" once per  Chain . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si un ou plusieurs monstres "Codeur Bavard" sont Invoqués Spécialement depuis l'Extra Deck sur votre Terrain (sauf durant la Damage Step) : vous pouvez cibler 1 de ces monstres ; ajoutez 1 monstre Cyberse du même Attribut depuis votre Deck à votre main, et aussi, vous ne pouvez pas Invoquer Spécialement de monstres (monstres Cyberse exclus) depuis l'Extra Deck le reste de ce tour (même si cette carte quitte le Terrain). Vous ne pouvez pas ajouter d'autres monstres du même Attribut à votre main par l'effet de "Cynet Codec" ce tour, et vous ne pouvez activer l'effet de "Cynet Codec" qu'une fois par Chaîne. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls ein oder mehr „Kodier-Sprecher“-Monster als Spezialbeschwörung vom Extra Deck auf deine Spielfeldseite beschworen werden (außer während des Damage Steps): Du kannst 1 der Monster wählen; füge deiner Hand 1 Cyberse-Monster mit derselben Eigenschaft von deinem Deck hinzu, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung vom Extra Deck beschwören, außer Cyberse-Monstern (selbst falls diese Karte das Spielfeld verlässt). Du kannst deiner Hand in diesem Spielzug durch den Effekt von „Cynet-Codec“ keine anderen Monster mit derselben Eigenschaft hinzufügen und du kannst den Effekt von „Cynet-Codec“ nur einmal pro Kette aktivieren. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se uno o più mostri "Codificatore Trasmittente" vengono Evocati Specialmente dall'Extra Deck sul tuo Terreno (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 di quei mostri; aggiungi 1 mostro Cyberso con lo stesso Attributo dal tuo Deck alla tua mano, inoltre non puoi Evocare Specialmente mostri dall'Extra Deck per il resto di questo turno, eccetto mostri Cyberso (anche se questa carta lascia il Terreno). Non puoi aggiungere altri mostri con quello stesso Attributo alla tua mano con l'effetto di "Cynet Codec" in questo turno, e puoi attivare l'effetto di "Cynet Codec" una sola volta per Catena. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se um ou mais monstros "Codificar Transmissor" forem Invocados por Invocação-Especial do Deck Adicional no seu campo (exceto durante a Etapa de Dano): você pode escolher 1 desses monstros; adicione 1 monstro Ciberso com o mesmo Atributo do seu Deck à sua mão e, além disso, você não pode Invocar monstros por Invocação-Especial do Deck Adicional pelo resto deste turno, exceto monstros Ciberso (mesmo que este card deixe o campo). Neste turno, você não pode adicionar à sua mão outros monstros com esse mesmo Atributo com o efeito de "Codec Cinet" e você só pode ativar o efeito de "Codec Cinet" uma vez por Corrente. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si uno o más monstruos "Codificador Hablador" son Invocados de Modo Especial desde el Deck Extra a tu Campo (excepto durante el Damage Step): puedes seleccionar 1 de esos monstruos; añade a tu mano 1 monstruo Ciberso en tu Deck con el mismo Atributo, y además por el resto de este turno no puedes Invocar de Modo Especial monstruos desde el Deck Extra, excepto monstruos Ciberso (aun si esta carta deja el Campo). Este turno no puedes añadir a tu mano por el efecto de "Cinet-Códec" otros monstruos con ese mismo Atributo, y sólo puedes activar el efecto de "Cinet-Códec" una vez por Cadena. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の効果は同一チェーン上では１度しか発動できない。①：「コード・トーカー」モンスターが ＥＸ デッキから自分フィールドに特殊召喚された場合、そのモンスター１体を対象として発動できる。そのモンスターと同じ属性のサイバース族モンスター１体をデッキから手札に加える。このターン、同じ属性のモンスターを自分の「サイバネット・コーデック」の効果で手札に加える事はできない。この効果の発動後、ターン終了時まで自分はサイバース族モンスターしか ＥＸ デッキから特殊召喚できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 효과는 동일한 체인 위에서는 1번밖에 발동할 수 없다. ①: "코드 토커" 몬스터가 엑스트라 덱에서 자신 필드에 특수 소환되었을 경우, 그 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터와 같은 속성의 사이버스족 몬스터 1장을 덱에서 패에 넣는다. 이 턴에, 같은 속성의 몬스터를 자신의 "사이바넷 코덱"의 효과로 패에 넣을 수는 없다. 이 효과의 발동 후, 턴 종료시까지 자신은 사이버스족 몬스터밖에 엑스트라 덱에서 특수 소환할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ Release date Card code Set Rarity 2020-06-18 TOCH-EN058 Toon Chaos Rare 
+ 
+ 
+ 
+ 
+ 
+   English—Europe 
+ 
+ 
+ Release date Card code Set Rarity 2019-08-20 LOD2-EN003 Yu-Gi-Oh! Legacy of the Duelist: Link Evolution promotional cards Super Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2019-08-20 LOD2-FR003 Yu-Gi-Oh! Legacy of the Duelist: Link Evolution promotional cards Yu-Gi-Oh! Legacy of the Duelist: Link Evolution Super Rare 2020-06-18 TOCH-FR058 Toon Chaos Le Chaos Toon Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2019-08-20 LOD2-DE003 Yu-Gi-Oh! Legacy of the Duelist: Link Evolution promotional cards Yu-Gi-Oh! Legacy of the Duelist: Link Evolution Super Rare 2020-06-18 TOCH-DE058 Toon Chaos Toon Chaos Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2019-08-20 LOD2-IT003 Yu-Gi-Oh! Legacy of the Duelist: Link Evolution promotional cards Yu-Gi-Oh! Legacy of the Duelist: Link Evolution Super Rare 2020-06-18 TOCH-IT058 Toon Chaos Chaos Toon Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2020-06-18 TOCH-PT058 Toon Chaos Caos Toon Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2019-08-20 LOD2-SP003 Yu-Gi-Oh! Legacy of the Duelist: Link Evolution promotional cards Yu-Gi-Oh! Legacy of the Duelist: Link Evolution Super Rare 2020-06-18 TOCH-SP058 Toon Chaos Caos Toon Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2018-06-23 SD34-JP024 Structure Deck: Master Link ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －マスター・リンク－ Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2018-10-16 SD34-KR024 Structure Deck: Master Link STRUCTURE   DECK  -마스터 링크- Super Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Cyberse 
+ 
+ Archetypes  and  series   
+ Cynet 
+ 
+ Supports   archetypes   
+ Code Talker  
+ 
+ Actions  
+ Activates upon Special Summon 
+ Adds from Deck to hand 
+ 
+ Summoning  categories  
+ Restricts the player's Special Summons from the Extra Deck 
+ Restricts the player's Special Summons to Type specific monsters 
+ 
+ Miscellaneous  
+ Limited activations in a Chain 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 13877 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Cynet Codec " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Code Talker " 「コード・トーカー」 Members 
+ Accesscode Talker Code Talker Code Talker Inverted Decode Talker Decode Talker Extended Decode Talker Heatsoul Encode Talker Excode Talker Powercode Talker Protectcode Talker Shootingcode Talker Transcode Talker 
+ Support 
+ Code Exporter Code Generator Code Radiator Micro Coder Talkback Lancer 
+ Cynet Codec Cynet Conflict Cynet Optimization Limit Code Recoded Alive 
+ Related 
+ Decode Destruction 
+ 
+   
+" Cynet " 「サイバネット」 Members 
+ Cynet Backdoor Cynet Cascade Cynet Circuit Cynet Codec Cynet Conflict Cynet Crosswipe Cynet Fusion Cynet Mining Cynet Optimization Cynet Recovery Cynet Refresh Cynet Regression Cynet Ritual Cynet Rollback Cynet Storm Cynet Universe 
+ Support 
+ Cyberse Reminder Firewall Phantom Micro Coder 
+ Related 
+ Clock Spartoi Cyberse Magician Cyberse Sage Cyberse Witch Diplexer Chimera Paladin of Storm Dragon 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/1a/CynetCodec-LOD2-EN-SR-UE.png/revision/latest/scale-to-width-down/300?cb=20190827024309', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Duel Monsters cards, TCG cards, OCG cards

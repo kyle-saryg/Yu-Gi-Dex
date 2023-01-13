@@ -1,0 +1,344 @@
+Link: https://yugioh.fandom.com/wiki/Stinging_Swordsman
+
+The  Croatian, Portuguese, Thai  and  Turkish                     names given are not official.  ( card names ) 
+ The  Portuguese                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Stinging Swordsman 針 剣 士 
+ 
+ English 
+Stinging Swordsman 
+ French 
+ Spadassin Piquant Check translation 
+ German 
+ Pieksende Schwertkämpferin Check translation 
+ Italian 
+ Spadaccino Pungente Check translation 
+ Korean 
+ 바늘 검사 Check translation 
+ Portuguese 
+ Espadachim Agulha Check translation 
+ Spanish 
+ Espadachín Picador Check translation 
+ Japanese (kana) 
+ はりけんし Check translation 
+ Japanese (base) 
+ 針剣士 Check translation 
+ Japanese ( rōmaji ) 
+Harikenshi 
+ Japanese (translated) 
+Needle Swordsman 
+ Card type 
+ Monster   
+ Attribute 
+ WIND   
+ Types 
+ Warrior  /  Effect 
+ Level 
+ 1   
+ ATK  /  DEF 
+ 300  /  600 
+ Passcode 
+ 68167124 
+ Card effect types 
+ 
+ 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When this card inflicts  Battle Damage  to your opponent:  Return  all  face-up  cards in your opponent's  Spell & Trap Card Zones  to the  hand . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Lorsque cette carte inflige des dommages de combat à votre adversaire : renvoyez toutes les cartes face recto dans les Zones Carte Magie & Piège de votre adversaire à la main. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wenn diese Karte deinem Gegner Kampfschaden zufügt: Gib alle offenen Karten in den Zauber- & Fallenkartenzonen deines Gegners auf die Hand zurück. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando questa carta infligge danno da combattimento al tuo avversario: fai ritornare nella mano tutte le carte scoperte nelle Zone Carte Magia & Trappola del tuo avversario. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Quando esta carta inflije Dano de Batalho ao seu oponente: Retorne todas as Cartas Mágicas e Armadilhas viradas para cima que o seu oponente controla para a mão. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando esta carta inflige  daño de batalla  a tu adversario:  devuelve  a la mano todas las cartas  boca arriba  en la  Zona de Cartas Mágicas/de Trampa  de tu adversario. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードが相手ライフに戦闘ダメージを与えた時、相手の魔法＆罠カードゾーンに表側表示で存在するカードを全て持ち主の手札に戻す。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드가 상대 라이프에 전투 데미지를 주었을 때, 상대의 마법 & 함정 카드 존에 앞면 표시로 존재하는 카드를 전부 주인의 패로 되돌린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2011-11-10  
+ PHSW-EN004   
+ Photon Shockwave 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2011-11-10  
+ PHSW-FR004   
+ Photon Shockwave 
+ Onde de Choc du Photon  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2011-11-10  
+ PHSW-DE004   
+ Photon Shockwave 
+ Photon Shockwave  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2011-11-10  
+ PHSW-IT004   
+ Photon Shockwave 
+ Onda D'Urto Fotonica  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2011-11-10  
+ PHSW-SP004   
+ Photon Shockwave 
+ Onda de Choque de Fotones  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2011-07-16  
+ PHSW-JP004   
+ Photon Shockwave 
+ ＰＨＯＴＯＮ ＳＨＯＣＫＷＡＶＥ  
+ Common 
+ 
+ 
+ 2011-10-15  
+ DP12-JP007   
+ Duelist Pack: Yuma Edition 
+ デュエリストパック －遊馬編－  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2011-11-02  
+ PHSW-KR004   
+ Photon Shockwave 
+ 빛의 충격파  
+ Common 
+ 
+ 
+ 2012-01-03  
+ DP12-KR007   
+ Duelist Pack: Yuma Edition 
+ 듀얼리스트 팩 —유마 편—  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Actions  
+ Returns from your opponent's field to your opponent's hand 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 9722 ( ja  ( rulings )   en   fr   de   it   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Stinging Swordsman " pages 
+ 
+ 
+ Anime Manga 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a6/StingingSwordsman-PHSW-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20120720033042', 'https://static.wikia.nocookie.net/yugioh/images/0/01/WIND.svg/revision/latest/scale-to-width-down/28?cb=20170920205028', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836']
+Categories: Duel Monsters cards, TCG cards, OCG cards

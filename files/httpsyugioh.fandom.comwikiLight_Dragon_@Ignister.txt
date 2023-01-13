@@ -1,0 +1,265 @@
+Link: https://yugioh.fandom.com/wiki/Light_Dragon_@Ignister
+
+
+ 
+ 
+ Light Dragon @Ignister ライトドラゴン ＠ イグニスター 
+ 
+ English 
+Light Dragon @Ignister 
+ French 
+ Dragon de Lumière @Ignister Check translation 
+ German 
+ Lichtdrache @Ignister Check translation 
+ Italian 
+ Drago del Fulmine @Ignister Check translation 
+ Korean 
+ 라이트드래곤 ＠ 이그니스터 Check translation 
+ Portuguese 
+ Dragão de Luz @Ignister Check translation 
+ Spanish 
+ Dragón de Luz @Ignister Check translation 
+ Japanese (kana) 
+ ライトドラゴンアットイグニスター Check translation 
+ Japanese (base) 
+ ライトドラゴン＠イグニスター Check translation 
+ Japanese ( rōmaji ) 
+Raito Doragon Atto Igunisutā 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Cyberse  /  Xyz  /  Effect 
+ Rank 
+ 4   
+ ATK  /  DEF 
+ 2300  /  1500 
+ Passcode 
+ 61399402 
+ Materials 
+2  Level  4 monsters2  Level  4 monsters| 
+ Card effect types 
+ 
+ 
+ Ignition 
+ Trigger 
+ Unclassified Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+2  Level  4  monsters If a monster(s) you  control  would be  destroyed  by  card effect , you can  detach  1  material  from this card instead. You can only use each of the following effects of "Light Dragon @Ignister"  once per turn . ● You can detach 1 material from this card; destroy  face-up  monsters your opponent  controls , up to the number of " @Ignister " monsters you control. ● When another  Cyberse  monster you control inflicts  battle damage  to your opponent: You can Special Summon 1  Link Monster  from your  GY . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 2 monstres de Niveau 4 Si un ou plusieurs monstres que vous contrôlez vont être détruits par un effet de carte, vous pouvez détacher 1 Matériel de cette carte à la place. Vous ne pouvez utiliser chacun des effets suivants de "Dragon de Lumière @Ignister" qu'une fois par tour. ● Vous pouvez détacher 1 Matériel de cette carte ; détruisez un nombre de monstres face recto contrôlés par votre adversaire, inférieur ou égal au nombre de monstres "@Ignister" que vous contrôlez. ● Lorsqu'un autre monstre Cyberse que vous contrôlez inflige des dommages de combat à votre adversaire : vous pouvez Invoquer Spécialement 1 Monstre Lien depuis votre Cimetière. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 2 Monster der Stufe 4 Falls ein oder mehr Monster, die du kontrollierst, durch einen Karteneffekt zerstört würden, kannst du stattdessen 1 Material von dieser Karte abhängen. Du kannst jeden der folgenden Effekte von „Lichtdrache @Ignister“ nur einmal pro Spielzug verwenden. ● Du kannst 1 Material von dieser Karte abhängen; zerstöre offene Monster, die dein Gegner kontrolliert, bis zur Anzahl der „@Ignister“-Monster, die du kontrollierst. ● Wenn ein anderes Cyberse-Monster, das du kontrollierst, deinem Gegner Kampfschaden zufügt: Du kannst 1 Linkmonster als Spezialbeschwörung von deinem Friedhof beschwören. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 2 mostri di Livello 4 Se uno o più mostri che controlli stanno per essere distrutti dall'effetto di una carta, puoi invece staccare 1 materiale da questa carta. Puoi utilizzare ognuno dei seguenti effetti di "Drago del Fulmine @Ignister" una sola volta per turno. ● Puoi staccare 1 materiale da questa carta; distruggi mostri scoperti controllati dal tuo avversario, fino al numero di mostri "@Ignister" che controlli. ● Quando un altro mostro Cyberso che controlli infligge danno da combattimento al tuo avversario: puoi Evocare Specialmente 1 Mostro Link dal tuo Cimitero. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 2 monstros de Nível 4 Se um ou mais monstros que você controla seriam destruídos por um efeito de card, em vez disso, você pode desassociar 1 matéria deste card. Você só pode usar cada um dos seguintes efeitos de "Dragão de Luz @Ignister" uma vez por turno. ● Você pode desassociar 1 matéria deste card; destrua monstros com a face para cima que seu oponente controla, até o número de monstros "@Ignister" que você controla. ● Quando outro monstro Ciberso que você controla causar dano de batalha ao seu oponente: você pode Invocar por Invocação-Especial 1 Monstro Link do seu Cemitério. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 2 monstruos de Nivel 4 Si uno o más monstruos que controlas fueran a ser destruidos por el efecto de una carta, puedes desacoplar 1 material de esta carta en su lugar. Sólo puedes usar cada uno de los siguientes efectos de "Dragón de Luz @Ignister" una vez por turno. ● Puedes desacoplar 1 material de esta carta; destruye monstruos boca arriba que controle tu adversario, hasta el número de monstruos "@Ignister" que controlas. ● Cuando otro monstruo Ciberso que controles inflija daño de batalla a tu adversario: puedes Invocar de Modo Especial, desde tu Cementerio, 1 Monstruo de Enlace. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ レベル４モンスター×２ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードの Ｘ 素材を１つ取り除いて発動できる。自分フィールドの「＠イグニスター」モンスターの数まで、相手フィールドの表側表示モンスターを選んで破壊する。②：このカード以外の自分のサイバース族モンスターが相手に戦闘ダメージを与えた時に発動できる。自分の墓地からリンクモンスター１体を選んで特殊召喚する。③：自分フィールドのモンスターが効果で破壊される場合、代わりのこのカードの Ｘ 素材を１つ取り除く事ができる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 레벨 4 몬스터 × 2 이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드의 엑시즈 소재를 1개 제거하고 발동할 수 있다. 자신 필드의 "＠(앳)이그니스터" 몬스터의 수까지, 상대 필드의 앞면 표시 몬스터를 고르고 파괴한다. ②: 이 카드 이외의 자신의 사이버스족 몬스터가 상대에게 전투 데미지를 주었을 때에 발동할 수 있다. 자신 묘지에서 링크 몬스터 1장을 고르고 특수 소환한다. ③: 자신 필드의 몬스터가 효과로 파괴될 경우, 대신에 이 카드의 엑시즈 소재를 1개 제거할 수 있다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2020-01-30 IGAS-EN044 Ignition Assault Super Rare 2021-09-30 MP21-EN016 2021 Tin of Ancient Battles Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2020-01-30 IGAS-FR044 Ignition Assault l'Assaut de l'Ignition Super Rare 2021-09-30 MP21-FR016 2021 Tin of Ancient Battles Boîte des Batailles Anciennes 2021 Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2020-01-30 IGAS-DE044 Ignition Assault Ignition Assault Super Rare 2021-09-30 MP21-DE016 2021 Tin of Ancient Battles 2021 Tin of Ancient Battles Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2020-01-30 IGAS-IT044 Ignition Assault Assalto Accensione Super Rare 2021-09-30 MP21-IT016 2021 Tin of Ancient Battles Tin delle Battaglie Antiche 2021 Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2020-01-30 IGAS-PT044 Ignition Assault Ataque de Ignição Super Rare 2021-09-30 MP21-PT016 2021 Tin of Ancient Battles Lata das Batalhas Antigas 2021 Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2020-01-30 IGAS-SP044 Ignition Assault Asalto Ignición Super Rare 2021-09-30 MP21-SP016 2021 Tin of Ancient Battles 2021 Lata de Antiguas Batallas Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2019-10-12 IGAS-JP044 Ignition Assault イグニッション・アサルト Ultra Rare 2019-10-12 IGAS-JP044 Ignition Assault イグニッション・アサルト Secret Rare 2019-10-12 IGAS-JP044 Ignition Assault イグニッション・アサルト Ultimate Rare 2019-10-12 IGAS-JP044 Ignition Assault イグニッション・アサルト Holographic Rare 2019-10-12 IGAS-JP044 Ignition Assault イグニッション・アサルト 20th Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2020-01-10 IGAS-KR044 Ignition Assault 이그니션 어썰트 Ultra Rare 2020-01-10 IGAS-KR044 Ignition Assault 이그니션 어썰트 Secret Rare 2020-01-10 IGAS-KR044 Ignition Assault 이그니션 어썰트 Ultimate Rare 2020-01-10 IGAS-KR044 Ignition Assault 이그니션 어썰트 Holographic Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Cyberse 
+ Link Monster 
+ 
+ Archetypes  and  series   
+ @Ignister 
+ 
+ Supports   archetypes   
+ @Ignister 
+ 
+ Actions  
+ Detaches Xyz Materials for effect 
+ 
+ Monster / Spell / Trap  categories  
+ Cannot be destroyed by card effects 
+ Destroys your opponent's face-up Monster Cards 
+ 
+ Summoning  categories  
+ 2 Xyz Materials 
+ Does not require specific Xyz Materials 
+ Special Summons from your Graveyard 
+ 
+ Miscellaneous  
+ Only once per turn 
+ Cover card 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14853 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Light Dragon @Ignister " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" @Ignister " 「 ＠ イグニスター」 Members 
+ Achichi @Ignister The Arrival Cyberse @Ignister Bururu @Ignister Danmari @Ignister Dark Infant @Ignister Dark Templar @Ignister Donyoribo @Ignister Doshin @Ignister Doyon @Ignister Earth Golem @Ignister Fire Phoenix @Ignister Gatchiri @Ignister Gussari @Ignister Hiyari @Ignister Light Dragon @Ignister Pikari @Ignister Water Leviathan @Ignister Wind Pegasus @Ignister 
+ Support 
+ Achichi @Ignister The Arrival Cyberse @Ignister Bururu @Ignister Danmari @Ignister Dark Infant @Ignister Dark Templar @Ignister Donyoribo @Ignister Doshin @Ignister Doyon @Ignister Fire Phoenix @Ignister Hiyari @Ignister Light Dragon @Ignister Linguriboh Pikari @Ignister Wind Pegasus @Ignister 
+ A.I. Challenge You A.I. Love Fusion A.I. Meet You A.I. Shadow A.I.'s Ritual A.I.'s Show A.I.Q A.I.dle Reborn FA.I.ghting Spirit Ignister A.I.Land TA.I. Strike 
+ Related 
+ Linkuriboh 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/31/LightDragon%40Ignister-MP21-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20211030004607', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/9/9d/Rank_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052957', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,39 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_Forbidden_Memories_Gameplay
+
+The mechanics of this game differ from the  Yu-Gi-Oh! Trading Card Game , because this game was produced at the same time as the card game was being adapted from the manga, so the rules used are some one of the original rules considered for the TCG. These differences are also contiguous with the PS2 game  Yu-Gi-Oh! The Duelists of the Roses , but are not the same. The main differences are:
+ 
+ All  Monster Cards  in this game are  Normal Monster Cards . 
+ With the exception of  Ritual Summons , you are not required to  Tribute  monsters to  Normal Summon  Level 5 or higher monsters (just like in the  Duelist Kingdom  arc of the anime). 
+ A card can be placed either  face-up  or  face-down , in either  Attack  or  Defense Position . A monster can even be played in  face-down   Attack Position . 
+ The player cannot control the activation of his/her  Trap Cards  (almost akin to "implied" rules for  Trap Cards  in the  second series anime ). A  Trap Card  will activate as soon as its conditions for activation are met. 
+ A  Main Deck  must consist of exactly 40 cards. 
+       An example of a player going to fuse two monsters. Note that the two cards are "raised".     
+ At the start of each player's turn, he/she  draws  from his or her  Deck  until his/her  hand  consists of five cards; if he/she cannot, the player loses the duel. 
+ The player must play at least one card after drawing. This must be either a single card or a fusion/Equipment. After playing this card(s), the player cannot play any more cards from their hand for that turn. 
+ Cards can be "fused" in the hand without the card " Polymerization "; the player can fuse any amount of his/her cards together and in any order, but the chance of a "successful" fusion (where a new  Monster ,  Spell  or  Trap Card  is made, or when a monster is strengthened) depends on the cards that the player is fusing and the order of the cards used. Only two cards can be fused at once, so monsters that require three monsters to create (such as Blue-Eyes Ultimate Dragon or Gate Guardian) require a Ritual to be used instead. 
+ When any  Spell  or  Trap Card  is equipped to a monster that is not compatible, the  Spell  or  Trap Card  is  discarded  and the monster is unaffected. 
+ After a fusion, cards can only be played  face-up , but you can still select  Attack  or  Defense Position . 
+ Monster Cards must select one of two "Guardian Stars", which allow a monster to gain five hundred  ATK  and  DEF  points if it has chosen a superior alignment against its opposing card; these alignments are taken directly from cosmic bodies and are arranged as follows (> means "is superior to"):
+ Mercury > Sun > Moon > Venus > Mercury 
+ Mars > Jupiter  > Saturn > Uranus > Pluto > Neptune > Mars 
+ The following example is used in the manual: "when " Gaia the Dragon Champion " (AP:2600) chooses Mercury and attacks " Blue-Eyes White Dragon " (AP:3000 and in attack position, with Sun as the alignment), "Gaia" has his AP increased to 3100, making it possible to defeat " Blue-Eyes White Dragon ".
+ 
+ The Guardian Stars selected represent the  Attribute  and the  Type  of the monster. In the 3-D battle sequence the attack the monster uses depends on the guardian star selected. For example when you summon  Meteor B. Dragon  you are given the choice of Sun or Mars. Choosing Mars will cause  Meteor B. Dragon  to use a  Fire  Attack and give it an attack bonus against Jupiter (typically plant-type) monsters. If the player chooses Sun instead, " Meteor B. Dragon " will use a  Light  Attack with an attack bonus against the Moon.
+ Mercury typically represents  Dark   Spellcasters  and  Dark   Warriors . 
+ Sun typically represents  Light  monsters, such as  Fairies . 
+ Moon typically represents  Dark  monsters, such as  Fiends  and  Zombies . 
+ Venus typically represents "Illusory" monsters (most of them are  Spellcasters ,  Fiends  or  Fairies ) 
+ Mars typically represents  Fire  monsters. 
+ Jupiter typically represents  Forest  creatures, such as  Beasts ,  Beast-Warriors ,  Insects  and  Plants . 
+ Saturn typically represents  Wind  monsters 
+ Uranus typically represents  Rock  monsters and  Earth   Warriors . 
+ Pluto typically represents  Machines  and  Thunder -type monsters. 
+ Neptune typically represents  Water  monsters. 
+ During the Battle Phase, after attacking and before damage is calculated, pressing square will take the player to a polygonic action battle screen. 
+ Cards that cannot be used at that time are darkened (once a monster has attacked, its card darkens.) 
+ Pressing start will end the player's turn. 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/05/YugiohFM_Fusion.jpg/revision/latest/scale-to-width-down/180?cb=20070805010751']
+Categories: Yu-Gi-Oh! Forbidden Memories

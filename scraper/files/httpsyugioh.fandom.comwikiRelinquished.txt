@@ -1,0 +1,419 @@
+Link: https://yugioh.fandom.com/wiki/Relinquished
+
+The  Arabic, Chinese, Croatian  and  Greek                     names given are not official.  ( card names ) 
+ The  Chinese                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Relinquished サクリファイス 
+ 
+ English 
+Relinquished 
+ Chinese 
+ 納祭之魔 Check translation 
+ French 
+ Le Renoncé Check translation 
+ German 
+ Aufgegeben Check translation 
+ Italian 
+ Abbandono Check translation 
+ Korean 
+ 새크리파이스 Check translation 
+ Portuguese 
+ Renunciado Check translation 
+ Spanish 
+ Renunciado Check translation 
+ Japanese 
+ サクリファイス Check translation 
+ Japanese ( rōmaji ) 
+Sakurifaisu 
+ Japanese (translated) 
+Sacrifice 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Spellcaster  /  Ritual  /  Effect 
+ Level 
+ 1   
+ ATK  /  DEF 
+ 0  /  0 
+ Passcode 
+ 64631466 
+ Ritual Spell Card  required 
+ 
+ 
+ " Black Illusion Ritual "  
+ Card effect types 
+ 
+ 
+ Summon 
+ Ignition 
+ Continuous 
+ Continuous 
+ Continuous Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+You can  Ritual Summon  this card with " Black Illusion Ritual ".  Once per turn : You can  target  1  monster  your opponent  controls ;  equip  that target to this card (max. 1). This card's  ATK / DEF  become equal to that equipped monster's. If this card would be  destroyed by battle ,  destroy  that equipped monster instead. While equipped with that monster, any  battle damage  you take from  battles  involving this card inflicts equal  effect damage  to your opponent. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Vous pouvez Invoquer Rituellement cette carte avec "Rituel de la Noire Illusion". Une fois par tour : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; équipez la cible à cette carte (max. 1). L'ATK/DEF de cette carte deviennent égales à celles du monstre équipé. Si cette carte va être détruite au combat, détruisez le monstre équipé à la place. Tant qu'elle est équipée avec le monstre, les dommages de combat que vous recevez de combats impliquant cette carte infligent des dommages d'effet équivalents à votre adversaire. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Du kannst diese Karte mit „Schwarze-Illusion-Ritual“ als Ritualbeschwörung beschwören. Einmal pro Spielzug: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; rüste diese Karte mit dem gewählten Ziel aus (max. 1). Die ATK/DEF dieser Karte werden dieselben wie die des ausrüstenden Monsters. Falls diese Karte durch Kampf zerstört würde, zerstöre stattdessen das ausrüstende Monster. Solange diese Karte mit dem Monster ausgerüstet ist, fügt jeglicher Kampfschaden, den du aus Kämpfen erhältst, an denen diese Karte beteiligt ist, deinem Gegner genauso viel Effektschaden zu. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Puoi Evocare tramite Rituale questa carta con "Rito Illusione Nera". Una volta per turno: puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario; equipaggia quel bersaglio a questa carta (massimo 1). L'ATK/DEF di questa carta diventano pari a quelli di quel mostro equipaggiato. Se questa carta sta per essere distrutta in battaglia, distruggi invece quel mostro equipaggiato. Mentre è equipaggiato con quel mostro, qualsiasi danno da combattimento che subisci da battaglie che coinvolgono questa carta infligge pari danno da effetto al tuo avversario. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Você pode Invocar este card por Invocação-Ritual com "Ritual de Ilusão Negra". Uma vez por turno: você pode escolher 1 monstro que seu oponente controla; equipe o alvo a este card (máx. 1). O ATK/DEF deste card se tornam iguais aos do monstro equipado. Se este card seria destruído em batalha, em vez disso, destrua o monstro equipado. Enquanto estiver equipado com esse monstro, qualquer dano de batalha que você sofrer de batalhas envolvendo este card causa o mesmo dano de efeito ao seu oponente. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Puedes Invocar esta carta por Ritual con "Ritual de la Ilusión Negra". Una vez por turno: puedes seleccionar 1 monstruo que controle tu adversario; equipa ese objetivo a esta carta (máx. 1). El ATK/DEF de esta carta se convierte en el ATK/DEF de ese monstruo equipado. Si esta carta fuera a ser destruida en batalla, destruye ese monstruo equipado en su lugar. Mientras esté equipada con ese monstruo, cualquier daño de batalla que recibas de batallas que involucren esta carta inflige igual daño de efecto a tu adversario. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「イリュージョンの儀式」により降臨。①：１ターンに１度、相手フィールドのモンスター１体を対象として発動できる。その相手モンスターを装備カード扱いとしてこのカードに装備する（１体のみ装備可能）。②：このカードの攻撃力・守備力は、このカードの効果で装備したモンスターのそれぞれの数値になり、このカードが戦闘で破壊される場合、代わりに装備したそのモンスターを破壊する。③：このカードの効果でモンスターを装備したこのカードの戦闘で自分が戦闘ダメージを受けた時、相手も同じ数値分の効果ダメージを受ける。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 儀式：「幻想的儀式」降臨。 １回合１次，可以選擇對方場上存在的１隻怪獸，當作裝備卡使用只有１隻給這張卡裝備。這張卡的攻擊力·守備力變成這張卡的效果裝備的怪獸的各自數值。因這個效果有怪獸裝備的場合，給予對方基本分和自己受到的戰鬥傷害相同的傷害。此外，這張卡被戰鬥破壞的場合，作為代替把這張卡的效果裝備的怪獸破壞。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "환술의 의식"에 의해 의식 소환. ①: 1턴에 1번, 상대 필드의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 상대 몬스터를 장착 카드로 취급하여 이 카드에 장착한다(1장만 장착 가능). ②: 이 카드의 공격력 / 수비력은, 이 카드의 효과로 장착한 몬스터 각각의 수치가 되고, 이 카드가 전투로 파괴될 경우, 대신에 장착한 그 몬스터를 파괴한다. ③: 이 카드의 효과로 몬스터를 장착한 이 카드의 전투로 자신이 전투 데미지를 받았을 때, 상대도 같은 수치만큼의 효과 데미지를 받는다. 
+ 
+ 
+ 
+ 
+ 
+   The Eternal Duelist Soul 
+ 
+ 
+This  monster  can take on the  ATK  and  DEF  of 1 opponent's monster on the  field  (a  face-down  monster results in an ATK and DEF of 0. Treat the selected monster as an  Equip Magic Card  and use it to  equip  "Relinquished". You may use this  effect  only once per  turn  and can equip "Relinquished" with only 1 monster at a time. When your opponent's monster  attacks  this monster with an ATK higher than "Relinquished", the equipped monster is  destroyed  instead of "Relinquished". 
+ 
+ 
+ 
+ 
+ 
+   The Sacred Cards 
+ 
+ 
+A horrifying  monster  that has a single malevolent  eye . It can steal the abilities of a monster on the foe's  field . 
+ 
+ 
+ 
+ 
+ 
+   GX Duel Academy 
+ 
+ 
+This monster can take on the ATK and DEF of 1 opponent's monster on the field (a face-down monster results in an ATK and DEF of 0). Treat the selected monster as an Equip Spell Card and use it to equip "Relinquished". You may use this effect only once per turn and can equip "Relinquished" with only 1 monster at a time. When your opponent's monster attacks this monster with an ATK higher than "Relinquished", the equipped monster is destroyed instead of "Relinquished". Any Life Point damage you receive from the attacking monster when "Relinquished" is equipped is also inflicted on your opponent. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ Release date Card code Set Rarity 2002-09-16 SRL-EN029 Spell Ruler Ultra Rare 2004-10-12 DB1-EN015 Dark Beginning 1 Super Rare 2004-12-01 MC1-EN003 Master Collection Volume 1 Secret Rare 2012-09-29 LCYW-EN113 Legendary Collection 3: Yugi's World Mega Pack Rare 2016-04-14 MIL1-EN008 Millennium Pack Common 2018-02-22 LED2-EN000 Legendary Duelists: Ancient Millennium Common 2020-07-02 LDS1-EN047 Legendary Duelists: Season 1 Common 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ Release date Card code Set Rarity MRL-029 Magic Ruler Ultra Rare September 16, 2002 SRL-029 Spell Ruler Ultra Rare March 30, 2003 SDP-001 Starter Deck: Pegasus Ultra Rare November 21, 2008 DLG1-EN055 Dark Legends Super Rare 
+ 
+ 
+ 
+ 
+ 
+   English—Europe 
+ 
+ 
+ Release date Card code Set Rarity MRL-E029 Spell Ruler Ultra Rare 2008-07-08 RP01-EN054 Retro Pack Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2002-09-16 MDM-F029 Spell Ruler Maître des Magies Ultra Rare 2003-03-30 DDP-F001 Starter Deck: Pegasus Deck de Démarrage: Pegasus Ultra Rare 2008-07-08 RP01-FR054 Retro Pack Retro Pack Ultra Rare 2012-09-27 LCYW-FR113 Legendary Collection 3: Yugi's World Mega Pack Collection Légendaire 3: Le Monde de Yugi Méga Pack Rare 2016-04-14 MIL1-FR008 Millennium Pack Pack du Millenium Common 2018-02-22 LED2-FR000 Legendary Duelists: Ancient Millennium Duellistes Légendaires : L'ancien Millenaire Common 2020-07-02 LDS1-FR047 Legendary Duelists: Season 1 Duellistes Légendaires : Saison 1 Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2002-09-16 SRL-G029 Spell Ruler Spell Ruler Ultra Rare 2003-03-30 SDP-G001 Starter Deck: Pegasus Starter Deck: Maximillion Pegasus Ultra Rare 2004-12-17 DB1-DE015 Dark Beginning 1 Dark Beginning 1 Super Rare 2008-07-08 RP01-DE054 Retro Pack Retro Pack Ultra Rare 2012-09-27 LCYW-DE113 Legendary Collection 3: Yugi's World Mega Pack Legendary Collection 3: Mega Pack Rare 2016-04-14 MIL1-DE008 Millennium Pack Millennium Pack Common 2018-02-22 LED2-DE000 Legendary Duelists: Ancient Millennium Legendary Duelists: Ancient Millennium Common 2020-07-02 LDS1-DE047 Legendary Duelists: Season 1 Legendary Duelists: Season 1 Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2002-10-21 SDM-I029 Spell Ruler Sovrano della Magia Ultra Rare 2003-03-30 MIP-I001 Starter Deck: Pegasus Mazzo Introduttivo: Pegasus Ultra Rare 2008-07-08 RP01-IT054 Retro Pack Retro Pack Ultra Rare 2012-09-27 LCYW-IT113 Legendary Collection 3: Yugi's World Mega Pack Collezione Leggendaria 3 Mega-Pack Rare 2016-04-14 MIL1-IT008 Millennium Pack Millennium Pack Common 2018-02-22 LED2-IT000 Legendary Duelists: Ancient Millennium Duellanti Leggendari: Antico Millennio Common 2020-07-02 LDS1-IT047 Legendary Duelists: Season 1 Duellanti Leggendari: Stagione 1 Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity DIP-P001 Starter Deck: Pegasus Deck Inicial do Pegasus Ultra Rare 2016-04-14 MIL1-PT008 Millennium Pack Pacote do Milênio Common 2018-02-22 LED2-PT000 Legendary Duelists: Ancient Millennium Duelistas Lendários: Antigo Milênio Common 2020-07-02 LDS1-PT047 Legendary Duelists: Season 1 Duelistas Lendários: Temporada 1 Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2002-09-16 SDH-S029 Spell Ruler Señor de Hechizos Ultra Rare 2003-03-30 BIP-S001 Starter Deck: Pegasus Baraja de Inicio: Pegasus Ultra Rare 2004-12-01 DB1-SP015 Dark Beginning 1 Principio Oscuro 1 Super Rare 2012-09-27 LCYW-SP113 Legendary Collection 3: Yugi's World Mega Pack Colección Legendaria 3: El Mundo de Yugi Mega Pack Rare 2016-04-14 MIL1-SP008 Millennium Pack Sobre Milenio Common 2018-02-22 LED2-SP000 Legendary Duelists: Ancient Millennium Duelistas Legendarios: Antiguo Milenio Common 2020-07-02 LDS1-SP047 Legendary Duelists: Season 1 Duelistas Legendarios: Temporada 1 Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2000-04-20 MR-29 Magic Ruler (Japanese) － 魔法の支配者 － Ultra Rare 2000-04-20 MR-29 Magic Ruler (Japanese) － 魔法の支配者 － Ultra Parallel Rare 2002-03-21 PE-22 Structure Deck: Pegasus ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ － ペガサス・Ｊ・クロフォード編 － Common 2002-06-20 DL1-018 Duelist Legacy Volume.1 ＤＵＥＬＩＳＴ　ＬＥＧＡＣＹ　Ｖｏｌｕｍｅ．１ Ultra Rare 2002-06-20 DL1-018 Duelist Legacy Volume.1 ＤＵＥＬＩＳＴ　ＬＥＧＡＣＹ　Ｖｏｌｕｍｅ．１ Ultra Parallel Rare 2004-06-24 BE1-JP015 Beginner's Edition 1 ＢＥＧＩＮＮＥＲ'Ｓ ＥＤＩＴＩＯＮ １ Super Rare 2011-05-14 BE01-JP013 Beginner's Edition 1 (2011) ＢＥＧＩＮＮＥＲ＇Ｓ　ＥＤＩＴＩＯＮ　１　［　２０１１　］ Ultra Rare 2015-12-19 MP01-JP011 Millennium Pack (OCG) ＭＩＬＬＥＮＮＩＵＭ　ＰＡＣＫ Millennium Super Rare 2017-11-11 DP19-JP000 Duelist Pack: Legend Duelist 2 デュエリストパック －レジェンドデュエリスト編２－ Holographic Rare 2020-12-19 PGB1-JP026 Prismatic God Box ＰＲＩＳＭＡＴＩＣ　ＧＯＤ　ＢＯＸ Millennium Rare 
+ 
+ 
+ 
+ 
+ 
+   Asian-English 
+ 
+ 
+ Release date Card code Set Rarity MRL-029 Magic Ruler Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2004-05-07 SRL-K029 Spell Ruler 마법의 지배자 Ultra Rare 2004-08-16 SDP-KR001 Starter Deck: Pegasus ＳＴＡＲＴＥＲ ＤＥＣＫ  － 페가수스 편 － Ultra Rare 2006-04-11 BP1-KR015 Beginner's Edition 1 비기너즈 팩 Vol.1 Super Rare 2016-09-06 MP01-KR011 Millennium Pack (OCG) MILLENNIUM PACK Millennium Super Rare 2018-02-08 DP19-KR000 Duelist Pack: Legend Duelist 2 듀얼리스트 팩 -레전드 듀얼리스트 편 2- Secret Rare 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Nightmare Troubadour 
+ 
+ 
+ Cursed Darkness  ( Ultra Rare ) 
+ 
+ 
+ 
+ 
+ 
+   Online 
+ 
+ 
+ Pack 15 
+ 
+ 
+ 
+ 
+ 
+   GX Duel Academy 
+ 
+ 
+ Rituals  ( Rare )
+ Invitation to the Dark  ( Rare )
+ Spellcaster's Dance  ( Rare )
+ 
+ Dorothy's Gift  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+ Spell Ruler  ( Super Rare )
+ Spellcaster Collection A  ( Common )
+ 
+ All at Random  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   GX Tag Force 
+ 
+ 
+ Never Give Up  ( Super Rare ) 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Relinquished  
+ 
+ Related to  archetypes  and  series   
+ Eyes Restrict 
+ Fusion  
+ 
+ Actions  
+ Equips monsters from the opponent's field to itself 
+ 
+ Stat changes  
+ Changes own ATK value 
+ Changes own DEF value 
+ 
+ Monster / Spell / Trap  categories  
+ Treats monsters as Equip Cards 
+ Redirects destruction 
+ 
+ LP   
+ Damages your opponent 
+ 
+ Fusion Material  for  
+ Millennium-Eyes Restrict 
+ Thousand-Eyes Restrict 
+ 
+ Miscellaneous  
+ Limited activations 
+ Cover card 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 4737 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Duel Monsters III: Tri-Holy God Advent  /  Dark Duel Stories 2000-07-13 731 ??? ??? ??? ??? Present Duel Monsters 4: Battle of Great Duelist 2000-12-07 731 – – – – – Present Duel Monsters 7: The Duelcity Legend  /  The Sacred Cards 2002-07-04 731   ??? ??? ??? ??? Unlimited The Eternal Duelist Soul 2002-10-15 – – – – – Unlimited Nightmare Troubadour 2005-07-21 – ??? – – – Unlimited Online 2005-11-04 – – – – – Unlimited GX Duel Academy 2005-11-13 0332 1000 – – – Unlimited Ultimate Masters: World Championship Tournament 2006 2006-02-23 – ??? – – – Unlimited GX Tag Force 2006-09-14 – ??? – – – Unlimited 
+ 
+ 
+ 
+   " Relinquished " pages 
+ 
+ 
+ Anime Manga Yu-Gi-Oh! Destiny Board Traveler Yu-Gi-Oh! Dungeon Dice Monsters Yu-Gi-Oh! Dungeon Dice Monsters (video game) 
+ 
+ 
+ 
+   
+" Eyes Restrict " 「アイズ・サクリファイス」 Members 
+ Millennium-Eyes Restrict Thousand-Eyes Restrict 
+ Support 
+ Golden-Eyes Idol Illusionist Faceless Magician Millennium-Eyes Illusionist 
+ Relinquished Fusion 
+ Related 
+ Illusionist Faceless Mage Relinkuriboh Relinquished Relinquished Anima Thousand-Eyes Idol 
+ Black Illusion Ritual 
+ 
+   
+" Fusion " 「フュージョン」 Members 
+ Greedy Venom Fusion Dragon Purple Poison Magician Starving Venom Fusion Dragon Starving Venom Predapower Fusion Dragon 
+ Absorb Fusion Ancient Gear Fusion Battle Fusion Brilliant Fusion Confusion Chaff Cyberload Fusion Cybernetic Fusion Support Cynet Fusion D-Fusion Dark Fusion Dowsing Fusion El Shaddoll Fusion Final Fusion Fossil Fusion Fragment Fusion Frightfur Fusion Fullmetalfoes Fusion Fusion Destiny Fusion Fright Waltz Fusion Gate Fusion Guard Fusion Recovery Fusion Reserve Fusion Tag Fusion Weapon Fusion of Fire Future Fusion Gem-Knight Fusion Ghost Fusion Instant Fusion Lunalight Fusion Magicalized Fusion Metalfoes Fusion Miracle Fusion Miracle Synchro Fusion Myutant Fusion Necro Fusion Neos Fusion Nephe Shaddoll Fusion Odd-Eyes Fusion Over Fusion Overload Fusion Paradox Fusion Parallel World Fusion Parametalfoes Fusion Particle Fusion Pendulum Fusion Predaprime Fusion Pyroxene Fusion Ready Fusion ... further results 
+ Support 
+ Alba-Lenatus the Abyss Dragon Fluffal Dolphin Gem-Knight Quartz Keeper of Dragon Magic Predaplant Chimerafflesia Predaplant Darlingtonia Cobra Predaplant Verte Anaconda Supreme King Gate Zero Synchro Fusionist Xtra HERO Wonder Driver 
+ Cyberdark Inferno Evil Mind Frightfur Factory Sabatiel - The Philosopher's Stone Wonders of Nature 
+ Related 
+ Fusion Devourer Odd-Eyes Venom Dragon Performapal Trump Witch Relinquished 
+ Dark Calling Evolution Result Burst Fusion Substitute Miracle Contact Polymerization Power Bond 
+ 
+   
+" Relinquished " 「サクリファイス」 Members 
+ Millennium-Eyes Restrict Relinquished Relinquished Anima Relinquished Spider Samsara Kaiser Samsara Lotus Thousand-Eyes Restrict 
+ Byroad Sacrifice Relinquished Fusion Sword of Dark Rites 
+ Support 
+ Golden-Eyes Idol 
+ Related 
+ Thousand-Eyes Idol 
+ Black Illusion Ritual 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a2/Relinquished-LDS1-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20200703193901', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836']
+Categories: Duel Monsters cards, TCG cards, OCG cards

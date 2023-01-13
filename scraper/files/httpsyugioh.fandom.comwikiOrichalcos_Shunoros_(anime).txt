@@ -1,0 +1,127 @@
+Link: https://yugioh.fandom.com/wiki/Orichalcos_Shunoros_(anime)
+
+"?Level" contains a listed "?" character as part of the property label and has therefore been classified as invalid. "?Stars" contains a listed "?" character as part of the property label and has therefore been classified as invalid. Main card page: " Orichalcos Shunoros " 
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Orichalcos Shunoros 
+ 
+ Japanese:   オレイカルコス・シュノロス 
+ Romaji:   Oreikarukosu Shunorosu 
+ Translated:  Oreichalcos Shunoros 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   ??? 
+ 
+ Level 
+ 
+ 
+ ???   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Summon 
+ Continuous 
+ Trigger 
+ Trigger 
+ Trigger 
+ [  ???  /  Effect  ] This card cannot be  Normal Summoned  or  Set . This card cannot be  Special Summoned  except with " Orichalcos Kyutora ". This card's  original ATK  is equal to the total amount of  Battle Damage  reduced to 0 by the  effect  of the "Orichalcos Kyutora" that  Summoned  this card. When this card is Summoned, you can Special Summon 1 " Orichalcos Aristeros " and " Orichalcos Dexia " from your  hand  or  Deck . After  damage calculation , if this card attacked another  monster , it loses  ATK  equal to either that  Attack Position  monster's ATK or that  Defense Position  monster's  DEF , depending on its  battle position . When this card is  destroyed  while its ATK is 0, you can pay 10,000  Life Points  and  discard  your entire hand to  Special Summon  1 " Divine Serpent Geh " from your Deck.
+ ATK  /  ?     DEF  /  ???   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh! :  180 ,  181 ,  184 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  Yu-Gi-Oh! ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Decks 
+ 
+ 
+ Dartz 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Orichalcos Kyutora  
+ Orichalcos Aristeros 
+ Orichalcos Dexia 
+ Divine Serpent Geh 
+ 
+ Archetypes  and  series   
+ Orichalcos 
+ 
+ Actions  
+ Activates upon Special Summon 
+ Activates if destroyed by battle 
+ Activates if destroyed by card effect 
+ Discards for cost 
+ 
+ Stat changes  
+ Changes own ATK value 
+ Changes original ATK 
+ This card loses ATK 
+ 
+ Summoning  categories  
+ Cannot be Normal Summoned 
+ Cannot be Normal Set 
+ Nomi 
+ Special Summons from your hand 
+ Special Summons from your Deck 
+ 
+ LP   
+ Pays Life Points for cost 
+ 
+ Miscellaneous  
+ Special Summon Monster 
+ 
+ 
+ 
+   " Orichalcos Shunoros " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+ Orichalcos  オレイカルコス a   m   Members 
+ Orichalcos Aristeros Orichalcos Deuteros Orichalcos Dexia Orichalcos Gigas Orichalcos Kyutora Orichalcos Malevolence Orichalcos Mirror Orichalcos Shunoros Orichalcos Sword of Sealing Orichalcos Tritos The Seal of Orichalcos 
+ Related 
+ Divine Serpent Geh Legend of Heart Mirror Knight Calling Mirror Knight Token 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/1/19/OrichalcosShunoros-JP-Anime-DM-NC-2.png/revision/latest/scale-to-width-down/200?cb=20140929034658', 'https://static.wikia.nocookie.net/yugioh/images/3/32/UNKNOWN.svg/revision/latest/scale-to-width-down/28?cb=20121001051545', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

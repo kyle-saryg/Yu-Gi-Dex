@@ -1,0 +1,89 @@
+Link: https://yugioh.fandom.com/wiki/Overfloater
+
+
+ This card's written lore in the Japanese has not yet been transcribed; if you are able to read Japanese, please help out by adding an accurate Japanese lore from  this image  to this page. The current Japanese lore listed here is only a reconstruction and may not be fully correct.     
+ Overfloater 
+ 
+ Japanese:   オーバーフローター 
+ Romaji:   Ōbāfurōtā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Level 
+ 
+ 
+ 4   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Trigger 
+ Condition 
+ Trigger 
+ [  Cyberse  /  Effect  ] After  damage calculation , if this card was  destroyed  by  battle  with an opponent's  monster : You can  target  that opponent's monster;  negate  its  effects . You cannot use the following effect of "Overfloater" the  turn  you apply this effect of "Overfloater". When an opponent's monster declares an  attack  while your opponent  controls  more monsters than you do: You can  banish  this card from your  GY , then target that attacking monster; negate the effects of all monsters your opponent controls with  original ATK  less than or equal to the targeted monster's original ATK.
+ ATK  /  1400     DEF  /  1200   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  118 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Activates from your Graveyard 
+ Activates upon attack declaration 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your opponent's Effect Monsters 
+ 
+ Banished  categories  
+ Banishes itself from Graveyard for cost 
+ 
+ Miscellaneous  
+ Only 1 effect once per turn 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/e/e7/Overfloater-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20190911145332', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Card pages with a lore in need of transcription, Anime cards, Anime cards with no OCG/TCG counterpart

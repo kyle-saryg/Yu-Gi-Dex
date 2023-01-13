@@ -1,0 +1,11 @@
+Link: https://yugioh.fandom.com/wiki/Property:ATK_string
+
+This property is a  text  equivalent to  Property:ATK , combined with  Property:?ATK .
+ Unlike  Property:ATK , this property can store non-numeric values like  ?  and  X000 .
+ Since this is not a numeric property, values are ordered alphabetically when sorted. e.g. 25, 220, 300, 1000, 3000 would be sorted as 1000, 220, 25, 300, 3000. Hidden zeros can be added at the beginning of values to overcome this. e.g. The previous example would be 000000 25 , 00000 220 , 00000 300 , 0000 1000 , 0000 3000 .
+ See also  Property:ATK ,  Property:?ATK ,  Property:DEF ,  Property:?DEF , and  Property:DEF string , as well as other text equivalents for numerical properties:  Property:Level string ,  Property:Rank string , and  Property:Stars string .
+ 
+ 
+ 
+ 
+Categories:

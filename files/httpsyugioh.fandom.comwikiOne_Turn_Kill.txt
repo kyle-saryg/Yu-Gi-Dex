@@ -1,0 +1,786 @@
+Link: https://yugioh.fandom.com/wiki/One_Turn_Kill
+
+For the effect with the same name, see  Point-to-Point Transfer .      
+ A  One Turn Kill  (OTK) (Japanese:  ＯＴＫ   Wantānkiru ) is achieved when a player wins a  Duel  in the space of a single  turn .
+ In one turn, all of the opponent's  Life Points , which is normally assumed to be no less than 8000, must be depleted, or an alternate  victory condition  must be fulfilled. This is usually done when the player has the appropriate cards in their  hand / Graveyard  and has  control  over the Duel.
+ Significant or reliable OTKs generally consist of 4 or fewer cards, do not require the opponent to have particular cards or rely on indefinite chance, such as the effect of " Snipe Hunter ".
+ Traditional  and  Advanced Formats  will have very different OTK styles, owing to the allowable  card pools . The Advanced Format banlist is updated every six months to reduce the viability of OTKs.
+ A One Turn Kill that is pulled off during the Duel's first turn is referred to as a  First Turn Kill .
+ 
+ Contents 
+ 
+ 1   OTKs in Media 
+ 
+ 1.1   Yu-Gi-Oh! Duel Monsters 
+ 1.2   Yu-Gi-Oh! GX 
+ 1.3   Yu-Gi-Oh! 5D's 
+ 1.4   Yu-Gi-Oh! ZEXAL 
+ 1.5   Yu-Gi-Oh! ARC-V 
+ 1.6   Yu-Gi-Oh! VRAINS 
+ 1.7   Yu-Gi-Oh! SEVENS 
+ 
+ 
+ 2   List of One Turn Kills 
+ 
+ 2.1   Advanced Format 
+ 2.2   Traditional Format 
+ 
+ 
+ 3   References 
+ 
+ 
+ OTKs in Media 
+ OTKs are rare in Yu-Gi-Oh! media, especially prior to Yu-Gi-Oh! ZEXAL, but are not non-existent. In many cases, an OTK in the anime is shown either to show off the strength of a powerful Duelist, or for the winner to have a come-from-behind victory. Since Duelists usually start with 4000 Life Points in the anime, an OTK is declared when all 4000 are depleted in one turn. Some Duelists have OTKed their opponents in the anime, including:
+ 
+ Yu-Gi-Oh! Duel Monsters 
+ Yami Yugi  against  Mako Tsunami [1] ;  Seeker [2] ; and  Noah Kaiba [3] 
+ Joey Wheeler  against  Mai Valentine [4] 
+ Seto Kaiba  against the  Duel Machine [5] ;  Rare Hunters 2 ; and  3 [6] 
+ Dark Yugi  against  Deschutes Lew [7]  (non-canon) 
+ Seto Kaiba  against  Willa Mette [8]  (non-canon) 
+ Gekko Tenma  against  Ted Banias [9]  (non-canon) 
+ Katsuya Jonouchi  against  Reiko Kitamori [10]  (non-canon) 
+ Zigfried von Schroeder  against  Weevil Underwood  and  Rex Raptor [11] 
+ Yu-Gi-Oh! GX 
+ Chazz Princeton  against 4  North Academy  students;  Czar [12] ;  Slade Princeton [13] ; and  Duel Ghoul [14] 
+ Sartorius  against Chazz Princeton [15] 
+ Zane Truesdale  against  Mad Dog [16] ; and  Chancellor Sheppard [17] 
+ Jaden Yuki  against  Alien of Light [18] ;  Princess Rose [19] ;  Fonda Fontaine [20] ; and  Nightshroud [21]  (Nightshroud continually regained LP every turn) 
+ Jim Crocodile Cook  against  Kozaky [22] 
+ Jaden Yuki and  Alexis Rhodes  against  Chancellor Sheppard  and  Ms. Dorothy ; and  Obelisk Blue  pair [23] 
+ Syrus Truesdale  against  Makoto Inotsume [24] 
+ Yu-Gi-Oh! 5D's 
+ Jack Atlas  against  Hunter Pace [25] ; and  Nicolas [26] 
+ Yusei Fudo  against  Leo [27] ;  Rudolph Heitmann , [28] ; 3  Malcolm Crew  thugs [29] ; and  Aporia [30] 
+ Crow Hogan  against  Sector Security  officer [31] ; and  Hermann [26] 
+ Yusei Fudo and Crow Hogan against 2 Sector Security officers [32] 
+ Sayer  against  Carly Carmine [33] 
+ Fake Jack Atlas  against Jack Atlas [34] 
+ Lawton  against  Radley [35] 
+ Yu-Gi-Oh! ZEXAL 
+ Caswell Francis  against  Yuma Tsukumo [36]  (dub only) 
+ Yuma Tsukumo against  Nelson Andrews [37] ;  Anna Kaboom [38] ;  Charlie McCay [39] ;  Cathy Katherine  and  Tori Meadows [40] ;  Girag [41] ; and  Vector [42] 
+ Kite Tenjo  against  Scritch [43] 
+ Charlie McCay  against  his opponent [44] 
+ Quattro  against  Bronk Stone  and  Caswell Francis [45] 
+ Don Thousand  against  Mizar [46] 
+ Yu-Gi-Oh! ARC-V 
+ Yuya Sakaki  against  The Sledgehammer [47] ;  Aura Sentia [48] ;  Iggy Arlo [49] ;  Nagi  and  Taka [50] ;  Yoko Sakaki [51] ; and  Chojiro Tokumatsu [52] 
+ Yuto  against  Sylvio Sawatari [53] 
+ Julia Krystal  against  Zuzu Boyle [54] 
+ Moon Shadow  against  Aura Sentia [49]  (most of the duel took place off-screen) 
+ Iggy Arlo  against  Kit Blade [49]  (most of the duel took place off-screen) 
+ Shay Obsidian  against Julia Krystal/ Dipper O'rion /Kit Blade [55] ; and  Lulu Obsidian [56] 
+ Gong Strong  against  Grizzlepike Jones [57] 
+ Jack Atlas  against Yuya Sakaki [58] 
+ Sergey Volkov  against Zuzu Boyle [59] ; and  Barrett  and Yuya Sakaki [60] 
+ Declan Akaba  against  Jean-Michel Roget  (x2) [61] 
+ Yuri  against 5  You Show Duel School 's Students [62] 
+ Sora Perse  against  Captain Cutter [63] 
+ Kite Tenjo  against  Gong Strong [64] ;  Dennis McField [65] ; and  Diana [66] 
+ Yugo  against  Apollo [66] 
+ Z-ARC  against  Sora Perse [67] , Sylvio Sawatari,  Leo Akaba [68] , and  Declan Akaba [69] 
+ Yu-Gi-Oh! VRAINS 
+ Playmaker  against  Blue Angel [70] ;  Varis [71] ;  Specter [72]  (Specter continuously raised his LP to normal);  Ghost Gal [73] ;  Prototype Ai-A [74] ;  Kenmochi [75] ;  Yoroizaka [76] ;  George Gore [77] ; and  Cal Kolter [78] 
+ Varis  against  Ghost Gal [79] ; and  The Shepherd [80] 
+ Soulburner  against  Ridley [76] ; and  Blue Girl [81] 
+ The Shepherd against Ghost Gal [82] 
+ Ai  against  Queen [83]  and  Pandor [84] 
+ Yu-Gi-Oh! SEVENS 
+ Yuga Ohdo  against  Otes [85] 
+ Romin Kassidy  against  Gavin Sogetsu [86] 
+ Nail Saionji  against Yuga Ohdo [87] 
+ List of One Turn Kills 
+ Advanced Format 
+ 
+ Atlantean OTK 
+ Bad Reaction to Simochi OTK 
+ Batteryman OTK 
+ Ben-Kei OTK 
+ Blaze Fenix OTK 
+ Bloom Diva the Melodious Choir OTK 
+ Chimeratech OTK 
+ Colossal Fighter OTK 
+ Cyber Dragon OTK 
+ Darklord OTK 
+ Demise OTK 
+ Evil HERO Dark Gaia OTK 
+ Elemental HERO Gustav Max OTK 
+ Empty Jar 
+ Exodia OTK 
+ Guardian Eatos OTK 
+ Gigaplant OTK 
+ Gear Golem OTK 
+ Karakuri OTK 
+ Lunalight Cat Dancer OTKs 
+ Magical Explosion FTK 
+ Quillbolt Hedgehog OTK 
+ Reversal Quiz OTK 
+ Spell Counter OTK 
+ Voltic OTK 
+ Vylon OTK 
+ Witch Doctor of Sparta OTK 
+ 
+ Traditional Format 
+ Athena OTK 
+ Butterfly Dagger - Elma OTK 
+ Chimeratech OTK 
+ Cyber End/Metamorphosis OTK 
+ Cyber-Stein OTK 
+ Dark Magician of Chaos OTK 
+ Dark Scorpion/Makyura OTK 
+ Frog Burn FTK 
+ Magical Scientist OTK 
+ References 
+ 
+ 
+ ↑   Yu-Gi-Oh!   episode 7: " Attack from the Deep " 
+ 
+ ↑   Yu-Gi-Oh!   episode 57: " Yugi vs. The Rare Hunter, Part 2 " 
+ 
+ ↑   Yu-Gi-Oh!   episode 118: " Noah's Final Threat, Part 2 " 
+ 
+ ↑   Yu-Gi-Oh!   episode 6: " First Duel " 
+ 
+ ↑   Yu-Gi-Oh!   episode 54: " Obelisk the Tormentor " 
+ 
+ ↑   Yu-Gi-Oh!   episode 68: " Legendary Fisherman, Part 1 " 
+ 
+ ↑   Yu-Gi-Oh! R  Duel Round 3: " Kaibacorp Duel Begins!! " 
+ 
+ ↑   Yu-Gi-Oh! R  Duel Round 15: " Advent of the Ultimate Life-Form!! " 
+ 
+ ↑   Yu-Gi-Oh! R  Duel Round 18: " The Perfect Duel!! " 
+ 
+ ↑   Yu-Gi-Oh! R  Duel Round 20: " The Rage of Kaiba!! " 
+ 
+ ↑   Yu-Gi-Oh!   episode 189: " Child's Play " 
+ 
+ ↑   Yu-Gi-Oh! GX  episode 24: " The New Chazz " 
+ 
+ ↑   Yu-Gi-Oh! GX  episode 35: " Sibling Rivalry " 
+ 
+ ↑   Yu-Gi-Oh! GX  episode 122: " Night of the Living Duelist " 
+ 
+ ↑   Yu-Gi-Oh! GX  episode 61: " I've Seen the Light " 
+ 
+ ↑   Yu-Gi-Oh! GX  episode 65: " No Pain, No Game " 
+ 
+ ↑   Yu-Gi-Oh! GX  episode 83: " Schooling the Master " 
+ 
+ ↑   Yu-Gi-Oh! GX  episode 62: " A Greater Porpoise " 
+ 
+ ↑   Yu-Gi-Oh! GX  episode 74: " Happily Never After " 
+ 
+ ↑   Yu-Gi-Oh! GX  episode 123: " School Ghoul Duels " 
+ 
+ ↑   Yu-Gi-Oh! GX  episode 178: " The Last Hope! Yuki Judai " 
+ 
+ ↑   Yu-Gi-Oh! GX  episode 138: " The Darkness Revealed " 
+ 
+ ↑   Yu-Gi-Oh! GX  episode 161: " Shall We Duel? An Invitation to a Pair Duel " 
+ 
+ ↑   Yu-Gi-Oh! GX  episode 164: " The Inherited Cyberdark Dragon " 
+ 
+ ↑   Yu-Gi-Oh! 5D's  episode 8: " Fire it Up! " 
+ 
+ ↑  26.0   26.1   Yu-Gi-Oh! 5D's  episode 105: " Rook Takes Knight " 
+ 
+ ↑   Yu-Gi-Oh! 5D's  episode 13: " A Duel to Remember " 
+ 
+ ↑   Yu-Gi-Oh! 5D's  episode 67: " Lessons Learned " 
+ 
+ ↑   Yu-Gi-Oh! 5D's  episode 86: " Duelist For Hire " 
+ 
+ ↑   Yu-Gi-Oh! 5D's  episode 137: " An Approaching Terror - The Citadel of God, Ark Cradle " 
+ 
+ ↑   Yu-Gi-Oh! 5D's  episode 30: " Fight or Flight " 
+ 
+ ↑   Yu-Gi-Oh! 5D's  episode 31: " The Reunion Duel " 
+ 
+ ↑   Yu-Gi-Oh! 5D's  episode 37: " Digging Deeper, Part 1 " 
+ 
+ ↑   Yu-Gi-Oh! 5D's  episode 83: " Will The Real Jack Atlas Please Stand Up, Part 1 " 
+ 
+ ↑   Yu-Gi-Oh! 5D's  episode 88: " Showdown at Sundown, Part 2 " 
+ 
+ ↑   Yu-Gi-Oh! ZEXAL  episode 3: " In The End, Part 1 " 
+ 
+ ↑   Yu-Gi-Oh! ZEXAL  episode 8: " The Sparrow, Part 2 " 
+ 
+ ↑   Yu-Gi-Oh! ZEXAL  episode 29: " Love Hurts " 
+ 
+ ↑   Yu-Gi-Oh! ZEXAL  episode 32: " Life is a Carnival: Part 2 " 
+ 
+ ↑   Yu-Gi-Oh! ZEXAL  episode 81: " The Friendship Games " 
+ 
+ ↑   Yu-Gi-Oh! ZEXAL  episode 88: " Dual Duel: Part 2 " 
+ 
+ ↑   Yu-Gi-Oh! ZEXAL  episode 94: " Enter Vector " 
+ 
+ ↑   Yu-Gi-Oh! ZEXAL  episode 117: " Now or Never, Part 2 " 
+ 
+ ↑   Yu-Gi-Oh! ZEXAL  episode 31: " Life is a Carnival: Part 1 " 
+ 
+ ↑   Yu-Gi-Oh! ZEXAL  episode 33: " Foolish Fans " 
+ 
+ ↑   Yu-Gi-Oh! ZEXAL  episode 138: " The New World " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 2: " Swing into Action: Part 2 " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 23: " A Date With Fate: Part 2 " 
+ 
+ ↑  49.0   49.1   49.2   Yu-Gi-Oh! ARC-V  episode 38: " Warped " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 43: " Fire And Ice " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 53: " Parental Guidance: Part 2 " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 61: " Hero's Fall " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 7: " Mr. Mystery " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 10: " You Show 'Em " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 24: " For Our Tomorrows " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 119: " Family Face Off " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 30: " Gong the Strong " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 64: " Match with the Master " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 77: " A Cons Game " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 92: " Tragic Reunion " , 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 99: " A Vicious Cycle " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 106: " An Academic Test " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 115: " Shiver Me Lancers " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 101: " Realm of the Cipher Dragon " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 114: " All Duel Hands on Deck " 
+ 
+ ↑  66.0   66.1   Yu-Gi-Oh! ARC-V  episode 116: " A Towering Achievement " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 136: " A Most Brutal Duel " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 139: " Clash Talk " 
+ 
+ ↑   Yu-Gi-Oh! ARC-V  episode 140: " A Ray of Hope " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 7: " Fallen Angel " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 12: " Link the Circuit " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 37: " Out on a Limb " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 15: " Camouflaged Chaos " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 17: " Blue's Back! " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 62: " Fearing the Worst " 
+ 
+ ↑  76.0   76.1   Yu-Gi-Oh! VRAINS  episode 63: " Scare Tactics " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 82: " Gored " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 93: " A Fighting Promise " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 31: " Showdown in the Sewers " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 78: " From One Hunter To Another " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 56: " Blue Gal Battles! " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 77: " A Family Reunion " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 104: " Your Reign is Over " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 109: " Al vs Ai " 
+ 
+ ↑   Yu-Gi-Oh! SEVENS  episode 1: " Ready for the Rush! " 
+ 
+ ↑   Yu-Gi-Oh! SEVENS  episode 11: " Hungry for a Duel " 
+ 
+ ↑   Yu-Gi-Oh! SEVENS  episode 23: " I'm Curious " 
+ 
+ 
+ 
+ 
+ 
+ v e 
+Basic  Deck  types 
+ Aggro 
+ Beatdown 
+ Burn 
+ Mill 
+ Stall 
+ One Turn Kill 
+ First Turn Kill 
+ Zero Turn Kill 
+ Instant Win 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Gameplay

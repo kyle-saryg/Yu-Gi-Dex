@@ -1,0 +1,103 @@
+Link: https://yugioh.fandom.com/wiki/Rank_Revolution
+
+
+ Rank Revolution 
+ 
+ Japanese:   ランク・レボリューション 
+ Romaji:   Ranku Reboryūshon 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Continuous 
+ Continuous 
+ If the only  monster  you  control  is 1  face-up   Xyz Monster :  Activate  this card by  targeting  that monster. While that monster is face-up on the  field ,  negate  the  effects  of all other face-up monsters on the field whose  Rank  or  Level  is higher than that monster's Rank, also those monsters cannot target the targeted monster for an  attack . When that monster  leaves the field ,  destroy  this card.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  145 ,  146 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ランク・レボリューション 
+ 自分フィールド上のモンスターエクシーズが１体のみの場合、そのモンスターエクシーズを選択して発動できる。選択したモンスター以外の、選択したモンスターのランク以上のランク及び、そのランクの数以上のレベルを持つモンスターの効果を無効にする。また、選択したモンスターのランク以上のランク及び、そのランクの数以上のレベルを持つモンスターは選択したモンスターを攻撃対象に選択できない。選択したモンスターがフィールド上から離れた時、このカードを破壊する。 
+ 
+ 
+ Ranku Reboryūshon 
+ 
+ 
+ Decks 
+ 
+ 
+ Astral 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Xyz Monster 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of Effect Monsters 
+ Destroys itself 
+ 
+ Attack  categories  
+ Manages attack targets 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/f4/RankRevolution-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20140316094801', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/18?cb=20120920115206']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

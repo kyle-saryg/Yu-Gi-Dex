@@ -1,0 +1,106 @@
+Link: https://yugioh.fandom.com/wiki/Branded_Regained
+
+
+ 
+ 
+ Branded Regained 復 烙 印 
+ 
+ English 
+Branded Regained 
+ Japanese (kana) 
+ ふくらくいん Check translation 
+ Japanese (base) 
+ 復烙印 Check translation 
+ Japanese ( rōmaji ) 
+Fukurakuin 
+ Japanese (translated) 
+Rebranded 
+ Card type 
+ Spell   
+ Property 
+ Continuous   
+ Passcode 
+ 34090915 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If a  LIGHT  or  DARK   monster(s)  is  banished  (except during the  Damage Step ): You can  target  1 of those monsters; place that monster on the bottom of the  Deck , and if you do,  draw  1 card. You can only use this  effect  of "Branded Regained"  once per turn . Once per turn, when your opponent  Normal  or  Special Summons  a monster (except during the  Damage Step ): You can target 1 " Bystial " monster in your  GY ; Special Summon it. You can only use this effect of "Branded Regained"  once per Chain . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の、①の効果は１ターンに１度しか使用できず、②の効果は同一チェーン上では１度しか発動できない。①：光・闇属性モンスターが除外された場合、そのモンスター１体を対象として発動できる。そのモンスターを持ち主のデッキの一番下に戻し、自分はデッキから１枚ドローする。②：１ターンに１度、相手がモンスターの召喚・特殊召喚に成功した場合、自分の墓地の「ビーステッド」モンスター１体を対象として発動できる。そのモンスターを特殊召喚する。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-07-16 DABL-JP053 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Branded 
+ 
+ Supports   archetypes   
+ Bystial 
+ 
+ Miscellaneous  
+ Only once per turn 
+ Only once per Chain 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17808 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Branded " 「 烙 印 」 Members 
+ Albion the Branded Dragon 
+ Branded Banishment Branded Beast Branded Bond Branded Disciple Branded Expulsion Branded Fusion Branded Loss Branded Lost Branded Opening Branded Regained Branded Retribution Branded Sword Branded in Central Dogmatika Branded in High Spirits Branded in Red Branded in White Despia, Theater of the Branded Inevitably Branded Judgment of the Branded Light of the Branded Screams of the Branded 
+ Support 
+ Albion the Branded Dragon Albion the Shrouded Dragon Aluber the Jester of Despia The Bystial Lubellion Bystial Saronir Despian Tragedy Springans Kitt 
+ Branded Beast 
+ Related 
+ Alba-Lenatus the Abyss Dragon Albaz the Ashen Fallen of Albaz Lubellion the Searing Dragon Titaniklad the Ash Dragon 
+ 
+   
+" Bystial " 「ビーステッド」 Members 
+ The Bystial Alba Los Bystial Baldrake Bystial Druiswurm The Bystial Lubellion Bystial Magnamhut Bystial Saronir 
+ Support 
+ The Bystial Alba Los The Bystial Lubellion Bystial Saronir 
+ Branded Beast Branded Regained Inevitably Branded 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/f0/BrandedRegained-DABL-JP-R.png/revision/latest/scale-to-width-down/300?cb=20220719185303', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

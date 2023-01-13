@@ -1,0 +1,155 @@
+Link: https://yugioh.fandom.com/wiki/Accel_Synchron_(OCG_Structures)
+
+Main card page: " Accel Synchron " 
+ Accel Synchron 
+ 
+ Japanese:   アクセル・シンクロン 
+ Romaji:   Akuseru Shinkuron 
+ 
+ 
+ 
+ 
+ en 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+ DARK 
+ 
+ Type 
+ 
+ 
+ 
+ Machine 
+ Synchro 
+ Tuner 
+ Effect 
+ 
+ Level 
+ 
+ 
+ 5 ★★★★★
+ 
+ ATK  /  DEF 
+ 
+ 
+ 500 / 2100
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Ignition 
+ Quick 
+ Condition 
+ Synchro Material 
+ 
+ 
+ 
+ 
+ 
+ 1  Tuner  + 1+ non-Tuner  monsters 
+ 
+ 
+ 
+ Once per turn : You can  send  1 " Synchron " monster from your  Deck  to the  GY , then  activate  1 of these  effects ; ● Increase this card's  Level  by the Level of the sent monster. ● Reduce this card's Level by the Level of the sent monster. During your opponent's  Main Phase , you can ( Quick Effect ): Immediately after this effect  resolves ,  Synchro Summon  using this card you  control . You can only Synchro Summon "Accel Synchron" once per turn. 
+ 
+ Appearances
+ 
+ 
+ 
+ 
+   OCG Structures :  011 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Manga cards (Galleries:  OCG Structures ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ アクセル・シンクロン 
+ 自分は「アクセル・シンクロン」を１ターンに１度しか Ｓ 召喚できない。①：１ターンに１度、デッキから「シンクロン」モンスター１体を墓地へ送り、以下の効果から１つを選択して発動できる。●墓地へ送ったそのモンスターのレベル分だけ、このカードのレベルを上げる。●墓地へ送ったそのモンスターのレベル分だけ、このカードのレベルを下げる。②：相手メインフェイズに発動できる。このカードを含む自分フィールドのモンスターを Ｓ 素材として Ｓ 召喚する。 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Ms. Guide  
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Synchron 
+ 
+ Supports   archetypes   
+ Synchron 
+ 
+ Actions  
+ Sends from Deck to Graveyard for cost 
+ Uses itself as a Synchro Material 
+ 
+ Stat changes  
+ This card gains Levels 
+ This card loses Levels 
+ 
+ Summoning  categories  
+ 1+ non-Tuner Synchro Materials 
+ Does not require specific Synchro Materials 
+ Performs a Synchro Summon 
+ Special Summons from your Extra Deck 
+ Synchro Summon once per turn 
+ 
+ Miscellaneous  
+ Tuner Synchro Monster 
+ Limited activations 
+ Variable effects 
+ 
+ 
+ 
+   " Accel Synchron " pages 
+ 
+ 
+ Manga 
+ 
+ 
+ 
+ v e 
+" Synchron " 「シンクロン」 m   m   +   Members 
+ Accel Synchron Jet Synchron Junk Synchron Synchro Reflector Synchron Explorer 
+ Support 
+ Accel Synchron Synchron Explorer 
+ Related 
+ Junk Warrior 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/07/AccelSynchron-JP-Manga-OS.png/revision/latest/scale-to-width-down/200?cb=20200925193822', 'https://static.wikia.nocookie.net/yugioh/images/0/03/AccelSynchron-JP-Manga-OS-NC.png/revision/latest/scale-to-width-down/126?cb=20200925193826', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Manga cards

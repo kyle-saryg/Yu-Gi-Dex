@@ -1,0 +1,580 @@
+Link: https://yugioh.fandom.com/wiki/Terrain
+
+Terrain  is a mechanic in which gameplay on  Zones  of the  playing field  is affected by the area of land they cover, usually by granting a  Field Power Bonus . In the manga and anime this concept was used during the  Duelist Kingdom  tournament. In is also used in some video games. This concept is not used in the OCG/TCG, although a number of  Field Spell Cards  are based on it.
+ In  Yu-Gi-Oh! Forbidden Memories , Field Spell Cards create terrains that increase or decrease a monster's  ATK  and  DEF  by 500. Depending on the location, a terrain may already be in place.
+ Yu-Gi-Oh! The Duelists of the Roses  is played on a grid and each tile has its own terrain.
+ 
+ List of terrains 
+ 
+ 
+ Terrain
+ 
+ Effect
+ 
+ Image
+ 
+ 
+ Normal
+ 
+ The default terrain.
+ 
+ 
+ 
+ 
+ Night 
+ 
+ In the manga and anime, this powered-up  DARK  monsters and made them invisible to the opponent. In video games, this powers up and weakens the same monsters as " Yami ".
+ 
+ 
+ 
+ 
+ Mountain 
+ 
+ This powers up and weakens the same monsters as " Mountain ".
+ 
+ 
+ 
+ 
+ Meadow 
+ 
+ This powers up and weakens the same monsters as " Sogen ".
+ 
+ 
+ 
+ 
+ Forest 
+ 
+ This powers up and weakens the same monsters as " Forest ".
+ 
+ 
+ 
+ 
+ Desert 
+ 
+ This powers up and weakens the same monsters as " Wasteland ".
+ 
+ 
+ 
+ 
+ Ocean /Sea
+ 
+ This powers up and weakens the same monsters as " Umi ". In the anime and manga, it was also uninhabitable by non-water-based monsters.
+ 
+ 
+ 
+ 
+ Toon 
+ 
+ This terrain only exists in  Yu-Gi-Oh! The Duelists of the Roses . It powers up  Toon Monsters  and weakens all other monsters.
+ 
+ 
+ 
+ 
+ Crush 
+ 
+ This terrain only exists in  Yu-Gi-Oh! The Duelists of the Roses . It strengthens all  Immortal - Type  monsters. Any other monsters with 1500 or more  ATK  on this terrain are destroyed.
+ 
+ 
+ 
+ 
+ Labyrinth 
+ 
+ In the manga and anime, the Labyrinth terrain is created by playing " Labyrinth Wall ". With this in play, cards are played on a grid with paths dictated by walls. Monsters can move a number of squares up to their  Level  once per turn, except monsters with the flying ability, which are immobile.
+ In  Yu-Gi-Oh! The Duelists of the Roses  gameplay is already like this and Labyrinth squares cannot be entered by most monsters.
+ 
+ 
+ 
+ 
+ Cards which affect terrains 
+ Field Spell Cards can change the terrain in video games that use this mechanic. In the manga and anime, Field Spells had not been introduced at this point.
+ In the anime and manga, the following cards were shown to affect the terrain:
+ 
+ The fireball attack from " Winged Dragon, Guardian of the Fortress #1 " is able to light up the  Night  field for a second, making the opponent's DARK monsters visible. 
+ " Swords of Revealing Light " can completely light-up the Night terrain, revealing the opponent's monsters. 
+ " Burning Land " can be used in conjunction with " Curse of Dragon " to burn away certain terrains. 
+ " Full Moon "/" Mystical Moon " can raise tide levels, causing the Ocean terrain to spread to more Zones. Destroying "Full Moon"/"Mystical Moon" causes them to drastically drop. 
+ " Shadow Ghoul " could be  fused  with the Labyrinth terrain to create " Wall Shadow ". "Wall Shadow" could move through the walls and more spaces than its Level. The Labyrinth remains intact when "Wall Shadow" is destroyed. 
+ " Magical Labyrinth " can be used to rearrange the walls of the Labyrinth. 
+ " Dungeon Worm " can tunnel under the "Labyrinth". 
+ In  Yu-Gi-Oh! The Duelists of the Roses  the following cards affect terrains:
+ 
+ " Labyrinth Tank " and " Dungeon Worm " can move on Labyrinth squares. " Shadow Ghoul " can also move on Labyrinth squares, and will transform into " Wall Shadow " when it does. 
+ " Barrel Rock " and " Dharma Cannon " can enter Labyrinth spaces and will turn that space into normal terrain when they do. 
+ In  Yu-Gi-Oh! Dark Duel Stories  the following cards affect terrains:
+ 
+ " Giant Soldier of Stone " can destroy any Field. 
+ In the Toei anime 
+ The  first series anime  uses a field similar to the Duelist Kingdom. This field has several different terrains on it such as Graveyard, Dark Forest, Lake, Desert, Wasteland, Forest, Mountains, Darkness, etc. It also has a Volcano, a Village, a Meadow and a bit of Ocean witch were not named in the anime. There are also different field mats with different terrains, so no two fields are alike.
+ As in the second series, different monsters gain benefits from different terrains.
+ 
+ Zombies in the Graveyard 
+ Fiends in the Drakforest 
+ Dragons in the Lake 
+ Beasts in the Forest 
+ Specific cards are also powered up in specific terrains, such as  Neon Knight , which gets a boost from the thunder of the Mountain terrain.
+ There are also monsters that can alter the terrains with their effects, allowing the duelists to change the fields  as they please. Such as:
+ 
+ Chimera  can turn a terrain into Wasteland with its fire breath. 
+ Shadowman  can turn the terrain into Darkness with its dark sword. 
+           
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c1/NightField-EN-Anime-DM.png/revision/latest/scale-to-width-down/200?cb=20080930232629', 'https://static.wikia.nocookie.net/yugioh/images/4/43/MountainsField-EN-Anime-DM.png/revision/latest/scale-to-width-down/200?cb=20080930231400', 'https://static.wikia.nocookie.net/yugioh/images/9/91/MeadowField-EN-Anime-DM.png/revision/latest/scale-to-width-down/200?cb=20080930233000', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/9b/Mwfield.png/revision/latest/scale-to-width-down/180?cb=20140908185303']
+Categories: Terrains

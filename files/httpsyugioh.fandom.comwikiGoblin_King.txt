@@ -1,0 +1,507 @@
+Link: https://yugioh.fandom.com/wiki/Goblin_King
+
+The  Croatian, Greek  and  Thai                      names given are not official.  ( card names ) 
+ 
+ 
+ 
+ 
+ 
+ Goblin King キングゴブリン 
+ 
+ English 
+Goblin King 
+ French 
+ Roi Gobelin Check translation 
+ German 
+ Goblinkönig Check translation 
+ Italian 
+ Re dei Goblin Check translation 
+ Korean 
+ 킹 고블린 Check translation 
+ Portuguese 
+ Goblin Rei Check translation 
+ Spanish 
+ Rey Goblin Check translation 
+ Japanese 
+ キングゴブリン Check translation 
+ Japanese ( rōmaji ) 
+Kingu Goburin 
+ Japanese (translated) 
+King Goblin 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Fiend  /  Effect 
+ Level 
+ 1   
+ ATK  /  DEF 
+ 0  /  0 
+ Passcode 
+ 18590133 
+ Card effect types 
+ 
+ 
+ Continuous 
+ Continuous Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+While you  control  another  Fiend - Type   monster , this card cannot be  attacked . The  ATK  and  DEF  of this card are each equal to the number of Fiend-Type monsters on the  field  (excluding this card) x 1000. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Tant que vous contrôlez un autre monstre de Type Démon, cette carte ne peut pas être attaquée. L'ATK/DEF de cette carte sont égales au nombre de monstres de Type Démon sur le Terrain (cette carte exclue) x 1000. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Solange du ein anderes Monster vom Typ Unterweltler kontrollierst, kann diese Karte nicht angegriffen werden. Die ATK und DEF dieser Karte entsprechen jeweils der Anzahl der Monster vom Typ Unterweltler auf dem Spielfeld (außer dieser Karte) x 1000. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Mentre controlli un altro mostro di Tipo Demone, questa carta non può essere attaccata. L'ATK e il DEF di questa carta sono ciascuno pari al numero di mostri di Tipo Demone sul Terreno (esclusa questa carta) x 1000. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Este card não pode ser atacado se existir outro monstro do Tipo Demônio no seu Campo. O ATK e o DEF deste card torna-se no número de monstros do Tipo Demônio no Campo (excluíndo este card) x 1000 pontos. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Mientras controles otro  monstruo  de  Tipo   Demonio , esta carta no puede ser  atacada . El  ATK  y  DEF  de esta carta se se convierten, cada uno, en el número de monstruos de Tipo Demonio en el Campo (excluyendo a esta carta) x 1000 puntos. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 自分フィールド上にこのカード以外の悪魔族モンスターが存在する場合、このカードを攻撃する事はできない。このカードの攻撃力・守備力は、フィールド上のこのカード以外の悪魔族モンスターの数×１０００ポイントになる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신 필드 위에 이 카드 이외의 악마족 몬스터가 존재할 경우, 이 카드를 공격할 수 없다이 카드의 공격력/수비력은 필드 위의 이 카드 이외의 악마족 몬스터수X1000 포인트가 된다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2005-10-20  
+ DR2-EN143   
+ Dark Revelation Volume 2 
+ Common 
+ 
+ 
+ 2011-10-13  
+ SDGU-EN019   
+ Gates of the Underworld Structure Deck 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ 
+ North American English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2004-06-01  
+ AST-031   
+ Ancient Sanctuary 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2004-06-01  
+ AST-FR031   
+ Ancient Sanctuary 
+ Sanctuaire Ancestra  
+ Common 
+ 
+ 
+ 2005-10-20  
+ DR2-FR143   
+ Dark Revelation Volume 2 
+ Sombre Révélation Volume 2  
+ Common 
+ 
+ 
+ 2011-10-13  
+ SDGU-FR019   
+ Gates of the Underworld Structure Deck 
+ Portail du Monde Ténébreux Deck de Structure  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2004-05-01  
+ AST-DE031   
+ Ancient Sanctuary 
+ Ancient Sanctuary  
+ Common 
+ 
+ 
+ 2005-10-01  
+ DR2-DE143   
+ Dark Revelation Volume 2 
+ Dark Revelation Volume 2  
+ Common 
+ 
+ 
+ 2011-10-13  
+ SDGU-DE019   
+ Gates of the Underworld Structure Deck 
+ Gates of the Underworld Structure Deck  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2004-06-01  
+ AST-IT031   
+ Ancient Sanctuary 
+ Antico Santuario  
+ Common 
+ 
+ 
+ 2005-10-20  
+ DR2-IT143   
+ Dark Revelation Volume 2 
+ Rivelazione Oscura Volume 2  
+ Common 
+ 
+ 
+ 2011-10-13  
+ SDGU-IT019   
+ Gates of the Underworld Structure Deck 
+ Cancelli del Sottosuolo Structure Deck  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2004-06-01  
+ AST-PT031   
+ Ancient Sanctuary 
+ Santuário Antigo  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2004-06-01  
+ AST-SP031   
+ Ancient Sanctuary 
+ Santuario Antiguo  
+ Common 
+ 
+ 
+ 2005-10-20  
+ DR2-SP143   
+ Dark Revelation Volume 2 
+ Revelación Oscura Volumen 2  
+ Common 
+ 
+ 
+ 2011-10-13  
+ SDGU-SP019   
+ Gates of the Underworld Structure Deck 
+ Puertas del Inframundo Baraja de Estructura  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2003-11-20  
+ 308-031   
+ The Sanctuary in the Sky 
+ 天空の聖域  
+ Common 
+ 
+ 
+ 2005-03-17  
+ EE2-JP143   
+ Expert Edition Volume 2 
+ ＥＸＰＥＲＴ ＥＤＩＴＩＯＮ Ｖｏｌｕｍｅ．２  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Asian-English 
+ 
+ 
+ 
+ Asian-English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2004-10-08  
+ AST-AE031   
+ Ancient Sanctuary 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2005-08-27  
+ AST-KR031   
+ Ancient Sanctuary 
+ 천공의 성역  
+ Common 
+ 
+ 
+ 2006-11-17  
+ HGP2-KR143   
+ Expert Edition Volume 2 
+ 하이 그레이드 팩 Ｖｏｌ．２  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+ World Championship 2006  ( Ancient Sanctuary / Fiend Collection B ) 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Fiend 
+ 
+ Archetypes  and  series   
+ Goblin 
+ 
+ Stat changes  
+ Changes own ATK value 
+ Changes own DEF value 
+ 
+ Attack  categories  
+ Manages attack targets 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 5973 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Ultimate Masters: World Championship Tournament 2006 2006-02-23 – ??? – – – Unlimited 
+ 
+ 
+ 
+   " Goblin King " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Goblin " 「ゴブリン」 Members 
+ Blindly Loyal Goblin Coach Goblin Goblin Attack Force Goblin Black Ops Goblin Calligrapher Goblin Decoy Squad Goblin Elite Attack Force Goblin King Goblin Marauding Squad Goblin Pothole Squad Goblin Recon Squad Goblin Zombie Goblin of Greed Goblindbergh Knightmare Goblin Scrap Goblin Scrounging Goblin Second Goblin Toon Goblin Attack Force 
+ Goblin Circus Goblin Out of the Frying Pan Goblin Thief Goblin's Secret Remedy Good Goblin Housekeeping Hard-sellin' Goblin Minor Goblin Official Peeking Goblin Robbin' Goblin Upstart Goblin 
+ Support 
+ Scrounging Goblin 
+ Related 
+ D.D. Trainer Giant Orc 
+ Hard-sellin' Zombie Pot of Greed Robbin' Zombie Toon World 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/72/GoblinKing-SDGU-EN-C-1E.jpg/revision/latest/scale-to-width-down/300?cb=20111020044347', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,247 @@
+Link: https://yugioh.fandom.com/wiki/Chaos_Space
+
+
+ 
+ 
+ Chaos Space 混沌領域 
+ 
+ English 
+Chaos Space 
+ French 
+ Espace du Chaos Check translation 
+ German 
+ Chaos-Raum Check translation 
+ Italian 
+ Spazio del Chaos Check translation 
+ Korean 
+ 카오스 테리토리 Check translation 
+ Portuguese 
+ Caos Espacial Check translation 
+ Spanish 
+ Espacio del Caos Check translation 
+ Japanese (kana) 
+ カオス・テリトリー Check translation 
+ Japanese (base) 
+ 混沌領域 Check translation 
+ Japanese ( rōmaji ) 
+Kaosu Teritorī 
+ Japanese (translated) 
+Chaos Territory 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 99266988 
+ Card effect types 
+ 
+ 
+ Effect 
+ Ignition-like 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Send  1  LIGHT  or  DARK   monster  from your  hand  to the  GY ;  add  1 LIGHT or DARK monster that cannot be  Normal Summoned / Set  from your  Deck  to your hand, with a  Level  from 4 to 8, and with a different  Attribute  than that monster. You can  banish  this card from your GY, then  target  1 of your banished LIGHT or DARK monsters that cannot be Normal Summoned/Set; place that monster on the bottom of the Deck, then  draw  1 card. You can only use each  effects  of "Chaos Space"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Envoyez 1 monstre LUMIÈRE ou TÉNÈBRES depuis votre main au Cimetière ; ajoutez 1 monstre LUMIÈRE ou TÉNÈBRES qui ne peut pas être Invoqué/Posé Normalement depuis votre Deck à votre main, avec un Niveau entre 4 et 8, et d'Attribut différent du monstre. Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 de vos monstres LUMIÈRE ou TÉNÈBRES bannis qui ne peut pas être Invoqué/Posé Normalement ; placez le monstre au-dessous du Deck, puis piochez 1 carte. Vous ne pouvez utiliser chaque effet de "Espace du Chaos" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Lege 1 LICHT oder FINSTERNIS Monster von deiner Hand auf den Friedhof; füge deiner Hand 1 LICHT oder FINSTERNIS Monster mit einer Stufe von 4 bis 8, das nicht als Normalbeschwörung beschworen/gesetzt werden kann und das eine unterschiedliche Eigenschaft als das Monster hat, von deinem Deck hinzu. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 deiner verbannten LICHT oder FINSTERNIS Monster wählen, das nicht als Normalbeschwörung beschworen/gesetzt werden kann; lege das Monster unters Deck, dann ziehe 1 Karte. Du kannst jeden Effekt von „Chaos-Raum“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Manda 1 mostro LUCE o OSCURITÀ dalla tua mano al Cimitero; aggiungi dal tuo Deck alla tua mano 1 mostro LUCE o OSCURITÀ che non può essere Evocato Normalmente/Posizionato, con Livello tra 4 e 8 e con Attributo diverso da quel mostro. Puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 dei tuoi mostri LUCE o OSCURITÀ banditi che non possono essere Evocati Normalmente/Posizionati; metti quel mostro in fondo al Deck, poi pesca 1 carta. Puoi utilizzare ogni effetto di "Spazio del Chaos" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Envie 1 monstro de LUZ ou de TREVAS da sua mão para o Cemitério; adicione 1 monstro de LUZ ou de TREVAS que não pode ser Invocado por Invocação-Normal/Baixado do seu Deck à sua mão, com um Nível entre 4 e 8, e com um Atributo diferente que o desse monstro. Você pode banir este card do seu Cemitério e, depois, escolha 1 dos seus monstros de LUZ ou de TREVAS banidos que não pode ser Invocado por Invocação-Normal/Baixado; coloque esse monstro no fundo do Deck e, depois, compre 1 card. Você só pode usar cada efeito de "Caos Espacial" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Manda al Cementerio 1 monstruo de LUZ o de OSCURIDAD en tu mano; añade a tu mano 1 monstruo de LUZ o de OSCURIDAD en tu Deck que no pueda ser Invocado de Modo Normal/Colocado, que tenga un Nivel de 4 a 8 y con diferente Atributo que el monstruo mandado. Puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 de tus monstruos de LUZ o de OSCURIDAD desterrado que no pueda ser Invocado de Modo Normal/Colocado; pon ese monstruo en el fondo del Deck, y después roba 1 carta. Sólo puedes usar cada efecto de "Espacio del Caos" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードは通常召喚できず、カードの効果でのみ特殊召喚できる。このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分の墓地から光属性または闇属性のモンスター１体を除外して発動できる。このカードを手札から特殊召喚する。②：このカードが除外された場合に発動できる。デッキから光属性または闇属性のモンスター１体を墓地へ送る。このターン、自分はこの効果で墓地へ送ったカード及びその同名カードの効果を発動できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 패에서 빛 속성 또는 어둠 속성의 몬스터 1장을 묘지로 보내고 발동할 수 있다. 그 몬스터와는 속성이 다르고, 레벨 4~8 의 통상 소환할 수 없는 빛 / 어둠 속성 몬스터 1장을 덱에서 패에 넣는다. ②: 묘지의 이 카드를 제외하고, 제외되어 있는 자신의 통상 소환할 수 없는 빛 / 어둠 속성 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 덱 맨 아래로 되돌린다. 그 후, 자신은 덱에서 1장 드로우한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2020-06-18 TOCH-EN009 Toon Chaos Super Rare 2020-06-18 TOCH-EN009 Toon Chaos Collector's Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2020-06-18 TOCH-FR009 Toon Chaos Le Chaos Toon Super Rare 2020-06-18 TOCH-FR009 Toon Chaos Le Chaos Toon Collector's Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2020-06-18 TOCH-DE009 Toon Chaos Toon Chaos Super Rare 2020-06-18 TOCH-DE009 Toon Chaos Toon Chaos Collector's Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2020-06-18 TOCH-IT009 Toon Chaos Chaos Toon Super Rare 2020-06-18 TOCH-IT009 Toon Chaos Chaos Toon Collector's Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2020-06-18 TOCH-PT009 Toon Chaos Caos Toon Super Rare 2020-06-18 TOCH-PT009 Toon Chaos Caos Toon Collector's Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2020-06-18 TOCH-SP009 Toon Chaos Caos Toon Super Rare 2020-06-18 TOCH-SP009 Toon Chaos Caos Toon Collector's Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2020-10-03 WPP1-JP014 World Premiere Pack 2020 ＷＯＲＬＤ ＰＲＥＭＩＥＲＥ ＰＡＣＫ ２０２０ Super Rare 2020-10-03 WPP1-JP014 World Premiere Pack 2020 ＷＯＲＬＤ ＰＲＥＭＩＥＲＥ ＰＡＣＫ ２０２０ Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2021-01-12 WPP1-KR014 World Premiere Pack 2020 월드 프리미어 팩 2020 Super Rare 2021-01-12 WPP1-KR014 World Premiere Pack 2020 월드 프리미어 팩 2020 Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ LIGHT 
+ DARK 
+ 
+ Archetypes  and  series   
+ Chaos 
+ 
+ Actions  
+ Sends from hand to Graveyard for cost 
+ Adds from Deck to hand 
+ Activates from your Graveyard 
+ Returns the player's banished cards to the Deck by effect 
+ You draw cards 
+ 
+ Banished  categories  
+ Banishes itself from Graveyard for cost 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 15478 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Chaos " 「カオス」 Members 
+ Black Luster Soldier Black Luster Soldier Black Luster Soldier - Envoy of the Beginning Black Luster Soldier - Envoy of the Evening Twilight Black Luster Soldier - Sacred Soldier Black Luster Soldier - Soldier of Chaos Black Luster Soldier - Super Soldier Blue-Eyes Chaos Dragon Blue-Eyes Chaos MAX Dragon CXyz Barian Hope CXyz Battleship Cherry Blossom CXyz Coach Lord Ultimatrainer CXyz Comics Hero Legend Arthur CXyz Dark Fairy Cheer Girl CXyz Mechquipped Djinn Angeneral CXyz N.As.Ch. Knight CXyz Simon the Great Moral Leader CXyz Skypalace Babylon Chaos Ancient Gear Giant Chaos Archfiend Chaos Beast Chaos Betrayer Chaos Command Magician Chaos Core The Chaos Creator Chaos Daedalus Chaos Emperor Dragon - Envoy of the End Chaos Emperor, the Dragon of Armageddon Chaos Goddess Chaos Grepher Chaos Hunter Chaos King Archfiend Chaos Mirage Dragon Chaos Necromancer Chaos Nephthys Chaos Ruler, the Chaotic Magical Dragon Chaos Sorcerer Chaos Witch Chaos-End Master Chaosrider Gustaph Contrast HERO Chaos Core of Chaos D/D/D Chaos King Apocalypse Elemental HERO Chaos Neos Illusion of Chaos Kamionwizard The Legendary Swordmaster Black Luster Soldier Magician of Black Chaos Magician of Black Chaos MAX Magician of Chaos Master of Chaos Morphing Jar #2 Number C1: Numeron Chaos Gate Sunya Number C5: Chaos Chimera Dragon Number C6: Chronomaly Chaos Atlandis Number C9: Chaos Dyson Sphere Number C15: Gimmick Puppet Giant Hunter Number C32: Shark Drake Veiss Number C39: Utopia Ray Number C39: Utopia Ray V Number C39: Utopia Ray Victory Number C40: Gimmick Puppet of Dark Strings Number C43: High Manipulator of Chaos Number C65: King Overfiend Number C69: Heraldry Crest of Horror Number C73: Abyss Supra Splash Number C80: Requiem in Berserk Number C88: Gimmick Puppet Disaster Leo Number C92: Heart-eartH Chaos Dragon Number C96: Dark Storm Number C1000: Numerounius Number C101: Silent Honor DARK Number C102: Archfiend Seraph Number C103: Ragnafinity Number C104: Umbral Horror Masquerade Number C105: Battlin' Boxer Comet Cestus Number C106: Giant Red Hand Number C107: Neo Galaxy-Eyes Tachyon Dragon Number iC1000: Numerounius Numerounia Phantom of Chaos Shell of Chaos Sphere of Chaos Toon Black Luster Soldier Ultimate Dragonic Utopia Ray Ultimate Leo Utopia Ray 
+ Barian's Chaos Draw Black Luster Ritual Black Magic Ritual Chaos Burst Chaos End Chaos Form Chaos Greed Chaos Infinity Chaos Phantasm Chaos Space Chaos Trap Hole Chaos Zone Eternal Chaos Gateway to Chaos Numeron Chaos Ritual Rank-Up-Magic Argent Chaos Force Rank-Up-Magic Quick Chaos Tachyon Chaos Hole Yellow Luster Shield 
+ Support 
+ Chaos Archfiend Magician of Chaos Master of Chaos 
+ Chaos Form 
+ Related 
+ Battlecruiser Dianthus Beginning Knight Black Dragon Collapserpent Blue-Eyes Ultimate Dragon Blue-Eyes White Dragon Chaos Dragon Levianeer Chaos Valkyria Coach King Giantrainer Comics Hero King Arthur The Creator Curtain of the Dark Ones Dark End Dragon Dark Magician Dark Magician Girl Dark Magician of Chaos Darkflare Dragon Demise, Agent of Armageddon Demise, King of Armageddon Demise, Supreme King of Armageddon Dragon Master Knight Dunames Dark Witch Dwarf Star Dragon Planeter Eclipse Wyvern Elemental HERO Neos Envoy of Chaos Evening Twilight Knight Fairy Cheer Girl Gaia, the Mid-Knight Sun Gaia, the Polar Knight Galaxy-Eyes Photon Dragon Levia-Dragon - Daedalus Light End Dragon Light and Darkness Dragon Lightpulsar Dragon Lightray Sorcerer Magician of Dark Illusion Mechquipped Angineer Mirage Dragon Mystical Elf N.As.H. Knight Neo-Spacian Dark Panther Neo-Spacian Glow Moss Norito the Moral Leader Number 6: Chronomaly Atlandis Number 9: Dyson Sphere Number 32: Shark Drake Number 39: Utopia Number 43: Manipulator of Souls Number 62: Galaxy-Eyes Prime Photon Dragon Number 65: Djinn Buster ... further results 
+ Beginning of Heaven and Earth Chaos Scepter Blast Chaos Seed Dedication through Light and Darkness Dragon's Rebirth End of the World Exchange of Night and Day Marshalling Field Primal Seed Rank-Up-Magic - The Seventh One Super Soldier Ritual Super Soldier Synthesis 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/bd/ChaosSpace-TOCH-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20201123202448', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

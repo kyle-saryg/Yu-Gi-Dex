@@ -1,0 +1,88 @@
+Link: https://yugioh.fandom.com/wiki/Yugi_Mutou_and_Aigami%27s_Duel
+
+
+ 
+ Yugi Mutou and Aigami's Duel 
+ 
+ 
+ 
+ 
+ Yugi Mutou and Aigami's Duel 
+ 
+ 
+ Game details 
+ 
+ Game 
+ Duel Monsters 
+ 
+ 
+ Projectors 
+ Duel Disk 
+ 
+ 
+ Players 
+ Yugi Mutou Aigami 
+ 
+ 
+ Winner(s) 
+ Yugi Mutou 
+ 
+ 
+ Location 
+ Kaiba Land 
+ 
+ 
+ 
+ Appearances 
+ 
+ Anime  
+ Yu-Gi-Oh! The Dark Side of Dimensions 
+ 
+ 
+ 
+ Yugi Mutou  and  Aigami  faced each other in a game of  Duel Monsters  in  Yu-Gi-Oh! The Dark Side of Dimensions .
+ 
+ Contents 
+ 
+ 1   Events 
+ 
+ 1.1   Prior 
+ 1.2   Duel 
+ 1.3   Aftermath 
+ 
+ 
+ 2   Cards used 
+ 3   References 
+ 
+ 
+ Events 
+   This summary is currently incomplete. 
+ Prior 
+ Aigami  interfered with  KaibaCorp 's excavation of the  Shrine of the Underworld  and managed to steal two pieces of the  Millennium Puzzle . He gave one of the pieces to his sister,  Sera , who in turn gave it to  Yugi .
+ Aigami displayed an interest becoming friends with Yugi. However, he sent Yugi's friends  Katsuya Jonouchi  and  Ryo Bakura  to other dimensions. Yugi learned of this and managed to reunite with Jonouchi, but continued to search for Bakura.
+ Seto Kaiba  announced that there would be an exhibition Duel at  Kaiba Land  to showcase his new  Duel Disk . He had a group of men abduct Aigami and bring him to Kaiba Land. Kaiba learned that Aigami did not have both pieces of the puzzle and suspected Yugi had the other one. Kaiba personally met up with Yugi and showed him that he had all of the  Millennium Puzzle  assembled, minus the two pieces and demanded that Yugi take part in the exhibition Duel.
+ When Yugi arrived at Kaiba Land, Kaiba announced that he would be Dueling Aigami and then Yugi, in order to obtain their pieces of the Millennium Puzzle. However Yugi was annoyed with what Aigami had done to his friends and intent on finding Bakura, so he insisted that he be the one to Duel Aigami.
+ 
+ Duel 
+ This Duel uses  Dimension Summoning . Both  Normal Summons  and  Special Summons  may be conducted as Dimension Summons instead, allowing players to Summon any  monster  without  Tribute , by using their own Spirit to determine its  ATK  and  DEF  values, though their maximum  original values  will be the printed values. Neither player receives  battle damage  from  battles  involving Dimension Summoned monsters, but will take damage equal to their ATK or DEF when they are  destroyed , depending on their  battle position .
+ As every monster Dimension Summoned by both players was Summoned with its maximum values, that will be not be noted below. 
+ Turn 1: Yugi 
+ Yugi   draws  " Dimension Mirage ". He Dimension Summons " Sentry Soldier of Stone " (1300/2000) in  Defense Position  and then  Sets  two cards.
+ Turn 2: Aigami 
+ Aigami  Dimension Summons " Vijam the Cubic Seed " (0/0) in  Attack Position . Aigami stacks his "Vijam" to Dimension Summon " Geira Guile the Cubic King " (0/0) from his  hand  in Attack Position via its own  effect . As it was Special Summoned, its effect  activates , inflicting 800  damage  to the opponent (Yugi: 8000 → 7200). "Geira Guile" gains 800  original ATK  (0 → 800) for each monster stacked underneath it.> Yu-Gi-Oh! Duel Monsters Anime Complete Guide: Millennium Memory ,  /> Aigami then activates " Cubic Karma ", letting him stack any "Vijam" from his hand underneath a " Cubic " monster he  controls . He stacks two more "Vijam" under "Geira Guile" (ATK: 800 → 2400). "Geira Guile"  attacks  and destroys "Sentry Soldier of Stone" (Yugi: 7200 → 5200). As he took 2000 or more battle damage, Yugi activates his  face-down  " Dig of Destiny ", letting him draw a card. Since it  battled  this  turn , Aigami activates the effect of "Geira Guile",  returning  it to his Deck to Special Summon the three "Vijam" (0/0 each) underneath it and  add  " Vulcan Dragni the Cubic King " from his  Deck  to his hand.
+ Aigami stacks two "Vijam" to Dimension Summon "Vulcan Dragni" (0/0) from his hand in Attack Position via its own effect. As it was Special Summoned, its effects activates, inflicting 800 damage to the opponent (Yugi: 5200 → 4400). "Vulcan Dragni" gains 800 original ATK for each monster stacked underneath it (0 → 1600). "Vulcan Dragni" attacks  directly  (Yugi: 4400 → 2800). Since it battled this turn, Aigami activates the effect of "Vulcan Dragni", returning it to the Deck to Special Summon the two "Vijam" (0/0 each) underneath it and add " Indiora Doom Volt the Cubic Emperor " from his Deck to his hand. Aigami stacks his three "Vijam" to Dimension Summon "Indiora Doom Volt" (0/0) from his hand in Attack Position via its own effect. As it was Special Summoned, its effect activates, inflicting 800 damage to the opponent (Yugi: 2800 → 2000). "Indiora Doom Volt" gains 800 original ATK for each monster stacked underneath it (0 → 2400). "Indiora Doom Volt" attacks directly. As he is being attacked directly, Yugi activates his face-down " Warrior's Devotion ", letting him  send  a  Warrior - Type  monster from his hand to the  Graveyard  to decrease the attacking monster's ATK by the sent monster's ATK.He sends " Silent Swordsman LV5 " ("Indiora Doom Volt": 2400 → 100). The attack continues (Yugi: 2000 → 1900).
+ Turn 3: Yugi 
+Yugi Dimension Summons " Lord Gaia the Fierce Knight " (2300/2100) in Attack Position. "Lord Gaia" attacks and destroys "Indiora Doom Volt" (Aigami: 8000 → 7900). Since "Indiora Doom Volt" was sent to the Graveyard, its effect activates, letting him return it to his hand and Special Summon the three "Vijam" (0/0 each) underneath it. As he Special Summoned a " Cubic Seed " monster during his opponent's turn via the effect of a "Cubic" monster, Aigami activates the effect of "Cubic Karma", sending to the Graveyard to halve his opponent's  LP  (Yugi: 1900 → 950). Yugi Sets three cards.
+ Turn 4: Aigami 
+Aigami stacks his three "Vijam" to Dimension Summon "Indiora Doom Volt" (0/0) from his hand in Attack Position via its own effect. As it was Special Summoned, its effect activates, inflicting 800 damage to the opponent (Yugi: 950 → 150). "Indiora Doom Volt" gains 800 original ATK for each monster  stacked underneath it (0 → 2400). As Aigami Special Summoned a monster with ATK greater than the ATK of "Lord Gaia", the effect of "Lord Gaia" increases its ATK by 700 (2300 → 3000) until the  End Phase . Aigami then activates " Cublic Wave ", letting him target a "Cubic" monster he controls and a monster his opponent controls, increase the ATK of his monster by its original ATK and halve the ATK of his opponent's monster as long as "Cubic Karma" remains on the field ("Indiora Doom Volt": 2400 → 4800, "Lord Gaia": 3000 → 1500). Yu-Gi-Oh! Duel Monsters Anime Complete Guide: Millennium Memory Indiora Doom Volt" attacks "Lord Gaia", but Yugi activates his face-down  Continuous Trap Card  " Dimension Sphinx ", letting him target a face-up Attack Position monster he controls. When it is attacked by an opponent's monster with higher ATK, the difference in ATKs will be inflicted to the opponent as damage. Yugi then activates his face-down Continuous Trap Card " Dimension Guardian ", letting him target an Attack Position monster he controls and prevent its  destruction by battle  as long as it is in Attack Position. Finally, Yugi activates his face-down "Dimension Mirage", letting him target an Attack Position monster his opponent controls. When that monster fails to destroy an Attack Position monster Yugi controls by battle, he may  banish  a monster from his Graveyard to force that target to attack again in a row. The attack continues, "Lord Gaia" is not destroyed and Aigami takes damage (Aigami: 7900 → 4600).
+ Since "Indiora Doom Volt" failed to destroy "Lord Gaia" by battle, Yugi banishes a monster from his Graveyard with "Dimension Mirage", the effect of "Dimension Mirage" forces "Indiora Doom Volt" to attack "Lord Gaia" again, with the effect of "Dimension Guardian" preventing "Lord Gaia" from being destroyed and the effect of "Dimension Sphinx" inflicting damage to Aigami (Aigami: 4600 → 1300). Thus, Aigami is forced into an  controlled loop  and this repeats one more time, with Yugi banishing the last monster in his Graveyard (Aigami: 1300 → 0).
+ 
+ Aftermath 
+ Cards used 
+ References 
+ Tachishini (April 23, 2016).  " Yu-Gi-Oh! The Darkside of Dimensions  summary" . Tumblr .  http://tachishini.tumblr.com/post/143242399662/yu-gi-oh-the-darkside-of-dimensions . 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/f7/Yugi_VS_Aigami.png/revision/latest/scale-to-width-down/350?cb=20160424205155', 'https://static.wikia.nocookie.net/yugioh/images/f/f4/Ambox_content.png/revision/latest/scale-to-width-down/20?cb=20101005173352']
+Categories: Duels

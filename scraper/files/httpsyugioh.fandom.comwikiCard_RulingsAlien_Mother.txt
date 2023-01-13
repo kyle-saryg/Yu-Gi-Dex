@@ -1,0 +1,73 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Alien_Mother
+
+
+ Alien Mother 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Contents 
+ 
+ 1   TCG Rulings 
+ 
+ 1.1   Related Rulings 
+ 
+ 
+ 2   Previously Official Rulings 
+ 3   References 
+ 
+ 
+ TCG Rulings 
+ Related Rulings 
+ Blackwing - Shura the Blue Flame 
+ CLARIFICATION: 
+ The effect of “ Blackwing – Shura the Blue Flame ” activates when monsters are destroyed and sent to the Graveyard at the end of the  Damage Step .  This is the same timing as the effects of cards like “ Hydrogeddon ,” “ Blue Thunder T-45 ,” “ Goyo Guardian ,” and  “ Elemental Hero Flame Wingman ”  [ sic ] . 
+ In order for its effect to activate, “ Blackwing – Shura the Blue Flame ” must be face-up on the field when the monster it destroyed by battle is sent to the Graveyard. This means:
+ If  Shura  and the other monster destroy each other by battle (equal ATK),  Shura’s  effect does not activate. 
+ If  Shura  is destroyed by a  Flip Effect  like “ Man-Eater Bug ,”  Shura’s  effect does not activate. 
+ If  Shura  is flipped face-down after damage calculation by a card effect, such as “ Desertapir ,”  Shura’s  effect does not activate. 
+ If  Shura  is  removed from play  [ sic ]  by battling “ D.D. Warrior ,”  Shura’s  effect does not activate. 
+ If  Shura  is destroyed by an effect after the monster it destroyed by battle was sent to the Graveyard, such as “ Michizure ,”  Shura’s  effect DOES activate, and you can Special Summon a monster. 
+ NOTE:  These rules also apply to any other monster with the text  “When this card destroys an opponent’s monster by battle and sends it to the Graveyard….”  (Examples: “ Hydrogeddon ,” “ Goyo Guardian ,” or  “ Elemental Hero Flame Wingman ”  [ sic ] .) 
+ These rules do NOT apply to monsters with the text  “When this card destroys an opponent’s monster by battle….”  (but does not specify “and sends it to the Graveyard”). (Example: “ Blue Thunder T-45 ”.) Monsters with that text will activate their effects in ALL of the above scenarios. 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [1]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [2] [3] [4] [5] [6] [7] [8] [9] [10] 
+ 
+ If " Alien Mother " is  flipped  face-down, any monsters you Special Summoned with her effect are not destroyed. If the same " Alien Mother " is later removed from the field, even if was flipped face-up again, monsters you Special Summoned with her effect are not destroyed. 
+ 
+ 
+ 
+ References 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

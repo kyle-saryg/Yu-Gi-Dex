@@ -1,0 +1,103 @@
+Link: https://yugioh.fandom.com/wiki/Reverse_Buster_(anime)
+
+Main card page: " Reverse Buster " 
+ Reverse Buster 
+ 
+ Japanese:   リバース・バスター 
+ Romaji:   Ribāsu Basutā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Level 
+ 
+ 
+ 4   
+ 
+ [  Fiend  /  Effect  ] If this card  attacks , your opponent cannot  activate   Spell / Trap Cards  until the end of the  Damage Step . At the start of the Damage Step, if this card attacked a  face-down   Defense Position   monster : You can  destroy  that monster immediately with this card's  effect  without  flipping  it  face-up  or applying  damage calculation , then this card gains 500  ATK .
+ ATK  /  1500     DEF  /  0   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  023 ,  052 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ リバース・バスター 
+ このカードが攻撃する場合、相手プレイヤーは魔法・罠カードを発動する事ができない。このカードが裏側守備表示モンスターと戦闘する場合、ダメージ計算を行わずにそのモンスターを破壊する。この効果によって裏側守備表示モンスターを破壊した時、このカードの攻撃力は５００ポイントアップする。 
+ 
+ 
+ Ribāsu Basutā 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Kite Tenjo 
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ This card gains ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Prevents activation of your opponent's Spell Cards 
+ Prevents activation of your opponent's Trap Cards 
+ Destroys your opponent's face-down Defense Position Monster Cards 
+ Destroys battling monster at the start of the Damage Step 
+ 
+ 
+ 
+   " Reverse Buster " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/92/ReverseBuster-JP-Anime-ZX.png/revision/latest?cb=20111215152752', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/ReverseBuster-OW.png/revision/latest/scale-to-width-down/185?cb=20140618151938', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1c/ReverseBuster-JP-Anime-ZX-NC.png/revision/latest/scale-to-width-down/185?cb=20120608132732', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

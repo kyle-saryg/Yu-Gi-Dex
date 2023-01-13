@@ -1,0 +1,35 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Aquarium_Lighting
+
+
+ Aquarium Lighting 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ If an "Aquaactress" monster you control battles an opponent's monster, during damage calculation: Your battling monster's ATK  and  DEF each become double its current ATK  and  DEF during that damage calculation only. If this card is sent from the field to the  Graveyard : You can target 1 Aqua -Type  monster in your  Graveyard ; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except Aqua -Type  monsters. You can only control 1 "Aquarium Lighting". 
+ If an "Aquaactress" monster you control battles an opponent's monster, during damage calculation: Your battling monster's ATK / DEF each become double its current ATK / DEF during that damage calculation only. If this card is sent from the field to the  GY : You can target 1 Aqua monster in your  GY ; Special Summon it, also you cannot Special Summon monsters for the rest of this turn, except Aqua monsters. You can only control 1 "Aquarium Lighting". 
+ 
+ 
+       DRL2-EN044 Dragons of Legend 2     
+       DLCS-EN095 Dragons of Legend: The Complete Series     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/04/AquariumLighting-DRL2-EN-SR-1E.png/revision/latest/scale-to-width-down/180?cb=20150716174901', 'https://static.wikia.nocookie.net/yugioh/images/d/d8/AquariumLighting-DLCS-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20201125201333']
+Categories: Card Errata, Cards with 1 erratum

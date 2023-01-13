@@ -1,0 +1,467 @@
+Link: https://yugioh.fandom.com/wiki/Blue_Dragon_Summoner
+
+
+ 
+ 
+ Blue Dragon Summoner 青 竜 の 召 喚 士 
+ 
+ English 
+Blue Dragon Summoner 
+ French 
+ Invocateur Dragon Bleu Check translation 
+ German 
+ Blauer Drachenbeschwörer Check translation 
+ Italian 
+ Evocatore Drago Blu Check translation 
+ Korean 
+ 청룡의 소환사 Check translation 
+ Portuguese 
+ Invocador do Dragão Azul Check translation 
+ Spanish 
+ Invocador del Dragón Azul Check translation 
+ Japanese (kana) 
+ せいりゅうのしょうかんし Check translation 
+ Japanese (base) 
+ 青竜の召喚士 Check translation 
+ Japanese ( rōmaji ) 
+Seiryū no Shōkanshi 
+ Japanese (translated) 
+Azure Dragon Summoner 
+ Card type 
+ Monster   
+ Attribute 
+ WIND   
+ Types 
+ Spellcaster  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1500  /  600 
+ Passcode 
+ 55969226 
+ Card effect types 
+ 
+ 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If this card is  sent  from the  field  to the  GY : You can  add  1  Dragon ,  Warrior , or  Spellcaster   Normal Monster  from your  Deck  to your  hand . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si cette carte est envoyée depuis le Terrain au Cimetière : vous pouvez ajouter 1 Monstre Normal Dragon, Guerrier ou Magicien depuis votre Deck à votre main. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird: Du kannst deiner Hand 1 Normales Drache-, Krieger- oder Hexer-Monster von deinem Deck hinzufügen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se questa carta viene mandata dal Terreno al Cimitero: puoi aggiungere 1 Mostro Normale Drago, Guerriero o Incantatore dal tuo Deck alla tua mano. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se este card for enviado do campo para o Cemitério: você pode adicionar 1 Monstro Normal Dragão, Guerreiro ou Mago do seu Deck à sua mão. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si esta carta es mandada del Campo al Cementerio: puedes añadir a tu mano 1 Monstruo Normal Dragón, Guerrero o Lanzador de Conjuros en tu Deck. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：このカードがフィールドから墓地へ送られた場合に発動できる。デッキからドラゴン族・戦士族・魔法使い族の通常モンスター１体を手札に加える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ① : 이 카드가 필드에서 묘지로 보내졌을 경우에 발동할 수 있다. 덱에서 드래곤족 / 전사족 / 마법사족의 일반 몬스터 1장을 패에 넣는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-EN017   
+ Super Starter: Space-Time Showdown 
+ Common 
+ 
+ 
+ 2019-01-24  
+ SS01-ENA08   
+ Speed Duel Starter Decks: Destiny Masters 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—Europe 
+ 
+ 
+ 
+ European English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2016-01-14  
+ DEM3-EN009   
+ Demo Deck 2016 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-FR017   
+ Super Starter: Space-Time Showdown 
+ Super Deck de Démarrage: La Confrontation de l'Espace-Temps  
+ Common 
+ 
+ 
+ 2016-01-14  
+ DEM3-FR009   
+ Demo Deck 2016 
+ Demo Deck 2016  
+ Common 
+ 
+ 
+ 2019-01-24  
+ SS01-FRA08   
+ Speed Duel Starter Decks: Destiny Masters 
+ Decks de Démarrage Speed Duel : Les Maîtres du Destin  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-DE017   
+ Super Starter: Space-Time Showdown 
+ Super Starter: Space-Time Showdown  
+ Common 
+ 
+ 
+ 2016-01-14  
+ DEM3-DE009   
+ Demo Deck 2016 
+ Demo Deck 2016  
+ Common 
+ 
+ 
+ 2019-01-24  
+ SS01-DEA08   
+ Speed Duel Starter Decks: Destiny Masters 
+ Speed Duel Starter Decks: Destiny Masters  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-IT017   
+ Super Starter: Space-Time Showdown 
+ Super Starter: Resa dei Conti dello Spazio-Tempo  
+ Common 
+ 
+ 
+ 2016-01-14  
+ DEM3-IT009   
+ Demo Deck 2016 
+ Demo Deck 2016  
+ Common 
+ 
+ 
+ 2019-01-24  
+ SS01-ITA08   
+ Speed Duel Starter Decks: Destiny Masters 
+ Starter Deck Speed Duel: Maestri del Destino  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2014-07-11  
+ YS14-PT017   
+ Super Starter: Space-Time Showdown 
+ Super Deck Inicial: Confronto Espaço-Tempo  
+ Common 
+ 
+ 
+ 2019-01-24  
+ SS01-PTA08   
+ Speed Duel Starter Decks: Destiny Masters 
+ Decks Iniciais Speed Duel: Mestres do Destino  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-SP017   
+ Super Starter: Space-Time Showdown 
+ Súper Baraja de Principiante: La Confrontación del Espacio-Tiempo  
+ Common 
+ 
+ 
+ 2019-01-24  
+ SS01-SPA08   
+ Speed Duel Starter Decks: Destiny Masters 
+ Barajas de Principiante Speed Duel: Maestros del Destino  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2014-03-21  
+ ST14-JP017   
+ Starter Deck 2014 
+ ＳＴＡＲＴＥＲ ＤＥＣＫ ２０１４  
+ Common 
+ 
+ 
+ 2017-06-02  
+ LG01-JP010   
+ Yu-Gi-Oh! Duel Links Legend Deck Guide: Yami Yugi VS Seto Kaiba promotional cards 
+ 遊戯王デュエルリンクス レジェンドデッキガイド 闇遊戯ＶＳ海馬瀬人 同梱カード  
+ Common 
+ 
+ 
+ 2017-06-02  
+ LG02-JP010   
+ Yu-Gi-Oh! Duel Links Legend Deck Guide: Yami Yugi VS Seto Kaiba promotional cards 
+ 遊戯王デュエルリンクス レジェンドデッキガイド 闇遊戯ＶＳ海馬瀬人 同梱カード  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2014-07-08  
+ ST14-KR017   
+ Starter Deck 2014 
+ STARTER   DECK  2014  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Dragon 
+ Warrior 
+ Spellcaster 
+ Normal Monster 
+ 
+ Archetypes  and  series   
+ Summoner 
+ 
+ Related to  archetypes  and  series   
+ Empower 
+ 
+ Actions  
+ Activates from your Graveyard 
+ Adds from Deck to hand 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11142 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Empower  魔装 Members 
+ Aether, the Empowering Dragon Aether, the Evil Empowering Dragon Arnis, the Empowered Warrior Dragodies, the Empowered Warrior Dragonox, the Empowered Warrior Hydrotortoise, the Empowered Warrior Terratiger, the Empowered Warrior Ventdra, the Empowered Warrior 
+ Empowerment 
+ Related 
+ Blue Dragon Summoner Golden Dragon Summoner Green Turtle Summoner Red Sparrow Summoner White Tiger Summoner 
+ 
+   
+ Summoner   召 喚 士 Members 
+ Blue Dragon Summoner Golden Dragon Summoner Green Turtle Summoner Red Sparrow Summoner White Tiger Summoner 
+ Related 
+ Aether, the Empowering Dragon Arnis, the Empowered Warrior Hydrotortoise, the Empowered Warrior Terratiger, the Empowered Warrior Ventdra, the Empowered Warrior 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/cc/BlueDragonSummoner-SS01-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20190128200008', 'https://static.wikia.nocookie.net/yugioh/images/0/01/WIND.svg/revision/latest/scale-to-width-down/28?cb=20170920205028', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,88 @@
+Link: https://yugioh.fandom.com/wiki/Dimensional_Isoallotope_Varis
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Dimensional Isoallotope Varis 次 元 同 異 体 ヴァリス 
+ 
+ English 
+Dimensional Isoallotope Varis 
+ Japanese (kana) 
+ じげんどういたいヴァリス Check translation 
+ Japanese (base) 
+ 次元同異体ヴァリス Check translation 
+ Japanese ( rōmaji ) 
+Jigen Dō'itai Varisu 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Psychic  /  Tuner  /  Effect 
+ Level 
+ 1   
+ ATK  /  DEF 
+ 0  /  0 
+ Passcode 
+ 52254878 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Cannot be  destroyed in battle  with a  monster  with the same  Type  and/or  Attribute . You can  declare  1 Type and 1 Attribute; this card's Type and Attribute become the declared Type and Attribute until the end of the opponent's  turn . You can only use this  effect  of "Dimensional Isoallotope Varis"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の②の効果は１ターンに１度しか使用できない。①：このカードは、このカードと種族または属性が同じモンスターとの戦闘では破壊されない。②：種族と属性を１つずつ宣言して発動できる。このカードは相手ターン終了時まで宣言した種族・属性になる。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-10-15 PHHY-JP028 Photon Hypernova ＰＨＯＴＯＮ ＨＹＰＥＲＮＯＶＡ Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 18173 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/74/DimensionalIsoallotopeVaris-PHHY-JP-C.png/revision/latest/scale-to-width-down/300?cb=20221107190733', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

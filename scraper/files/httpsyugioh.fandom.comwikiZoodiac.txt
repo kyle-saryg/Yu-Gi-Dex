@@ -1,0 +1,299 @@
+Link: https://yugioh.fandom.com/wiki/Zoodiac
+
+
+ 
+ Zoodiac 
+ 十二獣 「 じゅうにしし 」  ( Jūnishishi ) 
+ 
+ 
+ 
+ 
+ Various "Zoodiac" monsters in RATE Regional season (2017) 
+ 
+ 
+ Translation 
+ Twelve Beasts 
+ 
+ 
+ Other names 
+ 
+ French 
+ Zoodiaque 
+ 
+ 
+ German 
+ Zoodiak 
+ 
+ 
+ Italian 
+ Zoodiaco 
+ 
+ 
+ Korean 
+ 십이수 十二獸   (Hanja)   Sib-isu   (romanized) Translation:  Twelve Beasts 
+ 
+ 
+ Portuguese 
+ Zoodíaco(a) 
+ 
+ 
+ Spanish 
+ Zoodíaco 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Raging Tempest Maximum Crisis 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ 2017 Mega-Tin Mega Pack OTS Tournament Pack 15 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! VRAINS 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Zoodiac ", known as " Twelve Beasts " ( 十 二 獣   Jūnishishi ) in the  OCG , is an  archetype  of  Level / Rank  4  EARTH   Beast-Warrior   monsters  that debuted in " Raging Tempest ".
+ " Master Peace, the True Dracoslayer " and " True King Lithosagym, the Disaster " appear to have a relation to this archetype in Duel Terminal Lore, as seen in " Zodiac Sign " and " Zoodiac Combo ", respectively.
+ 
+ Contents 
+ 
+ 1   Design 
+ 
+ 1.1   Appearance 
+ 1.2   Etymology 
+ 
+ 
+ 2   Members 
+ 3   Playing style 
+ 4   Weaknesses 
+ 5   Recommended cards 
+ 
+ 
+ Design 
+ Appearance 
+ The "Zoodiac" monsters are based on the  Twelve Animals of the Chinese Zodiac , with each monster being a slightly anthropomorphized version of their respective animal. Each monster also wears an oversized gauntlet on either their left or right forearm, with which they wield their own respective weapon.
+ 
+ Etymology 
+ The Japanese name, "Jūnishishi", is a play on the terms " Jūnishi " (十二支), which refers to the twelve signs of the Chinese zodiac, and " Shishi " (獣), meaning "beast". The English name, "Zoodiac", is a portmanteau of the words "zoo" and "zodiac".
+ 
+ Members 
+ 
+ 
+ Zoodiac
+ 
+ Origin
+ 
+ 
+ English name ( TCG )
+ 
+ OCG  name
+ 
+ Zodiac sign
+ 
+ Weapon
+ 
+ 
+ Ratpier 
+ 
+ Marmorat
+ 
+ Rat 
+ 
+ Rapier 
+ 
+ 
+ Broadbull 
+ 
+ Bullhorn
+ 
+ Ox 
+ 
+ Broadaxe 
+ 
+ 
+ Tigermortar 
+ 
+ Tigress
+ 
+ Tiger 
+ 
+ Mortar 
+ 
+ 
+ Bunnyblast 
+ 
+ Rabbina
+ 
+ Rabbit 
+ 
+ Blunderbuss 
+ 
+ 
+ Drident 
+ 
+ Drancia
+ 
+ Dragon 
+ 
+ Trident 
+ 
+ 
+ Whiptail 
+ 
+ Viper
+ 
+ Snake 
+ 
+ Snake whip 
+ 
+ 
+ Thoroughblade 
+ 
+ Thoroughblade
+ 
+ Horse 
+ 
+ Sword 
+ 
+ 
+ Ramram 
+ 
+ Ram
+ 
+ Goat 
+ 
+ Battering ram 
+ 
+ 
+ Hammerkong 
+ 
+ Hammerkong
+ 
+ Monkey 
+ 
+ Hammer 
+ 
+ 
+ Kataroost 
+ 
+ Cuckle
+ 
+ Rooster 
+ 
+ Katar 
+ 
+ 
+ Chakanine 
+ 
+ Lyca
+ 
+ Dog 
+ 
+ Chakram 
+ 
+ 
+ Boarbow 
+ 
+ Wildbow
+ 
+ Boar 
+ 
+ Bow 
+ 
+ Playing style 
+ The archetype's Main Deck monsters grants additional effect for any Beast-Warrior Xyz Monster they're attached to, ranging from protection against targeting effects, piercing battle damage, banishing opposing monster they battled, or even Summoning more monsters from the Deck.
+ The Xyz Monsters of the archetype, meanwhile, all possess variable (?) ATK/DEF, stemming from the total sum of the ATK/DEF of the "Zoodiac" monsters attached to them. Furthermore, each Xyz Monster can be Xyz Summoned once every turn by using 1 "Zoodiac" monster as Material (as long their names are different). Their Material requirements are generic, which means they can be used in other decks as well.
+ The biggest strength of this archetype is their capability of starting their sequences of play with just one card (any of their monster). With the collective strength from "Ratpier", "Broadbull", "Chakanine", and "Drident", in addition of having access to cards like " Zoodiac Barrage ", " Fire Formation - Tenki ", and " M-X-Saber Invoker ", gives them unrivaled consistency and card advantages overall, with almost no investment. Because of this, the deck doesn't require many of their Main Deck components, allowing them to incorporate several powerful cards that either increase their redundancy (such as " Shuffle Reborn " or " Soul Charge "), protect their field presences (such as " My Body as a Shield "), or even hindering their opponents (such as the  Hand traps , " Solemn Strike " or " Dimensional Barrier ") without affecting much of their consistency. By incorporating " Missus Radiant ", they can also mitigate the restriction imposed by the new Master Rule 4 by providing them with power boost, recovery, and two Monster Zones to Summon their Extra Deck monsters.
+ Because of their compact size, they can be included in several other decks (mainly just "Ratpier" and "Whiptail" in Main Deck, while at least "Broadbull" and "Drident" in Extra Deck).
+ With the recent announcement of  September 2017 Lists  in TCG (and  July 2017 Lists  in OCG), in which " Zoodiac Broadbull " and " Zoodiac Drident " being Forbidden and " Zoodiac Ratpier " being Limited (in addition to " Zoodiac Barrage " being also Forbidden in OCG), the deck has lost much of their functionality (albeit their "one-card-Xyz Summon" strength still remains). In addition, " Daigusto Emeral " being Forbidden in TCG also greatly weakens their recovery aspect, forcing them to rely exclusively on " Zoodiac Combo " for that purpose, which is also made less reliable due to the Limitation of "Ratpier".
+ 
+ Weaknesses 
+ Despite its unparalleled consistency, redundancy, and speed, it's not without its weakness. Their over-reliance on "Ratpier" makes it the prime target of any counter-attempt cards their opponents may utilize, such as " Chain Disappearance ". " Dimensional Barrier " is one of their worst enemy (and one of the only ones they cannot play around), since its effect essentially leaves them without any moves during the turn it resolves. " Ghost Reaper & Winter Cherries " is also deadly for this deck, especially for eliminating " Zoodiac Broadbull " (which cuts off their main source of card advantage), or " Zoodiac Drident " (leaves them unable to interrupt opponent's moves). In addition, cards like " Dark Hole " and " Interrupted Kaiju Slumber " can easily dismantle the deck's field presence (if no protection cards like " My Body as a Shield " are present).
+ 
+ Recommended cards 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ Zoodiac Ratpier 
+ Zoodiac Ramram 
+ Zoodiac Thoroughblade 
+ Zoodiac Whiptail 
+ Zoodiac Bunnyblast 
+ Zoodiac Kataroost 
+ Speedroid Taketomborg 
+ Speedroid Terrortop 
+ Predaplant Ophrys Scorpio 
+ Predaplant Darlingtonia Cobra 
+ Coach Captain Bearman Extra Deck   
+ Xyz Monsters 
+ Zoodiac Boarbow 
+ Zoodiac Hammerkong 
+ Zoodiac Chakanine 
+ Zoodiac Tigermortar 
+ Diamond Dire Wolf 
+ Zoodiac Drident 
+ Brotherhood of the Fire Fist - Tiger King 
+ M-X-Saber Invoker 
+ Tornado Dragon 
+ Coach King Giantrainer 
+ Divine Arsenal AA-ZEUS - Sky Thunder 
+ Link Monsters 
+ Missus Radiant 
+ Infinitrack Fortress Megaclops 
+ Aussa the Earth Charmer, Immovable Spells   &  Traps   
+ Spells 
+ Zoodiac Barrage 
+ Fire Formation - Tenki 
+ My Body as a Shield 
+ Pianissimo 
+ Forbidden Chalice 
+ Shuffle Reborn 
+ Traps 
+ Zoodiac Combo 
+   
+" Zoodiac " 「 十 二 獣 」 Members 
+ Zoodiac Boarbow Zoodiac Broadbull Zoodiac Bunnyblast Zoodiac Chakanine Zoodiac Drident Zoodiac Hammerkong Zoodiac Kataroost Zoodiac Ramram Zoodiac Ratpier Zoodiac Thoroughblade Zoodiac Tigermortar Zoodiac Whiptail 
+ Zoodiac Barrage Zoodiac Combo Zoodiac Gathering 
+ Support 
+ Zoodiac Boarbow Zoodiac Broadbull Zoodiac Bunnyblast Zoodiac Chakanine Zoodiac Drident Zoodiac Hammerkong Zoodiac Kataroost Zoodiac Ramram Zoodiac Ratpier Zoodiac Thoroughblade Zoodiac Tigermortar 
+ Zodiac Sign Zoodiac Barrage Zoodiac Combo Zoodiac Gathering 
+ 
+ v e 
+" Zoodiac " 「 十 二 獣 」 a   Members 
+ Zoodiac Hammerkong Zoodiac Ratpier 
+ Support 
+ Zoodiac Hammerkong Zoodiac Ratpier 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/34/Mat-WCQRegional-Zoodiac.png/revision/latest/scale-to-width-down/350?cb=20170216153409']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Xyz Monster(s)

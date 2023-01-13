@@ -1,0 +1,470 @@
+Link: https://yugioh.fandom.com/wiki/Card_of_Demise
+
+
+ 
+ 
+ Card of Demise 命 削 りの 宝 札 
+ 
+ English 
+Card of Demise 
+ French 
+ Carte d'Exécution Check translation 
+ German 
+ Karte des Untergangs Check translation 
+ Italian 
+ Carta dell'Oblio Check translation 
+ Korean 
+ 생명 단축의 패 Check translation 
+ Portuguese 
+ Despedida Final Check translation 
+ Spanish 
+ Carta de la Muerte Check translation 
+ Japanese (kana) 
+ いのちけずりのほうさつ Check translation 
+ Japanese (base) 
+ 命削りの宝札 Check translation 
+ Japanese ( rōmaji ) 
+Inochi Kezuri no Hōsatsu 
+ Japanese (translated) 
+Life-Shaving Treasure Cards 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 59750328 
+ Card effect types 
+ 
+ 
+ Effect 
+ Lingering 
+ Condition 
+ Condition Statuses Unlimited  ( OCG ) Limited  ( TCG   Advanced  and  Traditional ) 
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Draw  until you have 3 cards in your  hand , also for the rest of this  turn  after this card  resolves , your opponent takes no  damage . During the  End Phase  of this turn,  send  your entire hand to the  GY . You can only  activate  1 "Card of Demise" per turn. You cannot  Special Summon  during the turn you activate this card. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Piochez jusqu'à avoir 3 cartes dans votre main, et aussi, pour le reste de ce tour après la résolution de cette carte, votre adversaire ne reçoit aucun dommage. Durant la End Phase de ce tour, envoyez toute votre main au Cimetière. Vous ne pouvez activer qu'1 "Carte d'Exécution" par tour. Vous ne pouvez pas Invoquer Spécialement durant le tour où vous activez cette carte. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Ziehe, bis du 3 Karten in deiner Hand hast, zusätzlich erhält dein Gegner für den Rest dieses Spielzugs, nachdem diese Karte aufgelöst wurde, keinen Schaden. Während der End Phase dieses Spielzugs, lege deine gesamte Hand auf den Friedhof. Du kannst nur 1 „Karte des Untergangs“ pro Spielzug aktivieren. Du kannst während des Spielzugs, in dem du diese Karte aktivierst, keine Monster als Spezialbeschwörung beschwören. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Pesca fino a quando hai 3 carte nella tua mano, inoltre per il resto di questo turno dopo che questa carta si è risolta il tuo avversario non subisce danni. Durante la End Phase di questo turno, manda tutta la tua mano al Cimitero. Puoi attivare solo 1 "Carta dell'Oblio" per turno. Non puoi Evocare Specialmente durante il turno in cui attivi questa carta. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Compre até ter 3 cards na sua mão e, além disso, pelo resto deste turno depois da resolução deste card, seu oponente não sofre dano. Durante a Fase Final deste turno, envie toda a sua mão para o Cemitério. Você só pode ativar 1 "Despedida Final" por turno. Você não pode Invocar por Invocação-Especial durante o turno em que ativar este card. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Roba hasta que tengas 3 cartas en tu mano, y además, por el resto de este turno después de que se resuelva esta carta, tu adversario no recibe daño. Durante la End Phase de este turno, manda toda tu mano al Cementerio. Sólo puedes activar 1 "Carta de la Muerte" una vez por turno. No puedes Invocar de Modo Especial durante el turno que actives esta carta. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名のカードは１ターンに１枚しか発動できず、このカードを発動するターン、自分はモンスターを特殊召喚できない。①：自分は手札が３枚になるようにデッキからドローする。このカードの発動後、ターン終了時まで相手が受ける全てのダメージは０になる。このターンのエンドフェイズに、自分の手札を全て墓地へ送る。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "생명 단축의 패"는 1턴에 1장밖에 발동할 수 없으며, 이 카드를 발동하는 턴에, 자신은 몬스터를 특수 소환할 수 없다. ①: 자신은 패가 3장이 되도록 덱에서 드로우한다. 이 카드의 발동 후, 턴 종료시까지 상대가 받는 모든 데미지는 0 이 된다. 이 턴의 엔드 페이즈에, 자신의 패를 전부 묘지로 보낸다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2016-04-14  
+ MIL1-EN014   
+ Millennium Pack 
+ Ultra Rare 
+ 
+ 
+ 2018-03-08  
+ LCKC-EN029   
+ Legendary Collection Kaiba Mega Pack 
+ Secret Rare 
+ 
+ 
+ 2019-04-03  
+ DUPO-EN050   
+ Duel Power 
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2016-04-14  
+ MIL1-FR014   
+ Millennium Pack 
+ Pack du Millenium  
+ Ultra Rare 
+ 
+ 
+ 2018-03-08  
+ LCKC-FR029   
+ Legendary Collection Kaiba Mega Pack 
+ Collection Légendaire Kaiba Méga-Pack  
+ Secret Rare 
+ 
+ 
+ 2019-04-04  
+ DUPO-FR050   
+ Duel Power 
+ Le Pouvoir du Duel  
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2016-04-14  
+ MIL1-DE014   
+ Millennium Pack 
+ Millennium Pack  
+ Ultra Rare 
+ 
+ 
+ 2018-03-08  
+ LCKC-DE029   
+ Legendary Collection Kaiba Mega Pack 
+ Legendary Collection Kaiba Mega Pack  
+ Secret Rare 
+ 
+ 
+ 2019-04-04  
+ DUPO-DE050   
+ Duel Power 
+ Duel Power  
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2016-04-14  
+ MIL1-IT014   
+ Millennium Pack 
+ Millennium Pack  
+ Ultra Rare 
+ 
+ 
+ 2018-03-08  
+ LCKC-IT029   
+ Legendary Collection Kaiba Mega Pack 
+ Collezione Leggendaria Kaiba Mega Pack  
+ Secret Rare 
+ 
+ 
+ 2019-04-04  
+ DUPO-IT050   
+ Duel Power 
+ l Potere del Duello  
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2016-04-14  
+ MIL1-PT014   
+ Millennium Pack 
+ Pacote do Milênio  
+ Ultra Rare 
+ 
+ 
+ 2018-03-09  
+ LCKC-PT029   
+ Legendary Collection Kaiba Mega Pack 
+ Coleção Lendária Kaiba Mega Pack  
+ Secret Rare 
+ 
+ 
+ 2019-04-04  
+ DUPO-PT050   
+ Duel Power 
+ O Poder do Duelo  
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2016-04-14  
+ MIL1-SP014   
+ Millennium Pack 
+ Sobre Milenio  
+ Ultra Rare 
+ 
+ 
+ 2018-03-08  
+ LCKC-SP029   
+ Legendary Collection Kaiba Mega Pack 
+ Colección Legendaria Kaiba Mega Pack  
+ Secret Rare 
+ 
+ 
+ 2019-04-04  
+ DUPO-SP050   
+ Duel Power 
+ El Poder del Duelo  
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2015-12-19  
+ ‎MP01-JP017   
+ Millennium Pack (OCG) 
+ ＭＩＬＬＥＮＮＩＵＭ　ＰＡＣＫ  
+ Millennium Ultra Rare 
+ 
+ 
+ 2018-02-10  
+ RC02-JP036   
+ Rarity Collection 20th Anniversary Edition 
+ ＲＡＲＩＴＹ ＣＯＬＬＥＣＴＩＯＮ ２０ｔｈ ＡＮＮＩＶＥＲＳＡＲＹ ＥＤＩＴＩＯＮ  
+ Super Rare 
+ 
+ 
+ 2018-02-10  
+ RC02-JP036   
+ Rarity Collection 20th Anniversary Edition 
+ ＲＡＲＩＴＹ ＣＯＬＬＥＣＴＩＯＮ ２０ｔｈ ＡＮＮＩＶＥＲＳＡＲＹ ＥＤＩＴＩＯＮ  
+ Secret Rare 
+ 
+ 
+ 2018-02-10  
+ RC02-JP036   
+ Rarity Collection 20th Anniversary Edition 
+ ＲＡＲＩＴＹ ＣＯＬＬＥＣＴＩＯＮ ２０ｔｈ ＡＮＮＩＶＥＲＳＡＲＹ ＥＤＩＴＩＯＮ  
+ Collector's Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2016-09-06  
+ ‎MP01-KR017   
+ Millennium Pack (OCG) 
+ MILLENNIUM PACK   
+ Millennium Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Treasure Cards 
+ 
+ Actions  
+ You draw cards 
+ Sends from your hand to your Graveyard 
+ 
+ Summoning  categories  
+ Prevents the player's Special Summons 
+ 
+ LP   
+ Prevents battle damage 
+ Prevents effect damage 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 5576 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Card of Demise " pages 
+ 
+ 
+ Anime Manga 
+ 
+ 
+ 
+   
+ Treasure Cards   宝 札 Members 
+ Card of Demise Card of Sacrifice Card of Safe Return Card of Sanctity Cards for Black Feathers Cards from the Sky Cards of Consonance Cards of the Red Stone Guarded Treasure Mystical Cards of Light Precious Cards from Beyond 
+ Related 
+ Card of Fate Sacred Sword of Seven Stars Treasure Map 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a5/CardofDemise-DUPO-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20200830162456', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

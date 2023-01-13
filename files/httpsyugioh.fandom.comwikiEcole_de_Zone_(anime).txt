@@ -1,0 +1,106 @@
+Link: https://yugioh.fandom.com/wiki/Ecole_de_Zone_(anime)
+
+Main card page: " Ecole de Zone " 
+ Ecole de Zone 
+ 
+ Japanese:   エコール・ド・ゾーン 
+ Romaji:   Ekōru do Zōn 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Field 
+ 
+ Monsters  cannot  attack   directly . When a monster is  Summoned , except by this card's  effect ,  negate  the Summon and  destroy  that monster. Then,  Special Summon  1 " Mask Token " ( Spellcaster - Type / DARK / Level 1 / ATK  ?/ DEF  ?) to the destroyed monster's  controller 's side of the  field . The  ATK  and  DEF  of the "Mask Token" are equal to the respective ATK and DEF of the destroyed monster.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  139 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ エコール・ド・ゾーン 
+ お互いのプレイヤーは、直接攻撃する事ができない。 モンスターが召喚・反転召喚・特殊召喚された時、そのモンスターの召喚・反転召喚・特殊召喚を無効にして破壊する。破壊したモンスターが存在していたフィールド上に「マスクトークン」（魔法使い族・闇・星１・攻／守？）１体を特殊召喚する。このトークンの攻撃力・守備力は、このカードの効果で破壊したモンスター１体と同じ数値になる。「マスクトークン」の特殊召喚は、このカードの効果では無効とならず破壊されない。 
+ 
+ 
+ Ekōru do Zōn 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Sherry Leblanc 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Token Monster 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys Monster Cards 
+ 
+ Summoning  categories  
+ Special Summons Tokens 
+ 
+ Attack  categories  
+ Cannot attack directly 
+ 
+ 
+ 
+   " Ecole de Zone " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/16/EcoledeZone-JP-Anime-5D.png/revision/latest/scale-to-width-down/200?cb=20101215100741', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f9/EcoledeZone-OW.png/revision/latest/scale-to-width-down/185?cb=20140111175938', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2c/EcoledeZone-JP-Anime-5D-NC.jpg/revision/latest/scale-to-width-down/185?cb=20101219014048', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

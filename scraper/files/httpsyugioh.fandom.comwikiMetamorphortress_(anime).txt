@@ -1,0 +1,120 @@
+Link: https://yugioh.fandom.com/wiki/Metamorphortress_(anime)
+
+Main card page: " Metamorphortress " 
+ Metamorphortress 
+ 
+ Japanese:   メタモル・クレイ・フォートレス 
+ Romaji:   Metamoru Kurei Fōtoresu 
+ Translated:  Metamor Clay Fortress 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ When an opponent's  monster   attacks :  Special Summon  this card as a monster in  Defense Position  ( Rock - Type / EARTH / Level  4/ ATK  1000/ DEF  1000). When this card is Special Summoned, you can have 1 monster you  control  become an  Equip Card  to this card. This card gains ATK and DEF equal to that monster’s ATK. If this card attacks, change it to Defense Position at the end of the  Damage Step . This card is also treated as a  Trap Card . [1] [2] 
+ 
+ 4K Media  lore<nomobile> ? :</nomobile> <mobile>(The English card uses the same lore as the OCG/TCG card. The Japanese card and reference sources state the effect differently.):</mobile>  Activate  this card by  targeting  1  Level  4 or higher  monster  you  control ;  Special Summon  this card as an  Effect Monster  ( Rock - Type / EARTH /Level 4/ ATK  1000/ DEF  1000), then  equip  that  face-up  monster to this card. (This card is also still a  Trap Card .) If  Summoned  this way, this card gains ATK and DEF equal to the ATK of the monster equipped to it by this  effect , also if it  attacks , change it to  Defense Position  at the end of the  Damage Step . 
+ Appearances
+ 
+ 
+ 
+ 
+ ' 
+ 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  The Dark Side of Dimensions ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ メタモル・クレイ・フォートレス 
+ ①：相手モンスターの攻撃宣言時、自分フィールドのモンスター１体を対象としてこのカードを発動できる。このカードは発動後、効果モンスター（岩石族・地・星４・攻／守１０００）となり、モンスターゾーンに特殊召喚する。その後、対象のモンスターを装備カード扱いとしてこのカードに装備する。このカードは罠カードとしても扱う。②：このカードの効果で特殊召喚したこのカードこのカードの攻撃力・守備力は、このカードの効果で装備したモンスターの攻撃力分アップし、このカードは攻撃したダメージステップ終了時に守備表示になる。 
+ 
+ 
+ Metamoru Kurei Fōtoresu 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yugi Mutou  
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Trap Monster 
+ 
+ Actions  
+ Changes battle positions 
+ 
+ Stat changes  
+ This card gains ATK 
+ This card gains DEF 
+ 
+ Monster / Spell / Trap  categories  
+ Treats Trap Cards as monsters 
+ Treats monsters as Equip Cards 
+ 
+ Summoning  categories  
+ Special Summons itself from your Spell & Trap Card Zone 
+ 
+ 
+ 
+   " Metamorphortress " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+ Trap Monster   罠 モンスター a   m   Members 
+ Copy Knight Cyber Shadow Gardna Depth Gardna Dimension Reflector The Door of Destiny Embodiment of Apophis Gimmick Box Instant Shutter Jirai Gumo King Scarlet Krystal Avatar Metalhold the Moving Blockade Metamorphortress Stronghold the Moving Fortress Uluru the Guardian Spirit Zoma the Spirit 
+ Related 
+ Dragon Capture Jar 
+ 
+ References 
+ 
+ ↑   Yu-Gi-Oh! Duel Monsters Anime Complete Guide: Millennium Memory , page 198. 
+ 
+ ↑   "Dark Side of Dimensions Anime Card Effects, Japanese Card Text Translations" . YGOrganization.com .  https://ygorganization.com/kuwabaralikesstackingthings/ . 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/0c/Metamorphortress-JP-Anime-MOV3.png/revision/latest/scale-to-width-down/200?cb=20170314134819', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4f/Metamorphortress-JP-Anime-MOV3-NC.png/revision/latest/scale-to-width-down/185?cb=20170314134842', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/ba/Metamorphortress-JP-Anime-MOV3-NC-2.png/revision/latest/scale-to-width-down/185?cb=20170314134850', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Cards with notes

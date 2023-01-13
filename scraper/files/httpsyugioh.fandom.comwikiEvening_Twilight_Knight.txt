@@ -1,0 +1,268 @@
+Link: https://yugioh.fandom.com/wiki/Evening_Twilight_Knight
+
+
+ 
+ 
+ Evening Twilight Knight 宵 闇 の 騎 士 
+ 
+ English 
+Evening Twilight Knight 
+ French 
+ Chevalier du Crépuscule Check translation 
+ German 
+ Abenddämmerungsritter Check translation 
+ Italian 
+ Cavaliere del Crepuscolo della Sera Check translation 
+ Korean 
+ 소암의 기사 Check translation 
+ Portuguese 
+ Cavaleiro do Anoitecer do Crepúsculo Check translation 
+ Spanish 
+ Caballero del Ocaso Check translation 
+ Japanese (kana) 
+ よいやみのきし Check translation 
+ Japanese (base) 
+ 宵闇の騎士 Check translation 
+ Japanese ( rōmaji ) 
+Yoiyami no Kishi 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Warrior  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 500  /  2000 
+ Passcode 
+ 32013448 
+ Card effect types 
+ 
+ 
+ Unclassified 
+ Condition 
+ Ignition 
+ Ignition 
+ Trigger 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+A " Black Luster Soldier "  monster   Ritual Summoned  using this card gains these  effects . You can only use this effect of "Evening Twilight Knight"  once per turn . ● Once per  turn : You can  target  1 monster your opponent  controls ;  banish  it. ● Once per turn: You can banish 1  random  card from your opponent's  hand   face-down , until your opponent's next  End Phase . If this card is banished from your  Graveyard : You can  add  1  Ritual Monster  from your  Deck  to your hand. You can only use this effect of "Evening Twilight Knight" once per turn. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Un monstre "Soldat du Lustre Noir" Invoqué Rituellement en utilisant cette carte gagne ces effets. Vous ne pouvez utiliser cet effet de "Chevalier du Crépuscule" qu'une fois par tour. ●Une fois par tour : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; bannissez-le. ●Une fois par tour : jusqu'à la prochaine End Phase de votre adversaire, vous pouvez bannir face verso 1 carte au hasard depuis la main de votre adversaire. Si cette carte est bannie depuis votre Cimetière : vous pouvez ajouter 1 Monstre Rituel depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de "Chevalier du Crépuscule" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Ein „Schwarz Glänzender Soldat“-Monster, das mit dieser Karte als Ritualbeschwörung beschworen wird, erhält diese Effekte. Du kannst diesen Effekt von „Abenddämmerungsritter“ nur einmal pro Spielzug verwenden. ●Einmal pro Spielzug: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; verbanne es. ●Einmal pro Spielzug: Du kannst 1 zufällige Karte von der Hand deines Gegners bis zur nächsten End Phase deines Gegners verdeckt verbannen. Falls diese Karte von deinem Friedhof verbannt wird: Du kannst deiner Hand 1 Ritualmonster von deinem Deck hinzufügen. Du kannst diesen Effekt von „Abenddämmerungsritter“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Un mostro "Glorioso Soldato Nero" Evocato tramite Rituale utilizzando questa carta guadagna questi effetti. Puoi utilizzare questo effetto di "Cavaliere del Crepuscolo della Sera" una sola volta per turno. ●Una volta per turno: puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario; bandiscilo. ●Una volta per turno: puoi bandire 1 carta a caso dalla mano del tuo avversario coperta, fino alla prossima End Phase del tuo avversario. Se questa carta viene bandita dal tuo Cimitero: puoi aggiungere 1 Mostro Rituale dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di "Cavaliere del Crepuscolo della Sera" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Um monstro "Soldado do Lustro Negro" Invocado por Invocação-Ritual usando este card ganha esses efeitos. Você só pode usar este efeito de "Cavaleiro do Anoitecer do Crepúsculo" uma vez por turno. ● Uma vez por turno: você pode escolher 1 monstro que seu oponente controla; bana-o. ● Uma vez por turno: até a próxima Fase Final do seu oponente, você pode banir, com a face para baixo, 1 card aleatório da mão do seu oponente. Se este card for bando do seu Cemitério: você pode adicionar 1 Monstro de Ritual do seu Deck à sua mão. Você só pode usar este efeito de "Cavaleiro do Anoitecer do Crepúsculo" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Un monstruo "Soldado del Brillo Negro" Invocado por Ritual usando esta carta gana estos efectos. Sólo puedes usar este efecto de "Caballero del Ocaso" una vez por turno. ●Una vez por turno: puedes seleccionar 1 monstruo que controle tu adversario; destiérralo. ●Una vez por turno: puedes desterrar 1 carta al azar en la mano de tu adversario, boca abajo, hasta la próxima End Phase de tu adversario. Si esta carta es desterrada de tu Cementerio: puedes añadir a tu mano 1 Monstruo de Ritual en tu Deck. Sólo puedes usar este efecto de "Caballero del Ocaso" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「宵闇の騎士」の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードを使用して儀式召喚した「カオス・ソルジャー」モンスターは以下の効果を得る。●１ターンに１度、相手フィールドのモンスター１体を対象として発動できる。そのモンスターを除外する。●１ターンに１度、自分メインフェイズに発動できる。相手の手札をランダムに１枚選び、次の相手エンドフェイズまで裏側表示で除外する。②：墓地のこのカードが除外された場合に発動できる。デッキから儀式モンスター１体を手札に加える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "소암의 기사"의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 이 카드를 사용하고 의식 소환한 "카오스 솔저" 몬스터는 이하의 효과를 얻는다. ●1턴에 1번, 상대 필드의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 제외한다. ●1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 상대의 패를 무작위로 1장 고르고, 다음 상대의 엔드 페이즈까지 뒷면 표시로 제외한다. ②: 묘지의 이 카드가 제외되었을 경우에 발동할 수 있다. 덱에서 의식 몬스터 1장을 패에 넣는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2015-11-05 DOCS-EN023 Dimension of Chaos Super Rare 2016-09-01 MP16-EN124 2016 Mega-Tin Mega Pack Super Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2015-11-05 DOCS-FR023 Dimension of Chaos La Dimension du Chaos Super Rare 2016-09-01 MP16-FR124 2016 Mega-Tin Mega Pack 2016 Méga-Boîte Méga-Pack Super Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2015-11-05 DOCS-DE023 Dimension of Chaos Dimension of Chaos Super Rare 2016-09-01 MP16-DE124 2016 Mega-Tin Mega Pack 2016 Mega-Tin Mega Pack Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2015-11-05 DOCS-IT023 Dimension of Chaos Dimensione del Chaos Super Rare 2016-09-01 MP16-IT124 2016 Mega-Tin Mega Pack 2016 Mega-Tin Mega Pack Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2015-11-06 DOCS-PT023 Dimension of Chaos Dimensão do Caos Super Rare 2016-09-01 MP16-PT124 2016 Mega-Tin Mega Pack Mega-Pacote da Mega-Latas 2016 Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2015-11-05 DOCS-SP023 Dimension of Chaos Dimensión del Caos Super Rare 2016-09-01 MP16-SP124 2016 Mega-Tin Mega Pack 2016 Mega-Lata Mega Pack Super Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2015-07-18 DOCS-JP023 Dimension of Chaos ディメンション・オブ・カオス Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2015-11-06 DOCS-KR023 Dimension of Chaos 디멘션 오브 카오스 Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Ritual Monster 
+ 
+ Supports   archetypes   
+ Black Luster Soldier  
+ 
+ Related to  archetypes  and  series   
+ Chaos 
+ 
+ Actions  
+ Grants effect when used for a Ritual Summon 
+ Adds from Deck to hand 
+ Returns the opponent's banished cards to the hand 
+ 
+ Banished  categories  
+ Banishes from your opponent's field 
+ Banishes from your opponent's hand 
+ Banishes face-down 
+ 
+ Miscellaneous  
+ Only once per turn 
+ Limited activations 
+ Turn limited effects 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11967 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Black Luster Soldier " 「カオス・ソルジャー」 Members 
+ Black Luster Soldier Black Luster Soldier Black Luster Soldier - Envoy of the Beginning Black Luster Soldier - Envoy of the Evening Twilight Black Luster Soldier - Sacred Soldier Black Luster Soldier - Soldier of Chaos Black Luster Soldier - Super Soldier The Legendary Swordmaster Black Luster Soldier Toon Black Luster Soldier 
+ Support 
+ Arisen Gaia the Fierce Knight Beginning Knight Charging Gaia the Fierce Knight Envoy of Chaos Evening Twilight Knight Magician of Chaos Master of Chaos Super Soldier Soul 
+ Beginning of Heaven and Earth Chaos Form Gateway to Chaos Super Soldier Rebirth Super Soldier Ritual Super Soldier Shield Super Soldier Synthesis 
+ Related 
+ Blue-Eyes Ultimate Dragon Chaos Emperor Dragon - Envoy of the End Dark Magician Dragon Master Knight Elemental HERO Neos Knight Gaia The Fierce Knight 
+ Black Luster Ritual Primal Seed Toon World 
+ 
+   
+" Chaos " 「カオス」 Members 
+ Black Luster Soldier Black Luster Soldier Black Luster Soldier - Envoy of the Beginning Black Luster Soldier - Envoy of the Evening Twilight Black Luster Soldier - Sacred Soldier Black Luster Soldier - Soldier of Chaos Black Luster Soldier - Super Soldier Blue-Eyes Chaos Dragon Blue-Eyes Chaos MAX Dragon CXyz Barian Hope CXyz Battleship Cherry Blossom CXyz Coach Lord Ultimatrainer CXyz Comics Hero Legend Arthur CXyz Dark Fairy Cheer Girl CXyz Mechquipped Djinn Angeneral CXyz N.As.Ch. Knight CXyz Simon the Great Moral Leader CXyz Skypalace Babylon Chaos Ancient Gear Giant Chaos Archfiend Chaos Beast Chaos Betrayer Chaos Command Magician Chaos Core The Chaos Creator Chaos Daedalus Chaos Emperor Dragon - Envoy of the End Chaos Emperor, the Dragon of Armageddon Chaos Goddess Chaos Grepher Chaos Hunter Chaos King Archfiend Chaos Mirage Dragon Chaos Necromancer Chaos Nephthys Chaos Ruler, the Chaotic Magical Dragon Chaos Sorcerer Chaos Witch Chaos-End Master Chaosrider Gustaph Contrast HERO Chaos Core of Chaos D/D/D Chaos King Apocalypse Elemental HERO Chaos Neos Illusion of Chaos Kamionwizard The Legendary Swordmaster Black Luster Soldier Magician of Black Chaos Magician of Black Chaos MAX Magician of Chaos Master of Chaos Morphing Jar #2 Number C1: Numeron Chaos Gate Sunya Number C5: Chaos Chimera Dragon Number C6: Chronomaly Chaos Atlandis Number C9: Chaos Dyson Sphere Number C15: Gimmick Puppet Giant Hunter Number C32: Shark Drake Veiss Number C39: Utopia Ray Number C39: Utopia Ray V Number C39: Utopia Ray Victory Number C40: Gimmick Puppet of Dark Strings Number C43: High Manipulator of Chaos Number C65: King Overfiend Number C69: Heraldry Crest of Horror Number C73: Abyss Supra Splash Number C80: Requiem in Berserk Number C88: Gimmick Puppet Disaster Leo Number C92: Heart-eartH Chaos Dragon Number C96: Dark Storm Number C1000: Numerounius Number C101: Silent Honor DARK Number C102: Archfiend Seraph Number C103: Ragnafinity Number C104: Umbral Horror Masquerade Number C105: Battlin' Boxer Comet Cestus Number C106: Giant Red Hand Number C107: Neo Galaxy-Eyes Tachyon Dragon Number iC1000: Numerounius Numerounia Phantom of Chaos Shell of Chaos Sphere of Chaos Toon Black Luster Soldier Ultimate Dragonic Utopia Ray Ultimate Leo Utopia Ray 
+ Barian's Chaos Draw Black Luster Ritual Black Magic Ritual Chaos Burst Chaos End Chaos Form Chaos Greed Chaos Infinity Chaos Phantasm Chaos Space Chaos Trap Hole Chaos Zone Eternal Chaos Gateway to Chaos Numeron Chaos Ritual Rank-Up-Magic Argent Chaos Force Rank-Up-Magic Quick Chaos Tachyon Chaos Hole Yellow Luster Shield 
+ Support 
+ Chaos Archfiend Magician of Chaos Master of Chaos 
+ Chaos Form 
+ Related 
+ Battlecruiser Dianthus Beginning Knight Black Dragon Collapserpent Blue-Eyes Ultimate Dragon Blue-Eyes White Dragon Chaos Dragon Levianeer Chaos Valkyria Coach King Giantrainer Comics Hero King Arthur The Creator Curtain of the Dark Ones Dark End Dragon Dark Magician Dark Magician Girl Dark Magician of Chaos Darkflare Dragon Demise, Agent of Armageddon Demise, King of Armageddon Demise, Supreme King of Armageddon Dragon Master Knight Dunames Dark Witch Dwarf Star Dragon Planeter Eclipse Wyvern Elemental HERO Neos Envoy of Chaos Evening Twilight Knight Fairy Cheer Girl Gaia, the Mid-Knight Sun Gaia, the Polar Knight Galaxy-Eyes Photon Dragon Levia-Dragon - Daedalus Light End Dragon Light and Darkness Dragon Lightpulsar Dragon Lightray Sorcerer Magician of Dark Illusion Mechquipped Angineer Mirage Dragon Mystical Elf N.As.H. Knight Neo-Spacian Dark Panther Neo-Spacian Glow Moss Norito the Moral Leader Number 6: Chronomaly Atlandis Number 9: Dyson Sphere Number 32: Shark Drake Number 39: Utopia Number 43: Manipulator of Souls Number 62: Galaxy-Eyes Prime Photon Dragon Number 65: Djinn Buster ... further results 
+ Beginning of Heaven and Earth Chaos Scepter Blast Chaos Seed Dedication through Light and Darkness Dragon's Rebirth End of the World Exchange of Night and Day Marshalling Field Primal Seed Rank-Up-Magic - The Seventh One Super Soldier Ritual Super Soldier Synthesis 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/be/EveningTwilightKnight-MP16-EN-SR-1E.png/revision/latest/scale-to-width-down/300?cb=20160901205859', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

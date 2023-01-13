@@ -1,0 +1,24 @@
+Link: https://yugioh.fandom.com/wiki/Performs_an_Xyz_Summon
+
+This Property entry details every card that has an effect that performs an  Xyz Summon  immediately after that effect resolves.
+ 
+ Contents 
+ 
+ 1   All OCG/TCG "Performs an Xyz Summon" cards 
+ 2   All Anime "Performs an Xyz Summon" cards 
+ 3   All Manga "Performs an Xyz Summon" cards 
+ 
+ 
+ All OCG/TCG "Performs an Xyz Summon" cards 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Bujinki Ahashima 武神姫－アハシマ Effect Monster Link Monster LIGHT Beast-Warrior 1500 Galaxy Tyranno 銀河暴竜 Effect Monster LIGHT Dinosaur 8 2000 0 Gazer Shark ゲイザー・シャーク Effect Monster WATER Fish 5 1000 1900 Kashtira Arise-Heart クシャトリラ・アライズハート Effect Monster Xyz Monster DARK Machine 7 3000 3000 Merlin 伝説の預言者マーリン Effect Monster DARK Spellcaster 3 1400 500 Salamangreat Zebroid X 転生炎獣ゼブロイドＸ Effect Monster FIRE Cyberse 4 1500 1000 
+   Japanese name Card type Property Advanced Heraldry Art 高等紋章術 Spell Card Normal Spell Card Normal Spell Card Artifacts Unleashed アーティファクトの解放 Spell Card Quick-Play Spell Card Quick-Play Spell Card Barian's Chaos Draw バリアンズ・カオス・ドロー Spell Card Normal Spell Card Normal Spell Card Geargia Change ギアギアチェンジ Spell Card Quick-Play Spell Card Quick-Play Spell Card Halfway to Forever マスター・ピース Trap Card Normal Trap Card Normal Trap Card Mathmech Superfactorial 斬機超階乗 Trap Card Normal Trap Card Normal Trap Card Pendulum Xyz ペンデュラム・エクシーズ Spell Card Normal Spell Card Normal Spell Card Shining Hope Road 輝望道 Spell Card Normal Spell Card Normal Spell Card Wonder Xyz ワンダー・エクシーズ Trap Card Normal Trap Card Normal Trap Card 
+ All Anime "Performs an Xyz Summon" cards 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Galaxy Tyranno 銀河暴竜 Effect Monster LIGHT Dinosaur 0 0 0 8 0 0 0 0 0 ??? 0 0 0 0 2000 Number 53: Heart-eartH Ｎｏ.５３ 偽骸神 Ｈｅａｒｔ－ｅａｒｔＨ Xyz Monster DARK Fiend 0 0 0 5 0 0 0 0 0 ??? 0 0 0 0 0 100 Salamangreat Zebroid X 転生炎獣 ゼブロイドＸ Effect Monster FIRE Cyberse 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 1500 Supreme King Dragon Dark Rebellion 覇王眷竜 ダークリベリオン Xyz Monster DARK Dragon 0 0 0 4 0 0 0 0 0 ??? 0 0 0 0 2500 
+   Japanese name Card type Property Advanced Heraldry Art 高等紋章術 Spell Card Normal Spell Card Critical Overlay パスト・オーバーレイ Spell Card Quick-Play Spell Card Cross Xyz Ｘエクシーズ Spell Card Normal Spell Card D/D/D Xyz ＤＤＤ エクシーズ Spell Card Normal Spell Card Destiny Overlay デステニー・オーバーレイ Spell Card Normal Spell Card Dimension Xyz ディメンション・エクシーズ Spell Card Normal Spell Card Halfway to Forever マスター・ピース Trap Card Normal Trap Card Numeron Chaos Ritual ヌメロン・カオス・リチューアル Spell Card Normal Spell Card Odd-Eyes Xyz Gate オッドアイズ・エクシーズゲート Spell Card Quick-Play Spell Card The Phantom Knights' Twin Medals 幻影騎士団双記章 Spell Card Quick-Play Spell Card Raidraptor - Rapid Xyz ＲＲ－ラピッド・エクシーズ Spell Card Quick-Play Spell Card Rank-Up-Magic Admiration of the Thousands ＲＵＭ－千死蛮巧 Spell Card Normal Spell Card Re-Xyz リ・エクシーズ Spell Card Normal Spell Card Session Draw セッション・ドロー Trap Card Normal Trap Card Xyz Rescue レスキュー・エクシーズ Spell Card Normal Spell Card 
+ All Manga "Performs an Xyz Summon" cards 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Gagaga Head ガガガヘッド Effect Monster DARK Spellcaster 0 0 0 6 0 0 0 0 2100 0 0 0 0 2000 
+   Japanese name Card type Property Modify Deep Blue モディファイ・ディープブルー Spell Card Numbers Evaille ナンバーズ・エヴァイユ Spell Card Pendulum XYZ ペンデュラム・エクシーズ Spell Card Quick Xyz クイック・エクシーズ Trap Card Normal Trap Card Revenge Prison リベンジ・プリズン Spell Card Normal Spell Card Shining Hope Road 輝望道 Spell Card 
+ 
+ 
+ 
+Categories: Cards by effect properties

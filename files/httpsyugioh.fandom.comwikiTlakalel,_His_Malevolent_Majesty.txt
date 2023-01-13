@@ -1,0 +1,404 @@
+Link: https://yugioh.fandom.com/wiki/Tlakalel,_His_Malevolent_Majesty
+
+
+ 
+ 
+ Tlakalel, His Malevolent Majesty 邪 王 トラカレル 
+ 
+ English 
+Tlakalel, His Malevolent Majesty 
+ French 
+ Tlakalel, Sa Majesté Malveillante Check translation 
+ German 
+ Tlakalel, Seine Maliziöse Majestät Check translation 
+ Italian 
+ Tlakalel, Sua Maestà Malevola Check translation 
+ Korean 
+ 사악왕 트라카렐 Check translation 
+ Portuguese 
+ Tlakalel, Sua Majestade Malevolente Check translation 
+ Spanish 
+ Tlakalel, Su Majestad Malevolente Check translation 
+ Japanese (kana) 
+ じゃおうトラカレル Check translation 
+ Japanese (base) 
+ 邪王トラカレル Check translation 
+ Japanese ( rōmaji ) 
+Jaō Torakareru 
+ Japanese (translated) 
+Evil King, Tlacalel 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Fiend  /  Effect 
+ Level 
+ 5   
+ ATK  /  DEF 
+ 2400  /  1000 
+ Passcode 
+ 82319644 
+ Card effect types 
+ 
+ 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If this card is  Tribute Summoned : You can  destroy  any number of  face-up   monsters  your opponent  controls  whose combined  ATK  is less than or equal to the  original ATK  of the monster  Tributed  to Tribute Summon this card. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si cette carte est Invoquée par Sacrifice : vous pouvez détruire un nombre de votre choix de monstres face recto contrôlés par votre adversaire dont la somme des ATK est inférieure ou égale à l'ATK d'origine du monstre Sacrifié pour Invoquer par Sacrifice cette carte. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls diese Karte als Tributbeschwörung beschworen wird: Du kannst eine beliebige Anzahl offener Monster zerstören, die dein Gegner kontrolliert und deren gemeinsame ATK kleiner oder gleich den Grund-ATK des Monsters sind, das als Tribut angeboten wurde, um diese Karte als Tributbeschwörung zu beschwören. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se questa carta viene Evocata tramite Tributo: puoi distruggere un qualsiasi numero di mostri scoperti controllati dal tuo avversario la cui somma degli ATK sia pari o inferiore all'ATK originale del mostro offerto come Tributo per Evocare tramite Tributo questa carta. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se este card for Invocado por Invocação-Tributo: você pode destruir qualquer número de monstros com a face para cima que seu oponente controla cujo ATK combinado seja menor ou igual ao ATK original do monstro oferecido como Tributo para a Invocação-Tributo deste card. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si esta carta es Invocada por Sacrificio: puedes destruir cualquier cantidad de monstruos boca arriba que controle tu adversario cuyo ATK combinado sea menor o igual al ATK original del monstruo Sacrificado para Invocar esta carta por Sacrificio. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：このカードがアドバンス召喚に成功した場合に発動できる。攻撃力の合計が、このカードのアドバンス召喚のためにリリースしたモンスターの元々の攻撃力以下になるように、相手フィールドの表側表示モンスターを任意の数だけ選んで破壊する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 이 카드가 어드밴스 소환에 성공했을 경우에 발동할 수 있다. 공격력의 합계가, 이 카드의 어드밴스 소환을 위해 릴리스한 몬스터의 원래 공격력 이하가 되도록, 상대 필드의 앞면 표시 몬스터를 임의의 수만큼 골라 파괴한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2019-07-20  
+ RIRA-ENSP1   
+ Rising Rampage Sneak Peek Participation Card 
+ Ultra Rare 
+ 
+ 
+ 2019-07-25  
+ RIRA-EN032   
+ Rising Rampage 
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2019-07-20  
+ RIRA-FRSP1   
+ Rising Rampage Sneak Peek Participation Card 
+ Le Soulèvement de la Fureur Sneak Peek  
+ Ultra Rare 
+ 
+ 
+ 2019-07-25  
+ RIRA-FR032   
+ Rising Rampage 
+ Le Soulèvement de la Fureur  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2019-07-20  
+ RIRA-DESP1   
+ Rising Rampage Sneak Peek Participation Card 
+ Rising Rampage Sneak Peek  
+ Ultra Rare 
+ 
+ 
+ 2019-07-25  
+ RIRA-DE032   
+ Rising Rampage 
+ Rising Rampage  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2019-07-20  
+ RIRA-ITSP1   
+ Rising Rampage Sneak Peek Participation Card 
+ Furia Crescente Sneak Peek  
+ Ultra Rare 
+ 
+ 
+ 2019-07-25  
+ RIRA-IT032   
+ Rising Rampage 
+ Furia Crescente  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2019-07-20  
+ RIRA-ENSP1   
+ Rising Rampage Sneak Peek Participation Card 
+ Investida Crescente Sneak Peek  
+ Ultra Rare 
+ 
+ 
+ 2019-07-25  
+ RIRA-EN032   
+ Rising Rampage 
+ Investida Crescente  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2019-07-20  
+ RIRA-ENSP1   
+ Rising Rampage Sneak Peek Participation Card 
+ Alzamiento de la Devastación Sneak Peek  
+ Ultra Rare 
+ 
+ 
+ 2019-07-25  
+ RIRA-EN032   
+ Rising Rampage 
+ Alzamiento de la Devastación  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2019-04-13  
+ RIRA-JP032   
+ Rising Rampage 
+ ライジング・ランペイジ  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2019-07-09  
+ RIRA-KR032   
+ Rising Rampage 
+ 라이징 램페이지  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Related to  archetypes  and  series   
+ Monarch 
+ Virus 
+ 
+ Actions  
+ Activates upon Tribute Summon 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your opponent's face-up Monster Cards 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14477 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Monarch " 「 帝 」 Members 
+ Angmarl the Fiendish Monarch Caius the Mega Monarch Caius the Shadow Monarch Delg the Dark Monarch Edea the Heavenly Squire Ehther the Heavenly Monarch Eidos the Underworld Squire Erebus the Underworld Monarch Granmarg the Mega Monarch Granmarg the Rock Monarch Kuraz the Light Monarch Mobius the Frost Monarch Mobius the Mega Monarch Raiza the Mega Monarch Raiza the Storm Monarch Tenmataitei Thestalos the Firestorm Monarch Thestalos the Mega Monarch Zaborg the Mega Monarch Zaborg the Thunder Monarch 
+ Related 
+ Berlineth the Firestorm Vassal Emperor of Lightning Escher the Frost Vassal Garum the Storm Vassal Ice Knight Illusory Snatcher Landrobe the Rock Vassal Lucius the Shadow Vassal Majesty's Fiend Mithra the Thunder Vassal Psychic Emperor Samsara Kaiser Tlakalel, His Malevolent Majesty 
+ By Order of the Emperor Dark Advance Domain of the True Monarchs Escalation of the Monarchs The First Monarch Frost Blast of the Monarchs March of the Monarchs The Monarchs Awaken The Monarchs Erupt The Monarchs Stormforth Pantheism of the Monarchs The Prime Monarch Restoration of the Monarchs Return of the Monarchs Strike of the Monarchs Tenacity of the Monarchs 
+ 
+   
+ Virus  ウイルス Members 
+ Crush Card Virus Deck Devastation Virus Eradicator Epidemic Virus Full Force Virus Grinning Grave Virus Planet Pollutant Virus 
+ Related 
+ Ahrima, the Wicked Warden Darkest Diabolos, Lord of the Lair Diabolos, King of the Abyss Doom Virus Dragon Duke Shade, the Sinister Shadow Lord Lich Lord, King of the Underworld Lilith, Lady of Lament Malice, Lady of Lament Prometheus, King of the Shadows Tlakalel, His Malevolent Majesty 
+ The Fang of Critias Lair of Darkness Virus Cannon 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/1e/TlakalelHisMalevolentMajesty-RIRA-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20190811065245', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

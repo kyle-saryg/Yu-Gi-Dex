@@ -1,0 +1,545 @@
+Link: https://yugioh.fandom.com/wiki/Column
+
+
+ 
+ Column
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 縦 列 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ たてれつ
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 縦列
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ tateretsu
+ 
+ 
+ 
+ English
+ 
+ 
+ column
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : colonne 
+ German : Spalte 
+ Italian : colonna 
+ Portuguese : coluna 
+ Spanish : columna 
+ Korean : 세로열 (??列)  seroyeol 
+ 
+ 
+ A  column  ( 縦 列   tateretsu ) is a vertical line of  Monster Zones  and  Spell & Trap Zones  on the  field  stretching from one player's  Spell & Trap Zone  to their opponent's Spell & Trap Zone. There are five columns on the field.
+ The  TCG  term "column" was first mentioned in  card text  in  Cyberdark Impact , and there was no  OCG  equivalent for quite some time until the  OCG  equivalent of the  TCG   Problem-Solving Card Text  was implemented, prior to which, instead of being in the "same column", your opponent's cards were said to be "opposite" (正面  shōmen ) to yours.
+ 
+ Contents 
+ 
+ 1   Rules 
+ 
+ 1.1   Master Rule 3 
+ 1.2   New Master Rule 
+ 
+ 
+ 2   List 
+ 
+ 
+ Rules 
+ Master Rule 3 
+ Every column contains exactly 4 Zones: a Monster Zone and a Spell & Trap Zone on each player's side of the field.
+ 
+ New Master Rule 
+ As per New  Master Rule , the second column and the fourth column (counting from either direction) have 5 Zones, while all others contain 4 Zones. The second and fourth columns each contain an  Extra Monster Zone , in addition to the  Main Monster Zone  and  Spell & Trap Zone  on each player's side of the field.
+ 
+ List 
+ The following are the cards that mention columns in their  card text :
+ 
+   Japanese name Primary type Secondary type Attribute Type Level /  Rank ATK DEF Alien Infiltrator エーリアン・ベーダー Effect Monster EARTH Reptile 2 800 500 Fantastic Striborg 旋風機ストリボーグ Effect Monster WIND Machine 5 2200 2200 Ghost Bird of Bewitchment 魅幽鳥 Effect Monster DARK Winged Beast 4 1300 1500 Girsu, the Orcust Mekk-Knight 宵星の騎士ギルス Effect Monster DARK Machine 4 1800 0 Goldilocks the Battle Landscaper 百景戦都ゴルディロックス Effect Monster EARTH Machine 10 0 3000 Gouki The Solid Ogre 剛鬼 ザ・ソリッド・オーガ Effect Monster Link Monster EARTH Warrior 2400 Hojo the Vaylantz Warrior ヴァリアンツの武者－北条 Effect Monster Pendulum Monster WATER Spellcaster 8 1900 1900 Iron Dragon Tiamaton 鉄騎龍ティアマトン Effect Monster DARK Dragon 4 2000 0 Magical Musketeer Calamity 魔弾の射手 カラミティ Effect Monster LIGHT Fiend 4 1500 1300 Magical Musketeer Caspar 魔弾の射手 カスパール Effect Monster LIGHT Fiend 3 1200 2000 Magical Musketeer Doc 魔弾の射手 ドクトル Effect Monster LIGHT Fiend 3 1400 1200 Magical Musketeer Kidbrave 魔弾の射手 ザ・キッド Effect Monster LIGHT Fiend 3 1600 200 Magical Musketeer Starfire 魔弾の射手 スター Effect Monster LIGHT Fiend 4 1300 1700 Magical Musketeer Wild 魔弾の射手 ワイルド Effect Monster LIGHT Fiend 4 1700 900 Mamonaka the Vaylantz United ヴァリアンツの聚－幻中 Effect Monster Fusion Monster Pendulum Monster WATER Spellcaster 10 2800 2800 Mekk-Knight Blue Sky 蒼穹の機界騎士 Effect Monster LIGHT Psychic 5 2000 2500 Mekk-Knight Green Horizon 翠嵐の機界騎士 Effect Monster LIGHT Psychic 6 2100 1600 Mekk-Knight Indigo Eclipse 紺碧の機界騎士 Effect Monster LIGHT Psychic 8 2400 2400 Mekk-Knight Orange Sunset 燈影の機界騎士 Effect Monster LIGHT Psychic 6 800 3000 Mekk-Knight Purple Nightfall 紫宵の機界騎士 Effect Monster LIGHT Psychic 8 2500 2000 Mekk-Knight Red Moon 紅蓮の機界騎士 Effect Monster LIGHT Psychic 7 2300 2600 Mekk-Knight Spectrum Supreme 星痕の機界騎士 Effect Monster Link Monster LIGHT Cyberse 3000 Mekk-Knight Yellow Star 黄華の機界騎士 Effect Monster LIGHT Psychic 7 2200 2800 Mekk-Knight of the Morning Star 明星の機械騎士 Effect Monster Link Monster LIGHT Machine 2000 Metalrokket Dragon メタルヴァレット・ドラゴン Effect Monster DARK Dragon 4 1700 1400 Nazuki the Vaylantz Ninja ヴァリアンツの忍者－南月 Effect Monster Pendulum Monster WATER Spellcaster 6 1800 1800 Rampaging Rhynos 突撃ライノス Effect Monster EARTH Beast-Warrior 3 1500 1500 Red Hared Hasty Horse 急き兎馬 Effect Monster WIND Beast 5 2000 1800 S-Force Lapcewell Ｓ－Ｆｏｒｃｅ ラプスウェル Effect Monster LIGHT Fiend 6 2400 2500 Saion the Vaylantz Archer ヴァリアンツの弓引－西園 Effect Monster Pendulum Monster WATER Spellcaster 4 1100 1100 Scareclaw Acro スケアクロー・アクロア Effect Monster EARTH Beast 3 0 2000 Scareclaw Astra スケアクロー・アストラ Effect Monster EARTH Beast 3 0 1300 Scareclaw Belone スケアクロー・ベロネア Effect Monster EARTH Beast 3 0 1700 Scareclaw Reichheart スケアクロー・ライヒハート Effect Monster DARK Warrior 4 1500 2100 Shelrokket Dragon シェルヴァレット・ドラゴン Effect Monster DARK Dragon 2 1100 2000 Shinonome the Vaylantz Priestess ヴァリアンツの巫女－東雲 Effect Monster Pendulum Monster WATER Spellcaster 2 500 500 Star Staring Starling 星向鳥 Effect Monster WIND Winged Beast 4 1000 1500 Storm Shooter ストーム・シューター Effect Monster WIND Winged Beast 7 2300 500 Sunlit Sentinel 白昼のスナイパー Effect Monster EARTH Warrior 6 2300 1500 Thunder Ball 鉄球魔神ゴロゴーン Effect Monster DARK Fiend 3 450 400 Vaylantz Buster Baron ヴァリアンツＢ－バロン Effect Monster Pendulum Monster FIRE Machine 2 800 800 Vaylantz Dominator Duke ヴァリアンツＤ－デューク Effect Monster Pendulum Monster FIRE Machine 8 2000 2000 Vaylantz Genesis Grand Duke ヴァリアンツＧ－グランデューク Effect Monster Fusion Monster Pendulum Monster FIRE Machine 10 2500 2500 Vaylantz Mad Marquess ヴァリアンツＭ－マーキス Effect Monster Pendulum Monster FIRE Machine 6 1700 1700 Vaylantz Voltage Viscount ヴァリアンツＶ－ヴァイカント Effect Monster Pendulum Monster FIRE Machine 4 1400 1400 Vaylantz of the Wireframe Abyss - Arctus XII 針淵のヴァリアンツ－アルクトスＸＩＩ Effect Monster Fusion Monster Pendulum Monster EARTH Fairy 12 3000 3000 World Legacy - "World Shield" 星遺物－『星盾』 Effect Monster DARK Machine 6 0 3000 Yajiro Invader ヤジロベーダー Effect Monster DARK Reptile 5 2200 0 
+   Japanese name Card type Property Beast King Unleashed 獣王無塵 Trap Card Normal Trap Card Normal Trap Card Blasting Fuse 爆導索 Trap Card Normal Trap Card Normal Trap Card Broken Line 直通断線 Trap Card Counter Trap Card Counter Trap Card Defense Zone ディフェンスゾーン Spell Card Field Spell Card Field Spell Card Fuse Line 導爆線 Trap Card Normal Trap Card Normal Trap Card Infinite Impermanence 無限泡影 Trap Card Normal Trap Card Normal Trap Card Magical Musket - Crooked Crown 魔弾－ブラッディ・クラウン Trap Card Continuous Trap Card Continuous Trap Card Staring Contest にらみ合い Spell Card Continuous Spell Card Continuous Spell Card Vaylantz World - Konig Wissen ＶＶ－百識公国 Spell Card Field Spell Card Field Spell Card Vaylantz World - Shinra Bansho ＶＶ－真羅万象 Spell Card Field Spell Card Field Spell Card The Weather Auroral Canvas オーロラの天気模様 Trap Card Continuous Trap Card Continuous Trap Card The Weather Cloudy Canvas 曇りの天気模様 Spell Card Continuous Spell Card Continuous Spell Card The Weather Rainbowed Canvas 虹の天気模様 Trap Card Continuous Trap Card Continuous Trap Card The Weather Rainy Canvas 雨の天気模様 Spell Card Continuous Spell Card Continuous Spell Card The Weather Snowy Canvas 雪の天気模様 Spell Card Continuous Spell Card Continuous Spell Card The Weather Sunny Canvas 晴れの天気模様 Spell Card Continuous Spell Card Continuous Spell Card The Weather Thundery Canvas 雷の天気模様 Trap Card Continuous Trap Card Continuous Trap Card World Legacy Key 星遺物へ至る鍵 Spell Card Continuous Spell Card Continuous Spell Card World Legacy Whispers 星遺物の囁き Trap Card Continuous Trap Card Continuous Trap Card World Legacy's Secret 星遺物に眠る深層 Trap Card Continuous Trap Card Continuous Trap Card 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Gameplay

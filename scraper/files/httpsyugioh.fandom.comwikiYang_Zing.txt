@@ -1,0 +1,1067 @@
+Link: https://yugioh.fandom.com/wiki/Yang_Zing
+
+
+ 
+ Yang Zing 
+ 竜星 「 りゅうせい 」  ( Ryūsei ) 
+ 
+ 
+ 
+ 
+ Clockwise, from bottom-left: " Suanni ", " Bixi ", " Bi'an ", " Baxia ", " Pulao " and " Chiwen ". 
+ 
+ 
+ Translation 
+ Dracomet 
+ 
+ 
+ Other names 
+ 
+ French 
+ Yang Zing 
+ 
+ 
+ German 
+ Yang Zing 
+ 
+ 
+ Italian 
+ Yang Zing 
+ 
+ 
+ Korean 
+ 룡성 龍星   (Hanja)   Ryongseong   (romanized) Translation:  Dracomet 
+ 
+ 
+ Portuguese 
+ Yang Zing 
+ 
+ 
+ Spanish 
+ Yang Zing 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Duelist Alliance The New Challengers Crossed Souls Invasion: Vengeance 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Duelist Alliance: Deluxe Edition The New Challengers Super Edition 2015 Mega-Tin Mega Pack Pendulum Evolution King's Court OTS Tournament Pack 17 Maximum Gold: El Dorado Ghosts From the Past: The 2nd Haunting 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ LINK VRAINS Pack LINK VRAINS Pack 3 
+ 
+ 
+ 
+ 
+ Korea-Only Sets 
+ 
+ 
+ Advanced Event Pack 2014 Vol.4 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! ARC-V 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Yang Zing ", known as " Dracomet " ( 竜 星   Ryūsei ) in the  OCG , is an  archetype  that debuted in  Duelist Alliance . They resemble Dragon-like creatures, but with a slight appearance of Beasts, either by having a mane and/or tiger stripes, as well as Beast-like paws and claws; also, they have a bead inside a triangle on their chest and 3 others on their horns. All of them are  Wyrm  with various  Attributes  (primarily  LIGHT ), which was a new Monster Type at the time of this archetype's debut; the variety of  Attributes  is also emphasized. The deck was the first solely  Synchro -based archetype to be released since the debut of  Xyz Monsters , with no Xyz support whatsoever.
+ 
+ Contents 
+ 
+ 1   Lore 
+ 2   Origin 
+ 3   Playing style 
+ 
+ 3.1   Support 
+ 3.2   Exploring the effects of the "Yang Zing" monsters 
+ 
+ 
+ 4   Recommended cards 
+ 5   Weaknesses 
+ 6   Trivia 
+ 7   References 
+ 
+ 
+ Lore 
+ A group of Wyrms who dwell inside the "Stars" of the Heavens and Earth. They are incarnations of elements found on the planet and the power of the bright stars in the sky  brought forth  by " Constellar Sombre ", who has the same amount of power as a god. It's said that when the "Yang Zing" come together, a shining radiance will consume everything. [1]  (This is most likely referencing to the deck's primary Synchro Monster, " Baxia, Brightness of the Yang Zing ", and its effect to clear away almost the entire field when Summoned.)
+ 
+ Origin 
+ The "Yang Zing" are based on the  Nine Offspring of the Dragon , characters of Chinese mythology. "Yang Zing" was likely altered from "Yang Xing" to avoid pronounciation difficulties. In Chinese, "Yang Xing" may be interpreted as either 陽星  yáng xīng , literally meaning "sun star", or 陽性  yáng xìng , meaning "positive" or "masculine".
+ Different scholars have different lists of the "9 sons of the dragon". Two of the most prominent lists are  Sheng'an Waiji  by  Yang Shen  and  Huailu Tangji  by  Li Dongyang .
+ 
+ 
+ 
+ # 
+ "Yang Zing" monster 
+ Respective  Son of the Dragon 
+ 
+ 
+ Tangji 
+ Waiji 
+ English 
+ Japanese (romanized) 
+ Pinyin 
+ Japanese (romanized)
+ 
+ 
+ 1 
+ N/A
+ 
+ Zefraniu 
+ Sefirashiugo 
+ Qiúniú 
+ Shūgyū
+ 
+ 
+ 2 
+ 7
+ 
+ Yazi 
+ Gaizā 
+ Yázì 
+ Gaishi/Gaisai/Yazu
+ 
+ 
+ 3 
+ N/A
+ 
+ Chaofeng 
+ Chōhō 
+ Cháofēng 
+ Chōhō
+ 
+ 
+ 4 
+ 3
+ 
+ Pulao 
+ Horō 
+ Púláo 
+ Horō
+ 
+ 
+ 5 
+ 8
+ 
+ Suanni 
+ Shungei 
+ Suānní 
+ Sangei/Shungei
+ 
+ 
+ 6 
+ 1
+ 
+ Bixi 
+ Bishiki 
+ Bāxià / Bìxì 
+ Haka/Basha / Hiki/Hiiki/Bishi
+ 
+ 
+ 7 
+ 4
+ 
+ Bi'an 
+ Heikan 
+ Bì'àn 
+ Heikan
+ 
+ 
+ 8 
+ N/A
+ 
+ Zefraxi 
+ Sefirafūshi 
+ Fùxì 
+ Fuki/Fūshi
+ 
+ 
+ 9 
+ 2
+ 
+ Chiwen 
+ Rifun 
+ Chīwěn 
+ Chifun/Shifun
+ 
+ 
+ N/A 
+ 5
+ 
+ Taotie 
+ Tōtetsu 
+ Tāotiè 
+ Tōtetsu
+ 
+ 
+ N/A 
+ 6
+ 
+ Baxia 
+ Shōfuku 
+ Bāxià / Gōngfù 
+ Kōfuku/Shōfuku
+ 
+ 
+ N/A 
+ 9
+ 
+ Jiaotu 
+ Jokuto 
+ Jiāotú 
+ Shōzu/Jokuto
+ 
+ 
+ N/A 
+ N/A
+ 
+ Denglong 
+ Bōtenkō 
+ Dēnglóng / Wàngtiānhǒu 
+ Bōtenkō
+ 
+ Playing style 
+ Almost all of the  Main Deck  monsters focus on maintaining  field  presence by  Special Summoning  one another when they are  destroyed . In addition, the non- Tuner , non-" Zefra " monsters are capable of Synchro Summoning during the opponent's Main Phase or Battle Phase, like " Urgent Tuning " or " T.G. Wonder Magician ", and give bonuses to the Synchro Monster that they were used to Summon, as follows:
+ 
+ 
+ 
+ "Yang Zing" monster 
+ Attribute 
+ Level 
+ Bonus given to the Synchro Monster
+ 
+ 
+ Pulao 
+ WIND 
+ 1 
+ Unaffected by Spell Cards/effects.
+ 
+ 
+ Bixi 
+ WATER 
+ 2 
+ Unaffected by Trap Cards/effects.
+ 
+ 
+ Bi'an 
+ EARTH 
+ 3 
+ Cannot be destroyed by battle.
+ 
+ 
+ Suanni 
+ FIRE 
+ 4 
+ Gains 500 ATK and DEF.
+ 
+ 
+ Taotie 
+ DARK 
+ 5 
+ Possession cannot be switched.
+ 
+ 
+ The Tuner Main Deck monsters of the archetype, " Chiwen, Light of the Yang Zing " and " Jiaotu, Darkness of the Yang Zing ", have effects that tend to speed-up Synchro Summons even more: the first one follows the trend of many Tuner monsters, such as " Plaguespreader Zombie ", " Scrap Mind Reader " and " Jet Synchron ", by Special Summoning itself from the Graveyard in order to assist a Synchro Summon but being banished when it leaves the field, if Special Summoned by its own effect; this effect can be triggered when a "Yang Zing" monster you control is destroyed. "Jiaotu" can Special Summon 2 "Yang Zings" from the Deck, provided you have 2 "Yang Zing" cards in your hand to send. These effects can be used to provide quick access to the "Yang Zing" Synchro Monsters, namely:
+ 
+ " Baxia, Brightness of the Yang Zing ": when Synchro Summoned, it shuffles cards from the field into the Deck, up to the number of different original Attributes of Wyrm monsters used for its Synchro Summon; it can also destroy 1 card you control in order to Special Summon a Level 4 or lower monster from the Graveyard. This can be used to set up more Synchro Summons, not only by bringing back a "Yang Zing" monster, but also by destroying a "Yang Zing" and triggering its effect. Do note that if you do Synchro Summon "Baxia" during your opponent's turn as Chain Link 2 or higher, its shuffling effect will  not  activate because it will miss timing. 
+ " Yazi, Evil of the Yang Zing ": cannot be targeted by an opponent's effects and can act like a "Yang Zing" version of " Scrap Dragon ", destroying 1 of those monsters you control and one opposing card; in addition, it Special Summons  any  Wyrm monster from the Deck when it is destroyed. Like "Baxia", "Yazi" can miss timing on its destruction. 
+ " Chaofeng, Phantom of the Yang Zing ": it has a more intricate set of effects. First off, it locks the opponent's monsters from activating their effects, provided they share Attibutes with this monster's "Yang Zing" Synchro Materials. Its second effect searches  any  Tuner monster when it is destroyed (can miss timing). And finally, it Special Summons  any  Wyrm monster from the Deck when an opponent's monster on the field is destroyed, provided that the Wyrm monster matches the Attribute of the destroyed monster. 
+ " Denglong, First of the Yang Zing ": the first  Tuner Synchro Monster  of the theme, it has a set of three Deck-thinning effects. When Special Summoned, it searches any "Yang Zing"  card  from the Deck. Its second effect mimics the Level of a Wyrm monster, by sending it from the Deck to the Graveyard. Finally, it Special Summons any "Yang Zing" monster from the Deck whenever it leaves the Field, which can be triggered by simply using it as a Synchro Material. Can only Special Summon it once per turn. Currently in OCG territory it is Limited, while in TCG territory it is Forbidden. 
+ Despite being a Synchro-reliant Deck, the Archetype also has 2  Pendulum Monsters , allowing many "Yang Zing" monsters to be Special Summoned at once.
+ 
+ " Zefraxi, Treasure of the Yang Zing ": With a Pendulum scale of 1, it has the effect to turn any non-Tuner "Yang Zing" or "Zefra" monster (aside from another copy of itself) into a Tuner, but it is placed at the bottom of your deck when it leaves the field. This gives even more flexible options to perform a Synchro Summon. Unlike most "Yang Zing" monsters, "Zefraxi" never misses timing. 
+ " Zefraniu, Secret of the Yang Zing ": With a Pendulum scale of 7, it has the effect to search  any  "Yang Zing" or "Zefra" Spell/Trap card, giving you more options for further plays or defense. Its effect can miss timing, however. 
+ Support 
+ The support cards of the Archetype are capable of accelerate the Synchro Summons, provide expressive card advantage, recycle cards and reward a player for having a Graveyard full of "Yang Zing" monsters; examples include " Yang Zing Creation ", that Special Summons a "Yang Zing" from the Deck when a monster (be it a "Yang Zing" or not) is destroyed, but do keep in mind its Summoning restriction. This can be combined with the effects of "Baxia" and "Yazi" to fill the field with many "Yang Zings" in order to set up big Synchro Summons. " Yang Zing Path ": it shuffles 3 "Yang Zings" monsters from your Graveyard into the Deck and then gives 2 draws. As the game goes on, a dedicated "Yang Zing" deck can run out of resources, so this card is very important on keeping the strategy up. " Nine Pillars of Yang Zing " is a powerful Counter Trap Card that can negate anything albeit Spell/Trap effects in the GY, and shuffles the negated card into the Deck, which can be useful to avoid Graveyard effects. At the resolution, it destroys a "Yang Zing" card, and if that card is a monster, its effect can be triggered, unless "Nine Pillars" was activated at Chain Link 3 or higher. 
+ The other support Spells/Traps card see very little play and don't really help with the acceleration of the deck's Synchro monsters. " Yang Zing Prana " is a lackluster card with four different effects depending on how your GY looks with different Attribute "Yang Zing" monsters, though it can be devastating to your opponent if you manage to achieve its last effect. " Yang Zing Brutality " is like " Limiter Removal " for battling "Yang Zing" monsters and doubles their ATK and DEF but is destroyed at the end of the Damage Step, which can trigger almost all the monsters in the archetype. " Yang Zing Unleashed " can help force your opponent destroy your "Yang Zing" monsters in battle and trigger a lot of cards, and it has the effect of the non-Tuner, non-Pendulum monsters to Synchro Summon during your opponent's turn, by sending it to the GY as a cost. Players are better off not running any of the three cards aformentioned, and should fit more staples Spells/Traps instead.
+ 
+ Exploring the effects of the "Yang Zing" monsters 
+ In a "Yang Zing" Deck, generic Synchro Monsters are even more powerful than normally, as they will gain additional bonuses when Summoned by using the "Yang Zing" monsters as Synchro Materials.
+ Using "Chiwen" as the Tuner:
+ 
+ " Leo, the Keeper of the Sacred Tree ": With "Suanni", "Bi'an" and "Pulao", it will have 3600 ATK and immunity against battle destruction and Spell Cards that would destroy it, such as " Dark Hole ". 
+ " Herald of the Arc Light " : Can be Summoned with "Bi'an" and put pressure on the opponent, by negating their effects. Can be revived with "Baxia". 
+ Using the effect of "Jiaotu" to Special Summon 2 "Yang Zing" monsters:
+ 
+ " Trishula, Dragon of the Ice Barrier ": Special Summon "Taotie" and "Bixi", giving it immunity against Trap Cards that would negate its effect, such as " Lose 1 Turn ", " Fiendish Chain " etc. 
+ " Beelze of the Diabolic Dragons ": Special Summon "Suanni" and "Bixi", giving it an ATK/DEF boost and immunity against Trap Cards that would otherwise take it off the field, such as " Compulsory Evacuation Device ", " Phoenix Wing Wind Blast ", " Storming Mirror Force ", etc. 
+ " Ignister Prominence, the Blasting Dracoslayer ": Special Summon "Zefraxi, Treasure of the Yang Zing" and "Zefraniu, Secret of the Yang Zing"; Synchro Summon this card by using "Jiaotu" and "Zefraniu" then, use this card's effect and destroy "Zefraxi" and shuffle one opposing card.
+ With a "Yang Zing" card in each of the Pendulum Zones, it is possible to Pendulum Summon that previously destroyed "Zefraxi" and get rid of an opponent's card every turn. 
+ " Hot Red Dragon Archfiend Abyss ": Special Summon "Zefraniu, Secret of the Yang Zing" and "Chiwen, Light of the Yang Zing"; Synchro Summon any Level 7 or 8 DARK Dragon monster, then use it as a material to Synchro Summon this card. 
+ " Star Eater ": Special Summon "Taotie", "Pulao" and "Suanni", and then Synchro Summon Star Eater. It will have 500 more ATK and DEF, and the added bonus of ignoring card effects in the Damage Step. 
+ " Crystron Quariongandrax ": Special Summon another copy of "Jiaotu" and "Taotie" and be able to target and banish your opponent's monsters on the field or in the GY up to the number of Synchro Materials for its Summon (in this case 3), also cannot change possession, making effects such as " Cyber Dragon Infinity " and " Creature Swap " useless. If it was Synchro Summoned and destroyed by battle or card effect, it can Special Summon  any  banished monster, except itself, whether it be yours or your opponent's, and is placed on to your field. 
+ It is also possible to use the effect of "Zefraxi, Treasure of the Yang Zing" to turn a non-Tuner "Yang Zing" into a Tuner, in order to achieve more flexible options:
+ 
+ " Beelze of the Diabolic Dragons ": The effect of "Zefraxi" can turn "Taotie" into a Tuner and Synchro Summon this card; in addition, it will be immune against cards like " Number 11: Big Eye ", "Number 101: Silent Honor ARK" and "Cyber Dragon Infinity". 
+ " Metaphys Horus ": By Synchro Summoning it with "Zefraxi" and "Bi'an", it can permanently negate the effect of any other face-up card on the field and gain control of an opponent's monster, while also being immune against battle destruction. 
+ " Naturia Barkion ": Can also be Synchro Summoned by the aforementioned method. 
+ Also, the effects of the non-Tuner, non-Pendulum Main Deck "Yang Zing" monsters can be used to Synchro Summon during the opponent's turn, allowing the player to activate the effects of monsters like " Black Rose Dragon ", " Black Rose Moonlight Dragon ", or " Mist Wurm " on the opponent's turn.
+ "Denglong, First of the Yang Zing" also made it easier to Summon monsters like " Crystal Wing Synchro Dragon " and " Hot Red Dragon Archfiend Abyss ", by Special Summoning "Chiwen" after leaving the field as Synchro material for the Synchro monster required for the Summon of those Dragons. Also, by using " Limit Overdrive ", it is possible to Special Summon " Cosmic Blazar Dragon ", " Shooting Quasar Dragon ", or " Stardust Sifr Divine Dragon " by returning "Denglong" and "Yazi" to the Extra Deck; this can be a surprise factor, as this monster is commonly expected in Decks like " Synchron ", rather than "Yang Zing" builds. In addition to this, "Denglong" can change its Level to any from 1 to 6 with its effect, allowing for even more flexibility.
+ 
+ Recommended cards 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ Bi'an, Earth of the Yang Zing 
+ Bixi, Water of the Yang Zing 
+ Pulao, Wind of the Yang Zing 
+ Suanni, Fire of the Yang Zing 
+ Taotie, Shadow of the Yang Zing 
+ True King Agnimazud, the Vanisher 
+ True King Bahrastos, the Fathomer 
+ True King Lithosagym, the Disaster 
+ Mariamne, the True Dracophoenix 
+ Magma Dragon 
+ Night Dragolich 
+ Unmasked Dragon 
+ Tuner monsters 
+ Chiwen, Light of the Yang Zing 
+ Jiaotu, Darkness of the Yang Zing 
+ Masked Chameleon 
+ Mare Mare 
+ Pendulum Monsters 
+ Zefraxi, Treasure of the Yang Zing 
+ Zefraniu, Secret of the Yang Zing Extra Deck   
+ Synchro Monsters 
+ Baxia, Brightness of the Yang Zing 
+ Chaofeng, Phantom of the Yang Zing 
+ Yazi, Evil of the Yang Zing 
+ Accel Synchron 
+ Cloudcastle 
+ Crystron Quandax 
+ Mist Wurm 
+ T.G. Wonder Magician 
+ Trishula, Dragon of the Ice Barrier 
+ Other generic Synchro Monsters 
+ Xyz Monsters 
+ Phantom Fortress Enterblathnir 
+ Link Monsters 
+ Shaman of the Tenyi Spells   &  Traps   
+ Spells 
+ Yang Zing Path 
+ Yang Zing Prana 
+ Burial from a Different Dimension 
+ Dragonic Diagram 
+ True Draco Heritage 
+ Dark Hole 
+ Foolish Burial 
+ One for One 
+ Supply Squad 
+ Traps 
+ Nine Pillars of Yang Zing 
+ Yang Zing Brutality 
+ Yang Zing Creation 
+ Yang Zing Unleashed 
+ Imperial Iron Wall 
+ Torrential Tribute 
+ True King's Return 
+ Waterfall of Dragon Souls 
+ Skill Drain 
+ Weaknesses 
+ Since their effects rely on swarming the field, mainly when combined with " Yang Zing Creation ", cards like " El Shaddoll Winda ", " El Shaddoll Grysta " and " Summon Breaker " can slow down the Deck. 
+ Cards that purely prevent Special Summons, such as " Vanity's Emptiness " and " Fossil Dyna Pachycephalo " are also good counters against them; one can also use " Macro Cosmos ", " Dimensional Fissure " or " Masked HERO Dark Law "   to banish them when they are destroyed. " Soul Drain " and " Deck Lockdown " can prevent them from Special Summoning one another from the Deck when destroyed and, once their main focus is on Synchro Summoning, " Grisaille Prison ", " Dimensional Barrier " and " Discord " can also be used. 
+ The variety of Attributes also makes them vulnerable to " Gozen Match " and " Battle of the Elements ". Their dependability on Level 5 or higher Synchro monsters makes the Deck vulnerable to " Evilswarm Ophion ". 
+ Synchro Monsters using "Bixi" as Material does not protect them from Counter Trap cards that can negates their Special Summon such as " Solemn Strike " and " Solemn Warning ". 
+ A monster that can attack all opposing monsters, such as " Bujintei Susanowo " or " Number 39: Utopia " equipped with " ZW - Asura Strike "," Stardust Charge Warrior " (preferably equipped with " Moon Mirror Shield ") or " Invoked Purgatrio ", can be surprisingly effective against this Deck, since it will keep on attacking every "Yang Zing" monster Summoned by the one previously destroyed. " Evigishki Merrowgeist " can be a peculiar and efficient solution against the "Yang Zing" as well, shuffling them into the Deck instead of sending them to the Graveyard, and, consequently, prevent them from Special Summoning one another. 
+ Monsters like " Armades, Keeper of Boundaries ", " Number S39: Utopia the Lightning " and " U.A. Mighty Slugger " prevent their effects from being activated when they are destroyed by battle. 
+ Most of their effects can  miss the activation timing  due to being optional "When" effects. As such, a "Yang Zing" monster will not be able to activate its searching effect if it is destroyed by " Scarlight Red Dragon Archfiend ", " Gwenhwyfar, Queen of Noble Arms ", " Ryko, Lightsworn Hunter ", " Felis, Lightsworn Archer ", or a destruction effect that activates as  Chain Link  2 or higher, etc. 
+ Hand traps such as " Effect Veiler " and " Ash Blossom & Joyous Spring " can cripple "Jiaotu" plays and prevent you from moving forward that turn. 
+ Trivia 
+ The Japanese name 竜星  ryūsei  literally translates to "dragon star". It may also be based on 流星  ryūsei , "meteor", and 竜生九子  Ryūsei Kyūshi , "Nine Offspring of the Dragon". 
+ This archetype has many similarities with the " Gusto " archetype; both of them are Synchro Summon-oriented archetypes, they also have their own set of "recruiter loops" which also works similarly. 
+ Both Archetypes are from  Duel Terminal  Storyline
+ Both of these archetypes also have exactly 2 of their monsters corrupted and become " Shaddoll " monsters, while also one of each is combined in form of "El Shaddoll Winda" (" Winda, Priestess of Gusto " + " Pulao, Wind of the Yang Zing "). 
+ References 
+ 
+ ↑   YGOrganization  - [Lore] Shadoll and Ryuusei 
+ 
+ 
+   
+" Yang Zing " 「 竜 星 」 Members 
+ Baxia, Brightness of the Yang Zing Bi'an, Earth of the Yang Zing Bixi, Water of the Yang Zing Chaofeng, Phantom of the Yang Zing Chiwen, Light of the Yang Zing Denglong, First of the Yang Zing Jiaotu, Darkness of the Yang Zing Pulao, Wind of the Yang Zing Suanni, Fire of the Yang Zing Taotie, Shadow of the Yang Zing Yazi, Evil of the Yang Zing Zefraniu, Secret of the Yang Zing Zefraxi, Treasure of the Yang Zing 
+ Nine Pillars of Yang Zing Yang Zing Brutality Yang Zing Creation Yang Zing Path Yang Zing Prana Yang Zing Unleashed 
+ Support 
+ Bi'an, Earth of the Yang Zing Bixi, Water of the Yang Zing Chaofeng, Phantom of the Yang Zing Chiwen, Light of the Yang Zing Denglong, First of the Yang Zing Jiaotu, Darkness of the Yang Zing Pulao, Wind of the Yang Zing Suanni, Fire of the Yang Zing Taotie, Shadow of the Yang Zing Yazi, Evil of the Yang Zing Zefraniu, Secret of the Yang Zing Zefraxi, Treasure of the Yang Zing 
+ Nine Pillars of Yang Zing Yang Zing Brutality Yang Zing Creation Yang Zing Path Yang Zing Prana Yang Zing Unleashed 
+ Related 
+ El Shaddoll Winda Satellarknight Zefrathuban Shaddoll Dragon 
+ 
+ v e 
+" Yang Zing " 「 竜 星 」 a   Members 
+ Baxia, Brightness of the Yang Zing Chaofeng, Phantom of the Yang Zing Yazi, Evil of the Yang Zing 
+ Support 
+ Chaofeng, Phantom of the Yang Zing Yazi, Evil of the Yang Zing 
+ 
+ 
+ 
+ 
+ 
+ Six Attributes 
+ 
+ This box:  view edit 
+ DARK    
+ EARTH   
+ FIRE    
+ LIGHT   
+ WATER   
+ WIND    
+ 
+ 
+ /Assault Modes 
+ Red Dragon Archfiend  /  Colossal Fighter 
+ Hyper Psychic Blaster  /  T.G. Halberd Cannon 
+ Doomkaiser Dragon 
+ Arcanite Magician 
+ n/a 
+ Stardust Dragon 
+ 
+ 
+ @Ignisters    Base forms   Evolved forms 
+ Doyon     Dark Templar 
+ Doshin     Earth Golem 
+ Achichi     Fire Phoenix 
+ Pikari     Light Dragon 
+ Hiyari     Water Leviathan 
+ Bururu     Wind Pegasus 
+ 
+ 
+ Alchemy Beasts    Summoners     (Normal Spell Cards) 
+ Moonface the Silver     Silver Key 
+ Leon the Lead     Lead Compass 
+ Salamandra the Steel     Steel Lamp 
+ Ouroboros the Bronze     Bronze Scale 
+ Ekenas the Mercury     Mercury Hourglass 
+ Aretos the Tin     Tin Spell Circle 
+ 
+ 
+ Aliens 
+ Overlord  /  Mother  /  Psychic 
+ Shocktrooper  /  Infiltrator  /  Warrior 
+ Mars  /  Telepath 
+ Ammonite  /  Dog  /  Grey  /  Kid  /  Shocktrooper M-Frame 
+ Hunter  /  Hypno 
+ Skull 
+ 
+ 
+ Altergeists 
+ Primebanshee  /  Multifaker  /  Kidolga  /  Fifinellag  /  Dragvirion  /  Memorygant  /  Pookuery 
+ Kunquery 
+ Hexstia 
+ Marionetter 
+ Meluseek  /  Fijialert 
+ Silquitous  /  Pixiel 
+ 
+ 
+ Aromages 
+ Marjoram 
+ Cananga 
+ Bergamot 
+ Jasmine 
+ Rosemary 
+ Laurel 
+ 
+ 
+ Attribute Boosters   (500 ATK▲/400 DEF▼)    Link Monsters    (500 ATK▲/500 DEF▲)    Field Spells    (500 ATK▲/400 DEF▼)    Equip Spells    (400 ATK▲/200 DEF▼) 
+ Witch's Apprentice     Wee Witch's Apprentice     Mystic Plasma Zone     Sword of Dark Destruction 
+ Milus Radiant     Missus Radiant     Gaia Power     Invigoration 
+ Little Chimera     Duelittle Chimera     Molten Destruction     Burning Spear 
+ Hoshiningen     Hip Hoshiningen     Luminous Spark     Elf's Light 
+ Star Boy     Mistar Boy     Umiiruka     Steel Shell 
+ Bladefly     Greatfly     Rising Air Current     Gust Fan 
+ 
+ 
+ Attribute Knights 
+ Armageddon 
+ Dust 
+ Brushfire 
+ Dawn 
+ Shore 
+ Altitude 
+ 
+ 
+ Attribute Reptiles 
+ Umbral Soul 
+ Raging Earth 
+ Firestorm Prominence 
+ Radiant Spirit 
+ Silent Abyss 
+ Destruction Cyclone 
+ 
+ 
+ Attribute Sorcerers    (4/1500/0/Spellcasters) 
+ Dark 
+ n/a 
+ Fire 
+ Light 
+ Aqua 
+ n/a 
+ 
+ 
+ Attribute Spirits 
+ Luna the Dark Spirit 
+ The Rock Spirit 
+ Spirit of Flames 
+ Diana the Light Spirit 
+ Aqua Spirit 
+ Garuda the Wind Spirit 
+ 
+ 
+ Attribute Summoners 
+ Mystic Tomato 
+ Giant Rat 
+ UFO Turtle 
+ Shining Angel 
+ Mother Grizzly 
+ Flying Kamakiri #1 
+ 
+ 
+ B.E.S. 
+ Big Core 
+ Covered Core  /  Blaster Cannon Core 
+ Big Core MK-2 
+ Big Core MK-3 
+ Crystal Core 
+ Tetran 
+ 
+ 
+ Barrier Statues 
+ Abyss 
+ Drought 
+ Inferno 
+ Heavens 
+ Torrent 
+ Stormwinds 
+ 
+ 
+ Beast Gear World 
+ Catapult Devilkong 
+ Motor Wolf  /  Trike Fox  /  King Convoy Ligeon 
+ Buggy Dog 
+ n/a 
+ n/a 
+ Gyro Jackal 
+ 
+ 
+ Charmers     Familiar-Possessed     Cataclysmic Charmers     Spiritual Arts    Familiar   Possessed Familiars 
+ Dharc     Dharc     n/a     Greed     Meda Bat     n/a 
+ Aussa     Aussa     Avalanching Aussa     Kurogane     Marmot     Nefarious 
+ Hiita     Hiita     Blazing Hiita     Kurenai     Fox Fire     Inari Fire 
+ Lyna     Lyna     n/a     Hijiri     Happy Lover     n/a 
+ Eria     Eria     Raging Eria     Aoi     Gigobyte     Jigabyte 
+ Wynn     Wynn     Storming Wynn     Miyabi     Petit Dragon     Ranryu 
+ 
+ 
+ Chrysalis     Neo-Spacians    Evolved forms   Contact Fusions   Evolved forms   Advanced Contact Fusions 
+ Pantail     Dark Panther     n/a     Dark Neos     n/a     Chaos Neos 
+ Mole     Grand Mole     n/a     Grand Neos     n/a     Nebula Neos 
+ Larva     Flare Scarab     n/a     Flare Neos     n/a     Magma Neos 
+ Pinny     Glow Moss     Twinkle Moss     Glow Neos     n/a     Cosmo Neos 
+ Dolphin     Aqua Dolphin     Marine Dolphin     Aqua Neos     Marine Neos     n/a 
+ Chicky     Air Hummingbird     n/a     Air Neos     n/a     Storm Neos 
+ 
+ 
+ Code Talkers      (Link-3) 
+ Decode    ( Extended ) 
+ Transcode 
+ Powercode 
+ Encode 
+ Shootingcode 
+ Excode 
+ 
+ 
+ Color Ninjas    Dragon Ninjas 
+ Strike     Black 
+ Senior Silver     n/a 
+ n/a     Red 
+ White     White 
+ n/a     Blue 
+ Yellow     Yellow 
+ 
+ 
+ Cubic 
+ Vijam  /  Crimson Nova  ( Trinity ) 
+ Dark Garnex 
+ Blade Garoodia 
+ Duza  /  Buster Gundil  /  Indiora Doom Volt 
+ n/a 
+ Geira Guile 
+ 
+ 
+ CXyz 
+ Dark Fairy Cheer Girl  /  Mechquipped Djinn Angeneral 
+ Comics Hero Legend Arthur  /  Battleship Cherry Blossom  /  Zubaba Saikyo General 
+ Coach Lord Ultimatrainer 
+ Simon the Great Moral Leader  /  Barian Hope 
+ N.As.Ch. Knight 
+ Skypalace Babylon 
+ 
+ 
+ Dice Roll  Archfiends 
+ Terrorking  /  Masterking 
+ Vilepawn 
+ Infernalqueen 
+ Desrook 
+ Darkbishop 
+ Shadowknight 
+ 
+ 
+ Double Tributers     Effigies 
+ Double Coston     Dark 
+ The Trojan Horse     Earth 
+ Flame Ruler     n/a 
+ Kaiser Sea Horse     Light 
+ Unshaven Angler     n/a 
+ Whirlwind Prodigy     Wind 
+ 
+ 
+ Dragonmaids    Human forms   Dragon forms 
+ Chamber     n/a 
+ Nurse     Ernus 
+ Kitchen     Tinkhec 
+ House     Sheou 
+ Laundry     Nudyarl 
+ Parlor     Lorpar 
+ 
+ 
+ Dustons     (1/0/1000/Fiends) 
+ Star 
+ Yellow 
+ Red 
+ House  /  White 
+ Blue 
+ Green 
+ 
+ 
+ Elemental HERO    Fusion Monsters    (1 "HERO" + 1 matching Attribute) 
+ Escuridao 
+ Gaia 
+ Nova Master 
+ The Shining 
+ Absolute Zero 
+ Great Tornado 
+ 
+ 
+ Elemental Lords     Elementsabers 
+ Umbramirage     Molehu 
+ Grandsoil     Aina 
+ Pyrorex     Malo 
+ Phosphorage     Lapauila  ( Mana ) 
+ Moulinglacia     Nalu 
+ Windrose     Makani 
+ 
+ 
+ Empowered Warriors     Summoners 
+ Dragonox     n/a 
+ Terratiger     White Tiger 
+ Arnis     Red Sparrow 
+ Dragodies     Golden Dragon 
+ Hydrortoise      Green Turtle 
+ Ventdra     Blue Dragon 
+ 
+ 
+ Endymion 
+ Master Magician  /  Mighty Master of Magic 
+ Magister 
+ Rogue 
+ Crusader  /  Reflection 
+ Magistus of Mastery 
+ Servant 
+ 
+ 
+ Entities 
+ Azathot 
+ Nyarla 
+ Cthugua 
+ N'tss 
+ Norden 
+ Hastorr 
+ 
+ 
+ Fortune Fairies     Fortune Ladies 
+ Ann     Dark  /  Past 
+ Chee     Earth 
+ En     Fire 
+ Hikari     Light  /  Every 
+ Swee     Water 
+ Hu     Wind 
+ 
+ 
+ Fur Hire 
+ Seal  /  Folgo 
+ Beat  /  Dyna 
+ Bravo 
+ Rafale 
+ Helmer  /  Wiz 
+ Donpa  /  Recon  /  Sagitta 
+ 
+ 
+ Generaiders 
+ Hela  /  Harr 
+ Dovelgus  /  Jormungandr 
+ Naglfar  /  Loptr 
+ Mardel  /  Utgarda 
+ Nidhogg 
+ Frodi 
+ 
+ 
+ Gizmek 
+ Orochi 
+ Uka 
+ Kaku 
+ Yata 
+ Okami 
+ Mikoto 
+ 
+ 
+ Guardians    Weapons     (Equip Spell Cards) 
+ Baou  /  Dreadscythe     Wicked-Breaking Flamberge  /  Reaper Scythe 
+ Grarl     Gravity Axe 
+ Ceal     Shooting Star Bow 
+ Tryce     Twin Swords of Flashing Light 
+ Kay'est     Rod of Silence 
+ Elma  /  Eatos     Buttefly Dagger  /  Celestial Sword 
+ 
+ 
+ Invoked     (1 " Aleister the Invoker " + 1 matching Attribute) 
+ Caliga 
+ Magellanica 
+ Purgatrio 
+ Mechaba 
+ Cocytus 
+ Raidjin 
+ 
+ 
+ Kaiju 
+ Radian 
+ Kumongous 
+ Dogoran 
+ Jizukiru  /  Mecha-Dogoran  /  Thunder King  /  Mecha-Thunder-King 
+ Gameciel 
+ Gadarla 
+ 
+ 
+ Knightmare 
+ Iblee  /  Unicorn  /  Orcust  /  Idlee 
+ Cerberus 
+ Phoenix 
+ Gryphon 
+ Mermaid 
+ Goblin 
+ 
+ 
+ Legendary Planets 
+ Sun  /  Jupiter  /  Saturn  /  Pluto 
+ Terra Firma 
+ Mars 
+ Venus  /  Uranus 
+ Mercury  /  Neptune 
+ n/a 
+ 
+ 
+ Masked HEROes 
+ Dark Law  /  Anki 
+ Dian 
+ Goka 
+ Koga 
+ Vapor  /  Acid 
+ Divine Wind  /  Blast 
+ 
+ 
+ Magician Girls 
+ ( Toon )    Dark    ( Dragon Knight ) 
+ Berry 
+ Apple 
+ Lemon 
+ Chocolate 
+ Kiwi 
+ 
+ 
+ Magikey 
+ Clavkiys  /  Batosbuster  /  Ansyalabolas 
+ Garesglasser 
+ Transfurlmine 
+ Mafteal 
+ Vepartu 
+ Andrabime 
+ 
+ 
+ Magistus 
+ Grimoire Crowley 
+ Goddess Ninaruru 
+ Flame Zoroa  /  Dragon Vafram 
+ Verre Cendrillon  /  Maiden Artemis 
+ Master Endymion 
+ Saint Aiwass 
+ 
+ 
+ Mirror Force 
+ Dark 
+ Quaking 
+ Blazing 
+ Radiant 
+ Drowning 
+ Storming 
+ 
+ 
+ Monarchs    Mega Monarchs   Related  "Monarch"  Spell/Trap Cards    Vassals 
+ Caius  /  Erebus     Caius the Mega     Tenacity  /  The First     Lucius  /  Eidos 
+ Granmarg     Granmarg the Mega     Return     Landrobe  /  Samsara Kaiser 
+ Thestalos     Thestalos the Mega     Erupt     Berlineth 
+ Zaborg  /  Ehther     Zaborg the Mega     Strike  /  The Prime     Mithra  /  Edea 
+ Mobius     Mobius the Mega     Awaken     Escher 
+ Raiza     Raiza the Mega     Stormforth     Garum 
+ 
+ 
+ Musical  Djinns 
+ Maestroke 
+ Temtempo 
+ n/a 
+ Melomelody 
+ Humhumming 
+ Muzurhythm 
+ 
+ 
+ Mythyrian Numbers 
+ Djinn Buster 
+ Lion Heart  /  Ronin Raccoon Sandayu 
+ n/a 
+ Sky Pegasus  /  Dragluon 
+ Abyss Splash  /  Crystalzero 
+ n/a 
+ 
+ 
+ Nemeses 
+ Protos 
+ Keystone 
+ Flag 
+ Eschatos 
+ Umbrella 
+ Corridor 
+ 
+ 
+ Number 10X     Number C10X 
+ n/a     Umbral Horror Masquerade 
+ Giant Hand     Giant Red Hand 
+ Battlin' Boxer Star Cestus     Battlin' Boxer Comet Cestus 
+ Star Seraph Sentry  /  Masquerade  /  Galaxy-Eyes Tachyon Dragon     Archfiend Seraph  /  Neo Galaxy-Eyes Tachyon Dragon 
+ Silent Honor ARK  /  Ragnazero     Silent Honor DARK  /  Ragnafinity 
+ n/a     n/a 
+ 
+ 
+ Odd-Eyes Dragons 
+ Odd-Eyes  /  Pendulum  /  Rebellion  ( Overlord ) /  Persona  /  Phantom  /  Mirage  /  Performapal Metal Claw  /  Raging  /  Supreme King  /  Wing  /  Venom  /  Arc Pendulum  /  Advance  /  Wizard 
+ Gravity 
+ Meteorburst 
+ Saber  /  Lancer  /  Revolution  /  Pendulumgraph 
+ Absolute 
+ Vortex 
+ 
+ 
+ Pendulum  Magicians 
+ Stargazer  /  Timegazer  /  Xiangke  /  Timebreaker  /  Acrobatic  /  Dragoncaller  /  Harmonizing  /  Double Iris  /  Black Fang  /  Purple Poison  /  Performapal Celestial 
+ Dragonpulse 
+ Nobledragon 
+ Wisdom-Eye  /  Xiangsheng  /  Dharma-Eye  /  Performapal Five-Rainbow 
+ Dragonpit 
+ Oafdragon  /  White Wing 
+ 
+ 
+ Prediction Princesses 
+ Astromorrigan 
+ Coinorma  /  Petalelf 
+ n/a 
+ Tarotrei 
+ Crystaldine 
+ Arrowsylph 
+ 
+ 
+ Resonators 
+ Dark  /  Synkron  /  Crimson 
+ Clock 
+ Flare  /  Red  /  Double  /  Net 
+ Barrier  /  Chain  /  Mirror 
+ Force 
+ Creation 
+ 
+ 
+ Road Magic 
+ N/A 
+ Diastrophism 
+ Explosion 
+ Rays Alter 
+ Backflow 
+ Tempest 
+ 
+ 
+ El Shaddoll    Fusion Monsters    (1 "Shaddoll" + 1 matching Attribute) 
+ Winda 
+ Shekhinaga 
+ Grysta 
+ Construct 
+ Anoyatyllis 
+ Wendigo 
+ 
+ 
+ Signer Dragons 
+ Red Archfiend  /  Black-Winged 
+ Life Stream 
+ Black Rose 
+ Ancient Fairy 
+ n/a 
+ Stardust 
+ 
+ 
+ Six Samurai     Legendary Six Samurai     Secret Six Samurai 
+ Irou     Shi En     Doji 
+ Yariza     Kizan     Kizaru 
+ Kamon     Mizuho     Genba 
+ Zanji     Enishi     Rihan 
+ Yaichi     Shinai     Hatsume 
+ Nisashi     Kageki     Fuma 
+ 
+ 
+ Sky Striker Ace 
+ Raye  /  Zeke 
+ Kaina 
+ Kagari 
+ Roze 
+ Shizuku 
+ Hayate 
+ 
+ 
+ Sushi Angels 
+ Spider Roll 
+ Monkey Roll 
+ n/a 
+ Garibel  /  Agaribel 
+ Tiger Roll 
+ Dragon Roll 
+ 
+ 
+ Synchro  Warriors    Tuner  Synchrons 
+ Junk  /  Satellite     Junk  /  Satellite 
+ Drill     Drill 
+ Nitro  /  Jet     Nitro  /  Jet 
+ Road     Road 
+ n/a     Steam 
+ Turbo     Turbo 
+ 
+ 
+ Tenyi  Spirits 
+ Vishuda 
+ Adhara 
+ Mapura 
+ Ashuna  /  Sahasrara 
+ Sthana 
+ Nahata 
+ 
+ 
+ The Weathers    Canvas     (Continuous Spell/Trap Cards) 
+ Aurora     Auroral 
+ Snow     Snowy 
+ Sun     Sunny 
+ Thunder  /  Rainbow     Thundery  /  Rainbowed 
+ Rain     Rainy 
+ Cloud     Cloudy 
+ 
+ 
+ Timelords 
+ Vorpgate 
+ Kamion  /  Hailon 
+ Metaion  /  Lazion  /  Michion 
+ Sephylon  /  Sandaion 
+ Zaphion  /  Gabrion 
+ Sadion  /  Raphion 
+ 
+ 
+ True Draco and True King 
+ All Calamities 
+ Lithosazim  /  Dreiath III 
+ Agnimazud  /  Ignis Heat 
+ Master Peace  ( King ) /  Metaltron XII 
+ Bahrstos  /  Dinomight Knight 
+ Majesty Maiden  /  Mariamne 
+ 
+ 
+ Witchcrafters 
+ Haine 
+ Potterie 
+ Schmitta 
+ Edel  /  Madame Verre  /  Golem Aruru 
+ Pittore 
+ Genni 
+ 
+ 
+ World Chalice 
+ World Legacy 
+ Beckoned  /  Ningirsu 
+ Chosen  /  Auram 
+ Lee 
+ Crowned  / Ib ( Priestess / Justiciar ) 
+ Guardragon  /  Imduk  /  Almarduke 
+ 
+ 
+ Yang Zing 
+ Taotie  /  Jiaotu  /  Yazi 
+ Bi'an  /  Zefraxi  /  Zefraniu 
+ Suanni 
+ Chiwen  /  Baxia  /  Chaofeng  /  Denglong 
+ Bixi 
+ Pulao 
+ 
+ 
+ Yo-kai Girls 
+ Ghost Reaper & Winter Cherries 
+ Ghost Belle & Haunted Mansion 
+ Ash Blossom & Joyous Spring 
+ Ghost Ogre & Snow Rabbit 
+ Ghost Sister & Spooky Dogwood 
+ Ghost Mourner & Moonlit Chill 
+ 
+ 
+ ZW - 
+ Chimera Clad  /  Dragonic Halberd 
+ Ultimate Shield 
+ Phoenix Bow  /  Asura Strike 
+ Unicorn Spear  /  Lightning Blade  /  Leo Arms  /  Sleipnir Mail  /  Fenrir Sword  /  Pegasus Twin Saber  /  Sylphid Wing 
+ n/a 
+ Tornado Bringer  /  Eagle Claw 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c2/Mat-WCQRegional-YangZing.png/revision/latest/scale-to-width-down/350?cb=20141029190709', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/24?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/24?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/24?cb=20120918053839', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Synchro Monster(s), Archetypes with Pendulum Monster(s)

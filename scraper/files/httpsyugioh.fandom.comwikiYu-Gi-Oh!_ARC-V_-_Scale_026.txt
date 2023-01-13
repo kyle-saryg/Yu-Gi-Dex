@@ -1,0 +1,136 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_ARC-V_-_Scale_026
+
+
+ 
+ Yu-Gi-Oh! ARC-V - Scale 026
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kanji
+ 
+ 
+ 超越決闘！
+ 
+ 
+ 
+ Rōmaji
+ 
+ 
+ Toransendensu Dyueru!
+ 
+ 
+ 
+ Japanese translation
+ 
+ 
+ Transcendence Duel!
+ 
+ 
+ 
+ English
+ 
+ 
+ Transcendent Duel!!
+ 
+ 
+ 
+ Number
+ 
+ 
+ 26
+ 
+ 
+ 
+ Release date(s)
+ 
+ 
+  September 21, 2017 
+  September 25, 2017 
+ 
+ 
+ Cover date(s) 
+ 
+ 
+  November 21, 2017 
+ 
+ 
+ Card Gallery
+ 
+ Japanese English 
+ 
+ 
+ Chapter listing
+ 
+ Yu-Gi-Oh! ARC-V chapter listing 
+ 
+ 
+ Previous
+ 
+ Adam and Eve! 
+ 
+ 
+ Next
+ 
+ Reiji's Goal! 
+ 
+ "Transcendent Duel!!"  is the twenty-sixth chapter of the  Yu-Gi-Oh! ARC-V  manga .
+ This chapter was first printed in Japanese in the November 2017 issue of  V Jump , released on September 21, 2017, and in English in the September 25, 2017 issue of  Weekly Shonen Jump .
+ 
+ Summary 
+ Reiji  struggles against  Isaac  in a complex back-and-forth exchange of effects. However, he is surprised when even  the trump card   his father  gave him doesn't seem enough to defeat Isaac.
+ 
+ Featured Duel: Reiji Akaba vs. Isaac 
+ Duel continues from the previous Scale . 
+ Turn 4: Isaac 
+Since he just  Special Summoned  the  Level  7 " Mirror Imagine Ray 5 ",  Isaac   activates  " Additional Mirror Level 7 "; he  sends  two other copies of "Additional Mirror Level 7" from his  Deck  to the  Graveyard  (Isaac's Deck: 29 → 27) to Special Summon two more copies of "Ray 5" (0/2000) from his Deck (Isaac's Deck: 27 → 25), also he takes  damage  equal to their total  ATK . Since their ATK is zero, Isaac takes no damage. Isaac activates the  effect  of his three "Ray 5",  Tributing  them to increase the ATK of " Mirror Imagine Catadioptricker 7 " by 600 for each ("Catadioptricker 7": 0 → 1800 ATK). Next, he activates the effect of "Catadioptricker 7", returning the three copies of "Additional Mirror Level 7" from his Graveyard to his  hand . Since three monsters with the same name left the  field  this turn ("Ray 5"), he also activates " Kaleidoscope Gate ", letting him Special Summon Level 7 " Mirror Imagine Magnifier 4 " (0/1200) from his Deck (Isaac's Deck: 25 → 24), subsequently activating "Additional Mirror Level 7" again to Special Summon two additional copies of it from his Deck (0/1200) (Isaac's Deck: 24 → 22). Isaac proceeds to activate the effects of the three "Magnifier 4", tributing them to increase the ATK of "Catadioptricker 7" by 800 for each ("Catadioptricker 7": 1800 → 4200 ATK).
+ "Catadioptricker 7"  attacks  " D/D/D Supersight King Zero Maxwell ", and at that moment, the former's effect activates, further increasing its ATK by the ATK of "Zero Maxwell" ("Catadioptricker 7": 4200 → 7000 ATK).  Reiji  initially plans on activating the effect of "Zero Maxwell" to reduce the  battle damage  to zero; however, he realizes that since the effect only activates after the monster's destruction, it won't work if his  LP  drop to zero before that, so he activates his  face-down  " Zero Potential ", allowing both players to  draw  one card (Isaac's Deck: 22 → 21). The attack continues and "Zero Maxwell" is  destroyed , but since the card Reiji drew was a " D/D/D " monster, "Zero Potential" reduces the battle damage to zero. Isaac  Sets  a card. During his  End Phase , "Catadioptricker 7" returns to his hand.
+ Turn 5: Reiji 
+Reiji activates " D/D Scale Surveyor " ( PS  9) and " D/D Extra Surveyor " (PS 4) on his  Pendulum Zones , allowing him to  Pendulum Summon  "Zero Maxwell" (2800/2500) from his  Extra Deck . Upon his monster's Summon, since the total values of his Pendulum Scales exceed 12, Reiji performs a  Transcendent Pendulum Summon  to Summon the Level 12 " D/D/D/D Super-Dimensional Sovereign Emperor Zero Paradox " (3000/3000) from his hand. He activates the effect of "Zero Paradox", attempting to destroy all other cards on the field; since he controls a " Mirror Imagine " card, Isaac activates his face-down " Devil Mirage " to  negate  the effect of "Zero Paradox" and destroy all cards on Reiji's field, but Reiji activates his face-down " Zero Protection ", preventing the destruction of his cards.
+ "Zero Maxwell" attacks Isaac  directly , but Isaac activates the effect of the " Mirror Imagine Secondary 9 " in his Pendulum Zone, repeating his reflector combo; he Special Summons " Mirror Imagine Reflector 1 " (0/???) and redirects the attack to it. "Reflector 1" Special Summons and redirects the attack to " Mirror Imagine Reflector 2 " (0/???) while reducing the ATK of "Zero Maxwell" by 1000. "Reflector 2" Special Summons and redirects the attack to " Mirror Imagine Reflector 3 " (0/???) while further halving the attack of "Zero Maxwell" (Isaac's Deck: 21 → 18). Finally, "Reflector 3" activates its effect, negating the attack. "Zero Paradox" attacks directly as well, but Isaac repeats his reflector combo a third time, using his third copies of "Reflector 1", "Reflector 2" and "Reflector 3" (Isaac's Deck: 18 → 15).
+ With Isaac's  Pendulum Monsters  being sent to his Extra Deck, Reiji activates the effect of "Extra Surveyor" by  banishing  itself and "Scale Surveyor" from his Pendulum Zones; since Isaac's Extra Deck currently holds 15 Pendulum Monsters, the effect of "Extra Surveyor" allows Reiji to banish 15 cards from Isaac's Deck, completely depleting the remainder of his Deck, as well as increasing the ATK of "Zero Paradox" by the same amount x200 and allowing it to perform an additional attack. However, Isaac activates his face-down " Exchange of the Mirror World ", negating the  Pendulum Effect  of "Extra Surveyor" and returning all Pendulum Monsters in Isaac's Extra Deck to his Deck (Isaac's Deck: 15 → 30).
+ Duel continues in the next Scale . 
+ 
+ Featured cards 
+ The following cards appeared in this chapter. Cards in italics debuted here.
+ 
+ 
+ Reiji Akaba Monsters   
+ Pendulum Monsters 
+ D/D Extra Surveyor 
+ D/D Scale Surveyor 
+ D/D/D Supersight King Zero Maxwell 
+ D/D/D/D Super-Dimensional Sovereign Emperor Zero Paradox Spells   &  Traps   
+ Traps 
+ Zero Potential 
+ Zero Protection 
+ 
+ Isaac Monsters   
+ Pendulum Monsters 
+ Mirror Imagine Catadioptricker 7 
+ Mirror Imagine Magnifier 4  x3 
+ Mirror Imagine Primary 6 
+ Mirror Imagine Ray 5  x3 
+ Mirror Imagine Reflector 1  x3 
+ Mirror Imagine Reflector 2  x3 
+ Mirror Imagine Reflector 3  x3 
+ Mirror Imagine Secondary 9 Spells   &  Traps   
+ Spells 
+ Additional Mirror Level 7  x3 
+ Traps 
+ Devil Mirage 
+ Exchange of the Mirror World 
+ Kaleidoscope Gate 
+ v e 
+ Yu-Gi-Oh! ARC-V   chapters 
+ #001 " The Name is Phantom! " #002 " Yuto vs. Sawatari! " #003 " Pendulum Summons! " #004 " The Hungry Assassin! " #005 " Assault! Raidraptors!! " #006 " Feeling Alive!! " #007 " Genesis Omega Dragon! " #008 " Sora's Hospitality! " #009 " Fusion vs. Fusion " #010 " The Entertainment Ends! " #011 " Turbo Duel! " #012 " High-Speed Strategy! " #013 " The Adam Factor! " #014 " Where It Began! " #015 " It's Zero! " #016 " Swinging Pendulums of Destiny! " #017 " Another Fact! " #018 " An Unknown Enemy! " #019 " Their Whereabouts! " #020 " Your Opponent Is Me! " #021 " Yuya's Memories! " #022 " Immortal Beings!! " #023 " The Trick Revealed! " #024 " The Reason They're After Us! " #025 " Adam and Eve! " #026 " Transcendent Duel!! " #027 " Reiji's Goal! " #028 " The Enemy's Hideout! " #029 " Memory Duel! " #030 " The World Sora Wants! " #031 " Satisfaction and Resignation! " #032 " What Adam Saw!! " #033 " Eve's True Skills!! " #034 " Challenge the Legends! " #035 " The Four Brothers' Bond! " #036 " The Power of Bonds! " #037 " The Cause of Everything! " #038 " Our Pride! " #039 " Across Time and Space! " #040 " The Adam Factors! " #041 " Reiji's Power! " #042 " Two G.O.D.'s!! " #043 " Head-to-Head Cards!! " #044 " Action Battle!! " #045 " Arc of Destiny!! " #000 " Special One-Shot " 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e2/ARC-V_Scale_26.png/revision/latest/scale-to-width-down/300?cb=20190314210230', 'https://static.wikia.nocookie.net/yugioh/images/9/9e/Flag_of_Japan.svg/revision/latest/scale-to-width-down/20?cb=20081119225453', 'https://static.wikia.nocookie.net/yugioh/images/a/a4/Flag_of_the_United_States.svg/revision/latest/scale-to-width-down/20?cb=20081119225336', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Yu-Gi-Oh! ARC-V chapters

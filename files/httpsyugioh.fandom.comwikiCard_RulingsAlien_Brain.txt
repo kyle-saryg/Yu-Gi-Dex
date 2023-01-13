@@ -1,0 +1,42 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Alien_Brain
+
+
+ Alien Brain 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ TCG Rulings 
+ This effect does not  target . [1] 
+ You take control of your opponent's monster permanently. If it is flipped face-down, you keep control but it is no longer treated as a  Reptile - Type  monster. [1] 
+ You can take control of  Reptile - Type  monsters with this card. [1] 
+ If you control your opponent's  Reptile - Type  monster and it is destroyed and sent to their  Graveyard  you can activate " Alien Brain ." [1] 
+ In order to activate " Alien Brain " the destroyed monster must be  Reptile - Type  while on the field and in the  Graveyard . [1] 
+ OCG Rulings 
+ The effect of " Alien Brain " does not  target . [2] 
+ " Alien Brain " can be activated when a monster is sent to the Graveyard only if the monster is a  Reptile - Type  monster both when it is destroyed on the field and when it is sent to the Graveyard.  Thus, if the monster's Type is not treated as  Reptile  while the monster is on the field because of an effect like " DNA Surgery ", or if the monster's Type is not treated as  Reptile  while the monster is in the Graveyard, then you cannot activate " Alien Brain ". [3] 
+ If an opponent's  Reptile - Type  monster attacks and destroys a  Reptile - Type  monster on your side of the field and sends it to the Graveyard, then you can still activate " Alien Brain ".  In this case, you still gain control of the opponent's  Reptile - Type  monster, even though its  Type  cannot be changed to  Reptile . [4] 
+ If you gain control of a monster by the effect of " Alien Brain ", then you retain control of the monster as long as the monster remains on the field.  The effect which treats the monster's Type as a  Reptile  is applied as long as the monster remains  face-up  on the field.  Thus, if the monster is later flipped face-down by an effect like " Book of Moon ", then the effect which gives you control of the monster is still applied, but the effect which treats its Type as  Reptile  is no longer applied. [5] 
+ References 
+ 
+ ↑  1.0   1.1   1.2   1.3   1.4   Konami Gameplay FAQ : Absolute Powerforce - Card Rulings (Version 1.0) 
+ 
+ ↑   Konami FAQ : Trap Card > Alien Brain 
+ 
+ ↑   Konami FAQ : Can "Alien Brain" be activated if the destroyed monster is not a Reptile-Type when it is on the field or in the Graveyard? 
+ 
+ ↑   Konami FAQ : Can "Alien Brain" be activated if the opponent's Reptile-Type monster destroys? 
+ 
+ ↑   Konami FAQ : Each effect of "Alien Brain" is applied for how long? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

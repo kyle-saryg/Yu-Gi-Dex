@@ -1,0 +1,264 @@
+Link: https://yugioh.fandom.com/wiki/Abyss_Script_-_Rise_of_the_Abyss_King
+
+
+ 
+ 
+ Abyss Script - Rise of the Abyss King 魔 界 台 本 「 魔 王 の 降 臨 」 
+ 
+ English 
+Abyss Script - Rise of the Abyss King 
+ French 
+ Script des Abysses - Ascension du Roi des Abysses Check translation 
+ German 
+ Abgrundskript - Aufstieg des Abgrundkönigs Check translation 
+ Italian 
+ Sceneggiatura dell'Abisso - Ascesa del Re dell'Abisso Check translation 
+ Korean 
+ 마계대본 "마왕의 강림" Check translation 
+ Portuguese 
+ Script do Abismo - Ascensão do Rei do Abismo Check translation 
+ Spanish 
+ Guión de Abismo - Ascenso del Rey del Abismo Check translation 
+ Japanese (kana) 
+ まかいだいほん「まおうのこうりん」 Check translation 
+ Japanese (base) 
+ 魔界台本「魔王の降臨」 Check translation 
+ Japanese ( rōmaji ) 
+Makai Daihon "Maō no Kōrin" 
+ Japanese (translated) 
+Abyss Script "Rise of the Demon King" 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 13662809 
+ Card effect types 
+ 
+ 
+ Effect 
+ Condition 
+ Trigger-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Target   face-up  cards on the  field , up to the number of  Attack Position  " Abyss Actor "  monsters  with different names you  control ;  destroy  them. If you control a  Level  7 or higher "Abyss Actor" monster, your opponent cannot  activate  cards or  effects  in  response  to this card's activation. If this  Set  card in its  owner 's control is destroyed by an opponent's card effect, and you have a face-up "Abyss Actor"  Pendulum Monster  in your  Extra Deck : You can  add  up to 2 "Abyss Actor" cards and/or " Abyss Script "  Spells  with different names from your  Deck  to your  hand . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Ciblez un nombre de cartes face recto sur le Terrain, inférieur ou égal au nombre de monstres "Acteur des Abysses" de noms différents que vous contrôlez en Position d'Attaque ; détruisez-les. Si vous contrôlez un monstre "Acteur des Abysses" de min. Niveau 7, votre adversaire ne peut ni activer de cartes ni d'effets en réponse à l'activation de cette carte. Si cette carte Posée contrôlée par son propriétaire est détruite par un effet de carte de l'adversaire, et que vous avez un Monstre Pendule "Acteur des Abysses" face recto dans votre Extra Deck : vous pouvez ajouter max. 2 cartes "Acteur des Abysses" et/ou Magies "Script des Abysses" de noms différents depuis votre Deck à votre main. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wähle offene Karten auf dem Spielfeld bis zur Anzahl der „Abgrundschauspieler“-Monster mit unterschiedlichen Namen in Angriffsposition, die du kontrollierst; zerstöre sie. Falls du ein „Abgrundschauspieler“-Monster der Stufe 7 oder höher kontrollierst, kann dein Gegner weder Karten noch Effekte als Reaktion auf die Aktivierung dieser Karte aktivieren. Falls diese gesetzte Karte, die ihr Besitzer kontrolliert, durch einen Karteneffekt eines Gegners zerstört wird und du ein offenes „Abgrundschauspieler“-Pendelmonster in deinem Extra Deck hast: Du kannst deiner Hand bis zu 2 „Abgrundschauspieler“-Karten und/oder „Abgrundskript“-Zauber mit unterschiedlichen Namen von deinem Deck hinzufügen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Scegli come bersaglio carte scoperte sul Terreno fino al numero di mostri "Attore dell'Abisso" in Posizione di Attacco con nomi diversi che controlli; distruggile. Se tu controlli un mostro "Attore dell'Abisso" di Livello 7 o superiore, il tuo avversario non può attivare carte o effetti in risposta all'attivazione di questa carta. Se questa carta Posizionata sotto il controllo del suo proprietario viene distrutta dall'effetto di una carta dell'avversario, e tu hai un Mostro Pendulum "Attore dell'Abisso" scoperto nel tuo Extra Deck: puoi aggiungere fino a 2 carte "Attore dell'Abisso" e/o Magie "Sceneggiatura dell'Abisso" con nomi diversi dal tuo Deck alla tua mano. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Escolha cards com a face para cima no campo, até o número de monstros "Ator do Abismo" em Posição de Ataque com nomes diferentes que você controla; destrua-os. Se você controlar um monstro "Ator do Abismo" de Nível 7 ou mais, seu oponente não pode ativar cards ou efeitos em resposta à ativação deste card. Se este card Baixado sob o controle do seu dono for destruído por um efeito de card do oponente e você tiver um Monstro Pêndulo "Ator do Abismo" com a face para cima no seu Deck Adicional: você pode adicionar até 2 cards "Ator do Abismo" e/ou Magias "Script do Abismo" com nomes diferentes do seu Deck à sua mão. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Selecciona cartas boca arriba en el Campo, hasta la cantidad de monstruos "Actor del Abismo" en Posición de Ataque con nombres diferentes que controles; destrúyelas. Si controlas un monstruo "Actor del Abismo" de Nivel 7 o mayor, tu adversario no puede activar cartas o efectos en respuesta a la activación de esta carta. Si esta carta Colocada controlada por su dueño es destruida por el efecto de una carta del adversario, y tienes un Monstruo de Péndulo "Actor del Abismo" boca arriba en tu Deck Extra: puedes añadir a tu mano, desde tu Deck, hasta 2 cartas "Actor del Abismo" y/o Mágicas "Guión de Abismo" con nombres diferentes. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：自分フィールドの攻撃表示の「魔界劇団」モンスターの種類の数まで、フィールドの表側表示のカードを対象として発動できる。そのカードを破壊する。自分フィールドにレベル７以上の「魔界劇団」モンスターが存在する場合、このカードの発動に対して相手は効果を発動できない。②：自分の ＥＸ デッキに表側表示の「魔界劇団」 Ｐ モンスターが存在し、セットされたこのカードが相手の効果で破壊された場合に発動できる。デッキから「魔界劇団」カードまたは「魔界台本」魔法カードを合計２枚まで手札に加える（同名カードは１枚まで）。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 자신 필드의 공격 표시 "마계극단" 몬스터 종류의 수까지, 필드의 앞면 표시의 카드를 대상으로 하고 발동할 수 있다. 그 카드를 파괴한다. 자신 필드에 레벨 7 이상의 "마계극단" 몬스터가 존재할 경우, 이 카드의 발동에 대하여 상대는 효과를 발동할 수 없다. ②: 자신의 엑스트라 덱에 앞면 표시의 "마계극단" 펜듈럼 몬스터가 존재하고, 세트된 이 카드가 상대 효과로 파괴되었을 경우에 발동할 수 있다. 덱에서 "마계극단" 카드 또는 "마계대본" 마법 카드를 합계 2장까지 패에 넣는다(같은 이름의 카드는 1장까지). 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2016-11-17 DESO-EN027 Destiny Soldiers Secret Rare 2018-09-27 LED3-EN054 Legendary Duelists: White Dragon Abyss Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2016-11-17 DESO-FR027 Destiny Soldiers Les Soldats de la Destinée Secret Rare 2018-09-27 LED3-FR054 Legendary Duelists: White Dragon Abyss Duellistes Légendaires : Le Dragon Blanc des Abysses Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2016-11-17 DESO-DE027 Destiny Soldiers Destiny Soldiers Secret Rare 2018-09-27 LED3-DE054 Legendary Duelists: White Dragon Abyss Legendary Duelists: White Dragon Abyss Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2016-11-17 DESO-IT027 Destiny Soldiers Soldati del Destino Secret Rare 2018-09-27 LED3-IT054 Legendary Duelists: White Dragon Abyss Duellanti Leggendari: Drago Bianco dell'Abisso Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2016-11-17 DESO-PT027 Destiny Soldiers Soldados do Destino Secret Rare 2018-09-27 LED3-PT054 Legendary Duelists: White Dragon Abyss Duelistas Lendários: Dragão Branco do Abismo Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2016-11-17 DESO-SP027 Destiny Soldiers Soldados del Destino Secret Rare 2018-09-27 LED3-SP054 Legendary Duelists: White Dragon Abyss Duelistas Legendarios: Dragón Blanco del Abismo Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2016-08-06 SPDS-JP027 Booster SP: Destiny Soldiers ブースターＳＰ －デステニー・ソルジャーズ－ Super Rare 2018-06-09 DP20-JP054 Duelist Pack: Legend Duelist 3 デュエリストパック －レジェンドデュエリスト編３－ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2016-11-22 SPDS-KR027 Booster SP: Destiny Soldiers 부스터-SP 데스티니 솔저스 Super Rare 2018-09-19 DP20-KR054 Duelist Pack: Legend Duelist 3 듀얼리스트 팩 －레전드 듀얼리스트 편 ３- Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Pendulum Monster 
+ 
+ Archetypes  and  series   
+ Abyss Script 
+ 
+ Supports   archetypes   
+ Abyss Actor 
+ Abyss Script 
+ 
+ Actions  
+ Activates if destroyed while Set 
+ Activates from your Graveyard 
+ Adds from Deck to hand 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys face-up Monster Cards 
+ Destroys face-up Spell Cards 
+ Destroys face-up Trap Cards 
+ Prevents activation of your opponent's Effect Monsters 
+ Prevents activation of your opponent's Spell Cards 
+ Prevents activation of your opponent's Trap Cards 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12721 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Abyss Script - Rise of the Abyss King " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Abyss Actor " 「 魔 界 劇 団 」 Members 
+ Abyss Actor - Comic Relief Abyss Actor - Curtain Raiser Abyss Actor - Evil Heel Abyss Actor - Extras Abyss Actor - Funky Comedian Abyss Actor - Hyper Director Abyss Actor - Leading Lady Abyss Actor - Liberty Dramatist Abyss Actor - Mellow Madonna Abyss Actor - Sassy Rookie Abyss Actor - Super Producer Abyss Actor - Superstar Abyss Actor - Trendy Understudy Abyss Actor - Twinkle Little Star Abyss Actor - Wild Hope 
+ Abyss Actors Back Stage Abyss Actors' Curtain Call Abyss Actors' Dress Rehearsal 
+ Support 
+ Abyss Actor - Comic Relief Abyss Actor - Curtain Raiser Abyss Actor - Evil Heel Abyss Actor - Extras Abyss Actor - Funky Comedian Abyss Actor - Hyper Director Abyss Actor - Leading Lady Abyss Actor - Mellow Madonna Abyss Actor - Sassy Rookie Abyss Actor - Super Producer Abyss Actor - Superstar Abyss Actor - Trendy Understudy Abyss Actor - Twinkle Little Star Abyss Actor - Wild Hope 
+ Abyss Actors Back Stage Abyss Actors' Curtain Call Abyss Actors' Dress Rehearsal Abyss Playhouse - Fantastic Theater Abyss Prop - Wild Wagon Abyss Script - Abysstainment Abyss Script - Dramatic Story Abyss Script - Fantasy Magic Abyss Script - Fire Dragon's Lair Abyss Script - Opening Ceremony Abyss Script - Rise of the Abyss King Abyss Script - Romantic Terror 
+ Related 
+ Set Rotation Stand In 
+ 
+   
+" Abyss Script " 「 魔 界 台 本 」 Members 
+ Abyss Script - Abysstainment Abyss Script - Dramatic Story Abyss Script - Fantasy Magic Abyss Script - Fire Dragon's Lair Abyss Script - Opening Ceremony Abyss Script - Rise of the Abyss King Abyss Script - Romantic Terror 
+ Support 
+ Abyss Actor - Comic Relief Abyss Actor - Curtain Raiser Abyss Actor - Evil Heel Abyss Actor - Leading Lady Abyss Actor - Liberty Dramatist Abyss Actor - Mellow Madonna Abyss Actor - Superstar 
+ Abyss Actors' Curtain Call Abyss Actors' Dress Rehearsal Abyss Playhouse - Fantastic Theater Abyss Script - Abysstainment Abyss Script - Rise of the Abyss King Abyss Script - Romantic Terror 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c3/AbyssScriptRiseoftheAbyssKing-LED3-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20180928161020', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

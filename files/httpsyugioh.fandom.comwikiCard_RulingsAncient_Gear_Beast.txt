@@ -1,0 +1,60 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Ancient_Gear_Beast
+
+
+ Ancient Gear Beast 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Yu-Gi-Oh! BAM 
+ 
+ OCG Rulings 
+ The " Negate  the  effects  of an opponent's  monster   destroyed by battle  with this card (including in the  Graveyard ). " effect is a  Continuous Effect . [1] 
+ The effects of an opponent's monster  destroyed by battle  with this card are negated, including effects that are applied or activated from the Graveyard. [1] 
+ The " If this card  attacks , your opponent cannot  activate  any  Spell / Trap Cards  until the end of the  Damage Step . " effect is a  Continuous Effect . [1] 
+ If " Ancient Gear Beast " is destroyed by battle, the " your opponent cannot  activate  any  Spell / Trap Cards  until the end of the  Damage Step . " effect is no longer applied. [1] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [2]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [3] [4] [5] [6] [7] [8] [9] [10] [11] 
+ 
+ “Your opponent’s  Effect Monster ” means the  monster  that your opponent  controls  when this effect is  activated .  [ sic ] 
+ If “ Ancient Gear Beast ”  attacks , the effects of  Spell  or  Trap Cards  that are already  face-up  can still have their effects  activated , like “ Ultimate Offering ”, “ Royal Oppression ”, or “ Skull Lair ”. However,  face-down   Spell  or  Trap Cards  cannot be  activated  ( flipped   face-up ), including a  face-down  “ Ultimate Offering ”, etc. 
+ The effect of “ Ancient Gear Beast ” that prevents your opponent from  activating   Spell  or  Trap Cards  is a  Continuous Effect . It cannot be  chained  to. “ Divine Wrath ” cannot be  activated  against it. 
+ If “ Ancient Gear Beast ”  attacks , and is  destroyed  before the end of the  Damage Step , its effect is no longer applied after it is  destroyed , even if it is still on the  field  and has not yet been sent to the  Graveyard . (A  Continuous Effect  is no longer applied after the  monster  generating it has been  destroyed , even if the  monster  is still on the  field .) The effect of “ Ancient Gear Beast ” is applied up until the point it is  destroyed , though. 
+ 
+ 
+ 
+ References 
+ 
+ ↑  1.0   1.1   1.2   1.3   Konami OCG Card Database : Ancient Gear Beast 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

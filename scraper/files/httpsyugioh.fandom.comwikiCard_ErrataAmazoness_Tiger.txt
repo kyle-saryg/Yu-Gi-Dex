@@ -1,0 +1,65 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Amazoness_Tiger
+
+
+ Amazoness Tiger 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Yu-Gi-Oh! Destiny Board Traveler 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Only  1 "Amazoness Tiger"  can exist  on your side of the field  at a time . Increase the ATK of this  monster  by 400 points for each monster on your side of the field that includes "Amazoness" in its name, or is named "Amazon Archer". As long as this card remains face-up on the field, your opponent cannot  select  another monster that includes "Amazoness" in its name, or is named "Amazon Archer" , as an attack target . 
+ You can  only   have   1 "Amazoness Tiger"  on your side of the field .  Increase the ATK of  this   card   by  400  points  for each monster  on your side of the field that includes "Amazoness" in its name, or is named "Amazon Archer" .  As long as this card remains face-up on the field,  your  opponent cannot  attack  another monster  that includes "Amazoness" in its name, or is named "Amazon Archer" . 
+ 
+ 
+       MFC-063 Magician's Force     
+       DR1-EN118 Dark Revelation Volume 1     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ You can only  control  1 "Amazoness Tiger".  This  card  gains  400  ATK  for each  "Amazoness"  monster  you control .  Your  opponent cannot attack  another   "Amazoness"  monster . 
+ You can only control 1 "Amazoness Tiger". This card gains 400 ATK for each "Amazoness" monster you control. Your opponent cannot attack  any face-up  "Amazoness"  monsters , except this one . 
+ 
+ 
+       GLD3-EN008 Gold Series 3     
+         LCJW-EN089 Legendary Collection 4: Joey's World Mega Pack     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ このカードは自分 の フィールド上に１枚しか表側表示で存在できない。自分フィールド上の「アマゾネス」という名のついたモンスターカード１枚につき、このカードの攻撃力は４００ポイントアップする。相手はこのカードを破壊しない限り、他の「アマゾネス」という名のついたモンスターを攻撃できない。 
+ このカード は自分フィールド 上 に１ 枚 しか表側表示で存在できない。自分フィールド 上 の「アマゾネス」 という名のついた モンスター カード１枚につき、 このカード の攻撃力は４００ポイ ン トアップ する 。 相手はこのカード を破壊しない限り、他 の「アマゾネス」 という名のついた モンスターを攻撃できない。 
+ ①：「アマゾネスペット虎」 は自分フィールドに１ 体 しか表側表示で存在できない。 ②：このカードの攻撃力は、 自分フィールドの「アマゾネス」モンスター の数×４００アップする。③： このカード がモ ン スターゾーンに存在 する 限り、 相手 モンスター はこのカード 以外 の「アマゾネス」モンスターを攻撃できない。 
+ 
+ 
+         303-009 Champion of Black Magic     
+         EE1-JP118 Expert Edition Volume 1     
+         DP27-JP039 Duelist Pack: Duelists of Pyroxene     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/5e/AmazonessTiger-MFC-NA-R-1E.png/revision/latest/scale-to-width-down/180?cb=20160610210832', 'https://static.wikia.nocookie.net/yugioh/images/9/98/AmazonessTiger-DR1-EN-C-UE.png/revision/latest/scale-to-width-down/180?cb=20140209222720', 'https://static.wikia.nocookie.net/yugioh/images/2/29/AmazonessTiger-GLD3-EN-C-LE.jpg/revision/latest/scale-to-width-down/180?cb=20110621024214', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b6/AmazonessTiger-LCJW-EN-UR-1E.png/revision/latest/scale-to-width-down/180?cb=20131012123450', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2f/AmazonessTiger-303-JP-R.jpg/revision/latest/scale-to-width-down/180?cb=20071010004049', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/aa/AmazonessTiger-EE1-JP-C.jpg/revision/latest/scale-to-width-down/180?cb=20110114193653', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/6e/AmazonessTiger-DP27-JP-C.png/revision/latest/scale-to-width-down/180?cb=20220527011036']
+Categories: Card Errata, Cards with 3 errata, Cards with 2 errata, Cards with Japanese errata

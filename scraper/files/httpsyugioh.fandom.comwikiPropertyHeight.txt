@@ -1,0 +1,13 @@
+Link: https://yugioh.fandom.com/wiki/Property:Height
+
+This property lists the height of a character. This uses  quantity  values.
+ This property outputs the units in cm,m,ft,in.
+ 
+ 1 cm 
+ 0.01 m 
+ 0.393701 in 
+ 0.0328084 ft 
+ 
+ 
+ 
+Categories:

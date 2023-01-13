@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Volume_listing_series
+
+This property lists the series of a volume listing. Its uses  string  values.
+ 
+ 
+ 
+ 
+Categories:

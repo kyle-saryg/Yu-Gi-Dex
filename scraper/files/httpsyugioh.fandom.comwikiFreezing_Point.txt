@@ -1,0 +1,112 @@
+Link: https://yugioh.fandom.com/wiki/Freezing_Point
+
+
+ Freezing Point 
+ 
+ Japanese:   絶対零度 
+ Kana:   ぜったいれいど 
+ Romaji:   Zettai Reido 
+ Translated:  Absolute Zero 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Quick-Play 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Effect 
+ Target  1  face-up   Xyz Monster  that has no  Xyz Materials ; its  ATK  becomes 0.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  079 ,  080 ,  108 ,  109 ,  SP2 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ German 
+ Gefrierpunkt 
+ 
+ 
+ 
+ Italian 
+ Punto di Congelamento 
+ 
+ 
+ 
+ Japanese 
+ 絶 対 零 度 
+ フィールド上に存在する、エクシーズ素材が無いモンスターエクシーズ１体を選択して発動できる。選択したモンスターの攻撃力を０にする。 
+ 
+ 
+ Zettai Reido 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Rio Kastle   
+ Reginald Kastle 
+ 
+ 
+ Search categories 
+ 
+ Anti-supports   
+ Xyz Monster 
+ 
+ Stat changes  
+ Reduces ATK to 0 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/17/FreezingPoint-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20130616163255', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/ff/FreezingPoint-OW.png/revision/latest/scale-to-width-down/185?cb=20150203043208', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

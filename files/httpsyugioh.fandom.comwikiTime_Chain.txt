@@ -1,0 +1,116 @@
+Link: https://yugioh.fandom.com/wiki/Time_Chain
+
+
+ Time Chain 
+ 
+ Japanese:   時空鎖 
+ Kana:   タイムチェーン 
+ Romaji:   Taimu Chēn 
+ 
+ 
+ 
+<nomobile> 
+ en 
+ ja </nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Continuous 
+ Condition 
+ Printed lore : When a  monster  you  control  is  targeted  for an  attack  by an opponent's monster:  Activate  this card by  targeting  both those monsters; make them unable to be  destroyed by that battle , and if you do, from the end of the  Damage Step  until the 2nd  Standby Phase  of each player's own  turn , they are treated as if they are not on the  field , they have their  effects   negated , cannot  attack , nor be  targeted  for attacks or by card effects.  Destroy  this card during your opponent's 2nd Standby Phase after this card's activation. Millennium Memory lore : When a  monster  you  control  is  attacked  by an opponent's monster: Monsters cannot be  destroyed by this battle . Both of the monsters that  battled  are treated as if they are not on the  field  until the 2nd  Standby Phase  later of their respective player. (They cannot attack, cannot use their  effects , and cannot be attacked or be  targeted  by card effects.)  Destroy  this card during your opponent's 2nd Standby Phase after activation. [1] [2] 
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ ' 
+ 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  The Dark Side of Dimensions ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Italian 
+ Catena Temporale 
+ 
+ 
+ 
+ Japanese 
+ 時空鎖 
+ Printed lore : ①：自分のモンスターが相手モンスターの攻撃対象に選択された時、そのお互いのモンスターを対象として発動できる。そのモンスターはその戦闘では破壊されず、ダメージステップ終了時からそれぞれのプレーヤーのターンで数えて２ターン体のスタンバイフェーズまで、フィールドに存在しない扱いになる。その間対象のモンスターは攻撃できず、対象・効果の対象にならず、効果は無効化される。このカードの発動後２回目の相手スタンバイフェイズにこのカードは破壊される。 Millennium Memory lore : ①：自分モンスターが相手モンスターに攻撃された時発動できる。この戦闘でモンスターは破壊されない。戦闘したお互いのモンスターはそれぞれな互いのターン２ターン後のスタンバイフェイズまで、フィールドに存在しない扱いとなる。(攻撃できず、効果を使えず、攻撃・効果の対象にならない) このカードは、発動後２回目の相手のスタンバイフェイズに破壊される。 
+ 
+ 
+ Taimu Chēn 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Virtual Dark Yugi 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Treats monsters as not being on the field 
+ 
+ Monster / Spell / Trap  categories  
+ Prevents activation of Effect Monsters 
+ Cannot be targeted by card effects 
+ Destroys itself 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ Prevents attacks 
+ Manages attack targets 
+ 
+ References 
+ 
+ ↑   Yu-Gi-Oh! Duel Monsters Anime Complete Guide: Millennium Memory , page 189. 
+ 
+ ↑   "Dark Side of Dimensions Anime Card Effects, Japanese Card Text Translations" . YGOrganization.com .  https://ygorganization.com/kuwabaralikesstackingthings/ . 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/39/TimeChain-EN-Anime-MOV3.png/revision/latest/scale-to-width-down/200?cb=20180807131256', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/ea/TimeChain-JP-Anime-MOV3-NC.png/revision/latest/scale-to-width-down/185?cb=20170312215221', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Cards with notes, Anime cards with no OCG/TCG counterpart

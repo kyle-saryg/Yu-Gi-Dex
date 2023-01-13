@@ -1,0 +1,801 @@
+Link: https://yugioh.fandom.com/wiki/Gemini_monster
+
+
+ 
+ Gemini monster
+ 
+ 
+ 
+ " Infinity Dark " being Normal Summoned a second time in the artwork of " Super Double Summon "
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ デュアルモンスター
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Dyuaru Monsutā
+ 
+ 
+ 
+ Japanese (translated)
+ 
+ 
+ Dual Monster
+ 
+ 
+ 
+ English
+ 
+ 
+ Gemini monster
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : monstre Gémeau 
+ German : Zwilling smonster 
+ Italian : Mostro Gemello  (Sometimes Mostro Gemello or Mostro Gemelli) 
+ Portuguese : Monstro Gêmeos 
+ Spanish : Monstruo Géminis 
+ Korean : 듀얼 (몬스터)  Dyueol (Monseuteo) 
+ Traditional Chinese : 二重(怪獸)  Èrchóng (Guàishòu) / Ji6 cung4 (Gwaai3 sau3) 
+ Simplified Chinese : 二重(怪兽)  Èrchóng (Guàishòu) 
+ 
+ 
+ 
+ 
+ 
+ Appears in (sets)
+ 
+ 
+ Champion Pack: Game Seven 
+ Crossroads of Chaos: Special Edition 
+ Duelist Pack: Jaden Yuki 3 
+ Gladiator's Assault 
+ Gold Series 2009 
+ Light of Destruction 
+ Phantom Darkness 
+ Stardust Overdrive 
+ Structure Deck: Warrior's Strike 
+ Warriors' Strike Structure Deck 
+ Tactical Evolution 
+ Duel Terminal - Xyz Startup!! 
+ Duel Terminal - Sacred Star Knights!! 
+ Legendary Collection 2: The Duel Academy Years Mega Pack 
+ Order of Chaos 
+ Ra Yellow Mega Pack 
+ Galactic Overlord 
+ Shadow Specters 
+ Samurai Warlords Structure Deck 
+ Hidden Arsenal 6: Omega Xyz 
+ Hidden Arsenal 7: Knight of Stars 
+ Battle Pack 2: War of the Giants 
+ Structure Deck: The Blue-Eyed Dragon's Thundering Descent 
+ Saga of Blue-Eyes White Dragon Structure Deck 
+ Battle Pack 2: War of the Giants 
+ Battle Pack 3: Monster League 
+ Clash of Rebellions 
+ Invasion: Vengeance 
+ 
+ 
+ Appears in (anime)
+ 
+ 
+ Yu-Gi-Oh! 5D's 
+ Yu-Gi-Oh! ZEXAL 
+ Yu-Gi-Oh! ARC-V 
+ Yu-Gi-Oh! VRAINS 
+ 
+ 
+ Lists
+ 
+ 
+ 
+ 
+ members 
+ support 
+ anti-support 
+ 
+ Gemini monsters  (Japanese: デュアルモンスター  Dyuaru Monsutā  "Dual Monster") are  Effect Monsters  with the "Gemini"  ability . They are  treated as Normal Monsters  on the field and in the GY, and can gain their  effects  by performing an additional  Normal Summon  on them while they are face-up on the field.
+ 
+ Contents 
+ 
+ 1   Mechanics 
+ 
+ 1.1   Text 
+ 1.2   Normal Summoning Again 
+ 
+ 
+ 2   Appearances 
+ 3   Playing style 
+ 
+ 3.1   Further strategy 
+ 
+ 
+ 4   Weaknesses 
+ 5   Recommended cards 
+ 
+ 5.1   Gemini Toolbox 
+ 5.2   Phoenix Revival 
+ 
+ 
+ 6   Example 
+ 7   Trivia 
+ 8   See also 
+ 
+ 
+ Mechanics 
+ While a Gemini Monster is face-up on the field, or in the  GY , they are treated as Normal Monsters. They are treated as Effect monster everywhere else. They can be  Normal Summoned  again to "unlock" their effect(s).
+ 
+ Text 
+ The most recent Gemini card text reads as follows:
+ 
+ This card is treated as a Normal Monster while face-up on the field or in the GY. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect. ● [Effect]
+ 
+ Normal Summoning Again 
+ While a Gemini Monster is  face-up  on the field as a Normal Monster, the player may declare its  Normal Summon  again. (This is the turn's 1 Normal Summon/Set). If successfully done, it will be treated as Effect Monster, and gain their effect. 
+ The monster is not treated as on the field during the  Summon negation window . However, any  Equip Cards ,  Counters  and modifications applied to the monster is not lost.
+ Tributes are not required for Level 5 or higher monsters to be summoned this way.
+ The process of the second Normal Summon is unofficially called " Gemini Summon " (or " Dual Summon " in  OCG , not to be confused with " Double Summon ").
+ 
+ Appearances 
+ Gemini monsters debuted in  Tactical Evolution   in the   TCG/OCG. So far, anime and manga appearances have been brief and sporadic, with no Gemini monster having been properly Gemini Summoned in the anime.
+ 
+ " Phoenix Gearfried " is on the poster for the  World Racing Grand Prix  in  Yu-Gi-Oh! 5D's , and in  Yu-Gi-Oh! VRAINS  was also summoned by  Theodore Hamilton  during a flashback duel in  " Darkness Dawns " . 
+ " Gigaplant " appears in a flashback of  Akiza Izinski 's past. 
+ " Crusader of Endymion " has been seen played by random  Duelists  in  " Operation: Capture Yeager II! "  and  Yu-Gi-Oh! ZEXAL 's  " Go With the Flow, Part 1 " . 
+ In  Yu-Gi-Oh! ARC-V ,  multiple copies of " Ancient Gear Knight " are used by members of  Duel Academy  during their  invasion  of  Heartland City  in  " Sora's Secrets: Part 2 " . 
+ Rin  used " Lucky Pied Piper " in a flashback in  " City 'Scape " . 
+ " Future Samurai " appeared in a flashback, used by  No.9  in  " An Evil Ascends " . 
+ The first Gemini monster to be summoned with its Gemini effect in the manga is  Shoma Yusa 's " Evocator Eveque " in  Yu-Gi-Oh! OCG Structures . 
+ The " Chemicritter " archetype is heavily focused on, and almost completely composed of, Gemini monsters. Many of the " Red-Eyes " monsters introduced in  Series 9  are Gemini monsters.
+ 
+ Playing style 
+ Decks built entirely around Gemini monsters are almost all  Aggro  Decks with strong field control, some capacity for field- swarming , and quick Synchro. However, the main strength of this archetype is versatility. Gemini Decks can vary greatly in specialty and method of operation, so much so that (unlike many archetypes) any two examples could be almost entirely different outside of two or three monsters and traps. The major types of Gemini Decks are Field Control (which tend to focus on destruction effects), Equip (which focus on Equips and often lean towards  Warrior  Gemini monsters), and the most popular: "Gigavise" (which focuses on abuse of the effect of "Gigaplant" to field-swarm  Plants  or Geminis, sometimes going for the  Gigaplant OTK ). Some may include elements of all these types. Now, with the debut of  Xyz Monsters , Decks that revolves on Level 4 or lower Gemini and non-Gemini monsters has good potential in conducting a quick Xyz Summon of Rank 4 or lower Xyz Monsters.
+ Gemini monsters have seen an upswing recently in inclusion in anti-meta Decks, with the powerful beatsticks (" Elemental HERO Neos Alius " and " Crusader of Endymion ") splashing in with support from " Honest " and " Gemini Spark ". The  Fusion Monster  " Superalloy Beast Raptinus " causes them to gain their effects immediately, and can be fused from any two Gemini.
+ "Elemental HERO Neos Alius" is an ideal Fusion Material Monster for the " Elemental HERO " fusions with non-specific fusion material based on the different Attributes. What makes it really impressive is the use of " Super Polymerization ", enabling not only discards (which are beneficial to a Deck of this kind) but the theft of certain monsters depending on the attribute of the opponent's monster.
+ They benefit greatly from the many support cards that allow Normal Monsters to be Summoned back from the Graveyard, like " Birthright ". Gemini monsters can play an important role in Decks based around Normal Monsters. A good example of this is " Cú Chulainn the Awakened ", seeing as he can use the  ATK  of a Normal Monster in the Graveyard.
+ 
+ Further strategy 
+ If your Gemini Deck consists of utilizing level 4 Gemini monsters, adding in "Gemini Spark” would be extremely effective in dodging inevitable trap cards or removing any target on the field. What makes "Gemini Spark" effective is the ability to chain it to an opponent's card such as " Bottomless Trap Hole ", which not only saves your monster from being banished but also enabling you to draw 1 card. In addition, "Gemini Spark" also benefits Gemini monsters such as " Blazewing Butterfly " which depend on a Gemini in your Graveyard.
+ In Gemini decks that focus on gaining the effect of “Gemini” monsters, running " Supervise " is a must. Combos with “Supervise” involve “ Evocator Chevalier ” which destroys any card your opponent controls and reviving a Normal Monster from your Graveyard.
+ Since "Gemini" monsters are Normal Monsters while in your graveyard, adding " Swing of Memories " can be of great use. This card proves versatile with the addition of Xyz Monsters, one may summon a monster on the field then use "Swing of Memories" to revive a Gemini in the graveyard, which will then set-up for an easy Xyz Summon (since most Geminis are level 4), a Tribute Summon (such as " Knight of the Red Lotus ") or Synchro Summon if a tuner is available. 
+ "Knight of the Red Lotus" is another great addition for a Gemini deck. This card resurrects a Gemini monster from your graveyard every turn. Although this card is a tribute summon, you may special summon it if the requirements are met. Xyz Monsters such as “ Daigusto Emeral ” may also be of great assistance in reviving a Gemini from your Graveyard.
+ Gemini decks that specialize in sending your Gemini monsters to the graveyard often would use cards such as Future Fusion, " Foolish Burial " or Featherizer. " Future Fusion " will send two of your Gemini monsters to your Graveyard (best to send "Gemini" monsters that require Tribute) which will then allow you to Summon "Superalloy Beast Raptinus" in a few Standby Phases. " Featherizer " will send a "Gemini" from your Deck to your Graveyard and allowing you to draw 1 card after being destroyed by battle.
+ 
+ Weaknesses 
+ All Gemini decks are extremely vulnerable to cards that respond to summon, flip monsters face-down or remove monsters from the field. 
+ Pure Gemini Decks lack speed, even when built for field-swarming. Gemini Decks can have a hard time matching the speed of the most commonly played archetypes that specialize in it. 
+ Gemini monsters tend to rely more heavily on support cards than many archetypes, so Decks built around them more typically go over the forty card standard than others. 
+ Recommended cards 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ Energy Bravery 
+ Featherizer 
+ Flamvell Firedog 
+ Gemini Scorpion 
+ Knight of the Red Lotus 
+ Woodland Archer 
+ Gemini monsters 
+ Ancient Gear Knight 
+ Blazewing Butterfly 
+ Chthonian Emperor Dragon 
+ Dark Valkyria 
+ Darkstorm Dragon 
+ Evocator Chevalier 
+ Future Samurai 
+ Gemini Soldier 
+ Heavy Knight of the Flame 
+ Phoenix Gearfried 
+ Tuned Magician 
+ Tuner monsters 
+ Flamvell Guard 
+ Tune Warrior 
+ Vylon Prism 
+ Vylon Stella Extra Deck   
+ Fusion Monsters 
+ Dragon Knight Draco-Equiste 
+ First of the Dragons 
+ Superalloy Beast Raptinus 
+ Synchro Monsters 
+ Black Brutdrago 
+ Colossal Fighter 
+ Power Tool Dragon 
+ Red Dragon Archfiend 
+ Stardust Dragon 
+ Thought Ruler Archfiend 
+ Xyz Monsters 
+ Daigusto Emeral 
+ Number 39: Utopia 
+ Thunder End Dragon Spells   &  Traps   
+ Spells 
+ Dark Factory of Mass Production 
+ Double Summon 
+ Dragon's Mirror 
+ Ekibyo Drakmord 
+ Gemini Spark 
+ Herculean Power 
+ Hidden Armory 
+ Monster Reincarnation 
+ Polymerization 
+ Reinforcement of the Army 
+ Rekindling 
+ Silent Doom 
+ Supervise 
+ Swing of Memories 
+ Symbols of Duty 
+ Unleash Your Power! 
+ Traps 
+ Birthright 
+ Call of the Haunted 
+ Gemini Booster 
+ Gemini Counter 
+ Gemini Trap Hole 
+ Justi-Break 
+ Reinforce Truth 
+ Ultimate Offering  (Traditional Format only) 
+ Gemini Toolbox 
+ This deck is focused on having the most functionality and focuses on monster effects and fast Synchro or Xyz Summon. Key cards are " Gemini Soldier ", " Damage Condenser ", and " Reinforce Truth ", which help get many of the main engines of the deck on the field safely and fast. (Most staples are omitted but expected.)
+ 
+ 
+ Gemini Toolbox Monsters   
+ Effect Monsters 
+ Featherizer 
+ Knight of the Red Lotus 
+ Lonefire Blossom 
+ Gemini monsters 
+ Blazewing Butterfly 
+ Crusader of Endymion 
+ Dark Valkyria 
+ Evocator Chevalier 
+ Gemini Soldier 
+ Gigaplant 
+ Tuned Magician 
+ Tuner monsters 
+ Nettles 
+ T.G. Striker Extra Deck   
+ Fusion Monsters 
+ Superalloy Beast Raptinus 
+ Synchro Monsters 
+ Black Brutdrago 
+ Scrap Dragon 
+ Xyz Monsters 
+ Daigusto Emeral 
+ Lavalval Chain  (Traditional Format only) Spells   &  Traps   
+ Spells 
+ Gemini Spark 
+ Polymerization 
+ Supervise 
+ Traps 
+ Call of the Haunted 
+ Damage Condenser 
+ Reinforce Truth 
+ Phoenix Revival 
+ This deck mainly concentrates on sending " Phoenix Gearfried " from either your hand or deck to the Graveyard, so that it can be Special Summoned.
+ 
+ 
+ Phoenix Revival Monsters   
+ Effect Monsters 
+ Featherizer 
+ Gemini Scorpion 
+ Gemini Summoner 
+ Gemini monsters 
+ Blazewing Butterfly 
+ Crusader of Endymion 
+ Dark Valkyria 
+ Elemental HERO Neos Alius 
+ Evocator Chevalier 
+ Gemini Soldier 
+ Phoenix Gearfried 
+ Tuned Magician Extra Deck   
+ Fusion Monsters 
+ Elemental Hero Neos Knight 
+ Superalloy Beast Raptinus 
+ Synchro Monsters 
+ Black Brutdrago 
+ Black-Winged Dragon 
+ Stardust Dragon 
+ Xyz Monsters 
+ Daigusto Emeral 
+ Lavalval Chain  (Traditional Format only) Spells   &  Traps   
+ Spells 
+ Burden of the Mighty 
+ Foolish Burial 
+ Gemini Spark 
+ Herculean Power 
+ Hidden Armory 
+ Polymerization 
+ Reinforcement of the Army 
+ Release Restraint Wave 
+ Supervise 
+ Unleash Your Power! 
+ Traps 
+ Call of the Haunted 
+ Champion's Vigilance 
+ Gemini Booster 
+ Gemini Trap Hole 
+ Imperial Iron Wall 
+ Justi-Break 
+ Example 
+ 
+ Trivia 
+ There are no  Beast-Warrior ,  Cyberse ,  Dinosaur ,  Psychic , or  Wyrm  Gemini monsters.
+ However, the effect the Gemini monster " Skelesaurus " treats it as Dinosaur-Type after it has been Normal Summoned while face-up on the  field . 
+ See also 
+ Card Rulings:Gemini monster 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/b9/SuperDoubleSummon-TF04-JP-VG.jpg/revision/latest/scale-to-width-down/300?cb=20120622193343', 'https://static.wikia.nocookie.net/yugioh/images/d/df/RedEyesBlackFlareDragon-LDK2-EN-C-1E.png/revision/latest/scale-to-width-down/137?cb=20161007083239', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Secondary types of Monster Cards

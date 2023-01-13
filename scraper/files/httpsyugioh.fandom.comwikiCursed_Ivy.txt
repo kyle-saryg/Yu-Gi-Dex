@@ -1,0 +1,124 @@
+Link: https://yugioh.fandom.com/wiki/Cursed_Ivy
+
+
+ Cursed Ivy 
+ 
+ Japanese:   カースド・アイヴィ 
+ Romaji:   Kāsudo Aivi 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Effect 
+ Continuous 
+ Trigger-like 
+ Lingering 
+ Select  and  Special Summon  1 " Ivy "  monster  from your  Graveyard  in  face-up   Defense Position  and  equip  it with this card. When this card is  removed from the field ,  destroy  that monster. When this card is  sent  from the  field  to the Graveyard, Special Summon 2 " Ivy Tokens " ( Plant - Type / EARTH / Level  1/ ATK  0/ DEF  0) to your opponent's side of the field in Defense Position. When an "Ivy Token" is destroyed, inflict 300  damage  to its  controller .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  023 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ カースド・アイヴィ 
+ 自分の墓地から「アイヴィ」と名のつくモンスター１体を選択して表側守備表示で特殊召喚する。このカードは、このカードの効果で特殊召喚したモンスターの装備カードとなり、このカードがフィールド上に存在しなくなった時、そのモンスターを破壊する。 フィールド上に存在するこのカードが墓地へ送られた時、相手フィールド上に「アイヴィ・トークン」（植物族・地・星１・攻／守０）２体を守備表示で特殊召喚する。この「アイヴィ・トークン」が破壊された時、そのコントローラーは１体につき３００ポイントのダメージを受ける。 
+ 
+ 
+ Kāsudo Aivi 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Akiza Izinski 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Ivy 
+ 
+ Supports   archetypes   
+ Ivy 
+ 
+ Actions  
+ Activates from your Graveyard 
+ 
+ Monster / Spell / Trap  categories  
+ Treated as Equip Card 
+ Destroys your Monster Cards 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ Equips to Summoned monster 
+ Special Summons Tokens 
+ Special Summons to your opponent's field 
+ 
+ LP   
+ Damages your opponent 
+ 
+ v e 
+" Ivy " 「アイヴィ」 a   m   +   Members 
+ Cursed Ivy Ivy Bind Castle Ivy Shackles Ivy Token Wall of Ivy 
+ Support 
+ Cursed Ivy 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/39/CursedIvy-JP-Anime-5D.png/revision/latest/scale-to-width-down/200?cb=20080904225701', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/66/CursedIvy-OW.png/revision/latest/scale-to-width-down/185?cb=20140313233446', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

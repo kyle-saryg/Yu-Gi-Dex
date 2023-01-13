@@ -1,0 +1,126 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Allure_Queen_LV3
+
+
+ Allure Queen LV3 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ Contents 
+ 
+ 1   OCG Rulings 
+ 
+ 1.1   Mentions in Other Rulings 
+ 
+ 
+ 2   Previously Official Rulings 
+ 
+ 2.1   Mentions in Other Rulings 
+ 
+ 
+ 3   LV Monster Rulings 
+ 
+ 3.1   Previously Official Rulings 
+ 
+ 3.1.1   Mentions in Other Rulings 
+ 
+ 
+ 
+ 
+ 4   Notes 
+ 5   References 
+ 
+ 
+ OCG Rulings 
+ " Griggle " and " Ameba "'s effects will not activate when " Allure Queen LV3 " turns either into an Equip Card. [1] 
+ Mentions in Other Rulings 
+ When " Jinzo "/" Tyrant Dragon "/" Sorcerer of Dark Magic " becomes an Equip Spell Card, they have no effect, so they cannot be  targeted  by " Double Snare ". [2] 
+ If " Destiny Hero - Plasma " is not face-up on the field when its "Equipping" effect resolves, the effect is not negated.  The  targeted  monster is instead sent to the Graveyard. [3] 
+ Monster Cards have no  Type  while being treated as an Equip Card, so you cannot send an Equipped  Machine - Type  monster to the Graveyard to Special Summon " Chimeratech Fortress Dragon ".  However, you can send an Equipped " Cyber Dragon ", since its name is still " Cyber Dragon ". [4] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [5]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [6] [7] [8] [9] [10] [11] [12] [13] [14] 
+ 
+ You can  equip  a monster to “ Allure Queen LV3 ” that is having its  Level  reduced to 3 or lower by an effect, like “ Demotion ”. 
+ If " Book of Moon " is chained to the activation of " Allure Queen LV3 's" effect to turn the "Allure Queen" face-down, then the monster that was targeted is destroyed. It cannot be equipped to a face-down monster. 
+ Mentions in Other Rulings 
+ Allure Queen LV5 : If “ Allure Queen LV5 ” is  flipped  face-down after being  Special Summoned  by the effect of “ Allure Queen LV3 ”, it is no longer treated as having been  Special Summoned  by “ Allure Queen LV3 ”. So you can no longer use its first effect to  equip  it with a monster. (However, it is still considered to have been  Special Summoned  for effects like “ Special Hurricane ”.) 
+ Allure Queen LV5 : If “ Allure Queen LV5 ” is  Special Summoned  by the effect of “ Allure Queen LV3 ”, and is then temporarily  removed from play  with “ Dimensionhole ” or “ Interdimensional Matter Transporter ”, after it returns to the field it can still use its first effect. The fact that it was  Special Summoned  by “ Allure Queen LV3 ” is not reset. 
+ Allure Queen LV5 : If “ Allure Queen LV5 ” is  Special Summoned  by the effect of “ Allure Queen LV3 ”, and is then permanently  removed from play  with “ D.D. Warrior ”, if it is later  Special Summoned  by an effect like “ Return from the Different Dimension ”, it is no longer treated as being  Special Summoned  by “ Allure Queen LV3 ”. So it cannot use its first effect anymore. 
+ Trojan Blast :  You cannot  activate  " Trojan Blast " when a  monster  shifts  control  to become an  Equip Card . So you cannot  activate  " Trojan Blast " when... " Allure Queen LV3 "...  equips  itself with your monster. 
+ 
+ 
+ 
+ LV Monster Rulings 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [15]  They were previously considered official, but may or may not necessarily hold true nowadays. 
+ 
+ If a  level monster  fulfills its condition to Special Summon the next-highest level (for example, if " Armed Dragon LV5 " destroys a monster as a result of battle), and the level monster is then flipped face-down, or removed from play permanently, or sent to the Graveyard and then Special Summoned from the Graveyard, then its condition is reset and it is no longer considered to have met the condition to level up to the next level. [16] [17] [18] [19] [20] 
+ If you don’t have " Horus the Black Flame Dragon LV6 " in your hand or Deck, you cannot send " Horus the Black Flame Dragon LV4 " to the Graveyard to activate its effect. [17] 
+ "If  Banisher of the Light "  [ sic ]  is in play, you cannot send " Horus the Black Flame Dragon LV 4 " to the Graveyard, so you cannot activate its effect. [17] 
+ You don’t have to send " Horus the Black Flame Dragon LV 4 " to the Graveyard if you don’t want to, even if it destroyed a monster as a result of battle. But if you activate its effect by sending it to the Graveyard, you must Special Summon " Horus the Black Flame Dragon LV 6 " if possible. [17] 
+ Mentions in Other Rulings 
+ Divine Wrath : You can activate " Divine Wrath " when a " LV " monster is sent to the Graveyard to Special Summon the next level version (an  Ignition Effect [Out of Date 1] ), and " Divine Wrath " will negate that effect, even though it cannot destroy the " LV " monster because it is already in the Graveyard. 
+ Level Down!? : You can use “ Level Down!? ” on a “ Neo-Spacian Dark Panther ” that is copying an  LV Monster . But since it is no longer copying the  LV Monster  after it has been returned to the  Deck , no monster will be  Special Summoned . 
+ Level Modulation : An “LV” monster that normally cannot be  Special Summoned  except by the method in its text CANNOT be  Special Summoned  from the  Graveyard  with “ Level Modulation ” unless it has been previously  Special Summoned  by the correct procedure. The “ignore the Summoning conditions” text allows for these monsters to be  Special Summoned  only after they have been properly Summoned by their own effect. This applies to “ Horus the Black Flame Dragon LV8 ”, “ Armed Dragon LV7 ”, “ Silent Swordsman LV7 ”, “ Silent Magician LV8 ”, and “ Winged Kuriboh LV10 ”. 
+ Neo-Spacian Dark Panther : If you target an “LV” monster, you could  Tribute  the “ Neo-Spacian Dark Panther ” to activate the Spell Card “ Level Up! ”. It will be in the Graveyard when “ Level Up! ” resolves, so it will no longer have the copied effect, so there is no monster name to reference and therefore the effect disappears. 
+ 
+ Notes 
+ 
+ ↑   Some "LV" monsters have  Problem-Solving Card Text , which makes clear that the effect to Special Summon the next "LV" monster is  Trigger Effect . 
+ 
+ 
+ References 
+ 
+ ↑   Konami FAQ : When "Ameba" becomes an Equip Card by the effect of "Relinquished", does the effect activate? 
+ 
+ ↑   Konami FAQ : Can a "Jinzo" which is equipped to "Relinquished"/"Sword Hunter"/etc be destroyed by "Double Snare"? 
+ 
+ ↑   Konami FAQ : When "Destiny Hero - Plasma" is not face-up on the field when its effect resolves, what happens to the monster to be equipped? 
+ 
+ ↑   Konami FAQ : Can "Chimeratech Fortress Dragon" be Special Summoned by sending to the Graveyard a Monster Card which is being treated as an Equip Spell Card? 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] [ARMED DRAGON LV5] 
+ 
+ ↑  17.0   17.1   17.2   17.3   UDE FAQ : Individual Card Rulings [F-H] [HORUS THE BLACK FLAME DRAGON LV4] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] [HORUS THE BLACK FLAME DRAGON LV6] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] [MYSTIC SWORDSMAN LV2] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] [MYSTIC SWORDSMAN LV4] 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

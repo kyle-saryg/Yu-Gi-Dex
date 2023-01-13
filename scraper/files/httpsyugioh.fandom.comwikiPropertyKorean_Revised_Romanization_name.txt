@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Korean_Revised_Romanization_name
+
+This property lists the Korean name of something in the Revised Romanization. This uses  string  values.
+ 
+ 
+ 
+ 
+Categories:

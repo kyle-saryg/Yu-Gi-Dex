@@ -1,0 +1,267 @@
+Link: https://yugioh.fandom.com/wiki/Fusion_Substitute
+
+Not to be confused with  Fusion Substitute Monster . 
+ 
+ The Japanese (OCG) version of this card is not a member of the " Fusion "  archetype , because its Japanese name does not contain  「フュージョン」 .   As its English name contains "Fusion", it  may  be treated a member of the "Fusion" archetype at a TCG event, subject to local rulings.     
+ 
+ 
+ 
+ 
+ 
+ Fusion Substitute 置 換 融 合 
+ 
+ English 
+Fusion Substitute 
+ French 
+ Fusion Alternative Check translation 
+ German 
+ Fusionsersatz Check translation 
+ Italian 
+ Fusione Sostituto Check translation 
+ Korean 
+ 치환융합 Check translation 
+ Portuguese 
+ Substituir Fusão Check translation 
+ Spanish 
+ Substituto de Fusión Check translation 
+ Japanese (kana) 
+ ちかんゆうごう Check translation 
+ Japanese (base) 
+ 置換融合 Check translation 
+ Japanese ( rōmaji ) 
+Chikan Yūgō 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 74335036 
+ Card effect types 
+ 
+ 
+ Condition 
+ Effect 
+ Ignition-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+(This card's name is always treated as " Polymerization ".) Fusion Summon  1  Fusion Monster  from your  Extra Deck , using  monsters  you  control  as  Fusion Material . You can  banish  this card from your  GY , then  target  1 Fusion Monster in your GY;  return  it to the Extra Deck, then  draw  1 card. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ (Le nom de cette carte est toujours traité comme "Polymérisation".) Invoquez par Fusion 1 Monstre Fusion depuis votre Extra Deck, en utilisant des monstres que vous contrôlez comme Matériel Fusion. Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Fusion dans votre Cimetière ; renvoyez-le à l'Extra Deck, puis piochez 1 carte. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ (Der Name dieser Karte wird immer als „Polymerisation“ behandelt.) Beschwöre 1 Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck und verwende dafür Monster, die du kontrollierst, als Fusionsmaterial. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Fusionsmonster in deinem Friedhof wählen; lege es ins Extra Deck zurück, dann ziehe 1 Karte. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ (Il nome di questa carta viene sempre considerato come "Polimerizzazione".) Evoca tramite Fusione 1 Mostro Fusione dal tuo Extra Deck, utilizzando mostri che controlli come Materiale da Fusione. Puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 Mostro Fusione nel tuo Cimitero; fallo ritornare nell'Extra Deck, poi pesca 1 carta. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ (O nome deste card deve ser sempre considerado como "Polimerização".) Invoque por Invocação-Fusão 1 Monstro de Fusão do seu Deck Adicional, usando monstros que você controla como Matéria de Fusão. Você pode banir este card do seu Cemitério e, depois, escolha 1 Monstro de Fusão no seu Cemitério; devolva-o para o Deck Adicional e, depois, compre 1 card. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ (El nombre de esta carta se trata siempre como "Polimerización"). Invoca por Fusión 1 Monstruo de Fusión desde tu Deck Extra, usando como Material de Fusión monstruos que controles. Puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 Monstruo de Fusión en tu Cementerio; devuélvelo al Deck Extra, y después roba 1 carta. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードのカード名はルール上「融合」として扱う。①：自分フィールドから、融合モンスターカードによって決められた融合素材モンスターを墓地へ送り、その融合モンスター１体を ＥＸ デッキから融合召喚する。②：墓地のこのカードを除外し、自分の墓地の融合モンスター１体を対象として発動できる。そのモンスターを ＥＸ デッキに戻す。その後、自分はデッキから１枚ドローする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드의 카드명은 룰상 "융합"으로 취급한다. ①: 자신 필드에서, 융합 몬스터 카드에 기재된 융합 소재 몬스터를 묘지로 보내고, 그 융합 몬스터 1장을 엑스트라 덱에서 융합 소환한다. ②: 묘지의 이 카드를 제외하고, 자신 묘지의 융합 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 엑스트라 덱으로 되돌린다. 그 후, 자신은 덱에서 1장 드로우한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2014-11-06 NECH-EN081 The New Challengers Common 2016-10-06 LDK2-ENK31 Legendary Decks II Common 2017-02-23 FUEN-EN041 Fusion Enforcers Super Rare 2018-12-06 OP09-EN022 OTS Tournament Pack 9 Common 2022-04-14 SDAZ-EN026 Structure Deck: Albaz Strike Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2014-11-06 NECH-FR081 The New Challengers Les Nouveaux Challengers Common 2016-10-06 LDK2-FRK31 Legendary Decks II Decks Legendaires II Common 2017-02-23 FUEN-FR041 Fusion Enforcers Les Executeurs Fusion Super Rare 2018-12-06 OP09-FR022 OTS Tournament Pack 9 OTS Pack de Tournoi 9 Common 2022-04-14 SDAZ-FR026 Structure Deck: Albaz Strike Deck de Structure : l'Assaut d'Albaz Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2014-11-06 NECH-DE081 The New Challengers The New Challengers Common 2016-10-06 LDK2-DEK31 Legendary Decks II Legendary Decks II Common 2017-02-23 FUEN-DE041 Fusion Enforcers Fusion Enforcers Super Rare 2018-12-06 OP09-DE022 OTS Tournament Pack 9 OTS Tournament Pack 9 Common 2022-04-14 SDAZ-DE026 Structure Deck: Albaz Strike Structure Deck: Albaz Strike Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2014-11-06 NECH-IT081 The New Challengers I Nuovi Sfidanti Common 2016-10-06 LDK2-ITK31 Legendary Decks II I Deck Leggendari II Common 2017-02-23 FUEN-IT041 Fusion Enforcers Esecutori Fusione Super Rare 2018-12-06 OP09-IT022 OTS Tournament Pack 9 OTS Buste da Torneo 9 Common 2022-04-14 SDAZ-IT026 Structure Deck: Albaz Strike Structure Deck: Attacco di Albaz Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2014-11-07 NECH-PT081 The New Challengers Novos Desafiantes Common 2016-10-07 LDK2-PTK31 Legendary Decks II Decks Lendários II Common 2017-02-23 FUEN-PT041 Fusion Enforcers Dominadores da Fusão Super Rare 2018-12-06 OP09-PT022 OTS Tournament Pack 9 OTS Pacote de Torneio 9 Common 2022-04-14 SDAZ-PT026 Structure Deck: Albaz Strike Deck Estrutural: Golpe de Arbaz Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2014-11-06 NECH-SP081 The New Challengers Los Nuevos Contendientes Common 2016-10-06 LDK2-SPK31 Legendary Decks II Barajas Legendarias II Common 2017-02-23 FUEN-SP041 Fusion Enforcers Ejecutores de la Fusión Super Rare 2018-12-06 OP09-SP022 OTS Tournament Pack 9 OTS Sobre Torneo 9 Common 2022-04-14 SDAZ-SP026 Structure Deck: Albaz Strike Baraja de Estructura: El Ataque de Albaz Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2015-09-19 EP15-JP063 Extra Pack 2015 ＥＸＴＲＡ ＰＡＣＫ　２０１５ Rare 2016-11-12 SPFE-JP041 Booster SP: Fusion Enforcers ブースターＳＰ －フュージョン・エンフォーサーズ－ Common 2016-11-12 SPFE-JP041 Booster SP: Fusion Enforcers ブースターＳＰ －フュージョン・エンフォーサーズ－ Normal Parallel Rare 2021-12-04 SD43-JP026 Structure Deck: Alba Strike ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ ＡＬＢＡ ＳＴＲＩＫＥ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2016-01-21 EP15-KR078 Extra Pack 2015 EXTRA   PACK  ２０１５ Rare 2017-03-21 SPFE-KR041 Booster SP: Fusion Enforcers 부스터-SP 퓨전 엔포서즈 Common 2017-03-21 SPFE-KR041 Booster SP: Fusion Enforcers 부스터-SP 퓨전 엔포서즈 Normal Parallel Rare 2022-03-16 SD43-KR026 Structure Deck: Alba Strike STRUCTURE   DECK  -알버스트라이크- Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Fusion Monster 
+ 
+ Archetypes  and  series   
+ Polymerization  
+ 
+ Related to  archetypes  and  series   
+ Fusion  
+ 
+ Actions  
+ Sends from your field to your Graveyard 
+ Uses cards on the player's field as Fusion Materials 
+ Activates from your Graveyard 
+ Returns from your Graveyard to your Extra Deck 
+ You draw cards 
+ 
+ Stat changes  
+ Name condition 
+ 
+ Summoning  categories  
+ Performs a Fusion Summon 
+ Special Summons from your Extra Deck 
+ 
+ Banished  categories  
+ Banishes itself from Graveyard for cost 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11504 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Fusion " 「フュージョン」 Members 
+ Greedy Venom Fusion Dragon Purple Poison Magician Starving Venom Fusion Dragon Starving Venom Predapower Fusion Dragon 
+ Absorb Fusion Ancient Gear Fusion Battle Fusion Brilliant Fusion Confusion Chaff Cyberload Fusion Cybernetic Fusion Support Cynet Fusion D-Fusion Dark Fusion Dowsing Fusion El Shaddoll Fusion Final Fusion Fossil Fusion Fragment Fusion Frightfur Fusion Fullmetalfoes Fusion Fusion Destiny Fusion Fright Waltz Fusion Gate Fusion Guard Fusion Recovery Fusion Reserve Fusion Tag Fusion Weapon Fusion of Fire Future Fusion Gem-Knight Fusion Ghost Fusion Instant Fusion Lunalight Fusion Magicalized Fusion Metalfoes Fusion Miracle Fusion Miracle Synchro Fusion Myutant Fusion Necro Fusion Neos Fusion Nephe Shaddoll Fusion Odd-Eyes Fusion Over Fusion Overload Fusion Paradox Fusion Parallel World Fusion Parametalfoes Fusion Particle Fusion Pendulum Fusion Predaprime Fusion Pyroxene Fusion Ready Fusion ... further results 
+ Support 
+ Alba-Lenatus the Abyss Dragon Fluffal Dolphin Gem-Knight Quartz Keeper of Dragon Magic Predaplant Chimerafflesia Predaplant Darlingtonia Cobra Predaplant Verte Anaconda Supreme King Gate Zero Synchro Fusionist Xtra HERO Wonder Driver 
+ Cyberdark Inferno Evil Mind Frightfur Factory Sabatiel - The Philosopher's Stone Wonders of Nature 
+ Related 
+ Fusion Devourer Odd-Eyes Venom Dragon Performapal Trump Witch Relinquished 
+ Dark Calling Evolution Result Burst Fusion Substitute Miracle Contact Polymerization Power Bond 
+ 
+   
+" Polymerization " 「 融 合 」 Members 
+ The Dark - Hex-Sealed Fusion The Earth - Hex-Sealed Fusion The Light - Hex-Sealed Fusion 
+ A.I. Love Fusion Anti-Fusion Device Battle Fusion Branded Fusion De-Fusion Destruction Swordsman Fusion Dimension Fusion Dimension Fusion Destruction Face Card Fusion Final Fusion Flash Fusion Fossil Fusion Fusion Conscription Fusion Deployment Fusion Recycling Plant Fusion Sage Fusion Substitute Fusion Sword Murasame Blade Future Fusion Greater Polymerization Mispolymerization Non-Fusion Area Polymerization Polymerization Re-Fusion Revoke Fusion Super Polymerization Ultra Polymerization Vision Fusion 
+ Support 
+ Alba-Lenatus the Abyss Dragon Fluffal Dolphin Keeper of Dragon Magic Predaplant Chimerafflesia Predaplant Darlingtonia Cobra Predaplant Verte Anaconda Supreme King Gate Zero Synchro Fusionist Xtra HERO Wonder Driver 
+ Cyberdark Inferno Evil Mind Frightfur Factory Sabatiel - The Philosopher's Stone Wonders of Nature 
+ Related 
+ Amazoness Spiritualist Amazoness War Chief Ancient Gear Golem - Ultimate Pound Blue-Eyes Abyss Dragon Elemental HERO Blazeman Elemental HERO Spirit of Neos Elemental HERO Woodsman Fluffal Bear Fluffal Cat Fluffal Owl Guardian Chimera King of the Swamp Lunalight Black Sheep Lunalight Kaleido Chick Monster Eye Performapal Odd-Eyes Metal Claw Performapal Trump Witch Tamtam the Melodious Diva Vision HERO Vyon Wroughtweiler 
+ EN - Engage Neo Space Frightfur Patchwork Fusion Recovery Fusion Reserve Miracle Contact 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/d/d9/FusionSubstitute-SDAZ-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20220506004958', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,65 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:A_Wild_Monster_Appears!
+
+
+ A Wild Monster Appears! 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ OCG Rulings 
+ This card does not  target . [1] 
+ This card can  Special Summon  1  Special Summon Monster  from your hand with an original  Level  of 10 or lower. (This card cannot Special Summon monsters that cannot be  Tribute Summoned  because you do not enough Tributes, nor monsters that cannot be Special Summoned because the effect of a card like " Koa'ki Meiru Drago ".) [1] 
+ This card can  Special Summon   Ritual Monsters  since they are treated as  Special Summon Monsters . (This is not treated as a  Ritual Summon .) [1] 
+ Special Summoning  a monster is considered the last thing to happen when this card resolves. [1] 
+ After this card resolves you cannot  Normal Summon / Set  or Special Summon monsters, and your opponent takes no  damage  this turn, but the monster Special Summoned by this effect can  activate  its effects and  attack . [1] 
+ Applying " also  shuffle  it into the  Deck  during your opponent's next  End Phase " does not start a  Chain Link . (If the monster Special Summoned by this card  leaves the field , " also  shuffle  it into the  Deck  during your opponent's next  End Phase "  is no longer applied.) [1] 
+ Because " If you Special Summon this  monster , you cannot Normal Summon or Set a monster during the same  turn . " of " Grinder Golem ", you cannot Special Summon " Grinder Golem " with " A Wild Monster Appears! " if you have already Normal Summoned a monster this turn. If you did not Normal Summon a monster this turn, you can Special Summon " Grinder Golem " with " A Wild Monster Appears! . It is Special Summoned to your side of the field. (" Grinder Tokens " are not Summoned.) [2] 
+ This card can  Special Summon  1  Special Summon Monster  from your hand with an original  Level  of 10 or lower. The following are examples of monsters that can be Special Summoned with " A Wild Monster Appears! ": [3] 
+ " Infernoid Onuncu ": It can be Special Summoned even if the combined Levels/Ranks of all Effect Monsters you control are 9 or more. You do not banish any " Infernoid " monster from your hand or Graveyard. [3] 
+ " Judgment Dragon ": It can be Special Summoned even if you have 3 or less " Lightsworn " monsters in your Graveyard. [3] 
+ " Perfectly Ultimate Great Moth ": It can be Special Summoned without Tributing a " Petit Moth " on the 6th of your turns after " Petit Moth " was equipped with " Cocoon of Evolution ". [3] 
+ " Gearspring Spirit ": It can be Special Summoned even if you have a non-Machine-Type monster in your Graveyard. [3] 
+ " Demise, King of Armageddon ": It can be Special Summoned without using a Ritual Spell Card like " End of the World ". You do not Tribute monsters from the field or your hand whose total Levels equal 8. [3] 
+ When this card is activated, the monster with an original  Level  of 10 or lower that cannot be  Normal Summoned / Set  is not revealed to your opponent. When this card resolves, the monster with an original  Level  of 10 or lower that cannot be  Normal Summoned / Set  is Special Summoned from your hand. [4] 
+ If " Mind Crush " is activated in a chain to " A Wild Monster Appears! ", and you no longer have a monster in your hand that can be Special Summoned, " For the rest of this turn, you cannot  Normal Summon / Set  or Special Summon monsters, and your opponent takes no  damage . " is still applied. [5] 
+ If the activation of " A Wild Monster Appears! " is negated by " Magic Jammer " or if the effect is negated by " The Fabled Unicore ", " For the rest of this turn, you cannot  Normal Summon / Set  or Special Summon monsters, and your opponent takes no  damage . " is not applied. [6] 
+ During your opponent's next  End Phase , if " G.B. Hunter " is on the field, since the monster Special Summoned by " A Wild Monster Appears! " cannot be shuffled into the Deck, it remains on the field. [7] 
+ This card can be activated during a turn in which you have already  Normal  or  Special Summoned  a monster. (After this card resolves, " For the rest of this turn, you cannot  Normal Summon / Set  or Special Summon monsters, and your opponent takes no  damage . " is applied.) [8] 
+ If you activate the effect of " Stardust Dragon/Assault Mode "  Special Summoned  by the effect of " A Wild Monster Appears! ", the " If you  negate  an effect this way, you can Special Summon this card from your  Graveyard  during the  End Phase " effect cannot be used, since it needs to be Special Summoned by the effect of " Assault Mode Activate " to use the effect. [9] 
+ If " Vennominaga the Deity of Poisonous Snakes "  Special Summoned  by the effect of " A Wild Monster Appears! " is  destroyed by battle , the " When this card is destroyed by battle and sent to the  Graveyard : You can  banish  1 other  Reptile -Type monster from your Graveyard; Special Summon this card. " effect cannot be used, since it needs to be Special Summoned by the effect of " Rise of the Snake Deity " to use the effect. [10] 
+ If " Vennominaga the Deity of Poisonous Snakes " is  Special Summoned  by the effect of " A Wild Monster Appears! ", since the " also  shuffle  it into the  Deck  during your opponent's next  End Phase " effect is applied when it is Special Summoned, it is not affected by the " This card cannot be  targeted  by, and is unaffected by,  Spell / Trap  effects and other  Effect Monsters ' effects. " effect. " Vennominaga the Deity of Poisonous Snakes " is shuffled into the Deck during your opponent's next  End Phase . [11] 
+ References 
+ 
+ ↑  1.0   1.1   1.2   1.3   1.4   1.5   Konami OCG Card Database : A Wild Monster Appears! 
+ 
+ ↑   Konami OCG Card Database : How do you Special Summon "Grinder Golem" with "A Wild Monster Appears!"? 
+ 
+ ↑  3.0   3.1   3.2   3.3   3.4   3.5   Konami OCG Card Database : What monsters can be Special Summoned with "A Wild Monster Appears!"? 
+ 
+ ↑   Konami OCG Card Database : When "A Wild Monster Appears!" is activated, do you reveal the monster you want to Special Summon? 
+ 
+ ↑   Konami OCG Card Database : If "Mind Crush" is activated in a chain to "A Wild Monster Appears!", and you no longer have a monster that can be Special Summoned, can you Normal or Special Summon during that turn? 
+ 
+ ↑   Konami OCG Card Database : If the activation or effect of "A Wild Monster Appears!" is negated, can you Normal or Special Summon during that turn? 
+ 
+ ↑   Konami OCG Card Database : If "G.B. Hunter" is on the field, what happens to the monster Special Summoned by "A Wild Monster Appears!"? 
+ 
+ ↑   Konami OCG Card Database : Can "A Wild Monster Appears!" be activated during a turn in which you have already Normal or Special Summoned a monster? 
+ 
+ ↑   Konami OCG Card Database : If you Tribute "Stardust Dragon/Assault Mode" Summoned by "A Wild Monster Appears!" during the next turn, can it be Special Summoned by its own effect? 
+ 
+ ↑   Konami OCG Card Database : If "Vennominaga the Deity of Poisonous Snakes" Summoned by "A Wild Monster Appears!" is destroyed by battle during the next turn, can it be Special Summoned by its own effect? 
+ 
+ ↑   Konami OCG Card Database : If "Vennominaga the Deity of Poisonous Snakes" is Special Summoned by "A Wild Monster Appears!", is it shuffled into the Deck during your opponent's next End Phase? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

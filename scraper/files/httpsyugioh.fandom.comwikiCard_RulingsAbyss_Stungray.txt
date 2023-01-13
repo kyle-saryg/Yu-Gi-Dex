@@ -1,0 +1,198 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Abyss_Stungray
+
+
+ Abyss Stungray 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Contents 
+ 
+ 1   Trap Monster Rulings 
+ 
+ 1.1   TCG Rulings 
+ 
+ 1.1.1   Mentions in Other Rulings 
+ 
+ 
+ 1.2   OCG Rulings 
+ 
+ 1.2.1   Mentions in Other Rulings 
+ 
+ 
+ 1.3   Previously Official Rulings 
+ 
+ 1.3.1   Mentions in Other Rulings 
+ 
+ 
+ 
+ 
+ 2   Notes 
+ 3   References 
+ 
+ 
+ Trap Monster Rulings 
+ TCG Rulings 
+ While active, a  Trap Monster  is treated as BOTH a  Monster Card  and a  Trap Card . [1] 
+ While active, a  Trap Monster  can be destroyed by effects that affect Monsters and/or Spells/Traps. (You can use either  Dark Hole  or  Heavy Storm  to destroy them.) [1] 
+ Mentions in Other Rulings 
+ Dark Strike Fighter : Compute damage based on the monster’s  Level  while it was on the field, not its level in the Graveyard or  removed zone  [ sic ] . This means you can Tribute “ Embodiment of Apophis ” or “ Zoma the Spirit ” to do 800 damage. 
+ Flamvell Firedog : If this monster destroys “ Embodiment of Apophis ” or “ Metal Reflect Slime ” by battle and sends it to the Graveyard you cannot activate the effect to  Summon  a monster. 
+ Infernity Avenger : You cannot activate  Infernity Avenger 's  effect when a  Token Monster  or  Embodiment of Apophis  is destroyed by battle. 
+ Imperial Custom : If “ Embodiment of Apophis ” is being treated as a monster while “ Imperial Custom ” is active, it cannot be destroyed by effects or battle. 
+ Magic Planter : You can send a  Trap Monster  like “ Embodiment of Apophis ” to the Graveyard to pay the  cost  for “ Magic Planter .” 
+ Stygian Street Patrol : You cannot activate  Stygian Street Patrol ’s effect if it destroys a  Token  or a  Trap Card  that’s turned into a monster, like  Embodiment of Apophis . 
+ Turret Warrior : You can Tribute a  Warrior -Type Token monster to Special Summon “ Turret Warrior ”, or a card like “ Embodiment of Apophis ” that is currently a  Warrior . “ Turret Warrior ” still gains the appropriate ATK in these cases. 
+ Unibird : You can remove from play  Tokens  or an  Embodiment of Apophis  that is being treated as a monster to activate this effect. 
+ Wrath of Neos : You can activate “ Wrath of Neos ” and target a Token or “ Embodiment of Apophis ” being treated as “ Elemental Hero Neos .” If you target a Token, you cannot return it to the Deck or destroy all cards on the field. If you target “ Embodiment of Apophis ,” you can return it to the Deck and destroy all cards on the field. 
+ OCG Rulings 
+ If a  Token Monster  or " Embodiment of Apophis " is being treated as " Elemental Hero Neos " because of " Hero Mask ", then you may select it as a target of " Wrath of Neos ".  If " Wrath of Neos " attempts to return the  Token Monster  to the Deck, then the  Token Monster  disappears instead, so " Wrath of Neos " does not destroy the cards on the field because you did not return the  Token Monster  to the Deck.  If " Wrath of Neos " targets " Embodiment of Apophis ", then " Embodiment of Apophis " is returned to the Deck, so all cards on the field are destroyed. [2] 
+ The damage inflicted by " Dark Strike Fighter " is based on the  Tributed  monster's Level while it is on the field.  If you  Tribute  " Zoma the Spirit " or " Embodiment of Apophis ", you will inflict 800 damage. [3] 
+ While " Embodiment of Apophis " or " Zoma the Spirit " are being treated as Monster Cards, they are also treated as Trap Cards, so they can be sent to the Graveyard to Special Summon " Trap Eater ". [4] 
+ You can activate " Magic Planter " by sending to the Graveyard an " Embodiment of Apophis " which is in the Monster Card Zone and being treated as a Monster Card. [5] 
+ " Embodiment of Apophis " is treated as a Trap Card, so while " Imperial Custom " is active, " Embodiment of Apophis " is destroyed neither by battle nor by card effects. [6] 
+ If " Stygian Street Patrol " destroys a monster such as a " Sheep Token " or " Embodiment of Apophis " by battle, then you do not inflict damage to your opponent's Life Points. [7] 
+ The ATK of " Elemental Hero Neos Knight " is increased by half of the  original ATK  of the  Fusion Material Monster . [8] 
+ If you use a " Embodiment of Apophis " (1600 ATK) being treated as a  Warrior-Type  monster by " DNA Surgery " as a  Fusion Material Monster  for " Elemental Hero Neos Knight ", then the ATK of " Elemental Hero Neos Knight " is increased by 800. [8] 
+ You can  remove from play  a monster like a  Token Monster  or an " Embodiment of Apophis " as an  activation   cost  for the effect of " Unibird ".  In this case, you will still Special Summon a  Synchro Monster  whose Level is equal to or lower than the combined Levels of " Unibird " and the removed from play monster. [9] 
+ If " Caius the Shadow Monarch " removes from play " Zoma the Spirit ", no damage will be inflicted since " Zoma the Spirit " is not a  DARK  monster while removed from play. [10] 
+ The ATK of " Kasha " is determined by the number of returned monsters which are  Zombie - Type  while they are in the Deck.  If " Zoma the Spirit " is returned to the Deck, it is not a  Zombie - Type  monster while in the Deck, so it is not counted.   Token Monsters  are not returned to the Deck, so they will not be counted. [11] 
+ " Embodiment of Apophis " may be used as a  Synchro Material Monster  for a  Synchro Summon . [12] 
+ Mentions in Other Rulings 
+ Chaos Zone : If an " Embodiment of Apophis " treated as a monster, a monster treated as an  Equip Card , or a  Token Monster  is  banished , a  Chaos Counter  is not placed on  Chaos Zone . [13] 
+ Galaxy-Eyes Photon Dragon : If you activate the effect of " Galaxy-Eyes Photon Dragon " when it battles " Embodiment of Apophis ", then at the end of the Battle Phase both monsters return to the field.  However, " Embodiment of Apophis " is only treated as a Trap Card, so it is immediately sent to the Graveyard. [14] 
+ Genex Ally Birdman : If you have the Trap Card " Embodiment of Apophis " being treated as a Monster Card and in your Monster Card Zone, then you can return it to the hand as a  cost  to  activate  the effect of " Genex Ally Birdman ". [15] 
+ Heat Wave : " Embodiment of Apophis " is treated as a  Normal Monster  so it can be  Special Summoned  during the turn that  " Heat Wave " is active. [16] 
+ Heat Wave : " Zoma the Spirit " is treated as an  Effect Monster  so it cannot be  Special Summoned  during the turn that  " Heat Wave " is active. [16] 
+ Influence Dragon : You can also target a  Token Monster  or " Embodiment of Apophis ". [17] 
+ Machine Duplication : Even if " Stronghold the Moving Fortress " or " Metal Reflect Slime " that is being treated as a  Machine - Type  by " DNA Surgery " are treated as Monster Cards by their own effects, they are still treated as Trap Cards in the Deck. Therefore, since you cannot Special Summon any monster with the same name from your Deck, " Machine Duplication " cannot be activated by targeting " Stronghold the Moving Fortress " or " Metal Reflect Slime ". [18] 
+ Maxx "C" : You also draw when a  Token Monster  or an " Embodiment of Apophis " treated as a monster is Special Summoned. [19] 
+ Shark Stickers : You can activate the effect even when a  Fish / Sea Serpent / Aqua - Type   Token Monster  or " Metal Reflect Slime " is Special Summoned. [20] 
+ The Tyrant Neptune : The ATK and DEF of " The Tyrant Neptune " are increased by the printed ATK and DEF of the monster which was Tributed from the field. [21] 
+ Example: If " Zoma the Spirit " (1800 ATK / 500 DEF) is Tributed for " The Tyrant Neptune ", then the ATK of " The Tyrant Neptune " is increased by 1800, and its DEF is increased by 500. [21] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [22]  They were previously considered official, but may or may not necessarily hold true nowadays. 
+ 
+ Once “ Embodiment of Apophis ” has been activated, it takes up 1  Monster Card Zone  and 1  Spell & Trap Card Zone . The physical location of “ Embodiment of Apophis ” should be on the  Monster Card Zones , however. [23] 
+ If your Monster Card Zones are all full you cannot activate “ Embodiment of Apophis ”. If your  Spell & Trap Card Zones  are all full you cannot take  control  of your opponent’s “ Embodiment of Apophis ” because you will need 1  Monster Card Zone  and 1  Spell & Trap Card Zone  for it. [23] 
+ If your opponent has no vacant  Spell & Trap Card Zones , you cannot give them “ Embodiment of Apophis ” for “ Creature Swap ”. If “ Embodiment of Apophis ” is your only monster in such a case, neither player can activate “ Creature Swap ”. [23] 
+ While “ Embodiment of Apophis ” is a monster, it is still treated as a  Trap Card  and can be destroyed by “ Heavy Storm ” or “ Mystical Space Typhoon ”. [23] 
+ If an effect that destroys  Trap Cards  is used against “ Embodiment of Apophis ”, you can use “ Fake Trap ” to prevent it from being destroyed. When preventing the destruction of “ Embodiment of Apophis ”, you must be using a card of the appropriate type. You cannot use “ My Body as a Shield ” to rescue it from “ Heavy Storm ”. You cannot use “ Fake Trap ” to rescue it from “ Raigeki ”. You can use “ Riryoku Field ” when “ Embodiment of Apophis ” is targeted by “ Snatch Steal ”, but not when it’s targeted by “ Mystical Space Typhoon ”. You can use any of these effects to protect “ Embodiment of Apophis ” from “ Raigeki Break ” because “ Raigeki Break ” can destroy a Monster card or a  Trap Card . [23] 
+ vs. “ Jinzo ”: If “ Emodiment of Apophis ”  [ sic ]  is a monster, and “ Jinzo ” or “ Royal Decree ” is played, “ Embodiment of Apophis ” cannot remain as a monster and is placed  face-up  in the  Spell & Trap Card Zone , where it remains on the field meaninglessly (even if “ Jinzo ” leaves play later). If “ Royal Decree ” is  chained  to the activation of “ Embodiment of Apophis ”, the effect of “ Embodiment of Apophis ” is  negated  and it remains on the field in the  Spell & Trap Card Zone  meaninglessly. [23] 
+ If “ Embodiment of Apophis ” attacks a face-down “ Jinzo ”, once “ Jinzo ” is flipped  face-up , “ Embodiment of Apophis ” reverts to a  Trap Card .  Damage calculation  is not applied. [23] 
+ If “ Embodiment of Apophis ” is a monster, and is flipped  face-down , it goes back to the  Spell & Trap Card Zone  as a  Trap Card  (vertically, since Trap Cards do not have  battle positions ). You cannot activate “ Embodiment of Apophis ” that same turn, because it is a Trap Card that was just  Set . [23] 
+ When “ Embodiment of Apophis ” is sent to the  Graveyard , it is sent as a  Trap Card  and remains treated as a  Trap Card . You cannot revive it with “ Monster Reborn ” or retrieve it with “ Return of the Doomed ”. It will not trigger “ Last Will ”. You cannot activate “ Michizure ”. It will not be Special Summoned by “ Red-Moon Baby ”. No damage is inflicted by “ KA-2 Des Scissors ” or “ Inferno ” or “ Fatal Abacus ”. “ Emes the Infinity ” does not increase its ATK. No Life Points are increased by “ Absorbing Kid from the Sky ”. You would not gain Life Points for “ Altar for Tribute ”. (You can, however, now add it back to your hand with “ Mask of Darkness ”.) [23] 
+ If your opponent controls your “ Embodiment of Apophis ” as a monster with “ Snatch Steal ” or “ Creature Swap ”, and it is flipped face-down, it goes to your opponent’s  Spell & Trap Card Zone  because he is the  controller . [23] 
+ If your opponent controls your “ Embodiment of Apophis ” as a monster with “ Snatch Steal ”, and “ Jinzo ” is Summoned, it returns to your  Spell & Trap Card Zone  and remains there meaninglessly. If your opponent controls your “ Embodiment of Apophis ” as a monster because of “ Creature Swap ”, and “ Jinzo ” is Summoned, it is placed on your opponent’s  Spell & Trap Card Zone  and remains there meaninglessly. [23] 
+ “ Embodiment of Apophis ”, while a monster, has original  ATK  1600 and original  DEF  1800 (for purposes of “ Megamorph ”, etc.). [23] 
+ You can negate the activation of “ Embodiment of Apophis ” by chaining “ Solemn Judgment ” or “ 7 Tools of the Bandit ”  [ sic ]  or “ Royal Oppression ”, but you cannot use these against it once it is a monster. [23] 
+ When “ Embodiment of Apophis ” is  Special Summoned , you can activate “ Torrential Tribute ” just like with any other Summon. [23] 
+ You can use “ Chain Destruction ” when “ Embodiment of Apophis ” is Special Summoned, and “ Chain Destruction ” will destroy all copies of “ Embodiment of Apophis ” in the hand and  Deck  even though they are  Trap Cards . [23] 
+ You can use “ Embodiment of Apophis ” as a  Tribute  once it is a monster. You cannot  Tribute  it for a  Ritual Summon , etc., while it is in your hand. [23] 
+ If “ Embodiment of Apophis ” is a monster and “ Morphing Jar #2 ” is activated, “ Embodiment of Apophis ” is shuffled into the  Deck  as a  Trap Card , so it does NOT count towards the number of monsters you need to pick up. (Also, if you pick up “ Embodiment of Apophis ” for the effect of “ Morphing Jar #2 ”, it is not counted as a monster and will be one of the cards sent to the  Graveyard .) [23] 
+ If you pick up “ Embodiment of Apophis ” for “ Cyber Jar ”, it is added to your  hand . [23] 
+ If “ Embodiment of Apophis ” is a monster and is equipped to “ Relinquished ”, “ Embodiment of Apophis ” is treated as any other monster equipped to “ Relinquished ”, and “ Relinquished ” gets 1600  ATK  and 1800  DEF . [23] 
+ If “ Embodiment of Apophis ” is a monster, “ Giant Trunade ” will still return it to the owner’s  hand . [23] 
+ When “ Embodiment of Apophis ” is a monster, and is returned to the hand by “ Penguin Soldier ”, etc., it is returned as a  Trap Card . So you cannot activate “ Major Riot ”. [23] 
+ You can target “ Embodiment of Apophis ” with “ Monster Recovery ” while it is a monster, and return it to the  Deck . [23] 
+ If “ Embodiment of Apophis ” is a monster, and you use “ Magical Hats ” with it, it returns to your  Spell & Trap Card Zone   face-down . The other effects of “ Magical Hats ” apply normally. [23] 
+ If “ Embodiment of Apophis ” battles “ D.D. Warrior Lady ” and her effect is activated, both will be removed from play. [23] 
+ If you select “ Embodiment of Apophis ” as your monster for “ Last Turn ”, it is not sent to the  Graveyard  even though “ Last Turn ” sends all other cards to the  Graveyard . [23] 
+ If you control “ Theban Nightmare ” and “ Embodiment of Apophis ”, you control a Trap Card so the effect of “ Theban Nightmare ” cannot be applied. [23] 
+ If you change “ Embodiment of Apophis ” to  Machine - Type  and use “ Limiter Removal ”, then “ Jinzo ” is Summoned later that turn and “ Embodiment of Apophis ” switches back to a  Trap Card , “ Embodiment of Apophis ” is not destroyed in the  End Phase  by “ Limiter Removal ”. [23] 
+ If you use “ Dimensionhole ” or “ Interdimensional Matter Transporter ” against “ Embodiment of Apophis ”, it returns to the field as a  Trap Card  and is destroyed immediately. If “ Dimensionhole ” was used, you cannot use the  Monster Card Zone  while “ Embodiment of Apophis ” is removed from play, but you can use the  Spell & Trap Card Zone  it was occupying. [23] 
+ You can select " Metal Reflect Slime " with " Last Turn " and it will not be sent to the Graveyard. [24] 
+ A " Metal Reflect Slime " equipped with " Heart of Clear Water " will be destroyed by " Mystical Space Typhoon ". [24] 
+ You cannot activate " A Deal with Dark Ruler " when " Metal Reflect Slime " is destroyed and sent to the Graveyard because it is a Trap Card in the Graveyard. [24] 
+ While " Metal Reflect Slime " is treated as an Effect Monster Card, it will count as 1 card for " Spatial Collapse ". [24] [Notes 1] 
+ When " Inferno " destroys " Metal Reflect Slime " in battle, its effect does not activate. [24] 
+ You can activate " Chain Disappearance " when " Metal Reflect Slime " is Special Summoned. The Special Summoned " Metal Reflect Slime " and all copies of " Metal Reflect Slime " in the Deck will be removed from play. [24] 
+ When " Absorbing Kid from the Sky " destroys " Metal Reflect Slime " in battle, its effect does not activate because " Metal Reflect Slime " is a Trap Card in the Graveyard. [24] 
+ When you activate " Call of the Earthbound " and  chain  " Metal Reflect Slime ", a  replay  will occur when " Metal Reflect Slime " is Special Summoned. If the opponent decides to attack with the same monster, you will select its  attack target . [24] 
+ If " Metal Reflect Slime " becomes a Machine- Type  Monster with " DNA Surgery ", you can select it with " Machine Duplication " but you will not be able to Special Summon any cards because " Metal Reflect Slime " is a Trap Card while in your Deck. [24] 
+ When " Black Luster Soldier - Envoy of the Beginning " destroys " Skull Zoma "  [ sic ]  by battle, it can activate its effect to attack once again. [25] 
+ When " Skull Zoma "  [ sic ]  is equipped to " Relinquished " by its effect, it is only treated as an  Equip Spell Card , not a  Trap Card  or  Monster Card . [25] 
+ While " Skull Zoma "  [ sic ]  is treated as an  Effect Monster  Card, it can be targeted with " Generation Shift " or " Next to Be Lost "  [ sic ] . [25] [Notes 1] 
+ Mentions in Other Rulings 
+ Caius the Shadow Monarch : No damage is inflicted when " Caius the Shadow Monarch 's" effect removes " Zoma the Spirit " from play... 
+ Elemental HERO Glow Neos : If you destroy " Embodiment of Apophis ", it is treated as a  Trap Card  after it is destroyed, so the additional effect for destroying a  Trap Card  is applied. 
+ Dimensional Inversion : You cannot activate " Dimensional Inversion " when a Trap Monster like "Embodiment of Apophis" is removed from play. 
+ Generation Shift : You can target " Embodiment of Apophis " with " Generation Shift ". It will be destroyed and a copy of " Embodiment of Apophis " from your  Deck  will be added to your  hand . 
+ Hate Buster : " Hate Buster " inflicts damage equal to the  original ATK  of the destroyed monster after it is sent to the  Graveyard  or  removed zone . If you destroy a  Monster Token  or a  Trap Card that is treated as a monster  (" Embodiment of Apophis ", etc.) no damage will be inflicted. 
+ Linear Accelerator Cannon : You can  Tribute  a Trap Monster like " Embodiment of Apophis " for this effect, but no damage will be inflicted. 
+ Neo-Spacian Flare Scarab : If your opponent has " Embodiment of Apophis " on the field as a monster, it is still treated as 1  Trap Card , so " Neo-Spacian Flare Scarab " gains 400  ATK . 
+ Next to be Lost : You can target " Embodiment of Apophis " with " Next to be Lost ", and a copy of " Embodiment of Apophis " will be sent from your  Deck  to your  Graveyard . 
+ Sage of Silence  /  Sage of Stillness : If this card destroys " Embodiment of Apophis ", this effect will activate. 
+ Straight Flush : If your opponent controls an " Embodiment of Apophis " as a Monster Card, it is not counted as a card in the  Spell & Trap Card Zone  (even though 1 of those Zones cannot be used). So you could not activate " Straight Flush ". 
+ Time Machine : If " Embodiment of Apophis " is destroyed by battle and sent to the Graveyard, " Time Machine " cannot be activated because " Embodiment of Apophis " is not a  monster  while in the Graveyard. 
+ Uria, Lord of Searing Flames : You can send " Embodiment of Apophis " to the  Graveyard  even while it is a monster, because it is still a  Continuous Trap Card . 
+ 
+ Notes 
+ 
+ ↑  1.0   1.1   Note that not all of the  Trap Monsters  are treated as  Effect Monsters . For example  Embodiment of Apophis  is treated as a  Normal Monster . 
+ 
+ 
+ References 
+ 
+ ↑  1.0   1.1   Konami TCG Strategy Site : Trap Monsters: How Do They Work? 
+ 
+ ↑   Konami FAQ : For "Wrath of Neos", can you return "Embodiment of Apophis" or a Token Monster being treated as "Elemental Hero Neos" to the Deck to destroy all cards on the field? 
+ 
+ ↑   Konami FAQ : When Tributing an "Embodiment of Apophis", etc, which is begin treated as a monster for "Dark Strike Fighter", is damage inflicted? 
+ 
+ ↑   Konami FAQ : Can "Trap Eater" be Special Summoned by sending "Zoma the Spirit" etc to the Graveyard? 
+ 
+ ↑   Konami FAQ : Can "Macro Cosmos" or "Zoma the Spirit" be sent to the Graveyard to activate "Magic Planter"? 
+ 
+ ↑   Konami FAQ : Is a "Embodiment of Apophis" which is treated as a Monster Card destroyed neither by battle nor by card effects while "Imperial Custom" is active? 
+ 
+ ↑   Konami FAQ : If "Stygian Street Patrol" destroys a monster like a Token Monster by battle, then can you inflict damage to your opponent's Life Points? 
+ 
+ ↑  8.0   8.1   Konami FAQ : Does the ATK of "Elemental Hero Neos Knight" increase if something like a Token Monster was used as a Fusion Material? 
+ 
+ ↑   Konami FAQ : Can you remove from play a Token Monster or "Embodiment of Apophis" as an activation cost for "Unibird"? 
+ 
+ ↑   Konami FAQ : Does the effect of "Caius the Shadow Monarch" inflict damage when it removes a Monster Token/"Zoma the Spirit"/monster equipped to "Relinquished"? 
+ 
+ ↑   Konami FAQ : If "Zoma the Spirit" or a Token Monster is returned to the Deck by the effect of "Kasha", then what is the ATK of "Kasha"? 
+ 
+ ↑   Konami FAQ : [Basic Rules] Can a Token Monster or "Embodiment of Apophis" be used as a Synchro Material Monster? 
+ 
+ ↑   Konami FAQ : If an "Embodiment of Apophis" treated as a monster, a monster treated as an Equip Card, or a Token Monster is banished, is a Chaos Counter placed on "Chaos Zone"? 
+ 
+ ↑   Konami OCG FAQ : If "Galaxy-Eyes Photon Dragon" battles with and banishes a Token or "Embodiment of Apophis", then do they return to the field at the end of the Battle Phase? 
+ 
+ ↑   Konami OCG FAQ : Can "Embodiment of Apophis" be returned to the hand as an activation cost for "Genex Ally Birdman"? 
+ 
+ ↑  16.0   16.1   Konami OCG FAQ : On a turn when the effect of  Heat Wave  is applied, can you activate  Scapegoat ,  Zoma the Spirit , or  Embodiment of Apophis ? 
+ 
+ ↑   Konami OCG FAQ : Effect Monster >Influence Dragon 
+ 
+ ↑   Konami OCG Card Database : Can you activate "Machine Duplication" by targeting a "Stronghold the Moving Fortress" that is treated as a Monster Card? 
+ 
+ ↑   Konami OCG FAQ : Effect Monster >Maxx "C" 
+ 
+ ↑   Konami OCG FAQ : Effect Monster >Shark Sucker 
+ 
+ ↑  21.0   21.1   Konami OCG FAQ : If you Tribute monsters like "Zoma the Spirit" or a Token Monster to Summon "The Tyrant Neptune", then do its ATK and DEF increase? 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑  23.00   23.01   23.02   23.03   23.04   23.05   23.06   23.07   23.08   23.09   23.10   23.11   23.12   23.13   23.14   23.15   23.16   23.17   23.18   23.19   23.20   23.21   23.22   23.23   23.24   23.25   23.26   23.27   UDE FAQ : Individual Card Rulings [D-E] [EMBODIMENT OF APOPHIS] 
+ 
+ ↑  24.0   24.1   24.2   24.3   24.4   24.5   24.6   24.7   24.8   UDE FAQ : Individual Card Rulings [L-O] [METAL REFLECT SLIME] 
+ 
+ ↑  25.0   25.1   25.2   UDE FAQ : Individual Card Rulings [S-T] [SKULL ZOMA] 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

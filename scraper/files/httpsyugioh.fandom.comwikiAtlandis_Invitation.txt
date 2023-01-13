@@ -1,0 +1,111 @@
+Link: https://yugioh.fandom.com/wiki/Atlandis_Invitation
+
+
+ The Japanese (OCG) version of this card is not a member of the " Atlandis "  archetype , because its Japanese name does not contain  「アトランタル」 .   As its English name contains "Atlandis", it  may  be treated a member of the "Atlandis" archetype at a TCG event, subject to local rulings.     
+ Atlandis Invitation 
+ 
+ Japanese:   アトランティック・インビテーション 
+ Romaji:   Atorantikku Inbitēshon 
+ Translated:  Atlantic Invitation 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Trigger-like 
+ Activate  only if you  control  an " Atlandis "  monster . During each of your opponent's  End Phases :  Destroy  all  face-up   Attack Position   monsters  your opponent controls that did not  attack  this  turn , and if you do, inflict  damage  to your opponent equal to the combined  ATK  of the destroyed monsters on the  field .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  128 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ アトランティック・インビテーション 
+ 自分フィールド上に「アトランタル」と名のついたモンスターが存在する場合に発動できる。相手フィールド上に表側攻撃表示で存在するモンスターが攻撃しなかったターンのエンドフェイズ時、そのモンスターを破壊し、その攻撃力分のダメージを相手ライフに与える。 
+ 
+ 
+ Atorantikku Inbitēshon 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Trey 
+ 
+ 
+ Search categories 
+ 
+ Supports   archetypes   
+ Atlandis 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your opponent's Monster Cards 
+ 
+ LP   
+ Damages your opponent 
+ 
+ v e 
+" Atlandis " 「アトランタル」 a   +   Members 
+ Number 6: Chronomaly Atlandis Number C6: Chronomaly Chaos Atlandis 
+ Support 
+ Atlandis Invitation 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/c/c7/AtlandisInvitation-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20131104031848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/57/AtlandisInvitation-JP-Anime-ZX-NC.png/revision/latest/scale-to-width-down/185?cb=20160929170731', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

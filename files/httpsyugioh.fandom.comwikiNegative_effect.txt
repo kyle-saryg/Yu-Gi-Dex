@@ -1,0 +1,13 @@
+Link: https://yugioh.fandom.com/wiki/Negative_effect
+
+
+ This article  may require  cleanup  to meet this wiki's standards.   You can help out by re-organizing or re-writing parts of it or checking grammar and spelling.   
+ Negative effects  are  card effects  that are detrimental to the user or controller of those cards. Negative effects may most often be found in over-powered Monster cards that have a higher ATK for their  Level  than would normally be found, such as in " Infernal Incinerator ," " Ultimate Obedient Fiend ," or most Level 4 or lower monsters with  greater than 2000 ATK .  They may range from damaging the controller's  Life Points  to making themselves unable to attack.  Others do not harm the user directly but give the opponent an advantage, such as allowing the opponent to draw extra cards or increasing the opponent's Life Points.
+ Sometimes negative effects are meant to offset positive ones also found in the card's effect, or are meant to be used alongside other cards to turn their negative effects into positive ones.  For example, cards that allow the opponent to draw extra cards will damage them when " Greed " is used, and cards that increase the opponent's Life Points end up damaging them when " Bad Reaction to Simochi " is used. In fact, several cards are designed for this purpose. " The Gift of Greed " was specifically made to give your opponents more cards, with no beneficial effect for the user at all (if used alone). " Burning Algae ", in the same vein, is designed in such a way that it's effect is pointless on it's own, but in tandem with another card can pose serious threats to your opponent. " Lava Golem " is an example of a card with negative effects, but is actually Summoned to the opponent's side of the field, causing those effects to apply to them instead of you.
+ Many  Pendulum Monsters  also have these in their  Pendulum Effects . These typically either reduce or increase the  Pendulum Scale , like with " Timegazer Magician " and " Stargazer Magician ", to compensate for them having a very low/very high Pendulum Scale. Others have effects that prevent you from Pendulum Summoning monsters that aren't from a certain archetype(s) (or special summoning at all in the case of the "Qli" archetype). Such effects cannot be negated to prevent players from playing around them. There are some that increase or decrease their Pendulum Scale every turn, and some even destroy monsters whose Levels are between the Pendulum Scale, such as " D/D Savant Galilei " and " D/D Savant Kepler ".
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/90/Broom_icon.png/revision/latest/scale-to-width-down/35?cb=20070612131135']
+Categories: Articles needing cleanup, Gaming Terms

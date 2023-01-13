@@ -1,0 +1,11 @@
+Link: https://yugioh.fandom.com/wiki/Property:Weight
+
+This property lists the weight of a character. This uses  quantity  values.
+ This property outputs in the units kg,lb.
+ 
+ 1 kg 
+ 2.20462 lb 
+ 
+ 
+ 
+Categories:

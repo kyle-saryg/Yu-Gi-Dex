@@ -1,0 +1,86 @@
+Link: https://yugioh.fandom.com/wiki/Metal_Molephosis
+
+
+ This card's written lore in the Japanese has not yet been transcribed; if you are able to read Japanese, please help out by adding an accurate Japanese lore from  this image  to this page. The current Japanese lore listed here is only a reconstruction and may not be fully correct.     
+ Metal Molephosis 
+ 
+ Japanese:   メタル・モール－フォーゼ 
+ Romaji:   Metaru Mōru - Fōze 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   EARTH 
+ 
+ Level 
+ 
+ 
+ 3   
+ 
+ [  Cyberse  /  Effect  ] If this card is  Normal  or  Special Summoned : You can  declare  1 Monster  Type  and 1  Attribute ; all  Normal Monsters  you currently  control  become that Type and Attribute until the end of this  turn . You can only use this  effect  of "Metal Molephosis"  once per turn .
+ ATK  /  1000     DEF  /  1000   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  119 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Normal Monster 
+ 
+ Actions  
+ Activates upon Normal Summon 
+ Activates upon Special Summon 
+ Declares a Type 
+ Declares an Attribute 
+ 
+ Stat changes  
+ Changes Type 
+ Changes Attribute 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/b/b2/MetalMolephosis-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20190918144146', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e2/MetalMolephosis-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20190918143118', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Card pages with a lore in need of transcription, Anime cards, Anime cards with no OCG/TCG counterpart

@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Effect_type_Text
+
+This Property describes the Effect(s) that a monster has in text form. It has type  String .
+ 
+ 
+ 
+ 
+Categories:

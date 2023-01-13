@@ -1,0 +1,97 @@
+Link: https://yugioh.fandom.com/wiki/Drop_Frame_Wedge
+
+
+ Drop Frame Wedge 
+ 
+ Japanese:   ドロップフレーム・ウェッジ 
+ Romaji:   Doroppufurēmu Wejji 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ If your opponent  activates  a  card effect  that would inflict  damage  to a  player (s): You can activate this card;  send  1 card from your  hand  to the  GY , and if you do, halve that damage, also, after that, you can send another card from your hand to the GY to halve that damage again. If you sent 2 cards to the GY by this effect,  destroy  this card during your 2nd  End Phase  after activation, otherwise destroy it during your next End Phase. While this card is in the  Spell & Trap Zone ,  monsters  on the  field  cannot  attack . If this card  leaves the field  due to an opponent's card effect: Negate the effects of all monsters on the field, and if you do, destroy them.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  045 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ドロップフレーム・ウェッジ 
+ このカードは発動後、次の自分エンドフェイズに破壊され、このカードの①の効果で手札を２枚墓地へ送った場合、２回目の自分エンドフェイズに破壊される。①：相手がダメージを与える効果を発動した場合にこのカードを発動できる。手札を１枚墓地へ送り、そのダメージを半分にする。さらに手札を１枚墓地へ送る事で、そのダメージをさらに半分にできる。②：このカードが魔法＆罠ゾーンに存在する限り、お互いのモンスターは攻撃できない。③：このカードが相手の効果でフィールドから離れた場合に発動する。フィールドの全てのモンスターの効果を無効にし破壊する。 
+ 
+ 
+ Doroppufurēmu Wejji 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Sends from your hand to your Graveyard 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ Negates the effects of Effect Monsters 
+ Destroys Monster Cards 
+ 
+ Attack  categories  
+ Prevents attacks 
+ 
+ LP   
+ Reduces effect damage 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/5a/DropFrameWedge-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180328132047', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/18?cb=20120920115206']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

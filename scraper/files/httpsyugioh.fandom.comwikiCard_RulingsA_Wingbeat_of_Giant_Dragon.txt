@@ -1,0 +1,98 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:A_Wingbeat_of_Giant_Dragon
+
+
+ A Wingbeat of Giant Dragon 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ Contents 
+ 
+ 1   TCG Rulings 
+ 
+ 1.1   Judge Program Forum Rulings 
+ 
+ 
+ 2   OCG Rulings 
+ 3   Previously Official Rulings 
+ 
+ 3.1   Out of Date 
+ 
+ 
+ 4   Notes 
+ 5   References 
+ 
+ 
+ TCG Rulings 
+ Judge Program Forum Rulings 
+   These Ruling(s) have not  been confirmed as applicable to the TCG. [Notes 1] 
+ If  A Wingbeat of Giant Dragon  is activated and  Book of Moon  is chained, flipping the only  Level  5 or higher  Dragon - Type  monster on the controller's side of the field  face-down , then  A Wingbeat of Giant Dragon  resolves without effect.
+ Since the entire effect of  A Wingbeat of Giant Dragon  happens during resolution, the controller of the effect must be able to return a Level 5 or higher Dragon-Type monster from the field to the hand during resolution of the effect. A face-down monster's Level and Type cannot be determined, so it cannot be returned for the effect. Without returning an appropriate monster, the effect of  A Wingbeat of Giant Dragon  cannot continue to resolve as the conjunction "and if you do" is used, so the effect of  A Wingbeat of Giant Dragon  resolves without effect. [1] 
+ OCG Rulings 
+ The effect of " A Wingbeat of Giant Dragon " doesn't  target . [2] 
+ The effect of " A Wingbeat of Giant Dragon " cannot return a face-down  Dragon-Type  monster to the hand. [2] 
+ An " Archlord Kristya " treated as a  Dragon - Type  monster by the effect of " DNA Surgery " can be chosen to be returned to the  hand  by the effect of " A Wingbeat of Giant Dragon ", but since it returns to the top of the  Deck  instead of the  hand , the  " destroy  all  Spell  and  Trap Cards  on the  field ."  effect is not applied. [3] 
+ Even if you only control a Level 5 or higher " Horus the Black Flame Dragon LV6 ", you can activate " A Wingbeat of Giant Dragon ". Also, you can choose to return " Horus the Black Flame Dragon LV6 " to the  hand  by the effect of " A Wingbeat of Giant Dragon ", but since it's unaffected by  Spell Cards , it does not return to the  hand , and the  " destroy  all  Spell  and  Trap Cards  on the  field ."  effect is not applied. [4] 
+ A  Fusion ,  Synchro  or  Xyz Monster  can be chosen by the effect of " A Wingbeat of Giant Dragon ".  [ sic ]  Also, the chosen monster isn't returned to the  hand  and is returned to the  Extra Deck  instead. Furthermore, if a  Fusion Monster  is chosen by the effect of " A Wingbeat of Giant Dragon " and the chosen monster isn't returned to the  hand , the  " destroy  all  Spell  and  Trap Cards  on the  field ."  effect is not applied. [5] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [6]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [7] [8] [9] [10] [11] [12] [13] [14] [15] 
+ 
+ If you select a Level 5 or higher  Dragon - Type   Fusion Monster , it is returned to your  Extra Deck . 
+ If the selected  Dragon - Type  monster is flipped face-down, removed from the field, or has its  Monster Type  changed, " A Wingbeat of Giant Dragon 's" effect disappears. 
+ Out of Date 
+ " A Wingbeat of Giant Dragon " targets 1 Level 5 or higher  Dragon - Type  monster. [Notes 2] 
+ 
+ 
+ 
+ Notes 
+ 
+ ↑   Konami Judge Program Rulings are considered  unverified , as their source(s) are not publicly viewable. They are not confirmed as applicable to the TCG until they have been officially published by Konami. 
+ 
+ ↑   This newest  Problem-Solving Card Text  of this card makes this ruling invalid. " A Wingbeat of Giant Dragon " does not target; it chooses which monster to return to the hand when it's being resolved. 
+ 
+ 
+ References 
+ 
+ ↑   Konami Judge Program Forum : A Wingbeat of Giant Dragon vs Book of Moon 
+ 
+ ↑  2.0   2.1   Konami OCG Card Database : A Wingbeat of Giant Dragon 
+ 
+ ↑   Konami OCG Card Database : If "DNA Surgery" is treating all monsters as Dragon-Type, you control an "Archlord Kristya" treated as a Dragon-Type monster, and you activate "A Wingbeat of Giant Dragon" choosing "Archlord Kristya", since "Archlord Kristya" returns to the top of the Deck by its own effect instead of returning to the hand, is the effect that destroys all cards in both Spell & Trap Card Zones still applied? 
+ 
+ ↑   Konami OCG Card Database : If you only control a "Horus the Black Flame Dragon LV6" that is unaffected by Spell Cards, can you activate "A Wingbeat of Giant Dragon"? 
+ 
+ ↑   Konami OCG Card Database : Can a Fusion, Synchro or Xyz Monster be chosen by "A Wingbeat of Giant Dragon" effect? Also, if they can be chosen and the monster isn't returned to the hand, is the effect that destroys all cards in both Spell & Trap Card Zones still applied? 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings, Card Rulings to be Investigated

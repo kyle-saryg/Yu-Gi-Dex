@@ -1,0 +1,67 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Angel_O7
+
+
+ Angel O7 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ OCG Rulings 
+ The effect of " Angel O7 " does not start a  Chain .  It is applied immediately after " Angel O7 " is successfully Tribute Summoned. [1] 
+ While the effect of " Angel O7 " is active, the effects of " Sangan " and " Light and Darkness Dragon " do not activate at the specified times. [2] 
+ " Angel O7 " only prevents effects which  activate  from activating.  It does not stop the Summoning of " Cyber Dragon " or " Swift Gaia the Fierce Knight ", because these do not  activate . [3] 
+ Effects cannot be activated from any Zone.  The effect of " Sangan " will not activate.  The effect of " Thunder Dragon "/" Kuriboh "/etc cannot be activated. [4] 
+ Continuous Effects  do not  activate , so " Angel O7 " will not prevent them from being applied. [5] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [6]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [7] [8] [9] [10] [11] [12] [13] [14] [15] 
+ 
+ " Angel O7 's" effect does not prevent a monster's  Continuous Effects  from being applied, because Continuous Effects never " activate ". 
+ " Angel O7 " prevents Monster Card Effects from activating in any Zone.  Ignition Effects  and  Quick Effects  of  Effect Monsters  cannot be activated. The  Trigger Effects  of  Effect Monsters  will not activate. The  Flip Effects  of flipped monsters will not activate. 
+ If you Tribute " Sangan " when you Tribute Summon " Angel O7 ", " Sangan 's" effect does not activate. 
+ 
+ 
+ 
+ References 
+ 
+ ↑   Konami FAQ : Does the " When this card is Tribute Summoned, it gains the following effect: " effect of "Angel O7" activate? 
+ 
+ ↑   Konami FAQ : While the effect of "Angel O7" is being applied, do monsters' effects which activates still activate? 
+ 
+ ↑   Konami FAQ : While the effect of "Angel O7" is being applied, can "Cyber Dragon" be Special Summoned from the Hand? 
+ 
+ ↑   Konami FAQ : Can you activate an effect from the Hand or Graveyard while the effect of "Angel O7" is being applied? 
+ 
+ ↑   Konami FAQ : Can an Effect monster's Continuous Effect be negated by "Angel O7"? 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

@@ -1,0 +1,307 @@
+Link: https://yugioh.fandom.com/wiki/D/D_Savant_Kepler
+
+
+ 
+ 
+ D/D Savant Kepler Ｄ Ｄ 魔 導 賢 者 ケプラー 
+ 
+ English 
+D/D Savant Kepler 
+ French 
+ D/D Savant Keplerée Check translation 
+ German 
+ D/D-Gelehrter Kepler Check translation 
+ Italian 
+ D/D Sapiente Keplero Check translation 
+ Korean 
+ D D  마도현자 케플러 Check translation 
+ Portuguese 
+ D/D Kepler, o Erudito Check translation 
+ Spanish 
+ D/D Sabio Kepler Check translation 
+ Japanese (kana) 
+ ディーディーまどうけんじゃケプラー Check translation 
+ Japanese (base) 
+ ＤＤ魔導賢者ケプラー Check translation 
+ Japanese ( rōmaji ) 
+DīDī Madō Kenja Kepurā 
+ Japanese (translated) 
+D/D Magical Savant Kepler 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Fiend  /  Pendulum  /  Effect 
+ Level 
+ 1   
+ Pendulum Scale 
+   10 
+ ATK  /  DEF 
+ 0  /  0 
+ Passcode 
+ 11609969 
+ Card effect types 
+ Pendulum Effect  
+ Continuous-like 
+ Condition 
+ Trigger-like 
+ Monster Effect 
+ Trigger 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Pendulum Effect : You cannot  Pendulum Summon   monsters , except " D/D " monsters. This  effect  cannot be  negated .  Once per turn , during your  Standby Phase : Reduce this card's  Pendulum Scale  by 2 (min. 1), then  destroy  all monsters you  control  with a  Level  greater than or equal to this card's Pendulum Scale, except "D/D" monsters. Monster Effect : If this card is  Normal  or  Special Summoned : You can  activate  1 of these  effects . You can only use this effect of "D/D Savant Kepler"  once per turn . ●  Target  1 other " D/D " card you  control ;  return  it to the  hand . ●  Add  1 " Dark Contract " card from your  Deck  to your hand. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Effet Pendule  
+ Vous ne pouvez pas Invoquer par Pendulation de monstres (monstres "D/D" exclus). Cet effet ne peut pas être annulé. Une fois par tour, durant votre Standby Phase : réduisez l'Échelle Pendule de cette carte de 2 (min. 1), puis détruisez tous les monstres que vous contrôlez d'un Niveau supérieur ou égal à l'Échelle Pendule de cette carte (monstres "D/D" exclus). 
+ Effet de Monstre  
+   Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez activer 1 de ces effets. Vous ne pouvez utiliser cet effet de "D/D Savant Keplerée" qu'une fois par tour. ● Ciblez 1 autre carte "D/D" que vous contrôlez ; renvoyez-la à la main. ● Ajoutez 1 carte "Contrat des Ténèbres" depuis votre Deck à votre main. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Pendeleffekt 
+ Du kannst keine Monster als Pendelbeschwörung beschwören, außer „D/D“-Monstern. Dieser Effekt kann nicht annulliert werden. Einmal pro Spielzug, während deiner Standby Phase: Verringere den Pendelbereich dieser Karte um 2 (min. 1), dann zerstöre alle Monster, die du kontrollierst und deren Stufe größer oder gleich dem Pendelbereich dieser Karte ist, außer „D/D“-Monstern. 
+ Monstereffekt 
+   Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 dieser Effekte aktivieren. Du kannst diesen Effekt von „D/D-Gelehrter Kepler“ nur einmal pro Spielzug verwenden. ● Wähle 1 andere „D/D“-Karte, die du kontrollierst; gib sie auf die Hand zurück. ● Füge deiner Hand 1 „Dunkler Vertrag“-Karte von deinem Deck hinzu. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Effetto Pendulum 
+ Non puoi Evocare Pendulum mostri, eccetto mostri "D/D". Questo effetto non può essere annullato. Una volta per turno, durante la tua Standby Phase: riduci il Valore Pendulum di questa carta di 2 (minimo 1), poi distruggi tutti i mostri che controlli con Livello pari o superiore al Valore Pendulum di questa carta, eccetto i mostri "D/D". 
+ Effetto Mostro 
+   Se questa carta viene Evocata Normalmente o Specialmente: puoi attivare 1 di questi effetti. Puoi utilizzare questo effetto di "D/D Sapiente Keplero" una sola volta per turno. ● Scegli come bersaglio 1 altra carta "D/D" che controlli; falla ritornare nella mano. ● Aggiungi 1 carta "Contratto Oscuro" dal tuo Deck alla tua mano. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Efeito de Pêndulo 
+ Você não pode Invocar monstros por Invocação-Pêndulo, exceto monstros "D/D". Este efeito não pode ser negado. Uma vez por turno, durante sua Fase de Apoio: diminua a Escala de Pêndulo deste card em 2 (mín. 1) e, depois, destrua todos os monstros que você controla com um Nível maior ou igual à Escala de Pêndulo deste card, exceto monstros "D/D". 
+ Efeito de Monstro 
+   Se este card for Invocado por Invocação-Normal ou Especial: você pode ativar 1 desses efeitos. Você só pode usar este efeito de "D/D Kepler, o Erudito" uma vez por turno. ● Escolha 1 outro card "D/D" que você controla; devolva-o para a mão. ● Adicione 1 card "Pacto Obscuro" do seu Deck à sua mão. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Efecto de Péndulo 
+ No puedes Invocar monstruos por Péndulo, excepto monstruos "D/D". Este efecto no puede ser negado. Una vez por turno, durante tu Standby Phase: reduce en 2 la Escala de Péndulo de esta carta (mín. 1), y después destruye todos los monstruos que controles que tengan Nivel mayor o igual a la Escala de Péndulo de esta carta, excepto a monstruos "D/D". 
+ Efecto de Monstruo 
+   Si esta carta es Invocada de Modo Normal o Especial: puedes activar 1 de estos efectos. Sólo puedes usar este efecto de "D/D Sabio Kepler" una vez por turno. ● Selecciona otra carta "D/D" que controles; devuélvela a la mano. ● Añade a tu mano 1 carta "Contrato Oscuro" en tu Deck. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Ｐ 効 果 
+ ①：自分は「 Ｄ Ｄ 」モンスターしか Ｐ 召喚できない。この効果は無効化されない。②：自分スタンバイフェイズに発動する。このカードの Ｐ スケールを２つ下げる（最小１まで）。その後、このカードの Ｐ スケールの数値以上のレベルを持つ、「 Ｄ Ｄ 」モンスター以外の自分フィールドのモンスターを全て破壊する。 
+ モンスターの 効 果 
+   このカード名のモンスター効果は１ターンに１度しか使用できない。①：このカードが召喚・特殊召喚に成功した場合、以下の効果から１つを選択して発動できる。 ●このカード以外の自分フィールドの「 Ｄ Ｄ 」カード１枚を対象として発動できる。そのカードを持ち主の手札に戻す。 ●デッキから「契約書」カード１枚を手札に加える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 펜듈럼 효과 
+ ①: 자신은 "DD(디디)" 몬스터밖에 펜듈럼 소환할 수 없다. 이 효과는 무효화되지 않는다. ②: 자신 스탠바이 페이즈에 발동한다. 이 카드의 펜듈럼 스케일을 2개 내린다(최소 1 까지). 그 후, 이 카드의 펜듈럼 스케일의 수치 이상의 레벨을 가지는, "DD(디디)" 몬스터 이외의 자신 필드의 몬스터를 전부 파괴한다. 
+ 몬스터의 효과 
+   이 카드명의 몬스터 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 일반 소환 / 특수 소환에 성공했을 경우, 이하의 효과에서 1개를 선택하고 발동할 수 있다. ●이 카드 이외의 자신 필드의 "DD(디디)" 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 주인의 패로 되돌린다. ●덱에서 "계약서" 카드 1장을 패에 넣는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2015-11-05 DOCS-EN092 Dimension of Chaos Common 2016-09-01 MP16-EN167 2016 Mega-Tin Mega Pack Common 2017-01-19 SDPD-EN011 Pendulum Domination Structure Deck Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2015-11-05 DOCS-FR092 Dimension of Chaos La Dimension du Chaos Common 2016-09-01 MP16-FR167 2016 Mega-Tin Mega Pack 2016 Méga-Boîte Méga-Pack Common 2017-01-19 SDPD-FR011 Pendulum Domination Structure Deck Domination des Pendules Deck de Structure Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2015-11-05 DOCS-DE092 Dimension of Chaos Dimension of Chaos Common 2016-09-01 MP16-DE167 2016 Mega-Tin Mega Pack 2016 Mega-Tin Mega Pack Common 2017-01-19 SDPD-DE011 Pendulum Domination Structure Deck Pendulum Domination Structure Deck Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2015-11-05 DOCS-IT092 Dimension of Chaos Dimensione del Chaos Common 2016-09-01 MP16-IT167 2016 Mega-Tin Mega Pack 2016 Mega-Tin Mega Pack Common 2017-01-19 SDPD-IT011 Pendulum Domination Structure Deck Dominazione Pendulum Structure Deck Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2015-11-06 DOCS-PT092 Dimension of Chaos Dimensão do Caos Common 2016-09-01 MP16-PT167 2016 Mega-Tin Mega Pack Mega-Pacote da Mega-Latas 2016 Common 2017-01-20 SDPD-PT011 Pendulum Domination Structure Deck Dominação Pêndulo Deck Estrutural Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2015-11-05 DOCS-SP092 Dimension of Chaos Dimensión del Caos Common 2016-09-01 MP16-SP167 2016 Mega-Tin Mega Pack 2016 Mega-Lata Mega Pack Common 2017-01-19 SDPD-SP011 Pendulum Domination Structure Deck Dominio del Péndulo Baraja de Estructura Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2014-08-09 SPRG-JP004 Booster SP: Raging Masters ブースターＳＰ －レイジング・マスターズ－ Common 2014-08-09 SPRG-JP004 Booster SP: Raging Masters ブースターＳＰ －レイジング・マスターズ－ Normal Parallel Rare 2015-12-12 SD30-JP011 Structure Deck: Pendulum Domination ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －ペンデュラム・ドミネーション－ Common 2019-12-21 LGB1-JP039 Legendary Gold Box ＬＥＧＥＮＤＡＲＹ ＧＯＬＤ ＢＯＸ Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2014-11-20 SPRG-KR004 Booster SP: Raging Masters 부스터-SP 레이징마스터즈 Common 2014-11-20 SPRG-KR004 Booster SP: Raging Masters 부스터-SP 레이징마스터즈 Normal Parallel Rare 2016-03-15 SD30-KR011 Structure Deck: Pendulum Domination ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ  － 펜듈럼 도미네이션 － Common 2020-09-24 LGB1-KR039 Legendary Gold Box Legendary   GOLD   SET Normal Parallel Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ D/D 
+ Prophecy 
+ 
+ Supports   archetypes   
+ D/D 
+ Dark Contract 
+ 
+ Actions  
+ Effect that cannot be negated 
+ Activates upon Normal Summon 
+ Activates upon Special Summon 
+ Returns from field to hand 
+ Adds from Deck to hand 
+ 
+ Stat changes  
+ Decreases its own Pendulum Scale 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your Monster Cards 
+ 
+ Summoning  categories  
+ Restricts the player's Pendulum Summons to archetype specific monsters 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11442 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " D/D Savant Kepler " pages 
+ 
+ 
+ Anime Anime Manga 
+ 
+ 
+ 
+   
+" D/D " 「 Ｄ Ｄ 」 Members 
+ D/D Ark D/D Berfomet D/D Cerberus D/D Dog D/D Evil D/D Ghost D/D Gryphon D/D Lamia D/D Lilith D/D Necro Slime D/D Nighthowl D/D Orthros D/D Pandora D/D Proud Chevalier D/D Proud Ogre D/D Savant Copernicus D/D Savant Galilei D/D Savant Kepler D/D Savant Newton D/D Savant Nikola D/D Savant Thomas D/D Swirl Slime D/D Vice Typhon D/D/D Abyss King Gilgamesh D/D/D Chaos King Apocalypse D/D/D Cursed King Siegfried D/D/D Destiny King Zero Laplace D/D/D Deviser King Deus Machinex D/D/D Doom King Armageddon D/D/D Dragon King Pendragon D/D/D Dragonbane King Beowulf D/D/D Duo-Dawn King Kali Yuga D/D/D Flame High King Genghis D/D/D Flame King Genghis D/D/D Gust High King Alexander D/D/D Gust King Alexander D/D/D Marksman King Tell D/D/D Oblivion King Abyss Ragnarok D/D/D Oracle King d'Arc D/D/D Rebel King Leonidas D/D/D Stone King Darius D/D/D Super Doom King Bright Armageddon D/D/D Super Doom King Dark Armageddon D/D/D Super Doom King Purple Armageddon D/D/D Supersight King Zero Maxwell D/D/D Supreme King Kaiser D/D/D Vice King Requiem D/D/D Wave High King Caesar D/D/D Wave King Caesar D/D/D Wave Oblivion King Caesar Ragnarok Go! - D/D/D Divine Zero King Rage 
+ D/D Recruits D/D Reroll D/D/D Contract Change D/D/D Headhunt D/D/D Human Resources 
+ Support 
+ D/D Ark D/D Berfomet D/D Cerberus D/D Evil D/D Ghost D/D Gryphon D/D Lamia D/D Lilith D/D Nighthowl D/D Orthros D/D Proud Chevalier D/D Proud Ogre D/D Savant Copernicus D/D Savant Galilei D/D Savant Kepler D/D Savant Newton D/D Savant Nikola D/D Savant Thomas D/D Swirl Slime D/D Vice Typhon D/D/D Abyss King Gilgamesh D/D/D Chaos King Apocalypse D/D/D Cursed King Siegfried D/D/D Doom King Armageddon D/D/D Dragonbane King Beowulf D/D/D Duo-Dawn King Kali Yuga D/D/D Flame High King Genghis D/D/D Flame King Genghis D/D/D Gust High King Alexander D/D/D Gust King Alexander D/D/D Marksman King Tell D/D/D Oblivion King Abyss Ragnarok D/D/D Oracle King d'Arc D/D/D Super Doom King Bright Armageddon D/D/D Super Doom King Dark Armageddon D/D/D Wave High King Caesar D/D/D Wave Oblivion King Caesar Ragnarok Go! - D/D/D Divine Zero King Rage 
+ D/D Recruits D/D Reroll D/D/D Contract Change D/D/D Human Resources Dark Contract with Errors Dark Contract with Patent License Dark Contract with the Eternal Darkness Dark Contract with the Gate Dark Contract with the Swamp King Dark Contract with the Witch Dark Contract with the Yamimakai 
+ 
+   
+" Dark Contract " 「 契 約 書 」 Members 
+ Dark Contract with Errors Dark Contract with Patent License Dark Contract with the Entities Dark Contract with the Eternal Darkness Dark Contract with the Gate Dark Contract with the Swamp King Dark Contract with the Witch Dark Contract with the Yamimakai Forbidden Dark Contract with the Swamp King 
+ Support 
+ D/D Ghost D/D Gryphon D/D Lamia D/D Orthros D/D Savant Copernicus D/D Savant Galilei D/D Savant Kepler D/D Savant Newton D/D/D Cursed King Siegfried D/D/D Deviser King Deus Machinex D/D/D Duo-Dawn King Kali Yuga D/D/D Flame King Genghis D/D/D Marksman King Tell D/D/D Stone King Darius D/D/D Vice King Requiem D/D/D Wave High King Caesar D/D/D Wave King Caesar D/D/D Wave Oblivion King Caesar Ragnarok 
+ Contract Laundering D/D Recruits D/D Reroll Dark Contract with the Witch 
+ 
+   
+" Prophecy " 「 魔 導 」 Members 
+ Amores of Prophecy Ancient Sorcerer Apprentice Illusion Magician Armor Exe Breaker the Dark Magical Warrior Breaker the Magical Warrior Charioteer of Prophecy Crowley, the First Propheseer D/D Savant Copernicus D/D Savant Galilei D/D Savant Kepler D/D Savant Newton D/D Savant Nikola D/D Savant Thomas Dark Cavalry Dark Magician the Magical Knight of Dragons The Dark Magicians Dark Paladin Day-Breaker the Shining Magical Warrior Defender, the Magical Knight Ebon High Magician Ebon Illusion Magician Ebon Magician Curran Emperor of Prophecy Empress of Prophecy Endymion, the Master Magician Endymion, the Mighty Master of Magic The Fiend Megacyber Fool of Prophecy Gilti-Gearfried the Magical Steel Knight Giltia the D. Knight Giltia the D. Knight - Soul Spear Hermit of Prophecy Hierophant of Prophecy High Priestess of Prophecy The Illusory Gentleman Justice of Prophecy Magical Cavalry of Cxulub Magical Merchant Magical Scientist Master of Chaos Prophecy Destroyer Reaper of Prophecy Red-Eyes Dark Dragoon Silent Paladin Skilled Brown Magician Skilled White Magician Spellbook Magician of Prophecy Stoic of Prophecy Strength of Prophecy Supreme Arcanite Magician Temperance of Prophecy Testament of the Arcane Lords Time Wizard of Tomorrow Water Magician Wheel of Prophecy White Magician Pikeru World of Prophecy 
+ Dark Magical Circle The Grand Spellbook Tower Hidden Spellbook Mage Power Magical Contract Door Magical Mid-Breaker Field Mega Ton Magical Cannon Spellbook Library of the Crescent Spellbook Library of the Heliosphere Spellbook Organization Spellbook Star Hall Spellbook of Eternity Spellbook of Fate Spellbook of Judgment Spellbook of Knowledge Spellbook of Life Spellbook of Miracles Spellbook of Power Spellbook of Secrets Spellbook of Wisdom Spellbook of the Master Type Zero Magic Crusher 
+ Support 
+ Stoic of Prophecy 
+ Related 
+ Aleister the Invoker Aleister the Invoker of Madness Behegon Black Luster Soldier Buster Blader Crowley, the Magistus of Grimoires Dark Magician Dark Magician Dark Magician Girl Gearfried the Iron Knight Guardian of the Labyrinth Marine Beast Princess Curran Princess Pikeru Protector of the Throne Red-Eyes Black Dragon Time Wizard 
+ Trial of the Princesses 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/31/DDSavantKepler-SDPD-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170118212150', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

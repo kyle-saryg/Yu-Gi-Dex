@@ -1,0 +1,104 @@
+Link: https://yugioh.fandom.com/wiki/Lightning_Bolcondor_(anime)
+
+The  English                        name given is not official.  
+ Main card page: " Lightning Bolcondor " 
+ Lightning Bolcondor 
+ 
+ Japanese:   ライトニング・ボルコンドル 
+ Romaji:   Raitoningu Borukondoru 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Level 
+ 
+ 
+ 7   
+ 
+ [  Winged Beast  /  Effect  ] [Requirement] : You can  send  1  monster  from your  hand  to the  GY . [Effect] : All  face-up  monsters your opponent currently  controls  with the same  Attribute  as the monster sent to the GY by the  requirement  of this  effect  lose  ATK / DEF  equal to (the  Level  of the monster sent to the GY by the requirement of this effect) x 300, until the end of this  turn .
+ ATK  /  2200     DEF  /  1000   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  SEVENS :  015 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  SEVENS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ライトニング・ボルコンドル 
+ 【条件】  手札のモンスター１体を墓地へ送って発動できる。 【効果】 : この効果の条件で墓地へ送ったモンスターと同じ属性を持つ相手フィールドの全ての表側表示モンスターの攻撃力・守備力はターン終了時まで、［この効果の条件で墓地へ送ったモンスターのレベル］×３００ダウンする。 
+ 
+ 
+ Raitoningu Borukondoru 
+ 
+ 
+ Images 
+ LightningBolcondor-JP-Anime-SV-NC.png Non-card 
+ Decks 
+ 
+ 
+ Yuga Ohdo 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Sends from hand to Graveyard for cost 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ Your opponent's monsters lose DEF 
+ 
+ Miscellaneous  
+ Rush Duel 
+ 
+ 
+ 
+   " Lightning Bolcondor " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/95/LightningBolcondor-JP-Anime-SV.png/revision/latest/scale-to-width-down/200?cb=20200912183247', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

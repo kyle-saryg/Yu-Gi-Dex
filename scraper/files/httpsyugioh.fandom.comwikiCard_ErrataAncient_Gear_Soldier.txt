@@ -1,0 +1,69 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Ancient_Gear_Soldier
+
+
+ Ancient Gear Soldier 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Yu-Gi-Oh! BAM 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ If this card attacks, your opponent cannot activate any Spell  or  Trap Cards until the end of the Damage Step. 
+ If this card attacks, your opponent cannot activate any Spell / Trap Cards until the end of the Damage Step. 
+ 
+ 
+       TLM-EN008 The Lost Millennium     
+       SD10-EN014 Structure Deck: Machine Re-Volt ( Unlimited Edition ) Machine Madness Value Box     
+ 
+ 
+ Portuguese 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Soldado  Engrenagem Ancião 
+ Soldado  do Mecanismo Antigo 
+ 
+ 
+       TLM-PT008 The Lost Millennium     
+         SR03-PT010 Machine Reactor Structure Deck     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ 【機械族 ・ 効果】 
+ 【機械族 ／ 効果】 
+ 
+ 
+ このカードが攻撃する場合、相手はダメージステップ終了時まで魔法・罠カードを発動できない。 
+ ①： このカードが攻撃する場合、相手はダメージステップ終了時まで魔法・罠カードを発動できない。 
+ 
+ 
+         TLM-JP008 The Lost Millennium     
+         SR03-JP010 Structure Deck R: Machine Dragon Re-Volt     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/23/AncientGearSoldier-TLM-EN-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20061227034806', 'https://static.wikia.nocookie.net/yugioh/images/2/22/AncientGearSoldier-SD10-EN-C-UE.png/revision/latest/scale-to-width-down/180?cb=20140517013549', 'https://static.wikia.nocookie.net/yugioh/images/0/04/AncientGearSoldier-TLM-PT-C-UE.png/revision/latest/scale-to-width-down/180?cb=20140612195244', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a3/AncientGearSoldier-SR03-PT-C-1E.png/revision/latest/scale-to-width-down/180?cb=20170519181005', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/75/AncientGearSoldier-TLM-JP-C.jpg/revision/latest/scale-to-width-down/180?cb=20070420042456', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/63/AncientGearSoldier-SR03-JP-C.png/revision/latest/scale-to-width-down/180?cb=20160923151059']
+Categories: Card Errata, Cards with 1 erratum, Cards with name errata, Cards with Portuguese errata, Cards with card type errata, Cards with Japanese errata

@@ -1,0 +1,113 @@
+Link: https://yugioh.fandom.com/wiki/Pendulum_Climax
+
+
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Pendulum Climax 
+ 
+ Japanese:   ペンデュラム・クライマックス 
+ Romaji:   Pendyuramu Kuraimakkusu 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Quick-Play 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Target  1  Pendulum Monster  you  control  that  battled  this  turn , then  Tribute  1 other Pendulum Monster;  equip  1  monster  with the same  Level  as the Tributed monster from your opponent's  Graveyard  to that target. While equipped with that monster by this  effect , it gains  ATK  equal to half the ATK of the equipped monster, also it can make a second  attack  this turn.  Rest of the effect unknown 
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ARC-V :  061 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ARC-V ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ペンデュラム・クライマックス 
+ ①：このターン戦闘を行った自分フィールドの Ｐ モンスター１体を対象とし、それ以外の自分フィールドの Ｐ モンスター１体をリリースして発動できる。そのリリースした Ｐ モンスターと同じレベルのモンスター１体を相手の墓地から選んで、装備カード扱いとしてその対象のモンスターに装備する。このカードの効果で相手モンスターを装備したその対象のモンスターの攻撃力は、装備した相手モンスターの攻撃力の半分の数値分アップし、このターンもう１度だけ攻撃できる。このカードの効果で[。。。]のモンスターに装備した相手モンスター[。。。] 
+ 
+ 
+ Pendyuramu Kuraimakkusu 
+ 
+ 
+ Decks 
+ 
+ 
+ Yuya Sakaki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Pendulum Monster 
+ 
+ Archetypes  and  series   
+ Pendulum  
+ 
+ Actions  
+ Tributes for cost 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ 
+ Attack  categories  
+ Allows multiple attacks 
+ 
+ Miscellaneous  
+ Treats monsters as Equip Cards 
+ 
+ v e 
+ Pendulum  ペンデュラム a   m   Members 
+ Amazing Pendulum Beast-Eyes Pendulum Dragon Brave-Eyes Pendulum Dragon Magical Pendulum Box Master Spirit Tech Force - Pendulum Ruler Odd-Eyes Pendulum Dragon Pendulum Card Burst Pendulum Climax Pendulum Illusion Pendulum Storm Performapal Pendulum Art & Clean Performapal Pendulum Sorcerer Rune-Eyes Pendulum Dragon Spirit Tech Force - Pendulum Governor 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/3/35/PendulumClimax-JP-Anime-AV.png/revision/latest/scale-to-width-down/200?cb=20150621122204', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

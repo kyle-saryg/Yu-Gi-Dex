@@ -1,0 +1,116 @@
+Link: https://yugioh.fandom.com/wiki/Cracking_Dragon_(anime)
+
+Main card page: " Cracking Dragon " 
+ Cracking Dragon 
+ 
+ Japanese:   クラッキング・ドラゴン 
+ Romaji:   Kurakkingu Doragon 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   DARK 
+ 
+ Level 
+ 
+ 
+ 8   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Continuous 
+ Trigger 
+ [  Machine  /  Effect  ] Cannot be  destroyed   by battle  with a  monster  with equal or lower  Level . When your opponent  Normal  or  Special Summons  exactly 1 monster (and no other monsters are  Summoned ) while this monster is on the  field : You can make that monster lose  ATK  equal to its Level x 200 (until the end of this  turn ), and if you do, inflict  damage  to your opponent equal to the ATK lost by this  effect .
+ ATK  /  3000     DEF  /  0   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  001 ,  002 ,  003 ,  009 ,  013 ,  024 ,  029 ,  038 ,  041 ,  068 
+ 
+ Yu-Gi-Oh!  SEVENS :  001 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS  ·  SEVENS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ クラッキング・ドラゴン 
+ ①：このカードは、このカードのレベル以下のレベルを持つモンスターとの戦闘では破壊されない。②：このカードがモンスターゾーンに存在し、相手がモンスター１体のみを召喚・特殊召喚した時に発動できる。そのモンスターの攻撃力はターン終了時までそのレベル×２００ダウンし、ダウンした数値分だけ相手にダメージを与える。 
+ 
+ 
+ Kurakkingu Doragon 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Varis   
+ Knights of Hanoi 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Activates upon Normal Summon 
+ Activates upon Special Summon 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ LP   
+ Damages your opponent 
+ 
+ 
+ 
+   " Cracking Dragon " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/CrackingDragon-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20170712135024', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/11/CrackingDragon-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20170518164853', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

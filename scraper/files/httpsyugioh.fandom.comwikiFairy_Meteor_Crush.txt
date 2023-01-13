@@ -1,0 +1,623 @@
+Link: https://yugioh.fandom.com/wiki/Fairy_Meteor_Crush
+
+The  Arabic, Chinese, Croatian, Greek  and  Thai                    names given are not official.  ( card names ) 
+ The  Chinese  and  Portuguese               lores given are not official.  
+ 
+ 
+ 
+ 
+ 
+ Fairy Meteor Crush メテオ・ストライク 
+ 
+ English 
+Fairy Meteor Crush 
+ Chinese 
+ 流星直擊 Check translation 
+ French 
+ Impact de Météores Féériques Check translation 
+ German 
+ Elfenmeteoreinschlag Check translation 
+ Italian 
+ Pioggia di Meteore Fatate Check translation 
+ Korean 
+ 메테오 스트라이크 Check translation 
+ Portuguese 
+ Queda do Meteoro Angelical Check translation 
+ Spanish 
+ Impacto de Meteoro de Hada Check translation 
+ Japanese 
+ メテオ・ストライク Check translation 
+ Japanese ( rōmaji ) 
+Meteo Sutoraiku 
+ Japanese (translated) 
+Meteor Strike 
+ Card type 
+ Spell   
+ Property 
+ Equip   
+ Passcode 
+ 97687912 
+ Card effect types 
+ 
+ 
+ Continuous-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If the  equipped   monster   attacks  a  Defense Position  monster, inflict  piercing   battle damage  to your opponent. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si le monstre équipé attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls das ausgerüstete Monster ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se il mostro equipaggiato attacca un mostro in Posizione di Difesa infliggi danno da combattimento perforante al tuo avversario. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se o  monstro   equipado   ataca  um monstro em  Modo de Defesa , inflija  dano de batalha   perfurante  a seu oponente. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si el monstruo equipado ataca un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 装備モンスターが守備表示モンスターを攻撃した時、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 攻擊 守備表示 的 怪獸 時， 裝備 這張卡的怪獸超過被 攻擊 的守備怪獸的 守備力 ，對方的 基本分 受到這個差值的 戰鬥傷害 。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 수비 표시 몬스터를 공격했을 때，장착 몬스터의 공격력이 수비 표시 몬스터의 수비력을 넘었으면，그 수치만큼 상대 라이프 포인트에 전투 데미지를 준다 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+   
+ SKE-040   
+ Starter Deck: Kaiba Evolution 
+ Common 
+ 
+ 
+ 2004-10-12  
+ DB1-EN178   
+ Dark Beginning 1 
+ Rare 
+ 
+ 
+ 2004-12-01  
+ PSV-EN063   
+ Pharaoh's Servant 
+ Super Rare 
+ 
+ 
+ 2013-10-11  
+ LCJW-EN232   
+ Legendary Collection 4: Joey's World Mega Pack 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ 
+ North American English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2002-10-20  
+ PSV-063   
+ Pharaoh's Servant 
+ Super Rare 
+ 
+ 
+ 2010-01-29  
+ DT01-EN095   
+ Duel Terminal 1 
+ Duel Terminal Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—Europe 
+ 
+ 
+ 
+ European English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+   
+ PSV-E063   
+ Pharaoh's Servant 
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2002-10-20  
+ SDP-F063   
+ Pharaoh's Servant 
+ Serviteur du Pharaon  
+ Super Rare 
+ 
+ 
+ 2004-03-01  
+ SKE-FR040   
+ Starter Deck: Kaiba Evolution 
+ Deck de Démarrage: Kaiba Évolution  
+ Common 
+ 
+ 
+ 2013-10-10  
+ LCJW-FR232   
+ Legendary Collection 4: Joey's World Mega Pack 
+ Collection Légendaire 4: Le Monde de Joey Méga Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2002-10-20  
+ PSV-G063   
+ Pharaoh's Servant 
+ Pharaoh's Servant  
+ Super Rare 
+ 
+ 
+ 2004-03-01  
+ SKE-DE040   
+ Starter Deck: Kaiba Evolution 
+ Starter Deck: Kaiba Evolution  
+ Common 
+ 
+ 
+ 2004-12-17  
+ DB1-DE178   
+ Dark Beginning 1 
+ Dark Beginning 1  
+ Rare 
+ 
+ 
+ 2013-10-10  
+ LCJW-DE232   
+ Legendary Collection 4: Joey's World Mega Pack 
+ Legendary Collection 4: Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2002-10-20  
+ SDF-I063   
+ Pharaoh's Servant 
+ Servitore del Faraone  
+ Super Rare 
+ 
+ 
+ 2004-03-01  
+ SKE-IT040   
+ Starter Deck: Kaiba Evolution 
+ Mazzo Introduttivo: Kaiba Evoluzione  
+ Common 
+ 
+ 
+ 2013-10-10  
+ LCJW-IT232   
+ Legendary Collection 4: Joey's World Mega Pack 
+ Collezione Leggendaria 4: Mega-Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+   
+ SKE-PT040   
+ Starter Deck: Kaiba Evolution 
+ Deck Inicial do Kaiba Evolução  
+ Common 
+ 
+ 
+ 2013-10-11  
+ LCJW-PT232   
+ Legendary Collection 4: Joey's World Mega Pack 
+ Mega Pacote da Coleção Lendária 4: O Mundo de Joey  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2004-03-01  
+ SKE-SP040   
+ Starter Deck: Kaiba Evolution 
+ Baraja Inicial: Kaiba Evolución  
+ Common 
+ 
+ 
+ 2004-12-01  
+ DB1-SP178   
+ Dark Beginning 1 
+ Principio Oscuro 1  
+ Rare 
+ 
+ 
+ 2013-10-10  
+ LCJW-SP232   
+ Legendary Collection 4: Joey's World Mega Pack 
+ Colección Legendaria 4: El Mundo de Joey Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2000-12-14  
+ TB-13   
+ Thousand Eyes Bible 
+ － 千眼の魔術書 －  
+ Common 
+ 
+ 
+ 2002-01-24  
+ KA-48   
+ Structure Deck: Kaiba Edition 
+ ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ － 海馬編 －  
+ Common 
+ 
+ 
+ 2002-12-12  
+ DL3-010   
+ Duelist Legacy Volume.3 
+ ＤＵＥＬＩＳＴ　ＬＥＧＡＣＹ　Ｖｏｌｕｍｅ．３  
+ Rare 
+ 
+ 
+ 2004-06-24  
+ BE1-JP178   
+ Beginner's Edition 1 
+ ＢＥＧＩＮＮＥＲ'Ｓ ＥＤＩＴＩＯＮ １  
+ Rare 
+ 
+ 
+ 2008-06-24  
+ DT02-JP045   
+ Duel Terminal - Invasion of Worms!! 
+ ＤＵＥＬ ＴＥＲＭＩＮＡＬ「ワームの侵攻！！」  
+ Duel Terminal Normal Parallel Rare 
+ 
+ 
+ 2011-05-14  
+ BE01-JP151   
+ Beginner's Edition 1 (2011) 
+ ＢＥＧＩＮＮＥＲ＇Ｓ　ＥＤＩＴＩＯＮ　１　［　２０１１　］  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Asian-English 
+ 
+ 
+ 
+ Asian-English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2003-04-21  
+ PSV-063   
+ Pharaoh's Servant 
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2004-06-19  
+ PSV-K063   
+ Pharaoh's Servant 
+ 파라오의 사도  
+ Super Rare 
+ 
+ 
+ 2006-04-11  
+ BP1-KR178   
+ Beginner's Edition 1 
+ 비기너즈 팩 Vol.1  
+ Rare 
+ 
+ 
+ 2005-04-12  
+ SKE-KR040   
+ Starter Deck: Kaiba Evolution 
+ STARTER   DECK  － 카이바 편 －  Evolution   
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Nightmare Troubadour 
+ 
+ 
+ Legendary History  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   Online 
+ 
+ 
+ Pack 18 
+ 
+ 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+ Pharaoh's Servant  ( Rare )
+ Equipment Collection  ( Rare )
+ Direct Damage Collection  ( Rare )
+ All Spells  ( Common )
+ 
+ All at Random  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   GX Tag Force 
+ 
+ 
+ Go Go Direct  ( Rare ) 
+ 
+ 
+ 
+ 
+ 
+   GX Tag Force 2 
+ 
+ 
+ Starter Deck: Main Deck  ( Common ) 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Attack  categories  
+ Piercing 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 5128 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Nightmare Troubadour 2005-07-21 – ??? – – – Unlimited Online 2005-11-04 – – – – – Unlimited Ultimate Masters: World Championship Tournament 2006 2006-02-23 – ??? – – – Unlimited GX Tag Force 2006-09-14 – ??? – – – Unlimited GX Tag Force 2 2007-09-18 – ??? – – – Unlimited 
+ 
+ 
+ 
+   " Fairy Meteor Crush " pages 
+ 
+ 
+ Anime Manga Manga Yu-Gi-Oh! The Duelists of the Roses 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/6f/FairyMeteorCrush-LCJW-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20131014110346', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/9/90/Equip.svg/revision/latest/scale-to-width-down/28?cb=20120920115844']
+Categories: Duel Monsters cards, TCG cards, OCG cards

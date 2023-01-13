@@ -1,0 +1,109 @@
+Link: https://yugioh.fandom.com/wiki/Ant_Barrier
+
+
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Ant Barrier 
+ 
+ Japanese:   アリバリア 
+ Romaji:   Aribaria 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Continuous 
+ Trigger-like 
+ Once per  turn , while this card is  face-up  on the  field , you can  negate  1  attack  from a  monster  your opponent  controls . If you would take  damage  from a monster  effect   activated  on your opponent's side of the field: You can activate this card from your  hand ; that damage becomes 0, also change all monsters you currently  control  to  face-up   Defense Position .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  142 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ アリバリア 
+ このカードがフィールド上に存在する限り、相手モンスター１体の攻撃を無効にできる。相手モンスターの効果によって効果ダメージが？？？。そのダメージを０にし、このカードは手札から発動？？？。でこのカードが発動した？？自分フィールド上の？？？の表示形式は守備表示になる。 
+ 
+ 
+ Aribaria 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yuma Tsukumo 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Activates from your hand 
+ Allows activation of Trap Cards from your hand 
+ Changes battle positions 
+ 
+ Attack  categories  
+ Negates attacks 
+ 
+ LP   
+ Prevents effect damage 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/5/50/AntBarrier-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20140223173254', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/90/AntBarrier-JP-Anime-ZX-NC.png/revision/latest/scale-to-width-down/185?cb=20140227014823', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

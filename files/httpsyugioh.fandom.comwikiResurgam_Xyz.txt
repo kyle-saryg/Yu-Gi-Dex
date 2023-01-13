@@ -1,0 +1,276 @@
+Link: https://yugioh.fandom.com/wiki/Resurgam_Xyz
+
+
+ 
+ 
+ Resurgam Xyz リサーガム・エクシーズ 
+ 
+ English 
+Resurgam Xyz 
+ French 
+ Resurgam Xyz Check translation 
+ German 
+ Xyz-Wiederaufstieg Check translation 
+ Italian 
+ Resurgam Xyz Check translation 
+ Korean 
+ 리설감 엑시즈 Check translation 
+ Portuguese 
+ Resurgam Xyz Check translation 
+ Spanish 
+ Resurgam Xyz Check translation 
+ Japanese 
+ リサーガム・エクシーズ Check translation 
+ Japanese ( rōmaji ) 
+Risāgamu Ekushīzu 
+ Card type 
+ Trap   
+ Property 
+ Continuous   
+ Passcode 
+ 49082032 
+ Card effect types 
+ 
+ 
+ Continuous-like 
+ Quick-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+All  Xyz Monsters  you  control  gain 800  ATK .  Once per turn : You can  discard  1  Spell , then  target  1 Xyz Monster you control;  Special Summon  from your  Extra Deck , 1 " Number C "  monster  or 1 " CXyz " monster, with the same  Type  as that monster you control but 1  Rank  higher, by using it as  material . (This is treated as an  Xyz Summon .  Transfer  its materials to the  Summoned  monster.) If you discarded a card other than a " Rank-Up-Magic " Spell to  activate  this effect,  return  that Special Summoned monster to the Extra Deck during the  End Phase  (even if this card  leaves the field ). 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Tous les Monstres Xyz que vous contrôlez gagnent 800 ATK. Une fois par tour : vous pouvez défausser 1 Magie, puis ciblez 1 Monstre Xyz que vous contrôlez ; Invoquez Spécialement depuis votre Extra Deck, 1 monstre "Numéro C" ou 1 monstre "CXyz", du même Type que le monstre que vous contrôlez mais d'1 Rang supérieur, en l'utilisant comme Matériel. (Ceci est traité comme une Invocation Xyz. Transférez ses Matériels au monstre Invoqué.) Si vous avez défaussé une carte (Magies "Magie-Rang-Plus" exclues) pour activer cet effet, renvoyez le monstre Invoqué Spécialement à l'Extra Deck durant la End Phase (même si cette carte quitte le Terrain). 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Alle Xyz-Monster, die du kontrollierst, erhalten 800 ATK. Einmal pro Spielzug: Du kannst 1 Zauber abwerfen und dann 1 Xyz-Monster wählen, das du kontrollierst; beschwöre 1 „Nummer C“-Monster oder 1 „CXyz“-Monster mit demselben Typ wie das Monster, das du kontrollierst, aber einem um 1 höheren Rang, als Spezialbeschwörung von deinem Extra Deck, indem du es als das Material verwendest. (Dies wird als Xyz-Beschwörung behandelt. Transferiere sein Material an das beschworene Monster.) Falls du eine andere Karte als einen „Rangsteigerungszauber“-Zauber abgeworfen hast, um diesen Effekt zu aktivieren, lege das als Spezialbeschwörung beschworene Monster während der End Phase ins Extra Deck zurück (selbst falls diese Karte das Spielfeld verlässt). 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Tutti i Mostri Xyz che controlli guadagnano 800 ATK. Una volta per turno: puoi scartare 1 Magia, poi scegliere come bersaglio 1 Mostro Xyz che controlli; Evoca Specialmente dal tuo Extra Deck 1 mostro "Numero C" o 1 mostro "CXyz", con lo stesso Tipo di quel mostro che controlli ma di 1 Rango superiore, utilizzandolo come materiale. (Questa viene considerata come un'Evocazione Xyz. Trasferisci i suoi materiali sul mostro Evocato.) Se hai scartato una carta diversa da una Magia "Alza-Rango-Magico" per attivare questo effetto, fai ritornare quel mostro Evocato Specialmente nell'Extra Deck durante la End Phase (anche se questa carta lascia il Terreno). 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Todos os Monstros Xyz que você controla ganham 800 de ATK. Uma vez por turno: você pode descartar 1 Magia e, depois, escolha 1 Monstro Xyz que você controla; Invoque por Invocação-Especial do seu Deck Adicional, 1 monstro "Número C" ou 1 monstro "CXyz", com o mesmo Tipo que o desse monstro que você controla, mas 1 Classe maior, usando-o como matéria. (Isso é considerado uma Invocação-Xyz. Transfira as matérias dele para o monstro Invocado.) Se você descartou um card que não seja uma Magia "Magia de Aumento de Classe" para ativar este efeito, devolva esse monstro Invocado por Invocação-Especial para o Deck Adicional durante a Fase Final (mesmo que este card deixe o campo). 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Todos los Monstruos Xyz que controlas ganan 800 ATK. Una vez por turno: puedes descartar 1 Mágica, y después seleccionar 1 Monstruo Xyz que controles; Invoca de Modo Especial, desde tu Deck Extra, 1 monstruo "Número C" o 1 monstruo "CXyz", con el mismo Tipo que ese monstruo que controlas pero 1 Rango mayor, usándolo como material. (Esto se trata como una Invocación Xyz. Transfiere sus materiales al monstruo Invocado). Si descartaste otra carta que no fuera una Mágica "Magia de Subida de Rango" para activar este efecto, durante la End Phase devuelve al Deck Extra ese monstruo Invocado de Modo Especial (aun si esta carta deja el Campo). 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：自分フィールドの Ｘ モンスターの攻撃力は８００アップする。②：１ターンに１度、手札から魔法カード１枚を捨て、自分フィールドの Ｘ モンスター１体を対象として発動できる。その自分のモンスターと同じ種族でランクが１つ高い「 ＣＮｏ. 」モンスターまたは「 ＣＸ 」モンスター１体を、対象のモンスターの上に重ねて Ｘ 召喚扱いとして ＥＸ デッキから特殊召喚する。「 ＲＵＭ 」魔法カード以外を捨てて発動した場合、この効果で特殊召喚したモンスターはエンドフェイズに持ち主の ＥＸ デッキに戻る。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 자신 필드의 엑시즈 몬스터의 공격력은 800 올린다. ②: 1턴에 1번, 패에서 마법 카드 1장을 버리고, 자신 필드의 엑시즈 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 자신 몬스터와 같은 종족으로 랭크가 1개 높은 "CNo.(카오스 넘버즈)" 몬스터 또는 "CX(카오스 엑시즈)" 몬스터 1장을, 대상 몬스터의 위에 겹쳐 엑시즈 소환으로 취급하고 엑스트라 덱에서 특수 소환한다. "RUM(랭크 업 매직)" 마법 카드 이외를 버리고 발동했을 경우, 이 효과로 특수 소환한 몬스터는 엔드 페이즈에 주인의 엑스트라 덱으로 되돌아간다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2020-01-30 IGAS-EN074 Ignition Assault Common 2021-12-02 BROL-EN092 Brothers of Legend Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2020-01-30 IGAS-FR074 Ignition Assault l'Assaut de l'Ignition Common 2021-12-02 BROL-FR092 Brothers of Legend Frères de Légende Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2020-01-30 IGAS-DE074 Ignition Assault Ignition Assault Common 2021-12-02 BROL-DE092 Brothers of Legend Brothers of Legend Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2020-01-30 IGAS-IT074 Ignition Assault Assalto Accensione Common 2021-12-02 BROL-IT092 Brothers of Legend Fratelli della Leggenda Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2020-01-30 IGAS-PT074 Ignition Assault Ataque de Ignição Common 2021-12-02 BROL-PT092 Brothers of Legend Irmãos das Lendas Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2020-01-30 IGAS-SP074 Ignition Assault Asalto Ignición Common 2021-12-02 BROL-SP092 Brothers of Legend Hermanos de Leyenda Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2019-10-12 IGAS-JP074 Ignition Assault イグニッション・アサルト Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2020-01-10 IGAS-KR074 Ignition Assault 이그니션 어썰트 Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Xyz Monster 
+ 
+ Archetypes  and  series   
+ Xyz 
+ 
+ Supports   archetypes   
+ CXyz 
+ Number C 
+ Rank-Up-Magic 
+ 
+ Actions  
+ Discards for cost 
+ Transfers 
+ Returns from field to Extra Deck 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ 
+ Summoning  categories  
+ Rank-Up by 1 Rank 
+ Special Summons from your Extra Deck 
+ Treats Special Summon as Xyz Summon 
+ Xyz Evolution 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14883 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" CXyz " 「 ＣＸ 」 Members 
+ CXyz Barian Hope CXyz Battleship Cherry Blossom CXyz Coach Lord Ultimatrainer CXyz Comics Hero Legend Arthur CXyz Dark Fairy Cheer Girl CXyz Mechquipped Djinn Angeneral CXyz N.As.Ch. Knight CXyz Simon the Great Moral Leader CXyz Skypalace Babylon 
+ Support 
+ Bariantopia Rank-Up-Magic Admiration of the Thousands Rank-Up-Magic Argent Chaos Force Rank-Up-Magic Barian's Force Resurgam Xyz 
+ Related 
+ Battlecruiser Dianthus Coach King Giantrainer Comics Hero King Arthur Fairy Cheer Girl Mechquipped Angineer N.As.H. Knight Norito the Moral Leader Skypalace Gangaridai Zubaba General 
+ 
+   
+" Number C " 「 ＣＮｏ. 」 Members 
+ Number C1: Numeron Chaos Gate Sunya Number C5: Chaos Chimera Dragon Number C6: Chronomaly Chaos Atlandis Number C9: Chaos Dyson Sphere Number C15: Gimmick Puppet Giant Hunter Number C32: Shark Drake Veiss Number C39: Utopia Ray Number C39: Utopia Ray V Number C39: Utopia Ray Victory Number C40: Gimmick Puppet of Dark Strings Number C43: High Manipulator of Chaos Number C62: Neo Galaxy-Eyes Prime Photon Dragon Number C65: King Overfiend Number C69: Heraldry Crest of Horror Number C73: Abyss Supra Splash Number C80: Requiem in Berserk Number C88: Gimmick Puppet Disaster Leo Number C92: Heart-eartH Chaos Dragon Number C96: Dark Storm Number C1000: Numerounius Number C101: Silent Honor DARK Number C102: Archfiend Seraph Number C103: Ragnafinity Number C104: Umbral Horror Masquerade Number C105: Battlin' Boxer Comet Cestus Number C106: Giant Red Hand Number C107: Neo Galaxy-Eyes Tachyon Dragon Ultimate Dragonic Utopia Ray Ultimate Leo Utopia Ray 
+ Support 
+ Bariantopia Don Thousand's Throne Rank-Up-Magic - The Seventh One Rank-Up-Magic Admiration of the Thousands Rank-Up-Magic Argent Chaos Force Rank-Up-Magic Barian's Force Rank-Up-Magic Limited Barian's Force Rank-Up-Magic Numeron Force Rank-Up-Magic Quick Chaos Resurgam Xyz 
+ Related 
+ CXyz Barian Hope CXyz N.As.Ch. Knight DZW - Chimera Clad Don Thousand/Monster A Don Thousand/Monster B Don Thousand/Monster C Galaxy-Eyes Photon Dragon N.As.H. Knight Number 5: Doom Chimera Dragon Number 6: Chronomaly Atlandis Number 9: Dyson Sphere Number 15: Gimmick Puppet Giant Grinder Number 32: Shark Drake Number 39: Utopia Number 40: Gimmick Puppet of Strings Number 43: Manipulator of Souls Number 62: Galaxy-Eyes Prime Photon Dragon Number 65: Djinn Buster Number 69: Heraldry Crest Number 73: Abyss Splash Number 80: Rhapsody in Berserk Number 88: Gimmick Puppet of Leo Number 92: Heart-eartH Dragon Number 96: Dark Mist Number 101: Silent Honor ARK Number 102: Star Seraph Sentry Number 103: Ragnazero Number 104: Masquerade Number 105: Battlin' Boxer Star Cestus Number 106: Giant Hand Number 107: Galaxy-Eyes Tachyon Dragon Number iC1000: Numerounius Numerounia V Salamander ZW - Asura Strike ZW - Dragonic Halberd ZW - Eagle Claw ZW - Leo Arms ZW - Lightning Blade ZW - Phoenix Bow ZW - Sleipnir Mail ZW - Tornado Bringer ZW - Ultimate Shield ZW - Unicorn Spear 
+ Winning Formula 
+ 
+   
+" Rank-Up-Magic " 「 ＲＵＭ 」 Members 
+ Hyper Rank-Up-Magic Utopiforce Phantom Knights' Rank-Up-Magic Force The Phantom Knights' Rank-Up-Magic Launch Rank-Up-Magic - The Seventh One Rank-Up-Magic Admiration of the Thousands Rank-Up-Magic Argent Chaos Force Rank-Up-Magic Astral Force Rank-Up-Magic Barian's Force Rank-Up-Magic Cipher Ascension Rank-Up-Magic Doom Double Force Rank-Up-Magic Limited Barian's Force Rank-Up-Magic Numeron Force Rank-Up-Magic Quick Chaos Rank-Up-Magic Raid Force Rank-Up-Magic Raptor's Force Rank-Up-Magic Revolution Force Rank-Up-Magic Skip Force Rank-Up-Magic Soul Shave Force Rank-Up-Magic Zexal Force 
+ Support 
+ Number 71: Rebarian Shark Number 99: Utopic Dragon Number S0: Utopic ZEXAL Number C88: Gimmick Puppet Disaster Leo Raidraptor - Necro Vulture Raidraptor - Revolution Falcon - Air Raid Raidraptor - Tribute Lanius Raidraptor - Wise Strix ZS - Ascended Sage 
+ Bariantopia Puppet Parade Raider's Unbreakable Mind Rank-Up-Magic Raid Force Raptor's Ultimate Mace Resurgam Xyz Seventh Ascension Zexal Construction 
+ Related 
+ Don Thousand's Throne Marshalling Field Outrigger Extension Rank-Down-Magic Numeron Fall Xyz Revive Splash 
+ 
+   
+" Xyz " 「エクシーズ」 Members 
+ Arc Rebellion Xyz Dragon Black Fang Magician CXyz Barian Hope CXyz Battleship Cherry Blossom CXyz Coach Lord Ultimatrainer CXyz Comics Hero Legend Arthur CXyz Dark Fairy Cheer Girl CXyz Mechquipped Djinn Angeneral CXyz N.As.Ch. Knight CXyz Simon the Great Moral Leader CXyz Skypalace Babylon Dark Rebellion Xyz Dragon Dark Requiem Xyz Dragon Xyz Agent Xyz Avenger Xyz Remora Xyz Slidolphin Xyz-Raypierce 
+ Pendulum Xyz Resurgam Xyz Wonder Xyz Xyz Bento Xyz Block Xyz Burst Xyz Change Tactics Xyz Dimension Splash Xyz Double Back Xyz Effect Xyz Encore Xyz Energy Xyz Gift Xyz Import Xyz Override Xyz Reborn Xyz Reception Xyz Reflect Xyz Revenge Xyz Revenge Shuffle Xyz Reversal Xyz Revive Splash Xyz Shift Xyz Soul Xyz Territory Xyz Tribalrivals Xyz Unit Xyz Universe Xyz Veil Xyz Wrath Xyz Xtreme !! 
+ Support 
+ Astraltopia 
+ Generation Force 
+ Related 
+ Battlecruiser Dianthus Coach King Giantrainer Comics Hero King Arthur Dark Anthelion Dragon Fairy Cheer Girl Mechquipped Angineer Norito the Moral Leader Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Skypalace Gangaridai Supreme King Dragon Dark Rebellion Zubaba General 
+ Don Thousand/Trap A Rank-Up-Magic Barian's Force 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/bf/ResurgamXyz-BROL-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20211227060822', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Duel Monsters cards, TCG cards, OCG cards

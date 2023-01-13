@@ -1,0 +1,126 @@
+Link: https://yugioh.fandom.com/wiki/Infernity_Doom_Slinger
+
+Main card page: " Infernity Des Gunman " 
+ Infernity Doom Slinger 
+ 
+ Japanese:   インフェルニティ・デス・ガンマン 
+ Romaji:   Inferuniti Desu Ganman 
+ Translated:  Infernity Death Gunman 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   DARK 
+ 
+ Level 
+ 
+ 
+ 1   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Trigger 
+ [  Fiend  /  Effect  ] If you have no cards in your  hand , when your opponent  activates  an  effect  that would inflict  damage , you can  remove from play  this card from your  Graveyard  to  negate  the effect damage you take. Your opponent then chooses whether or not to apply the following effect.  Reveal  the top card of your  Deck . If it is a  Monster Card , inflict damage to your opponent equal to the amount of effect damage you took this  turn  plus the amount of negated effect damage. If it is a  Spell  or  Trap Card , you take damage equal to the amount of effect damage you took this turn. If your opponent does not choose to apply this effect, you take no effect damage this turn.
+ ATK  /  100     DEF  /  100   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  091 ,  092 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ インフェルニティ・デス・ガンマン 
+ 自分の手札が０枚の場合で、自分への効果ダメージが発生した時、自分の墓地に存在するこのカードをゲームから除外する事でその効果ダメージを無効にする。相手は以下の効果を発動するかどうかを選択する事ができる。自分のデッキの一番上のカードをめくる。そのカードがモンスターカードだった場合、相手ライフにこのターン受けた効果ダメージと無効にした効果ダメージの合計分のダメージを与える。そのカードが魔法・罠カードだった場合、自分はこのターン受けた効果ダメージ分のダメージを受ける。相手がこの効果を選択しなかった場合、相手はこのターン効果ダメージを与えられない。 
+ 
+ 
+ Inferuniti Desu Ganman 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Kalin Kessler 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Infernity 
+ 
+ Actions  
+ Activates from your Graveyard 
+ Excavates from the player's Deck 
+ Places excavated cards on the top of the Deck 
+ 
+ Banished  categories  
+ Banishes itself from Graveyard for cost 
+ 
+ LP   
+ Prevents effect damage 
+ Damages your opponent 
+ Damages you 
+ 
+ Miscellaneous  
+ Variable effects 
+ 
+ 
+ 
+   " Infernity Des Gunman " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+" Infernity " 「インフェルニティ」 a   m   Members 
+ Infernity Archfiend Infernity Avenger Infernity Beast Infernity Beetle Infernity Break Infernity Burst Infernity Climber Infernity Destroyer Infernity Destroyer Infernity Doom Dragon Infernity Doom Slinger Infernity Dwarf Infernity Force Infernity Guardian Infernity Mirage Infernity Necromancer Infernity Randomizer Infernity Reflector Infernity Zero 
+ Support 
+ Infernity Archfiend Infernity Break Infernity Burst Infernity Force Infernity Mirage Infernity Necromancer Infernity Reflector ZERO-MAX 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/ed/InfernityDesGunman-JP-Anime-5D.png/revision/latest/scale-to-width-down/200?cb=20100114105656', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1d/InfernityDoomSlinger-OW.png/revision/latest/scale-to-width-down/185?cb=20140114172653', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/7b/InfernityDesGunman-JP-Anime-5D-NC.png/revision/latest/scale-to-width-down/185?cb=20120716160740', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

@@ -1,0 +1,115 @@
+Link: https://yugioh.fandom.com/wiki/Latency_(anime)
+
+Main card page: " Latency " 
+ Latency 
+ 
+ Japanese:   レイテンシ 
+ Romaji:   Reitenshi 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Level 
+ 
+ 
+ 1   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Trigger 
+ Trigger 
+ Condition 
+ [  Cyberse  /  Effect  ] If this card is  added  from the  GY  to your  hand : You can  Special Summon  this card. If this card Summoned this way is  sent  to the GY as  material  for a  Link Summon : You can  draw  1 card. You can only use each  effect  of "Latency"  once per turn .
+ ATK  /  0     DEF  /  0   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  035 ,  037 ,  043 ,  044 ,  068 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ レイテンシ 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：このカードが墓地から手札に加わった場合に発動できる。このカードを手札から特殊召喚する。②：このカードの①の方法で特殊召喚したこのカードがリンク素材として墓地へ送られた場合に発動できる。自分はデッキから１枚どろーする。 
+ 
+ 
+ Reitenshi 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Activates from your hand 
+ Activates from your Graveyard 
+ Activates if used as Link Material 
+ You draw cards 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ 
+ Miscellaneous  
+ Only once per turn 
+ Female 
+ 
+ 
+ 
+   " Latency " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a5/Latency-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180117142224', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/b6/Latency-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20180314132846', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

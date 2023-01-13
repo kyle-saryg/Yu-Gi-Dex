@@ -1,0 +1,381 @@
+Link: https://yugioh.fandom.com/wiki/Last_Counter
+
+The  Croatian                        name given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Last Counter ラスト・カウンター 
+ 
+ English 
+Last Counter 
+ French 
+ Dernier Contre Check translation 
+ German 
+ Letzter Konter Check translation 
+ Italian 
+ Ultimo Contrattacco Check translation 
+ Korean 
+ 라스트 카운터 Check translation 
+ Portuguese 
+ Último Contragolpe Check translation 
+ Spanish 
+ Último Contragolpe Check translation 
+ Japanese 
+ ラスト・カウンター Check translation 
+ Japanese ( rōmaji ) 
+Rasuto Kauntā 
+ Card type 
+ Trap   
+ Property 
+ Counter   
+ Passcode 
+ 86049351 
+ Card effect types 
+ 
+ 
+ Activation requirement 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When an  attack  is  declared  involving a " Battlin' Boxer "  monster  you  control  and an opponent's monster:  Negate  the attack, and if you do,  send  that monster you control to the  Graveyard , then 1 "Battlin' Boxer" monster you control (in  Attack Position , if you declared the attack) gains  ATK  equal to the  original ATK  of that opponent's monster, also proceed to  damage calculation  using those monsters. Then, you take  damage  equal to the amount of ATK gained from this  effect . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Lorsqu'une attaque impliquant un monstre "Boxeur Indomptable" que vous contrôlez et un monstre de votre adversaire est déclarée : annulez l'attaque, et si vous le faites, envoyez le monstre que vous contrôlez au Cimetière, puis 1 monstre "Boxeur Indomptable" que vous contrôlez (en Position de Combat, si vous avez déclaré l'attaque) gagne une ATK égale à l'ATK d'origine du monstre de votre adversaire, et aussi, passez au calcul des dommages en utilisant ces monstres. Puis, vous recevez des dommages égaux au montant d'ATK gagné par cet effet. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wenn ein Angriff deklariert wird, an dem ein „Unermüdlicher Boxer“-Monster, das du kontrollierst, und ein Monster deines Gegners beteiligt sind: Annulliere den Angriff und falls du dies tust, lege das Monster, das du kontrollierst, auf den Friedhof, dann erhält 1 „Unermüdlicher Boxer“-Monster (in Angriffsposition, falls du den Angriff deklariert hast), das du kontrollierst, ATK in Höhe der Grund-ATK des Monsters deines Gegners, zusätzlich springe zur Schadensberechnung und verwende dazu die Monster. Dann erhältst du Schaden in Höhe der durch diesen Effekt erhaltenen ATK. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando viene dichiarato un attacco che coinvolge un mostro "Pugile Indomito" che controlli e un mostro dell'avversario: annulla l'attacco e, se lo fai, manda quel mostro che controlli al Cimitero, poi 1 mostro "Pugile Indomito" che controlli (in Posizione di Attacco, se hai dichiarato tu l'attacco) guadagna ATK pari all'ATK originale di quel mostro dell'avversario, inoltre procedi al calcolo dei danni utilizzando quei mostri. Poi, subisci danno pari all'ammontare di ATK guadagnato da questo effetto. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Quando um ataque for declarado envolvendo um monstro "Boxeador Obstinado" que você controla e um monstro do oponente: negue o ataque e, se isso acontecer, envie esse monstro que você controla para o Cemitério e, depois, 1 monstro "Boxeador Obstinado" que você controla (em Posição de Ataque, se você declarou o ataque) ganha ATK igual ao ATK original desse monstro do oponente e, além disso, prossiga para o cálculo de dano usando esses monstros. Depois, você sofre dano igual ao valor de ATK ganho por este efeito. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando es declarado un ataque que involucra a un monstruo "Boxeador Indómito" que controlas y un monstruo de tu adversario: niega el ataque y, si lo haces, manda al Cementerio a ese monstruo que controlas, y después 1 monstruo "Boxeador Indómito" que controlas (en Posición de Ataque, si tú declaraste el ataque) gana ATK igual al ATK original de ese monstruo de tu adversario, y además procede al cálculo de daño usando esos monstruos. Después, tú recibes daño igual a la cantidad de ATK ganado por este efecto. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 自分フィールド上の「ＢＫ」と名のついたモンスターが相手モンスターと戦闘を行う攻撃宣言時に発動できる。その攻撃を無効にし、その自分のモンスターを墓地へ送る。その相手モンスターの元々の攻撃力分、自分フィールド上の「ＢＫ」と名のついたモンスター１体の攻撃力をアップし、その相手モンスターとダメージ計算を行う。その後、自分はこのカードの効果でアップした攻撃力の数値分のダメージを受ける。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신 필드 위의 "BK(버닝나쿠라)"라는 이름이 붙은 몬스터가 상대 몬스터와 전투를 실행하는 공격 선언시에 발동할 수 있다. 그 공격을 무효로 하고, 그 자신의 몬스터를 묘지로 보낸다. 그 상대 몬스터의 원래 공격력만큼, 자신 필드 위의 "BK(버닝나쿠라)"라는 이름이 붙은 몬스터 1장의 공격력을 올리고, 그 상대 몬스터와 데미지 계산을 실행한다. 그 후, 자신은 이 카드의 효과로 올린 공격력의 수치만큼 데미지를 받는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2014-05-16  
+ PRIO-EN071   
+ Primal Origin 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2014-05-15  
+ PRIO-FR071   
+ Primal Origin 
+ Origine Primitive  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2014-05-15  
+ PRIO-DE071   
+ Primal Origin 
+ Primal Origin  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2014-05-15  
+ PRIO-IT071   
+ Primal Origin 
+ Origine Primordiale  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2014-05-16  
+ PRIO-PT071   
+ Primal Origin 
+ Origem Primordial  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2014-05-15  
+ PRIO-SP071   
+ Primal Origin 
+ Origen Primigenio  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2014-02-15  
+ PRIO-JP071   
+ Primal Origin 
+ ＰＲＩＭＡＬ ＯＲＩＧＩＮ  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2014-05-12  
+ PRIO-KR071   
+ Primal Origin 
+ 프라이멀 오리진  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   archetypes   
+ Battlin' Boxer 
+ 
+ Related to  archetypes  and  series   
+ Number 
+ 
+ Actions  
+ Sends from your field to your Graveyard 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ 
+ Attack  categories  
+ Negates attacks 
+ Manages attack targets 
+ Conducts damage calculation 
+ 
+ LP   
+ Damages you 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11100 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Last Counter " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Battlin' Boxer " 「 ＢＫ 」 Members 
+ Battlin' Boxer Big Bandage Battlin' Boxer Cheat Commissioner Battlin' Boxer Counterpunch Battlin' Boxer Glassjaw Battlin' Boxer Headgeared Battlin' Boxer Lead Yoke Battlin' Boxer Rabbit Puncher Battlin' Boxer Rib Gardna Battlin' Boxer Shadow Battlin' Boxer Sparrer Battlin' Boxer Switchitter Battlin' Boxer Veil Number 79: Battlin' Boxer Nova Kaiser Number 105: Battlin' Boxer Star Cestus Number C105: Battlin' Boxer Comet Cestus 
+ Support 
+ Battlin' Boxer Big Bandage Battlin' Boxer Cheat Commissioner Battlin' Boxer Counterpunch Battlin' Boxer Glassjaw Battlin' Boxer Headgeared Battlin' Boxer Lead Yoke Battlin' Boxer Rib Gardna Battlin' Boxer Shadow Battlin' Boxer Sparrer Battlin' Boxer Switchitter Number 79: Battlin' Boxer Nova Kaiser Number 105: Battlin' Boxer Star Cestus 
+ Battlin' Boxing Spirits Jolt Counter Last Counter 
+ 
+   
+" Number " 「 Ｎｏ. 」 Members 
+ Number 1: Numeron Gate Ekam Number 2: Ninja Shadow Mosquito Number 2: Numeron Gate Dve Number 3: Cicada King Number 3: Numeron Gate Trini Number 4: Numeron Gate Catvari Number 4: Stealth Kragen Number 5: Doom Chimera Dragon Number 6: Chronomaly Atlandis Number 7: Lucky Straight Number 8: Heraldic King Genom-Heritage Number 9: Dyson Sphere Number 10: Illumiknight Number 11: Big Eye Number 12: Crimson Shadow Armor Ninja Number 13: Embodiment of Crime Number 14: Greedy Sarameya Number 15: Gimmick Puppet Giant Grinder Number 16: Shock Master Number 17: Leviathan Dragon Number 18: Heraldry Patriarch Number 19: Freezadon Number 20: Giga-Brilliant Number 21: Frozen Lady Justice Number 22: Zombiestein Number 23: Lancelot, Dark Knight of the Underworld Number 24: Dragulas the Vampiric Dragon Number 25: Force Focus Number 26: Spaceway Octobypass Number 27: Dreadnought Dreadnoid Number 28: Titanic Moth Number 29: Mannequin Cat Number 30: Acid Golem of Destruction Number 31: Embodiment of Punishment Number 32: Shark Drake Number 33: Chronomaly Machu Mech Number 34: Terror-Byte Number 35: Ravenous Tarantula Number 36: Chronomaly Chateau Huyuk Number 37: Hope Woven Dragon Spider Shark Number 38: Hope Harbinger Dragon Titanic Galaxy Number 39: Utopia Number 39: Utopia Beyond Number 39: Utopia Double Number 39: Utopia Rising Number 39: Utopia Roots Number 40: Gimmick Puppet of Strings Number 41: Bagooska the Terribly Tired Tapir Number 42: Galaxy Tomahawk Number 43: Manipulator of Souls Number 44: Sky Pegasus Number 45: Crumble Logos the Prophet of Demolition Number 46: Dragluon Number 47: Nightmare Shark Number 48: Shadow Lich Number 49: Fortune Tune Number 50: Blackship of Corn Number 51: Finisher the Strong Arm Number 52: Diamond Crab King Number 53: Heart-eartH Number 54: Lion Heart Number 55: Gogogo Goliath Number 56: Gold Rat Number 57: Tri-Head Dust Dragon Number 58: Burner Visor Number 59: Crooked Cook Number 60: Dugares the Timeless Number 61: Volcasaurus Number 62: Galaxy-Eyes Prime Photon Dragon Number 63: Shamoji Soldier Number 64: Ronin Raccoon Sandayu Number 65: Djinn Buster Number 66: Master Key Beetle Number 67: Pair-a-Dice Smasher Number 68: Sanaphond the Sky Prison Number 69: Heraldry Crest Number 70: Malevolent Sin Number 71: Rebarian Shark Number 72: Shogi Rook Number 73: Abyss Splash Number 74: Master of Blades Number 75: Bamboozling Gossip Shadow Number 76: Harmonizer Gradielle Number 77: The Seven Sins Number 78: Number Archive Number 79: Battlin' Boxer Nova Kaiser Number 80: Rhapsody in Berserk Number 81: Superdreadnought Rail Cannon Super Dora Number 82: Heartlandraco Number 83: Galaxy Queen Number 84: Pain Gainer Number 85: Crazy Box Number 86: Heroic Champion - Rhongomyniad Number 87: Queen of the Night Number 88: Gimmick Puppet of Leo Number 89: Diablosis the Mind Hacker Number 90: Galaxy-Eyes Photon Lord Number 91: Thunder Spark Dragon Number 92: Heart-eartH Dragon Number 93: Utopia Kaiser ... further results 
+ Support 
+ Abyss Shark Astral Kuriboh CXyz Barian Hope CXyz N.As.Ch. Knight Chronomaly Tuspa Rocket Crystal Shark Don Thousand/Monster A Galaxy Satellite Dragon Galaxy-Eyes Afterglow Dragon N.As.H. Knight Number 6: Chronomaly Atlandis Number 39: Utopia Rising Number 43: Manipulator of Souls Number 71: Rebarian Shark Number 75: Bamboozling Gossip Shadow Number 78: Number Archive Number 93: Utopia Kaiser Number 97: Draglubion Number 99: Utopia Dragonar Number 99: Utopic Dragon Number F0: Utopic Future Slash Number S0: Utopic ZEXAL Number 100: Numeron Dragon Number C106: Giant Red Hand Stealth Kragen Spawn ZS - Ouroboros Sage ZS - Utopic Sage 
+ Barian's Chaos Draw Bariantopia Chronomaly Temple - Trilithon Don Thousand's Throne Don Thousand/Spell B Glorious Numbers Last Hope Numbers Memories of Hope Number Wall Numbers Evaille Numbers Overlay Boost Numbers Protection Numeron Chaos Ritual Numeron Creation Purge Ray Rank-Up-Magic - The Seventh One Rank-Up-Magic Quick Chaos Seventh Eternity Winning Formula Zexal Alliance 
+ Anti-support 
+ N.As.H. Knight Number F0: Utopic Future Slash Number C6: Chronomaly Chaos Atlandis Numeral Hunter Tellarknight Ptolemaeus 
+ Galaxy Hundred Xyz Universe 
+ Related 
+ Astraltopia DZW - Chimera Clad Don Thousand/Monster B Don Thousand/Monster C Full Armored Crystalzero Lancer Galaxy-Eyes Photon Dragon Numeral Hunter SZW - Fenrir Sword V Salamander ZW - Asura Strike ZW - Dragonic Halberd ZW - Eagle Claw ZW - Leo Arms ZW - Lightning Blade ZW - Phoenix Bow ZW - Sleipnir Mail ZW - Tornado Bringer ZW - Ultimate Shield ZW - Unicorn Spear 
+ The Door of Destiny Last Counter Ninjitsu Art of Mosquito Marching Numeron Network Rank-Down-Magic Numeron Fall Rank-Up-Magic Barian's Force Rank-Up-Magic Limited Barian's Force Rank-Up-Magic Numeron Force 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/91/LastCounter-PRIO-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140614172133', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/06/Counter.svg/revision/latest/scale-to-width-down/28?cb=20120920115210']
+Categories: Duel Monsters cards, TCG cards, OCG cards

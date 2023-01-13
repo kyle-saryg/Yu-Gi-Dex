@@ -1,0 +1,15 @@
+Link: https://yugioh.fandom.com/wiki/Property:Czech_name
+
+This property lists the primary Czech Card Name of a card. It is a  string . It is primarily used for display of the correct Czech card name.
+ 
+ 
+ 
+ 
+ Top 
+ 0–9 
+ A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z 
+ 
+ 
+ 
+ 
+Categories:

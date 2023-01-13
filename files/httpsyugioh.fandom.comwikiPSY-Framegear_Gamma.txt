@@ -1,0 +1,262 @@
+Link: https://yugioh.fandom.com/wiki/PSY-Framegear_Gamma
+
+
+ 
+ 
+ PSY-Framegear Gamma ＰＳＹ フレームギア・ γ 
+ 
+ English 
+PSY-Framegear Gamma 
+ French 
+ Pièce Structure-PSY Gamma Check translation 
+ German 
+ PSI-Hüllenpanzer Gamma Check translation 
+ Italian 
+ PSI-Strutturattrezzatura Gamma Check translation 
+ Korean 
+ PSY 프레임기어  γ Check translation 
+ Portuguese 
+ PSÍ-Armação Equipamento Gama Check translation 
+ Spanish 
+ Mecanismo Armazón-PSÍ Gamma Check translation 
+ Japanese (kana) 
+ サイフレームギア・ガンマ Check translation 
+ Japanese (base) 
+ ＰＳＹフレームギア・γ Check translation 
+ Japanese ( rōmaji ) 
+Saifurēmu Gia Ganma 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Psychic  /  Tuner  /  Effect 
+ Level 
+ 2   
+ ATK  /  DEF 
+ 1000  /  0 
+ Passcode 
+ 38814750 
+ Card effect types 
+ 
+ 
+ Summon 
+ Summon 
+ Quick Statuses Limited  ( OCG ) Unlimited  ( TCG   Advanced  and  Traditional ) 
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Cannot be  Normal Summoned / Set . Must be  Special Summoned  by a  card effect . When your opponent  activates  a  monster effect  while you  control  no  monsters  ( Quick Effect ): You can Special Summon both this card from your  hand  and 1 " PSY-Frame Driver " from your hand,  Deck , or  GY , and if you do,  negate  that activation, and if you do that,  destroy  that monster. During the  End Phase ,  banish  the  face-up  monsters Special Summoned by this effect. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement par un effet de carte. Lorsque votre adversaire active un effet de monstre tant que vous ne contrôlez aucun monstre (Effet Rapide) : vous pouvez Invoquer Spécialement cette carte depuis votre main ainsi qu'1 "Pilote Structure-PSY" depuis votre main, Deck ou Cimetière, et si vous le faites, annulez l'activation, et si vous faites ça, détruisez le monstre. Durant la End Phase, bannissez les monstres face recto Invoqués Spécialement par cet effet. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch einen Karteneffekt als Spezialbeschwörung beschworen werden. Wenn dein Gegner einen Monstereffekt aktiviert, solange du keine Monster kontrollierst (Schnelleffekt): Du kannst sowohl diese Karte als Spezialbeschwörung von deiner Hand als auch 1 „PSI-Hüllentreiber“ als Spezialbeschwörung von deiner Hand, deinem Deck oder deinem Friedhof beschwören und falls du dies tust, annulliere die Aktivierung und falls du dies tust, zerstöre das Monster. Während der End Phase, verbanne die durch diesen Effekt als Spezialbeschwörung beschworenen offenen Monster. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente dall'effetto di una carta. Quando il tuo avversario attiva l'effetto di un mostro mentre tu non controlli nessun mostro (Effetto Rapido): puoi Evocare Specialmente sia questa carta dalla tua mano che 1 "PSI-Struttura Pilota" dalla tua mano, Deck o Cimitero e, se lo fai, annulla quell'attivazione e, se fai quello, distruggi quel mostro. Durante la End Phase, bandisci i mostri scoperti Evocati Specialmente da questo effetto. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial por um efeito de card. Quando seu oponente ativar um efeito de monstro enquanto você não controlar nenhum monstro (Efeito Rápido): você pode Invocar por Invocação-Especial tanto este card da sua mão quanto 1 "PSÍ-Armação Condutor" da sua mão, do Deck ou do Cemitério e, se isso acontecer, negue a ativação e, se isso acontecer, destrua esse monstro. Durante a Fase Final, bana os monstros com a face para cima Invocados por Invocação-Especial por este efeito. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial por efecto de una carta. Cuando tu adversario activa el efecto de un monstruo mientras tú no controlas monstruos (Efecto Rápido): puedes Invocar de Modo Especial esta carta desde tu mano, así como 1 "Conductor de Armazón-PSÍ" desde tu mano, Deck o Cementerio y, si lo haces, niega esa activación y, si haces eso, destruye ese monstruo. Durante la End Phase, destierra los monstruos boca arriba Invocados de Modo Especial por este efecto. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードは通常召喚できず、カードの効果でのみ特殊召喚できる。①：自分フィールドにモンスターが存在せず、相手モンスターの効果が発動した時に発動できる。手札のこのカードと自分の手札・デッキ・墓地の「ＰＳＹフレーム・ドライバー」１体を選んで特殊召喚し、その発動を無効にし破壊する。この効果で特殊召喚したモンスターは全てエンドフェイズに除外される。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드는 통상 소환할 수 없으며, 카드의 효과로만 특수 소환할 수 있다. ①: 자신 필드에 몬스터가 존재하지 않으며, 상대 몬스터의 효과가 발동했을 때에 발동할 수 있다. 패의 이 카드와 자신의 패 / 덱 / 묘지의 "PSY(싸이)프레임 드라이버" 1장을 골라 특수 소환하고, 그 발동을 무효로 하여 파괴한다. 이 효과로 특수 소환한 몬스터는 전부 엔드 페이즈에 제외된다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2015-10-01 HSRD-EN031 High-Speed Riders Ultra Rare 2018-03-22 EXFO-ENSE3 Extreme Force Special Edition Super Rare 2020-06-18 TOCH-EN036 Toon Chaos Rare 2020-06-18 TOCH-EN036 Toon Chaos Collector's Rare 2021-11-18 MGED-EN012 Maximum Gold: El Dorado Premium Gold Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2015-10-01 HSRD-FR031 High-Speed Riders Riders à Grande Vitesse Ultra Rare 2018-03-22 EXFO-FRSE3 Extreme Force Special Edition Force Extrême Édition Spéciale Super Rare 2020-06-18 TOCH-FR036 Toon Chaos Le Chaos Toon Rare 2020-06-18 TOCH-FR036 Toon Chaos Le Chaos Toon Collector's Rare 2021-11-18 MGED-FR012 Maximum Gold: El Dorado Or Maximum: Eldorado Premium Gold Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2015-10-01 HSRD-DE031 High-Speed Riders High-Speed Riders Ultra Rare 2018-03-22 EXFO-DESE3 Extreme Force Special Edition Extreme Force Special Edition Super Rare 2020-06-18 TOCH-DE036 Toon Chaos Toon Chaos Rare 2020-06-18 TOCH-DE036 Toon Chaos Toon Chaos Collector's Rare 2021-11-18 MGED-DE012 Maximum Gold: El Dorado Maximum Gold: El Dorado Premium Gold Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2015-10-01 HSRD-IT031 High-Speed Riders Piloti ad Alta-Velocità Ultra Rare 2018-03-22 EXFO-ITSE3 Extreme Force Special Edition Forza Estrema Edizione Speciale Super Rare 2020-06-18 TOCH-IT036 Toon Chaos Chaos Toon Rare 2020-06-18 TOCH-IT036 Toon Chaos Chaos Toon Collector's Rare 2021-11-18 MGED-IT012 Maximum Gold: El Dorado Oro Massimo : Eldorado Premium Gold Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2015-10-01 HSRD-PT031 High-Speed Riders Pilotos de Alta-Velocidade Ultra Rare 2018-03-22 EXFO-PTSE3 Extreme Force Special Edition Força Extrema Edição Especial Super Rare 2020-06-18 TOCH-PT036 Toon Chaos Caos Toon Rare 2020-06-18 TOCH-PT036 Toon Chaos Caos Toon Collector's Rare 2021-11-18 MGED-PT012 Maximum Gold: El Dorado Ouro Máximo : El Dorado Premium Gold Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2015-10-01 HSRD-SP031 High-Speed Riders Conductores de Alta-Velocidad Ultra Rare 2018-03-22 EXFO-SPSE3 Extreme Force Special Edition Fuerza Extrema Edición Especial Super Rare 2020-06-18 TOCH-SP036 Toon Chaos Caos Toon Rare 2020-06-18 TOCH-SP036 Toon Chaos Caos Toon Collector's Rare 2021-11-18 MGED-SP012 Maximum Gold: El Dorado Oro Máximo : El Dorado Premium Gold Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2015-08-22 SPHR-JP031 Booster SP: Highspeed Riders ブースターＳＰ －ハイスピード・ライダーズ－ Common 2015-08-22 SPHR-JP031 Booster SP: Highspeed Riders ブースターＳＰ －ハイスピード・ライダーズ－ Normal Parallel Rare 2018-11-23 LVP2-JP089 LINK VRAINS Pack 2 ＬＩＮＫ　ＶＲＡＩＮＳ　ＰＡＣＫ　２ Common 2019-02-23 20CP-JPC04 20th Secret Rare Challenge Pack ２０ｔｈ シークレットレア ＣＨＡＬＬＥＮＧＥ　ＰＡＣＫ Super Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2015-12-24 SPHR-KR031 Booster SP: Highspeed Riders 부스터-SP 하이스피드 라이더스 Common 2015-12-24 SPHR-KR031 Booster SP: Highspeed Riders 부스터-SP 하이스피드 라이더스 Normal Parallel Rare 2017-10-01 AE11-KR013 Advanced Event Pack 2017 Vol.2 어드밴스드 이벤트 팩 2017 Vol.2 Super Rare 2019-03-12 LVP2-KR089 LINK VRAINS Pack 2 링크 브레인즈 팩 ２ Common 2019-07-09 SP19-JP004 Special Pack Vol.1 ＳＰＥＣＩＡＬ   ＰＡＣＫ  Ｖｏｌ．１ Super Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ PSY-Frame Driver 
+ 
+ Archetypes  and  series   
+ PSY-Frame 
+ PSY-Framegear 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the activation of your opponent's Effect Monster's effect 
+ Destroys your opponent's Monster Cards 
+ 
+ Summoning  categories  
+ Cannot be Normal Summoned 
+ Cannot be Normal Set 
+ Nomi 
+ Special Summons itself from your hand 
+ Special Summons from your hand 
+ Special Summons from your Deck 
+ Special Summons from your Graveyard 
+ 
+ Banished  categories  
+ Banishes from your field 
+ 
+ Miscellaneous  
+ Special Summon Monster 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12070 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" PSY-Frame " 「 ＰＳＹ フレーム」 Members 
+ PSY-Frame Driver PSY-Frame Multi-Threader PSY-Framegear Alpha PSY-Framegear Beta PSY-Framegear Delta PSY-Framegear Epsilon PSY-Framegear Gamma PSY-Framelord Lambda PSY-Framelord Omega PSY-Framelord Zeta 
+ PSY-Frame Accelerator PSY-Frame Circuit PSY-Frame Overload 
+ Support 
+ PSY-Frame Multi-Threader PSY-Framegear Alpha PSY-Framelord Lambda PSY-Framelord Zeta 
+ PSY-Frame Accelerator PSY-Frame Circuit PSY-Frame Overload 
+ Related 
+ Wattsychic Fighter 
+ 
+   
+" PSY-Framegear " 「 ＰＳＹ フレームギア」 Members 
+ PSY-Framegear Alpha PSY-Framegear Beta PSY-Framegear Delta PSY-Framegear Epsilon PSY-Framegear Gamma 
+ Support 
+ PSY-Framelord Lambda 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/8c/PSYFramegearGamma-MGED-EN-PGR-1E.png/revision/latest/scale-to-width-down/300?cb=20211212213136', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

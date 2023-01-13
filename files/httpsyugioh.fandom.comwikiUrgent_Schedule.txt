@@ -1,0 +1,241 @@
+Link: https://yugioh.fandom.com/wiki/Urgent_Schedule
+
+
+ 
+ 
+ Urgent Schedule 緊 急 ダイヤ 
+ 
+ English 
+Urgent Schedule 
+ French 
+ Programme Urgent Check translation 
+ German 
+ Knapper Fahrplan Check translation 
+ Italian 
+ Orario Urgente Check translation 
+ Korean 
+ 긴급 다이어 Check translation 
+ Portuguese 
+ Escala Urgente Check translation 
+ Spanish 
+ Horario Urgente Check translation 
+ Japanese (kana) 
+ きんきゅうダイヤ Check translation 
+ Japanese (base) 
+ 緊急ダイヤ Check translation 
+ Japanese ( rōmaji ) 
+Kinkyū Daiya 
+ Card type 
+ Spell   
+ Property 
+ Quick-Play   
+ Passcode 
+ 25274141 
+ Card effect types 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Condition 
+ Trigger-like 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If your opponent  controls  more  monsters  than you do:  Special Summon  1  Level  4 or lower and 1 Level 5 or higher  EARTH   Machine  monsters from your  Deck  in  Defense Position , but  negate  their  effects . You cannot  declare   attacks  the  turn  you  activate  this card, except with Machine monsters. If this  Set  card is  sent  from the  field  to the  GY : You can  add  1 Level 10 Machine monster from your Deck to your hand. You can only use each effect of "Urgent Schedule"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Si votre adversaire contrôle plus de monstres que vous : Invoquez Spécialement 1 monstre TERRE Machine de max. Niveau 4 et 1 de min. Niveau 5 depuis votre Deck en Position de Défense, mais annulez leurs effets. Vous ne pouvez pas déclarer d'attaques le tour où vous activez cette carte, sauf avec des monstres Machine. Si cette carte Posée est envoyée depuis le Terrain au Cimetière : vous pouvez ajouter 1 monstre Machine de Niveau 10 depuis votre Deck à votre main. Vous ne pouvez utiliser chaque effet de "Programme Urgent" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Falls dein Gegner mehr Monster kontrolliert als du: Beschwöre 1 ERDE Maschine-Monster der Stufe 4 oder niedriger und 1 der Stufe 5 oder höher als Spezialbeschwörung von deinem Deck in die Verteidigungsposition, aber annulliere ihre Effekte. Du kannst in dem Spielzug, in dem du diese Karte aktivierst, keine Angriffe deklarieren, außer mit Maschine-Monstern. Falls diese gesetzte Karte vom Spielfeld auf den Friedhof gelegt wird: Du kannst deiner Hand 1 Maschine-Monster der Stufe 10 von deinem Deck hinzufügen. Du kannst jeden Effekt von „Knapper Fahrplan“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Se il tuo avversario controlla più mostri di te: Evoca Specialmente 1 mostro TERRA Macchina di Livello 4 o inferiore e 1 di Livello 5 o superiore dal tuo Deck in Posizione di Difesa, ma annulla i loro effetti. Non puoi dichiarare attacchi nel turno in cui attivi questa carta, eccetto con mostri Macchina. Se questa carta Posizionata viene mandata dal Terreno al Cimitero: puoi aggiungere 1 mostro Macchina di Livello 10 dal tuo Deck alla tua mano. Puoi utilizzare ogni effetto di "Orario Urgente" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Se seu oponente controlar mais monstros que você: Invoque por Invocação-Especial 1 monstro Máquina de TERRA de Nível 4 ou menos e 1 monstro Máquina de TERRA de Nível 5 ou mais do seu Deck, em Posição de Defesa, mas negue seus efeitos. Você não pode declarar ataques no turno em que ativar este card, exceto com monstros Máquina. Se este card Baixado for enviado do campo para o Cemitério: você pode adicionar 1 monstro Máquina de Nível 10 do seu Deck à sua mão. Você só pode usar cada efeito de "Escala Urgente" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Si tu adversario controla más monstruos que tú: Invoca de Modo Especial, desde tu Deck, 1 monstruo de Nivel 4 o menor y 1 monstruo de Nivel 5 o mayor que sean Máquina de TIERRA, en Posición de Defensa, pero niega sus efectos. No puedes declarar ataques el turno en que activaste esta carta, excepto con monstruos Máquina. Si esta carta Colocada es mandada del Campo al Cementerio: puedes añadir a tu mano 1 monstruo Máquina de Nivel 10 en tu Deck. Sólo puedes usar cada efecto de "Horario Urgente" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手フィールドのモンスターの数が自分フィールドのモンスターより多い場合に発動できる。機械族・地属性の、レベル４以下のモンスター１体とレベル５以上のモンスター１体をデッキから効果を無効にして守備表示で特殊召喚する。このカードを発動するターン、自分は機械族モンスターでしか攻撃宣言できない。②：フィールドにセットされたこのカードが墓地へ送られた場合に発動できる。デッキから機械族・レベル１０モンスター１体を手札に加える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 ①②의 효과는 각각 1턴에 1번밖에 사용할 수 없다. ①: 상대 필드의 몬스터의 수가 자신 필드의 몬스터보다 많을 경우에 발동할 수 있다. 기계족 / 땅 속성의, 레벨 4 이하의 몬스터 1장과 레벨 5 이상의 몬스터 1장을 덱에서 효과를 무효로 하고 수비 표시로 특수 소환한다. 이 카드를 발동하는 턴에, 자신은 기계족 몬스터로밖에 공격 선언할 수 없다. ②: 필드에 세트된 이 카드가 묘지로 보내졌을 경우에 발동할 수 있다. 덱에서 기계족 / 레벨 10 몬스터 1장을 패에 넣는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2019-01-10 LED4-EN037 Legendary Duelists: Sisters of the Rose Ultra Rare 2021-01-21 LDS2-EN125 Legendary Duelists: Season 2 Secret Rare 2021-11-18 MGED-EN063 Maximum Gold: El Dorado Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2019-01-10 LED4-FR037 Legendary Duelists: Sisters of the Rose Duellistes Légendaires: Les Sœurs de la Rose Ultra Rare 2021-01-21 LDS2-FR125 Legendary Duelists: Season 2 Duellistes Légendaires : Saison 2 Secret Rare 2021-11-18 MGED-FR063 Maximum Gold: El Dorado Or Maximum: Eldorado Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2019-01-10 LED4-DE037 Legendary Duelists: Sisters of the Rose Legendary Duelists: Sisters of the Rose Ultra Rare 2021-01-21 LDS2-DE125 Legendary Duelists: Season 2 Legendary Duelists: Season 2 Secret Rare 2021-11-18 MGED-DE063 Maximum Gold: El Dorado Maximum Gold: El Dorado Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2019-01-10 LED4-IT037 Legendary Duelists: Sisters of the Rose Duellanti Leggendari: Sorelle della Rosa Ultra Rare 2021-01-21 LDS2-IT125 Legendary Duelists: Season 2 Duellanti Leggendari: Stagione 2 Secret Rare 2021-11-18 MGED-IT063 Maximum Gold: El Dorado Oro Massimo : Eldorado Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2019-01-10 LED4-PT037 Legendary Duelists: Sisters of the Rose Duelistas Lendários: Irmãs da Rosa Ultra Rare 2021-01-21 LDS2-PT125 Legendary Duelists: Season 2 Duelistas Lendários: Temporada 2 Secret Rare 2021-11-18 MGED-PT063 Maximum Gold: El Dorado Ouro Máximo : El Dorado Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2019-01-10 LED4-SP037 Legendary Duelists: Sisters of the Rose Duelistas Legendarios: Hermanas de la Rosa Ultra Rare 2021-01-21 LDS2-SP125 Legendary Duelists: Season 2 Duelistas Legendarios: Temporada 2 Secret Rare 2021-11-18 MGED-SP063 Maximum Gold: El Dorado Oro Máximo : El Dorado Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2018-11-10 DP21-JP037 Duelist Pack: Legend Duelist 4 デュエリストパック －レジェンドデュエリスト編４－ Super Rare 2020-02-08 RC03-JP043 Rarity Collection Premium Gold Edition ＲＡＲＩＴＹ　ＣＯＬＬＥＣＴＩＯＮ　ＰＲＥＭＩＵＭ　ＧＯＬＤ　ＥＤＩＴＩＯＮ Super Rare 2020-02-08 RC03-JP043 Rarity Collection Premium Gold Edition ＲＡＲＩＴＹ　ＣＯＬＬＥＣＴＩＯＮ　ＰＲＥＭＩＵＭ　ＧＯＬＤ　ＥＤＩＴＩＯＮ Secret Rare 2020-02-08 RC03-JP043 Rarity Collection Premium Gold Edition ＲＡＲＩＴＹ　ＣＯＬＬＥＣＴＩＯＮ　ＰＲＥＭＩＵＭ　ＧＯＬＤ　ＥＤＩＴＩＯＮ Collector's Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2019-02-19 DP21-KR037 Duelist Pack: Legend Duelist 4 듀얼리스트 팩 －레전드 듀얼리스트 편 ４- Super Rare 2020-06-05 RC03-KR043 Rarity Collection Premium Gold Edition 레어리티 컬렉션 2020 Super Rare 2020-06-05 RC03-KR043 Rarity Collection Premium Gold Edition 레어리티 컬렉션 2020 Secret Rare 2020-06-05 RC03-KR043 Rarity Collection Premium Gold Edition 레어리티 컬렉션 2020 Extra Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ EARTH 
+ Machine 
+ 
+ Archetypes  and  series   
+ Railway 
+ 
+ Actions  
+ Activates from your Graveyard 
+ Adds from Deck to hand 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your Effect Monsters 
+ 
+ Summoning  categories  
+ Special Summons from your Deck 
+ 
+ Attack  categories  
+ Prevents your monsters from attacking 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14183 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Railway   列 車 Members 
+ Construction Train Signal Red Double Headed Anger Knuckle Express Train Trolley Olley Flying Pegasus Railroad Stampede Goldilocks the Battle Landscaper Heavy Armored Train Ironwolf Heavy Freight Train Derricrane Lionhearted Locomotive Night Express Knight Number 81: Superdreadnought Rail Cannon Super Dora Rocket Arrow Express Ruffian Railcar Snow Plow Hustle Rustle Super Express Bullet Train Superdreadnought Rail Cannon Gustav Max Superdreadnought Rail Cannon Juggernaut Liebe 
+ Barrage Blast Revolving Switchyard Special Schedule Switch Point Train Connection Urgent Schedule 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/02/UrgentSchedule-MGED-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20211228235721', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/05/Quick-Play.svg/revision/latest/scale-to-width-down/28?cb=20120920115228']
+Categories: Duel Monsters cards, TCG cards, OCG cards

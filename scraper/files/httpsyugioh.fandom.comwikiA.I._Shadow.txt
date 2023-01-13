@@ -1,0 +1,258 @@
+Link: https://yugioh.fandom.com/wiki/A.I._Shadow
+
+
+ 
+ 
+ A.I. Shadow Ａｉ シャドー 
+ 
+ English 
+A.I. Shadow 
+ French 
+ Ombre A.I. Check translation 
+ German 
+ A.I.-Schatten Check translation 
+ Italian 
+ Ombra A.I. Check translation 
+ Korean 
+ Ai섀도우 Check translation 
+ Portuguese 
+ Sombra I.A. Check translation 
+ Spanish 
+ Sombra A.I. Check translation 
+ Japanese (kana) 
+ アイシャドー Check translation 
+ Japanese (base) 
+ Ａｉシャドー Check translation 
+ Japanese ( rōmaji ) 
+Ai Shadō 
+ Card type 
+ Trap   
+ Property 
+ Continuous   
+ Passcode 
+ 77421977 
+ Card effect types 
+ 
+ 
+ Continuous-like 
+ Trigger-like 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Activate  this card by  targeting  1 " @Ignister "  monster  you  control . That monster gains 800  ATK , also all monsters your opponent controls must  attack  that monster you control, if able. If this  face-up  card in its  owner 's  Spell & Trap Zone  has  left the field  because of an opponent's  effect , and is now in the  GY  or  banished :  Draw  1 card. You can only use this effect of "A.I. Shadow"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Activez cette carte en ciblant 1 monstre "@Ignister" que vous contrôlez. Le monstre gagne 800 ATK, et aussi, tous les monstres contrôlés par votre adversaire doivent attaquer le monstre que vous contrôlez, si possible. Si cette carte face recto dans la Zone Magie & Piège de son propriétaire a quitté le Terrain à cause d'un effet de l'adversaire et est maintenant dans le Cimetière ou bannie : piochez 1 carte. Vous ne pouvez utiliser cet effet de "Ombre A.I." qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Aktiviere diese Karte, indem du 1 „@Ignister“-Monster wählst, das du kontrollierst. Das Monster erhält 800 ATK, zusätzlich müssen alle Monster, die dein Gegner kontrolliert, das Monster angreifen, das du kontrollierst, falls möglich. Falls diese offene Karte in der Zauber- & Fallenzone ihres Besitzers das Spielfeld durch einen Effekt eines Gegners verlassen hat und sich jetzt im Friedhof befindet oder verbannt ist: Ziehe 1 Karte. Du kannst diesen Effekt von „A.I.-Schatten“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Attiva questa carta scegliendo come bersaglio 1 mostro "@Ignister" che controlli. Quel mostro guadagna 800 ATK, inoltre tutti i mostri controllati dal tuo avversario devono attaccare quel mostro che controlli, se possibile. Se questa carta scoperta nella Zona Magie & Trappole del suo proprietario ha lasciato il Terreno a causa di un effetto dell'avversario e ora è nel Cimitero o bandita: pesca 1 carta. Puoi utilizzare questo effetto di "Ombra A.I." una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Ative este card ao escolher 1 monstro "@Ignister" que você controla. Esse monstro ganha 800 de ATK e, além disso, todos os monstros que seu oponente controla devem atacar esse monstro que você controla, se possível. Se este card com a face para cima na Zona de Magias & Armadilhas do seu dono deixou o campo devido a um efeito do oponente e agora estiver no Cemitério ou banido: compre 1 card. Você só pode usar este efeito de "Sombra I.A." uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Activa esta carta seleccionando 1 monstruo "@Ignister" que controles. Ese monstruo gana 800 ATK, y además todos los monstruos que controla tu adversario deben atacar a ese monstruo que controlas, si pueden. Si esta carta boca arriba en la Zona de Magia y Trampas de su dueño deja el Campo por un efecto del adversario, y ahora está en el Cementerio o desterrada: roba 1 carta. Sólo puedes usar este efecto de "Sombra A.I." una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の②の効果は１ターンに１度しか使用できない。自分フィールドの「＠イグニスター」モンスター１体を対象としてこのカードを発動できる。①：このカードが魔法＆罠ゾーンに存在する限り、対象のモンスターの攻撃力は８００アップし、攻撃可能な相手モンスターは対象のモンスターに攻撃しなければならない。②：魔法＆罠ゾーンの表側表示のこのカードが相手の効果でフィールドから離れ、墓地へ送られた場合または除外された場合に発動する。自分はデッキから１枚ドローする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. 자신 필드의 "＠(앳)이그니스터" 몬스터 1장을 대상으로 하고 이 카드를 발동할 수 있다. ①: 이 카드가 마법 & 함정 존에 존재하는 한, 대상 몬스터의 공격력은 800 올리고, 공격 가능한 상대 몬스터는 대상 몬스터에 공격해야 한다. ②: 마법 & 함정 존의 앞면 표시의 이 카드가 상대 효과로 필드에서 벗어나, 묘지로 보내졌을 경우 또는 제외되었을 경우에 발동한다. 자신은 덱에서 1장 드로우한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2020-01-30 IGAS-EN069 Ignition Assault Common 2021-09-30 MP21-EN029 2021 Tin of Ancient Battles Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2020-01-30 IGAS-FR069 Ignition Assault l'Assaut de l'Ignition Common 2021-09-30 MP21-FR029 2021 Tin of Ancient Battles Boîte des Batailles Anciennes 2021 Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2020-01-30 IGAS-DE069 Ignition Assault Ignition Assault Common 2021-09-30 MP21-DE029 2021 Tin of Ancient Battles 2021 Tin of Ancient Battles Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2020-01-30 IGAS-IT069 Ignition Assault Assalto Accensione Common 2021-09-30 MP21-IT029 2021 Tin of Ancient Battles Tin delle Battaglie Antiche 2021 Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2020-01-30 IGAS-PT069 Ignition Assault Ataque de Ignição Common 2021-09-30 MP21-PT029 2021 Tin of Ancient Battles Lata das Batalhas Antigas 2021 Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2020-01-30 IGAS-SP069 Ignition Assault Asalto Ignición Common 2021-09-30 MP21-SP029 2021 Tin of Ancient Battles 2021 Lata de Antiguas Batallas Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2019-10-12 IGAS-JP069 Ignition Assault イグニッション・アサルト Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2020-01-10 IGAS-KR069 Ignition Assault 이그니션 어썰트 Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ A.I. 
+ 
+ Supports   archetypes   
+ @Ignister 
+ 
+ Actions  
+ Activates from your Graveyard 
+ Activates while banished 
+ You draw cards 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ 
+ Attack  categories  
+ Must attack 
+ Manages attack targets 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14878 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " A.I. Shadow " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" @Ignister " 「 ＠ イグニスター」 Members 
+ Achichi @Ignister The Arrival Cyberse @Ignister Bururu @Ignister Danmari @Ignister Dark Infant @Ignister Dark Templar @Ignister Donyoribo @Ignister Doshin @Ignister Doyon @Ignister Earth Golem @Ignister Fire Phoenix @Ignister Gatchiri @Ignister Gussari @Ignister Hiyari @Ignister Light Dragon @Ignister Pikari @Ignister Water Leviathan @Ignister Wind Pegasus @Ignister 
+ Support 
+ Achichi @Ignister The Arrival Cyberse @Ignister Bururu @Ignister Danmari @Ignister Dark Infant @Ignister Dark Templar @Ignister Donyoribo @Ignister Doshin @Ignister Doyon @Ignister Fire Phoenix @Ignister Hiyari @Ignister Light Dragon @Ignister Linguriboh Pikari @Ignister Wind Pegasus @Ignister 
+ A.I. Challenge You A.I. Love Fusion A.I. Meet You A.I. Shadow A.I.'s Ritual A.I.'s Show A.I.Q A.I.dle Reborn FA.I.ghting Spirit Ignister A.I.Land TA.I. Strike 
+ Related 
+ Linkuriboh 
+ 
+   
+" A.I. " 「 Ａｉ 」 Members 
+ A.I. Challenge You A.I. Contact A.I. Love Fusion A.I. Meet You A.I. Shadow A.I.'s Ritual A.I.'s Show A.I.Q A.I.dle Reborn FA.I.ghting Spirit Ignister A.I.Land TA.I. Strike You and A.I. 
+ Support 
+ Donyoribo @Ignister Doyon @Ignister Pikari @Ignister 
+ A.I.dle Reborn 
+ Related 
+ Dark Infant @Ignister 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/75/AIShadow-MP21-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20211030213626', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Duel Monsters cards, TCG cards, OCG cards

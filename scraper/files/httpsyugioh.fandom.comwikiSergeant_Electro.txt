@@ -1,0 +1,520 @@
+Link: https://yugioh.fandom.com/wiki/Sergeant_Electro
+
+The  Croatian  and  Greek                       names given are not official.  ( card names ) 
+ 
+ 
+ 
+ 
+ 
+ Sergeant Electro エレクトロ 軍 曹 
+ 
+ English 
+Sergeant Electro 
+ French 
+ Sergent Électrique Check translation 
+ German 
+ Unteroffizier Elektro Check translation 
+ Italian 
+ Elettro Sergente Check translation 
+ Korean 
+ 엘렉트로 군조 Check translation 
+ Portuguese 
+ Sargento Electro Check translation 
+ Spanish 
+ Sargento Electro Check translation 
+ Japanese (kana) 
+ エレクトロぐんそう Check translation 
+ Japanese (base) 
+ エレクトロ軍曹 Check translation 
+ Japanese ( rōmaji ) 
+Erekutoro Gunsō 
+ Japanese (translated) 
+Electro Sergeant 
+ Card type 
+ Monster   
+ Attribute 
+ FIRE   
+ Types 
+ Machine  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1600  /  1300 
+ Passcode 
+ 43359262 
+ Card effect types 
+ 
+ 
+ Ignition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Once per turn : You can  target  1  Set  card in your opponent's  Spell & Trap Zone ; while this card is  face-up  on the  field , its target(s) cannot be  activated . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Une fois par tour : vous pouvez cibler 1 carte Posée dans la Zone Magie & Piège de votre adversaire ; tant que cette carte est face recto sur le Terrain, ses cibles ne peuvent pas être activées. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Einmal pro Spielzug: Du kannst 1 verdeckte Karte in der Zauber- & Fallenkartenzone deines Gegners wählen; solange diese Karte offen auf dem Spielfeld liegt, können ihre gewählten Ziele nicht aktiviert werden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Una volta per turno: puoi scegliere come bersaglio 1 carta Posizionata nella Zona Magie & Trappole del tuo avversario; mentre questa carta è scoperta sul Terreno, i suoi bersagli non possono essere attivati. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Uma vez por  turno : você pode  escolher  1 card com a  face para baixo  na  Zona dos Cards de Magia e Armadilha  do seu opponente; enquanto este card estiver com a  face para cima  no  campo , seu(s) alvo(s) não pode(m)ser  ativado (s). 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Una vez por turno: puedes seleccionar 1 carta Colocada en la Zona de Magia y Trampas de tu adversario; mientras esta carta esté boca arriba en el Campo, sus objetivos no pueden ser activados. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：１ターンに１度、相手の 魔法＆罠ゾーン に セット されたカード１枚を対象として発動できる。このカードは以下の効果を得る。●このカードがモンスターゾーンに存在する限り、対象のセットされたカードは発動できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 1턴에 1번, 상대의 마법 & 함정 카드 존에 세트된 카드 1장을 선택할 수 있다. 이 카드가 필드 위에 앞면 표시로 존재하는 한, 선택한 카드를 발동할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2011-11-10  
+ PHSW-EN090   
+ Photon Shockwave 
+ Ultra Rare 
+ 
+ 
+ 2011-11-10  
+ PHSW-EN090   
+ Photon Shockwave 
+ Ultimate Rare 
+ 
+ 
+ 2017-09-07  
+ LEDU-EN046   
+ Legendary Duelists 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ 
+ North American English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2014-01-17  
+ BPW2-EN043   
+ War of the Giants: Round 2 
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—Europe 
+ 
+ 
+ 
+ European English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2014-01-17  
+ WGRT-EN043   
+ War of the Giants Reinforcements 
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2011-11-10  
+ PHSW-FR090   
+ Photon Shockwave 
+ Onde de Choc du Photon  
+ Ultra Rare 
+ 
+ 
+ 2011-11-10  
+ PHSW-FR090   
+ Photon Shockwave 
+ Onde de Choc du Photon  
+ Ultimate Rare 
+ 
+ 
+ 2014-01-17  
+ WGRT-FR043   
+ War of the Giants Reinforcements 
+ La Guerre des Géants Recommence  
+ Super Rare 
+ 
+ 
+ 2017-09-07  
+ LEDU-FR046   
+ Legendary Duelists 
+ Duellistes Legendaires  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2011-11-10  
+ PHSW-DE090   
+ Photon Shockwave 
+ Photon Shockwave  
+ Ultra Rare 
+ 
+ 
+ 2011-11-10  
+ PHSW-DE090   
+ Photon Shockwave 
+ Photon Shockwave  
+ Ultimate Rare 
+ 
+ 
+ 2014-01-16  
+ WGRT-DE043   
+ War of the Giants Reinforcements 
+ War of the Giants Reinforcements  
+ Super Rare 
+ 
+ 
+ 2017-09-07  
+ LEDU-DE046   
+ Legendary Duelists 
+ Legendary Duelists  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2011-11-10  
+ PHSW-IT090   
+ Photon Shockwave 
+ Onda D'Urto Fotonica  
+ Ultra Rare 
+ 
+ 
+ 2011-11-10  
+ PHSW-IT090   
+ Photon Shockwave 
+ Onda D'Urto Fotonica  
+ Ultimate Rare 
+ 
+ 
+ 2014-01-16  
+ WGRT-IT043   
+ War of the Giants Reinforcements 
+ Guerra dei Giganti – I Rinforzi  
+ Super Rare 
+ 
+ 
+ 2017-09-07  
+ LEDU-IT046   
+ Legendary Duelists 
+ Duellanti Leggendari  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2014-01-17  
+ WGRT-PT043   
+ War of the Giants Reinforcements 
+ Guerra dos Gigantes Reforços  
+ Super Rare 
+ 
+ 
+ 2017-09-07  
+ LEDU-PT046   
+ Legendary Duelists 
+ Duelistas Lendários  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2011-11-10  
+ PHSW-SP090   
+ Photon Shockwave 
+ Onda de Choque de Fotones  
+ Ultra Rare 
+ 
+ 
+ 2011-11-10  
+ PHSW-SP090   
+ Photon Shockwave 
+ Onda de Choque de Fotones  
+ Ultimate Rare 
+ 
+ 
+ 2014-01-16  
+ WGRT-SP043   
+ War of the Giants Reinforcements 
+ Guerra de los Gigantes Refuerzos  
+ Super Rare 
+ 
+ 
+ 2017-09-07  
+ LEDU-SP046   
+ Legendary Duelists 
+ Duelistas Legendarios  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2010-03-20  
+ VJMP-JP050   
+ V Jump Spring 2010 subscription bonus 
+ Ｖジャンプ　定期購読特典　２０１０年春  
+ Ultra Rare 
+ 
+ 
+ 2017-06-03  
+ DP18-JP046   
+ Duelist Pack: Legend Duelist 
+ デュエリストパック －レジェンドデュエリスト編－  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2013-10-15  
+ PC01-KR083   
+ Precious Pack Volume 1 
+ 프레셔스 팩 Volume 1  
+ Rare 
+ 
+ 
+ 2017-09-07  
+ DP18-KR046   
+ Duelist Pack: Legend Duelist 
+ 듀얼리스트 팩 -레전드 듀얼리스트 편-  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Monster / Spell / Trap  categories  
+ Prevents activation of your opponent's Spell Cards 
+ Prevents activation of your opponent's Trap Cards 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 9022 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Sergeant Electro " pages 
+ 
+ 
+ Manga 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d9/SergeantElectro-LEDU-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170907223025', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/28?cb=20120918053839', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

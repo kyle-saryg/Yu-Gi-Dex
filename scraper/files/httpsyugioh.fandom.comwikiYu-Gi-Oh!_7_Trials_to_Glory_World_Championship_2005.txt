@@ -1,0 +1,343 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_7_Trials_to_Glory:_World_Championship_2005
+
+
+ This article  may require  cleanup  to meet this wiki's standards.   You can help out by re-organizing or re-writing parts of it or checking grammar and spelling.   
+ 
+ 
+ Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 
+ 
+ 
+ English  
+ Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 
+ 
+ 
+ Kanji  
+ 遊戯王デュエルモンスターズインターナショナル２ 
+ 
+ 
+ Japanese translated  
+ Yu-Gi-Oh! Duel Monsters International 2 
+ 
+ 
+ Developer(s) 
+ Konami 
+ 
+ 
+ Publisher(s) 
+ Konami 
+ 
+ 
+ Platform(s) 
+ Game Boy Advance 
+ 
+ 
+ Release date(s) 
+  December 30, 2004  February 15, 2005  February 17, 2005 
+ 
+ 
+ Genre 
+ Card Battle 
+ 
+ 
+ Ratings 
+ E 
+ 
+ 
+ Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 , known as  Yu-Gi-Oh! Day of the Duelist: World Championship Tournament 2005  in Europe and  Yu-Gi-Oh! Duel Monsters International 2  in Japan, is a  Yu-Gi-Oh!  game for the Game Boy Advance. Light and Dark clash in a  town  where everyone waits to  Duel . Battles take the place of words and only the best will win tournaments where glittering trophies await the victor. 
+ The game features 1000 cards (105 traps, 220 spells and 675 monster cards) to collect and Duel with. Polymerization and Dark Magician are available with 2 different artworks which count as different cards.
+ 
+ Contents 
+ 
+ 1   Earning DP 
+ 2   Changes 
+ 3   Characters 
+ 
+ 3.1   Level 1 
+ 3.2   Level 2 
+ 3.3   Level 3 
+ 
+ 
+ 4   Gameplay 
+ 5   Tournaments 
+ 
+ 5.1   Card Shop Tournament 
+ 5.2   Weekend Tournament 
+ 5.3   Kaiba Corp Tournament 
+ 5.4   Limitation Tournament 
+ 5.5   The National Tournament 
+ 5.6   Survival Tournament 
+ 
+ 
+ 6   Glitches 
+ 7   Password machine 
+ 8   Promotional cards 
+ 
+ 8.1   Japanese 
+ 8.2   International 
+ 
+ 
+ 9   Game Guide 
+ 10   Gallery 
+ 11   Trivia 
+ 12   See also 
+ 13   External links 
+ 
+ 
+ Earning DP 
+ DP (Duelist Points) can be earned by winning Duels and can be used to purchase new cards. Upon winning a duel, DP is rewarded as follows:
+ 
+ 1 DP for every 100 LP your opponent lost during the duel 
+ 1 DP for every 100 battle damage dealt to your opponent 
+ 20 DP for each of your opponent's monsters destroyed by battle 
+ additionally for winning itself
+ 50 DP for reducing your opponents LP to 0 
+ 100 DP if your opponent ran out of cards 
+ 1000 DP for Exodia, Final Countdown or FINAL 
+ Reward ÷2 if you win in more than 40 turns.
+Reward x2 if you win in less than 5 turns. 
+ In Shadow World, the reward is 5x the normal reward. 
+ 
+ Changes 
+ The changes made since WCT2004 are as follows:
+ 
+ A total of 1000 cards up to the real-life OCG Invader of Darkness booster pack are featured, but some great cards (even ones that were in WCT2004) are missing (presumably due to memory constraints, technical limitations and/or time pressures).  There are actually less cards in this game than in the previous version. 
+ Dueling is more challenging and faster, though it's still easier and slower than in other games such as Worldwide Edition. 
+ Campaign Mode (selecting opponents to duel from a list) has been dropped in favor of a free-roaming Story Mode, which is loosely based on the Battle City arc of the anime. 
+ The duel screen got a makeover, and is viewed from an angled prospective rather than a top-down look. 
+ You can manage up to 20 decks. 
+ Card passwords, side decks and tournaments are back. 
+ DP is required to buy card packs, structure decks or register for certain tournaments. 
+ There is a Forbidden/Limited/Semi-Limited Card List, which changes every week. 
+ Duel puzzles and Structure Decks have been added. 
+ There are less anime characters to duel. 
+ You can activate Quick-Play Spells and Traps at various timings. 
+ You can sort cards by Favorite. 
+ The "Rock, Paper, Scissors" Attack Order method is back. 
+ The results of a duel are based on various factors. 
+ You aren't given 3 different Starter Decks. 
+ The days of the week are back. 
+ You can manually draw during your Draw Phase again. 
+ The background no longer changes depending on the tier level of the duelist you’re dueling. 
+ Characters 
+ The game features characters from the  Yu-Gi-Oh!  anime. If you dueled them before in WCT2004, most of their decks haven’t changed much.
+ Note1: They use staple cards such as Call of the Haunted.
+ Note2: They have a Jinzo in their decks every now and then after beating them a few times.
+ 
+ Level 1 
+ All level 1 opponents are available from the start.
+ 
+ Tea Gardner 
+ Tristan Taylor 
+ Ryo Bakura 
+ Solomon Muto 
+ Yugi Muto 
+ Joey Wheeler 
+ Level 2 
+ All level 2 opponents are unlocked by beating the Weekend Tournament 4 times.
+ 
+ Rex Raptor 
+ Weevil Underwood 
+ Mako Tsunami 
+ Mai Valentine 
+ Seto Kaiba 
+ Level 3 
+ Aside from Yami Yugi, all level 3 opponents are unlocked by winning the Championship. Yami Yugi is unlocked randomly once per day by beating any Misc. Duelist in Shadow World.
+ 
+ Rare Hunter 
+ Arkana 
+ Lumis and Umbra 
+ Strings 
+ Odion 
+ Marik Ishtar 
+ Yami Bakura 
+ Yami Yugi 
+ Gameplay 
+ From the start there are 4 locations to visit (hometown, shopping district, coliseum and Area K.C.), another one, the so-called "???", appears after winning the national tournament.
+ On Top of the screen you can see an info column where different messages are displayed like the name of your current location, upcoming tournaments or an occurring event. You have to wait a bit until all current messages have been displayed.
+ You have weekdays and weekend but no precise date. You can end a day by going home and resting in bed. Some opponents/events only occur on special days. The "banned list" changes every week.
+ You can talk to characters (A-button) or challenge them to a Duel (R-button). Packs and decks can be bought in the card shop. You can save up to 20 deck recipes.
+ 
+ Tournaments 
+ There are different tournament types in the game. If you register for one of them, you cannot register for another tournament for the same and the following week. Upcoming tournaments are announced in the info column on top of the screen so make sure to check it at least on Mondays. You receive a winning trophy at the end of a tournament. You can check your trophy collection at your home.
+ 
+ Card Shop Tournament 
+ If you defeat one of the opponents in the shop the owner (Truesdale) will invite you to his tournament. You cannot really decline since Truesdale does not offer you cards to buy anymore until you accept the challenge. The tournament takes place in the card shop the next Tuesday...which is the regular closing day of the shop if no tournament takes place. You have to win 3 matches. The 3rd opponent is always Truesdale himself. The price for winning is 3000 DP.
+ 
+ Weekend Tournament 
+ You can register for this tournament in front of the coliseum by paying 100 DP to the receptionist. The first round is a single duel against a random side character on Saturday (winning price: 300 DP) the second round is a match against a main character on Sunday (winning price: 700 DP). By winning this tournament 4 times you unlock Rex Raptor, Weevil Underwood, Mako Tsunami and Mai Valentine. They appear in the city locations now and can be challenged.
+ 
+ Kaiba Corp Tournament 
+ After unlocking Rex Raptor, Weevil Underwood, Mako Tsunami and Mai Valentine and passing 2 weeks without registering for the weekend tournament afterwards you can register for this tournament in the "Area K.C." by talking to the receptionist. You have to beat 7 duelists in a match for the upcoming 7 Saturdays. In between you can buy cards in the shop etc. and you should adapt your deck to the weekly changing banned list. The price for winning is the number of the round x 1000 DP except the final with 10,000 DP for beating Seto Kaiba; so you can win 31000 DP in total. Also the pack "K.C. Special" is now available in the card shop for a while.
+ 
+ Limitation Tournament 
+ After 2 weeks without registering for a tournament this tournament should be announced. You can register for this tournament in front of the coliseum by talking to the receptionist. You have to beat 7 duelists in a match for the upcoming 7 Saturdays. The special thing about this tournament is that every round has a special limitation like "no wind monsters". Since this limitation also applies to your opponent he will play with another deck than usually (i.e. Mai with no wind monsters). The price for winning a round is 1000 DP except the final with 7000 DP for beating Seto Kaiba; so you can win 13000 DP in total.
+ 
+ The National Tournament 
+ After winning the weekend tournament, the K.C. Tournament and the limited tournament and after 2 weeks without registering for a tournament this tournament should be announced. You can register for it in front of the K.C. Tower by talking to the receptionist. In the Regionals (preliminary Championship) you have to beat 3 duelists in a match on Saturday (winning price: 2000 DP).  The next Saturday is the final. Beat the opponent for winning 30,000 DP. Also the pack "K.C. Special" is available again in the card shop for a while.
+ After winning the national tournament you get some applause, the credit screen appears and you can re-load your last save to access a
+new location called '???' (henceforth referred to as 'Shadow World').  It is
+situated in the northeastern corner of the map.  You can find the hardest
+duelists in the game here.
+ 
+ Survival Tournament 
+ The weekly Forbidden/Limited Card List does not apply to Shadow World, so you
+can construct a deck with up to 3 copies of Prohibited, Limited and/or Semi-
+Limited Cards.  Therefore, you can now create some horrific decks such as
+Warrior Chaos, Magical Scientist OTK, Yata-Garasu Lockdown and CED OTK that are
+banned in real-life. Of course, your opponents in Shadow World also get that ability.  
+ Packs and decks can be bought at the Mystic Stall, which becomes accessible on specific days by beating the following
+duelists at least once:   
+ Monday - Arkana  
+ Tuesday - Rare Hunter  
+ Wednesday - Umbra and Lumis  
+ Thursday - Strings  
+ Friday - Odion  
+ Sunday - Marik  
+ The Survival Match becomes available after about 1 week has passed. Unlike Battle City tournaments, you can
+register for this tournament once per day.  It is an endurance-style series of
+Single Duels comprised of level 3 Duelists chosen at random (aside from Yami
+Yugi) and consists of 7 Rounds.  Your remaining LP are carried over to the next
+duel.  If you win all 7 Rounds, you will earn first place DP, plus your
+remaining LP as DP.  The entry fee is 8,000 DP.  Talk to the organizer in the
+Ancient Shrine to register.  
+ Upon winning, you'll receive the Survival trophy and DP.  Watch the credits
+roll again and your progress will be saved like last time.  Continue your save
+file.
+ On the next day, talk to the organizer again.  He informs you that you can't
+take part in the Survival Match again, but you can participate in Dark Survival
+Match if you have over 70,000 DP and a Deck without any Traps.   
+ Dark Survival Match is similar to the Survival Match, except it is much harder.
+It is a never-ending series of endurance-style series of Single Duels with the
+same opponents as before determined by a roulette until you lose or choose to
+quit.  The prize is your remaining LP multiplied by the number of opponents.
+However, if you lose, your current DP will become the current DP divided by the
+number of opponents. You start with 20,000 LP.
+ 
+ Glitches 
+ If you use the Password Machine and turn off your GBA straight afterwards, your spent DP will be gone but you won’t have the card when you continue your save file. 
+ If your opponent activates a Monster destruction card and you use  Book of Moon  on your monster, it will still be destroyed. 
+ If  Banisher of the Light  is on the field, the effect of  Gravekeeper's Servant  can still be activated. 
+ You can’t activate  Ultimate Offering ’s effect during your opponent‘s Battle Phase. 
+ If you have a  field spell  or  Swords of Revealing Light  active on the field and 0 cards left in your deck, you won't be able to deck out.  As a result, you'll be unable to end the duel. 
+ One of your saved deck slots might become corrupted every now and then (possibly by participating in tournaments).  For example, my Burn Deck turned into a corrupted deck with 14 "regular" monsters in the main deck, 12 glitched cards marked in the side deck and 1 glitched card in the Fusion Deck. The deck slot can't be used after that unless you make a new deck. 
+ You can't activate traps such as  Call of the Haunted  and  Compulsory Evacuation Device  during your opponent's turn. 
+ You can't activate a face-down  Fairy Box  during your opponent's Battle Phase. 
+ You can't look through your opponent's deck with cards such as  Nobleman of Extermination . 
+ You can’t activate  Last Turn  if a  Jowgen the Spiritualist  is on the field. 
+ If you target a  Spear Dragon  in Defense Position with  Ring of Destruction , the trap won’t work.  
+ Equipping one of your monsters with  Ring of Magnetism  against the CPU opponent will cause them to be unable to attack with their monsters, regardless of the equipped monster's stats. 
+ Password machine 
+ The first password machine, which costs 1,000 DP to use and is found in the Card Shop, only allows each card to be obtained once through its use. 
+ The second password machine, located in Shadow World, costs 10,000 DP to use; however, each card can be obtained multiple times through its use.
+ 
+ Promotional cards 
+ Japanese 
+ Main article:  Yu-Gi-Oh! Duel Monsters International 2 promotional cards 
+ International 
+ Main article:  Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005 promotional cards 
+ Game Guide 
+ Main article:  Yu-Gi-Oh! Duel Monsters International 2 Game Guide 
+ Gallery 
+ North American English cover French cover Japanese cover 
+ Trivia 
+ The Japanese version of this game use the censored  TCG  card artworks instead of the Japanese. 
+ Snake  from the  Metal Gear  series makes a cameo appearance in "???". He is disguised as a cardboard box. He says "I don't know why I'm revealing this, but I'm a secret spy. I was hired by an organization, which shall remain nameless, in order to study this Shadow World." 
+ See also 
+ https://yugioh.wikia.com/wiki/Category:Yu-Gi-Oh!_7_Trials_to_Glory:_World_Championship_Tournament_2005_sets 
+ External links 
+ Official Japanese game site 
+ The Spriters Resource page 
+ v e 
+ Video games Duel Monsters 
+ Duel Monsters 
+ II: Dark duel Stories 
+ Dark Duel Stories  ( III: Tri-Holy God Advent ) 
+ 4: Battle of Great Duelist 
+ The Eternal Duelist Soul  ( 5 Expert 1 ) 
+ 6 Expert 2 
+ The Sacred Cards  ( 7: The Duelcity Legend ) 
+ Reshef of Destruction  ( 8: Reshef of Destruction ) 
+ Worldwide Edition: Stairway to the Destined Duel  ( International ) 
+ Online 
+ Online 
+ Duel Evolution 
+ 3: Duel Accelerator 
+ Power of Chaos 
+ Yugi the Destiny 
+ Kaiba the Revenge 
+ Joey the Passion 
+ Tag Force 
+ GX 1 
+ GX 2 
+ GX Evolution  ( GX The Beginning of Destiny ) 
+ GX 3 
+ 5D's 4 
+ 5D's 5 
+ 5D's 6 
+ ARC-V Special 
+ True Duel Monsters 
+ Forbidden Memories  ( Sealed Memories ) 
+ The Duelists of the Roses  ( 2: Succeeded Memories ) 
+ World Championship 
+ Tournament 2004  ( Duel Monsters Expert 3 ) 
+ 7 Trials to Glory: Tournament 2005   ( Day of the Duelist: Tournament 2005  /   Duel Monsters International 2 ) 
+ Ultimate Masters: Tournament 2006  ( Duel Monsters Expert 2006 ) 
+ 2007 
+ 2008 
+ 5D's 2009: Stardust Accelerator 
+ 5D's 2010: Reverse of Arcadia 
+ 5D's 2011: Over the Nexus 
+ Browser, PC, or mobile 
+ 5D's Mobile 
+ BAM 
+ Pocket 
+ Duel Arena 
+ Duel Generation 
+ Duel Links 
+ Cross Duel 
+ Other handheld 
+ Monster Capsule GB 
+ Dungeon Dice Monsters 
+ Destiny Board Traveler  ( Sugoroku no Sugoroku ) 
+ Nightmare Troubadour 
+ GX Duel Academy  ( GX Mezase Duel King! ) 
+ Double Pack 
+ 2 
+ GX Spirit Caller  ( GX Spirit Summoner ) 
+ GX Card Almanac 
+ ZEXAL World Duel Carnival 
+ Saikyo Card Battle 
+ Other console 
+ Monster Capsule: Breed and Battle 
+ The Falsebound Kingdom 
+ The Dawn of Destiny 
+ Capsule Monster Coliseum 
+ 5D's Wheelie Breakers 
+ 5D's Decade Duels 
+ Plus 
+ 5D's Duel Transer  ( 5D's Master of the Cards ) 
+ Millennium Duels 
+ Rush Duel 
+ Multi-Platform games 
+ Legacy of the Duelist 
+ Legacy of the Duelist: Link Evolution 
+ Master Duel 
+ Other 
+ Multi-Master 
+ Duel Terminal 
+ Duel Dash 
+ 
+ {{ Game guides }} 
+ {{ Video game promotional cards }} 
+ {{ Game guide promotional cards }} 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/9f/WC5-VideoGameEN.jpg/revision/latest/scale-to-width-down/350?cb=20120611014349', 'https://static.wikia.nocookie.net/yugioh/images/9/9e/Flag_of_Japan.svg/revision/latest/scale-to-width-down/20?cb=20081119225453', 'https://static.wikia.nocookie.net/yugioh/images/a/a4/Flag_of_the_United_States.svg/revision/latest/scale-to-width-down/20?cb=20081119225336', 'https://static.wikia.nocookie.net/yugioh/images/b/b7/Flag_of_Europe.svg/revision/latest/scale-to-width-down/20?cb=20081120211606', 'https://static.wikia.nocookie.net/yugioh/images/9/9f/WC5-VideoGameEN.jpg/revision/latest/scale-to-width-down/185?cb=20120611014349', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/97/WC5-VideoGameFR.jpg/revision/latest/scale-to-width-down/184?cb=20150605150214', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/28/YI2-Box-JP.jpg/revision/latest/scale-to-width-down/185?cb=20101103204050', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Articles needing cleanup, Yu-Gi-Oh! 7 Trials to Glory: World Championship Tournament 2005, Video games

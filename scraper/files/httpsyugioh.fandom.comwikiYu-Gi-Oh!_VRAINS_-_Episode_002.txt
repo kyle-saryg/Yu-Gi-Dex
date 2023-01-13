@@ -1,0 +1,165 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_VRAINS_-_Episode_002
+
+
+ 
+ Yu-Gi-Oh! VRAINS - Episode 002 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kanji  
+ 風を掴め！ Ｓｔｏｒｍ   Ａｃｃｅｓｓ 
+ 
+ 
+ Rōmaji 
+ Kaze o Tsukame! Sutōmu Akusesu 
+ 
+ 
+ Japanese translation 
+ Seize the Wind! Storm Access 
+ 
+ 
+ English 
+ Seize the Wind! 
+ 
+ 
+ Number 
+ 002 
+ 
+ 
+ Air date ( ja ) 
+ May 17, 2017 
+ 
+ 
+ Air date ( en ) 
+ September 2, 2018 
+ 
+ 
+ 
+ Music 
+ 
+ Opening ( ja ) 
+ " With The Wind " 
+ 
+ 
+ Ending ( ja ) 
+ " Believe In Magic " 
+ 
+ 
+ Opening ( en ) 
+ " Yu-Gi-Oh! VRAINS Theme " 
+ 
+ 
+ 
+ Staff 
+ 
+ Screenwriter 
+ Shin Yoshida 
+ 
+ 
+ Director 
+ Kimiharu Muto 
+ 
+ 
+ Storyboard 
+ Tsukasa Sunaga 
+ 
+ 
+ Animation  dir. 
+ Yuya Kawamura Yuki Ushiro 
+ 
+ 
+ 
+ Cards 
+ 
+ Galleries 
+ Japanese 
+ 
+ 
+ 
+ Chronology 
+ 
+ Listing 
+ Yu-Gi-Oh! VRAINS  episode listing  (season 1) 
+ 
+ 
+ 
+ Previous 
+ Next 
+ 
+ 
+ " Link into the VRAINS " 
+ " Contact " 
+ 
+ 
+ 
+ 
+ " Seize the Wind! ", known as " Seize the Wind! Storm Access " in the Japanese version, is the second episode of the  Yu-Gi-Oh! VRAINS  anime. It first aired in Japan on May 17, 2017. It became available with official subtitles via Crunchyroll on June 1, 2017, and aired on Teletoon on September 2, 2018. Pluto TV in the US aired it on November 20, 2020.
+ Yusaku  managed to capture the  Mysterious Lifeform  as he chases after the  Knights of Hanoi . In order to defeat them, he logs into the VR Space network,  LINK VRAINS , as Playmaker. He commenced a Duel, holding the lifeform as a hostage. However, the lifeform predicted that "Yusaku can't win with his Deck", and performed a certain action...
+ 
+ Featured Duel: Playmaker vs. Knight of Hanoi 
+         
+ The Duel is conducted as a  Speed Duel .
+ Turn 1: Knight of Hanoi 
+The  KoH 's  hand  contains two copies of " Hack Worm ", " Cracking Dragon " and " Air Cracking Storm ". As  Playmaker   controls  no  monsters , KoH  Special Summons  "Hack Worm" (400/0) from his hand in  Attack Position  via its own  effect . He then Special Summons the second copy of "Hack Worm" (400/0) from his hand in Attack Position the same way. He  Tributes  both "Hack Worms" to  Tribute Summon  "Cracking Dragon" (3000/0).
+ Turn 2: Playmaker 
+Playmaker's hand contains " Three Strikes Barrier ", " Cyberse Beacon ", " Effect Cowl " and " Salvagent Driver ", while he  draws  " Cyberse Wizard ". Playmaker  Sets  two cards, then  Normal Summons  "Cyberse Wizard" (1800/800). As his opponent Normal or Special Summoned exactly 1 monster, KoH  activates  the effect of "Cracking Dragon", reducing that monster's  ATK  by 200 times its  Level  until the end of the  turn  and inflicting  damage  equal to that value to the opponent ("Cyberse Wizard": 1800 → 1000, Playmaker: 4000 → 3200 LP). Playmaker activates the effect of "Cyberse Wizard", letting him  target  an Attack Position monster his opponent controls and change it to  Defense Position , but monsters he controls will not be able to  attack  this turn except to attack the targeted monster. In addition,  Cyberse  monsters will inflict  piercing   battle damage  this turn. He targets "Cracking Dragon". "Cyberse Wizard" attacks "Cracking Dragon" (KoH: 4000 → 3000 LP), but the effect of "Cracking Dragon" prevents its  destruction by battle  by monsters with a Level equal to or lower than its own. 
+ Turn 3: Knight of Hanoi 
+KoH activates a  Skill , "Double Draw", letting him draw two cards during his  Draw Phase  instead of one. He draws " Pulse Mines " and " DDoS Attack ". He activates "DDoS Attack", letting him target a  Machine  monster he controls and  send  any number of "DDoS Attack" from his  Deck  to his  Graveyard  to inflict damage to the opponent equal to the number of sent "DDoS Attack" times the Level of the targeted monster times 100. He sends two "DDoS Attack" and targets "Cracking Dragon" (Playmaker: 3200 → 1600 LP). KoH Sets a card and changes "Cracking Dragon" to Attack Position. He  equips  it with "Air Cracking Storm". When the equipped monster destroys an opponent's monster by  battle , it will be able to make a second attack during that  Battle Phase , though other monsters he controls may not attack this turn. "Cracking Dragon" attacks "Cyberse Wizard". As his opponent controls exactly three cards, Playmaker activates his  face-down  "Three Strikes Barrier", letting him either prevent the destruction of his monsters by battle this turn, take no battle damage this turn or gain  LP  equal to the battle damage his monsters inflict this turn. He chooses to prevent the destruction of his monsters by battle. The attack continues (Playmaker: 1600 → 400 LP).
+ Playmaker activates a Skill, "Storm Access", allowing him to randomly access a card within a  Data Storm  if his LP are 1000 or lower. This allows him to obtain " Decode Talker " and add it to his  Extra Deck .
+ Turn 4: Playmaker 
+Playmaker activates the effect of "Cyberse Wizard" to change "Cracking Dragon" to Defense Position and allow Cyberse monsters Playmaker controls to inflict piercing battle damage this turn. As he controls a Machine monster, KoH activates his face-down "Pulse Mines", changing "Cyberse Wizard" to Defense Position and changing all Attack Position monsters his opponent Normal or Special Summons this turn to Defense Position as well. Playmaker Normal Summons " Stack Reviver " (100/600), which is switched to Defense Position. As his opponent Normal or Special Summoned a monster, KoH activates the effect of "Cracking Dragon", reducing that monster's ATK by 200 times its Level and inflicting the same value as damage to the opponent. However, "Stack Reviver" had only 100 ATK, so only 100 damage is inflicted ("Stack Reviver": 100 → 0, Playmaker: 400 → 300 LP). Playmaker activates "Effect Cowl", which prevents him from taking effect damage this turn since he controls a Cyberse monster. As he took damage this turn, he activates his face-down "Cyberse Beacon", letting him  add  a Level 4 or lower Cyberse monster from his Deck to his hand. Playmaker adds "Backup Secretary". As he controls another Cyberse monster, Playmaker Special Summons " Backup Secretary " (1200/800) from his hand in Defense Position via its own effect. 
+ Playmaker then uses "Cyberse Wizard", "Stack Reviver" and "Backup Secretary" to  Link Summon  "Decode Talker" (2300/LINK-3/↙↑↘) in the Right  Extra Monster Zone . As  Link Monsters  cannot exist in Defense Position, the effect of "Pulse Mines" does not apply. As it was used as  material  for a Link Summon, the effect of "Stack Reviver" activates, letting Playmaker target a Level 4 or lower Cyberse monster in his Graveyard that was also used as a material for that Link Summon and Special Summon it. He Special Summons "Cyberse Wizard" (1800/800) at the zone bottom-left of "Decode Talker". "Decode Talker" gains 500 ATK for each monster it  points to . "Decode Talker" points to "Cyberse Wizard" and "Cracking Dragon" ("Decode Talker": 2300 → 3300). "Decode Talker" attacks "Cracking Dragon". As Link Monsters do not have Levels, the effect of "Cracking Dragon" that prevents it from being destroyed by battle with a monster with a Level lower than or equal to "Cracking Dragon" does not apply, so "Cracking Dragon" is destroyed. Due to the effect of "Cyberse Wizard", "Decode Talker" inflicts piercing battle damage (KoH: 3000 → 0 LP).
+ 
+ Featured cards 
+ The following cards appeared in this episode. Cards in italics debuted here.
+ 
+ 
+ Playmaker (Yusaku Fujiki) Monsters   
+ Effect Monsters 
+ Backup Secretary 
+ Cyberse Wizard 
+ Salvagent Driver 
+ Stack Reviver Extra Deck   
+ Link Monsters 
+ Decode Talker Spells   &  Traps   
+ Spells 
+ Effect Cowl 
+ Traps 
+ Cyberse Beacon 
+ Three Strikes Barrier 
+ 
+ Knight of Hanoi Monsters   
+ Effect Monsters 
+ Cracking Dragon 
+ Hack Worm  x2 Spells   &  Traps   
+ Spells 
+ Air Cracking Storm 
+ DDoS Attack  x3 
+ Traps 
+ Pulse Mines 
+ In other languages 
+ 
+ 
+ Language
+ 
+ Title
+ 
+ 
+  Thai 
+ จงเกาะสายลมไว้! สตอร์ม แอคเซส
+ 
+ 
+ v e 
+ Yu-Gi-Oh! VRAINS   season 1 episodes 
+ #001 " Link into the VRAINS " #002 " Seize the Wind! " #003 " Contact " #004 " Pain and Gain " #005 " Down for the Count " #006 " True Blue " #007 " Fallen Angel " #008 " A Storm is Coming " #009 " Malicious Mayhem " #010 " Eye of the Storm " #011 " Neutralized " #012 " Link the Circuit " #013 " Playback " #014 " An Invitation " #015 " Camouflaged Chaos " #016 " Hack Attack " #017 " Blue's Back! " #018 " Dueling for Answers " #019 " The Lost Incident " #020 " A Piece of the Puzzle " #021 " Story Time " #022 " The Deleted " #023 " A Grim Tale " #024 " To Gore Or Not To Gore " #025 " Suture the Circuit " #026 " Diagnosis: Deletion " #027 " The Brave Battler " #028 " Bugging Out " #029 " Kolter's Khronicles " #030 " Under VRAINS " #031 " Showdown in the Sewers " #032 " Tower of Hanoi " #033 " Once Upon a Time " #034 " Roots of Evil " #035 " The Hollow " #036 " A Bridge Too Far " #037 " Out on a Limb " #038 " Looking Back " #039 " Ring the Bell " #040 " Gore at War " #041 " Truth and Consequences " #042 " Storm Access " #043 " The Reveal " #044 " Illusion of Hope " #045 " Standing Tall " #046 " Link to the Future " 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/bb/Vrains_002.png/revision/latest/scale-to-width-down/350?cb=20170517194303', 'https://static.wikia.nocookie.net/yugioh/images/f/f2/Yusaku_VS_Knight.png/revision/latest/scale-to-width-down/220?cb=20170517193813', 'https://static.wikia.nocookie.net/yugioh/images/a/a9/Flag_of_Thailand.svg/revision/latest/scale-to-width-down/20?cb=20090428233822']
+Categories: Yu-Gi-Oh! VRAINS episodes

@@ -1,0 +1,392 @@
+Link: https://yugioh.fandom.com/wiki/Bad_Aim
+
+
+ 
+ 
+ Bad Aim フレンドリーファイア 
+ 
+ English 
+Bad Aim 
+ French 
+ Mauvaise Visée Check translation 
+ German 
+ Schlecht gezielt Check translation 
+ Italian 
+ Pessima Mira Check translation 
+ Korean 
+ 프렌들리 파이어 Check translation 
+ Portuguese 
+ Má Pontaria Check translation 
+ Spanish 
+ Mala Puntería Check translation 
+ Japanese 
+ フレンドリーファイア Check translation 
+ Japanese ( rōmaji ) 
+Furendorī Faia 
+ Japanese (translated) 
+Friendly Fire 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 46253216 
+ Card effect types 
+ 
+ 
+ Activation requirement 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When your opponent's card or  effect  is  activated :  Target  1 card on the  field  (other than that card);  destroy  it. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Lorsqu'une carte ou un effet de votre adversaire est activé : ciblez 1 carte (la carte activée exclue) sur le Terrain ; détruisez-la. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wenn eine Karte oder ein Effekt deines Gegners aktiviert wird: Wähle 1 Karte auf dem Spielfeld (außer der Karte); zerstöre sie. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando viene attivata una carta o effetto del tuo avversario: scegli come bersaglio 1 carta sul Terreno (diversa da quella carta); distruggila. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Quando um card ou  efeito  do seu oponente for  ativado :  escolha  1 card no  campo  (que não seja esse card);  destrua-o . 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando es activada una carta o efecto de tu adversario: selecciona 1 carta en el Campo (que no sea esa carta); destrúyela. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：相手の魔法・罠・モンスターの効果が発動した時、そのカード以外のフィールドのカード１枚を対象として発動できる。対象のカードを破壊する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ① : 상대의 마법 / 함정 / 몬스터의 효과가 발동했을 때, 그 카드 이외의 필드의 카드 1장을 대상으로 하고 발동할 수 있다. 대상의 카드를 파괴한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2016-05-05  
+ SHVI-EN078   
+ Shining Victories 
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-EN044   
+ 2017 Mega-Tin Mega Pack 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2016-05-05  
+ SHVI-FR078   
+ Shining Victories 
+ Les Victoires Scintillantes  
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-FR044   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Méga-Boîte Méga-Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2016-05-05  
+ SHVI-DE078   
+ Shining Victories 
+ Shining Victories  
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-DE044   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Mega-Tin Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2016-05-05  
+ SHVI-IT078   
+ Shining Victories 
+ Vittorie Brillanti  
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-IT044   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Mega-Tin Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2016-05-06  
+ SHVI-PT078   
+ Shining Victories 
+ Conquistas Brilhantes  
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-PT044   
+ 2017 Mega-Tin Mega Pack 
+ Mega-Pacote da Mega-Latas 2017  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2016-05-05  
+ SHVI-SP078   
+ Shining Victories 
+ Victorias Brillantes  
+ Common 
+ 
+ 
+ 2017-08-24  
+ MP17-SP044   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Mega-Lata Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2016-01-09  
+ SHVI-JP078   
+ Shining Victories 
+ シャイニング・ビクトリーズ  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2016-05-17  
+ SHVI-KR078   
+ Shining Victories 
+ 샤이닝 빅토리즈  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Related to  archetypes  and  series   
+ Igknight 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys Monster Cards 
+ Destroys Spell Cards 
+ Destroys Trap Cards 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12350 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Igknight " 「イグナイト」 Members 
+ Igknight Cavalier Igknight Champion Igknight Crusader Igknight Gallant Igknight Lancer Igknight Margrave Igknight Paladin Igknight Squire Igknight Templar Igknight Veteran Ignis Phoenix, the Dracoslayer 
+ Igknight Burst Igknight Reload Igknights Unite 
+ Support 
+ Igknight Cavalier Igknight Champion Igknight Crusader Igknight Gallant Igknight Lancer Igknight Margrave Igknight Paladin Igknight Squire Igknight Templar Igknight Veteran Ignis Phoenix, the Dracoslayer 
+ Igknight Burst Igknights Unite Ignition Phoenix 
+ Related 
+ Ignis Heat, the True Dracowarrior Ignister Prominence, the Blasting Dracoslayer Luster Pendulum, the Dracoslayer Master Pendulum, the Dracoslayer 
+ Bad Aim 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/dd/BadAim-MP17-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170823080944', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

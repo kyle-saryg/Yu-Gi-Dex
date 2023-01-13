@@ -1,0 +1,258 @@
+Link: https://yugioh.fandom.com/wiki/Invoked_Elysium
+
+
+ 
+ 
+ Invoked Elysium 召 喚 獣 エリュシオン 
+ 
+ English 
+Invoked Elysium 
+ French 
+ Elysium l'Invokhé Check translation 
+ German 
+ Beschworener Elysium Check translation 
+ Italian 
+ Elysium Invokato Check translation 
+ Korean 
+ 소환수 엘리시온 Check translation 
+ Portuguese 
+ Elísio, o Invokado Check translation 
+ Spanish 
+ Elíseo Invokado Check translation 
+ Japanese (kana) 
+ しょうかんじゅうエリュシオン Check translation 
+ Japanese (base) 
+ 召喚獣エリュシオン Check translation 
+ Japanese ( rōmaji ) 
+Shōkanjū Eryushion 
+ Japanese (translated) 
+Invoked Beast Elysion 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Fairy  /  Fusion  /  Effect 
+ Level 
+ 10   
+ ATK  /  DEF 
+ 3200  /  4000 
+ Passcode 
+ 11270236 
+ Materials 
+1 "Invoked" monster + 1 monster that was Special Summoned from the Extra Deck 
+ Card effect types 
+ 
+ 
+ Summon 
+ Continuous 
+ Quick Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+1 " Invoked "  monster  + 1 monster that was  Special Summoned  from the  Extra Deck Must first be  Fusion Summoned  with the above  Fusion Materials . While  face-up  on the  field , this card is also  DARK ,  EARTH ,  WATER ,  FIRE , and  WIND - Attribute .  Once per turn  (Quick Effect): You can  target  1 "Invoked" monster you  control  or in your  GY ;  banish  it and all monsters your opponent controls with the same Attribute as that monster. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 1 monstre "Invokhé" + 1 monstre qui a été Invoqué Spécialement depuis l'Extra Deck Doit d'abord être Invoquée par Fusion avec les Matériels Fusion ci-dessus. Tant que cette carte est face recto sur le Terrain, elle est aussi TÉNÈBRES, TERRE, EAU, FEU et VENT. Une fois par tour (Effet Rapide) : vous pouvez cibler 1 monstre "Invokhé" que vous contrôlez ou dans votre Cimetière ; bannissez-le ainsi que tous les monstres contrôlés par votre adversaire du même Attribut que le monstre. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 1 „Beschworen“-Monster + 1 Monster, das als Spezialbeschwörung vom Extra Deck beschworen wurde Muss erst als Fusionsbeschwörung mit dem oben aufgeführten Fusionsmaterial beschworen werden. Solange diese Karte offen auf dem Spielfeld liegt, hat sie zusätzlich die Eigenschaften FINSTERNIS, ERDE, WASSER, FEUER und WIND. Einmal pro Spielzug (Schnelleffekt): Du kannst 1 „Beschworen“-Monster, das du kontrollierst oder in deinem Friedhof wählen; verbanne es und alle Monster, die dein Gegner kontrolliert und die dieselbe Eigenschaft wie das Monster haben. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 1 mostro "Invokato" + 1 mostro che è stato Evocato Specialmente dall'Extra Deck Deve prima essere Evocato tramite Fusione con i Materiali da Fusione sopra indicati. Mentre è scoperta sul Terreno, questa carta ha anche Attributo OSCURITÀ, TERRA, ACQUA, FUOCO e VENTO. Una volta per turno (Effetto Rapido): puoi scegliere come bersaglio 1 mostro "Invokato" che controlli o nel tuo Cimitero; bandisci quello e tutti i mostri controllati dal tuo avversario con lo stesso Attributo di quel mostro. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 1 monstro "Invokado(a)" + 1 monstro Invocado por Invocação-Especial do Deck Adicional Primeiro deve ser Invocado por Invocação-Fusão com as Matérias de Fusão acima. Enquanto estiver com a face para cima no campo, este card também é de Atributo TREVAS, TERRA, ÁGUA, FOGO e VENTO. Uma vez por turno (Efeito Rápido): você pode escolher 1 monstro "Invokado(a)" que você controla ou no seu Cemitério; bana-o e todos os monstros que seu oponente controla com o mesmo Atributo que esse monstro. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 1 monstruo "Invokado/a" + 1 monstruo que fue Invocado de Modo Especial desde el Deck Extra Debe ser primero Invocado por Fusión con los Materiales de Fusión listados arriba. Mientras esté boca arriba en el Campo, el Atributo de esta carta también se trata como de OSCURIDAD, TIERRA, AGUA, FUEGO y VIENTO. Una vez por turno (Efecto Rápido): puedes seleccionar 1 monstruo "Invokado/a" que controles o en tu Cementerio; destiérralo y también a todos los monstruos con ese Atributo que controle tu adversario. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「召喚獣」モンスター＋エクストラデッキから特殊召喚されたモンスター このカードは上記のカードを融合素材にした融合召喚でのみエクストラデッキから特殊召喚できる。①：このカードがモンスターゾーンに存在する限り、このカードの属性は「闇」「地」「水」「炎」「風」としても扱う。②：１ターンに１度、自分のフィールド・墓地の「召喚獣」モンスター１体を対象として発動できる。そのモンスター及びそのモンスターと同じ属性を持つ相手フィールドのモンスターを全て除外する。この効果は相手ターンでも発動できる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "소환수" 몬스터 + 엑스트라 덱에서 특수 소환된 몬스터 이 카드는 상기의 카드를 융합 소재로 한 융합 소환으로만 엑스트라 덱에서 특수 소환할 수 있다. ①: 이 카드가 몬스터 존에 존재하는 한, 이 카드의 속성은 "어둠" "땅" "물" "화염" "바람"으로도 취급한다. ②: 1턴에 1번, 자신의 필드 / 묘지의 "소환수" 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터 및 그 몬스터와 같은 속성을 가지는 상대 필드의 몬스터를 전부 제외한다. 이 효과는 상대 턴에도 발동할 수 있다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2017-02-23 FUEN-EN033 Fusion Enforcers Secret Rare 2020-07-23 BLAR-EN083 Battles of Legend: Armageddon Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2017-02-23 FUEN-FR033 Fusion Enforcers Les Executeurs Fusion Secret Rare 2020-07-23 BLAR-FR083 Battles of Legend: Armageddon Batailles de Légende : Armageddon Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2017-02-23 FUEN-DE033 Fusion Enforcers Fusion Enforcers Secret Rare 2020-07-23 BLAR-DE083 Battles of Legend: Armageddon Battles of Legend: Armageddon Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2017-02-23 FUEN-IT033 Fusion Enforcers Esecutori Fusione Secret Rare 2020-07-23 BLAR-IT083 Battles of Legend: Armageddon Battaglie della Leggenda: Armageddon Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2017-02-23 FUEN-PT033 Fusion Enforcers Dominadores da Fusão Secret Rare 2020-07-23 BLAR-PT083 Battles of Legend: Armageddon Batalha das Lendas: Armagedom Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2017-02-23 FUEN-SP033 Fusion Enforcers Ejecutores de la Fusión Secret Rare 2020-07-23 BLAR-SP083 Battles of Legend: Armageddon Batallas de Leyenda: Armagedón Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2016-11-12 SPFE-JP033 Booster SP: Fusion Enforcers ブースターＳＰ －フュージョン・エンフォーサーズ－ Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2017-03-21 SPFE-KR033 Booster SP: Fusion Enforcers 부스터-SP 퓨전 엔포서즈 Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Invoked 
+ 
+ Supports   archetypes   
+ Invoked 
+ 
+ Stat changes  
+ Treated as multiple Attributes 
+ 
+ Summoning  categories  
+ 2 Fusion Materials 
+ Requires archetype specific Fusion Materials 
+ Requires location specific Fusion Materials 
+ Special Summon-only monster 
+ Strict Fusion Summon 
+ 
+ Banished  categories  
+ Banishes from field for cost 
+ Banishes from Graveyard for cost 
+ Banishes from your opponent's field 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12850 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Invoked " 「 召 喚 獣 」 Members 
+ Invoked Augoeides Invoked Caliga Invoked Cocytus Invoked Elysium Invoked Magellanica Invoked Mechaba Invoked Purgatrio Invoked Raidjin 
+ Support 
+ Invoked Elysium 
+ The Book of the Law Invocation Omega Summon 
+ Related 
+ Aleister the Invoker Aleister the Invoker of Madness Crowley, the First Propheseer Crowley, the Magistus of Grimoires 
+ Alpha Summon Magical Meltdown 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/5f/InvokedElysium-BLAR-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20200725182645', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

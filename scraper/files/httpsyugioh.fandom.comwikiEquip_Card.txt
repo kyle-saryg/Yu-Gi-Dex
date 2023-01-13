@@ -1,0 +1,597 @@
+Link: https://yugioh.fandom.com/wiki/Equip_Card
+
+
+ 
+ Equip Card
+ 
+ 
+ 
+ Equip Icon
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 装 備 カード
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ そうびカード
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 装備カード
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Sōbi Kādo
+ 
+ 
+ 
+ Japanese (translated)
+ 
+ 
+ Equipment Card
+ 
+ 
+ 
+ English
+ 
+ 
+ Equip Card
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Carte d'Équipement 
+ German : Ausrüstungskarten 
+ Italian : Carte Equipaggiamento 
+ Portuguese : Carta Equipamento 
+ Spanish : Carta de Equipo 
+ Korean : 장착 카드  Jangchak Kadeu 
+ Traditional Chinese : 裝備卡  Zhuāngbèikǎ / Zong1 bei6 kaat1 
+ Simplified Chinese : 装备卡  Zhuāngbèikǎ 
+ 
+ 
+ 
+ 
+ 
+ Lists
+ 
+ 
+ 
+ 
+ members 
+ support 
+ anti-support 
+ 
+ An  Equip Card , known as an  Equipment Card  ( 装 備 カード  Sōbi Kādo ) in the  OCG , is a card that is  equipped  to a  face-up   monster  on the  field .
+ 
+ Contents 
+ 
+ 1   Mechanics 
+ 2   Treating cards as Equip Cards 
+ 
+ 2.1   Monster Card 
+ 
+ 2.1.1   Pendulum Scale & Effect 
+ 2.1.2   Link Arrows 
+ 
+ 
+ 2.2   Trap Card 
+ 
+ 
+ 3   References 
+ 
+ 
+ Mechanics 
+ See also:  List of Equip Spell Cards 
+ Equip Spell Cards  are the most common type of Equip Card; they are both  Spell Cards  (for purposes such as " De-Spell ") and Equip Cards (for purposes such as " Gearfried the Swordmaster ").
+ Equip Cards constantly  target  the monster they are equipped to; even while  negated , Equip Cards remain equipped and continue to target the monster. If the equipped monster is no longer face-up on the field, or is no longer a valid target, the Equip Card is immediately destroyed. This destruction is  not  treated as destruction by a card effect.
+ Equip Cards can be equipped to monsters  controlled  by either player, and  changing control  of a monster does not cause control of an Equip Card to change. While the equipped monster can be the opponent's, the Equip Card's  controller  is the one referred to as "you" in the Equip Card's  card text , not the controller of the equipped monster.
+ 
+ Treating cards as Equip Cards 
+ Main article:  Treated as Equip Card 
+ Monster Card 
+ If a  Monster Card  is equipped to another monster, it is treated as an Equip Spell Card and moved to a  Spell & Trap Card Zone . While treated as such, it cannot be destroyed by card effects that destroy monsters, but can be destroyed by effects that destroy Spell Cards. If a monster that is treated as an Equip Spell Card is sent to the Graveyard, it is not treated as being sent to the Graveyard as a monster, but becomes a monster again when it is in the Graveyard. [1] 
+ A monster treated as an Equip Card cannot have its  equip target changed  by other  card effects [2] , except  Union Monsters  equipped by their own effects. [3]  Union monsters are the only group of monsters that consistently, through the wording of their effects, treat themselves as  Equip Spell Cards  while equipped.
+ Equipped cards are still on the field, so effects or conditions that rely on a card "being sent from the field to the Graveyard", such as " Felgrand Dragon ", still apply. (This is because they activate in the Graveyard, where they are monsters now, and not on the field.) Despite this, unless stated otherwise, Monster Cards cannot activate or apply their effects while treated as Equip Cards, as they are not monsters.
+ 
+ Pendulum Scale & Effect 
+ Main articles:  Pendulum Scale  and  Pendulum Effect 
+ Pendulum Scales are only applied if a  Pendulum Monster  card is in the leftmost/rightmost  Spell & Trap Zone  by being placed as a Pendulum Scale in the  Pendulum Zone . Treating them as an Equip Card and placing them in these zones will not apply their  Pendulum Scale  and  Pendulum Effects , and the Zone would not be treated as a Pendulum Zone.
+ 
+ Link Arrows 
+ Main article:  Link Arrow 
+ A Link Monster's Link Arrows are only active if it is used as a Monster Card. If it is used as an Equip Card and placed in any Spell/Trap Zone, then its Link Arrows are not applied, and do not point to any zone or card.
+ 
+ Trap Card 
+ If a  Trap Card  is equipped to a monster, it is treated as both an Equip Card and a  Trap Card . For example, an equipped " Blast with Chain " can be  destroyed  by " Remove Trap " (since it is a Trap Card) and by " Gearfried the Iron Knight " (since it is an Equip Card), but not by " De-Spell " (since it is not a Spell Card). This type of Trap may be thought of as an "Equip Trap Card", but this is not an official term.
+ 
+ References 
+ 
+ ↑   Konami TCG Strategy Site : When Monsters Aren’t Monsters! 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] - Handcuffs Dragon 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] - Collected Power 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/56/Equip.png/revision/latest?cb=20140609023741']
+Categories: Gameplay

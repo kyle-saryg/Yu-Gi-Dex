@@ -1,0 +1,147 @@
+Link: https://yugioh.fandom.com/wiki/Ultra_Polymerization_(anime)
+
+Main card page: " Ultra Polymerization " 
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Ultra Polymerization 
+ 
+ Japanese:   超越融合 
+ Romaji:   Chōetsu Yūgō 
+ Translated:  Transcendental Fusion 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Cost 
+ Effect 
+ Condition 
+ Trigger-like 
+ Pay  1000  LP , then  target  2  Fusion Materials  you  control  that are listed on a  Fusion Monster ;  Fusion Summon  1 Fusion Monster from your  Extra Deck , using those 2  monsters  you control as Fusion Materials, then  Special Summon  the targeted monsters in  Attack Position , but change their  ATK  to 0, then you can apply 1 of these  effects  until the end of this  turn . ● The targeted monsters become  Level  4. ● Choose 1 of the targeted monsters, and it is treated as a  Tuner . Neither player can  activate  cards or effects in  response  to this card's activation. Once per turn , during the  End Phase , if this card was activated this turn (and was not  negated ) and you did not use the monsters Special Summoned with this card's effect as  Materials  for a  Synchro  or  Xyz Summon :  Destroy  as many monsters [...] as possible, and if you do, take damage equal to those monsters' [...].
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ARC-V :  133 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ARC-V ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 超越融合 
+ このカードの発動に対して魔法・罠・・・・ない。 ①：１０００ＬＰを払い、融合モンス・・・れた自分フィールドの融合素材モンスター２体を対象とし・・・ターを墓地へ送り、その融合モンスター１体をエクスト・・・その後、対象のモンスターを攻撃表示で特殊召喚する。・・・スターの攻撃力は０になる。さらにその後、以下の効果か・・・。●対象のモンスターレベルはターン終了時まで４に・・・の内の１体はターン終了時までチューナー族いになる。②・・・ーンのエンドフェイズに、このターンにこのカードの①・・・ターを素材として Ｓ ・ Ｘ 召喚を行わなかった融合に発動・・・ンスターを全て破壊し、自分はこの効果で破壊したモンス・・・ダメージを受ける。 
+ 
+ 
+ Chōetsu Yūgō 
+ 
+ 
+ Decks 
+ 
+ 
+ Yuri 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Fusion Monster 
+ 
+ Archetypes  and  series   
+ Polymerization  
+ 
+ Actions  
+ Uses cards on the player's field as Fusion Materials 
+ 
+ Stat changes  
+ Reduces ATK to 0 
+ Changes Levels 
+ Treats monsters as Tuner monsters 
+ 
+ Monster / Spell / Trap  categories  
+ Prevents activation of Effect Monsters 
+ Prevents activation of Spell Cards 
+ Prevents activation of Trap Cards 
+ Prevents responding to its activation 
+ Destroys your Monster Cards 
+ 
+ Summoning  categories  
+ Performs a Fusion Summon 
+ Special Summons from your Extra Deck 
+ Special Summons from your Graveyard 
+ Special Summons Materials 
+ 
+ LP   
+ Pays Life Points for cost 
+ Damages you 
+ 
+ Miscellaneous  
+ Variable effects 
+ 
+ 
+ 
+   " Ultra Polymerization " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+" Polymerization " 「 融 合 」 a   m   Members 
+ A.I. Love Fusion Battle Fusion De-Fusion De-Fusion Dimension Fusion Dimension Fusion Destruction Earthbound Fusion Final Fusion Flash Fusion Fossil Fusion Frontline Fusion Fusion Conscription Fusion Cycle Fusion Destruction Fusion Dispersal Fusion Sage Fusion Trench Future Fusion Future Fusion Instant Fusion Mispolymerization Non-Fusion Area Polymerization Power Bond Re-Fusion Revoke Fusion Super Fusion God Super Polymerization Super Polymerization Time Fusion Ultra Polymerization 
+ Support 
+ Fluffal Bear Frightfur Factory Full Armor Canine - Bullfortress Lunalight Tiger Lunalight Wolf Performapal Trump Witch Predaplant Darlingtonia Cobra Violet Flash 
+ Anti-support 
+ Fusion Destruction 
+ Related 
+ Armor Canine - Bullcopter Chaos Ancient Gear Fusion Colorless, Chaos King of Dark World Fluffal Owl Fluffal Sheep Fusion Buster Fusion Recovery Fusion Reserve Hope for the Future King of the Swamp Purple Lamp Wicked Canon Wroughtweiler 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/3/34/UltraPolymerization-JP-Anime-AV.png/revision/latest/scale-to-width-down/200?cb=20161127143355', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429']
+Categories: Anime cards

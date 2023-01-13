@@ -1,0 +1,9 @@
+Link: https://yugioh.fandom.com/wiki/Property:Rank
+
+This  number  property lists the  Rank  for an  Xyz Monster .
+ See also  Property:Level ,  Property:?Level ,  Property:Level string ,  Property:?Rank ,  Property:Rank string ,  Property:Stars ,  Property:?Stars ,  Property:Stars string 
+ 
+ 
+ 
+ 
+Categories:

@@ -1,0 +1,543 @@
+Link: https://yugioh.fandom.com/wiki/Draw_engine
+
+Draw engine  is a term referring to the way that a Duelist may  draw cards  from his/her Deck, to maintain  hand advantage .
+ 
+ Contents 
+ 
+ 1   Destiny Draw Engine 
+ 2   Allure Draw Engine 
+ 3   Card of Safe Return Engine 
+ 4   Trade-In Draw Engine 
+ 5   Recharge Engine 
+ 6   Reckless Greed Engine 
+ 7   Heart of the Underdog Engine 
+ 8   Good Goblin Housekeeping Engine 
+ 9   Card of Sacrifice Engine 
+ 10   Fortune Lady Engine 
+ 11   Level 1 Synchro Material Engine 
+ 12   Gusto Serenity Engine 
+ 13   Fairy Draw Engine 
+ 14   Bamboo Sword Engine 
+ 15   Pot of Dichotomy Engine 
+ 16   ABCVWXYZ/Saffira, Queen of Dragons Engine 
+ 17   Danger! Engine 
+ 
+ 
+ Destiny Draw  Engine 
+ The Destiny Engine functions by using " Destiny Draw " to discard " Destiny HERO " monsters whose effect(s) are more beneficial from being in the  Graveyard , such as " Destiny HERO - Malicious " or " Destiny HERO - Dasher ". " Elemental HERO Stratos " is commonly used to get the "Destiny HERO" you need, and so " Reinforcement of the Army " is used. This became quite a useful method of summoning the Monarchs, creating the so-called  Perfect Circle  Deck.
+ " Destiny Draw " is  Semi-Limited  as of the  March 2011 Lists , and finally  Unlimited  as of the  September 2012 Lists  making the engine viable again.
+ This deck also works well with " Card of Safe Return " (Traditional Format).
+ 
+ Allure  Draw Engine 
+ This works by  banishing   DARK  monsters, such as " Dark Magician of Chaos ", then reviving those monster(s) with either " Dimension Fusion ", " Return from the Different Dimension " (Both now Traditional-only) or more popularly, " Escape from the Dark Dimension ". With the  March 2010 Lists  it was  Limited , severely hampering this draw engine. However, it is now Unlimited again, and useful in most DARK decks, even if "Escape" is not as effective any more.
+ 
+ Card of Safe Return  Engine 
+ Can be better known as CoSR Engine. This Draw Engine uses the effect of " Card of Safe Return " to get an extra Draw for each monster special summoned from the grave and get Hand Advantage. This engine is especially useful and really only good in Decks that can  Special Summon  many monsters from the  Graveyard .  Zombie Swarm  and  Dark World Decks  are great decks to use with this Draw Engine.  
+ A variation of this draw engine uses 2 " Manticore of Darkness " to continuously loop by sending 1 to the graveyard and sending the second one from your hand or deck to bring out the next one. The "Manticore Loop" is often used in  Exodia OTK  decks.
+ " Card of Safe Return " is currently  Forbidden  ( September 2009 Lists ).
+ 
+ Trade-In  Draw Engine 
+ This draw engine discards powerful  Level 8 Monster Cards  to the  Graveyard , usually to  revive  later. This can be useful in multiple decks, but is found commonly in  Dragon  decks (which can also combined with " Super Rejuvenation " in the Traditional Format),  Darklords ,  Blue-Eyes , and  Destiny HEROes . Basically this draw engine is viable to every deck that can utilize many Level 8 monsters in the deck.
+ 
+ Recharge  Engine 
+ This draw engine is used in  Lightsworns , but can be splashed into any deck that benefits from sending many cards to the graveyard. It consists of searching out Lightsworn monsters with " Charge of the Light Brigade " and then discarding them with " Solar Recharge ". Doing those two things thins your deck by a total of 8 cards, sending 6 of them to the graveyard - a very fast maneuver, in short. The Recharge draw engine can be used in Lightsworns, of course; it is also (as for now) commonly used in  Chaos Dragon  decks. When this draw engine is used outside of Lightsworn, some of the two most common Lightsworns used are " Ryko, Lightsworn Hunter " and " Lyla, Lightsworn Sorceress ". Unlike most other Lightsworns, their effects are non-specific to Lightsworns, and can give the ability to destroy spells and traps to decks that do not normally have it.
+ Dedicated Lightsworn decks also use the effect of " Garoth, Lightsworn Warrior " to draw many new cards. With its effect, you can thin your deck even more quickly than normal.
+ " Charge of the Light Brigade " is  Limited  by the  March 2010 Lists , hampering this engine's severity - though not as severely as the Allure and Destiny Draw engines. As a replacement, you can use " Reinforcement of the Army " - though it is not as fast as Charge, and you will have to use Lightsworn monsters like " Jain, Lightsworn Paladin ", it is still useful. Charge of the Light Brigade is now Unlimited again, and this engine remains one of the best in the business for rapidly  milling  (although more controlled engines have become more prevalent).
+ 
+ Reckless Greed  Engine 
+ Using 3 " Reckless Greeds " together lets you draw 6 cards and skip only 2 Draw Phases, since their drawbacks don't stack. " Mask of Darkness " can bring back your " Reckless Greeds " and allow you to draw even more. This engine is commonly used in decks that do not have ready access to any other. When combined with other, more consistent draw engines, the extra cards can bring a victory before the negative effects come into play. This draw engine is commonly used in  Dark World  and  Exodia  decks.
+ 
+ Heart of the Underdog  Engine 
+ " Heart of the Underdog " is a card that allows you to draw extra cards into your  Draw Phase  by drawing a Normal Monster. The advantage of this engine is when you run Normal Monsters at your Deck, your draw power shall be increased and you may yet draw constantly if you draw a lot of Normal Monsters during your Draw Phase, causing you to speed up your Deck sharply. If you play  Quick-Play Spell Cards  like " Reload " and " Hand Destruction ", you can keep drawing for even longer ( see: Card Tips:Heart of the Underdog ). This engine benefits from a Deck that does not use almost any Effect Monsters, but abuses Special Summon and searching effects like " Emissary of the Afterlife " and " Enchanting Fitting Room ". This engine is mostly used for  Exodia  Decks, but also works pretty well in " Ojama " Decks. It also works well with Normal  Pendulum Monsters .
+ 
+ Good Goblin Housekeeping  Engine 
+ Good Goblin Housekeeping  is a card with a ruling that allows you to draw an extra card if, upon resolution, it is in the graveyard. So, combining this with cards such as  Emergency Provisions ,  Twister , and  Mystical Space Typhoon , one can add additional draw power, as well as provide additional benefits, during or outside of the draw. Coupled with cards like  Rose Fairy ,  Watapon  and  Blackwing - Breeze the Zephyr  and additional draw support, special summons can come quite easily for tribute fodder.
+ 
+ Card of Sacrifice  Engine 
+ Card of Sacrifice , much like  Reckless Greed , is a card that allows you to draw two cards but with less of a negative effect. Decks that do not attack such as  Burn Decks , or even some of  Naturia  decks benefit as they suffer no drawbacks from this card. They can also be stacked to draw multiple cards in one turn since the drawbacks affect only this turn (much like " Reckless Greed ").
+ 
+ Fortune Lady  Engine 
+ " Fortune Lady Water " allows the player to draw two cards when it is special summon to the field, while another face-up Fortune Lady is on the field. This can be easily achieved with Fortune Lady swarming capability. Fortune Lady Water can be special summon by the following cards:  Summoner Monk ,  Call of the Haunted ,  Monster Reborn ,  Fortune Lady Dark  and  Fortune Lady Light . In fact, when combined with  Inferno Reckless Summon , it allows the special summoning up to 3 Fortune Lady Water, allowing the player to draw up to 6 cards in total.
+ Fortune Future  allows the player to draw 2 cards by sending a Fortune Lady removed from play to the grave. Fortune Lady can be removed by cards like  Future Vision ,  Interdimensional Matter Transporter ,  Dimensionhole  and  Allure of Darkness . Fortune Future combo well with Allure of Darkness and Fortune Lady Dark, draw 2 cards and then remove Fortune Lady Dark from hand, then use Fortune Future to send Fortune Lady dark from removed from play to grave to draw 2 cards.
+ A great combo involves: using  Miracle Fusion  or  Fusion Gate  to remove  Elemental Hero  or  Destiny Hero  and  Fortune Lady Water  to special summon  Elemental HERO Absolute Zero . Fortune Future is then used to send the removed Fortune Lady Water to draw 2 cards. Presumably another Fortune Lady is on the field, use reviving cards like Call of the Haunted to special summon Fortune Lady Water to draw 2 more cards or 6 if combined with Inferno Reckless Summoning. Fortune Lady Water can then be tribute for Fortune Lady Dark. When Fortune Lady Dark destroys a monster, Fortune Lady Water can then be special summoning, allowing the players to draw 2 cards. This combo gives you a drawing of 6 cards (10 if combined with Inferno Reckless Summoning) and also swarming of strong monsters.
+ 
+ Level 1 Synchro Material  Engine 
+ Most commonly used in Synchro-based decks that can abuse both " Tuningware " and " Darksea Rescue ", which allow player to draw 1 card for each of them when used for  Synchro Summon . Coupled with " Inferno Reckless Summon " to gather materials and " De-Synchro " for repeat the Synchro Summoning process, allowing player to gain massive hand advantage (especially when combined with " Formula Synchron " and " T.G. Hyper Librarian ").
+ 
+ Gusto  Serenity Engine 
+ This draw engine utilizes " Mind Master " for Special Summoning " Caam, Serenity of Gusto ", which can be Tributed over and over and using Caam's effect to shuffle the other 2 Caams in your Graveyard and netting a free draw at the same time, combined with " Brain Research Lab " or " Telekinetic Charging Cell " for avoiding Mind Master's cost, resulting in enormous draw engine that even able to draw your entire deck in just one turn.
+ However, currently " Mind Master " is  Forbidden , making this draw engine no longer viable as a whole, but Caam herself can be utilized as additional draw power for any deck that can utilize  Gusto  searchers.
+ 
+ Fairy Draw Engine 
+ After getting the  Tethys, Goddess of Light , use the effect to keep on  Drawing  multiple  Fairy-Type  monsters until your last card is something else. Since most  Fairy-Type  decks have a heavy number of fairies, then this  Effect  should be able to draw through a good bit of your  Deck .
+ 
+ Bamboo Sword  Engine 
+ While one of the more eccentric engines, this can be very effective under the correct circumstances. It relies on playing  Golden Bamboo Sword  as a  Pot of Greed  while having a  Broken Bamboo Sword  equipped to any monster.  Cursed Bamboo Sword  is used to search out Golden and Broken as needed, and can be sent to the  GY  by  Foolish Burial Goods  (from the Deck),  Dark World Dealings  (from the hand) or simply by equipping it to a monster and then using that monster as Material for a Summon, during which time it can also substitute for Broken.  Isolde, Two Tales of the Noble Knights  also works well with this engine, but the engine as a whole is unreliable, given that any individual Sword is a  dead draw  by itself. Its strengths are that the effects of the Swords are non- Once per turn  and so can be repeatedly used in one turn to draw through your deck. In short: it either works really well or really badly.
+ 
+ Pot of Dichotomy  Engine 
+ With the right Deck build, " Pot of Dichotomy " can become a powerful drawing force. This engine is possible in any deck that runs some off-type hand traps and an off-type  Extra Deck , but it truly shines in those that benefit from milling cards to the graveyard. For example, by maxing out on both " Card Trooper " and Dichotomy, you get a way to draw and attack safely with the former while filling your graveyard for the latter. If your deck doesn't primarily run  Machine-Type  Monsters, Trooper even helps by filling the role of 1 of the 3  Types . This Trooper-Dichotomy duo can be especially useful in  EARTH ,  Psychic ,  X-Saber ,  Naturia , and similar decks. However, the fact you cannot conduct your Battle Phase and, more importantly, it has to be the first card you play in Main Phase 1, limits this card's potential.
+ 
+ ABC VWXYZ / Saffira, Queen of Dragons  Engine 
+ Since " XYZ-Dragon Cannon ", " VWXYZ-Dragon Catapult Cannon ", " ABC-Dragon Buster ", and " A-to-Z-Dragon Buster Cannon " require cards to be discarded in order to activate their effects, if you control a face-up " Saffira, Queen of Dragons " when you activate their effects (as those of "ABC-Dragon Buster" and "A-to-Z-Dragon Buster Cannon" can be used during either player's turn), you will be able to activate any of Saffira's effect during the End Phase of each and every turn, and potentially draw 2 cards each time in the process, or return discarded LIGHT monsters to your hand to discard again the next turn if you do not need to draw cards. See also:  Card Tips:ABC-Dragon Buster .
+ 
+ Danger!  Engine 
+Since each of the "Danger!" monsters draws a card on a successful reveal and Summon, playing a Deck of nothing but "Danger!" monsters can allow you to draw through it quite rapidly. The above "Allure of Darkness" can be used to control which "Danger!" monsters are in your hand, since having multiple "Danger!" monsters in your hand decreases the chance of drawing. "The Beginning of the End" is played to recover hand size, since the Deck often runs short otherwise and its activation conditions are easily met. " Shaddoll Beast " and " Broww, Huntsman of Dark World "  can add further draws when discarded. A FTK can easily thus be made by adding in a few cards that inevitably will be drawn, making unrealistic combos consistent. Finally, having so many Danger! monsters on the field makes Link Summons easy, so powerful monsters can be used to support the engine. v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Gaming Terms

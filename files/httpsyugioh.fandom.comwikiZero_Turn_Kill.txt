@@ -1,0 +1,541 @@
+Link: https://yugioh.fandom.com/wiki/Zero_Turn_Kill
+
+A  Zero Turn Kill , abbreviated  ZTK , is one of the rarest possible outcomes of a  Duel . To achieve a Zero Turn Kill, per its name, a player must  win  the Duel without ever having a  turn ; this generally requires that the opponent go first and the player win during the opponent's first turn. This is in contrast to a  First Turn Kill  (FTK) where a player wins the Duel during their own first turn before the opponent ever has a turn, or a  One Turn Kill  (OTK) where a player reduces the opponent's  LP  from the starting 8000 to 0 over the span of one turn.
+ All ZTKs require a great deal of luck, and almost always rely heavily on the opponent's actions.
+ Known methods to achieve a ZTK are:
+ 
+ Drawing  all five pieces of " Exodia " in the starting hand, during the opponent's first turn or on your first turn, as just drawing could barely be counted as an actual turn. 
+ Having the opponent send three copies of " Jackpot 7 " to your  Graveyard  during their first turn 
+ Using the last  effect  of " Gorz the Emissary of Darkness " or the first effect of " Fire Cracker " in a very specific situation 
+ Activating  Trap Cards  from the player's hand in various situations during the opponent's first turn, if the player gains access to an effect that allows them to do so 
+ Various methods involving the opponent having more than one turn before the player starts their first turn, through the Heads effect of " Arcana Force XXI - The World ". 
+ Using the effect of " Infernity Des Gunman " in an extremely specific situation ( Tag Force 5  only) 
+ It is also possible for the opponent to  surrender  or receive a  Game Loss  penalty during their first turn, or to lose on purpose using only their own cards.
+ 
+ Contents 
+ 
+ 1   Exodia the Forbidden One ZTK 
+ 2   Jackpot 7 ZTK 
+ 3   Gorz the Emissary of Darkness ZTK 
+ 4   Activating Trap Cards 
+ 5   Skipping the player's first turn 
+ 6   Infernity Des Gunman ZTK ( Tag Force 5  Only) 
+ 7   In the anime 
+ 
+ 7.1   Successful ZTKs 
+ 7.2   Other 
+ 
+ 
+ 8   Zero Turn DRAW 
+ 9   References 
+ 
+ 
+ Exodia the Forbidden One  ZTK 
+ The chance of drawing all five pieces of "Exodia" in the starting hand of five cards, assuming you are using the minimum of 40 cards in your  Deck , is 1 in 658,008. 
+ In casual play, if the banlist were to be ignored and 3 copies of every card were allowed regardless of their status on the Forbidden and Limited lists, the chance would be about 1 in 2,708. 
+ Outside of the initial draw, this ZTK can also occur if an effect activates that allows you to draw cards during the first turn, such as " Cup of Ace " or " Maxx "C" ". 
+ While ZTKs almost always require at least the opponent to start their turn, this ZTK can notably be considered the only 'true' Zero Turn Kill since it can be pulled off before  either  player has started their turn (thus achieving victory in a total of 0 turns for both players, not just 0 turns for the winning player). This is also the only ZTK possible if the player goes first, and the only one that has no reliance on the opponent's actions. 
+ Jackpot 7 ZTK 
+ There are several ways for your opponent to unintentionally send 3 copies of your " Jackpot 7 " to the Graveyard during their first turn, at which point the effect of "Jackpot 7" will allow you to win the Duel:
+ Card effects like " Hand Destruction " and especially " Card Destruction " can cause you to discard one or multiple copies of "Jackpot 7" from your  hand  to the Graveyard. 
+ If your opponent Sets a  monster  like " Needle Worm " or " Morphing Jar ", then activates " Book of Taiyou " to flip that monster, the monster's effect can cause you to discard one or multiple copies of "Jackpot 7" from your hand or Deck to the Graveyard. This is especially probable if your opponent attempts an  Empty Jar FTK . 
+ Gorz the Emissary of Darkness ZTK 
+ You must have "Gorz" in your hand during your opponent's first turn. 
+ First, your opponent must play a card that causes their  Life Points  to be lower than yours, such as " A Hero Lives ". 
+ Next, they must activate an effect that inflicts damage equal to or greater than their Life Points but lower than yours. Using the above "A Hero Lives" as an example, they must activate an effect that inflicts at least 4000 damage but less than 8000 damage (for example, the effect of " Dice Jar "). Note that for the ZTK to work, this  effect damage  must be done as part of a single effect, not multiple consecutive effects akin to a  Burn Deck . 
+ At this point, you can activate the last effect of the "Gorz" in your hand to  Special Summon  it and inflict the same amount of damage to your opponent, thus winning the Duel before starting your turn. 
+ Activating Trap Cards 
+ There are at least two ways for your opponent to enable you to activate  Trap Cards  from your hand during their first turn:
+ If your opponent  Xyz Summons  " Ebon High Magician ", then gives you control of it through a card like " Shien's Spy ", you can activate up to two Trap Cards from your hand this turn. (This setup is potentially plausible if your opponent is intending to move "Ebon High Magician" from an  Extra Monster Zone  to a  Main Monster Zone .) Activating more than two Trap Cards is possible if your opponent attaches extra Xyz Materials (e.g. with " Overlay Regen ") before giving control, or if you can use " Overlay Eater ". 
+ (Traditional Format only)  If your opponent activates a card like " Dark World Dealings ", discard " Makyura the Destructor ". 
+ Afterward, you can activate Trap Cards from your hand in such a way as to win the Duel:
+ Play " Bad Reaction to Simochi " and three copies of " Gift Card " for 9000 damage. 
+ If your opponent heavily  mills  your  Deck  enough (such as if they are attempting an  Empty Jar FTK ), activate three copies of " Blasting the Ruins " for 9000 damage. 
+ If your opponent lowers their LP (e.g. through " Cybernetic Fusion Support ") and then  Summons  a monster with original  ATK  exactly equal to their LP (e.g. " Cyber End Dragon "), activate " Ring of Destruction ". 
+ If your opponent plays " That Grass Looks Greener " and the Deck size difference is (likely) maximized, activate two copies of " Skull Invitation " for 12,000 damage. 
+ Activate enough copies of " Jar of Greed ", " Reckless Greed ", " Legacy of Yata-Garasu ", and the like to draw all five pieces of " Exodia ". 
+ Other unlikely card combinations may also be possible, depending on what your opponent does during their turn (such as activating " The Gift of Greed " should your opponent draw at least 33 cards in their first turn, which can be pulled off in certain  FTK  builds). 
+ If its activation conditions are met, if you activate " Gamble " and lose the coin toss, your opponent can have more than one turn before you ever start your own turn (see section below). 
+ (Pre-2015  Erratum  only)  If your opponent Summons a monster with 4000  ATK  or more, activate " Ring of Destruction " and " Barrel Behind the Door " to inflict 8000 damage. 
+ Skipping the player's first turn 
+ If the opponent is able to Summon " Arcana Force XXI - The World " on their first turn and successfully activate its Heads effect, then they will be able to have two or more turns before the player has started their first turn. This opens up additional ZTK possibilities:
+ 
+ If you are able to control a monster before your first turn (such as through the effect of " Despair from the Dark " or " Dandylion ", or if the opponent uses a card like " Ojama Trio " or " Shien's Spy "), and if your opponent  attacks  with " Galaxy-Eyes Photon Dragon " and chooses to apply its optional effect, then you can  discard  " Dimension Wanderer " from your hand to inflict 3000 damage to your opponent. If your opponent had 3000 Life Points or fewer at the time of attacking, then this will win the Duel before you start your first turn, achieving a Zero Turn Kill. (Such a situation would not normally happen without the effect of "The World", because the opponent must enter their  Battle Phase , which would not normally occur before the player's first turn.) 
+ If your opponent can pull off a  World Lock  to continuously skip your turns, and if you gain the ability to activate Trap Cards from your hand (see above section), you can activate " Destiny Board " to win over the span of four of your opponent's turns while never starting your own. 
+ Infernity Des Gunman ZTK ( Tag Force 5  Only) 
+ During their first turn, your opponent must lower their own Life Points to 2000 or below, and must cause you to discard all the cards in your hand. (One way to pull off the latter is through the effect of " Sky Scourge Norleras ", perhaps combined with " Phantom of Chaos ".) You must also have an " Infernity Des Gunman " in your Graveyard (most likely by drawing it during your starting hand and having it discarded by the previous effect). 
+ At this point, if your opponent activates a card or effect that inflicts effect damage, you can  banish  "Infernity Des Gunman" from your Graveyard and activate its effect. Your opponent must choose to apply its optional effect and the top card of your Deck must be a Spell or Trap Card. "Infernity Des Gunman" will inflict 2000 damage to your opponent and cause you to win the Duel. 
+ In the anime 
+ Successful ZTKs 
+ In  Yu-Gi-Oh! - Episode 098  from the  Virtual World  arc, a simulated Duel was shown where a simulation of  Kaiba  Summoned " Blue-Eyes Ultimate Dragon " on his first turn, then used its  Deck Master ability  to attack directly on his first turn in an  FTK  attempt. However, his simulation opponent used its own Deck Master ability, allowing it to pay 1000 Life Points to destroy an attacking monster. As the simulation Kaiba's  Deck Master  was  destroyed , he lost the Duel before his opponent ever had a turn. 
+ In  Yu-Gi-Oh! GX - Episode 084 ,  Sartorius  used the effect of " Intervention of Fate ", discarding it when his opponent  Prince Ojin  Summoned " Satellite Base ", in order to activate " Ace of Sword " against Ojin's " Satellite Cannon ", which had been boosted to 4000 ATK. This inflicted 4000 damage to Ojin on his own turn, winning the Duel before Sartorius ever had a turn. This was the only instance where the term "Zero Turn Kill" was specifically mentioned.
+ Notably, Prince Ojin had two turns while Sartorius had none, thanks to Ojin's " Mischief of the Time Goddess " skipping Sartorius's first turn (in the same style as "Arcana Force XXI - The World" noted above). 
+ Other 
+ In  Yu-Gi-Oh! 5D's - Episode 091 ,  Kalin Kessler  threatened to pull off a ZTK against  Lawton  using " Infernity Doom Slinger ", which could have inflicted 4800 damage to Lawton before Kalin ever had a turn. (It is unknown whether the threat was empty or not, depending on whether " Infernity Climber " was sent to Kalin's Graveyard during the first turn or later in the Duel.) Lawton foiled the ZTK by opting not to apply "Infernity Doom Slinger's" optional effect. 
+ In  Yu-Gi-Oh! ZEXAL - Episode 138 ,  Don Thousand  pulled off an outcome which was pretty much ZTK against  Mizar , activating " Numeron Network " from his hand at the start of Mizar's turn through its effect, then using "Numeron Network" to activate " Numeron Spell Revision " from his Deck, which in turn forced Mizar to activate " Card of the Dragon King ", inflicting 4800 damage to Mizar during his first turn. This could be counted as little if at all different from ZTK as Don Thousand did have a turn before winning, although he passed that turn, doing absolutely nothing. 
+ Zero Turn DRAW 
+ Even rarer than a Zero Turn Kill is a Zero Turn  DRAW , where both players satisfy a  victory condition  before either has taken a turn. The only way this is currently possible is if both players obtain all 5 pieces of " Exodia " in their starting hand. The chance of a single player accomplishing this is 1 in 658,008; therefore, the likelihood of both players doing this is the square of that likelihood, or 1 in 432,974,528,064.
+ 
+ References 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Gameplay

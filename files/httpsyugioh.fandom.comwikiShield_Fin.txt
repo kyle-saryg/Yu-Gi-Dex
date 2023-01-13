@@ -1,0 +1,111 @@
+Link: https://yugioh.fandom.com/wiki/Shield_Fin
+
+
+ Shield Fin 
+ 
+ Japanese:   シールド・フィン 
+ Romaji:   Shīrudo Fin 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Equip 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Trigger-like 
+ When a card or  effect  is  activated  during the  Battle Phase : You can reduce the  original ATK  of the  equipped   monster  to 0, and if you do, it cannot be  destroyed by battle , until the  End Phase .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  069 ,  070 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ German 
+ Flossenschild 
+ 
+ 
+ 
+ Italian 
+ Scudo Pinna Pinna Scudo (Ep. 69 1st Airing only) 
+ 
+ 
+ 
+ Japanese 
+ シールド・フィン 
+ バトルフェイズ中にカードの効果が発動した時、以下の効果を発動できる。このターンのエンドフェイズ時まで、装備モンスターの元々の攻撃力は０になり、このターン装備モンスターは戦闘では破壊されない。 
+ 
+ 
+ Shīrudo Fin 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Reginald Kastle 
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ Reduces ATK to 0 
+ Changes ATK value of equipped 
+ Changes original ATK 
+ 
+ Attack  categories  
+ Equipped cannot be destroyed by battle 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/fa/ShieldFin-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20120827172535', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/ff/ShieldFin-JP-Anime-ZX-NC.jpg/revision/latest/scale-to-width-down/185?cb=20120829225210', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

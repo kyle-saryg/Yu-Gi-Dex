@@ -1,0 +1,108 @@
+Link: https://yugioh.fandom.com/wiki/Skull_Dice_(anime)
+
+Main card page: " Skull Dice " 
+ The Japanese (OCG) version of this card is not a member of the " Dice "  archetype , because its Japanese name does not contain  「ダイス」 .   As its English name contains "Dice", it  may  be treated a member of the "Dice" archetype at a TCG event, subject to local rulings.     
+ Skull Dice 
+ 
+ Japanese:   悪魔のサイコロ 
+ Romaji:   Akuma no Saikoro 
+ Translated:  Demon's Dice 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   [note 1] 
+ 
+ Property 
+ 
+ 
+   Quick-Play 
+ 
+ When an opponent's  monster   declares  an  attack , roll a six-sided die. The monster's  ATK  is divided by the number rolled.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh! :  058 ,  060 ,  064 ,  068 ,  074 ,  077 ,  104 ,  105 ,  122 ,  124 ,  154 ,  173 ,  187 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  Yu-Gi-Oh! ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 悪魔のサイコロ 
+ 敵モンスターが攻撃を宣言した時、サイコロをふり、出た目をｘとする。相手の攻撃力が１／ｘとなる。 
+ 
+ 
+ Akuma no Saikoro 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Joey Wheeler 
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ Your opponent's monsters lose DEF 
+ 
+ Miscellaneous  
+ Die roll 
+ 
+ 
+ 
+   " Skull Dice " pages 
+ 
+ 
+ Anime Manga Yu-Gi-Oh! BAM Yu-Gi-Oh! Dungeon Dice Monsters 
+ 
+ 
+ 
+ Notes 
+ 
+ ↑   In the English dub, this is a  Trap Card . 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/70/SkullDice-OW.png/revision/latest/scale-to-width-down/185?cb=20140620015028', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c1/SkullDice-JP-Anime-DM-NC.png/revision/latest/scale-to-width-down/176?cb=20140730043408', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Cards with notes

@@ -1,0 +1,134 @@
+Link: https://yugioh.fandom.com/wiki/Galaxy_Zero_(anime)
+
+Main card page: " Galaxy Zero " 
+ Galaxy Zero 
+ 
+ Japanese:   銀河零式 
+ Romaji:   Gyarakushī Zero 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Equip 
+ 
+ Target  1 " Galaxy-Eyes "  monster  in your  Graveyard ;  Special Summon  that monster in  face-up   Attack Position , and  equip  it with this card. The equipped monster's  effects  are  negated . When the equipped monster  declares  an  attack : It loses 800  ATK  during the  Battle Phase  only. If the equipped monster would be  destroyed  during the Battle Phase, you can  send  this card to the Graveyard instead. When this card  leaves the field , the equipped monster's ATK becomes 0.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  073 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 銀河零式 
+ 自分の墓地の「銀河眼」と名のついたモンスター１体を選択して発動できる。選択したモンスターを自分フィールド上に表側攻撃表示で特殊召喚し、このカードを装備する。この効果で特殊召喚したモンスターの効果は無効化される。装備モンスターが攻撃宣言したバトルフェイズの間、その攻撃力は８００ポイントダウンする。装備モンスターがバトルフェイズ中に破壊される場合、代わりにこのカードを墓地へ送る事ができる。このカードがフィールド上から離れた時、装備モンスターの攻撃力は０になる。 
+ 
+ 
+ Gyarakushī Zero 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Kite Tenjo 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Galaxy 
+ 
+ Supports   archetypes   
+ Galaxy-Eyes 
+ 
+ Actions  
+ Equips self from field 
+ Activates upon attack declaration 
+ Sends itself from field to Graveyard 
+ Activates when it leaves the field 
+ 
+ Stat changes  
+ Equipped loses ATK 
+ Reduces ATK to 0 
+ Changes ATK value of equipped 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your Effect Monsters 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ Equips to Summoned monster 
+ 
+ 
+ 
+   " Galaxy Zero " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+" Galaxy " 「ギャラクシー」 a   m   Members 
+ Galaxy Burst Galaxy Dragon Maelstrom Galaxy Expedition Galaxy Knight Galaxy Mirror Sage Galaxy Queen's Light Galaxy Rebirth Galaxy Shockwave Galaxy Stealth Dragon Galaxy Storm Galaxy Tyranno Galaxy Wizard Galaxy Zero Galaxy-Eyes Cipher Dragon Galaxy-Eyes Nova Galaxy-Eyes Photon Dragon Miracle Galaxy Neo Galaxy-Eyes Cipher Dragon Neo Galaxy-Eyes Photon Dragon Number 62: Galaxy-Eyes Prime Photon Dragon Number 107: Galaxy-Eyes Tachyon Dragon Number C107: Neo Galaxy-Eyes Tachyon Dragon Superdimensional Robot Galaxy Destroyer 
+ Support 
+ Galactic Charity Galaxy Rebirth Galaxy Shockwave 
+ Related 
+ Paladin of Photon Dragon Starliege Lord Galaxion 
+ 
+ v e 
+" Galaxy-Eyes " 「ギャラクシーアイズ」 a   +   Members 
+ Galaxy-Eyes Cipher Dragon Galaxy-Eyes Nova Galaxy-Eyes Photon Dragon Neo Galaxy-Eyes Cipher Dragon Neo Galaxy-Eyes Photon Dragon Number 62: Galaxy-Eyes Prime Photon Dragon Number 107: Galaxy-Eyes Tachyon Dragon Number C107: Neo Galaxy-Eyes Tachyon Dragon 
+ Support 
+ Galaxy Zero Galaxy-Eyes Nova Neutrino Dowsing Tachyon Flare Wing 
+ Related 
+ Galaxy Expedition Galaxy Tyranno Paladin of Photon Dragon Starliege Lord Galaxion 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/96/GalaxyZero-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20120924133545', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/3b/GalaxyZero-OW.png/revision/latest/scale-to-width-down/185?cb=20150205030211', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

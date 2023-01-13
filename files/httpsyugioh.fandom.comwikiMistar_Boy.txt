@@ -1,0 +1,416 @@
+Link: https://yugioh.fandom.com/wiki/Mistar_Boy
+
+
+ 
+ 
+ Mistar Boy マスター・ボーイ 
+ 
+ English 
+Mistar Boy 
+ French 
+ Mistar Garçon-Étoile Check translation 
+ German 
+ Mistar Sternenboy Check translation 
+ Italian 
+ Mistar Stellone Check translation 
+ Korean 
+ 마스터 보이 Check translation 
+ Portuguese 
+ Mistar Menino Estrela Check translation 
+ Spanish 
+ Mistar Chico Estrella Check translation 
+ Japanese 
+ マスター・ボーイ Check translation 
+ Japanese ( rōmaji ) 
+Masutā Bōi 
+ Japanese (translated) 
+Mastar Boy 
+ Card type 
+ Monster   
+ Attribute 
+ WATER   
+ Types 
+ Aqua  /  Link  /  Effect 
+ Link Arrows 
+ Bottom-Left   ,  Bottom-Right   
+ ATK  /  LINK 
+ 1400  /  2 
+ Passcode 
+ 65170459 
+ Materials 
+2 WATER monsters 
+ Card effect types 
+ 
+ 
+ Continuous 
+ Trigger 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+2  WATER   monsters All WATER monsters on the  field  gain 500  ATK  and  DEF , also all  FIRE  monsters on the field lose 400 ATK and DEF. If this card is  destroyed   by battle  or  card effect : You can  target  1 WATER monster in your  GY ;  add  it to your  hand . You can only use this effect of "Mistar Boy"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 2 monstres EAU Tous les monstres EAU sur le Terrain gagnent 500 ATK/DEF, et aussi, tous les monstres FEU sur le Terrain perdent 400 ATK/DEF. Si cette carte est détruite au combat ou par un effet de carte : vous pouvez cibler 1 monstre EAU dans votre Cimetière ; ajoutez-le à votre main. Vous ne pouvez utiliser cet effet de "Mistar Garçon-Étoile" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 2 WASSER Monster Alle WASSER Monster auf dem Spielfeld erhalten 500 ATK und DEF, zusätzlich verlieren alle FEUER Monster auf dem Spielfeld 400 ATK und DEF. Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 WASSER Monster in deinem Friedhof wählen; füge es deiner Hand hinzu. Du kannst diesen Effekt von „Mistar Sternenboy“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 2 mostri ACQUA Tutti i mostri ACQUA sul Terreno guadagnano 500 ATK e DEF, inoltre tutti i mostri FUOCO sul Terreno perdono 400 ATK e DEF. Se questa carta viene distrutta in battaglia o dall'effetto di una carta: puoi scegliere come bersaglio 1 mostro ACQUA nel tuo Cimitero; aggiungilo alla tua mano. Puoi utilizzare questo effetto di "Mistar Stellone" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 2 monstros de ÁGUA Todos os monstros de ÁGUA no campo ganham 500 de ATK e DEF e, além disso, todos os monstros de FOGO no campo perdem 400 de ATK e DEF. Se este card for destruído em batalha ou por um efeito de card: você pode escolher 1 monstro de ÁGUA no seu Cemitério; adicione-o à sua mão. Você só pode usar este efeito de "Mistar Menino Estrela" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 2 monstruos de AGUA Todos los monstruos de AGUA en el Campo ganan 500 ATK y DEF, y además todos los monstruos de FUEGO en el Campo pierden 400 ATK y DEF. Si esta carta es destruida en batalla o por efecto de una carta: puedes seleccionar 1 monstruo de AGUA en tu Cementerio; añádelo a tu mano. Sólo puedes usar este efecto de "Mistar Chico Estrella" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 水属性モンスター２体 このカード名の②の効果は１ターンに１度しか使用できない。①：フィールドの水属性モンスターの攻撃力・守備力は５００アップし、炎属性モンスターの攻撃力・守備力は４００ダウンする。②：このカードが戦闘・効果で破壊された場合、自分の墓地の水属性モンスター１体を対象として発動できる。そのモンスターを手札に加える。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 물 속성 몬스터 2장 이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ① : 필드의 물 속성 몬스터의 공격력 / 수비력은 500 올리고, 화염 속성 몬스터의 공격력 / 수비력은 400 내린다. ② : 이 카드가 전투 / 효과로 파괴되었을 경우, 자신의 묘지의 물 속성 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 패에 넣는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2017-09-21  
+ COTD-ENSE3   
+ Code of the Duelist Special Edition 
+ Super Rare 
+ 
+ 
+ 2017-10-19  
+ CIBR-EN052   
+ Circuit Break 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2017-09-21  
+ COTD-FRSE3   
+ Code of the Duelist Special Edition 
+ Code des Duellistes Edition Spéciale  
+ Super Rare 
+ 
+ 
+ 2017-10-19  
+ CIBR-FR052   
+ Circuit Break 
+ Le Coupe-Circuit  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2017-09-21  
+ COTD-DESE3   
+ Code of the Duelist Special Edition 
+ Code of the Duelist Special Edition  
+ Super Rare 
+ 
+ 
+ 2017-10-19  
+ CIBR-DE052   
+ Circuit Break 
+ Circuit Break  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2017-09-21  
+ COTD-ITSE3   
+ Code of the Duelist Special Edition 
+ Codice del Duellante Edizione Speciale  
+ Super Rare 
+ 
+ 
+ 2017-10-19  
+ CIBR-IT052   
+ Circuit Break 
+ Distruzione del Circuito  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2017-11-13  
+ COTD-PTSE3   
+ Code of the Duelist Special Edition 
+ Código do Duelista Edição Especial  
+ Super Rare 
+ 
+ 
+ 2017-10-19  
+ CIBR-PT052   
+ Circuit Break 
+ Ruptura de Circuito  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2017-09-21  
+ COTD-SPSE3   
+ Code of the Duelist Special Edition 
+ Código del Duelista Edición Especial  
+ Super Rare 
+ 
+ 
+ 2017-10-19  
+ CIBR-SP052   
+ Circuit Break 
+ Destrucción del Circuito  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2017-07-08  
+ CIBR-JP052   
+ Circuit Break 
+ サーキット・ブレイク  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2017-09-27  
+ CIBR-KR052   
+ Circuit Break 
+ 서킷 브레이크  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ WATER 
+ 
+ Anti-supports   
+ FIRE 
+ 
+ Archetypes  and  series   
+ Attribute Booster 
+ 
+ Actions  
+ Activates if destroyed by battle 
+ Activates if destroyed by card effect 
+ Adds from Graveyard to hand 
+ 
+ Stat changes  
+ All monsters gain ATK 
+ All monsters gain DEF 
+ All monsters lose ATK 
+ All monsters lose DEF 
+ 
+ Summoning  categories  
+ 2 Link Materials 
+ Requires Attribute specific Link Materials 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 13268 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Attribute Booster Members 
+ Bladefly Duelittle Chimera Greatfly Hip Hoshiningen Hoshiningen Little Chimera Milus Radiant Missus Radiant Mistar Boy Star Boy Wee Witch's Apprentice Witch's Apprentice 
+ Burning Spear Elf's Light Gaia Power Gust Fan Invigoration Luminous Spark Molten Destruction Mystic Plasma Zone Rising Air Current Steel Shell Sword of Dark Destruction Umiiruka 
+ Related 
+ Acidic Downpour 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/5c/MistarBoy-CIBR-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20171020172541', 'https://static.wikia.nocookie.net/yugioh/images/4/40/WATER.svg/revision/latest/scale-to-width-down/28?cb=20120918052107', 'https://static.wikia.nocookie.net/yugioh/images/f/f9/LM-BottomLeft.png/revision/latest?cb=20170326055136', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

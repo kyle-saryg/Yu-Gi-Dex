@@ -1,0 +1,13 @@
+Link: https://yugioh.fandom.com/wiki/Property:Gender
+
+This property lists the gender of a character. This is an  enumeration .
+ Possible values:
+ 
+ Male 
+ Female 
+ Unknown 
+ None 
+ 
+ 
+ 
+Categories:

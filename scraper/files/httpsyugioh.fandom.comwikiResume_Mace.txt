@@ -1,0 +1,103 @@
+Link: https://yugioh.fandom.com/wiki/Resume_Mace
+
+
+ Resume Mace 
+ 
+ Japanese:   レジューム・メイス 
+ Romaji:   Rejūmu Meisu 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Equip 
+ 
+ Equip  only to a  Level  4 or higher  Cyberse   monster . It loses 800  ATK . If the equipped monster  attacks  a monster with higher ATK, during  damage calculation : You can  send  this card to the  GY ; the ATK of the monster this card was equipped to becomes double its  original ATK , until the end of the  Battle Phase . At the start of your opponent's Battle Phase, if this card is in your GY: You can  banish  1 monster and 2  Equip Spells  from your GY, including this card, then you can have 1  face-up  monster your opponent controls lose ATK equal to the original ATK of the monster banished by this effect, until the end of this  turn .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  072 ,  073 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ レジューム・メイス 
+ レベル４以上のサイバース族モンスターにのみ装備可能。①：装備モンスターの攻撃力は８００ダウンする。②：装備モンスターが、装備モンスターより攻撃力が高いモンスターに攻撃するダメージ計算時に、このカードを墓地へ送って発動できる。このカードを装備していたモンスターの攻撃力は、バトルフェイズ終了時まで元々の攻撃力の倍になる。③：このカードが墓地に存在する場合、相手バトルフェイズ開始時に発動できる。このカードを含む装備魔法カード２枚とモンスター１体の合計３枚のカードを自分の墓地から除外する。その後、相手フィールドの表側表示モンスター１体を選び、その攻撃力をターン終了時まで、この効果で除外したモンスターの元々の攻撃力分ダウンする事ができる。 
+ 
+ 
+ Rejūmu Meisu 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Cyberse 
+ Equip Spell Card 
+ 
+ Actions  
+ Sends itself from field to Graveyard 
+ Activates from your Graveyard 
+ 
+ Stat changes  
+ Equipped loses ATK 
+ Changes ATK value 
+ Your opponent's monsters lose ATK 
+ 
+ Banished  categories  
+ Banishes from your Graveyard 
+ Banishes itself from Graveyard 
+ 
+ Miscellaneous  
+ Equips only to a specific target 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/df/ResumeMace-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20181017160035', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/9/90/Equip.svg/revision/latest/scale-to-width-down/18?cb=20120920115844']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

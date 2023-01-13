@@ -1,0 +1,48 @@
+Link: https://yugioh.fandom.com/wiki/Level_4_ATK_and_DEF_Rules
+
+
+ It has been suggested that this article be  renamed  to  Level 4 ATK and DEF conventions . ( discuss )     
+       " Gene-Warped Warwolf ", one of the very few 2000 ATK Level 4 Normal Monsters to break the "Rule of 2000 ATK"     
+ The ATK and DEF of a Level 4 or lower  monster  tend to be limited by two unwritten rules: the  "2000 ATK Rule"  and the  "2300 DEF Rule" . These rules state that for a Level 4 monster to have an  ATK  or  DEF  equal to or higher than these values, it must have some kind of  negative effect  or other restriction (such as being a  Nomi  monster). For example, " Meklord Emperor Wisel " is a Level 1 Monster Card that has 2500 ATK and DEF; however, it cannot be Normal Summoned or Set.
+ 
+ Contents 
+ 
+ 1   Rule of 2000 ATK 
+ 
+ 1.1   Level 4 or lower Monster Cards with 2000 ATK or more 
+ 
+ 
+ 2   Rule of 2300 DEF 
+ 
+ 2.1   Level 4 or lower Monster Cards with 2300 DEF or more 
+ 
+ 
+ 3   See also 
+ 
+ 
+ Rule of 2000 ATK 
+       " Meklord Emperor Wisel " is tied with " Giant Kozaky " to the highest  ATK  for a Level 4 or lower monster and has one of the highest DEF; however, it is difficult to Summon.     
+ The "Rule of 2000 ATK" states that if a monster has 2000 or more ATK, it must have some  negative effect  or other restriction to limit its playability. For example, " Thunder King Rai-Oh " has 1900 ATK and is thus permitted to have a beneficial  card effect , but " Panther Warrior " and " Inspector Boarder " have 2000 ATK, and thus have the negative effects of requiring a  Tribute  in order to attack and a tough Summoning Condition/Continuous Effect, respectively.
+ Several Level 4  Normal Monsters  have 2000 ATK, outclassing monsters with 2000 ATK and negative effects. They all have either 100 or 0 DEF. There are currently 10 such monsters: " Alexandrite Dragon ", " Gene-Warped Warwolf ", " Gunkan Suship Shari ", " Leotron ", " Megalosmasher X ", " Mekk-Knight Avram ", " Mystery Shell Dragon ", " Phantom Gryphon ", " Shiny Black "C" Squadder ", " Zombino ".
+ 
+ 
+ Level 4 or lower Monster Cards with 2000 ATK or more 
+ There are currently 113 Level 4 or lower monsters with 2000 ATK or more in the  TCG / OCG .
+ 
+   Primary type Type Attribute Level ATK DEF Alexandrite Dragon Normal Monster Dragon LIGHT 4 2000 100 Archfiend General Effect Monster Fiend DARK 4 2100 800 Armor Exe Effect Monster Rock LIGHT 4 2400 1400 Arsenal Bug Effect Monster Insect EARTH 3 2000 2000 Axe Dragonute Effect Monster Dragon DARK 4 2000 1200 Battlin' Boxer Glassjaw Effect Monster Warrior FIRE 4 2000 0 Berserk Gorilla Effect Monster Beast EARTH 4 2000 1000 Boar Soldier Effect Monster Beast-Warrior EARTH 4 2000 500 Bujin Hirume Effect Monster Beast-Warrior LIGHT 4 2000 1000 CAN:D ALL Effect Monster Fusion Monster Psychic LIGHT 4 2000 1500 ... further results 
+ Rule of 2300 DEF 
+         " Gear Golem the Moving Fortress " has 2200 DEF and no negative effects.     
+ The "Rule of 2300 DEF" states that if a monster has 2300 or more DEF, it must have some  negative effect  or other restriction. For example, " Gladiator Beast Hoplomus " and " Gear Golem the Moving Fortress " have 2100 and 2200 DEF respectively, and are allowed to have positive effects, while " Big Shield Gardna " has 2600 DEF and has the negative effect of being forced to switch to its weak  Attack Position  after being attacked.
+ Currently, no cards in the  OCG / TCG  break this rule.
+ There are currently  16  Level 4 or lower monsters with 2300 DEF or more in the  TCG / OCG .
+ 
+ 
+ Level 4 or lower Monster Cards with 2300 DEF or more 
+   Primary type Type Attribute Level ATK DEF Big Shield Gardna Effect Monster Warrior EARTH 4 100 2600 Boycotton Effect Monster Plant EARTH 4 1000 2500 Destiny HERO - Defender Effect Monster Warrior DARK 4 100 2700 Giant Kozaky Effect Monster Fiend DARK 4 2500 2400 Megalith Hagith Effect Monster Ritual Monster Rock EARTH 4 1300 2600 Megalith Och Effect Monster Ritual Monster Rock EARTH 4 1000 2700 Megalith Ophiel Effect Monster Ritual Monster Rock EARTH 4 1600 2500 Meklord Emperor Wisel Effect Monster Machine DARK 1 2500 2500 Meklord Emperor Wisel - Synchro Absorption Effect Monster Machine DARK 1 2500 2500 Mist Bird Clausolas Effect Monster Synchro Monster Winged Beast WIND 3 0 2300 ... further results 
+ See also 
+ Rule of 3000 ATK and DEF 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/05/Ambox_move.png/revision/latest?cb=20101005170235', 'https://static.wikia.nocookie.net/yugioh/images/1/1f/GeneWarpedWarwolf-BP01-EN-C-1E.png/revision/latest/scale-to-width-down/170?cb=20120616113609', 'https://static.wikia.nocookie.net/yugioh/images/1/1c/MeklordEmperorWisel-SP13-EN-C-1E.png/revision/latest/scale-to-width-down/170?cb=20130510041134', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2a/GearGolemtheMovingFortress-SD10-EN-C-1E.png/revision/latest/scale-to-width-down/170?cb=20161217232241']
+Categories: Candidates for renaming, Gaming Terms

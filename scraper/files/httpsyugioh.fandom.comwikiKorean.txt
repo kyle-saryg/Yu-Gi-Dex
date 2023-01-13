@@ -1,0 +1,112 @@
+Link: https://yugioh.fandom.com/wiki/Korean
+
+Korean  cards are manufactured by  Daewon  for distributing in South Korea. Their ID was  K , then changed into  KR .
+ Being part of the  OCG , Korean cards follow Japanese printing schedules. However, they also follow some  TCG  product lines, such as the  Hidden Arsenal  series , and have a few exclusive sets and cards (such as  Token  cards from  Anniversary Pack ). In  Booster Packs  starting from  Legacy of the Valiant , cards have debuted in Korean rather than in Japanese or the TCG.
+ Korean cards have their own  backing , with the first Korean logo. They use a terminology translated from Japanese, but they are formatted with the  TCG  style. For example, the type line "[Dragon/Synchro/Effect]" is written "[드래곤족 / 싱크로/효과]", using a slash instead of a middle dot as of the Japanese style ([드래곤족 ・ 싱크로/효과]; the Japanese version has also switched to using slashes only from  Series 10  onwards); the copyright text on the bottom-right corner is English. They also use censored or anglicized  TCG  artworks, though the Korean-dubbed shows have uncensored  OCG  artworks.
+ The Korean languages does not usually use  ruby  like Japanese, but due to the  core   archetypal  mechanics that rely on how names are formatted precisely in Japanese, some  archetypes  have to adopt ruby to avoid phonetic ambiguity, even though the Korean text engine for  laying out cards  has never been optimized for that.
+ 
+ Example 
+ 
+ 
+ 
+ v e 
+Distribution  regions  and prints Regions 
+ OCG 
+ Asia 
+ Hong Kong 
+ Japan 
+ Korea 
+ Malaysia 
+ Philippines 
+ Singapore 
+ Taiwan 
+ Thailand 
+ TCG 
+ Oceania 
+ Australia 
+ New Zealand 
+ North America 
+ Canada 
+ United States 
+ Latin America and the Caribbean 
+ Argentina 
+ Bolivia 
+ Brazil 
+ Chile 
+ Columbia 
+ Costa Rica 
+ Ecuador 
+ Guatemala 
+ Mexico 
+ Nicaragua 
+ Panama 
+ Peru 
+ Venezuela 
+ Europe 
+ Austria 
+ Belgium 
+ Bulgaria 
+ Czech Republic 
+ Denmark 
+ Estonia 
+ Finland 
+ France 
+ Germany 
+ Greece 
+ Hungary 
+ Ireland 
+ Italy 
+ Israel 
+ Latvia 
+ Lithuania 
+ Luxembourg 
+ Malta 
+ Netherlands 
+ Norway 
+ Poland 
+ Portugal 
+ Slovakia 
+ Slovenia 
+ Spain 
+ Sweden 
+ Switzerland 
+ Turkey 
+ United Kingdom 
+ Africa 
+ Cyprus 
+ South Africa 
+ 
+ Prints 
+ OCG 
+ Japanese   JP 
+ -Asian   JA 
+ Korean   K † /KR 
+ Chinese ‡ 
+ Traditional   TC 
+ Simplified   SC 
+ Asian-English   AE 
+ TCG 
+ English   EN 
+ North American ‡ 
+ European ‡   E † 
+ Australian/Oceanic ‡   A † 
+ French   F † /FR 
+ -Canadian ‡   C † 
+ German   G † /DE 
+ Italian   I † /IT 
+ Portuguese   P † /PT 
+ European ‡ 
+ South American ‡ 
+ Spanish   S † /SP 
+ European ‡ 
+ Latin American ‡ 
+ 
+ 
+ †  Retired/discontinued region tag 
+ ‡  Not/no longer normally distinguished as a separate distribution region 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/06/OuterEntityAzathot-NECH-KR-SR-1E.png/revision/latest/scale-to-width-down/360?cb=20141018104201']
+Categories: Terminology

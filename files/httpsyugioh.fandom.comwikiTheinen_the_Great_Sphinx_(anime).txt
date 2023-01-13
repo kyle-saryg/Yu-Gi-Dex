@@ -1,0 +1,133 @@
+Link: https://yugioh.fandom.com/wiki/Theinen_the_Great_Sphinx_(anime)
+
+Main card page: " Theinen the Great Sphinx " 
+ Theinen the Great Sphinx 
+ 
+ Japanese:   スフィンクス・アンドロジュネス 
+ Romaji:   Sufinkusu Andorojunesu 
+ Translated:  Sphinx Androgynous 
+ 
+ 
+ 
+<nomobile> 
+ en 
+ ja </nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Level 
+ 
+ 
+ 10   
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Summon 
+ Trigger 
+ Condition 
+ [  Beast  /  Effect  ] When both " Andro Sphinx " and " Sphinx Teleia " are  destroyed  at the same time,  pay  1000  Life Points  to  Special Summon  this card. Also, when this card is Special Summoned, you can pay 1000 Life Points to increase the  ATK  of this card by an amount equal to the ATK of all  monsters  in your  Graveyard . This  effect  lasts until the end of your next  turn . [note 1] 
+ ATK  /  3500     DEF  /  3000   
+ Appearances
+ 
+ 
+ 
+ 
+ ' 
+ 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  Pyramid of Light ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ スフィンクス・アンドロジュネス 
+ このカードは通常召喚できない。自分フィールド上の「アンドロ・スフィンクス」と「スフィンクス・テーレイア」が同時に破壊された時、１０００ライフポイントを払う事で手札またはデッキから特殊召喚する事ができる。このカードが特殊召喚に成功した時、１０００ライフポイントを払う事で、このカードの攻撃力はお互いの墓地に存在するモンスターの攻撃力の合計分アップする。 
+ 
+ 
+ Sufinkusu Andorojunesu 
+ 
+ 
+ Decks 
+ 
+ 
+ Anubis 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Andro Sphinx  
+ Sphinx Teleia  
+ 
+ Archetypes  and  series   
+ sphinx 
+ 
+ Actions  
+ Activates upon Special Summon 
+ 
+ Stat changes  
+ This card gains ATK 
+ 
+ Summoning  categories  
+ Cannot be Normal Summoned 
+ Cannot be Normal Set 
+ Special Summons itself from your hand 
+ Special Summons itself from your Deck 
+ 
+ LP   
+ Pays Life Points for cost 
+ 
+ Miscellaneous  
+ Special Summon Monster 
+ 
+ 
+ 
+   " Theinen the Great Sphinx " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+ sphinx  スフィンクス a   m   Members 
+ Andro Sphinx Chronomaly Winged Sphinx Dimension Sphinx Guardian Sphinx Sphinx Teleia Theinen the Great Sphinx 
+ Related 
+ Pyramid of Light 
+ 
+ Notes 
+ 
+ ↑   The english lore erroneously emits a "Cannot be  Normal Summoned / Set " clause. 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/39/TheinentheGreatSphinx-EN-Anime-MOV.png/revision/latest/scale-to-width-down/200?cb=20171227152057', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Cards with notes

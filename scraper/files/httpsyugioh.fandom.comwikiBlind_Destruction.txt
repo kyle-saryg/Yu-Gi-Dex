@@ -1,0 +1,571 @@
+Link: https://yugioh.fandom.com/wiki/Blind_Destruction
+
+The  Arabic, Chinese, Croatian  and  Greek                     names given are not official.  
+ The  Chinese                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Blind Destruction 無 差 別 破 壞 
+ 
+ English 
+Blind Destruction 
+ Chinese 
+ 無差別破壞 Check translation 
+ French 
+ Destruction Aveugle Check translation 
+ German 
+ Blinde Zerstörung Check translation 
+ Italian 
+ Distruzione Cieca Check translation 
+ Korean 
+ 무차별파괴 Check translation 
+ Portuguese 
+ Destruição Cega Check translation 
+ Spanish 
+ Destrucción Ciega Check translation 
+ Japanese (kana) 
+ むさべつはかい Check translation 
+ Japanese (base) 
+ 無差別破壞 Check translation 
+ Japanese ( rōmaji ) 
+Musabetsu Hakai 
+ Card type 
+ Trap   
+ Property 
+ Continuous   
+ Passcode 
+ 32015116 
+ Card effect types 
+ 
+ 
+ Trigger-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Once per  turn , during your  Standby Phase : Roll a six-sided die. If the result is 1-5,  destroy  all  monsters  on the  field  with the same  Level  as the number rolled. If it is 6, destroy all Level 6 and higher monsters on the field. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Une fois par tour, durant votre Standby Phase : lancez un dé à six faces. Si le résultat est 1 à 5, détruisez tous les monstres sur le Terrain du même Niveau que le résultat. Si c'est 6, détruisez tous les monstres de min. Niveau 6 sur le Terrain. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wirf in deiner Standby Phase 1 sechseitigen Würfel. Zerstöre alle offenen Monster, deren Stufe der gewürfelten Augenzahl entspricht. Wenn du eine 6 würfelst, zerstöre alle offenen Monster der Stufe 6 und höher. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Durante la tua  Standby Phase , tira un dado una volta.  Distruggi  tutti i  mostri   scoperti  il cui  Livello  sia uguale al risultato. Se il numero è "6", distruggi tutti i mostri di Livello 6 o superiore sul  Terreno . 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Uma vez por turno, durante sua Fase de Apoio: lance um dado de 6 faces. Se o resultado for de 1 a 5, destrua todos os monstros no campo cujo Nível seja igual ao resultado. Se o resultado for 6, destrua todos os monstros no campo de Nível 6 ou mais. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Una vez por turno, durante tu Standby Phase: lanza un dado de seis caras. Si el resultado es 1-5, destruye todos los monstruos en el Campo con el mismo Nivel que el número lanzado. Si es un 6, destruye todos los monstruos de Nivel 6 o mayor en el Campo. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 自分のスタンバイフェイズ毎にサイコロを１回振る。１～５の目が出た場合、フィールド上に表側表示で存在する出た目と同じレベルのモンスターを全て破壊する。６の目が出た場合、フィールド上に表側表示で存在するレベル６以上のモンスターを全て破壊する。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 每次自己的準備階段丟1次骰子。和投出來的數目一樣等級的怪獸全部破壞。（投出來的數目是6的場合包括6星以上的怪獸） 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신의 스텐바이 페이즈마다 주사위를 1번만 던진다.  나온 눈과 같은 레벨의 앞면 표시 몬스터를 전부 파괴한다. (나온 눈이 6 일 경우는 6 이상의 레벨의 몬스터도 포함된다) 
+ 
+ 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+During your  Standby Phase , roll 1 six-sided die once.  Destroy  any  monsters  whose  Level  Stars are equal to the number rolled. (If the number is "6", destroy all face-up Level 6 or higher monsters on the field.) 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2004-12-01  
+ LON-EN086   
+ Labyrinth of Nightmare 
+ Common 
+ 
+ 
+ 2005-07-27  
+ DB2-EN019   
+ Dark Beginning 2 
+ Common 
+ 
+ 
+ 2013-10-11  
+ LCJW-EN269   
+ Legendary Collection 4: Joey's World Mega Pack 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ 
+ North American English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2003-03-01  
+ LON-086   
+ Labyrinth of Nightmare 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—Europe 
+ 
+ 
+ 
+ European English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+   
+ LON-E086   
+ Labyrinth of Nightmare 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2003-03-01  
+ LDC-F086   
+ Labyrinth of Nightmare 
+ Le Labyrinthe Des Cauchemars  
+ Common 
+ 
+ 
+ 2005-07-22  
+ DB2-FR019   
+ Dark Beginning 2 
+ Genèse Ténébreuse 2  
+ Common 
+ 
+ 
+ 2013-10-10  
+ LCJW-FR269   
+ Legendary Collection 4: Joey's World Mega Pack 
+ Collection Légendaire 4: Le Monde de Joey Méga Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2003-02-01  
+ LON-G086   
+ Labyrinth of Nightmare 
+ Labyrinth of Nightmare  
+ Common 
+ 
+ 
+ 2005-07-27  
+ DB2-DE019   
+ Dark Beginning 2 
+ Dark Beginning 2  
+ Common 
+ 
+ 
+ 2013-10-10  
+ LCJW-DE269   
+ Legendary Collection 4: Joey's World Mega Pack 
+ Legendary Collection 4: Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2003-03-01  
+ LDI-I086   
+ Labyrinth of Nightmare 
+ Labirinto Dell'Incubo  
+ Common 
+ 
+ 
+ 2005-07-22  
+ DB2-IT019   
+ Dark Beginning 2 
+ Inizio Oscuro 2  
+ Common 
+ 
+ 
+ 2013-10-10  
+ LCJW-IT269   
+ Legendary Collection 4: Joey's World Mega Pack 
+ Collezione Leggendaria 4: Mega-Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2013-10-11  
+ LCJW-PT269   
+ Legendary Collection 4: Joey's World Mega Pack 
+ Mega Pacote da Coleção Lendária 4: O Mundo de Joey  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2005-07-22  
+ DB2-SP019   
+ Dark Beginning 2 
+ Principio Oscuro 2  
+ Common 
+ 
+ 
+ 2013-10-10  
+ LCJW-SP269   
+ Legendary Collection 4: Joey's World Mega Pack 
+ Colección Legendaria 4: El Mundo de Joey Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2001-07-21  
+ LN-35   
+ Labyrinth of Nightmare (Japanese) 
+ － 悪夢の迷宮 －  
+ Common 
+ 
+ 
+ 2002-12-12  
+ DL3-118   
+ Duelist Legacy Volume.3 
+ ＤＵＥＬＩＳＴ　ＬＥＧＡＣＹ　Ｖｏｌｕｍｅ．３  
+ Common 
+ 
+ 
+ 2003-08-07  
+ SJ2-053   
+ Structure Deck: Jonouchi Edition Volume 2 
+ ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －城之内編－ Ｖｏｌｕｍｅ ２  
+ Common 
+ 
+ 
+ 2004-12-09  
+ BE2-JP019   
+ Beginner's Edition 2 
+ ＢＥＧＩＮＮＥＲ'Ｓ　ＥＤＩＴＩＯＮ　２  
+ Common 
+ 
+ 
+ 2011-08-13  
+ BE02-JP018   
+ Beginner's Edition 2 (2011) 
+ ＢＥＧＩＮＮＥＲ＇Ｓ　ＥＤＩＴＩＯＮ　２　［　２０１１　］  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Asian-English 
+ 
+ 
+ 
+ Asian-English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2003-06-19  
+ LON-086   
+ Labyrinth of Nightmare 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2004-09-02  
+ LON-KR086   
+ Labyrinth of Nightmare 
+ 악몽의 미궁  
+ Common 
+ 
+ 
+ 2006-09-28  
+ BP2-KR019   
+ Beginner's Edition 2 
+ 비기너즈 팩 Vol.2  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Worldwide Edition: Stairway to the Destined Duel 
+ 
+ 
+ F-I-N-A-L  ( Common )
+ 
+ Yellow Millennium Eye  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   Nightmare Troubadour 
+ 
+ 
+ Beautiful Challenger 
+ 
+ 
+ 
+ 
+ 
+   Online 
+ 
+ 
+ Pack 20 
+ 
+ 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+ Labyrinth of Nightmare  ( Common )
+ Continuous Spell/Trap A  ( Common )
+ All Traps  ( Common )
+ 
+ All at Random  ( Common ) 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys face-up Monster Cards 
+ 
+ Miscellaneous  
+ Die roll 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 5268 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Worldwide Edition: Stairway to the Destined Duel 2003-04-15 – – – – – Unlimited Nightmare Troubadour 2005-07-21 – ??? – – – Unlimited Online 2005-11-04 – – – – – Unlimited Ultimate Masters: World Championship Tournament 2006 2006-02-23 – 2600 – – – Unlimited 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/42/BlindDestruction-LCJW-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20131014112132', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,568 @@
+Link: https://yugioh.fandom.com/wiki/Destroy
+
+
+ 
+ Destroy
+ 
+ 
+ 
+ " Chthonian Blast "
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 破 壊 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ はかい
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 破壊
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ hakai
+ 
+ 
+ 
+ English
+ 
+ 
+ destroy
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : détruire 
+ German : zerstören 
+ Italian : distruggere 
+ Portuguese : destruir 
+ Spanish : destruir 
+ Korean : 파괴 (破壞)  pagoe 
+ Traditional Chinese : 破壞  pòhuài / po3 waai6 
+ Simplified Chinese : 破坏  pòhuài 
+ 
+ 
+ Destroying  (Japanese:  破 壊   Hakai ) is an action that  sends  a card from its current location to the  Graveyard .
+ A card is destroyed when it is sent to the Graveyard due to battle between monsters or by an effect that destroys a card. A card that is returned from the field to the hand or Deck, or, that is sent to the Graveyard as a cost or Tribute, is NOT considered “destroyed”.
+ Cards already in the Graveyard and  banished  cards cannot be destroyed. Usually only cards on the  field  or  monsters  whose  Summons  are  negated  are destroyed, but  card effects  that use the term "destroy" can destroy cards in the  hand ,  Main Deck  and  Extra Deck . Cards cannot be destroyed in the Main Deck unless a card specifically allows and states it, such as " Chain Dispel "; if " The Fabled Unicore " negates the activation of the effect of a card in the Main Deck, it will not be destroyed.
+ 
+ Contents 
+ 
+ 1   Causes 
+ 2   Not sending destroyed cards to the Graveyard 
+ 3   Sending to the Graveyard without destroying 
+ 4   List 
+ 
+ 
+ Causes 
+ NOTE: Only the first two fulfill the  Trigger  condition of the widely used "destroyed by battle or by card effect". 
+ 
+ Card effects  that uses the term "destroy" (like " Exiled Force ", " Horn of Heaven "). 
+ Monsters can be  destroyed by battle  during  damage calculation . 
+ Not fulfilling a  maintenance cost  that uses the term "destroy" (like " Messenger of Peace "). 
+ Invalidating an  Equip Card   target .
+ Equipped  cards will be immediately destroyed if their target is not  face-up  in a  Monster Zone , or has become an incorrect target. 
+ If a card that is not normally an  Equip Spell Card  is equipped to a monster by that monster's effect, it will be destroyed if that effect is no longer being applied. 
+ Existence restrictions.
+ Cards that have restrictions on the number that can be  face-up  will be destroyed if this number is exceeded. For example, if an " Earthbound Immortal Aslla piscu " is  flipped  face-up (by  card effect ) while its controller  controls  another one, the newly flipped monster will be destroyed. 
+ If a  Normal ,  Quick-Play  or  Ritual Spell Card , or a  Normal  or  Counter Trap Card  is only remaining face-up on the field due to a card effect and that effect is no longer active, it will be destroyed (e.g. " Swords of Revealing Light " after the 3rd turn). 
+ No free  zones .
+ When  taking control  of the opponent's monster, if there is no empty Monster Card Zone for it, it is destroyed while under the opponent's control. 
+ Halting an  infinite loop  with no net change. 
+ Not sending destroyed cards to the Graveyard 
+ Some  card effects  can cause destroyed cards to be moved to a location other than the Graveyard. For example, " Grave Protector " causes all monsters that are destroyed by battle to be  shuffled  into the Deck instead of being sent to the Graveyard.
+ If a card like " Macro Cosmos " is active, cards that would be sent to the Graveyard (including by being destroyed) are banished instead. If a card like " Dark Magician of Chaos " would  leave the field  (including by being destroyed), it is banished instead. 
+ Pendulum Monsters  that are destroyed from the field are not sent to the Graveyard, by their own mechanic.
+ 
+ Sending to the Graveyard without destroying 
+ Not all cards that send cards from the field to the Graveyard destroy them; cards like " Dark End Dragon ", " Ninjitsu Art of Super-Transformation ", and " Number 50: Blackship of Corn " send cards from the field to the Graveyard, but they do not destroy the cards, since they do not include the word "destroy" in the text; as such, these effects cannot be negated by effects like " Stardust Dragon ".
+ 
+ List 
+ List of cards that destroy other cards.
+ 
+ Destroys hand 
+ Destroys Monster Cards 
+ Destroys Spell Cards 
+ Destroys Trap Cards 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/79/ChthonianBlast-TF04-JP-VG.jpg/revision/latest/scale-to-width-down/200?cb=20120502231945']
+Categories: Gameplay

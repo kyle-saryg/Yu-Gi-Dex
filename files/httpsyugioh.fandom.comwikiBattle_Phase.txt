@@ -1,0 +1,548 @@
+Link: https://yugioh.fandom.com/wiki/Battle_Phase
+
+"BP" redirects here. For the series of booster packs, see  Battle Pack .   
+ 
+ 
+ Battle Phase
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ バトルフェイズ
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Batoru Feizu
+ 
+ 
+ 
+ English
+ 
+ 
+ Battle Phase
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Battle Phase 
+ German : Battle Phase 
+ Italian : Battle Phase 
+ Portuguese : Fase de Batalha Formerly: Battle Phase 
+ Spanish : Battle Phase 
+ Korean : 배틀 페이즈  Baeteul Peijeu 
+ Traditional Chinese : 戰鬥階段  Zhàndòu Jiēduàn / Zin3 dau3 Gaai1 dyun6 
+ Simplified Chinese : 战斗阶段  Zhàndòu Jiēduàn 
+ 
+ 
+       Order of a  turn .     
+ The  Battle Phase  (Japanese: バトルフェイズ  Batoru Feizu ) is the  Phase  in which  battles  are conducted. A Battle Phase can be conducted every  turn  (except the first turn of the  Duel ) after the  turn player  ends their  Main Phase 1 . [1] 
+ " An Unfortunate Report ", " Weather Report ", and " Last Turn " are the only cards that can grant multiple Battle Phases in one turn. Some cards like  Electromagnetic Turtle  and  Negate Attack  can end the Battle Phase.
+ 
+ Breakdown 
+ The Battle Phase is split into four steps:
+ 
+ Start Step 
+ Battle Step 
+ Damage Step  (including  damage calculation ) 
+ End Step 
+ The Start Step, Battle Step, and End Step always occur during every Battle Phase, unless skipped due to a  card effect . The Damage Step only occurs if a monster's attack is successful, up to the point where both players agree to leave the Battle Step. If a card effect ends the Battle Phase (such as " Battle Fader "), it immediately becomes the  End Step [2] , unless the card effect changes the  phase  directly (such as " Neko Mane King "), in which case it is no longer the Battle Phase.
+ 
+ Entering the Battle Phase 
+ A player does not need to control any monsters in order to enter their Battle Phase. [3]  Even if their opponent controls no valid attack targets (e.g. the opponent only controls 2 face-up copies of " Marauding Captain " and/or a face-up " Earthbound Immortal " monster), a player may still enter their Battle Phase. [4] 
+ A player entering their Battle Phase is optional after their Main Phase 1 ends, except when  card effects  mandate it. For example, the turn player must enter their Battle Phase if a card effect is forcing a monster(s) they control to attack during that turn, [5]  even if another card effect is currently preventing them from attacking, such as a face-up " Gravity Bind ". [6]  If the turn player does not choose to enter their Battle Phase after their Main Phase 1 ends, they must proceed immediately to the  End Phase , without entering their  Main Phase 2 . [7] 
+ If a card effect skips a player's Main Phase 1, such as that of " Timeater ", that player does not have to enter their Battle Phase from their  Standby Phase  — they may choose to enter their End Phase instead. [8]  However, if card effects skip the same player's Main Phase 1 and Battle Phase during the same turn, that player cannot enter their Main Phase 2 and must instead proceed immediately to their End Phase. [9] 
+ 
+ References 
+ 
+ ↑   Konami.  Yu-Gi-Oh! Trading Card Game - Official Rulebook Version 9.1 . pp. 30, 33 .  http://yugioh.wikia.com/wiki/File:Rulebook_v9.1.pdf . 
+ 
+ ↑   Konami (5 February 2010).  Absolute Powerforce – Card Rulings (version 1.0) . Battle Fader .  http://www.yugioh-card.com/en/gameplay/rulings/ABPF_sneak_ruling.pdf . 
+ 
+ ↑   Konami Digital Entertainment (10 June 2015).  "Striking from the Darkness: Marik's Juragedo" . Konami .  https://yugiohblog.konami.com/articles/?p=7219 . Retrieved 31 May 2016 . 
+ 
+ ↑   "Individual Card Rulings [A-C]" . UDE. Command Knight. Archived from  the original  on 17 February 2009 .  http://web.archive.org/web/20090217182013/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=A&last=C . Retrieved 25 November 2015 . 
+ 
+ ↑   "Individual Card Rulings [A-C]" . UDE. Battle Mania. Archived from  the original  on 17 February 2009 .  http://web.archive.org/web/20090217182013/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=A&last=C . Retrieved 25 February 2017 . 
+ 
+ ↑   "Individual Card Rulings [A-C]" . UDE. Berserk Gorilla. Archived from  the original  on 17 February 2009 .  http://web.archive.org/web/20090217182013/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=A&last=C . Retrieved 25 February 2017 . 
+ 
+ ↑   Konami.  Yu-Gi-Oh! Trading Card Game - Official Rulebook Version 9.1 . pp. 30 .  http://yugioh.wikia.com/wiki/File:Rulebook_v9.1.pdf . 
+ 
+ ↑   Konami (2 February 2011).  Storm of Ragnarok – Card Rulings (version 1.0) . Terminal World .  http://www.yugioh-card.com/en/gameplay/rulings/STOR_Rulebook_20110202.pdf . 
+ 
+ ↑   "Individual Card Rulings [S-T]" . UDE. Timeater. Archived from  the original  on 26 February 2009 .  http://web.archive.org/web/20090226221425/http://entertainment.upperdeck.com/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=S&last=T . Retrieved 18 August 2015 . 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/bb/TurnStructure.svg/revision/latest?cb=20150823015631', '/extensions-ucp/v2/ImageMap/resources/desc-20.png']
+Categories: Phases and Steps

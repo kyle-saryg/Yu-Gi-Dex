@@ -1,0 +1,125 @@
+Link: https://yugioh.fandom.com/wiki/Automatic_Win
+
+See also:  Match winner 
+ 
+ 
+ Duel winner 
+ 
+ 
+ 
+ 
+ " Final Countdown ", an example of a Duel winner card. 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! Duel Monsters Yu-Gi-Oh! GX Yu-Gi-Oh! ZEXAL 
+ 
+ 
+ 
+ 
+ Manga appearances 
+ 
+ 
+ Yu-Gi-Oh! Yu-Gi-Oh! Duelist 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members 
+ 
+ 
+ 
+ 
+ Duel winners  are a  series  of cards whose text mentions certain unique  conditions  that can allow a player to automatically  win  a  Duel .
+ 
+ Contents 
+ 
+ 1   List 
+ 
+ 1.1   Cards that give the user a victory condition 
+ 1.2   Cards that give both players a victory condition 
+ 1.3   Cards that give the opponent a victory condition 
+ 
+ 
+ 2   See also 
+ 3   Trivia 
+ 
+ 
+ List 
+ Cards that give the user a victory condition 
+ " Exodia the Forbidden One ": If your  hand  contains this card along with " Left Arm of the Forbidden One ", " Right Arm of the Forbidden One ", " Left Leg of the Forbidden One " and " Right Leg of the Forbidden One ", you win the Duel. All five of these cards are currently  Limited . 
+ " Destiny Board ": This card can place 1 " Spirit Message " card from your hand or  Deck  to your side of the  field  at the end of each of your opponent's turns, in the order of " Spirit Message "I" ", " Spirit Message "N" ", " Spirit Message "A" ", and " Spirit Message "L" ". If "Destiny Board" and all four different "Spirit Messages" are on the field, you win the Duel. (In the manga, the "Spirit Messages" were not separate  Spell Cards  but rather simply spectral forms that appeared above this card. In addition, it required " Dark Necrofear " to be in the  Graveyard  to activate its effect.) 
+ " Final Countdown ": This card requires a  cost  of 2000 Life Points to activate. 20 turns after its activation, you win the Duel. This card is currently  Limited  in the  TCG  only. 
+ " Vennominaga the Deity of Poisonous Snakes ": This card gains a  Hyper-Venom Counter  each time it inflicts  battle damage  to your opponent. If this card has three Hyper-Venom Counters on it, you win the Duel. (In the anime, this card allowed you to win the Duel three turns after it inflicted battle damage to your opponent, with no  Counters  involved.) 
+ " Exodius the Ultimate Forbidden Lord ": This card sends 1 monster from your  hand  or  Deck  to the  Graveyard  each time it  attacks . If five different " Forbidden One " monsters are in your Graveyard that were sent there by this card's effect, you win the Duel. (In the anime, the five "Forbidden One" monsters could be in the Graveyard by any method, not necessarily needing to be sent by this card's effect.) 
+ " Holactie the Creator of Light ": The only way to Summon this card is by Tributing monsters whose original names are " Slifer the Sky Dragon ", " Obelisk the Tormentor " and " The Winged Dragon of Ra " (meaning that you cannot use cards like " Phantom of Chaos " to copy any card names). If you successfully Summon this card, you win the Duel. The Summon of "Holactie" cannot be negated, so cards like " Solemn Warning ", etc. cannot stop it. 
+ " Number 88: Gimmick Puppet of Leo ": This card can gain a  Destiny Counter  once per turn by detaching one of its three  Xyz Materials , but in order to do so, you must have no cards in your  Spell & Trap Card Zone  and must skip that turn's Battle Phase. If this card has three Destiny Counters on it, you win the Duel. (In the anime, this card could detach one of its Xyz Materials once per turn with no restrictions, and it allowed its controller to win the Duel if it detached all of its Xyz Materials by its own effect, with no  Counters  involved.) 
+ " Number C88: Gimmick Puppet Disaster Leo ": Once per turn, you can detach an Xyz Material from this card to inflict 1000 damage to the opponent. During your  End Phase , if this card has no Xyz Materials while the opponent has 2000 or fewer Life Points, you win the Duel. (In the anime, the damage was 4000 instead of 1000, and it allowed its controller to win the Duel if it had no Xyz Materials at the end of a turn, with no requirement on the opponent's Life Points.) 
+ " Creator of Miracles ": By shouting " ZEXAL Field !", this card allows a " Number C39 " monster you control to attack  directly  for one turn. If you have previously activated the effects of " Winning Formula " and " Creator of Hope " during that Duel, and if it successfully inflicts  battle damage  during that direct attack, you win the Duel. "Creator of Miracles", "Winning Formula", and "Creator of Hope" are all  illegal  to use in official Duels. 
+ " Jackpot 7 ": This card  banishes  itself when sent to the Graveyard by your opponent's card effect. When three "Jackpot 7" are banished by this effect, you win the Duel. 
+ " Don Thousand/Monster C ": As a  Boss Duel  card equivalent to " Number iC1000: Numerounius Numerounia " (see below), it has the same victory condition in that during your opponent's End Phase, if they did not declare an attack that turn, they lose the Duel. However, this card does not have the attack-negating effect that the real "Numerounia" has. This card is only usable by a boss during a  Yu-Gi-Oh! Day   Boss Duel  event. 
+ " Ghostrick Angel of Mischief ": Once per turn, you can attach a " Ghostrick " card in your hand to this card as an  Xyz Material . When this card has 10 or more Xyz Materials, you win the Duel. 
+ " Phantasm Spiral Assault ": This card allows you to  target  a " Phantasm Spiral Dragon " you control, and if it goes on to destroy 3 of your opponent's  Effect Monsters  while  equipped  each time with 3 or more " Phantasm Spiral "  Equip Spells  with different names, you win the Duel. 
+ " Flying Elephant ": This card can prevent its destruction from a card effect. Then, when it does, a bonus effect is added that allows it to attack directly and if successful, you win that Duel. 
+ " F.A. Winners ": This card allows you to banish an F.A. Field Spell each turn, given the conditions and when three of those are banished, you win the Duel. 
+ " Exodia, the Legendary Defender ": If this card is  Tribute Summoned  using 5 monsters and it destroys a  DARK   Fiend  monster that is owned by your opponent in battle, you win the duel. 
+ " Number iC1000: Numerounius Numerounia ": During your opponent's End Phase, if they did not declare an attack that turn, they lose the Duel. 
+ In a video game only:
+ 
+ " Speed Spell - Final Countdown ": As a  Speed Spell  version of "Final Countdown", you must remove 3 of your  Speed Counters  to activate this card. Then, as with the original card, after paying 2000 Life Points, you win the Duel after 20 turns have passed. Like most Speed Spell cards based on actual cards, this card exists only in the later games of the  Yu-Gi-Oh! World Championship  series of video games, specifically only in  Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus . 
+ Cards that give both players a victory condition 
+ " Last Turn ": You must have 1000 or fewer  Life Points  to  activate  this card. When activated, you choose one  monster  you control, and all other cards on the field and in both players'  hands  are sent to the Graveyard. Your opponent then  Special Summons  a monster from their Deck. A special  Battle Phase  occurs in which the two monsters battle and  battle damage  is ignored. The player whose monster remains alone on the field at the  End Phase  of this turn wins the Duel. This card is currently  Forbidden . 
+ In the anime only:
+ 
+ " Deuce ": This card allows either player to win the Duel if they damage the opponent twice in a row; however, only one monster per player may attack per turn. 
+ " Draw of Fate ": This card negates an opponent's attack and then has both players draw 1 card. Whoever has not used their drawn card by the End Phase loses the Duel. 
+ Cards that give the opponent a victory condition 
+ " Relay Soul ": This card allows you to  Special Summon  a monster from your hand, and prevents all damage to you while it stays  face-up , but if it  leaves the field , then your opponent wins the Duel. (In the anime, this card activated when the user's Life Points became 0 and  prevented the user from losing , instead giving the opponent the only way to win the Duel of destroying the Special Summoned monster.) 
+ " True Exodia ": If the only monsters on the field are this card you control and 4 "Forbidden One" Normal Monsters with different names, your opponent wins the Duel. 
+ In the manga only:
+ 
+ " Zero Gate of the Void ": Similar to the anime effect of " Relay Soul ", this card Special Summons " Void Ogre Dragon " when the player's Life Points hit 0 while their hand and field are empty, and gives the opponent the only way to win the Duel of destroying "Void Ogre Dragon". 
+ See also 
+ 
+ This section  may require  cleanup  to meet this wiki's standards.   You can help out by re-organizing or re-writing parts of it or checking grammar and spelling.   
+ Exodia OTK 
+ Spirit Message 
+ Instant Win Deck 
+ Final Countdown Deck 
+ Egyptian God 
+ Trivia 
+ All Duel winner  monsters  that have been released in the  TCG  are  DARK . The only monsters that are not are the  OCG -only "Holactie" who is  DIVINE , the  OCG -only "Creator of Miracles" who is  LIGHT , the anime-only "Numerounius Numerounia" who is LIGHT, and the  OCG -only "Don Thousand/Monster C" who has no  Attribute . 
+ When successfully pulling off an alternate victory condition in the  Yu-Gi-Oh! Tag Force  series of video games, the game will display the text (for example) 'You won using the  effects  of "Exodia the Forbidden One".' Strictly speaking, this is not accurate as victory conditions are not  card effects  (which can be  negated ) but rather  conditions  (which cannot). This text error occurs even in the original Japanese versions of the games. 
+   
+ Duel winner Members 
+ Creator of Miracles Don Thousand/Monster C Exodia the Forbidden One Exodia, the Legendary Defender Exodius the Ultimate Forbidden Lord Flying Elephant Ghostrick Angel of Mischief Holactie the Creator of Light Musical Sumo Dice Games Number 88: Gimmick Puppet of Leo Number C88: Gimmick Puppet Disaster Leo Number iC1000: Numerounius Numerounia True Exodia Vennominaga the Deity of Poisonous Snakes 
+ Destiny Board F.A. Winners Final Countdown Jackpot 7 Last Turn Phantasm Spiral Assault Relay Soul 
+ Related 
+ Creator of Hope Exodia Necross Left Arm of the Forbidden One Left Leg of the Forbidden One Number C1000: Numerounius Obelisk the Tormentor Obelisk the Tormentor Phantasm Spiral Dragon Right Arm of the Forbidden One Right Leg of the Forbidden One Slifer the Sky Dragon Slifer the Sky Dragon The Winged Dragon of Ra The Winged Dragon of Ra 
+ Rise of the Snake Deity Spirit Message "A" Spirit Message "I" Spirit Message "L" Spirit Message "N" Umi Winning Formula 
+ 
+ v e 
+ Duel winner   a   Members 
+ Blackwing - Decay the Ill Wind Destiny Board Deuce Draw of Fate Exodia the Forbidden One Exodius the Ultimate Forbidden Lord Last Turn Number C88: Gimmick Puppet Disaster Leo Number iC1000: Numeronius Numeronia Relay Soul Vennominaga the Deity of Poisonous Snakes 
+ Related 
+ Left Arm of the Forbidden One Left Leg of the Forbidden One Number C1000: Numeronius Right Arm of the Forbidden One Right Leg of the Forbidden One Ritual of the Ultimate Forbidden Lord Spirit Message "A" Spirit Message "I" Spirit Message "L" Spirit Message "N" 
+ 
+ v e 
+ Duel winner   m   Members 
+ Destiny Board Exodia the Forbidden One Zero Gate of the Void 
+ Related 
+ Dark Necrofear Left Arm of the Forbidden One Left Leg of the Forbidden One Right Arm of the Forbidden One Right Leg of the Forbidden One 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/2f/FinalCountdown-TF04-JP-VG.jpg/revision/latest/scale-to-width-down/350?cb=20120423224510', 'https://static.wikia.nocookie.net/yugioh/images/9/90/Broom_icon.png/revision/latest/scale-to-width-down/35?cb=20070612131135']
+Categories: Series, Anime and manga only series, Series with Xyz Monster(s), Articles needing cleanup

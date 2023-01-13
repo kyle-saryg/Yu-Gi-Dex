@@ -1,0 +1,235 @@
+Link: https://yugioh.fandom.com/wiki/LV
+
+This article is about the archetype. For the monster property, see  Level .      
+ 
+ 
+ LV 
+ ＬＶ 「 レベル 」  ( Reberu ) 
+ 
+ 
+ 
+ 
+ " Silent Swordsman LV0 " and " Silent Magician LV0 " with  Yugi Muto  and " Marshmallon ". 
+ 
+ 
+ Other names 
+ 
+ French 
+ LV 
+ 
+ 
+ German 
+ LV 
+ 
+ 
+ Italian 
+ LV 
+ 
+ 
+ Korean 
+ LV   Rebel   (romanized) 
+ 
+ 
+ Portuguese 
+ LV 
+ 
+ 
+ Spanish 
+ LV 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Soul of the Duelist Structure Deck - Dragon's Roar Duelist Pack: Chazz Princeton Blazing Vortex 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Dark Revelation Volume 3 Rise of the Dragon Lords Structure Deck Dragunity Legion Structure Deck OTS Tournament Pack 15 Ghosts From the Past Speed Duel GX: Duel Academy Box 2022 Tin of the Pharaoh's Gods 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Structure Deck: Dragunity Drive Duelist Pack: Memories of the Pharaoh Blazing Vortex +1 Bonus Pack 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! Yu-Gi-Oh! GX Yu-Gi-Oh! 5D's Yu-Gi-Oh! ZEXAL Yu-Gi-Oh! ARC-V Yu-Gi-Oh! The Dark Side of Dimensions 
+ 
+ 
+ 
+ 
+ Manga appearances 
+ 
+ 
+ Yu-Gi-Oh! Millennium World Yu-Gi-Oh! R Yu-Gi-Oh! GX 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " LV " ( ＬＶ   Reberu ) is an  archetype  of cards used by  Yugi Muto ,  Jaden Yuki ,  Chazz Princeton ,  Taigo Sorano ,  Gill Randsborg ,  Scorch  and  Chills , that are capable of  sending  themselves to the  Graveyard  to Summon a more powerful version of themselves once certain conditions are met. Typically, the higher  Level  monsters of a series can only use their  effects  when Special Summoned by their predecessor, with the highest Levels only Summonable by the effect of their predecessor.
+ Some "LV" monsters automatically "level up" into more powerful cards during the  Standby Phase , while others have to fulfill conditions, such as  destroying  an opponent's monster  by battle . Most of the high-end "LV" monsters tend to have extraordinary powerful effects, ranging from the fearsome lockdown of " Horus the Black Flame Dragon LV8 " that prevents the opponent from using  Spell Cards  to the ability of " Armed Dragon LV10 " that wipes out many opposing monsters at once. The use of "LV" Monsters in a player's Deck typically grants easy access to something very strong and very quickly without the need to have the stronger monster in the  hand  first, and grants an additional  Deck Thinning  effect because of this as well.
+ 
+ Contents 
+ 
+ 1   Strategy 
+ 2   Types of "LV" Monsters 
+ 
+ 2.1   Type One 
+ 2.2   Type Two 
+ 2.3   Type Three 
+ 2.4   Type Four 
+ 2.5   Other 
+ 
+ 
+ 3   Trivia 
+ 4   See also 
+ 
+ 
+ Strategy 
+ Most of the more powerful "LV" monsters fall under heavily supported  Types , and can benefit from their support cards as well:
+ 
+ " Armed Dragon " greatly benefits from the  Dragon  searcher " Masked Dragon ", as it can Summon the base form during your opponent's  turn , allowing you to get " Armed Dragon LV5 ". Since it is also a  WIND  Attribute monster, " Flying Kamikiri #1 " can be used in the same fashion. 
+ " Shining Angel " can do the same for " Silent Swordsman LV3 ", allowing you to Summon " Silent Swordsman LV5 " without major hassle. 
+ " Ultimate Insect " can, likewise, benefit from " Howling Insect " and " Flying Kamakiri #1 " in a similar fashion, as well as " Insect Imitation " to further the process along. 
+ Both of the "LV" Dragons (" Horus the Black Flame Dragon " and "Armed Dragon") can benefit from Dragon support cards, namely many of those released in " Legacy of Darkness ". " Dragon's Rage " in particular can be very useful as it can fill a similar purpose to " Fairy Meteor Crush ", but will still be able to be used when the Dragon levels up (any  Equip Cards  would be destroyed when a "LV" monster levels up). 
+ " Mystic Swordsman " also benefit from many of the  Warrior  support cards such as " Reinforcement of the Army " and " The Warrior Returning Alive ", and can bypass the "no Normal Summon" rule by using " Marauding Captain " and " Book of Taiyou ". " Book of Moon ", " Swords of Concealing Light ", and even " Darkness Approaches " can also help "Mystic Swordsman" to destroy powerful and problematic monsters (such as " Dark Armed Dragon "). "Silent Swordsman" can also benefit from these cards as well. 
+ Types of "LV" Monsters 
+ All "LV" monsters have a basic setup: A low- Level  "base" that has some basic defense that will help it survive until it can level up to the next one, a mid-Level form that acts as the primary monster, and a final, powerful form that has devastating  effects  and stats. However, there are distinctions between the different sets that sets them apart. Also, in the artwork of the card, the first of the series is usually an "immature" and comical version of the series, with the mid-level being typical of other monsters, while the final one shows something akin to the trump cards of other archetypes.
+ An exception to the above are the " Armed Dragon " and " Ultimate Insect "  series , which both has 2 mid-level forms (however, " Armed Dragon LV7 " was originally the trump card of the series, as evident by its lack of an ability to Summon its final form).
+ 
+ Type One 
+ The first type of "LV" monsters mimic the "level up" mechanics of RPGs fairly well. The first monsters in each set will also have a fairly easy time leveling up to the next Level (similar to the many "training dungeons" at the beginning of RPGs). The " Silent Magicians " are slightly different-each time a player  draws  a card, it gets a  Spell Counter  which gives it a boost of 500  ATK . Once it has 5 Spell Counters, it can be  Tributed  to Summon its greater form, which has a permanent 3500 ATK and immunity to  Spell Cards . However, all of the final forms of these monsters are  Nomi  monsters, meaning they are unusable unless you have already exhausted all of their previous forms. The advantage to these types are that their mid-level forms can be  Normal Summoned  without restrictions, making them quite usable in other Decks, not just "LV" Decks. These will also likely be the ones used most during the course of the Duel, due to their usefulness compared to relative ease of Summoning. Note that the mid-forms of these sets are all 1-Tributers, so there is some difficulty in Summoning them normally, giving a reason to use their base forms. The following are all of this type: 
+ 
+ Armed Dragon 
+ Armed Dragon LV3 
+ Armed Dragon LV5 
+ Armed Dragon LV7 
+ Armed Dragon LV10 
+ Horus the Black Flame Dragon 
+ Horus the Black Flame Dragon LV4 
+ Horus the Black Flame Dragon LV6 
+ Horus the Black Flame Dragon LV8 
+ Masked Knight 
+ Masked Knight LV3 
+ Masked Knight LV5 
+ Masked Knight LV7 
+ Silent Magician 
+ Silent Magician LV4 
+ Silent Magician LV8 
+ Silent Swordsman 
+ Silent Swordsman LV3 
+ Silent Swordsman LV5 
+ Silent Swordsman LV7 
+ Type Two 
+ The second type is exclusive to the "Mystic Swordsman" series. These were perhaps the 'prototypes' for the third type, as each card was theoretically usable, since they could be  Set  normally (but only the base form could be  Normal Summoned ). However, due to the low  DEF  of these cards, they are not likely to survive their first  turn , and any protection cards could be better used for other occasions (since these could be Special Summoned easily in a Deck dedicated to them). Apart from this, this type of card has few drawbacks compared to the first type, namely that all three versions could be used with devastating effect regardless of whether or not you plan to  Level  them (Namely, " Mystic Swordsman LV2 " was an improved version of the once popular " Sasuke Samurai "):
+ 
+ Mystic Swordsman 
+ Mystic Swordsman LV2 
+ Mystic Swordsman LV4 
+ Mystic Swordsman LV6 
+ Type Three 
+ The final type are perhaps the easiest to Summon, but hardest to use. This type has no restrictions on  Normal Summoning . However, the trade-off is that they only obtain their  effects  when they are Summoned by their predecessors. This makes it especially hard for the " Allure Queen " and " Dark Lucius " series to level up, as the mid- Level  form requires the effect to level up, and the support card " Level Up! " cannot give them their effects, since they are not Summoned by their predecessors. The condition for their effects also makes them especially vulnerable to " Swords of Concealing Light ", " Book of Moon ", and even " Darkness Approaches ", as they will no longer count as being Summoned by the effect of their predecessor. However, their final forms are quite powerful and, with the exception of "Allure Queen", could still be used either for its reduced effect (" Dark Mimic ") or simply for its brute strength ("Ultimate Insect" and "Dark Lucius"):
+ 
+ Allure Queen 
+ Allure Queen LV3 
+ Allure Queen LV5 
+ Allure Queen LV7 
+ Dark Lucius 
+ Dark Lucius LV4 
+ Dark Lucius LV6 
+ Dark Lucius LV8 
+ Dark Mimic 
+ Dark Mimic LV1 
+ Dark Mimic LV3 
+ Ultimate Insect 
+ Ultimate Insect LV1 
+ Ultimate Insect LV3 
+ Ultimate Insect LV5 
+ Ultimate Insect LV7 
+ Type Four 
+ These were only used by  Yugi Muto  in the manga and the  Dawn of the Duel  arc of the  anime . They traditionally go up a Level every  Standby Phase , while gaining 500  ATK . These are anime-only and essentially served as prototypes for the other "LV" Monsters.
+ 
+ Silent Magician LV0 
+ Silent Swordsman LV0 
+ Other 
+ The "Winged Kuriboh" series, while technically "LV" monsters, do not follow the normal "LV" system, as they are more akin to upgraded forms (such as " Jinzo " and " Jinzo - Lord "). " Winged Kuriboh LV9 " doesn't have any relations to the normal "Winged Kuriboh" and " LV10 " whatsoever.
+ 
+ Winged Kuriboh LV9 
+ Winged Kuriboh LV10 
+ Trivia 
+ The 1  Tribute  versions of " Horus the Black Flame Dragon ", " Silent Swordsman ", " Mystic Swordsman ", " Masked Knight " and " Ultimate Insect " all have 2300  ATK . 
+ The " Dark Mimic "  series  is the only one without a  Tribute Monster  in its set. Additionally, "Mystic Swordsman" is the only series to have a final form that is a one-Tribute monster. 
+ The "Ultimate Insect" and " Armed Dragon " series have the most evolutions, but only the "Ultimate Insect" set can Summon its various forms through its predecessor's effect. 
+ " Silent Swordsman " used to be the rarest of the "LV" monsters; all three of its forms were only  Ultra Rare  and came from different sets. Its final form was only available as a Limited Edition Promo card. As of  Legendary Collection 3: Yugi's World Mega Pack , this is no longer the case, as all three forms of " Silent Swordsman " are now available as  Common . They and the "Silent Magician" monsters were also reprinted as a part of Yugi Muto's "Gadget" Deck in  Yugi's Legendary Decks , making them all extremely easy to acquire. They were reprinted again along with new support in  Duelist Pack: Rivals of the Pharaoh . 
+ See also 
+ Card Rulings:LV 
+   
+" LV " 「 ＬＶ 」 Members 
+ Allure Queen LV3 Allure Queen LV5 Allure Queen LV7 Armed Dragon LV10 Armed Dragon LV10 White Armed Dragon LV3 Armed Dragon LV5 Armed Dragon LV7 Armed Dragon Thunder LV10 Armed Dragon Thunder LV3 Armed Dragon Thunder LV5 Armed Dragon Thunder LV7 Dark Lucius LV4 Dark Lucius LV6 Dark Lucius LV8 Dark Mimic LV1 Dark Mimic LV3 Horus the Black Flame Dragon LV4 Horus the Black Flame Dragon LV6 Horus the Black Flame Dragon LV8 Mystic Swordsman LV2 Mystic Swordsman LV4 Mystic Swordsman LV6 Silent Magician LV4 Silent Magician LV8 Silent Swordsman LV3 Silent Swordsman LV5 Silent Swordsman LV7 Ultimate Insect LV1 Ultimate Insect LV3 Ultimate Insect LV5 Ultimate Insect LV7 Winged Kuriboh LV10 Winged Kuriboh LV9 
+ Feast of the Wild LV5 Magnet Circle LV2 
+ Support 
+ Silent Paladin 
+ The Graveyard in the Fourth Dimension Level Down!? Level Modulation Level Up! 
+ Related 
+ Dark Armed Dragon Dark Horus Horus' Servant Metaphys Armed Dragon Metaphys Horus Pile Armed Dragon Queen's Bodyguard Silent Magician Silent Swordsman Winged Kuriboh 
+ Transcendent Wings 
+ 
+ v e 
+" LV " 「 ＬＶ 」 a   Members 
+ Allure Queen LV3 Allure Queen LV5 Allure Queen LV7 Armed Dragon LV10 Armed Dragon LV3 Armed Dragon LV5 Armed Dragon LV7 Elegant Light LV4 Feast of the Wild LV5 Horus the Black Flame Dragon LV4 Horus the Black Flame Dragon LV6 Horus the Black Flame Dragon LV8 Magnet Circle LV2 Masked Knight LV3 Masked Knight LV5 Masked Knight LV7 Mystic Swordsman LV2 Mystic Swordsman LV4 Mystic Swordsman LV6 Silent Magician LV0 Silent Magician LV1 Silent Magician LV2 Silent Magician LV3 Silent Magician LV5 Silent Swordsman LV0 Silent Swordsman LV1 Silent Swordsman LV2 Silent Swordsman LV3 Silent Swordsman LV4 Silent Swordsman LV5 Silent Swordsman LV5 Silent Swordsman LV6 Silent Swordsman LV7 Winged Kuriboh LV10 
+ Support 
+ The Graveyard in the Fourth Dimension Level Bond Level Change Level Copy Level Down! Level Modulation Level Modulation Level Soul Level Up! 
+ Related 
+ Dark Armed Dragon Transcendent Wings Winged Kuriboh Winged Kuriboh 
+ 
+ v e 
+ LV   ＬＶ m   Members 
+ Silent Swordsman LV0 Silent Swordsman LV1 Silent Swordsman LV3 Silent Swordsman LV4 Silent Swordsman LV5 Silent Swordsman LV6 Silent Swordsman LV7 Winged Kuriboh 9 Winged Kuriboh LV10 
+ Related 
+ Alchemical Experiment Silent Magician Transcendent Wings Winged Kuriboh 
+ 
+ v e 
+" LV " 
+ " Allure Queen " 
+ " Armed Dragon " 
+ " Dark Lucius " 
+ " Horus the Black Flame Dragon " 
+ " Masked Knight " 
+ " Mystic Swordsman " 
+ " Silent Magician " 
+ " Silent Swordsman " 
+ " Ultimate Insect " 
+ " Winged Kuriboh " 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/2b/LV_monster.png/revision/latest/scale-to-width-down/350?cb=20120531004944']
+Categories: Archetypes, TCG and OCG archetypes

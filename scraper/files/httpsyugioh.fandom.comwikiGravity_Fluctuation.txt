@@ -1,0 +1,82 @@
+Link: https://yugioh.fandom.com/wiki/Gravity_Fluctuation
+
+
+ Gravity Fluctuation 
+ 
+ Japanese:   重力激変 
+ Kana:   グラヴィティ・フラクチュエーション 
+ Romaji:   Guraviti Furakuchuēshon 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Target  1  EARTH   monster  you  control ;  destroy  it, then your opponent destroys 1 monster they control with  ATK  less than or equal to the targeted monster's ATK.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  066 ,  067 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 重力激変 
+ ①：自分フィールドの地属性モンスター１体を対象として発動できる。そのモンスターを破壊する。その後、相手は対象のモンスターの攻撃力以下の攻撃力を持つ相手フィールドのモンスター１体を選んで破壊する。 
+ 
+ 
+ Guraviti Furakuchuēshon 
+ 
+ 
+ Decks 
+ 
+ 
+ Earth  
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/1/18/GravityFluctuation-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180905144206', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

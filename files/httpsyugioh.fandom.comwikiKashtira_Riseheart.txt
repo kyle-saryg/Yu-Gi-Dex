@@ -1,0 +1,124 @@
+Link: https://yugioh.fandom.com/wiki/Kashtira_Riseheart
+
+The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Kashtira Riseheart クシャトリラ・ライズハート 
+ 
+ English 
+Kashtira Riseheart 
+ Japanese 
+ クシャトリラ・ライズハート Check translation 
+ Japanese ( rōmaji ) 
+Kushatorira Raizuhāto 
+ Japanese (translated) 
+Kshatri-La Riseheart 
+ Card type 
+ Monster   
+ Attribute 
+ FIRE   
+ Types 
+ Warrior  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1500  /  2100 
+ Passcode 
+ 31149212 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If you  control  a " Kashtira "  monster : You can  Special Summon  this card from your  hand , also you cannot Special Summon monsters from the  Extra Deck  for the rest of this  turn , except  Xyz Monsters . If this card was  Normal  or Special Summoned this turn: You can  banish  1 "Kashtira" card from your  Deck , except "Kashtira Riseheart"; banish the top 3 cards of your opponent's Deck,  face-down , and if you do, this card's  Level  becomes 7. You can only use each  effect  of "Kashtira Riseheart"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：自分フィールドに「クシャトリラ」モンスターが存在する場合に発動できる。このカードを手札から特殊召喚する。このターン、自分は Ｘ モンスターしか ＥＸ デッキから特殊召喚できない。②：このカードが召喚・特殊召喚に成功したターンの自分メインフェイズに、デッキから「クシャトリラ・ライズハート」以外の「クシャトリラ」カード１枚を除外して発動できる。相手のデッキの上からカード３枚を裏側表示で除外し、このカードのレベルは７になる。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-10-15 PHHY-JP006 Photon Hypernova ＰＨＯＴＯＮ ＨＹＰＥＲＮＯＶＡ Super Rare 2022-10-15 PHHY-JP006 Photon Hypernova ＰＨＯＴＯＮ ＨＹＰＥＲＮＯＶＡ Secret Rare 2022-10-15 PHHY-JP006 Photon Hypernova ＰＨＯＴＯＮ ＨＹＰＥＲＮＯＶＡ Prismatic Secret Rare 2022-10-15 PHHY-JP006 Photon Hypernova +1 Bonus Pack フォトン・ハイパーノヴァ＋１ボーナスパック Super Rare 2022-10-15 PHHY-JP006 Photon Hypernova +1 Bonus Pack フォトン・ハイパーノヴァ＋１ボーナスパック Prismatic Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Xyz Monster 
+ 
+ Archetypes  and  series   
+ Kashtira 
+ 
+ Supports   archetypes   
+ Kashtira 
+ 
+ Actions  
+ Activates upon Normal Summon 
+ Activates upon Special Summon 
+ 
+ Stat changes  
+ Changes own Level 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ Prevents the player's Special Summons from the Extra Deck 
+ 
+ Banished  categories  
+ Banishes from Deck for cost 
+ Banishes from your opponent's Deck 
+ Banishes face-down 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 18151 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Kashtira " 「クシャトリラ」 Members 
+ Kashtira Arise-Heart Kashtira Fenrir Kashtira Ogre Kashtira Riseheart Kashtira Shangri-Ira Kashtira Unicorn Scareclaw Kashtira Tearlaments Kashtira 
+ Kashtira Big Bang Kashtira Birth Kashtira Overlap Kashtira Papiyas Kashtira Preparations 
+ Support 
+ Kashtira Arise-Heart Kashtira Fenrir Kashtira Ogre Kashtira Riseheart Kashtira Shangri-Ira Kashtira Unicorn Scareclaw Kashtira Tearlaments Kashtira 
+ Kashtira Big Bang Kashtira Birth Kashtira Overlap Kashtira Papiyas Kashtira Preparations Prime Planet Paraisos 
+ Related 
+ Visas Starfrost 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/2/2a/KashtiraRiseheart-PHHY-JP-SR.png/revision/latest/scale-to-width-down/300?cb=20221107025639', 'https://static.wikia.nocookie.net/yugioh/images/d/d6/FIRE.svg/revision/latest/scale-to-width-down/28?cb=20120918053839', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

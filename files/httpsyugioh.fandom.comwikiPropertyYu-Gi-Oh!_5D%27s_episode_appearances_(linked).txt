@@ -1,0 +1,11 @@
+Link: https://yugioh.fandom.com/wiki/Property:Yu-Gi-Oh!_5D%27s_episode_appearances_(linked)
+
+This property lists the  Yu-Gi-Oh! 5D's  epsiodes something appears in.
+ It is formatted to link back to the episode pages. It uses  string  values.
+ 
+ See also 
+ Property:Yu-Gi-Oh! 5D's episode appearances 
+ 
+ 
+ 
+Categories:

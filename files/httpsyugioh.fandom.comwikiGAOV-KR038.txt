@@ -1,0 +1,348 @@
+Link: https://yugioh.fandom.com/wiki/GAOV-KR038
+
+The  Chinese, Croatian  and  Portuguese                      names given are not official.  
+ The  Chinese                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Red-Headed Oni 紅 血 鬼 
+ 
+ English 
+Red-Headed Oni 
+ Chinese 
+ 红血鬼 Check translation 
+ French 
+ Oni à la Tête Rouge Check translation 
+ German 
+ Rotköpfiger Oni Check translation 
+ Italian 
+ Oni Testa-Rossa Check translation 
+ Korean 
+ 홍혈귀 Check translation 
+ Portuguese 
+ Oni Vermelho-Ensanguentado Check translation 
+ Spanish 
+ Oni Pelirrojo Check translation 
+ Japanese (kana) 
+ こうけつき Check translation 
+ Japanese (base) 
+ 紅血鬼 Check translation 
+ Japanese ( rōmaji ) 
+Kōketsuki 
+ Japanese (translated) 
+Red-Blooded Oni 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Zombie  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1700  /  1000 
+ Passcode 
+ 30494314 
+ Card effect types 
+ 
+ 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When this card is  Special Summoned  from the  Graveyard  by the  effect  of a  Zombie - Type   monster : You can  target  1  face-up  Zombie-Type monster you  control ;  detach  1  Xyz Material  from a monster on the  field , and if you do, increase the targeted monster's  Level  by 1 and its  ATK  by 300 (even if the targeting  conditions  are no longer correct). 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Lorsque cette carte est Invoquée Spécialement depuis le Cimetière par l'effet d'un monstre de Type Zombie : vous pouvez cibler 1 monstre de Type Zombie face recto que vous contrôlez ; détachez 1 Matériel Xyz d'un monstre sur le Terrain, et si vous le faites, augmentez le Niveau du monstre ciblé de 1 et son ATK de 300 (même si les conditions de ciblage ne sont plus remplies). 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wenn diese Karte durch den Effekt eines Monsters vom Typ Zombie als Spezialbeschwörung beschworen wird: Du kannst 1 offenes Monster vom Typ Zombie wählen, das du kontrollierst; hänge 1 Xyz-Material von einem Monster auf dem Spielfeld ab und falls du dies tust, erhöhe die Stufe des gewählten Monsters um 1 und seine ATK um 300 (selbst falls die Bedingungen für die Wahl des Monsters nicht mehr erfüllt sind). 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando questa carta viene  Evocata Specialmente  dal  Cimitero  dall' effetto  di un  mostro  di  Tipo   Zombie : puoi  scegliere come bersaglio  1 mostro di Tipo Zombie  scoperto  che  controlli ;  stacca  1  Materiale Xyz  da un mostro sul  Terreno  e, se lo fai, aumenta il  Livello  del mostro scelto come bersaglio di 1 e il suo  ATK  di 300 (anche se le  condizioni  di scelta del bersaglio non sono più corrette). 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando esta carta es Invocada de Modo Especial desde el Cementerio por el efecto de un monstruo de Tipo Zombi: puedes seleccionar 1 monstruo de Tipo Zombi boca arriba que controles; desacopla 1 Material Xyz de un monstruo en el Campo y, si lo haces, incrementa en 1 el Nivel del monstruo seleccionado y su ATK en 300 (aún si las condiciones de selección ya no son correctas). 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカードがアンデット族モンスターの効果によって墓地からの特殊召喚に成功した時、自分フィールド上のアンデット族モンスター１体を選択して発動できる。フィールド上のエクシーズ素材を１つ取り除き、選択したモンスターのレベルを１つ上げ、攻撃力を３００ポイントアップする。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 稀有度：平卡N。效果：此卡由于不死族怪兽的效果，从墓地中特殊召唤成功时，可以选择自己场上的一只不死族怪兽发动效果，去除场上一个超量素材，然后选择的卡的等级上升1，并且攻击力上升300点。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드가 언데드족 몬스터의 효과에 의해서 묘지에서의 특수 소환에 성공했을 때, 자신 필드 위의 언데드족 몬스터 1장을 선택하고 발동할 수 있다. 필드 위의 엑시즈 소재를 1개 제거하여, 선택한 몬스터의 레벨을 1개 올리고, 공격력을 300 포인트 올린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2012-04-28  
+ GAOV-EN038   
+ Galactic Overlord 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-FR038   
+ Galactic Overlord 
+ Le Seigneur de la Galaxie  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-DE038   
+ Galactic Overlord 
+ Galactic Overlord  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-IT038   
+ Galactic Overlord 
+ Sovrano Galattico  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-SP038   
+ Galactic Overlord 
+ Señor Supremo Galáctico  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2012-02-18  
+ GAOV-JP038   
+ Galactic Overlord 
+ ＧＡＬＡＣＴＩＣ ＯＶＥＲＬＯＲＤ  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2012-05-21  
+ GAOV-KR038   
+ Galactic Overlord 
+ 갤럭틱 오버로드  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Zombie 
+ Xyz Monster 
+ 
+ Anti-supports   
+ Xyz Monster 
+ 
+ Archetypes  and  series   
+ Oni 
+ 
+ Actions  
+ Activates upon Special Summon 
+ Detaches Xyz Materials for effect 
+ 
+ Stat changes  
+ This card gains ATK 
+ This card gains Levels 
+ Your monsters gain ATK 
+ Your monsters gain Levels 
+ 
+ Miscellaneous  
+ Requires control of specific Type 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 10061 ( ja  ( rulings )   en   fr   de   it   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Oni  精神 Members 
+ Blue-Blooded Oni Red-Headed Oni Yellow-Bellied Oni 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/47/RedHeadedOni-GAOV-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20120429212129', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

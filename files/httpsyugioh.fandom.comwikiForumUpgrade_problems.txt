@@ -1,0 +1,308 @@
+Link: https://yugioh.fandom.com/wiki/Forum:Upgrade_problems
+
+
+ 
+ Forums: 
+ Index   →   Yu-Gi-Oh! Wiki Community Discussion   →  Upgrade problems 
+ Post new comment 
+ 
+ 
+ Please sign your comments with ~~~~. See  Help:Signature  and  Help:Talk pages  for further information. 
+ 
+ 
+ Contents 
+ 
+ 1   Needs staff help 
+ 2   SMW 
+ 3   Further comments 
+ 4   Staff Response 
+ 
+ 4.1   Enhanced Recent Changes [resolved] 
+ 4.2   Followed Pages 
+ 4.3   Rollback/Undo 
+ 4.4   Email notifications 
+ 4.5   File renames 
+ 4.6   Image resizes [resolved] 
+ 4.7   Job Queue 
+ 4.8   Imagemap Thumbnails 
+ 4.9   Link Suggest [resolved] 
+ 4.10   Read More 
+ 4.11   Spotlights [Resolved] 
+ 4.12   Notification Message [resolved] 
+ 4.13   Watch/Unwatch 
+ 4.14   Account Disables 
+ 
+ 
+ 5   Spotlight duplication 
+ 
+ 
+ The recent upgrade seems to have messed up the formatting in the archetype navboxes. There are underscores between the members' names and an arrow to extend the boxes now appears if there are numerous members. I'm using the new wikia look on Chrome. 
+ The wikitext options (bold text, italicize text, your signature with time stamp, etc.) are also showing up twice at the top. -- Golden Key  ( talk  •  contribs ) 11:48, July 3, 2012 (UTC)
+ 
+ GalleryHeader is also messed up (Go to  any gallery page ). 
+ Center isn't working for some tables. 
+ The "Read more" is starting to annoy me on rulings pages, " This card effect does not target. " etc is bound to appear on wrong pages and people who think "Read more" refers to "read more on this article" would screw up. 
+ " … further results " gets sorted when the list is sorted, it shouldn't do that.  - Falzar FZ - ( talk page | useful stuff )  12:32, July 3, 2012 (UTC) 
+ That's why I voted no and they ignored me! What's a bad luck! -- i F r e d C a t  12:47, July 3, 2012 (UTC) 
+ Wasn't the "Read more" always at the bottom of rulings pages, Falzar? 
+ Fred, you voted no for the lightbox, which is something else. -- Golden Key  ( talk  •  contribs ) 12:56, July 3, 2012 (UTC) 
+ Correct, and I am absolute against  anything  Wikia foolish threw at our face, ever the new skin ($%^$ the space limitation!) -- i F r e d C a t  12:59, July 3, 2012 (UTC) 
+ It didn't appear until just now. Maybe it wasn't added to Monobook so I never noticed. If it's not bothering anyone else, I'll just hide it manually for myself via css some time.  - Falzar FZ - ( talk page | useful stuff )  13:48, July 3, 2012 (UTC) 
+ I am aware that some user rather Monobook skin over New Wikia Skin and I have no problem with that - but it's Wikia Staffs themselves that have a problem - they should revert all those shits back to normal. They just make New Wikia Skin look pathetic each time they "upgrade" it (more of  downgrading ). So I would still rebel against this whole updates - they should check it out twice before actually publish it... (/rant) -- i F r e d C a t  13:51, July 3, 2012 (UTC) 
+ Oh yes, also they raped the image enlarge - they don't show up at all and  can't  withdrew out unless hit the Refresh button or CTRL + R. Get your arse, Wikia Staffs, OUT OF HERE! -- i F r e d C a t  13:52, July 3, 2012 (UTC) 
+ This is a MediaWiki upgrade, not a Wikia feature. MediaWiki upgrades usually just contain bugfixes and improvements and generally non-controversial changes. There's always a few bugs or things that we need to change whenever we get one of these upgrades. 
+ Most of the bugs reported so far are a result of mixing the changes with Wikia features and SMW. That's why they're unlikely to have been dealt with yet. 
+ I've fixed the archetype navbox problem, or the worst of it at least. If there's anything else wrong with it, please say so. 
+ Can someone give an example of a table centring problem? --  Deltaneos  ( talk ) 14:15, July 3, 2012 (UTC) 
+ It seems to be because the stuff in the "class" changed or was disabled by some reason. Some table classes had alignments inside then, so <center></center> wasn't necessary, now it is. It's not really a problem since it's not used much and adding centers is easy. 
+ - Falzar FZ - ( talk page | useful stuff )  14:24, July 3, 2012 (UTC) 
+ I still can't find an example of this. But <center></center> is deprecated, so we should try to avoid using that. 
+ Archetype/series lists are fixed now. --  Deltaneos  ( talk ) 14:29, July 3, 2012 (UTC) 
+ Thanks, Delta. Template boxes all require expanding to see full content now. Can something be done about that? -- Golden Key  ( talk  •  contribs ) 14:36, July 3, 2012 (UTC) 
+ Example would be the "Key" box at  Forum:Reasons why cards are Forbidden/Limited , in that case, it seems  align=center  broke. I'm certain that it was centered just before the update. 
+ Also, is anyone else seeing & lt;r& gt; at the top of Recent Changes  [1] ? 
+ - Falzar FZ - ( talk page | useful stuff )  14:38, July 3, 2012 (UTC) 
+ No shit, Falzar... And thank you for corrected me, Sub-Founder... I meant for them and still referred them as the one I mentioned. They should revert all that back to normal before they could pushing the site down at least 6 feet under the dirt. I am just little sick of see Errata Box covering the updating information on right side of the site and no image when clicked to enlarging. Again -  no shit!  -- i F r e d C a t  14:52, July 3, 2012 (UTC) 
+ align="center" in tables  is deprecated. You should use  style="margin:auto"  instead. 
+ The navboxes going off the page was my fault. I've it fixed now. --  Deltaneos  ( talk ) 17:20, July 3, 2012 (UTC) 
+ GalleryHeader problem is fixed now. --  Deltaneos  ( talk ) 18:02, July 3, 2012 (UTC) 
+ Artwork headers are still messed up, though. -- Golden Key  ( talk  •  contribs ) 20:31, July 3, 2012 (UTC) 
+ Okay, fixed. --  Deltaneos  ( talk ) 20:41, July 3, 2012 (UTC) 
+ The "Read More" section was always absent in Monobook (in fact, I'd not seen one in so long that I forgot it even existed). Now I see it and its already bugging me. I really can't believe that what's random visitors to the wiki see at the bottom of every page...  Cheesedude  ( talk  •  contribs ) 17:06, July 3, 2012 (UTC) 
+ I'm used to it, but I doubt anyone would cry if it was removed. 
+ Still seeing double wikitext options. -- Golden Key  ( talk  •  contribs ) 17:49, July 3, 2012 (UTC) 
+ Page edit notification emails now have the text "$PAGESUMMARY" instead of the actual edit summary.  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  17:53, July 3, 2012 (UTC) 
+ All those ranting they gave out supporting my objection - those "upgrade" have to go, period. -- i F r e d C a t  20:42, July 3, 2012 (UTC) 
+ While I hate certain additions (the lightbox) and placement of things (why is the option to add a video above the option to add images?!), this sort of upgrade is necessary, Fred. Certain incompatibilities will always need to be fixed, but the updates fix bugs and are necessary. It's not a huge deal, and we've got many of them sorted out mere hours later. -- Golden Key  ( talk  •  contribs ) 20:47, July 3, 2012 (UTC) 
+ Was Width-Screen Size sorta out? Don't think so - also fucking double stuffs. I rather old version over this shit new version - and I am  absolute  not  changing my mind. Since I had an instinct, I have my own willing. -- i F r e d C a t  20:51, July 3, 2012 (UTC) 
+ I'm sure the "Read more" appearing in Monobook is a mistake. Wikia will probably remove it soon. In the meantime, I doubt there's any problem with us hiding it in Monobook with CSS, considering it's not meant to be there and doesn't work properly there. --  Deltaneos  ( talk ) 22:26, July 3, 2012 (UTC) 
+ For anyone wanting to hide it, just  add  the following code to  your monobook.css file :  .RelatedPagesModule { display: none; }   「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  07:32, July 4, 2012 (UTC) 
+ Negref  has been disabled. --  Deltaneos  ( talk ) 22:54, July 3, 2012 (UTC) 
+ In other word; MediaWiki just got fuck'd. If I was the Founder - I should reject that program in the first place. -- i F r e d C a t  22:55, July 3, 2012 (UTC) 
+ No. Negref is a custom extension. It's very uncommon and unlikely to have been taken into consideration when designing the upgrades. The entire interface here and on most wikis is MediaWiki. Without it, this site wouldn't exist. This upgrade is actually very important. It's left us with a few bugs, but they're all fixable and in the long run, we are better off with the upgrade. --  Deltaneos  ( talk ) 23:15, July 3, 2012 (UTC) 
+ One gallery  (and surely others) doesn't have the card's name listed in the box header. 
+ I actually prefer the pages without the SMW factboxes, tbqh. -- Golden Key  ( talk  •  contribs ) 23:49, July 3, 2012 (UTC) 
+ That problem happens when getting the Japanese name for cards without ruby text. I tried fixing the template. The logic looks right, but isn't working. Dinoguy:  {{#ask: [[Dark Magician]] |?Ruby Text=|format=template|link=none|template=GetEngName/2}}  returns blank, but  {{#ifeq:{{#ask: [[Dark Magician]] |?Ruby Text=|format=template|link=none|template=GetEngName/2}}||Japanese Name|Ruby Text}}  returns "Ruby Text" rather than "Japanese Name". Can you see why it's doing that? --  Deltaneos  ( talk ) 19:49, July 4, 2012 (UTC) 
+ It should really use an #if rather than #ifeq, but the problem still exists. --  Deltaneos  ( talk ) 20:00, July 4, 2012 (UTC) 
+ That's because it  doesn't actually return nothing . I'm not sure how best to work around it, though.  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  23:48, July 4, 2012 (UTC) 
+ I've just set an #ifeq to  check for that product . It fixes the problem for now, but I imagine future versions of SMW will change that output, in which case that template will need to be revised. --  Deltaneos  ( talk ) 22:38, July 5, 2012 (UTC) 
+ Needs staff help 
+ The following require staff assistance. This covers unresolved problems mentioned above and more. --  Deltaneos  ( talk ) 23:36, July 3, 2012 (UTC)
+ 
+ Page size is not displayed in page histories. 
+ Page edit notification emails now have the text "$PAGESUMMARY" instead of the actual edit summary. 
+ &lt;r&gt; in the recent changes options. 
+ Followed pages' histories don't have the updated since last visit notice beside some edits. 
+ Rollback and undo don't appear beside all edits in page histories. 
+ Category addition emails use  MediaWiki:Enotif subject  for the subject instead of  MediaWiki:Enotif subject categoryadd  (this also applies to  new blog notifications  and  new article comment notifications ). 
+ Attempting to rename a file results in the error "You do not have permission to move this page, for the following reason: The new file extension does not match its type". 
+ Resized images have their edges cut off. e.g.  original  and  resized . 
+ The right hand side of images in galleries are being cut off. e.g.  Card Gallery:D-Boyz . 
+ The job queue is no longer shown on  Special:Statistics 
+ Two "View image details" icons are appearing in <imagemap> thumbnails. The thumbnail caption is mixed with one of these icons.  In Monobook, text outside the image is being mixed with the other icon.  ( example ,  Monobook example ). 
+ There's an edit button on the "More info" header in  Special:Statistics . 
+ The sorting arrows in sortable tables appear below the headings rather than next to them. ( example ,  example of the old format ). 
+ Wikia skin only
+ 
+ Edit toolbar has repeated buttons. 
+ Monobook only
+ 
+ Search autocomplete is missing. 
+ Link suggest appears off the page. 
+ "Read more" sections are appearing. 
+ Spotlights are off-centre. 
+ The wrong new messages notification is shown when you have new messages on this wiki only. 
+ Initiating a watch/unwatch (follow/unfollow) updates the tab label to read "following..."/"unfollowing..." as appropriate, but the label is not updated again to remove the ellipsis when the operation actually completes. 
+ On the contributions page for a user whose account has been disabled, the "This account has been disabled globally by Wikia." box appears next to the the "Search for contributions", rather than above it. 
+ 
+ I would rather turn them off and have them fixing  off the wikia , they are already waste their time make this site look foolish. Yes, I am still resisting to accept the new changes. -- i F r e d C a t  01:42, July 4, 2012 (UTC) 
+ Here's another one for Monobook (I don't use Wikia often enough to know how the watch/unwatch (follow/unfollow) functionality actually works, and thus whether it's affected or not): when watching/unwatching a page, the message changes to "following..."/"unfollowing..." as appropriate, but the ellipsis does not subsequently get removed when the actual watch/unwatch operation completes. (Should I just add any further bugs I notice directly to the above list, Delt?)  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  07:28, July 4, 2012 (UTC) 
+ I'd say add them directly to the list. --  Deltaneos  ( talk ) 09:44, July 4, 2012 (UTC) 
+ Added, I'll do that for any others I notice then.  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  09:55, July 4, 2012 (UTC) 
+ And another enotif one: email notifications for a page being added to a category you're following now have the subject " See the latest changes made to $PAGETITLE on {{SITENAME}} by $PAGEEDITOR ", instead of the correct subject " The $PAGETITLE page on {{SITENAME}} has been added to $CATEGORY by $PAGEEDITOR " (this may also have happened for  new blog notifications  and  new article comment notifications , but we don't have user bogs or article comments enabled here so I can't check).  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  08:30, July 4, 2012 (UTC) 
+ Renaming files seems to be broken, e.g.  this  results in the error message "You do not have permission to move this page, for the following reason: The new file extension does not match its type", even though the image is clearly a PNG.  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  08:52, July 4, 2012 (UTC) 
+ I moved another image just now and it worked fine, it's probably just that image that's problematic. 
+ On the topic of files, what happened to  Special:MultipleUpload ?  - Falzar FZ - ( talk page | useful stuff )  11:02, July 4, 2012 (UTC) 
+ Apparently, it changed to  Special:UploadWizard 
+ After uploading a bunch, it seems to force you to add release rights, but with strange buggy/incomplete options like <mwe-upwiz-source-ownwork-assert-cc-by-sa-3.0> <mwe-upwiz-source-ownwork-cc-by-sa-3.0-explain> 
+ Also, I can't seem to find a way to add a custom summary to apply to all of them at once like in Special:MultipleUpload 
+ - Falzar FZ - ( talk page | useful stuff )  11:53, July 4, 2012 (UTC) 
+ Weird,  Special:MultipleUpload  apparently works again.  - Falzar FZ - ( talk page | useful stuff )  13:01, July 5, 2012 (UTC) 
+ I just tried to move a topic to the Forum using the new moving setup, but it instead moved it to "Form:". >_> -- Golden Key  ( talk  •  contribs ) 15:47, July 4, 2012 (UTC) 
+ That's another prove I was right...  Fucking Mediawiki Staff and their toys.  -- i F r e d C a t  15:52, July 4, 2012 (UTC) 
+ Oh, I thought Form was a misspelling of Forum, but the Forum option is there as well. I actually like this new way of moving; I don't understand the ordering of the options, though. -- Golden Key  ( talk  •  contribs ) 16:40, July 4, 2012 (UTC) 
+ They're ordered by namespace ID. You can see the namespace IDs at  User:Dinoguy1000/namespaces . --  Deltaneos  ( talk ) 17:21, July 4, 2012 (UTC) 
+ Still, we are better off without those  toys ... -- i F r e d C a t  17:25, July 4, 2012 (UTC) 
+ It's not a case of  bad vocabulary .  Forms  and  Forums  are two different things. "Form" is used for is used for  Semantic Forms . Forums are used for discussions. We've had them both for ages. It's nothing to do with the recent update. Golden Key just looked at the wrong word and thought it was a mistake. --  Deltaneos  ( talk ) 19:22, July 4, 2012 (UTC) 
+ Still no, I rather "Forum" over "Form". Must back it out immediately. -- i F r e d C a t  19:23, July 4, 2012 (UTC) 
+ What are you talking about? "Forum" has  not  been renamed "Form". They're two different things. Golden Key just misread something. --  Deltaneos  ( talk ) 19:27, July 4, 2012 (UTC) 
+ He moved one of "Forum" into "Form". If you keep that, you have losing my trust. The whole "upgrade" stuffs MediaWiki threw at us are actually  down grade. -- i F r e d C a t  19:30, July 4, 2012 (UTC) 
+ No, he moved a page from the main namespace, where it was mistakenly created, to the Form: namespace.  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  23:30, July 4, 2012 (UTC)
+ I got that - but I am not changing my mind about those "upgrade" stuffs. I am stuck being Rebellian. -- i F r e d C a t  23:36, July 4, 2012 (UTC) 
+ Anyone else seeing all the edit notices appearing twice? (Edit a talk page, edit a Card Tips page, etc to see them)  - Falzar FZ - ( talk page | useful stuff )  00:26, July 5, 2012 (UTC) 
+ Yes, in Monobook. They only appear once or appear in some odd way in the default skin. I'm not sure what they were like in the default skin beforehand. --  Deltaneos  ( talk ) 00:56, July 5, 2012 (UTC) 
+ Hi All, Thanks for detailing this. I sent it onto our Product & technical teams. The majority of issues are known and being worked on. Thanks for your patience as we get through these. -- Sarah   ( help forum  |  blog )  17:34, July 5, 2012 (UTC)
+ 
+ You better keep your word for this. I would like to reduce the mover faction back to normal, the way before each user gain their rights to moving them: It's like we are ambushing from anywhere and nowhere as well as wasted our time tried to fixing stuffs that "trollers" moved into and get them locked up.  Visiting this article for further knowledges.  -- i F r e d C a t  17:38, July 5, 2012 (UTC) 
+ Sarah: Has SMW been upgraded to a newer version here too? A lot of these problems (and a number of unmentioned ones) are related to SMW. A lot of them are to do with different syntax being required and different output being given, rather than being actual bugs. Although some seem to be bugs. --  Deltaneos  ( talk ) 22:38, July 5, 2012 (UTC) 
+ Another problem: on history pages the undo and rollback options aren't always available for the most recent changes. Has anyone else noticed this? -- Golden Key  ( talk  •  contribs ) 18:11, July 5, 2012 (UTC)
+ 
+ Yeah. Like with the "updated since last visit" notifications, it appears beside some but not others. I can't see the correlation between the ones that do get them or the ones that don't get them. 'Added this problem to the list. --  Deltaneos  ( talk ) 22:19, July 5, 2012 (UTC) 
+ That is why I asked Sarah to keep the new-ish stuffs off till they proof-test it and see if they are clearly. They lacked something;  Patience . -- i F r e d C a t  17:23, July 6, 2012 (UTC) 
+ To be fair, them deploying it here is actually  part  of their testing. We got the update early because they'd need to stress-test it on a very large wiki to get an idea of how it'll hold up when all of Wikia has been upgraded, and they also hope that more bugs with it will be found if there are a lot of eyes on it, as there are here. It simply wouldn't be possible to adequately test the upgrade without deploying it to  some  wiki, and deploying to ours is better from a server damage management/mitigation perspective then deploying to a dozen smaller wikis (plus we have a fairly unique setup AFAICT, which means we test parts of the upgrade that might otherwise go untested until the site-wide upgrade).  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  17:40, July 6, 2012 (UTC) 
+ Non-sense, I kept my vow - if I see any waste of the time additional stuffs in this site and not making an improvement, I will stop attend this site till they removed this! Size-Width is still an issue right now! And it must be fixed or removed, immediately. And no, I am not changing my mind, ever. -- i F r e d C a t  18:24, July 6, 2012 (UTC) 
+ They have wikis set up specifically for testing, but they still need real-world testing, and no amount of testing on closed beta-testing wikis can get that.  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  18:36, July 6, 2012 (UTC) 
+ Still, I don't forgive them for make this site look foolish. They need to keep testing till it's perfect clearly - else, trash it. -- i F r e d C a t  22:06, July 6, 2012 (UTC) 
+ I've just noticed you can see the page size from the page history by hovering over the number that indicates how many bytes the page length changed by. That can be used for the time being until, we have the lengths fully reappearing. DaNASCAT is  looking into fixing it , so that appears without the need to hover. --  Deltaneos  ( talk ) 00:29, July 11, 2012 (UTC)
+ 
+ Still, I am against those garbages. It's a waste of the time - I now can't help with the Gallery and all shits if this continued. -- i F r e d C a t  04:23, July 11, 2012 (UTC) 
+ SMW 
+ Semantic Mediawiki seems to have been upgraded too. I think it's been from version  1.5.5  to  1.7.1 . I'm moving the SMW bugs to here and posting some new ones. --  Deltaneos  ( talk ) 22:50, July 5, 2012 (UTC)
+ 
+ Negref is disabled. 
+ There's an extra page tab reading &lt;class&gt; 
+ "Further results" in sortable tables from #ask queries shouldn't move when the columns are sorted. 
+ The factbox is gone from the default skin  and unstyled in Monobook . 
+ The removal of the "Type" namespace left us with  a bunch of unreachable pages . 
+ The warning that appears when a property is given an invalid value is  unstyled . 
+ Pages using Semantic forms are having problems in Monobook. When viewing such a page, it appears as it would if the user was logged out and SMW was disabled. ( Example page . Here's an  example on another wiki  in case we've switched off the form for that page.) 
+ 
+ Golden Key has said above that he thinks we're better off without the factbox appearing in articles. I agree with this. Does anyone else? Readers don't need to see that section. The article itself is supposed to provide readers with the information there. If it doesn't, it probably means the article isn't laid out very well. But in compensation, the default skin should include a link to  Special:Browse  for users who do need to see it for construction #ask queries and what not. e.g. the  Dark Magician  page should link to  Special:Browse/Dark Magician . That feature exists in Monobook. --  Deltaneos  ( talk ) 23:15, July 5, 2012 (UTC)
+ 
+ I agree, remove it. It's more trouble than its worth, even without the "Japanese name is too long, page is borked" issue.  Cheesedude  ( talk  •  contribs ) 23:53, July 5, 2012 (UTC) 
+ I agree as well; 99.999% of a given page's viewers don't need to see the factbox. 
+ If we had to, we could easily enough add a link ourselves via some Javascript, but I'd much rather it be something that's added from Mediawiki's/SMW's side of things.  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  23:55, July 5, 2012 (UTC) 
+ All card name links on the Files using  Template:OCG-TCG card image  seems to be broken.  - Falzar FZ - ( talk page | useful stuff )  12:46, July 6, 2012 (UTC)
+ 
+ Fixed. Unfortunately, there also seem to be a zillion other template-related bugs caused by the unannounced SMW upgrade. =/  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  17:12, July 6, 2012 (UTC) 
+ And yet, Enlarge Image (that viewing when you click on image from the article or Image uploading) is still broken. Dismissing this dumb shit stuffs - I am still unhappy of not able to opening the image to get a closer look. -- i F r e d C a t  12:44, July 10, 2012 (UTC) 
+ I noticed that occasionally the factbox appears unstyled on pages in the new wikia look. After doing an edit I saw it on the page of  Iron Core Luster , but it disappeared after I left the page. It shows up after I null edit, too. 
+ Also on some card pages, a tiny bit at the bottom border of the card images is sometimes cut off. I never noticed this before the upgrade. -- Golden Key  ( talk  •  contribs ) 16:31, July 12, 2012 (UTC) 
+ Further comments 
+ Many resized images seem to have their edges cut off. e.g.  original ,  resized ;  original ,  resized ;  original ,  resized  etc.  - Falzar FZ - ( talk page | useful stuff )  01:06, July 13, 2012 (UTC)
+ I think all the card pages are going haywire, because of the updates, the navboxes are now condensed, so you don't see a box, just Show/Hide button. -- - Dark  Ace SP  ( Talk )   15:06, July 13, 2012 (UTC)
+ 
+ It seems like the styles from  Mediawiki:Common.css  are not being applied to the default skin. They are however being applied to Monobook. --  Deltaneos  ( talk ) 18:29, July 13, 2012 (UTC) 
+ Okay, it's working properly for me again. Are you still seeing this problem? --  Deltaneos  ( talk ) 18:52, July 13, 2012 (UTC) 
+ There is no longer a huge white space above the card images, and the show/hide boxes appear normal on the card pages. But the bottoms of some images have been cut-off, not all of the cards are like that though. -- - Dark  Ace SP  ( Talk )   15:20, July 13, 2012 (UTC)
+ 
+ Falzar mentioned this above. --  Deltaneos  ( talk ) 18:29, July 13, 2012 (UTC) 
+ And I mentioned it above him. -- Golden Key  ( talk  •  contribs ) 18:46, July 13, 2012 (UTC) 
+ What can you guys do to fix it? -- - Dark  Ace SP  ( Talk )   18:46, July 14, 2012 (UTC) 
+ I don't think there's anything we can do. At least not directly. It's added to the list of things we need staff to look at. --  Deltaneos  ( talk ) 20:07, July 14, 2012 (UTC) 
+ The right sides of a lot of cards in the galleries are now being cut off as well. -- Golden Key  ( talk  •  contribs ) 16:00, July 18, 2012 (UTC) 
+ By that, you mean the image part of that card was stretching passing to the right (our right) that it seemed like it was chopping out? -- i F r e d C a t  16:24, July 18, 2012 (UTC) 
+ Yes. -- Golden Key  ( talk  •  contribs ) 16:25, July 18, 2012 (UTC) 
+ Oh well, less action for me. -- i F r e d C a t  16:31, July 18, 2012 (UTC) 
+ Goldy - it appeared that Gallery is not only one to have that kind of problem: Artwork articles also get them  Yubel  as explain. -- i F r e d C a t  19:34, July 18, 2012 (UTC) 
+ Another issue I've been meaning to mention: if you're making a change to a page and someone else edits at the same time, it no longer shows the changes you made to the page so that you can copy them. You have to start all over. -- Golden Key  ( talk  •  contribs ) 20:07, July 21, 2012 (UTC)
+ 
+ What wrong with "Delete" (keyboard button) or just hit the back button on site to return to that former article you were working on: it will still there when you need to get it. I had done this since the day one I was here on the Wikia; that's not an issue with MediaWiki's dump-truck. -- i F r e d C a t  20:10, July 21, 2012 (UTC) 
+ Do you at least still get the edit conflict warning? As FredCat said, you can still use your browser's back button for the time being. Although, that didn't work in older versions of Internet Explorer. I'm not sure if that's been fixed yet. Also which skin are you using? I'm not sure how the "New Wikia Look" is supposed to handle edit conflicts, since it got that new editor. --  Deltaneos  ( talk ) 20:17, July 21, 2012 (UTC) 
+ I am using new Wikia Skin and rarely get Edit Conflict as of lately. Guess my cat instinct got better each time I made an edit. Other solution way; check the site's history - that's how I often find the old edits and rollback when I required to find answer for some articles. But yea, that's how it work. -- i F r e d C a t  20:20, July 21, 2012 (UTC) 
+ It was actually  you  who messed up my post and making me remember this, Fred. The edit conflict notice still pops up, but what's there is exactly the same as what's in the above section. It was more convenient the way it was before. 
+ This is in the new wikia look on Firefox. -- Golden Key  ( talk  •  contribs ) 21:47, July 21, 2012 (UTC) 
+ Guess I was faster, Goldy... and I should agreed with you - I got my own edit conflict when Delta put in an unsigned line in the other forum and that had same result. That's why I wanted MediaWiki (don't matter if you ranted) to pulling their truck out of here and we can have our old way back. I liked that old way better over this new shits. And, also - this was on Chromo Site. Man, MediaWiki's so ugly each time they bring new stuffs. -- i F r e d C a t  22:02, July 21, 2012 (UTC) 
+ Image maps seem to be bugged. It links things that are outside of its tags. It is most noticeable on the page  Duel Academy , but also occurs on but is less noticeable on pages like  WC10#Locations .  - Falzar FZ - ( talk page | useful stuff )  07:44, July 22, 2012 (UTC)
+ 
+ It's messed up in different, but seemingly related ways, in both skins. I've tried to describe the problems as best I could in the "Needs staff help" list. --  Deltaneos  ( talk ) 13:47, July 22, 2012 (UTC) 
+ Actually, it seems to be the same problem in both. The fact that the "View image details" icon isn't visible in any thumbnails in Monobook, makes the bug appear differently there. --  Deltaneos  ( talk ) 13:58, July 22, 2012 (UTC) 
+ Thanks, I couldn't figure out what the problem was apart from probably something to do with the linking [] brackets.  - Falzar FZ - ( talk page | useful stuff )  03:31, July 23, 2012 (UTC) 
+ Anyone else getting  these errors ? The one next to the refresh button and the one where the coding in the edit notice is not working.  - Falzar FZ - ( talk page | useful stuff )  12:44, August 8, 2012 (UTC)
+ 
+ Yes. 'Added the tab one to the list now. I don't know much about the editnotices, so I'm not sure if it's a bug or something we're doing wrong. --  Deltaneos  ( talk ) 14:26, August 8, 2012 (UTC) 
+ Two new problems that I have seen since this site's updating: Search List and typing with drop list. First one - I don't give a fucking about "Tip", "Appearance", etc. etc. - Just give me a straight enter to the card and that's it. Second: Each time I tried to put down the Manga link of the character or card, like  Yusei  and  Judai's Deck ; with the drop list being displaying, the quotation (such as ' or ") made the droplist disappeared and wasted one of my pushing, if I am too slow to hit it again - the drop list come back, only to irritating me off as well as parenthesis that won't show up at all if the drop list remains there. I would rather the old looks back than all those new stuffs. I am sorry that you did your best to improving it, but fuck no - shoo shoo! -- i F r e d C a t  02:23, September 1, 2012 (UTC)
+ Oh and third problem, as I had hard time trying to edit other article while the connect is down (twice in same week!) - I had rather old version of Wikia over all this new updating stuffs. No, don't promise me that anything will be fine; it will always power down from time to time, to time. I nominated for old Wikia Version! -- i F r e d C a t  21:18, September 1, 2012 (UTC)
+ 
+ Following my previous comment, I can't create new article, like Card Appearance for " Wing Captain " - Why do I required to checking Twister or Facebook for further reason? Fuck them! This is free Wikia, not really need other site to break it out. This is a waste of the time, pull it back! BACK! -- i F r e d C a t  23:32, September 1, 2012 (UTC) 
+ Staff Response 
+ Hey guys. We know that this MediaWiki upgrade has brought on a few bugs that weren't intended. Our engineers are working really hard at fixing them and getting these issues resolved. I've read above and it looks like a quite a few of the bugs are known and a good deal are fixed already. I will be following this page and responding to updates.
+ So with that, let's get this ball rolling. If any of the above issues are still issues, please leave them below with as much detail as you can and/or screenshots or steps to reproduce. This information will be invaluable to our engineers when looking to resolve the issue.
+ I will be listing the non  struck through  bullets from the  Needs staff help  above for discussion. Feel free to add to this list.
+ 
+ Enhanced Recent Changes [resolved] 
+ &lt;r&gt; in the recent changes options. 
+ 
+ The &lt;r&gt; is known, and currently is not in the options on Recent Changes while they fix the bugs with Grouped Recent Changes.  Rappy    16:09, August 3, 2012 (UTC) 
+ Followed Pages 
+ Followed pages' histories don't have the updated since last visit notice beside some edits. 
+ 
+ Any more information on this? I personally don't use the new(er) followed pages and am not familiar with this bug as described.  Rappy    16:09, August 3, 2012 (UTC)
+ I've just realised it's edits that have summaries that are missing the "updated since last visit" notice. Edits with no summary have this notice. ( Screenshot ) --  Deltaneos  ( talk ) 16:57, August 3, 2012 (UTC)
+ This seems to be a conflict with the widget rather than the upgrade itself. I am seeing the histories as intended without the widget running.  Rappy    16:01, August 13, 2012 (UTC) 
+ Rollback/Undo 
+ Rollback and undo don't appear beside all edits in page histories. 
+ 
+ Got any examples of this one? I am not seeing this myself.  Rappy    16:09, August 3, 2012 (UTC)
+ Same as the followed pages problem above. They're missing from edits that have edit summaries. --  Deltaneos  ( talk ) 16:57, August 3, 2012 (UTC) 
+ Email notifications 
+ Category addition emails use MediaWiki:Enotif subject for the subject instead of MediaWiki:Enotif subject categoryadd (this also applies to new blog notifications and new article comment notifications). 
+ 
+ Is this still happening? Example e-mails would help.  Rappy    16:09, August 3, 2012 (UTC)
+ It was still happening yesterday; I haven't been through any of my enotifs today yet (except for the one that brought me here, but will grab a screenshot if I spot another such email.  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  17:09, August 3, 2012 (UTC) 
+ Here's  an example.  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  18:00, August 3, 2012 (UTC)
+ Thanks. Bug filed.  Rappy    16:41, August 13, 2012 (UTC)
+ Hey Dinoguy, are you still seeing this? I am currently  not  seeing this happen with e-mails from Aion Wiki.  Rappy    17:53, September 12, 2012 (UTC)
+ Nope, it seems to have been fixed for a while. Sorry for not updating you on it.  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  19:21, September 12, 2012 (UTC) 
+ File renames 
+ Attempting to rename a file results in the error "You do not have permission to move this page, for the following reason: The new file extension does not match its type". 
+ 
+ Confirmed and ticketed.  Rappy    16:09, August 3, 2012 (UTC)
+ That file in question doesn't match the MIME type. It is actually a mime type of image/x-ms-bmp.  Rappy    16:41, August 13, 2012 (UTC)
+ So what do we do with that file then? Can we rename it to a .bmp instead?  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  19:10, August 13, 2012 (UTC)
+ I would suggest saving it to your hard drive, using an image editing program, change the file type  officially  to PNG, then re-uploading.  Rappy    15:51, August 20, 2012 (UTC) 
+ Image resizes [resolved] 
+ Resized images have their edges cut off. e.g. original and resized. 
+ 
+ This seems to have been resolved already.  Rappy    16:09, August 3, 2012 (UTC) 
+ Job Queue 
+ The job queue is no longer shown on  Special:Statistics . 
+ 
+ I am looking into this one. Will report back when I have an answer.  Rappy    16:09, August 3, 2012 (UTC)
+ This was an intended change as admins really had no control over what was shown there. You can still see the job queue length via the API if needed.  Rappy    16:41, August 13, 2012 (UTC) 
+ Imagemap Thumbnails 
+ Two "View image details" icons are appearing in <imagemap> thumbnails. The thumbnail caption is mixed with one of these icons. In Monobook, text outside the image is being mixed with the other icon. 
+ 
+ I am currently seeing Oasis with double icons and no description. Monobook appears to be correct, but with no blue 'image map' indicator (was that ever there in Monobook?).  Rappy    16:09, August 3, 2012 (UTC)
+ That's what I'm seeing too, but I'm not the one that reported this, so maybe the reporter was seeing something else...?  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  17:09, August 3, 2012 (UTC)
+ Cool, Monobook's been fixed since I last checked. Long answer: Yeah, Monobook used to have the blue circle. However the way it worked before was incorrect. In  imagemap 's default settings, the "desc" parameter, which adds the blue circle, is supposed to ignored when imagemap is used in thumbnails. 'Reason being image captions are supposed to already have an icon which links to the file page. (Those two rectangles in the corner in Monobook. The magnifying glass and page icon in the Wikia/Oasis skin.) However up until very recently, Wikia had not been using that icon in Monobook, which made the blue circle necessary. The way it now works in Monobook is correct. 
+ Still broken in the Wikia skin. Two many icons. The caption is actually appearing though. It's just totally out-of-place and not visible. The "A" you can see on top of one of the icons is actually the beginning of the caption. --  Deltaneos  ( talk ) 17:23, August 3, 2012 (UTC) 
+ Link Suggest [resolved] 
+ Link suggest appears off the page. 
+ 
+ Got an example or screenshot for this one?  Rappy    16:09, August 3, 2012 (UTC)
+ It's cool. It's fixed now. --  Deltaneos  ( talk ) 16:57, August 3, 2012 (UTC) 
+ Read More 
+ "Read more" sections are appearing. 
+ 
+ Known, ticketed and will be removed from Monobook shortly.  Rappy    16:09, August 3, 2012 (UTC)
+ Update : As of this time, it is intended.   Rappy    14:26, August 28, 2012 (UTC) 
+ Spotlights [Resolved] 
+ Spotlights are off-centre. 
+ 
+ Known, ticketed and being worked on.  Rappy    16:09, August 3, 2012 (UTC) 
+ Notification Message [resolved] 
+ The wrong new messages notification is shown when you have new messages on this wiki only. 
+ 
+ A screenshot of this would be wonderful. My notification looks correct.  [2]   Rappy    16:09, August 3, 2012 (UTC)
+ This was in the Monobook-only section. You see  You have new messages on  Yu-Gi-Oh! , rather than  You have  new messages  ( last change ) . The first is only meant to be used when you have messages on wikis other than the one you are currently on. --  Deltaneos  ( talk ) 16:57, August 3, 2012 (UTC)
+ Ticketed.  Rappy    14:26, August 28, 2012 (UTC) 
+ Watch/Unwatch 
+ Initiating a watch/unwatch (follow/unfollow) updates the tab label to read "following..."/"unfollowing..." as appropriate, but the label is not updated again to remove the ellipsis when the operation actually completes. 
+ 
+ I am not seeing this in Oasis using FF 14. Possibly browser/skin-specific?  Rappy    16:09, August 3, 2012 (UTC)
+ Yes, it's in the Monobook-only section. --  Deltaneos  ( talk ) 16:57, August 3, 2012 (UTC) 
+ And it's still happening as of today.  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  17:09, August 3, 2012 (UTC)
+ Opened a ticket.  Rappy    16:41, August 13, 2012 (UTC) 
+ Account Disables 
+ On the contributions page for a user whose account has been disabled, the "This account has been disabled globally by Wikia." box appears next to the the "Search for contributions", rather than above it. 
+ 
+ Confirmed as Monobook only issue. Ticketed.  Rappy    16:09, August 3, 2012 (UTC) 
+ Spotlight duplication 
+ Sorry, I didn't know where to put this on the Forum, feel free to move it; I just thought the problem should be noted. I was looking on my Talk Page and I noticed a duplicated Spotlight (if that is what it is called) along the bottom. I hope this screenshot helps:  [3] . Thanks. -- Super Sponge!!   13:25, August 10, 2012 (UTC)
+ 
+ I don't think that's caused by the update. Unless I'm mistaken, duplicated spotlight images have been around for years. --  Deltaneos  ( talk ) 18:55, August 10, 2012 (UTC) 
+ 
+ 
+ 
+Categories:

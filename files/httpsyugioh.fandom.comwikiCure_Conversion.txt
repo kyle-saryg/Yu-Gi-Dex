@@ -1,0 +1,92 @@
+Link: https://yugioh.fandom.com/wiki/Cure_Conversion
+
+
+ Cure Conversion 
+ 
+ Japanese:   キュア・コンバージョン 
+ Romaji:   Kyua Konbājon 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ When a  monster  you  control  is  targeted  for an  attack :  Tribute  that monster; end the  Battle Phase , then  draw  1 card, then, if it is a monster, gain  LP  equal to its  ATK .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  054 ,  081 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ キュア・コンバージョン 
+ ①：自分のモンスターが攻撃対象に選択された場合、その自分のモンスター１体をリリースして発動できる。そのバトルフェイズを終了する。その後、自分はデッキから１枚ドローする。そのドローしたカードがモンスターだった場合、その攻撃力分だけ自分のＬＰを回復する。 
+ 
+ 
+ Kyua Konbājon 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Tributes for cost 
+ Ends the Battle Phase 
+ You draw cards 
+ Shows the player's drawn cards 
+ 
+ LP   
+ You gain Life Points 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/78/CureConversion-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180530211913', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

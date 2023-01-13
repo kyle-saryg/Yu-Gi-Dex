@@ -1,0 +1,99 @@
+Link: https://yugioh.fandom.com/wiki/Summoning_Clock
+
+
+ Summoning Clock 
+ 
+ Japanese:   召喚時計 
+ Kana:   しょうかんどけい 
+ Romaji:   Shōkan Dokei 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Activate  only when a  Spell  or  Trap Card  is activated on your opponent's side of the  field . Place 1  Turn Counter  on this card during each of your  Standby Phases . You can  send  this  face-up  card to the  Graveyard  and  Tribute  1  monster  to  Special Summon  monsters from your  hand  equal to the number of Turn Counters. There is no need to Tribute for monsters Summoned by this effect.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh! :  221 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  Yu-Gi-Oh! ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 召 喚 時 計 
+ 相手の場の魔法・罠カードが発動した時に発動できる。自分のスタンバイフェイズにターンカウンターを１つ増やす。このカードとモンスター１体を生け贄に捧げる事で、ターンカウンターの数だけ手札のモンスターを特殊召喚する。この効果で召喚されるモンスターの生け贄は必要ない。 
+ 
+ 
+ Shōkan Dokei 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Yami Yugi 
+ 
+ 
+ Search categories 
+ 
+ Counters   
+ Turn Counter 
+ 
+ Actions  
+ Sends itself from field to Graveyard for cost 
+ Tributes for cost 
+ 
+ Summoning  categories  
+ Special Summons from your hand 
+ 
+ Miscellaneous  
+ Female 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/84/SummoningClock-JP-Anime-DM.png/revision/latest/scale-to-width-down/200?cb=20141011033707', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/07/SummoningClock-OW.png/revision/latest/scale-to-width-down/185?cb=20131228113645', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

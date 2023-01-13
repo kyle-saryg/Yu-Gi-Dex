@@ -1,0 +1,232 @@
+Link: https://yugioh.fandom.com/wiki/Morphtronic_Telefon
+
+
+ 
+ 
+ Morphtronic Telefon Ｄ ・テレホン 
+ 
+ English 
+Morphtronic Telefon 
+ French 
+ Téléfon Morphtronique Check translation 
+ German 
+ Morphtronisches Telefon Check translation 
+ Italian 
+ Telefon Morfotronico Check translation 
+ Korean 
+ D ・텔레폰 Check translation 
+ Portuguese 
+ Telefon Morfotrônico Check translation 
+ Spanish 
+ Telefon Morfotrónico Check translation 
+ Japanese (kana) 
+ ディフォーマー・テレホン Check translation 
+ Japanese (base) 
+ Ｄ・テレホン Check translation 
+ Japanese ( rōmaji ) 
+Difōmā Terehon 
+ Japanese (translated) 
+Deformer Telefon 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Machine  /  Tuner  /  Effect 
+ Level 
+ 1   
+ ATK  /  DEF 
+ 100  /  100 
+ Passcode 
+ 38082437 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+●  Attack Position :  Once per turn , during your  Main Phase : You can roll a six-sided  die  and gain  LP  equal to the result x 100, then you can  Special Summon  1 " Morphtronic "  monster  from your  GY  with a  Level  equal to or lower than the result. ●  Defense Position :  Once per turn , during your  Main Phase : You can roll a six-sided die,  excavate  that many cards from the top of your  Deck  (or as many as you can), and if you do, you can  send  1 excavated "Morphtronic" card to the  GY , also place the rest on either the top or bottom of the Deck in any order. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ ● Position d'Attaque : Une fois par tour, durant votre Main Phase : vous pouvez lancer un dé à six faces, et gagnez des LP égaux au résultat x 100, puis vous pouvez Invoquer Spécialement 1 monstre "Morphtronique" depuis votre Cimetière de Niveau inférieur ou égal au résultat. ● Position de Défense : Une fois par tour, durant votre Main Phase : vous pouvez lancer un dé à six faces, dévoilez autant de cartes du dessus de votre Deck (ou autant que vous pouvez), et si vous le faites, vous pouvez envoyer 1 carte "Morphtronique" dévoilée au Cimetière, et aussi, placez les cartes restantes soit au-dessus soit au-dessous du Deck dans l'ordre de votre choix. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ ● Angriffsposition: Einmal pro Spielzug, während deiner Main Phase: Du kannst einen sechsseitigen Würfel werfen und du erhältst LP in Höhe des Ergebnisses x 100, dann kannst du 1 „Morphtronisch“-Monster mit einer Stufe kleiner oder gleich dem Ergebnis als Spezialbeschwörung von deinem Friedhof beschwören. ● Verteidigungsposition: Einmal pro Spielzug, während deiner Main Phase: Du kannst einen sechsseitigen Würfel werfen, so viele oberste Karten deines Decks ausgraben (oder so viele du kannst) und falls du dies tust, kannst du 1 ausgegrabene „Morphtronisch“-Karte auf den Friedhof legen, zusätzlich lege den Rest in beliebiger Reihenfolge enweder auf oder unters Deck. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ ● Posizione di Attacco: Una volta per turno, durante la tua Main Phase: puoi tirare un dado a sei facce e guadagnare LP pari al risultato x 100, poi puoi Evocare Specialmente dal tuo Cimitero 1 mostro "Morfotronico" con un Livello pari o inferiore al risultato. ● Posizione di Difesa: Una volta per turno, durante la tua Main Phase: puoi tirare un dado a sei facce, dissotterrare quel numero di carte dalla cima del tuo Deck (o tante quante puoi) e, se lo fai, puoi mandare 1 carta "Morfotronico" dissotterrata al Cimitero, inoltre metti il resto in cima oppure in fondo al Deck in qualsiasi ordine. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ ● Posição de Ataque: Uma vez por turno, durante sua Fase Principal: você pode lançar um dado de seis faces e ganhar PV igual ao resultado x 100 e, depois, você pode Invocar por Invocação-Especial 1 monstro "Morfotrônico(a)" do seu Cemitério com um Nível igual ou menor que o resultado. ● Posição de Defesa: Uma vez por turno, durante sua Fase Principal: você pode lançar um dado de seis faces, escavar esse número de cards do topo do seu Deck (ou tantos quanto puder) e, se isso acontecer, você pode enviar 1 card "Morfotrônico(a)" escavado para o Cemitério e, além disso, coloque o resto de volta no topo ou no fundo do Deck em qualquer ordem. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ ● Posición de Ataque: Una vez por turno, durante tu Main Phase: puedes lanzar un dado de seis caras y ganar LP iguales al resultado x 100, y después puedes Invocar de Modo Especial, desde tu Cementerio, 1 monstruo "Morfotrónico/a" con un Nivel igual o menor al resultado. ● Posición de Defensa: Una vez por turno, durante tu Main Phase: puedes lanzar un dado de seis caras, excavar ese número de cartas de la parte superior de tu Deck (o tantas como puedas) y, si lo haces, puedes mandar al Cementerio 1 carta "Morfotrónico/a" excavada, y además pon el resto en la parte inferior o superior del Deck en cualquier orden. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：このカードは表示形式によって以下の効果を得る。●攻撃表示：１ターンに１度、自分メインフェイズに発動できる。サイコロを１回振る。自分は出た目の数×１００ ＬＰ 回復する。その後、出た目の数以下のレベルを持つ「 Ｄ 」モンスター１体を自分の墓地から選んで特殊召喚できる。●守備表示：１ターンに１度、自分メインフェイズに発動できる。サイコロを１回振り、出た目の数だけ自分のデッキの上からカードをめくる。その中から「 Ｄ 」カード１枚を選んで墓地へ送る事ができる。残りは好きな順番でデッキの上か下に戻す。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 이 카드는 표시 형식에 따라 이하의 효과를 얻는다. ●공격 표시: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 주사위를 1회 던진다. 자신은 나온 눈의 수 × 100 LP 회복한다. 그 후, 나온 눈의 수 이하의 레벨을 가지는 "D(디포머)" 몬스터 1장을 자신 묘지에서 고르고 특수 소환할 수 있다. ●수비 표시: 1턴에 1번, 자신 메인 페이즈에 발동할 수 있다. 주사위를 1회 던져, 나온 눈의 수만큼 자신의 덱 위에서 카드를 넘긴다. 그 중에서 "D(디포머)" 카드 1장을 고르고 묘지로 보낼 수 있다. 나머지는 좋아하는 순서대로 덱 위나 아래로 되돌린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2022-08-04 POTE-EN093 Power of the Elements Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2022-08-04 POTE-FR093 Power of the Elements Le Pouvoir des Éléments Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2022-08-04 POTE-DE093 Power of the Elements Power of the Elements Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2022-08-04 POTE-IT093 Power of the Elements Potere degli Elementi Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2022-08-04 POTE-PT093 Power of the Elements Poder dos Elementos Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2022-08-04 POTE-SP093 Power of the Elements Poder de los Elementos Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-05-21 DP27-JP001 Duelist Pack: Duelists of Pyroxene デュエリストパック －輝石のデュエリスト編－ Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2022-08-09 DP27-KR001 Duelist Pack: Duelists of Pyroxene 듀얼리스트 팩 -휘석의 듀얼리스트 편- Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Morphtronic 
+ 
+ Supports   archetypes   
+ Morphtronic 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17596 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Morphtronic " 「 Ｄ 」 Members 
+ Morphtronic Boarden Morphtronic Boomboxen Morphtronic Cameran Morphtronic Celfon Morphtronic Clocken Morphtronic Datatron Morphtronic Earfon Morphtronic Lantron Morphtronic Magnen Morphtronic Magnen Bar Morphtronic Radion Morphtronic Remoten Morphtronic Scannen Morphtronic Scopen Morphtronic Slingen Morphtronic Smartfon Morphtronic Staplen Morphtronic Telefon Morphtronic Vacuumen Morphtronic Videon 
+ Gadget Box Morphtronic Accelerator Morphtronic Bind Morphtronic Converter Morphtronic Cord Morphtronic Engine Morphtronic Forcefield Morphtronic Impact Return Morphtronic Map Morphtronic Mix-up Morphtronic Monitron Morphtronic Repair Unit Morphtronic Rusty Engine Morphtronics, Scramble! 
+ Support 
+ Gadget Arms Gadget Driver Gadget Gamer Gadget Hauler Morphtronic Boarden Morphtronic Boomboxen Morphtronic Cameran Morphtronic Celfon Morphtronic Earfon Morphtronic Radion Morphtronic Remoten Morphtronic Scannen Morphtronic Scopen Morphtronic Slingen Morphtronic Smartfon Morphtronic Telefon 
+ Double Tool C&D Factory of 100 Machines Junk Box Morphtransition Morphtronic Accelerator Morphtronic Bind Morphtronic Converter Morphtronic Cord Morphtronic Engine Morphtronic Forcefield Morphtronic Impact Return Morphtronic Map Morphtronic Mix-up Morphtronic Monitron Morphtronic Repair Unit Morphtronic Rusty Engine Morphtronics, Scramble! Power-Up Adapter 
+ Related 
+ Power Tool Braver Dragon Power Tool Dragon 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/5f/MorphtronicTelefon-POTE-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20220817183703', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836']
+Categories: Cards needing effect types, Duel Monsters cards, TCG cards, OCG cards

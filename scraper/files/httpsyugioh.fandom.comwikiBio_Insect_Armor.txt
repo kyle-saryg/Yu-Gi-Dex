@@ -1,0 +1,108 @@
+Link: https://yugioh.fandom.com/wiki/Bio_Insect_Armor
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Bio Insect Armor 昆虫機甲鎧 
+ 
+ English 
+Bio Insect Armor 
+ Japanese (kana) 
+ バイオインセクトアーマー Check translation 
+ Japanese (base) 
+ 昆虫機甲鎧 Check translation 
+ Japanese ( rōmaji ) 
+Baio Insekuto Āmā 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Insect  /  Effect 
+ Level 
+ 5   
+ ATK  /  DEF 
+ 1500  /  2000 
+ Passcode 
+ 03084730 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+If this card is in your  hand  or  GY  and you do not  control  "Bio Insect Armor": You can  target  1  Insect   monster  you control;  equip  this card to it, but  banish  this card and that equipped monster when they  leave the field . You can only use this  effect  of "Bio Insect Armor"  once per turn . A monster equipped with this card gains 1500  ATK /2000  DEF  during the  Battle Phase  and  Main Phase 2  only. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが手札・墓地に存在し、自分フィールドに「昆虫機甲鎧」が存在しない場合、自分フィールドの昆虫族モンスター１体を対象として発動できる。このカードを装備カード扱いとしてそのモンスターに装備する。このカード及びこの効果でこのカードを装備したモンスターは、フィールドから離れた場合に除外される。②：このカードを装備したモンスターはお互いのバトルフェイズ及びメインフェイズ２の間、攻撃力が１５００アップし、守備力が２０００アップする。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-10-15 PHHY-JP014 Photon Hypernova ＰＨＯＴＯＮ ＨＹＰＥＲＮＯＶＡ Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Insect 
+ 
+ Actions  
+ Activates from your hand 
+ Activates from your Graveyard 
+ Equips self from hand 
+ Equips self from Graveyard 
+ 
+ Stat changes  
+ Equipped gains ATK 
+ Equipped gains DEF 
+ 
+ Banished  categories  
+ Banishes itself from your field 
+ Banishes from your field 
+ Banishes equipped 
+ Banishes itself when it leaves the field 
+ Banishes cards when it leaves the field 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 18159 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/f4/BioInsectArmor-PHHY-JP-C.png/revision/latest/scale-to-width-down/300?cb=20221107030031', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

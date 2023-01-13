@@ -1,0 +1,1227 @@
+Link: https://yugioh.fandom.com/wiki/Duel_Quiz_(Duel_Links)
+
+Duel Quiz  is a minigame in  Yu-Gi-Oh! Duel Links . It is accessible through the Duel School. All of them have a preset field configuration and requires the player to win in that turn. Level 1 Quizzes are unlocked at the beginning of the game, Level 2 Quizzes are unlocked at Stage 10 while Level 3 Quizzes are unlocked at Stage 15.
+ Each Duel Quiz that is successfully cleared awards the player a certain number of Gems or a card.
+ 
+ Standard Duel Quizzes 
+ 
+ 
+ Level
+ 
+ Description
+ 
+ Reward
+ 
+ 
+ 1-1
+ 
+ Summon a Monster
+ 
+ 15 Gems
+ 
+ 
+ 1-2
+ 
+ Tribute Summon a Monster①
+ 
+ 15 Gems
+ 
+ 
+ 1-3
+ 
+ Tribute Summon a Monster②
+ 
+ 15 Gems
+ 
+ 
+ 1-4
+ 
+ Change Attack/Defense Battle Position
+ 
+ 15 Gems
+ 
+ 
+ 1-5
+ 
+ Select Your Targets
+ 
+ 15 Gems
+ 
+ 
+ 1-6
+ 
+ Use a Spell①
+ 
+ " Block Attack "
+ 
+ 
+ 1-7
+ 
+ Use a Spell②
+ 
+ " Banner of Courage "
+ 
+ 
+ 1-8
+ 
+ Use a Trap
+ 
+ 15 Gems
+ 
+ 
+ 1-9
+ 
+ Destroy a Powerful Monster
+ 
+ 15 Gems
+ 
+ 
+ 1-10
+ 
+ Destroy a Spell Card
+ 
+ 15 Gems
+ 
+ 
+ 1-11
+ 
+ Destroy a Trap Card
+ 
+ " Remove Trap "
+ 
+ 
+ 1-12
+ 
+ Activate a Monster Effect
+ 
+ 15 Gems
+ 
+ 
+ 1-13
+ 
+ Activate a Flip Effect
+ 
+ 15 Gems
+ 
+ 
+ 1-14
+ 
+ Use a Field Spell Card
+ 
+ 15 Gems
+ 
+ 
+ 1-15
+ 
+ Fusion Summon a Monster
+ 
+ 15 Gems
+ 
+ 
+ 1-16
+ 
+ Ritual Summon a Monster
+ 
+ 15 Gems
+ 
+ 
+ 2-1
+ 
+ Check Card Attributes
+ 
+ 15 Gems
+ 
+ 
+ 2-2
+ 
+ Inflict Effect Damage
+ 
+ 15 Gems
+ 
+ 
+ 2-3
+ 
+ Reversal of Attack and Defense
+ 
+ 15 Gems
+ 
+ 
+ 2-4
+ 
+ Sealmaster's Talisman
+ 
+ 15 Gems
+ 
+ 
+ 2-5
+ 
+ Thunder Dragon Fusion
+ 
+ 15 Gems
+ 
+ 
+ 3-1
+ 
+ Check Card Types
+ 
+ 15 Gems
+ 
+ 
+ 3-2
+ 
+ Lord of D.
+ 
+ 15 Gems
+ 
+ 
+ 3-3
+ 
+ Awakening of Wicked Goddess
+ 
+ 15 Gems
+ 
+ 
+ 3-4
+ 
+ Amazoness Village
+ 
+ 15 Gems
+ 
+ 
+ Other Duel Quizzes 
+ 
+ 
+ Name
+ 
+ Description
+ 
+ Level
+ 
+ Reward
+ 
+ Available
+ 
+ 
+ The Ultimate Rising 1
+ 
+ Mightiest Illusions Ever
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Unavailable
+ 
+ 
+ The Ultimate Rising 2
+ 
+ Power of Charmer
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Unavailable
+ 
+ 
+ The Ultimate Rising 3
+ 
+ Runaway Divine Dragon
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Unavailable
+ 
+ 
+ Age of Discovery 1
+ 
+ Double Destruction
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Unavailable
+ 
+ 
+ Age of Discovery 2
+ 
+ The Two Guardians
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Unavailable
+ 
+ 
+ Age of Discovery 3
+ 
+ "Gyaku-Gire" Against Defense Position
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Unavailable
+ 
+ 
+ Neo-Impact 1
+ 
+ Awakening! Cu Chulainn
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Unavailable
+ 
+ 
+ Neo-Impact 2
+ 
+ Fuh-Rin-Ka-Zan Doriado
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Unavailable
+ 
+ 
+ Neo-Impact 3
+ 
+ The Two Guardians 2
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Unavailable
+ 
+ 
+ Flame of the Tyrant 1
+ 
+ Three Spheres!
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Unavailable
+ 
+ 
+ Flame of the Tyrant 2
+ 
+ Moth Flying into the Flame
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Unavailable
+ 
+ 
+ Valkyrie's Rage 1
+ 
+ Drawing a Conclusion
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Unavailable
+ 
+ 
+ Valkyrie's Rage 2
+ 
+ Gradius, Scramble!
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Unavailable
+ 
+ 
+ Wonders of the Sky 1
+ 
+ Rising Thrashers
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Unavailable
+ 
+ 
+ Wonders of the Sky 2
+ 
+ Big Bang Twister
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Unavailable
+ 
+ 
+ Chaotic Compliance 1
+ 
+ Psychic Power
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Unavailable
+ 
+ 
+ Chaotic Compliance 2
+ 
+ Gemini Strike
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Unavailable
+ 
+ 
+ Land of the Titans 1
+ 
+ Double Baboon Trouble
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Unavailable
+ 
+ 
+ Land of the Titans 2
+ 
+ Dragons vs Koalas
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Unavailable
+ 
+ 
+ Crimson Kingdom 1
+ 
+ Slice Through the Darkness!
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Crimson Kingdom 2
+ 
+ Zombie Reborn
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Dawn of Destiny 1
+ 
+ Draw Circulation
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Dawn of Destiny 2
+ 
+ Call Forth the Phoenix!
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Electric Overload 1
+ 
+ Three Way Fusion!
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Electric Overload 2
+ 
+ Ninjitsu Art of Double Attack
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Echoes of Silence 1
+ 
+ One Man Front
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Echoes of Silence 2
+ 
+ Up and Down
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Generation Next 1
+ 
+ Knights of the Face Cards
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Generation Next 2
+ 
+ Invaders from Another Planet!
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Servant of Kings 1
+ 
+ Birthright
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Servants of Kings 2
+ 
+ Don't fall for the trap!
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Galactic Origin 1
+ 
+ Graveyard Interaction
+ 
+ 2
+ 
+ 30 Gems
+ 
+ Available
+ 
+ 
+ Blades of Spirits 1
+ 
+ Fuse with a Trap Card!
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Blades of Spirits 2
+ 
+ Devastate your opponent!
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Primal Burst 1
+ 
+ Incinerate the clouds with card effects!
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Primal Burst 2
+ 
+ The Guru calls forth its Overlord!
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Resonance of Contrast 1
+ 
+ Fusion Summon using "Red-Eyes B. Dragon" and a Warrior-Type Monster!
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Resonance of Contrast 2
+ 
+ Activate monster effects in your hand and Graveyard
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Abyss Encounters 1
+ 
+ Whales unite!
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Abyss Encounters 2
+ 
+ Ruler of the Archfiends
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Rampage of the Forest 1
+ 
+ Don't be fooled by their cute looks!
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Rampage of the Forest 2
+ 
+ Evolve into the Queen!
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Valiant Souls 1
+ 
+ Tribute Trap Cards to Tribute Summon!
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Valiant Souls 2
+ 
+ Two birds with one stone!
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Visions of Ice 1
+ 
+ A combo using "The Tricky"!
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Visions of Ice 2
+ 
+ Use Spellbooks to your advantage!
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Crusaders' Battlegrounds 1
+ 
+ Noble Arms Resurrected
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Crusaders' Battlegrounds 2
+ 
+ Activate by Tribute Summon!
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Clash of Wings 1
+ 
+ Activate during the Battle Phase!
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Clash of Wings 2
+ 
+ 2 Fur the Price of 1!
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Burning Nova 1
+ 
+ Lightning Strikes Twice!
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Burning Nova 2
+ 
+ Judgment Has Come
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Empire of Scarlet 1
+ 
+ Equip your allies!
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Empire of Scarlet 2
+ 
+ Vampires return from the grave!
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Gaia Genesis 1
+ 
+ Special Summon and destroy Set cards!
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Gaia Genesis 2
+ 
+ Player Substitution!
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Stardust Acceleration 1
+ 
+ Blue-Eyes Synchro!
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Stardust Acceleration 2
+ 
+ Wipe out Spell/Trap Cards with "X-Saber"!
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Power of Bravery 1
+ 
+ A Synchro Monster that lets you add a Equip Spell Card to your hand!
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Power of Bravery 2
+ 
+ Equip straight from your Deck!
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Blackstorm Rising 1
+ 
+ Special Summon "Blackwing" monsters!
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Blackstorm Rising 2
+ 
+ Equip "Dragunity" monsters from your Graveyard!
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Secrets of the Ancients 1
+ 
+ Special Summon "King of the Beasts" from your Graveyard!
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Secrets of the Ancients 2
+ 
+ Destroy your opponent's Field Spell Card with the effect of "Ancient Fairy Dragon"!
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Revolution Beginning 1
+ 
+ Use the difference in Life Points to your advantage!
+ 
+ 2
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ Revolution Beginning 2
+ 
+ Use the effect of " Karakuri " monsters to change battle positions!
+ 
+ 3
+ 
+ 15 Gems
+ 
+ Available
+ 
+ 
+ This article is a stub. You can help the  Yu-Gi-Oh!  Wikia by  expanding it . 
+ v e 
+ Yu-Gi-Oh! Duel Links Events 
+ Character unlock events 
+ Welcome to Toon World 
+ Fear the Deck of Terror! The Destiny Board of Doom 
+ Paradox Brothers: Guardians of the Gate 
+ Attack of the Rare Hunters! Yami Marik Returns! 
+ Duelist Chronicles: Set Sail for the Kingdom! 
+ Dr. Crowler's Tricky Tests 
+ Bonz's Spooky Zombie Party 
+ Duelist Chronicles: Battle City Begins! 
+ Tag Duel Tournament 
+ Awaken! Rainbow Dragon! 
+ Syrus Truesdale's Road to Duel Links 
+ Espa Roba's Duel Carnival 
+ Cyberdark Impact! Zane Truesdale Strikes! 
+ Tabletop RPG: Monster World 
+ Rise of Yubel - The Ultimate Nightmare 
+ Sector Security on the Move! Officer Tetsu Trudge 
+ Atlas Rising: The Return of Jack Atlas 
+ I've Got Dino DNA! Tyranno Hassleberry's Ultimate Evolution 
+ Consumed by Light: Sartorius Emerges 
+ Raid Duel - The Flames of Vengeance: Ccapac Apu 
+ Rise of Yubel - Soul Polymerization 
+ Destiny Decided! Dark Signer Carly Carmine 
+ Transcend Game Part 2 
+ Raid Duel - The Netherworld Cometh: Wiraqocha Rasca 
+ Memories of a Friend 
+ Blair Flannigan's Maiden in Love 
+ Carly Carmine's Duel Links Spotlight! 
+ Raid Duel - Dimensional Disaster: Buster Gundil the Cubic Behemoth 
+ Téa Gardner's Reminiscence of the Future 
+ Duelist Road - Clash at Crash Town 
+ Raid Duel - Dimensional Disaster: Indiora Doom Volt the Cubic Emperor 
+ Shark Attack: Numbers Appear 
+ D.D. Castle: Assault 
+ Number Hunter: Kite Tenjo 
+ Clear Mind: Antinomy the Mysterious Turbo Duelist 
+ Roll the Dice! Duke Devlin Appears! 
+ Raid Duel - Fear the Meklord Emperor 
+ Raid Duel - Giant Grinder: The Meet-and-Greet of Nightmares 
+ D.D. Castle: Supreme King Rises 
+ For the Sake of the Family: Trey Arrives 
+ The Power Beyond Dimensions: Declan Akaba 
+ Raid Duel - The Embodiment of Despair: Meklord Astro Mekanikle 
+ The Dark Duelist of Xyz: Yuto! 
+ Roaming character events 
+ Roaming Duelists 
+ Rex Raptor's Dino Mayhem! 
+ Chazz-A-Thon 
+ Mark of the Dark Signer 
+ Other events 
+ Duel-A-Thon 
+ Duelist Challenges 
+ Card Flipper Campaign 
+ Unleash the Egyptian God Card! Yami Marik Returns II 
+ D.D. Tower: Fire Dimension 
+ D.D. Tower: Water Dimension 
+ Duel Island: -Gladiator- 
+ D.D. Tower: Wind & Earth Dimension 
+ Duelist Chronicles: Battle City Showdown! 
+ D.D. Tower: Dark Dimension 
+ Duel Quest 
+ D.D. Tower: Sacred Light Dimension 
+ Duelist Chronicles GX: Welcome to Duel Academy! 
+ Tour Guide's Bingo Missions 
+ Duelist Chronicles GX: Society of Light 
+ Mark of the Dark Signer 
+ Mission Circuit 
+ Leo and Luna's Duel Carnival 
+ Duelist Chronicles GX: Yubel 
+ Turbo Duel Grand Prix 
+ Duelist Chronicles 5D'S: Fight for the Fortune Cup 
+ Carly's Fortune-Telling 
+ Duelist Chronicles 5D'S: Attack of the Dark Signers 
+ D.D. Castle: Emergence 
+ D.D. Castle: Siege 
+ Duelist Road - The Power of ZEXAL! 
+ Duelist Kingdom 
+ Duelist Road - The Dark Side of Dimensions 
+ Duelist Chronicles 5D's: The Three Emperors of Iliaster 
+ 
+ Items 
+ Card sleeve 
+ Gate Key 
+ Ticket 
+ Icon 
+ Playmat 
+ Sets 
+ Main Packs 
+ The Ultimate Rising 
+ Neo-Impact 
+ Valkyrie's Rage 
+ Chaotic Compliance 
+ Crimson Kingdom 
+ Electric Overload 
+ Generation Next 
+ Galactic Origin 
+ Primal Burst 
+ Abyss Encounters 
+ Valiant Souls 
+ Crusaders' Battlegrounds 
+ Burning Nova 
+ Gaia Genesis 
+ Stardust Acceleration 
+ Blackstorm Rising 
+ Revolution Beginning 
+ Absolute Inferno 
+ Warriors Unite 
+ Blazing Rose 
+ Cybernetic Rebellion 
+ Valhalla Calling 
+ Dark Dimension 
+ Aerial Assault 
+ Future Horizon 
+ Judgement Force 
+ Truth Universe 
+ Witch's Sorcery 
+ Infernity Destruction 
+ Shining Hope 
+ Shark Fang 
+ Infinite Ray 
+ Antinomic Theory 
+ Eternal Stream 
+ Darkness Gimmick 
+ Pendulum Genesis 
+ Chaotic Soldiers 
+ Fantastic Arc 
+ Maximum Gustav 
+ Cross Dimension 
+ Shining Sunrise 
+ Link Revolution 
+ Braver Victory 
+ Mini Packs 
+ Age of Discovery 
+ Flame of the Tyrant 
+ Wonders of the Sky 
+ Land of the Titans 
+ Dawn of Destiny 
+ Echoes of Silence 
+ Servants of Kings 
+ Blades of Spirits 
+ Resonance of Contrast 
+ Rampage of the Forest 
+ Visions of Ice 
+ Clash of Wings 
+ Empire of Scarlet 
+ Power of Bravery 
+ Secrets of the Ancients 
+ Tornado of Phantoms 
+ Dimension of the Wizards 
+ Lords of Shining 
+ Guardians of Rock 
+ Curse of Dread 
+ Spirit of the Beast 
+ Soul of Resurrection 
+ Masters of Shadow 
+ Fortress of Gears 
+ Flames of the Heart 
+ Chronicle of Glory 
+ Arena of Sanctuary 
+ Voltage of the Metal 
+ Rage of Volcano 
+ Photon of Galaxy 
+ Sign of Harpies 
+ The King of Vermilion 
+ Arts of Atlantis 
+ Idea of Armageddon 
+ Force of Infinity 
+ Phantom of Rebellion 
+ Energy of Gigarays 
+ Heart of Xyz 
+ Stars of Synchro 
+ Stage of Trickstar 
+ Structure Decks 
+ Dragonic Force 
+ Sorcerer's Alliance 
+ Legendary Warriors 
+ HERO Rising 
+ Destiny Rulers 
+ Dragonic Knights 
+ Synchro Connection 
+ Swordbound Silence 
+ Return of the Red-Eyes 
+ Hero Generation 
+ Gagaga Xyz 
+ Magicians Arc 
+ Structure Decks EX 
+ Spellbound Silence 
+ The White Dragon of Legend 
+ Ancient Gear Awakening 
+ Neos Fusion 
+ Full Metal Desperado 
+ Masters of Chaos 
+ King's Resonance 
+ Dragunity Overdrive 
+ Gladiator's Storm 
+ Return of the Fire Kings 
+ Tales of the Noble Knights 
+ Blue-Eyes Evolution 
+ Stardust Nexus 
+ Rise of Gaia 
+ Evil Domination 
+ D/D/D Apocalypse 
+ Cyber Style Extreme 
+ Sword of Paladin 
+ Tellarknight Advent 
+ Brave Hope 
+ Ruddy Rose Burning 
+ Cyberse Code 
+ Limited Edition Sets 
+ Selection Box Vol. 01 
+ Selection Box Vol. 01 Mini 
+ Selection Box Vol. 02 
+ Selection Box Vol. 03 
+ Selection Box Vol. 02 Mini 
+ Selection Box Vol. 04 
+ Selection Box Vol. 03 Mini 
+ Selection Box Vol. 01 Super Mini 
+ Selection Box Vol. 05 
+ Selection Box Vol. 04 Mini 
+ Selection Box Vol. 02 Super Mini 
+ Special Packs 
+ New Week Campaign! 
+ Vol.01 
+ Vol.02 
+ Vol.03 
+ Vol.04 
+ 
+ Forbidden/Limited Lists 
+ 2017
+ August 
+ November 
+ 2018
+ January
+ 9 
+ 24 
+ February
+ 5 
+ June
+ 26 
+ August
+ 29 
+ October
+ 29 
+ 2019
+ January
+ 24 
+ March
+ 25 
+ May
+ 16 
+ July
+ 26 
+ August
+ 27 
+ October
+ 28 
+ December
+ 11 
+ 2020
+ March
+ 24 
+ May
+ 21 
+ July
+ 21 
+ October
+ 14 
+ December
+ 15 
+ 2021
+ January
+ 5 
+ March
+ 9 
+ May
+ 10 
+ July
+ 9 
+ August
+ 6 
+ Skill Rebalancing 
+ 2017 
+ 2018 
+ 2019 
+ Miscellaneous 
+ Card Trader 
+ Duel Quiz 
+ Mission Bingo 
+ Loaner Deck Duels 
+ 
+ 
+ 
+ 
+Categories: Stubs, Yu-Gi-Oh! Duel Links

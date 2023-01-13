@@ -1,0 +1,375 @@
+Link: https://yugioh.fandom.com/wiki/Golden_Dragon_Summoner
+
+
+ 
+ 
+ Golden Dragon Summoner 黃 龍 の 召 喚 士 
+ 
+ English 
+Golden Dragon Summoner 
+ French 
+ Invocateur Dragon d'Or Check translation 
+ German 
+ Goldener Drachenbeschwörer Check translation 
+ Italian 
+ Evocatore Drago Dorato Check translation 
+ Korean 
+ 황룡의 소환사 Check translation 
+ Portuguese 
+ Invocador do Dragão Dourado Check translation 
+ Spanish 
+ Invocador del Dragón Dorado Check translation 
+ Japanese (kana) 
+ こうりゅうのしょうかんし Check translation 
+ Japanese (base) 
+ 黃龍の召喚士 Check translation 
+ Japanese ( rōmaji ) 
+Kōryū no Shōkanshi 
+ Japanese (translated) 
+Yellow Dragon Summoner 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Spellcaster  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1000  /  1000 
+ Passcode 
+ 28565527 
+ Card effect types 
+ 
+ 
+ Ignition 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+You can  Tribute  1  monster , then  target  1 monster on the  field ;  return  it to the  hand . You can only use this  effect  of "Golden Dragon Summoner"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Vous pouvez Sacrifier 1 monstre, puis ciblez 1 monstre sur le Terrain ; renvoyez-le à la main. Vous ne pouvez utiliser cet effet de "Invocateur Dragon d'Or" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Du kannst 1 Monster als Tribut anbieten und dann 1 Monster auf dem Spielfeld wählen; gib es auf die Hand zurück. Du kannst diesen Effekt von „Goldener Drachenbeschwörer“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Puoi offrire come Tributo 1 mostro, poi scegliere come bersaglio 1 mostro sul Terreno; fallo ritornare nella mano. Puoi utilizzare questo effetto di "Evocatore Drago Dorato" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Você pode oferecer 1 monstro como Tributo e, depois, escolher 1 monstro no campo; devolva-o para a mão. Você so pode usar este efeito de "Invocador do Dragão Dourado" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Puedes Sacrificar 1 monstruo, y después seleccionar 1 monstruo en el Campo; devuélvelo a la mano. Sólo puedes usar este efecto de "Invocador del Dragón Dorado" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「黄龍の召喚士」の効果は１ターンに１度しか使用できない。①：自分フィールドのモンスター１体をリリースし、フィールドのモンスター１体を対象として発動できる。そのモンスターを持ち主の手札に戻す。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "황룡의 소환사"의 효과는 1턴에 1번밖에 사용할 수 없다. ① : 자신 필드의 몬스터 1장을 릴리스하고, 필드의 몬스터 1장을 대상으로 하여 발동할 수 있다. 그 몬스터를 주인의 패로 되돌린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-EN016   
+ Super Starter: Space-Time Showdown 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-FR016   
+ Super Starter: Space-Time Showdown 
+ Super Deck de Démarrage: La Confrontation de l'Espace-Temps  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-DE016   
+ Super Starter: Space-Time Showdown 
+ Super Starter: Space-Time Showdown  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-IT016   
+ Super Starter: Space-Time Showdown 
+ Super Starter: Resa dei Conti dello Spazio-Tempo  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2014-07-11  
+ YS14-PT016   
+ Super Starter: Space-Time Showdown 
+ Super Deck Inicial: Confronto Espaço-Tempo  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2014-07-10  
+ YS14-SP016   
+ Super Starter: Space-Time Showdown 
+ Súper Baraja de Principiante: La Confrontación del Espacio-Tiempo  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2014-03-21  
+ ST14-JP016   
+ Starter Deck 2014 
+ ＳＴＡＲＴＥＲ ＤＥＣＫ ２０１４  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2014-07-08  
+ ST14-KR016   
+ Starter Deck 2014 
+ STARTER   DECK  2014  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Summoner 
+ 
+ Related to  archetypes  and  series   
+ Aether 
+ Empower 
+ 
+ Actions  
+ Tributes for cost 
+ Returns from field to hand 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11141 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Aether " 「イーサルウェポン」 Members 
+ Aether, the Empowering Dragon Aether, the Evil Empowering Dragon 
+ Support 
+ Empowerment 
+ Related 
+ Golden Dragon Summoner 
+ 
+   
+ Empower  魔装 Members 
+ Aether, the Empowering Dragon Aether, the Evil Empowering Dragon Arnis, the Empowered Warrior Dragodies, the Empowered Warrior Dragonox, the Empowered Warrior Hydrotortoise, the Empowered Warrior Terratiger, the Empowered Warrior Ventdra, the Empowered Warrior 
+ Empowerment 
+ Related 
+ Blue Dragon Summoner Golden Dragon Summoner Green Turtle Summoner Red Sparrow Summoner White Tiger Summoner 
+ 
+   
+ Summoner   召 喚 士 Members 
+ Blue Dragon Summoner Golden Dragon Summoner Green Turtle Summoner Red Sparrow Summoner White Tiger Summoner 
+ Related 
+ Aether, the Empowering Dragon Arnis, the Empowered Warrior Hydrotortoise, the Empowered Warrior Terratiger, the Empowered Warrior Ventdra, the Empowered Warrior 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/62/GoldenDragonSummoner-YS14-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20140711051341', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

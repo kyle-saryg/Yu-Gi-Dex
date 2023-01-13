@@ -1,0 +1,122 @@
+Link: https://yugioh.fandom.com/wiki/Dice_Dungeon
+
+The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Dice Dungeon ダイス・ダンジョン 
+ 
+ English 
+Dice Dungeon 
+ Korean 
+ 다이스 던전 Check translation 
+ Japanese 
+ ダイス・ダンジョン Check translation 
+ Japanese ( rōmaji ) 
+Daisu Danjon 
+ Card type 
+ Spell   
+ Property 
+ Field   
+ Passcode 
+ 11808215 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When this card is  activated : You can  add  1 " Dimension Dice " from your  Deck  to your  hand . At the start of the  Battle Phase : You can make each player roll a six-sided die, and if they do, apply the appropriate  effect  to each  monster  on the  field  based on its  controller 's result, until the end of this  turn . ● 1: Loses 1000  ATK . ● 2: Gains 1000 ATK ● 3: Loses 500 ATK. ● 4: Gains 500 ATK. ● 5: Halve the ATK. ● 6: Double the ATK. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：このカードの発動時の効果処理として、デッキから「ディメンジョン・ダイス」１枚を手札に加える事ができる。②：自分・相手のバトルフェイズ開始時に発動できる。お互いはそれぞれ、サイコロを１回振り、自身のフィールドの全てのモンスターの攻撃力にターン終了時まで、出た目の効果を適用する。 ●１：１０００ダウンする。●２：１０００アップする。 ●３：５００ダウンする。●４：５００アップする。 ●５：半分にする。●６：倍にする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 이 카드의 발동시의 효과 처리로서, 덱에서 "디멘션 다이스" 1장을 패에 넣을 수 있다. ②: 자신 / 상대의 배틀 페이즈 개시시에 발동할 수 있다. 양쪽 플레이어는 각각, 주사위를 1회 던지고, 자신 필드의 모든 몬스터의 공격력에 턴 종료시까지, 나온 눈의 효과를 적용한다. ●1: 1000 내린다. ●2: 1000 올린다. ●3: 500 내린다. ●4: 500 올린다. ●5: 절반이 된다. ●6: 배가 된다. 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-06-11 AC02-JP005 Animation Chronicle 2022 ＡＮＩＭＡＴＩＯＮ ＣＨＲＯＮＩＣＬＥ ２０２２ Common 2022-06-11 AC02-JP005 Animation Chronicle 2022 ＡＮＩＭＡＴＩＯＮ ＣＨＲＯＮＩＣＬＥ ２０２２ Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2022-09-06 AC02-KR005 Animation Chronicle 2022 ANIMATION   CHRONICLE  2022 Common 2022-09-06 AC02-KR005 Animation Chronicle 2022 ANIMATION   CHRONICLE  2022 Normal Parallel Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Dimension Dice 
+ 
+ Actions  
+ Adds from Deck to hand 
+ 
+ Stat changes  
+ Your monsters lose ATK 
+ Your opponent's monsters lose ATK 
+ Changes ATK value 
+ Changes original ATK 
+ 
+ Miscellaneous  
+ Die roll 
+ Variable effects 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17623 ( ja  ( rulings )   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Dice Dungeon " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d4/DiceDungeon-AC02-JP-C.png/revision/latest/scale-to-width-down/300?cb=20220617171214', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/1/14/Field.svg/revision/latest/scale-to-width-down/28?cb=20120920120155']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

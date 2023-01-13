@@ -1,0 +1,95 @@
+Link: https://yugioh.fandom.com/wiki/Capture_Drone
+
+
+ Capture Drone 
+ 
+ Japanese:   キャプチャー・ドローン 
+ Romaji:   Kyapuchā Dorōn 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ If you control a " Drone " monster:  Activate  this card by  targeting  1  Link Monster  your opponent  controls ; It cannot be  tributed  or used as  Link Material , also it has its  effect (s)  negated .  Once per turn , during your Main Phase: You can  Special Summon  " Drone Token " ( Machine / DARK / Level  1/ATK 0/DEF 0) up to the number of  Link Arrow  that target has. When that target  Leaves the field , destroy this card. Link Monsters your opponent controls cannot attack.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  053 ,  054 ,  077 ,  078 ,  080 ,  081 ,  083 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ キャプチャー・ドローン 
+ 自分フィールドに「ドローン」モンスターが存在する場合、相手フィールドのリンクモンスター１体を対象としてこのカードを発動できる。①：このカードが魔法・罠ゾーンに存在する限り、対象のモンスターの効果は無効化され、リリースできず、リンク素材にできない。対象のモンスターがフィールドから離れた場合にこのカードは破壊される。②：このカードが魔法・罠ゾーンに存在する限り、相手の効果リンクモンスターは攻撃できない。③：１ターンに１度、自分メインフェイズにこの効果を発動できる。対象モンスターのリンクマーカーの任意の数だけ、自分フィールドに（機械族・闇・星１・攻／守０）体を特殊召喚する。 
+ 
+ 
+ Kyapuchā Dorōn 
+ 
+ 
+ Decks 
+ 
+ 
+ Kenneth Drayden 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Drone  
+ 
+ Supports   archetypes   
+ Drone  
+ 
+ v e 
+" Drone " 「ドローン」 a   m   +   Members 
+ Assemble Drone Battledrone General Battledrone Sergeant Battledrone Warrant Blitz Drone Camouflage Drone Capture Drone Commandrone Double Sniper Demolition Drone Doron Drone Asteroid Drone Barricade Drone Carrier Drone Cordon Drone Corporal Drone Force Fusion Drone Force Tuning Drone Launcher Unit Drone Pawn Drone Recycler Drone Token Drone Unity Duplicate Drone Fortressdrone Beehive Medicdrone Dock Scud Drone Snatch Drone 
+ Support 
+ Assemble Drone Battledrone General Battledrone Sergeant Blitz Drone Camouflage Drone Capture Drone Drone Cordon Drone Force Fusion Drone Force Tuning Drone Unity Medicdrone Dock Mirror Coat Unit 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/b7/CaptureDrone-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20181114144139', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/18?cb=20120920115206']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

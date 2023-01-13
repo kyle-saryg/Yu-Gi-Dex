@@ -1,0 +1,121 @@
+Link: https://yugioh.fandom.com/wiki/GAOV-JP066
+
+
+ Overlay Buster 
+ 
+ Japanese:   オーバーレイ・バスター 
+ Romaji:   Ōbārei Basutā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Trigger 
+ Target  1  face-up   monster  you  control ; that target gains 500  ATK  during the  Battle Phase  only. Also, each time it  destroys  an opponent's  Xyz Monster   by battle  this  turn : Inflict 500  damage  to your opponent for each  Xyz Material  that was  attached  to that monster.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  029 ,  059 ,  082 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Italian 
+ Combattente Sovrapposto 
+ 
+ 
+ 
+ Spanish 
+ Revestir Monstruo (American Spanish dub.) 
+ 
+ 
+ 
+ Japanese 
+ オーバーレイ・バスター 
+ 自分フィールド上に存在するモンスター１体を選択して発動する。選択したモンスターの攻撃力はバトルフェイズ終了時まで５００ポイントアップする。選択したモンスターが相手のモンスターエクシーズ１体を戦闘によって破壊した時、そのエクシーズ素材の数×５００ポイントダメージを相手ライフに与える。 
+ 
+ 
+ Ōbārei Basutā 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Yuma Tsukumo 
+ 
+ 
+ Search categories 
+ 
+ Anti-supports   
+ Xyz Monster 
+ 
+ Archetypes  and  series   
+ Overlay  
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ 
+ LP   
+ Damages your opponent 
+ 
+ v e 
+ Overlay  オーバーレイ a   m   Members 
+ Critical Overlay Destiny Overlay Instant Overlay Numbers Overlay Boost Overlay Accel Overlay Armor Overlay Assistance Overlay Award Overlay Banish Overlay Barrage Overlay Booster Overlay Break Overlay Burglary Overlay Burst Armor Overlay Buster Overlay Capture Overlay Chain Overlay Connection Overlay Dark Reincarnation Overlay Eater Overlay Flash Overlay Hunt Overlay Marker Overlay Menace Overlay Owl Overlay Reborn Overlay Regen Overlay Satellite Overlay Sentinel Overlay Stopper Overlay Wedge Overlay World Overlay Zero Buster Performage Overlay Juggler Solid Overlay Superior Overlay Weaker Overlay 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/43/OverlayBuster-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20111101034248', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/72/OverlayBuster-OW.png/revision/latest/scale-to-width-down/185?cb=20140201134414', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

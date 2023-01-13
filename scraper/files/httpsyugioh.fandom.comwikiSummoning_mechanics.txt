@@ -1,0 +1,521 @@
+Link: https://yugioh.fandom.com/wiki/Summoning_mechanics
+
+Summoning mechanics  are rules related to Summoning a monster.  Nomi ,  Semi-Nomi ,  Special Summon ,  Flip Summon , and  Normal Summon  and  Normal Set  (also  Tribute Summon  and  Tribute Setting ) are all considered Summoning mechanics. These are Summoning actions that may be negated through a card effect, but, due to being an action of the game itself, do not start a chain.
+ 
+ Contents 
+ 
+ 1   Nomi 
+ 2   Semi-Nomi 
+ 3   Special Summon 
+ 4   Normal Summon 
+ 5   Set 
+ 6   Tribute Summon 
+ 7   Tribute Set 
+ 
+ 
+ Nomi 
+ " Nomi " （「のみ」） is a special term that refers to some monsters.  If a monster is a "nomi monster", then it means that the monster cannot be  Normal Summoned  or  Set . It can neither be  Special Summoned  except by fulfilling a special requirement. Examples of Nomi monsters include " Armed Dragon LV10 ", " Doom Dozer ", and " Raviel, Lord of Phantasms ". You can identify a nomi monster because it will have, "This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by..." in its text. It is also to be noted that the Special Summoning of these cards can only be done while the card in question is in the owner's hand unless stated otherwise in card text.
+ There is also a type of monster called "Semi-Nomi".
+ 
+ See also:  List of Nomi monsters . 
+ Semi-Nomi 
+ " Semi-Nomi " is a term that refers to a special sub-group of monsters.  If a monster is a "Semi-Nomi Monster", then it means it must be  Special Summoned  by its listed effect before it can be  Special Summoned  by another effect.  " Aqua Spirit ", " Harpie Lady Sisters ", and " Black Luster Soldier - Envoy of the Beginning " are all Semi-Nomi monsters. You can recognize a Semi-Nomi monster because it will have, "This card cannot be Normal Summoned or Set. This card can only be Special Summoned by..." in its text. 
+ Card without the first sentence, such as " Black Luster Soldier - Envoy of the Beginning , the  "No Normal Summon or Set"  rule still applies.
+ After a Semi-Nomi monster has been Special Summoned, it can be Special Summoned through other effects. This only lasts as long as the Semi-Nomi monster does not return to the Hand or Deck. As long as the Semi-Nomi monster remains on the field, in the  Graveyard , or  banished , you can Special Summon it again with other card effects.
+ As an example:
+ 
+ A player banishes three Fiends to Special Summon " Dark Necrofear ".  If it is destroyed and sent to the Graveyard, it can be revived (such as by " Monster Reborn "). 
+ If, afterwards, it is banished by " Dark Core ", you can still Special Summon it (such as by " Dimensional Inversion "). 
+ If after all this, "Dark Necrofear" is returned to the Deck or hand (such as by " Phoenix Wing Wind Blast " or " Compulsory Evacuation Device "), then you must use the effect of "Dark Necrofear" to Summon it again. You cannot Special Summon it from the hand or deck by other cards, such as " Monster Gate " or " Doom Shaman ". 
+ If it is later banished or sent to the Graveyard (such as by " Graceful Charity "), it still cannot be Special Summoned. 
+ Note that  Fusion Monsters ,  Ritual Monsters ,  Xyz Monsters  and  Synchro Monsters  are treated as Semi-Nomis unless stated otherwise.
+ There is also a sub-type of monsters called "Nomi".
+ 
+ See also:  List of Semi-Nomi Monsters . 
+ Special Summon 
+ A Special Summon is a Summon that is performed through the effect of a single card. Special Summons do not use up your 1 Normal Summon for the turn, and can be conducted as many times as possible in a turn and if generally referred to, a monster can be Special Summoned in face up  ATK  or  DEF  position, unless indicated by the card. Also, Special Summons can be activated during either player's turn.
+ "Premature Burial", "Call of the Haunted", "Monster Reborn", "Soul Resurrection", and "Autonomous Action Unit" can all Special Summon monsters from the Graveyard. Thus, you can activate each card (provided you have enough Life Points) and resurrect five monsters, as well as conduct a Tribute Summon or Tribute Set in the same turn.
+ Ritual ,  Fusion ,  Synchro ,  Xyz ,  Pendulum , and  Link Summons  are all considered Special Summons.
+ 
+ Normal Summon 
+ A Normal Summon can normally be conducted only once per turn. Setting a monster will also take up your Normal Summon for the turn.
+ Some cards can change the Normal Summoning rules. "Ultimate Offering", for example, allows you to pay 500 Life Points for each extra Normal Summon you wish to perform in a turn. "Double Summon" allows you to Normal Summon twice in one turn.
+ Only monsters that are Level 4 or lower can be Normal Summoned without Tribute (Tribute Summoning is still considered Normal Summoning, however) unless specifically designated on the card text (Example: "Swift Gaia the Fierce Knight"). 
+ 
+ Set 
+ When you Set a Monster Card, you place it in a Monster Card Zone horizontally and face-down. If the monster is Level 5 or 6, you must Tribute another monster first, then Set the Level 5 or 6 Monster Card (you do not need to show your opponent the card you Set). If the card has a higher Level (7+), the same procedure applies, but you must Tribute 2 Monster Cards from your side of the field first (unless there is a specific Tribute requirement).
+ When you Set a Spell/Trap Card, you place it on the field vertically and face-down. Quick-Play Spell Cards cannot be activated in the same turn they are Set. However, you can activate any other type of Spell Cards in the same turn they were Set. Trap Cards however, cannot be activated in the same turn they were Set, unless a card's text designates otherwise, such as "Cathedral of Nobles". 
+ 
+ Tribute Summon 
+ Any monster of Level 5 or higher requires a Tribute Summon (Advanced Summon in the  OCG , previously Sacrifice Summon). Monsters that are Level 5 or 6 require one monster to be Tributed (called Release in OCG), while monsters of Level 7 or higher require 2 monsters to be Tributed. Some high-level monsters (such as "Moisture Creature") require 3 monsters to be Tributed in order to activate an effect.
+ Cards like "Mausoleum of the Emperor" can bend the rules of Tribute Summoning by allowing you to pay Life Points instead of Tributing monsters. However, this means the Summon is then considered a Normal Summon and not a Tribute Summon.
+ Even if the monster is Tribute Set instead of Tribute Summoned, the correct number of Tributes must be offered. So you cannot Set a monster in order to avoid offering a Tribute.
+ A Tribute Summon is treated exactly as Normal Summon, except a few cards refer specifically to whether or not the card was Tribute Summoned (such as Monarchs). Normally only one Tribute Summon can be conducted in the same turn (exceptions: see "Ultimate Offering" and "Double Summon"). This means you cannot Normal Summon or Set a low Level monster and then Tribute it immediately to Tribute Summon a high Level monster.
+ Tributing a monster for a Tribute Summon is not considered a Cost. However, similar to paying costs, players cannot respond immediately to the Tribute of a monster, since Tributing does not have a Spell Speed. If the Tribute Summon of the new monster is negated, however, the Tributed monster will not return to the field. 
+ 
+ Tribute Set 
+ A  Tribute Set  is treated almost exactly the same as a  Tribute Summon :
+ 
+ You  Tribute  the monsters you'd need to Tribute as if you were performing a Tribute Summon. 
+ Unlike a Tribute Summon, you do  not  show your opponent the monster you Tribute Set. 
+ The Tribute Set still counts as a regular  Set , so you may not perform a Tribute Summon or  Normal Summon  in the same turn unless a card's text designates otherwise, such as " Ultimate Offering " or " Double Summon ". 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Gameplay

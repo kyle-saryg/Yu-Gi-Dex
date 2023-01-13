@@ -1,0 +1,11 @@
+Link: https://yugioh.fandom.com/wiki/Dead_draw
+
+" Dead draw " refers to a card that is unusable or not helpful at the time that it is  drawn  from the  Deck  or otherwise added to a player's  hand . Depending on the  game state  and situation, many otherwise powerful cards could become dead draws. Such cases would be drawing " Pot of Avarice " or " Rank-Up-Magic - The Seventh One " at the beginning of the game, drawing " Wulf, Lightsworn Beast " rather than sending it to the  Graveyard  from the Deck, drawing undesirable Material such as " Gem-Knight Garnet ", or drawing any of the " Spirit Message " cards at any time. 
+ Other, more common cards can be dead draws when you have an empty hand, such as monsters that require  Tribute  or cards that rely on another card to be activated/Summoned.
+ Some cards are always dead draws, no matter when the player draws it. Examples include monsters that can only be  Special Summoned  from the Deck, such as " Red-Eyes Black Metal Dragon " (via " Metalmorph "), as well as all of the  "/Assault Mode" monsters .
+ In general, most decks should be optimized to avoid dead draws whenever possible; for instance, a deck that uses "Pot of Avarice" should be able to send many monsters to the Graveyard at once. To circumvent through dead draw(s), player may use cards that  returns cards from the hand to the Deck , or cards that  discard .
+ 
+ 
+ 
+ 
+Categories: Gaming Terms

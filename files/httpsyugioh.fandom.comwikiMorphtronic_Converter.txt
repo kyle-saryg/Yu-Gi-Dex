@@ -1,0 +1,240 @@
+Link: https://yugioh.fandom.com/wiki/Morphtronic_Converter
+
+
+ 
+ 
+ Morphtronic Converter Ｄ ・コンバートユニット 
+ 
+ English 
+Morphtronic Converter 
+ French 
+ Convertisseur Morphtronique Check translation 
+ German 
+ Morphtronischer Umwandler Check translation 
+ Italian 
+ Convertitore Morfotronico Check translation 
+ Korean 
+ D ・컨버트유니트 Check translation 
+ Portuguese 
+ Conversor Morfotrônico Check translation 
+ Spanish 
+ Convertidor Morfotrónico Check translation 
+ Japanese (kana) 
+ ディフォーマー・コンバートユニット Check translation 
+ Japanese (base) 
+ Ｄ・コンバートユニット Check translation 
+ Japanese ( rōmaji ) 
+Difōmā Konbāto Yunitto 
+ Japanese (translated) 
+Deformer Convert Unit 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 90659259 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Target  1  Machine   monster  you  control ; apply the following effect depending on its  battle position . ●  Attack Position :  Special Summon  1 " Morphtronic " monster from your  Deck  with a different name than that targeted monster, then place that targeted monster on top of the Deck. ●  Defense Position : Change that targeted monster to Attack Position, and if you do, Special Summon 1  Level  4 or lower Machine monster from your  hand . You can only  activate  1 "Morphtronic Converter" per  turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Ciblez 1 monstre Machine que vous contrôlez ; appliquez l'effet suivant selon sa position de combat. ● Position d'Attaque : Invoquez Spécialement 1 monstre "Morphtronique" depuis votre Deck de nom différent du monstre ciblé, puis placez le monstre ciblé au-dessus du Deck. ● Position de Défense : Changez le monstre ciblé en Position d'Attaque, et si vous le faites, Invoquez Spécialement 1 monstre Machine de max. Niveau 4 depuis votre main. Vous ne pouvez activer qu'1 "Convertisseur Morphtronique" par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wähle 1 Maschine-Monster, das du kontrollierst; führe den folgenden Effekt aus, abhängig von seiner Kampfposition. ● Angriffsposition: Beschwöre 1 „Morphtronisch“-Monster mit einem unterschiedlichen Namen als jenes als Ziel gewählte Monster als Spezialbeschwörung von deinem Deck, dann lege jenes als Ziel gewählte Monster aufs Deck. ● Verteidigungsposition: Ändere jenes als Ziel gewählte Monster in die Angriffsposition und falls du dies tust, beschwöre 1 Maschine-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand. Du kannst nur 1 „Morphtronischer Umwandler“ pro Spielzug aktivieren. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Scegli come bersaglio 1 mostro Macchina che controlli; applica il seguente effetto a seconda della sua posizione. ● Posizione di Attacco: Evoca Specialmente dal tuo Deck 1 mostro "Morfotronico" con un nome diverso da quel mostro scelto come bersaglio, poi metti quel mostro scelto come bersaglio in cima al Deck. ● Posizione di Difesa: Metti quel mostro scelto come bersaglio in Posizione di Attacco e, se lo fai, Evoca Specialmente 1 mostro Macchina di Livello 4 o inferiore dalla tua mano. Puoi attivare solo 1 "Convertitore Morfotronico" per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Escolha 1 monstro Máquina que você controla; aplique o seguinte efeito dependendo da sua posição de batalha. ● Posição de Ataque: Invoque por Invocação-Especial 1 monstro "Morfotrônico(a)" do seu Deck com um nome diferente que o do monstro alvo e, depois, coloque o monstro alvo no topo do Deck. ● Posição de Defesa: Coloque o monstro alvo em Posição de Ataque e, se isso acontecer, Invoque por Invocação-Especial 1 monstro Máquina de Nível 4 ou menos da sua mão. Você só pode ativar 1 "Conversor Morfotrônico" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Selecciona 1 monstruo Máquina que controles; aplica el siguiente efecto dependiendo de su posición de batalla. ● Posición de Ataque: Invoca de Modo Especial, desde tu Deck, 1 monstruo "Morfotrónico/a" con un nombre diferente que el de ese monstruo seleccionado, y después pon ese monstruo seleccionado en la parte superior del Deck. ● Posición de Defensa: Cambia ese monstruo seleccionado a Posición de Ataque y, si lo haces, Invoca de Modo Especial 1 monstruo Máquina de Nivel 4 o menor desde tu mano. Sólo puedes activar 1 "Convertidor Morfotrónico" por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名のカードは１ターンに１枚しか発動できない。①：自分フィールドの機械族モンスター１体を対象として発動できる。そのモンスターの表示形式によって以下の効果を適用する。 ●攻撃表示：対象のモンスターとはカード名が異なる「 Ｄ 」モンスター１体をデッキから特殊召喚する。その後、対象のモンスターを持ち主のデッキの一番上に戻す。 ●守備表示：対象のモンスターを攻撃表示にし、手札からレベル４以下の機械族モンスター１体を特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 카드는 1턴에 1장밖에 발동할 수 없다. ①: 자신 필드의 기계족 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터의 표시 형식에 따라 이하의 효과를 적용한다. ●공격 표시: 대상 몬스터와는 카드명이 다른 "D(디포머)" 몬스터 1장을 덱에서 특수 소환한다. 그 후, 대상 몬스터를 주인의 덱 맨 위로 되돌린다. ●수비 표시: 대상 몬스터를 공격 표시로 하고, 패에서 레벨 4 이하의 기계족 몬스터 1장을 특수 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2022-08-04 POTE-EN098 Power of the Elements Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2022-08-04 POTE-FR098 Power of the Elements Le Pouvoir des Éléments Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2022-08-04 POTE-DE098 Power of the Elements Power of the Elements Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2022-08-04 POTE-IT098 Power of the Elements Potere degli Elementi Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2022-08-04 POTE-PT098 Power of the Elements Poder dos Elementos Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2022-08-04 POTE-SP098 Power of the Elements Poder de los Elementos Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-05-21 DP27-JP006 Duelist Pack: Duelists of Pyroxene デュエリストパック －輝石のデュエリスト編－ Super Rare 2022-05-21 DP27-JP006 Duelist Pack: Duelists of Pyroxene デュエリストパック －輝石のデュエリスト編－ Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2022-08-09 DP27-KR006 Duelist Pack: Duelists of Pyroxene 듀얼리스트 팩 -휘석의 듀얼리스트 편- Super Rare 2022-08-09 DP27-KR006 Duelist Pack: Duelists of Pyroxene 듀얼리스트 팩 -휘석의 듀얼리스트 편- Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Machine 
+ 
+ Archetypes  and  series   
+ Morphtronic 
+ 
+ Supports   archetypes   
+ Morphtronic 
+ 
+ Actions  
+ Returns from field to Deck 
+ Changes battle positions for cost 
+ 
+ Summoning  categories  
+ Special Summons from your hand 
+ 
+ Miscellaneous  
+ Variable effects 
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17601 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Morphtronic " 「 Ｄ 」 Members 
+ Morphtronic Boarden Morphtronic Boomboxen Morphtronic Cameran Morphtronic Celfon Morphtronic Clocken Morphtronic Datatron Morphtronic Earfon Morphtronic Lantron Morphtronic Magnen Morphtronic Magnen Bar Morphtronic Radion Morphtronic Remoten Morphtronic Scannen Morphtronic Scopen Morphtronic Slingen Morphtronic Smartfon Morphtronic Staplen Morphtronic Telefon Morphtronic Vacuumen Morphtronic Videon 
+ Gadget Box Morphtronic Accelerator Morphtronic Bind Morphtronic Converter Morphtronic Cord Morphtronic Engine Morphtronic Forcefield Morphtronic Impact Return Morphtronic Map Morphtronic Mix-up Morphtronic Monitron Morphtronic Repair Unit Morphtronic Rusty Engine Morphtronics, Scramble! 
+ Support 
+ Gadget Arms Gadget Driver Gadget Gamer Gadget Hauler Morphtronic Boarden Morphtronic Boomboxen Morphtronic Cameran Morphtronic Celfon Morphtronic Earfon Morphtronic Radion Morphtronic Remoten Morphtronic Scannen Morphtronic Scopen Morphtronic Slingen Morphtronic Smartfon Morphtronic Telefon 
+ Double Tool C&D Factory of 100 Machines Junk Box Morphtransition Morphtronic Accelerator Morphtronic Bind Morphtronic Converter Morphtronic Cord Morphtronic Engine Morphtronic Forcefield Morphtronic Impact Return Morphtronic Map Morphtronic Mix-up Morphtronic Monitron Morphtronic Repair Unit Morphtronic Rusty Engine Morphtronics, Scramble! Power-Up Adapter 
+ Related 
+ Power Tool Braver Dragon Power Tool Dragon 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/36/MorphtronicConverter-POTE-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20220817184024', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Cards needing effect types, Duel Monsters cards, TCG cards, OCG cards

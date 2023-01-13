@@ -1,0 +1,104 @@
+Link: https://yugioh.fandom.com/wiki/Amnesia
+
+
+ Amnesia 
+ 
+ Japanese:   ななし 
+ Romaji:   Nanashi 
+ Translated:  Namelessness 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Continuous 
+ Continuous 
+ Trigger-like 
+ Activate  this card by  targeting  1  face-up  card on the  field ; that card's name becomes "Amnesia" while this card is face-up on the field. If that card  leaves the field ,  destroy  this card. If this  Set  card in your  Spell & Trap Zone  leaves the field: The card name of all face-up monsters your opponent currently controls becomes "Amnesia" until the end of this  turn .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ARC-V :  032 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ARC-V ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ななし 
+ ①：フィールドのカード１枚を対象として発動できる。このカードがフィールドに表側表示で存在する限り、その対象のカードのカード名は「ななし」として扱う。また、そのカードがフィールドから離れた場合、このカードを破壊する。②：魔法＆罠ゾーンにセットされたこのカードがフィールドから離れた場合に発動する。ターン終了時まで、相手フィールドの全ての表側表示モンスターのカード名は「ななし」として扱う。 
+ 
+ 
+ Nanashi 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Yuya Sakaki 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Activates when it leaves the field 
+ 
+ Stat changes  
+ Changes card names 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/0e/Amnesia-JP-Anime-AV.png/revision/latest/scale-to-width-down/200?cb=20141116190833', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a8/Amnesia-JP-Anime-AV-NC.png/revision/latest/scale-to-width-down/185?cb=20151031040112', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e9/Amnesia-JP-Anime-AV-NC-2.png/revision/latest/scale-to-width-down/185?cb=20151031040240', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

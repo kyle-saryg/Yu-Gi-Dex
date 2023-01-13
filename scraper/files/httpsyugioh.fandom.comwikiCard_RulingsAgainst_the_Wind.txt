@@ -1,0 +1,63 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Against_the_Wind
+
+
+ This card's  OCG  and  TCG  rulings contradict each other. 
+ 
+ Differences 
+ 
+In the TCG, you can activate " Against the Wind " while you control " Des Wombat ". In the OCG, it cannot be activated.     
+ 
+ Against the Wind 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Yu-Gi-Oh! BAM 
+ 
+ Contents 
+ 
+ 1   TCG Rulings 
+ 
+ 1.1   Mentions in Other Rulings 
+ 
+ 
+ 2   OCG Rulings 
+ 3   References 
+ 
+ 
+ TCG Rulings 
+ “ Against the Wind ”  targets  1 “ Blackwing ” monster in your Graveyard. [1] 
+ If you control “ Des Wombat ,” you can activate “ Against the Wind ,” but since the damage you take becomes 0, you cannot add a card to your hand. [1] 
+ If an effect is chained that removes the targeted monster from the Graveyard, you take no damage and do not add it to your hand. [1] 
+ The effects of “ Against the Wind ” to inflict damage and add a card to your hand are considered to be simultaneous, although as a practical matter you take the damage first. This means that you can activate effects like “ Numinous Healer ” without  missing the timing . [1] 
+ Mentions in Other Rulings 
+ Black-Winged Dragon : You can still activate  Against The Wind  [ sic ]  while you control  Black-Winged Dragon , but you’ll place a Black Feather Counter instead of taking damage and you won’t add a “ Blackwing ” monster to your hand. 
+ Blackwing - Ghibli the Searing Wind : You cannot target  Blackwing - Ghibli the Searing Wind  with  Against the Wind . 
+ OCG Rulings 
+ This card  targets  1 " Blackwing " monster in your Graveyard. [2] 
+ If " D.D. Crow " is  chained  to the effect of " Against the Wind " so that the  targeted  " Blackwing " monster is not in the Graveyard when resolving the effect of " Against the Wind ", then you do not return the " Blackwing " monster to your hand, and you do not take damage. [3] 
+ If you control " Des Wombat ", you cannot activate " Against the Wind ". If you chain " Call of the Haunted " to " Against the Wind " and Special Summon " Des Wombat ", since the damage you take becomes 0, you cannot add the targeted " Blackwing " monster from your Graveyard to your hand. [4] 
+ While " Black-Winged Dragon " is on the field, if you activate " Against the Wind ", then when resolving the effect you instead place one  Black Feather Counter  on " Black-Winged Dragon ". You did not receive damage from the effect of " Against the Wind " equal to the " Blackwing " monster's ATK, so you cannot add that " Blackwing " monster to your hand. [5] 
+ References 
+ 
+ ↑  1.0   1.1   1.2   1.3   Konami Gameplay FAQ : Raging Battle -- Card Rulings (version 1.2) 
+ 
+ ↑   Konami OCG Card Database : Against the Wind 
+ 
+ ↑   Konami OCG Card Database : Do you take damage when the monster targeted by "Against the Wind" is not in the Graveyard at resolution? 
+ 
+ ↑   Konami OCG Card Database : Can you activate "Against the Wind" while you control "Des Wombat"? 
+ 
+ ↑   Konami OCG Card Database : What happens if you activate "Against the Wind" while "Black-Winged Dragon" is on the field? 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/ca/Emblem-contradict-blue.svg/revision/latest/scale-to-width-down/40?cb=20101025104631']
+Categories: Contradicting Rulings, Card Rulings

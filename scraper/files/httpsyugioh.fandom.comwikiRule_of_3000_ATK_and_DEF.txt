@@ -1,0 +1,39 @@
+Link: https://yugioh.fandom.com/wiki/Rule_of_3000_ATK_and_DEF
+
+The  Rule of 3000 ATK and DEF  is a completely unwritten rule stating that in order for a  monster  to have an  original ATK or DEF  of over 3000, it either must have  negative effects  to limit its playability, or otherwise have special  conditions  for being  Summoned . This rule has never been acknowledged by UDE or KDE. This rule is similar to the " Level 4 ATK and DEF Rules ".
+ 
+ Contents 
+ 
+ 1   General Statements About Monsters 
+ 
+ 1.1   TCG/OCG Cards with at least 3000 ATK 
+ 
+ 
+ 2   Further General Statements About Monsters 
+ 
+ 2.1   TCG/OCG Cards with at least 3000 DEF 
+ 
+ 
+ 
+ 
+ General Statements About Monsters 
+       " Super Conductor Tyranno ", a monster that breaks the rule by having over 3000 original ATK and being Normal Summonable with no  drawback .     
+ In general, monsters may be  Normal Summoned  with neither any special conditions nor any negative effects, such as the iconic " Blue-Eyes White Dragon ". Many such monsters even have beneficial effects. However, monsters sometimes either possess negative effects in order to remain Normal Summonable, such as " Arcana Force XXI - The World " (which also happens to have one of the best effects in the game if you win a coin flip) or " Ultimate Obedient Fiend ", or must have Summoning conditions that prevent them from being Normal Summoned.  Extra Deck  monsters do not fall into the latter category as it is an inherent game mechanic, no monsters can be Normal Summoned from the Extra Deck as a monster needs to be in the hand to be Normal Summoned
+ " Super Conductor Tyranno ", " Thunder King, the Lightningstrike Kaiju " and " Jizukiru, the Star Destroying Kaiju " are examples of exceptions to this rule. There are currently  216  monsters with over 3000 ATK.
+ 
+ TCG/OCG Cards with at least 3000 ATK 
+   Japanese name Stars Attribute Type Card type ATK DEF A-to-Z-Dragon Buster Cannon ＡｔｏＺ－ドラゴン・バスターキャノン 10 LIGHT Machine Effect Monster Monster Card Fusion Monster 4,000 4,000 ABC-Dragon Buster ＡＢＣ－ドラゴン・バスター 8 LIGHT Machine Effect Monster Monster Card Fusion Monster 3,000 2,800 Abominable Unchained Soul 雙極の破械神 8 DARK Fiend Effect Monster Monster Card 3,000 1,500 Abyss Actor - Evil Heel 魔界劇団－デビル・ヒール 8 DARK Fiend Effect Monster Monster Card Pendulum Monster 3,000 2,000 Adamancipator Risen - Dragite 魔救の奇跡－ドラガイト 8 WATER Rock Effect Monster Monster Card Synchro Monster 3,000 2,200 Agave Dragon 竜絶蘭 EARTH Wyrm Effect Monster Monster Card Link Monster 3,000 Aggiba, the Malevolent Sh'nn S'yo 羅阿邪神将アギバ 10 LIGHT Fiend Effect Monster Monster Card 3,000 3,000 All-Eyes Phantom Dragon ゴッドアイズ・ファントム・ドラゴン 10 LIGHT Dragon Effect Monster Monster Card Pendulum Monster 3,000 2,500 Ally of Justice Decisive Armor Ａ・Ｏ・Ｊ ディサイシブ・アームズ 10 DARK Machine Effect Monster Monster Card Synchro Monster 3,300 3,300 Alpha, the Master of Beasts 獣王アルファ 8 EARTH Beast Effect Monster Monster Card 3,000 2,500 ... further results 
+ 
+ Further General Statements About Monsters 
+       " Neo Aqua Madoor " is a 1 Tribute 3000 DEF Normal Monster.     
+ Identically to the above rule, in general, monsters may be  Normal Summoned  (or  Set ) without either special conditions or drawbacks. Monsters in this category include " Labyrinth Wall " and " Millennium Shield ", both Level 5  Normal Monsters  with 0 ATK and 3000 DEF. Many monsters with greater than 3000 DEF have greater than 3000 ATK as well.
+ An example of a monster is " Superheavy Samurai Big Benkei ", with the ability to be Normal Summoned/Set with a beneficial effect.
+ There are currently  97  monsters with over 3000 DEF.
+ 
+ TCG/OCG Cards with at least 3000 DEF 
+   Japanese name Stars Attribute Type Card type ATK DEF A-to-Z-Dragon Buster Cannon ＡｔｏＺ－ドラゴン・バスターキャノン 10 LIGHT Machine Effect Monster Monster Card Fusion Monster 4,000 4,000 Aegaion the Sea Castrum 魔海城アイガイオン 8 WATER Machine Effect Monster Monster Card Xyz Monster 3,000 Aggiba, the Malevolent Sh'nn S'yo 羅阿邪神将アギバ 10 LIGHT Fiend Effect Monster Monster Card 3,000 3,000 Ally of Justice Decisive Armor Ａ・Ｏ・Ｊ ディサイシブ・アームズ 10 DARK Machine Effect Monster Monster Card Synchro Monster 3,300 3,300 Alsei, the Sylvan High Protector 森羅の守神 アルセイ 8 LIGHT Plant Effect Monster Monster Card Xyz Monster 2,300 3,200 Amaterasu 天照大神 9 LIGHT Fairy Effect Monster Monster Card 3,000 3,000 Ancient Fairy Dragon エンシェント・フェアリー・ドラゴン 7 LIGHT Dragon Effect Monster Monster Card Synchro Monster 2,100 3,000 Ancient Gear Golem 古代の機械巨人 8 EARTH Machine Effect Monster Monster Card 3,000 3,000 Ancient Gear Golem - Ultimate Pound 古代の機械巨人－アルティメット・パウンド 8 EARTH Machine Effect Monster Monster Card 3,000 3,000 Ancient Gear Megaton Golem 古代の機械超巨人 9 EARTH Machine Effect Monster Monster Card Fusion Monster 3,300 3,300 ... further results 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/ee/SuperConductorTyranno-BP01-EN-R-1E.png/revision/latest/scale-to-width-down/250?cb=20120530134641', 'https://static.wikia.nocookie.net/yugioh/images/c/c0/NeoAquaMadoor-DR3-EN-C-UE.png/revision/latest/scale-to-width-down/250?cb=20160615193807']
+Categories: Gaming Terms

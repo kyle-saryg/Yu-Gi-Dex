@@ -1,0 +1,57 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Obnoxious_Celtic_Guard
+
+
+ Obnoxious Celtic Guard 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Yu-Gi-Oh! Destiny Board Traveler 
+ 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [1]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [2] [3] [4] [5] [6] [7] [8] [9] [10] 
+ 
+ " Obnoxious Celtic Guard " and " Celtic Guardian " are considered 2 separate monsters so you can have 3 of each in your  Deck . 
+ " Obnoxious Celtic Guard "’s effect looks at the ATK during  Damage Calculation . So if he’s  WIND  and is attacked by " Insect Soldiers of the Sky ", their ATK is 2000 during  Damage Calculation  and " Obnoxious Celtic Guard " is not destroyed. Or if an 1800 monster attacks and you use " Rush Recklessly " to increase the ATK to 2500 during the  Damage Step , " Obnoxious Celtic Guardian " is not destroyed. 
+ " Obnoxious Celtic Guard "’s effect looks at current ATK, not original ATK. So a monster with 1000 original ATK equipped with " Megamorph " to make it 2000 ATK will not destroy " Obnoxious Celtic Guard " as a result of battle. 
+ " Obnoxious Celtic Guard " isn’t destroyed by damage calculation but can be destroyed by monster effects like " Ryu Kokki ". 
+ If " Obnoxious Celtic Guard " is attacked by " Dark Ruler Ha Des ", or another monster that negates a card’s effect after it destroys it, " Obnoxious Celtic Guard " is not destroyed (so its effect is not negated). 
+ " Obnoxious Celtic Guard "’s effect works for a battle caused by " Last Turn ", so if it battles a monster with ATK 1900 or higher, neither is destroyed and the  Duel  is a draw. 
+ Mentions in Other Rulings 
+ Last Turn :  If " Obnoxious Celtic Guard " battles a monster for " Last Turn ", its effect is applied and it is not destroyed if it battles a monster with 1900 or higher ATK. 
+ 
+ 
+ 
+ References 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

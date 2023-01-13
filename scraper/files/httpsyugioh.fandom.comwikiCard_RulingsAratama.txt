@@ -1,0 +1,120 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Aratama
+
+
+ Aratama 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Contents 
+ 
+ 1   OCG Rulings 
+ 2   Spirit monster Rulings 
+ 
+ 2.1   OCG Rulings 
+ 2.2   Previously Official Rulings 
+ 
+ 2.2.1   Mentions in Other Rulings 
+ 
+ 
+ 
+ 
+ 3   References 
+ 
+ 
+ OCG Rulings 
+ This effect can be activated even if this card is flipped  face-up  during the  Damage Step . [1] 
+ Spirit monster Rulings 
+ OCG Rulings 
+ " Cannot be  Special Summoned " is not treated as a monster effect. [2] [3] [4] [5] [6] 
+ The effect " During the  End Phase  of the  turn  this card is  Normal Summoned  or  flipped   face-up :  Return  it to the  hand . " is a  Trigger Effect  that activates once during the End Phase this card was Normal Summoned or flipped face-up. (It does not target.) [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] 
+ This effect is not activated during the End Phase if this card was changed to face-down Defense Position by the effect of " Book of Moon ", or if this card was sent to the Graveyard because it was destroyed by battle or card effect. [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] 
+ The negating effect of " Alector, Sovereign of Birds " does not end during the  End Phase . The effects of the  targeted  card remains negated during the entire turn. [19] 
+ Example: The effects of  Spirit monsters , " Majestic Mech - Goryu ", and " Jain, Lightsworn Paladin " will activate during the End Phase, but they will be negated and resolve without effect. 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [20]  They were previously considered official, but may or may not necessarily hold true nowadays. 
+ 
+ The following rules apply to all  Spirit monsters : [21] 
+ Spirit  is not a  monster Type ; you cannot declare "Spirit" for the effect of " DNA Surgery ". [21] 
+ Spirit monsters are still  Effect Monsters . [21] 
+ A  Spirit monster  must be  face-up  on the field during the  End Phase  for it to return to the owner’s hand. If it was destroyed or removed from play, it will not return to the owner’s hand. [21] 
+ A  Spirit monster  will return to the owner’s hand during the  End Phase , even if the opponent played it from their hand (through the effect of " Exchange ".) [21] 
+ Mentions in Other Rulings 
+ A Hero Emerges : You can Special Summon a high-level monster, like " Dark Magician ", with " A Hero Emerges ". But if your opponent selects a Special Summon-only monster like ... a  Spirit monster , it is sent to the  Graveyard . 
+ Conscription : If you pick up a  Spirit monster , it cannot be  Special Summoned  so it is added to your opponent’s hand. 
+ Cyber Jar :  Spirit monsters ... are sent to your hand as they cannot be  Special Summoned  ... 
+ Dark Ruler Ha Des : ... if a  Spirit monster  is destroyed by a  Fiend - Type  monster when " Dark Ruler Ha Des " is on the field, it still cannot be  Special Summoned  from the  Graveyard . ... 
+ Different Dimension Gate : When a  Spirit monster  is removed with " Different Dimension Gate ", if it returns to play after the turn it was  Summoned  or  Flip Summoned , it doesn't go back to the owner's hand. 
+ Divine Wrath : You can activate " Divine Wrath " when a  Spirit monster  is returned to the owner’s hand by its own effect, and the  Spirit monster  will be destroyed and sent to the  Graveyard . 
+ Elemental HERO Necroid Shaman : You cannot choose to Special Summon a monster if it cannot be Special Summoned, such as a Spirit monster... 
+ Interdimensional Matter Transporter : If a  Spirit monster  is returned to the field with " Interdimensional Matter Transporter " the same turn it was Summoned or flipped face-up, it returns to the field and then returns to the owner's hand. 
+ Last Turn : You cannot Special Summon a monster for “ Last Turn ” that is a “ Special Summon-only ” monster like “ Chaos Emperor Dragon – Envoy of the End ”, “ Dark Necrofear ”, or “ Ocean Dragon Lord – Neo-Daedalus ”. Nor can you select a  Spirit monster  because they cannot be  Special Summoned . 
+ Legacy of Yata-Garasu : When you activate “ Legacy of Yata-Garasu ” while your opponent has a  Spirit monster  face-up on his/her side of the field and you select to activate the second effect of “ Legacy of Yata-Garasu ”, if your opponent chains an effect that removes the  Spirit monster  from the field or flips it face-down, the effect of “ Legacy of Yata-Garasu ” will still resolve. 
+ Light and Darkness Dragon : When “ Light and Darkness Dragon ” negates the activation of a  Spirit monster ’s effect that would return it to its owner’s hand, the effect of the  Spirit monster  activates again during the same  End Phase . When the return effect of the  Spirit monster  is activated during the End Phase while “ Light and Darkness Dragon ” has less than 500 ATK and DEF, the second effect of “ Light and Darkness Dragon ” will still activate, but it will not be able to negate the activation and the  Spirit monster  will return to its owner's hand. 
+ Monster Gate : If you pick up a  Spirit monster , you cannot  Special Summon  it and it is sent to the  Graveyard . 
+ Penguin Soldier :  Spirit monsters  can still be returned to their owners’ hands by the effect of " Penguin Soldier " even if " Spiritual Energy Settle Machine " is in play. 
+ Reasoning : If you pick up a  Spirit monster , then all picked up cards are sent to the  Graveyard . 
+ Skill Drain :  Spirit monsters  are not returned to the owner's hand while " Skill Drain " is active. 
+ Spirit's Invitation : The effect of this card is applied even when a  Spirit monster  is returned to its owner’s hand by the effect of another card, such as " Penguin Soldier ". 
+ Spiritual Energy Settle Machine : When this card is active,  Spirit monsters  on both sides of the field do not return to their owner’s hand during the  End Phase  of the turn they were Summoned. 
+ Spiritual Energy Settle Machine : When this card is active,  Spirit monsters  may still be returned to their owner’s hands by card effects such as " Penguin Soldier " and " Compulsory Evacuation Device ". 
+ Spring of Rebirth :  Spirit monsters  are sent to the owner’s hand one at a time during the  End Phase . So if you have 4 face-up  Spirit monsters  during the  End Phase , you will gain 500  Life Points  for each, totaling 2000  Life Points . 
+ Sword of Kusanagi : If you control your opponent's  Spirit monster  and you equip it with " Sword of Kusanagi ", when the  Spirit monster  is returned to your opponent's hand and " Sword of Kusanagi " is destroyed, its second effect activates. 
+ Sword of Kusanagi : If you add your opponent's " Sword of Kusanagi " to your hand with " Exchange " and equip it to a  Spirit monster  you control, when the  Spirit monster  is returned to its owner's hand and " Sword of Kusanagi " is destroyed, " Sword of Kusanagi 's" effect does not activate. 
+ 
+ References 
+ 
+ ↑   Konami OCG Card Database : Aratama 
+ 
+ ↑   Konami OCG Card Database : Izanami 
+ 
+ ↑   Konami OCG Card Database : Yaksha 
+ 
+ ↑   Konami OCG Card Database : Gishki Emilia 
+ 
+ ↑   Konami OCG Card Database : Fenghuang 
+ 
+ ↑   Konami OCG Card Database : Nikitama 
+ 
+ ↑  7.0   7.1   Konami OCG Card Database : Maharaghi 
+ 
+ ↑  8.0   8.1   Konami OCG Card Database : Inaba White Rabbit 
+ 
+ ↑  9.0   9.1   Konami OCG Card Database : Yata-Garasu 
+ 
+ ↑  10.0   10.1   Konami OCG Card Database : Susa Soldier 
+ 
+ ↑  11.0   11.1   Konami OCG Card Database : Yamata Dragon 
+ 
+ ↑  12.0   12.1   Konami OCG Card Database : Great Long Nose 
+ 
+ ↑  13.0   13.1   Konami OCG Card Database : Otohime 
+ 
+ ↑  14.0   14.1   Konami OCG Card Database : Hino-Kagu-Tsuchi 
+ 
+ ↑  15.0   15.1   Konami OCG Card Database : Asura Priest 
+ 
+ ↑  16.0   16.1   Konami OCG Card Database : Fushi No Tori 
+ 
+ ↑  17.0   17.1   Konami OCG Card Database : Dark Dust Spirit 
+ 
+ ↑  18.0   18.1   Konami OCG Card Database : Tsukuyomi 
+ 
+ ↑   Konami OCG Card Database : When a card's effect is negated by "Alector, Sovereign of Birds", how long is it negated? 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑  21.0   21.1   21.2   21.3   21.4   UDE FAQ : Individual Card Rulings [S-T] [SPIRIT MONSTERS] 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

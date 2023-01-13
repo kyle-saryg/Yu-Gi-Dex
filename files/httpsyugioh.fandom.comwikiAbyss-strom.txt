@@ -1,0 +1,359 @@
+Link: https://yugioh.fandom.com/wiki/Abyss-strom
+
+The  Arabic, Chinese, Croatian  and  Portuguese                     names given are not official.  
+ The  Chinese  and  Portuguese               lores given are not official.  
+ 
+ 
+ 
+ 
+ 
+ Abyss-strom アビストローム 
+ 
+ English 
+Abyss-strom 
+ Chinese 
+ 深渊激流 Check translation 
+ French 
+ Tempête-Abysses Check translation 
+ German 
+ Abyssstrom Check translation 
+ Italian 
+ Abisso-corrente Check translation 
+ Korean 
+ 어비스트롬 Check translation 
+ Portuguese 
+ Abis-strom Check translation 
+ Spanish 
+ Abis-rágine Check translation 
+ Japanese 
+ アビストローム Check translation 
+ Japanese ( rōmaji ) 
+Abisutorōmu 
+ Japanese (translated) 
+Abysstrom 
+ Card type 
+ Trap   
+ Property 
+ Normal   
+ Passcode 
+ 97697447 
+ Card effect types 
+ 
+ 
+ Cost 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Send  1  face-up  " Umi " you  control  to the  Graveyard ; send all  Spell  and  Trap cards  on the  field  to the Graveyard. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Envoyez 1 "Umi" face recto que vous contrôlez au Cimetière ; envoyez toutes les Cartes Magie/Piège sur le Terrain au Cimetière. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Lege 1 offenes „Umi“, das du kontrollierst, auf den Friedhof; lege alle Zauber- und Fallenkarten auf dem Spielfeld auf den Friedhof. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Manda  1 " Umi " scoperto che controlli al Cimitero; manda al Cimitero tutte le  Carte Magia  e  Trappola  sul Terreno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Envie  1 " Umi " com a  face para cima  que você  controla  para o  Cemitério ; envie todos os  cards de Magia  e  Armadilha  no  campo  para o Cemitério. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Manda al Cementerio 1 "Umi" boca arriba que controles; manda al Cementerio todas las Cartas Mágicas y de Trampa en el Campo. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 自分フィールド上に表側表示で存在する「海」を墓地へ送って発動できる。フィールド上の魔法・罠カードを全て墓地へ送る。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 将自己场上正面表示的【海】送去墓地，然后将场上所有魔法·陷阱卡都送去墓地。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신 필드 위에 앞면 표시로 존재하는 "바다"를 묘지로 보내고 발동한다. 필드 위의 마법 / 함정 카드를 전부 묘지로 보낸다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2012-11-09  
+ ABYR-EN073   
+ Abyss Rising 
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2012-11-08  
+ ABYR-FR073   
+ Abyss Rising 
+ L’Ascension des Abysses  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2012-11-08  
+ ABYR-DE073   
+ Abyss Rising 
+ Abyss Rising  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2012-11-08  
+ ABYR-IT073   
+ Abyss Rising 
+ Risveglio degli Abissi  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2012-11-08  
+ ABYR-SP073   
+ Abyss Rising 
+ Levantamiento Abismal  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2012-07-21  
+ ABYR-JP073   
+ Abyss Rising 
+ ＡＢＹＳＳ ＲＩＳＩＮＧ  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2012-10-09  
+ ABYR-KR073   
+ Abyss Rising 
+ 어비스 라이징  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Umi 
+ 
+ Anti-supports   
+ Spell Card 
+ Trap Card 
+ 
+ Archetypes  and  series   
+ Abyss- 
+ 
+ Related to  archetypes  and  series   
+ Umi  
+ 
+ Actions  
+ Sends from field to Graveyard for cost 
+ Sends from field to Graveyard 
+ 
+ Miscellaneous  
+ Requires control of specific card 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 10295 ( ja  ( rulings )   en   fr   de   it   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Abyss- " 「アビス」 Members 
+ Abyss Keeper Abyss Shark Abyss Soldier Abyss Warrior D/D/D Oblivion King Abyss Ragnarok Gishki Abyss Hot Red Dragon Archfiend Abyss Mermail Abyssalacia Mermail Abyssbalaen Mermail Abyssdine Mermail Abyssgaios Mermail Abyssgunde Mermail Abysshilde Mermail Abyssleed Mermail Abysslinde Mermail Abysslung Mermail Abyssmander Mermail Abyssmegalo Mermail Abyssnerei Mermail Abyssnose Mermail Abyssocea Mermail Abysspike Mermail Abyssteus Mermail Abysstrite Mermail Abyssturge Neptabyss, the Atlantean Prince Number 73: Abyss Splash Number C73: Abyss Supra Splash Ogdoabyss, the Ogdoadic Overlord Shining Abyss Silent Abyss 
+ Abyss-scale of Cetus Abyss-scale of the Kraken Abyss-scale of the Mizuchi Abyss-scorn Abyss-sphere Abyss-squall Abyss-strom 
+ Support 
+ Mermail Abyssleed Mermail Abyssmegalo 
+ Related 
+ D/D/D Wave Oblivion King Caesar Ragnarok 
+ 
+   
+ Umi   海 Members 
+ Forgotten Temple of the Deep A Legendary Ocean Lemuria, the Forgotten City Magellanica, the Deep Sea City Pacifis, the Phantasm City Umi 
+ Related 
+ Amazon of the Seas Amphibious Bugroth MK-11 Amphibious Bugroth MK-3 Cannonball Spear Shellfish Codarus Deepsea Warrior Doom Kraken Electric Jellyfish Elemental HERO Ocean Kairyu-Shin The Legendary Fisherman The Legendary Fisherman II Levia-Dragon - Daedalus Maiden of the Aqua Mega Fortress Whale Mermaid Knight Ocean Dragon Lord - Kairyu-Shin Ocean Dragon Lord - Neo-Daedalus Orca Mega-Fortress of Darkness Torpedo Fish Warrior of Atlantis Yorishiro of the Aqua 
+ Abyss-strom Fish Sonar Kairyu-Shin's Dark Reef Phantasm Spiral Assault Phantasm Spiral Battle Phantasm Spiral Power Rage of Kairyu-Shin Sea Stealth Attack Sea Stealth II Tornado Wall 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d8/Abyssstrom-ABYR-EN-R-1E.png/revision/latest/scale-to-width-down/300?cb=20130730134038', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,47 @@
+Link: https://yugioh.fandom.com/wiki/Duel_Master%27s_Guide
+
+For the promotional cards included with this guide, see  Duel Master's Guide promotional cards .      
+ 
+ This article  may require  cleanup  to meet this wiki's standards.   You can help out by re-organizing or re-writing parts of it or checking grammar and spelling.   
+ This article is a stub. You can help the  Yu-Gi-Oh!  Wikia by  expanding it . 
+ Touted as an "Easy way to Learn Yu-Gi-Oh!", the Duel Master's Guide explains all the Yu-Gi-Oh! Trading Card Game Rules, and also gives great tips on basic deck building. The Yu-Gi-Oh Duel Master's Guide teaches you, step by step how to become a Yu-Gi-Oh! Master. The DVD also shows you sample duels, and it's arguably easier to understand than the printed rule book(s) when this was first released to retail. It even features the voices of  Joey Wheeler  and  Yugi Muto  ( Wayne Grayson  &  Dan Green  respectively) from the Yu-Gi-Oh! Second series anime.
+ 
+ DVD Chapter List:
+ Chapter 1 - Prologue 
+ Chapter 2 - Preparation 
+ Chapter 3 - Card Details 
+ Chapter 4 - Phases of Gameplay 
+ Chapter 5 - Battle and Damage 
+ Chapter 6 - Sample Duel 
+ Chapter 7 - More Details and Epilogue 
+ Sample Duel 
+ The sample  duel  chapter integrates all of the previous chapters. Joey Wheeler provides commentary throughout the duel. The duel features the  Yugi Starter Deck  against the  Kaiba Starter Deck , and Joey refers to the players as such. 
+ The pre-duel procedures are run through and “Kaiba” executes a coin toss. “Yugi” calls it right and decides to go first.
+ Yugi's  hand :  Castle Walls ,  Fissure ,  Yami ,  Waboku ,  Silver Fang 
+ Kaiba's hand:  La Jinn the Mystical Genie of the Lamp ,  Battle Ox ,  Rogue Doll ,  Dark Hole ,  Just Desserts 
+ Yugi's turn:  Draws   Dian Keto the Cure Master .  Normal Summons  Silver Fang in  attack mode .
+ Kaiba's turn: Draws  The Flute of Summoning Dragon . Summons La Jinn in attack mode,  attacks  Silver Fang and  destroys  it. 
+ Yugi's  Life Points : (8000-(1800-1200))=7400
+ Yugi: Draws  Beaver Warrior ,  sets  it on the field.
+ Kaiba: Draw  Ookazi , plays it. Yugi's LP: (7400-800)=6600. Summons Battle Ox in attack mode, destroys the set Beaver Warrior. La Jinn  attacks directly : Yugi LP: (6600-1800)=4800.
+ Yugi: Draws  Giant Soldier of Stone . Sets it on the field and sets Castle Walls.
+ Kaiba: Draws  Remove Trap . Battle Ox attacks the set Giant Soldier of Stone. Yugi activates Castle Walls, increasing Giant Soldier of Stone's  DEF . (2000+500)=2500. Kaiba loses LP: (8000-(2500-1700))=7200. Sets Just Deserts.
+ Yugi: Draws  Man-Eater Bug . Plays Fissure, which destroys Battle Ox. Sets Man-Eater Bug on the field. Kaiba plays the set Just Deserts, which causes Yugi to lose 500 LP for each monster. Yugi LP: 4800-(2 X 500)=3800.
+ Kaiba: Draws  Blue-Eyes White Dragon . Summons Rogue Doll in attack mode.
+ Yugi: Draws  Summoned Skull .  Flip Summons  Man-Eater Bug to trigger its  effect , which destroys La Jinn. He uses it as a  Tribute  to summon Summoned Skull before switching Giant Soldier of Stone to attack mode. Summoned Skull attacks Rogue Doll (7200-(2500-1600))=6300. Giant Soldier of Stone then attacks Kaiba directly: 6300-1300=5000. Yugi then uses Dian Kieto to restore his LP by 1000: Yugi LP: 3800+1000=4800.
+ Kaiba: Draw  Hitotsu-Me Giant  and sets it on the field.
+ Yugi: Draws  Reinforcements , plays the Field Spell Yami, which increases Summoned Skull's ATK and DEF by 200. (2700 ATK). Skull destroys Hitotsu Me Giant, and Giant Soldier of Stone attacks directly (5000-1300)=3700. 
+ Kaiba: Draw's  Hane-Hane , sets it. 
+ Yugi: Draws  Dark Magician . Attacks with Skull, flip effect of Hane Hane sends Stone back to Yugi's hand before being destroyed.
+ Kaiba: Draws  Lord of Dragon . Plays Dark Hole to destroy all monsters on field, namely Summoned Skull. Summons Lord of Dragons in attack mode, plays The Flute of Summoning Dragon to  Special Summon  Blue-Eyes. Lord of Dragon attacks (ATK boosted by Yami: 1400) directly, then Blue Eyes. Yugi LP: (4800-(1400+3000))=400
+ Yugi: Draws  Trap Hole . Sets it and Waboku before setting Giant Stone Soldier in defense. 
+ Kaiba: Draws  Mystic Horseman . Summons it, but Trap Hole destroys it. Blue Eyes attacks, but Waboku saves Yugi’s monster, flipping it to face up defense position.
+ Yugi: Draws  Change of Heart . Plays it and takes  control  of Lord of Dragon. Switches Stone Soldier to attack. Tributes Lord of Dragon and Stone Soldier to summon Dark Magician. Sets Reinforcements.
+ Kaiba: Draws  Two-Pronged Attack , sets it. Attacks Dark Magician with Blue Eyes, but Yugi triggers Reinforcemnts. With Yami, Dark Magician wins: (2500+200+500)=3200. Kaiba’s LP: 3700-(3200-3000)=3500.
+ Yugi: Draws  Celtic Guardian . Summons it. Celtic attacks directly: 3500-1400=2100. Dark Magician attacks: 2100-2700=-600. Yugi wins.
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/90/Broom_icon.png/revision/latest/scale-to-width-down/35?cb=20070612131135']
+Categories: Articles needing cleanup, Stubs

@@ -1,0 +1,128 @@
+Link: https://yugioh.fandom.com/wiki/Cubic_Rebirth_(anime)
+
+Main card page: " Cubic Rebirth " 
+ Cubic Rebirth 
+ 
+ Japanese:   方界輪廻 
+ Romaji:   Hōkai Rinne 
+ Translated:  Direction World Rebirth 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Target  1 opponent’s  direct   attacking   monster :  Special Summon  1 " Cubic " monster from your  hand . Special Summon 2 monsters with the same name as the targeted monster from your opponent’s hand,  Graveyard , and  Deck  to your opponent’s  field . The targeted monster and all monsters with the same as it your opponent controls has their  ATK  become 0, and place 1  Cubic Counter  on each of them. A monster with Cubic Counter has its  effects   negated , and it cannot attack. [1] [2] 
+ 
+ 4K Media  lore<nomobile> ? :</nomobile> <mobile>(The English card uses the same lore as the OCG/TCG card. The Japanese card and reference sources state the effect differently.):</mobile> When an opponent's  monster   declares  a  direct attack :  Target  the  attacking  monster, your opponent  Special Summons  in  Attack Position  as many monsters as possible from their  hand ,  Deck  and/or  Graveyard  with the same name, also the  ATK  of the targeted monster and those Special Summoned monster(s) becomes 0 and place 1  Cubic Counter  on each (Monsters with Cubic Counters cannot attack, also  negate  their  effects ). Also, after that, if any Cubic Counters were placed by this effect, Special Summon 1  Level  4 or lower " Cubic " monster from your hand,  ignoring its Summoning conditions . 
+ Appearances
+ 
+ 
+ 
+ 
+ ' 
+ 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  The Dark Side of Dimensions ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 方界輪廻 
+ ①：相手モンスターの直接攻撃宣言時に、その攻撃モンスター１体を対象として発動できる。相手はその同名モンスターを可能な限り自身の手札・デッキ・墓地から特殊召喚する。対象のモンスター及びこの効果で特殊召喚したモンスターの攻撃力は０になり、それらのモンスターに方界カウンターを１つずつ置く。方界カウンターが置かれたモンスターは攻撃できず、効果は無効化される。その後、自分の手札から「方界」モンスター１体を特殊召喚する。 
+ 
+ 
+ Hōkai Rinne 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Aigami 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Cubic 
+ 
+ Supports   archetypes   
+ Cubic 
+ 
+ Counters   
+ Cubic Counter 
+ 
+ Stat changes  
+ Reduces ATK to 0 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your opponent's Effect Monsters 
+ 
+ Summoning  categories  
+ Special Summons from your hand 
+ Special Summons from your opponent's hand 
+ Special Summons from your opponent's Deck 
+ Special Summons from your opponent's Graveyard 
+ Special Summons to your opponent's field 
+ 
+ Attack  categories  
+ Prevents your opponent's monsters from attacking 
+ 
+ 
+ 
+   " Cubic Rebirth " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+" Cubic " 「 方 界 」 a   m   +   Members 
+ Blade Garoodia the Cubic Beast Buster Gundil the Cubic Behemoth Crimson Nova Trinity the Dark Cubic Lord Crimson Nova the Dark Cubic Lord Cubic Ascension Cubic Defense Cubic Karma Cubic Mandala Cubic Rebirth Cubic Wave Dark Garnex the Cubic Beast Geira Guile the Cubic King Indiora Doom Volt the Cubic Emperor Unification of the Cubic Lords Vijam the Cubic Seed Vulcan Dragni the Cubic King 
+ Support 
+ Cubic Karma Cubic Rebirth Cubic Wave Unification of the Cubic Lords 
+ 
+ References 
+ 
+ ↑   Yu-Gi-Oh! Duel Monsters Anime Complete Guide: Millennium Memory , page 192. 
+ 
+ ↑   "Dark Side of Dimensions Anime Card Effects, Japanese Card Text Translations" . YGOrganization.com .  https://ygorganization.com/kuwabaralikesstackingthings/ . 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/6f/CubicRebirth-JP-Anime-MOV3.png/revision/latest/scale-to-width-down/200?cb=20170313204013', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/8/85/CubicRebirth-JP-Anime-MOV3-NC.png/revision/latest/scale-to-width-down/185?cb=20170313204033', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Cards with notes

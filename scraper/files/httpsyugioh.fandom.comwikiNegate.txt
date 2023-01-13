@@ -1,0 +1,606 @@
+Link: https://yugioh.fandom.com/wiki/Negate
+
+
+ 
+ Negate
+ 
+ 
+ 
+ Artwork of " Solemn Judgment ", example of card which negates.
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 無 効 化 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ むこう(か)
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 無効(化)
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Mukō(ka)
+ 
+ 
+ 
+ Japanese (translated)
+ 
+ 
+ invalidate
+ 
+ 
+ 
+ English
+ 
+ 
+ negate
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : annuler 
+ German : annullieren 
+ Italian : annulla 
+ Portuguese : negar Formerly: anular 
+ Spanish : negar 
+ Korean : 무효(화) (無效(化))  Muhyo(hwa) 
+ Traditional Chinese : 無效(化)  Wúxiào(huà) / Mou4 haau6 (faa3) 
+ 
+ 
+ Negate  (Japanese:  無 効 ( 化 )  Mukō(ka) ) is a term that refers to stopping an action from being performed successfully or nullifying a  card effect . Actions that can be negated include card and effect  activations ,  Summons , and  attacks .
+ While most of these actions can be stopped from "successfully" happening otherwise, only an effect that specifically states "negate" will cause them to be negated.
+ Even if any of these actions are negated, the cost, or right to redo it, is not refunded to the possessor of that negated action.
+ 
+ Contents 
+ 
+ 1   Activation 
+ 2   Effect 
+ 
+ 2.1   Negate an instance of effect 
+ 2.2   Make cards have their effect(s) negated 
+ 
+ 
+ 3   Summon 
+ 4   Attack 
+ 
+ 4.1   See also 
+ 
+ 
+ 
+ 
+ Activation 
+       " Ultimate Providence "     
+ Japanese:  発 動 を 無 効 にする ( Hatsudō wo Mukō ni suru )
+ 
+ See also:  Negates the activation of Spell Cards ,  Negates the activation of Trap Cards , and  Negates the activation of Effect Monster's effect 
+ To negate the  activation  of a card or effect is to cause it to not  resolve  after being activated. If the activation of a card or effect is negated, because it does not resolve, the most recent action of the previous Chain Link is considered the last thing to happen instead (for the purposes of  missing the timing ).
+ If the activation of a  Spell  or  Trap Card  is negated, that card is  sent  to the  Graveyard  after the entire Chain it was activated in resolves if it has not already been moved somewhere, but it is not treated as being sent from the field. If the activation of a card effect is negated, that card remains in its current location unless a card effect specifies otherwise (such as " Divine Wrath " specifying that the monster is  destroyed ).
+ If a card or effect has a restriction on how often it can be activated, the specific wording of the restriction affects affects whether negated activations count towards this  limit .
+ 
+ If a card or effect can only be "activated" (発動) a limited number of times, only activations that are not negated count towards their limit. 
+ If an effect can only be "used" (使用) a limited number of times, negated activations count towards their limit. 
+ If an effect specifies "Once per turn", "Once per Battle Step", "Up to twice per turn", etc. in its  activation conditions , even negated activations count towards this limit.
+ For example, if the effect of " Chaos Sorcerer " or " Number 9: Dyson Sphere " is negated by " Light and Darkness Dragon ", it cannot activate its effect again during that  turn  or  Battle Step  (respectively). 
+ 
+ Effect 
+ See also:  Negates the effects of Spell Cards ,  Negates the effects of Trap Cards , and  Negates the effects of Effect Monsters 
+ To negate an  effect  is to prevent it from being applied. There are two forms of "Negate the effects" effects.
+ 
+ Negate an instance of effect 
+       " Ash Blossom & Joyous Spring "     
+ Japanese:  効 果 を 無 効 にする ( Kōka wo Mukō ni suru )
+This form of negate is used in response to an activated effect, and while similar to "Negate the activation" result-wise, this form of negates cause the effect it responds to to "resolve without effect"; the card  resolves but nothing will be done  (for the purposes of  missing the timing ). These effects  do not  affect the card.
+ 
+ Main article:  "Negate" vs. "Destroy" and Continuous Cards 
+ Destroying  a card is distinct from negating its effect; even if a card is destroyed, its activated effect can still resolve, unless stated or mechanized otherwise. (Such as Continuous Spell Cards)
+ 
+ Make cards have their effect(s) negated 
+         " Skill Drain "     
+ Japanese:  効 果 は 無 効 化 される ( Kōka wa Mukōka-sareru ) 
+ This form of negates will continually cause the card to have its effect negated. Effects negated in this form can still be activated, but will resolve without effect, like the first form. However, this kind of negate  does  affect the card
+ Continuous Effects  or  Unclassified Effects  can only be negated this way, and if they are, they simply no longer apply.
+ 
+ Summon 
+         " Black Horn of Heaven "     
+ Japanese:  召 喚 を 無 効 にする ( Shōkan wo Mukō ni suru )
+ 
+ See also:  Negates Normal Summons ,  Negates Flip Summons , and  Negates Special Summons 
+ To negate a  Summon  is to prevent a  monster  from being successfully Summoned. If the Summon of a monster(s) is negated, that monster(s) are not considered to have been on the field at the time its Summon was negated (even if it is being  Flip Summoned  or is a  Gemini monster  being  Normal Summoned  again). Also, if a Summon is negated, the monster was considered not successfully Summoned, so  Special Summon-only monsters  cannot be Special Summoned by effects other than their specified method.
+ Only Summons that occur outside of a  Chain  can be negated, and even then only  built-in Special Summons  and Summons by  game mechanics  ( Normal Summons ,  Flip Summons ,  Synchro Summons ,  Xyz Summons ,  Pendulum Summons  and  Link Summons ) can be negated.
+ Many card effects that cause a player to perform a Summon by game mechanics specify that the Summon is performed "immediately after this card/effect resolves" to clarify that the Summon occurs outside of the resolution of an effect, so if that card or effect resolves as  Chain Link  1 the Summon can be negated. For example, the Normal Summon of a monster with " Ultimate Offering " cannot be negated if it was activated as Chain Link 2 or higher (as the monster is Summoned in the middle of a Chain), but it can be negated if "Ultimate Offering" is activated as Chain Link 1 (as the monster is Summoned immediately after the effect of "Ultimate Offering" resolves).
+ 
+A negated Normal Summon still counts as the one  Normal Summon / Set  per turn, and a negated  Pendulum Summon  still counts as the one Pendulum Summon per turn. If a monster  can only be Summoned once per turn  in a particular way, even if that Summon is negated, other copies of that monster cannot be Summoned again in the same way that turn. 
+ Attack 
+         " Negate Attack "     
+ Japanese:  攻 撃 を 無 効 にする ( Kōgeki wo Mukō ni suru )
+ 
+ See also:  Negates attacks 
+ To negate an  attack  is to stop a battle from taking place after an attack has been  declared .
+ An attack can only be negated during the  Battle Step , and if it is negated, the  Damage Step  does not occur. Even if an attack is negated, that monster is still considered to have declared an attack that turn, so it cannot declare another attack and cannot change its  battle position  in  Main Phase 2 .
+ Cards such as " Mirror Force " and " Dimensional Prison " do not negate attacks; instead, the attacking monster  leaves the field  during the  Battle Step  and the attack ends; if the monster does not leave the field, the attack continues. For example, if " Total Defense Shogun " attacks while in  Defense Position  and the opponent activates "Mirror Force", the attack continues as "Total Defense Shogun" is still on the field. Likewise, even if an attacking monster is banished by "Dimensional Prison", " Counterforce " cannot be activated because its attack was not negated.
+ 
+ See also 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/62/SolemnJudgment-TF04-EN-VG.png/revision/latest/scale-to-width-down/150?cb=20120420192842', 'https://static.wikia.nocookie.net/yugioh/images/5/5e/UltimateProvidence-MP16-EN-ScR-1E.png/revision/latest/scale-to-width-down/200?cb=20160901214710', 'https://static.wikia.nocookie.net/yugioh/images/3/34/AshBlossomJoyousSpring-LCKC-EN-UR-1E.png/revision/latest/scale-to-width-down/100?cb=20180323181508', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/85/SkillDrain-TU08-EN-UR-UE.png/revision/latest/scale-to-width-down/100?cb=20130822081016', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/08/BlackHornofHeaven-AP08-EN-C-UE.png/revision/latest/scale-to-width-down/200?cb=20151029024731', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/8f/NegateAttack-SDKS-EN-C-1E.png/revision/latest/scale-to-width-down/200?cb=20161021201426']
+Categories: Gameplay

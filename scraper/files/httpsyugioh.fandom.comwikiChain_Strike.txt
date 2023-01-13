@@ -1,0 +1,354 @@
+Link: https://yugioh.fandom.com/wiki/Chain_Strike
+
+The  Croatian, Greek  and  Portuguese                      names given are not official.  
+ The  Portuguese                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Chain Strike 連鎖爆撃 
+ 
+ English 
+Chain Strike 
+ French 
+ Frappes en Chaîne Check translation 
+ German 
+ Kettenschlag Check translation 
+ Italian 
+ Attacco a Catena Check translation 
+ Korean 
+ 체인 스트라이크 Check translation 
+ Portuguese 
+ Ataque de Corrente Check translation 
+ Spanish 
+ Golpe de Cadena Check translation 
+ Japanese (kana) 
+ チェーン・ストライク Check translation 
+ Japanese (base) 
+ 連鎖爆撃 Check translation 
+ Japanese ( rōmaji ) 
+Chēn Sutoraiku 
+ Card type 
+ Spell   
+ Property 
+ Quick-Play   
+ Passcode 
+ 91623717 
+ Card effect types 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Condition Statuses Unlimited  ( OCG ) Limited  ( TCG   Advanced  and  Traditional ) 
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Activate  only as  Chain Link  2 or higher; inflict 400  damage  to your opponent times the Chain Link number of this card. You cannot activate this card if multiple cards/ effects  with the same name are in that  Chain . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Activable uniquement en tant que Block Chaîne 2 ou supérieur; infligez 400 dommages à votre adversaire multiplié par le numéro de Block Chaîne de cette carte. Vous ne pouvez pas activer cette carte s'il y a plusieurs cartes/effets avec le même nom dans cette Chaîne. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Aktiviere nur als Kettenglied 2 oder höher; füge deinem Gegner 400 Schaden x der Kettengliednummer dieser Karte zu. Du kannst diese Karte nicht aktivieren, falls mehrere Karten/Effekte mit demselben Namen in dieser Kette sind. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Attiva questa carta solo come Anello 2 o più di una Catena. Infliggi al tuo avversario 400 danni x il numero dell'Anello della Catena di questa carta. Non puoi attivare questa carta se più di una carta/effetto con lo stesso nome è stata attivata in quella catena. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Ative apenas como Elo da Corrente 2 ou mais; cause 400 de dano ao seu oponente vezes o número do Elo da Corrente deste card. Você não pode ativar este card se múltiplos cards/efeitos com o mesmo nome estiverem nessa Corrente. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Activa esta carta sólo como Eslabón de Cadena 2 o más alto; inflige a tu adversario 400 puntos de daño multiplicado por el número de Eslabón de Cadena de esta carta. Esta carta no puede activarse si múltiples cartas o efectos con el mismo nombre fueron activados en esa Cadena. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ チェーン２以降に発動できる。このカードの発動時に積まれているチェーンの数×４００ポイントダメージを相手ライフに与える。同一チェーン上に複数回同名カードの効果が発動している場合、このカードは発動できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 체인 2 이상에 발동할 수 있다. 이 카드의 발동시에 쌓여있는 체인 수 × 400 포인트 데미지를 상대 라이프에 준다. 동일한 체인 위에 여러 번 같은 이름의 카드 효과가 발동하고 있을 경우, 이 카드는 발동할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2006-11-15  
+ CDIP-EN043   
+ Cyberdark Impact 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2006-11-04  
+ CDIP-FR043   
+ Cyberdark Impact 
+ L'Impact des Cyberténèbres  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2006-11-15  
+ CDIP-DE043   
+ Cyberdark Impact 
+ Cyberdark Impact  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2006-11-24  
+ CDIP-IT043   
+ Cyberdark Impact 
+ Impatto Cyberoscuro  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2006-11-04  
+ CDIP-SP043   
+ Cyberdark Impact 
+ Impacto Ciberoscuro  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2006-08-10  
+ CDIP-JP043   
+ Cyberdark Impact 
+ ＣＹＢＥＲＤＡＲＫ ＩＭＰＡＣＴ  
+ Common 
+ 
+ 
+ 2012-05-12  
+ DE01-JP063   
+ Duelist Edition Volume 1 
+ デュエリストエディション　Ｖｏｌｕｍｅ　１  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2007-12-21  
+ CDIP-KR043   
+ Cyberdark Impact 
+ 사이버다크의 격돌  
+ Common 
+ 
+ 
+ 2013-10-15  
+ PC01-KR065   
+ Precious Pack Volume 1 
+ 프레셔스 팩 Volume 1  
+ Super Rare 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Online 
+ 
+ 
+ Pack 42 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ LP   
+ Damages your opponent 
+ 
+ Miscellaneous  
+ Chain Effects 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 6904 ( ja  ( rulings )   en   fr   de   it   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Online 2005-11-04 – – – – – Unlimited GX Tag Force 2 2007-09-18 – ??? – – – Limited 
+ 
+ 
+ 
+   " Chain Strike " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/9c/ChainStrike-CDIP-EN-C-1E.jpg/revision/latest/scale-to-width-down/300?cb=20070501205805', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/05/Quick-Play.svg/revision/latest/scale-to-width-down/28?cb=20120920115228']
+Categories: Duel Monsters cards, TCG cards, OCG cards

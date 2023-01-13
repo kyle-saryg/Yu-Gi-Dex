@@ -1,0 +1,107 @@
+Link: https://yugioh.fandom.com/wiki/Upshift
+
+
+ Upshift 
+ 
+ Japanese:   シフトアップ 
+ Romaji:   Shifutoappu 
+ Translated:  Shift-Up 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Effect 
+ Target  the 1  face-up   monster  you  control  with the highest  Level ; the Levels of all other face-up monsters you currently control become the current Level of that monster, until the  End Phase .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  056 ,  083 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ German 
+ Hochschieben 
+ 
+ 
+ 
+ Italian 
+ Marcia Superiore / Innalzamento 
+ 
+ 
+ 
+ Japanese 
+ シフトアップ 
+ 自分フィールド上の最もレベルの高いモンスター１体を選択して発動できる。このターンのエンドフェイズ時まで、自分フィールド上の全てのモンスターのレベルは選択したモンスターのレベルと同じになる。 
+ 
+ 
+ Shifutoappu 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Kite Tenjo 
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ Changes Levels 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/4f/Upshift-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20120521234644', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/2/26/Upshift-OW.png/revision/latest/scale-to-width-down/185?cb=20140202173530', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

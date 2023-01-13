@@ -1,0 +1,121 @@
+Link: https://yugioh.fandom.com/wiki/Last_Turn_(anime)
+
+Main card page: " Last Turn " 
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Last Turn 
+ 
+ Japanese:   ラストバトル！ 
+ Romaji:   Rasuto Batoru! 
+ Translated:  Last Battle! 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ This card can only be  activated  during your opponent's  turn  when your  Life Points  are 1000 or less.  Select  1  monster  on your side of the  field  and  send  all other cards on the field and in their respective  owner 's  hands  to their respective  Graveyards . After that, your opponent selects and  Special Summons  1 monster from their  Deck  in  face-up   Attack Position  and  attacks  your selected monster. (Any  Battle Damage  from this  battle  is treated as 0.) The player whose monster remains alone on the field at the  End Phase  of this turn wins the  Duel . Any other case results in a  DRAW .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh! :  116 ,  118 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  Yu-Gi-Oh! ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ラストバトル！ 
+ 自分のライフポイントが１０００以下の場合、相手ターンにのみ発動する事ができる。発動後、自分フィールド上に存在するモンスター１体を選択し、そのモンスター以外のお互いの手札・フィールド上のカードを全て墓地へ送る。その後、相手はデッキからモンスター１体を表側攻撃表示で特殊召喚し、自分が選択したモンスターと戦闘を行う。この戦闘によって発生するお互いのプレイヤーへの戦闘ダメージは０になる。このターンのエンドフェイズ時、どちらかのプレイヤーのみがモンスターをコントロールしていた場合、そのコントローラーはデュエルに勝利する。それ以外の場合は引き分けになる。 
+ 
+ 
+ Rasuto Batoru! 
+ 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Seto Kaiba 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Duel winner 
+ 
+ Actions  
+ Sends from field to Graveyard 
+ Sends from hand to Graveyard 
+ 
+ Summoning  categories  
+ Special Summons from your opponent's Deck 
+ Special Summons to your opponent's field 
+ 
+ Attack  categories  
+ Manages attack targets 
+ Must attack 
+ Conducts damage calculation 
+ 
+ LP   
+ Prevents battle damage 
+ 
+ 
+ 
+   " Last Turn " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+ Duel winner   a   m   Members 
+ Blackwing - Decay the Ill Wind Destiny Board Deuce Draw of Fate Exodia the Forbidden One Exodius the Ultimate Forbidden Lord Last Turn Number C88: Gimmick Puppet Disaster Leo Number iC1000: Numeronius Numeronia Relay Soul Vennominaga the Deity of Poisonous Snakes 
+ Related 
+ Left Arm of the Forbidden One Left Leg of the Forbidden One Number C1000: Numeronius Right Arm of the Forbidden One Right Leg of the Forbidden One Ritual of the Ultimate Forbidden Lord Spirit Message "A" Spirit Message "I" Spirit Message "L" Spirit Message "N" 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/56/LastTurn-OW.png/revision/latest/scale-to-width-down/185?cb=20140609163841', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a9/LastTurn-JP-Anime-DM-NC.png/revision/latest/scale-to-width-down/185?cb=20140712032835', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

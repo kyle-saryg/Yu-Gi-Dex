@@ -1,0 +1,110 @@
+Link: https://yugioh.fandom.com/wiki/Jelly_Bind
+
+
+ Jelly Bind 
+ 
+ Japanese:   ジェリー・バインド 
+ Romaji:   Jerī Baindo 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Continuous 
+ Continuous 
+ If you  control  a  WATER   monster :  Activate  this card by  targeting  1  face-up  monster your opponent controls; its  effects  are  negated , also it cannot  attack . When it  leaves the field ,  destroy  this card.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  115 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Italian 
+ Legame Gelatinoso 
+ 
+ 
+ 
+ Japanese 
+ ジェリー・バインド 
+ 自分フィールド上に水属性モンスターが存在する場合、相手モンスター１体を選択して発動できる。選択したモンスターは攻撃できず、その効果を発動できない。選択したモンスターがフィールド上から離れた時、このカードを破壊する。 
+ 
+ 
+ Jerī Baindo 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Chironex 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ WATER 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of your opponent's Effect Monsters 
+ Destroys itself 
+ 
+ Attack  categories  
+ Prevents your opponent's monsters from attacking 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/99/JellyBind-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20130804092947', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/35/JellyBind-OW.png/revision/latest/scale-to-width-down/185?cb=20150205203448', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

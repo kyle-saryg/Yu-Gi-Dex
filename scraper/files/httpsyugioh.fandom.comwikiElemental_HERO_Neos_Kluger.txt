@@ -1,0 +1,295 @@
+Link: https://yugioh.fandom.com/wiki/Elemental_HERO_Neos_Kluger
+
+
+ 
+ 
+ Elemental HERO Neos Kluger Ｅ・ＨＥＲＯ  ネオス・クルーガー 
+ 
+ English 
+Elemental HERO Neos Kluger 
+ French 
+ Kluger Néos, HÉROS Élémentaire Check translation 
+ German 
+ Elementar-HELD Neos Kluger Check translation 
+ Italian 
+ Neos Kluger EROE Elementale Check translation 
+ Korean 
+ 엘리멘틀 히어로 네오스 크루거 Check translation 
+ Portuguese 
+ Neos Kluger, o HERÓI do Elemento Check translation 
+ Spanish 
+ HÉROE Elemental Neos Kluger Check translation 
+ Japanese (kana) 
+ エレメンタルヒーロー ネオス・クルーガー Check translation 
+ Japanese (base) 
+ Ｅ・ＨＥＲＯ ネオス・クルーガー Check translation 
+ Japanese ( rōmaji ) 
+Erementaru Hīrō Neosu Kurūgā 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Spellcaster  /  Fusion  /  Effect 
+ Level 
+ 9   
+ ATK  /  DEF 
+ 3000  /  2500 
+ Passcode 
+ 90307498 
+ Fusion Material 
+" Elemental HERO Neos ", " Yubel " 
+ Materials 
+"Elemental HERO Neos" + "Yubel" 
+ Card effect types 
+ 
+ 
+ Condition 
+ Trigger 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+" Elemental HERO Neos " + " Yubel " Must be  Fusion Summoned . Before  damage calculation , if this card  battles  an opponent's monster: You can inflict  damage  to your opponent equal to that opponent's monster's  ATK . If this  face-up  card is  destroyed by battle , or  leaves the field  because of an opponent's  card effect  while its  owner   controls  it: You can  Special Summon  1 " Neos Wiseman " from your  hand  or  Deck , ignoring its  Summoning conditions . You can only use this effect of "Elemental HERO Neos Kluger"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ "Néos, HÉROS Élémentaire" + "Yubel" Uniquement Invocable par Fusion. Avant le calcul des dommages, si cette carte combat un monstre de l'adversaire : vous pouvez infliger des dommages à votre adversaire égaux à l'ATK du monstre de l'adversaire. Si cette carte face recto est détruite au combat, ou quitte le Terrain à cause d'un effet de carte de l'adversaire tant que son propriétaire la contrôle : vous pouvez Invoquer Spécialement 1 "Néos le Sage" depuis votre main ou Deck, en ignorant ses conditions d'Invocation. Vous ne pouvez utiliser cet effet de "Kluger Néos, HÉROS Élémentaire" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ „Elementar-HELD Neos“ + „Yubel“ Muss als Fusionsbeschwörung beschworen werden. Vor der Schadensberechnung, falls diese Karte gegen ein Monster eines Gegners kämpft: Du kannst deinem Gegner Schaden in Höhe der ATK des Monsters des Gegners zufügen. Falls diese offene Karte durch Kampf zerstört wird oder das Spielfeld durch einen Karteneffekt eines Gegners verlässt, solange ihr Besitzer sie kontrolliert: Du kannst 1 „Neos Weiser“ als Spezialbeschwörung von deiner Hand oder deinem Deck beschwören, ungeachtet seiner Beschwörungsbedingungen. Du kannst diesen Effekt von „Elementar-HELD Neos Kluger“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ "Neos EROE Elementale" + "Yubel" Deve essere Evocato tramite Fusione. Prima del calcolo dei danni, se questa carta combatte con un mostro dell'avversario: puoi infliggere al tuo avversario danno pari all'ATK di quel mostro dell'avversario. Se questa carta scoperta viene distrutta in battaglia, o lascia il Terreno per l'effetto di una carta dell'avversario mentre il suo proprietario la controlla: puoi Evocare Specialmente 1 "Neos Uomo Saggio" dalla tua mano o Deck, ignorando le sue condizioni di Evocazione. Puoi utilizzare questo effetto di "Neos Kluger EROE Elementale" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ "Neos, o HERÓI do Elemento" + "Yubel" Deve ser Invocado por Invocação-Fusão. Antes do cálculo de dano, se este card batalhar um monstro do oponente: você pode causar dano ao seu oponente igual ao ATK desse monstro do oponente. Se este card com a face para cima for destruído em batalha, ou deixar o campo devido a um efeito de card do oponente enquanto for controlado por seu dono: você pode Invocar por Invocação-Especial 1 "Neos Sábio" da sua mão ou do Deck, ignorando suas condições de Invocação. Você só pode usar este efeito de "Neos Kluger, o HERÓI do Elemento" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ "HÉROE Elemental Neos" + "Yubel" Debe ser Invocado por Fusión. Antes del cálculo de daño, si esta carta batalla con un monstruo del adversario: puedes infligir daño a tu adversario igual al ATK de ese monstruo del adversario. Si esta carta boca arriba es destruida en batalla, o deja el Campo por efecto de una carta del adversario mientras su dueño la controla: puedes Invocar de Modo Especial, desde tu mano o Deck, 1 "Sabio Neos", ignorando sus condiciones de Invocación. Sólo puedes usar este efecto de "HÉROE Elemental Neos Kluger" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「 Ｅ・ＨＥＲＯ  ネオス」＋「ユベル」 このカードは融合召喚でしか特殊召喚できない。このカード名の②の効果は１ターンに１度しか使用できない。①：このカードが相手モンスターと戦闘を行うダメージ計算前に発動できる。その相手モンスターの攻撃力分のダメージを相手に与える。②：表側表示のこのカードが相手の効果でフィールドから離れた場合、または戦闘で破壊された場合に発動できる。手札・デッキから「ネオス・ワイズマン」１体を召喚条件を無視して特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "엘리멘틀 히어로 네오스" ＋ "유벨" 이 카드는 융합 소환으로밖에 특수 소환할 수 없다. 이 카드명의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 상대 몬스터와 전투를 실행하는 데미지 계산 전에 발동할 수 있다. 그 상대 몬스터의 공격력만큼의 데미지를 상대에게 준다. ②: 앞면 표시의 이 카드가 상대 효과로 필드에서 벗어났을 경우, 또는 전투로 파괴되었을 경우에 발동할 수 있다. 패 / 덱에서 "네오스 와이즈맨" 1장을 소환 조건을 무시하고 특수 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2022-05-05 GFP2-EN003 Ghosts From the Past: The 2nd Haunting Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2022-05-05 GFP2-FR003 Ghosts From the Past: The 2nd Haunting Fantômes du Passé : La 2e Incarnation Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2022-05-05 GFP2-DE003 Ghosts From the Past: The 2nd Haunting Ghosts From the Past: The 2nd Haunting Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2022-05-05 GFP2-IT003 Ghosts From the Past: The 2nd Haunting Fantasmi Dal Passato : La Seconda Apparizione Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2022-05-05 GFP2-PT003 Ghosts From the Past: The 2nd Haunting Fantasmas Do Passado : A 2ª Assombração Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2022-05-05 GFP2-SP003 Ghosts From the Past: The 2nd Haunting Antasmas Del Pasado : La 2ª Aparición Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2019-12-21 LGB1-JP009 Legendary Gold Box ＬＥＧＥＮＤＡＲＹ ＧＯＬＤ ＢＯＸ Ultra Rare 2019-12-21 LGB1-JP009 Legendary Gold Box ＬＥＧＥＮＤＡＲＹ ＧＯＬＤ ＢＯＸ 20th Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2020-09-24 LGB1-KR009 Legendary Gold Box Legendary   GOLD   SET Ultra Rare 2020-09-24 LGB1-KR009 Legendary Gold Box Legendary   GOLD   SET Prismatic Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Neos Wiseman 
+ 
+ Archetypes  and  series   
+ Elemental HERO 
+ HERO 
+ Neos 
+ 
+ Related to  archetypes  and  series   
+ Yubel  
+ 
+ Actions  
+ Activates if destroyed by battle 
+ Activates if destroyed by card effect 
+ Activates when it leaves the field 
+ 
+ Summoning  categories  
+ 2 Fusion Materials 
+ Requires specific Normal Monsters as Fusion Materials 
+ Requires specific Effect Monsters as Fusion Materials 
+ Nomi 
+ Special Summons from your hand 
+ Special Summons from your Deck 
+ Ignoring its Summoning conditions 
+ 
+ LP   
+ Damages your opponent 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14954 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Elemental HERO " 「 Ｅ・ＨＥＲＯ 」 Members 
+ Contrast HERO Chaos Elemental HERO Absolute Zero Elemental HERO Air Neos Elemental HERO Aqua Neos Elemental HERO Avian Elemental HERO Bladedge Elemental HERO Blazeman Elemental HERO Brave Neos Elemental HERO Bubbleman Elemental HERO Burstinatrix Elemental HERO Captain Gold Elemental HERO Chaos Neos Elemental HERO Clayman Elemental HERO Core Elemental HERO Cosmo Neos Elemental HERO Dark Neos Elemental HERO Darkbright Elemental HERO Divine Neos Elemental HERO Electrum Elemental HERO Escuridao Elemental HERO Flame Wingman Elemental HERO Flare Neos Elemental HERO Flash Elemental HERO Gaia Elemental HERO Glow Neos Elemental HERO Grand Neos Elemental HERO Grandmerge Elemental HERO Great Tornado Elemental HERO Heat Elemental HERO Honest Neos Elemental HERO Ice Edge Elemental HERO Inferno Elemental HERO Knospe Elemental HERO Lady Heat Elemental HERO Liquid Soldier Elemental HERO Magma Neos Elemental HERO Marine Neos Elemental HERO Mariner Elemental HERO Mudballman Elemental HERO Nebula Neos Elemental HERO Necroid Shaman Elemental HERO Necroshade Elemental HERO Neo Bubbleman Elemental HERO Neos Elemental HERO Neos Alius Elemental HERO Neos Kluger Elemental HERO Neos Knight Elemental HERO Nova Master Elemental HERO Ocean Elemental HERO Phoenix Enforcer Elemental HERO Plasma Vice Elemental HERO Poison Rose Elemental HERO Prisma Elemental HERO Rampart Blaster Elemental HERO Shadow Mist Elemental HERO Shining Flare Wingman Elemental HERO Shining Neos Wingman Elemental HERO Shining Phoenix Enforcer Elemental HERO Solid Soldier Elemental HERO Sparkman Elemental HERO Spirit of Neos Elemental HERO Steam Healer Elemental HERO Storm Neos Elemental HERO Stratos Elemental HERO Sunrise Elemental HERO Tempest Elemental HERO Terra Firma Elemental HERO The Shining Elemental HERO Thunder Giant Elemental HERO Voltic Elemental HERO Wild Wingman Elemental HERO Wildedge Elemental HERO Wildheart Elemental HERO Woodsman Wake Up Your Elemental HERO 
+ Support 
+ Cross Keeper Elemental HERO Blazeman Elemental HERO Escuridao Elemental HERO Flash Elemental HERO Gaia Elemental HERO Grandmerge Elemental HERO Great Tornado Elemental HERO Heat Elemental HERO Knospe Elemental HERO Lady Heat Elemental HERO Necroshade Elemental HERO Nova Master Elemental HERO Shining Flare Wingman Elemental HERO Shining Phoenix Enforcer Elemental HERO Spirit of Neos Elemental HERO Terra Firma Elemental HERO The Shining Elemental HERO Voltic Wake Up Your Elemental HERO Wroughtweiler 
+ Bubble Shuffle Burst Return Change of Hero - Reflector Ray D - Time E - Emergency Call EN - Engage Neo Space EN Shuffle EN Wave Elemental Recharge Fake Hero Fifth Hope Generation Next Get Your Game On! HERO's Bond Hero Barrier Hero Blast Hero Counterattack Hero Flash!! Hero Heart A Hero Lives Hero Mask Hero Signal Hero Spirit Instant Contact Kid Guard Miracle Contact Miracle Fusion Mirror Gate O - Oversoul Over Fusion Parallel World Fusion R - Righteous Justice Skydive Scorcher Skyscraper Skyscraper 2 - Hero City 
+ Anti-support 
+ Burst Return 
+ Related 
+ Destiny HERO - Destroyer Phoenix Enforcer Hero Kid Honest Neo Space Connector Neo-Spacian Air Hummingbird Neo-Spacian Aqua Dolphin Neo-Spacian Dark Panther Neo-Spacian Flare Scarab Neo-Spacian Glow Moss Neo-Spacian Grand Mole Neo-Spacian Marine Dolphin Neos Wiseman Rainbow Dark Dragon Rainbow Dragon Rainbow Neos UFOroid Fighter Yubel 
+ Battle of Sleeping Spirits Bubble Blaster Bubble Illusion Clay Charge Cyclone Boomerang Edge Hammer Feather Shot Feather Wind H - Heated Heart Metamorphosis Miracle Kids NEXT Neos Force Neos Fusion Polymerization Reverse of Neos Rose Bud Spark Blaster Terra Firma Gravity Wrath of Neos 
+ 
+   
+" HERO " 「 ＨＥＲＯ 」 Members 
+ Contrast HERO Chaos Destiny HERO - Blade Master Destiny HERO - Captain Tenacious Destiny HERO - Celestial Destiny HERO - Dangerous Destiny HERO - Dark Angel Destiny HERO - Dasher Destiny HERO - Decider Destiny HERO - Defender Destiny HERO - Denier Destiny HERO - Departed Destiny HERO - Destroyer Phoenix Enforcer Destiny HERO - Diamond Dude Destiny HERO - Disk Commander Destiny HERO - Dogma Destiny HERO - Dominance Destiny HERO - Doom Lord Destiny HERO - Double Dude Destiny HERO - Drawhand Destiny HERO - Dread Servant Destiny HERO - Dreadmaster Destiny HERO - Dreamer Destiny HERO - Drilldark Destiny HERO - Dunker Destiny HERO - Dusktopia Destiny HERO - Dynatag Destiny HERO - Dystopia Destiny HERO - Fear Monger Destiny HERO - Malicious Destiny HERO - Plasma Elemental HERO Absolute Zero Elemental HERO Air Neos Elemental HERO Aqua Neos Elemental HERO Avian Elemental HERO Bladedge Elemental HERO Blazeman Elemental HERO Brave Neos Elemental HERO Bubbleman Elemental HERO Burstinatrix Elemental HERO Captain Gold Elemental HERO Chaos Neos Elemental HERO Clayman Elemental HERO Core Elemental HERO Cosmo Neos Elemental HERO Dark Neos Elemental HERO Darkbright Elemental HERO Divine Neos Elemental HERO Electrum Elemental HERO Escuridao Elemental HERO Flame Wingman Elemental HERO Flare Neos Elemental HERO Flash Elemental HERO Gaia Elemental HERO Glow Neos Elemental HERO Grand Neos Elemental HERO Grandmerge Elemental HERO Great Tornado Elemental HERO Heat Elemental HERO Honest Neos Elemental HERO Ice Edge Elemental HERO Inferno Elemental HERO Knospe Elemental HERO Lady Heat Elemental HERO Liquid Soldier Elemental HERO Magma Neos Elemental HERO Marine Neos Elemental HERO Mariner Elemental HERO Mudballman Elemental HERO Nebula Neos Elemental HERO Necroid Shaman Elemental HERO Necroshade Elemental HERO Neo Bubbleman Elemental HERO Neos Elemental HERO Neos Alius Elemental HERO Neos Kluger Elemental HERO Neos Knight Elemental HERO Nova Master Elemental HERO Ocean Elemental HERO Phoenix Enforcer Elemental HERO Plasma Vice Elemental HERO Poison Rose Elemental HERO Prisma Elemental HERO Rampart Blaster Elemental HERO Shadow Mist Elemental HERO Shining Flare Wingman Elemental HERO Shining Neos Wingman Elemental HERO Shining Phoenix Enforcer Elemental HERO Solid Soldier Elemental HERO Sparkman Elemental HERO Spirit of Neos Elemental HERO Steam Healer Elemental HERO Storm Neos Elemental HERO Stratos Elemental HERO Sunrise Elemental HERO Tempest Elemental HERO Terra Firma Elemental HERO The Shining Elemental HERO Thunder Giant Elemental HERO Voltic Elemental HERO Wild Wingman ... further results 
+ HERO's Bond Legacy of a HERO 
+ Support 
+ Destiny HERO - Decider Destiny HERO - Destroyer Phoenix Enforcer Destiny HERO - Drawhand Elemental HERO Absolute Zero Elemental HERO Brave Neos Elemental HERO Divine Neos Elemental HERO Grandmerge Elemental HERO Honest Neos Elemental HERO Liquid Soldier Elemental HERO Ocean Elemental HERO Shadow Mist Elemental HERO Solid Soldier Elemental HERO Stratos Elemental HERO Sunrise Evil HERO Infernal Prodigy Evil HERO Malicious Bane Masked HERO Dian Masked HERO Goka Masked HERO Koga Phantom Magician Vision HERO Adoration Vision HERO Faris Vision HERO Gravito Vision HERO Increase Vision HERO Minimum Ray Vision HERO Multiply Guy Vision HERO Poisoner Vision HERO Trinity Vision HERO Vyon Vision HERO Witch Raider Xtra HERO Cross Crusader Xtra HERO Dread Decimator Xtra HERO Infernal Devicer Xtra HERO Wonder Driver 
+ Apparition D - Tactics Double Hero Attack Evil Mind Favorite Contact Favorite Hero Form Change Fusion Destiny HERO's Bond Legacy of a HERO Magistery Alchemist Mask Change Mask Charge Vision Fusion 
+ Related 
+ Honest Neo Space Connector Neo-Spacian Air Hummingbird Neo-Spacian Aqua Dolphin Neo-Spacian Dark Panther Neo-Spacian Flare Scarab Neo-Spacian Glow Moss Neo-Spacian Grand Mole Neo-Spacian Marine Dolphin Neos Wiseman Rainbow Dark Dragon Rainbow Neos UFOroid Fighter Yubel 
+ Fifth Hope Hero Mask NEXT Neos Fusion Polymerization Skyscraper 
+ 
+   
+" Neos " 「ネオス」 Members 
+ Darkness Neosphere Elemental HERO Air Neos Elemental HERO Aqua Neos Elemental HERO Brave Neos Elemental HERO Chaos Neos Elemental HERO Cosmo Neos Elemental HERO Dark Neos Elemental HERO Divine Neos Elemental HERO Flare Neos Elemental HERO Glow Neos Elemental HERO Grand Neos Elemental HERO Honest Neos Elemental HERO Magma Neos Elemental HERO Marine Neos Elemental HERO Nebula Neos Elemental HERO Neos Elemental HERO Neos Alius Elemental HERO Neos Kluger Elemental HERO Neos Knight Elemental HERO Shining Neos Wingman Elemental HERO Spirit of Neos Elemental HERO Storm Neos Neo Space Connector Neo Space Pathfinder Neo-Spacian Air Hummingbird Neo-Spacian Aqua Dolphin Neo-Spacian Dark Panther Neo-Spacian Flare Scarab Neo-Spacian Glow Moss Neo-Spacian Grand Mole Neo-Spacian Marine Dolphin Neo-Spacian Twinkle Moss Neos Wiseman Rainbow Neos 
+ EN - Engage Neo Space Instant Neo Space NEX NEXT Neo Space Neos Force Neos Fusion Reverse of Neos Wrath of Neos 
+ Support 
+ Elemental HERO Divine Neos 
+ Contact Out Reverse of Neos 
+ Related 
+ Honest Rainbow Dark Dragon Rainbow Dragon Yubel 
+ Battle of Sleeping Spirits Common Soul Double Hero Attack EN Wave Favorite Contact Instant Contact Miracle Contact Over Fusion 
+ 
+   
+" Yubel " 「ユベル」 Members 
+ Yubel Yubel - Terror Incarnate Yubel - The Ultimate Nightmare 
+ Related 
+ Elemental HERO Neos Elemental HERO Neos Kluger Neos Wiseman 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/ce/ElementalHERONeosKluger-GFP2-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20220518014639', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

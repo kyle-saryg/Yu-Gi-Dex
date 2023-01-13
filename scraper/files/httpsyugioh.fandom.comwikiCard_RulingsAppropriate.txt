@@ -1,0 +1,104 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Appropriate
+
+
+ Appropriate 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ Contents 
+ 
+ 1   OCG Rulings 
+ 
+ 1.1   Mentions in Other Rulings 
+ 
+ 
+ 2   Previously Official Rulings 
+ 
+ 2.1   Mentions in Other Rulings 
+ 
+ 2.1.1   Judge List Rulings 
+ 
+ 
+ 
+ 
+ 3   References 
+ 
+ 
+ OCG Rulings 
+ Mentions in Other Rulings 
+ Dark Bribe : When you activate " Dark Bribe " as Chain Link 2, " Dark Bribe " negates the activation of the Spell/Trap Card and destroys it, and your opponent draws 1 card.  Chain Link 1 does not resolve because its activation was negated, so when the Chain finishes resolving the timing is " your opponent drawing a card ".  At this time, you can activate " Appropriate ". [1] 
+ Exodia the Forbidden One : Suppose that both players have " Appropriate " active, and that they are in the middle of a "loop" where both players keep drawing.  If a player completes " Exodia the Forbidden One " during that loop, then he immediately wins the Duel and there is no more drawing. [2] 
+ Exodia the Forbidden One : When resolving the effect of " Pot of Greed " or " Appropriate ", if the only card left in your Deck is the last piece of " Exodia the Forbidden One ", then you lose the Duel because you cannot draw when you are forced to draw. [3] 
+ Tongue Twister : The "draw" and "remove from play" effects of " Tongue Twister " are not considered to resolve simultaneously.  Your opponent cannot activate " Appropriate " after " Tongue Twister "'s effect resolves. [4] 
+ Upstart Goblin : The effect of " Upstart Goblin " resolves as one effect wherein you draw a card and afterwards recover your opponent's  Life Points .  The resolution does not end with drawing a card, so after " Upstart Goblin " resolves a face-down " Appropriate " cannot be activated.  Also, if " Appropriate " has already been activated and is face-up on the field, then you draw two cards after resolving the effect of " Upstart Goblin ". [5] 
+ Witch of the Black Rose : The effect of " Witch of the Black Rose " which draws and the effect which sends the drawn card to the Graveyard and destroys " Witch of the Black Rose " are not treated as resolving simultaneously. [6] 
+ If the effect of " Witch of the Black Rose " draws a card and it is revealed to be a monster, then after the effect finishes resolving the timing is considered to be " when a card is drawn ", so " Appropriate " may be activated. [6] 
+ If the effect of " Witch of the Black Rose " draws a card and it is revealed to be a Spell or Trap Card, then after the card is drawn, the card is sent to the Graveyard and simultaneously " Witch of the Black Rose " is destroyed.  Afterwards, " Appropriate " cannot be activated, since it  misses the timing . [6] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [8]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [9] [10] [11] [12] [13] [14] [15] [16] [17] 
+ 
+ " Appropriate " can only be activated if the last effect on the Chain ends with your opponent drawing a card(s) outside of their Draw Phase. (See " Missing the timing  - Optional Trigger Effects" in the  Advanced Gameplay FAQ  for more information.) 
+ If your opponent  " picks up "  [ sic ]  cards with " Morphing Jar #2 ", etc., you do not draw. 
+ If you have 2 face-up " Appropriate ", you will draw 4 cards when your opponent draws a card(s) outside of their Draw Phase. 
+ If you and your opponent have " Appropriate " face-up and you or your opponent draw a card outside of your respective Draw Phases, the effect of each " Appropriate " is applied until you or your opponent cannot Draw a card and lose the Duel or gather all 5 pieces of " Exodia " into your respective hand and win the Duel. This process does not start a Chain. 
+ Mentions in Other Rulings 
+ Dragged Down into the Grave :  You can  activate  " Appropriate " in response to " Dragged Down into the Grave " because drawing was the last thing performed. 
+ Graceful Charity :  Your opponent cannot activate "Appropriate" after you activate "Graceful Charity" since the last  effect  that resolves with "Graceful Charity" is discarding, not drawing, and your opponent misses the timing. But if your opponent already has an active " Appropriate " face-up on the field, he/she can draw 2 cards after you  activate  " Graceful Charity ". 
+ Null and Void :  You cannot chain " Null and Void " to the effect of " Appropriate " because the effect of "Appropriate" cannot be  chained  to. 
+ Protector of the Sanctuary :  " Protector of the Sanctuary " prevents your opponent from  drawing  with " Mirage of Nightmare ". However, your opponent can still  activate ..." Appropriate "...even though he cannot use their effects at that time. 
+ Reload :  Your opponent can activate " Appropriate " in response to your drawing with " Reload "'s effect. 
+ Judge List Rulings 
+ When " Appropriate " applies its card-drawing effect, it does not use the Chain. So it can apply the effect also in the middle of resolving a Chain. [7] 
+ 
+ 
+ 
+ References 
+ 
+ ↑   Konami FAQ : After "Dark Bribe" resolves and the event is considered " drawing ", can "Appropriate" be activated? 
+ 
+ ↑   Konami OCG FAQ : Who wins the Duel if both players have "Appropriate" active and both complete "Exodia the Forbidden One"? 
+ 
+ ↑   Konami OCG FAQ : Who wins the Duel when "Pot of Greed" forces you to draw the last card in your Deck, which has you complete "Exodia the Forbidden One"? 
+ 
+ ↑   Konami FAQ : For "Tongue Twister"'s "Draw" and "Remove from Play" effects, are they treated to resolve simultaneously? 
+ 
+ ↑   Konami FAQ : Can "Appropriate" be activated when drawing by the effect of "Upstart Goblin"? 
+ 
+ ↑  6.0   6.1   6.2   Konami FAQ : For "Witch of the Black Rose", are the " draw " and the " reveal the drawn card " treated as being done at the same time? 
+ 
+ ↑   UDE Judge List : Heavy Storm is followed by... 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

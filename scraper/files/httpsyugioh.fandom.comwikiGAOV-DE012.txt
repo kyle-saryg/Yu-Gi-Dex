@@ -1,0 +1,352 @@
+Link: https://yugioh.fandom.com/wiki/GAOV-DE012
+
+The  Arabic, Chinese, Croatian  and  Portuguese                     names given are not official.  
+ The  Chinese                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Morpho Butterspy 幻 蝶 の 刺 客 モルフォ 
+ 
+ English 
+Morpho Butterspy 
+ Chinese 
+ 幻蝶刺客 莫尔弗 Check translation 
+ French 
+ Espillon Morpho Check translation 
+ German 
+ Himmelsfalter-Spionling Check translation 
+ Italian 
+ Farfallospia Morfo Check translation 
+ Korean 
+ 환접의 자객 모포나비 Check translation 
+ Portuguese 
+ Morpho Mariposa Check translation 
+ Spanish 
+ Morpho Maripospía Check translation 
+ Japanese (kana) 
+ げんちょうのしきゃくモルフォ Check translation 
+ Japanese (base) 
+ 幻蝶の刺客モルフォ Check translation 
+ Japanese ( rōmaji ) 
+Genchō no Shikyaku Morufo 
+ Japanese (translated) 
+Phantom Butterfly Assassin Morpho 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Warrior  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1200  /  1600 
+ Passcode 
+ 43573231 
+ Card effect types 
+ 
+ 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Once per  turn , when the  battle position  of an opponent's  monster (s) is changed (except during the  Damage Step ): You can  target  one of those monsters; it loses 1000  ATK  and  DEF . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Une fois par tour, lorsque la position de combat d'un ou plusieurs monstres de votre adversaire est changée (sauf durant la Damage Step) : vous pouvez cibler un de ces monstres ; il perd 1000 ATK/DEF. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Einmal pro Spielzug, wenn die Kampfpositionen von Monstern deines Gegners geändert werden (außer während des Damage Steps): Du kannst eins der Monster wählen; es verliert 1000 ATK und DEF. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Una volta per  turno , quando viene cambiata la  posizione  di uno o più  mostri  di un avversario (eccetto durante il  Damage Step ): puoi  scegliere come bersaglio  uno di quei mostri; esso perde 1000  ATK  e  DEF . 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Una vez por turno, cuando es cambiada la posición de batalla de uno o más monstruos de tu adversario (excepto durante el Damage Step): puedes seleccionar uno de esos monstruos; éste pierde 1000 ATK y DEF. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 相手フィールド上のモンスターの表示形式が変更された時、そのモンスター１体を選択して発動できる。選択したモンスターの攻撃力・守備力を１０００ポイントダウンする。この効果は１ターンに１度しか使用できない。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 对方场上的怪兽改变表示形式时，可以选择那只怪兽发动效果，选择的怪兽的攻击力·守备力都下降1000点。此效果1回合只能使用1次。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 상대 필드 위의 몬스터의 표시 형식이 변경되었을 때, 그 몬스터 1장을 선택하고 발동할 수 있다. 선택한 몬스터의 공격력 / 수비력을 1000 포인트 내린다. 이 효과는 1턴에 1번밖에 사용할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2012-04-28  
+ GAOV-EN012   
+ Galactic Overlord 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-FR012   
+ Galactic Overlord 
+ Le Seigneur de la Galaxie  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-DE012   
+ Galactic Overlord 
+ Galactic Overlord  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-IT012   
+ Galactic Overlord 
+ Sovrano Galattico  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-SP012   
+ Galactic Overlord 
+ Señor Supremo Galáctico  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2012-02-18  
+ GAOV-JP012   
+ Galactic Overlord 
+ ＧＡＬＡＣＴＩＣ ＯＶＥＲＬＯＲＤ  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2012-05-21  
+ GAOV-KR012   
+ Galactic Overlord 
+ 갤럭틱 오버로드  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Butterspy 
+ 
+ Actions  
+ Activates if battle positions change 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ Your opponent's monsters lose DEF 
+ 
+ Miscellaneous  
+ Limited activations 
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 10035 ( ja  ( rulings )   en   fr   de   it   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Morpho Butterspy " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Butterspy " 「 幻 蝶 の 刺 客 」 Members 
+ Blue Mountain Butterspy Morpho Butterspy Swallowtail Butterspy 
+ Support 
+ Moonlit Papillon Photon Alexandra Queen 
+ Related 
+ Night Papilloperative Photon Papilloperative 
+ Butterflyoke Butterspy Protection 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/b/bf/MorphoButterspy-GAOV-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20120429212126', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

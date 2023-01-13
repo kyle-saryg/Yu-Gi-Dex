@@ -1,0 +1,1944 @@
+Link: https://yugioh.fandom.com/wiki/Skill#Double_Bite
+
+Skill  (スキル,  Sukiru ) is a special rule characteristic of  Speed Duels  featured in  Yu-Gi-Oh! Duel Links  and the  Yu-Gi-Oh! VRAINS  anime, as well as the  Yu-Gi-Oh! Trading Card Game  as an official alternative game format.
+ 
+ Contents 
+ 
+ 1   Speed Dueling Format 
+ 2   Yu-Gi-Oh! VRAINS 
+ 
+ 2.1   List of Skills 
+ 
+ 
+ 3   Yu-Gi-Oh! Duel Links 
+ 
+ 3.1   List of Skills 
+ 3.2   Duel Links Legend Deck Guide 
+ 
+ 
+ 4   Notes 
+ 5   References 
+ 
+ 
+ Speed Dueling Format 
+ 
+ 
+ Skill
+ 
+ Effect Text
+ 
+ Activation Condition
+ 
+ Character
+ 
+ 
+ Power of Dark
+ 
+ All Fiend and Spellcaster monsters on the field gain 200 ATK/DEF, also all Fairy monsters on the field lose 200 ATK/DEF.
+ 
+ At the start of the Duel, place this card in your  Field Zone  and flip it over.
+ 
+ Yami Yugi 
+ 
+ 
+ Destiny Draw
+ 
+ If you lose 2000 or more  LP , you can activate this Skill during your next  Draw Phase .  During your Draw Phase, you may search your  Deck  for any card, reveal it to your opponent, and add it to your hand instead of drawing. If you do that, flip this card over.
+ 
+ Flip this card over when you activate this Skill.
+ 
+ Yami Yugi
+ 
+ 
+ Final Draw
+ 
+ Activate this Skill during your  Main Phase . Once per turn, during your turn, you may place a  counter  on this Skill. If it has 3 or more counters when you would  draw a card , you may search your Deck for any card and add it to your  hand  instead. At the end of the turn you use this Skill, you lose the Duel.
+ 
+ Flip this card over when you activate this Skill.
+ 
+ Yami Yugi
+ 
+ 
+ Prescience
+ 
+ If your opponent’s  LP  is more than twice your LP, activate this Skill. You may look at the top card of both your and your opponent’s  Deck  at any time.
+ 
+ Flip this card over when you activate this Skill.
+ 
+ Ishizu Ishtar 
+ 
+ 
+ Gravekeeper's Lot
+ 
+ If you lose 1800 or more  LP , you can activate this Skill during your next  Draw Phase . During your Draw Phase, you may search your  Deck  for a “ Gravekeeper’s ” card, reveal it to your opponent, and add it to your hand instead of drawing. If you do that, flip this card over.
+ 
+ Flip this card over when you activate this Skill.
+ 
+ Ishizu Ishtar
+ 
+ 
+ Peak Performance
+ 
+ All  Dragon ,  Winged Beast , and  Thunder  monsters on the field gain 200  ATK / DEF .
+ 
+ At the start of the Duel, place this card in your  Field Zone  and flip it over.
+ 
+ Seto Kaiba 
+ 
+ 
+ Beatdown!
+ 
+ If you control a Level 5 or higher monster, you can activate this Skill. All monsters you currently control gain 300 ATK for each Level 5 or higher monster you control. At the end of your turn, flip this card over.
+ 
+ Flip this card over when you activate this Skill.
+ 
+ Seto Kaiba
+ 
+ 
+ Dragon Caller
+ 
+ Once per  Duel , you can use 1 of the following Skills.   • If you successfully  Normal Summon  “ Lord of D. ”, add 1 “ The Flute of Summoning Dragon ” from your  Deck  or  GY  to your  hand    • Reveal “The Flute of Summoning Dragon” from your hand, then add 1 “Lord of D.” from your Deck or GY to your hand.
+ 
+ Flip this card over when you activate this Skill.
+ 
+ Seto Kaiba
+ 
+ 
+ Grit
+ 
+ At the start of your  turn , call 2 numbers and roll a six-sided  die . If you roll a number you called, your  LP  do not get lower than 1 until the of your opponent’s next turn. This Skill can only be used once per  Duel .
+ 
+ Flip this card over when you activate this Skill.
+ 
+ Joey Wheeler 
+ 
+ 
+ Last Gamble
+ 
+ At the start of the 5th turn, activate this Skill (count both players’ turns).   During your  Main Phase , you can reduce your  LP  to 100 and  discard  2 cards from your  hand . Roll a six-sided  die  and  draw cards  equal to the result. This Skill can only be used once per Duel.
+ 
+ Flip this card over when you activate this Skill.
+ 
+ Joey Wheeler
+ 
+ 
+ Pal-O’Mine-zation!
+ 
+ During your turn, you may reveal 1  Normal Monster  in your  hand . This turn, that Monster can  substitute  for any 1  Fusion Material . If you do, the other Fusion Material(s) must be the correct one(s). This Skill can only be used once per  Duel .
+ 
+ Flip this card over when you activate this Skill.
+ 
+ Joey Wheeler
+ 
+ 
+ Aroma Strategy
+ 
+ You may look at the top card of your  Deck  at any time.
+ 
+ 
+ 
+ Mai Valentine 
+ 
+ 
+ Flight of the Harpies
+ 
+ If you lose 1800 or more  LP , you can activate this Skill during your next  Draw Phase .  During your Draw Phase, you may search your  Deck  for a “ Harpie ” card, reveal it to your opponent, and add it to your hand instead of drawing. If you do that, flip this card over.
+ 
+ Flip this card over when you activate this Skill.
+ 
+ Mai Valentine
+ 
+ 
+ Straight to the Grave
+ 
+ All  Dinosaur ,  Zombie , and  Rock  monsters on the field gain 300  ATK / DEF .
+ 
+ At the start of the Duel, place this card in your Field Zone and flip it over.
+ 
+ Bonz 
+ 
+ 
+ Call of the Haunted
+ 
+ Activate this card by targeting 1 monster in your GY; Special Summon that target in Attack Position. When this card leaves the field, destroy that monster. When that monster is destroyed, destroy this card.
+ 
+ At the start of the Duel, place this card in your center Spell & Trap Zone. You cannot activate this Skill during your first turn of the Duel. You draw 1 less card at the beginning of the Duel.
+ 
+ Bonz
+ 
+ 
+ The World’s Greatest Fisherman
+ 
+ Once per turn, you can pay 500  LP  and  discard  1  WATER  monster then add 1 WATER monster from your  GY  to your  hand , with a different name and with a  Level  no more than twice the discarded monster’s Level. If you do that, flip this card over.
+ 
+ Flip this card over when you activate this Skill.
+ 
+ Mako Tsunami 
+ 
+ 
+ Mystic Depths
+ 
+ All  Fish ,  Sea Serpent ,  Thunder  and  Aqua  monsters on the field gain 200  ATK / DEF . All  Machine  and  Pyro  monsters on the field lose 200 ATK/DEF. This card’s name becomes “ Umi ” while on the field.
+ 
+ At the start of the Duel, place this card in your  Field Zone  and flip it over.
+ 
+ Mako Tsunami
+ 
+ 
+ Catch of the Day
+ 
+ If you control “ The Legendary Fisherman ”, you can activate “ Umi ” directly from your  Deck  or  GY . This Skill can only be used once per Duel.   Once per turn, when “The Legendary Fisherman” control  destroys  a monster by battle or inflicts  battle damage  to your opponent, you can  Special Summon  1  Level  4 or lower  WATER  monster from your Deck or GY in  Defense Position .
+ 
+ Flip this card over when you activate this Skill.
+ 
+ Mako Tsunami
+ 
+ 
+ It's My Lucky Day!
+ 
+ When you  activate  an effect that would make you roll a six-sided  die (or dice)  or flip a  coin(s) , you can pay 1000  LP  to decide the result of a die or coin. This Skill can only be used once per Duel.
+ 
+ Flip this card over when you activate this Skill.
+ 
+ Joey Wheeler
+ 
+ 
+ Virus Infection
+ 
+ Once per turn,  discard  any number of cards and declare 1 type of card ( Monster ,  Spell  or  Trap ). Your opponent sends 1 card of the declared type from their  Deck  to the  GY  for each discarded card. If you do that, flip this card over.
+ 
+ Flip this card over when you activate this Skill.
+ 
+ Seto Kaiba
+ 
+ 
+ 
+ Yu-Gi-Oh! VRAINS 
+ In  Yu-Gi-Oh! VRAINS , Skills are special effects that each player can activate at any time and during either player's  turn . [1]  Skills appear to be procedurally-generated that generally are designed to fit a Duelist's deck and/or Dueling style. They may possess a number of effects, like improving a  draw , increasing one's  LP  or enhancing a  monster's   ATK . [2] 
+ Regardless how many Skills a duelist may have obtained, they can only perform a Skill once per duel. As seen with  Playmaker  and  Varis , multiple Duelists can share a given Skill. While normally this ability is reserved for Speed Duels,  an advanced enough hacking can be used to perform a Skill during a  Master Duel , even multiple Skills in the same duel, as shown from  Bohman .
+ 
+ List of Skills 
+ 
+ 
+ Skill
+ 
+ User
+ 
+ Ability
+ 
+ Picture
+ 
+ 
+ Double Draw (ダブルドロー,  Daburu Dorō )
+ 
+ Unnamed  Knight of Hanoi 
+ 
+ The user  draws  2 cards for their  normal draw  during their  Draw Phase . [2] 
+ 
+ 
+ 
+ 
+ Storm Access (ストームアクセス,  Sutōmu Akusesu )
+ 
+ Playmaker , Varis , Bohman , Windy 
+ 
+ If the user has 1000 or less  LP , the user randomly obtains a  Link Monster  from a nearby  Data Storm  and adds it to their  Extra Deck . [2] [3]  The more intense the Data Storm, the stronger the obtained Link Monster will be. [4]  The user is given a monster appropriate for them. [5]  The obtained card can then be materialized in the real world with the proper equipment. [6] 
+ 
+ 
+ 
+ 
+ Pain and Gain (闘魂,  Tōkon  [Fighting Spirit])
+ 
+ The Gore  (" Gouki " Deck)
+ 
+ The user  Special Summons  all " Gouki "  monsters  that were  destroyed by battle  this  turn . [1] 
+ 
+ 
+ 
+ 
+ Trickstar Trick (トリックスターフロード,  Torikkusutā Furōdo  [Trickstar Fraud])
+ 
+ Blue Angel 
+ 
+ During the opponent's turn, the user  discards  a " Trickstar " card to make the opponent draw until they have 3 cards in their hand. [7]  During the  End Phase , the opponent must  banish  a card from their hand for each "Trickstar" monster in the user's  GY . [8] 
+ 
+ 
+ 
+ 
+ Secret Cure (シークレットキュア,  Shīkuretto Kyua )
+ 
+ Ghost Gal 
+ 
+ The user  excavates  cards from their  Deck  until a Monster Card is  revealed . That monster is  added  to the  hand , all non-Monster Cards are sent to the GY, and both players gain LP equal to that monster's  ATK . [9] 
+ 
+ 
+ 
+ 
+ Minus Mitosis (種の保存,  Shu no Hozon  [Preserve Species])
+ 
+ Dr. Genome 
+ 
+ When a Link Monster is Special Summoned from the GY, the opponent's LP and one of their monsters'  ATK  are halved. [10] 
+ 
+ 
+ 
+ 
+ Malevolent Malpractice (フォビドゥン・サージカル・オペレーション,  Fobidun Sājikaru Operēshon  [Forbidden Surgical Operation])
+ 
+ Baira 
+ 
+ The user banishes 2  Level  2 or lower monsters that with the same name from their GY to Special Summon 2 monsters with same name, whose Levels are equal to the banished monsters', from their Deck. [11] 
+ 
+ 
+ 
+ 
+ Double Bite (ダブルバイト,  Daburu Baito )
+ 
+ Faust 
+ 
+ An  Insect  monster the user controls can attack twice during the same  Battle Phase . [12] 
+ 
+ 
+ 
+ 
+ Triple Draw (トリプルドロー,  Toripuru Dorō )
+ 
+ AI Duelist
+ 
+ Unknown [13] 
+ 
+ N/A
+ 
+ 
+ Marker's Portal (マーカーズ・ポータル,  Mākāzu Pōtaru )
+ 
+ Bohman Bit Boot Harlin 
+ 
+ If the user has less LP than their original amount, the user selects 1  Link Spell Card  from their Deck and activates it. The card activated by this effect cannot be negated or destroyed by the opponent's  card effects . [14] 
+ 
+ 
+ 
+ 
+ Burning Draw (バーニング・ドロー,  Bāningu Dorō )
+ 
+ Soulburner 
+ 
+ By lowering their own LP to 100, the user can draw 1 card for each multiple of 1000 LP they gave up. [15] 
+ 
+ 
+ 
+ 
+ Dinowrestle Revolution (ダイナレスル・レボリューション,  Dainaresuru Reboryūshon )
+ 
+ The Gore  (" Dinowrestler " Deck)
+ 
+ Allows the user to directly activate " World Dino Wrestling " from their Deck. [16] 
+ 
+ 
+ 
+ 
+ Drone Force (ドローンクラフト・フォース,  Dorōn Kurafuto Fsu  [Drone Craft Force])
+ 
+ The Shepherd 
+ 
+ One opponent's monster loses 200 ATK for every " Drone " card in the user's GY, until the end of the turn, and 1 monster you control gain ATK equal to the same amount [17] 
+ 
+ 
+ 
+ 
+ Trickstar Gig (トリックスター・ギグ,  Torikkusutā Gigu )
+ 
+ Blue Gal 
+ 
+ User sends card(s) from the top of their Deck to the GY equal to the number of "Trickstar" monster they have on their field. Then add one "Trickstar" card from the card(s) sent to the GY by the Skill's effect to the hand. [18] 
+ 
+ 
+ 
+ 
+ Neo Storm Access (ネオストームアクセス,  Neo Sutōmu Akusesu )
+ 
+ Playmaker 
+ 
+ If the user has 1000 or less LP, the user randomly obtains a  Cyberse  monster from a nearby Data Storm and adds it to their Extra Deck. [19]  Then, if the user has 100 or less LP and did not obtain a Monster Card earlier, they can add a random Cyberse monster to their Extra Deck and draw 1 card from their Deck. [20] 
+ 
+ 
+ 
+ 
+ Stalactite Spear (ロック・ユー,  Rokku Yū  [Rock You])
+ 
+ Earth 
+ 
+ When the user's  EARTH  monster destroys an opponent's monster in battle, the opponent takes damage equal to the destroyed monster's Level x 100. [21] 
+ 
+ 
+ 
+ 
+ Anti Skill (アンチ・スキル,  Anchi Sukiru )
+ 
+ The Gore 
+ 
+ The user negates the Skill of the opponent once during a duel, and then draws two cards from their Deck. [22] 
+ 
+ 
+ 
+ 
+ Shape of Sea (シェイプ・オブ・シー,  Sheipu Obu Shī )
+ 
+ Blue Maiden 
+ 
+ When the user takes battle damage, they can Special Summon a  WATER  monster from their GY with equal or less ATK than the damage.
+ 
+ 
+ 
+ 
+ Master Storm Access (マスターストームアクセス,  Masutā Sutōmu Akusesu )
+ 
+ Bohman 
+ 
+ Once per turn, the user randomly adds a  Cyberse  monster from a Data Storm into their Extra Deck. [23] 
+ 
+ 
+ 
+ 
+ Power Possession (ハニートラップ,  Hanītorappu  [Honey Trap])
+ 
+ Queen 
+ 
+ When the user takes battle damage from a direct attack, they get LP equal to the damage they took, and then set one Trap Card from outside of their Deck. They can activate the Trap Card the turn it was Set. [24] 
+ 
+ 
+ 
+ Yu-Gi-Oh! Duel Links 
+ In  Yu-Gi-Oh! Duel Links , each character can assign one Skill to each of their Decks. Non-player characters normally do not use Skills, but they occasionally do during  special events .
+ Each character can unlock 3 Skills by leveling up. Characters can also obtain Skills as drops when defeating  Legendary Duelists . One Skill,  Joey Wheeler 's Fields of the Warriors, is obtained from  Mission Bingo .
+ Skills that a character has already obtained from a previous drop can still be dropped, but they are automatically converted into 15 Gems instead (they do not get a different skill).
+ Along with the game's  Forbidden  and  Limited  lists, Skill effects are subject to change to maintain balance.
+ The  Duel Links Legend Deck Guide  listed certain Skills as suggestions for casual play using the Legend Decks in the guide.
+ 
+ List of Skills 
+ This is a list of Skills that players can obtain for their characters (skills that are exclusive to non-player opponents are not listed).
+ 
+ 
+ 
+ Skill
+ 
+ Description
+ 
+ User(s)
+ 
+ 
+ A Card Entrusted
+ 
+ At the beginning of the Duel, add 1 "Fiend's Sanctuary" to your Deck.
+ 
+ Yami Yugi  (Event)
+ 
+ 
+ A Trick up the Sleeve
+ 
+ Your starting hand will include 1 Level 7 or higher DARK Spellcaster-Type monster, randomly selected from your Deck. This Skill will not activate if your Deck does not include any Level 7 DARK Spellcaster-Type monsters.   You cannot Special Summon effect monsters during your first turn.
+ 
+ Arkana  (Level 20)
+ 
+ 
+ Access Denied
+ 
+ Can be used if your Life Points are at 1000 or below.   Until the end of the opponent's next turn, neither you nor the opponent can Normal Summon or Special Summon Effect Monsters, or activate Effect Monster effects.   This Skill can only be used once per Duel.
+ 
+ Yugi Muto  (Drop)
+ 
+ 
+ Allured by Darkness
+ 
+ Can be used each time your Life Points decrease by 1800.   Instead of conducting your normal draw, "Allure of Darkness" is added to your hand from outside of your Deck.
+ 
+ Yubel  (Level 13)
+ 
+ 
+ Arcana Swap
+ 
+ At the beginning of the Duel, shuffle any number of "Arcana Force" monsters from your hand into the Deck.   Then, draw that same number of cards.
+ 
+ Sartorius Kumar  (Drop)
+ 
+ 
+ Aroma Strategy
+ 
+ You can look at the card at the very top of your Deck at any time.
+ 
+ Mai Valentine  (Level 4)
+ 
+ 
+ ATK Booster: Level 2
+ 
+ Increase the ATK of all level 2 or lower monsters on your side of the field by 200.
+ 
+ Yusei Fudo  (Drop)
+ 
+ 
+ ATK Booster: Synchro Warriors
+ 
+ Until the end of the turn, "Warrior" Synchro Monsters on your side of the field will gain 100 ATK times their level.   This Skill can only be used once per turn.
+ 
+ Yusei Fudo  (Level 20)
+ 
+ 
+ Baggy Sleeves
+ 
+ If one of your monsters of Level 5 or higher is destroyed in battle, in your next Draw Phase a normal draw gives you 2 cards.
+ 
+ Bandit Keith  (Drop)
+ 
+ 
+ Balance
+ 
+ Your starting hand will reflect the card balance of your Deck. This Skill will not activate unless you have at least 6 of each type of card (Monster, Spell, and Trap) in your Deck. You cannot Special Summon or activate monster effects until the end of the Main Phase of your first turn. [Notes 1] 
+ 
+ Yami Yugi  (Drop) Mako Tsunami  (Level 20) Maximillion Pegasus  (Drop) Paradox Brothers  (Drop) Aster Phoenix  (Drop) Alexis Rhodes  (Drop) Mai Valentine  (Drop) Akiza Izinski  (Drop) Seto Kaiba  (Drop) Yami Marik  (Drop) Yami Bakura  (Drop) Bandit Keith  (Drop) Ishizu Ishtar  (Drop) Espa Roba  (Drop) Zane Truesdale  (Drop) Dr. Vellian Crowler  (Drop) Sartorius Kumar  (Drop)
+ 
+ 
+ Bandit
+ 
+ Can be used if your Life Points are at 1500 or below. Select and take control of 1 card Set in your opponent's Spell & Trap Zone. This Skill can only be used once per Duel.
+ 
+ Bandit Keith  (Drop)
+ 
+ 
+ Beatdown
+ 
+ This turn, the ATK of each Level 5 or higher monster on your field increases by the number of monsters of Level 5 or higher on your field times 300. This Skill can only be used once per turn.
+ 
+ Seto Kaiba  (Level 13) Dr. Vellian Crowler  (Level 13)    Jack Atlas  (Level 20)    Officer Tetsu Trudge  (Drop)
+ 
+ 
+ Blackwing Rising
+ 
+ Until the end of the turn, 1 "Black-Winged Dragon" or "Blackwing" Synchro Monster on your side of the field will gain 200 ATK times the number of "Blackwing" monsters on your side of the field.   This Skill can only be used once per turn.
+ 
+ Crow Hogan  (Drop)
+ 
+ 
+ Blessing of the Cyber Angel
+ 
+ Can be used if your Life Points are at 2000 or below. Instead of doing a normal draw, a "Cyber Angel" monster is added to your hand from outside of your Deck. This Skill can only be used once per Duel.
+ 
+ Alexis Rhodes  (Level 4)
+ 
+ 
+ Bluff Trap
+ 
+ Can be used each time your Life Points decrease by 1200. Statue of the Wicked is set in your Spell & Trap Zone.
+ 
+ Odion  (Drop)
+ 
+ 
+ Bring it!
+ 
+ Can be used each time your Life Points decrease by 1800. Instead of doing a normal draw, a Level 8 DARK Warrior-Type monster is added to your hand from your Deck.
+ 
+ Aster Phoenix  (Drop)
+ 
+ 
+ Buzz On
+ 
+ Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Insect-Type monster.
+ 
+ Weevil Underwood  (Drop)
+ 
+ 
+ Card Shuffle
+ 
+ Can be used by paying 300 Life Points. Shuffle your Deck. This Skill can only be used once per turn.
+ 
+ Arkana  (Level 4)
+ 
+ 
+ Chain Reaction
+ 
+ Inflict 200 points of damage to your opponent's Life every time you activate a Trap Card.
+ 
+ Odion  (Level 4)
+ 
+ 
+ Cheater's Coin
+ 
+ If your Life Points are at least 1000 more than your opponent's, and if you have at least 5 cards in your hand, your coin tosses always land on heads.
+ 
+ Bandit Keith  (Drop)
+ 
+ 
+ Check Out My Fusion!
+ 
+ Can be used each time your Life Points decreases by 1500. Instead of conducting your normal draw, "Vehicroid Connection Zone" is added to your hand from outside of your Deck.
+ 
+ Syrus Truesdale  (Level 20)
+ 
+ 
+ Check Out My Ride!
+ 
+ Can be used each time your Life Points decreases by 1000. During your Draw Phase, instead of conducting your normal draw, draw a "roid" monster of your choice.
+ 
+ Yami Bakura  (Level 4)    Yubel  (Level 20)
+ 
+ 
+ Compensation
+ 
+ Can be used each time your Life Points decreases by 1000. Send the card on the top of your Deck to the Graveyard, and recover 300 LP.
+ 
+ Yami Bakura  (Level 4)
+ 
+ 
+ Cosmic Enlightenment
+ 
+ Can be used each time your Life Points decreases by 1000. During your Draw Phase, instead of conducting your normal draw, draw a random Psychic-Type or "Jinzo" monster.
+ 
+ Espa Roba  (Drop)
+ 
+ 
+ Courage and Strength
+ 
+ At the beginning of the Duel, add 2 "Morphtronic Remoten" to your Deck. Then, add 1 "Power Tool Dragon" to your Extra Deck.
+ 
+ Leo  (Level 4)
+ 
+ 
+ Creator
+ 
+ Can be used if your Life Points drop below 2000. In the Draw Phase, instead of doing a normal draw, a powerful card, from outside of your Deck, is added to your hand. This Skill can only be used once per Duel. [Notes 2] 
+ 
+ Maximillion Pegasus  (Drop)
+ 
+ 
+ Crystal Power
+ 
+ This turn, the ATK of all face-up monsters on your side of the field increases by the number of Continuous Spell Cards on your side of the field times 200.   This Skill can only be used once per turn.
+ 
+ Jesse Anderson  (Drop)
+ 
+ 
+ DARK as Night
+ 
+ Can be used after your Life Points are at 2000 or below. Play the Field Spell "Mystic Plasma Zone." If there already is Field Spell on your side of the Field, return it to your hand. This Skill can only be used once per Duel.
+ 
+ Bastion Misawa  (Drop)
+ 
+ 
+ Destiny Board
+ 
+ Can be used if Dark Necrofear is in your Graveyard, and your LP are at 2000 or below. At the end of your 5th turn after activating this Skill, you win the Duel. This Skill is negated if "Dark Necrofear" leaves your Graveyard. This Skill can only be used once per Duel.
+ 
+ Yami Bakura  (Drop)
+ 
+ 
+ Destiny Calling
+ 
+ Can be used after your Life Points are at 2000 or below. Play the Field Spell "Dark City." If there already is Field Spell on your side of the Field, return it to your hand. This Skill can only be used once per Duel.
+ 
+ Aster Phoenix  (Level 4)
+ 
+ 
+ Destiny Draw
+ 
+ Can be used each time your Life Points decrease by 2000. In the Draw Phase, instead of doing a normal draw, draw the card of your choice.
+ 
+ Yami Yugi  (Drop)
+ 
+ 
+ Dino Destruction
+ 
+ Can be used if a Level 6 Dinosaur-Type monster is on your field. If that monster attacks a monster in Defense Position this turn, the opponent takes battle damage equal to the amount that ATK exceeds DEF. This Skill can only be used once per turn.
+ 
+ Rex Raptor  (Level 20)
+ 
+ 
+ Dino DNA!
+ 
+ At the beginning of each of your turns, recover 200 Life Points.
+ 
+ Tyranno Hassleberry  (Level 4)
+ 
+ 
+ Dino Rampage
+ 
+ Can be used each time your Life Points decrease by 1800, and you have a Dinosaur-Type normal monster on your field. That monster can attack twice during the Battle Phase, this turn. This Skill can only be used once per turn.
+ 
+ Rex Raptor  (Drop)
+ 
+ 
+ Dinos Find a Way
+ 
+ Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Dinosaur-Type monster.
+ 
+ Rex Raptor  (Drop)
+ 
+ 
+ Dinosaur Kingdom
+ 
+ Begin Duel with the Field Spell " Jurassic World " activated.
+ 
+ Rex Raptor  (Level 4)
+ 
+ 
+ Draw Pass
+ 
+ In the Draw Phase, instead of doing a normal draw, recover 300 Life Points. This Skill can only be used three times per Duel.
+ 
+ Mai Valentine  (Drop) Ishizu Ishtar  (Level 4) Aster Phoenix  (Drop) Chazz Princeton  (Drop)
+ 
+ 
+ Draw Sense: DARK
+ 
+ Can be used each time your Life Points decrease by 1500. In the Draw Phase, instead of doing a normal draw, draw a random DARK-attribute monster.
+ 
+ Yami Marik  (Level 13) Yami Bakura  (Level 13) Jaden Yuki  (Drop) Aster Phoenix  (Drop) Dr. Vellian Crowler  (Drop) Bastion Misawa  (Drop)
+ 
+ 
+ Draw Sense: EARTH
+ 
+ Can be used each time your Life Points decrease by 1500. In the Draw Phase, instead of doing a normal draw, draw a random EARTH-attribute monster.
+ 
+ Aster Phoenix  (Drop) Chazz Princeton  (Drop) Alexis Rhodes  (Drop) Dr. Vellian Crowler  (Level 13) Bastion Misawa  (Drop)
+ 
+ 
+ Draw Sense: FIRE
+ 
+ Can be used each time your Life Points decrease by 1500. In the Draw Phase, instead of doing a normal draw, draw a random FIRE-attribute monster.
+ 
+ Yami Yugi  (Drop) Joey Wheeler  (Drop) Mokuba Kaiba  (Drop) Jaden Yuki  (Drop) Aster Phoenix  (Drop) Chazz Princeton  (Drop) Alexis Rhodes  (Drop) Bastion Misawa  (Drop)
+ 
+ 
+ Draw Sense: High Level
+ 
+ Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random monster of Level 5 or higher.
+ 
+ Seto Kaiba  (Level 20) Yugi Muto  (Drop) Rex Raptor  (Level 13) Paradox Brothers  (Drop) Chazz Princeton  (Drop) Dr. Vellian Crowler  (Drop)
+ 
+ 
+ Draw Sense: LIGHT
+ 
+ Can be used each time your Life Points decrease by 1500. In the Draw Phase, instead of doing a normal draw, draw a random LIGHT-attribute monster.
+ 
+ Seto Kaiba  (Drop)   Yugi Muto  (Drop) Maximillion Pegasus  (Drop) Mokuba Kaiba  (Level 20) Paradox Brothers  (Drop) Jaden Yuki  (Drop) Aster Phoenix  (Drop) Chazz Princeton  (Drop) Dr. Vellian Crowler  (Drop) Bastion Misawa  (Drop)
+ 
+ 
+ Draw Sense: Low Level
+ 
+ Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random monster of Level 4 or lower.
+ 
+ Weevil Underwood  (Level 13) Chazz Princeton  (Level 13)
+ 
+ 
+ Draw Sense: Spell/Trap [Notes 3] 
+ 
+ Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Spell/Trap card.
+ 
+ Yami Yugi  (Level 13) Odion  (Level 13) Paradox Brothers  (Drop) Chazz Princeton  (Drop) Alexis Rhodes  (Drop) Dr. Vellian Crowler  (Drop)
+ 
+ 
+ Draw Sense: WATER
+ 
+ Can be used each time your Life Points decrease by 1500. In the Draw Phase, instead of doing a normal draw, draw a random WATER-attribute monster.
+ 
+ Mako Tsunami  (Level 13) Mokuba Kaiba  (Drop) Aster Phoenix  (Drop) Chazz Princeton  (Drop) Alexis Rhodes  (Drop) Bastion Misawa  (Drop)
+ 
+ 
+ Draw Sense: WIND
+ 
+ Can be used each time your Life Points decrease by 1500. In the Draw Phase, instead of doing a normal draw, draw a random WIND-attribute monster.
+ 
+ Mai Valentine  (Level 20) Paradox Brothers  (Drop) Jaden Yuki  (Drop) Alexis Rhodes  (Drop) Bastion Misawa  (Drop)
+ 
+ 
+ Duel, standby!
+ 
+ Each player's starting hand increases by 1 card. You cannot activate card effects on your first turn.
+ 
+ Téa Gardner  (Drop)
+ 
+ 
+ Elements Unite!
+ 
+ You will start the Duel with 500 Life Points and your starting hand will be 1 card, which is "Gate Guardian." In addition, you will start the Duel with "Sanga of the Thunder," "Kazejin," and "Suijin" on the side of your field. Their effects are negated and they cannot attack as long as they are face-up on the field.
+ 
+ Paradox Brothers  (Level 4)
+ 
+ 
+ Endless Trap Hell
+ 
+ Can be used when you have 3 Trap Cards in your Graveyard. 1 random Trap Card in your Graveyard is added to your hand. Then, shuffle 1 random Trap Card in your Graveyard is shuffled into your Deck.  [ sic ] This Skill can only be used once per Duel. [Notes 4] 
+ 
+ Odion  (Level 20)
+ 
+ 
+ Extra, Extra
+ 
+ Can be used if your Life Points decrease by 2000. In the Draw Phase, a card you draw is duplicated.
+ 
+ Maximillion Pegasus  (Drop)
+ 
+ 
+ Fairy's Smile
+ 
+ If you normal draw a Fairy-Type monster card during the Draw Phase, the card is shown to the opponent and you recover 1000 Life Points. [Notes 5] 
+ 
+ Ishizu Ishtar  (Level 13)
+ 
+ 
+ Fields of the Warriors
+ 
+ Begin Duel with the Field Spell " Sogen " activated.
+ 
+ Joey Wheeler  ( Mission Bingo )
+ 
+ 
+ Fiend Farewell
+ 
+ Can be used when one of your monsters is destroyed by battle. 1 random Fiend-Type monster from your Deck is sent to the graveyard.
+ 
+ Yami Bakura  (Drop)
+ 
+ 
+ Firm as the EARTH
+ 
+ Can be used after your Life Points are at 2000 or below. Play the Field Spell "Gaia Power." If there already is Field Spell on your side of the Field, return it to your hand. This Skill can only be used once per Duel.
+ 
+ Bastion Misawa  (Drop)
+ 
+ 
+ Flight of the Harpies
+ 
+ Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random " Harpie " card.
+ 
+ Mai Valentine  (Drop)
+ 
+ 
+ Fusion Time
+ 
+ Can be used each time your Life Points decrease by 1500. Instead of doing a normal draw, "Polymerization" is added to your hand from outside of your Deck.
+ 
+ Jaden Yuki  (Level 13)
+ 
+ 
+ Grandpa's Cards
+ 
+ Begin Duel with 5  Exodia  pieces in your Deck.
+ 
+ Yugi Muto  (Level 4)
+ 
+ 
+ Gravekeeper's Lot
+ 
+ Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random " Gravekeeper's " card.
+ 
+ Ishizu Ishtar  (Drop)
+ 
+ 
+ Grit
+ 
+ Skill activation is determined by probability at the start of each of your opponent's turns. Until the end of your opponent's next turn, your Life Points will not fall below 1.
+ 
+ Joey Wheeler  (Level 13) Jaden Yuki  (Drop)
+ 
+ 
+ Guardian Call
+ 
+ Can be used when your Life Points decrease by 1800. Randomly add 1 " Guardian " card from your Deck to your hand. This Skill can only be used once per Duel.
+ 
+ Paradox Brothers  (Drop)
+ 
+ 
+ Harpies' Hunting Ground
+ 
+ Begin the Duel with the Field Spell Card " Harpies' Hunting Ground " on the top of your deck. [Notes 6] 
+ 
+ Mai Valentine  (Drop)
+ 
+ 
+ Harpies' Last Will
+ 
+ 6 "Harpie" cards in your Graveyard are banished, and 1 " Harpie's Feather Duster " card is added to your hand from outside your Deck.
+ 
+ Mai Valentine  (Drop)
+ 
+ 
+ Heavy Starter
+ 
+ If you have 3 or more Level 5 or higher monsters with different names in your Deck, you will have an improved chance of having a Level 5 or higher monster in your starting hand.
+ 
+ Seto Kaiba  (Drop) Mokuba Kaiba  (Level 13)
+ 
+ 
+ Holy Guard
+ 
+ You take no battle damage during your turn.
+ 
+ Téa Gardner  (Level 4)
+ 
+ 
+ Insect Uprising
+ 
+ Can be used if there are 3 or more Insect-Type monsters on your field. Lowers ATK of all face-up monsters on the opponent's field by 800 points. This Skill can only be used once per turn.
+ 
+ Weevil Underwood  (Level 4)
+ 
+ 
+ It's a Toon World
+ 
+ Begin Duel with the Continuous Spell Toon World activated.
+ 
+ Maximillion Pegasus  (Drop)
+ 
+ 
+ Labyrinth Builder
+ 
+ Shuffle 2 cards from your hand into the Deck to create "Labyrinth Wall" on your side of the field. This Skill can only be used once per Duel.
+ 
+ Paradox Brothers  (Drop)
+ 
+ 
+ Land of the Ojamas
+ 
+ Begin Duel with the Field Spell "Ojama Country" activated.
+ 
+ Chazz Princeton  (Level 4)
+ 
+ 
+ Last Gamble
+ 
+ Can be used in your Main Phase, starting from the fifth turn. Upon activation, reduces your LP to 100 and discards 2 cards from your hand. You roll a die and draw that number of cards. This Skill can only be used once per Duel.
+ 
+ Joey Wheeler  (Drop)
+ 
+ 
+ Life Cost 0
+ 
+ Can be used if your Life Points are at 1000 or below. Until the end of the opponent's next turn, you do not have to pay Life Points to activate a card. This Skill can only be used once per Duel.
+ 
+ Téa Gardner  (Level 20)
+ 
+ 
+ Light and Dark
+ 
+ Choose 1 of the following: -Return 1 DARK monster from your hand to your Deck.  Then, add from your Deck to your hand, 1 LIGHT monster with the same Level and Type as the monster you returned. -Return 1 LIGHT monster from your hand to your Deck.  Then, add from your Deck to your hand, 1 DARK monster with the same Level and Type as the monster you returned. This Skill can only be used once per turn, and twice per Duel.
+ 
+ Lumis and Umbra 
+ 
+ 
+ Light Barrier
+ 
+ At the beginning of your first Turn, "Light Barrier" is set on your Field Zone.
+ 
+ Sartorius Kumar  (Level 20)
+ 
+ 
+ LP Boost α
+ 
+ Increases starting Life Points by 1000.
+ 
+ Yami Yugi  (Drop) Joey Wheeler  (Level 4) Mai Valentine  (Drop) Téa Gardner  (Drop) Yugi Muto  (Drop) Weevil Underwood  (Drop) Rex Raptor  (Drop) Maximillion Pegasus  (Level 4) Paradox Brothers  (Drop) Jaden Yuki  (Drop) Chazz Princeton  (Drop) Dr. Vellian Crowler  (Drop) Bastion Misawa  (Drop)
+ 
+ 
+ LP Boost β
+ 
+ Increases starting Life Points by 1500, reduces hand by 1 card.
+ 
+ Mai Valentine  (Level 13) Bonz  (Level 13) Jaden Yuki  (Drop) Aster Phoenix  (Drop) Chazz Princeton  (Drop) Alexis Rhodes  (Drop) Dr. Vellian Crowler  (Drop)
+ 
+ 
+ LP Boost γ
+ 
+ Increases starting Life Points by 2500, reduces hand by 2 cards.
+ 
+ Joey Wheeler  (Drop) Téa Gardner  (Level 13) Yami Marik  (Level 4) Ishizu Ishtar  (Drop) Aster Phoenix  (Drop) Alexis Rhodes  (Drop) Dr. Vellian Crowler  (Drop)
+ 
+ 
+ Luck on Your Side
+ 
+ If your Life Points drop below 1000, your coin tosses always land on heads.
+ 
+ Joey Wheeler  (Drop)
+ 
+ 
+ Master of Destiny
+ 
+ When you toss a coin, the result will always be heads for the first 3 coin tosses.  This Skill will only activate if you begin the Duel with a Deck that has 5 or more cards with different names that require coin tosses.
+ 
+ Sartorius Kumar  (Drop)
+ 
+ 
+ Master of Fusion
+ 
+ Can be used each time your Life Points decrease by 1800. Instead of doing a normal draw, "Polymerization" is added to your hand from outside of your Deck.
+ 
+ Aster Phoenix  (Level 13) Alexis Rhodes  (Level 13)
+ 
+ 
+ Master of Magicians
+ 
+ Can be used after your Life Points decrease by 2000. Randomly add 1 "Thousand Knives," "Dark Magic Attack," or "Dark Magic Expanded" to your hand. This Skill can only be used once per Duel.
+ 
+ Arkana  (Level 13)
+ 
+ 
+ Master of Rites
+ 
+ Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Ritual-Monster or Ritual-Spell card.
+ 
+ Maximillion Pegasus  (Level 20) Alexis Rhodes  (Drop)
+ 
+ 
+ Master of Rites II
+ 
+ Begin Duel with the Continuous Spell "Ritual Cage" activated.
+ 
+ Alexis Rhodes  (Level 20)
+ 
+ 
+ Menace from the Deep
+ 
+ Can be used if "Umi" is on the field, and you have a Water-attribute normal monster on your field. That monster can attack your opponent directly. this turn. At the end of the Battle Phase, that monster is sent to the Graveyard. This Skill can only be used once per turn.
+ 
+ Mako Tsunami  (Drop)
+ 
+ 
+ Middle Age Mechs
+ 
+ Begin Duel with the Continuous Spell "Ancient Gear Castle" activated.
+ 
+ Dr. Vellian Crowler  (Level 4)
+ 
+ 
+ Mighty as FIRE
+ 
+ Can be used after your Life Points are at 2000 or below. Play the Field Spell "Molten Destruction." If there already is Field Spell on your side of the Field, return it to your hand. This Skill can only be used once per Duel.
+ 
+ Bastion Misawa  (Level 20)
+ 
+ 
+ Mind Scan
+ 
+ If your Life Points are 3000 or more, you can see the cards Set in your opponent's field.
+ 
+ Maximillion Pegasus  (Level 13)
+ 
+ 
+ Miracle Fusion Time!
+ 
+ Can be used if your Life Points are at 500 or below. Instead of doing a normal draw, " Miracle Fusion " is added to your hand from outside of your Deck. This Skill can only be used once per Duel.
+ 
+ Jaden Yuki  (Drop)
+ 
+ 
+ Monstermorph: Evolution
+ 
+ Can be used each time your Life Point decrease by 1500. Send a monster (except a Token) on your side of the field to the Graveyard. Then randomly play a monster that is same Attribute and Type as the monster you sent to the Graveyard, but is 1 Level higher from your Deck (the monster must be able to be Normal Summoned.) This Skill can only be used once per turn.
+ 
+ Mokuba Kaiba  (Level 4)
+ 
+ 
+ Moth to the Flame
+ 
+ Turn counts are double-speed for any  Petit Moth  with  Cocoon of Evolution  equipped on your side of the field.
+ 
+ Weevil Underwood  (Drop)
+ 
+ 
+ My Monster Cards
+ 
+ If your Deck has 6 or more Level 4 or lower monsters with different names, you will have better choices of having a Level 4 or lower monster in your starting hand.
+ 
+ Yugi Muto  (Drop)
+ 
+ 
+ Mythic Depths
+ 
+ Begin Duel with the Field Spell "Umi" activated.
+ 
+ Mako Tsunami  (Level 4)
+ 
+ 
+ New Ultra Evolution
+ 
+ Can be used each time your Life Points decrease by 1500. Send 1 Winged Beast-Type monster you control (excluding Tokens) to the Graveyard, and Special Summon 1 Dinosaur-Type monster from your hand (the monster must be able to be Normal Summoned.) This Skill can only be used once per turn.
+ 
+ Tyranno Hassleberry  (Drop)
+ 
+ 
+ No Mortal Can Resist
+ 
+ Can be used when your Life points are at least 1000 less than the opponent's. All monsters in the opponent's Graveyard changes to Skull Servant. This Skill can only be used once per turn.
+ 
+ Ishizu Ishtar  (Drop)
+ 
+ 
+ Ojama Go!
+ 
+ Can be used each time your Life Points decrease by 1800. Special Summon "Ojama Token" on your opponent's side of the field in Defense Position.
+ 
+ Chazz Princeton  (Level 20)
+ 
+ 
+ Ojama Overflow
+ 
+ Can be used if your Life Points are at 500 or below. Special Summon as many "Ojama Token" as possible in the Defense Position on your opponent's side of the Field. This Skill can only be used once per Duel.
+ 
+ Chazz Princeton  (Drop)
+ 
+ 
+ Parasite Infestation
+ 
+ After starting hands are dealt, 1 or 2 " Parasite Paracide " cards are added to your opponent's deck, face-up. [Notes 7] 
+ 
+ Weevil Underwood  (Level 20)
+ 
+ 
+ Peak Performance
+ 
+ Begin Duel with the Field Spell " Mountain " activated.
+ 
+ Seto Kaiba  (Level 4)
+ 
+ 
+ Posthumous Army
+ 
+ Can be used each time your Life Points decrease by 2000. All monsters on the field, as well as in both players' Graveyards become Zombie-Type monsters until the end of your opponent's turn.
+ 
+ Bonz  (Drop)
+ 
+ 
+ Power of Dark
+ 
+ Begin Duel with the Field Spell " Yami " activated.
+ 
+ Yami Yugi  (Level 4)
+ 
+ 
+ Precognition
+ 
+ You can view the top card of both players' Decks until the end of the 5th turn. [Notes 8] 
+ 
+ Ishizu Ishtar  (Level 20)
+ 
+ 
+ Quick as the WIND
+ 
+ Can be used after your Life Points are at 2000 or below. Play the Field Spell "Rising Air Current." If there already is Field Spell on your side of the Field, return it to your hand. This Skill can only be used once per Duel.
+ 
+ Bastion Misawa  (Level 13)
+ 
+ 
+ Radiating LIGHT
+ 
+ Can be used after your Life Points are at 2000 or below. Play the Field Spell "Luminous Spark." If there already is Field Spell on your side of the Field, return it to your hand. This Skill can only be used once per Duel.
+ 
+ Bastion Misawa  (Drop)
+ 
+ 
+ Reinforcements
+ 
+ Can be used each time your Life Points decrease by 1800. Return one card from your hand to your Deck and draw a random Warrior-Type monster. [Notes 9] 
+ 
+ Joey Wheeler  (Level 20) Jaden Yuki  (Level 20) Aster Phoenix  (Level 20) Alexis Rhodes  (Drop)
+ 
+ 
+ Restart
+ 
+ Can be used only once after starting hands are drawn. Reduce your starting hand by 1, and then redraw your hand. You cannot Special Summon or activate monster effects until the end of the Main Phase of your first turn.
+ 
+ Yugi Muto  (Level 20) Bandit Keith  (Level 20) Paradox Brothers  (Level 13) Bonz  (Level 20) Jaden Yuki  (Drop) Dr. Vellian Crowler  (Drop)
+ 
+ 
+ Reversal of Fate
+ 
+ Select 1 "Arcana Force" monster you control. That monster's effect is now treated as the opposite coin toss result.   This Skill can be used twice per Duel.
+ 
+ Sartorius Kumar  (Level 4)
+ 
+ 
+ Right Back at You
+ 
+ 
+ 
+ Yami Marik  (Level 20)
+ 
+ 
+ Right Side Up!
+ 
+ When you toss a coin for an "Arcana Force" monster's effect, the result will always be heads.
+ 
+ Sartorius Kumar  (Drop)
+ 
+ 
+ Roll 'n' Boost
+ 
+ Can be used each time your Life Points decrease by 2000. Show 1 monster card in your hand to the opponent and roll the die once. The Level of the monster shown becomes that of the die number until the end of the turn.
+ 
+ Joey Wheeler  (Drop)
+ 
+ 
+ Sealed Tombs
+ 
+ Until the end of the opponent's next turn, neither you nor the opponent can Special Summon monsters from the Graveyard. This Skill can only be used once per Duel.
+ 
+ Ishizu Ishtar  (Drop)
+ 
+ 
+ Shadow Game
+ 
+ At the end of their respective turn, each player will lose Life Points equal to "100" times the number of cards in their own Graveyard
+ 
+ Arkana  (Drop)
+ 
+ 
+ Show of Nightmares
+ 
+ Can be activated if you have 3 or more Spell Cards with different names in your Graveyard. Randomly add 1 Spell Card in your Graveyard to your hand. This Skill can only be used once per Duel.
+ 
+ Arkana  (Drop)
+ 
+ 
+ Silent as WATER
+ 
+ Can be used after your Life Points are at 2000 or below. Play the Field Spell "Umiiruka." If there already is Field Spell on your side of the Field, return it to your hand. This Skill can only be used once per Duel.
+ 
+ Bastion Misawa  (Level 4)
+ 
+ 
+ Sleight of Hand
+ 
+ Can be used each time your Life Points decrease by 1500. Add 1 "7 Completed" card, hidden in your wristband, to your hand. This Skill can only be used once per turn and twice per Duel.
+ 
+ Bandit Keith  (Level 13)
+ 
+ 
+ Sorcery Conduit
+ 
+ Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Spellcaster-Type monster.
+ 
+ Yami Yugi  (Level 20)
+ 
+ 
+ Spell Specialist
+ 
+ If your Deck contains 5 or more Spell Cards with different names, you will have improved chances of having a Spell Card in your starting hand.
+ 
+ Yami Yugi  (Drop)
+ 
+ 
+ Straight to the Grave
+ 
+ Begin Duel with the Field Spell "Wasteland" activated.
+ 
+ Bonz  (Level 4)
+ 
+ 
+ Surprise Present
+ 
+ Select 1 card Set in your Spell & Trap Zone, and force it on your opponent. Only the player that activates this Skill can view this card. This Skill can only be used once per Duel.
+ 
+ Téa Gardner  (Level 20)
+ 
+ 
+ Survival of the Fittest
+ 
+ Can be used each time your Life Points decrease by 1000 if you have 3 or more "Evolution Pill" cards in your Deck. During your Draw Phase, instead of conducting your normal draw, draw a random "Evolution Pill" card from your Deck. This Skill can be used twice per Duel.
+ 
+ Tyranno Hassleberry  (Drop)
+ 
+ 
+ Switcheroo
+ 
+ Can be used each time your Life Points decrease by 1000. Return 1 card in your hand to your Deck and draw another. This Skill can only be used once per turn and twice per Duel. [Notes 10] 
+ 
+ Bandit Keith  (Level 4)
+ 
+ 
+ Teacherly Discipline
+ 
+ Can be used each time your Life Points decrease by 1500. Declare a Monster, Spell or Trap Card. That type of card will be randomly selected from your opponent's Deck and placed on top of their Deck. Neither player will see what the card is. Nothing will be placed on top of your opponent's Deck if the declared card type is not in their Deck.
+ 
+ Dr. Vellian Crowler  (Drop)
+ 
+ 
+ Tether of Defeat
+ 
+ Can be used when one of the opponent's monster is destroyed in battle. The Top card from either your or the opponents deck is sent to the graveyard.
+ 
+ Yami Bakura  (Level 20)
+ 
+ 
+ The Dino Within
+ 
+ Can be used each time your Life Points decrease by 1500. Send 1 Reptile-Type you control (excluding Tokens) to the Graveyard, and Special Summon from your Deck, 1 Dinosaur-Type monster with the same Attribute as that monster in the Graveyard, but 3 Levels higher (the monster must be able to be Normal Summoned.) This Skill can only be used once per turn.
+ 
+ Tyranno Hassleberry  (Drop)
+ 
+ 
+ The Tie that Binds
+ 
+ Until the end of your turn, the ATK of all face-up monsters on your field increases by the number of monsters on your field times 100. This Skill can only be used once per turn.
+ 
+ Yugi Muto  (Level 13) Jaden Yuki  (Drop)
+ 
+ 
+ Three-Star Demotion
+ 
+ Can be used by paying 3000 Life Points. Until the End Phase, reduce the Level of all monsters in your hand by 3. This Skill can only be used once per turn. [Notes 11] 
+ 
+ Paradox Brothers  (Drop)
+ 
+ 
+ Thunder, Water, and Wind
+ 
+ Can be used when you Life Points decrease by 1800. Randomly add 1 " Sanga of the Thunder ," 1 " Kazejin ," or 1 " Suijin " to your hand (these cards are not drawn from your Deck.) This Skill can only be used once per Duel.
+ 
+ Paradox Brothers  (Level 20)
+ 
+ 
+ Titan Showdown
+ 
+ Whichever player has double or more LP than the other takes double battle damage.
+ 
+ Rex Raptor  (Drop)
+ 
+ 
+ Trap Layer
+ 
+ If you have 5 or more Trap Cards with different names in your Deck, you will have an improved chance of having Trap Cards in your starting hand.
+ 
+ Odion  (Drop)
+ 
+ 
+ Unstoppable Dino Power
+ 
+ Increase the ATK/DEF of all Dinosaur-Type monsters you control by 100.   This Skill can only be used once per turn.
+ 
+ Tyranno Hassleberry  (Level 20)
+ 
+ 
+ Where the Heroes Dwell
+ 
+ Can be used after your Life Points are at 2000 or below. Play the Field Spell "Skyscraper." If there already is Field Spell on your side of the Field, return it to your hand. This Skill can only be used once per Duel.
+ 
+ Jaden Yuki  (Level 4)
+ 
+ Duel Links Legend Deck Guide 
+ The  Duel Links Legend Deck Guide  included three different sets of three Skills:  Yami Yugi  Skills,  Seto Kaiba  Skills, and generic Skills.
+ 
+ Power of Dark (Yugi) Sorcery Conduit (Yugi) Destiny Draw (Yugi) Peak Performance (Kaiba) Beatdown (Kaiba) Heavy Starter (Kaiba) Restart (Generic) LP Boost α (Generic) Draw Sense: Spell/Trap (Generic) 
+ Notes 
+ 
+ ↑   This Skill was changed on 6 November 2017. While the description remained the same, this Skill only affects three cards out of four in the opening hand. The Skill was changed again in June 2018, needing the player to have at least 6 each of Monsters, Spells, and Traps to trigger. [25] 
+ 
+ ↑   This Skill was changed on 6 November 2017. While the description remained the same, the card added to the player's hand is now stronger than before. [25] 
+ 
+ ↑   This Skill was named "Draw Sense: Magic" in the beta release. 
+ 
+ ↑   This Skill was changed on 23 May 2017. [26]  Previously, this Skill had the following effect: Can be used each time 3 of your Trap Cards are sent to the Graveyard. 1 random Trap Card in your Graveyard is added to your deck, and your Deck is shuffled. [27] 
+ 
+ ↑   This Skill was changed on 18 July 2017. Previously, this Skill had the following effect: If you normal draw a Fairy-Type monster card during the Draw Phase, the card is shown to the opponent and you recover 500 Life Points. [28] 
+ 
+ ↑   This Skill was changed on 18 July 2017. Previously, this Skill had the following effect: Begin Duel with the Field Spell "Harpies' Hunting Ground" activated. [28] 
+ 
+ ↑   This Skill was changed on 18 July 2017. Previously, this Skill had the following effect: After starting hands are dealt, a random number of "Parasite Paracide" cards are added to the opponent's Deck, face-up. [28] 
+ 
+ ↑   This Skill was changed on 23 May 2017. [26]  Previously, this Skill had the following effect: If your opponent's Life Points are double or more than double your own, you can look at the card on top of both players' Decks at any time. [27] 
+ 
+ ↑   This Skill was changed on 23 May 2017. [26]  Previously, this Skill had the following effect: Can be used each time your Life Points decrease by 1800. In the Draw Phase, instead of doing a normal draw, draw a random Warrior-Type monster. [27] 
+ 
+ ↑   This Skill was changed on 23 May 2017. [26]  Previously, this Skill had the following effect: Return 1 card in your hand to your Deck and draw another. This Skill can only be used once per turn and twice per Duel. [27] 
+ 
+ ↑   This Skill was changed on 18 July 2017. Previously, this Skill had the following effect: Can be used by paying 2000 Life Points. Until the End Phase, reduce the Level of all monsters in your hand by 3. This Skill can only be used once per turn. [28] 
+ 
+ 
+ References 
+ 
+ ↑  1.0   1.1   Yu-Gi-Oh! VRAINS  episode 4: " Pain and Gain " 
+ 
+ ↑  2.0   2.1   2.2   Yu-Gi-Oh! VRAINS  episode 2: " Seize the Wind! " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 10: " Eye of the Storm " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 9: " Malicious Mayhem " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 73: " Weathering the Storm " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 3: " Contact " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 7: " Fallen Angel " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 26: " Diagnosis: Deletion " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 15: " Camouflaged Chaos " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 24: " To Gore Or Not To Gore " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 26: " Diagnosis: Deletion " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 28: " Bugging Out " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 24: " To Gore Or Not To Gore " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 47: " LINK VRAINS 2.0 " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 49: " Bring the Heat " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 51: " Bounty Hunting " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 54: " Game of Drones " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 56: " Blue Gal Battles! " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 73: " Weathering the Storm " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 82: " Gored " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 75: " Earthfall " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 75: " Earthfall " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 99: " Bohman’s End Game " 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 104: " Your Reign is Over " 
+ 
+ ↑  25.0   25.1   NeoArkadia (17 October 2017).  "[Duel Links] New Limitations" . The Organization .  https://ygorganization.com/duel-links-new-limitations/ . Retrieved 4 December 2017 . 
+ 
+ ↑  26.0   26.1   26.2   26.3   escaves (17 April 2017).  "Latest Skill Changes" . FanChats .  https://www.fanschats.com/fan-clubs/games/yu-gi-oh-duel-links/9905-latest-skill-changes . Retrieved 4 December 2017 . 
+ 
+ ↑  27.0   27.1   27.2   27.3   SaruwatariShun (17 April 2017).  "[Android/IOS] Yugioh Duel Links Released for Singapore" . HardwareZone Forums .  http://forums.hardwarezone.com.sg/handheld-mobile-gaming-384/%5Bandroid-ios%5D-yugioh-duel-links-released-singapore-5493298-192.html#post107492951 . Retrieved 4 December 2017 . 
+ 
+ ↑  28.0   28.1   28.2   28.3   Dan (30 June 2017).  "[Duel Links] Balancing Updates" . The Organization .  https://ygorganization.com/lmaotea . Retrieved 4 December 2017 . 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ v e 
+ Yu-Gi-Oh! VRAINS Series 
+ Anime 
+ Episodes
+ Season 1 
+ 2 
+ 3 
+ Specials 
+ Yu-Gi-Oh! LABO 
+ DVDs 
+ Arcs 
+ Pre-Tower of Hanoi 
+ Tower of Hanoi 
+ Lost Ignis 
+ Ignis War 
+ Ai's Rebellion 
+ Duel terms 
+ Fusion Material 
+ Fusion Monster 
+ Fusion Summon 
+ Link Arrow 
+ Link Material 
+ Link Monster 
+ Link Summon 
+ LINK VRAINS 
+ Master Duel 
+ Ritual Monster 
+ Ritual Summon 
+ Skill 
+ Speed Duel 
+ Special Summon 
+ Synchro Material 
+ Synchro Monster 
+ Synchro Summon 
+ Tribute Monsters 
+ Tribute Summon 
+ Xyz Material 
+ Xyz Monster 
+ Xyz Summon 
+ Items 
+ Blue Angel 
+ Technology 
+ A.I. Dueling Chip (Duel A.I. Implant Chip) 
+ Cyberse World 
+ D-Board 
+ Data Storm 
+ The Deleted (Another) 
+ Duel Disk 
+ LINK VRAINS 
+ Mirror LINK VRAINS 
+ Neuron Link 
+ Solid Vision 
+ SOLtiS 
+ Tower of Hanoi 
+ Groups 
+ Celebrity Duelist (Charisma Duelist) 
+ Ignis 
+ Knights of Hanoi 
+ Lightning's faction 
+ Playmaker's faction 
+ SOL Technologies 
+ Abilities 
+ Brain Hack 
+ Link Sense 
+ Events 
+ Battle for the Cyberse 
+ Hanoi Project 
+ 
+ Chracters 
+ Locations 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/17/Yugi_Power_of_Dark.png/revision/latest/scale-to-width-down/128?cb=20170604165307', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/21/Yugi_Sorcery_Invitation.png/revision/latest/scale-to-width-down/124?cb=20170604165312', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d4/Yugi_Destiny_Draw.png/revision/latest/scale-to-width-down/131?cb=20170604165302', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e5/Kaiba_Stand.png/revision/latest/scale-to-width-down/125?cb=20170604180926', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/8a/Kaiba_Pulverize.png/revision/latest/scale-to-width-down/127?cb=20170604180921', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/69/Kaiba_Heavy_Starter.png/revision/latest/scale-to-width-down/134?cb=20170604180916', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Generic_Restart.png/revision/latest/scale-to-width-down/126?cb=20170604180950', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/11/Generic_LP_Boost.png/revision/latest/scale-to-width-down/128?cb=20170604180946', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/60/Generic_Draw_Sense.png/revision/latest/scale-to-width-down/131?cb=20170604180941', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories:

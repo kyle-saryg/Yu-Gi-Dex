@@ -1,0 +1,235 @@
+Link: https://yugioh.fandom.com/wiki/Chicken_Game
+
+
+ 
+ 
+ Chicken Game チキンレース 
+ 
+ English 
+Chicken Game 
+ French 
+ Jeu de la Poule-Mouillée Check translation 
+ German 
+ Hemmung! Check translation 
+ Italian 
+ Gioco del Coniglio Check translation 
+ Korean 
+ 치킨게임 Check translation 
+ Portuguese 
+ Jogo da Galinha Check translation 
+ Spanish 
+ Juego de la Gallina Check translation 
+ Japanese 
+ チキンレース Check translation 
+ Japanese ( rōmaji ) 
+Chikinrēsu 
+ Japanese (translated) 
+Chicken Race 
+ Card type 
+ Spell   
+ Property 
+ Field   
+ Passcode 
+ 67616300 
+ Card effect types 
+ 
+ 
+ Continuous-like 
+ Ignition-like 
+ Condition Statuses Unlimited  ( OCG ) Forbidden  ( TCG   Advanced ) 
+ Limited  ( TCG   Traditional ) 
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+The player with the lowest  LP  takes no  damage .  Once per turn , during the  Main Phase : The  turn player  can  pay  1000 LP, then  activate  1 of these  effects ; ●  Draw  1 card. ●  Destroy  this card. ● Your opponent gains 1000 LP. Neither player can activate cards or effects in  response  to this effect's activation. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Le joueur avec le moins de LP ne reçoit aucun dommage. Une fois par tour, durant la Main Phase : le joueur du tour peut payer 1000 LP, puis activer 1 de ces effets ; ● Piochez 1 carte. ● Détruisez cette carte. ● Votre adversaire gagne 1000 LP. Aucun joueur ne peut ni activer de cartes ni d'effets en réponse à l'activation de cet effet. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Der Spieler mit den niedrigsten LP erhält keinen Schaden. Einmal pro Spielzug, während der Main Phase: Der Zugspieler kann 1000 LP zahlen und dann 1 dieser Effekte aktivieren; ● Ziehe 1 Karte. ● Zerstöre diese Karte. ● Dein Gegner erhält 1000 LP. Kein Spieler kann Karten oder Effekte als Reaktion auf die Aktivierung dieses Effekts aktivieren. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Il giocatore con i LP più bassi non subisce danni. Una volta per turno, durante la Main Phase: il giocatore di turno può pagare 1000 LP, poi attivare 1 di questi effetti; ● Pesca 1 carta. ● Distruggi questa carta. ● Il tuo avversario guadagna 1000 LP. Nessun giocatore può attivare carte o effetti in risposta all'attivazione di questo effetto. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ O duelista com menos PV não sofre dano. Uma vez por turno, durante a Fase Principal: o duelista do turno pode pagar 1000 PV e, depois, ativar 1 desses efeitos; ● Compre 1 card. ● Destrua este card. ● Seu oponente ganha 1000 PV. Nenhum duelista pode ativar cards ou efeitos em resposta à ativação deste efeito. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ El jugador con los LP más bajos no recibe daño. Una vez por turno, durante la Main Phase: el jugador activo puede pagar 1000 LP, y después activar 1 de estos efectos; ● Roba 1 carta. ● Destruye esta carta. ● Tu adversario gana 1000 LP. Ningún jugador puede activar cartas o efectos en respuesta a la activación de este efecto. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：このカードがフィールドゾーンに存在する限り、相手より ＬＰ が少ないプレイヤーが受ける全てのダメージは０になる。②：お互いのプレイヤーは１ターンに１度、自分メインフェイズに１０００ ＬＰ を払って以下の効果から１つを選択して発動できる。この効果の発動に対して、お互いは魔法・罠・モンスターの効果を発動できない。 ●デッキから１枚ドローする。 ●このカードを破壊する。 ●相手は１０００ ＬＰ 回復する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 이 카드가 필드 존에 존재하는 한, 상대보다 LP가 적은 플레이어가 받는 모든 데미지는 0 이 된다. ②: 양쪽의 플레이어는 1턴에 1번, 자신 메인 페이즈에 1000 LP를 지불하고 이하의 효과에서 1개를 선택하여 발동할 수 있다. 이 효과의 발동에 대하여, 양쪽의 플레이어는 마법 / 함정 / 몬스터의 효과를 발동할 수 없다. ●덱에서 1장 드로우한다. ●이 카드를 파괴한다. ●상대는 1000 LP 회복한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2015-08-06 CORE-EN067 Clash of Rebellions Short Print 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2015-08-06 CORE-FR067 Clash of Rebellions Le Choc des Rébellions Short Print 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2015-08-06 CORE-DE067 Clash of Rebellions Clash of Rebellions Short Print 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2015-08-06 CORE-IT067 Clash of Rebellions Scontro di Ribellioni Short Print 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2015-08-07 CORE-PT067 Clash of Rebellions Conflito de Rebeliões Short Print 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2015-08-06 CORE-SP067 Clash of Rebellions Choque de Rebeliones Short Print 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2015-04-25 CORE-JP067 Clash of Rebellions クラッシュ・オブ・リベリオン Normal Rare 2016-12-23 SD31-JP029 Structure Deck: Pendulum Evolution ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －ペンデュラム・エボリューション－ Common 2018-02-10 RC02-JP047 Rarity Collection 20th Anniversary Edition ＲＡＲＩＴＹ ＣＯＬＬＥＣＴＩＯＮ ２０ｔｈ ＡＮＮＩＶＥＲＳＡＲＹ ＥＤＩＴＩＯＮ Super Rare 2018-02-10 RC02-JP047 Rarity Collection 20th Anniversary Edition ＲＡＲＩＴＹ ＣＯＬＬＥＣＴＩＯＮ ２０ｔｈ ＡＮＮＩＶＥＲＳＡＲＹ ＥＤＩＴＩＯＮ Secret Rare 2018-02-10 RC02-JP047 Rarity Collection 20th Anniversary Edition ＲＡＲＩＴＹ ＣＯＬＬＥＣＴＩＯＮ ２０ｔｈ ＡＮＮＩＶＥＲＳＡＲＹ ＥＤＩＴＩＯＮ Collector's Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2015-08-18 CORE-KR067 Clash of Rebellions 클래쉬 오브 리벨리온 Normal Rare 2017-03-14 SD31-KR029 Structure Deck: Pendulum Evolution ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ  － 펜듈럼 에볼루션 － Common 2018-05-29 RC02-KR047 Rarity Collection 20th Anniversary Edition 레어리티 컬렉션 Super Rare 2018-05-29 RC02-KR047 Rarity Collection 20th Anniversary Edition 레어리티 컬렉션 Secret Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Actions  
+ You draw cards 
+ 
+ Monster / Spell / Trap  categories  
+ Prevents activation of Effect Monsters 
+ Prevents activation of Spell Cards 
+ Prevents activation of Trap Cards 
+ Destroys itself 
+ Prevents responding to its activation 
+ 
+ LP   
+ Prevents battle damage 
+ Prevents effect damage 
+ Pays LP for cost 
+ Your opponent pays LP for cost 
+ You gain LP 
+ Your opponent gains LP 
+ 
+ Miscellaneous  
+ Limited activations 
+ Variable effects 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11851 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a9/ChickenGame-CORE-EN-SP-1E.png/revision/latest/scale-to-width-down/300?cb=20150804082935', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/1/14/Field.svg/revision/latest/scale-to-width-down/28?cb=20120920120155']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,130 @@
+Link: https://yugioh.fandom.com/wiki/Tachyon_Flare_Wing
+
+
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Tachyon Flare Wing 
+ 
+ Japanese:   時空陽炎翼 
+ Kana:   タキオン・フレア・ウィング 
+ Romaji:   Takion Furea Wingu 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Continuous 
+ Continuous 
+ When your opponent  Special Summons  an  Xyz Monster :  Activate  this card by  targeting  1 " Galaxy-Eyes "  monster  you  control ;  equip  this card to that target.  Negate  the  effects  of all  face-up  Xyz Monsters your opponent controls. If the equipped monster would be  destroyed , you can  send  this card to the  Graveyard  instead.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  127 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 時空陽炎翼 
+ 相手フィールド上にモンスターエクシーズが特殊召喚された時に自分フィールド上の「銀河眼」と名のついたモンスター１体を選択して発動できる。発動後このカードは装備カードとなり、選択したモンスターに装備する。このカードがフィールド上に存在する限り、相手フィールド上のモンスターエクシーズの効果は無効化される。このカードを装備したモンスターが破壊される場合、代わりにこのカードを墓地へ送る事ができる。 
+ 
+ 
+ Takion Furea Wingu 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Mizar 
+ 
+ 
+ Search categories 
+ 
+ Anti-supports   
+ Xyz Monster 
+ 
+ Archetypes  and  series   
+ Tachyon 
+ 
+ Supports   archetypes   
+ Galaxy-Eyes 
+ 
+ Actions  
+ Activates upon Special Summon 
+ Equips self from field 
+ 
+ Monster / Spell / Trap  categories  
+ Treated as Equip Card 
+ Negates the effects of your opponent's Effect Monsters 
+ Sends itself from field to Graveyard 
+ 
+ v e 
+" Galaxy-Eyes " 「ギャラクシーアイズ」 a   +   Members 
+ Galaxy-Eyes Cipher Dragon Galaxy-Eyes Nova Galaxy-Eyes Photon Dragon Neo Galaxy-Eyes Cipher Dragon Neo Galaxy-Eyes Photon Dragon Number 62: Galaxy-Eyes Prime Photon Dragon Number 107: Galaxy-Eyes Tachyon Dragon Number C107: Neo Galaxy-Eyes Tachyon Dragon 
+ Support 
+ Galaxy Zero Galaxy-Eyes Nova Neutrino Dowsing Tachyon Flare Wing 
+ Related 
+ Galaxy Expedition Galaxy Tyranno Paladin of Photon Dragon Starliege Lord Galaxion 
+ 
+ v e 
+" Tachyon " 「タキオン」 a   m   Members 
+ Number 107: Galaxy-Eyes Tachyon Dragon Number C107: Neo Galaxy-Eyes Tachyon Dragon Tachyon Cannon Tachyon Chaos Hole Tachyon Drive Tachyon Flare Wing Tachyon Refresh Tachyon Unit 
+ Support 
+ Tachyon Cannon Tachyon Chaos Hole Tachyon Unit 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/37/TachyonFlareWing-JP-Anime-ZX-NC.png/revision/latest/scale-to-width-down/185?cb=20131029035025', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/6f/TachyonFlareWing-JP-Anime-ZX-NC-2.png/revision/latest/scale-to-width-down/185?cb=20131029035139', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

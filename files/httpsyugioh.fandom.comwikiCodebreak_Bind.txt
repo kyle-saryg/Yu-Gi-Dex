@@ -1,0 +1,109 @@
+Link: https://yugioh.fandom.com/wiki/Codebreak_Bind
+
+
+ Codebreak Bind 
+ 
+ Japanese:   コードブレイク・バインド 
+ Romaji:   Kōdobureiku Baindo 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Activate  only if you  control  a " Codebreaker "  Link Monster . During your  End Phase , if you control no "Codebreaker" Link Monsters,  destroy  this card. Your opponent's  monsters  that are not  linked  to a "Codebreaker" monster cannot  attack . If your opponent  Normal  or  Special Summons  a monster, and is now linked to a "Codebreaker" monster: You can activate this  effect ; if that opponent's monster  destroys  a monster  by battle  and  sends  it to the  GY  this  turn , send this card on the  field  to the GY, then inflict  damage  to your opponent equal to the destroyed monster's  original ATK .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  093 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ コードブレイク・バインド 
+ ①：自分フィールドに「コードブレイカー」リンクモンスターが存在する場合にこのカードを発動できる。自分エンドフェイズに、自分フィールドに「コードブレイカー」リンクモンスターが存在しない場合にこのカードは破壊される。②：このカードが魔法＆罠ゾーンに存在する限り、「コードブレイカー」モンスターとリンク状態になっていない相手モンスターは攻撃できない。③：「コードブレイカー」モンスターとリンク状態になるように、相手がモンスターを召喚・特殊召喚した場合にこの効果を発動できる。このターン、その相手モンスターとの戦闘でモンスターが破壊され墓地へ送られた場合、フィールドのこのカードは墓地へ送られる。その後、破壊されたモンスターの元々の攻撃力分のダメージを相手に与える。 
+ 
+ 
+ Kōdobureiku Baindo 
+ 
+ 
+ Decks 
+ 
+ 
+ Cal Kolter 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Link Monster 
+ 
+ Supports   archetypes   
+ Codebreaker 
+ 
+ Actions  
+ Activates upon Normal Summon 
+ Activates upon Special Summon 
+ Sends itself from field to Graveyard 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ Attack  categories  
+ Prevents your opponent's monsters from attacking 
+ 
+ LP   
+ Damages your opponent 
+ 
+ v e 
+" Codebreaker " 「コードブレイカー」 a   +   Members 
+ Codebreaker Virus Berserker Codebreaker Virus Swordsman Codebreaker Zero Day 
+ Support 
+ Codebreak Backfire Codebreak Bind Codebreaker Virus Berserker Codebreaker Virus Swordsman Codebreaker Zero Day 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/33/CodebreakBind-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20190313132136', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/18?cb=20120920115206']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

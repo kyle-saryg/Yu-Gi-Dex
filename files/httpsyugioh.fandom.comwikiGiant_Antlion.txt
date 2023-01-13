@@ -1,0 +1,110 @@
+Link: https://yugioh.fandom.com/wiki/Giant_Antlion
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Giant Antlion ジャイアント・メサイア 
+ 
+ English 
+Giant Antlion 
+ Japanese 
+ ジャイアント・メサイア Check translation 
+ Japanese ( rōmaji ) 
+Jaianto Mesaia 
+ Japanese (translated) 
+Giant Messiah 
+ Card type 
+ Monster   
+ Attribute 
+ EARTH   
+ Types 
+ Insect  /  Effect 
+ Level 
+ 3   
+ ATK  /  DEF 
+ 1200  /  1500 
+ Passcode 
+ 39078434 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When an opponent's  monster   declares  an  attack : You can  Special Summon  this card from your  hand . If this card is  Normal  or Special Summoned: You can  equip  it with 1  Insect  monster from your hand or  GY  as an  Equip Spell  that gives it 500  ATK / DEF . You can only use each  effect  of "Giant Antlion"  once per turn . Once per turn, at the start of the  Damage Step , if an Insect monster  battles : You can  target  1 card you  control  and 1 card your opponent controls;  destroy  them. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の①②の効果はそれぞれ１ターンに１度しか使用できない。①：相手モンスターの攻撃宣言時に発動できる。このカードを手札から特殊召喚する。②：このカードが召喚・特殊召喚に成功した場合に発動できる。自分の手札・墓地から昆虫族モンスター１体を選び、攻撃力・守備力５００アップの装備カード扱いとしてこのカードに装備する。③：１ターンに１度、昆虫族モンスターが戦闘を行うダメージステップ開始時に、自分及び相手フィールドのカードを１枚ずつ対象として発動できる。そのカードを破壊する。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-10-15 PHHY-JP015 Photon Hypernova ＰＨＯＴＯＮ ＨＹＰＥＲＮＯＶＡ Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Insect 
+ 
+ Actions  
+ Activates upon attack declaration 
+ Activates upon Normal Summon 
+ Activates upon Special Summon 
+ Equips monsters from the player's hand to itself 
+ Equips monsters from the player's Graveyard to itself 
+ 
+ Stat changes  
+ Equipped gains ATK 
+ Equipped gains DEF 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys Monster Cards 
+ Destroys Spell Cards 
+ Destroys Trap Cards 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ 
+ Miscellaneous  
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 18160 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/3c/GiantAntlion-PHHY-JP-C.png/revision/latest/scale-to-width-down/300?cb=20221107030043', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

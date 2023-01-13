@@ -1,0 +1,587 @@
+Link: https://yugioh.fandom.com/wiki/File:DM_Fusion.gif
+
+
+ 
+ Fusion Summon
+ 
+ 
+ 
+ A Fusion Summon in Yu-Gi-Oh! VRAINS.
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ 融 合 召 喚 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ ゆうごうしょうかん
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ 融合召喚
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Yūgō Shōkan
+ 
+ 
+ 
+ English
+ 
+ 
+ Fusion Summon
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Invocation Fusion Verb: Invoquer par Fusion 
+ German : Fusionsbeschwörung Verb: beschwören als Fusionsbeschwörung 
+ Italian : Evocazione per Fusione Verb: Evocare tramite Fusione 
+ Portuguese : Invocação-Fusão Verb: Invocar por Invocação-Fusão 
+ Spanish : Invocación por Fusión Verb: Invocar por Fusión 
+ Korean : 융합 소환 (融合召喚)  Yunghap Sohwan 
+ Traditional Chinese : 融合召喚  Rónghé Zhàohuàn / Jung4 hap6 Ziu6 wun6 
+ 
+ 
+ A  Fusion Summon  ( 融 合 召 喚   Yūgō Shōkan ) is the act of  Special Summoning  a  Fusion Monster  from the  Extra Deck  using the effect of a card that states that it performs a Fusion Summon.
+ 
+ Contents 
+ 
+ 1   How to Fusion Summon 
+ 2   List of cards that Fusion Summon 
+ 3   Example 
+ 
+ 3.1   Example A: Normal method with "Polymerization" 
+ 3.2   Example B: Using Fusion Substitutes 
+ 3.3   Example C: Using a monster as both a Fusion Material and to conduct a Fusion Summon 
+ 
+ 
+ 4   Effects 
+ 5   Anime 
+ 6   Trivia 
+ 7   References 
+ 8   See also 
+ 
+ 
+ How to Fusion Summon 
+ A player can Fusion Summon a Fusion Monster from the Extra Deck by  activating  a card or effect that performs a Fusion Summon. When that effect resolves, the player uses appropriate  Fusion Materials  listed on a Fusion Monster by moving them from some location(s) to another location, as specified by the effect performing the Fusion Summon (usually  sending  them to the  Graveyard ; as in the  implicit  case of " Polymerization " and other effects stating "using monsters as Fusion Materials"). After that, the player Summons the Fusion Monster from the  Extra Deck  to an unoccupied  Main Monster Zone  or an  Extra Monster Zone  in  face-up   Attack  or  Defense Position .
+ Even if all appropriate Monster Zones are occupied, a Fusion Monster can still be Fusion Summoned as long as at least one of the Fusion Materials used is in one of these Zones, so that there is an available Zone when the Fusion Monster is Summoned.
+ 
+ List of cards that Fusion Summon 
+ Main article:  Performs a Fusion Summon 
+ 
+ Example 
+ Example A: Normal method with " Polymerization " 
+ " Polymerization " + A  Fusion Material (" Dark Magician ") + A  Fusion Material (" Buster Blader ") = A  Fusion Monster (" Dark Paladin ") 
+ Example B: Using Fusion Substitutes 
+ " Polymerization " + A  Fusion Substitute Monster (" King of the Swamp ", used in place of " Elemental HERO Flame Wingman ") + a correct Fusion Material (" Elemental HERO Sparkman ") = A non- strict Fusion Summon   Fusion Monster (" Elemental HERO Shining Flare Wingman ") 
+ Example C: Using a monster as both a Fusion Material and to conduct a Fusion Summon 
+ A Fusion Material with an effect that Fusion Summons (" D/D Swirl Slime ") + A Fusion Material (" D/D Berfomet ") = A  Fusion Monster (" D/D/D Flame King Genghis ") 
+ Effects 
+ Like other Extra Deck monsters, if a Fusion Monster is not Fusion Summoned first, it cannot be  Special Summoned  from the  Graveyard  or while  banished  (unless it specifies another way to properly Special Summon it, in which case it must first be Summoned that way).
+ 
+ Anime 
+ While visual depictions of Fusion Summons have varied significantly among the different anime series, most generally show the Fusion Materials, or their cards, being warped into particles or forms of energy in a spiral direction, which then merge with each other within a spiraling portal, from which the Fusion Monster emerges. It is not until  Yu-Gi-Oh! ARC-V  where a standardized version of this method is adopted for all Fusion Summons, with the portal consisting of blue and orange swirls of energy, referencing the artwork of "Polymerization", and the Fusion Material Monsters transforming into differently colored forms of energy (usually the colors being contrasting ones like blue/red, yellow/violet, etc.), which then swirl together into a spiral before entering the portal. Fusion Summon practitioners usually clasp their hands together at the moment the monsters combine, seemingly mirroring that the materials become one.
+ Prior to  ARC-V , another depiction of Fusion Summon, notably used for " Dark Paladin " and " Dragon Knight Draco-Equiste ", shows the Fusion Materials being engulfed in a sphere of energy, which then disperses to reveal the Fusion Monster. Other times, the Fusion Monster emerges from a fierce whirlwind.
+ In  Yu-Gi-Oh! VRAINS , when a Fusion Summon is performed, the Fusion Materials turns into streams of colored particles gathering at a singular point, which bursts into multiple colored vortexes. The vortexes then combine into one, and become a single color, and the particles assemble into the Fusion Monster [1] . For each Fusion Material, there are always red and blue vortex, and additional color are added for each added Material, starting with green, and then yellow.
+ In the  Yu-Gi-Oh!  anime , under  Battle City Rules , which applied during the  Battle City  tournament,  Fusion Monsters  cannot  attack  the same  turn  they are Summoned. This is exemplified in  episode 65 , when  Strings  uses " Quick Attack " on " Humanoid Worm Drake " to bypass that rule in his  Duel  against  Yami Yugi . This rule does not exist in the  OCG / TCG  and was removed for all subsequent series.
+ In  Yu-Gi-Oh! ARC-V , a Fusion Summon performed using Fusion Materials that have been previously  Pendulum Summoned  is referred to as a "Pendulum-Fusion".
+ 
+ A Fusion Summon in  Yu-Gi-Oh! Duel Monsters ... in  Yu-Gi-Oh! GX ... in  Yu-Gi-Oh! 5D's ... in  Yu-Gi-Oh! ZEXAL ... in  Yu-Gi-Oh! ARC-V ... in  Yu-Gi-Oh! VRAINS 
+ ... in  Yu-Gi-Oh! (1999 flim) ... in  Yu-Gi-Oh! The Movie: Pyramid of Light ... in  Yu-Gi-Oh! 3D Bonds Beyond Time ... in  Yu-Gi-Oh! The Dark Side of Dimensions 
+ Trivia 
+ To date, Fusion Summoning has been featured in every  Yu-Gi-Oh!  series ( Duel Monsters ,  GX ,  5D'S ,  ZEXAL ,  ARC-V , and  VRAINS ).
+ A variant of  Fusion Summon  is also featured in Rush Duel and  Yu-Gi-Oh! SEVENS . 
+ References 
+ 
+ ↑   Yu-Gi-Oh! VRAINS  episode 054: " Game of Drones " 
+ 
+ 
+ See also 
+ Contact Fusion 
+ Fusion Monsters 
+ Fusion Materials 
+ Fusion Substitute Monsters 
+ Fusion Deck Zone 
+ Fusion Deck 
+ Extra Deck 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1d/Polymerization-SP15-EN-C-1E.png/revision/latest/scale-to-width-down/127?cb=20150612083030', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/00/DarkMagician-YGLD-EN-C-1E.png/revision/latest/scale-to-width-down/128?cb=20170812175430', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/68/BusterBlader-YGLD-EN-C-1E-C.png/revision/latest/scale-to-width-down/128?cb=20170814163055', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/bb/DarkPaladin-YGLD-EN-C-1E.png/revision/latest/scale-to-width-down/127?cb=20170814193737', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1d/Polymerization-SP15-EN-C-1E.png/revision/latest/scale-to-width-down/127?cb=20150612083030', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/7e/KingoftheSwamp-FUEN-EN-SR-1E.png/revision/latest/scale-to-width-down/127?cb=20170223194925', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/ff/ElementalHEROSparkman-DEM2-EN-C-UE.png/revision/latest/scale-to-width-down/128?cb=20170221064205', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/6a/ElementalHEROShiningFlareWingman-BLAR-EN-UR-1E.png/revision/latest/scale-to-width-down/127?cb=20200725181617', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/78/DDSwirlSlime-DOCS-EN-C-1E.png/revision/latest/scale-to-width-down/125?cb=20151104223124', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/ba/DDBerfomet-DOCS-EN-R-1E.png/revision/latest/scale-to-width-down/125?cb=20151104221430', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/8/89/DDDFlameKingGenghis-CT13-EN-SR-LE.png/revision/latest/scale-to-width-down/126?cb=20160901203832', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/16/DM_Fusion.gif/revision/latest/scale-to-width-down/185?cb=20180601095340', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/72/GX_Fusion.gif/revision/latest/scale-to-width-down/185?cb=20180601061637', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/6b/5Ds_Fusion.gif/revision/latest/scale-to-width-down/185?cb=20180601160833', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/30/ZEXAL_Fusion.gif/revision/latest/scale-to-width-down/185?cb=20180601061649', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/ce/ARC-V_Fusion.gif/revision/latest/scale-to-width-down/185?cb=20180601061654', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a0/VRAINS_Fusion.gif/revision/latest/scale-to-width-down/185?cb=20180601061654', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e0/1999_Fusion.gif/revision/latest/scale-to-width-down/185?cb=20180602013718', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/0a/2004_Fusion.gif/revision/latest/scale-to-width-down/185?cb=20180602013732', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/66/2010_Fusion.gif/revision/latest/scale-to-width-down/185?cb=20180602013744', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e9/2016_Fusion.gif/revision/latest/scale-to-width-down/185?cb=20180602013752', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Types of Summon

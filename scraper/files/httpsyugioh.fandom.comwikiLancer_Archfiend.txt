@@ -1,0 +1,241 @@
+Link: https://yugioh.fandom.com/wiki/Lancer_Archfiend
+
+The  Arabic  and  Greek                       names given are not official.  
+ 
+ 
+ 
+ 
+ 
+ Lancer Archfiend ランサー・デーモン 
+ 
+ English 
+Lancer Archfiend 
+ French 
+ Archdémon Lancier Check translation 
+ German 
+ Lanzen-Erzunterweltler Check translation 
+ Italian 
+ Arcidemone Lanciere Check translation 
+ Korean 
+ 랜서 데몬 Check translation 
+ Spanish 
+ Lancero Archidemonio Check translation 
+ Japanese 
+ ランサー・デーモン Check translation 
+ Japanese ( rōmaji ) 
+Ransā Dēmon 
+ Japanese (translated) 
+Lancer Daemon 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Fiend  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1600  /  1400 
+ Passcode 
+ 79418153 
+ Card effect types 
+ 
+ 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Once per turn , when a  monster  you  control   declares  an  attack   targeting  a  Defense Position  monster your opponent controls, you can  activate  this  effect . If you do, during this  battle , if the  ATK  of the attacking monster is greater than the  DEF  of the Defense Position monster it battles, inflict the difference as  Battle Damage  to your opponent. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Une fois par tour, lorsqu'un monstre que vous contrôlez déclare une attaque ciblant un monstre en Position de Défense contrôlé par votre adversaire, vous pouvez activer cet effet. Si vous le faites, durant ce combat, si l'ATK du monstre attaquant est supérieure à la DEF du monstre en Position de Défense qu'il combat, infligez la différence en tant que dommages de combat à votre adversaire. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Einmal pro Spielzug, wenn ein Monster, das du kontrollierst, ein Monster in Verteidigungsposition angreift, das dein Gegner kontrolliert, kannst du diesen Effekt aktivieren. Falls du dies tust, während dieses Kampfes, falls die ATK des angreifenden Monsters größer sind als die DEF des Monsters in Verteidigungsposition, gegen das es kämpft, füge die Differenz deinem Gegner als Kampfschaden zu. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Una volta per turno, quando un mostro che controlli dichiara un attacco bersagliando un mostro in Posizione di Difesa controllato dal tuo avversario, puoi attivare questo effetto. Se lo fai, durante questa battaglia, se l'ATK del mostro attaccante è superiore al DEF del mostro in Posizione di Difesa con cui combatte, infliggi la differenza come danno da combattimento al tuo avversario. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Una vez por turno, cuando un monstruo que controles declara un ataque que tiene como objetivo a un monstruo en Posición de Defensa que controla tu adversario, puedes activar este efecto. Si lo haces, y si el ATK del monstruo atacante es mayor que la DEF del monstruo en Posición de Defensa con el que batalla, durante esta batalla inflige la diferencia como daño de batalla a tu adversario. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 相手フィールド上に守備表示で存在するモンスターを攻撃対象とした自分のモンスターの攻撃宣言時に発動する事ができる。そのモンスターが守備表示モンスターを攻撃した場合、その守備力を攻撃力が超えていれば、その数値だけ相手ライフに戦闘ダメージを与える。この効果は１ターンに１度しか使用できない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 상대 필드 위에 수비 표시로 존재하는 몬스터를 공격 대상으로 한 자신 몬스터의 공격 선언시에 발동할 수 있다. 그 몬스터가 수비 표시 몬스터를 공격했을 경우, 그 수비력을 공격력이 넘었으면, 그 수치만큼 상대 라이프에 전투 데미지를 준다. 이 효과는 1턴에 1번밖에 사용할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2010-11-11 STBL-EN009 Starstrike Blast Rare 2020-05-14 SS05-ENA16 Speed Duel Starter Decks: Twisted Nightmares Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2010-11-11 STBL-FR009 Starstrike Blast Explosion des Etoiles Rare 2020-05-14 SS05-FRA16 Speed Duel Starter Decks: Twisted Nightmares Decks de Démarrage Speed Duel : Les Cauchemars Tordus Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2010-11-11 STBL-DE009 Starstrike Blast Starstrike Blast Rare 2020-05-14 SS05-DEA16 Speed Duel Starter Decks: Twisted Nightmares Speed Duel Starter Decks: Twisted Nightmares Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2010-11-11 STBL-IT009 Starstrike Blast Esplosione Astrale Rare 2020-05-14 SS05-ITA16 Speed Duel Starter Decks: Twisted Nightmares Speed Duel Starter Decks: Incubi Distorti Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2020-05-14 SS05-PTA16 Speed Duel Starter Decks: Twisted Nightmares Decks Iniciais de Speed Duel: Pesadelos Perturbadores Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2010-11-11 STBL-SP009 Starstrike Blast La Explosión del Ataque Estelar Rare 2020-05-14 SS05-SPA16 Speed Duel Starter Decks: Twisted Nightmares Speed Duel Barajas de Principiante: Pesadillas Retorcidas Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2010-07-17 STBL-JP009 Starstrike Blast ＳＴＡＲＳＴＲＩＫＥ ＢＬＡＳＴ Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2010-10-20 STBL-KR009 Starstrike Blast 폭풍의 스타스트라이크 Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Archfiend 
+ 
+ Actions  
+ Activates upon attack declaration 
+ 
+ Attack  categories  
+ Piercing 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 9086 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Lancer Archfiend " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Archfiend " 「デーモン」 Members 
+ Annihilator Archfiend Archfiend Black Skull Dragon Archfiend Cavalry Archfiend Commander Archfiend Eccentrick Archfiend Emperor, the First Lord of Horror Archfiend Empress Archfiend General Archfiend Giant Archfiend Heiress Archfiend Interceptor Archfiend Marmot of Nefariousness Archfiend Mirror Archfiend Soldier Archfiend Zombie-Skull Archfiend of Gilfer Archfiend's Ascent Archfiend's Awakening Archfiend's Call Archfiend's Manifestation Awakening of the Possessed - Nefariouser Archfiend Beast of Talwar Black Skull Dragon Chaos Archfiend Chaos King Archfiend Cyber Archfiend Darkbishop Archfiend Desrook Archfiend Fiend Skull Dragon Hot Red Dragon Archfiend Hot Red Dragon Archfiend Abyss Hot Red Dragon Archfiend Bane Hot Red Dragon Archfiend King Calamity Imprisoned Queen Archfiend Infernalqueen Archfiend Infernity Archfiend Infernity Doom Archfiend Labrynth Archfiend Lancer Archfiend Lesser Fiend Linkmail Archfiend Mad Archfiend Masterking Archfiend Mist Archfiend Nefarious Archfiend Eater of Nefariousness Number C102: Archfiend Seraph Overmind Archfiend Red Dragon Archfiend Red Dragon Archfiend/Assault Mode Red-Eyes Archfiend of Lightning Scarlight Red Dragon Archfiend Scrap Archfiend Shadow Tamer Shadowknight Archfiend Skull Archfiend of Lightning Summoned Skull Terrorking Archfiend Thought Ruler Archfiend Toon Summoned Skull Trance Archfiend Tyrant Red Dragon Archfiend Vector Scare Archfiend Vilepawn Archfiend 
+ Archfiend Palabyrinth Archfiend's Ghastly Glitch Archfiend's Oath Archfiend's Roar Archfiend's Staff of Despair Axe of Despair Call of the Archfiend A Deal with Dark Ruler Gladiator Beast's Battle Archfiend Shield Nightmare Archfiends Simul Archfiends 
+ Support 
+ Archfiend Black Skull Dragon Archfiend Cavalry Archfiend Commander Archfiend Emperor, the First Lord of Horror Archfiend Giant Archfiend Heiress Darkbishop Archfiend Infernalqueen Archfiend Skilled Red Magician Terrorking Archfiend Vilepawn Archfiend 
+ Archfiend Palabyrinth Archfiend's Roar Battle-Scarred Checkmate Falling Down Pandemonium 
+ Related 
+ Beelze of the Diabolic Dragons Beelzeus of the Diabolic Dragons Berserk Dragon Cave Dragon Majestic Red Dragon Mazera DeVille Number 102: Star Seraph Sentry Pandemonium Watchbear Pegasus/Monster C Red-Eyes Black Dragon Red-Eyes Black Flare Dragon Warrior of Zera 
+ Contract with the Abyss Crimson Fire 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/9b/LancerArchfiend-SS05-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20210217155801', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

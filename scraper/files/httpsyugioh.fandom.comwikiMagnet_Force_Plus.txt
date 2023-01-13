@@ -1,0 +1,100 @@
+Link: https://yugioh.fandom.com/wiki/Magnet_Force_Plus
+
+
+ The Japanese (OCG) version of this card is not a member of the " Magnet "  archetype , because its Japanese name does not contain  「 磁石 」 .   As its English name contains "Magnet", it  may  be treated a member of the "Magnet" archetype at a TCG event, subject to local rulings.       
+ This card's written lore in the anime has not yet been transcribed; if you are able to read Japanese, please help out by adding an accurate Japanese lore from  this image  to this page. The current anime lore listed here is only a reconstruction and may not be fully correct.     
+ Magnet Force Plus 
+ 
+ Japanese:   マグネット・フォース・プラス 
+ Romaji:   Magunetto Fōsu Purasu 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Continuous 
+ Continuous 
+ Equip  only to a  monster  your opponent  controls . It cannot  declare  an  attack  targeting a  Plus monster . If you control a  Minus monster , the equipped monster must attack it, if able.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  GX :  082 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  GX ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Images 
+ Artwork  Non-card 
+ Decks 
+ 
+ 
+ Bastion Misawa 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Plus monster 
+ Minus monster 
+ 
+ Anti-supports   
+ Plus monster 
+ Minus monster 
+ 
+ Actions  
+ Equips self from field 
+ 
+ Monster / Spell / Trap  categories  
+ Treated as Equip Card 
+ 
+ Attack  categories  
+ Must attack 
+ Manages attack targets 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a4/MagnetForcePlus-OW.png/revision/latest/scale-to-width-down/185?cb=20131216165843', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/5d/MagnetForcePlus-JP-Anime-GX-NC.png/revision/latest/scale-to-width-down/164?cb=20160330020128', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Card pages with a lore in need of transcription, Anime cards, Anime cards with no OCG/TCG counterpart

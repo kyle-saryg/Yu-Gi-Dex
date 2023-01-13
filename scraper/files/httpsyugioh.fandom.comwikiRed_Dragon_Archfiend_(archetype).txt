@@ -1,0 +1,390 @@
+Link: https://yugioh.fandom.com/wiki/Red_Dragon_Archfiend_(archetype)
+
+
+ 
+ Red Dragon Archfiend 
+ レッド・デーモン  ( Reddo Dēmon ) 
+ 
+ 
+ 
+ 
+ " Hot Red Dragon Archfiend ", " Hot Red Dragon Archfiend Abyss " and " Hot Red Dragon Archfiend Bane " 
+ 
+ 
+ Translation 
+ Red Daemon 
+ 
+ 
+ Other names 
+ 
+ French 
+ Dragon Rouge Archdémon Translation:  Archdemon Red Dragon 
+ 
+ 
+ German 
+ Rotdrachen-Erzunterweltler Translation:  Red Dragon Archunderworlder 
+ 
+ 
+ Italian 
+ Arcidemone Drago Rosso Translation:  Red Dragon Archdemon 
+ 
+ 
+ Korean 
+ 레드 데몬   Redeu Demon   (romanized) Translation:  Red Daemon 
+ 
+ 
+ Portuguese 
+ Dragão Vermelho Arquidemônio Translation:  Archdemon Red Dragon 
+ 
+ 
+ Spanish 
+ Dragón Rojo Archidemonio Translation:  Archdemon Red Dragon 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ The Duelist Genesis Crimson Crisis Extreme Victory Yu-Gi-Oh! 5D's Volume 6 promotional card Dimension of Chaos The Dark Illusion 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Collectible Tins 2008 Wave 1 Collectible Tins 2010 Wave 2 Turbo Pack: Booster Six Legendary Collection 5D's Mega Pack High-Speed Riders Premium Gold: Infinite Gold Shining Victories 2016 Mega-Tin Mega Pack Duelist Pack: Dimensional Guardians Duel Power Maximum Gold: El Dorado Ghosts From the Past: The 2nd Haunting 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Weekly Shōnen Jump 2008, Issue 18 promotional card Monster Figure Collection promotional cards Duelist Edition Volume 3 V Jump October 2015 promotional card Booster SP: Highspeed Riders Dimension Box Limited Edition Rarity Collection Premium Gold Edition 
+ 
+ 
+ 
+ 
+ Korea-Only Sets 
+ 
+ 
+ Structure Deck: Cyber Dragon Revolution Deluxe Edition Advanced Event Pack 2014 Vol.4 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! 5D's Yu-Gi-Oh! ARC-V 
+ 
+ 
+ 
+ 
+ Manga appearances 
+ 
+ 
+ Yu-Gi-Oh! 5D's 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Red Dragon Archfiend ", known as " Red Daemon " (レッド・デーモン  Reddo Dēmon ) in Japan, is an  archetype  used by  Jack Atlas  and  Fake Jack Atlas  in the  Yu-Gi-Oh! 5D's  anime and  manga  as well as an alternate dimension  Jack  in the  Yu-Gi-Oh! ARC-V  anime series.
+ The archetype is a sub-archetype of the " Archfiend " archetype, and primarily consists of Jack Atlas'  Signer Dragon , " Red Dragon Archfiend ", and  Duel Dragon , " Hot Red Dragon Archfiend ", and their upgraded forms in the anime and manga, respectively.
+ This archetype is the rival to the " Stardust " archetype, used by Jack's rival,  Yusei Fudo .
+ 
+ Contents 
+ 
+ 1   Design 
+ 2   Playing style 
+ 3   Recommended cards 
+ 4   Official Deck 
+ 5   Weaknesses 
+ 
+ 
+ Design 
+       " Scarlight Red Dragon Archfiend " alongside its evolution, " Tyrant Red Dragon Archfiend "     
+ In general, members of this archetype appear as armored, demonic dragons with curling horns and spikes all throughout the body. The root of their design comes from the painting  The Great Red Dragon  by  William Blake .
+ 
+ 
+ Playing style 
+ Compared to the more passive " Stardust Dragon ", which specializes in negating card effects and overall defense, "Red Dragon Archfiends" have a more smash mouth strategy, revolving around destruction, battle oriented effects,  ATK  increasing, Special Summoning Tuner monsters and negation, resulting on boards filled with Synchro monsters of over 3000 ATK that can quickly overwhelm the opponent. The "Red Dragons" are designed to have synergy with the " Resonator " archetype, many of which have Special Summon conditions to facilitate  Synchro Summons  and, furthermore,  Double Tuning .
+ To start off, the level 8 "Red Dragon Archfiends" focus on simple destruction of the enemy's monsters under certain conditions, in order to quickly gain or recover field advantage over the opponent and push them into a corner, then use them as bridges to the more powerful evolved forms. The original " Red Dragon Archfiend " destroys  Defense Position  monsters, " Hot Red Dragon Archfiend " destroys all monsters in  Attack Position  besides itself while " Scarlight Red Dragon Archfiend " destroys special summoned monsters weaker than itself.
+ The evolved forms mark the point where the archetype's playstyle branches into slightly different strategies, all in accordance to the player's needs and options:
+ 
+ Following the destruction theme, " Majestic Red Dragon ", aside from destroying Defense Position monsters, has built-in protection and provides a one time chance to deliver 4000 worth of damage in a single hit by negating an opponent monster's effect, after which it will float into "Red Dragon Archfiend" during the  End Phase . " Red Dragon Archfiend/Assault Mode " destroys all monsters on the field after attacking and also summons "Red Dragon Archfiend" upon destruction. " Tyrant Red Dragon Archfiend " can destroy all cards on the field besides itself and negates Spell/Traps during the Battle Phase. 
+ On the other hand, the "Hot Red" evolutions focus on negating effects and swarming with Tuner monsters, with " Red Dragon Archfiend Abyss " negating one card's effects during either players turn, " Hot Red Dragon Archfiend Bane " special summoning other "Red Dragon Archfiends" from the GY and " Hot Red Dragon Archfiend King Calamity " effectively shutting down the opponent's effects for a whole turn after being Synchro summoned along with a potent  Burn  effect each time it destroys and opponent monster. 
+ Last but not least are the "Red Nova" evolutions, which represent the "Red Dragons" ultimate form in terms of ATK value. Both " Red Nova Dragon " and " Red Supernova Dragon " are immune to destruction effects, gain 500 ATK for each Tuner in the player's GY and are capable of negating attacks by banishing themselves until the End Phase, but while "Red Nova" is easier to bring out through Double Tuning, "Red Supernova" requires three tuner monsters for its summon, with the payoff being a complete board wipe of the opponent's field when an enemy monster activates its effect (During either player's turn). 
+ To facilitate the summon of any member of the archetype one essential component is " Red Rising Dragon ", which effect lets it summon any "Resonator" from the GY upon being Synchro Summoned, with its only limitation being to  DARK   Dragon  Synchro monsters for the turn. Thus the Deck benefits from non-tuner monsters that have Special Summon effects, particularly of level 4 to combo with the level 2 " Red Resonator " and " Crimson Resonator " in order to summon "Red Rising" as soon as possible. " Red Sprinter ", " Wandering King Wildwind ", " Magical King Moonstar ", " Red Warg " and even " Supay, Duskwalker " are good options. The most basic combo is to Special Summon "Crimson Resonator" with "Red Rising's" effect and then proceed to summon two other Tuners with "Crimson's" effect, setting up the Synchro Summon of "Red Super Nova Dragon" on turn one.
+ Besides the evolutions, the archetype has the potential to incorporate other Synchro monsters into its Extra Deck pool for greater versatility. Cards like " Void Ogre Dragon " and " Dark End Dragon " will give further negation and spot removal to the Deck and are optimal options when using "Red Rising Dragon". Even though monsters like " Dark Highlander ", " Black Rose Dragon " and its counterpart, " Black Rose Moonlight Dragon " can prove effective against specific threats, they should be kept at minimum to avoid incompatibility with the rest of the support.
+ 
+ Recommended cards 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ Assault Beast 
+ Battle Fader 
+ Big Piece Golem 
+ Cyber Dragon 
+ D/D/D Dragon King Pendragon 
+ Guiding Light 
+ Kinka-byo 
+ Magical King Moonstar 
+ Primitive Butterfly 
+ Reborn Tengu 
+ Red Dragon Archfiend/Assault Mode 
+ Red Sprinter 
+ Red Warg 
+ Salvage Warrior 
+ Solar Wind Jammer 
+ The Tricky 
+ Tour Bus To Forbidden Realms 
+ Vice Dragon 
+ Wandering King Wildwind 
+ Red Familiar 
+ Tuner monsters 
+ Chain Resonator 
+ Creation Resonator 
+ Crimson Resonator 
+ Dark Resonator 
+ Jiaotu, Darkness of the Yang Zing 
+ Majestic Dragon 
+ Red Resonator 
+ Synkron Resonator 
+ Red Nova 
+ Yokotuner Extra Deck   
+ Fusion Monsters 
+ Sea Monster of Theseus 
+ Synchro Monsters 
+ Hot Red Dragon Archfiend Abyss 
+ Hot Red Dragon Archfiend Bane 
+ Hot Red Dragon Archfiend King Calamity 
+ Hot Red Dragon Archfiend 
+ Majestic Red Dragon 
+ Red Dragon Archfiend 
+ Red Nova Dragon 
+ Red Rising Dragon 
+ Red Wyvern 
+ Samsara, Dragon of Rebirth 
+ Scarlight Red Dragon Archfiend 
+ Tyrant Red Dragon Archfiend 
+ Red Supernova Dragon 
+ Link Monsters 
+ Duelittle Chimera Spells   &  Traps   
+ Spells 
+ Burning Soul 
+ Red Dragon Vase 
+ Resonator Call 
+ Resonator Command 
+ Resonator Engine 
+ Scarlet Security 
+ Instant Fusion 
+ Magic Planter 
+ One for One 
+ Silver Wing 
+ Traps 
+ Archfiend's Roar 
+ Assault Mode Activate 
+ Call of the Haunted 
+ King's Consonance 
+ King's Synchro 
+ Red Carpet 
+ Red Cocoon 
+ Red Reign 
+ Red Screen 
+ Red Supremacy 
+ Reject Reborn 
+ Space Dragster 
+ Stardust Mirage 
+ Synchro Call 
+ Wicked Rebirth 
+ Official Deck 
+ 
+ Post TDIL Deck [1] Monsters   
+ Effect Monsters 
+ Fire Hand  x2 
+ Ice Hand  x2 
+ Magical King Moonstar  x2 
+ Red Gardna 
+ Red Mirror  x2 
+ Red Sprinter 
+ Red Warg  x3 
+ Vice Dragon  x2 
+ Tuner monsters 
+ Chain Resonator  x2 
+ Dark Resonator  x2 
+ Mirror Resonator 
+ Red Resonator  x3 
+ Synkron Resonator  x3 Extra Deck   
+ Synchro Monsters 
+ Chaos King Archfiend 
+ Crystal Wing Synchro Dragon 
+ Hot Red Dragon Archfiend 
+ Hot Red Dragon Archfiend Abyss  x2 
+ Hot Red Dragon Archfiend Bane  x2 
+ Hot Red Dragon Archfiend King Calamity 
+ Red Dragon Archfiend 
+ Red Nova Dragon 
+ Red Wyvern  x2 
+ Scarlight Red Dragon Archfiend 
+ Stardust Dragon 
+ Tyrant Red Dragon Archfiend Spells   &  Traps   
+ Spells 
+ Mystical Space Typhoon  x2 
+ Resonator Call  x3 
+ Soul Charge 
+ Traps 
+ King Scarlet  x2 
+ King's Consonance  x2 
+ Red Carpet 
+ Red Cocoon 
+ Shadow Impulse  x2 
+ Weaknesses 
+ The archetype has rather lacklustre personal defense, requiring the staple toolbox of Traps and Spells to stay alive in a crisis. One who plays the archetype has to be wary of Decks that outpace it. 
+ The Deck can be rather easily defeated by anti-Synchro or anti-Dragon archetypes. This makes it especially vulnerable to the " Meklord " and " Buster Blader " archetypes. Cards like " Raigeki ", " Mind Control ", and " Clear Wing Synchro Dragon " quickly prove invaluable. 
+ The rivalling "Stardust" archetype is specifically geared towards countering the "Red Dragon" playstyle. Non-destruction removal is essensial to deal with such threats. 
+ v e 
+ Red  cards 
+ v e 
+" Red " 「レッド」 a   Members 
+ Brutal Red Chaos Hundred Universe Construction Train Signal Red Construction Train Signal Red Dark Red Enchanter Destiny Hero - Dread Servant Destiny Hero - Dreadmaster Doll Part Red Dread Dragon Eternal Dread Extra Hundred Guts Master Red Hundred Summon Lord of the Red Malefic Red-Eyes B. Dragon Motor Worm Spreader Queen Number C106: Giant Red Hand One Hundred-Eyed Dragon Opticlops Over the Red Pendulumstatue Red Fairy Pendulumstatue Red Fiend Red Armor Red Connection Red Dragon Archfiend Red Dragon Archfiend/Assault Mode Red Gadget Red Gardna Red Gargoyle Red Gazer Red Gem Red Ghost Moon Red Giant Red Lamp Red Mask Red Medicine Red Mirror Red Nova Red Nova Dragon Red Pepper Spice Red Reborn Red Resonator Red Screen Red Shaman Red Soul Red Sprinter Red Token Red Vanish Red Warg Red Wyvern Red-Eyes B. Dragon Red-Eyes B. Dragon Red-Eyes Black Dragon Sword Red-Eyes Black Metal Dragon Red-Eyes Burn Red-Eyes Darkness Dragon Red-Eyes Darkness Metal Dragon Red-Eyes Spirit Red-Eyes Statue Dragon Red-Eyes Transmigration ... further results 
+ Support 
+ Brutal Red King Scarlet Over the Red Red Armor Red Connection Red Gargoyle Red Gem Red Mirror Red Reborn Red Vanish Red Warg Soul Fist 
+ Related 
+ Black Skull Dragon Burning Rebirth Clock Tower Prison Fire Jinn the Flame Genie of the Lamp Green Gadget Inferno Fire Blast Knight of Dark Dragon Marionette Burial Meteor B. Dragon Number 106: Giant Hand Red Dragon Vase Red-Eyes B. Chick Scarlet Security Stronghold the Moving Fortress 
+ 
+   
+" Red-Eyes " 「レッドアイズ」 Members 
+ Gearfried the Red-Eyes Iron Knight Malefic Red-Eyes Black Dragon Meteor Dragon Red-Eyes Impact Red-Eyes Alternative Black Dragon Red-Eyes Archfiend of Lightning Red-Eyes Baby Dragon Red-Eyes Black Dragon Red-Eyes Black Dragon Sword Red-Eyes Black Flare Dragon Red-Eyes Black Metal Dragon Red-Eyes Black Meteor Dragon Red-Eyes Dark Dragoon Red-Eyes Darkness Dragon Red-Eyes Darkness Metal Dragon Red-Eyes Flare Metal Dragon Red-Eyes Retro Dragon Red-Eyes Slash Dragon Red-Eyes Soul Red-Eyes Toon Dragon Red-Eyes Wyvern Red-Eyes Zombie Dragon Red-Eyes Zombie Dragon Lord Red-Eyes Zombie Necro Dragon 
+ Red-Eyes Burn Red-Eyes Fang with Chain Red-Eyes Fusion Red-Eyes Insight Red-Eyes Spirit Red-Eyes Transmigration Return of the Red-Eyes 
+ Support 
+ Archfiend Black Skull Dragon Black Metal Dragon The Black Stone of Legend Gearfried the Red-Eyes Iron Knight Meteor Black Comet Dragon Meteor Dragon Red-Eyes Impact Paladin of Dark Dragon Red-Eyes Alternative Black Dragon Red-Eyes Baby Dragon Red-Eyes Flare Metal Dragon Red-Eyes Retro Dragon Red-Eyes Soul Red-Eyes Wyvern 
+ Cards of the Red Stone Dark Dragon Ritual Red-Eyes Burn Red-Eyes Fusion Red-Eyes Insight Red-Eyes Spirit Red-Eyes Transmigration Return of the Red-Eyes 
+ Related 
+ Baby Dragon Black Dragon's Chick Black Skull Dragon Dark Magician Dark Magician Darkness Metal, the Dragon of Dark Steel Gearfried the Iron Knight Keeper of the Shrine Lord of the Red Meteor Black Dragon Meteor Dragon Summoned Skull 
+ The Claw of Hermos Inferno Fire Blast Kunai with Chain Metalmorph Toon World 
+ 
+ v e 
+" Red-Eyes " 「レッドアイズ」 a   Members 
+ Malefic Red-Eyes B. Dragon Red-Eyes B. Dragon Red-Eyes B. Dragon Red-Eyes Black Dragon Sword Red-Eyes Black Metal Dragon Red-Eyes Burn Red-Eyes Darkness Dragon Red-Eyes Darkness Metal Dragon Red-Eyes Spirit Red-Eyes Statue Dragon Red-Eyes Transmigration Red-Eyes Wyvern 
+ Support 
+ Red-Eyes Burn Red-Eyes Spirit 
+ Related 
+ Black Skull Dragon Claw of Hermos Dark Dragon Ritual Inferno Fire Blast Knight of Dark Dragon Lord of the Red Magic Metal Force Metal Plus Meteor B. Dragon Red-Eyes B. Chick Summoned Skull 
+ 
+ v e 
+ Red-Eyes  レッドアイズ m   Members 
+ Red-Eyes Black Dragon Red-Eyes Black Metal Dragon 
+ Related 
+ Black Skull Dragon Metalmorph Summoned Skull 
+ 
+   
+" Red Dragon Archfiend " 「レッド・デーモン」 Members 
+ Hot Red Dragon Archfiend Hot Red Dragon Archfiend Abyss Hot Red Dragon Archfiend Bane Hot Red Dragon Archfiend King Calamity Red Dragon Archfiend Red Dragon Archfiend/Assault Mode Scarlight Red Dragon Archfiend Tyrant Red Dragon Archfiend 
+ Support 
+ Hot Red Dragon Archfiend Bane Red Gardna 
+ King Scarlet Red Supremacy 
+ Related 
+ Majestic Dragon Majestic Red Dragon Red Familiar Red Nova Red Nova Dragon Red Rising Dragon Red Supernova Dragon 
+ Assault Mode Activate Burning Soul Crimson Fire The Great Soul Red Cocoon Red Dragon Vase Red Reign Red Screen Scarlet Security 
+ 
+ v e 
+ Red Dragon Archfiend  レッド・デーモン a   Members 
+ Red Dragon Archfiend Red Dragon Archfiend/Assault Mode Scarlight Red Dragon Archfiend Tyrant Red Dragon Archfiend 
+ Related 
+ Burning Rebirth Crimson Fire Majestic Dragon Majestic Red Dragon Red Cocoon Red Dragon Vase Red Nova Red Nova Dragon Red Screen Scarlet Security 
+ 
+ v e 
+" Red Dragon Archfiend " 「レッド・デーモン」 m   Members 
+ Jeweled Red Dragon Archfiend Red Dragon Archfiend Abyss Red Dragon Archfiend Burial Red Dragon King Red Dragon Calamity Scarlight Red Dragon Archfiend 
+ Support 
+ Red Supremacy 
+ 
+ 
+ v e 
+ Archfiend  cards 
+   
+" Archfiend " 「デーモン」 Members 
+ Annihilator Archfiend Archfiend Black Skull Dragon Archfiend Cavalry Archfiend Commander Archfiend Eccentrick Archfiend Emperor, the First Lord of Horror Archfiend Empress Archfiend General Archfiend Giant Archfiend Heiress Archfiend Interceptor Archfiend Marmot of Nefariousness Archfiend Mirror Archfiend Soldier Archfiend Zombie-Skull Archfiend of Gilfer Archfiend's Ascent Archfiend's Awakening Archfiend's Call Archfiend's Manifestation Awakening of the Possessed - Nefariouser Archfiend Beast of Talwar Black Skull Dragon Chaos Archfiend Chaos King Archfiend Cyber Archfiend Darkbishop Archfiend Desrook Archfiend Fiend Skull Dragon Hot Red Dragon Archfiend Hot Red Dragon Archfiend Abyss Hot Red Dragon Archfiend Bane Hot Red Dragon Archfiend King Calamity Imprisoned Queen Archfiend Infernalqueen Archfiend Infernity Archfiend Infernity Doom Archfiend Labrynth Archfiend Lancer Archfiend Lesser Fiend Linkmail Archfiend Mad Archfiend Masterking Archfiend Mist Archfiend Nefarious Archfiend Eater of Nefariousness Number C102: Archfiend Seraph Overmind Archfiend Red Dragon Archfiend Red Dragon Archfiend/Assault Mode Red-Eyes Archfiend of Lightning Scarlight Red Dragon Archfiend Scrap Archfiend Shadow Tamer Shadowknight Archfiend Skull Archfiend of Lightning Summoned Skull Terrorking Archfiend Thought Ruler Archfiend Toon Summoned Skull Trance Archfiend Tyrant Red Dragon Archfiend Vector Scare Archfiend Vilepawn Archfiend 
+ Archfiend Palabyrinth Archfiend's Ghastly Glitch Archfiend's Oath Archfiend's Roar Archfiend's Staff of Despair Axe of Despair Call of the Archfiend A Deal with Dark Ruler Gladiator Beast's Battle Archfiend Shield Nightmare Archfiends Simul Archfiends 
+ Support 
+ Archfiend Black Skull Dragon Archfiend Cavalry Archfiend Commander Archfiend Emperor, the First Lord of Horror Archfiend Giant Archfiend Heiress Darkbishop Archfiend Infernalqueen Archfiend Skilled Red Magician Terrorking Archfiend Vilepawn Archfiend 
+ Archfiend Palabyrinth Archfiend's Roar Battle-Scarred Checkmate Falling Down Pandemonium 
+ Related 
+ Beelze of the Diabolic Dragons Beelzeus of the Diabolic Dragons Berserk Dragon Cave Dragon Majestic Red Dragon Mazera DeVille Number 102: Star Seraph Sentry Pandemonium Watchbear Pegasus/Monster C Red-Eyes Black Dragon Red-Eyes Black Flare Dragon Warrior of Zera 
+ Contract with the Abyss Crimson Fire 
+ 
+ v e 
+" Archfiend " 「デーモン」 a   Members 
+ Air Marmot of Nefariousness Archfiend General Archfiend Interceptor Archfiend Soldier Archfiend Zombie-Skull Archfiend's Oath Axe of Despair Banderillero Fiend Beast of Gilfer Beast of Talwar Black Skull Dragon Chaos King Archfiend Darkbishop Archfiend A Deal with Dark Ruler Desrook Archfiend Infernalqueen Archfiend Infernity Archfiend Lancer Archfiend Mad Archfiend Mad Archfiend Matador Fiend Nightmare Archfiend Token Nightmare Archfiends Number C102: Archfiend Seraph Picador Fiend Red Dragon Archfiend Red Dragon Archfiend/Assault Mode Scarlight Red Dragon Archfiend Seven-Armed Fiend Shadow Tamer Skull Archfiend of Lightning Summoned Skull Terrorking Archfiend Thought Ruler Archfiend Toon Summoned Skull Toon Summoned Skull Tyrant Red Dragon Archfiend Vector Scare Archfiend 
+ Support 
+ Battle-Scarred Darkbishop Archfiend Falling Down Infernalqueen Archfiend Pandemonium Pandemonium Terrorking Archfiend 
+ Related 
+ Berserk Dragon Burning Rebirth Crimson Fire Dark Arena Duo of the Seven Emperors Majestic Dragon Majestic Red Dragon Number 102: Star Seraph Sentry Pandemonium Watchbear Plaguespreader Zombie Red Cocoon Red Dragon Vase Red Nova Red Nova Dragon Red Screen Red-Eyes B. Dragon Red-Eyes B. Dragon Ritual of the Matador Scarlet Security Toon World Toon World 
+ 
+ v e 
+" Archfiend " 「デーモン」 m   Members 
+ Archfiend Emperor, the First Lord of Horror Archfiend Palabyrinth Archfiend Soldier Archfiend of Gilfer Beast of Talwar Black Skull Dragon Chaos King Archfiend Demon's Shackle Jeweled Red Dragon Archfiend Red Dragon Archfiend Abyss Red Dragon Archfiend Burial Red Dragon King Red Dragon Calamity Scarlight Red Dragon Archfiend Skull Archfiend of Lightning Summoned Skull Summoned Skull Toon Summoned Skull 
+ Support 
+ Archfiend Emperor, the First Lord of Horror Archfiend Palabyrinth Falling Down 
+ Related 
+ Plaguespreader Zombie Red-Eyes Black Dragon 
+ 
+ v e 
+" Archfiend " 「デーモン」 dtz   Members 
+ Archfiend Emperor, the First Lord of Horror Archfiend Palabyrinth Skull Archfiend of Lightning Summoned Skull 
+ Support 
+ Archfiend Emperor, the First Lord of Horror Archfiend Palabyrinth Falling Down 
+ Related 
+ Plaguespreader Zombie 
+ 
+   
+" Red Dragon Archfiend " 「レッド・デーモン」 Members 
+ Hot Red Dragon Archfiend Hot Red Dragon Archfiend Abyss Hot Red Dragon Archfiend Bane Hot Red Dragon Archfiend King Calamity Red Dragon Archfiend Red Dragon Archfiend/Assault Mode Scarlight Red Dragon Archfiend Tyrant Red Dragon Archfiend 
+ Support 
+ Hot Red Dragon Archfiend Bane Red Gardna 
+ King Scarlet Red Supremacy 
+ Related 
+ Majestic Dragon Majestic Red Dragon Red Familiar Red Nova Red Nova Dragon Red Rising Dragon Red Supernova Dragon 
+ Assault Mode Activate Burning Soul Crimson Fire The Great Soul Red Cocoon Red Dragon Vase Red Reign Red Screen Scarlet Security 
+ 
+ v e 
+ Red Dragon Archfiend  レッド・デーモン a   Members 
+ Red Dragon Archfiend Red Dragon Archfiend/Assault Mode Scarlight Red Dragon Archfiend Tyrant Red Dragon Archfiend 
+ Related 
+ Burning Rebirth Crimson Fire Majestic Dragon Majestic Red Dragon Red Cocoon Red Dragon Vase Red Nova Red Nova Dragon Red Screen Scarlet Security 
+ 
+ v e 
+" Red Dragon Archfiend " 「レッド・デーモン」 m   Members 
+ Jeweled Red Dragon Archfiend Red Dragon Archfiend Abyss Red Dragon Archfiend Burial Red Dragon King Red Dragon Calamity Scarlight Red Dragon Archfiend 
+ Support 
+ Red Supremacy 
+ 
+   
+ Summoned Skull  デーモンの 召 喚 Members 
+ Archfiend's Ascent Archfiend's Awakening Archfiend's Call Archfiend's Manifestation Red-Eyes Archfiend of Lightning Skull Archfiend of Lightning Summoned Skull Toon Summoned Skull 
+ Related 
+ Archfiend Black Skull Dragon Archfiend Commander Archfiend Zombie-Skull Black Skull Dragon Linkmail Archfiend Plaguespreader Zombie Red-Eyes Black Flare Dragon 
+ Contract with the Abyss Makiu, the Magical Mist Toon World 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c1/ConExclusive-RedDragonArchfiends.png/revision/latest/scale-to-width-down/350?cb=20151006212835', 'https://static.wikia.nocookie.net/yugioh/images/c/ca/Tyrant_Dragon_and_Scarlight_Dragon.png/revision/latest/scale-to-width-down/180?cb=20170115142048']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Synchro Monster(s)

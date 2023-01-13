@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Korean_translated_name
+
+This property lists English translations of objects' Korean names. This uses  string  values.
+ 
+ 
+ 
+ 
+Categories:

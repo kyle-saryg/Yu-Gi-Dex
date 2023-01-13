@@ -1,0 +1,774 @@
+Link: https://yugioh.fandom.com/wiki/File:DebrisDragon-LC5D-EN-ScR-1E.png
+
+
+ 
+ Synchro Summon
+ 
+ 
+ 
+ A Synchro Summon in Yu-Gi-Oh! VRAINS
+ 
+ 
+ 
+ 
+ Japanese
+ 
+ 
+ Ｓ 召 喚 [Notes 1] 
+ 
+ 
+ 
+ Japanese (ruby)
+ 
+ 
+ シンクロしょうかん
+ 
+ 
+ 
+ Japanese (base text)
+ 
+ 
+ Ｓ召喚
+ 
+ 
+ 
+ Japanese (romanized)
+ 
+ 
+ Shinkuro Shōkan
+ 
+ 
+ 
+ English
+ 
+ 
+ Synchro Summon
+ 
+ 
+ 
+ 
+ 
+ 
+ Other names 
+ 
+ 
+ 
+ French : Invocation Synchro Verb: Invoquer par Synchronisation 
+ German : Synchrobeschwörung Verb: beschwören als Synchrobeschwörung 
+ Italian : Synchro Evocazione Verb: Synchro Evocare Formerly: Evocare tramite Sincronizzazione 
+ Portuguese : Invocação-Sincro Verb: Invocar por Invocação-Sincro 
+ Spanish : Invocación por Sincronía Verb: Invocar por Sincronía 
+ Korean : 싱크로 소환 (Synchro 召喚)  Singkeuro Sohwan 
+ Traditional Chinese : 同步召喚  Tóngbù Zhàohuàn / Tung4 bou6 Ziu6 wun6 
+ Simplified Chinese : 同步召唤  Tóngbù Zhàohuàn 
+ 
+ 
+ A  Synchro Summon  (シンクロ 召 喚   Shinkuro Shōkan ; usually abbreviated  Ｓ 召 喚  since  Duelist Alliance ) is the act of  Special Summoning  a  Synchro Monster  from the  Extra Deck  using a  Tuner monster  with additional non-Tuner monsters.
+ 
+ Contents 
+ 
+ 1   How to Synchro Summon 
+ 
+ 1.1   Example 
+ 
+ 
+ 2   Mechanics 
+ 3   Effects 
+ 4   Alternate methods 
+ 5   Synchro Substitute Monsters 
+ 6   Anime 
+ 
+ 6.1   Yu-Gi-Oh! 5D's 
+ 6.2   Yu-Gi-Oh! ARC-V 
+ 6.3   Yu-Gi-Oh! VRAINS 
+ 
+ 
+ 7   See also 
+ 8   Notes 
+ 9   References 
+ 
+ 
+ How to Synchro Summon 
+ During their  Main Phase , the  turn player  can Synchro Summon a  Synchro Monster  from face-down in their  Extra Deck  by  sending  two or more  face-up  monsters listed on the Synchro Monster Card, including exactly 1  Tuner  (unless stated otherwise), whose combined  Levels  exactly equal the Synchro Monster's Level, from their field to the  Graveyard  as  Synchro Materials . After that, the player Summons the Synchro Monster from the Extra Deck in an unoccupied  Main Monster Zone  or an  Extra Monster Zone  in face-up  Attack  or  Defense Position .
+ 
+ Example 
+ A Level 4 Tuner (" Debris Dragon ") + A Level 2 non-Tuner (" Speed Warrior ") + A Level 2 non-Tuner (" Quillbolt Hedgehog ") = A Level 8 Synchro Monster (" Stardust Dragon ") 
+ Mechanics 
+ Monsters that do not have Levels, such as  Xyz Monsters  and  Link Monsters , cannot be used as Synchro Materials.  Token Monsters  and  Trap Monsters  can be used as Synchro Materials. [1] 
+ Synchro Materials are sent to the Graveyard by default, but the Synchro Summon is still successful even if the materials are moved to some other location instead. For example, it is still possible to perform a Synchro Summon while " Macro Cosmos " is active or using  Pendulum Monsters  as materials, in which case the materials will be  banished  or placed face-up in the Extra Deck, respectively. [2] 
+ Even if all appropriate Monster Zones are occupied, a Synchro Monster can still be Synchro Summoned as long as at least one of the Synchro Materials used is in one of these zones, so that there is an available zone when the Synchro Monster is Summoned.
+ A Synchro Summon is a type of  built-in Special Summon , so it can be  negated  by cards like " Solemn Warning " and " Thunder King Rai-Oh ". Even if a Synchro Summon is negated, the Synchro Materials do not return to the field. [3] 
+ Even if a monster lists a specific monster as materials, such as " Majestic Star Dragon ", the Summon must use exactly 1 Tuner (unless otherwise specified). For example, if you have 2 " Phantom of Chaos ", 1 being treated as " Majestic Dragon ", and the other equipped with " Synchro Boost " and " Torque Tune Gear " and being treated as " Stardust Dragon ", and a Level 1 non-Tuner monster, you can still Synchro Summon. However, if neither "Phantom" is a Tuner, or if both are, the Summon cannot be performed.
+ 
+ Effects 
+ Like other Extra Deck monsters, if a Synchro Monster is not Synchro Summoned first, it cannot be  Special Summoned  from the  Graveyard  or while  banished  (unless it specifies another way to properly Special Summon it, in which case it must first be Summoned that way).
+ For example, if a Synchro Monster is Special Summoned from the Extra Deck by the effect of " Shadow Impulse " and sent to the Graveyard, or was sent from face-down in the Extra Deck to the Graveyard by " Gale Dogra ", it cannot be Special Summoned from the Graveyard by " Premature Burial "; however, if it was originally Synchro Summoned, it can be Special Summoned from the Graveyard by "Premature Burial". [4] 
+ 
+ Alternate methods 
+ See also:  Performs a Synchro Summon  and  Treats Special Summon as Synchro Summon 
+ Apart from the basic method of performing a Synchro Summon outlined above, certain cards allow the controller to perform a Synchro Summon outside of its parameters.
+ 
+ Some monsters, including the " Yang Zing " non-Tuner monsters, " Formula Synchron ", and " T.G. Wonder Magician ", allow their controller to Synchro Summon during the opponent's Main Phase or Battle Phase. 
+ " Synchro Material " allows the player to use their opponent's monsters as Synchro Material. 
+ " T.G. Cyber Magician " " Tatsunoko ", " Eccentric Boy ", " Mecha Phantom Beast Blue Impala ", " Mara of the Nordic Alfar ", and " Malefic Parallel Gear " allow the controller to  use non-Tuner monsters from their hand  as Synchro Materials. 
+ Trap Cards  like " King's Consonance " and " King's Synchro " allow you to perform a Synchro Summon during your opponent's Battle Phase. 
+ Synchro Substitute Monsters 
+ Main article:  Synchro Substitute Monsters 
+ Anime 
+ Yu-Gi-Oh! 5D's 
+         Synchro Summon in Yu-Gi-Oh! 5D's     
+ While Synchro Summoning, the Tuner monster is said to be  tuned with the other monsters.  
+ Many characters in the Japanese anime have  chants , often unique to them and each of their Synchro Monsters, which they recite while Synchro Summoning. Before the chants, the Duelist announces the monsters being used, starting with the Levels and names of all non-Tuner monsters, from the lowest to the highest Level, then the Level and name of the Tuner monster. In the English dub, this is reversed; the Tuner monster's name is said first and the non-Tuner monsters' names are said last. 
+ During a Synchro Summon, the Tuner monster transforms into a number of green rings which corresponds to its Level. These rings then "scan" the non-tuner monsters, which first change into a glowing yellow "outline" of themselves before turning into a number of stars which correspond to their Levels. A beam of light then envelops the stars, passing through the rings, and the Synchro Monster appears thereafter. In some special versions of Synchro Summons, the rings are a different color or are completely redesigned, for example, when " Shooting Quasar Dragon " is Limit Over Accel Synchro Summoned, the rings are gold instead of green, and when " Red Nova Dragon " is Synchro Summoned, the Tuner monsters transform into rings of fire, which form a sphere around the non-Tuner monster. Additionally, when " Malefic Paradox Dragon " is Synchro Summoned, the Synchro Rings are black instead of green, and the non-Tuner monsters become a purple outline, and a cyclone of darkness envelops the stars instead of a beam of light. Also, the characters may have personalized backgrounds and other graphics for Synchro Summons (most noticeably  Vizor ).
+ Starting with  episode 65  and the second season, when the non-Tuner(s) turn into stars, the arithmetic addition of the total Levels involved in the Synchro Summon is briefly shown on the bottom of the screen.
+ 
+ Yu-Gi-Oh! ARC-V 
+ Synchro Summoning appears to be more advanced than it was in  Yu-Gi-Oh! 5D's  as can be seen by the Synchro Rings are surrounded by multiple small rotating rectangles, which gives them a more futuristic look, implying that in the future the actual Synchro Summoning method has evolved. Like in 5D's, when  Jack Atlas  performs a Double Tuning, the two Tuners become rings of fire rather than Synchro rings.  
+ A Synchro Summon performed using monsters that have been Pendulum Summoned is referred to as a "Pendulum-Synchro".
+ 
+ Yu-Gi-Oh! VRAINS 
+ The summon animation has had a complete overhaul. The monsters used dissipate into energy, which then reforms into sets of rings, one for each material. The ring(s) representing the Tuner involved is a blue-green color whilst the non-Tuner(s) are gold or purple. These rings are made up of varying numbers of concentric circles depending on the level of the monster which is displayed in an information tag that points to the ring. After the rings are generated, they then change to a bright blue color before merging together into a thin ring. The ring then splits into a number of identical rings equal to the sum of the Synchro Monster's Level (that rotate clockwise), while a series of rotating green rectangles appear as a ring formation (that rotates counter-clockwise), forming a tunnel of sorts. The Levels of the Tuner and non-Tuner(s) are shown on a display before the Synchro Monster's Level takes their place. The camera then appears to go through the ring tunnel before flashing back to the Duelist who declares the summon. Afterwards, the Synchro Monster is briefly seen as an outline whilst green energy rings arc over it, solidifying it.
+ 
+ Synchro Summon in  Yu-Gi-Oh! 5D's ... in  Yu-Gi-Oh! ARC-V ... in  Yu-Gi-Oh! VRAINS 
+ ... in  Yu-Gi-Oh! 3D Bonds Beyond Time 
+ See also 
+ Dark Synchro Summon 
+ Accel Synchro Summon 
+ Delta Accel Synchro Summon 
+ Limit Over Accel Synchro Summon 
+ Double Tuning 
+ Notes 
+ 
+ ↑   The frequently used abbreviated form. Simply substitute the furigana with the Latin letters for the full form. 
+ 
+ 
+ References 
+ 
+ ↑   Konami FAQ : Can "Avatar of Apophis", a Monster Token, etc. be used as a Synchro Material Monster? [ dead link ] 
+ 
+ ↑   Konami FAQ : [Basic Rules] Can you Synchro Summon a monster when its Synchro Material Monsters would be banished? [ dead link ] 
+ 
+ ↑   Konami FAQ : [Basic Rules] Can you negate a Synchro Summon with a card effect? [ dead link ] 
+ 
+ ↑   Konami FAQ : [Basic Rules] Can you Special Summon a Synchro Monster with "Premature Burial" or "D.D.R. - Different Dimension Reincarnation"? [ dead link ] 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ v e 
+ Yu-Gi-Oh! 5D's Series 
+ Anime 
+ Characters 
+ Season 1 
+ Season 2 
+ DVDs 
+ Specials
+ OVA 
+ Yu-Gi-Oh! 3D Bonds Beyond Time 
+ Manga 
+ Characters 
+ Chapters 
+ Video games 
+ Stardust Accelerator 
+ Duel Transer 
+ Reverse of Arcadia 
+ Over the Nexus 
+ Tag Force 4 
+ Tag Force 5 
+ Tag Force 6 
+ Decade Duels 
+ Wheelie Breakers 
+ Duel Terminals 
+ Synchro Awakening!! 
+ Invasion of Worms!! 
+ Justice Strikes Back!! 
+ Demon Roar God Revival!! 
+ Champion of Chaos!! 
+ Dragunity of the Hurricane!! 
+ Charge of the Genex!! 
+ Pulse of the Trishula!! 
+ Vylon Descends!! 
+ Raid of the Inverz!! 
+ Judgment of Omega!! 
+ Story arcs 
+ Fortune Cup 
+ Dark Signers 
+ Pre-World Racing Grand Prix (Pre-World Riding Duel Grand Prix) 
+ World Racing Grand Prix (World Riding Duel Grand Prix) 
+ Ark Cradle (arc) 
+ Duel Terms 
+ Accel Synchro Summon 
+ Concentration Duel 
+ Dark Synchro Monster 
+ Dark Synchro Summon 
+ Double Tuning 
+ Limit Over Accel Synchro 
+ Shadow Duel (Duel of Darkness) 
+ Synchro Material 
+ Synchro Monster 
+ Synchro Summon 
+ Turbo Duel (Riding Duel) 
+ Artifacts & Items 
+ Daily Duel 
+ Nazca Lines 
+ Technology 
+ Aporia's heart device 
+ Blister's marker jammer 
+ Criminal mark 
+ Criminal mark tracker 
+ D-Sensor 
+ Deathmatch Duel Rope 
+ Divine Temple (Arc Cradle) 
+ Duel Disk 
+ Duel Runner (D-Wheel) 
+ Duel Board (D-Board) 
+ Ener-D (Momentum) 
+ Sector Security probe 
+ Z-one's head device 
+ Abilities 
+ Foresee Draw  (manga) 
+ Perfect Synchronicity (Clear Mind) 
+ Blazing Soul (Burning Soul) 
+ Mark of the Dragon 
+ Mark of the Shadows 
+ Psychic Duelist 
+ Rune Eye 
+ Groups 
+ Aesir (Polar Star God) 
+ Arcadia Movement 
+ Crow's team 
+ Duel Gang 
+ Dark Signer 
+ Earthbound Immortal (Earthbound God) 
+ Magician's Four 
+ Meklord Emperor (Machine Emperor) 
+ Monkey troop 
+ Sector Security (Public Security Maintenance Bureau) 
+ Duel Chasers 
+ Shadow Drones 
+ Signer 
+ Signer Dragon 
+ Team 5D's 
+ Team Black Baron 
+ Team Burning 
+ Team Catastrophe 
+ Team Delta 
+ Team Fortune Ark 
+ Team Golem 
+ Team Insect 
+ Team Lightning 
+ Team New World 
+ Team Ragnarok 
+ Team Sherry 
+ Team Small Field 
+ Team Squirrel 
+ Team Taiyo 
+ Team The Arm 
+ Team Unicorn 
+ Team White Tiger 
+ Team White Wind 
+ The Ambulators 
+ The Enforcers (Team Satisfaction) 
+ The Skull Flames 
+ Iliaster 
+ Iliaster's Four Stars of Destruction 
+ Three Pure Nobles (Three Emperors of Iliaster) 
+ Dueling Assassins 
+ Tournaments 
+ Cross-America Golden Tag Tournament 
+ Exhibition League 
+ Fortune Cup 
+ Legend of Duelist Kingdom 
+ Pegasus J. Crawford Cup Trinidad Riding Duel Grand Prix 
+ Riding in the Battle City 
+ World Racing Grand Prix 
+ Characters' Decks 
+ Andre (Andore) 
+ Aporia 
+ Breo 
+ Bruno 
+ Carly Carmine (Carly Nagisa) 
+ Crow Hogan 
+ Greiger (Bommer) 
+ Hunter Pace (Enjo Mukuro) 
+ Jean 
+ Kalin Kessler (Kiryu Kyosuke) 
+ Lazar (Yeager) 
+ Leo (Rua) 
+ Luna (Ruka) 
+ Mr. Armstrong (Tasaku) 
+ Yusei Fudo 
+ Other 
+ 3000 B.C. Nazca battle 
+ 8000 B.C. Nazca battle 
+ Crimson Dragon 
+ Dragon Star 
+ Goodwin assassination attempt 
+ King of Games (King of Duelists) 
+ Meklord Emperor Genocide 
+ 
+ Characters
+ Anime 
+ Manga 
+ Locations 
+ Music 
+ 
+ 
+ 
+ 
+Images: ['data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/70/DebrisDragon-LC5D-EN-ScR-1E.png/revision/latest/scale-to-width-down/127?cb=20141025110235', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/5a/SpeedWarrior-SDSE-EN-C-1E.png/revision/latest/scale-to-width-down/128?cb=20150827211331', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/6b/QuillboltHedgehog-SDSE-EN-C-1E.png/revision/latest/scale-to-width-down/127?cb=20150827211447', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/6a/StardustDragon-LC5D-EN-C-1E.png/revision/latest/scale-to-width-down/126?cb=20141026141059', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/29/Delta_Accel_Synchro.png/revision/latest/scale-to-width-down/200?cb=20110120180032', 'https://static.wikia.nocookie.net/yugioh/images/4/44/5Ds_Synchro.gif/revision/latest/scale-to-width-down/185?cb=20180601175459', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/f/f5/ARC-V_Synchro.gif/revision/latest/scale-to-width-down/185?cb=20180601175502', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/54/VRAINS_Synchro.png/revision/latest/scale-to-width-down/185?cb=20181221074747', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/9/9b/2010_Synchro.gif/revision/latest/scale-to-width-down/185?cb=20180601175504', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: All articles with dead external links, Articles with dead external links, Types of Summon

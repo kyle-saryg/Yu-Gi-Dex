@@ -1,0 +1,493 @@
+Link: https://yugioh.fandom.com/wiki/Magical_Something
+
+
+ 
+ 
+ Magical Something マジックアブソーバー 
+ 
+ English 
+Magical Something 
+ French 
+ Chose de Magie Check translation 
+ German 
+ Magisches Etwas Check translation 
+ Italian 
+ Qualcosa di Magico Check translation 
+ Korean 
+ 매직앱소버 Check translation 
+ Portuguese 
+ Algo Mágico Check translation 
+ Spanish 
+ Algo Mágico Check translation 
+ Japanese 
+ マジックアブソーバー Check translation 
+ Japanese ( rōmaji ) 
+Majikku Abusōbā 
+ Japanese (translated) 
+Magic Absorber 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Spellcaster  /  Effect 
+ Level 
+ 4   
+ ATK  /  DEF 
+ 1800  /  1300 
+ Passcode 
+ 43930492 
+ Card effect types 
+ 
+ 
+ Continuous 
+ Continuous 
+ Ignition 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+Each time a  Spell Card  is  activated , place 1  Spell Counter  on this card when that Spell  resolves . This card's  Level  is increased by the number of Spell Counters on it. You can remove 3 Spell Counters from this card, then  target  1  Quick-Play Spell  in your  GY ;  Set  that card to your  Spell & Trap Zone . You can only use this  effect  of "Magical Something"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Chaque fois qu'une Carte Magie est activée, placez 1 Compteur Magie sur cette carte lorsque la Magie est résolue. Le Niveau de cette carte est augmenté du nombre de Compteurs Magie sur elle. Vous pouvez retirer 3 Compteurs Magie de cette carte, puis ciblez 1 Magie Jeu-Rapide dans votre Cimetière ; Posez la carte dans votre Zone Magie & Piège. Vous ne pouvez utiliser cet effet de "Chose de Magie" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Jedes Mal, wenn eine Zauberkarte aktiviert wird, lege 1 Zauberzählmarke auf diese Karte, wenn der Zauber aufgelöst wird. Die Stufe dieser Karte wird um die Anzahl der Zauberzählmarken auf ihr erhöht. Du kannst 3 Zauberzählmarken von dieser Karte entfernen und dann 1 Schnellzauber in deinem Friedhof wählen; setze die Karte in deine Zauber- & Fallenzone. Du kannst diesen Effekt von „Magisches Etwas“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Ogni volta che viene attivata una Carta Magia, metti 1 Segnalino Magia su questa carta quando quella Magia si risolve. Il Livello di questa carta aumenta del numero di Segnalini Magia su di essa. Puoi rimuovere 3 Segnalini Magia da questa carta, poi scegliere come bersaglio 1 Magia Rapida nel tuo Cimitero; Posiziona quella carta nella tua Zona Magie & Trappole. Puoi utilizzare questo effetto di "Qualcosa di Magico" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Sempre que um Card de Magia for ativado, coloque 1 Marcador de Magia neste card quando essa Magia resolver. O Nível deste card aumenta pelo número de Marcadores de Magia sobre ele. Você pode remover 3 Marcadores de Magia deste card e, depois, escolher 1 Magia Rápida no seu Cemitério; Baixe esse card na sua Zona de Magias & Armadilhas. Você só pode usar este efeito de "Algo Mágico" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cada vez que es activada una Carta Mágica, pon 1 Contador Mágico en esta carta cuando se resuelva esa Mágica. El Nivel de esta carta se aumenta según la cantidad de Contadores Mágicos que tenga. Puedes retirar 3 Contadores Mágicos de esta carta, y después seleccionar 1 Mágica de Juego Rápido en tu Cementerio; Coloca esa carta en tu Zona de Magia y Trampas. Sólo puedes usar este efecto de "Algo Mágico" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ このカード名の③の効果は１ターンに１度しか使用できない。①：このカードがモンスターゾーンに存在する限り、自分または相手が魔法カードを発動する度に、このカードに魔力カウンターを１つ置く。②：このカードのレベルは、このカードの魔力カウンターの数だけ上がる。③：このカードの魔力カウンターを３つ取り除き、自分の墓地の速攻魔法カード１枚を対象として発動できる。そのカードを自分の魔法＆罠ゾーンにセットする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 이 카드명의 ③의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 몬스터 존에 존재하는 한, 자신 또는 상대가 마법 카드를 발동할 때마다, 이 카드에 마력 카운터를 1개 놓는다. ②: 이 카드의 레벨은, 이 카드의 마력 카운터의 수만큼 올라간다. ③: 이 카드의 마력 카운터를 3개 제거하고, 자신 묘지의 속공 마법 카드 1장을 대상으로 하여 발동할 수 있다. 그 카드를 자신의 마법 & 함정 존에 세트한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2016-07-30  
+ TDIL-ENSP1   
+ The Dark Illusion Sneak Peek Participation Card 
+ Ultra Rare 
+ 
+ 
+ 2016-08-04  
+ TDIL-EN000   
+ The Dark Illusion 
+ Rare 
+ 
+ 
+ 2017-08-24  
+ MP17-EN057   
+ 2017 Mega-Tin Mega Pack 
+ Rare 
+ 
+ 
+ 2019-04-19  
+ SR08-EN010   
+ Structure Deck: Order of the Spellcasters 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2016-07-30  
+ TDIL-FRSP1   
+ The Dark Illusion Sneak Peek Participation Card 
+ L'Illusion des Ténèbres Sneak Peek  
+ Ultra Rare 
+ 
+ 
+ 2016-08-04  
+ TDIL-FR000   
+ The Dark Illusion 
+ L'Illusion des Ténèbres  
+ Rare 
+ 
+ 
+ 2017-08-24  
+ MP17-FR057   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Méga-Boîte Méga-Pack  
+ Rare 
+ 
+ 
+ 2019-04-25  
+ SR08-FR010   
+ Structure Deck: Order of the Spellcasters 
+ Deck de Structure : La Confrérie des Magiciens  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2016-07-30  
+ TDIL-DESP1   
+ The Dark Illusion Sneak Peek Participation Card 
+ The Dark Illusion Sneak Peek  
+ Ultra Rare 
+ 
+ 
+ 2016-08-04  
+ TDIL-DE000   
+ The Dark Illusion 
+ The Dark Illusion  
+ Rare 
+ 
+ 
+ 2017-08-24  
+ MP17-DE057   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Mega-Tin Mega Pack  
+ Rare 
+ 
+ 
+ 2019-04-25  
+ SR08-DE010   
+ Structure Deck: Order of the Spellcasters 
+ Structure Deck: Order of the Spellcasters  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2016-07-30  
+ TDIL-ITSP1   
+ The Dark Illusion Sneak Peek Participation Card 
+ L'Illusione Oscura Sneak Peek  
+ Ultra Rare 
+ 
+ 
+ 2016-08-04  
+ TDIL-IT000   
+ The Dark Illusion 
+ L'Illusione Oscura  
+ Rare 
+ 
+ 
+ 2017-08-24  
+ MP17-IT057   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Mega-Tin Mega Pack  
+ Rare 
+ 
+ 
+ 2019-04-25  
+ SR08-IT010   
+ Structure Deck: Order of the Spellcasters 
+ Structure Deck: Ordine degli Incantatori  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2016-08-12  
+ TDIL-PTSP1   
+ The Dark Illusion Sneak Peek Participation Card 
+ A Ilusão Negra Sneak Peek  
+ Ultra Rare 
+ 
+ 
+ 2016-08-05  
+ TDIL-PT000   
+ The Dark Illusion 
+ A Ilusão Negra  
+ Rare 
+ 
+ 
+ 2017-08-24  
+ MP17-PT057   
+ 2017 Mega-Tin Mega Pack 
+ Mega-Pacote da Mega-Latas 2017  
+ Rare 
+ 
+ 
+ 2019-04-25  
+ SR08-PT010   
+ Structure Deck: Order of the Spellcasters 
+ Deck Estrutural: Ordem dos Magos  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2016-07-30  
+ TDIL-SPSP1   
+ The Dark Illusion Sneak Peek Participation Card 
+ La Ilusión Oscura Sneak Peek  
+ Ultra Rare 
+ 
+ 
+ 2016-08-04  
+ TDIL-SP000   
+ The Dark Illusion 
+ La Ilusión Oscura  
+ Rare 
+ 
+ 
+ 2017-08-24  
+ MP17-SP057   
+ 2017 Mega-Tin Mega Pack 
+ 2017 Mega-Lata Mega Pack  
+ Rare 
+ 
+ 
+ 2019-04-25  
+ SR08-SP010   
+ Structure Deck: Order of the Spellcasters 
+ Baraja de Estructura: Mandato de los Conjuradores  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2017-09-09  
+ EP17-JP044   
+ Extra Pack 2017 
+ ＥＸＴＲＡ ＰＡＣＫ ２０１７  
+ Common 
+ 
+ 
+ 2019-03-09  
+ SR08-JP010   
+ Structure Deck R: Lord of Magician 
+ ストラクチャーデッキＲ －ロード・オブ・マジシャン－  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2017-11-22  
+ EP17-KR044   
+ Extra Pack 2017 
+ EXTRA PACK  ２０１７  
+ Common 
+ 
+ 
+ 2019-06-18  
+ SR08-KR010   
+ Structure Deck R: Lord of Magician 
+ STRUCTURE DECK  R － 로드 오브 매지션 －  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Quick-Play Spell Card 
+ 
+ Counters   
+ Spell Counter 
+ Places counters on itself 
+ Removes counters from itself for cost 
+ 
+ Actions  
+ Sets from your Graveyard 
+ 
+ Stat changes  
+ This card gains Levels 
+ 
+ Miscellaneous  
+ Only once per turn 
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12682 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/94/MagicalSomething-SR08-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20190502213117', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

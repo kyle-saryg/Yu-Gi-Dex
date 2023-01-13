@@ -1,0 +1,9 @@
+Link: https://yugioh.fandom.com/wiki/Property:Japanese_chapter_cover_date
+
+This is a property lists the  cover date  of a magazine in which a chapter of the manga is first released in Japanese.
+ This property uses  date  values.
+ 
+ 
+ 
+ 
+Categories:

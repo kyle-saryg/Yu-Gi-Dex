@@ -1,0 +1,402 @@
+Link: https://yugioh.fandom.com/wiki/Malefic
+
+
+ This article  may require  cleanup  to meet this wiki's standards.   You can help out by re-organizing or re-writing parts of it or checking grammar and spelling.   
+ 
+ 
+ Malefic 
+ Ｓｉｎ 「 シン 」  ( Shin ) 
+ 
+ 
+ 
+ 
+ Paradox  with " Malefic Rainbow Dragon " and " Malefic Cyber End Dragon " inside " Malefic World " 
+ 
+ 
+ Translation 
+ Sin 
+ 
+ 
+ Other names 
+ 
+ French 
+ Corrompu 
+ 
+ 
+ German 
+ Niederträchtig 
+ 
+ 
+ Italian 
+ Maligno 
+ 
+ 
+ Korean 
+ 2= Sin 「 신 」   Sin   (romanized) Translation:  Sin 
+ 
+ 
+ Portuguese 
+ Pernicioso(a) 
+ 
+ 
+ Spanish 
+ Malicioso 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Yu-Gi-Oh! 3D Bonds Beyond Time Theater distribution card Yu-Gi-Oh! 3D Bonds Beyond Time Movie Pack Yu-Gi-Oh! 3D Bonds Beyond Time DVD promotional card Yu-Gi-Oh! 3D Bonds Beyond Time Blu-ray promotional card 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Shonen Jump Vol. 8, Issue 9 promotional card Shonen Jump Vol. 9, Issue 3 promotional card Duelist Pack: Kaiba Collectible Tins 2011 Wave 2 Collectible Tins 2012 Wave 2 Star Pack 2014 Duel Overload Battles of Legend: Armageddon Ghosts From the Past: The 2nd Haunting 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Weekly Shōnen Jump 2010, Issue 2 promotional card V Jump March 2010 promotional card V Jump June 2010 promotional card Jump Festa 2011 - Promotion Pack Promotion Pack 2 Duelist Pack: Yusei 3 Special Edition Advanced Tournament Pack 2013 Vol.3 20th Anniversary Legend Collection Collection Pack 2020 
+ 
+ 
+ 
+ 
+ Korea-Only Sets 
+ 
+ 
+ Premium Pack Vol.6 Promotion Pack 2012 Vol.2 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support Anti-support 
+ 
+ 
+ 
+ 
+
+" Malefic ", known as " Sin " ( Ｓｉｎ   Shin ) in the  OCG , is an  archetype  of  DARK   Dragon  and  Machine   monsters  used by  Paradox  in the  Yu-Gi-Oh! 3D Bonds Beyond Time  movie. They are almost exclusively corrupted versions of existing monsters.
+ 
+ Contents 
+ 
+ 1   Design 
+ 
+ 1.1   Appearance 
+ 1.2   Origin 
+ 1.3   Etymology 
+ 
+ 
+ 2   Members 
+ 3   Playing style 
+ 
+ 3.1   Overview 
+ 3.2   Other strategies 
+ 
+ 3.2.1   Anti-meta 
+ 3.2.2   Stalling and alternative win conditions 
+ 
+ 
+ 3.3   Weaknesses 
+ 
+ 3.3.1   Special Summon reliance 
+ 3.3.2   Field Spell reliance 
+ 3.3.3   Other weaknesses 
+ 
+ 
+ 
+ 
+ 4   Deck building 
+ 
+ 4.1   Recommended cards 
+ 4.2   Official Deck 
+ 
+ 
+ 5   Anime 
+ 6   Trivia 
+ 7   References 
+ 
+ 
+ Design 
+       Designs of "Malefic" monsters     
+ Appearance 
+ Many "Malefic" monsters have mechanical-looking pieces of their body which are made of a mix of white, grey and black metal, including wings and face-plates (and, in the case of " Malefic Stardust Dragon ", knee and torso plates). Their faces have masks similar to that of Paradox, with the right side black, the left side white and line patterns that cover the eyes (" Malefic Cyber End Dragon " also has its far right head black and far left white). " Malefic Blue-Eyes White Dragon " and " Malefic Red-Eyes Black Dragon " are the only "Malefic" monsters whose right eye is not covered by their masks.
+ However, the two non- Dragon  "Malefic" monsters, " Malefic Parallel Gear " and " Malefic Paradox Gear ", are  Machine  monsters instead and like their names imply, are simply gear-like in design.
+ 
+ Origin 
+ Most of the monsters in this archetype are corrupted versions of other monsters (most of which are counterparts of well-known dragons. The remaining four monsters look similar, but have no known non-Malefic counterparts.
+ 
+ Etymology 
+ The Japanese name for this archetype, "Sin", is meant as a pun on the words for "truth" ("shin") and "sin" ("tsumi"), alluding to the truth of human nature as seen by Paradox - that humanity's errors have led to the world's destruction.
+ The English name "Malefic" means "having or asserting a negative influence", referring to how these cards are corrupted versions of existing cards.
+ 
+ Members 
+ 
+ 
+ Malefic monster 
+ Original monster
+ 
+ 
+ Malefic Blue-Eyes White Dragon 
+ Blue-Eyes White Dragon 
+ 
+ 
+ Malefic Cyber End Dragon 
+ Cyber End Dragon 
+ 
+ 
+ Malefic Rainbow Dragon 
+ Rainbow Dragon 
+ 
+ 
+ Malefic Red-Eyes Black Dragon 
+ Red-Eyes Black Dragon 
+ 
+ 
+ Malefic Stardust Dragon 
+ Stardust Dragon 
+ 
+ Playing style 
+ Overview 
+ The basic, underlying playstyle of a "Malefic" Deck is an  Aggro   Beatdown Deck  that focuses on constant  Special Summoning  of high  Level   DARK  monster with high  ATK . Most "Malefic" monsters are Special Summoned by  banishing  their original counterpart from the  hand ,  Deck  or  Extra Deck  (varies by monster) while a  Field Spell Card  is active.
+ " Malefic World " is the Deck's primary  Field Spell Card , acting as a method to search "Malefic" cards at the cost of the  Normal draw , allowing the "Malefic" player to avoid dead draws of monsters that need to be banished for the Summoning conditions of their "Malefic" monsters, as well as setting up " Malefic Truth Dragon " to act as a  hand trap .
+ Due to the Deck's reliance on constantly controlling a Field Spell Card, " Terraforming " is essential, and additional Field Spell Cards—such as " The Seal of Orichalcos ", " Magical Citadel of Endymion ", " Dragon Ravine " and " Geartown "—are recommended. "The Seal of Orichalcos" and "Magical Citadel" both have self-protection, "Dragon Ravine" allows sending "Truth Dragon" to the Graveyard, and "Geartown" allows the player to maintain field presence even if it is destroyed by Summoning " Ancient Gear Gadjiltron Dragon " (which can also be discarded using " Trade-In " to add consistency to the Deck).
+ " Malefic Stardust Dragon " offers support to the archetype by protecting Field Spells from destruction by card effects as well as being very easy to Summon (as " Stardust Dragon " is banished from the  Extra Deck ). " Malefic Rainbow Dragon " and " Malefic Cyber End Dragon " act as the Decks main and easiest to Summon  beatsticks . " Malefic Parallel Gear " is the archetypal  Tuner , which uses a "Malefic" monster from the hand as the non-tuner for the  Synchro Summon , allowing " Malefic Paradox Dragon " (or another Level 10  Synchro Monster  such as " Dragocytos Corrupted Nethersoul Dragon ") to easily be easily Summoned.
+ " Cyber Dragon " works well to help maintain field should all Field Spell Cards leave the field. If using "Cyber Dragon"; " Instant Fusion ", " Panzer Dragon ", " Cyber Dragon Nova " and " Infinity " can be used to protect the Field Spell. Should "Nova" be sent to the  Graveyard  by an opponent's effect, "Nova" can Special Summon a " Cyber End Dragon " from the Extra Deck.
+ " Red-Eyes Darkness Metal Dragon " can be used to revive " Malefic Blue-Eyes White Dragon ", " Malefic Red-Eyes Black Dragon " and "Malefic Paradox Dragon". If a Field Spell, except "Malefic World" is on the field "Paradox Dragon" will be destroyed, thus allowing the usage of "Malefic Truth Dragon" repeatedly. Additionally, using cards such that prevent setting cards (such as " Dark Simorgh ") or cards that cause  piercing  (such as " Dragon's Rage ") can be used to take full advantage of the high ATK of "Malefic" monsters. 
+ By using a combination of " Ojama Trio "/" Nightmare Archfiends " and " Battle Mania "/" All-Out Attacks " "Malefics" can easilly achieve an OTK.
+ With the release of newer support for the archetype, controlling multiple "Malefic" monsters is finally a possibility, along with the bonus of alternate searching methods. " Malefic Territory " effectively acts as an archetypal "Terraforming" with the bonus of providing Field Spell protection. Not only that, but while it is on the field, the player can summon multiple powerful "Mafelics" with high ATK values (and in the case of "Malefic Stardust Dragon", additional Field Spell protection). This also allows any and all of your monsters to attack, albeit with their effects negated. " Malefic Selector " is able to search 2 of your monsters at once at the cost of banishing two from the GY, and none of the monsters can share the same name.
+ If looking for additional summoning, "Paradox Gear" is able to tribute itself while a Field Spell is present to immediately summon "Parralel Gear" for Synchro plays and search another "Malefic" monster (allowing access to a variety of useful Level 10 Synchro Monsters), while also doubling as any necessary monster for the summon of another high-Level "Malefic" monster. This, coupled with " Malefic Divide ", provides excellent play extension as "Divide" can revive any of your monsters although said monsters will be banished at the end of the turn. 
+ " Malefic Tune " can provide easy draw power to the deck despite being naturally slower than most draw cards due to being a Trap, on top of even more searching. All in all, with new support "Malefics" can easily build a board full of menacing beatsticks for a potential OTK.
+ 
+ Other strategies 
+ Anti-meta 
+ In the  OCG , "Malefics" can potentially function well as an  Anti-Meta  Deck, revolving primarily around the cards " Necrovalley " and " Skill Drain ".
+ 
+ Monsters such as " Beast King Barbaros " and " Fusilier Dragon, the Dual-Mode Beast " can be Summoned under "Skill Drain" with their full attack. "Beast King Barbaros" is Level 8, and therefore compatible with "Trade-In", while "Fusilier" is DARK, and therefore compatible with " Allure of Darkness ", " Deck Devastation Virus " and " Eradicator Epidemic Virus ". 
+ "Necrovalley", aside being a Field Spell, is a potent  Floodgate  that will prevent your opponent from summoning or banishing monsters from their  Graveyard . 
+ As the Deck does makes little use of the Graveyard, cards such as " Macro Cosmos " are excellent side-Deck choices.
+ 
+ Stalling and alternative win conditions 
+ An alternative strategy for "Malefics" is to use their high ATK for stalling instead of attacking, and using " Final Countdown " or " Wave Motion Cannon " and cards that can prevent your cards from being destroyed (like " Magic Reflector ", " Imperial Custom " and " Safe Zone ", etc.) to stall until your win condition is met.
+ 
+ " Cost Down " can reduce "Malefic Stardust Dragon"'s level in your hand, which can let you use " Malefic Parallel Gear " to Synchro Summon " Stardust Dragon ". 
+ Weaknesses 
+ Special Summon reliance 
+ Anti- Special Summon  cards such as " Fossil Dyna Pachycephalo " and " Thunder King Rai-Oh " are very dangerous to a "Malefic" Deck, since almost none of the "Malefic" monsters can be  Normal Summoned . Other options include " Koa'ki Meiru Drago ", " Consecrated Light " and the " Barrier Statue " monsters. "Thunder King Rai-Oh" is especially dangerous as it negates the effect of "Malefic World" and "Terraforming".
+ "Skill Drain" is a good counter these monster effects, as well as having a lot of synergy with the "Malefic" Deck. 
+ " Grave of the Super Ancient Organism " is a useful Floodgate against "Malefic" Decks. 
+ " Imperial Iron Wall " prevents both player's from banishing cards, making almost all "Malefic" monsters impossible to Summon.
+ Can be countered with common Spell/Trap removal cards such as " Mystical Space Typhoon ". 
+ Since several "Malefic" monsters need their original forms to be in the Deck or Extra Deck,  Deck Destruction  cards (such as " Needle Worm ", " Gravekeeper's Servant ", and " Doom Dozer ") as well as cards that remove cards from your opponent's Extra Deck (such as " Dragunity Knight - Trident " or " Extra Gate ") can potentially be useful. 
+ Field Spell reliance 
+ Since most "Malefic" monsters are destroyed if there is no Field Spell on the field, having good access to Spell/Trap removal severely limits the "Malefic" player's ability to maintain field presence. 
+ Synchro Decks can use " Ancient Fairy Dragon " to destroy the "Malefic" player's Field Spell, thus destroying any "Malefic" monsters, while also gaining 1000  LP . 
+ A face-up " Field Barrier ", while there are no Field Spells on the field, will lock-out all Field Spells from being activated, thus prevent Summoning of most "Malefic" monsters and also increase the likelihood of dead draws. 
+ Other weaknesses 
+ "Malefic" monsters (with the exception of "Paradox Dragon", "Parallel Gear" and "Paradox Gear") have a restriction to there  only being one "Malefic" monster  on the field , thus making  Mirror Matchs  risky, though the risk can be countered with "Malefic Territory". Also, cards that change control of monsters, such as " Creature Swap ", are dangerous too. 
+ Deck building 
+ Recommended cards 
+ 
+ Recommended Cards Monsters   
+ Effect Monsters 
+ Malefic Cyber End Dragon 
+ Malefic Stardust Dragon 
+ Malefic Truth Dragon 
+ Malefic Paradigm Dragon 
+ Malefic Paradox Gear 
+ Black Luster Soldier - Envoy of the Beginning 
+ Cyber Dragon 
+ Dark Armed Dragon 
+ Darkflare Dragon 
+ Eclipse Wyvern 
+ Interplanetarypurplythorny Dragon 
+ Lightpulsar Dragon 
+ Predaplant Chlamydosundew 
+ Tuner monsters 
+ Malefic Parallel Gear 
+ R-Genex Oracle Extra Deck   
+ Fusion Monsters 
+ Cyber End Dragon 
+ Chimeratech Fortress Dragon 
+ Chimeratech Overdragon 
+ Chimeratech Rampage Dragon 
+ Five-Headed Dragon 
+ Phantasm Emperor Trilojig 
+ Greedy Venom Fusion Dragon 
+ Starving Venom Fusion Dragon 
+ Synchro Monsters 
+ Malefic Paradox Dragon 
+ Locomotion R-Genex 
+ Stardust Dragon 
+ Any other Level 10 Dragon Synchro Monster 
+ Xyz Monsters 
+ Cyber Dragon Nova 
+ Cyber Dragon Infinity 
+ Divine Dragon Knight Felgrand 
+ Hieratic Sun Dragon Overlord of Heliopolis 
+ Neo Galaxy-Eyes Photon Dragon 
+ Number 15: Gimmick Puppet Giant Grinder 
+ Number 38: Hope Harbinger Dragon Titanic Galaxy 
+ Number 107: Galaxy-Eyes Tachyon Dragon Spells   &  Traps   
+ Spells 
+ Malefic World 
+ Allure of Darkness 
+ Burial from a Different Dimension 
+ Dragon's Mirror 
+ Forbidden Chalice 
+ Limiter Removal 
+ Machine Duplication 
+ Mound of the Bound Creator 
+ Overload Fusion 
+ Terraforming 
+ Trade-In 
+ Malefic Divide 
+ Malefic Selector 
+ Malefic Territory 
+ Traps 
+ Malefic Claw Stream 
+ Dark Illusion 
+ Deck Devastation Virus 
+ Dragon's Rebirth 
+ Dragon's Rage 
+ Eradicator Epidemic Virus 
+ Safe Zone 
+ Shadow Impulse 
+ Official Deck 
+ 
+ Malefic Deck [1] Monsters   
+ Normal Monsters 
+ Blue-Eyes White Dragon  x2 
+ Effect Monsters 
+ Armageddon Knight 
+ Malefic Blue-Eyes White Dragon  x2 
+ Malefic Cyber End Dragon  x3 
+ Malefic Rainbow Dragon  x2 
+ Malefic Stardust Dragon  x3 
+ Malefic Truth Dragon 
+ Meklord Emperor Wisel 
+ Metaion, the Timelord 
+ Rainbow Dragon  x2 
+ Tuner monsters 
+ Malefic Parallel Gear  x2 
+ Plaguespreader Zombie Extra Deck   
+ Fusion Monsters 
+ Cyber End Dragon  x3 
+ Synchro Monsters 
+ Assault Blackwing - Onimaru the Divine Thunder 
+ Deskbot Jet 
+ Dragocytos Corrupted Nethersoul Dragon 
+ Stardust Charge Warrior 
+ Stardust Dragon 
+ Xyz Monsters 
+ Aegaion the Sea Castrum 
+ Divine Dragon Knight Felgrand 
+ Number 38: Hope Harbinger Dragon Titanic Galaxy 
+ Number 81: Superdreadnought Rail Cannon Super Dora 
+ Superdreadnought Rail Cannon Gustav Max Spells   &  Traps   
+ Spells 
+ D.D.R. - Different Dimension Reincarnation 
+ Foolish Burial 
+ Mound of the Bound Creator  x3 
+ Terraforming  x3 
+ The Melody of Awakening Dragon 
+ The Seal of Orichalcos 
+ Trade-In  x2 
+ Traps 
+ Dark Bribe  x2 
+ Metal Reflect Slime 
+ Skill Drain  x2 
+ Solemn Judgment 
+ 
+ Raise The Curtain Of Destruction On The Stage Beyond Time! “Malefic” Deck [2] Monsters   
+ Effect Monsters 
+ Ahrima, the Wicked Warden  x3 
+ Darkest Diabolos, Lord of the Lair 
+ Legendary Maju Garzett 
+ Malefic Blue-Eyes White Dragon 
+ Malefic Cyber End Dragon  x2 
+ Malefic Paradox Gear  x3 
+ Malefic Rainbow Dragon 
+ Malefic Stardust Dragon  x3 
+ Malefic Truth Dragon 
+ Tuner monsters 
+ Malefic Parallel Gear  x2 Extra Deck   
+ Fusion Monsters 
+ Cyber End Dragon  x2 
+ Synchro Monsters 
+ Assault Blackwing - Onimaru the Divine Thunder 
+ Malefic Paradox Dragon  x2 
+ Stardust Dragon  x2 
+ Link Monsters 
+ Linkuriboh Spells   &  Traps   
+ Spells 
+ Advance Draw  x3 
+ Lair of Darkness 
+ Malefic Divide 
+ Malefic Selector  x3 
+ Malefic Territory  x3 
+ Malefic World  x3 
+ One for One 
+ Recurring Nightmare  x2 
+ The Melody of Awakening Dragon 
+ Trade-In  x3 
+ Traps 
+ Malefic Tune 
+ Anime 
+ Paradox , the antagonist of  Yu-Gi-Oh! 3D Bonds Beyond Time , plays a "Malefic" Deck. He claims that they are the most powerful cards in history, due to the fact that they aren't bound to  Normal Summoning  rules.
+ In the movie, "Malefic" monsters were much more flexible than their  OCG / TCG  cards; multiple "Malefic" monsters could exist on the field at once, they did not impose attack restrictions on their controller and the original monsters were sent to the  Graveyard  (instead of being  banished ), thus allowing Paradox to easily and constantly swarm the field with his powerful monsters.
+ 
+ Trivia 
+ In the trailers shown before every episode [ citation needed ]  are nine face-down cards. The first 5 are the "Malefic" monsters that were corrupted versions of original Dragons. The sixth is " Elemental HERO Neos Knight ", the seventh is " Junk Gardna ", the eighth is " Malefic Parallel Gear ", and the ninth is " Malefic Paradox Dragon ".
+ All of these cards featured prominently in the movie. The "Malefic" monsters have also appeared in alternate versions of the  FREEDOM  and  -OZONE-  animations that used footage from the film. 
+ All seven "Malefic" Spell/Trap Cards in Japanese have their names printed in English. 
+ "Malefic" monsters share some traits with two other 5Ds Era archetypes used by antagonists; " Earthbound Immortals " and " Meklord Emperors ".
+ "Earthbound Immortal": Both archetypes consist of  DARK  monsters, they are (for "Malefic" most are)  Field-Unique  and  destroy  themselves if a  Field Spell Card  is not present. 
+ "Meklord Emperor": They share an effect which prevents other monsters you control from attacking. 
+ References 
+ 
+ 
+ ↑   https://ygorganization.com/ocg-may-duelist-festival-2016-obelisk-force-deck-recipes/ 
+ 
+ ↑   https://ygorganization.com/thestagebeyondtimeinthedarkdimension/ 
+ 
+ 
+   
+" Malefic " 「 Ｓｉｎ 」 Members 
+ Malefic Blue-Eyes White Dragon Malefic Cyber End Dragon Malefic Paradigm Dragon Malefic Paradox Dragon Malefic Paradox Gear Malefic Parallel Gear Malefic Rainbow Dragon Malefic Red-Eyes Black Dragon Malefic Stardust Dragon Malefic Truth Dragon 
+ Malefic Claw Stream Malefic Divide Malefic Selector Malefic Territory Malefic Tune Malefic World 
+ Support 
+ Malefic Paradigm Dragon Malefic Paradox Dragon Malefic Paradox Gear Malefic Parallel Gear Malefic Truth Dragon 
+ Malefic Claw Stream Malefic Divide Malefic Selector Malefic Territory Malefic Tune Malefic World 
+ Anti-support 
+ Malefic Blue-Eyes White Dragon Malefic Cyber End Dragon Malefic Rainbow Dragon Malefic Red-Eyes Black Dragon Malefic Stardust Dragon Malefic Truth Dragon 
+ Malefic Territory 
+ Related 
+ Blue-Eyes White Dragon Cyber End Dragon Rainbow Dragon Red-Eyes Black Dragon Stardust Dragon 
+ 
+ v e 
+" Malefic " 「 Ｓｉｎ 」 a   Members 
+ Malefic Blue-Eyes White Dragon Malefic Claw Stream Malefic Cyber End Dragon Malefic Divide Malefic Force Malefic Paradigm Shift Malefic Paradox Dragon Malefic Parallel Gear Malefic Rainbow Dragon Malefic Red-Eyes B. Dragon Malefic Selector Malefic Stardust Dragon Malefic Truth Dragon Malefic Tune Malefic World 
+ Support 
+ Malefic Claw Stream Malefic Divide Malefic Paradox Dragon Malefic Rainbow Dragon Malefic Selector Malefic Truth Dragon Malefic Tune Malefic World 
+ Related 
+ Blue-Eyes White Dragon Cyber End Dragon Rainbow Dragon Red-Eyes B. Dragon Stardust Dragon 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/90/Broom_icon.png/revision/latest/scale-to-width-down/35?cb=20070612131135', 'https://static.wikia.nocookie.net/yugioh/images/a/ab/Malefic.png/revision/latest/scale-to-width-down/350?cb=20141207194313', 'https://static.wikia.nocookie.net/yugioh/images/d/d7/The_Sin_Archetype.jpg/revision/latest/scale-to-width-down/300?cb=20111007064554']
+Categories: Articles needing cleanup, Archetypes, TCG and OCG archetypes, Archetypes with Synchro Monster(s)

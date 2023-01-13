@@ -1,0 +1,33 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Ancient_Sacred_Wyvern
+
+
+ Ancient Sacred Wyvern 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ TCG Rulings 
+ Paying 1000  Life Points  is a  cost  to activate the effect. [1] 
+ OCG Rulings 
+ Paying 1000 Life Points is a  cost  to activate the Special Summoning effect of " Ancient Sacred Wyvern ". [2] 
+ The effect of " Ancient Sacred Wyvern " increases or decreases its ATK based on the current difference between your  and your opponents' Life Points.  The increase or decrease is NOT based solely on your opponent's Life Points.  If either player's Life Points changes, then the increase or decrease changes accordingly. [3] 
+ Example: If you have 2000 Life Points and your opponent has 1000, then " Ancient Sacred Wyvern " gains +1000 ATK.  If your opponent's Life Points then increase to 1500, then the ATK increase to " Ancient Sacred Wyvern " becomes +500. [3] 
+ References 
+ 
+ ↑   Konami Gameplay FAQ : Ancient Prophecy -- Card Rulings (version 1.0) 
+ 
+ ↑   Konami FAQ : Synchro Monster > Ancient Sacred Wyvern 
+ 
+ ↑  3.0   3.1   Konami FAQ : How do you calculate the ATK increase or decrease to "Ancient Sacred Wyvern"? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

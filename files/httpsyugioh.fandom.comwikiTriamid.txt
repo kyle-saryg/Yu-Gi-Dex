@@ -1,0 +1,322 @@
+Link: https://yugioh.fandom.com/wiki/Triamid
+
+
+ 
+ Triamid 
+ トラミッド  ( Toramiddo ) 
+ 
+ 
+ 
+ 
+ " Triamid Sphinx " 
+ 
+ 
+ Translation 
+ Tramid 
+ 
+ 
+ Other names 
+ 
+ French 
+ Triamid 
+ 
+ 
+ German 
+ Triamid 
+ 
+ 
+ Italian 
+ Triamide 
+ 
+ 
+ Korean 
+ 트라미드   Teuramideu   (romanized) Translation:  Tramid 
+ 
+ 
+ Portuguese 
+ Triâmide 
+ 
+ 
+ Spanish 
+ Trirámide Translation:  Triramid 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ The Dark Illusion Dawn of Majesty 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Triamid ", known as " Tramid " (トラミッド  Toramiddo ) in the  OCG  is an  archetype  of  EARTH   Rock   monsters  that debuted in  The Dark Illusion .
+ 
+ Contents 
+ 
+ 1   Design 
+ 
+ 1.1   Appearance 
+ 1.2   Etymology 
+ 
+ 
+ 2   Members 
+ 3   Playing style 
+ 4   Weaknesses 
+ 5   Recommended cards 
+ 6   Official Decks 
+ 7   References 
+ 
+ 
+ Design 
+ Appearance 
+ Visually, the archetype seems to be patterned after common elements of Egyptian culture with a futuristic twist. The revealed Field Spell Cards appear to be a transformed, mechanized pyramid that resembles a " city-bot " from the Transformers franchise in various phases of transformation, starting off with a  sealed look and defensive effect , resulting in a  heavily-armed appearance and an offensive effect . The "Triamid" monsters are based on figures in Ancient Egyptian mythology.
+ 
+ Etymology 
+ The TCG name "Triamid" is the portmanteau of " Tria ngle" and "Pyra mid ", while in the OCG, it is the portmanteau of " Tra nsformation" and "Pyra mid ".
+ 
+ 
+ Members 
+ 
+ 
+ Triamid
+ 
+ Origin
+ 
+ Unique  effect 
+ 
+ 
+ Dancer 
+ 
+ Bastet 
+ 
+ Shuffles a "Triamid" card from the controller's Graveyard into their Deck, then all Rock monsters they currently control gain 500 ATK and DEF
+ 
+ 
+ Hunter 
+ 
+ Anubis 
+ 
+ Allows one additional Normal Summon/Set for a Rock monster if there is a face-up Field Spell Card
+ 
+ 
+ Master 
+ 
+ Pharaoh 
+ 
+ Sends a face-up "Triamid" card the controller controls to the Graveyard, then destroys a Set card
+ 
+ 
+ Sphinx 
+ 
+ Sphinx 
+ 
+ N/A
+ 
+ Playing style 
+ The "Triamid" archetype ostensibly focuses on using the effects of its  Field Spell Cards  to gain a foothold over the opponent by amassing advantage. Each of the archetype's Field Spell Cards has three distinct effects with the following common characteristics. The first effect acts as support for Rock monsters in general, the second effect supports "Triamid" monsters on the field, and the third effect can be used  only once per turn , triggering when the card is sent to the Graveyard from the  Field Zone .
+ 
+ 
+ 
+ 
+ "Triamid" Field Spell Card 
+ Rock monster support effect 
+ "Triamid" monster support effect 
+ Graveyard effect
+ 
+ 
+ Cruiser 
+ The controller gains 500 LP when a Rock monster is Normal Summoned. 
+ The controller can draw 1 card and discard 1 card if they Normal Summon a "Triamid" monster. 
+ The controller can add 1 "Triamid" monster from their Deck to their hand.
+ 
+ 
+ Fortress 
+ Rock monsters on the field gain 500 DEF. 
+ Prevents "Triamid" monsters from being destroyed by card effects. 
+ The controller can target 1 "Triamid" monster in their Graveyard, and add it to their hand.
+ 
+ 
+ Kingolem 
+ Rock monsters on the field gain 500 ATK. 
+ Prevents the controller's opponent from activating cards or effects until the end of the Damage Step when the controller's "Triamid" monsters battle. 
+ The controller can Special Summon 1 "Triamid" monster from their hand.
+ 
+ The archetype's Level 3 and 4 monsters all have two effects, the first of which is unique to the monster, while the second is a common effect that helps to maintain  field advantage , by targeting and sending the controller's face-up "Triamid" Field Spell Card to the Graveyard, and replacing it with another one from the controller's Deck during the opponent's turn. This allows the controller to easily access the Graveyard trigger effects of the "Triamid" Field Spell Cards. During their own turn, the controller can also achieve both this, and avoid having excess Field Spell Cards accumulating in their hand, by simply activating "Triamid" Field Spell Cards in their hand, over the one in their Field Zone. 
+ " Triamid Master " plays a vital role in the deck, as either of its two effects enable the archetype to quickly send its Field Spell Cards to the Graveyard. The unique effect of " Triamid Hunter " also contributes to the archetype's speed and ability to press advantage, allowing the controller to Normal Summon a Rock monster per turn, in addition to the Normal Summon/Set, while there is a face-up Field Spell Card on the field. 
+ In order to ensure that the archetype can continue to generate advantage and cycle through their Field Spell Cards, the unique effect of " Triamid Dancer " returns "Triamid" cards from the controller's Graveyard to their Deck, allowing re-use of their Field Spell Cards, whilst also giving all Rock monsters on the controller's field a permanent 500 ATK and DEF boost. Additionally, " Triamid Pulse " takes advantage of the archetype's tendency to amass their cards in the Graveyard by turning said cards into a utilizable resource, with one of three effects that can be applied per turn at the cost of banishing two Rock monsters and/or "Triamid" Field Spell Cards from the Graveyard. Given its varied effects, "Pulse" is adaptable for several situations the controller may face, either destroying another face-up card, Special Summoning a Rock monster from the controller's Graveyard, or returning three "Triamid" Field Spell Cards to the controller's Deck and allowing them to draw a card. It can also be used to banish non-EARTH monsters if the player uses " Block Golem ".
+ The unique effect of "Master" also lets the controller amass "Triamid" Field Spell Cards in the Graveyard as a means to bolster the ATK of " Triamid Sphinx ", which can be easily Special Summoned through its own  Summoning condition  or the Graveyard trigger effect of " Triamid Kingolem ". In addition to boosting its own ATK, the effects of "Sphinx" also prevents the opponent from attacking the controller's other monsters while they control another "Triamid" card, a feat easily achievable given the archetype's propensity to maintain an active Field Spell Card. "Sphinx" can thus easily lock down the opponent by serving as both a formidable attacker and defensive wall.
+ 
+ Weaknesses 
+ As the archetype relies heavily on rapidly sending its Field Spell Cards from the Field Zone to the Graveyard and then activating new ones to maintain advantage, it is especially vulnerable to any cards that prevent the controller from activating Field Spell Cards. Such cards include " Closed Forest ", " Field Barrier ", and " Gravekeeper's Shaman ", which cripple the archetype by slowing it to a crawl and rendering the second effects of Level 3 or 4 "Triamid" monsters useless, until these obstructing effects can be cleared away.
+ 
+ Recommended cards 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ Triamid Dancer 
+ Triamid Hunter 
+ Triamid Master 
+ Triamid Sphinx 
+ Block Dragon  (in OCG/Traditional Format) 
+ Block Golem  (if using only EARTH monsters) 
+ Chronomaly Tula Guardian 
+ Doki Doki 
+ Gaia Plate the Earth Giant 
+ Koa'ki Meiru Guardian 
+ Koa'ki Meiru Overload 
+ Koa'ki Meiru Sandman 
+ Koa'ki Meiru Wall 
+ Neo-Spacian Grand Mole 
+ Sentry Soldier of Stone 
+ Tackle Crusader Extra Deck   
+ Xyz Monsters 
+ Cairngorgon, Antiluminescent Knight 
+ Giant Soldier of Steel 
+ Gorgonic Guardian 
+ Number 51: Finisher the Strong Arm 
+ Number 55: Gogogo Goliath 
+ Number 106: Giant Hand 
+ Soul of Silvermountain 
+ Link Monsters 
+ Missus Radiant Spells   &  Traps   
+ Spells 
+ Triamid Cruiser 
+ Triamid Fortress 
+ Triamid Kingolem 
+ Burial from a Different Dimension 
+ Catapult Zone 
+ Chicken Game  (in OCG/Traditional Format) 
+ Demise of the Land 
+ Diamond Core of Koa'ki Meiru 
+ Magic Planter 
+ Pseudo Space 
+ Solidarity  (if using only Rock monsters) 
+ Terraforming 
+ Ties of the Brethren 
+ Z-ONE 
+ Traps 
+ Triamid Pulse 
+ Call of the Haunted 
+ Gozen Match  (if using only EARTH monsters) 
+ Metaverse 
+ Release from Stone 
+ Rivalry of Warlords  (if using only Rock monsters) 
+ Rock Bombardment 
+ Official Decks 
+ 
+ Konami Decklist [1] Monsters   
+ Effect Monsters 
+ Construction Train Signal Red  x2 
+ Giant Rat 
+ Guldfaxe of the Nordic Beasts  x2 
+ Planet Pathfinder 
+ Tanngnjostr of the Nordic Beasts  x3 
+ Triamid Dancer  x2 
+ Triamid Hunter  x3 
+ Triamid Master  x3 
+ Triamid Sphinx  x2 Extra Deck   
+ Synchro Monsters 
+ Ancient Fairy Dragon 
+ Ancient Pixie Dragon  x2 
+ Black Rose Dragon 
+ Black Rose Moonlight Dragon 
+ Clear Wing Synchro Dragon 
+ Crimson Blader 
+ PSY-Framelord Omega 
+ Scrap Dragon 
+ Star Eater 
+ Thor, Lord of the Aesir 
+ Xyz Monsters 
+ Evilswarm Exciton Knight 
+ Gorgonic Guardian 
+ Soul of Silvermountain 
+ The Phantom Knights of Break Sword Spells   &  Traps   
+ Spells 
+ Ancient Forest  x2 
+ Black Garden 
+ Chicken Game 
+ Harpie's Feather Duster 
+ Monster Reborn 
+ Pot of Avarice 
+ Terraforming  x3 
+ Triamid Cruiser  x2 
+ Triamid Fortress  x2 
+ Triamid Kingolem  x3 
+ Transmodify  x3 
+ Traps 
+ Triamid Pulse  x2 
+ 
+ “Triamid” Deck [2] Monsters   
+ Normal Monsters 
+ Galaxy Serpent  x1 
+ Prisman  x1 
+ Effect Monsters 
+ Block Dragon  x1 
+ Destrudo the Lost Dragon's Frisson  x3 
+ Gem-Knight Lazuli  x2 
+ Sentry Soldier of Stone  x1 
+ Triamid Dancer  x3 
+ Triamid Hunter  x3 
+ Triamid Master  x2 
+ Triamid Sphinx  x1 Extra Deck   
+ Fusion Monsters 
+ Gem-Knight Seraphinite  x1 
+ Gem-Knight Zirconia  x1 
+ Synchro Monsters 
+ Ancient Fairy Dragon  x1 
+ Ancient Pixie Dragon  x1 
+ Black Rose Moonlight Dragon  x1 
+ Hot Red Dragon Archfiend Abyss  x1 
+ Yazi, Evil of the Yang Zing  x1 
+ Xyz Monsters 
+ Gorgonic Guardian  x2 
+ Leviair the Sea Dragon  x1 
+ Soul of Silvermountain  x1 
+ Super Quantal Mech Beast Grampulse  x1 
+ Link Monsters 
+ Decode Talker  x1 
+ Missus Radiant  x2 Spells   &  Traps   
+ Spells 
+ Brilliant Fusion  x3 
+ Chicken Game  x3 
+ Foolish Burial  x1 
+ Set Rotation  x2 
+ Terraforming  x2 
+ Triamid Cruiser  x3 
+ Triamid Fortress  x3 
+ Triamid Kingolem  x2 
+ Traps 
+ Metaverse  x3 
+ Triamid Pulse  x2 
+ References 
+ 
+ ↑   https://ygorganization.com/ocg-tdil-deck-lists-from-konami/ 
+ 
+ ↑   https://ygorganization.com/therealfaerealmwasinegyptallalong/ 
+ 
+ 
+   
+" Triamid " 「トラミッド」 Members 
+ Triamid Dancer Triamid Hunter Triamid Master Triamid Sphinx 
+ Triamid Cruiser Triamid Fortress Triamid Kingolem Triamid Loading Triamid Pulse 
+ Support 
+ Triamid Dancer Triamid Hunter Triamid Master Triamid Sphinx 
+ Triamid Cruiser Triamid Fortress Triamid Kingolem Triamid Loading Triamid Pulse 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/7a/TriamidSphinx-TDIL-EN-SR-1E.png/revision/latest/scale-to-width-down/337?cb=20160805082508']
+Categories: Archetypes, TCG and OCG archetypes

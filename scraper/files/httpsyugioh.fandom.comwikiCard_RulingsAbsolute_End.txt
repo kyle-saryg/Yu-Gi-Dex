@@ -1,0 +1,68 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Absolute_End
+
+
+ Absolute End 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Contents 
+ 
+ 1   OCG Rulings 
+ 2   Previously Official Rulings 
+ 
+ 2.1   Mentions in Other Rulings 
+ 
+ 
+ 3   References 
+ 
+ 
+ OCG Rulings 
+ Even if you have  activated  " Absolute End " this turn, during the opponent's  Battle Phase , if you activate " Call of the Haunted " and  Special Summon  a new  monster  after the opponent declares a  direct attack , a  replay  occurs. In that case, due to the effect of "Absolute End", the attacking player must either attack directly or cancel the attack. [1] 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [2]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [3] [4] [5] [6] [7] [8] [9] [10] [11] 
+ 
+ When " Absolute End " is  activated  during an  attack , that  attack  becomes a  direct attack . 
+ If " Taunt " and " Absolute End " are both  active , the  attack  becomes a  direct attack  to your  Life Points . This is because the  attack   target  is the  monster  selected by " Taunt ", but then " Absolute End " turns it into a  direct attack . 
+ Mentions in Other Rulings 
+ Feather Shot : You cannot  activate  " Feather Shot " during a turn where " Absolute End " has been  activated . If " Feather Shot " has already  resolved , " Absolute End " cannot be  activated . If " Absolute End " is  chained  to " Feather Shot ", then the selected " Elemental Hero Avian " cannot  attack . 
+ Staunch Defender : If " Absolute End " and " Staunch Defender " are both  activated  during the same turn, the last one to  resolve  will be the one that applies. 
+ 
+ 
+ 
+ References 
+ 
+ ↑   Konami OCG Card Database : During my opponent's turn, I activate "Absolute End". During the Battle Phase, after my opponent declares a direct attack, I activate "Call of the Haunted" and Special Summon a new monster. In this case, will a replay still occur? 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

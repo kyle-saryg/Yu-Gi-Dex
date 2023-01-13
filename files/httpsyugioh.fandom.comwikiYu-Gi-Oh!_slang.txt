@@ -1,0 +1,193 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_slang
+
+The following words are commonly used by players to describe certain game mechanics but are NOT official terminology in  Yu-Gi-Oh! , and therefore is not absolutely necessary to be followed/used. These words usually come from other card games, are direct translations from another language (mainly from Japanese), or are simplifications for an action.
+ 
+ Real-World 
+ Anti-Meta  - Cards, Decks or strategies specifically designed to counter the best decks. 
+ Ban  - The act of  forbidding  a card from being used.
+ Banlist  - List of Forbidden,  Limited  or  Semi-Limited  cards. 
+ Bump  - In terms of card  rarity , when a  reprint  of an individual card has its rarity upgraded higher than either its initial release or other previous reprints of a lower rarity
+ For example, " Dinowrestler Pankratops " going from a  Common  in its initial release in  Soul Fusion  to a  Secret Rare  as its first reprinted instance in  Battles of Legend: Hero's Revenge . 
+ Chase card  - The most highly sought-after cards in a  Booster Pack , usually attested to that card's power or value (e.g. " Heavymetalfoes Electrumite " in its first  TCG  release within  Extreme Force ). 
+ Control  - A type of Deck whose core tenet is manipulating what the opponent can and cannot do (both proactively and reactively.) 
+ Consistency  - The frequency at which a Deck performs the way it is intended to perform. 
+ Degenerate  - Card combos that require little to no thinking in its execution, and is viewed as unfair by players. 
+ Evolution  / Retrain  - A card that is better than another card while the two cards hold a similar design  OR  function. 
+ Format  - the game based on the available card pool and Forbidden/Limited list at a specific period of time. For example, Goat Format, which used the  April 2005 Lists  and featured  Goat Control  as the most prevalent Deck. 
+ God Box  - In referencing  Booster Boxes  or similar non-Deck or promotional  Yu-Gi-Oh!  packages that offer more cards than a Booster Pack but don't have guaranteed cards (e.g.   Duel Power ), the description for such a packaging that contains outstanding pulls from boosters. 
+ Lottery card  - Card(s) in core  Booster Packs  that exist as multiple rarities, of which the higher of the rarity in question has obviously more value and a lower chance of being pulled (e.g. in its first International release, " Marincess Sea Horse " existing as both an  Ultra Rare  and the extremely hard-to-get  Prismatic Secret Rare  in  Rising Rampage .) 
+ Master Rule 4 :  New Master Rules . 
+ Master Rule 5 :  New Master Rules (April 2020 Revision) . 
+ Meta  - Competitive decks in the current banlist and card pool. 
+ Powercreep  - The process of which new cards outclass old cards in terms of strength. 
+ Record  - A player's current standing in a tournament. In  Yu-Gi-Oh! , it's usually represented in the X-0 or X-1 format, where  X  is the number of wins and the right digit is the number of losses. 
+ Vanilla  - A  Normal monster . Termed as such due to the Normal Monsters' beige card frame which is an analogy to the vanilla flavor, and the use of the word " vanilla " to describe something plain or ordinary. 
+ Rule-sharking  - The abuse of game rules or tournament regulations to gain unfair advantages. This form of unfair conduct is often used on less experienced players.  Punishable in tournament . 
+ Scaling : Refers to the act of weighing  Booster Packs  with an electronic scale to determine which pack has a rare card. 
+ Scoop  -  Surrender ; this is so-called because tournament players that admit defeat typically gather (hence "scoop") up their cards quickly to prepare for the next Duel or Match. 
+ Staple  - A good card that can be used in many Decks, for example " Pot of Desires ", " Pot of Extravagance " or " Pot of Prosperity " etc. 
+ Sideboard :  Side Deck . 
+ S/T / S&T / ST  - Spell and Trap Cards. 
+ Stacking  - The act of arranging cards to ensure a player draws a good card while the other doesn't. 
+ Tech  /  Spice  - A card(s) placed in a  Main Deck ,  Side Deck , or  Extra Deck  for the purpose of supporting a deck with cards that help it run smoother, deal with cards that would counter the deck, or to combat specific deck builds often run in the current Metagame. 
+ Tier  n  - Tiers are grouping systems that win which Decks are ranked on their competitive  viability and performance in a particular format.  Tier  n  equals a number that can be beaten by other Tier  n  Decks of the same or higher-tiering (those whose numbers are less than  n .)
+ Tier 0  - A deck that can only be beaten by itself. 
+ Top  - Achieving prizing from a tournament or making it to the secondary stage of larger tournament events. 
+ x  of  - The number of copies of certain cards one runs in a Deck, where  x  equals the number of copies.
+ Playset  - 3 copies of a single card 
+ Game State 
+ Advantage  - The amount of cards one player has relative to another.  Generally, the player with more cards is seen as the one with better advantage. 
+ Beatstick  - a monster with high ATK relative to its  Level ,  Rank  or  Link Rating  (such as " Gene-Warped Warwolf ") 
+ Book  / Blanket  -  Flipping  a monster to face-down  Defense Position . 
+ Board  - The entire  Field . 
+ Bomb  - A card that makes a large impact on the game when played. 
+ Boss (Monster)  - The most powerful monster(s) of an archetype or  Deck , either by ATK/DEF or by an effect. Usually double as the deck's win condition.
+ For example, the boss monster of the " Cubic " archetype is " Crimson Nova Trinity the Dark Cubic Lord ". 
+ Another example is " Lightsworn " deck which has multiple bosses: " Judgment Dragon " or " Michael, the Arch-Lightsworn ". 
+ Bubble  - In a  tournament , to be in contention for one of the last few positions in the top-cut. 
+ Buff  - An  OCG / TCG  card's effect being made stronger than its anime/manga version. 
+ Cancer  - A card or strategy that is frustrating to play against. 
+ Ceiling  - A Deck's maximum potential "power" at its disposal. 
+ Chimeratech  -  Multiple attacker  in effect. This slang is taken from the name " Chimeratech Overdragon ", arguably the most well-known multiple attackers. 
+ Combo piece  - A card that serves as a component to another card(s) that either work together better than those cards individually or aid in the Deck's functions (see  Combo ). 
+ Cost  - An action that must be performed in order to activate a card or effect. 
+ Dead Card  - A card with no ability to impact the game.
+ Blank  - To make an opponent's card have little to no value. 
+ Engine  - A number of cards that help a Deck achieve a certain action or helps a player draw a good card.
+ For example, a player uses a " Windwitch " engine consisting of " Windwitch - Snow Bell ", " Windwitch - Ice Bell ", " Windwitch - Glass Bell ", and " Windwitch - Crystal Bell " to  Special Summon  " Crystal Wing Synchro Dragon " quickly. 
+ Turbo  - A related term involving bringing out a strong monster from the Deck/Extra Deck in one turn, using as few cards in the hand as possible. 
+ Extender  - A card that can either facilitate larger plays or allows for recovery to proceed with a current play (e.g. " Isolde, Two Tales of the Noble Knights ").
+ Overextending  - Unnecessarily wasting resources furthering a position that would have otherwise won a game. 
+ Flash  -  Spell Speed 2 . 
+ Flexible  - The quality of a card being effective in a variety of situations. 
+ Floater  - A monster that generates card advantage either when it's Summoned or when it leaves the field; in the case of the latter, typically replacing itself with another card on the field (e.g. " Madolche Magileine " for its Summon and " Mermail Abysslinde " for if it's removed from the field.) 
+ Floodgate  - A card that restricts one or both players from performing certain actions. 
+ Fodder  - A card that is used solely as a  Tribute ,  Material  or for  Costs . 
+ FTK / OTK :  First Turn Kill  and  One Turn Kill , respectively. 
+ Fusion  - " Polymerization " cards. 
+ Game / Lethal  - A combination of cards and actions that result in one player winning the Duel. 
+ Garnet  - A card that is a necessary part of an engine, yet is nearly useless on its own.
+ This term references  Gem-Knight Garnet , a common card in the " Brilliant Fusion "/" Gem-Knight Seraphinite " engine that is simply a 1900 ATK Normal Monster on its own. 
+ Generic  - usually referring to  materials  required to summon monsters from the Extra Deck, as the opposite of "specific". Can also refer to such Extra Deck monsters themselves:
+ Any Fusion Monster that does not list specific monsters as Fusion Material can be considered generic, even though other properties will be specified such as Type, Attribute or  Ability . 
+ A "generic" Synchro Monster is one that simply requires "1 Tuner + 1+ non-Tuner monsters". 
+ A "generic" Xyz Monster is one that simply requires 2 or more monsters of the same Level. 
+ A "generic" Link Monster (Link 2 or higher) is one that simply requires 2 or more monsters as Link Material. 
+ Grind Game  - A situation where both players are making a minimal amount of moves and neither player can pull ahead. 
+ OPT  - Once Per turn;  Limited activations .
+ Hard OPT / HOPT  -  Only once per turn . 
+ Hand Trap : A monster whose effect activates from the hand, such as " Maxx "C"  or " Ash Blossom & Joyous Spring ". 
+ Helmet  - A deck that's linear and easy to play. 
+ Honest  - a monster effect that lets itself, or another monster, gain high amounts of ATK during the  Damage Step . Named after the first monster with such an effect that was used competitively. 
+ Inherent  - Unofficial term for a type of Summon that neither requires an  activation , nor starts a Chain. 
+ Ignorant  - Something that wins games on its own with little or no play interaction. 
+ Lockdown  - A situation in which a player has extensive field control. 
+ Loop  - A series of action that results in the same or at least similar effect that can be used over and over again. 
+ Lonefire  - A monster that Tributes itself to Special Summon another monster from the Deck.
+ Reference to " Lonefire Blossom " 
+ Maxx "C"  Challenge : A player takes this "challenge" when they Special Summon a lot of monsters after their opponent uses the effect of  Maxx "C" . If the player doesn't win that turn, then their opponent will typically win due to all of the cards accumulated with the effect of  Maxx "C" . 
+ Mirror Match  - Two opposing Decks using the same Archetype, strategy or theme. 
+ Missing the timing  - The inability to activate a card/effect when it would meet its activation timing because it is not possible to activate it (stylized as  When  X : You can  Y . ) 
+ MST / Cyclone  - " Mystical Space Typhoon "  OR  the act of using it. "Cyclone" is the card's Japanese name. 
+ Nerf  An  OCG / TCG  card's effect that is weaker than its anime or manga counterpart. 
+ Netdeck  - The act of copying a Deck (often those that win the YCS or placed high in a competition) from online sources. 
+ On legs  - A monster's effect which is the same as that of a known Spell/Trap Card, and can be activated at any time without (or with few) restrictions, making it superior to the Spell/Trap Card.
+ For example, " Evolzar Laggia " can be considered a " Solemn Judgment " on legs because it can activate its effect as soon as it is summoned. 
+ OP (Overpowered) / Broken / Busted  - A card that is too powerful compared to other cards. 
+ Out/"The Out"  - Specific card(s) that can be used to effectively counter either other card(s) or specific play(s) by your opponent.
+ Hate  - Specific card(s) that can be used to effectively counter entire Decks or strategies (e.g. " Light-Imprisoning Mirror " against  LIGHT  Decks.) 
+ Pile  - A stack of card, usually  Graveyard . 
+ Play  - An action involving playing a card or cards, often a combo, e.g. "making a play". 
+ Removal  - Any means of removing a card (usually monsters) from the field. 
+ Row  - Series of card  Zones , with the "Front Row" referring to " Main Monster Zone " and the "Back Row" referring to " Spell & Trap Zone "
+ Backrow removal  - The act of removing Spell/Traps from the field. 
+ Rogue  - A deck that sees little to no play in a competitive environment. 
+ ROTA  - A card effect that adds a card from the Deck to the hand.
+ The term is an abbreviation for the Spell " Reinforcement of the Army ", which is arguably the first meta-relevant card to have such an effect. 
+ Starter  - A card that serves as a player's play opener and sets the rest of their Deck in motion. 
+ SEGOC  -  Simultaneous Effects Go On Chain . 
+ Spell Speed 4  - An unofficial term that describes a card with the " Your opponent cannot activate cards or effects in response to this effect's activation " in the text. 
+ Tempo  - In a Duel, how one player's resources matches up against another's and the pace in which the game is played. 
+ Time Bomb  -  A card that will destroy itself at certain timing, with harmful effect uspcoming from that. 
+ Wall  - A monster card that is difficult to destroy by battle or card effect.
+ Body  - A monster with a high original ATK/DEF regardless of its effects (if any) or its Level. 
+ Win Condition  - A situation or combination of cards that effectively win the game even if both players still have  LP  OR A deck's common pattern to victory and the cards involved in it. 
+ Win More  - A card that has no impact on the outcome of a game when you are already winning.
+ "The Nuts"  - An extraordinarily powerful hand usually resulting in victory. 
+ Game Actions 
+ Absorb  - The act of using a  monster  as an  Equip Card  or treat it as  Xyz Material , then possibly gain its power. 
+ Beat over  /  Run over  -  destroy  by  battle 
+ Boost  - The act of using an  effect  that increases  ATK ,  DEF , or effect's affection capability. 
+ Bounce  - The act of returning a card from the field to the hand. 
+ Blast / Blow up / Break  - The act of destroying a card on the field.
+ Pop  - To destroy a single card on the field. 
+ Blind MST  - The act of using  Mystical Space Typhoon  on a random Set Spell or Trap card, even if the player doesn't make a major push that turn. 
+ Brick  / Rot  - A bad card combination in the hand that results in the player having to make a sub-optimal play or no play at all. 
+ Buff  - A positive effect applied to a monster  OR  the act of using it. 
+ Burn  -  Effect damage  and the act of using it. 
+ Chain Block  - Creating a  Chain  that would prevent Card Effects from activating in response to a specific card.
+ For example,  Danger!? Tsuchinoko?  and  Danger!? Jackalope?  are discarded to the  Graveyard  by  Danger! Zone . Their effects go off  simultaneously , but either of them can be activated first, and the other second. When an opponent activates  Solemn Strike  as a counter, only the one that would activate last would be  negated . 
+ Contact Fusion : The act of Special Summoning a  Fusion Monster  from the  Extra Deck  through effect that states "(You do not use " Polymerization ")" 
+ Counter  -  Spell Speed 3   OR  The act of using effect that would negate. 
+ Counterattack  - A monster that had been attacked, but was not destroyed, destroys the attacker after the attack  OR  A monster gains  ATK / DEF  enough to overpower an attacking monster. 
+ Deathtouch  ( MTG term ) - An effect that destroys a monster during or after an  attack . 
+ Debuff  - A negative effect applied to a monster  OR  the act of using it. 
+ Disrupt  - The continual use of  Floodgate  and/or  Counter Trap Cards . 
+ Dump  - The act of getting cards (of any number or specification) in the  GY  so that those cards would be used later from the GY. 
+ Fetch  /  Get  /  Search  /  Tutor  - The act of looking through the Deck and adding a card of choice to your hand. 
+ Fizzle  - A card  resolving  without applying its effect. 
+ Freeze / Suppress  - Preventing a card's activation (e.g. the secondary effect of " Trickstar Light Stage ".) 
+ Lock / Bind  - The act of keeping a monster useless on the field with difficulty in removing it. 
+ Link climb  -  Link Summoning   Link Monsters  typically in ascending order in terms of their  Link Rating  value.
+ For example in " Gouki " Deck strategies during 2018, Link Summoning the Link-2 " Isolde, Two Tales of the Noble Knights " to use her effect(s) only to then use this monster treated with a Link Rating of 2 (along with another monster) in order to then Link Summon the Link-3 " Summon Sorceress ". 
+ Make  - To traditionally Special Summon a  Fusion Monster ,  Synchro Monster ,  Xyz Monster  or  Link Monster  from the  Extra Deck  (as in by using applicable monsters and/or appropriate card effects) 
+ Mill  - The act of sending cards from the top of a player's deck to the Graveyard. 
+ Mimic  / Copy  - Having a card gain the property (usually  Effect  or  ATK ) of another card. 
+ Minus  - Decreasing the number of cards in one's hand/field. 
+ Mulligan  -  Shuffling  the player's hand cards back into your Deck and drawing new cards to replinsh the shuffled cards.
+ Official tournaments that used  Battle Pack 2: War of the Giants  and  Battle Pack 3: Monster League  allowed players to perform a mulligan at the start of a game once per Match. 
+ Nerf  - A card had its usability reduced, either by ruling or card effect. 
+ Nuke  - The act of destroying many or all cards on the field at once. 
+ Open / Open with  - A player's starting hand cards before the Draw Phase.
+ "Open with" specifically pertains to one's initial hand to initiate combos or big plays (i.e. opening with " Noble Knight Medraut " in a " Noble Knight " Deck in order to best start this Deck's best Summoning strategy.) 
+ Over / Get Over / Go Over  - To gain enough ATK to destroy a monster that's hard due to its high ATK/DEF. 
+ Overlay  /  Stack : The act of using  Xyz Materials  to  Xyz Summon  a monster. 
+ Pitch  -  Discarding  a card or sending a card from the hand to the GY. 
+ Plus  - Increasing the number of cards in one's hand/field . 
+ Rage  -  Force Attacks  in effect. 
+ Recycle  - The act of adding cards from the Graveyard to the hand or deck. 
+ Reload  - The act of recovering cards to use them as fodder. 
+ Reset  - The act of having a card returned to its initial state when it is placed on the field. 
+ Reborn  /  Revive  - The act of  Special Summoning  from the GY. 
+ Rip  - Forcing your opponent to discard a card (e.g. the effect of " White Magical Hat "). 
+ Sacrifice  -  Tributes ,  Materials  or  Costs , and the act of using them. 
+ Scale  -  Pendulum Scale . 
+ Self-protection  - A card effect that can protect itself from leaving the field. 
+ Shadowstrike  -  Direct Attacker  in effect. 
+ Shut / Stun / Knock  - The act of Negating, whether temporary or permanently. 
+ Spawn  - The act of summoning the same monster, usually Token or low-Level Monster with another card from time to time. 
+ Spam  - The act of repeatedly using card effects. 
+ Spin  - The act of placing a card on the field on top of the deck. 
+ Stall  - The act of prolonging the game without a card effect, which will be met with penalties at tournaments. 
+ Stand  - The act of changing card to  Face-up   Attack Position   OR  a Monster remains on the field with high ATK/DEF for its current Battle Position. 
+ Steal  - The act of taking your opponent's monster, or their card's property, for your own. 
+ Suicide  / Ramming / Crash  - The act of intentionally attacking knowing the attacker will be destroyed. 
+ ( Synchro, Xyz, Pendulum or Link ) Rule  -  Master Rule  1, 2, 3 and 4, respectively. 
+ Surprise  - A harmful effect is put in play at a certain timing without the opponent foreseeing it. 
+ Swarm  - The act of summoning many monsters in a turn, regardless of battle power. 
+ Swing  - The act of declaring an  attack . 
+ T-Set  - Setting a monster face-down and then setting a face-down Spell/Trap in the same column; so-called because this set-up results in the shape of a "T". 
+ Tag Out  - The act of a monster removing itself from the field and replacing itself with a different monster. 
+ Tap / Rest  - The act of changing card to  Face-up   Defense Position . 
+ Thin  - The act of removing cards from one's Deck during a Duel to increase the chances of drawing particular cards. 
+ Throw  - The act of placing a card on your opponent's field in order to hinder them.
+ Lava Golem 'd /  Kaiju 'd  -  Tribute an opponent's monster  to replace them with your card, usually with those specified cards. 
+ Piercing  / Trample ( MTG term ) / Penetrate  - The act of inflicting  Piercing   Battle Damage . 
+ Toolbox  - Searching for a monster to be used in a specified situation. 
+ Topdeck  /  Heart of the Cards  - The top card of the deck  OR  The act of placing a card on top of the deck. Can also refer to entire Decks where the sole outcome is dependent on cards that reside at the top of the Deck.
+ Lucksack / Clutch / Sack  - The act of drawing a card that perfectly fits the situation, possible overturning the game state in the player s favor. 
+ U-Link  - An  Extra Link . Most likely named due to the shape the Extra and Main Monster Zones viewed from the turn player's field if five  Link Monsters  (two in the Extra Zones and three in the middle three Main Zones) form the Extra Link. 
+ 
+ 
+ 
+Categories: Sayings, Real world

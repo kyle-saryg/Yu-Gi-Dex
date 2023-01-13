@@ -1,0 +1,100 @@
+Link: https://yugioh.fandom.com/wiki/DDoS_Attack
+
+
+ The Japanese (OCG) version of this card is not a member of the " Attack "  archetype , because its Japanese name does not contain  「 Ａ 」 .   As its English name contains "Attack", it  may  be treated a member of the "Attack" archetype at a TCG event, subject to local rulings.     
+ DDoS Attack 
+ 
+ Japanese:   ＤＤｏＳ アタック 
+ Kana:   ディー・ドス アタック 
+ Romaji:   Dī Dosu Atakku 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Effect 
+ Target  1  Machine   monster  you  control ;  send  any number of "DDoS Attack" from your  Deck  to the  GY , and if you do, inflict  damage  to your opponent equal to the number of "DDoS Attack" sent to the GY by this  effect  x the targeted monster's  Level  x 100.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  002 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ＤＤｏＳ  アタック 
+ ①：自分フィールドの機械族モンスター１体を対象として発度できる。自分のデッキから「ＤＤｏＳアタック」を任意の枚数選んで墓地へ送る。この効果で墓地へ送った「ＤＤｏＳアタック」の数×対象のモンスターのレベル×１００ダメージを相手に与える。 
+ 
+ 
+ Dī Dosu Atakku 
+ 
+ 
+ Decks 
+ 
+ 
+ Knights of Hanoi 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Machine 
+ 
+ Actions  
+ Sends from your Deck to your Graveyard 
+ 
+ LP   
+ Damages your opponent 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/0/08/DDoSAttack-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20170517195844', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

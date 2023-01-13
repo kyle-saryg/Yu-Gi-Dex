@@ -1,0 +1,48 @@
+Link: https://yugioh.fandom.com/wiki/Talk:Booster_Pack
+
+i opened a pack today (it was a TCG one) and there was not a single rare or shiny card at all in it  68.186.54.223  06:20, 27 July 2009 (UTC)
+ Which Booster was it? cause in some of them, that is common sadly ~MEOW~ Might of the BIRD Empire~~  22:49, 31 July 2009 (UTC)
+ i think it was raging battle  68.186.54.223  14:11, 27 August 2009 (UTC)
+ 
+ Contents 
+ 
+ 1   Mathematical Discussion 
+ 2   Asian English cards 
+ 3   Ultimate and Ghost rare odds in the TCG 
+ 4   More Rares 
+ 5   The number of cards per pack. 
+ 
+ 
+ Mathematical Discussion 
+ I've done a little math; and here's my results. 
+ Question: "If you see a booster box, and someone takes N packs, and you buy a pack, what are the chances that you will get a ultra rare card?"
+ So, there are 24 packs in a booster box. For this example, let's say someone takes 1 pack. Now, the chances of getting a Ultra Rare are 1/12, so, the chance that the pack he/she took as a Ultra Rare is 1/12, and the chance that the pack he/she took doesn't have an Ultra Rare is 11/12. 
+ Now, if the pack he took had an Ultra rare, then, assuming that the 1/12 probability is in place, there is 1 Ultra Rare left, and 22 packs without Ultra Rares. Thus, if you choose a pack in this scenario, the chance that it will have an Ultra Rare are 1/23. 
+ If the pack he took DIDN'T have an Ultra Rare, then, assuming that the 1/12 probability is in place, there are 2 Ultra Rares left, and 21 packs without Ultra Rares. Thus, if you choose a pack in THIS scenario, the chance that it will have an ultra rare are 2/23. 
+ Well, the 1/23 scenario only happens 1/12 of the time, so the chance that you pick up a pack with an Ultra Rare when the missing pack had an Ultra Rare is 1/276. 
+ Likewise, the 2/23 scenario happens 11/12 of the time, so the chance that you pick up a pack with an Ultra rare when the missing pack did not have an Ultra rare is 22/276. 
+ If you add 22/276 and 1/276 up, you get 23/276, which --- DUN DUN DUN! --- can be reduced to 1/12. 
+ If you do it with 2 packs, you'll have the instance of both Ultra Rares being taken, but even so, you'll get 1/12. 
+ So; it DOESN'T MATTER which pack you choose, how many are left when you choose it, or when you choose it; it has the same probability. 
+ Thank You.
+ 
+ Asian English cards 
+ I have a quick question about Asian-English Yu-Gi-Oh! cards. I'm going to Japan the day after tomorrow, and I want to buy some cards there. I know they print English cards and distribute them in Japan, but after looking at some of the newer booster packs, there doesn't seem to be any Asian-English varieties for those packs. From what I can tell, they stopped printing Asian English cards after Enemy of Justice... is this true?  75.3.93.95  03:41, March 24, 2010 (UTC)
+ 
+ Ultimate and Ghost rare odds in the TCG 
+ Shouldn't this include the odds of getting an Ultimate or Ghost rare card in TCG booster packs?  Lugia61617  ( talk  •  contribs ) 11:57, June 19, 2011 (UTC)
+ 
+ AFAIK, there are no such officially documented odds, and any fan-based speculation doesn't use a sufficiently large sample size to end up with accurate figures. Correct me if I'm wrong, though (with references).  「 ダイノ ガイ 千？！ 」 ?  ·  ☎ Dinoguy1000  12:26, June 19, 2011 (UTC) 
+ More Rares 
+ I found something interesting in all Boosters (TCG) from Duelist Genesis onwards, like if you get a Super rare or above you still get a rare, but the number of commons decreases to seven, do you think we should mention this little tidbit, also with reissued boosters i have found this common, like Samurai Assault's Strike of Neos-- LeafGreen Ranger  ( talk  •  contribs ) 06:22, January 24, 2012 (UTC)
+ 
+ The number of cards per pack. 
+ I am a complete newbie and comes here after checking some booster packs on this site:  http://www.yugioh-card.com/en/products/bp-redu.html . All packs I checked say they have 100 each. And now I am a bit confused. I don't think TCG cards would be that cheap in price and... Am I mistaking something?  —This unsigned comment was made by  113.190.177.156  ( talk  •  contribs ) 19:36, September 8, 2012 
+ 
+ Unfortunately, there's a bit of confused terminology going on here: "Booster Pack" refers to the entire set, whereas "pack" refers to the individual package you usually get cards from a Booster Pack in. This is why the Yugioh-Card.com site says Booster Packs have 100 cards each: it's referring to the entire set, instead of per-pack.  「 ディノ 奴 千？！ 」 ?  ·  ☎ Dinoguy1000  20:09, September 8, 2012 (UTC) 
+ I see. Thank you very much for the kind explanation.  113.190.177.156  ( talk ) 20:49, September 8, 2012 (UTC)
+ 
+ 
+ 
+ 
+Categories:

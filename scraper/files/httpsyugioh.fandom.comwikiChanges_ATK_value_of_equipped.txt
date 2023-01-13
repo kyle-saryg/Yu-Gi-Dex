@@ -1,0 +1,24 @@
+Link: https://yugioh.fandom.com/wiki/Changes_ATK_value_of_equipped
+
+This Property entry details every card that changes the  ATK  of the  equipped  monster to a specific value.
+ 
+ Contents 
+ 
+ 1   All OCG/TCG "Changes ATK value of equipped" cards 
+ 2   All Anime "Changes ATK value of equipped" cards 
+ 3   All Manga "Changes ATK value of equipped" cards 
+ 
+ 
+ All OCG/TCG "Changes ATK value of equipped" cards 
+   Japanese name Card type Attribute Type Level Rank ATK DEF Cocoon of Evolution 進化の繭 Effect Monster Monster Card EARTH Insect 3 0 2000 Inzektor Giga-Cricket 甲虫装機 ギガグリオル Effect Monster Monster Card DARK Insect 5 2000 1300 Inzektor Giga-Mantis 甲虫装機 ギガマンティス Effect Monster Monster Card DARK Insect 6 2400 0 Leng Ling 比翼レンリン Effect Monster Monster Card DARK Dragon 3 1500 0 Shocktopus シャクトパス Effect Monster Monster Card WATER Fish 4 1600 800 
+   Japanese name Card type Property Darkworld Shackles 魔界の足枷 Spell Card Equip Spell Card Equip Spell Card Fiery Fervor 燃える闘志 Trap Card Normal Trap Card Normal Trap Card Galaxy Zero 銀河零式 Spell Card Equip Spell Card Equip Spell Card Megamorph 巨大化 Spell Card Equip Spell Card Equip Spell Card Moon Mirror Shield 月鏡の盾 Spell Card Equip Spell Card Equip Spell Card Morphtronic Engine Ｄ・パワーユニット Spell Card Equip Spell Card Equip Spell Card Pestilence 疫病 Spell Card Equip Spell Card Equip Spell Card Red-Eyes Fang with Chain 鎖付き真紅眼牙 Trap Card Normal Trap Card Normal Trap Card Rocket Hand ロケットハンド Trap Card Normal Trap Card Normal Trap Card Solitary Sword of Poison 孤毒の剣 Spell Card Equip Spell Card Equip Spell Card Train Connection 機関連結 Spell Card Equip Spell Card Equip Spell Card Unstable Evolution 進化する人類 Spell Card Equip Spell Card Equip Spell Card 
+ All Anime "Changes ATK value of equipped" cards 
+   Japanese name Card type Attribute Type Level Rank ATK DEF Cocoon of Evolution (anime) 進化の繭 Effect Monster EARTH Insect 3 0 0 0 0 0 ??? 0 0 0 0 0 0 0 0 Shocktopus (anime) シャクトパス Effect Monster WATER Fish 4 0 0 0 0 0 ??? 0 0 0 0 1600 ZS - Ouroboros Sage (anime) ＺＳ－双頭龍賢者 Effect Monster DARK Warrior 3 0 0 0 0 0 ??? 0 0 0 0 0 600 ZW - Sleipnir Mail (anime) ＺＷ－極星神馬聖鎧 Effect Monster LIGHT Beast 4 0 0 0 0 0 ??? 0 0 0 0 1000 
+   Japanese name Card type Property Armored Xyz アーマード・エクシーズ Spell Card Cyberse Annihilation サイバース・アナイレーション Spell Card Dice Crisis ダイス・クライシス Trap Card Emperor's Armor 王者の聖外套 Spell Card Excalibur エクスカリバー Spell Card Galaxy Zero (anime) 銀河零式 Spell Card Gestalt Trap ゲシュタルト・トラップ Trap Card Goddess Bow (anime) 女神の聖弓－アルテミス Spell Card Hardship ハードシップ Trap Card Megamorph (anime) 巨大化 Spell Card Morphtronic Engine (anime) Ｄ・パワーユニット Spell Card Nihilistic Summoning Technique 虚無の召喚術 Trap Card Power Converter (anime) パワー・コンバーター Spell Card Shield Fin シールド・フィン Spell Card Soul Fist 魂を刻む右 Spell Card Train Connection (anime) 機関連結 Spell Card Zero Sprite (anime) ゼロ・スプライト Trap Card 
+ All Manga "Changes ATK value of equipped" cards 
+   Japanese name Card type Attribute Type Level Rank ATK DEF Cocoon of Evolution (manga) 進化の繭 Normal Monster 0 0 0 0 0 0 0 0 0 0 0 0 2000 
+   Japanese name Card type Property Phoenix Battle Wings 不死鳥の闘翼 Spell Card 
+ 
+ 
+ 
+Categories: Cards by effect properties

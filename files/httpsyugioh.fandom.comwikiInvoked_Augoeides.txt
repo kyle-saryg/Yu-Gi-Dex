@@ -1,0 +1,263 @@
+Link: https://yugioh.fandom.com/wiki/Invoked_Augoeides
+
+
+ 
+ 
+ Invoked Augoeides 召 喚 獣 アウゴエイデス 
+ 
+ English 
+Invoked Augoeides 
+ French 
+ Augoeides l'Invokhé Check translation 
+ German 
+ Beschworener Augoeides Check translation 
+ Italian 
+ Augoeides Invokato Check translation 
+ Korean 
+ 소환수 아우고에이데스 Check translation 
+ Portuguese 
+ Augoeides, o Invokado Check translation 
+ Spanish 
+ Augoeides Invokado Check translation 
+ Japanese (kana) 
+ しょうかんじゅうアウゴエイデス Check translation 
+ Japanese (base) 
+ 召喚獣アウゴエイデス Check translation 
+ Japanese ( rōmaji ) 
+Shōkanjū Augoeidesu 
+ Japanese (translated) 
+Invoked Beast Augoeides 
+ Card type 
+ Monster   
+ Attribute 
+ LIGHT   
+ Types 
+ Fairy  /  Fusion  /  Effect 
+ Level 
+ 8   
+ ATK  /  DEF 
+ 2000  /  2800 
+ Passcode 
+ 97300502 
+ Fusion Material 
+" Aleister the Invoker " 
+ Materials 
+"Aleister the Invoker" + 1 Fusion Monster 
+ Card effect types 
+ 
+ 
+ Trigger 
+ Condition 
+ Ignition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+" Aleister the Invoker " + 1  Fusion Monster If this card is  Special Summoned , or a  monster (s) is Special Summoned to your opponent's  field : You can  target  1 monster your opponent  controls ;  destroy  it. You can only use this  effect  of "Invoked Augoeides"  once per turn . Once per turn: You can  banish  1 Fusion Monster from your  GY ; this card gains  ATK  equal to that banished monster's ATK, until the end of your opponent's  turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ "Aleister l'Invokhateur" + 1 Monstre Fusion Si cette carte est Invoquée Spécialement, ou un ou plusieurs monstres sont Invoqués Spécialement sur le Terrain de votre adversaire : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; détruisez-le. Vous ne pouvez utiliser cet effet de "Augoeides l'Invokhé" qu'une fois par tour. Une fois par tour : vous pouvez bannir 1 Monstre Fusion depuis votre Cimetière ; jusqu'à la fin du tour de votre adversaire, cette carte gagne une ATK égale à l'ATK du monstre banni. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ „Aleister der Beschwörer“ + 1 Fusionsmonster Falls diese Karte als Spezialbeschwörung beschworen wird oder ein oder mehr Monster als Spezialbeschwörung auf die Spielfeldseite deines Gegners beschworen werden: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; zerstöre es. Du kannst diesen Effekt von „Beschworener Augoeides“ nur einmal pro Spielzug verwenden. Einmal pro Spielzug: Du kannst 1 Fusionsmonster von deinem Friedhof verbannen; diese Karte erhält bis zum Ende des Spielzugs deines Gegners ATK in Höhe der ATK des verbannten Monsters. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ "Aleister l'Invocatore" + 1 Mostro Fusione Se questa carta viene Evocata Specialmente, o se uno o più mostri vengono Evocati Specialmente sul Terreno del tuo avversario: puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario; distruggilo. Puoi utilizzare questo effetto di "Augoeides Invokato" una sola volta per turno. Una volta per turno: puoi bandire 1 Mostro Fusione dal tuo Cimitero; questa carta guadagna ATK pari all'ATK di quel mostro bandito, fino alla fine del turno del tuo avversario. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ "Aleister, Aquele que Invoka" + 1 Monstro de Fusão Se este card for Invocado por Invocação-Especial ou se um ou mais monstros forem Invocados por Invocação-Especial no campo do seu oponente: você pode escolher 1 monstro que seu oponente controla; destrua-o. Você só pode usar este efeito de "Augoeides, o Invokado" uma vez por turno. Uma vez por turno: você pode banir 1 Monstro de Fusão do seu Cemitério; até o final do turno do seu oponente, este card ganha ATK igual ao ATK desse monstro banido. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ "Aleister, el que Invoka" + 1 Monstruo de Fusión Si esta carta es Invocada de Modo Especial, o uno o más monstruos son Invocados de Modo Especial al Campo de tu adversario: puedes seleccionar 1 monstruo que controle tu adversario; destrúyelo. Sólo puedes usar este efecto de "Augoeides Invokado" una vez por turno. Una vez por turno: puedes desterrar 1 Monstruo de Fusión en tu Cementerio; hasta el final del turno de tu adversario, esta carta gana ATK igual al ATK de ese monstruo desterrado. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「召喚師アレイスター」＋融合モンスター このカード名の①の効果は１ターンに１度しか使用できない。①：このカードが特殊召喚に成功した場合、または相手フィールドにモンスターが特殊召喚された場合、相手フィールドのモンスター１体を対象として発動できる。そのモンスターを破壊する。②：１ターンに１度、自分の墓地から融合モンスター１体を除外して発動できる。このカードの攻撃力は相手ターン終了時まで、除外したモンスターの攻撃力の数値分アップする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "소환사 알레이스터" ＋ 융합 몬스터 이 카드명의 ①의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 특수 소환에 성공했을 경우, 또는 상대 필드에 몬스터가 특수 소환되었을 경우, 상대 필드의 몬스터 1장을 대상으로 하고 발동할 수 있다. 그 몬스터를 파괴한다. ②: 1턴에 1번, 자신 묘지에서 융합 몬스터 1장을 제외하고 발동할 수 있다. 이 카드의 공격력은 상대 턴 종료시까지, 제외한 몬스터의 공격력의 수치만큼 올린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2020-04-30 ETCO-EN040 Eternity Code Super Rare 2021-09-30 MP21-EN064 2021 Tin of Ancient Battles Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2020-04-30 ETCO-FR040 Eternity Code Le Code de l'Éternité Super Rare 2021-09-30 MP21-FR064 2021 Tin of Ancient Battles Boîte des Batailles Anciennes 2021 Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2020-04-30 ETCO-DE040 Eternity Code Eternity Code Super Rare 2021-09-30 MP21-DE064 2021 Tin of Ancient Battles 2021 Tin of Ancient Battles Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2020-04-30 ETCO-IT040 Eternity Code Codice Eternità Super Rare 2021-09-30 MP21-IT064 2021 Tin of Ancient Battles Tin delle Battaglie Antiche 2021 Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2020-04-30 ETCO-PT040 Eternity Code Código da Eternidade Super Rare 2021-09-30 MP21-PT064 2021 Tin of Ancient Battles Lata das Batalhas Antigas 2021 Prismatic Secret Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2020-04-30 ETCO-SP040 Eternity Code Código de Eternidad Super Rare 2021-09-30 MP21-SP064 2021 Tin of Ancient Battles 2021 Lata de Antiguas Batallas Prismatic Secret Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2020-01-11 ETCO-JP040 Eternity Code エターニティ・コード Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2020-04-14 ETCO-KR040 Eternity Code 이터니티 코드 Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Fusion Monster 
+ 
+ Archetypes  and  series   
+ Invoked 
+ 
+ Actions  
+ Activates upon Special Summon 
+ 
+ Stat changes  
+ This card gains ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys your opponent's Monster Cards 
+ 
+ Summoning  categories  
+ 2 Fusion Materials 
+ Requires specific Effect Monsters as Fusion Materials 
+ Requires Fusion Monsters as Fusion Materials 
+ 
+ Banished  categories  
+ Banishes from Graveyard for cost 
+ 
+ Miscellaneous  
+ Only once per turn 
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 15026 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Invoked " 「 召 喚 獣 」 Members 
+ Invoked Augoeides Invoked Caliga Invoked Cocytus Invoked Elysium Invoked Magellanica Invoked Mechaba Invoked Purgatrio Invoked Raidjin 
+ Support 
+ Invoked Elysium 
+ The Book of the Law Invocation Omega Summon 
+ Related 
+ Aleister the Invoker Aleister the Invoker of Madness Crowley, the First Propheseer Crowley, the Magistus of Grimoires 
+ Alpha Summon Magical Meltdown 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d2/InvokedAugoeides-MP21-EN-PScR-1E.png/revision/latest/scale-to-width-down/300?cb=20211223151425', 'https://static.wikia.nocookie.net/yugioh/images/3/39/LIGHT.svg/revision/latest/scale-to-width-down/28?cb=20120918053832', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

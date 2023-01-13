@@ -1,0 +1,186 @@
+Link: https://yugioh.fandom.com/wiki/Sunvine_Thrasher_(anime)
+
+Main card page: " Sunvine Thrasher " 
+ Sunvine Thrasher 
+ 
+ Japanese:   聖蔓の剣士 
+ Kana:   サンヴァイン・スラッシャー 
+ Romaji:   San Vain Surasshā 
+ Translated:  San Vine Slasher 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   EARTH 
+ 
+ Link Arrows 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Bottom 
+ Effect type
+ 
+ 
+ 
+ 
+ Continuous 
+ Trigger 
+ Trigger 
+ Material 
+ 
+ 
+ 
+ 1  Plant   Normal Monster 
+ 
+ [  Plant  /  Link  /  Effect  ] 
+ 1  Plant   Normal Monster 
+ If no " Sunavalon "  Link Monster   points to  this card,  destroy  this card. If this card is  Special Summoned :  Target  1 "Sunavalon" Link Monster that points to this card; this card gains  ATK  equal to that monster's  Link Rating  x 800. At the start of the  Damage Step , when this card  battles  an opponent's monster: You can  activate  this  effect ; if that opponent's monster is destroyed by this battle and sent to the  GY , Special Summon that opponent's monster to your  zone  your "Sunavalon" Link Monster  points to .
+ ATK  /  800     LINK  –  1   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  032 ,  033 ,  034 ,  036 ,  037 ,  086 ,  087 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 聖蔓の剣士 
+ 
+ 植物族通常モンスター１体
+ 
+ ①：このカードが「聖天樹」リンクモンスターのリンク先に存在しない場合、このカードは破壊される。②：このカードが特殊召喚に成功した場合、リンク先にこのカードが存在する「聖天樹」リンクモンスター１体を対象として発動する。このカードの攻撃力は、対象のモンスターのリンクマーカーの数×８００アップする。③：このカードが相手モンスターと戦闘を行うダメージステップ開始時に発動できる。その戦闘で相手モンスターが破壊され墓地へ送らた時、その相手モンスターを自分フィールドの「聖天樹」リンクモンスターのリンク先となる自分フィールド自分フィールドに特殊召喚する。 
+ 
+ 
+ San Vain Surasshā 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Specter 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Plant 
+ Normal Monster 
+ 
+ Archetypes  and  series   
+ Sunvine 
+ 
+ Supports   archetypes   
+ Sunavalon 
+ 
+ Actions  
+ Activates upon Special Summon 
+ 
+ Stat changes  
+ This card gains ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ Summoning  categories  
+ Special Summons from your opponent's Graveyard 
+ 
+ 
+ 
+   " Sunvine Thrasher " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+" Sunavalon " 「 聖天樹 」 a   +   Members 
+ Sunavalon Bloom Sunavalon Cursed Reborn Sunavalon Daphne Sunavalon Dryades Sunavalon Dryanome Sunavalon Dryas Sunavalon Dryatrentiay Sunavalon Force Sunavalon Glorious Growth Sunavalon Melias 
+ Support 
+ Sunavalon Dryades Sunavalon Melias Sunbloom Doom Sunseed Twin Sunvine Burial Sunvine Gardna Sunvine Healer Sunvine Plunder Sunvine Shrine Sunvine Thrasher 
+ Related 
+ Sunseed Genius Loci Sunseed Shadow Sunseed Twin 
+ 
+ v e 
+" Sunvine " 「 聖蔓 」 a   m   Members 
+ Sunvine Burial Sunvine Cross Breed Sunvine Gardna Sunvine Healer Sunvine Maiden Sunvine Plunder Sunvine Shrine Sunvine Thrasher 
+ Support 
+ Sunavalon Dryades Sunavalon Dryanome Sunavalon Dryas Sunavalon Melias 
+ Related 
+ Sunseed Genius Loci Sunseed Shadow Sunseed Twin 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/87/SunvineThrasher-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180131183439', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/EARTH.svg/revision/latest/scale-to-width-down/28?cb=20120918053843', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/6c/SunvineThrasher-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20171228202916', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

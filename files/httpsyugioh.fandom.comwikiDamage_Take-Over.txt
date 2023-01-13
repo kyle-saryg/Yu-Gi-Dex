@@ -1,0 +1,106 @@
+Link: https://yugioh.fandom.com/wiki/Damage_Take-Over
+
+
+ Damage Take-Over 
+ 
+ Japanese:   テイク・オーバー・ダメージ 
+ Romaji:   Teiku Ōbā Damēji 
+ Translated:  Take-Over Damage 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ If you would take  damage :  Target  1  face-up   Xyz Monster  you  control  that has more  ATK  than the damage you would take; that target loses ATK equal to the damage you would take, and if it does, that damage becomes 0, then  attach  this card to it as an  Xyz Material .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  143 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ テイク・オーバー・ダメージ 
+ ダメージが発生した時、そのダメージの数値よりも高い攻撃力を持つ自分フィールド上のモンスターエクシーズ１体を選択して発動できる。そのダメージの数値分だけ選択したモンスターの攻撃力はダウンし、そのダメージを０にする。その後、このカードを選択したモンスターの下に重ねてエクシーズ素材とする。 
+ 
+ 
+ Teiku Ōbā Damēji 
+ 
+ 
+ Decks 
+ 
+ 
+ Yuma Tsukumo 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Xyz Monster 
+ 
+ Actions  
+ Attaches itself as Xyz Material 
+ 
+ Stat changes  
+ Your monsters lose ATK 
+ 
+ LP   
+ Prevents battle damage 
+ Prevents effect damage 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/de/DamageTakeOver-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20140302092717', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

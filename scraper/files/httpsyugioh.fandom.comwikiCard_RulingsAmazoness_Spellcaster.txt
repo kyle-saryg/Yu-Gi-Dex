@@ -1,0 +1,57 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Amazoness_Spellcaster
+
+
+ Amazoness Spellcaster 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Anime Manga 
+ 
+ Previously Official Rulings 
+   These TCG rulings were issued by  Upper Deck Entertainment  and have since been deemed unofficial by Konami. [1]  They were previously considered official and can still be correct, as long as they follow the official gameplay rules, or unless Konami has issued a ruling that says otherwise. References:  [2] [3] [4] [5] [6] [7] [8] [9] [10] 
+ 
+ " Amazoness Spellcaster "  targets  (it targets 2 monsters), so when you activate " Amazoness Spellcaster " you select 1 face-up  Amazoness  on your side of the field and 1 face-up monster on your opponent's side of the field. 
+ You can select " Gradius' Option " as the other monster, and the original ATK of the Amazoness will now be the ATK of " Gradius' Option " at the time " Amazoness Spellcaster " resolves. The ATK of " Gradius' Option " remains as the ATK of "Gradius" and does not become the ATK of the  Amazoness . 
+ If you activate " Amazoness Spellcaster ", and chain " Dramatic Rescue ", " Amazoness Spellcaster "'s effect disappears. 
+ If you switch ATKs with " Amazoness Spellcaster ", and one of the monsters is equipped with " Megamorph ", after the switch, you change the ATK of the monster that is equipped with " Megamorph " using the effect of " Megamorph ". With " Shield & Sword ", since these are both  Normal Spell Cards , you resolve them in the order of their activation, and recalculate their ATKs in that order. 
+ If either of the targeted monsters is affect  [ sic ]  by " Shrink " before " Amazoness Spellcaster "  resolves , the ATK values printed on the monsters will be switched, and the effect of " Shrink " effectively disappears. If a monster that has its original ATK changed by " Amazoness Spellcaster " is affected by " Shrink ", its ATK will become half of the changed original ATK. 
+ Mentions in Other Rulings 
+ Dramatic Rescue : You can activate " Dramatic Rescue " when an Amazoness on your side of the field is targeted, such as with... "Amazoness Spellcaster"... 
+ Dramatic Rescue : If you activate " Amazoness Spellcaster ", and chain " Dramatic Rescue ", " Amazoness Spellcaster's's " effect disappears. 
+ 
+ 
+ 
+ References 
+ 
+ ↑   Konami Judge Program Forum : Individual Email Rulings VS Individual Card Rulings 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [A-C] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [D-E] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [F-H] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [I-K] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [L-O] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [P-R] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [S-T] 
+ 
+ ↑   UDE FAQ : Individual Card Rulings [U-Z] 
+ 
+ ↑   UDE FAQ : SPECIFIC CARDS RULINGS 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings

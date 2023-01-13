@@ -1,0 +1,380 @@
+Link: https://yugioh.fandom.com/wiki/Al-Lumi%27raj
+
+
+ 
+ 
+ Al-Lumi'raj イルミラージュ 
+ 
+ English 
+Al-Lumi'raj 
+ French 
+ Al-Lumi'raj Check translation 
+ German 
+ Al-Lumi'raj Check translation 
+ Italian 
+ Al-Lumi'raj Check translation 
+ Korean 
+ 일루미라지 Check translation 
+ Portuguese 
+ Al-Lumi'raj Check translation 
+ Spanish 
+ Al-Espej'ismo Check translation 
+ Japanese 
+ イルミラージュ Check translation 
+ Japanese ( rōmaji ) 
+Irumirāju 
+ Japanese (translated) 
+Illumi'raj 
+ Card type 
+ Monster   
+ Attribute 
+ WIND   
+ Types 
+ Wyrm  /  Tuner  /  Effect 
+ Level 
+ 3   
+ ATK  /  DEF 
+ 1600  /  1000 
+ Passcode 
+ 25795273 
+ Card effect types 
+ 
+ 
+ Continuous Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+All  monsters  on the  field  lose  ATK  and  DEF  equal to their own  Level / Rank  x 300. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Tous les monstres sur le Terrain perdent une ATK/DEF égales à leur propre Niveau/Rang x 300. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Alle Monster auf dem Spielfeld verlieren ATK und DEF in Höhe ihrer Stufe/ihres Rangs x 300. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Tutti i mostri sul Terreno perdono ATK e DEF pari al loro stesso Livello/Rango x 300. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Todos os  monstros  no  campo  perdem  ATK  e  DEF  igual ao seu próprio  Nível / Classe  x 300. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Todos los monstruos en el Campo pierden ATK y DEF iguales a su propio Nivel/Rango x 300. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：このカードがモンスターゾーンに存在する限り、フィールドのモンスターの攻撃力・守備力は、そのモンスターのレベルまたはランク×３００ダウンする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ① : 이 카드가 몬스터 존에 존재하는 한, 필드의 몬스터의 공격력 / 수비력은, 그 몬스터의 레벨 또는 랭크 × 300 내린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2016-01-14  
+ BOSH-EN037   
+ Breakers of Shadow 
+ Common 
+ 
+ 
+ 2016-09-01  
+ MP16-EN204   
+ 2016 Mega-Tin Mega Pack 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2016-01-14  
+ BOSH-FR037   
+ Breakers of Shadow 
+ Les Destructeurs de L'ombre  
+ Common 
+ 
+ 
+ 2016-09-01  
+ MP16-FR204   
+ 2016 Mega-Tin Mega Pack 
+ 2016 Méga-Boîte Méga-Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2016-01-14  
+ BOSH-DE037   
+ Breakers of Shadow 
+ Breakers of Shadow  
+ Common 
+ 
+ 
+ 2016-09-01  
+ MP16-DE204   
+ 2016 Mega-Tin Mega Pack 
+ 2016 Mega-Tin Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2016-01-14  
+ BOSH-IT037   
+ Breakers of Shadow 
+ Distruttori dell'Ombra  
+ Common 
+ 
+ 
+ 2016-09-01  
+ MP16-IT204   
+ 2016 Mega-Tin Mega Pack 
+ 2016 Mega-Tin Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2016-01-15  
+ BOSH-PT037   
+ Breakers of Shadow 
+ Destruidores das Sombras  
+ Common 
+ 
+ 
+ 2016-09-01  
+ MP16-PT204   
+ 2016 Mega-Tin Mega Pack 
+ Mega-Pacote da Mega-Latas 2016  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2016-01-14  
+ BOSH-SP037   
+ Breakers of Shadow 
+ Destructores de las Sombras  
+ Common 
+ 
+ 
+ 2016-09-01  
+ MP16-SP204   
+ 2016 Mega-Tin Mega Pack 
+ 2016 Mega-Lata Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2015-10-17  
+ BOSH-JP037   
+ Breakers of Shadow 
+ ブレイカーズ・オブ・シャドウ  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2016-02-16  
+ BOSH-KR037   
+ Breakers of Shadow 
+ 브레이커즈 오브 섀도우  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Stat changes  
+ All monsters lose ATK 
+ All monsters lose DEF 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 12145 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/31/AlLumiraj-MP16-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20160901214026', 'https://static.wikia.nocookie.net/yugioh/images/0/01/WIND.svg/revision/latest/scale-to-width-down/28?cb=20170920205028', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

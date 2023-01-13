@@ -1,0 +1,531 @@
+Link: https://yugioh.fandom.com/wiki/Game_mechanics
+
+
+ This article  may require  cleanup  to meet this wiki's standards.   You can help out by re-organizing or re-writing parts of it or checking grammar and spelling.   
+ Game mechanics  refer to any action that automatically happens due to the interior workings of the Yu-Gi-Oh! game. They are not treated as effects and most of the time cannot be avoided.
+ 
+ Contents 
+ 
+ 1   Names 
+ 2   Monster Tokens 
+ 
+ 2.1   Token-Specific Rules 
+ 
+ 
+ 3   Using Cards and the Graveyard 
+ 4   Field Spell Cards 
+ 5   Equip Cards 
+ 6   Fusion Substitutes 
+ 7   Pendulum Monsters 
+ 8   Infinite Loops 
+ 
+ 
+ Names 
+ Every card has a specific name, but even something as simple as a name has rules attached to it. The basic rule is that each deck may only contain up to 3 cards of the same name. However, there are some cards with effects that change their name, like the  Harpies . " Cyber Harpie Lady ," " Harpie Lady 1 ," " Harpie Lady 2 ," and " Harpie Lady 3 " all have the  condition  " (This card's name is always treated as " Harpie Lady ".) " This means a Deck can only contain up to 3 copies of cards that are named or always treated as "Harpie Lady" (in any combination). Cards that change their name only at certain times such as " The Lady in Wight " or " Harpie Queen " are different and are not held by the same restriction.
+ If only the name of a card is considered to be on the field, the effects of that card are not applied. For example, if " Gravekeeper's Priestess " is on the field, " Necrovalley " is considered to be on the field in the Field Spell Card Zone, so you can activate cards that require "Necrovalley" to be on the field, such as " Royal Tribute ." However, none of the effects printed on "Necrovalley" are applied, as the physical card is not on the field; therefore, " Chaos Sorcerer " can still be  Special Summoned  from the hand because "Necrovalley"'s ability to prevent cards in the  Graveyard  from being  banished  is not applied.
+ Most cards have their names changed from the OCG to the TCG for one reason or another. Though normally harmless, it sometimes causes confusion or problems between archetypes; these card are often renamed (such as "Oscillo Hero #2" was to " Wattkid ") or given an  archetype condition  to clarify this.
+ 
+ Monster Tokens 
+ Main article:  Monster Token 
+ Many cards can Special Summon  Tokens  to the field. Every Token Monster's original  ATK ,  DEF ,  Level ,  Attribute , and  Type  are as they are listed on the card that summoned them. They are always considered  Normal Monsters , and any effect(s) they may have is instead, a statement given by other cards (usually the one that summons the Token(s)).
+ 
+ Token-Specific Rules 
+ They can only be face-up, and cannot be face-down on the field, so " Book of Moon " cannot  target  them.
+ If an effect that would flip multiple monsters on the field to  face-down   Defense Position  effect them, their battle position  does not  change. 
+ They cannot exist outside the field. If a Token would leave the field (returned to the hand or  Deck ; Sent to Graveyard; banished), it simply disappears instead. They are not considered to go to the Graveyard if they are  destroyed by battle .
+ They cannot be used as  Xyz Materials  for an Xyz Summon, nor can they be treated as one. 
+ Their  owner  is always considered to be the owner of the card that Summoned them. For example, if " Owner's Seal " is activated, " Ojama Tokens " move to the side of the field of the player who activated " Ojama Trio ". 
+ Unless stated otherwise, can freely be used as Tribute(s) for  Tribute  or  Ritual Summons , or be used as  Fusion ,  Synchro  or  Link Materials .
+ They cannot be used for cost specifying the place where the card would end up, such as sending them to GY. 
+ They cannot be  banished face-down . 
+ Using Cards and the Graveyard 
+ Whenever a card is destroyed,  discarded  or  Tributed , when a  Normal  or  Quick-Play Spell  is used, or when a  Normal  or  Counter Trap  is used, it is always sent to the Graveyard unless a card effect states otherwise, such as " Macro Cosmos " or " Masked HERO Dark Law ".
+ 
+ Field Spell Cards 
+ Main article:  Field Spell Card 
+ Each player can have only one  Field Spell Card  on their field at a time. A player who controls a Field Spell Card may play a new one by  sending  their current one to the  Graveyard  (this is not considered  destroying  it). This creates a minor gap of timing in which there is no Field Spell Card on the field, causing monsters such as " Earthbound Immortal " and " Malefic " monsters to destroy themselves.
+ Before the  2014 rule change , only one Field Spell Card could be on the field at a time. If a player had one on the field and the other player  activated  a second one, when the second one's activation resolved, the first one was automatically destroyed. Because this was a game mechanic and not a card effect, cards like " Magical Citadel of Endymion " were not able to protect themselves from this destruction. However, if the second Field Spell Card was destroyed before its activation was able to resolve, such as with " Mystical Space Typhoon ", the original one was not destroyed.
+ 
+ Equip Cards 
+ Equip cards continuously target the equipped monster to make sure it is still there. If that monster is no longer face-up on the field, the Equip card is automatically destroyed. This can be due to either being destroyed or removed from the field by battle of card effect, or simply being flipped face-down with "Book of Moon".
+ Additionally, Equip cards also continuously target to make sure the equipped monster fits its requirements, and if it suddenly no longer meets its requirements, the Equip card is destroyed.
+ 
+ Example: If " Machina Peacekeeper " is equipped to a " Machina Fortress " and " Zombie World " is activated, "Machina Peacekeeper" is automatically destroyed because "Machina Fortress" has been changed into a  Zombie -Type and no longer meets the  Machine -Type requirement. 
+ Fusion Substitutes 
+ Main article:  Fusion Substitute Monster 
+ There are multiple cards with the following effect: " You can substitute this card for any 1 Fusion Material Monster. When you do this, the other Fusion Material Monster(s) must be the correct one(s). " While these are great cards for  Fusion Summoning , there are other limits to their effects that aren't listed:
+ 
+ They cannot be used for the Special Summon of an " Elemental HERO Neos ", " Gladiator Beast ", or " A-to-Z "  Fusion Monster , because the listed monsters are not used as Fusion Material Monsters. 
+ They can only be used as substitutes for Fusion Material Monsters whose names are specifically listed on the Fusion Monster Card. Thus they cannot be used as substitutes for "1  Ojama  Monster" for " Ojama Knight " or "1  WIND  monster" for " Elemental HERO Great Tornado " (unless their attribute is already WIND). 
+ While they do have effects while in the  hand , they have no effects while in the  Deck , so they cannot be used when fusing from the Deck with cards like " Future Fusion ". 
+ Pendulum Monsters 
+ Main article:  Pendulum Monster 
+ Whenever a Pendulum monster on the field in either a  Monster Zone  or a  Pendulum Zone  would be sent to the Graveyard, it is placed face-up in the  Extra Deck  instead. While there, it is treated as an additional card on the Extra Deck (does not count toward the maximum Extra Deck size when building deck), rather than a card in a card zone, so it cannot be targeted by card effects.
+ 
+ Infinite Loops 
+ Main article:  Infinite Loop 
+ Within the  TCG  there are cards that, when combined together, create loops that can (and just might) never end. As such, a rule has been put in place for both types of  infinite loop . First is the  No Net Change  loop. This type of loop is one where the card effects continue to loop around in a circle without any real changes or control of whether they happen or not. Players may not activate or Summon a card if they know it would create a  No Net Change  loop. If this has been done by accident, play rewinds to the point of the offending activation or summon and continues from there.
+ The other type of loop is the  Net Change  loop. This type of loop continues endlessly without any control, but applies a change with each iteration that causes a player to become closer to losing the game, such as reducing a player's  Life Points  or the number of cards in his or her deck. Loops such as these are legal and are allowed to loop endlessly until the change stops happening, in which the card causing the loop will be automatically destroyed at the end of a loop. A loop where the only  Net Change  is the increase of a player's Life Points is considered a  No Net Change , because a game cannot be ended due to a player having too many Life Points.
+ All other loops, such as the  Quillbolt Loop , are controlled by a player and can be stopped at anytime when the player sees fit. Such loops are completely legal, but if it becomes a controlled  No Net Change  loop, the player cannot perform it; this would be a form of stalling and is not legal. An example would be a player using a  Burn  Quillbolt Loop when the opponent has activated " Hallowed Life Barrier " for the turn.
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/90/Broom_icon.png/revision/latest/scale-to-width-down/35?cb=20070612131135']
+Categories: Articles needing cleanup, Gameplay

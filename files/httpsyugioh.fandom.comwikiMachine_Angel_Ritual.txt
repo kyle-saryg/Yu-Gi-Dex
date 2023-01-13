@@ -1,0 +1,321 @@
+Link: https://yugioh.fandom.com/wiki/Machine_Angel_Ritual
+
+The  Croatian, Greek  and  Hungarian                      names given are not official.  ( card names ) 
+ 
+ 
+ 
+ 
+ 
+ Machine Angel Ritual 機 械 天 使 の 儀 式 
+ 
+ English 
+Machine Angel Ritual 
+ French 
+ Rituel de l'Ange Machine Check translation 
+ German 
+ Maschinenengel-Ritual Check translation 
+ Italian 
+ Rituale dell'Angelo Macchina Check translation 
+ Korean 
+ 기계천사의 의식 Check translation 
+ Portuguese 
+ Ritual Máquina de Anjo Check translation 
+ Spanish 
+ Ritual del Ángel Mecánico Check translation 
+ Japanese (kana) 
+ きかいてんしのぎしき Check translation 
+ Japanese (base) 
+ 機械天使の儀式 Check translation 
+ Japanese ( rōmaji ) 
+Kikaitenshi no Gishiki 
+ Card type 
+ Spell   
+ Property 
+ Ritual   
+ Passcode 
+ 39996157 
+ Card effect types 
+ 
+ 
+ Effect 
+ Unclassified Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+This card can be used to  Ritual Summon  any " Cyber Angel "  Ritual Monster . You must also  Tribute   monsters  from your  hand  or  field  whose total  Levels  equal or exceed the Level of the Ritual Monster you Ritual Summon. If a  LIGHT  monster(s) you  control  would be  destroyed   by battle  or  card effect  while this card is in your  GY , you can  banish  this card instead. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Cette carte peut être utilisée pour Invoquer Rituellement un Monstre Rituel "Ange Cyber". Vous devez aussi Sacrifier des monstres depuis votre main ou Terrain dont le Niveau total est supérieur ou égal au Niveau du Monstre Rituel que vous Invoquez Rituellement. Si un ou plusieurs monstres LUMIÈRE que vous contrôlez vont être détruits au combat ou par un effet de carte tant que cette carte est dans votre Cimetière, vous pouvez bannir cette carte à la place. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Diese Karte kann verwendet werden, um ein beliebiges „Cyberengel“-Ritualmonster als Ritualbeschwörung zu beschwören. Du musst zusätzlich Monster von deiner Hand oder Spielfeldseite als Tribut anbieten, deren gemeinsame Stufe größer oder gleich der Stufe des Ritualmonsters ist, das du als Ritualbeschwörung beschwörst. Falls ein oder mehr LICHT Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört würden, solange sich diese Karte in deinem Friedhof befindet, kannst du stattdessen diese Karte verbannen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Questa carta può essere utilizzata per Evocare tramite Rituale qualsiasi Mostro Rituale "Cyber Angelo". Devi anche offrire come Tributo, dalla tua mano o Terreno, mostri il cui Livello totale sia pari o superiore al Livello del Mostro Rituale che stai Evocando tramite Rituale. Se uno o più mostri LUCE che controlli stanno per essere distrutti in battaglia o dall'effetto di una carta mentre questa carta è nel tuo Cimitero, puoi invece bandire questa carta. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Este card pode ser usado para a Invocação-Ritual de qualquer Monstro de Ritual "Ciber Anjo(a)". Você também deve oferecer como Tributo monstros da sua mão ou do campo cuja soma dos Níveis seja igual ou exceda o Nível do Monstro de Ritual que você Invocar por Invocação-Ritual. Se um ou mais monstros de LUZ que você controla seriam destruídos em batalha ou por um efeito de card enquanto este card estiver no seu Cemitério, em vez disso, você pode banir este card. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Esta carta puede ser usada para Invocar por Ritual cualquier Monstruo de Ritual "Ciber Ángel". También debes Sacrificar monstruos en tu mano o Campo cuyos Niveles totales sean iguales o superen el Nivel del Monstruo de Ritual que Invoques por Ritual. Si uno o más monstruos de LUZ que controlas fueran a ser destruidos en batalla o por el efecto de una carta mientras esta carta está en tu Cementerio, puedes desterrar esta carta en su lugar. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「サイバー・エンジェル」儀式モンスターの降臨に必要。①：レベルの合計が儀式召喚するモンスターのレベル以上になるように、自分の手札・フィールドのモンスターをリリースし、手札から「サイバー・エンジェル」儀式モンスター１体を儀式召喚する。②：自分フィールドの光属性モンスターが戦闘・効果で破壊される場合、代わりに墓地のこのカードを除外できる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "사이버 엔젤" 의식 몬스터의 의식 소환에 필요. ①: 레벨의 합계가 의식 소환할 몬스터의 레벨 이상이 되도록, 자신의 패 / 필드의 몬스터를 릴리스하고, 패에서 "사이버 엔젤" 의식 몬스터 1장을 의식 소환한다. ②: 자신 필드의 빛 속성 몬스터가 전투 / 효과로 파괴될 경우, 대신에 묘지의 이 카드를 제외할 수 있다. 
+ 
+ 
+ 
+ 
+ 
+   GX Tag Force 2 
+ 
+ 
+This card is used to  Ritual Summon  any " Cyber Angel "  Ritual Monster . You must also  Tribute   monsters  from the  field  or your  hand  whose total  Levels  equal the Level of the Ritual Monster you are attempting to Ritual Summon. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2016-08-18 DRL3-EN015 Dragons of Legend: Unleashed Ultra Rare 2017-05-25 DPDG-EN017 Duelist Pack: Dimensional Guardians Common 2019-01-10 LED4-EN021 Legendary Duelists: Sisters of the Rose Common 2020-09-10 DLCS-EN111 Dragons of Legend: The Complete Series Common 2022-03-17 SGX1-ENE15 Speed Duel GX: Duel Academy Box Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2016-08-18 DRL3-EN015 Dragons of Legend: Unleashed Le Déchaînement des Dragons de Légende Ultra Rare 2017-05-25 DPDG-FR017 Duelist Pack: Dimensional Guardians Pack du Duelliste : Gardiens Dimensionnels Common 2019-01-10 LED4-FR021 Legendary Duelists: Sisters of the Rose Duellistes Légendaires: Les Sœurs de la Rose Common 2020-09-10 DLCS-FR111 Dragons of Legend: The Complete Series Les Dragons de Légende : la Série Complète Common 2022-03-17 SGX1-FRE15 Speed Duel GX: Duel Academy Box Speed Duel GX: Boîte Duel Académie Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2016-08-18 DRL3-EN015 Dragons of Legend: Unleashed Dragons of Legend: Unleashed Ultra Rare 2017-05-25 DPDG-DE017 Duelist Pack: Dimensional Guardians Duelist Pack: Dimensional Guardians Common 2019-01-10 LED4-DE021 Legendary Duelists: Sisters of the Rose Legendary Duelists: Sisters of the Rose Common 2020-09-10 DLCS-DE111 Dragons of Legend: The Complete Series Dragons of Legend: The Complete Series Common 2022-03-17 SGX1-DEE15 Speed Duel GX: Duel Academy Box Speed Duel GX: Duel Academy Box Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2016-08-18 DRL3-EN015 Dragons of Legend: Unleashed Draghi della Leggenda Scatenati Ultra Rare 2017-05-25 DPDG-IT017 Duelist Pack: Dimensional Guardians Duelist Pack: Guardiani Dimensionali Common 2019-01-10 LED4-IT021 Legendary Duelists: Sisters of the Rose Duellanti Leggendari: Sorelle della Rosa Common 2020-09-10 DLCS-IT111 Dragons of Legend: The Complete Series Draghi della Leggenda: la Serie Completa Common 2022-03-17 SGX1-ITE15 Speed Duel GX: Duel Academy Box Speed Duel GX: Confanetto Accademia del Duellante Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2016-08-18 DRL3-EN015 Dragons of Legend: Unleashed Dragões das Lendas Revelados Ultra Rare 2017-05-25 DPDG-PT017 Duelist Pack: Dimensional Guardians Pacote de Duelista: Guardiões Dimensionais Common 2019-01-10 LED4-PT021 Legendary Duelists: Sisters of the Rose Duelistas Lendários: Irmãs da Rosa Common 2020-09-10 DLCS-PT111 Dragons of Legend: The Complete Series Dragões das Lendas: a Serie Completa Common 2022-03-17 SGX1-PTE15 Speed Duel GX: Duel Academy Box Speed Duel GX: Caixa da Academia de Duelos Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2016-08-18 DRL3-EN015 Dragons of Legend: Unleashed Dragones de Leyenda Desatados Ultra Rare 2017-05-25 DPDG-SP017 Duelist Pack: Dimensional Guardians Sobre de Duelista: Guardianes Dimensionales Common 2019-01-10 LED4-SP021 Legendary Duelists: Sisters of the Rose Duelistas Legendarios: Hermanas de la Rosa Common 2020-09-10 DLCS-SP111 Dragons of Legend: The Complete Series Dragones de Leyenda: las Series Completas Common 2022-03-17 SGX1-SPE15 Speed Duel GX: Duel Academy Box Speed Duel GX: Caja de la Academia de Duelos Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2016-05-14 CPF1-JP015 Collectors Pack: Duelist of Flash Version コレクターズパック －閃光の決闘者編－ Common 2018-11-10 DP21-JP021 Duelist Pack: Legend Duelist 4 デュエリストパック －レジェンドデュエリスト編４－ Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2016-11-10 CPF1-KR015 Collectors Pack: Duelist of Flash Version COLLECTORS   PACK  -섬광의 듀얼리스트 편- Common 2019-02-19 DP21-KR021 Duelist Pack: Legend Duelist 4 듀얼리스트 팩 －레전드 듀얼리스트 편 ４- Common 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   GX Tag Force 2 
+ 
+ 
+ Spice Up Your Deck 
+ 
+ 
+ 
+ 
+ 
+   GX Tag Force 3 
+ 
+ 
+ Yu-Gi-Oh! GX Tag Force 3 
+ 
+ 
+ 
+ 
+ 
+   5D's Tag Force 4 
+ 
+ 
+ Generation Next 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Ritual Monster 
+ LIGHT 
+ 
+ Archetypes  and  series   
+ Machine Angel 
+ 
+ Supports   archetypes   
+ Cyber Angel 
+ 
+ Related to  archetypes  and  series   
+ Cyber Girl 
+ 
+ Actions  
+ Tributes as an effect 
+ 
+ Monster / Spell / Trap  categories  
+ Redirects destruction 
+ Cannot be destroyed by card effects 
+ 
+ Summoning  categories  
+ Special Summons from your hand 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ Banished  categories  
+ Banishes itself from Graveyard 
+ 
+ Miscellaneous  
+ Nonspecific Ritual Spell Card 
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 6850 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status GX Tag Force 2 2007-09-18 – ??? – – – Unlimited GX Tag Force 3 2008-11-27 – – – – – Unlimited 5D's Tag Force 4 2009-09-17 – – – – – Present 
+ 
+ 
+ 
+   " Machine Angel Ritual " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Cyber Angel " 「サイバー・エンジェル」 Members 
+ Cyber Angel Benten Cyber Angel Dakini Cyber Angel Idaten Cyber Angel Izana Cyber Angel Natasha Cyber Angel Vrash 
+ Support 
+ Cyber Angel Izana Cyber Angel Natasha Cyber Petit Angel 
+ Incarnated Machine Angel Machine Angel Absolute Ritual Machine Angel Ritual Magnificent Machine Angel Merciful Machine Angel 
+ Related 
+ Cyber Egg Angel 
+ Ritual Sanctuary 
+ 
+   
+ Cyber Girl  サイバー・ガール Members 
+ Blade Skater Cyber Angel Benten Cyber Angel Dakini Cyber Angel Idaten Cyber Angel Izana Cyber Angel Natasha Cyber Angel Vrash Cyber Blader Cyber Gymnast Cyber Prima Cyber Tutu Cyber Tutubon Etoile Cyber 
+ Related 
+ Doble Passe Machine Angel Absolute Ritual Machine Angel Ritual 
+ 
+   
+" Machine Angel " 「 機 械 天 使 」 Members 
+ Incarnated Machine Angel Machine Angel Absolute Ritual Machine Angel Ritual Magnificent Machine Angel Merciful Machine Angel 
+ Support 
+ Cyber Egg Angel 
+ Related 
+ Cyber Petit Angel 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/93/MachineAngelRitual-SGX1-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20220418222751', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/f/f5/Ritual.svg/revision/latest/scale-to-width-down/28?cb=20120920115233']
+Categories: Duel Monsters cards, TCG cards, OCG cards

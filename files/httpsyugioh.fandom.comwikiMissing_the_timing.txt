@@ -1,0 +1,589 @@
+Link: https://yugioh.fandom.com/wiki/Missing_the_timing
+
+      Official explanation of missing the timing     
+ Missing the timing  (タイミングを 逃 す  Taimingu wo Nogasu ) is the inability to  activate  a card or  optional effect  when it would meet its activation timing because it is not possible to activate it in  response  to the required event.
+ 
+ Contents 
+ 
+ 1   Overview 
+ 
+ 1.1   Simultaneous events 
+ 
+ 
+ 2   Examples 
+ 
+ 2.1   Trigger and Trigger-like Effects 
+ 2.2   Trap Cards and Quick-Play Spell Cards 
+ 2.3   Quick and Quick-like Effects 
+ 
+ 
+ 3   See also 
+ 4   External links 
+ 5   References 
+ 
+ 
+ Overview 
+ Cards and effects can only be activated in  response  to an event if that event is the last event to occur. If an event is performed, then before it is possible to activate cards or effects another event is performed, it is not possible for any cards or effects to be activated in response to the initial event.
+ Some  Trap Cards ,  Quick-Play Spell Cards , and optional effects must be activated in response to a particular event (such as the  Trigger Effect  of " Peten the Dark Clown "). These optional effects are marked by the usage of the word " when " in their activation timing. [1] [2] [3]  Trap Cards, Quick-Play Spell Cards, and optional effects that use other words instead of " when " (such as " if " or " each time ") do not need to be activated in response to the event, but simply at the first opportunity after the event occurs. Likewise,  mandatory effects  do not need to be activated in response to a particular event, always being activated at the first opportunity after the event occurs (regardless of whether they use " when " or not). [4] 
+ If a card or effect is activated in response to an event, all cards and effects activated in the same  Chain  are in response to that same event. For example, if a monster  declares  an  attack  and a player activated " Magic Cylinder ", then " Mirror Force " can still be activated as  Chain Link  2 or higher because all cards activated in this Chain are in response to the attack.
+ Chain Links  resolve strictly sequentially. The last Chain Link to  resolve  will be the most recent event (and the only event that can be responded to). [5]  Normally this will be Chain Link 1, but if the activation of a Chain Link is  negated , it does not resolve. (There is a distinction between negating the activation of an effect and negating the effect itself; if only the effect is negated, the Chain Link still resolves, but without effect.) [4] 
+ It is not possible to activate cards or effects in response to events that occur as part of paying a  cost  to activate a card or effect. [6] 
+ 
+ Simultaneous events 
+ When resolving a card effect, different parts of an effect may or may not be considered to be performed at the same time. As such it is possible for there to be multiple most recent events.
+ Cards with  Problem-Solving Card Text  have mechanically significant conjunctives (" and ", " and if you do ", " also ", " then ", " also, after that ") in their card text which determine whether or not different parts of an effect are considered to be simultaneous. [7]  In the  TCG , for cards without Problem-Solving Card Text, it is necessary to rely on rulings for details on simultaneity.
+ The conjunctives " then " and " also, after that " indicate that the part of the effect before the conjunctive is done strictly before the part of the effect after the conjunctive. Therefore, if the part of the effect after the conjunctive is applied, cards and effects cannot be activated in response to the part of the effect before the conjunctive, and so effects that could be activated in response to that event miss the timing.
+ On the other hand, the conjunctives " and ", " and if you do " and " also " indicate that both the part of the effect before the conjunctive and the part of the effect after the conjunctive are done simultaneously. Therefore, if the part of the effect after the conjunctive is the last part of the effect to resolve, cards and effects can be activated in response to the part of the effect before the conjunctive (so do not miss the timing).
+ 
+ Examples 
+ Trigger and Trigger-like Effects 
+       Peten the Dark Clown     
+ Sequential events 
+ When " Soul Taker "  resolves , first the target is  destroyed , then the opponent gains 1000  LP . (This is clear due to the use of the conjunctive " then ".)  Since the opponent gains LP strictly after the monster is destroyed, cards and effects cannot be activated in response to the monster being destroyed.
+ The effect of " Peten the Dark Clown " is an optional effect that uses " when ", so it must be activated in response to "Peten the Dark Clown" itself being sent to your Graveyard. If "Peten the Dark Clown" is destroyed by "Soul Taker", its effect misses the timing and cannot be activated. [1] 
+ On the other hand, the effect of " Kidmodo Dragon " does not use " when ", so its effect can be activated even if it is destroyed and sent to the Graveyard by the effect of "Soul Taker" (it is not necessary for the effect to be activated in response to "Kidmodo Dragon" being sent to the Graveyard).
+ 
+ Simultaneous events 
+ When " Psychokinesis " resolves, the target is destroyed, and at the same time, the player that activated "Psychokinesis" takes 1000  damage . (This is clear due to the use of the conjunctive "and if you do".) Since both events occurred at the same time, cards and effects can be activated in response to both events.
+ Therefore, regardless of whether the destroyed monster was " Peten the Dark Clown ", " Kidmodo Dragon ", or " Dandylion ", it can be activated in response to its own destruction (i.e. "Psychokinesis" cannot cause cards or effects to miss the timing).
+ 
+ Chain Link 2 or higher 
+ The effect of " Blaze Fenix, the Burning Bombardment Bird " is activated as  Chain Link  1 and " Raigeki Break " as Chain Link 2 targeting a  Fusion Monster . When the Chain resolves, the most recent event will be inflicting damage with the effect of "Blaze Fenix, the Burning Bombardment Bird", so it is not possible to activate cards and effects in response to the Fusion Monster being destroyed by "Raigeki Break".
+ The effect of " Branch! " is an optional effect that uses " when ", so it must be activated in response to a  Fusion Monster  being destroyed and sent to the Graveyard, thus it misses its timing in the described scenario. On the other hand, the effect of " Yang Zing Creation " does not use " when ", so its effect can be activated even if the monster is destroyed at Chain Link 2 (it is not necessary for the effect to be activated in response to the monster being destroyed). Likewise, the effect of " Supply Squad " is a mandatory effect, so its effect will activate when a monster is destroyed at Chain Link 2.
+ However, if " Divine Wrath " is activated at Chain Link 2 instead, since it negates the activation of the effect "Blaze Fenix, the Burning Bombardment Bird", the most recent event will be destroying "Blaze Fenix, the Burning Bombardment Bird". Therefore, the effects of "Branch!", "Yang Zing Creation", and "Supply Squad" can all be activated in this case.
+ Similarly, if "Blaze Fenix, the Burning Bombardment Bird" is destroyed by the effect of "Raigeki Break" as Chain Link 1, all three effects can be activated.
+ 
+ Tribute Summon 
+ If a monster is  Tributed  for the  Tribute Summon  of " Summoned Skull ", first the monster is Tributed and sent to the Graveyard, then "Summoned Skull" is  Tribute Summoned . Once it is possible to activate cards and effects, the last event to occur was the Tribute Summon of "Summoned Skull" (not the monster being Tributed), so cards and effects cannot be activated in response to the monster being Tributed.
+ If the Tributed monster was "Peten the Dark Clown", its effect misses the timing and cannot be activated. [1]  On the other hand, if the Tributed monster was "Kidmodo Dragon" or "Dandylion", its effect can be activated; in that case, the effect of "Kidmodo Dragon" or "Dandylion" will activate in response to the Tribute Summon of "Summoned Skull".
+ The same applies if the monsters are used as  Synchro Materials  for a  Synchro Summon  or  Link Materials  for a  Link Summon , since the materials are sent to the Graveyard strictly before the  Synchro Monster  or  Link Monster  is Summoned.
+ 
+ Activation cost 
+ If a monster is  Tributed  as a  cost  to activate the effect of " Cannon Soldier ", because it is not possible to activate cards or effects in response to activation costs, it is not possible to activate a card or effect in response to the monster being Tributed.
+ If the Tributed monster was "Peten the Dark Clown", its effect misses the timing and cannot be activated. [1] 
+ On the other hand, if the Tributed monster was "Kidmodo Dragon" or "Dandylion", its effect can be activated. In that case, the effect of "Kidmodo Dragon" or "Dandylion" will activate in the next Chain after "Cannon Soldier" resolves (they cannot be activated in the same Chain because they are  Spell Speed 1  effects and this situation does not qualify for  SEGOC ).
+ 
+ Multiple activations 
+ If a card or effect is activated in response to an event, any card or effect activated in the same Chain is also in response to the same event.
+ If the player controls both " Heart of the Underdog " and " Tethys, Goddess of Light ", when they draw a " Shining Friendship " (a  Fairy - Type   Normal Monster ) for their  normal draw , the effects of both "Heart of the Underdog" and "Tethys, Goddess of Light" meet their activation timings simultaneously, so they can both be activated in one  Chain  (as per the rules of  SEGOC ). One effect being activated does not cause the other to miss the timing, since the entire Chain is in response to the same event.
+ 
+ Trap Cards and Quick-Play Spell Cards 
+       Chthonian Blast     
+ Sequential events 
+ When " Soul Taker "  resolves , first the  target  is destroyed, then the opponent gains 1000  LP . (This is clear due to the use of the conjunctive " then ".)  Since the opponent gains LP strictly after the monster is destroyed, cards and effects cannot be activated in response to the monster being destroyed.
+ Cards such as " Chthonian Blast " and " Reverse of Neos " can only be activated in response to a monster being destroyed. If the monster is destroyed by "Soul Taker", these cards miss the timing and cannot be activated.
+ On the other hand, " Puzzle Reborn " has an effect that is activated if a monster is destroyed by a card effect (it does not use "when", so it does not require that it be activated in response to that card being destroyed). Even if a monster is destroyed by "Soul Taker", "Puzzle Reborn" can be activated after the Chain resolves. [3] 
+ 
+ Simultaneous events 
+ When " Psychokinesis " resolves, the target is destroyed, and at the same time, the player that activated "Psychokinesis" takes 1000 damage. (This is clear due to the use of the conjunctive " and if you do ".) Since both events occurred at the same time, cards and effects can be activated in response to both events.
+ Therefore, cards such as "Chthonian Blast" and "Reverse of Neos" can be activated in response to a monster being destroyed by the effect of "Psychokinesis". (They do not miss the timing.)
+ 
+ Chain Link 2 or higher 
+ The  Ignition Effect  of " Elemental HERO Aqua Neos " is activated as  Chain Link  1 and " Raigeki Break " as Chain Link 2 targeting a monster. When the  Chain   resolves , the most recent event will be destroying a card in the hand with the effect of "Elemental HERO Aqua Neos", so it is not possible to activate cards and effects in response to the monster being destroyed by "Raigeki Break".
+ Therefore, cards such as "Chthonian Blast" and "Reverse of Neos" cannot be activated in response to a monster being destroyed by "Raigeki Break" in the described scenario, so they miss the timing.
+ However, if " Divine Wrath " is activated at Chain Link 2 instead, since it negates the activation of the effect "Elemental HERO Aqua Neos", the most recent event will be destroying "Elemental HERO Aqua Neos". Therefore, "Chthonian Blast" and "Reverse of Neos" can be activated in this case (they do not miss the timing).
+ On the other hand, " Puzzle Reborn " (which does not use "when") can be activated even if a monster is destroyed at Chain Link 2 or higher by "Raigeki Break". [3] 
+ 
+ Activation cost 
+ If the player  discards  a card as a  cost  to activate " Cards of Consonance ", because it is not possible to activate cards or effects in response to activation costs, it is not possible to activate a card or effect in response to the card being discarded. The activation timing of " Forced Requisition " uses " when ", so it can only be activated in response to the player discarding a card, hence it misses its activation timing in this case. [6] 
+ On the other hand, " That Wacky Alchemy! " has an effect that is activated if an opponent's face-up Spell Card is sent to the Graveyard (it does not use "when", so it does not require that it be activated in response to that card being sent to the Graveyard). If the  Ignition Effect  of an opponent's " Brotherhood of the Fire Fist - Bear " is activated by sending " Fire Formation - Tenki " to the Graveyard, "That Wacky Alchemy!" can be activated in any subsequent  Chain Link . [2] 
+ 
+ Multiple activations 
+ " Junk Changer " has an optional  Trigger Effect  that activates when it is  Special Summoned . Even if its effect is activated, since the entire Chain is in response to the same event(s), cards such as " Bottomless Trap Hole " and " Inferno Reckless Summon " (which can only be activated in response to a monster being Summoned) can be Chained to the activation of the effect of "Junk Changer".
+ 
+ Quick and Quick-like Effects 
+         Shiny Black "C"     
+ Sequential events 
+ When the effect of " Drill Warrior " to  Special Summon  itself resolves, first it Special Summons itself, then its controller adds 1 monster from their Graveyard to their hand. (This is clear due to the use of the conjunctive " then ".)  Since the monster is added to the hand strictly after the Special Summon, cards and effects cannot be activated in response to the Special Summon.
+ The effect of " Shiny Black "C" " can only be activated in response to a  Synchro Monster  being Special Summoned to the opponent's field. When an opponent's "Drill Warrior" is Special Summoned by its own effect, the effect of "Shiny Black "C"" misses the timing and cannot be activated.
+ 
+ Simultaneous events 
+ When " Soul Charge " resolves, monsters are Special Summoned, and at the same time, the player that activated it loses 1000  LP  for each. (This is clear due to the use of the conjunctive " and if you do ".) Since both events occurred at the same time, cards and effects can be activated in response to both events.
+ Therefore, the effect of " Shiny Black "C" " can be activated in response to a  Synchro Monster  being Special Summoned to the opponent's field by "Soul Charge". (It does not miss the timing.)
+ 
+ Chain Link 2 or higher 
+ " Dian Keto the Cure Master " is activated as  Chain Link  1 and " Raigeki Break " as Chain Link 2 targeting a monster. When the Chain resolves, the most recent event will be gaining  LP  with the effect of "Dian Keto the Cure Master", so it is not possible to activate cards and effects in response to the monster being destroyed by "Raigeki Break".
+ " Desrook Archfiend " can only be activated in response to the player's " Terrorking Archfiend " being destroyed and sent to the Graveyard. If "Terrorking Archfiend" is destroyed by "Raigeki Break" in the Chain described above, it is not possible to activate cards or effects in response to its destruction, so "Desrook Archfiend" misses the timing. [5] 
+ 
+ See also 
+ Fast effect timing 
+ External links 
+ Advanced Game Play FAQ's on Upper Deck Entertainment's site  (archive) 
+ References 
+ 
+ ↑  1.0   1.1   1.2   1.3   "Individual Card Rulings [P-R]" . Upper Deck Entertainment. Peten the Dark Clown. Archived from  the original  on 20 February 2009 .  http://web.archive.org/web/20090220140220/http://entertainment.upperdeck.com:80/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=P&last=R . Retrieved 4 June 2017 . 
+ 
+ ↑  2.0   2.1   Berger, Tyler (March 21, 2013).  "Don’t Forget About This Card: That Wacky Alchemy!" . Konami .  https://yugiohblog.konami.com/articles/?p=4721 . Retrieved 3 June 2017 . 
+ 
+ ↑  3.0   3.1   3.2   Tewart, Kevin  (October 24, 2012).  "[Official Thread] Abyss Rising" .  http://www.pojo.biz/board/showpost.php?p=26039471&postcount=113 . Retrieved 4 June 2017 . 
+ 
+ ↑  4.0   4.1   "Advanced Game Play FAQ's" . Upper Deck Entertainment. Missing the Timing - Optional Trigger Effects. Archived from  the original  on February 19, 2009 .  http://web.archive.org/web/20090217144746/http://entertainment.upperdeck.com:80/YuGiOh/en/gameplay/faqs/advancedgameplay/default.aspx . Retrieved 4 June 2017 . 
+ 
+ ↑  5.0   5.1   "Individual Card Rulings [D-E]" . Upper Deck Entertainment. Desrook Archfiend. Archived from  the original  on 18 February 2009 .  http://web.archive.org/web/20090218205242/http://entertainment.upperdeck.com:80/yugioh/en/gameplay/faqs/cardfaqs/default.aspx?first=D&last=E . Retrieved 4 June 2017 . 
+ 
+ ↑  6.0   6.1   "Ｑ＆Ａ » 強制接収 [Q&A » Forced Requisition]"  (in Japanese). Konami. 20 July 2012 .  http://www.db.yugioh-card.com/yugiohdb/faq_search.action?ope=4&cid=4948&request_locale=ja . Retrieved 4 June 2017 . 
+ 
+ ↑   Tewart, Kevin  (December 12, 2012).  "Problem-Solving Card Text, Part 7: 2012 Update – Conjunction Functions" .  Konami .  https://yugiohblog.konami.com/articles/?p=4514 . 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/f1/Missing_the_Timing_EN-US.png/revision/latest/scale-to-width-down/220?cb=20131004125132', 'https://static.wikia.nocookie.net/yugioh/images/4/43/PetentheDarkClown-SDKS-EN-C-1E.png/revision/latest/scale-to-width-down/220?cb=20161021201100', 'https://static.wikia.nocookie.net/yugioh/images/9/9e/ChthonianBlast-BPW2-NA-C-1E.png/revision/latest/scale-to-width-down/220?cb=20140122120459', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/2c/ShinyBlackC-DL14-EN-R-UE-Blue.png/revision/latest/scale-to-width-down/220?cb=20120704193940']
+Categories: Gameplay

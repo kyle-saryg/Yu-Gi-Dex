@@ -1,0 +1,112 @@
+Link: https://yugioh.fandom.com/wiki/Gishki_Icemirror
+
+The  English                        name given is not official.  
+ The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Gishki Icemirror リチュアの 氷 魔 鏡 
+ 
+ English 
+Gishki Icemirror 
+ Japanese (kana) 
+ リチュアのひょうまきょう Check translation 
+ Japanese (base) 
+ リチュアの氷魔鏡 Check translation 
+ Japanese ( rōmaji ) 
+Richua no Hyōmakyō 
+ Japanese (translated) 
+Ritua Ice Magic Mirror 
+ Card type 
+ Spell   
+ Property 
+ Ritual   
+ Passcode 
+ 36982581 Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+This card can be used to  Ritual Summon  any " Gishki "  Ritual Monster . Ritual Summon 1 "Gishki" Ritual Monster from your  hand  by  Tributing  either 1  face-up   monster  your opponent  controls , or monsters from your hand or  field , whose total  Levels  exactly equal its Level, and if you do, you lose  LP  equal to its  original ATK . If this card is in your  GY : You can  target  1 "Gishki" monster in your GY; place it on the top of the  Deck , and if you do, place this card on the bottom of the Deck. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「リチュア」儀式モンスターの降臨に必要。①：相手フィールドの表側表示モンスター１体をリリース、またはレベルの合計が儀式召喚するモンスターと同じになるように自分の手札・フィールドのモンスターをリリースし、手札から「リチュア」儀式モンスター１体を儀式召喚し、自分はその元々の攻撃力分のLPを失う。②：このカードが墓地に存在する場合、自分の墓地の「リチュア」モンスター１体を対象として発動できる。そのモンスターをデッキの一番上に戻し、このカードをデッキの一番下に戻す。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-10-15 PHHY-JP066 Photon Hypernova ＰＨＯＴＯＮ ＨＹＰＥＲＮＯＶＡ Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Gishki 
+ 
+ Supports   archetypes   
+ Gishki 
+ 
+ Actions  
+ Tributes opponent's monsters 
+ Activates from your Graveyard 
+ Places cards from Graveyard on the top of the Deck 
+ Places itself on the bottom of the Deck 
+ 
+ Summoning  categories  
+ Special Summons from your hand 
+ 
+ LP   
+ You lose LP 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 18211 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Gishki " 「リチュア」 Members 
+ Evigishki Gustkraken Evigishki Levianima Evigishki Merrowgeist Evigishki Mind Augus Evigishki Nereimanas Evigishki Soul Ogre Evigishki Tetrogre Gishki Abyss Gishki Ariel Gishki Avance Gishki Beast Gishki Chain Gishki Diviner Gishki Emilia Gishki Grim Gishki Marker Gishki Mollusk Gishki Natalia Gishki Noellia Gishki Psychelone Gishki Reliever Gishki Shadow Gishki Vanity Gishki Vision Gishki Zielgigas 
+ Forbidden Arts of the Gishki Gishki Aquamirror Gishki Icemirror Gishki Photomirror Ritual Buster Ritual Weapon Spiritual Forest 
+ Support 
+ Evigishki Gustkraken Evigishki Levianima Evigishki Mind Augus Evigishki Nereimanas Evigishki Soul Ogre Evigishki Tetrogre Gishki Abyss Gishki Ariel Gishki Avance Gishki Beast Gishki Emilia Gishki Grim Gishki Marker Gishki Natalia Gishki Noellia Gishki Psychelone Gishki Reliever Gishki Shadow Gishki Vanity Gishki Vision Gishki Zielgigas 
+ Aquamirror Focalization Aquamirror Illusion Aquamirror Meditation Forbidden Arts of the Gishki Gishki Aquamirror Gishki Icemirror Gishki Photomirror 
+ Related 
+ Ariel, Priestess of the Nekroz Dance Princess of the Nekroz El Shaddoll Apkallone Evilswarm Ketos Great Sorcerer of the Nekroz Judge of the Ice Barrier Lavalval Chain Musto, Oracle of Gusto Naelshaddoll Ariel Revealer of the Ice Barrier Speaker for the Ice Barriers Steelswarm Hercules Vylon Tetra Zefrasaber, Swordmaster of the Nekroz 
+ After the Storm Aquamirror Cycle Contact with the Aquamirror Creeping Darkness Nekroz Mirror Poisonous Winds Spell Wall 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/66/GishkiIcemirror-PHHY-JP-R.png/revision/latest/scale-to-width-down/300?cb=20221108001901', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/f/f5/Ritual.svg/revision/latest/scale-to-width-down/28?cb=20120920115233']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

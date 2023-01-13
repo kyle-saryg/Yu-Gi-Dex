@@ -1,0 +1,247 @@
+Link: https://yugioh.fandom.com/wiki/Altergeist_Fifinellag
+
+
+ 
+ 
+ Altergeist Fifinellag オルターガイスト・フィフィネラグ 
+ 
+ English 
+Altergeist Fifinellag 
+ French 
+ Fifinellag Altergeist Check translation 
+ German 
+ Altergeist Fifinellag Check translation 
+ Italian 
+ Altergeist Fifinellag Check translation 
+ Korean 
+ 얼터가이스트 피피넬라그 Check translation 
+ Portuguese 
+ Fifinellag Altergeist Check translation 
+ Spanish 
+ Altergeist Fifinellag Check translation 
+ Japanese 
+ オルターガイスト・フィフィネラグ Check translation 
+ Japanese ( rōmaji ) 
+Orutāgaisuto Fifineragu 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Spellcaster  /  Tuner  /  Effect 
+ Level 
+ 2   
+ ATK  /  DEF 
+ 0  /  1000 
+ Passcode 
+ 12977245 
+ Card effect types 
+ 
+ 
+ Continuous Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Monsters  your opponent  controls  cannot  target  " Altergeist " monsters you  control  for  attacks , except "Altergeist Fifinellag", also your opponent cannot target "Altergeist" monsters you control with  card effects , except "Altergeist Fifinellag". 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Les monstres contrôlés par votre adversaire ne peuvent pas cibler les monstres "Altergeist" que vous contrôlez ("Fifinellag Altergeist" exclu) avec une attaque, et aussi, votre adversaire ne peut pas cibler de monstres "Altergeist" que vous contrôlez ("Fifinellag Altergeist" exclu) avec des effets de carte. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Monster, die dein Gegner kontrolliert, können keine „Altergeist“-Monster, die du kontrollierst, als Angriffsziel wählen, außer „Altergeist Fifinellag“, zusätzlich kann dein Gegner keine „Altergeist“-Monster, die du kontrollierst, als Ziel für Karteneffekte wählen, außer „Altergeist Fifinellag“. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ I mostri controllati dal tuo avversario non possono scegliere come bersaglio i mostri "Altergeist" che controlli per gli attacchi, eccetto "Altergeist Fifinellag", inoltre il tuo avversario non può scegliere come bersaglio i mostri "Altergeist" che controlli con gli effetti delle carte, eccetto "Altergeist Fifinellag". 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Monstros que seu oponente controla não podem escolher monstros "Altergeist" que você controla como alvo de ataques, exceto "Fifinellag Altergeist" e, além disso, seu oponente não pode escolher monstros "Altergeist" que você controla como alvo de efeitos de card, exceto "Fifinellag Altergeist". 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Los monstruos que controla tu adversario no pueden seleccionar para ataques a los monstruos "Altergeist" que controlas, excepto a "Altergeist Fifinellag", y además tu adversario no puede seleccionar monstruos "Altergeist" que controlas con efectos de cartas, excepto "Altergeist Fifinellag". 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①:このカードがモンスターゾーンに存在する限り、相手は「オルターガイスト・フィフィネラグ」以外の自分フィールドの「オルターガイスト」モンスターを、攻撃対象に選択できず、効果の対象にもできない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 이 카드가 몬스터 존에 존재하는 한, 상대는 "얼터가이스트 피피넬라그" 이외의 자신 필드의 "얼터가이스트" 몬스터를, 공격 대상으로 선택할 수 없으며, 효과의 대상으로도 할 수 없다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2019-05-02 DANE-EN005 Dark Neostorm Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2019-05-02 DANE-FR005 Dark Neostorm Néotempête des Ténèbres Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2019-05-02 DANE-DE005 Dark Neostorm Dark Neostorm Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2019-05-02 DANE-IT005 Dark Neostorm Neotempesta Oscura Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2019-05-02 DANE-PT005 Dark Neostorm Neotempestade Negra Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2019-05-02 DANE-SP005 Dark Neostorm Neotormenta Oscura Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2019-01-12 DANE-JP005 Dark Neostorm ダーク・ネオストーム Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2019-04-16 DANE-KR005 Dark Neostorm 다크 네오스톰 Common 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Altergeist 
+ 
+ Supports   archetypes   
+ Altergeist 
+ 
+ Monster / Spell / Trap  categories  
+ Manages effect targets of Effect Monsters 
+ Manages effect targets of Spell Cards 
+ Manages effect targets of Trap Cards 
+ Cannot be targeted by card effects 
+ 
+ Attack  categories  
+ Manages attack targets 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14255 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Altergeist Fifinellag " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Altergeist " 「オルターガイスト」 Members 
+ Altergeist Dragvirion Altergeist Fifinellag Altergeist Fijialert Altergeist Hexstia Altergeist Kidolga Altergeist Kunquery Altergeist Marionetter Altergeist Meluseek Altergeist Memorygant Altergeist Multifaker Altergeist Pixiel Altergeist Pookuery Altergeist Primebanshee Altergeist Silquitous 
+ Altergeist Camouflage Altergeist Emulatelf Altergeist Failover Altergeist Haunted Rock Altergeist Manifestation Altergeist Protocol 
+ Support 
+ Altergeist Dragvirion Altergeist Fifinellag Altergeist Fijialert Altergeist Hexstia Altergeist Kidolga Altergeist Kunquery Altergeist Marionetter Altergeist Meluseek Altergeist Memorygant Altergeist Multifaker Altergeist Pixiel Altergeist Pookuery Altergeist Primebanshee Altergeist Silquitous 
+ Altergeist Camouflage Altergeist Emulatelf Altergeist Failover Altergeist Manifestation Altergeist Protocol Personal Spoofing 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c3/AltergeistFifinellag-DANE-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20200402161311', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,101 @@
+Link: https://yugioh.fandom.com/wiki/Unfinished_Time_Box
+
+
+ Unfinished Time Box 
+ 
+ Japanese:   未完の時空機械筐 
+ Kana:   みかんのタイムボックス 
+ Romaji:   Mikan no Taimu Bokkusu 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Activate  only if a  monster  you  control  is  destroyed by battle .  Remove from play  the monster that  battled  it, and  draw 1 card . When this card is  destroyed ,  return  the monster removed from play by this  effect  to the field.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  GX :  167 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  GX ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ 未 完 の 時空機械筐 
+ 自分フィールド上のモンスターが戦闘で破壊された時発動する事ができる。相手の攻撃モンスター１体をゲームから除外してカードを１枚ドローする。このカードが破壊された時、このカードの効果で除外されたモンスターをフィールド上に戻す。 
+ 
+ 
+ Mikan no Taimu Bokkusu 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Vellian Crowler 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ You draw cards 
+ Activates from your hand 
+ Activates from your Graveyard 
+ Activates while banished 
+ 
+ Summoning  categories  
+ Special Summons the opponent's banished monsters 
+ Special Summons to your opponent's field 
+ 
+ Banished  categories  
+ Banishes from your opponent's field 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c1/UnfinishedTimeBox-JP-Anime-GX.png/revision/latest/scale-to-width-down/200?cb=20160918132045', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/0/08/UnfinishedTimeBox-JP-Anime-GX-NC.png/revision/latest/scale-to-width-down/185?cb=20150214022154', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/55/UnfinishedTimeBox-JP-Anime-GX-NC-2.png/revision/latest/scale-to-width-down/185?cb=20160330022511', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

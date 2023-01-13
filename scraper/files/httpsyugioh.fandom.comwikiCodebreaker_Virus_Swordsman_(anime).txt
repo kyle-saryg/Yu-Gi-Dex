@@ -1,0 +1,175 @@
+Link: https://yugioh.fandom.com/wiki/Codebreaker_Virus_Swordsman_(anime)
+
+Main card page: " Codebreaker Virus Swordsman " 
+ Codebreaker Virus Swordsman 
+ 
+ Japanese:   コードブレイカー・ウイルスソードマン 
+ Romaji:   Kōdobureikā Uirusu Sōdoman 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   DARK 
+ 
+ Link Arrows 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Top ,  Bottom 
+ Material 
+ 
+ 
+ 
+ 2 " Codebreaker "  monsters 
+ 
+ [  Warrior  /  Link  /  Effect  ] 
+ 2 " Codebreaker "  monsters 
+ If this card is  Special Summoned , and is now  co-linked : You can  target  1  Link Monster  on the  field ; Special Summon 1  Level  4 or lower "Codebreaker" monster from your  hand  or  GY  in  Defense Position  to any zone the targeted monster  points to . At the end of the  Damage Step , if this card  battled  an opponent's monster: You can target 1  face-up  monster your opponent  controls ; it loses 500  ATK  for each "Codebreaker" monster on the field, and if it does, inflict  damage  to your opponent equal to the ATK lost by this  effect . During the  End Phase , if this card is in the GY because it was  destroyed  by an opponent's card effect and  sent  there from your field this  turn : You can Special Summon this card, but  banish  it when it  leaves the field . You can only use each effect of "Codebreaker Virus Swordsman"  once per turn .
+ ATK  /  2300     LINK  –  2   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  092 ,  093 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ コードブレイカー・ウイルスソードマン 
+ 
+ 「コードブレイカー」モンスター２体
+ 
+ このカード名の①②③の効果はそれぞれ１ターンに１度しか使用できない。①：相互リンク状態になるように、このカードが特殊召喚に成功した場合、フィールドのリンクモンスター１体を対象として発動できる。自分の手札・墓地からレベル４以下の「コードブレイカー」モンスター１体を選び、そのモンスターを対象のモンスターのリンク先となる自分または相手フィールドに守備表示で特殊召喚する。②：このカードが相手モンスターと戦闘を行ったダメージステップ終了時、相手フィールドの表側表示モンスター１体を対象として発動できる。そのモンスターの攻撃力は、フィールドの「コードブレイカー」モンスターの数×５００ダウンし、そのダウンした数値分だけ相手にダメージを与える。③：このカードが相手の効果で破壊され、墓地へ送られターンのエンドフェイズに発動できる。このカードを墓地から特殊召喚する。この効果て特殊召喚したこのカードは、フィールドから離れた場合に除外される。 
+ 
+ 
+ Kōdobureikā Uirusu Sōdoman 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Cal Kolter 
+ 
+ 
+ Search categories 
+ 
+ Archetypes  and  series   
+ Codebreaker 
+ 
+ Supports   archetypes   
+ Codebreaker 
+ 
+ Actions  
+ Activates upon Special Summon 
+ Activates from your Graveyard 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ 
+ Summoning  categories  
+ 2 Link Materials 
+ Requires archetype specific Link Materials 
+ Special Summons from your hand 
+ Special Summons from your Graveyard 
+ Special Summons to your opponent's field 
+ Special Summons itself from your Graveyard 
+ 
+ Banished  categories  
+ Banishes itself when it leaves the field 
+ 
+ LP   
+ Damages your opponent 
+ 
+ Miscellaneous  
+ Co-link 
+ Only once per turn 
+ 
+ 
+ 
+   " Codebreaker Virus Swordsman " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+" Codebreaker " 「コードブレイカー」 a   m   +   Members 
+ Codebreaker Virus Berserker Codebreaker Virus Swordsman Codebreaker Zero Day 
+ Support 
+ Codebreak Backfire Codebreak Bind Codebreaker Virus Berserker Codebreaker Virus Swordsman Codebreaker Zero Day 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/4/46/CodebreakerVirusSwordsman-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20190306134335', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/b/bb/CodebreakerVirusSwordsman-JP-Anime-VR-NC.png/revision/latest/scale-to-width-down/185?cb=20190306134335', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

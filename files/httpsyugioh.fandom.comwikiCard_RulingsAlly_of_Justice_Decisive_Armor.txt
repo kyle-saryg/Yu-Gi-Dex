@@ -1,0 +1,44 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Ally_of_Justice_Decisive_Armor
+
+
+ Ally of Justice Decisive Armor 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ TCG Rulings 
+ You cannot use  Eccentric Boy  as a  Tuner  to  Summon  this monster because the other material monster must be 1 monster in your hand, and this requires 2 non-Tuner monsters. [1] 
+ Your opponent only needs to have a  face-up   LIGHT  monster when you activate this effect, not when it resolves. [1] 
+ Destroying 1  Set  card targets that card. [1] 
+ Sending cards from your hand to the  Graveyard  for second or third effects is a  cost . [1] 
+ The effect to send  LIGHT  monsters to the  Graveyard  and inflict damage counts  LIGHT  monsters sent from your opponent’s hand to your  Graveyard . [1] 
+ OCG Rulings 
+ The text, " If your opponent controls a face-up LIGHT monster, you can select and activate 1 of the following effects once per turn: " of " Ally of Justice Decisive Armor " is not treated as an effect. [2] 
+ The effect of " Ally of Justice Decisive Armor " which destroys one Set card your opponent controls  targets . [2] 
+ Discarding your entire hand is a  cost  to activate the effect of " Ally of Justice Decisive Armor " which discards from your opponent's hand and inflicts damage. [2] 
+ If one of the monsters sent to the Graveyard by the effect of your " Ally of Justice Decisive Armor " was sent to your Graveyard because it was owned by you and added to your opponent's hand by " Exchange ", then the sent monster will be included in the damage inflicted. [3] 
+ If an effect is  chained  to the effect of " Ally of Justice Decisive Armor " so that your opponent controls no LIGHT monsters when resolving the effect of " Ally of Justice Decisive Armor ", then the effect of " Ally of Justice Decisive Armor " will still resolve properly. [4] 
+ If " Eccentric Boy " is used as a  Synchro Material Monster , then the other  Synchro Material Monsters  must be one monster from the hand. Thus, you cannot  Synchro Summon  a monster like " Mist Wurm " or " Ally of Justice Decisive Armor " which require two or more non-Tuner monsters. [5] 
+ References 
+ 
+ ↑  1.0   1.1   1.2   1.3   1.4   Konami Gameplay FAQ : Hidden Arsenal 3 -- Card Rulings (version 1.0) 
+ 
+ ↑  2.0   2.1   2.2   Konami FAQ : Synchro Monster > Ally of Justice Decisive Armor 
+ 
+ ↑   Konami FAQ : If the effect of "Ally of Justice Decisive Armor" send a LIGHT monster from the opponent's hand to your Graveyard, then will damage be inflicted? 
+ 
+ ↑   Konami FAQ : If there are no longer any LIGHT monsters on your opponent's field when resolving the effect of "Ally of Justice Decisive Armor", then is the effect applied? 
+ 
+ ↑   Konami FAQ : Can "Mist Wurm" be Synchro Summoned by using "Eccentric Boy"? 
+ 
+ 
+ 
+ 
+ 
+Categories: Card Rulings

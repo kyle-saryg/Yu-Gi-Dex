@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Set_information_(JSON)
+
+This  string  property lists set information for cards in  JSON  format.
+ 
+ 
+ 
+ 
+Categories:

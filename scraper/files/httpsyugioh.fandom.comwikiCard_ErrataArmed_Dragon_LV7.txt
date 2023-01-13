@@ -1,0 +1,62 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Armed_Dragon_LV7
+
+
+ Armed Dragon LV7 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by the effect of "Armed Dragon LV5".  Send  1 Monster Card from your hand to the Graveyard to destroy all face-up monsters on your opponent's side of the field with ATK equal to or less than the ATK of the sent monster. 
+ This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by the effect of "Armed Dragon LV5".  By sending  1 Monster Card from your hand to the Graveyard  to  destroy all face-up monsters on your opponent's side of the field with ATK equal to or less than the ATK of the sent monster. 
+ 
+ 
+       SOD-EN015 Soul of the Duelist     
+       DP2-EN012 Duelist Pack: Chazz Princeton     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ This card cannot  be Normal Summoned  or  Set.  This card cannot  be Special Summoned  except  by  the effect of  "Armed Dragon LV5".  By sending  1  Monster Card  from your hand to the Graveyard ,  destroy all face-up monsters on your  opponent's side of the field  with  an   ATK equal to or  less than the ATK of the sent monster. 
+ Cannot  be Normal Summoned / Set.  Must  be Special Summoned by "Armed Dragon LV5" , and cannot be Special Summoned by other ways .  You can send  1  monster  from your hand to the Graveyard ;  destroy all face-up monsters your  opponent controls  with ATK less than  or equal to  the sent monster's ATK. 
+ 
+ 
+       DR3-EN015 Dark Revelation Volume 3     
+         LCYW-EN205 Legendary Collection 3: Yugi's World Mega Pack     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ このカードは通常召喚できない。「アームド・ドラゴン ＬＶ５」の効果でのみ特殊召喚できる。手札からモンスター カード １ 枚 を墓地 に 送る事で、そのモンスターの攻撃力以下の相手フィールド上に表側表示モンスターを全て破壊する。 
+ このカードは通常召喚できない。「アームド・ドラゴン ＬＶ５」の効果でのみ特殊召喚 する事が できる。手札からモンスター１ 体 を墓地 へ 送る事で、そのモンスターの攻撃力以下の 攻撃力を持つ、 相手フィールド上に表側表示 で存在する モンスターを全て破壊する。 
+ 
+ 
+         SOD-JP015 Soul of the Duelist     
+         MFC3-JP004 Monster Figure Collection Volume 3 promotional cards     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/3e/ArmedDragonLV7-SOD-EN-UR-1E.jpg/revision/latest/scale-to-width-down/180?cb=20091006191025', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/ArmedDragonLV7-DP2-EN-SR-1E.jpg/revision/latest/scale-to-width-down/180?cb=20061014224016', 'https://static.wikia.nocookie.net/yugioh/images/e/e9/ArmedDragonLV7-DR3-EN-UR-UE.jpg/revision/latest/scale-to-width-down/180?cb=20070211205406', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/6/6e/ArmedDragonLV7-LCYW-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20131004221021', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4a/ArmedDragonLV7-SOD-JP-UR.jpg/revision/latest/scale-to-width-down/180?cb=20070211205452', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/5/5a/ArmedDragonLV7-MFC3-JP-DNPR-DT.jpg/revision/latest/scale-to-width-down/180?cb=20100930094133']
+Categories: Card Errata, Cards with 3 errata, Cards with 1 erratum, Cards with Japanese errata

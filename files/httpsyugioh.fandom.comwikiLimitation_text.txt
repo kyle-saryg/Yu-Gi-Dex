@@ -1,0 +1,625 @@
+Link: https://yugioh.fandom.com/wiki/Limitation_text
+
+Limitation Text  is an unofficial term for the text sometimes displayed in the bottom-left corner of a card instead of a  passcode , and details special limitations for when that card may be used.
+ There are currently four types of limitation text used in the  TCG  and two types in the  OCG .
+ 
+ Contents 
+ 
+ 1   This card cannot be used in a Duel. 
+ 2   This card cannot be in a Deck. 
+ 3   Not usable in Official Duels. 
+ 4   Not an Official Yu-Gi-Oh! TCG Card. 
+ 
+ 
+ This card cannot be used in a Duel. 
+ This limitation text states that the card is  illegal  in any official Duel. This is the most common type of limitation text. However, some cards with this text are specifically allowed at  Yu-Gi-Oh! Day  events in Japan.
+ The following cards use this text:
+ 
+ The original (non-Effect)  Egyptian God  cards 
+ All  Match winners , except " Victory Dragon " (which is  Forbidden ) 
+ The  Second National Tournament prize cards 
+ " Set Sail for The Kingdom ", " Duelist Kingdom ", and " Glory of the King's Hand " 
+ " Creator of Hope ", " Winning Formula ", and " Creator of Miracles " 
+ " Card of Last Will " 
+ Several  Giant Cards  and  Case Toppers  also use this text to state that only that particular copy cannot be used in a Duel, due to its nonstandard size.
+ 
+ 
+ 
+ Language
+ 
+ Text
+ 
+ Translation
+ 
+ Notes
+ 
+ 
+ English
+ 
+ This card cannot be used in a Duel.
+ 
+ 
+ 
+ 
+ French
+ 
+ Cette carte ne peut pas être utilisée en Duel.
+ 
+ This card cannot be used in Dueling.
+ 
+ 
+ German
+ 
+ Diese Karte darf nicht in Duellen verwendet werden. Formerly: Diese Karte kann nicht in Duellen benutzt werden.
+ 
+ This card cannot be used in Duels.
+ 
+ 
+ Italian
+ 
+ Questa carta non può essere utilizzata in un Duello. Formerly: Questa carta non può essere usata in un Duello.
+ 
+ This card cannot be used in a Duel.
+ 
+ 
+ Portuguese
+ 
+ Este card não pode ser usado em um Duelo.
+ 
+ 
+ Spanish
+ 
+ Esta carta no puede ser usada en un Duelo.
+ 
+ 
+ Japanese
+ 
+ ※公式デュエルには使用できません。 *Kōshiki Dyueru ni wa shiyō dekimasen. 
+ 
+ *Not usable in official Duels.
+ 
+ Formerly without the period (。).
+ 
+ 
+ Korean
+ 
+ ※공식 듀얼에서는 사용할 수 없습니다. *Gongsik Dyueor-eseoneun sayonghal su eoptseumnida. 
+ 
+ 
+ 
+ This card cannot be in a Deck. 
+ This limitation text states that the card is  legal  in official Duels, but cannot be put in the either the  Main Deck ,  Extra Deck , or  Side Deck . This is used on all  Monster Token  cards,  counter  cards, and the " Command Duel-Use Card ".
+ 
+ 
+ 
+ Language
+ 
+ Text
+ 
+ Translation
+ 
+ Notes
+ 
+ 
+ English
+ 
+ This card cannot be in a Deck.
+ 
+ 
+ 
+ 
+ French
+ 
+ Cette carte ne peut pas être dans un Deck.
+ 
+ This card cannot be in a Deck.
+ 
+ 
+ German
+ 
+ Diese Karte darf nicht in keinem Deck befinden.
+ 
+ This card cannot be in any Deck.
+ 
+ 
+ Italian
+ 
+ Questa carta non può essere messa in un Deck.
+ 
+ This card cannot be placed in a Deck.
+ 
+ 
+ Portuguese
+ 
+ Este card não pode ser colocado no Deck.
+ 
+ 
+ Spanish
+ 
+ Esta carta no puede estar en una Deck.
+ 
+ This card cannot be in a Deck.
+ 
+ 
+ Japanese
+ 
+ ※デッキ構築には使用できません。 *Dekki kōchiku ni wa shiyō dekimasen. 
+ 
+ *Not usable in Deck building.
+ 
+ Formerly without the period (。).
+ 
+ 
+ Korean
+ 
+ ※덱 에는 사용할 수 없습니다. *Dek guseong-eneun sayonghal su eoptseumnida. 
+ 
+ 
+ 
+ 
+ Not usable in Official Duels. 
+ This limitation text is a more direct translation of the  OCG  equivalent of "This card cannot be used in a Duel", and has exactly the same meaning. This is only used on the  TCG  promotional card " Get Your Game On! ".
+ 
+ Not an Official Yu-Gi-Oh! TCG Card. 
+ This limitation text states that the card is considered unofficial, and thus like all unofficial cards (fan-made, counterfeit, etc.), it is  illegal . This was only used on the  Upper Deck Entertainment  promotional " The Seal of Orichalcos ", which was specifically made for and used at the  Duel the Master  2005 Event, hosted by the then-distributors of the  TCG .
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Categories: Gameplay

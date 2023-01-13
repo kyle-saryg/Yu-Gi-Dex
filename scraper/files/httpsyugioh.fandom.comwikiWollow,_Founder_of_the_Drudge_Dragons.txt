@@ -1,0 +1,103 @@
+Link: https://yugioh.fandom.com/wiki/Wollow,_Founder_of_the_Drudge_Dragons
+
+The  English                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Wollow, Founder of the Drudge Dragons 死 祖 の 隷 竜 ウォロー 
+ 
+ English 
+Wollow, Founder of the Drudge Dragons 
+ Japanese (kana) 
+ しそのれいりゅうウォロー Check translation 
+ Japanese (base) 
+ 死祖の隷竜ウォロー Check translation 
+ Japanese ( rōmaji ) 
+Shiso no Reiryū Vorō 
+ Japanese (translated) 
+Volo, the Death-Originator Vassal Dragon 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Zombie  /  Xyz  /  Effect 
+ Rank 
+ 6   
+ ATK  /  DEF 
+ 2400  /  1300 
+ Passcode 
+ 45935145 
+ Materials 
+2+ Level 6 monsters Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+2+  Level  6  monsters Monsters you  control  gain 100  ATK / DEF  for each card in your opponent's  GY . ( Quick Effect ): You can  target  1 card in your opponent's GY, then  detach  1 or 2  materials  from this card to  activate  this  effect  based on the number detached; ● 1:  Shuffle  it into the  Deck . ● 2: If it is a monster,  Special Summon  it to your  field  in  face-up   Attack Position , face-up  Defense Position , or  face-down  Defense Position. Otherwise,  Set  it to your field. You can only use this  effect  of "Wollow, Founder of the Drudge Dragons"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ レベル６モンスター×２体以上 このカード名の②の効果は１ターンに１度しか使用できない。①：自分フィールドのモンスターの攻撃力・守備力は、相手の墓地のカードの数×１００アップする。②：相手の墓地のカード１枚を対象とし、このカードの Ｘ 素材を以下の数だけ取り除き、その効果を発動できる。この効果は相手ターンでも発動できる。●１つ：そのカードをデッキに戻す。●２つ：そのカードがモンスターの場合、自分フィールドに表側表示または裏側守備表示で特殊召喚する。それ以外の場合、自分フィールドにセットする。 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2022-07-16 DABL-JP047 Darkwing Blast ＤＡＲＫＷＩＮＧ ＢＬＡＳＴ Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Actions  
+ Shuffles cards from your opponent's Graveyard into their Deck 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ Your monsters gain DEF 
+ 
+ Summoning  categories  
+ 2+ Xyz Materials 
+ Special Summons from your opponent's Graveyard 
+ 
+ Miscellaneous  
+ Variable effects 
+ Only once per turn 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 17802 ( ja  ( rulings )   ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/fd/WollowFounderoftheDrudgeDragons-DABL-JP-R.png/revision/latest/scale-to-width-down/300?cb=20220719184604', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/9/9d/Rank_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052957', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Cards needing effect types, Duel Monsters cards, OCG cards

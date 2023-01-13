@@ -1,0 +1,441 @@
+Link: https://yugioh.fandom.com/wiki/De-Spell
+
+Not to be confused with " Cursebreaker ". 
+ The  Chinese, Croatian  and  Greek                      names given are not official.  ( card names ) 
+ The  Chinese                lore given is not official.  
+ 
+ 
+ 
+ De-Spell 魔 法 除 去 
+ 
+ English 
+De-Spell 
+ Chinese 
+ 魔法除去 Check translation 
+ French 
+ Exorcisme Check translation 
+ German 
+ Fluchzerstörer Check translation 
+ Italian 
+ Annulla Carta Magia Check translation 
+ Korean 
+ 마법 제거 Check translation 
+ Portuguese 
+ Remover Magia Check translation 
+ Spanish 
+ Exorcismo Check translation 
+ Japanese (kana) 
+ まほうじょきょ Check translation 
+ Japanese (base) 
+ 魔法除去 Check translation 
+ Japanese ( rōmaji ) 
+Mahō Jokyo 
+ Japanese (translated) 
+Magic Removal 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 19159413 
+ Card effect types 
+ 
+ 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Target  1  face-up   Spell , or 1  Set  Spell/ Trap , on the  field ;  destroy  that target if it is a Spell. (If the target is Set,  reveal  it.) 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Ciblez 1 Magie face recto ou 1 Magie/Piège Posé sur le Terrain ; détruisez la cible si c'est une Magie. (Si la cible est Posée, révélez-la.) 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wähle 1 offenen Zauber oder 1 gesetzte/n Zauber/Falle auf dem Spielfeld; zerstöre das gewählte Ziel, falls es ein Zauber ist. (Falls das gewählte Ziel gesetzt ist, zeige es vor.) 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Scegli come bersaglio 1 Magia scoperta, oppure 1 Magia/Trappola Posizionata, sul Terreno; distruggi quel bersaglio se è una Magia. (Se il bersaglio è Posizionato, rivelalo.) 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Escolha 1 Magia com a face para cima ou 1 Magia/Armadilha Baixada no campo; destrua o alvo se for uma Magia. (Se o alvo estiver Baixado, revele-o.) 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Selecciona 1 Mágica boca arriba, o 1 Mágica/Trampa Colocada, en el Campo; destruye ese objetivo si es una Mágica. (Si el objetivo está Colocado, muéstralo). 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：フィールドの表側表示の魔法カード１枚またはフィールドにセットされた魔法・罠カード１枚を対象として発動できる。その魔法カードを破壊する（そのカードがフィールドにセットされている場合、めくって確認する）。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 破坏 1张 场上 的 魔法卡 。 选择 的卡 盖伏 的场合，确认那张卡，是魔法卡就破坏，是 陷阱卡 就变回原来的盖伏形式。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 필드 위의 마법 카드 1장을 파괴한다. 선택한 카드가 세트되어 있을 경우, 그 카드를 넘겨서 확인하여 마법 카드이면 파괴한다. 함정 카드일 경우에는 원래대로 되돌린다. 
+ 
+ 
+ 
+ 
+ 
+   The Eternal Duelist Soul 
+ 
+ 
+ Destroys  1  Magic Card  on the  field . If this card's  target  is  face-down ,  flip  it  face-up . If the card is a Magic Card, it is destroyed. If not, it is returned to its face-down position. The flipped card is not  activated . 
+ 
+ 
+ 
+ 
+ 
+   GX Duel Academy 
+ 
+ 
+Destroys 1 Spell Card on the field. If this card's target is face-down, flip it face-up. If the card is a Spell Card, it is destroyed. If not, it is returned to its face-down position. The flipped card is not activated. 
+ 
+ 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+ Select  1  Spell Card  on the  field  and  destroy  it. If the selected card is  Set ,  pick up  and see the card. If it is a Spell Card, it is destroyed. If it is a  Trap Card , return it to its original position. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ Release date Card code Set Rarity 2004-03-01 SKE-028 Starter Deck: Kaiba Evolution Common 2019-03-28 SBLS-EN037 Speed Duel: Arena of Lost Souls Common 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ Release date Card code Set Rarity March 29, 2002 SDY-029 Starter Deck: Yugi Common March 29, 2002 SDK-035 Starter Deck: Kaiba Common March 30, 2003 SDJ-029 Starter Deck: Joey Common March 30, 2003 SDP-029 Starter Deck: Pegasus Common 
+ 
+ 
+ 
+ 
+ 
+   English—Europe 
+ 
+ 
+ Release date Card code Set Rarity SDY-E027 Starter Deck: Yugi Common SDK-E032 Starter Deck: Kaiba Common 
+ 
+ 
+ 
+ 
+ 
+   English—Australia 
+ 
+ 
+ Release date Card code Set Rarity SDY-A029 Starter Deck: Yugi Common SDK-A035 Starter Deck: Kaiba Common 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2002-03-29 DDY-F027 Starter Deck: Yugi Deck de Démarrage: Yugi Common 2002-03-29 DDK-F032 Starter Deck: Kaiba Deck de Démarrage: Kaiba Common 2003-03-30 DDJ-F029 Starter Deck: Joey Deck de Démarrage: Joey Common 2003-03-30 DDP-F029 Starter Deck: Pegasus Deck de Démarrage: Pegasus Common 2004-03-01 SKE-FR028 Starter Deck: Kaiba Evolution Deck de Démarrage: Kaiba Évolution Common 2019-03-28 SBLS-FR037 Speed Duel: Arena of Lost Souls Speed Duel : L'Arène des Âmes Perdues Common 
+ 
+ 
+ 
+ 
+ 
+   French-Canadian 
+ 
+ 
+ Release date Card code Set French-Canadian name Rarity 2003-07-26 DDY-C029 Starter Deck: Yugi Deck de Démarrage: Yugi Common 2003-07-26 DDK-C035 Starter Deck: Kaiba Deck de Démarrage: Kaiba Common 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2002-03-29 SDY-G027 Starter Deck: Yugi Starter Deck: Yugi Common 2002-03-29 SDK-G032 Starter Deck: Kaiba Starter Deck: Kaiba Common 2003-03-30 SDJ-G029 Starter Deck: Joey Starter Deck: Joey Wheeler Common 2003-03-30 SDP-G029 Starter Deck: Pegasus Starter Deck: Maximillion Pegasus Common 2004-03-01 SKE-DE028 Starter Deck: Kaiba Evolution Starter Deck: Kaiba Evolution Common 2019-03-28 SBLS-DE037 Speed Duel: Arena of Lost Souls Speed Duel: Arena of Lost Souls Common 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2002-03-29 MIY-I027 Starter Deck: Yugi Mazzo Introduttivo: Yugi Common 2002-03-29 MIK-I032 Starter Deck: Kaiba Mazzo Introduttivo: Kaiba Common 2003-03-30 MIJ-I029 Starter Deck: Joey Mazzo Introduttivo: Joey Common 2003-03-30 MIP-I029 Starter Deck: Pegasus Mazzo Introduttivo: Pegasus Common 2004-03-01 SKE-IT028 Starter Deck: Kaiba Evolution Mazzo Introduttivo: Kaiba Evoluzione Common 2019-03-28 SBLS-IT037 Speed Duel: Arena of Lost Souls Speed Duel: L'Arena delle Anime Perdute Common 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2002-03-01 DIY-P029 Starter Deck: Yugi Deck Inicial do Yugi Common 2002-03-01 DIK-P035 Starter Deck: Kaiba Deck Inicial do Kaiba Common DIJ-P029 Starter Deck: Joey Deck Inicial do Joey Common DIP-P029 Starter Deck: Pegasus Deck Inicial do Pegasus Common SKE-PT028 Starter Deck: Kaiba Evolution Deck Inicial do Kaiba Evolução Common 2019-03-28 SBLS-PT037 Speed Duel: Arena of Lost Souls Speed Duel: Arena das Almas Perdidas Common 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2002-03-29 BIY-S029 Starter Deck: Yugi Baraja de Inicio: Yugi Common 2002-03-29 BIK-S035 Starter Deck: Kaiba Baraja de Inicio: Kaiba Common 2003-03-30 BIJ-S029 Starter Deck: Joey Baraja de Inicio: Joey Common 2003-03-30 BIP-S029 Starter Deck: Pegasus Baraja de Inicio: Pegasus Common 2004-03-01 SKE-SP028 Starter Deck: Kaiba Evolution Baraja Inicial: Kaiba Evolución Common 2019-03-28 SBLS-SP037 Speed Duel: Arena of Lost Souls Speed Duel: La Arena de las Almas Perdidas Common 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 1999-03-27 Vol.2 Ｖｏｌ．２ Common 1999-12-16 EX Starter Box ＥＸ Common 2000-08-10 PG-57 Phantom God 幻の召喚神 Rare 2000-09-09 B2-43 Booster R2 Ｂｏｏｓｔｅｒ　Ｒ２ Rare 2000-11-23 EX-29 EX-R Starter Box ＥＸ－Ｒ Common 2001-06-28 YU-43 Structure Deck: Yugi ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ － 遊戯編 － Common 2002-08-22 DL2-081 Duelist Legacy Volume.2 ＤＵＥＬＩＳＴ　ＬＥＧＡＣＹ　Ｖｏｌｕｍｅ．２ Common 2013-07-20 HD13-JPL13 Half-Deck: LIGHT ハーフデッキ 光 Common 2013-07-20 HD13-JPD13 Half-Deck: DARK ハーフデッキ 闇 Common 2018-06-30 HD18-JPL13 Half Deck 2018: LIGHT ハーフデッキ２０１８ 光 Common 2018-06-30 HD18-JPD13 Half Deck 2018: DARK ハーフデッキ２０１８ 闇 Common 
+ 
+ 
+ 
+ 
+ 
+   Asian-English 
+ 
+ 
+ Release date Card code Set Rarity SDY-029 Starter Deck: Yugi Common SDK-035 Starter Deck: Kaiba Common 
+ 
+ 
+ 
+ 
+ 
+   Traditional Chinese 
+ 
+ 
+ Release date Card code Set Traditional Chinese name Rarity 2015 HD13-TCL13 Half-Deck: LIGHT HALF DECK 光 Common 2015 HD13-TCD13 Half-Deck: DARK HALF DECK 闇 Common 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2003-12-09 SDY-K029 Starter Deck: Yugi STARTER   DECK  － 유희 편 － Common 2003-12-09 SDK-K035 Starter Deck: Kaiba ＳＴＡＲＴＥＲ ＤＥＣＫ  － 카이바 편 － Common 2004-08-16 SDJ-KR029 Starter Deck: Joey ＳＴＡＲＴＥＲ ＤＥＣＫ  － 조이 편 － Common 2004-08-16 SDP-KR029 Starter Deck: Pegasus ＳＴＡＲＴＥＲ ＤＥＣＫ  － 페가수스 편 － Common 2005-04-12 SKE-KR028 Starter Deck: Kaiba Evolution STARTER   DECK  － 카이바 편 －  Evolution Common 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   The Eternal Duelist Soul 
+ 
+ 
+ Exodia  ( Common )
+ Mystical Elf  ( Common )
+ 
+ Weekly Yu-Gi-Oh! - Set 2  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   Worldwide Edition: Stairway to the Destined Duel 
+ 
+ 
+ Exodia the Forbidden One  ( Rare )
+ Mystical Elf  ( Common )
+ 
+ Yellow Millennium Eye  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   7 Trials to Glory: World Championship Tournament 2005 
+ 
+ 
+ Seto Standard 
+ 
+ 
+ 
+ 
+ 
+   Nightmare Troubadour 
+ 
+ 
+ Shadows in the Labyrinth  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   Online 
+ 
+ 
+ Pack 4 
+ 
+ 
+ 
+ 
+ 
+   GX Duel Academy 
+ 
+ 
+ Basic 1-A  ( Common )
+ Spell Collection 2  ( Common )
+ 
+ Dorothy's Gift  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+ All Spells  ( Common )
+ 
+ All at Random  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   GX Tag Force 
+ 
+ 
+ First Spell-Trap  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   GX Spirit Caller 
+ 
+ 
+ Powerful Seal  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   World Championship 2007 
+ 
+ 
+ Powerful Seal  ( Common )
+ All Spells  ( Common )
+ 
+ All at Random  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   5D's Tag Force 4 
+ 
+ 
+ Magic 101  ( Common ) 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Actions  
+ Reveals face-down cards 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys face-up Spell Cards 
+ Destroys face-down Spell Cards 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 4843 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status The Eternal Duelist Soul 2002-10-15 – – – – – Unlimited Worldwide Edition: Stairway to the Destined Duel 2003-04-15 – – – – – Unlimited 7 Trials to Glory: World Championship Tournament 2005 2004-12-30 – – – – – Unlimited Nightmare Troubadour 2005-07-21 – ??? – – – Unlimited Online 2005-11-04 – – – – – Unlimited GX Duel Academy 2005-11-13 0386 1000 – – – Unlimited Ultimate Masters: World Championship Tournament 2006 2006-02-23 – 2600 – – – Unlimited GX Tag Force 2006-09-14 – ??? – – – Unlimited GX Spirit Caller 2006-11-30 – ??? – – – Unlimited World Championship 2007 2007-03-15 – ??? – – – Unlimited 5D's Tag Force 4 2009-09-17 – – – – – Present 
+ 
+ 
+ 
+   " De-Spell " pages 
+ 
+ 
+ Anime Manga Yu-Gi-Oh! BAM 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/53/DeSpell-SBLS-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20190509232544', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,112 @@
+Link: https://yugioh.fandom.com/wiki/Card_Rulings:Ally_of_Justice_Catastor
+
+
+ Ally of Justice Catastor 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Yu-Gi-Oh! D Team ZEXAL 
+ 
+ Contents 
+ 
+ 1   TCG Rulings 
+ 
+ 1.1   Mentions in Other Rulings 
+ 1.2   Judge Program Forum Rulings 
+ 
+ 
+ 2   OCG Rulings 
+ 
+ 2.1   On Activating 
+ 2.2   On Destroying the Monster Before Damage Calculation 
+ 2.3   On SEGOC 
+ 2.4   Mentions in Other Rulings 
+ 
+ 
+ 3   Notes 
+ 4   References 
+ 
+ 
+ TCG Rulings 
+ The effect or  [ sic ]  “ Ally of Justice Catastor ” activates at the very start of the Damage Step before face-down monsters are flipped face-up. [1] 
+ If “ Ally of Justice Catastor ” or the opponent’s monster is face-down at the start of the Damage Step, the effect of “ Ally of Justice Catastor ” will not apply. [1] 
+ If “ Ally of Justice Catastor ”  battles  a monster that can be treated as both DARK and another Attribute, such as “ Dark Simorgh ,” the effect of “ Ally of Justice Catastor ” will activate and destroy the monster. [1] 
+ If “ Ally of Justice Catastor ”  battles  a monster like “ D.D. Warrior ” the monster will be destroyed by the effect of “ Ally of Justice Catastor ’s” effect without damage calculation. The effect of “ D.D. Warrior ” that would activate after damage calculation will not activate. [1] 
+ If “ Ally of Justice Catastor ”  battles  “ Neo-Spacian Grand Mole ,” the mandatory effect of Catastor will activate first and become Chain Link 1 and the effect of “ Neo-Spacian Grand Mole ” will be Chained to it. [1] 
+ If the monster that “ Ally of Justice Catastor ” is battling survives the effect of Catastor because of “ Heavy Mech Support Platform ” or “ Spirit of the Six Samurai ,” damage calculation will be carried out normally. [1] 
+ Mentions in Other Rulings 
+ Dark Simorgh : If " Ally of Justice Catastor "  battles  " Dark Simorgh " it will destroy " Dark Simorgh " with its effect because " Dark Simorgh 's"  Attribute  is also treated as  WIND . 
+ Gundari : If " Ally of Justice Catastor "  battles  " Gundari " both of their effects activate and form a  Chain . If " Ally of Justice Catastor " attacks " Gundari ," both monsters are returned to the hand or  Extra Deck . If " Gundari " attacks " Ally of Justice Catastor ," then " Gundari " is destroyed and " Ally of Justice Catastor " returns to the  Extra Deck . 
+ Judge Program Forum Rulings 
+   These Ruling(s) have not  been confirmed as applicable to the TCG. [Notes 1] 
+ The effects of " Ally of Justice Catastor " and " Neo-Spacian Grand Mole " activate before a monster is flipped  face-up  on the  damage step . [2] 
+ If " Ally of Justice Catastor " or " Neo-Spacian Grand Mole " is being attacked while  face-down , its effect will  miss the timing . [2] 
+ If " Ally of Justice Catastor " battles with  " Neo-Spacian Grand Mole " and both monsters are face-up, each effect activates at the same time. " Ally of Justice Catastor " is a  mandatory effect , so it will be placed on the  Chain  first. " Neo-Spacian Grand Mole " is an  optional effect , and it will be placed on the Chain second.
+ When the Chain resolves, the effect of " Neo-Spacian Grand Mole " will return " Neo-Spacian Grand Mole " to its owner's hand and " Ally of Justice Catastor " to its owner's  Extra Deck . When " Ally of Justice Catastor " resolves, " Neo-Spacian Grand Mole " is no longer on the Field so it will not be destroyed. [2] 
+ OCG Rulings 
+ On Activating 
+ " Ally of Justice Catastor "'s effect will activate when it  battles  a monster with multiple  Attributes , such as " Dark Simorgh " or " Light and Darkness Dragon " - assuming that " Light and Darkness Dragon " doesn't negate the effect. [3] 
+ " Ally of Justice Catastor "'s effect activates at the beginning of the  Damage Step , before the monster is flipped face-up.  If the monster is face-down, " Ally of Justice Catastor "'s effect will not activate. [4] 
+ If a monster attacks a face-down " Ally of Justice Catastor ", the effect will not activate and the attacking monster will not be destroyed (regardless of its  Attribute ). [4] 
+ On Destroying the Monster Before Damage Calculation 
+ When battling with " Ally of Justice Catastor ", " D.D. Warrior "'s effect will not activate, since he is destroyed before  Damage Calculation  (and " D.D. Warrior "'s effect activates after  Damage Calculation ). [5] 
+ If " Ally of Justice Catastor "  battles  with a monster equipped with a card like " Heavy Mech Support Platform " or " Spirit of the Six Samurai ", then " Heavy Mech Support Platform " is destroyed, but afterwards you still perform Damage Calculation because the equipped monster is still on the field. [6] 
+ On  SEGOC 
+ If " Ally of Justice Catastor "  battles  with " Neo-Spacian Grand Mole ", the mandatory effect of " Ally of Justice Catastor " activates as Chain Link 1, and the optional effect of " Neo-Spacian Grand Mole " can activate as Chain Link 2.  " Neo-Spacian Grand Mole " will resolve first and return itself to the Hand and " Ally of Justice Catastor " to the  Extra Deck .  Then, the effect of " Ally of Justice Catastor " will resolve without effect. [7] 
+ If " Gundari " and " Ally of Justice Catastor " battle, then both effects  activate  at the beginning of the  Damage Step , so the two effects form a Chain and you resolve backwards. [8] 
+ If " Gundari " attacks a face-up " Ally of Justice Catastor ", then the effect of " Gundari " activates as Chain Link 1 and the effect of " Ally of Justice Catastor " activates as Chain Link 2.  Resolving backwards, " Gundari " is destroyed, and then " Ally of Justice Catastor " is returned to the Extra Deck. [8] 
+ If " Ally of Justice Catastor " attacks a face-up " Gundari ", then the effect of " Ally of Justice Catastor " activates as Chain Link 1 and the effect of " Gundari " activates as Chain Link 2.  Resolving backwards, " Gundari " is returned to the hand and " Ally of Justice Catastor " is returned to the Extra Deck.  Then, " Gundari " is no longer face-up on the field, so the effect of " Ally of Justice Catastor " is not applied. [8] 
+ Mentions in Other Rulings 
+ Ally of Justice Unlimiter : When " Rush Recklessly " and " Ally of Justice Unlimiter " both affect " Ally of Justice Catastor ", [9] 
+ If " Rush Recklessly " is activated first and then the effect of " Ally of Justice Unlimiter " is activated, then the ATK of " Ally of Justice Catastor " will be 4400 - its  Original ATK , doubled. [9] 
+ If the effect of " Ally of Justice Unlimiter " is activated first and then " Rush Recklessly " is activated, then the ATK of " Ally of Justice Catastor " will be 5100. [9] 
+ Ally of Justice Unlimiter :If " Ally of Justice Catastor " is equipped with " Megamorph " and has its ATK halved to 1100, when the effect of " Ally of Justice Unlimiter " is applied, then " Ally of Justice Catastor " will have 4400 ATK.  If " Ally of Justice Catastor " has its ATK doubled to 4400, then the effect of " Ally of Justice Unlimiter " will not change the ATK of " Ally of Justice Catastor ". [10] 
+ Ally of Justice Unlimiter :If " Ally of Justice Catastor " is affected by " Ally of Justice Unlimiter " and then is equipped with " Megamorph ", then " Ally of Justice Catastor " will have 1100 ATK or 4400 ATK, as determined by " Megamorph ". [10] 
+ Gladiator Beast : If " Gladiator Beast Alexander " attacks " Krebons " or " Ally of Justice Catastor " and its effect activates, then if " Gladiator Beast War Chariot " negates the activation of the effect destroys it, then  damage calculation  is not performed.  Thus, at the end of the  Battle Phase  you cannot activate the effect of " Gladiator Beast Alexander " which Special Summons another " Gladiator Beast " monster from the Deck. [11] 
+ Stardust Dragon : The effect of " Stardust Dragon " which negates the activation of an effect which destroys can also be activated during the  Damage Step . [12] 
+ Example: If the effect of " Ally of Justice Catastor "  activates  during the Damage Step, then the effect of " Stardust Dragon " may be  Chained  to negate the activation of " Ally of Justice Catastor "'s effect and destroy it [12] [13] , even if that " Stardust Dragon " is the monster battling " Ally of Justice Catastor ". [13] 
+ Notes 
+ 
+ ↑   Konami Judge Program Rulings are considered  unverified , as their source(s) are not publicly viewable. They are not confirmed as applicable to the TCG until they have been officially published by Konami. 
+ 
+ 
+ References 
+ 
+ ↑  1.0   1.1   1.2   1.3   1.4   1.5   Konami Gameplay FAQ : Hidden Arsenal – Card Rulings (Version 1.0) 
+ 
+ ↑  2.0   2.1   2.2   Konami Judge Program Forum : AoJ Catastor vs NS Grand Mole 
+ 
+ ↑   Konami FAQ : When "Ally of Justice Catastor" battles, can it destroy a Monster with multiple Attributes including DARK? 
+ 
+ ↑  4.0   4.1   Konami FAQ : Can a face-down monster be destroyed by "Ally of Justice Catastor"? 
+ 
+ ↑   Konami FAQ : When "Ally of Justice Catastor" and "D.D. Warrior" battle, can "D.D. Warrior" remove from play cards? 
+ 
+ ↑   Konami FAQ : Do you still perform Damage Calculation if the opponent's monster cannot be destroyed by the effect of "Ally of Justice Catastor"? 
+ 
+ ↑   Konami FAQ : When "Ally of Justice Catastor" and "Neo-Spacian Grand Mole" battle, how do the effects resolve? 
+ 
+ ↑  8.0   8.1   8.2   Konami FAQ : If "Gundari" and "Ally of Justice Catastor" battle, then what happens? 
+ 
+ ↑  9.0   9.1   9.2   Konami FAQ : When the effects of "Ally of Justice Unlimiter" and "Rush Recklessly" are applied, how does the monster's ATK change? 
+ 
+ ↑  10.0   10.1   Konami FAQ : When the effect of "Ally of Justice Unlimiter" targets a monster which has been equipped with "Megamorph", what does its ATK become? 
+ 
+ ↑   Konami FAQ : Can the effect of a monster like "Gladiator Beast Alexander" be activated if the opponent's battling monster is destroyed when "Gladiator Beast War Chariot" is activated during the Damage Step? 
+ 
+ ↑  12.0   12.1   Konami FAQ : [Damage Step] Can the effect of "Stardust Dragon" negate the effect of "Ally of Justice Catastor"? 
+ 
+ ↑  13.0   13.1   Konami FAQ : Can you use the effect of "Stardust Dragon" to negate the effect of "Ally of Justice Catastor" and destroy it? 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest/scale-to-width-down/20?cb=20100710011553']
+Categories: Card Rulings, Card Rulings to be Investigated

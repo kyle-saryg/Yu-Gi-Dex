@@ -1,0 +1,212 @@
+Link: https://yugioh.fandom.com/wiki/Cipher
+
+
+ 
+ Cipher 
+ サイファー  ( Saifā ) 
+ 
+ 
+ 
+ 
+ " Galaxy-Eyes Cipher Dragon " in the artwork of " Double Cipher ". 
+ 
+ 
+ Anime 
+ 
+ Japanese 
+ 光波 「 サイファー 」  ( Saifā ) 
+ 
+ 
+ 
+ Other names 
+ 
+ French 
+ Cipher 
+ 
+ 
+ German 
+ Cipher 
+ 
+ 
+ Italian 
+ Cipher 
+ 
+ 
+ Korean 
+ 사이퍼   Saipeo   (romanized) 
+ 
+ 
+ Portuguese 
+ Críptico(a) Translation:  Cryptic 
+ 
+ 
+ Spanish 
+ Cifrado/a Translation:  Ciphered 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Invasion: Vengeance Raging Tempest Structure Deck: Powercode Link 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Yu-Gi-Oh! World Championship Tournament 2004 promotional cards Yu-Gi-Oh! The Falsebound Kingdom promotional cards Champion Pack: Game Four Machina Mayhem Structure Deck Turbo Pack: Booster Six Dragons of Legend: Unleashed OTS Tournament Pack 3 Duelist Pack: Dimensional Guardians Weekly Shonen Jump July 2017 membership promotional card 2017 Mega-Tin Mega Pack Extreme Force Special Edition Ghosts From the Past Brothers of Legend Ghosts From the Past: The 2nd Haunting 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Yu-Gi-Oh! True Duel Monsters 2: Succeeded Memories promotional cards Structure Deck: Machiners Command Collectors Pack: Duelist of Flash Version 20th Rival Collection Selection 10 Tournament Pack 2021 Vol.1 Animation Chronicle 2021 
+ 
+ 
+ 
+ 
+ Korea-Only Sets 
+ 
+ 
+ Jump Festa Invitational 2011 promotional cards Premium Pack Vol.12 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! Yu-Gi-Oh! ARC-V 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Cipher " (サイファー  Saifā , written as  光波  in the anime) is an  archetype  of cards used by  Kite Tenjo  in the  Yu-Gi-Oh! ARC-V  anime. Most of its members are  LIGHT   monsters .
+ " Cipher Soldier " and " Storm Cipher " are "Cipher" monsters by name, but otherwise are unrelated to the "Cipher" archetype's playstyle.
+ 
+ Contents 
+ 
+ 1   Etymology 
+ 2   Playing style 
+ 3   Recommended cards 
+ 4   Weaknesses 
+ 
+ 
+ Etymology 
+       Kite Tenjo  with two " Cipher Wings " in the  anime .     
+ In cryptography, a " cipher " (or cypher) is an algorithm for performing encryption or decryption—a series of well-defined steps that can be followed as a procedure. However, the name of the archetype is written with the base 「光波」, meaning "lightwave".
+ Due to the additional requirement of the kanji in the anime compared to the  OCG / TCG , " Cipher Soldier " is a member of the archetype in the latter, but not in the former.
+ 
+ Playing style 
+ Like many other Xyz focused archetypes, the strategy of this deck is divided between its Main Deck members (which focus on swarming the field; preferably with monsters of the same name; and level manipulation effects) and its Xyz bosses (their main objective being to use their high ATK along with taking control of enemy monsters to OTK the opponent). The Spells complement the level manipulation theme and OTK strategy, while the Traps provide protection, recovery and swarming. 
+ Being the insignia of the archetype, " Cipher Wing 's" effect allows it to  Tribute  itself to raise the  Level  of all other "Cipher" monsters you control by 4, and is easily enabled by its simple special summon condition. Both of these qualities made "Cipher Wing" the key piece of the archetype in providing Xyz material up to the arrival of " Cipher Biplane ", which is an overall improved version of "Wing"; sharing a similar special summon condition while also being able to change the levels of two "Cipher" monsters (including itself) to 8 and searching a "Cipher" monster upon destruction. " Cipher Twin Raptor " fills the role of combo starter, extender and comeback, being a monster that can summon any "Cipher" monster from the main deck, at the condition of limiting summons to only "Cipher" monsters for the turn. Other searchers include " Cipher Mirror Knight " and " Cipher Etranger ", both of which have secondary effects that activate when sent to the " Graveyard ; the first searching at the end of the turn any "Cipher" card, while the second searches any of the archetype's Spells/Traps upon hitting the GY. Their primary effects allow them to activate the secondary ones: "Mirror Knight" sending itself to the GY to revive a destroyed "Cipher" monster, and "Etranger" attaching itself as Xyz material to a "Cipher" Xyz monster.
+ The basic combo of the Deck is to summon three copies of "Cipher Wing" through their effects, then tribute one of them to rise the level of the other two in order to allow a Rank 8 Xyz Summon ( Photon Veil  can be used to search for the pieces). "Cipher Twin Raptor" makes this combo easier by summoning a monster from the Deck (preferably by discarding "Mirror Knight" or even better, "Etranger"), then only needing to have one copy of "Cipher Wing" in your hand. "Cipher Biplane" only needs one other "Cipher" monster with a level to be summoned in order to make a quick Rank 8 Xyz and is just as easily searchable by "Raptor".
+ The Xyz members start off with the archetype's ace and centerpiece, " Galaxy-Eyes Cipher Dragon ", which represents the archetype's win condition by stealing an opponent's  face-up  monster until the  End Phase  and treat its name and original  ATK  as that of "Cipher Dragon". Not only does this decrease the number of monsters that your opponent controls while increasing the number of monsters you control; allowing for massive battle damage in one turn and even possibly an OTK; but you can also use the monster you took control of as a  Tribute  or as a  Fusion ,  Synchro  or  Xyz Material , preventing your opponent from regaining control over it at the end of the turn; particularly if the monster you took control of is an Xyz Monster, it can be used as Xyz Material to Summon " Galaxy-Eyes Cipher Blade Dragon ", " Galaxy-Eyes Full Armor Photon Dragon " or " Number 95: Galaxy-Eyes Dark Matter Dragon " through their effects. 
+ The rest of the Extra Deck Members are, up until now, evolved versions of "Cipher Dragon". " Neo Galaxy-Eyes Cipher Dragon ", aside from having higher ATK, has an improved version of the original's effect, being able to take control of multiple monsters in one turn and facilitating  Direct attacks , thought it can only be easily summoned by using a " Rank-Up-Magic " card. " Galaxy-Eyes Cipher Blade Dragon " has targeting destruction and recursion from the GY and, being summonable by using a Rank 8 "Galaxy-Eyes" Xyz monster, it can, as mentioned before, make use of an opponent Xyz monster controlled by "Cipher Dragon". The last Extra Deck member is " Galaxy-Eyes Cipher X Dragon ", which provides targeting protection for your  Light  monsters and easy reuse of "Cipher" Xyz monsters in the GY, while also being able to be summoned on top of any other " Cipher Dragon " monster without the use of a " Rank-Up-Magic " card, which includes any opponent monster affected by "Cipher Dragon's" effect, not only Xyz monsters.
+ The archetype's ability to consistently have two or more monsters of the same name during either player's turn is harnessed by its  Continuous Spells ;  Double Exposure  lets two monsters of the same name double their level (Specifically useful with the level 4 "Ciphers") and also during the either  Battle Phase  can make two "Cipher" monsters share the same name, enabling its first effect during  Main Phase 2 .  Cipher Interference  on the other hand can be considered the archetype's ultimate key piece in the OTK strategy, doubling the ATK of any of your monsters during  Damage calculation  as long as you have one more copy face-up on the field: In combination with "Double Exposure" and the Main Deck monsters, this can provide decent protection, but combined with the " Cipher Dragons " it can potentially enable hits ranging from 6000 to 9000 ATK. 
+ The rest of the support become relevant only when a "Cipher Dragon" has been successfully summoned, focusing on protecting it and swarming the field with more copies of itself. " Rank-Up-Magic Cipher Ascension " is the archetype's Rank-Up Spell card, being a Quick Spell it can be useful on dodging targeting effects during either player's Main Phase. On the vein of "Cipher Mirror Knight", " Cipher Spectrum " can revive a destroyed "Cipher" Xyz monster if it had an Xyz Material attached to it when destroyed, in addition to Summoning another copy of that monster from your  Extra Deck . If you control a "Galaxy-Eyes" or "Cipher" Xyz Monster and your opponent controls a monster with higher attack, " Double Cipher " can be used to Summon another copy of it from the Extra Deck. " Cipher Bit " provides protection against destruction and extra Xyz materials.
+ Despite similar strategies and the "Cipher" archetype overall taking inspiration in the " Galaxy " and " Photon " archetypes (Given their focus on Level 8 monsters to Xyz Summon Rank 8  Xyz Monsters ), the "Cipher" Main Deck monsters have little synergy with the members of the other two, as "Cipher" Main Deck monsters tend to have effects that only work in combination with other "Cipher" monsters or outright restrict the player to use only "Cipher" monsters, therefore making the "Cipher" component of the Deck a liability to the "Galaxy/Photon's" less restrictive strategy. However the Extra Deck members of the three archetypes can find a place in either of them, granting more flexibility and variety to their strategies. When attempting this keep in mind that activating "Cipher Twin Raptor's" effect will shut down the summon of non-"Cipher" Xyz monsters for the rest of the turn.
+ 
+ Recommended cards 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ Cipher Etranger 
+ Cipher Mirror Knight 
+ Cipher Twin Raptor 
+ Cipher Wing 
+ Cipher Soldier 
+ Cipher Biplane 
+ Galaxy-Eyes Cloudragon 
+ Guardian of Order 
+ Honest 
+ Summoner Monk 
+ Gold Gadget 
+ Silver Gadget Extra Deck   
+ Synchro Monsters 
+ Avenging Knight Parshath 
+ Stardust Spark Dragon 
+ Xyz Monsters 
+ Galaxy-Eyes Cipher Dragon 
+ Galaxy-Eyes Cipher Blade Dragon 
+ Galaxy-Eyes Full Armor Photon Dragon 
+ Galaxy-Eyes Cipher X Dragon 
+ Gear Gigant X 
+ Neo Galaxy-Eyes Cipher Dragon 
+ Number 95: Galaxy-Eyes Dark Matter Dragon 
+ Link Monsters 
+ Hip Hoshiningen Spells   &  Traps   
+ Spells 
+ Rank-Up-Magic Cipher Ascension 
+ Cipher Interference 
+ Double Exposure 
+ Inferno Reckless Summon 
+ Lightwave Tuning 
+ Limiter Removal 
+ Photon Veil 
+ Reinforcement of the Army 
+ The Warrior Returning Alive 
+ Traps 
+ Cipher Bit 
+ Double Cipher 
+ Cipher Spectrum 
+ Call of the Haunted 
+ Lumenize 
+ Weaknesses 
+ The Deck depends heavily on Special Summoning so it is vulnerable to floodgates like  Summon Limit  and  Vanity's Emptiness . 
+ As mentioned above, "Cipher" Main Deck monsters have dependency to other members of the archetype to be on the field or summoned to activate their effects. "Twin Raptor's" effect in particular dampens the potential versatility of the Extra Deck. 
+ Apart from some members of the "Galaxy" and "Photon" Archetypes, the Deck lacks disruption and negation options in the Extra Deck, making first turn plays, other than "Galaxy-Eyes Cipher X Dragon", sub-optimal for the current metagame. 
+ The archetype suffers from a general lack of Extra Deck monsters considering the summoning restrictions of the Main Deck members. 
+ Most of the Deck's Spell and Trap cards only become useful when having an Extra Deck member of the Archetype in play, making them dead draws when the summon is not available or is negated. 
+ For an Xyz focused archetype, the Main Deck members suffer from a lack of consistency in Type and Level ("Mirror Knight" is a  Warrior  while "Etranger" is a Level 1  Spellcaster ), increasing the chance of dead draws and making it more difficult to incorporate generic support. 
+ 
+ 
+ v e 
+ Cipher  cards 
+   
+" Cipher " 「サイファー」 Members 
+ Cipher Biplane Cipher Etranger Cipher Mirror Knight Cipher Soldier Cipher Twin Raptor Cipher Wing Galaxy-Eyes Cipher Blade Dragon Galaxy-Eyes Cipher Dragon Galaxy-Eyes Cipher X Dragon Neo Galaxy-Eyes Cipher Dragon Storm Cipher 
+ Cipher Bit Cipher Interference Cipher Spectrum Double Cipher Rank-Up-Magic Cipher Ascension 
+ Support 
+ Cipher Biplane Cipher Etranger Cipher Mirror Knight Cipher Twin Raptor Cipher Wing Neo Galaxy-Eyes Cipher Dragon 
+ Cipher Bit Cipher Interference Cipher Spectrum Double Cipher Double Exposure Rank-Up-Magic Cipher Ascension 
+ 
+   
+" Cipher Dragon " 「サイファー・ドラゴン」 Members 
+ Galaxy-Eyes Cipher Dragon Neo Galaxy-Eyes Cipher Dragon 
+ Support 
+ Galaxy-Eyes Cipher X Dragon 
+ Related 
+ Galaxy-Eyes Cipher Blade Dragon 
+ Rank-Up-Magic Cipher Ascension 
+ 
+ v e 
+" Cipher " 「サイファー」 a   Members 
+ Cipher Biplane Cipher Bit Cipher Chain Cipher Clone Magic Cipher Deterrent Cipher Diffusion Cipher Etranger Cipher Interference Cipher Mirror Knight Cipher Shield Cipher Spectrum Cipher Twin Raptor Cipher Wing Double Cipher Galaxy-Eyes Cipher Dragon Neo Galaxy-Eyes Cipher Dragon Rank-Up-Magic Cipher Ascension Rank-Up-Magic Cipher Pursuit Rank-Up-Magic Cipher Shock Storm Cipher 
+ Support 
+ Cipher Biplane Cipher Bit Cipher Deterrent Cipher Diffusion Cipher Interference Cipher Mirror Knight Cipher Shield Cipher Spectrum Cipher Twin Raptor Cipher Wing Rank-Up-Magic Cipher Ascension Rank-Up-Magic Cipher Pursuit Rank-Up-Magic Cipher Shock 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/96/CipherArchetype.png/revision/latest?cb=20160708192050', 'https://static.wikia.nocookie.net/yugioh/images/9/95/Cipher.png/revision/latest/scale-to-width-down/200?cb=20160410192507']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Xyz Monster(s)

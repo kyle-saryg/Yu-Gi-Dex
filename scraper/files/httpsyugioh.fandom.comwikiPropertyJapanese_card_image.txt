@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:Japanese_card_image
+
+This property contains the file names of Japanese card images. It uses  string  values.
+ 
+ 
+ 
+ 
+Categories:

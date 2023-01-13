@@ -1,0 +1,661 @@
+Link: https://yugioh.fandom.com/wiki/Cost_Down
+
+The  Arabic, Croatian, Greek  and  Thai                     names given are not official.  
+ 
+ 
+ 
+ Cost Down コストダウン 
+ 
+ English 
+Cost Down 
+ French 
+ Ristourne Check translation 
+ German 
+ Kosten verringern Check translation 
+ Italian 
+ Riduzione del Costo Check translation 
+ Korean 
+ 코스트 다운 Check translation 
+ Portuguese 
+ Reduzir Custos Check translation 
+ Spanish 
+ Coste Abajo Check translation 
+ Japanese 
+ コストダウン Check translation 
+ Japanese ( rōmaji ) 
+Kosutodaun 
+ Card type 
+ Spell   
+ Property 
+ Normal   
+ Passcode 
+ 23265313 
+ Card effect types 
+ 
+ 
+ Cost 
+ Effect Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Discard  1 card; for the rest of this  turn , reduce the  Levels  of all  monsters  in your  hand  by 2 (even after they are  Summoned ). 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Défaussez 1 carte ; le reste de ce tour, réduisez le Niveau de tous les monstres dans votre main de 2 (même après qu'ils sont Invoqués). 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wirf 1 Karte ab; reduziere die Stufen aller Monster in deiner Hand für den Rest dieses Spielzugs um 2 (selbst nachdem sie beschworen wurden). 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Scarta 1 carta; per il resto di questo turno, diminuisci di 2 il Livello di tutti i mostri nella tua mano (anche dopo che sono stati Evocati). 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Descarte 1 card; pelo resto deste turno, reduza em 2 o Nível de todos os monstros na sua mão (mesmo depois que eles forem Invocados). 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Descarta 1 carta; por el resto de este turno, reduce en 2 los Niveles de todos los monstruos en tu mano (aún después de que sean Invocados). 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：手札を１枚捨てて発動できる。このターン、自分の手札のモンスターのレベルを２つ下げる。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ ①: 패를 1장 버리고 발동할 수 있다. 이 턴에, 자신 패의 몬스터의 레벨을 2개 내린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2005-03-19  
+ DR1-EN215   
+ Dark Revelation Volume 1 
+ Ultra Rare 
+ 
+ 
+ 2007-12-12  
+ DCR-EN053   
+ Dark Crisis 
+ Ultra Rare 
+ 
+ 
+ 2010-04-16  
+ DPKB-EN033   
+ Duelist Pack: Kaiba 
+ Rare 
+ 
+ 
+ 2018-03-08  
+ LCKC-EN040   
+ Legendary Collection Kaiba Mega Pack 
+ Secret Rare 
+ 
+ 
+ 2019-01-24  
+ SS02-ENA12   
+ Speed Duel Starter Decks: Duelists of Tomorrow 
+ Common 
+ 
+ 
+ 2019-08-02  
+ SS03-ENA20   
+ Speed Duel Starter Decks: Ultimate Predators 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ 
+ North American English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2003-12-01  
+ DCR-053   
+ Dark Crisis 
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2005-03-19  
+ DR1-FR215   
+ Dark Revelation Volume 1 
+ Sombre Révélation 1  
+ Ultra Rare 
+ 
+ 
+ 2007-12-10  
+ DCR-FR053   
+ Dark Crisis 
+ La Crise des Ténèbres  
+ Ultra Rare 
+ 
+ 
+ 2010-04-15  
+ DPKB-FR033   
+ Duelist Pack: Kaiba 
+ Pack du Duelliste: Kaiba  
+ Rare 
+ 
+ 
+ 2018-03-08  
+ LCKC-FR040   
+ Legendary Collection Kaiba Mega Pack 
+ Collection Légendaire Kaiba Méga-Pack  
+ Secret Rare 
+ 
+ 
+ 2019-01-24  
+ SS02-FRA12   
+ Speed Duel Starter Decks: Duelists of Tomorrow 
+ Decks de Démarrage Speed Duel : Les Duellistes de Demain  
+ Common 
+ 
+ 
+ 2019-08-02  
+ SS03-FRA20   
+ Speed Duel Starter Decks: Ultimate Predators 
+ Decks de Démarrage Speed Duel : Les Prédateurs Ultimes  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2005-06-01  
+ DR1-DE215   
+ Dark Revelation Volume 1 
+ Dark Revelations Volume 1  
+ Ultra Rare 
+ 
+ 
+ 2007-12-10  
+ DCR-DE053   
+ Dark Crisis 
+ Dark Crisis  
+ Ultra Rare 
+ 
+ 
+ 2010-04-15  
+ DPKB-DE033   
+ Duelist Pack: Kaiba 
+ Duelist Pack: Kaiba  
+ Rare 
+ 
+ 
+ 2018-03-08  
+ LCKC-DE040   
+ Legendary Collection Kaiba Mega Pack 
+ Legendary Collection Kaiba Mega Pack  
+ Secret Rare 
+ 
+ 
+ 2019-01-24  
+ SS02-DEA12   
+ Speed Duel Starter Decks: Duelists of Tomorrow 
+ Speed Duel Starter Decks: Duelists of Tomorrow  
+ Common 
+ 
+ 
+ 2019-08-02  
+ SS03-DEA20   
+ Speed Duel Starter Decks: Ultimate Predators 
+ Speed Duel Starter Decks: Ultimate Predators  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2005-03-19  
+ DR1-IT215   
+ Dark Revelation Volume 1 
+ Rivelazione Oscura Vol.1  
+ Ultra Rare 
+ 
+ 
+ 2007-12-10  
+ DCR-IT053   
+ Dark Crisis 
+ Crisi Oscura  
+ Ultra Rare 
+ 
+ 
+ 2010-04-15  
+ DPKB-IT033   
+ Duelist Pack: Kaiba 
+ Duelist Pack: Kaiba  
+ Rare 
+ 
+ 
+ 2018-03-08  
+ LCKC-IT040   
+ Legendary Collection Kaiba Mega Pack 
+ Collezione Leggendaria Kaiba Mega Pack  
+ Secret Rare 
+ 
+ 
+ 2019-01-24  
+ SS02-ITA12   
+ Speed Duel Starter Decks: Duelists of Tomorrow 
+ Starter Deck Speed Duel: Duellanti di Domani  
+ Common 
+ 
+ 
+ 2019-08-02  
+ SS03-ITA20   
+ Speed Duel Starter Decks: Ultimate Predators 
+ Speed Duel Starter Decks: Predatori Definitivi  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2005-03-01  
+ DR1-PT215   
+ Dark Revelation Volume 1 
+ Revelação Negra Volume 1  
+ Ultra Rare 
+ 
+ 
+ 2018-03-09  
+ LCKC-PT040   
+ Legendary Collection Kaiba Mega Pack 
+ Coleção Lendária Kaiba Mega Pack  
+ Secret Rare 
+ 
+ 
+ 2019-01-24  
+ SS02-PTA12   
+ Speed Duel Starter Decks: Duelists of Tomorrow 
+ Decks Iniciais Speed Duel: Duelistas do Amanhã  
+ Common 
+ 
+ 
+ 2019-08-02  
+ SS03-PTA20   
+ Speed Duel Starter Decks: Ultimate Predators 
+ Decks Iniciais de Duelo Rápido: Predadores Definitivos  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2005-03-19  
+ DR1-SP215   
+ Dark Revelation Volume 1 
+ Revelación Oscura Volumen 1  
+ Ultra Rare 
+ 
+ 
+ 2010-04-15  
+ DPKB-SP033   
+ Duelist Pack: Kaiba 
+ Sobre de Duelista: Kaiba  
+ Rare 
+ 
+ 
+ 2018-03-08  
+ LCKC-SP040   
+ Legendary Collection Kaiba Mega Pack 
+ Colección Legendaria Kaiba Mega Pack  
+ Secret Rare 
+ 
+ 
+ 2019-01-24  
+ SS02-SPA12   
+ Speed Duel Starter Decks: Duelists of Tomorrow 
+ Barajas de Principiante Speed Duel: Duelistas del Mañana  
+ Common 
+ 
+ 
+ 2019-08-02  
+ SS03-SPA20   
+ Speed Duel Starter Decks: Ultimate Predators 
+ Barajas de Principiante Speed Duel: Depredadores Definitivos  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2002-11-21  
+ 304-053   
+ Power of the Guardian 
+ ガーディアンの力  
+ Secret Rare 
+ 
+ 
+ 2004-09-23  
+ EE1-JP215   
+ Expert Edition Volume 1 
+ ＥＸＰＥＲＴ　ＥＤＩＴＩＯＮ　Ｖｏｌｕｍｅ．１  
+ Ultra Rare 
+ 
+ 
+ 2016-06-18  
+ SDKS-JP030   
+ Structure Deck: Seto Kaiba 
+ ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ －海馬瀬人－  
+ Common 
+ 
+ 
+ 2017-06-02  
+ LG02-JP014   
+ Yu-Gi-Oh! Duel Links Legend Deck Guide: Yami Yugi VS Seto Kaiba promotional cards 
+ 遊戯王デュエルリンクス レジェンドデッキガイド 闇遊戯ＶＳ海馬瀬人 同梱カード  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Asian-English 
+ 
+ 
+ 
+ Asian-English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2004-05-12  
+ DCR-AE053   
+ Dark Crisis 
+ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2005-05-02  
+ DCR-KR053   
+ Dark Crisis 
+ 암흑의 위협  
+ Ultra Rare 
+ 
+ 
+ 2008-12-05  
+ ESP3-KR029   
+ Expansion Pack Vol.3 
+ 익스팬션 팩 Vol.3  
+ Super Rare 
+ 
+ 
+ 2006-07-06  
+ HGP1-KR215   
+ Expert Edition Volume 1 
+ 하이 그레이드 팩 Ｖｏｌ．１  
+ Ultra Rare 
+ 
+ 
+ 2016-10-07  
+ SDKS-KR030   
+ Structure Deck: Seto Kaiba 
+ ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ  － 카이바 －  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Nightmare Troubadour 
+ 
+ 
+ Beautiful Challenger 
+ 
+ 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+ Dark Crisis 
+ All Spells  ( Common )
+ 
+ All at Random  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   GX Tag Force 
+ 
+ 
+ Step Up Spell-Trap  ( Rare ) 
+ 
+ 
+ 
+ 
+ 
+   5D's Tag Force 4 
+ 
+ 
+ Magic 101  ( Common ) 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Actions  
+ Discards for cost 
+ 
+ Stat changes  
+ Your monsters lose Levels 
+ Modifies the Levels of monsters in the hand 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 5575 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Nightmare Troubadour 2005-07-21 – ??? – – – Unlimited Ultimate Masters: World Championship Tournament 2006 2006-02-23 – ??? – – – Unlimited GX Tag Force 2006-09-14 – ??? – – – Unlimited 5D's Tag Force 4 2009-09-17 – – – – – Present 
+ 
+ 
+ 
+   " Cost Down " pages 
+ 
+ 
+ Anime Anime Manga 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/3b/CostDown-SS03-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20200404203400', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/0/01/Normal.svg/revision/latest/scale-to-width-down/28?cb=20120920120539']
+Categories: Duel Monsters cards, TCG cards, OCG cards

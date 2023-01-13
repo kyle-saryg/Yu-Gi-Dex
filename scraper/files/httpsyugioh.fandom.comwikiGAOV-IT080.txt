@@ -1,0 +1,340 @@
+Link: https://yugioh.fandom.com/wiki/GAOV-IT080
+
+The  Arabic, Chinese  and  Croatian                      names given are not official.  
+ The  Chinese                lore given is not official.  
+ 
+ 
+ 
+ 
+ 
+ Double Payback 倍 返 し 
+ 
+ English 
+Double Payback 
+ Chinese 
+ 倍返 Check translation 
+ French 
+ Double Remboursement Check translation 
+ German 
+ Doppelte Heimzahlung Check translation 
+ Italian 
+ Doppia Vendetta Check translation 
+ Korean 
+ 더블 페이백 Check translation 
+ Spanish 
+ Venganza Doble Check translation 
+ Japanese (kana) 
+ ばいがえし Check translation 
+ Japanese (base) 
+ 倍返し Check translation 
+ Japanese ( rōmaji ) 
+Baigaeshi 
+ Japanese (translated) 
+Double Reversal 
+ Card type 
+ Trap   
+ Property 
+ Continuous   
+ Passcode 
+ 05914184 
+ Card effect types 
+ 
+ 
+ Activation requirement 
+ Effect 
+ Trigger-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Activate  only when you take 1000 or more  damage  from your opponent's  card effect : Place 1  Payback Counter  on this card for every 1000 damage you took. During the  End Phase  of your opponent's next  turn :  Destroy  this card, and if you do, inflict 2000 damage to your opponent for each Payback Counter on this card. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Activable uniquement lorsque vous recevez min. 1000 points de dommage par un effet de carte de votre adversaire : placez 1 Compteur Remboursement sur cette carte pour chaque 1000 points de dommages reçus. Durant la End Phase du prochain tour de votre adversaire : détruisez cette carte, et si vous le faites, infligez 2000 points de dommage à votre adversaire pour chaque Compteur Remboursement sur cette carte. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Aktiviere diese Karte nur, wenn du 1000 oder mehr Schaden von einem Karteneffekt deines Gegners erhälst: Lege 1 Heimzahlungs-Zählmarke aud diese Karte pro 1000 Schaden, die du erhälst. Während der End Phase des nächsten Spielzugs deines Gegners: Zerstöre diese Karte und falls du dies tust, füge deinem Gegner 2000 Schaden für jede Heimzahlungs-Zählmarke auf dieser Karte zu. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Attiva  solo quando subisci 1000 o più  danni  dall' effetto di una carta  del tuo avversario: metti 1  Segnalino Vendetta  su questa carta per ogni 1000 danni subiti. Durante la  End Phase  del  turno  del tuo avversario:  distruggi  questa carta e, se lo fai, infliggi 2000 danni al tuo avversario per ogni Segnalino Vendetta su questa carta. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Sólo puedes activar esta carta cuando recibes 1000 o más puntos de daño del efecto de una carta de tu adversario: pon 1 Contador de Venganza en esta carta por cada 1000 puntos de daño que recibiste. Durante la End Phase del próximo turno de tu adversario: destruye esta carta y, si lo haces, inflige 2000 puntos de daño a tu adversario por cada Contador de Venganza en esta carta. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 相手のカードの効果によって自分が１０００ポイント以上のダメージを受けた時に発動できる。その時に受けたダメージ１０００ポイントにつき、このカードに倍々カウンターを１つ置く。次の相手ターンのエンドフェイズ時、このカードを破壊してこのカードに乗っていた倍々カウンターの数×２０００ポイントダメージを相手ライフに与える。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 稀有度：平罕NR。效果：对方通过其卡的效果给自己的生命值造成1000点以上的伤害时可以发动，自己每受到1000点伤害，就在此卡上放置一个翻倍指示物。下一个对方的结束阶段时，此卡破坏，然后给对方生命值[此卡上的翻倍指示物]的数量×2000点伤害。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 상대 카드의 효과에 의해서 자신이 1000 포인트이상의 데미지를 받았을 때 발동할 수 있다. 그때 받은 데미지 1000 포인트당, 이 카드에 더블 카운터를 1개 놓는다. 다음 상대 턴의 엔드페이즈시, 이 카드를 파괴하고 이 카드에 얹혀 있는 더블 카운터의 수 x 2000 포인트 데미지를 상대 라이프에 준다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2012-04-28  
+ GAOV-EN080   
+ Galactic Overlord 
+ Short Print 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-FR080   
+ Galactic Overlord 
+ Le Seigneur de la Galaxie  
+ Short Print 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-DE080   
+ Galactic Overlord 
+ Galactic Overlord  
+ Short Print 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-IT080   
+ Galactic Overlord 
+ Sovrano Galattico  
+ Short Print 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2012-05-10  
+ GAOV-SP080   
+ Galactic Overlord 
+ Señor Supremo Galáctico  
+ Short Print 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2012-02-18  
+ GAOV-JP080   
+ Galactic Overlord 
+ ＧＡＬＡＣＴＩＣ ＯＶＥＲＬＯＲＤ  
+ Normal Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2012-05-21  
+ GAOV-KR080   
+ Galactic Overlord 
+ 갤럭틱 오버로드  
+ Normal Rare 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Related to  archetypes  and  series   
+ Royal 
+ 
+ Counters   
+ Payback Counter 
+ Places counters on itself 
+ 
+ Actions  
+ Activates if you take effect damage 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ LP   
+ Damages your opponent 
+ 
+ Miscellaneous  
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 10103 ( ja  ( rulings )   en   fr   de   it   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+ Royal   王 宮 Members 
+ Imperial Custom Imperial Iron Wall Imperial Order Royal Command Royal Decree Royal Oppression Royal Prison Royal Surrender Royal Writ of Taxation 
+ Related 
+ Asleep at the Switch Conscription Double Payback The Emperor's Holiday The Huge Revolution is Over Liberty at Last! Retort Rock Bombardment Spell-Stopping Statute Turnabout Tyrant's Tantrum Tyrant's Temper Tyrant's Throes Tyrant's Tirade Tyrant's Tummyache 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/f9/DoublePayback-GAOV-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20120429211743', 'https://static.wikia.nocookie.net/yugioh/images/2/28/TRAP.svg/revision/latest/scale-to-width-down/28?cb=20120918121520', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Duel Monsters cards, TCG cards, OCG cards

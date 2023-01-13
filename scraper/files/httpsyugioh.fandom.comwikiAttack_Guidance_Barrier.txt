@@ -1,0 +1,104 @@
+Link: https://yugioh.fandom.com/wiki/Attack_Guidance_Barrier
+
+
+ The Japanese (OCG) version of this card is not a member of the " Attack "  archetype , because its Japanese name does not contain  「 Ａ 」 .   As its English name contains "Attack", it  may  be treated a member of the "Attack" archetype at a TCG event, subject to local rulings.     
+ 
+ Attack Guidance Barrier 
+ 
+ Japanese:   攻撃誘導バリア 
+ Kana:   こうげきゆうどうバリア 
+ Romaji:   Kōgeki Yūdō Baria 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Activate  only when an opponent's  monster   declares  an  attack . Change the  attack target  to a  Defense Position  monster you  control . It gains 600  DEF  until the  End Phase . After that  battle , end the  Battle Phase .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh! :  178 ,  179 ,  182 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  Yu-Gi-Oh! ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Italian 
+ 
+ Attiva  solo quando un  mostro  del tuo avversario  dichiara  un  attacco . Cambia il  bersaglio dell' attacco  su un mostro in  Posizione di Difesa  che  Controlli . Esso guadagna 600  DEF  fino all'  End Phase . Dopo il combattimento, termina la  Battle Phase . 
+ 
+ 
+ Japanese 
+ 攻 撃 誘 導 バリア 
+ 相手モンスターの 攻撃対象 を味方 守備 モンスター１体に変更し、バトルを終了させる。発動ターンのみ対象となった守備モンスターの 守備力 を６００ポイントアップする。 
+ 
+ 
+ Kōgeki Yūdō Baria 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Seto Kaiba   
+ Yami Yugi 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Activates upon attack declaration 
+ Ends the Battle Phase 
+ 
+ Stat changes  
+ Your monsters gain DEF 
+ 
+ Attack  categories  
+ Manages attack targets 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/5/55/AttackGuidanceBarrier-JP-Anime-DM.png/revision/latest/scale-to-width-down/200?cb=20140929023409', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4e/AttackGuidanceBarrier-OW.png/revision/latest/scale-to-width-down/185?cb=20131227151621', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

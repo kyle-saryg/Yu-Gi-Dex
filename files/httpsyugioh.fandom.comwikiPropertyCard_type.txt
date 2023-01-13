@@ -1,0 +1,14 @@
+Link: https://yugioh.fandom.com/wiki/Property:Card_type
+
+This property list classifications of cards. It uses  page  values.
+ Card pages, using the  old format  use this property to store the type of  Monster Card ;  Normal Monster ,  Ritual Monster  etc. and the  Property  of  Spell  and  Trap Cards ;  Equip Spell Card ,  Normal Trap Card  etc.
+ Card pages using the  new format  use this property to store  card types ,  Monster Card ,  Spell Card ,  Trap Card  etc.
+ 
+ See also 
+ Property:Card type (short) 
+ Property:Primary type 
+ Property:Property 
+ 
+ 
+ 
+Categories:

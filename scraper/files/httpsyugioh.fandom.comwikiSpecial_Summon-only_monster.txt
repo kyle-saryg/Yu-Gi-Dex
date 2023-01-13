@@ -1,0 +1,565 @@
+Link: https://yugioh.fandom.com/wiki/Special_Summon-only_monster
+
+      " Dark Sage ", a Special Summon-only monster     
+ Special Summon-only monsters , often referred to as  Semi-Nomi  monsters, are monsters with the card text " Cannot be  Normal Summoned / Set . Must first be  Special Summoned ... " (or an older variant). [1]  Modern Japanese cards indicate this by indicating "特殊召喚" next to the monster's  Type , akin to how  Spirit ,  Tuner  and  Union  subtypes are indicated.
+ Ritual ,  Fusion ,  Synchro ,  Xyz , and  Link Monsters  that are Special Summon-only monsters do not include the text " Cannot be Normal Summoned/Set. " because it is unnecessary; if they can be Ritual/Fusion/Synchro/Xyz Summoned, they replace " Must first be Special Summoned " with " Must first be Ritual/Fusion/Synchro/Xyz Summoned ".
+ Some examples of Special Summon-only monsters include " Aqua Spirit ", " XYZ-Dragon Cannon " and " Gem-Knight Ruby ".
+ 
+ Contents 
+ 
+ 1   Mechanics 
+ 2   Example 
+ 3   Text 
+ 
+ 3.1   Fusion Summon Fusion Monster 
+ 3.2   Contact Fusion Fusion Monster 
+ 
+ 
+ 4   See also 
+ 5   References 
+ 
+ 
+ Mechanics 
+ A Special Summon-only monster cannot be Special Summoned from the  hand ,  Main Deck ,  Extra Deck , or  Spell & Trap Zone , except by the specified method, unless the card effect  ignores the Summoning conditions .
+ A Special Summon-only monster can be Special Summoned from the  Graveyard  or while  banished  as long as it was Special Summoned properly first. If the Summon of a Special Summon-only monster is  negated  (such as by " Black Horn of Heaven ") it is not considered to have been properly Special Summoned. If a Special Summon-only monster is in the Graveyard or banished and was not Special Summoned properly, it cannot be Special Summoned by any means other than the proper method, even by ignoring the Summoning conditions. This contrasts to " Nomi " monsters, which can only be Summoned by their own effect, even after they have been properly Special Summoned.
+ After being properly Special Summoned, as long as that Monster Card remains on the field (even if  face-down ), in the Graveyard, or banished, it is considered properly Special Summoned.
+ 
+ Example 
+ A player  banishes  three  Fiend - Type  monsters from the Graveyard to Special Summon " Dark Necrofear ".
+ 
+ If "Dark Necrofear" is  sent  to the Graveyard, such as by being destroyed by " Raigeki Break ", it can be Special Summoned from the Graveyard with a card like " Monster Reborn ". 
+ If "Dark Necrofear" is banished, such as by " Dark Core ", it can be Special Summoned while banished with a card like " Dimensional Inversion ". 
+ However, if it is moved to other locations, it cannot be Special Summoned except by the specified method.
+ 
+ If "Dark Necrofear" is  returned  to the  hand  or  Deck , such as by " Compulsory Evacuation Device " or " Phoenix Wing Wind Blast ", it cannot be Special Summoned by any way other than the proper way (except by a card or effect that  ignores its Summoning conditions , like " A Wild Monster Appears! ").
+ Even if it is later sent to the Graveyard or banished, such as by " Graceful Charity " or " Allure of Darkness ", it cannot be Special Summoned because it was not properly Special Summoned. 
+ Text 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ This card   cannot  be Normal Summoned or Set.  This card can only  be Special Summoned [...] 
+ Cannot  be Normal Summoned  or  Set.  Must first  be Special Summoned [...] 
+ Cannot be Normal Summoned / Set. Must first be Special Summoned [...] 
+ 
+ 
+       Yu-Gi-Oh! Forbidden Memories promotional cards     
+       Problem-Solving Card Text Generation Force     
+         Problem-Solving Card Text Legendary Collection 3: Yugi's World     
+ 
+ 
+ Fusion Summon Fusion Monster 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ This monster can only  be  Special  Summoned  by Fusion Summon (from the Extra Deck) . 
+ Must first  be  Fusion  Summoned [...] 
+ 
+ 
+         Duelist Revolution     
+         Problem-Solving Card Text Hidden Arsenal 5: Steelswarm Invasion     
+ 
+ 
+ Contact Fusion Fusion Monster 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ This  monster  can only be Special Summoned [...] 
+ This  card  can only be Special Summoned  from your  Fusion  Deck  [...] 
+ 
+ 
+         Magician's Force     
+         Elemental Energy     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ This card can only  be Special Summoned from your  Extra  Deck [...] 
+ Must first  be Special Summoned  ( from your Extra Deck )  [...] 
+ 
+ 
+         The Duelist Genesis: Special Edition     
+         Problem-Solving Card Text Legendary Collection 2: The Duel Academy Years Mega Pack     
+ 
+ 
+ See also 
+ Nomi 
+ List of Special Summon-only monsters 
+ Special Summon Monster 
+ References 
+ 
+ ↑   Taketa, Gregory.  "Special Summons – Spotting the Different Kinds" . Konami.com .  https://yugiohblog.konami.com/articles/?p=1099 . 
+ 
+ 
+ v e 
+Gameplay and terminology Card layout 
+ Colors 
+ Artwork
+ Original 
+ Alternate 
+ Attribute 
+ Property 
+ Level  ( Negative † ) /  Rank  /  Link Rating 
+ Original 
+ Card Number 
+ Type 
+ Ability 
+ Pendulum Scale 
+ Link Arrow 
+ Card text 
+ Pendulum Effect 
+ Material 
+ Card effect 
+ ATK  /  DEF 
+ Original 
+ Passcode 
+ Limitation text 
+ Eye of Anubis Hologram 
+ Card backing 
+ QR code 
+ Abbreviated names 
+ Renames 
+ Modified artworks 
+ Errata 
+ Simplified Effect Text 
+ Problem-Solving Card Text 
+ Misprint 
+ Rarities 
+ Common 
+ Normal Rare  /  Short Print 
+ Rare 
+ Super Rare 
+ Ultra Rare 
+ Secret Rare 
+ Ultimate Rare 
+ Holographic Rare  /  Ghost Rare 
+ Parallel Rare 
+ Gold Rare 
+ other rarities... 
+ 1st Edition 
+ Unlimited Edition 
+ Limited Edition 
+ Duel Terminal Edition 
+ Case Topper 
+ Giant Card 
+ Official Proxy 
+ Cover card 
+ Statuses 
+ Legal 
+ Unlimited 
+ Semi-Limited 
+ Limited 
+ Forbidden 
+ Illegal 
+ Format
+ Advanced 
+ Traditional 
+ Status lists... 
+ Card types 
+ Monster 
+ Alignments † 
+ Divine 
+ Earth 
+ Fire 
+ Forest 
+ Thunder 
+ Water 
+ Wind 
+ Black Magic 
+ Demon Magic 
+ Illusion Magic 
+ White Magic 
+ Attributes 
+ DARK 
+ DIVINE 
+ EARTH 
+ FIRE 
+ LAUGH † 
+ LIGHT 
+ WATER 
+ WIND 
+ Types 
+ Aqua 
+ Beast 
+ Beast-Warrior 
+ Charisma † 
+ Creator God 
+ Cyberse 
+ Dinosaur 
+ Divine-Beast 
+ Dragon 
+ Fairy 
+ Fiend 
+ Fish 
+ Insect 
+ Machine 
+ Plant 
+ Psychic 
+ Pyro 
+ Reptile 
+ Rock 
+ Sea Serpent 
+ Spellcaster 
+ Thunder 
+ Warrior 
+ Winged Beast 
+ Wyrm 
+ Zombie 
+ Black Magic † 
+ Celestial Warrior † 
+ Cyborg † 
+ Dragon Magic † 
+ High Dragon † 
+ Galaxy † 
+ Human † 
+ Illusion Magic † 
+ Immortal † 
+ Magical Knight † 
+ Omega Psychic † 
+ Sea Beast † 
+ White Magic † 
+ Yokai † 
+ Monster types 
+ Normal 
+ Effect 
+ Non-Effect 
+ Ritual 
+ Fusion 
+ Synchro 
+ Dark † 
+ Accel † 
+ Delta Accel † 
+ Limit Over Accel † 
+ Xyz 
+ Pendulum 
+ Link 
+ Token 
+ Spell † 
+ Trap 
+ Field † 
+ Pseudo 
+ Monster subtypes 
+ Tuner 
+ Dark † 
+ Special Summon 
+ Armor † 
+ Plus † 
+ Minus † 
+ Plus Minus † 
+ Abilities 
+ Flip 
+ Toon 
+ Spirit 
+ Union 
+ Gemini 
+ 
+ Spell 
+ Normal 
+ Continuous 
+ Field 
+ Equip 
+ Quick-Play 
+ Ritual 
+ Link † 
+ Trap 
+ Normal 
+ Continuous 
+ Counter 
+ Field † 
+ Monster † 
+ Equip † 
+ Other † 
+ Equip 
+ Illusion 
+ Ritual 
+ Speed Spell 
+ Normal 
+ Quick-Play 
+ Ritual 
+ Trap Spell 
+ Normal 
+ Continuous 
+ Virus 
+ Normal 
+ Field 
+ Non-game 
+ Character 
+ Checklist 
+ FAQ 
+ Strategy 
+ Tip 
+ Related 
+ Archetype 
+ Series 
+ Card evolutions 
+ Support 
+ Anti-support 
+ ? 
+ ??? † 
+ ∞ † 
+ 
+ Game mechanics 
+ General 
+ Match 
+ Duel 
+ DRAW 
+ Surrender 
+ LP 
+ Counter 
+ Damage 
+ Battle 
+ Piercing 
+ Effect 
+ Card limits
+ Deck
+ Minimum 
+ Maximum 
+ Hand 
+ Three-card rule 
+ Spell Speed 
+ Position 
+ Face-down 
+ Face-up 
+ Battle position 
+ Attack Position 
+ Defense Position 
+ Public knowledge 
+ Areas 
+ Deck
+ Main 
+ Extra 
+ Side 
+ Field 
+ In Play 
+ Hand 
+ Graveyard 
+ Banished 
+ Limbo † 
+ Attached 
+ Zones 
+ Deck 
+ Extra Deck 
+ Monster 
+ Main Monster 
+ Extra Monster 
+ Spell & Trap 
+ Field 
+ Pendulum 
+ Column 
+ Turns 
+ Count 
+ Player 
+ Phase 
+ Draw 
+ Normal draw 
+ Standby 
+ Main 1 
+ Battle 
+ Start Step 
+ Battle Step 
+ Damage Step 
+ Damage calculation 
+ End Step 
+ Main 2 
+ End 
+ Actions 
+ Owner 
+ Possess 
+ Control 
+ Look 
+ Reveal 
+ Pick up a card 
+ Excavate 
+ Add a card 
+ Draw a card 
+ Shuffle 
+ Cut 
+ Random 
+ Summon 
+ Set 
+ Flip 
+ Change battle position 
+ Send 
+ Discard 
+ Tribute 
+ Destroy 
+ By battle 
+ Banish 
+ Attach 
+ Detach 
+ Transfer 
+ Equip 
+ Unequip 
+ Leave the field 
+ Bounce 
+ Spin 
+ Return 
+ Linked 
+ Co-linked 
+ Extra Link 
+ Points to 
+ Attack 
+ Direct 
+ Target 
+ Replay 
+ Double † 
+ Battle 
+ Activate 
+ Pay 
+ Declare 
+ Select 
+ Target 
+ Respond 
+ Chain 
+ Link 
+ Resolve 
+ Unaffected 
+ Negate 
+ 
+ Card  effects 
+ Types 
+ Condition 
+ Archetype 
+ Archetype-exclusion 
+ Level 
+ Name 
+ Rank 
+ Summoning 
+ Common 
+ Normal 
+ Special 
+ Fusion 
+ Strict 
+ Ritual 
+ Victory 
+ Cost 
+ Maintenance cost 
+ Monster 
+ Continuous 
+ like 
+ Ignition 
+ Like 
+ Quick 
+ Like 
+ Trigger 
+ Like 
+ Flip 
+ Pseudo 
+ Unclassified 
+ Control only one 
+ Field-Unique 
+ Match winner 
+ Summon monster 
+ Unconfirmed 
+ Mandatory 
+ Optional 
+ Lingering 
+ Once per turn 
+ Speeds 
+ Spell Speed 1 
+ Fast effect 
+ Spell Speed 2 
+ Spell Speed 3 
+ Timing 
+ Game state 
+ Priority 
+ Fast effect timing 
+ Post-resolution window 
+ Summon negation window 
+ Summon response window 
+ Attack declaration window 
+ SEGOC 
+ Missing the timing 
+ 
+ Summoning 
+ Types 
+ Normal 
+ Tribute 
+ Set 
+ Normal 
+ Tribute 
+ Flip 
+ Special 
+ By own condition 
+ Fusion 
+ Ritual 
+ Synchro 
+ Xyz 
+ Pendulum 
+ Link 
+ Contact Fusion † 
+ Transformation † 
+ Double Tuning † 
+ Dark Synchro † 
+ Phantom Synchro † 
+ Accel Synchro † 
+ Delta † 
+ Limit Over † 
+ Xyz Evolution † 
+ Rank-Up † 
+ Rank-Down † 
+ Cross Xyz † 
+ Dimension † 
+ Integration † 
+ Overscale Pendulum † 
+ Transcendent Pendulum † 
+ Reincarnation Link † 
+ Mechanics 
+ Summoning Rules 
+ Double Tributer 
+ Material 
+ Fusion 
+ Substitute 
+ Synchro 
+ Substitute 
+ Xyz 
+ Link 
+ Normal Summon Monster 
+ Special Summon-only 
+ Nomi 
+ Ignoring its Summoning conditions 
+ 
+ Other 
+ Activation & Targeting Eligibility 
+ Activation requirement 
+ Difference between Costs and Effects 
+ Chains, Activation, and Resolution 
+ Chaining to your own Cards 
+ Counter Traps and Chains 
+ Summons & Chains 
+ Engine 
+ Draw 
+ Advantage
+ Card 
+ Field 
+ Hand 
+ One Turn Kill 
+ First 
+ Zero 
+ Lockdown 
+ Loop
+ Controlled loop 
+ Infinite loop 
+ "Negate" vs. "Destroy" and Continuous Cards 
+ Negating Continuous Card Costs 
+ Fusion Material Monsters & Ritual Spell Tributes 
+ 
+ †  Does not exist or is not official in the  OCG  or  TCG See also {{ Card lists }} and {{ Monsters and Monster Cards }}
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/3e/DarkSage-LCYW-EN-C-1E.png/revision/latest/scale-to-width-down/200?cb=20140726025239', 'https://static.wikia.nocookie.net/yugioh/images/0/03/RedEyesBlackMetalDragon-FMR-NA-PScR-UE.png/revision/latest/scale-to-width-down/180?cb=20090116054050', 'https://static.wikia.nocookie.net/yugioh/images/0/02/SuperCrashbug-GENF-EN-SR-1E.jpg/revision/latest/scale-to-width-down/180?cb=20130510041503', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/3e/DarkSage-LCYW-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20140726025239', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1b/DragonKnightDracoEquiste-DREV-EN-UR-1E.jpg/revision/latest/scale-to-width-down/180?cb=20100831222106', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/ac/GemKnightRuby-HA05-EN-ScR-1E.png/revision/latest/scale-to-width-down/180?cb=20131208203436', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/a/a1/XYZDragonCannon-MFC-NA-UR-1E.jpg/revision/latest/scale-to-width-down/180?cb=20061118052200', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/1c/VWXYZDragonCatapultCannon-EEN-EN-SR-1E.jpg/revision/latest/scale-to-width-down/180?cb=20061104043052', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/75/GladiatorBeastHeraklinos-TDGS-EN-SR-LE.png/revision/latest/scale-to-width-down/180?cb=20100727094153', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/d4/ArmityletheChaosPhantasm-LCGX-EN-UR-1E.png/revision/latest/scale-to-width-down/180?cb=20210106220517']
+Categories: Cards with 2 errata, Cards with 1 erratum, Cards with 3 errata, Gameplay

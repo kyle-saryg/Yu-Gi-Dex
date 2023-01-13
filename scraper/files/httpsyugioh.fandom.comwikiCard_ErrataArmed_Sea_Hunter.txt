@@ -1,0 +1,34 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Armed_Sea_Hunter
+
+
+ Armed Sea Hunter 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Yu-Gi-Oh! BAM 
+ 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ If you control another face-up WATER monster, negate  the effects of  the  monster  that battled with this card, after damage calculation . If this card would be destroyed, you can destroy 1 face-up Level 3 or lower WATER monster you control instead. 
+ After damage calculation, if this card battles an Effect Monster: Negate  the effects of  that  monster  (including in the Graveyard) .  You must control another face-up WATER monster to activate and to resolve this effect.  If this card would be destroyed, you can destroy 1 face-up Level 3 or lower WATER monster you control instead. 
+ 
+ 
+       ANPR-EN025 Ancient Prophecy     
+       SDRE-EN008 Realm of the Sea Emperor Structure Deck     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/7/74/ArmedSeaHunter-ANPR-EN-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20090823032149', 'https://static.wikia.nocookie.net/yugioh/images/5/57/ArmedSeaHunter-SDRE-EN-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20121018043557']
+Categories: Card Errata, Cards with 1 erratum

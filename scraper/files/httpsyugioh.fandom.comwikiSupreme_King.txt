@@ -1,0 +1,412 @@
+Link: https://yugioh.fandom.com/wiki/Supreme_King
+
+This article is about the archetype. For the  GX  character, see " The Supreme King ".      
+ 
+ 
+ Supreme King 
+ 覇王 「 はおう 」  ( Haō ) 
+ 
+ 
+ 
+ 
+ From left to right: " Clear Wing ", " Odd-Eyes ", " Dark Rebellion " and " Starving Venom ". " Z-ARC " is in the back. 
+ 
+ 
+ Other names 
+ 
+ French 
+ Roi Suprême 
+ 
+ 
+ German 
+ Oberster König 
+ 
+ 
+ Italian 
+ Re Supremo 
+ 
+ 
+ Korean 
+ 패왕   Paewang   (romanized) 
+ 
+ 
+ Portuguese 
+ Rei Supremo 
+ 
+ 
+ Spanish 
+ Rey Supremo 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Clash of Rebellions Raging Tempest Maximum Crisis Code of the Duelist 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ 2016 Mega-Tin Mega Pack Star Pack Battle Royal Battles of Legend: Light's Revenge 2017 Mega-Tin Mega Pack Legendary Dragon Decks Battles of Legend: Relentless Revenge 2018 Mega-Tin Mega Pack Ghosts From the Past: The 2nd Haunting Dimension Force Legendary Duelists: Season 3 Battles of Legend: Crystal Revenge 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Master Guide 5 promotional cards Collectors Pack 2017 Duelist Pack: Legend Duelist 5 Duelist Pack: Legend Duelist 6 Dimension Force +1 Bonus Pack History Archive Collection 
+ 
+ 
+ 
+ 
+ Korea-Only Sets 
+ 
+ 
+ Advanced Event Pack 2018 Vol.1 
+ 
+ 
+ 
+ 
+ Appearances 
+ 
+ 
+ Anime appearances 
+ 
+ 
+ Yu-Gi-Oh! ARC-V 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ Supreme King  ( 覇 王   Haō ) is a  series  ( archetype  in the anime) of  DARK   monsters  (primarily  Dragon  and  Fiend ) used by  Z-ARC  in the  Yu-Gi-Oh! ARC-V  anime. The series contains two archetypes (sub-archetypes in the anime): " Supreme King Dragon " and " Supreme King Gate ".
+ Due to their Japanese names, hybrids of "Odd-Eyes Pendulum Dragon" with the other three  Dimension Dragons  are also members of the "Supreme King" series.
+ 
+ Contents 
+ 
+ 1   Playing style 
+ 2   Weaknesses 
+ 3   Recommended cards 
+ 4   Official Decks 
+ 5   References 
+ 
+ 
+ Playing style 
+ The Supreme King Deck doesn't have a really articulated play style by itself given its small membership but can work effectively as an engine. Using " Supreme King Dragon Darkwurm ", the player is capable of toolboxing into the "Supreme King Gates", the archetype's main sources of a Pendulum Scale. Since both " Supreme King Gate Zero " and " Supreme King Gate Infinity " have Scale values of 0 and 13 respectively, they can potentially allow for monsters of any Level to be Pendulum Summoned, although "Infinity" carries a restriction of controlling no monsters in order to  Pendulum Summon . So far, there is only one Ritual monster in the archetype,  Demise, Supreme King of Armageddon  which specializes in the destruction of every card on the field, inflicting 200 points of damage for each card destroyed that way.
+ Since they cannot do enough on their own given they have few members, the archetype is thus better mixed with other Pendulum cards to maximize the benefits. The "Supreme King" archetype pairs extremely well with the " Magician " archetype, especially "Z-ARC  Magician " monsters, consisting of " Double Iris Magician ", " Black Fang Magician ", " White Wing Magician " and " Purple Poison Magician " who provide a handful of benefits.
+ For starters, most of them are DARK monsters so they cannot conflict with the  Pendulum Effect  of "Darkwurm". Secondly their Pendulum Scales have values of 1 and 8, which mix well with the "Supreme King" cards since "Darkwurm" is a Level 4 and both "Gates" are Level 7. Thirdly these "Magicians" along either " Astrograph Sorcerer " or " Chronograph Sorcerer " are one of the ways to Special Summon " Supreme King Z-ARC ", the archetype's boss monster. Additionally, the effect of "Darkwurm" to Special Summon itself from the Graveyard makes it a useful discard fodder for cards such as " Pendulum Call " as the player can instantly gather the means for a Pendulum Summon for no cost and their Pendulum Scales will go uninterrupted.
+ As a result of this mixture the "Supreme King" archetype is capable of more moves, involving greater flexibility in both Pendulum Summon and other Summon mechanics, being able to perform Fusion, Synchro and Xyz Summon. 
+ For Fusions, both "Zero" and "Infinity" can provide some help since "Zero" can destroy itself along with "Infinity" to search for any "Fusion" card that can help conduct a Fusion Summon, some useful choices including " Miracle Synchro Fusion " and " Odd-Eyes Fusion ". Given the Deck's mostly DARK nature, they can also Fusion Summon " Starving Venom Fusion Dragon " (and most other " Predaplant " Fusion monsters, and " Greedy Venom Fusion Dragon ", if need be). 
+ For Synchro Summoning purposes, " White Wing Magician " being a Level 4 can open possibilities for either Level 7, 8, or even Level 11 Synchro Summoning when paired with either a Level 3, 4, or 7. Since unlike other  Tuner Pendulum Monsters , she has no restriction on what she can Summon (but using her after being Pendulum Summoned will banish her), she is an ideal Tuner for generic Synchro Monsters such as " Scarlight Red Dragon Archfiend" , " PSY-Framelord Omega " or " Enlightenment Paladin ". If needed other monsters can be used too, such as " Ghost Ogre & Snow Rabbit ", " Timebreaker Magician " or " Noble Dragon Magician " can open up room for Level 7 Synchro Summoning such as " Clear Wing Synchro Dragon " or " Moonlight Rose Dragon ". Some of these cards can combo well with "Miracle Synchro Fusion" as well. 
+ Finally, for Xyz Summoning, the archetype can gain easier access to either Rank 4 or Rank 7 monsters, ranging from utilitarian ones such as " Dark Rebellion Xyz Dragon " or " Timestar Magician " to the likes of " Number 11: Big Eye " or " Odd-Eyes Absolute Dragon ". "Darkwurm" is interesting due to its self-revival ability from the Graveyard which potentially mitigates some of the otherwise common and taxing cost of Pendulum-Xyz tactics. After dumping the "Z-ARC" Magicians by detaching them, they can then be banished for "Z-ARC".
+ For Pendulum Summoning, other additional and more mainstreamed cards such as " Odd-Eyes Pendulum Dragon " or " Archfiend Eccentrick " can be useful as well. The former can search either of the "Gates" and many of the aforementioned "Magicians", while "Eccentrick" is an effective removal card. In other words, the "Supreme King" archetype is fairly flexible since they can be mixed with multiple cards and provide a handful of utilitarian uses.
+ As per the Master Rule 4, the deck loses its Pendulum Summon power. However, the player would often stand without Pendulum Summon as per the Pendulum Effect of "Infinity" thanks to the archetype's penchant for swarming and controlling the field through its "boss". 
+ After swarming the  Field  with weaker monsters, the player can bring out "Supreme King Dragon" Extra Deck Monsters and use them to press the opponent. After your opponent gets rid of them and you managed to get "Z-ARC" on the field, you can use " Supreme Rage " to devastate, or even finish the opponent.
+ 
+ Weaknesses 
+ Since they are a Pendulum archetype, they are vulnerable to cards such as " Anti-Spell Fragrance " which can shut them down in the spot. 
+ Their small membership demands that the player mixes them with something else to make the most of it, and thus more than likely adopt that Deck's weaknesses as well. 
+ "Infinity" can be more trouble than an aid due to its "no monster" clause to perform a Pendulum Summon. 
+ The player should also prioritize which summoning mechanic to boost while mixing and be selective of the cards to use for that purpose, as using too many cards can lead to unfortunate draws. 
+ Recommended cards 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ Eidos the Underworld Squire 
+ Edea the Heavenly Squire 
+ Golem Dragon 
+ Kaiser Vorse Raider / Super Quantum Red Layer 
+ Zaborg the Mega Monarch 
+ Tuner monsters 
+ Tuning Magician 
+ Pendulum Monsters 
+ Supreme King Dragon Darkwurm 
+ Supreme King Dragon Odd-Eyes 
+ Supreme King Gate Infinity 
+ Supreme King Gate Zero 
+ Astrograph Sorcerer 
+ Chronograph Sorcerer 
+ Odd-Eyes Arc Pendulum Dragon 
+ Odd-Eyes Pendulum Dragon 
+ Black Fang Magician 
+ Purple Poison Magician 
+ White Wing Magician 
+ Double Iris Magician 
+ Harmonizing Magician Extra Deck   
+ Fusion Monsters 
+ Supreme King Z-ARC 
+ Supreme King Dragon Starving Venom 
+ Greedy Venom Fusion Dragon 
+ Naturia Exterio 
+ Odd-Eyes Venom Dragon 
+ Predaplant Chimerafflesia 
+ Starving Venom Fusion Dragon 
+ Ultimate Axon Kicker 
+ Synchro Monsters 
+ Supreme King Dragon Clear Wing 
+ Clear Wing Synchro Dragon 
+ Crystal Wing Synchro Dragon 
+ PSY-Framelord Omega 
+ Naturia Barkion 
+ Naturia Beast 
+ Odd-Eyes Wing Dragon 
+ Xyz Monsters 
+ Supreme King Dragon Dark Rebellion 
+ Dark Rebellion Xyz Dragon 
+ Dark Requiem Xyz Dragon 
+ Galaxy Stealth Dragon 
+ Odd-Eyes Rebellion Dragon 
+ Odd-Eyes Raging Dragon Spells   &  Traps   
+ Spells 
+ Allure of Darkness 
+ Dragon's Gunfire 
+ Dragon's Mirror 
+ Dragon Revival Rhapsody 
+ (with Odd-Eyes Arc Pendulum Dragon)
+ 
+ Dragon Shield 
+ Miracle Synchro Fusion 
+ Odd-Eyes Fusion 
+ One for One 
+ Pendulum Call 
+ Pendulum Fusion 
+ Return of the Dragon Lords 
+ Stamping Destruction 
+ Star Pendulumgraph 
+ The Phantom Knights' Rank-Up-Magic Launch 
+ Ties of the Brethren 
+ Ultra Polymerization 
+ Traps 
+ Dragoncarnation 
+ Dragon's Bind 
+ Dragon's Rage 
+ Dragon's Rebirth 
+ Echo Oscillation 
+ Follow Wing 
+ Pendulum Reborn 
+ Tyrant Wing 
+ Supreme Rage 
+ The Dragon's Bead 
+ Time Pendulumgraph 
+ Urgent Tuning 
+ Wonder Xyz 
+ Xyz Reborn 
+ Official Decks 
+ 
+ "Supreme King Z-ARC" + "Pendulum Evolution" Deck [1] Monsters  (31) 
+ Pendulum Monsters 
+ Astrograph Sorcerer  x3 
+ Black Fang Magician  x3 
+ Chronograph Sorcerer  x2 
+ Double Iris Magician  x3 
+ Stargazer Magician  x2 
+ Supreme King Dragon Darkwurm  x3 
+ Supreme King Gate Infinity 
+ Supreme King Gate Zero 
+ Timebreaker Magician  x3 
+ Timegazer Magician  x2 
+ Purple Poison Magician  x3 
+ White Wing Magician  x3 
+ Wisdom-Eye Magician  x2 Extra Deck  (10) 
+ Fusion Monsters 
+ Supreme Arcanite Magician  x3 
+ Supreme King Z-ARC 
+ Synchro Monsters 
+ Enlightenment Paladin  x3 
+ Xyz Monsters 
+ Timestar Magician  x3 Spells  (7) &  Traps  (2) 
+ Spells 
+ Duelist Alliance  x2 
+ Miracle Synchro Fusion 
+ Star Pendulumgraph  x3 
+ Wavering Eyes 
+ Traps 
+ Time Pendulumgraph  x2 
+ 
+ "Supreme King Dragon" Deck [2] Monsters  (20) 
+ Effect Monsters 
+ Doomsday Horror  x2 
+ Tuner monsters 
+ Hyper Synchron  x3 
+ Pendulum Monsters 
+ Supreme King Dragon Darkwurm  x3 
+ Supreme King Dragon Odd-Eyes  x3 
+ Supreme King Gate Infinity  x3 
+ Supreme King Gate Zero  x3 
+ Vector Pendulum, the Dracoverlord  x3 Extra Deck  (15) 
+ Fusion Monsters 
+ Supreme King Dragon Starving Venom  x3 
+ Supreme King Z-ARC  x3 
+ Synchro Monsters 
+ Supreme King Dragon Clear Wing  x3 
+ Xyz Monsters 
+ Odd-Eyes Raging Dragon  x3 
+ Supreme King Dragon Dark Rebellion  x3 Spells  (15) &  Traps  (10) 
+ Spells 
+ Advance Draw  x2 
+ D.D.R. - Different Dimension Reincarnation  x2 
+ Dragon's Mirror  x3 
+ Dragon Shrine  x3 
+ Pendulum Fusion  x2 
+ Pot of Riches  x2 
+ Smile Universe 
+ Traps 
+ Escape from the Dark Dimension  x3 
+ Pendulum Reborn  x3 
+ Supreme Rage  x2 
+ Xyz Reborn  x2 
+ 
+ "Supreme King Z-ARC" Deck [3] Monsters  (23) 
+ Effect Monsters 
+ Lonefire Blossom  x3 
+ Predaplant Darlingtonia Cobra  x2 
+ Predaplant Ophrys Scorpio  x3 
+ Tuner monsters 
+ Destrudo the Lost Dragon's Frisson  x3 
+ Pendulum Monsters 
+ Odd-Eyes Pendulum Dragon  x3 
+ Odd-Eyes Phantom Dragon  x3 
+ Supreme King Dragon Darkwurm  x2 
+ Supreme King Dragon Odd-Eyes 
+ Supreme King Gate Infinity 
+ Supreme King Gate Zero 
+ Vector Pendulum, the Dracoverlord Extra Deck  (15) 
+ Fusion Monsters 
+ Odd-Eyes Vortex Dragon 
+ Starving Venom Fusion Dragon 
+ Supreme King Dragon Starving Venom 
+ Supreme King Z-ARC  x3 
+ Synchro Monsters 
+ Black Rose Dragon 
+ Clear Wing Synchro Dragon 
+ Odd-Eyes Meteorburst Dragon 
+ Supreme King Dragon Clear Wing 
+ Xyz Monsters 
+ Dark Rebellion Xyz Dragon 
+ Odd-Eyes Absolute Dragon 
+ Supreme King Dragon Dark Rebellion 
+ Link Monsters 
+ Akashic Magician 
+ Code Talker Spells  (17) &  Traps  (2) 
+ Spells 
+ Allure of Darkness 
+ Dragon Ravine  x3 
+ Dragon Shrine  x3 
+ Foolish Burial 
+ Miracle Synchro Fusion 
+ Odd-Eyes Fusion 
+ Spiral Flame Strike  x3 
+ Super Polymerization 
+ Terraforming 
+ Traps 
+ Supreme Rage  x2 
+ References 
+ 
+ 
+ ↑   YGOrganization  [OCG] Supreme King Z-ARC + SD31 Deck Recipe 
+ 
+ ↑   https://ygorganization.com/deathbyburndamagefromzarcandpals/ 
+ 
+ ↑   https://ygorganization.com/deck-recipe-supreme-king-z-arc/ 
+ 
+ 
+ v e 
+ King  cards 
+ v e 
+" King " 「 王 」 m   Members 
+ Absolute King Back Jack Archfiend Dragon Beelze Beast King Barbaros Beast Machine King Barbaros Ür Beelzeus of the Diabolic Dragons Celestial Wolf Lord, Blue Sirius Champion's Ambition Champion's Majesty Champion's Pulse Champion's Storm Cursed Fire King Doom Burst D/D/D Destiny King Zero Laplace D/D/D Supersight King Zero Maxwell DDD Kaiser the Conqueror Divine Go-D/D/D Zero King Zero G.O.D. Reiji Domain of the True Monarchs Duelist Kingdom Dust Lord Ash Gash Emperor's Freezing Air Emperor's Lava Attack Escalation of the Monarchs The Honor of the King's Left The Honor of the King's Right The King of Divine Punishment, Dark Highlander King of Yamimakai King's Camp King's Soul Harmony Machine Lord Ür Magic King Moon Star The Monarchs Stormforth Morph King Stygi-Gel Phantom Lord Hyde Ride Pumpking the King of Ghosts Reawakening of the Emperor Red Dragon King Red Dragon Calamity Red Lotus King, Flame Crime Shade of the King Van'Dalgyon the Dark Dragon Lord Voyage to the Kingdom Wandering King Wild Wind 
+ Support 
+ King's Camp King's Soul Harmony 
+ 
+ v e 
+" Champion " 「 王 者 」 m   Members 
+ Champion's Ambition Champion's Majesty Champion's Pulse Champion's Storm King's Camp Shade of the King 
+ Support 
+ Champion's Ambition Champion's Majesty Champion's Pulse 
+ 
+ v e 
+ Fire King  cards 
+   
+" Fire King " 「 炎 王 」 Members 
+ Fire King Avatar Arvata Fire King Avatar Barong Fire King Avatar Garunix Fire King Avatar Kirin Fire King Avatar Yaksha Fire King High Avatar Garunix 
+ Circle of the Fire Kings Fire King Island Onslaught of the Fire Kings 
+ Support 
+ Fire King Avatar Barong Fire King Avatar Garunix Fire King Avatar Kirin Fire King Avatar Yaksha Fire King High Avatar Garunix 
+ Fire King Island 
+ Related 
+ High Tide on Fire Island 
+ 
+ v e 
+ Fire King   炎 王 m   Members 
+ Cursed Fire King Doom Burst Fire King Avatar Yaksha 
+ 
+   
+" Fire King Avatar " 「 炎 王 獣 」 Members 
+ Fire King Avatar Arvata Fire King Avatar Barong Fire King Avatar Garunix Fire King Avatar Kirin Fire King Avatar Yaksha 
+ Support 
+ Fire King Avatar Garunix 
+ 
+ 
+ v e 
+ Supreme King  cards 
+   
+" Supreme King " 「 覇 王 」 Members 
+ Demise, Supreme King of Armageddon Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Rebellion Dragon Overlord Odd-Eyes Venom Dragon Odd-Eyes Wing Dragon Supreme King Dragon Clear Wing Supreme King Dragon Dark Rebellion Supreme King Dragon Darkwurm Supreme King Dragon Odd-Eyes Supreme King Dragon Starving Venom Supreme King Gate Infinity Supreme King Gate Zero Supreme King Z-ARC 
+ Supreme King's Castle The Supreme King's Soul Supreme Rage 
+ Related 
+ Astrograph Sorcerer Chronograph Sorcerer Clear Wing Synchro Dragon Dark Rebellion Xyz Dragon Odd-Eyes Pendulum Dragon Performapal Celestial Magician Starving Venom Fusion Dragon 
+ 
+ v e 
+" Supreme King " 「 覇 王 」 a   Members 
+ King of Yamimakai Number 80: Rhapsody in Berserk Number C80: Requiem in Berserk Odd-Eyes Raging Dragon Odd-Eyes Rebellion Dragon Odd-Eyes Venom Dragon Odd-Eyes Wing Dragon Supreme Disdain Supreme Face-off Supreme King Dragon Clear Wing Supreme King Dragon Dark Rebellion Supreme King Dragon Darkwurm Supreme King Dragon Odd-Eyes Supreme King Dragon Starving Venom Supreme King Gate Infinity Supreme King Gate Zero Supreme King Z-ARC Supreme Presence Supreme Rage Supreme Wing 
+ Support 
+ Supreme Disdain Supreme Face-off Supreme King Dragon Darkwurm Supreme King Dragon Odd-Eyes Supreme King Gate Zero Supreme King Z-ARC Supreme Presence 
+ Related 
+ Astrograph Sorcerer Clear Wing Synchro Dragon Dark Rebellion Xyz Dragon Odd-Eyes Pendulum Dragon Starving Venom Fusion Dragon 
+ 
+   
+" Supreme King Gate " 「 覇 王 門 」 Members 
+ Supreme King Gate Infinity Supreme King Gate Zero 
+ Support 
+ Performapal Greatest Duelist Supreme King Dragon Dark Rebellion Supreme King Dragon Darkwurm Supreme King Dragon Odd-Eyes 
+ Related 
+ Supreme King Z-ARC 
+ 
+   
+" Supreme King Dragon " 「 覇 王 眷 竜 」 Members 
+ Supreme King Dragon Clear Wing Supreme King Dragon Dark Rebellion Supreme King Dragon Darkwurm Supreme King Dragon Odd-Eyes Supreme King Dragon Starving Venom 
+ Support 
+ Performapal Greatest Duelist Supreme King Dragon Clear Wing Supreme King Dragon Dark Rebellion Supreme King Dragon Odd-Eyes Supreme King Z-ARC 
+ Supreme Rage 
+ Related 
+ Clear Wing Synchro Dragon Dark Rebellion Xyz Dragon Odd-Eyes Pendulum Dragon Starving Venom Fusion Dragon 
+ 
+ v e 
+" Supreme King Dragon " 「 覇 王 眷 竜 」 a   Members 
+ Supreme King Dragon Clear Wing Supreme King Dragon Dark Rebellion Supreme King Dragon Darkwurm Supreme King Dragon Odd-Eyes Supreme King Dragon Starving Venom 
+ Support 
+ Supreme King Dragon Clear Wing Supreme King Dragon Dark Rebellion Supreme King Dragon Odd-Eyes Supreme King Dragon Starving Venom Supreme King Z-ARC 
+ Related 
+ Clear Wing Synchro Dragon Dark Rebellion Xyz Dragon Odd-Eyes Pendulum Dragon Starving Venom Fusion Dragon Supreme Rage 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/ce/Supreme_King_Z-ARC_%26_his_Servant_Dragons.png/revision/latest/scale-to-width-down/350?cb=20170725113120']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Ritual Monster(s), Archetypes with Fusion Monster(s), Archetypes with Synchro Monster(s), Archetypes with Xyz Monster(s), Archetypes with Pendulum Monster(s)

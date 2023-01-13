@@ -1,0 +1,99 @@
+Link: https://yugioh.fandom.com/wiki/Blue_on_Blue
+
+
+ Blue on Blue 
+ 
+ Japanese:   ブルー・オン・ブルー 
+ Romaji:   Burū on Burū 
+ 
+ 
+ 
+ 
+ en 
+ ja 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap 
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ 
+ 
+ Activate  only during your opponent's  Battle Phase . Two or more of your opponent's  monsters  engage friendly fire. 
+ 
+ Viz Media  lore<nomobile> ? :</nomobile> <mobile>(The English manga by Viz Media sometimes uses lores which are inconsistent with the Japanese lore or how the card worked.):</mobile>  Activate  only during your opponent's  Battle Phase .  Select  2  face-up   Attack Position   monsters  your opponent  controls . This  turn , your opponent must  declare  an  attack  with 1 of the selected monsters, and the other selected monster will be treated as the  attack target .
+ 
+ 
+ Appearances
+ 
+ 
+ 
+ 
+   R : Yu-Gi-Oh! R - Duel Round 019|019 Property "Yu-Gi-Oh R chapter appearances (linked)" (as page type) with input value "Yu-Gi-Oh! R - Duel Round 019|019" contains invalid characters or is incomplete and therefore can cause unexpected results during a query or annotation process. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Manga cards (Galleries:  R ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ブルー・オン・ブルー 
+ 相手の戦闘フェイズに発動する。２体以上の相手モンスターは同士討ちとなる 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Reiko Kitamori 
+ 
+ 
+ Search categories 
+ 
+ Attack  categories  
+ Must attack 
+ Manages attack targets 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/d/d1/BlueonBlue-EN-Manga-R.png/revision/latest/scale-to-width-down/200?cb=20150316000055', 'https://static.wikia.nocookie.net/yugioh/images/b/b5/BlueonBlue-JP-Manga-R-CA.png/revision/latest?cb=20160422013708', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Manga cards, Manga cards with no OCG/TCG counterpart

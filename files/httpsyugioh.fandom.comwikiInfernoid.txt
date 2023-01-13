@@ -1,0 +1,535 @@
+Link: https://yugioh.fandom.com/wiki/Infernoid
+
+
+ 
+ Infernoid 
+ インフェルノイド  ( Inferunoido ) 
+ 
+ 
+ 
+ 
+ The main ten "Infernoid" monsters. 
+ 
+ 
+ Other names 
+ 
+ French 
+ Infernoid 
+ 
+ 
+ German 
+ Infernoid 
+ 
+ 
+ Italian 
+ Infernoid 
+ 
+ 
+ Korean 
+ 인페르노이드   Inpereunoideu   (romanized) 
+ 
+ 
+ Portuguese 
+ Infernoide 
+ 
+ 
+ Spanish 
+ Infiernoid 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Secrets of Eternity Crossed Souls Clash of Rebellions Raging Tempest 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ Battles of Legend: Light's Revenge Brothers of Legend 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Advanced Tournament Pack 2015 Vol.1 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ " Infernoid " (インフェルノイド,  Inferunoido ) is an  archetype  of  FIRE   Fiend   monsters  that debuted in  Secrets of Eternity . This was the first archetype whose monsters were all  Special Summon Monsters , until the release of " Infernoid Decatron " in  Clash of Rebellions . They are supported by the " Void " archetype of Spell and Trap Cards.
+ 
+ Contents 
+ 
+ 1   Lore 
+ 2   Design 
+ 
+ 2.1   Appearance 
+ 2.2   Etymology 
+ 2.3   Correspondence 
+ 
+ 
+ 3   Playing style 
+ 
+ 3.1   Breakdown 
+ 3.2   "Void" support 
+ 3.3   Additional support 
+ 
+ 
+ 4   Recommended cards 
+ 5   Strengths 
+ 6   Weaknesses 
+ 7   References 
+ 
+ 
+ Lore 
+ " The messengers of the Inferno who burn everything in their path!!  
+ In times immemorial, these messengers of the inferno were sealed away inside the  Sacred Tree of the Naturia  along with the " Qli ". Their forms are said to be based on those of ancient monsters who were seized and captured. [1] 
+ 
+ Design 
+ Appearance 
+ The revealed "Infernoid" monsters look like mechanical demons. Their designs incorporate vintage computer components (such as the  decatron ) and the descriptions of their corresponding demons (such as  Adrammalech  " Attondel " having the tail of a peacock). The armor on their bodies is also decorated with the thick, latticework lines, similar to those that also adorn the " Qli " monsters, from which the "Infernoids" emanate. In general, each "Infernoid" has a number of canisters (as seen in " Void Seer ") on their body equal to their Level, and are colored according to the spheres of their corresponding "Qli" monster.  
+ 
+ Etymology 
+ The name of the archetype is a combination of the words  Inferno / Infernal  and  Android .
+ In the  OCG  — Each of the revealed  Level  7 and lower "Infernoid" monsters' names are corruptions of the names of Biblical/Kabbalistic demons, such as "Lucifuge" and "Beelzebub". The revealed high-Level monsters, such as "Nehemoth" and "Adramelech", use non-corrupted versions. Their Spell and Trap Cards are named after the  Purgatory . 
+ In the  TCG  — Presumably to avoid references to the occult or demonic entities, each "Infernoid" monster is named after an ordinal number in a different language that corresponds to its own Level ("Antra", for example, means "second" in Lithuanian, while "Onuncu" is Turkish/Azerbaijani for "tenth"). Their Spell/Trap support is termed  Void . 
+ 
+ Correspondence 
+ 
+ 
+ Level
+ 
+ Pyroxene 
+ 
+ English (TCG) name
+ 
+ Japanese (OCG) name
+ 
+ Language of TCG name
+ 
+ Origin
+ 
+ Qliphoth
+ 
+ Corresponding  Qliphort 
+ 
+ Opposing  Zefra 
+ 
+ 
+ 1
+ 
+ White
+ 
+ Pirmais 
+ 
+ Shaitan
+ 
+ Latvian
+ 
+ Satan 
+ 
+ Thaumiel 
+ 
+ Skybase 
+ 
+ Zefrasaber 
+ 
+ 
+ 2
+ 
+ Gray
+ 
+ Antra 
+ 
+ Beelzebul
+ 
+ Lithuanian
+ 
+ Beelzebub 
+ 
+ Ghagiel 
+ 
+ Stealth 
+ 
+ Zefraxciton 
+ 
+ 
+ 3
+ 
+ Black
+ 
+ Harmadik 
+ 
+ Lucifugus
+ 
+ Hungarian
+ 
+ Lucifuge Rofocale 
+ 
+ Sathariel 
+ 
+ Shell 
+ 
+ Zefraniu 
+ 
+ 
+ 4
+ 
+ Blue
+ 
+ Patrulea 
+ 
+ Astaroth
+ 
+ Romanian
+ 
+ Astaroth 
+ 
+ Gha'agsheblah 
+ 
+ Disk 
+ 
+ Zefraxi 
+ 
+ 
+ 5
+ 
+ Red
+ 
+ Piaty 
+ 
+ Asmodai
+ 
+ Polish
+ 
+ Asmodeus 
+ 
+ Golachab 
+ 
+ Cephalopod 
+ 
+ Zefrathuban 
+ 
+ 
+ 6
+ 
+ Yellow
+ 
+ Sjette 
+ 
+ Belphegor
+ 
+ Norwegian/Danish
+ 
+ Belphegor 
+ 
+ Thagirion 
+ 
+ Scout 
+ 
+ Zeframpilica 
+ 
+ 
+ 7
+ 
+ Green
+ 
+ Seitsemas 
+ 
+ Ba'al
+ 
+ Finnish
+ 
+ Baal 
+ 
+ A'arab Zaraq 
+ 
+ Carrier 
+ 
+ Zefrawendi 
+ 
+ 
+ 8
+ 
+ Orange
+ 
+ Attondel 
+ 
+ Adramelech
+ 
+ Swedish
+ 
+ Adramelech 
+ 
+ Samael 
+ 
+ Helix 
+ 
+ Zefraxa 
+ 
+ 
+ 9
+ 
+ Purple
+ 
+ Devyaty 
+ 
+ Lilith
+ 
+ Russian
+ 
+ Lilith 
+ 
+ Gamaliel 
+ 
+ Monolith 
+ 
+ Zefranaga 
+ 
+ 
+ 10
+ 
+ Multi-colors
+ 
+ Onuncu 
+ 
+ Nehemoth
+ 
+ Turkish/Azerbaijani
+ 
+ Nehemoth 
+ 
+ Naamah 
+ 
+ Towers 
+ 
+ Zefracore 
+ 
+ 
+ Playing style 
+ Breakdown 
+ The "Infernoid" monsters cannot be Normal Summoned/Set, and  must  be Special Summoned by banishing other "Infernoids" from the hand and/or Graveyard while the combined Levels or Ranks of all Effect Monsters you control is 8 or less. The Level 4 and lower "Infernoids" all require one to be banished, Levels 5 to 8 require the player to banish two "Infernoids", and the Level 9 and 10 require three "Infernoids" to be banished. All of them have either 0 ATK and/or 0 DEF, except for the Level 9 and 10, that have equal ATK/DEF. 
+ 
+ 
+ 
+ Infernoid
+ 
+ Unique effect
+ 
+ Timing of effect with "Tribute 1 monster" cost
+ 
+ Number of "Infernoid" monsters to be banished for summon
+ 
+ 
+ Pirmais 
+ 
+ Once per turn: Target 1 Set card on the field; shuffle it into the Deck.
+ 
+ During your opponent's turn (Quick Effect)
+ 
+ 1
+ 
+ 
+ Antra 
+ 
+ Once per turn: Target 1 face-up card your opponent controls; return it to the hand.
+ 
+ 
+ Harmadik 
+ 
+ Once per turn: Target 1 monster on the field; destroy it.
+ 
+ 
+ Patrulea 
+ 
+ Once per turn: Target 1 Spell/Trap on the field; destroy it.
+ 
+ 
+ Piaty 
+ 
+ When this card inflicts battle damage to your opponent by attacking an opponent's monster: You can send 1 random card from your opponent's hand to the Graveyard.
+ 
+ During either player's turn (Quick Effect)
+ 
+ 2
+ 
+ 
+ Sjette 
+ 
+ When this card declares an attack: You can banish 1 monster from your opponent's Extra Deck (their choice).
+ 
+ 
+ Seitsemas 
+ 
+ At the end of the Battle Phase in which this card attacked an opponent's monster: Banish 1 card on the field.
+ 
+ 
+ Attondel 
+ 
+ When this card destroys an opponent's monster by battle and sends it to the Graveyard: This card can make a second attack in a row.
+ 
+ 
+ Devyaty 
+ 
+ When this card is Special Summoned: You can destroy all Spells/Traps on the field, except "Void" cards.
+ 
+ Once per turn, when another monster's effect is activated (Quick Effect)
+ 
+ 3
+ 
+ 
+ Onuncu 
+ 
+ When this card is Special Summoned: You can destroy all other monsters on the field.
+ 
+ Once per turn, when a Spell/Trap Card or effect is activated (Quick Effect)
+ 
+ The Level 4 and lower "Infernoid" monsters can only be Special Summoned from the hand, and have effects that deal with removing individual cards on the field. Also, during the opponent's turn, they can Tribute a monster in order to banish any card in the opponent's Graveyard.
+ The Level 5 to 8 "Infernoid" monsters can be Special Summoned from either the hand or Graveyard and have offensive effects that activate when they battle a monster. Like the smaller "Infernoids", their secondary effects also allow the player to banish any one card from the opponent's Graveyard at the cost of Tributing a monster, but can be activated during either player's turn. During your turn, this can be used defensively to dodge effects or strategically to lower the combined Levels of monsters you control, allowing you to continue summoning more "Infernoids".
+ Lastly, " Infernoid Devyaty " and " Infernoid Onuncu " (Level 9 and 10 respectively), can also be Special Summoned from the Graveyard and have mass-removal effects that trigger upon their Special Summon. "Devyaty" destroys all Spell/Traps on the field, except " Void " Spell/Trap cards, while "Onuncu" wipes out all other monsters on the field. Their secondary effects each negate the activation of an effect, and banish the negated card, at the cost of a tribute. "Devyaty" negates Monster effects, and "Onuncu" negates Spell/Trap effects.
+ The archetype's first  Normal Summon Monster , " Infernoid Decatron ", is a  Tuner  monster that can send an "Infernoid" monster from your Deck to your Graveyard upon its summon to gain the sent monster's Level, and change its own name and effects to those of the sent monster. This allows great flexibility in that the effects of all other Main Deck "Infernoid" monsters are now easily accessible via "Decatron", without any need to Special Summon those monsters themselves. Sending "Infernoid" monsters to the Graveyard with the effect of "Decatron" allows them to be banished for the Special Summon of other "Infernoid" monsters or retrieved with " Void Purification ". The Level changing effect of "Decatron" and its Tuner status also enables the Deck to more-efficiently Synchro and Xyz Summon. 
+ 
+ "Void" support 
+ Because "Infernoids" need a steady supply of their brethren to banish for their summoning requirements, their themed support generally gravitates toward keeping the Graveyard stocked with "Infernoids". Other than that, the " Void " cards have various disruptive and defensive effects that allow for a  Control  playing style.
+ 
+ " Eye of the Void " can Special Summon an "Infernoid" monster from the hand, ignoring its  Summoning condition . This is sometimes useful for defense (against direct attacks, for example). 
+ " Void Imagination " lowers the levels of all "Infernoids" for further summoning, and can send itself and other "Infernoids" to the Graveyard to Fusion Summon " Infernoid Tierra ". It can also fill the Graveyard quickly, provided your opponent controls an Extra Deck Monster. 
+ " Void Expansion " is another card that aids in the Summoning process, as it allows "Infernoids" to be banished from the field and it produces fodder in the form of " Infernoid Tokens " during each of its owner's Standby Phases. It also protects your "Infernoids" from being targeted for attacks and/or effects, except the highest level "Infernoid" you control. 
+ " Void Launch " is useful, as it sends 2 "Infernoids" from the Deck to the Graveyard during its owner's Standby Phases. 
+ " Void Feast " summons 3 "Infernoid" directly from the Deck, speeding up future summons. 
+ " Void Purification " allows you to recycle resources during each Standby Phase. During your opponent's: add 1 "Infernoid" from your Graveyard to your hand. During yours: return 1 banished "Infernoid" to your Graveyard. 
+ " Void Seer " is like a themed " Forbidden " Quick-Play Spell Card can be chained to protect 1 "Infernoid" from any opponent's effects during that turn; in addition, it prevent an "Infernoid" monster from be destroyed by a card effect, by banishing itself from the Graveyard. NOTE: This secondary effect can be used even during the turn it is sent to the Graveyard. 
+ " Void Vanishment " adds any "Void" card from the deck to the hand by discarding one card. Also, when any "Infernoid" battles an opponent's monster, you can banish both battling monsters. This provides a controlled removal option similar to " D.D. Warrior " that can really help out in tough situations. 
+ Additional support 
+ " Reasoning ", " Monster Gate ", " Needlebug Nest ", etc.: used to fill the Graveyard with "Infernoids", setting up future "Infernoid" Summons, and in the case of " Reasoning " and " Monster Gate ", grabbing additional Monsters from the Deck to your side of the field. 
+ " Tour Guide From the Underworld " can immensely help the deck by making " Dante, Traveler of the Burning Abyss " with the Level 3 Fiend monster she Special Summons (usually " Scarm, Malebranche of the Burning Abyss  or " Fiendish Rhino Warrior ), milling 3 cards and using the Graveyard effects of the aformentioned two monsters. "Scarm" can search another Level 3 Fiend-Type monster other than itself during the End Phase, such as " Infernoid Harmadik ", while "Fiendish Rhino Warrior" can send any other Fiend-Type monster from your Deck to the GY, usually any "Infernoid" monster. 
+ " Card Trooper " is a decent level 3 monster to use in "Infernoid" to mill 3 cards to your GY, also giving you a draw if it gets destroyed. It is also a good monster to use with "Reasoning" and "Monster Gate" to grant further mills. 
+ " Burial from a Different Dimension " and " Miracle Dig ": can be used to recycle banished "Infernoid" monsters back to the Graveyard, setting up future "Infernoid" Summons. " Pot of Acquisitiveness " can be used to shuffle 3 banished "Infernoid" monsters (or any other face-up banished monster) into the Deck to grant a draw. 
+ Graveyard support : Cards such as " Peropero Cerperus ", " Galaxy Cyclone ", " Breakthrough Skill ", etc.: due to the likelihood of cards being randomly milled to the graveyard by other support, cards that have effects that activate from the Graveyard can really help out. 
+ Non-Effect Monsters : Since only the Levels/Ranks of Effect monsters count towards the Special Summon condition of the "Infernoids", it may be possible to fit non-Effect monsters on the Deck, such as " Gem-Knight Pearl ", " Scrap Archfiend ", " Gaia Knight, the Force of the Earth ", etc. 
+ Certain " Lightsworn " monsters, particularly " Lyla " and " Raiden ", can be helpful beyond their ability to mill cards. "Lyla" can be used to destroy  floodgates  that would normally cripple this Deck (i.e. " Vanity's Emptiness ", " Lose 1 Turn ", " Imperial Iron Wall "). "Raiden" can mill cards during your Main Phase and is a Level 4  Tuner , enabling you to mill 2 cards before using it for a  Synchro Summon  or to Summon a Rank 4  Xyz Monsters . Additionally, they can be searched for with " Charge of the Light Brigade ". 
+ Recommended cards 
+ 
+ Recommended cards Monsters   
+ Effect Monsters 
+ Infernoid Antra 
+ Infernoid Attondel 
+ Infernoid Devyaty 
+ Infernoid Harmadik 
+ Infernoid Onuncu 
+ Infernoid Patrulea 
+ Infernoid Piaty 
+ Infernoid Pirmais 
+ Infernoid Seitsemas 
+ Infernoid Sjette 
+ Card Trooper 
+ Ehren, Lightsworn Monk 
+ Electromagnetic Turtle 
+ Fiendish Rhino Warrior 
+ Fusion Parasite 
+ Lumina, Lightsworn Summoner 
+ Lyla, Lightsworn Sorceress 
+ Peropero Cerperus 
+ Tour Guide from the Underworld 
+ Tuner monsters 
+ Infernoid Decatron 
+ Raiden, Hand of the Lightsworn Extra Deck   
+ Fusion Monsters 
+ Infernoid Tierra 
+ Elder Entity N'tss 
+ Invoked Purgatrio 
+ Synchro Monsters 
+ Gaia Knight, the Force of Earth 
+ Phantasmal Lord Ultimitl Bishbaalkin 
+ Scrap Archfiend 
+ Ultimaya Tzolkin 
+ Other generic Synchro Monsters 
+ Xyz Monsters 
+ Gem-Knight Pearl 
+ Other generic Xyz Monsters requiring 2 Xyz Materials 
+ Link Monsters 
+ Duelittle Chimera 
+ Decode Talker 
+ Proxy Dragon 
+ Linkuriboh 
+ Link Spider Spells   &  Traps   
+ Spells 
+ Void Apocalypse 
+ Void Expansion 
+ Void Imagination 
+ Void Seer 
+ Void Vanishment 
+ Burial from a Different Dimension 
+ Charge of the Light Brigade 
+ Extra-Foolish Burial 
+ Foolish Burial 
+ Galaxy Cyclone 
+ Monster Gate 
+ One for One 
+ Pot of Acquisitiveness 
+ Reasoning 
+ Rekindling 
+ Traps 
+ Eye of the Void 
+ Void Launch 
+ Void Feast 
+ Void Purification 
+ Breakthrough Skill 
+ Fiend Comedian 
+ Fiend Griefing 
+ Lost Wind 
+ Mischief of the Gnomes 
+ Needlebug Nest 
+ Skill Prisoner 
+ The Phantom Knights of Shadow Veil 
+ Strengths 
+ "Infernoids" are potentially a very fast and offensive Deck. They are usually able to set up quickly with few cards and can unleash a barrage of powerful attackers, in a way similar to " Dragon Rulers ". The veritable boss-monsters of the deck feature mass-removal effects, strong stats, and the ability to negate card effects. And although their Summoning costs and conditions seem steep at first, when played skillfully, their utility can usually overcome the loss in card advantage. "Infernoids" can even on rare occasions perform OTKs by Summoning certain monsters in sequence.
+ In addition to strong, easily-Summoned attackers, they can put constant pressure on the opponent when set up. By using removal effects, defensive effects, and by constantly Summoning monsters, the opponent is forced to lose or consume their resources from the field and hand. The "Infernoids" must suffer losses in order to work effectively, but the opponent will usually suffer even greater ones. 
+ To reinforce this strength, "Infernoids" can also tribute monsters to banish cards from the opponent's Graveyard. This ability gives them a way to escape effects, strategize, and to cut the opponent off from resources at a crucial moment. Coupled with cards like "Void Vanishment", this allows "Infernoids" to control the game in a way akin to  Anti-Meta  Decks. 
+ With the addition of the searchable "Void Imagination", the archetype also has a card that can singularly inhibit the opponent—sometimes psyching them out into playing more slowly by not summoning Extra Deck monsters. Even if the opponent isn't intimidated by the presence of the card and summons anyway, then the card can allow for swarming. This can in turn facilitate the deck's own Extra Deck Summoning capability. The effect of " Infernoid Tierra " can also be used to potentially send three copies of " Elder Entity N'tss " from the Extra Deck to the Graveyard and result in the destruction of three of the opponent's cards or forcing them to waste resources by chaining their set cards earlier than planned.
+ Due to their relative lack of focus on the Extra Deck, the "Infernoid" play style is relatively unaffected by  Master Rule 4 . If anything, "Infernoid" decks benefit from it as  Link Monsters  do not have Levels or Ranks, making the restriction of the "Infernoid" monsters' summoning conditions less of an issue than Fusion, Synchro, and Xyz Summoning does.
+ 
+ Weaknesses 
+ The biggest way to counter  Infernoids  is to cut them off from banishing resources. They must banish cards from their hand or Graveyard in order to Special Summon themselves; cards that prevent banishing such as " Imperial Iron Wall ", " Chaos Hunter ", " Necrovalley ", etc. can prevent "Infernoid" players from being able to banish cards, effectively preventing them from being able to Summon at all. This also cuts them off from additional support such as " Peropero Cerperus ", " Galaxy Cyclone " and " Breakthrough Skill ". 
+ Cards that banish outright or that punish milling are also effective, such as " Masked HERO Dark Law ", " Macro Cosmos ", " Dimensional Fissure ", or " Earthshattering Event ".
+ Cutting them off from Special Summoning by means of the " Djinn  Lock" (currently Forbidden in the TCG), " Vanity's Emptiness " (also Forbidden in the TCG) or " Fossil Dyna Pachycephalo " can also shut down "Infernoids", since they cannot be Normal Summoned/Set. This forces "Infernoids" to rely on the very few monsters in their Deck they can Normal Summon/Set until they can get rid of the floodgate, forcing them to play slower and more defensively until they can remove it from the field.
+ Due to the low Trap Card count and occasional reliance on Spell Cards, cards that negate Spells such as " Imperial Order " can also slow down an "Infernoid" player.
+ In addition, due to the large number of high level monsters in this deck, " Evilswarm Ophion " can prove to be an extremely bothersome monster (if one is able to Summon it).
+ 
+ References 
+ 
+ 
+ ↑   The Organization  - New Duel Terminal World Lores 
+ 
+ 
+   
+" Infernoid " 「インフェルノイド」 Members 
+ Infernoid Antra Infernoid Attondel Infernoid Decatron Infernoid Devyaty Infernoid Harmadik Infernoid Onuncu Infernoid Patrulea Infernoid Piaty Infernoid Pirmais Infernoid Seitsemas Infernoid Sjette Infernoid Tierra Infernoid Token 
+ Support 
+ Infernoid Antra Infernoid Attondel Infernoid Decatron Infernoid Devyaty Infernoid Harmadik Infernoid Onuncu Infernoid Patrulea Infernoid Piaty Infernoid Pirmais Infernoid Seitsemas Infernoid Sjette Infernoid Tierra 
+ Eye of the Void Void Apocalypse Void Expansion Void Feast Void Imagination Void Launch Void Purification Void Seer Void Vanishment 
+ Related 
+ Darktellarknight Batlamyus El Shaddoll Anoyatyllis El Shaddoll Construct Tierra, Source of Destruction 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/83/Mat-StandardDuelRankings-Infernoid.png/revision/latest/scale-to-width-down/350?cb=20150115025756']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Fusion Monster(s)

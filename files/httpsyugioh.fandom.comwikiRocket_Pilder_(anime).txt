@@ -1,0 +1,100 @@
+Link: https://yugioh.fandom.com/wiki/Rocket_Pilder_(anime)
+
+Main card page: " Rocket Pilder " 
+ Rocket Pilder 
+ 
+ Japanese:   ロケット・パイルダー 
+ Romaji:   Roketto Pairudā 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Equip 
+ 
+ While the  equipped   monster  is  attacking , it cannot be  destroyed by battle . ( Damage calculation  is applied normally.) At the end of the  Damage Step  when the equipped monster attacks, the  attack target  monster loses  ATK  equal to the ATK of the equipped monster, until the  End Phase .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  5D's :  050 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ロケット・パイルダー 
+ 装備モンスターは戦闘では破壊されない。装備モンスターの攻撃を受けた相手モンスターの 攻撃力 は、このターンの エンドフェイズ 終了まで装備モンスターの攻撃力分ダウンする。この効果は自分のターンの バトルフェイズ 時でのみ発動する事ができる。 
+ 
+ 
+ Roketto Pairudā 
+ 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Leo 
+ 
+ 
+ Search categories 
+ 
+ Stat changes  
+ Your opponent's monsters lose ATK 
+ 
+ Attack  categories  
+ Equipped cannot be destroyed by battle 
+ 
+ 
+ 
+   " Rocket Pilder " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/e/e3/RocketPilder-JP-Anime-5D.png/revision/latest/scale-to-width-down/200?cb=20151112150428', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/2/28/RocketPilder-JP-Anime-5D-NC.png/revision/latest/scale-to-width-down/185?cb=20150707230227', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

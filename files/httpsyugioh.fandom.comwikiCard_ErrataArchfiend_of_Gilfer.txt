@@ -1,0 +1,108 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Archfiend_of_Gilfer
+
+
+ Archfiend of Gilfer 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Anime Manga Yu-Gi-Oh! Destiny Board Traveler Yu-Gi-Oh! Dungeon Dice Monsters 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ When this card is sent to the Graveyard, you can  activate its effect. You can then  equip it to a monster on the field , and this card will be treated as an Equip Spell Card that decreases the ATK of   the  equipped monster  by  500  points . 
+ When this card is sent to the Graveyard, you can  equip it to a  monster on the field .   The  equipped monster  loses  500  ATK . 
+ 
+ 
+       JMP-EN003 Shonen Jump Vol. 3, Issue 1 promotional card     
+       RP02-EN094 Retro Pack 2     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ When this card is sent to the Graveyard ,   you  can  select  1  monster on the field  and  equip  it  with this card .  The equipped  monster loses 500 ATK. 
+ When this card is sent to the Graveyard :   You  can  target  1  face-up  monster on the field ;  equip  that target  with this card.  That  monster loses 500 ATK  while equipped with this card . 
+ 
+ 
+       DT03-EN054 Duel Terminal 3     
+         LCYW-EN042 Legendary Collection 3: Yugi's World Mega Pack     
+ 
+ 
+ Japanese 
+ 
+ 
+ Original 
+ First erratum 
+ Second erratum 
+ 
+ 
+ このカードが墓地に送られた時 、装備 カード （ 攻撃力 ／－ ５００ ） となりフィールド上のモンスター１体に装備 させ る こと ができる。 攻  2200 守  2500 
+ このカードが墓地 に 送られた時 発動する事ができる。この カード は 攻撃力５００ ポイントダウンの装備カード扱い と なり 、 フィールド上の モンスター １体 に装備 す る 事 ができる 。 ATK/ 2200  DEF/ 2500 
+ このカードが墓地 へ 送られた時 、フィールド上に存在するモンスター１体を選択して 発動 する事が できる。このカード を 攻撃力５００ポイントダウンの装備カード扱いと して 、 選択した モンスターに装備する。 
+ 
+ 
+         WJ-01 Weekly Shōnen Jump 2001, Issue 11 promotional card     
+         305-053 Threat of the Dark Demon World     
+         DT06-JP004 Duel Terminal - Dragunity of the Hurricane!!     
+ 
+ 
+ Third erratum 
+ Fourth erratum   
+ 
+ 
+ 【悪魔族 ・ 効果】 
+ 【悪魔族 ／ 効果】 
+ 
+ 
+ このカードが墓地へ送られた時、フィールド 上に 表側表示 で 存在する モンスター１体を 選択 して発動できる。このカードを攻撃力５００ ポイント ダウンの装備カード扱いとして 、選択した モンスターに装備する。 
+ ①： このカードが墓地へ送られた時、フィールド の 表側表示モンスター１体を 対象と して発動できる。 墓地の このカードを攻撃力５００ダウンの装備カード扱いとして その モンスターに装備する。 
+ 
+ 
+         AT02-JP004 Advanced Tournament Pack 2013 Vol.2     
+         DP16-JP011 Duelist Pack: Battle City     
+ 
+ 
+ Korean 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ 이 카드가 묘지로 보내졌을 때 발동할 수 있다. 이 카드는 공격력을 500 포인트 내리는 장착 카드로 취급되어, 필드 위의 몬스터 1장에 장착할 수 있다. 
+ ??? 
+ 
+ 
+         ESP3-KR070 Expansion Pack Vol.3     
+         AE01-KR022 Advanced Event Pack 2013 Vol.1     
+ 
+ 
+ Second erratum 
+ Third erratum 
+ 
+ 
+ ①: 이 카드가 묘지로 보내졌을 때, 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 묘지의 이 카드를 공격력 500 내리 고  장착 카드 취급하여 그 몬스터에 장착한다. 
+ ①: 이 카드가 묘지로 보내졌을 때, 필드의 앞면 표시 몬스터 1장을 대상으로 하고 발동할 수 있다. 묘지의 이 카드를 공격력 500 내리 는  장착 카드 로  취급하여 그 몬스터에 장착한다. 
+ 
+ 
+         DP16-KR011 Duelist Pack: Battle City     
+         [수정공지] 유희왕 부스터 카드 효과 텍스트 에라타 수정     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/9b/ArchfiendofGilfer-JMP-EN-UR-LE.png/revision/latest/scale-to-width-down/180?cb=20080823030351', 'https://static.wikia.nocookie.net/yugioh/images/b/b5/ArchfiendofGilfer-RP02-EN-ScR-UE.png/revision/latest/scale-to-width-down/180?cb=20150504024911', 'https://static.wikia.nocookie.net/yugioh/images/4/4c/ArchfiendofGilfer-DT03-EN-DNPR-DT.jpg/revision/latest/scale-to-width-down/180?cb=20101010171623', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/d/dd/ArchfiendofGilfer-LCYW-EN-R-1E.jpg/revision/latest/scale-to-width-down/180?cb=20121004142521', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c3/ArchfiendofGilfer-WJ-JP-UR.jpg/revision/latest/scale-to-width-down/180?cb=20070301150526', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/35/ArchfiendofGilfer-305-JP-UtR.jpg/revision/latest/scale-to-width-down/180?cb=20070420021917', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c1/ArchfiendofGilfer-DT06-JP-DNPR-DT.jpg/revision/latest/scale-to-width-down/180?cb=20090805053409', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/3/37/ArchfiendofGilfer-AT02-JP-C.png/revision/latest/scale-to-width-down/180?cb=20130629211426', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/e9/ArchfiendofGilfer-DP16-JP-C.png/revision/latest/scale-to-width-down/180?cb=20150605082853', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/4/4b/ArchfiendofGilfer-ESP3-KR-GUR-UE.jpg/revision/latest/scale-to-width-down/180?cb=20090105011530', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/70/Back-KR.png/revision/latest/scale-to-width-down/180?cb=20100726075833', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/1/17/ArchfiendofGilfer-DP16-KR-C-UE.png/revision/latest/scale-to-width-down/180?cb=20161016133711', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/7/70/Back-KR.png/revision/latest/scale-to-width-down/180?cb=20100726075833']
+Categories: Card Errata, Cards with 3 errata, Cards with card type errata, Cards with 4 errata, Cards with Japanese errata, Cards with Korean errata

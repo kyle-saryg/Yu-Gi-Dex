@@ -1,0 +1,35 @@
+Link: https://yugioh.fandom.com/wiki/Card_Errata:Amulet_of_Ambition
+
+
+ Amulet of Ambition 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ Yu-Gi-Oh! BAM 
+ 
+ English 
+ 
+ 
+ Original 
+ First erratum 
+ 
+ 
+ Equip only to a Normal Monster. If it battles a monster with a higher Level, the equipped monster gains 500 ATK x the difference in Levels  ( during that  battle  only ) . When this card is sent to the  Graveyard,   you  can  return  it  to the  top of  the  Deck. 
+ Equip only to a Normal Monster. If it battles a monster with a higher Level, the equipped monster gains 500 ATK x the difference in Levels ,  during that  damage calculation  only. When this card is sent to the  GY:   You  can  place  it  on  top of  your  Deck. 
+ 
+ 
+       TAEV-EN061 Tactical Evolution     
+       SS03-ENB23 Speed Duel Starter Decks: Ultimate Predators     
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/0/01/AmuletofAmbition-TAEV-EN-C-1E.jpg/revision/latest/scale-to-width-down/180?cb=20070906023935', 'https://static.wikia.nocookie.net/yugioh/images/0/01/AmuletofAmbition-SS03-EN-C-1E.png/revision/latest/scale-to-width-down/180?cb=20200404202857']
+Categories: Card Errata, Cards with 1 erratum

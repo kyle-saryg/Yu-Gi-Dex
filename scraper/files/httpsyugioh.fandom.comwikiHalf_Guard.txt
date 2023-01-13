@@ -1,0 +1,106 @@
+Link: https://yugioh.fandom.com/wiki/Half_Guard
+
+
+ The Japanese (OCG) version of this card is not a member of the " Guard "  archetype , because its Japanese name does not contain  「 Ｇ 」 .   As its English name contains "Guard", it  may  be treated a member of the "Guard" archetype at a TCG event, subject to local rulings.     
+ Half Guard 
+ 
+ Japanese:   ハーフ・ガード 
+ Romaji:   Hāfu Gādo 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Trap   
+ 
+ Property 
+ 
+ 
+ Normal 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Activation requirement 
+ Effect 
+ If an  Attack Position   monster  you  control  would be  destroyed by battle : It cannot be  destroyed  by that  battle , and after  damage calculation , change it to  Defense Position .
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  065 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Italian 
+ Mezza Guardia 
+ 
+ 
+ 
+ Japanese 
+ ハーフ・ガード 
+ 自分フィールド上に表側攻撃表示で存在するモンスター１対が攻撃された時に発動する事が出来る。そのモンスターはこの戦闘では破壊されず、ダメージ計算終了後に表示形式は守備表示になる。 
+ 
+ 
+ Hāfu Gādo 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Yuma Tsukumo 
+ 
+ 
+ Search categories 
+ 
+ Actions  
+ Changes battle positions 
+ 
+ Attack  categories  
+ Cannot be destroyed by battle 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/a/a2/HalfGuard-JP-Anime-ZX.jpg/revision/latest/scale-to-width-down/200?cb=20120723110834', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/c/c8/HalfGuard-OW.png/revision/latest/scale-to-width-down/185?cb=20140131175622', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

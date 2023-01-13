@@ -1,0 +1,8 @@
+Link: https://yugioh.fandom.com/wiki/Property:English_set_and_region_prefix
+
+This indicates the combined set and language prefix for what an English  TCG  set has. It uses  string  values.
+ 
+ 
+ 
+ 
+Categories:

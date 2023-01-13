@@ -1,0 +1,277 @@
+Link: https://yugioh.fandom.com/wiki/PSY-Frame
+
+
+ 
+ PSY-Frame 
+ ＰＳＹフレーム 「 サイフレーム 」  ( Saifurēmu ) 
+ 
+ 
+ 
+ 
+ " Driver " equipping itself with " Alpha ", " Beta ", " Gamma ", " Delta " and " Epsilon " to transform into " Omega " in the artwork of " PSY-Frame Circuit ". 
+ 
+ 
+ Other names 
+ 
+ French 
+ Structure-PSY 
+ 
+ 
+ German 
+ PSI-Hülle 
+ 
+ 
+ Italian 
+ PSI-Struttura 
+ 
+ 
+ Korean 
+ 2= PSY프레임 「 싸이프레임 」   Ssaipeureim   (romanized) 
+ 
+ 
+ Portuguese 
+ PSÍ-Armação 
+ 
+ 
+ Spanish 
+ Armazón-PSÍ 
+ 
+ 
+ 
+ Sets 
+ 
+ 
+ Sets 
+ 
+ 
+ Invasion: Vengeance 
+ 
+ 
+ 
+ 
+ TCG  Sets 
+ 
+ 
+ High-Speed Riders Battles of Legend: Light's Revenge 2017 Mega-Tin Mega Pack Battles of Legend: Hero's Revenge Duel Overload Toon Chaos Maximum Gold: El Dorado 
+ 
+ 
+ 
+ 
+ OCG  Sets 
+ 
+ 
+ Booster SP: Highspeed Riders Rarity Collection 20th Anniversary Edition LINK VRAINS Pack 2 20th Secret Rare Challenge Pack 
+ 
+ 
+ 
+ 
+ Korea-Only Sets 
+ 
+ 
+ Advanced Event Pack 2017 Vol.2 Special Pack Vol.1 
+ 
+ 
+ 
+ 
+ Lists 
+ 
+ 
+ Members Support 
+ 
+ 
+ 
+ 
+ "PSY-Frame"  ( ＰＳＹ フレーム  Saifurēmu ) is an  archetype  of  LIGHT   Psychic   monsters  debuting in  Booster SP: Highspeed Riders .
+ 
+ Contents 
+ 
+ 1   Design 
+ 2   Members 
+ 3   Playing style 
+ 4   Weaknesses 
+ 5   Recommended cards 
+ 6   Trivia 
+ 
+ 
+ Design 
+ This archetype appears to be an evolution of the " Vylon " monsters, as they are similar in appearance, focus on  Synchro Summon , share the same Attribute of LIGHT, and are named after letters after the Greek alphabet. Their gameplay also appears similar to the " Genex " archetype, with multiple  Effect Monsters  supporting one key  Normal Monster  (" Genex Controller " and " PSY-Frame Driver ").
+ The archetype primarily consists of " PSY-Frame Driver "/" PSY-Frame Multi-Threader " and several "PSY-Framegears" which are donned by "Driver" to form more powerful monsters (the  Synchro Monsters ).
+ 
+ Members 
+ 
+ 
+ Monster
+ 
+ Greek Letter
+ 
+ 
+ PSY-Framegear Alpha 
+ 
+ Alpha 
+ 
+ 
+ PSY-Framegear Beta 
+ 
+ Beta 
+ 
+ 
+ PSY-Framegear Gamma 
+ 
+ Gamma 
+ 
+ 
+ PSY-Framegear Delta 
+ 
+ Delta 
+ 
+ 
+ PSY-Framegear Epsilon 
+ 
+ Epsilon 
+ 
+ 
+ PSY-Framelord Zeta 
+ 
+ Zeta 
+ 
+ 
+ PSY-Framelord Lambda 
+ 
+ Lambda 
+ 
+ 
+ PSY-Framelord Omega 
+ 
+ Omega 
+ 
+ Playing style 
+ The core strategy of the archetype consists of a single basic move: using the "PSY-Framegears" as  hand traps  to disrupt the opponent's moves while Special Summoning themselves alongside " PSY-Frame Driver ", performing a Synchro Summon during the opponent's turn with " PSY-Frame Circuit " if possible.
+ The archetype also gains banish centered additional effects with " PSY-Frame Overload " and the Synchro Monsters, " PSY-Framelord Omega " and " PSY-Framelord Zeta ", allowing the player to manipulate their own banished cards while banishing the opponent's to further disrupt their moves. By banishing themselves along with the opponent's cards, the "PSY-Framelords" can temporarily leave the field in order to pave the way to the "PSY-Framegears" to trigger their effect, so the hand trap effects of the "Gears" together with these quick banishing effects can have a great impact on the opponent's strategy, countering many moves they could perform. Since the Synchro Monsters return themselves to the field during the stand-by phase, they can return to a  Main Monster Zone , allowing you to Synchro Summon one at a time, and return them all at once.
+ Being a Synchro and banish-centered Psychic archetype, "PSYFrame" has great synergy with general Psychic support such as " Esper Girl ", " Psychic Feel Zone ", " Psychic Path ", " Bright Future " and " Past Image ", for example.
+ Since the archetype requires to have no monsters on your side of the field, it is typically hard to mix it with other archeypes, so you can use it with archetypes like  Yosenju  that leave the field empty by the end of your turn. It is recommended to use cards like  Dark Hole  and  Torrential Tribute  to destroy both sides of the field. Use cards like  Drowning Mirror Force , which work well with the archetype, since your opponent will most likely attack directly.
+ Since all of the Tuner Monsters in the archetype search  PSY-Frame Driver  from your deck, most of the time you wouldn't typically want to have it in your hand. However, if you do happen to draw it, you can use  PSY-Frame Circuit's  effect to discard Psy-Frame Driver to increase  PSY-Framelord Zeta's  attack to 5000, or  PSY-Framelord Omega's  attack to 5300.
+ In competitive play, the most popular PSY-Frame handtrap has been Gamma, ironically for its power to stop other handtraps like  Ash Blossom & Joyous Spring  or  Droll & Lock Bird , so you can play powerful search/draw Spells like  Pot of Desires  and  Terraforming  without interruption. These decks rarely play more than one Driver or other PSY-Frames, however. The PSY-Framelords being generic has helped their popularity, as they are playable in nearly all decks. Indeed, Summoning 2-3 Omega on your opening turn (without having to  Link Summon  of course) was viewed to be so powerful that Omega was  Limited , however dedicated PSY-Frame decks do not suffer too badly from this, as Omega can recycle itself if it is destroyed.
+ 
+ Weaknesses 
+ The archetype's dependence to "PSY-Frame Driver" makes it vulnerable to cards such as " Prohibition ". Furthermore, the effect of the "PSY-Framegears" require the player to control no monsters to be activated, so unless you use the self-banishing effects of the "PSY-Frame" Synchro Monsters during your opponent's turn, you usually won't be able to trigger more than one "Gear" per turn. This also makes "PSY-Frames" a tricky archetype, because while they can disrupt the opponent's moves acting as hand traps, they are also dependent to the opponent's moves, meaning that if you don't have the right "Gears" in the right moment, you might not be able to trigger their effects. Since all the "PSY-Framegears" are Hand traps, cards like " Mind Drain " and " Debunk " can stop the deck dead in its tracks.
+ The deck also relies heavily on their field spell, and on PSY-Frame Driver, so you can aim to destroy the field spell as soon as you can (be careful of hand traps when you activate an effect), or banish PSY-Frame Driver.
+ This archetype is also vulnerable to cards that can Special Summon monster(s) to your side of the field, such as " Black Garden ", " Grinder Golem ", etc., since your opponent can play normally while you control a monster and just leave that monster alone until they are prepared to counter the "PSY-Framegear" monster on your hand.
+ This deck also tends to struggle against the " Kaiju " archetype, and vice-versa. As both decks require the opponent to be able to make plays to counter, each Deck will be forced to stall against the other.
+ 
+ Recommended cards 
+ 
+ Recommended cards Monsters   
+ Normal Monsters 
+ PSY-Frame Driver 
+ Effect Monsters 
+ PSY-Frame Multi-Threader 
+ Cardcar D 
+ Genetic Woman 
+ Honest 
+ Serene Psychic Witch 
+ Amano-Iwato 
+ Wind-Up Rabbit 
+ Zaborg the Mega Monarch 
+ Barrier Statue of the Heavens 
+ Sangan 
+ Witch of the Black Forest 
+ Neo-Spacian Grand Mole 
+ Kinka-Byo 
+ Artifact Lancea 
+ Tuner monsters 
+ PSY-Framegear Alpha 
+ PSY-Framegear Beta 
+ PSY-Framegear Delta 
+ PSY-Framegear Epsilon 
+ PSY-Framegear Gamma 
+ Ghost Ogre & Snow Rabbit 
+ Masked Chameleon Extra Deck   
+ Synchro Monsters 
+ PSY-Framelord Omega 
+ PSY-Framelord Zeta 
+ Black Rose Dragon 
+ Stardust Dragon 
+ Scrap Dragon 
+ Yazi, Evil of the Yang Zing 
+ Dark Strike Fighter 
+ Xyz Monsters 
+ Time Thief Redoer 
+ Leviair the Sea Dragon 
+ Beatrice, Lady of the Eternal 
+ Link Monsters 
+ PSY-Framelord Lambda Spells   &  Traps   
+ Spells 
+ PSY-Frame Circuit 
+ Autonomous Action Unit 
+ Book of Eclipse 
+ Burial from a Different Dimension 
+ Pot of Acquisitiveness 
+ Dark Hole 
+ Emergency Teleport 
+ Hidden Armory 
+ D.D.R. - Different Dimension Reincarnation 
+ Living Fossil 
+ Overdone Burial 
+ Light of Redemption 
+ One for One 
+ Psychic Feel Zone 
+ Psychic Path 
+ Soul Absorption 
+ Terraforming 
+ Pot of Duality 
+ Pot of Desires 
+ Gold Sarcophagus 
+ Ledger of Legerdemain 
+ Legacy of the Duelist 
+ White Elephant's Gift 
+ Celestial Observatory 
+ Dimensional Fissure 
+ Traps 
+ PSY-Frame Accelerator 
+ PSY-Frame Overload 
+ Brain Hazard 
+ Bright Future 
+ Mind Over Matter 
+ Psychic Overload 
+ Spiritual Light Art - Hijiri 
+ Evenly Matched 
+ Infinite Impermanence 
+ Urgent Tuning 
+ Drowning Mirror Force 
+ King's Synchro 
+ King's Consonance 
+ Dark Factory of More Production 
+ Summon Limit 
+ Macro Cosmos 
+ Imperial Order 
+ Powersink Stone 
+ Soul Drain 
+ Torrential Tribute 
+ Zero Force 
+ Trivia 
+ In their Japanese names, the names of the "PSY-Framegears" includes a lowercase Greek letters to denote their name whereas the names of the "PSY-Framelords" include uppercase Greek letters. 
+ The PSY-Frame archetype as a whole seem to have a  Kamen Rider  reference, either to  Heisei Era Riders  as a whole (who have different powers based on their different forms/gear, as well as the main monster being named "Driver", a name also used for  every transformation device used by Heisei Phase 2 Riders ), or strictly to the show  Kamen Rider 555  (which also uses Greek letters in its themes). 
+ v e 
+ PSY-Frame  cards 
+   
+" PSY-Frame " 「 ＰＳＹ フレーム」 Members 
+ PSY-Frame Driver PSY-Frame Multi-Threader PSY-Framegear Alpha PSY-Framegear Beta PSY-Framegear Delta PSY-Framegear Epsilon PSY-Framegear Gamma PSY-Framelord Lambda PSY-Framelord Omega PSY-Framelord Zeta 
+ PSY-Frame Accelerator PSY-Frame Circuit PSY-Frame Overload 
+ Support 
+ PSY-Frame Multi-Threader PSY-Framegear Alpha PSY-Framelord Lambda PSY-Framelord Zeta 
+ PSY-Frame Accelerator PSY-Frame Circuit PSY-Frame Overload 
+ Related 
+ Wattsychic Fighter 
+ 
+   
+" PSY-Framegear " 「 ＰＳＹ フレームギア」 Members 
+ PSY-Framegear Alpha PSY-Framegear Beta PSY-Framegear Delta PSY-Framegear Epsilon PSY-Framegear Gamma 
+ Support 
+ PSY-Framelord Lambda 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/3f/PSYFrameArchetype.png/revision/latest/scale-to-width-down/350?cb=20151015131059']
+Categories: Archetypes, TCG and OCG archetypes, Archetypes with Synchro Monster(s), Archetypes with Link Monster(s)

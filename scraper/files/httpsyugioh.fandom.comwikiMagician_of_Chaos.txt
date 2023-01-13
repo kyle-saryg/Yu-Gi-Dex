@@ -1,0 +1,291 @@
+Link: https://yugioh.fandom.com/wiki/Magician_of_Chaos
+
+
+ The Japanese (OCG) version of this card is not a member of the " Magician "  archetype , because its Japanese name does not contain  「 魔 術 師 」 .   As its English name contains "Magician", it  may  be treated a member of the "Magician" archetype at a TCG event, subject to local rulings.     
+ 
+ 
+ 
+ 
+ 
+ Magician of Chaos マジシャン・オブ・カオス 
+ 
+ English 
+Magician of Chaos 
+ French 
+ Magicien du Chaos Check translation 
+ German 
+ Magier des Chaos Check translation 
+ Italian 
+ Mago del Chaos Check translation 
+ Korean 
+ 매지션 오브 카오스 Check translation 
+ Portuguese 
+ Mago do Caos Check translation 
+ Spanish 
+ Mago del Caos Check translation 
+ Japanese 
+ マジシャン・オブ・カオス Check translation 
+ Japanese ( rōmaji ) 
+Majishan Obu Kaosu 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Spellcaster  /  Ritual  /  Effect 
+ Level 
+ 7   
+ ATK  /  DEF 
+ 2500  /  2100 
+ Passcode 
+ 47963370 
+ Ritual Spell Card  required 
+ 
+ 
+ " Chaos Form "  
+ Card effect types 
+ 
+ 
+ Summon 
+ Unclassified 
+ Quick 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+You can  Ritual Summon  this card with " Chaos Form ". This card's name becomes " Dark Magician " while on the  field  or in the  GY .  Once per turn , when a  Spell / Trap Card  or  effect  is  activated  ( Quick Effect ): You can  target  1 card on the  field ;  destroy  it. If this Ritual Summoned card is  destroyed by battle  or card effect: You can  Special Summon  1 " Chaos " or " Black Luster Soldier "  Ritual Monster  from your  hand , except "Magician of Chaos", ignoring its  Summoning conditions . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Vous pouvez Invoquer Rituellement cette carte avec "Forme du Chaos". Le nom de cette carte devient "Magicien Sombre" tant qu'elle est sur le Terrain ou dans le Cimetière. Une fois par tour, lorsqu'une Carte Magie/Piège ou effet de Magie/Piège est activé (Effet Rapide) : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la. Si cette carte Invoquée Rituellement est détruite au combat ou par un effet de carte : vous pouvez Invoquer Spécialement 1 Monstre Rituel "Chaos" ("Magicien du Chaos" exclu) ou "Soldat du Lustre Noir" depuis votre main, en ignorant ses conditions d'Invocation. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Du kannst diese Karte mit „Chaosform“ als Ritualbeschwörung beschwören. Der Name dieser Karte wird zu „Dunkler Magier“, solange sie auf dem Spielfeld oder im Friedhof liegt. Einmal pro Spielzug, wenn eine Zauber-/Fallenkarte oder ein Zauber-/Falleneffekt aktiviert wird (Schnelleffekt): Du kannst 1 Karte auf dem Spielfeld wählen; zerstöre sie. Falls diese als Ritualbeschwörung beschworene Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 1 „Chaos“- oder „Schwarz Glänzender Soldat“-Ritualmonster als Spezialbeschwörung von deiner Hand beschwören, außer „Magier des Chaos“, ungeachtet seiner Beschwörungsbedingungen. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Puoi Evocare tramite Rituale questa carta con "Forma del Chaos". Il nome di questa carta diventa "Mago Nero" mentre è sul Terreno o nel Cimitero. Una volta per turno, quando viene attivata una Carta Magia/Trappola o un suo effetto (Effetto Rapido): puoi scegliere come bersaglio 1 carta sul Terreno; distruggila. Se questa carta Evocata tramite Rituale viene distrutta in battaglia o dall'effetto di una carta: puoi Evocare Specialmente 1 Mostro Rituale "Chaos" o "Glorioso Soldato Nero" dalla tua mano, eccetto "Mago del Chaos", ignorando le sue condizioni di Evocazione. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Você pode Invocar este card por Invocação-Ritual com "Forma do Caos". O nome deste card se torna "Mago Negro" enquanto estiver no campo ou no Cemitério. Uma vez por turno, quando um Card de Magia/Armadilha ou seus efeitos for ativado (Efeito Rápido): você pode escolher 1 card no campo; destrua-o. Se este card Invocado por Invocação-Ritual for destruído em batalha ou por um efeito de card: você pode Invocar por Invocação-Especial 1 Monstro de Ritual "Caos" ou "Soldado do Lustro Negro" da sua mão, exceto "Mago do Caos", ignorando suas condições de Invocação. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Puedes Invocar esta carta por Ritual con "Forma del Caos". El nombre de esta carta se convierte en "Mago Oscuro" mientras está en el Campo o en el Cementerio. Una vez por turno, cuando una Carta Mágica/de Trampa o su efecto es activado (Efecto Rápido): puedes seleccionar 1 carta en el Campo; destrúyela. Si esta carta Invocada por Ritual es destruida en batalla o por el efecto de una carta: puedes Invocar de Modo Especial, desde tu mano, 1 Monstruo de Ritual "Caos" o "Soldado del Brillo Negro", excepto "Mago del Caos", ignorando sus condiciones de Invocación. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「カオス・フォーム」により降臨。①：このカードのカード名は、フィールド・墓地に存在する限り「ブラック・マジシャン」として扱う。②：１ターンに１度、魔法・罠カードの効果が発動した時、フィールドのカード１枚を対象として発動できる。そのカードを破壊する。③：儀式召喚したこのカードが戦闘・効果で破壊された場合に発動できる。手札から「マジシャン・オブ・カオス」以外の「カオス」儀式モンスター１体を召喚条件を無視して特殊召喚する。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "카오스 폼"에 의해 의식 소환. ①: 이 카드의 카드명은, 필드 / 묘지에 존재하는 한 "블랙 매지션"으로 취급한다. ②: 1턴에 1번, 마법 / 함정 카드의 효과가 발동했을 때, 필드의 카드 1장을 대상으로 하고 발동할 수 있다. 그 카드를 파괴한다. ③: 의식 소환한 이 카드가 전투 / 효과로 파괴되었을 경우에 발동할 수 있다. 패에서 "매지션 오브 카오스" 이외의 "카오스" 의식 몬스터 1장을 소환 조건을 무시하고 특수 소환한다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2019-04-03 DUPO-EN001 Duel Power Ultra Rare 2022-07-21 LDS3-EN089 Legendary Duelists: Season 3 Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2019-04-04 DUPO-FR001 Duel Power Le Pouvoir du Duel Ultra Rare 2022-07-21 LDS3-FR089 Legendary Duelists: Season 3 Duellistes Légendaires : Saison 3 Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2019-04-04 DUPO-DE001 Duel Power Duel Power Ultra Rare 2022-07-21 LDS3-DE089 Legendary Duelists: Season 3 Legendary Duelists: Season 3 Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2019-04-04 DUPO-IT001 Duel Power l Potere del Duello Ultra Rare 2022-07-21 LDS3-IT089 Legendary Duelists: Season 3 Duellanti Leggendari: Stagione 3 Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2019-04-04 DUPO-PT001 Duel Power O Poder do Duelo Ultra Rare 2022-07-21 LDS3-PT089 Legendary Duelists: Season 3 Duelistas Lendários: Temporada 3 Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2019-04-04 DUPO-SP001 Duel Power El Poder del Duelo Ultra Rare 2022-07-21 LDS3-SP089 Legendary Duelists: Season 3 Duelistas Legendarios: Temporada 3 Ultra Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2018-12-22 20TH-JPB01 20th Anniversary Duelist Box ２０ｔｈ ＡＮＮＩＶＥＲＳＡＲＹ ＤＵＥＬＩＳＴ ＢＯＸ Ultra Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2019-02-12 CHBI-KRB01 20th Anniversary Duelist Box CHRONICLE   BINDER Ultra Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Dark Magician 
+ Ritual Monster 
+ 
+ Archetypes  and  series   
+ Chaos 
+ 
+ Supports   archetypes   
+ Chaos 
+ Black Luster Soldier  
+ 
+ Related to  archetypes  and  series   
+ Dark Magician  
+ 
+ Actions  
+ Activates if destroyed by battle 
+ Activates if destroyed by card effect 
+ 
+ Stat changes  
+ Changes own name while on the field 
+ Changes own name while in the GY 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys Monster Cards 
+ Destroys Spell Cards 
+ Destroys Trap Cards 
+ 
+ Summoning  categories  
+ Special Summons from your hand 
+ Ignoring its Summoning conditions 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 14213 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Black Luster Soldier " 「カオス・ソルジャー」 Members 
+ Black Luster Soldier Black Luster Soldier Black Luster Soldier - Envoy of the Beginning Black Luster Soldier - Envoy of the Evening Twilight Black Luster Soldier - Sacred Soldier Black Luster Soldier - Soldier of Chaos Black Luster Soldier - Super Soldier The Legendary Swordmaster Black Luster Soldier Toon Black Luster Soldier 
+ Support 
+ Arisen Gaia the Fierce Knight Beginning Knight Charging Gaia the Fierce Knight Envoy of Chaos Evening Twilight Knight Magician of Chaos Master of Chaos Super Soldier Soul 
+ Beginning of Heaven and Earth Chaos Form Gateway to Chaos Super Soldier Rebirth Super Soldier Ritual Super Soldier Shield Super Soldier Synthesis 
+ Related 
+ Blue-Eyes Ultimate Dragon Chaos Emperor Dragon - Envoy of the End Dark Magician Dragon Master Knight Elemental HERO Neos Knight Gaia The Fierce Knight 
+ Black Luster Ritual Primal Seed Toon World 
+ 
+   
+" Chaos " 「カオス」 Members 
+ Black Luster Soldier Black Luster Soldier Black Luster Soldier - Envoy of the Beginning Black Luster Soldier - Envoy of the Evening Twilight Black Luster Soldier - Sacred Soldier Black Luster Soldier - Soldier of Chaos Black Luster Soldier - Super Soldier Blue-Eyes Chaos Dragon Blue-Eyes Chaos MAX Dragon CXyz Barian Hope CXyz Battleship Cherry Blossom CXyz Coach Lord Ultimatrainer CXyz Comics Hero Legend Arthur CXyz Dark Fairy Cheer Girl CXyz Mechquipped Djinn Angeneral CXyz N.As.Ch. Knight CXyz Simon the Great Moral Leader CXyz Skypalace Babylon Chaos Ancient Gear Giant Chaos Archfiend Chaos Beast Chaos Betrayer Chaos Command Magician Chaos Core The Chaos Creator Chaos Daedalus Chaos Emperor Dragon - Envoy of the End Chaos Emperor, the Dragon of Armageddon Chaos Goddess Chaos Grepher Chaos Hunter Chaos King Archfiend Chaos Mirage Dragon Chaos Necromancer Chaos Nephthys Chaos Ruler, the Chaotic Magical Dragon Chaos Sorcerer Chaos Witch Chaos-End Master Chaosrider Gustaph Contrast HERO Chaos Core of Chaos D/D/D Chaos King Apocalypse Elemental HERO Chaos Neos Illusion of Chaos Kamionwizard The Legendary Swordmaster Black Luster Soldier Magician of Black Chaos Magician of Black Chaos MAX Magician of Chaos Master of Chaos Morphing Jar #2 Number C1: Numeron Chaos Gate Sunya Number C5: Chaos Chimera Dragon Number C6: Chronomaly Chaos Atlandis Number C9: Chaos Dyson Sphere Number C15: Gimmick Puppet Giant Hunter Number C32: Shark Drake Veiss Number C39: Utopia Ray Number C39: Utopia Ray V Number C39: Utopia Ray Victory Number C40: Gimmick Puppet of Dark Strings Number C43: High Manipulator of Chaos Number C65: King Overfiend Number C69: Heraldry Crest of Horror Number C73: Abyss Supra Splash Number C80: Requiem in Berserk Number C88: Gimmick Puppet Disaster Leo Number C92: Heart-eartH Chaos Dragon Number C96: Dark Storm Number C1000: Numerounius Number C101: Silent Honor DARK Number C102: Archfiend Seraph Number C103: Ragnafinity Number C104: Umbral Horror Masquerade Number C105: Battlin' Boxer Comet Cestus Number C106: Giant Red Hand Number C107: Neo Galaxy-Eyes Tachyon Dragon Number iC1000: Numerounius Numerounia Phantom of Chaos Shell of Chaos Sphere of Chaos Toon Black Luster Soldier Ultimate Dragonic Utopia Ray Ultimate Leo Utopia Ray 
+ Barian's Chaos Draw Black Luster Ritual Black Magic Ritual Chaos Burst Chaos End Chaos Form Chaos Greed Chaos Infinity Chaos Phantasm Chaos Space Chaos Trap Hole Chaos Zone Eternal Chaos Gateway to Chaos Numeron Chaos Ritual Rank-Up-Magic Argent Chaos Force Rank-Up-Magic Quick Chaos Tachyon Chaos Hole Yellow Luster Shield 
+ Support 
+ Chaos Archfiend Magician of Chaos Master of Chaos 
+ Chaos Form 
+ Related 
+ Battlecruiser Dianthus Beginning Knight Black Dragon Collapserpent Blue-Eyes Ultimate Dragon Blue-Eyes White Dragon Chaos Dragon Levianeer Chaos Valkyria Coach King Giantrainer Comics Hero King Arthur The Creator Curtain of the Dark Ones Dark End Dragon Dark Magician Dark Magician Girl Dark Magician of Chaos Darkflare Dragon Demise, Agent of Armageddon Demise, King of Armageddon Demise, Supreme King of Armageddon Dragon Master Knight Dunames Dark Witch Dwarf Star Dragon Planeter Eclipse Wyvern Elemental HERO Neos Envoy of Chaos Evening Twilight Knight Fairy Cheer Girl Gaia, the Mid-Knight Sun Gaia, the Polar Knight Galaxy-Eyes Photon Dragon Levia-Dragon - Daedalus Light End Dragon Light and Darkness Dragon Lightpulsar Dragon Lightray Sorcerer Magician of Dark Illusion Mechquipped Angineer Mirage Dragon Mystical Elf N.As.H. Knight Neo-Spacian Dark Panther Neo-Spacian Glow Moss Norito the Moral Leader Number 6: Chronomaly Atlandis Number 9: Dyson Sphere Number 32: Shark Drake Number 39: Utopia Number 43: Manipulator of Souls Number 62: Galaxy-Eyes Prime Photon Dragon Number 65: Djinn Buster ... further results 
+ Beginning of Heaven and Earth Chaos Scepter Blast Chaos Seed Dedication through Light and Darkness Dragon's Rebirth End of the World Exchange of Night and Day Marshalling Field Primal Seed Rank-Up-Magic - The Seventh One Super Soldier Ritual Super Soldier Synthesis 
+ 
+   
+" Dark Magician " 「ブラック・マジシャン」 Members 
+ Dark Magician Dark Magician Dark Magician Girl Dark Magician Girl the Dragon Knight Dark Magician Knight Dark Magician the Dragon Knight Dark Magician the Magical Knight of Dragons The Dark Magicians Toon Dark Magician Toon Dark Magician Girl 
+ Support 
+ The Eye of Timaeus 
+ Related 
+ Amulet Dragon Apprentice Illusion Magician Buster Blader Chronicle Magician Chronicle Sorceress Dark Cavalry Dark Eradicator Warlock Dark Flare Knight Dark Magician of Chaos Dark Paladin Dark Sage Ebon High Magician Ebon Illusion Magician Flame Swordsman Gaia The Fierce Knight Illusion of Chaos Legendary Magician of Dark Magi Magi ☆ Magician Gal Magician of Black Chaos Magician of Black Chaos MAX Magician of Chaos Magician of Dark Illusion Magician's Robe Magician's Rod Magician's Valkyria Magicians' Souls Magikuriboh Master of Chaos Mirage Knight Palladium Oracle Mahad Red-Eyes Black Dragon Red-Eyes Dark Dragoon Skilled Dark Magician Sorcerer of Dark Magic Timaeus the United Dragon Time Wizard 
+ Black Illusion Black Magic Ritual Bond Between Teacher and Student Chaos Form Dark Burning Magic Dark Magic Attack Dark Magic Curtain Dark Magic Expanded Dark Magic Inheritance Dark Magic Twin Burst Dark Magic Veil Dark Magical Circle Dark Renewal Dedication through Light and Darkness Destined Rivals Eternal Soul Fusion Weapon Illusion Magic Knight's Title Magic Formula Magical Dimension Magician Navigation Magician's Salvation Magicians' Combination Miracle Restoring Mystic Box Sage's Stone Secrets of Dark Magic Soul Servant Strength in Unity Thousand Knives Toon World 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/5/5e/MagicianofChaos-LDS3-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20220729181716', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

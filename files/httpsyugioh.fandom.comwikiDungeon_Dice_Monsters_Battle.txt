@@ -1,0 +1,79 @@
+Link: https://yugioh.fandom.com/wiki/Dungeon_Dice_Monsters:_Battle
+
+Contents 
+ 
+ 1   Attack and Defense 
+ 
+ 1.1   Normal Attack: 
+ 1.2   Normal Defense: 
+ 
+ 
+ 2   Damage Calculation 
+ 
+ 2.1   When the attack is defended 
+ 2.2   When the attack wasn't defended 
+ 
+ 
+ 
+ 
+ Attack and Defense 
+ During his/her turn, a player may  declare  Attacks against the opponent's monster with each of his/her monsters. The opponent may declare a Defense in response.  These  Normal Attacks  and  Normal Defenses , which were not activated through  Special Abilities , must follow these rules:
+ 
+ Normal Attack: 
+ Each of your monsters in the Dungeon are able to attack once per turn. To declare an attack, you must spend 1  Attack Crest  from your  Crest Pool . The attack target must be in front, behind, left or right of your attacking monster.
+ 
+ Normal Defense: 
+ To declare a Defense, you must spend 1  Defense Crest  from your  Crest Counter . There is no limit to the number of times that a monster can defend in the same turn. However, a Defense Crest must be spent  each time  the monster defends.
+ 
+ Note: You  can't  pay multiple Attack/Defense Crest to increase the ATK/DEF of your monsters, unless a special ability allows for such. 
+ Damage Calculation 
+ The Battle Damage resulting from a Monster Battle is calculated in two different manners, depending on whether the attack was defended or not:
+ 
+ When the attack is defended 
+ If the ATK of your attacking monster is higher than the DEF of the defending monster, the defending monster takes damage to its  HP  equal to the difference. 
+ If the ATK of your attacking monster is less than or equal to the DEF of the defending monster, neither monster takes any damage (weaker attackers only receive damage due to defense in the Gameboy Advance version of the game). 
+ When the attack wasn't defended 
+ The attacked monster takes damage to its  HP  by an amount equal to the attacking Monster's  ATK .
+ 
+ v e 
+ Dungeon Dice Monsters Pieces 
+ Dice and Cards 
+ Monsters and Items 
+ Lists
+ Manga 
+ Anime 
+ Video game 
+ Terminology 
+ Battle 
+ Dimension 
+ Dungeon 
+ Dungeon Path 
+ Dungeon Master Zone 
+ HP 
+ Crest Counter 
+ Crest Pool 
+ Damage Counter 
+ Life Points 
+ Monster Lord 
+ Movement 
+ Flying 
+ Tunnel 
+ Shelled Ground 
+ Crests 
+ Attack 
+ Defense 
+ Magic 
+ Progress 
+ Summon 
+ Trap 
+ 
+ Category 
+ {{ DDM card }} 
+ {{ Manga DDM card }} 
+ {{ Anime DDM card }} 
+ {{ VG DDM card }} 
+ 
+ 
+ 
+ 
+Categories: DDM Gameplay

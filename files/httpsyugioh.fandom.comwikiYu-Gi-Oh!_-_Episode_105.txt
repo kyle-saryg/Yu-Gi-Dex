@@ -1,0 +1,178 @@
+Link: https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_-_Episode_105
+
+
+ 
+ Yu-Gi-Oh! - Episode 105 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Kanji 
+ 勝利への賭け 
+ 
+ 
+ Rōmaji 
+ Shōri e no Kake 
+ 
+ 
+ Japanese translation 
+ Gamble to Victory 
+ 
+ 
+ English 
+ Courtroom Chaos, Part 2 
+ 
+ 
+ Number 
+ 105 
+ 
+ 
+ Air date ( ja ) 
+ May 7, 2002 
+ 
+ 
+ Air date ( en ) 
+ November 29, 2003 
+ 
+ 
+ 
+ Music 
+ 
+ Opening ( ja ) 
+ " WILD DRIVE " 
+ 
+ 
+ Ending ( ja ) 
+ " Paradise  楽園" 
+ 
+ 
+ 
+ Chronology 
+ 
+ Listing 
+ Yu-Gi-Oh!  episode listing  (season 3) 
+ 
+ 
+ 
+ Previous 
+ Next 
+ 
+ 
+ " Courtroom Chaos, Part 1 " 
+ " Mechanical Mayhem, Part 1 " 
+ 
+ 
+ 
+ 
+ " Courtroom Chaos, Part 2 ", known as " Gamble to Victory " in the Japanese version, is the one hundred and fifth episode of the  Yu-Gi-Oh!  second series anime . It first aired in Japan on May 7, 2002 and in the United States on November 29, 2003.
+ 
+ Contents 
+ 
+ 1   Summary 
+ 2   Featured Duel: Joey Wheeler vs. Johnson 
+ 3   Differences in adaptations 
+ 4   Featured cards 
+ 5   Notes 
+ 
+ 
+ Summary 
+ In his Duel,  Joey  plays luck-based cards.  Johnson  cheats by manipulating the die rolls and coin flips. 
+ After a while,  Noah  appears and tries to stop the Duel because of Johnson's cheating, but Joey convinces him to let the Duel continue as long as Johnson plays fairly. 
+ Kaiba  and  Mokuba , who have been transported to a beach, watch the confrontation on a television set lying in the sand. They hear Noah talk about proving himself to  Gozaburo , which confuses them, since they never met Noah while living with him. 
+ Joey's final "gamble" comes from the effect of " Arduous Decision ." Johnson has to pick one of Joey's cards, one resulting in his victory and the other in his defeat. When Johnson confidently chooses one, Joey's reactions trick him into second-guessing himself and picking the wrong card. Joey wins the Duel and is reunited with Yugi and Téa. 
+ 
+ 
+ Featured Duel: Joey Wheeler vs. Johnson 
+ Duel continues from  the previous episode . 
+ Joey has 1200  Life Points  remaining and controls one set card (" Bottomless Trap Hole ").
+ Johnson has 1000 Life Points remaining and controls "Kamionwizard" (1300/1100) in Attack Position and "Sinister Justice".
+ Turn 8: Joey 
+ Joey   draws  " Skull Dice ", while his  hand  contains " Panther Warrior ", " Swordsman of Landstar ", " Gamble " and " Scapegoat ". Joey  Normal Summons  "Panther Warrior" (2000/1600) in  Attack Position  and  Sets  a card.
+ Turn 9: Johnson 
+ Johnson  draws "Reinforcement of the Army", while his hand contains " Quick Attack ", " De-Fusion " and " Painful Choice ". He  activates  his face-down " Leading Question ", which will increase the  ATK  of  attacking   Level  4 or lower  Fusion Monsters  by 800 during the  Damage Step  only. " Kamionwizard " attacks "Panther Warrior". The effect of "Leading Question" activates ("Kamionwizard": 1300 → 2100/1100). Joey activates his  face-down  "Skull Dice" to roll a die and divide the ATK of "Kamionwizard" by the die result. Joey gets a six, but Johnson cheats and changes it to a one. "Kamionwizard" then  destroys  "Panther Warrior" (Joey 1200 → 1100). The effect of " Sinister Justice " activates (Johnson 1000 → 1800). At the end of the Damage Step, the effect of "Leading Question" expires ("Kamionwizard": 2100 → 1300/1100).
+ Turn 10: Joey 
+Joey draws " Graceful Dice ". He Normal Summons "Swordsman of Landstar" (500/1200) in Attack Position. He then activates "Graceful Dice" to roll a die and multiply the ATK of "Swordsman of Landstar by the die result. Joey gets a six, but once again, Johnson cheats and changes the result to a one. Johnson activates the  Deck Master ability  of " Judge Man " to  pay  1000 Life Points (Johnson 1800 → 800) and destroy all monsters Joey controls as well as inflict 500 damage to Joey for each destroyed monster (Joey 1100 → 600). Joey Sets two cards.
+ Turn 11: Johnson 
+Johnson draws " Pot of Greed " and subsequently activates it to  draw  two cards. As Johnson has at least six cards in his hand, while Joey has two or fewer, Joey activates his face-down "Gamble" to let himself flip a coin. If he calls it right, he can draw until he has five cards in his hand, but if he calls it wrong his next turn will be skipped. Joey calls heads. He is correct, but Johnson cheats and changes the result to tails. 
+ Joey activates his face-down "Scapegoat" to  Special Summon  four " Sheep Tokens " (0/0 each) in  Defense Position . Johnson activates " Reinforcement of the Army " to add " Armaill " from his Deck to his hand. He then activates " Polymerization " to  fuse  "Armaill" with " One-Eyed Shield Dragon " in order to  Fusion Summon  " Dragoness the Wicked Knight " (1200/900) in Attack Position. 
+ "Kamionwizard" attacks a Sheep Token. The effect of "Leading Question" activates ("Kamionwizard": 1300 → 2100/1100) and "Kamionwizard" destroys the "Sheep Token". "Dragoness the Wicked Knight" then attacks another "Sheep Token". The effect of "Leading Question" activates ("Dragoness": 1200 → 2000/900) and "Dragoness" destroys the "Sheep Token". At the end of the Damage Step, the effect of "Leading Question" expires ("Kamionwizard": 2100 → 1300/1100; "Dragoness": 2000 → 1200/900).
+ Turn 12: Johnson 
+"Kamionwizard" attacks a Sheep Token. The effect of "Leading Question" activates ("Kamionwizard": 1300 → 2100/1100) and "Kamionwizard" destroys the "Sheep Token". "Dragoness the Wicked Knight" then attacks another "Sheep Token". The effect of "Leading Question" activates ("Dragoness": 1200 → 2000/900) and "Dragoness" destroys the "Sheep Token". At the end of the Damage Step, the effect of "Leading Question" expires ("Kamionwizard": 2100 → 1300/1100; "Dragoness": 2000 → 1200/900).
+ At this point,  Noah  arrives to stop the  Duel  because Johnson has been cheating, but Joey convinces Noah to let the Duel continue as long as Johnson promises to stop cheating.
+ Turn 13: Joey 
+Joey draws "Pot of Greed" and subsequently activates it to draw two cards ("Burning Soul Sword" and "Arduous Decision"). Joey then moves his  Deck Master , " Flame Swordsman ", (1000/1600) to the  field  in Attack Position. Joey then activates " Burning Soul Sword " and equips it to "Flame Swordsman". Now, Joey can  Tribute  a monster and increase the ATK of the monster equipped with "Burning Soul Sword" by the ATK of the Tributed monster until the  End Phase . 
+ Joey activates " Arduous Decision " to draw two cards and have Johnson pick one of them at random. If Johnson picks a monster, it will be Special Summoned, but if he picks a  Magic  or  Trap Card , both cards will be  sent  to the  Graveyard . Joey draws " Shield & Sword " and " Goblin Attack Force ". Johnson selects "Shield & Sword", but changes his mind and selects "Goblin Attack Force", so Joey Special Summons the latter monster (2300/0) in Attack Position. Joey activates the effect of "Burning Soul Sword" by Tributing "Goblin Attack Force" ("Flame Swordsman": 1000 → 3300/1600). "Flame Swordsman" attacks and destroys "Dragoness" (Johnson 800 → 0).
+ 
+ Differences in adaptations 
+ Cut from the dub is  Joey  musing that he cannot play his  Set  " Bottomless Trap Hole " as  Johnson 's  monsters  have too few  ATK . It is replaced by a panning shot of the helmet of " Dragoness the Wicked Knight " from later in the episode. 
+ In the dub, the violence against the " Sheep Tokens " is obscured. 
+ In the Japanese version, a close-up of Yugi wondering why Noah would care that Johnson is cheating as they're on the same side is partially removed. Due to sloppy editing, a frame of this scene can be spotted as the scene changes from Yugi to Judge Man/Johnson. 
+ In the Japanese version, Joey informs Johnson that the two cards he drew are "Goblin Attack Force" and "Shield and Sword". Johnson doesn't believe Joey would tell him which cards he drew, but when he recognizes Joey is telling the truth, he realizes that if he picks "Goblin Attack Force", "Flame Swordsman" will be powered up enough to win the duel by attacking "Dragoness the Wicked Knight", and he grows nervous about making his choice. 
+ Featured cards 
+ The following cards appeared in this episode. Cards in italics debuted here.
+ 
+ 
+ Joey Wheeler Monsters   
+ Normal Monsters 
+ Flame Swordsman [Notes 1] 
+ Swordsman of Landstar 
+ Effect Monsters 
+ Goblin Attack Force 
+ Panther Warrior Magic   &  Traps   
+ Magic 
+ Arduous Decision 
+ Burning Soul Sword 
+ Graceful Dice 
+ Pot of Greed 
+ Scapegoat 
+ Shield & Sword 
+ Skull Dice [Notes 2] 
+ Traps 
+ Bottomless Trap Hole 
+ Gamble 
+ 
+ Johnson Monsters   
+ Normal Monsters 
+ Armaill 
+ Judge Man 
+ One-Eyed Shield Dragon Fusion Deck   
+ Fusion Monsters 
+ Dragoness the Wicked Knight 
+ Kamionwizard Magic   &  Traps   
+ Magic 
+ De-Fusion 
+ Leading Question 
+ Painful Choice 
+ Polymerization  ( Alternate version  in the dub ) 
+ Pot of Greed 
+ Quick Attack 
+ Reinforcement of the Army 
+ Sinister Justice 
+ Notes 
+ 
+ ↑   This was played as a  Normal Monster . It is a  Fusion Monster  in the  TCG / OCG . 
+ 
+ ↑   This card was played as a  Magic Card . It was depicted as a  Trap Card  in the English version. It is a Trap Card in the  TCG / OCG . 
+ 
+ 
+ v e 
+ Yu-Gi-Oh!   season 3 episodes 
+ #098 " A Virtual Nightmare " #099 " Isolated in Cyber Space, Part 1 " #100 " Isolated in Cyber Space, Part 2 " #101 " Isolated In Cyber Space, Part 3 " #102 " Freeze Play, Part 1 " #103 " Freeze Play, Part 2 " #104 " Courtroom Chaos, Part 1 " #105 " Courtroom Chaos, Part 2 " #106 " Mechanical Mayhem, Part 1 " #107 " Mechanical Mayhem, Part 2 " #108 " Settling the Score, Part 1 " #109 " Settling the Score, Part 2 " #110 " Noah's Secret " #111 " Merger of the Big Five, Part 1 " #112 " Merger of the Big Five, Part 2 " #113 " Merger of The Big Five, Part 3 " #114 " Brothers in Arms, Part 1 " #115 " Brothers in Arms, Part 2 " #116 " Brothers in Arms, Part 3 " #117 " Noah's Final Threat, Part 1 " #118 " Noah's Final Threat, Part 2 " #119 " So Close Yet So Far " #120 " Burying The Past - Part 1 " #121 " Burying the Past - Part 2 " #122 " Back to Battle City - Part 1 " #123 " Back to Battle City - Part 2 " #124 " Back to Battle City - Part 3 " #125 " The Darkness Returns - Part 1 " #126 " The Darkness Returns - Part 2 " #127 " The Darkness Returns - Part 3 " #128 " The Darkness Returns - Part 4 " #129 " Clash in the Coliseum - Part 1 " #130 " Clash in the Coliseum - Part 2 " #131 " Clash in the Coliseum - Part 3 " #132 " Clash in the Coliseum - Part 4 " #133 " Clash in the Coliseum - Part 5 " #134 " Clash in the Coliseum - Part 6 " #135 " Battle for the Bronze - Part 1 " #136 " Battle for the Bronze - Part 2 " #137 " Battle for the Bronze - Part 3 " #138 " The Final Face Off - Part 1 " #139 " The Final Face Off - Part 2 " #140 " The Final Face Off - Part 3 " #141 " The Final Face Off - Part 4 " #142 " The Final Face Off - Part 5 " #143 " One for the Road " #144 " Looking Back and Moving Ahead " 
+ 
+ 
+ 
+ << S1 
+ << S2 
+ 
+ 
+ S4 >> 
+ S5 >> 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/5/58/Yugioh105.png/revision/latest/scale-to-width-down/350?cb=20140404141208']
+Categories: Yu-Gi-Oh! episodes

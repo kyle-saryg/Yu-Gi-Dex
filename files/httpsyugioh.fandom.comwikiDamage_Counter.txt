@@ -1,0 +1,47 @@
+Link: https://yugioh.fandom.com/wiki/Damage_Counter
+
+Damage Counters  are used in  Dungeon Dice Monsters  to keep track of the number of  Hit Points  each monster has left.  Each counter represents 10 HP (or 1 HP, in the case of the  Monster Lord ) and is added as each monster takes damage.  When there are as many or more damage counters on a monster than the monster has Hit Points, the monster is destroyed and removed from play by taking the figurine off of the board and placing it on its card, which is turned face down.
+ In the case of the  Monster Lord , which always takes 1 damage for every attack, the Damage Counter is counted as 1  Life Point  instead. If a  Monster Lord  has 3 or more damage counters on it after an attack, the player controlling that  Monster Lord  loses.
+ 
+ v e 
+ Dungeon Dice Monsters Pieces 
+ Dice and Cards 
+ Monsters and Items 
+ Lists
+ Manga 
+ Anime 
+ Video game 
+ Terminology 
+ Battle 
+ Dimension 
+ Dungeon 
+ Dungeon Path 
+ Dungeon Master Zone 
+ HP 
+ Crest Counter 
+ Crest Pool 
+ Damage Counter 
+ Life Points 
+ Monster Lord 
+ Movement 
+ Flying 
+ Tunnel 
+ Shelled Ground 
+ Crests 
+ Attack 
+ Defense 
+ Magic 
+ Progress 
+ Summon 
+ Trap 
+ 
+ Category 
+ {{ DDM card }} 
+ {{ Manga DDM card }} 
+ {{ Anime DDM card }} 
+ {{ VG DDM card }} 
+ 
+ 
+ 
+ 
+Categories: DDM Gameplay

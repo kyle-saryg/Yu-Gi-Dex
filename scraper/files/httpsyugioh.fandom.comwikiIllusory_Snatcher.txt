@@ -1,0 +1,441 @@
+Link: https://yugioh.fandom.com/wiki/Illusory_Snatcher
+
+
+ 
+ 
+ Illusory Snatcher イリュージョン・スナッチ 
+ 
+ English 
+Illusory Snatcher 
+ Chinese 
+ 幻想掠奪者 Check translation 
+ French 
+ Ravisseur Illusoire Check translation 
+ German 
+ Trügerischer Dieb Check translation 
+ Italian 
+ Rapitore Illusorio Check translation 
+ Korean 
+ 일루전 스내치 Check translation 
+ Portuguese 
+ Furtador Ilusório Check translation 
+ Spanish 
+ Carterista Ilusorio Check translation 
+ Japanese 
+ イリュージョン・スナッチ Check translation 
+ Japanese ( rōmaji ) 
+Iryūjon Sunacchi 
+ Japanese (translated) 
+Illusion Snatch 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Fiend  /  Effect 
+ Level 
+ 7   
+ ATK  /  DEF 
+ 2400  /  1000 
+ Passcode 
+ 35073065 
+ Card effect types 
+ 
+ 
+ Trigger Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+When you  Tribute Summon  a  monster : You can  Special Summon  this card from your  hand , and if you do, the  Type ,  Attribute , and  Level  of this card become the same as that  face-up  Tribute Summoned monster. 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Lorsque vous Invoquez par Sacrifice un monstre : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, le Type, Attribut et Niveau de cette carte deviennent les mêmes que ceux du monstre face recto Invoqué par Sacrifice. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Wenn du ein Monster als Tributbeschwörung beschwörst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, werden Typ, Eigenschaft und Stufe dieser Karte zu denselben wie die des offenen als Tributbeschwörung beschworenen Monsters. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Quando Evochi tramite Tributo un mostro: puoi Evocare Specialmente questa carta dalla tua mano e, se lo fai, il Tipo, Attributo e Livello di questa carta diventano gli stessi di quel mostro scoperto Evocato tramite Tributo. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Quando você Invocar um monstro por Invocação-Tributo: você pode Invocar este card por Invocação-Especial da sua mão e, se isso acontecer, o Tipo, Atributo e Nível deste card se tornam o mesmo que o desse monstro com a face para cima Invocado por Invocação-Triubto. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Cuando Invocas un monstruo por Sacrificio: puedes Invocar esta carta de Modo Especial desde tu mano y, si lo haces, el Tipo, Atributo y Nivel de esta carta se convierten en el mismo que el del monstruo boca arriba Invocado por Sacrificio. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ ①：自分がモンスターのアドバンス召喚に成功した時に発動できる。このカードを手札から特殊召喚する。この効果で特殊召喚したこのカードの種族・属性・レベルは、アドバンス召喚したそのモンスターと同じになる。 
+ 
+ 
+ 
+ 
+ 
+   Chinese 
+ 
+ 
+ 自己牲祭召唤怪兽成功时，手卡中的此卡可以特殊召唤上场。通过此效果特殊召唤的此卡的种族·属性·等级都变成[与牲祭召唤的怪兽]相同的状态。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 자신이 몬스터의 어드밴스 소환에 성공했을 때, 이 카드를 패에서 특수 소환할 수 있다. 이 효과로 특수 소환한 이 카드의 종족 / 속성 / 레벨은, 어드밴스 소환한 그 몬스터와 같아진다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2012-08-18  
+ REDU-EN037   
+ Return of the Duelist 
+ Super Rare 
+ 
+ 
+ 2016-01-28  
+ SR01-EN016   
+ Emperor of Darkness Structure Deck 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2012-08-23  
+ REDU-FR037   
+ Return of the Duelist 
+ Le Retour du Duelliste  
+ Super Rare 
+ 
+ 
+ 2016-01-28  
+ SR01-FR016   
+ Emperor of Darkness Structure Deck 
+ Empereur des Ombres Deck de Structure  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2012-08-23  
+ REDU-DE037   
+ Return of the Duelist 
+ Return of the Duelist  
+ Super Rare 
+ 
+ 
+ 2016-01-28  
+ SR01-DE016   
+ Emperor of Darkness Structure Deck 
+ Emperor of Darkness Structure Deck  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2012-08-23  
+ REDU-IT037   
+ Return of the Duelist 
+ Il Ritorno del Duellante  
+ Super Rare 
+ 
+ 
+ 2016-01-28  
+ SR01-IT016   
+ Emperor of Darkness Structure Deck 
+ Imperatore dell'Oscurità Structure Deck  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2016-01-29  
+ SR01-PT016   
+ Emperor of Darkness Structure Deck 
+ Imperador das Trevas Deck Estrutural  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2012-08-23  
+ REDU-SP037   
+ Return of the Duelist 
+ El Regreso del Duelista  
+ Super Rare 
+ 
+ 
+ 2016-01-28  
+ SR01-SP016   
+ Emperor of Darkness Structure Deck 
+ Emperador de la Oscuridad Baraja de Estructura  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2012-04-14  
+ REDU-JP037   
+ Return of the Duelist 
+ ＲＥＴＵＲＮ ＯＦ ＴＨＥ ＤＵＥＬＩＳＴ  
+ Rare 
+ 
+ 
+ 2015-09-19  
+ SR01-JP016   
+ Structure Deck R: Advent of the True Monarch 
+ ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ Ｒ －真帝王降臨－  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Traditional Chinese 
+ 
+ 
+ 
+ Chinese 
+ 
+ Release 
+ Number 
+ Set Chinese name 
+ Rarity 
+ 
+ 
+   
+ REDU-TC037   
+ Return of the Duelist 
+ 決闘者歸來  
+ Rare 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2012-06-25  
+ REDU-KR037   
+ Return of the Duelist 
+ 리턴 오브 더 듀얼리스트  
+ Rare 
+ 
+ 
+ 2016-04-05  
+ SR01-KR016   
+ Structure Deck R: Advent of the True Monarch 
+ STRUCTURE   DECK  R － 진제왕강림 －  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Related to  archetypes  and  series   
+ Monarch 
+ 
+ Actions  
+ Activates upon Tribute Summon 
+ 
+ Stat changes  
+ Changes own Attribute 
+ Changes own Type 
+ Changes own Level 
+ 
+ Summoning  categories  
+ Special Summons itself from your hand 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 10167 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+   
+" Monarch " 「 帝 」 Members 
+ Angmarl the Fiendish Monarch Caius the Mega Monarch Caius the Shadow Monarch Delg the Dark Monarch Edea the Heavenly Squire Ehther the Heavenly Monarch Eidos the Underworld Squire Erebus the Underworld Monarch Granmarg the Mega Monarch Granmarg the Rock Monarch Kuraz the Light Monarch Mobius the Frost Monarch Mobius the Mega Monarch Raiza the Mega Monarch Raiza the Storm Monarch Tenmataitei Thestalos the Firestorm Monarch Thestalos the Mega Monarch Zaborg the Mega Monarch Zaborg the Thunder Monarch 
+ Related 
+ Berlineth the Firestorm Vassal Emperor of Lightning Escher the Frost Vassal Garum the Storm Vassal Ice Knight Illusory Snatcher Landrobe the Rock Vassal Lucius the Shadow Vassal Majesty's Fiend Mithra the Thunder Vassal Psychic Emperor Samsara Kaiser Tlakalel, His Malevolent Majesty 
+ By Order of the Emperor Dark Advance Domain of the True Monarchs Escalation of the Monarchs The First Monarch Frost Blast of the Monarchs March of the Monarchs The Monarchs Awaken The Monarchs Erupt The Monarchs Stormforth Pantheism of the Monarchs The Prime Monarch Restoration of the Monarchs Return of the Monarchs Strike of the Monarchs Tenacity of the Monarchs 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/9/90/IllusorySnatcher-SR01-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20160131150213', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

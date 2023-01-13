@@ -1,0 +1,292 @@
+Link: https://yugioh.fandom.com/wiki/Frightfur_Sheep
+
+
+ 
+ 
+ Frightfur Sheep デストーイ・チェーン・シープ 
+ 
+ English 
+Frightfur Sheep 
+ French 
+ Mouton Frourreur Check translation 
+ German 
+ Schreckenspelz Schaf Check translation 
+ Italian 
+ Pecora Pellicciaspavento Check translation 
+ Korean 
+ 데스완구 체인 시프 Check translation 
+ Portuguese 
+ Ovelha Peladura Check translation 
+ Spanish 
+ Oveja Atemorizante Check translation 
+ Japanese 
+ デストーイ・チェーン・シープ Check translation 
+ Japanese ( rōmaji ) 
+Desutōi Chēn Shīpu 
+ Japanese (translated) 
+Death-Toy Chain Sheep 
+ Card type 
+ Monster   
+ Attribute 
+ DARK   
+ Types 
+ Fiend  /  Fusion  /  Effect 
+ Level 
+ 5   
+ ATK  /  DEF 
+ 2000  /  2000 
+ Passcode 
+ 57477163 
+ Fusion Material 
+" Edge Imp Chain " 
+ Materials 
+"Edge Imp Chain" + 1 "Fluffal" monster 
+ Card effect types 
+ 
+ 
+ Continuous 
+ Trigger 
+ Condition Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+" Edge Imp Chain " + 1 " Fluffal "  monster If this card  battles , your opponent cannot  activate  cards or  effects  until the end of the  Damage Step . If this card is  destroyed by battle  and  sent  to the  Graveyard , or if this card in your  possession  is  destroyed  by an opponent's card effect and sent to your Graveyard: You can  Special Summon  this card, and if you do, it gains 800  ATK . You can only use this effect of "Frightfur Sheep"  once per turn . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ "Chaîne du Lutin Tranchant" + 1 monstre "Peluchimal" Si cette carte combat, votre adversaire ne peut ni activer de cartes ni d'effets jusqu'à la fin de la Damage Step. Si cette carte est détruite au combat et envoyée au Cimetière, ou si cette carte en votre possession est détruite par un effet de carte de votre adversaire et envoyée à votre Cimetière : vous pouvez Invoquer Spécialement cette carte, et si vous le faites, elle gagne 800 ATK. Vous ne pouvez utiliser cet effet de "Mouton Frourreur" qu'une fois par tour. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ „Kettenkobold“ + 1 „Kuscheltier“-Monster Falls diese Karte kämpft, kann dein Gegner bis zum Ende des Damage Steps weder Karten noch Effekte aktivieren. Falls diese Karte durch Kampf zerstört und auf den Friedhof gelegt wird oder falls diese Karte, die dir gehört, durch einen Karteneffekt deines Gegners zerstört und auf deinen Friedhof gelegt wird: Du kannst diese Karte als Spezialbeschwörung beschwören und falls du dies tust, erhält sie 800 ATK. Du kannst diesen Effekt von „Schreckenspelz Schaf“ nur einmal pro Spielzug verwenden. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ "Imp Filo di Catena" + 1 mostro "Fluffal" Se questa carta combatte, il tuo avversario non può attivare carte o effetti fino alla fine del Damage Step. Se questa carta viene distrutta in battaglia e mandata al Cimitero, o se questa carta sotto il tuo comando viene distrutta dall'effetto di una carta dell'avversario e mandata al tuo Cimitero: puoi Evocare Specialmente questa carta e, se lo fai, essa guadagna 800 ATK. Puoi utilizzare questo effetto di "Pecora Pellicciaspavento" una sola volta per turno. 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ "Diabrete de Correntes Afiadas" + 1 monstro "Fofanimal" Se este card batalhar, seu oponente não pode ativar cards ou efeitos até o final da Etapa de Dano. Se este card for destruído em batalha e enviado para o Cemitério ou se este card em sua posse for destruído por um efeito de card do oponente e enviado para o seu Cemitério: você pode Invocar este card por Invocação-Especial e, se isso acontecer, ele ganha 800 de ATK. Você só pode usar este efeito de "Ovelha Peladura" uma vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ "Diablillo de las Cadenas" + 1 monstruo "Peluchanimal" Si esta carta batalla, tu adversario no puede activar cartas o efectos hasta el final del Damage Step. Si esta carta es destruida en batalla y mandada al Cementerio, o si esta carta en tu posesión es destruida por el efecto de una carta de tu adversario y mandada a tu Cementerio: puedes Invocar esta carta de Modo Especial y, si lo haces, ésta gana 800 ATK. Sólo puedes usar este efecto de "Oveja Atemorizante" una vez por turno. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 「エッジインプ・チェーン」＋「ファーニマル」モンスター 「デストーイ・チェーン・シープ」の②の効果は１ターンに１度しか使用できない。①：このカードが戦闘を行う場合、相手はダメージステップ終了時まで魔法・罠・モンスターの効果を発動できない。②：このカードが戦闘または相手の効果で破壊され墓地へ送られた場合に発動できる。このカードを墓地から特殊召喚する。この効果で特殊召喚したこのカードの攻撃力は８００アップする。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ "에지임프 체인" ＋ "퍼니멀" 몬스터 "데스완구 체인 시프"의 ②의 효과는 1턴에 1번밖에 사용할 수 없다. ①: 이 카드가 전투를 실행할 경우, 상대는 데미지 스텝 종료시까지 마법 / 함정 / 몬스터의 효과를 발동할 수 없다. ②: 이 카드가 전투 또는 상대의 효과로 파괴되어 묘지로 보내졌을 경우에 발동할 수 있다. 이 카드를 묘지에서 특수 소환한다. 이 효과로 특수 소환한 이 카드의 공격력은 800 올린다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English 
+ 
+ 
+ Release date Card code Set Rarity 2015-05-14 CROS-EN042 Crossed Souls Super Rare 2017-02-23 FUEN-EN023 Fusion Enforcers Super Rare 2017-03-09 SP17-EN038 Star Pack Battle Royal Common 2017-03-09 SP17-EN038 Star Pack Battle Royal Starfoil Rare 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Release date Card code Set French name Rarity 2015-05-14 CROS-FR042 Crossed Souls Les Âmes Croisées Super Rare 2017-02-23 FUEN-FR023 Fusion Enforcers Les Executeurs Fusion Super Rare 2017-03-09 SP17-FR038 Star Pack Battle Royal Pack Étoile Battle Royal Common 2017-03-09 SP17-FR038 Star Pack Battle Royal Pack Étoile Battle Royal Starfoil Rare 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Release date Card code Set German name Rarity 2015-05-14 CROS-DE042 Crossed Souls Crossed Souls Super Rare 2017-02-23 FUEN-DE023 Fusion Enforcers Fusion Enforcers Super Rare 2017-03-09 SP17-DE038 Star Pack Battle Royal Star Pack Battle Royal Common 2017-03-09 SP17-DE038 Star Pack Battle Royal Star Pack Battle Royal Starfoil Rare 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Release date Card code Set Italian name Rarity 2015-05-14 CROS-IT042 Crossed Souls Destini Incrociati Super Rare 2017-02-23 FUEN-IT023 Fusion Enforcers Esecutori Fusione Super Rare 2017-03-09 SP17-IT038 Star Pack Battle Royal Star Pack Battaglia Campale Common 2017-03-09 SP17-IT038 Star Pack Battle Royal Star Pack Battaglia Campale Starfoil Rare 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Release date Card code Set Portuguese name Rarity 2015-05-15 CROS-PT042 Crossed Souls Almas Cruzadas Super Rare 2017-02-23 FUEN-PT023 Fusion Enforcers Dominadores da Fusão Super Rare 2017-05-26 SP17-PT038 Star Pack Battle Royal Pacote Estelar - Batalha Real Common 2017-05-26 SP17-PT038 Star Pack Battle Royal Pacote Estelar - Batalha Real Starfoil Rare 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Release date Card code Set Spanish name Rarity 2015-05-14 CROS-SP042 Crossed Souls Almas Cruzadas Super Rare 2017-02-23 FUEN-SP023 Fusion Enforcers Ejecutores de la Fusión Super Rare 2017-03-09 SP17-SP038 Star Pack Battle Royal Sobre de Estrellas Batalla Campal Common 2017-03-09 SP17-SP038 Star Pack Battle Royal Sobre de Estrellas Batalla Campal Starfoil Rare 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ Release date Card code Set Japanese name Rarity 2015-02-14 CROS-JP042 Crossed Souls クロスオーバー・ソウルズ Common 2016-11-12 SPFE-JP023 Booster SP: Fusion Enforcers ブースターＳＰ －フュージョン・エンフォーサーズ－ Common 2016-11-12 SPFE-JP023 Booster SP: Fusion Enforcers ブースターＳＰ －フュージョン・エンフォーサーズ－ Normal Parallel Rare 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ Release date Card code Set Korean name Rarity 2015-05-18 CROS-KR042 Crossed Souls 크로스오버 소울즈 Common 2017-03-21 SPFE-KR023 Booster SP: Fusion Enforcers 부스터-SP 퓨전 엔포서즈 Common 2017-03-21 SPFE-KR023 Booster SP: Fusion Enforcers 부스터-SP 퓨전 엔포서즈 Normal Parallel Rare 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Archetypes  and  series   
+ Frightfur 
+ 
+ Supports   archetypes   
+ Fluffal 
+ 
+ Related to  archetypes  and  series   
+ Edge Imp 
+ 
+ Actions  
+ Activates from your Graveyard 
+ 
+ Stat changes  
+ This card gains ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Prevents activation of your opponent's Effect Monsters 
+ Prevents activation of your opponent's Spell Cards 
+ Prevents activation of your opponent's Trap Cards 
+ 
+ Summoning  categories  
+ 2 Fusion Materials 
+ Requires specific Effect Monsters as Fusion Materials 
+ Requires archetype specific Fusion Materials 
+ Special Summons itself from your Graveyard 
+ 
+ Miscellaneous  
+ Limited activations 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 11717 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ 
+ 
+   " Frightfur Sheep " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+   
+" Edge Imp " 「エッジインプ」 Members 
+ Edge Imp Chain Edge Imp Cotton Eater Edge Imp Frightfuloid Edge Imp Sabres Edge Imp Saw Edge Imp Scythe Edge Imp Tomahawk 
+ Support 
+ Dangerous Frightfur Nightmary Edge Imp Tomahawk Fluffal Angel Fluffal Octopus Fluffal Sheep Frightfur Cruel Whale Frightfur Daredevil Frightfur Kraken Frightfur Meister Frightfur Sabre-Tooth 
+ Designer Frightfur Frightfur Jar Frightfur Patchwork Frightfur Repair 
+ Related 
+ Fluffal Bear Fluffal Dog Fluffal Leo Fluffal Rabbit Frightfur Bear Frightfur Leo Frightfur Sheep Frightfur Tiger Frightfur Wolf 
+ 
+   
+" Fluffal " 「ファーニマル」 Members 
+ Fluffal Angel Fluffal Bear Fluffal Cat Fluffal Dog Fluffal Dolphin Fluffal Leo Fluffal Mouse Fluffal Octopus Fluffal Owl Fluffal Penguin Fluffal Rabbit Fluffal Sheep Fluffal Wings Patchwork Fluffal 
+ Fluffal Crane 
+ Support 
+ Dangerous Frightfur Nightmary Edge Imp Saw Fluffal Angel Fluffal Dog Fluffal Dolphin Fluffal Octopus Fluffal Penguin Fluffal Rabbit Fluffal Sheep Fluffal Wings Frightfur Cruel Whale Frightfur Daredevil Frightfur Kraken Frightfur Leo Frightfur Meister Frightfur Sabre-Tooth Frightfur Sheep Frightfur Tiger Frightfur Wolf 
+ Designer Frightfur Fluffal Crane Frightfur Reborn Frightfur Repair Suture Rebirth Toy Vendor 
+ Related 
+ Edge Imp Sabres Frightfur Bear 
+ Polymerization 
+ 
+   
+" Frightfur " 「デストーイ」 Members 
+ Dangerous Frightfur Nightmary Edge Imp Frightfuloid Frightfur Bear Frightfur Chimera Frightfur Cruel Whale Frightfur Daredevil Frightfur Kraken Frightfur Leo Frightfur Meister Frightfur Sabre-Tooth Frightfur Sheep Frightfur Tiger Frightfur Wolf 
+ Designer Frightfur Frightfur Factory Frightfur Fusion Frightfur Jar Frightfur March Frightfur Patchwork Frightfur Reborn Frightfur Repair Frightfur Sanctuary Toy Parade 
+ Support 
+ Dangerous Frightfur Nightmary Edge Imp Chain Edge Imp Cotton Eater Edge Imp Frightfuloid Edge Imp Scythe Fluffal Angel Fluffal Mouse Fluffal Octopus Fluffal Owl Fluffal Penguin Frightfur Chimera Frightfur Cruel Whale Frightfur Daredevil Frightfur Meister Frightfur Sabre-Tooth Frightfur Tiger Patchwork Fluffal 
+ Designer Frightfur Frightfur Factory Frightfur Fusion Frightfur March Frightfur Reborn Frightfur Repair Frightfur Sanctuary Fusion Fright Waltz Suture Rebirth 
+ Related 
+ Edge Imp Sabres Edge Imp Saw Fluffal Bear Fluffal Leo 
+ Polymerization 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/3/36/FrightfurSheep-SP17-EN-C-1E.png/revision/latest/scale-to-width-down/300?cb=20170310172112', 'https://static.wikia.nocookie.net/yugioh/images/d/de/DARK.svg/revision/latest/scale-to-width-down/28?cb=20120918053848', 'https://static.wikia.nocookie.net/yugioh/images/e/e3/CG_Star.svg/revision/latest/scale-to-width-down/18?cb=20120918052836', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Duel Monsters cards, TCG cards, OCG cards

@@ -1,0 +1,101 @@
+Link: https://yugioh.fandom.com/wiki/Spirit_Battle
+
+
+ Spirit Battle 
+ 
+ Japanese:   スピリット・バトル 
+ Romaji:   Supiritto Batoru 
+ 
+ 
+ 
+ 
+ en 
+ ja 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell 
+ 
+ Property 
+ 
+ 
+ Quick-Play 
+ 
+ 
+ 
+ Conduct  battle  between one  monster   destroyed  on this  turn  from each player's  Graveyard  with  battle damage   negated . Inflict  damage  equal to the  ATK  of the monster destroyed in this battle on the monster's  owner . 
+ 
+ Viz Media  lore<nomobile> ? :</nomobile> <mobile>(The English manga by Viz Media sometimes uses lores which are inconsistent with the Japanese lore or how the card worked.):</mobile>  Select  one  monster   destroyed  on this  turn  from each player's  Graveyard .  Negate   battle damage  and  battle  again. Inflict  damage  equal to the  ATK  of the monster destroyed in this battle on the monster's  owner .
+ 
+ 
+ Appearances
+ 
+ 
+ 
+ 
+   5D's :  038 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Manga cards (Galleries:  5D's ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ スピリット・バトル 
+ このターン破壊されお互いの墓地にいるモンスターを1体ずつ選び戦闘ダメージを無効にして戦闘を行う この戦闘で破壊されたモンスターの攻撃力分のダメージをモンスターの持ち主に与える 
+ 
+ 
+ Images 
+ Artwork 
+ Decks 
+ 
+ 
+ Yusei Fudo  
+ 
+ 
+ Search categories 
+ 
+ Summoning  categories  
+ Special Summons from your Graveyard 
+ Special Summons from your opponent's Graveyard 
+ 
+ Attack  categories  
+ Must attack 
+ Conducts damage calculation 
+ 
+ LP   
+ Prevents battle damage 
+ Damages you 
+ Damages your opponent 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/a/a9/SpiritBattle-EN-Manga-5D.png/revision/latest/scale-to-width-down/200?cb=20140923011606', 'https://static.wikia.nocookie.net/yugioh/images/9/9e/SpiritBattle-EN-Manga-5D-CA.png/revision/latest/scale-to-width-down/185?cb=20151218213725', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Manga cards, Manga cards with no OCG/TCG counterpart

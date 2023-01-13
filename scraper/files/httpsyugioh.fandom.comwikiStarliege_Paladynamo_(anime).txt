@@ -1,0 +1,110 @@
+Link: https://yugioh.fandom.com/wiki/Starliege_Paladynamo_(anime)
+
+Main card page: " Starliege Paladynamo " 
+ This card's written lore in the anime was not shown, was too small to read, or was partially or completely obstructed; the lore listed here is a reconstruction based on how it was used, character descriptions of the card, and/or its  OCG / TCG  lore. It may not be accurate or complete.     
+ Starliege Paladynamo 
+ 
+ Japanese:   輝光子パラディオス 
+ Romaji:   Kikōshi Paradiosu 
+ Translated:  Radiant Photon Paladius 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Attribute 
+ 
+ 
+   LIGHT 
+ 
+ Rank 
+ 
+ 
+ 4   
+ 
+ Xyz Material 
+ 
+ 
+ 
+ 2  Level  4  LIGHT   monsters 
+ 
+ [  Warrior  /  Xyz  /  Effect  ] 
+ 2  Level  4  LIGHT   monsters 
+ During your  Battle Phase : You can  detach  1  Xyz Material  from this card, then  target  1  Xyz Monster  your opponent  controls ; until the end of the Battle Phase, that target's  ATK  becomes 0, and if it does,  negate  the  effects  of all  face-up  cards on the field, except this card. When this card on the field is  destroyed  by your opponent's card (either  by battle  or by card effect):  Draw  1 card.
+ ATK  /  2000     DEF  /  1000   
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  ZEXAL :  073 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  ZEXAL ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Images 
+ Non-card 
+ Decks 
+ 
+ 
+ Kite Tenjo 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ LIGHT 
+ 
+ Anti-supports   
+ Xyz Monster 
+ 
+ Actions  
+ Activates from your Graveyard 
+ You draw cards 
+ 
+ Stat changes  
+ Reduces ATK to 0 
+ 
+ Monster / Spell / Trap  categories  
+ Negates the effects of Effect Monsters 
+ Negates the effects of Spell Cards 
+ Negates the effects of Trap Cards 
+ 
+ Summoning  categories  
+ 2 Xyz Materials 
+ Requires Attribute specific Xyz Materials 
+ 
+ 
+ 
+   " Starliege Paladynamo " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/c/c8/Ambox_notice.png/revision/latest?cb=20100710011553', 'https://static.wikia.nocookie.net/yugioh/images/b/ba/StarliegePaladynamo-JP-Anime-ZX.png/revision/latest/scale-to-width-down/200?cb=20120926192737', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D', 'https://static.wikia.nocookie.net/yugioh/images/e/ec/StarliegePaladynamo-JP-Anime-ZX-NC.png/revision/latest/scale-to-width-down/185?cb=20120926192813', 'data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw%3D%3D']
+Categories: Anime cards

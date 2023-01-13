@@ -1,0 +1,128 @@
+Link: https://yugioh.fandom.com/wiki/Zero_Extra_Link_(anime)
+
+Main card page: " Zero Extra Link " 
+ Zero Extra Link 
+ 
+ Japanese:   ゼロ・エクストラリンク 
+ Romaji:   Zero Ekusutorarinku 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Continuous 
+ 
+ Effect type
+ 
+ 
+ 
+ 
+ Condition 
+ Continuous-like 
+ Trigger-like 
+ Trigger-like 
+ Activate  this card by  targeting  1  Link Monster  you  control   co-linked  to a Link Monster in the  Extra Monster Zone . The targeted monster gains 800  ATK  for each  Extra Linked   monster . If a Link Monster is  Link Summoned  using the targeted monster as  material  while it was  Extra Linked : That Link Monster gains ATK equal to the ATK gained by the above  effect , until the end of this  turn . After  damage calculation , if the targeted monster  attacked :  Destroy  this card.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  046 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ ゼロ・エクストラリンク 
+ ＥＸモンスターゾーンのリンクモンスターの相互リンク先の自分のリンクモンスター１体を対象としてこのカードを発動できる。①：対象モンスターの攻撃力はＥＸリンク状態のモンスターの数×８００アップする。②：ＥＸリンク状態の対象のモンスターを素材としてリンクモンスターがリンク召喚された場合に発動する。そのリンクモンスターの攻撃力はターン終了時まで、このカードの①の効果でアップしていた数「？」分アップする。③：対象のモンスターが攻撃したダメージ計算後に発動する。このカードを破壊する。 
+ 
+ 
+ Zero Ekusutorarinku 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Link Monster 
+ 
+ Anti-supports   
+ Link Monster 
+ 
+ Archetypes  and  series   
+ Link  
+ 
+ Actions  
+ Activates upon Link Summon 
+ 
+ Stat changes  
+ Your monsters gain ATK 
+ 
+ Monster / Spell / Trap  categories  
+ Destroys itself 
+ 
+ Miscellaneous  
+ Requires control of specific Monster card type 
+ Co-link 
+ Extra Link 
+ 
+ 
+ 
+   " Zero Extra Link " pages 
+ 
+ 
+ Anime 
+ 
+ 
+ 
+ v e 
+ Link  リンク a   m   Members 
+ Castle Link Dimension Link Link Atrocity Link Back Link Bound Link Bumper Link Burst Link Cancel Link Coin Link Devotee Link Disciple Link Drive Link Fire's Return Link Infra-Flier Link Pressure Link Processing Failure Link Protection Link Ration Link Recovery Link Restart Link Restart Link Rush Link Satellite Link Short Link Spider Link Surge Counter Link Token Link Turret Linkbelt Wall Dragon Linkross Linkslayer Linkuriboh Packet Link Urgent Link Zero Extra Link 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/6/66/ZeroExtraLink-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20180404124302', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/18?cb=20120920115206']
+Categories: Anime cards

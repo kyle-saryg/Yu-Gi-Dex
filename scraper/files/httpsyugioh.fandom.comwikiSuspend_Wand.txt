@@ -1,0 +1,104 @@
+Link: https://yugioh.fandom.com/wiki/Suspend_Wand
+
+
+ Suspend Wand 
+ 
+ Japanese:   サスペンド・ワンド 
+ Romaji:   Sasupendo Wando 
+ 
+ 
+ 
+<nomobile></nomobile> 
+ 
+ 
+ 
+ Card type
+ 
+ 
+ Spell   
+ 
+ Property 
+ 
+ 
+   Equip 
+ 
+ Equip  only to a  Level  4 or higher  Cyberse   monster .  Once per turn , when the equipped monster  declares  an  attack : You can  activate  this  effect ; this  turn , the equipped monster cannot be  destroyed by battle , any  battle damage  you take from that battle is doubled, also the equipped monster can make a second attack during each  Battle Phase . If the equipped monster attacks an opponent's monster, during  damage calculation : You can  send  this card to the  GY ; the monster this card was equipped to gains  ATK  equal to the total battle damage you took this turn from battles involving the equipped monster, until the end of the opponent's turn.
+ 
+ Appearances
+ 
+ 
+ 
+ 
+ Yu-Gi-Oh!  VRAINS :  072 ,  073 
+ 
+ 
+ 
+ Links
+ 
+ 
+ yugioh.com 
+ 
+ 
+ 
+ 
+ 
+ Anime cards (Galleries:  VRAINS ) 
+ 
+ 
+ Gallery 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ 
+ Other languages 
+ 
+ 
+   
+ Name 
+ Lore 
+ 
+ 
+ Japanese 
+ サスペンド・ワンド 
+ レベル４以上のサイバース族モンスターにのみ装備可能。①：１ターンに１度、装備モンスターの攻撃宣言時に発動できる。このターン、装備モンスターは戦闘では破壊されず、その戦闘で発生する自分への戦闘ダメージは倍になる。また、装備モンスターはこのターン、１度のバトルフェイズ中に２回までモンスターに攻撃できる。②：装備モンスターが相手モンスターに攻撃するダメージ計算時に、このカードを墓地へ送って発動できる。このカードを装備していたモンスターの攻撃力は、相手ターン終了時まで、その装備モンスターの戦闘でこのターンに自分が受けた戦闘ダメージの数値分アップする。 
+ 
+ 
+ Sasupendo Wando 
+ 
+ 
+ Decks 
+ 
+ 
+ Yusaku Fujiki 
+ 
+ 
+ Search categories 
+ 
+ Supports   
+ Cyberse 
+ 
+ Actions  
+ Activates upon attack declaration 
+ Sends itself from field to Graveyard 
+ 
+ Monster / Spell / Trap  categories  
+ Equipped gains ATK 
+ 
+ Attack  categories  
+ Equipped cannot be destroyed by battle 
+ Allows multiple attacks 
+ 
+ LP   
+ Increases battle damage 
+ 
+ Miscellaneous  
+ Equips only to a specific target 
+ Limited activations 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/8/8e/SuspendWand-JP-Anime-VR.png/revision/latest/scale-to-width-down/200?cb=20181017160045', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/9/90/Equip.svg/revision/latest/scale-to-width-down/18?cb=20120920115844']
+Categories: Anime cards, Anime cards with no OCG/TCG counterpart

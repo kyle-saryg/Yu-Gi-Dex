@@ -1,0 +1,544 @@
+Link: https://yugioh.fandom.com/wiki/Non-Spellcasting_Area
+
+The  Croatian  and  Greek                       names given are not official.  
+ 
+ 
+ 
+ 
+ 
+ Non-Spellcasting Area 絶 対 魔 法 禁 止 区 域 
+ 
+ English 
+Non-Spellcasting Area 
+ French 
+ Zone de Neutralisation des Sorts Check translation 
+ German 
+ Zauberfreie Zone Check translation 
+ Italian 
+ Zona Anti-Magia Check translation 
+ Korean 
+ 절대 마법 금지구역 Check translation 
+ Portuguese 
+ Area de Não Lançamento de Magias Check translation 
+ Spanish 
+ Área Anti-Magia Check translation 
+ Japanese (kana) 
+ ぜったいまほうきんしくいき Check translation 
+ Japanese (base) 
+ 絶対魔法禁止区域 Check translation 
+ Japanese ( rōmaji ) 
+Zettai Mahō Kinshi Kuiki 
+ Japanese (translated) 
+Absolute Non-Spellcasting Area 
+ Card type 
+ Spell   
+ Property 
+ Continuous   
+ Passcode 
+ 20065549 
+ Card effect types 
+ 
+ 
+ Continuous-like Statuses Unlimited   
+ Card descriptions 
+ 
+ 
+ 
+   English 
+ 
+ 
+All  face-up   monsters , except for  Effect Monsters , are  unaffected  by other  Spell   effects . 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ Tous les monstres (Monstres à Effet exclus) face recto sur le Terrain ne sont pas affectés par d'autres effets de Magie. 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ Alle offenen Monster, außer Effektmonstern, bleiben von anderen Zaubereffekten unberührt. 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ Tutti i mostri  scoperti , eccetto per i Mostri con Effetto, sono immuni agli effetti delle altre  Magie . 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ Todos os  monstros  no  Campo  com a  face para cima , exceto os  Monstros de Efeito , não são afetados por qualquer  Card de Magia , excluindo este card. 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ Todos los monstruos boca arriba, excepto los Monstruos de Efecto, no son afectados por los efectos de otras Cartas Mágicas. 
+ 
+ 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ フィールド上に表側表示で存在する全ての効果モンスター以外のモンスターは魔法の効果を受けない。 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 필드 위에 앞면 표시로 존재하는 모든 효과 몬스터 이외의 몬스터는 이 카드 이외의 마법의 효과를 받지 않는다. 
+ 
+ 
+ 
+ TCG  sets 
+ 
+ 
+ 
+   English—Worldwide 
+ 
+ 
+ 
+ English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2005-03-19  
+ DR1-EN205   
+ Dark Revelation Volume 1 
+ Common 
+ 
+ 
+ 2007-12-12  
+ DCR-EN043   
+ Dark Crisis 
+ Common 
+ 
+ 
+ 2008-04-02  
+ GLD1-EN035   
+ Gold Series 
+ Common 
+ 
+ 
+ 2012-09-29  
+ LCYW-EN272   
+ Legendary Collection 3: Yugi's World Mega Pack 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   English—North America 
+ 
+ 
+ 
+ North American English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2003-12-01  
+ DCR-043   
+ Dark Crisis 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   French 
+ 
+ 
+ 
+ French 
+ 
+ Release 
+ Number 
+ Set French name 
+ Rarity 
+ 
+ 
+ 2005-03-19  
+ DR1-FR205   
+ Dark Revelation Volume 1 
+ Sombre Révélation 1  
+ Common 
+ 
+ 
+ 2007-12-10  
+ DCR-FR043   
+ Dark Crisis 
+ La Crise des Ténèbres  
+ Common 
+ 
+ 
+ 2008-04-09  
+ GLD1-FR035   
+ Gold Series 
+ Collection Gold  
+ Common 
+ 
+ 
+ 2012-09-27  
+ LCYW-FR272   
+ Legendary Collection 3: Yugi's World Mega Pack 
+ Collection Légendaire 3: Le Monde de Yugi Méga Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   German 
+ 
+ 
+ 
+ German 
+ 
+ Release 
+ Number 
+ Set German name 
+ Rarity 
+ 
+ 
+ 2005-06-01  
+ DR1-DE205   
+ Dark Revelation Volume 1 
+ Dark Revelations Volume 1  
+ Common 
+ 
+ 
+ 2007-12-10  
+ DCR-DE043   
+ Dark Crisis 
+ Dark Crisis  
+ Common 
+ 
+ 
+ 2008-04-09  
+ GLD1-DE035   
+ Gold Series 
+ Gold Series  
+ Common 
+ 
+ 
+ 2012-09-27  
+ LCYW-DE272   
+ Legendary Collection 3: Yugi's World Mega Pack 
+ Legendary Collection 3: Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Italian 
+ 
+ 
+ 
+ Italian 
+ 
+ Release 
+ Number 
+ Set Italian name 
+ Rarity 
+ 
+ 
+ 2005-03-19  
+ DR1-IT205   
+ Dark Revelation Volume 1 
+ Rivelazione Oscura Vol.1  
+ Common 
+ 
+ 
+ 2007-12-10  
+ DCR-IT043   
+ Dark Crisis 
+ Crisi Oscura  
+ Common 
+ 
+ 
+ 2008-04-09  
+ GLD1-IT035   
+ Gold Series 
+ Serie Oro  
+ Common 
+ 
+ 
+ 2012-09-27  
+ LCYW-IT272   
+ Legendary Collection 3: Yugi's World Mega Pack 
+ Collezione Leggendaria 3 Mega-Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Portuguese 
+ 
+ 
+ 
+ Portuguese 
+ 
+ Release 
+ Number 
+ Set Portuguese name 
+ Rarity 
+ 
+ 
+ 2005-03-01  
+ DR1-PT205   
+ Dark Revelation Volume 1 
+ Revelação Negra Volume 1  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Spanish 
+ 
+ 
+ 
+ Spanish 
+ 
+ Release 
+ Number 
+ Set Spanish name 
+ Rarity 
+ 
+ 
+ 2005-03-19  
+ DR1-SP205   
+ Dark Revelation Volume 1 
+ Revelación Oscura Volumen 1  
+ Common 
+ 
+ 
+ 2008-04-09  
+ GLD1-SP035   
+ Gold Series 
+ Serie Dorada  
+ Common 
+ 
+ 
+ 2012-09-27  
+ LCYW-SP272   
+ Legendary Collection 3: Yugi's World Mega Pack 
+ Colección Legendaria 3: El Mundo de Yugi Mega Pack  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ OCG  sets 
+ 
+ 
+ 
+   Japanese 
+ 
+ 
+ 
+ Japanese 
+ 
+ Release 
+ Number 
+ Set Japanese name 
+ Rarity 
+ 
+ 
+ 2002-11-21  
+ 304-043   
+ Power of the Guardian 
+ ガーディアンの力  
+ Common 
+ 
+ 
+ 2004-03-25  
+ SDM-051   
+ Structure Deck: Marik Edition 
+ ＳＴＲＵＣＴＵＲＥ ＤＥＣＫ － マリク編 －  
+ Common 
+ 
+ 
+ 2004-09-23  
+ EE1-JP205   
+ Expert Edition Volume 1 
+ ＥＸＰＥＲＴ　ＥＤＩＴＩＯＮ　Ｖｏｌｕｍｅ．１  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Asian-English 
+ 
+ 
+ 
+ Asian-English 
+ 
+ Release 
+ Number 
+ Set 
+ Rarity 
+ 
+ 
+ 2004-05-12  
+ DCR-043   
+ Dark Crisis 
+ Common 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   Korean 
+ 
+ 
+ 
+ Korean 
+ 
+ Release 
+ Number 
+ Set Korean name 
+ Rarity 
+ 
+ 
+ 2005-05-02  
+ DCR-KR043   
+ Dark Crisis 
+ 암흑의 위협  
+ Common 
+ 
+ 
+ 2006-07-06  
+ HGP1-KR205   
+ Expert Edition Volume 1 
+ 하이 그레이드 팩 Ｖｏｌ．１  
+ Common 
+ 
+ 
+ 
+ 
+ 
+ Video game sets 
+ 
+ 
+ 
+   Nightmare Troubadour 
+ 
+ 
+ Wonderous Sorcery 
+ 
+ 
+ 
+ 
+ 
+   Ultimate Masters: World Championship Tournament 2006 
+ 
+ 
+ Dark Crisis 
+ Continuous Spell/Trap B 
+ All Spells  ( Common )
+ 
+ All at Random  ( Common ) 
+ 
+ 
+ 
+ 
+ 
+   GX Tag Force 
+ 
+ 
+ More Eternal Memories  ( Rare ) 
+ 
+ 
+ 
+ Card search categories 
+ 
+ 
+ Supports   
+ Non-Effect Monster 
+ 
+ Anti-supports   
+ Effect Monster 
+ 
+ Monster / Spell / Trap  categories  
+ Unaffected by Spell Cards 
+ 
+ Miscellaneous  
+ Female 
+ 
+ 
+ Other card information 
+ Gallery 
+ Rulings 
+ Errata 
+ Tips 
+ Appearances 
+ Trivia 
+ Lores 
+ Artworks 
+ Names 
+ External links 
+ 
+  Yugioh-Card card database: 5735 ( ja  ( rulings )   en   fr   de   it   pt   es   ko ) YuGiOh Prices 
+ 
+ 
+ Video game Date # Name Cost Alignment ATK DEF Status Nightmare Troubadour 2005-07-21 – ??? – – – Unlimited Ultimate Masters: World Championship Tournament 2006 2006-02-23 – ??? – – – Unlimited GX Tag Force 2006-09-14 – ??? – – – Unlimited 
+ 
+ 
+ 
+ 
+Images: ['https://static.wikia.nocookie.net/yugioh/images/f/f6/NonSpellcastingArea-LCYW-EN-C-1E.jpg/revision/latest/scale-to-width-down/300?cb=20121011221343', 'https://static.wikia.nocookie.net/yugioh/images/0/09/SPELL.svg/revision/latest/scale-to-width-down/28?cb=20120918121429', 'https://static.wikia.nocookie.net/yugioh/images/7/7c/Continuous.svg/revision/latest/scale-to-width-down/28?cb=20120920115206']
+Categories: Duel Monsters cards, TCG cards, OCG cards
